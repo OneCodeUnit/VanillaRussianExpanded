@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEV_DrunkChitchat.label>пьяная болтовня</VFEV_DrunkChitchat.label>
+
+  <VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] с [RECIPIENT_nameDef] [TalkTopicLight].</li>
+    <li>talkedabout_plural(p=4)->увлечённо болтают</li>
+    <li>talkedabout_plural->беседуют по душам</li>
+    <li>talkedabout_plural->с интересом говорят</li>
+    <li>talkedabout_plural->весело треплются</li>
+    <li>talkedabout_plural->задорно шутят</li>
+    <li>talkedabout_plural->перекидываются парой слов</li>
+    <li>talkedabout(p=4)->оживлённо болтает</li>
+    <li>talkedabout->беседует по душам</li>
+    <li>talkedabout->с энтузиазмом разговаривает</li>
+    <li>talkedabout->оживлённо треплется</li>
+    <li>talkedabout->глупо шутит</li>
+    <li>talkedabout->игриво обменивается парой слов</li>
+  </VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
+
+	<VFEV_VeryDrunkChitchat.label>очень пьяная болтовня</VFEV_VeryDrunkChitchat.label>
+
+  <VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] с [RECIPIENT_nameDef] [TalkTopicLight].</li>
+    <li>talkedabout_plural(p=4)->болтают, испытывая трудности,</li>
+    <li>talkedabout_plural->беседуют за жизнь</li>
+    <li>talkedabout_plural->с трудом говорят</li>
+    <li>talkedabout_plural->несвязно треплются</li>
+    <li>talkedabout_plural->нелепо шутят</li>
+    <li>talkedabout_plural->обмениваются парой бессмысленных слов</li>
+    <li>talkedabout(p=4)->болтает, кое-как ворочая языком,</li>
+    <li>talkedabout->считает, что беседует</li>
+    <li>talkedabout->говорит, испытывая трудности,</li>
+    <li>talkedabout->самозабвенно треплется</li>
+    <li>talkedabout->рассказывает шутку заплетающимся языком</li>
+    <li>talkedabout->с трудом обменивается парой слов</li>
+  </VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings>
+</LanguageData>

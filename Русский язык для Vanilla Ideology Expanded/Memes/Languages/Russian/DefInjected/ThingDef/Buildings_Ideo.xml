@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wicker man -->
+  <VME_WickerMan.label>плетёный человек</VME_WickerMan.label>
+  <!-- EN: A large humanoid figure made out of dry brush, thatch, and wood scraps. Prisoners have to be physically restrained to the figurine then burned alive as part of a trial or ritual. -->
+  <VME_WickerMan.description>Большая человекоподобная фигура, сделанная из сухих веток, соломы и опилок. Заключенного помещают внутрь фигуры, а затем сжигают заживо для исполнения приговора суда или проведения ритуала.</VME_WickerMan.description>
+
+  <!-- EN: bonfire bonfire-->
+  <VME_Bonfire.label>ритуальный костёр</VME_Bonfire.label>
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. -->
+  <VME_Bonfire.description>Необычайно большой ярко пылающий костёр из тщательно сложенной кучи брёвен на каменном основании. Активно используется для проведения огненных ритуалов и может быть размещен только на улице.</VME_Bonfire.description>
+
+  <!-- EN: bonfire -->
+  <VME_BonfireAfterRitual.label>ритуальный костёр (после ритуала)</VME_BonfireAfterRitual.label>
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. Will last for at least two quadrums and provide beauty nearby, as well as count for the Fire: Desired precept. -->
+  <VME_BonfireAfterRitual.description>Необычайно большой ярко пылающий костёр из тщательно сложенной кучи брёвен на каменном основании. Активно используется для проведения огненных ритуалов и может быть размещен только на улице. Будет гореть, как минимум, пару кварталов и обеспечит красоту вокруг себя. Также считается источником огня для принципа «Огонь: желаем».</VME_BonfireAfterRitual.description>
+
+  <!-- EN: mechanoid effigy -->
+  <VME_MechanoidEffigy.label>идол механоида</VME_MechanoidEffigy.label>
+  <!-- EN: A structure assembled from scrapped mechanoid parts. Emits an IFF programming signal capable of confusing ancient mechanoid receptors. Should two exist per colonist enough signal noise will soft reset ancient mechanoid programming, causing an immediate retreat. -->
+  <VME_MechanoidEffigy.description>Конструкция, собранная из найденных частей механоидов. Испускает программный сигнал «свой-чужой», сбивая с толку древние приёмники механоидов. Если довести количество источников помех до двух на каждого поселенца, то это приведёт к сбросу настроек древних программ механоидов и вызовет немедленное отступление.</VME_MechanoidEffigy.description>
+
+  <!-- EN: ominous obelisk -->
+  <VME_Obelisk.label>зловещий обелиск</VME_Obelisk.label>
+  <!-- EN: An ominous-looking obelisk of pure chiseled stone. It seems to radiate an aura of hopelessness and despair.\n\nThe Corruption need of any colonist in an obelisk's radius of effect won't decrease. -->
+  <VME_Obelisk.description>Зловещего вида обелиск из гладко обтёсанного камня. Кажется, он излучает ауру безнадёжности и отчаяния.\n\nПотребность в осквернении у любого поселенца в радиусе действия обелиска не будет уменьшаться.</VME_Obelisk.description>
+
+  <!-- EN: insect nest -->
+  <VME_InsectNest.label>гнездо насекомых</VME_InsectNest.label>
+  <!-- EN: A large, swollen hive that seems to be seeping high amounts of bubbling insectoid jelly but not incubating any insectoids themselves.\n\nThe nest will need maintenance by a colonist with the insectoid herder role. If maintenance reaches 0%, the nest will be destroyed. -->
+  <VME_InsectNest.description>Большой раздувшийся улей, из которого вытекает пузырящееся желе насекомых, но сами насекомые не вылупляются.\n\nГнездо нуждается в обслуживании поселенцем с ролью жуковода. Если показатель обслуживания упадёт до 0%, гнездо будет разрушено.</VME_InsectNest.description>
+</LanguageData>

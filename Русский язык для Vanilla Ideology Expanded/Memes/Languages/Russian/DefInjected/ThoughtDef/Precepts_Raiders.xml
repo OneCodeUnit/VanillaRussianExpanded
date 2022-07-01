@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: participated in raid -->
+  <VME_ParticipatedInRaid_Honorable.stages.0.label>участие в налёте</VME_ParticipatedInRaid_Honorable.stages.0.label>
+  <!-- EN: I participated in a raid. Through conquest, we bring honor to our colony. -->
+  <VME_ParticipatedInRaid_Honorable.stages.0.description>Я {PAWN_gender ? участвовал : участвовала} в налёте и {PAWN_gender ? принёс : принесла} славу нашему поселению.</VME_ParticipatedInRaid_Honorable.stages.0.description>
+
+  <!-- EN: recent conquest -->
+  <VME_RecentConquest_Honorable.stages.0.label>недавний налёт</VME_RecentConquest_Honorable.stages.0.label>
+  <!-- EN: We recently raided another faction. Through conquest, we bring honor to our colony. -->
+  <VME_RecentConquest_Honorable.stages.0.description>Недавно мы совершили налёт на другую фракцию и принесли славу нашему поселению.</VME_RecentConquest_Honorable.stages.0.description>
+  
+  <!-- EN: no recent conquest -->
+  <VME_RecentConquest_Honorable.stages.1.label>не делали налётов</VME_RecentConquest_Honorable.stages.1.label>
+  <!-- EN: It's been far too long since we raided anyone. Through conquest, we bring honor to our colony. -->
+  <VME_RecentConquest_Honorable.stages.1.description>Мы слишком давно ни на кого не совершали налётов. Без завоеваний мы не принесём славу нашему поселению.</VME_RecentConquest_Honorable.stages.1.description>
+
+  <!-- EN: participated in raid -->
+  <VME_ParticipatedInRaid_Abhorrent.stages.0.label>участие в налёте</VME_ParticipatedInRaid_Abhorrent.stages.0.label>
+  <!-- EN: I participated in a raid. How could we do that? It's horribly shameful! -->
+  <VME_ParticipatedInRaid_Abhorrent.stages.0.description>Я {PAWN_gender ? участвовал : участвовала} в налёте. Зачем я это {PAWN_gender ? сделал : сделала}? Какой позор!</VME_ParticipatedInRaid_Abhorrent.stages.0.description>
+
+  <!-- EN: recent conquest -->
+  <VME_RecentConquest_Abhorrent.stages.0.label>недавний налёт</VME_RecentConquest_Abhorrent.stages.0.label>
+  <!-- EN: We recently raided another faction. This is horrible and brings shame to our colony. -->
+  <VME_RecentConquest_Abhorrent.stages.0.description>Недавно мы напали на другую фракцию. Этот ужасный поступок позорит наше поселение.</VME_RecentConquest_Abhorrent.stages.0.description>
+  
+  <!-- EN: no recent conquest -->
+  <VME_RecentConquest_Abhorrent.stages.1.label>не делали налётов</VME_RecentConquest_Abhorrent.stages.1.label>
+  <!-- EN: It's been a long since we raided anyone. This is as it should be, we are not bullies. -->
+  <VME_RecentConquest_Abhorrent.stages.1.description>Мы давно ни на кого не напали. Так и должно быть, мы же не бандиты.</VME_RecentConquest_Abhorrent.stages.1.description>
+</LanguageData>

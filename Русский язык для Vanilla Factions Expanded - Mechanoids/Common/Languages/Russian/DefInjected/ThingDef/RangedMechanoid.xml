@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: light charge blaster -->
+  <VFE_Gun_ChargeBlasterLight.label>лёгкий бластер</VFE_Gun_ChargeBlasterLight.label>
+  <!-- EN: Similar to the charge lance the charge blaster is a high-accuracy burst-fire energy weapon capable of precision marksmanship with relatively little recoil thanks to its shortened acceleration rail and stabilization gate. -->
+  <VFE_Gun_ChargeBlasterLight.description>Сделанный на основе энергокопья бластер остаётся высокоточным энергетическим оружием, стреляющим очередями с небольшой отдачей, достигнутой за счёт меньшей ускоряющей рельсы и стабилизирующим кольцам.</VFE_Gun_ChargeBlasterLight.description>
+  <!-- EN: barrel -->
+  <VFE_Gun_ChargeBlasterLight.tools.barrel.label>ствол</VFE_Gun_ChargeBlasterLight.tools.barrel.label>
+  <!-- EN: charge blaster shot -->
+  <VFE_Bullet_ChargeBlasterLight.label>выстрел лёгкого бластера</VFE_Bullet_ChargeBlasterLight.label>
+
+  <!-- EN: inferno spewer -->
+  <VFE_Gun_InfernoSpewer.label>огнемёт «инферно»</VFE_Gun_InfernoSpewer.label>
+  <!-- EN: A surprisingly lightweight flamethrower of mechanoid design, while idle the device seems cold as any other, but can immediately heat up to temperatures well above purely human technology. Two undermounted chemfuel tanks allow for an ammo capacity big enough for large plumes of liquid flame. -->
+  <VFE_Gun_InfernoSpewer.description>Огнемёт удивляет своим лёгким весом и холодным корпусом. Но внутри него технологии механоидов и всего через мгновение всё вокруг способно разогреться до температур, превышающих любые достижения человеческой науки. Два приделанных бака химтоплива обеспечат достаточно огня для превращения местности в инферно.</VFE_Gun_InfernoSpewer.description>
+  <!-- EN: barrel -->
+  <VFE_Gun_InfernoSpewer.tools.barrel.label>ствол</VFE_Gun_InfernoSpewer.tools.barrel.label>
+
+  <VFE_Bullet_InfernoSpewer.label>выстрел огнемёта «инферно»</VFE_Bullet_InfernoSpewer.label>
+  <VFE_Bullet_AdvancedInfernoSpewer.label>выстрел огнемёта «инферно»</VFE_Bullet_AdvancedInfernoSpewer.label>
+
+  <!-- EN: advanced light charge blaster -->
+  <VFE_Gun_AdvancedChargeBlasterLight.label>продвинутый лёгкий бластер</VFE_Gun_AdvancedChargeBlasterLight.label>
+  <!-- EN: A less unwieldy version of the mechanoid charge blaster, equivalent to the weight and size of a human heavy SMG. This burst fire charge weapon foregoes battery power in exchange for portability, as such the burst count and damage are both lower, however time between bursts is smaller. -->
+  <VFE_Gun_AdvancedChargeBlasterLight.description>Менее громоздкая версия бластера механоидов, сопоставимая по размерам и весу с тяжёлым ПП. Оружие стреляет очередями, но батарея была принесена в жертву мобильности. Из-за этого урон и количество выстрелов в в очереди снизились, но время между очередями сократилось.</VFE_Gun_AdvancedChargeBlasterLight.description>
+  <VFE_Gun_AdvancedChargeBlasterLight.tools.barrel.label>ствол</VFE_Gun_AdvancedChargeBlasterLight.tools.barrel.label>
+
+  <!-- EN: advanced inferno spewer -->
+  <VFE_Gun_AdvancedInfernoSpewer.label>продвинутый огнемёт «инферно»</VFE_Gun_AdvancedInfernoSpewer.label>
+  <!-- EN: A “bunker-busting” incendiary weapon that not only sets targets ablaze but actually superheats the air around hot enough to melt bone. While overall tank size is decreased the heat and damage potential of each plume of flame is significantly raised. -->
+  <VFE_Gun_AdvancedInfernoSpewer.description>Зажигательное оружие, не просто поджигающее всё вокруг, а повышающее температуру воздуха значений, плавящих кости. Настоящий «убийца бункеров». Хоть объём топливного бака снизился, температура и поражающая способность струй возросла.</VFE_Gun_AdvancedInfernoSpewer.description>
+  <VFE_Gun_AdvancedInfernoSpewer.tools.barrel.label>ствол</VFE_Gun_AdvancedInfernoSpewer.tools.barrel.label>
+
+  <!-- EN: advanced heavy charge blaster -->
+  <VFE_Gun_AdvancedChargeBlasterHeavy.label>продвинутый тяжёлый бластер</VFE_Gun_AdvancedChargeBlasterHeavy.label>
+  <!-- EN: A version of the burst-fire charge blaster with a notably higher fire rate. Extra energy cells add weight to the weapon and accuracy does take a small hit due to increased recoil however enough advanced charge blasters result in a hail of fire anything less than Imperial frigates couldn’t endure. -->
+  <VFE_Gun_AdvancedChargeBlasterHeavy.description>Версия тяжёлого бластера с увеличенной скорострельностью. Дополнительные батареи добавили весу, что слегка увеличило разброс, но тяжёлый бластер всё равно настолько эффективно покрывает цели огнём, что лишь кто-то сопоставимый по силе с Имперским фрегатом сможет выжить.</VFE_Gun_AdvancedChargeBlasterHeavy.description>
+  <VFE_Gun_AdvancedChargeBlasterHeavy.tools.barrel.label>ствол</VFE_Gun_AdvancedChargeBlasterHeavy.tools.barrel.label>
+
+  <!-- EN: advanced inferno cannon -->
+  <VFE_Gun_AdvancedInfernoCannon.label>продвинутая инферно-пушка</VFE_Gun_AdvancedInfernoCannon.label>
+  <!-- EN: A relatively small incendiary artillery platform at first used in urban warfare and sieges. Much like its mechanoid variant the inferno cannon actually deploys small explosive warheads that are known to shake the earth where they land and set targets ablaze. -->
+  <VFE_Gun_AdvancedInfernoCannon.description>Сравнительно небольшая артиллерийская платформа когда-то давно успешно дебютировала в атаках на городские миры. Она очень похожа свой механоидный оригинал и также стреляет небольшими зажигательными снарядами, сотрясающими и поджигающими землю.</VFE_Gun_AdvancedInfernoCannon.description>
+  <VFE_Gun_AdvancedInfernoCannon.tools.barrel.label>ствол</VFE_Gun_AdvancedInfernoCannon.tools.barrel.label>
+
+  <!-- EN: advanced needle gun -->
+  <VFE_Gun_AdvancedNeedle.label>продвинутый игломёт</VFE_Gun_AdvancedNeedle.label>
+  <!-- EN: An advanced ultra long range kinetically propelled sniper weapon. While damage is not much higher than its lesser version, pros include an entire lack of recoil and unrivaled range. Soldiers of old claim to have had their vessels shot at from the ground while as high as the stratosphere, although these claims do not hold up to any level of scrutiny. -->
+  <VFE_Gun_AdvancedNeedle.description>Усовершенствованное свехрдальнобойное снайперское оружие. По сравнению с обычной версией урон не сильно возрос, но зато исчезла отдача, а дальность поражения достигла непревзойдённых величин. В далёки времена солдаты любили травить байки о способностях этого оружия поражать цели даже в стратосфере. В реальности это оружие на такое не способно.</VFE_Gun_AdvancedNeedle.description>
+  <!-- EN: barrel -->
+  <VFE_Gun_AdvancedNeedle.tools.barrel.label>ствол</VFE_Gun_AdvancedNeedle.tools.barrel.label>
+
+  <!-- EN: advanced charge lance -->
+  <VFE_Gun_AdvancedChargeLance.label>продвинутое энергокопьё</VFE_Gun_AdvancedChargeLance.label>
+  <!-- EN: A heavier version of the pulse-charged lance weapon. Often fielded by mechanoid marksmen, the advanced charge lance is similar to it’s predecessor but exchanges size and time to aim for a significant increase in firepower. -->
+  <VFE_Gun_AdvancedChargeLance.description>Более «тяжёлая» версия энергокопья. Излюбленное оружие стрелков меаноидов. Очень похожа на свою обычную версию, но улучшенная эргономика заметно улучшает огневую мощь.</VFE_Gun_AdvancedChargeLance.description>
+  <!-- EN: barrel -->
+  <VFE_Gun_AdvancedChargeLance.tools.barrel.label>ствол</VFE_Gun_AdvancedChargeLance.tools.barrel.label>
+
+  <!-- EN: heavy thump bomb -->
+  <VFE_Bullet_ThumpCannonHeavy.label>тяжёлый ударный снаряд</VFE_Bullet_ThumpCannonHeavy.label>
+
+  <!-- EN: advanced thump cannon -->
+  <VFE_Gun_AdvancedThumpCannon.label>продвинутое ударное орудие</VFE_Gun_AdvancedThumpCannon.label>
+  <!-- EN: An advanced version of the thump cannon used by mechanoids. It fires a concussion bomb that is extremely effective against walls and structures, but does much less damage to small targets. -->
+  <VFE_Gun_AdvancedThumpCannon.description>Продвинутая версия штурмового гранатомёта механоидов, используемая для прорыва стен и укреплений. Малоэффективна против живой силы.</VFE_Gun_AdvancedThumpCannon.description>
+  <!-- EN: barrel -->
+  <VFE_Gun_AdvancedThumpCannon.tools.0.label>ствол</VFE_Gun_AdvancedThumpCannon.tools.0.label>
+</LanguageData>

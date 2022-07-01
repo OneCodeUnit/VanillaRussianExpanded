@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_AcidBuildup.label>химический ожог</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.description>Брызги кислоты продолжают жечь и разъедать в течении долгого времени после попадания.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.stages.0.label>лёгкий, разъедает</VEF_AcidBuildup.stages.0.label>
+  <VEF_AcidBuildup.stages.1.label>средний, разъедает</VEF_AcidBuildup.stages.1.label>
+  <VEF_AcidBuildup.stages.2.label>серьёзный, разъедает</VEF_AcidBuildup.stages.2.label>
+
+  <VEF_AcidBurn.label>химический ожог</VEF_AcidBurn.label>
+  <VEF_AcidBurn.description>Химический ожог.</VEF_AcidBurn.description>
+  <VEF_AcidBurn.comps.0.labelTendedWell>перевязано</VEF_AcidBurn.comps.0.labelTendedWell>
+  <VEF_AcidBurn.comps.0.labelTendedWellInner>обработано</VEF_AcidBurn.comps.0.labelTendedWellInner>
+  <VEF_AcidBurn.comps.0.labelSolidTendedWell>обработано</VEF_AcidBurn.comps.0.labelSolidTendedWell>
+  <VEF_AcidBurn.injuryProps.destroyedLabel>разъедено</VEF_AcidBurn.injuryProps.destroyedLabel>
+  <VEF_AcidBurn.injuryProps.destroyedOutLabel>разъедено</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+  <VEF_AcidBurn.labelNoun>химический ожог</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>шрам от химического ожога</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_AcidBurn.labelNounPretty>{0} {1}</VEF_AcidBurn.labelNounPretty>
+
+  <VEF_LightSustenance.label>освещённость</VEF_LightSustenance.label>
+  <VEF_LightSustenance.description>Этому существу требуется солнечный свет. Недостаточная освещённость убьёт его.</VEF_LightSustenance.description>
+  <VEF_LightSustenance.stages.0.label>достаточная освещённость</VEF_LightSustenance.stages.0.label>
+  <VEF_LightSustenance.stages.1.label>низкая освещённость</VEF_LightSustenance.stages.1.label>
+  <VEF_LightSustenance.stages.2.label>очень низкая освещённость</VEF_LightSustenance.stages.2.label>
+  <VEF_LightSustenance.stages.3.label>нехватка света</VEF_LightSustenance.stages.3.label>
+  <VEF_LightSustenance.stages.4.label>критическая нехватка света</VEF_LightSustenance.stages.4.label>
+
+  <VEF_ToxicBuildup.label>отравление токсинами</VEF_ToxicBuildup.label>
+  <VEF_ToxicBuildup.description>Токсин в крови. Может попасть в организм через окружающую среду, укусы ядовитых существ или рану от отравленного оружия.
+\nДаже в небольших дозах вещество обладает канцерогенным действием, а при больших — смертельно.
+\nВ отличии от основной игры, существа погибшие от отравление токсинами, могут быть съедены.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.stages.0.label>незаметное</VEF_ToxicBuildup.stages.0.label>
+  <VEF_ToxicBuildup.stages.1.label>начальное</VEF_ToxicBuildup.stages.1.label>
+  <VEF_ToxicBuildup.stages.2.label>лёгкое</VEF_ToxicBuildup.stages.2.label>
+  <VEF_ToxicBuildup.stages.3.label>среднее</VEF_ToxicBuildup.stages.3.label>
+  <VEF_ToxicBuildup.stages.4.label>серьёзное</VEF_ToxicBuildup.stages.4.label>
+  <VEF_ToxicBuildup.stages.5.label>экстремальное</VEF_ToxicBuildup.stages.5.label>
+
+</LanguageData>

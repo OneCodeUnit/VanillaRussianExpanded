@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEV_FenrirHunt.questNameRules.rulesStrings>
+    <li>questName(priority=1)->Охота [asker_nameDef] на Фенрира</li>
+    <li>questName->Охота на Фенрира</li>
+  </VFEV_FenrirHunt.questNameRules.rulesStrings>
+
+  <VFEV_FenrirHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением Фенрира, расположившегося недалеко от [map_definite]. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его ценную шкуру или набраться смелости и попробовать приручить это животное.\n\nГигантский смертельно опасный волк неизвестного происхождения, Фенрир агрессивен по своей природе и чрезвычайно опасен, когда приходит в ярость. Его мех и шкура чрезвычайно устойчивы к повреждениям и холоду, а острые как бритва зубы способны пробить даже самую лучшую броню.\n\nЛегенды гласят, что фенриры были выведены для войн в древние времена и будут следовать в бой только за самым храбрым лидером.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] сообщает о Фенрире неподалёку. Они не планируют охотиться на зверя сами и бросают вам вызов: охоту на этого зверя. Если добьётесь успеха, вас наградят. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его ценную шкуру или набраться смелости и попробовать приручить это животное.\n\nГигантский смертельно опасный волк неизвестного происхождения, Фенрир агрессивен по своей природе и чрезвычайно опасен, когда приходит в ярость. Его мех и шкура чрезвычайно устойчивы к повреждениям и холоду, а острые как бритва зубы способны пробить даже самую лучшую броню.\n\nЛегенды гласят, что фенриры были выведены для войн в древние времена и будут следовать в бой только за самым храбрым лидером.</li>
+	</VFEV_FenrirHunt.questDescriptionRules.rulesStrings>
+
+  <VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>Фенрир был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>После обнаружения, Фенрир сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>Вы победили Фенрира!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>
+
+  <VFEV_LothurrHunt.questNameRules.rulesStrings>
+    <li>questName(priority=1)->Охота [asker_nameDef] на Лодура</li>
+    <li>questName->Охота на Лодура</li>
+  </VFEV_LothurrHunt.questNameRules.rulesStrings>
+
+  <VFEV_LothurrHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением Лодура, расположившегося недалеко от [map_definite]. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его величественные рога или набраться смелости и попробовать приручить это животное.\n\nГигантское драконоподобное существо неизвестного происхождения, Лодур миролюбив по своей природе и чрезвычайно опасен, когда приходит в ярость. Его шерсть и чешуя чрезвычайно устойчивы к повреждениям и холоду, а величественные рога имеют огромную цену.\n\nЛодуров окружает множество легенд. Одни утверждают, что это олицетворение древних богов, другие говорят, что они пришли с другой планеты, третьи рассказывают истории о том, что зверь способен исчезать и появляться в другом месте по своему желанию.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] сообщает о Лодуре неподалёку. Они не планируют охотиться на зверя сами и бросают вам вызов: охоту на этого зверя. Если добьётесь успеха, вас наградят. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его величественные рога или набраться смелости и попробовать приручить это животное.\n\nГигантское драконоподобное существо неизвестного происхождения, Лодур миролюбив по своей природе и чрезвычайно опасен, когда приходит в ярость. Его шерсть и чешуя чрезвычайно устойчивы к повреждениям и холоду, а величественные рога имеют огромную цену.\n\nЛодуров окружает множество легенд. Одни утверждают, что это олицетворение древних богов, другие говорят, что они пришли с другой планеты, третьи рассказывают истории о том, что зверь способен исчезать и появляться в другом месте по своему желанию.</li>
+	</VFEV_LothurrHunt.questDescriptionRules.rulesStrings>
+
+  <VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>Лодур был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>После обнаружения, Лодур сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>Вы победили Лодура!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>
+
+  <VFEV_NjorunHunt.questNameRules.rulesStrings>
+    <li>questName(priority=1)->Охота [asker_nameDef] на Ньёруна</li>
+    <li>questName->Охота на Ньёруна</li>
+  </VFEV_NjorunHunt.questNameRules.rulesStrings>
+
+  <VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением Ньёруна, расположившегося недалеко от [map_definite]. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его прочную шкуру или жирное мясо.\n\nГигантское быкоподобное существо неизвестного происхождения, Ньёрун осторожен по своей природе и путешествует по планете небольшими стадами, прячась от любого, кто может представлять опасность. Несмотря на свою покорность, зверь слишком пуглив, чтобы его можно было приручить, и, вероятно, ответит, если на него нападут.\n\nЛегенды гласят, что ньёруны являются результатом экспериментов древних корпораций, пытавшихся создать идеальное животное для сельского хозяйства.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] сообщает о Ньёруна неподалёку. Они не планируют охотиться на зверя сами и бросают вам вызов: охоту на этого зверя. Если добьётесь успеха, вас наградят. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его прочную шкуру или жирное мясо.\n\nГигантское быкоподобное существо неизвестного происхождения, Ньёрун осторожен по своей природе и путешествует по планете небольшими стадами, прячась от любого, кто может представлять опасность. Несмотря на свою покорность, зверь слишком пуглив, чтобы его можно было приручить, и, вероятно, ответит, если на него нападут.\n\nЛегенды гласят, что ньёруны являются результатом экспериментов древних корпораций, пытавшихся создать идеальное животное для сельского хозяйства.</li>
+	</VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
+
+  <VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>Ньёрун был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>После обнаружения, Ньёрун сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>Вы победили Ньёруна!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>
+
+  <VFEV_ThrumboHunt.questNameRules.rulesStrings>
+    <li>questName(priority=1)->Охота [asker_nameDef] на Трумбо</li>
+    <li>questName->Охота на Трумбо</li>
+  </VFEV_ThrumboHunt.questNameRules.rulesStrings>
+
+  <VFEV_ThrumboHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением Трумбо, расположившегося недалеко от [map_definite]. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его ценный рог.\n\nГигантское существо неизвестного происхождения. Трумбо мирные по своей природе, но чрезвычайно опасные, если их разозлить. Длинный мех трумбо исключительно красив и ценен, шкура плотна и устойчива к повреждениям, а бритвенно-острые рога и вовсе не имеют цены на большинстве рынков.\n\nЛегенды гласят, что старые трумбо — самые мудрые существа во Вселенной, просто они предпочитают не разговаривать.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] сообщает о Трумбо неподалёку. Они не планируют охотиться на зверя сами и бросают вам вызов: охоту на этого зверя. Если добьётесь успеха, вас наградят. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить его ценный рог.\n\nГигантское существо неизвестного происхождения. Трумбо мирные по своей природе, но чрезвычайно опасные, если их разозлить. Длинный мех трумбо исключительно красив и ценен, шкура плотна и устойчива к повреждениям, а бритвенно-острые рога и вовсе не имеют цены на большинстве рынков.\n\nЛегенды гласят, что старые трумбо — самые мудрые существа во Вселенной, просто они предпочитают не разговаривать.</li>
+	</VFEV_ThrumboHunt.questDescriptionRules.rulesStrings>
+
+  <VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>Трумбо был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>После обнаружения, Трумбо сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>Вы победили Трумбо!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>
+
+  <VFEV_OdinHunt.questNameRules.rulesStrings>
+    <li>questName(priority=1)->Охота [asker_nameDef] на Одина</li>
+    <li>questName->Охота на Одина</li>
+  </VFEV_OdinHunt.questNameRules.rulesStrings>
+
+  <VFEV_OdinHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением Одина, расположившегося недалеко от [map_definite]. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить славу за победу над ним и редкие компоненты, но это действительно грозный противник.\n\nМонолитный, укрепленный механоид теоретически обладал способностью вызывать удары молнии посредством манипуляций с окружающей средой и статического разряда. Зазубренные клинкообразные конечности спарены с ЭМИ-генераторами, способными вывести из строя близлежащую электронику. Те, кто достаточно храбр, чтобы сражаться с этим механоидом в на близком расстоянии, быстро уничтожаются ударами высоковольтных молний. Во время механоидных войн, одно лишь появление Одина на поле боя могло привести к бегству врагов с поля боя. Очень немногие столкнувшиеся с ним и прожили достаточно долго, чтобы рассказать кому-либо о встрече.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] сообщает об Одине неподалёку. Они не планируют охотиться на зверя сами и бросают вам вызов: охоту на этого зверя. Если добьётесь успеха, вас наградят. Он остановился там надолго, но рано или поздно двинется дальше. Мы можем воспользоваться моментом, чтобы получить славу за победу над ним и редкие компоненты, но это действительно грозный противник.\n\nМонолитный, укрепленный механоид теоретически обладал способностью вызывать удары молнии посредством манипуляций с окружающей средой и статического разряда. Зазубренные клинкообразные конечности спарены с ЭМИ-генераторами, способными вывести из строя близлежащую электронику. Те, кто достаточно храбр, чтобы сражаться с этим механоидом в на близком расстоянии, быстро уничтожаются ударами высоковольтных молний. Во время механоидных войн, одно лишь появление Одина на поле боя могло привести к бегству врагов с поля боя. Очень немногие столкнувшиеся с ним и прожили достаточно долго, чтобы рассказать кому-либо о встрече.</li>
+	</VFEV_OdinHunt.questDescriptionRules.rulesStrings>
+
+  <VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_OdinHunt.LetterTextQuestExpired.slateRef>Один был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OdinHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_OdinHunt.LetterTextQuestFailed.slateRef>После обнаружения, Один сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_OdinHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>Вы победили Одина!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>
+</LanguageData>

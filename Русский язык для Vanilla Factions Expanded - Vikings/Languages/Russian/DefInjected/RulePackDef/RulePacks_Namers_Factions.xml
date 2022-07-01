@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerFactionViking.rulePack.rulesFiles>
+    <li>NorseNamesN->Words/RuNamesN</li>
+		<li>ColorS->Words/ColorsS</li>
+		<li>ANordic->Words/AnimalsNordicN</li>
+  </NamerFactionViking.rulePack.rulesFiles>
+
+	<NamerFactionViking.rulePack.rulesStrings>
+    <li>r_name->Клан [ANordic]</li>
+    <li>r_name->[ColorS] клан [ANordic]</li>
+		<li>r_name->Клан [NorseNamesN]</li>
+  </NamerFactionViking.rulePack.rulesStrings>
+
+  <NamerSettlementViking.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->васт</li>
+    <li>townendevil->варг</li>
+    <li>townendevil->викс</li>
+    <li>townendevil->тор</li>
+    <li>townendevil->тир</li>
+    <li>townendevil->кат</li>
+    <li>townendevil->лоп</li>
+    <li>townendevil->оз</li>
+    <li>townendevil->озле</li>
+    <li>townendevil->лач</li>
+    <li>townendevil->лок</li>
+    <li>townendevil->бёрн</li>
+    <li>townendevil->сир</li>
+    <li>townendevil->шенк</li>
+    <li>townendevil->хурт</li>
+    <li>townendevil->ваш</li>
+    <li>townendevil->ванг</li>
+    <li>townendevil->вюг</li>
+    <li>townendevil->тот</li>
+    <li>townendevil->фард</li>
+    <li>townendevil->фэд</li>
+  </NamerSettlementViking.rulePack.rulesStrings>
+
+  <NamerPersonViking.rulePack.rulesFiles>
+    <li>NorseNamesC->Words/RuNames</li>
+    <li>NorseNamesN->Words/RuNamesN</li>
+    <li>AnimalV->Words/Animals_Badass_Genitive</li>
+    <li>AnimalV->Words/Animals_Badass_Genitive_Plural</li>
+		<li>ColorS->Words/ColorsS</li>
+    <li>AnimalM->Words/Animals_Badass_Masc</li>
+  </NamerPersonViking.rulePack.rulesFiles>
+
+  <NamerPersonViking.rulePack.rulesStrings>
+    <li>r_name(p=2)->[NorseNamesC] сын [NorseNamesN]</li>
+		<li>r_name->[NorseNamesC] [NorseNamesC]берг</li>
+    <li>r_name->[NorseNamesC] [Slayer] [AnimalV] сын [NorseNamesN]</li>
+    <li>r_name->[NorseNamesC] [ColorS] [AnimalM] сын [NorseNamesN]</li>
+    <li>r_name->[NorseNamesC] сын [NorseNamesN]</li>
+		<li>r_name->[NorseNamesC] сын [NorseNamesN] из клана [AnimalV]</li>
+		<li>Slayer->убийца</li>
+		<li>Slayer->победитель</li>
+		<li>Slayer->истребитель</li>
+		<li>Slayer->гроза</li>
+		<li>Slayer->погибель</li>
+  </NamerPersonViking.rulePack.rulesStrings>
+</LanguageData>

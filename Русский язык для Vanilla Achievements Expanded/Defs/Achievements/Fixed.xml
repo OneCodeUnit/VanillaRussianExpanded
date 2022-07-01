@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<AchievementsExpanded.AchievementDef>
+		<defName>blazeIt</defName>
+		<label>Есть закурить?</label>
+		<description>Получить 420 единиц дымнолиста</description>
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>SmokeleafLeaves</def>
+			<count>420</count>
+		</tracker>
+		<texPath>Achievements/420</texPath>
+		<points>0</points>
+	</AchievementsExpanded.AchievementDef>
+
+	<AchievementsExpanded.AchievementDef>
+		<defName>ShadesOfGrey</defName>
+		<label>Пятьдесят оттенков серого</label>
+		<description>Заключённый стал жертвой садистского гнева</description>	
+		<tracker Class="AchievementsExpanded.MentalBreakTracker">
+			<def>SadisticRage</def>
+			<count>1</count>
+		</tracker>
+		<texPath>Achievements/50ShadesofGrey</texPath>
+		<points>0</points>
+	</AchievementsExpanded.AchievementDef>
+
+	<AchievementsExpanded.AchievementDef>
+		<defName>StarMichelin</defName>
+		<label>3 звезды «Мишлен»</label>
+		<description>Поселенец приготовил 10 000 блюд</description>
+		
+		<tracker Class="AchievementsExpanded.RecordEventTracker">
+			<def>MealsCooked</def>
+			<count>10000</count>
+			<total>true</total>
+		</tracker>
+		
+		<texPath>Achievements/3-StarMichelin</texPath>
+		<points>0</points>
+	</AchievementsExpanded.AchievementDef>
+</Defs>

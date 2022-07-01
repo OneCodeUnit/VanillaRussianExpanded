@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_InsertFirstGenomeDesc>Выберите первый геном для биоинженерного инкубатора</VFEI_InsertFirstGenomeDesc>
+  <None_InsertFirstGenome>Первый геном: пусто</None_InsertFirstGenome>
+  <VFEI_RoyalGenome_InsertFirstGenome>Первый геном: монарх</VFEI_RoyalGenome_InsertFirstGenome>
+  <VFEI_WarriorGenome_InsertFirstGenome>Первый геном: воин</VFEI_WarriorGenome_InsertFirstGenome>
+  <VFEI_DroneGenome_InsertFirstGenome>Первый геном: трутень</VFEI_DroneGenome_InsertFirstGenome>
+
+  <VFEI_InsertSecondGenomeDesc>Выберите второй геном для биоинженерного инкубатора</VFEI_InsertSecondGenomeDesc>
+  <None_InsertSecondGenome>Второй геном: пусто</None_InsertSecondGenome>
+  <VFEI_RoyalGenome_InsertSecondGenome>Второй геном: монарх</VFEI_RoyalGenome_InsertSecondGenome>
+  <VFEI_WarriorGenome_InsertSecondGenome>Второй геном: воин</VFEI_WarriorGenome_InsertSecondGenome>
+  <VFEI_DroneGenome_InsertSecondGenome>Второй геном: трутень</VFEI_DroneGenome_InsertSecondGenome>
+
+  <VFEI_InsertThirdGenomeDesc>Выберите третий геном для биоинженерного инкубатора</VFEI_InsertThirdGenomeDesc>
+  <None_InsertThirdGenome>Третий геном: пусто</None_InsertThirdGenome>
+  <VFEI_RoyalGenome_InsertThirdGenome>Третий геном: монарх</VFEI_RoyalGenome_InsertThirdGenome>
+  <VFEI_WarriorGenome_InsertThirdGenome>Третий геном: воин</VFEI_WarriorGenome_InsertThirdGenome>
+  <VFEI_DroneGenome_InsertThirdGenome>Третий геном: трутень</VFEI_DroneGenome_InsertThirdGenome>
+
+  <VFEI_RoyalGenome>Геном монарха</VFEI_RoyalGenome>
+  <VFEI_WarriorGenome>Геном воина</VFEI_WarriorGenome>
+  <VFEI_DroneGenome>Геном трутня</VFEI_DroneGenome>
+  <VFEI_None>Оставить пустым</VFEI_None>
+
+  <VFEI_NoGeneticMaterial>На карте нет генетического материала этого типа</VFEI_NoGeneticMaterial>
+  <VFEI_SelectAtLeastOne>Хотя бы один из трёх слотов инкубатора должен быть заполнен генетическим материалом.</VFEI_SelectAtLeastOne>
+
+  <VFEI_StartInsertion>Начать ввод генов</VFEI_StartInsertion>
+  <VFEI_StartInsertionDesc>Прикажите поселенцам начать ввод генетического материала в инкубатор. Это работа для носильщика.</VFEI_StartInsertionDesc>
+
+  <VFEI_RemoveAllGenes>Удалить гены</VFEI_RemoveAllGenes>
+  <VFEI_RemoveAllGenesDesc>Опустошите инкубатор и удалите все гены, которые могли быть внутри.</VFEI_RemoveAllGenesDesc>
+
+  <VFEI_CancelJobs>Отменить ввод генов</VFEI_CancelJobs>
+  <VFEI_CancelJobsDesc>Отменить ввод генов. Все задачи по переноске генов будут отменены.</VFEI_CancelJobsDesc>
+
+  <VFEI_Engage>Активировать инкубатор</VFEI_Engage>
+  <VFEI_EngageDesc>Активируйте инкубатор для создания нового инсектоида из введенного генетического материала</VFEI_EngageDesc>
+
+  <VFEI_NoGenesFound>Ваши поселенцы не смогли получить генетический материал</VFEI_NoGenesFound>
+
+  <VFEI_WaitTillJobsEnd>Генетический материал всё ещё несут в инкубатор</VFEI_WaitTillJobsEnd>
+
+  <VFEI_IncubationInProgress>Инкубация в процессе. {0} будет произведён в: </VFEI_IncubationInProgress>
+
+  <VFEI_CombinationNoResults>Эта комбинация даст никаких результатов</VFEI_CombinationNoResults>
+
+  <VFEI_NotPowered>Биоинженерный инкубатор сейчас не включён</VFEI_NotPowered>
+  <VFEI_IncubationFailurePower>Инкубационный прогресс потерпел неудачу из-за отсутствия энергии</VFEI_IncubationFailurePower>
+
+  <VFEI_FailureMonstrosity>Что-то катастрофически пошло не так с инкубационным процессом!</VFEI_FailureMonstrosity>
+  <VFEI_FailureDeath>Что-то пошло не так с инкубационным процессом. Инсектоид получился мёртвым</VFEI_FailureDeath>
+  <VFEI_FailureDisease>Что-то пошло не так с инкубационным процессом. Инсектоид получился больным</VFEI_FailureDisease>
+
+  <VFEI_BlackHiveGenome_InsertFirstGenome>Первый геном: чёрный улей</VFEI_BlackHiveGenome_InsertFirstGenome>
+  <VFEI_BlackHiveGenome_InsertSecondGenome>Второй геном: чёрный улей</VFEI_BlackHiveGenome_InsertSecondGenome>
+  <VFEI_BlackHiveGenome_InsertThirdGenome>Третий геном: чёрный улей</VFEI_BlackHiveGenome_InsertThirdGenome>
+  <VFEI_BlackHiveGenome>Геном чёрного улья</VFEI_BlackHiveGenome>
+
+  <VFEI_MonstrosityTimeToLive>Клеточная деградация через: {0}</VFEI_MonstrosityTimeToLive>
+  <LarvaeTimeSpawn>{0} до следующего появления личинок.</LarvaeTimeSpawn>
+  <InsectSpawned>Инсектоиды прибыли и атакуют.</InsectSpawned>
+  <InsectsArriveIn>{0} прибывает через {1}</InsectsArriveIn>
+  <CocoonInsectSpawnIn>{0} до появление инсектоида.</CocoonInsectSpawnIn>
+  <NoMoreSpawningAllowed>Королева отдыхает.</NoMoreSpawningAllowed>
+
+  <LetterLabelForcedTame>{1_kind} насильно приручен</LetterLabelForcedTame>
+  <LetterArtifactTame>{0} стал ручным.</LetterArtifactTame>
+
+  <LetterLabelForcedTameFail>насильственное приручение {1_kind} не удалось</LetterLabelForcedTameFail>
+  <LetterArtifactTameFail>приручение {0} не удалось, животное пришло в ярость.</LetterArtifactTameFail>
+
+  <LetterLabelForcedRecruit>{0} присоединяется к вашей фракции.</LetterLabelForcedRecruit>
+  <LetterArtifactRecruit>{0} был усмирён и присоединяется к вашей фракции!</LetterArtifactRecruit>
+  <GoodWillAffectedByArtifact>Отношения с целевой фракцией упали на 50 из-за использования артефакта на одном из её членов.</GoodWillAffectedByArtifact>
+
+  <MutationOutcome>Результат мутации</MutationOutcome>
+  <MutationOutcomeLetter>Мутация развилась: {0}.</MutationOutcomeLetter>
+  <FailedMutation>Мутация не удалась!</FailedMutation>
+  <FailedMutationLetter>Мутация не удалась, ни одна из частй тела не смогла вырасти.</FailedMutationLetter>
+
+  <InfestationNegated>Вторжение было предотвращено.</InfestationNegated>
+
+  <TransformationLLabel>Трансформация!</TransformationLLabel>
+  <TransformationLetter>Из-за ломки по королевскому желе, {0} {0_gender ? трансформировался : трансформировалась} в мегапаука. {0_pronoun} всё ещё часть вашей фракции и не хочет атаковать кого-либо.</TransformationLetter>
+
+  <TeleportButton>Телепорт</TeleportButton>
+  <TeleportHere>Телепортировать сюда.</TeleportHere>
+  <TeleportDesc>Телепортировать всех выбранных поселенцев и предметы в выбранную точку.</TeleportDesc>
+  <TeleportDestInvalid>Точка телепортации неверна.</TeleportDestInvalid>
+  <TeleportDestTooFar>Точка телепортации слишком далека!</TeleportDestTooFar>
+  <TeleportWillDestroy>Телепортация в эту точку приведёт к потере груза.</TeleportWillDestroy>
+  <TeleportDone>Телепортация удалась.</TeleportDone>
+
+	<TeleportToSiteCenter>{0}: телепортация к центру</TeleportToSiteCenter>
+	<TeleportToSiteEdge>{0}: телепортация к границе</TeleportToSiteEdge>
+
+	<TeleportDoneCaravan>Создан караван</TeleportDoneCaravan>
+	<TeleportAddToCaravan>Телепортировать груз в {0}</TeleportAddToCaravan>
+  <TeleportDoneCAdded>Телепортация удалась, груз был добавлен в {0}.</TeleportDoneCAdded>
+
+	<TeleportAndGift>Сделать подарок фракции {0} ({1}).</TeleportAndGift>
+
+	<TeleportAndTarget>Приблизить и выбрать точку телепортации</TeleportAndTarget>
+
+	<TeleportAndAttackCenter>Нападение на {0}: телепортация к центру</TeleportAndAttackCenter>
+	<TeleportAndAttackEgde>Нападение на {0}: телепортация к границе</TeleportAndAttackEgde>
+
+  <TeleportDestroyed>Поскольку не было телепортированных поселенцев, телепортация не удалась, а груз был потерян.</TeleportDestroyed>
+
+	<SName>Vanilla Factions Expanded - Insectoids</SName>
+	<PusleLabel>Эффект импульса отпугивателя:</PusleLabel>
+	<PusleTooltip>Включить или выключить эффект импульса от звукового отпугивателя инсектоидов.</PusleTooltip>
+</LanguageData>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: farming outpost -->
+  <Outpost_Farming.label>фермерский аванпост</Outpost_Farming.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Farming.description>Временный лагерь, управляемый автономно. Лагерь специализируется на выращивании простых продуктов и не может быть расположен в пустыне. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Farming.description>
+  <!-- EN: Choose plant -->
+  <Outpost_Farming.modExtensions.0.ChooseLabel>Выбрать растение</Outpost_Farming.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose which plant this outpost should plant -->
+  <Outpost_Farming.modExtensions.0.ChooseDesc>Выбрать растение, которое будет выращиваться на этом аванпосте</Outpost_Farming.modExtensions.0.ChooseDesc>
+
+  <!-- EN: artillery outpost -->
+  <Outpost_Artillery.label>артиллерийский пост</Outpost_Artillery.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in providing point defense to nearby settlements via artillery strikes. Each pawn will be tasked with the maintenance and usage of a mortar. After a barrage has been expended one day will be required to prepare a new one. -->
+  <Outpost_Artillery.description>Временный лагерь, управляемый автономно. Лагерь специализируется на обеспечении защиты ближайших поселений путём нанесения точечных артиллерийских ударов. Каждый персонаж в лагере занят обслуживанием и использованием одного миномёта. После проведения обстрела потребуется один день для подготовки нового.</Outpost_Artillery.description>
+
+  <!-- EN: defensive outpost -->
+  <Outpost_Defensive.label>оборонительный аванпост</Outpost_Defensive.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in intercepting and ambushing incoming enemy raids on the main colony. Winning a small skirmish at an outpost can significantly diminish the size of an enemy raid on the main colony. Furthermore, defensive outposts can be tasked to send drop pods to the main colony for short-notice defense. -->
+  <Outpost_Defensive.description>Временный лагерь, управляемый автономно. Лагерь специализируется на перехвате приближающихся к основному поселению налётов. Победа сил аванпоста в стычке с врагами позволит значительно сократить количество нападающих на основное поселение. Более того, из оборонительных аванпостов можно оперативно отправлять транспортные капсулы на помощь поселению.</Outpost_Defensive.description>
+
+  <!-- EN: drilling outpost -->
+  <Outpost_Drilling.label>буровой аванпост</Outpost_Drilling.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in locating and tapping underground chemfuel reservoirs. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Drilling.description>Временный лагерь, управляемый автономно. Лагерь специализируется на обнаружении и добыче подземных залежей химтоплива. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Drilling.description>
+
+  <!-- EN: encampment -->
+  <Outpost_Encampment.label>временный лагерь</Outpost_Encampment.label>
+  <!-- EN: Places a temporary, autonomously-led camp that serves as a resting point for caravans. While camping all pawns will regain food and rest, and allow time for injuries to heal. -->
+  <Outpost_Encampment.description>Временный лагерь, управляемый автономно. Он позволяет останавливаться отдыхать проходящим мимо караванам. Во время отдыха во временном лагере персонажи получают еду, ночлег и возможность восстановить свои раны.</Outpost_Encampment.description>
+
+  <!-- EN: hunting outpost -->
+  <Outpost_Hunting.label>аванпост охотников</Outpost_Hunting.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Hunting.description>Временный лагерь, управляемый автономно. Лагерь специализируется на охоте и заготовке животных. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Hunting.description>
+  <!-- EN: Hunting {0} -->
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>Охотиться на {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose what animal to hunt at this outpost -->
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>Выбрать животное, на которое будут охотиться на этом аванпосте</Outpost_Hunting.modExtensions.0.ChooseDesc>
+
+  <!-- EN: logging outpost -->
+  <Outpost_Logging.label>аванпост лесорубов</Outpost_Logging.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Logging.description>Временный лагерь, управляемый автономно. Лагерь специализируется на добыче древесины и не может быть расположен в пустыне. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Logging.description>
+  
+  <!-- EN: mining outpost -->
+  <Outpost_Mining.label>аванпост шахтёров</Outpost_Mining.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Mining.description>Временный лагерь, управляемый автономно. Лагерь специализируется на добыче и обработке камня или металла и может быть расположен исключительно в горах или на возвышенностях. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Mining.description>
+  <!-- EN: Mining {0} -->
+  <Outpost_Mining.modExtensions.0.ChooseLabel>Добывать {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+  <!-- EN: Click to change mining target. -->
+  <Outpost_Mining.modExtensions.0.ChooseDesc>Сменить добываемый ресурс</Outpost_Mining.modExtensions.0.ChooseDesc>
+
+  <!-- EN: production outpost -->
+  <Outpost_Production.label>производственный аванпост</Outpost_Production.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in manufacturing and fabrication of mechanical and electronic components. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Production.description>Временный лагерь, управляемый автономно. Лагерь специализируется на производстве механических или электронных деталей. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Production.description>
+  <!-- EN: Choose output -->
+  <Outpost_Production.modExtensions.0.ChooseLabel>Выбрать ресурс</Outpost_Production.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose between components and advanced components -->
+  <Outpost_Production.modExtensions.0.ChooseDesc>Выбрать между компонентами и продвинутыми компонентами</Outpost_Production.modExtensions.0.ChooseDesc>
+
+  <!-- EN: scavenging outpost -->
+  <Outpost_Scavenging.label>аванпост собирателей</Outpost_Scavenging.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in scouting for nearby unmarked settlements and the loot contained within them. Once something notable is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Scavenging.description>Временный лагерь, управляемый автономно. Лагерь специализируется на разведке интересных мест поблизости и сборе оставшихся в них ценностей. Когда что-то интересное будет найдено, оно будет доставлено на край карты основного поселения.</Outpost_Scavenging.description>
+
+  <!-- EN: science outpost -->
+  <Outpost_Science.label>исследовательский аванпост</Outpost_Science.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in research and analysis. Any information gained will be shared with the faction as a whole. -->
+  <Outpost_Science.description>Временный лагерь, управляемый автономно. Лагерь специализируется на научных исследованиях. Любая полученная информация становится доступна всей фракции.</Outpost_Science.description>
+
+  <!-- EN: town -->
+  <Outpost_Town.label>городок</Outpost_Town.label>
+  <!-- EN: Places a temporary, autonomously-led town that is designed to provide hospitality to travelers and traders alike. Should a visitor find their lodging amicable they will be invited to join the town as a resident permanently. A town can only be erected if 3 pre-existing settlements are located within 10 hexes. -->
+  <Outpost_Town.description>Временный город, управляемый автономно. Он предназначен для приёма проходящих мимо путешественников и торговцев. Некоторые гости могут впечатлиться условиями жизни и пожелать остаться в качестве жителя. Городок должен быть расположен на расстоянии не менее 10 клеток от трёх существующих поселений.</Outpost_Town.description>
+
+  <!-- EN: trading outpost -->
+  <Outpost_Trading.label>торговый пост</Outpost_Trading.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in selling and bartering with wanderers, caravans, and natives alike in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Trading.description>Временный лагерь, управляемый автономно. Лагерь специализируется на торговле и обмене товаров на серебро с проходящими мимо странниками, караванами и местными жителями. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Trading.description>
+</LanguageData>

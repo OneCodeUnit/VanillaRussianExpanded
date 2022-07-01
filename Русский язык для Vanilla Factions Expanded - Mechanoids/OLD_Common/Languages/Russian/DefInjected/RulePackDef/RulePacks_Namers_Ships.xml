@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+
+    <li>shiptype->frigate</li>
+		
+    <li>maybe_letter(p=3)-></li>
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+  -->
+  <VFE_NamerShipFrigate.rulePack.rulesStrings>
+    <li>r_name->фрегат [maybe_letter]-[maybe_number]</li>
+		
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+    <li>maybe_number->[Digit]</li>
+    <li>maybe_number->[Digit][Digit]</li>
+    <li>maybe_number->[Digit][Digit][Digit]</li>
+  </VFE_NamerShipFrigate.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+
+    <li>shiptype->destroyer</li>
+		
+    <li>maybe_letter(p=3)-></li>
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+  -->
+  <VFE_NamerShipDestroyer.rulePack.rulesStrings>
+    <li>r_name->эсминец [maybe_letter]-[maybe_number]</li>
+		
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+    <li>maybe_number->[Digit]</li>
+    <li>maybe_number->[Digit][Digit]</li>
+    <li>maybe_number->[Digit][Digit][Digit]</li>
+  </VFE_NamerShipDestroyer.rulePack.rulesStrings>
+
+
+  <!-- EN:
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+
+    <li>shiptype->cruiser</li>
+		
+    <li>maybe_letter(p=3)-></li>
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+  -->
+  <VFE_NamerShipCruiser.rulePack.rulesStrings>
+    <li>r_name->крейсер [maybe_letter]-[maybe_number]</li>
+		
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+    <li>maybe_number->[Digit]</li>
+    <li>maybe_number->[Digit][Digit]</li>
+    <li>maybe_number->[Digit][Digit][Digit]</li>
+  </VFE_NamerShipCruiser.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+
+    <li>shiptype->troopship</li>
+		
+    <li>maybe_letter(p=3)-></li>
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+  -->
+  <VFE_NamerShipTroopship.rulePack.rulesFiles>
+    <li>maybe_name->Words/PoliticalUnions_Tribal_Masc</li>
+    <li>maybe_name->Words/People_Enemies</li>
+    <li>maybe_name->Words/People_Badass</li>
+    <li>maybe_name->Words/Curious_Masc</li>
+    <li>maybe_name->Words/Badass</li>
+  </VFE_NamerShipTroopship.rulePack.rulesFiles>
+
+  <VFE_NamerShipTroopship.rulePack.rulesStrings>
+    <li>r_name->транспортник [maybe_letter]-[maybe_number] «[maybe_name]»</li>
+		
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+    <li>maybe_number->[Digit]</li>
+    <li>maybe_number->[Digit][Digit]</li>
+    <li>maybe_number->[Digit][Digit][Digit]</li>
+  </VFE_NamerShipTroopship.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+    <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+
+    <li>shiptype->carrier</li>
+		
+    <li>maybe_letter(p=3)-></li>
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+  -->
+  <VFE_NamerShipCarrier.rulePack.rulesFiles>
+    <li>maybe_name->Words/PoliticalUnions_Tribal_Masc</li>
+    <li>maybe_name->Words/People_Enemies</li>
+    <li>maybe_name->Words/People_Badass</li>
+    <li>maybe_name->Words/Curious_Masc</li>
+    <li>maybe_name->Words/Badass</li>
+  </VFE_NamerShipCarrier.rulePack.rulesFiles>
+
+  <VFE_NamerShipCarrier.rulePack.rulesStrings>
+    <li>r_name->носитель [maybe_letter]-[maybe_number] «[maybe_name]»</li>
+		
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+    <li>maybe_number->[Digit]</li>
+    <li>maybe_number->[Digit][Digit]</li>
+    <li>maybe_number->[Digit][Digit][Digit]</li>
+  </VFE_NamerShipCarrier.rulePack.rulesStrings>
+</LanguageData>

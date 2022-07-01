@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questName->The [abandoned] [broadcasting] [station]</li>
+    <li>questName->[abandoned] [broadcasting] [station]</li>
+    <li>questName->[asker_nameDef] and the [abandoned] [broadcasting] [station]</li>
+    <li>abandoned->Abandoned</li>
+    <li>abandoned->Old</li>
+    <li>abandoned->Decomissioned</li>
+    <li>abandoned->Ruined</li>
+    <li>broadcasting->Broadcasting</li>
+    <li>broadcasting->Radar</li>
+    <li>broadcasting->Calculation</li>
+    <li>broadcasting->Supercomputer</li>
+    <li>station->Station</li>
+    <li>station->Facility</li>
+    <li>station->Antenna</li>
+    <li>station->Outpost</li>
+  -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+    <li>questName->[abandoned] [broadcasting] [station]</li>
+    <li>questName->[asker_nameDef] и [abandoned] [broadcasting] [station]</li>
+    <li>abandoned->Заброшенная</li>
+    <li>abandoned->Брошенная</li>
+    <li>abandoned->Старая</li>
+    <li>abandoned->Забытая</li>
+    <li>abandoned->Разрушенная</li>
+    <li>broadcasting->вещающая</li>
+    <li>broadcasting->передающая</li>
+    <li>broadcasting->следящая</li>
+    <li>broadcasting->анализирующая</li>
+    <li>broadcasting->транслирующая</li>
+    <li>broadcasting->глушащая</li>
+    <li>station->станция</li>
+    <li>station->радиостанция</li>
+    <li>station->база</li>
+    <li>station->антенна</li>
+    <li>station->вышка</li>
+  </VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+
+
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. According to them, [siteFaction_pawnsPlural] have been using the nearby broadcasting station as a base of operations. The site is controlled by [siteFaction_name]. It is guaranteed to contain some still functioning supercomputer units.\n\n[asker_nameDef] is asking us to take care of the enemies, and cares not about the fate of the old electronical apparatus. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name], передаёт нам сообщение.\n\nСогласно ему, [siteFaction_pawnsPlural] используют комплекс с передающей аппаратурой в качестве передовой базы для своих операций. Это отличная возможность заполучить сохранившиеся вычислительные мощности.\n\n[asker_nameDef] желает лишь избавиться от врагов, а старую аппаратуру можно оставить себе. [asker_label] говорит, что [sitePart0_description].</li>
+  </VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>Механоиды свернули лагерь и отправились в другое место. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>Поняв, что их местонахождение известно, механоиды свернули лагерь и отправились в другое место. Задание «[resolvedQuestName]» окончено.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>
+  <!-- EN: Payment arrived -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>Вы уничтожили лагерь механоидов!\n\nПрибыла оплата от фракции [asker_faction_name].</VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>
+</LanguageData>

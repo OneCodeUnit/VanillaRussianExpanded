@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Labels -->
+	<PatchTitle>RimWorld {0} «{1}»</PatchTitle>
+	<PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
+	<OskarObnoxious>Оскар Оскорбительный</OskarObnoxious>
+	<PatchNotes>Открыть список изменений</PatchNotes>
+	
+	<!-- Patch Window -->
+	<ValueChanged>Параметр «{0}» изменён с {1} на {2}</ValueChanged>
+	<ValueUnchanged>Параметр «{0}» остался без изменений. Текущее значение — {1}</ValueUnchanged>
+	<ValueChangedDefault>defaultValue параметра «{0}» изменено с {1} на {2}</ValueChangedDefault>
+	<ValueUnchangedDefault>defaultValue параметра «{0}» осталось без изменений. Текущее значение — {1}</ValueUnchangedDefault>
+	
+	<!-- Settings -->
+	<TicksBetweenPatchNotes>Время между обновлениями</TicksBetweenPatchNotes>
+	<TicksBetweenPatchNotesTooltip>Время (в тиках) до момента выхода следующего обновления.</TicksBetweenPatchNotesTooltip>
+	
+	<DefsChangedPerPatch>Объекты</DefsChangedPerPatch>
+	<DefsChangedPerPatchTooltip>Количество объектов в каждом обновлении</DefsChangedPerPatchTooltip>
+	<FieldsChangedPerDef>Параметры</FieldsChangedPerDef>
+	<FieldsChangedPerDefTooltip>Количество изменяемых параметров для каждого объекта</FieldsChangedPerDefTooltip>
+	<PatchNotesStored>Количество отображаемых обновлений</PatchNotesStored>
+	<PatchNotesStoredTooltip>Максимальное число списков изменений, хранимых и отображаемых в окне списков изменений. Этот параметр влияет только на отображение. Изменения, вносимые обновлениями всё равно остаются.</PatchNotesStoredTooltip>
+	
+	<ShowAllPatchNotes>Открыть список изменений</ShowAllPatchNotes>
+	<ResetPatchNotesToDefault>Сбросить настройки</ResetPatchNotesToDefault>
+	<DebugShowPatchGeneration>Лог создания списка изменений</DebugShowPatchGeneration>
+	<DebugShowPatchGenerationTooltip>Вывод всех шагов создания списка изменений в Debug log. (Использовать только для поиска ошибок)</DebugShowPatchGenerationTooltip>
+</LanguageData>

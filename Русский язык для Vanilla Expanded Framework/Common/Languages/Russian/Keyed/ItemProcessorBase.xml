@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Generic -->
+  <IP_InsertFirstItemDesc>Добавить</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>Добавить</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>Добавить</IP_InsertThirdItemDesc>
+  <IP_InsertFourthItemDesc>Добавить</IP_InsertFourthItemDesc>
+  <IP_InsertVariable>Добавить {0}</IP_InsertVariable>
+  <IP_Output>Производить {0}</IP_Output>
+  <IP_OutputVariable>Производить {0} используя {1}</IP_OutputVariable>
+  <IP_OutputDesc>{0} получится после обработки. Для этого необходимо дать {1}</IP_OutputDesc>
+  <IP_InsertVariableSecond>Ввести {0} во второй слот</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Ввести {0} в третий слот</IP_InsertVariableThird>
+  <IP_CantFindThing>На карте нет предметов требуемого типа ({0})</IP_CantFindThing>
+  <IP_BringIngredients>Принести ингредиенты</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Принести ингредиенты для начала процесса</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Не приносить ингредиенты</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Не приносить ингредиенты в это здание</IP_CancelIngredientsDesc>
+  <IP_NoIngredientFound>На карте нет ингредиентов</IP_NoIngredientFound>
+  <IP_ChooseIngredient>Выбрать ингредиент</IP_ChooseIngredient>
+  <IP_ChooseOutput>Выбрать задачу</IP_ChooseOutput>
+  <IP_ChooseIngredientSecond>Выбрать второй ингредиент</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>Выбрать третий ингредиент</IP_ChooseIngredientThird>
+  <IP_ChooseIngredientFourth>Выбрать четвёртый ингредиент</IP_ChooseIngredientFourth>
+  <IP_IngredientImproperlyDefined>Один из ингредиентов был неправильно определён обработчиком предметов. Сообщите автору мода</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>{0} требуется энергия для работы</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>{0} требуется топливо для работы</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>{0} требуется достаточный уровень освещённости для работы</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>{0} требуется отсутствие дождя для работы</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0} достаточного уровня тепла ({1} - {2}) для работы</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>Продукт портится в обработчике из-за проблем с энергией</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>Продукт испортился в обработчике из-за проблем с энергией</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>Продукт закончил обрабатываться и ждёт, когда его заберут</IP_GenericProductFinished>
+  <IP_IsEmpty>{0} простаивает</IP_IsEmpty>
+  <IP_FilledWith>{0} хранит {1}</IP_FilledWith>
+  <IP_FilledWithSecond>Второй слот {0} заполнен {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>Третий слот {0} заполнен {1}</IP_FilledWithThird>
+  <IP_FilledWithFourth>Четвёртый слот {0} заполнен {1}</IP_FilledWithFourth>
+  <IP_IngredientPercentage> (заполнено на {0} из {1})</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0} работает: </IP_ProcessorWorking>
+  <IP_ProcessorPaused>{0} приостановлен: </IP_ProcessorPaused>
+  <IP_ProcessingInProgress>{0} обрабатывает {1}. {2} появятся через {3} с качеством «{4}»</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0} обрабатывает {1}. {2} появятся через {3}</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>Удалить {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProductDesc>Удалить {0} из {1}. Продукт будет выпущен с текущим уровнем качества ({2})</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>Сбросить рецепты</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>Это сбросит настройки здания после выпуска текущего продукта, можно будет выбрать новый входной ингредиент</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>Не найден комбинаций для этих ингредиентов</IP_NoCombination>
+  <IP_SetAutoQuality>Установить уровень качества для извлечения продукта. Когда продукт достигнет нужного качества, поселенец автоматически заберёт его и отнесёт на склад. Если ничего не выбрано, продукт можно забрать вручную или когда он достигнет легендарного качества.</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>Выбрать автоматическое качество</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>Автоматическое качество: {0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>Выключить автоматическое качество</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>Автоматическое качество позволит выпустить продукт с {0} уровнем качества</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>Автоматическое получение ингредиентов</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>Если включено, здание будет автоматически собирать ингредиенты из ближайших воронок и автоматически перезапускать работу после сбора итогового продукта. Иначе поселенцы будут носить ингредиенты в здание, а после его нужно будет запустить вручную</IP_ToggleAutoDesc>
+  <IP_ResetFullAuto>Сбросить машину</IP_ResetFullAuto>
+  <IP_ResetFullAutoDesc>Полностью сбрасывает и останавливает машину. Осторожно. Это уничтожит предметы внутри и прогресс обработки</IP_ResetFullAutoDesc>
+  <IP_ProductWaiting>Ожидание сбора</IP_ProductWaiting>
+  <IP_OutsideLightRange>Работа этой машины была нарушена из-за неподходящего уровня освещённости, а продукт внутри скоро испортится</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>Продукт внутри этой машины испортился из-за неподходящей освещённости</IP_SpoiledDueToLight>
+  <IP_ItRains>Работа этой машины была нарушена из-за неподходящей погоды, а продукт внутри скоро испортится</IP_ItRains>
+  <IP_SpoiledDueToRain>Продукт внутри этой машины испортился из-за неподходящей погоды</IP_SpoiledDueToRain>
+  <IP_WrongTemp>Работа этой машины была нарушена из-за неподходящей температуры, а продукт внутри скоро испортится</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>Продукт внутри этой машины испортился из-за неподходящей температуры</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>. Для брожения требуется температура между {0} и {1} ºC</IP_TempRangeInThisMachine>
+  <IP_TogglePause>Пауза / Перезапуск</IP_TogglePause>
+  <IP_TogglePauseDesc>Остановите и перезапустите работу этой машины</IP_TogglePauseDesc>
+  <IP_OverThreshold> Ожидание вывода для очистки. Лимит вывода {0}</IP_OverThreshold>
+  <IP_NoRecipesHere>Для этого завода не найдено модифицированных рецептов</IP_NoRecipesHere>
+</LanguageData>

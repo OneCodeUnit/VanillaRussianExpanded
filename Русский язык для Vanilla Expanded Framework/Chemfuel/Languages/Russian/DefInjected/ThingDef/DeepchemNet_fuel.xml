@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCHE_DeepchemPipe.label>глубтопливная труба</VCHE_DeepchemPipe.label>
+  <VCHE_DeepchemPipe.description>Тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_DeepchemPipe.description>
+  <VCHE_DeepchemPipe_Blueprint.label>глубтопливная труба (проект)</VCHE_DeepchemPipe_Blueprint.label>
+  <VCHE_DeepchemPipe_Frame.label>глубтопливная труба (в процессе сборки)</VCHE_DeepchemPipe_Frame.label>
+  <VCHE_DeepchemPipe_Frame.description>Тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_DeepchemPipe_Frame.description>
+
+  <PS_DeepchemTank.label>цистерна глубтоплива</PS_DeepchemTank.label>
+  <PS_DeepchemTank.description>Тяжёлая ёмкость промышленного уровня для хранения глубинного топлива. Топливо из цистерн будет поступать по мере необходимости. Будьте осторожны: даже самое лёгкое повреждение может вызвать огненный взрыв, размер которого будет зависеть от количества хранимого топлива.</PS_DeepchemTank.description>
+
+  <PS_DeepchemRefinery.label>глубтопливный переработчик</PS_DeepchemRefinery.label>
+  <PS_DeepchemRefinery.description>Сложная машина, перерабатывающая поступающее глубтопливо в нестабильное жидкое химтопливо. Если она не обнаружит труб или цистерн, готовое химтопливо будет разливаться по канистрам. Если она обнаружит трубы или цистерны, готовое химтопливо будет транспортироваться в цистерны.</PS_DeepchemRefinery.description>
+
+  <VCHE_DeepchemPumpjack.label>глубтопливный насос</VCHE_DeepchemPumpjack.label>
+  <VCHE_DeepchemPumpjack.description>Буровая установка для добычи глубинного топлива из-под поверхности. Используйте глубинные сканеры для обнаружения месторождений. Глубтопливо можно перерабатывать в химтопливо и транспортировать по трубопроводу.</VCHE_DeepchemPumpjack.description>
+
+  <VCHE_UndergroundDeepchemPipe.label>подземная глубтопливная труба</VCHE_UndergroundDeepchemPipe.label>
+  <VCHE_UndergroundDeepchemPipe.description>Подземная тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_UndergroundDeepchemPipe.description>
+
+  <VCHE_DeepchemTap.label>клапан глубтоплива</VCHE_DeepchemTap.label>
+  <VCHE_DeepchemTap.description>Резервуар, похожий на воронку. Предназначен для периодического отвода глубтоплива из цистерн для последующего использования.</VCHE_DeepchemTap.description>
+
+  <VCHE_DeepchemDrain.label>слив глубтоплива</VCHE_DeepchemDrain.label>
+  <VCHE_DeepchemDrain.description>Резервуар, похожий на воронку. Предназначен для заливки глубтоплива трубопровод и наполнения подсоединённых цистерн.</VCHE_DeepchemDrain.description>
+
+</LanguageData>

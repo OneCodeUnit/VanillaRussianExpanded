@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <VEF.Hire>Нанять {replace: {0}; "Pirates"-"пиратов"; "Пираты"-"пиратов"; "Мусорщики"-"мусорщиков"; "Наёмники"-"наёмников"}</VEF.Hire>
+    <VEF.HireDesc>{0} могут помочь поселению, например, в обороне, если их нанять.</VEF.HireDesc>
+    <VEF.AvailableSilver>Доступно серебра: {0}</VEF.AvailableSilver>
+    <VEF.Value>Стоимость</VEF.Value>
+    <VEF.ChooseNumberOfUnits>Сколько человек вы хотите взять?</VEF.ChooseNumberOfUnits>
+    <VEF.Breakdown>Расчёты</VEF.Breakdown>
+    <VEF.DayAmount>Количество дней</VEF.DayAmount>
+    <VEF.Cost>Стоимость найма</VEF.Cost>
+    <VEF.RiskMult>Плата за риск</VEF.RiskMult>
+    <VEF.TotalPrice>Итоговая цена</VEF.TotalPrice>
+    <VEF.HiringDesc>Вы можете нанять {replace: {0}; "pirates"-"пиратов"} на столько, на сколько захотите, но можно иметь только один активный контракт и только с одной фракцией.
+Если нанятый {replace: {0}; "pirates"-"пират"} умрёт во время действия контракта, то стоимость всех контрактов в течение года будет увеличена на 5% за каждого умершего.</VEF.HiringDesc>
+    <VEF.LongTerm>Долгосрочные контракты значительно дороже</VEF.LongTerm>
+    <VEF.ContractInfo>Посмотреть контракт с {replace: {0}; "Пираты"-"пиратами"; "Мусорщики"-"мусорщиками"; "Наёмники"-"наёмниками"}</VEF.ContractInfo>
+    <VEF.PawnsList>Наняты:</VEF.PawnsList>
+    <VEF.ContractTitle>Контракт с {replace: {0}; "Пираты"-"пиратами"; "Мусорщики"-"мусорщиками"; "Наёмники"-"наёмниками"}</VEF.ContractTitle>
+    <VEF.Spent>Стоимость:</VEF.Spent>
+    <VEF.TimeLeft>Оставшееся время:</VEF.TimeLeft>
+    <VEF.CancelContract>Отменить контракт</VEF.CancelContract>
+    <VEF.NoRefund>Отменив контракт, вы не получите потраченное серебро.</VEF.NoRefund>
+    <VEF.Customize>Изменить {0}</VEF.Customize>
+	<VEF.CustomizationTitle>Изменение {0}</VEF.CustomizationTitle>
+	<VEF.Name>Имя</VEF.Name>
+	<VEF.Cancel>Отменить</VEF.Cancel>
+</LanguageData>

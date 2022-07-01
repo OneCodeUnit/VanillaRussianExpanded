@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: pirate -->
+  <VFEP_PirateMeme.label>пиратское братство</VFEP_PirateMeme.label>
+  <!-- EN: Humans are the moral center of the universe. -->
+  <VFEP_PirateMeme.description>Сильный имеет право забирать у слабого, но кодекс чести и братства должен быть превыше всего.</VFEP_PirateMeme.description>
+
+    <!-- EN:
+    <li>memeAdjective->buccaneering</li>
+    <li>memeAdjective->criminal</li>
+    <li>memeAdjective->pillaging</li>
+    <li>memeAdjective->plundering</li>
+    <li>memeAdjective->mutinous</li>
+    <li>memeAdjective->piratical</li>
+    
+    <li>memeLeaderNoun->skipper</li>
+    <li>memeLeaderNoun->commander</li>
+    <li>memeLeaderNoun->boss</li>    
+    <li>memeLeaderAdjective->gallant</li>
+    <li>memeLeaderAdjective->draconian</li>
+    <li>memeLeaderAdjective->callous</li>
+    <li>memeLeaderAdjective->brave</li>
+    <li>memeLeaderAdjective->ruthless</li>
+    <li>memeLeaderAdjective->daring</li>
+    <li>memeMoralist->chaplain</li>
+    <li>memeMoralist->first mate</li>
+    <li>memeMoralist->first officer</li>
+  -->
+  <VFEP_PirateMeme.generalRules.rulesStrings>
+    <li>memeAdjective->буканьерский</li>
+    <li>memeAdjective->криминальный</li>
+    <li>memeAdjective->разбойничестский</li>
+    <li>memeAdjective->грабительский</li>
+    <li>memeAdjective->мятежный</li>
+    <li>memeAdjective->пиратский</li>
+    
+    <li>memeLeaderNoun->капитан</li>
+    <li>memeLeaderNoun->командир</li>
+    <li>memeLeaderNoun->босс</li>    
+    <li>memeLeaderAdjective->галантный</li>
+    <li>memeLeaderAdjective->драконовский</li>
+    <li>memeLeaderAdjective->бессердечный</li>
+    <li>memeLeaderAdjective->храбрый</li>
+    <li>memeLeaderAdjective->жестокий</li>
+    <li>memeLeaderAdjective->лихой</li>
+    <li>memeMoralist->капеллан</li>
+    <li>memeMoralist->первый помощник</li>
+    <li>memeMoralist->первый офицер</li>
+  </VFEP_PirateMeme.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Pirate)        ->[deity0_name] showed us that the [memberNamePlural] must stand together as a crew to impose [deity0_possessive] will upon those who are weaker.</li>
+    <li>episode(uses=1,tag=meme_Pirate)  ->[deity0_name] shouted to all the [memberNamePlural], "In an honest service there is thin commons, low wages, and hard labor; in piracy, plenty and satiety, pleasure and ease, liberty and power. Seize it."</li>
+    
+    <li>intro(tag=meme_Pirate)           ->On the [place_summary] [place_name], the [memberNamePlural] had created a safe haven, where their plunder could be counted for the glory of [deity0_name].</li>
+    <li>conflict(tag=meme_Pirate)           ->A coward [foeLeader] looked at this with scorn, for [foeLeader_pronoun] desired all the riches for [foeLeader_objective]self.</li>
+    <li>founderJoin(tag=meme_Pirate)        ->[deity0_name]'s truest follower, captain [founderName], captured the [foeLeader] in a daring raid.</li>
+    <li>victory(tag=meme_Pirate)            ->[founderName]'s crewmates incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.</li>
+
+    <li>setup(tag=meme_Pirate)           ->[founderName] was the greatest captain, a true leader. Thousands of pirates united under [founder_possessive] terrifying banner.</li>
+    <li>story(uses=1,tag=meme_Pirate)    ->[founderName] made us understand that hardships, suffering and sacrifices must be faced together, as a crew. We learned to value the comradeship and camaraderie, and respect each other.</li>
+
+    <li>lessonIntro(tag=meme_Pirate)         ->I talked to the greatest pirate to ever live, a legend amongst men. He showed me that</li>
+    <li>lesson(tag=meme_Pirate)              ->hardships, suffering and sacrifices must be faced together, as a crew</li>
+    <li>lessonReinforcement(tag=meme_Pirate) ->He taught me to value the comradeship and camaraderie, and the merits of respecting each other.</li>
+
+    <li>archistBasis(tag=meme_Pirate)    ->Archotechs do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.</li>
+    <li>archistFact(tag=meme_Pirate)     ->We will prove to the archotechs that comradeship and camaraderie are the values that keep us strong.</li>
+    <li>archistProphecy(tag=meme_Pirate) ->Only by standing proud together can we become worthy of transcendence.</li>
+
+    <li>animistBasis(tag=meme_Pirate)    ->The spirits do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.</li>
+    <li>animistFact(tag=meme_Pirate)     ->We will prove to the spirits that comradeship and camaraderie are the values that keep us strong.</li>
+    <li>animistProphecy(tag=meme_Pirate) ->[itIsSaid] only by standing proud together can we make the spirits truly listen to us.</li>
+
+    <li>serketistProphecy(tag=meme_Pirate)->[itIsSaid] we will prove that comradeship and camaraderie are the values that keep us strong.</li>
+    <li>chthonianProphecy(tag=meme_Pirate)->These eldritch entities would seek to destroy us, but we will stand together against them. Our camaraderie can't be shaken by anything, not even them.</li>
+    <li>esotericismProphecy(tag=meme_Pirate)->Such occult knowledge requires an unified will. We will stand together as a crew, our camaraderie allowing us to embrace these arcane secrets with ease.</li>
+
+    <li>eschatologismFact(tag=meme_Pirate)->We will plunder and pillage those weaker than ourselves, for the world they have created must be destroyed, and only our crew deserves their achievements.</li>
+    <li>introMemo(tag=meme_Pirate)->As a member of our Reclamation and Repossession Office, let us remind you that any resources found on this planet are the property of the Company, and as such any hostile factions trying to take possession of our assets must be terminated with EXTREME prejudice. We will not allow others to take what is rightfully ours.</li>
+    <li>alienistProphecy(tag=meme_Pirate)->These wayward creatures are ours to do as we please.</li>
+  -->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Pirate)        ->Благодаря [deity0_name], [memberNamePlural] узнали, что нужно объединяться в команду и навязывать слабым волю [deity0_name].</li>
+    <li>episode(uses=1,tag=meme_Pirate)  ->[deity0_name] [deity0_shouted] так, что все [memberNamePlural] услышали: «в хождении под законом нет достойной награды, а есть каторжный труд. Пираты едят достойно, спят в безопасности, развлекаются по желанию, имеют власть и силу. Бросайте кирки и хватайте банданы!».</li>
+    <li>intro(tag=meme_Pirate)           ->[place_summary] [place_name] создали [memberNamePlural], как безопасное место для хранения добычи и прославления [deity0_name].</li>
+    <li>conflict(tag=meme_Pirate)        ->Однажды [foeLeader], из-за трусости своей, [foeLeader_try] прибрать все богатства к рукам своим.</li>
+    <li>founderJoin(tag=meme_Pirate)     ->Верный слуга [deity0_name] — капитан [founderName] [founder_captured] [foeLeader] во время лихого налёта.</li>
+    <li>victory(tag=meme_Pirate)         ->Члена команды [founderName] бросили [foeLeader] в темницу и, спустя несколько дней, казнили во славу [deity0_name].</li>
+    <li>setup(tag=meme_Pirate)           ->[founderName] [founder_was] величайшим капитаном и прирождённым лидером. Тысячи пиратов вышли в море под [founder_possessive] внушающим ужас флагом.</li>
+    <li>story(uses=1,tag=meme_Pirate)    ->[founderName] [founder_made] нам, что преодолевать трудности, страдания и жертвы нужно объединившись в команду. Мы научились товариществу и братству, и уважению к другим.</li>
+    <li>lessonIntro(tag=meme_Pirate)         ->Однажды мне выпала честь поговорить с величайшим из пиратов. Он сказал мне, что</li>
+    <li>lesson(tag=meme_Pirate)              ->трудности, страдания и жертвы нужно встречать вместе, как одна команды</li>
+    <li>lessonReinforcement(tag=meme_Pirate) ->Он научил меня ценить товарищество и братство, уважать других.</li>
+
+    <li>archistBasis(tag=meme_Pirate)    ->Архотеки не уважают тех, кто не может защитить себя: будучи командой, мы будем сталкиваться с теми, кто слабее нас.</li>
+    <li>archistFact(tag=meme_Pirate)     ->Мы докажем архотекам, что товарищество и братство делают нас сильнее.</li>
+    <li>archistProphecy(tag=meme_Pirate) ->Только объединившись, мы можем стать достойными трансцендентности.</li>
+
+    <li>animistBasis(tag=meme_Pirate)    ->Духи не уважают тех, кто не может защитить себя: будучи командой, мы будем сталкиваться с теми, кто слабее нас.</li>
+    <li>animistFact(tag=meme_Pirate)     ->Мы докажем духам, что товарищество и братство делают нас сильнее.</li>
+    <li>animistProphecy(tag=meme_Pirate) ->[itIsSaid] только объединившись, мы можем заставить духов по-настоящему прислушаться к нам.</li>
+
+    <li>serketistProphecy(tag=meme_Pirate)->[itIsSaid] мы докажем, что товарищество и братство делают нас сильнее.</li>
+    <li>chthonianProphecy(tag=meme_Pirate)->Эти сверхъестественные сущности будут стремиться уничтожить нас, но мы объединимся и дадим отпор. Даже им не победить наше братство.</li>
+    <li>esotericismProphecy(tag=meme_Pirate)->Оккультные знания требуют объединённой воли. Мы будем держаться вместе, как команда, наше братство позволит с легкостью раскрыть эти секреты.</li>
+
+    <li>eschatologismFact(tag=meme_Pirate)->Мы будем грабить всех, кто слабее нас. Мир, который они создали, должен быть уничтожен. Только наша команда заслуживает их достижений.</li>
+    <li>introMemo(tag=meme_Pirate)->В рамках исполнения роли представителя Отдела Отбора и Изъятия напоминаю, что все ресурсы на планете являются активами Компании и любые враждебные фракции, желающие завладеть ими, должны быть уничтожены СОВЕРШЕННО БЕЗ юридических проволочек. Никто не должен забирать имущество Компании.</li>
+    <li>alienistProphecy(tag=meme_Pirate)->Эти своенравные существа под нашим контролем и поступают так, как мы хотим.</li>
+
+    <li>deity0_shouted(deity0_gender==None)->крикнуло</li>
+    <li>deity0_shouted(deity0_gender==Male)->крикнул</li>
+    <li>deity0_shouted(deity0_gender==Female)->крикнула</li>
+    <li>foeLeader_try(foeLeader_gender==Male)->попытался</li>
+    <li>foeLeader_try(foeLeader_gender==Female)->попыталась</li>
+    <li>founder_captured(founder_gender==Male)->поймал</li>
+    <li>founder_captured(founder_gender==Female)->поймала</li>
+    <li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+    <li>founder_made(founder_gender==Male)->показал</li>
+    <li>founder_made(founder_gender==Female)->показала</li>
+  </VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: pirate -->
+  <VFEP_PirateMeme.symbolPacks.0.adjective>пиратский</VFEP_PirateMeme.symbolPacks.0.adjective>
+  <!-- EN: Piracy -->
+  <VFEP_PirateMeme.symbolPacks.0.ideoName>пиратство</VFEP_PirateMeme.symbolPacks.0.ideoName>
+  <!-- EN: crewmember -->
+  <VFEP_PirateMeme.symbolPacks.0.member>член команды</VFEP_PirateMeme.symbolPacks.0.member>
+  <!-- EN: piracy -->
+  <VFEP_PirateMeme.symbolPacks.0.theme>пиратства</VFEP_PirateMeme.symbolPacks.0.theme>
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shield -->
+  <VanillaFactionsExpanded.EquipShield>Взять {0} в качестве щита</VanillaFactionsExpanded.EquipShield>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusable>(нельзя использовать с {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} не будет использоваться)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+  <VanillaFactionsExpanded.Protects>Закрыто</VanillaFactionsExpanded.Protects>
+  <VanillaFactionsExpanded.Protects_Desc>Части тела, закрываемые щитом.</VanillaFactionsExpanded.Protects_Desc>
+
+  <!-- Scenario parts -->
+  <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Модификаторы отношений фракций</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+  <VanillaFactionsExpanded.NumberRange>{0} к {1}</VanillaFactionsExpanded.NumberRange>
+  <VanillaFactionsExpanded.AllFactions>Все фракции</VanillaFactionsExpanded.AllFactions>
+  <VanillaFactionsExpanded.AllFactionsIncludingHidden>Все фракции, включая скрытых</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+  <VanillaFactionsExpanded.AlwaysHostile>Всегда враждебна</VanillaFactionsExpanded.AlwaysHostile>
+  <VanillaFactionsExpanded.AffectHiddenFactions>Влияние на скрытых</VanillaFactionsExpanded.AffectHiddenFactions>
+  <VanillaFactionsExpanded.StartingGoodwill>Начальное</VanillaFactionsExpanded.StartingGoodwill>
+  <VanillaFactionsExpanded.NaturalGoodwill>Естественное</VanillaFactionsExpanded.NaturalGoodwill>
+
+  <!-- Stat Draw Entries -->
+  <VanillaFactionsExpanded.UsableWithShield>Используется со щитами</VanillaFactionsExpanded.UsableWithShield>
+  <VanillaFactionsExpanded.UsableWithShield_Desc>Возможно ли использовать это оружие, если у персонажа есть щит.</VanillaFactionsExpanded.UsableWithShield_Desc>
+
+  <!-- New Faction Spawning -->
+  <VanillaFactionsExpanded.FactionTitle>Новая фракция — {FactionName}</VanillaFactionsExpanded.FactionTitle>
+  <VanillaFactionsExpanded.ModInfo>Эта фракция была добавлена модом «{ModName}» и пока не присутствует в игре.</VanillaFactionsExpanded.ModInfo>
+  <VanillaFactionsExpanded.AnUnknownMod>неизвестный</VanillaFactionsExpanded.AnUnknownMod>
+  <VanillaFactionsExpanded.HiddenFactionInfo>Это скрытая фракция и она не будет показываться в списке фракций.</VanillaFactionsExpanded.HiddenFactionInfo>
+  <VanillaFactionsExpanded.RequiredFactionInfo>Она отмечена модом «{ModName}», как необходимая.</VanillaFactionsExpanded.RequiredFactionInfo>
+  <VanillaFactionsExpanded.NonSpawningFactionInfo>Эта фракция отмечена, как «непоявляемая» и, вероятно, вам стоит просто проигнорировать её.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+  <VanillaFactionsExpanded.FactionSelectOption>Выберите, как поступить:</VanillaFactionsExpanded.FactionSelectOption>
+  <VanillaFactionsExpanded.FactionButtonAdd>Добавить фракцию</VanillaFactionsExpanded.FactionButtonAdd>
+  <VanillaFactionsExpanded.FactionButtonAddFull>Добавить фракцию с поселениями</VanillaFactionsExpanded.FactionButtonAddFull>
+  <VanillaFactionsExpanded.FactionButtonSkip>Ничего не делать</VanillaFactionsExpanded.FactionButtonSkip>
+  <VanillaFactionsExpanded.FactionButtonIgnore>Не спрашивать про эту фракцию снова</VanillaFactionsExpanded.FactionButtonIgnore>
+  <VanillaFactionsExpanded.FactionMessageFailed>Не удалось добавить фракцию.</VanillaFactionsExpanded.FactionMessageFailed>
+  <VanillaFactionsExpanded.FactionMessageFailedFull>Не удалось добавить фракцию с поселениями.</VanillaFactionsExpanded.FactionMessageFailedFull>
+  <VanillaFactionsExpanded.FactionMessageSuccessFull>Добавлена фракция {FactionName}, имеющая {Amount} поселений.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+  <VanillaFactionsExpanded.FactionMessageSuccess>Добавлена фракция {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+
+  <VanillaFactionsExpanded.FactionSettlementsToSpawn>Добавить поселений (рекомендуется {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+  <VanillaFactionsExpanded.FactionMinDistance>Минимальное расстояние от поселений игрока (рекомендуется {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+  <VanillaFactionsExpanded.FactionButtonSpawn>Добавить</VanillaFactionsExpanded.FactionButtonSpawn>
+  <VanillaFactionsExpanded.FactionButtonCancel>Отмена</VanillaFactionsExpanded.FactionButtonCancel>
+
+  <VSE.Reinforcements>Подкрепления</VSE.Reinforcements>
+  <VSE.ReinforcementsDesc>Видя как вы слабеете, фракция {FACTION_name} решает отправить подкрепления атакующим</VSE.ReinforcementsDesc>
+
+  <VSE.CostGoodwill>стоит {0} репутации</VSE.CostGoodwill>
+
+  <VWEL_ToggleHotshotLabel>Нагрев оружия</VWEL_ToggleHotshotLabel>
+  <VWEL_ToggleHotshotDesc>Выстрелы разогревают оружие и увеличивают скорость стрельбы. Осторожно! Перегрев способен привести к взрыву оружия.</VWEL_ToggleHotshotDesc>
+</LanguageData>

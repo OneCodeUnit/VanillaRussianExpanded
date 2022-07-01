@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Sort by -->
+  <VTE.SortBy>Сорт.</VTE.SortBy>
+  <!-- EN: Search -->
+  <VTE.Search>Поиск</VTE.Search>
+  <!-- EN: Name -->
+  <VTE.Name>Название</VTE.Name>
+  <!-- EN: Item -->
+  <VTE.Item>Товар</VTE.Item>
+  <!-- EN: Market Value -->
+  <VTE.MarketValue>Рыночная ц.</VTE.MarketValue>
+  <!-- EN: Current Value -->
+  <VTE.CurrentValue>Текущая цена</VTE.CurrentValue>
+  <!-- EN: Change -->
+  <VTE.Change>Изменение</VTE.Change>
+  <!-- EN: Recent Change -->
+  <VTE.RecentChange>Посл. изменение</VTE.RecentChange>
+
+  <!-- EN: View prices -->
+  <VTE.ViewMarketPrices>Открыть цены</VTE.ViewMarketPrices>
+  <!-- EN: View news -->
+  <VTE.ViewNews>Открыть новости</VTE.ViewNews>
+  <!-- EN: Contact {0} -->
+  <VTE.Contact>Связаться с {0}</VTE.Contact>
+  <!-- EN: Imperial Bank -->
+  <VTE.EmpireBankName>Имперским банком</VTE.EmpireBankName>
+  <!-- EN: Bank of {FACTION_name} -->
+  <VTE.BaseBankName>Банком {FACTION_name}</VTE.BaseBankName>
+  <!-- EN: Bank of {FACTION_name} -->
+  <VTE.OutlanderCivilBankName>Банком {FACTION_name}</VTE.OutlanderCivilBankName>
+
+  <!-- EN: Local funds: {0} -->
+  <VTE.LocalFunds>Склад поселения: {0}</VTE.LocalFunds>
+  <!-- EN: Bank balance: {0} -->
+  <VTE.BankBalance>Банковский счёт: {0}</VTE.BankBalance>
+  <!-- EN: Bank fees: {0}% -->
+  <VTE.BankFees>Комиссия банка: {0}%</VTE.BankFees>
+  <!-- EN: Based on {0} goodwill with {FACTION_name} -->
+  <VTE.BankFeesBasedOn>Из-за {0} репутации с {FACTION_name}</VTE.BankFeesBasedOn>
+  <!-- EN: Deposit or Withdraw -->
+  <VTE.DepositOrWithdraw>Вывести или внести</VTE.DepositOrWithdraw>
+  <!-- EN: Positive numbers deposit. Negative numbers withdraw. -->
+  <VTE.DepositOrWithdrawDesc>Положительные для внесения, отрицательные для вывода.</VTE.DepositOrWithdrawDesc>
+  <!-- EN: Are you sure that you want to deposit {0} silver? -->
+  <VTE.AreYouSureYouWantToDeposit>Вы уверены, что хотите внести {0} серебра?</VTE.AreYouSureYouWantToDeposit>
+  <!-- EN: Are you sure that you want to withdraw {0} silver? -->
+  <VTE.AreYouSureYouWantToWithdraw>Вы уверены, что хотите вывести {0} серебра?</VTE.AreYouSureYouWantToWithdraw>
+  <!-- EN: Breakdown -->
+  <VTE.Breakdown>Расчёты</VTE.Breakdown>
+  <!-- EN: Performing transactions will incur a charge based on current Bank fee -->
+  <VTE.BreakdownBankDesc>За транзакции взимается плата, зависящая от комиссии банка</VTE.BreakdownBankDesc>
+  <!-- EN: Buying shares of Trading ships can be risky. Follow the news closely to know how the company you're invested in is doing. -->
+  <VTE.BreakdownStockMarketDesc>Покупка акций торговых компания связана с рисками. Внимательно следите за новостями, чтобы быть в курсе, как идут дела у ваших компаний.</VTE.BreakdownStockMarketDesc>
+
+  <!-- EN: Amount to deposit / withdraw -->
+  <VTE.AmountToDepositWithdraw>Внесение / Вывод</VTE.AmountToDepositWithdraw>
+  <!-- EN: Amount to deposit -->
+  <VTE.AmountToDeposit>Вносится</VTE.AmountToDeposit>
+  <!-- EN: Amount to withdraw -->
+  <VTE.AmountToWithdraw>Выводится</VTE.AmountToWithdraw>
+  <!-- EN: Fees to pay -->
+  <VTE.FeesToPay>Комиссия</VTE.FeesToPay>
+  <!-- EN: Total -->
+  <VTE.Total>Итого</VTE.Total>
+  <!-- EN: Loans -->
+  <VTE.Loans>Кредиты</VTE.Loans>
+  <!-- EN: Quick Cash loan -->
+  <VTE.QuickCashLoan>Быстрый кредит</VTE.QuickCashLoan>
+  <!-- EN: Short Term loan -->
+  <VTE.ShortTermLoan>Краткосрочный кредит</VTE.ShortTermLoan>
+  <!-- EN: Long Term loan -->
+  <VTE.LongTermLoan>Долгосрочный кредит</VTE.LongTermLoan>
+  <!-- EN: Mortgage loan -->
+  <VTE.MortgageLoan>Ипотечный кредит</VTE.MortgageLoan>
+  <!-- EN: Unlocks after putting your money on the deposit -->
+  <VTE.LoanOptionsUnlockText>Откроется после внесения денег на счёт</VTE.LoanOptionsUnlockText>
+  <!-- EN: Repay -->
+  <VTE.Repay>Погасить</VTE.Repay>
+  <!-- EN: By {0} ({1}) -->
+  <VTE.RepayDate>до {0} ({1})</VTE.RepayDate>
+  <!-- EN: By {0} ({1} left) -->
+  <VTE.RepayDateDaysLeft>до {0} ({1} осталось)</VTE.RepayDateDaysLeft>
+  <!-- EN: By {0} (overdue) -->
+  <VTE.RepayDateOverdue>до {0} (просрочен)</VTE.RepayDateOverdue>
+
+  <!-- EN: Take loan -->
+  <VTE.TakeLoan>Взять кредит</VTE.TakeLoan>
+  <!-- EN: Repay from balance -->
+  <VTE.RepayFromBalance>Заплатить со счёта</VTE.RepayFromBalance>
+  <!-- EN: Loans can only be paid back using bank balance. Make sure to have enough money in your bank when the loan time runs out, or repay it in full beforehand. Failing to have enough silver in your bank account and stocks can result in losing goodwill of the bank faction, as well as incur other consequences until the debt is settled. -->
+  <VTE.LoanExplanation>Кредиты оплачиваются исключительно со счёта в банке. Убедитесь, что у вас будет достаточно денег на счету, когда придёт время платить по кредиту. Или просто погасите его заранее. Отсутствие денег придёт к ухудшению отношений с фракцией-владелицей банка, а потом и к более серьёзным последствиям.</VTE.LoanExplanation>
+  <!-- EN: Relations with {FACTION_name} became hostile due to being indebted to their bank. -->
+  <VTE.IndebtedMessage>Отношения с фракцией {FACTION_name} становятся враждебными из-за вашей задолженности перед их банком.</VTE.IndebtedMessage>
+  <!-- EN: Collectors -->
+  <VTE.CollectorsLabel>Коллекторы</VTE.CollectorsLabel>
+  <!-- EN: A group of mercenaries have arrived nearby. They have been hired by {FACTION_name} to encourage you to pay off your debt. -->
+  <VTE.CollectorsText>Наёмники прибыли к поселению.
+
+Их наняла фракция {FACTION_name} для того, чтобы заставить вас заплатить по счетам.</VTE.CollectorsText>
+  <!-- EN: Pay off your debt using a trading terminal to stop them from coming back. -->
+  <VTE.CollectorsTextPartTwo>Выплатите свои долги через торговый терминал, чтобы коллекторы не пришли снова.</VTE.CollectorsTextPartTwo>
+
+  <!-- EN: Local News -->
+  <VTE.LocalNews>Новости</VTE.LocalNews>
+  <!-- EN: Filter by -->
+  <VTE.FilterBy>Выбрать</VTE.FilterBy>
+  <!-- EN: All -->
+  <VTE.All>Все</VTE.All>
+  <!-- EN: Only specific category -->
+  <VTE.OnlySpecificCategory>Определённые</VTE.OnlySpecificCategory>
+  <!-- EN: Only trader ship -->
+  <VTE.OnlyTradeShips>Торговые компании</VTE.OnlyTradeShips>
+  <!-- EN: Only bullish -->
+  <VTE.OnlyBullish>Только бычьи</VTE.OnlyBullish>
+  <!-- EN: Only bearish -->
+  <VTE.OnlyBearish>Только медвежьи</VTE.OnlyBearish>
+  <!-- EN: News -->
+  <VTE.News>Новости</VTE.News>
+  <!-- EN: Date -->
+  <VTE.Date>Дата</VTE.Date>
+  <!-- EN: Price history of {0} -->
+  <VTE.PriceHistory>История цен на {0}</VTE.PriceHistory>
+  <!-- EN: Price of {0} is squeezing. -->
+  <VTE.SqueezeMessage>Цена на {0} сжимается.</VTE.SqueezeMessage>
+  <!-- EN: Price of {0} is crashing. -->
+  <VTE.CrashMessage>Цена на {0} рухнула.</VTE.CrashMessage>
+  <!-- EN: Open stock market -->
+  <VTE.OpenStockMarket>Открыть биржу</VTE.OpenStockMarket>
+  <!-- EN: Company -->
+  <VTE.Company>Компания</VTE.Company>
+  <!-- EN: Value -->
+  <VTE.Value>Цена</VTE.Value>
+  <!-- EN: Shares held -->
+  <VTE.SharesHeld>Куплено</VTE.SharesHeld>
+  <!-- EN: Shares -->
+  <VTE.Shares>Акций</VTE.Shares>
+  <!-- EN: Profit -->
+  <VTE.Profit>Прибыль</VTE.Profit>
+  <!-- EN: Profit/Loss -->
+  <VTE.ProfitLoss>Прибыль
+Убыток</VTE.ProfitLoss>
+  <!-- EN: Chart history of {0} -->
+  <VTE.ChartHistory>История {0}</VTE.ChartHistory>
+  <!-- EN: Positive numbers buy. Negative numbers sell. -->
+  <VTE.SharesTransactionHeader>+ для покупки.
+- для продажи.</VTE.SharesTransactionHeader>
+  <!-- EN: Follow news -->
+  <VTE.FollowNews>Следить за новостями</VTE.FollowNews>
+  <!-- EN: Money in banks: {0} -->
+  <VTE.MoneyInBanks>Денег в банках: {0}</VTE.MoneyInBanks>
+  <!-- EN: Transaction cost -->
+  <VTE.TransactionCost>Расходы</VTE.TransactionCost>
+  <!-- EN: Transaction gain -->
+  <VTE.TransactionGain>Пополнения</VTE.TransactionGain>
+  <!-- EN: Money in banks after -->
+  <VTE.MoneyInBanksAfter>Состояние счёта</VTE.MoneyInBanksAfter>
+  <!-- EN: Select bank deposits to pay for shares -->
+  <VTE.BankDepositsToSpend>Выберите счёт в банке для списания</VTE.BankDepositsToSpend>
+  <!-- EN: Select bank deposits to put money from shares -->
+  <VTE.BankDepositsToGain>Выберите счёт в банке для пополнения</VTE.BankDepositsToGain>
+  <!-- EN: Transaction cost to pay: {0} -->
+  <VTE.TransactionCostToPay>Стоимость транзакции: {0}</VTE.TransactionCostToPay>
+  <!-- EN: Money to spend: {0} -->
+  <VTE.MoneyToSpend>Будет потрачено: {0}</VTE.MoneyToSpend>
+  <!-- EN: Transaction gain to transfer: {0} -->
+  <VTE.TransactionGainToTransfer>Стоимость транзакции: {0}</VTE.TransactionGainToTransfer>
+  <!-- EN: Money to transfer: {0} -->
+  <VTE.MoneyToTransfer>Будет переведено: {0}</VTE.MoneyToTransfer>
+  <!-- EN: Open contracts -->
+  <VTE.OpenContracts>Открыть контракты</VTE.OpenContracts>
+  <!-- EN: Contracts -->
+  <VTE.Contracts>Контракты</VTE.Contracts>
+  <!-- EN: Completing contracts will have the funds transferred to your bank account(s) and the items removed from your inventory. You need to be quick, as higher mark-up indicates that the contract is popular, and it might be snatched before the items are ready. -->
+  <VTE.ContractsExplanation>После завершения контракты деньги будут переведены на ваш счёт в банке, а товары удалены из инвентаря. Поторопитесь: прибыльные контракты пользуются популярностью, а, значит, найдётся немало желающих закрыть их раньше вас.</VTE.ContractsExplanation>
+  <!-- EN: Contract -->
+  <VTE.Contract>Контракт</VTE.Contract>
+  <!-- EN: Reward -->
+  <VTE.Reward>Выплата</VTE.Reward>
+  <!-- EN: Mark-up -->
+  <VTE.Markup>Маржа</VTE.Markup>
+  <!-- EN: Time until the end -->
+  <VTE.TimeUntilTheEnd>Оставшееся время</VTE.TimeUntilTheEnd>
+  <!-- EN: Your Contracts -->
+  <VTE.YourContracts>Ваши контракты</VTE.YourContracts>
+  <!-- EN: Complete contract -->
+  <VTE.CompleteContract>Завершить контракт</VTE.CompleteContract>
+  <!-- EN: Insufficient asset -->
+  <VTE.InsufficientAsset>Отсутствует товар</VTE.InsufficientAsset>
+  <!-- EN: Cancel contract -->
+  <VTE.CancelContract>Отменить контракт</VTE.CancelContract>
+  <!-- EN: Submit contract -->
+  <VTE.SubmitContract>Создать контракт</VTE.SubmitContract>
+  <!-- EN: Select item -->
+  <VTE.SelectItem>Выбрать товар</VTE.SelectItem>
+  <!-- EN: You can submit your own contracts. Specify the amount of the item, the mark-up and the duration. Longer contracts with higher mark-up have a higher chance of being completed. Not having enough money in the bank accounts to cover the contract reward will automatically cancel the contract. -->
+  <VTE.YourContractsExplanation>Вы можете создавать контракты. Выбирая количество требуемых товаров, маржу и срок завершения. Длительные контракты с высокой маржой имеют высокие шансы быть исполненными. Если у вас не будет достаточно не денег на счету, чтобы покрыть контракт, он автоматически отменится.</VTE.YourContractsExplanation>
+  <!-- EN: The caravan will arrive to pick up the contracted items in 3 days. Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
+  <VTE.ContractCompletedMessage>Караван прибудет к вам и в течение 3 дней будет ожидать товаров по контракту. Убедитесь, что они будут в наличии, когда караван прибудет. Платёж будет проведён, когда караван покинет ваше поселение.</VTE.ContractCompletedMessage>
+  <!-- EN: A caravan from {0} is approaching. They are collecting contracted items. -->
+  <VTE.LetterTraderCaravanArrival>Прибывает караван из {0}. Они пришли по контракту за товарами.</VTE.LetterTraderCaravanArrival>
+  <!-- EN: The caravan didn’t find the promised goods and leaves the area. Only {0} of {1} were collected. You will not receive any payment. -->
+  <VTE.CaravanDidNotCollectAllItems>Караван не нашёл обещанных товаров и покидает поселение. Было только {0} из {1} товаров. Вы не получите за них никакой платы.</VTE.CaravanDidNotCollectAllItems>
+  <!-- EN: Select bank deposits to put reward for completed contract -->
+  <VTE.BankDepositsToPutContractReward>Выберите счёт в банке, на который поступит выплата по контракту</VTE.BankDepositsToPutContractReward>
+  <!-- EN: The caravan could not obtain all of the items. They will pay {0} of the contract reward - total of {1} silver. Select bank deposits to put reward. -->
+  <VTE.BankDepositsToPutContractRewardPartially>Караван не смог забрать все товары. По контракту вы получите только {0} от {1} серебра. Выберите счёт в банке, на который поступит выплата.</VTE.BankDepositsToPutContractRewardPartially>
+  <!-- EN: Select -->
+  <VTE.Select>Выбрать</VTE.Select>
+  <!-- EN: Select stuff -->
+  <VTE.SelectStuff>Выбрать категорию</VTE.SelectStuff>
+  <!-- EN: Contract on {0} is fulfilled. Pay money from bank deposits to retrieve the goods. -->
+  <VTE.PayMoneyForContract>Контракт на {0} исполнен. Заплатите с вашего счёта, чтобы получить товары.</VTE.PayMoneyForContract>
+  <!-- EN: Contract fulfilled -->
+  <VTE.ContractFullfilled>Контракт исполнен</VTE.ContractFullfilled>
+  <!-- EN: A contract has been fulfilled by an interested party. The funds required have been transferred to them.
+Cargo pods are arriving containing: -->
+  <VTE.ContractFullfilledDesc>Контракт был исполнен заинтересованными лицами. Деньги за него были перечисленны им.
+Грузовые контейнеры скоро прибудут и принесут:
+</VTE.ContractFullfilledDesc>
+  <!-- EN: How often news will appear: -->
+  <VTE.NewsSpawnOption>Как часто будут приходить новости:</VTE.NewsSpawnOption>
+  <!-- EN: Player transaction impact multiplier on price fluctuation: -->
+  <VTE.PlayerTransactionImpactMultiplierOption>Множитель влияния сделок игрока на колебания цен:</VTE.PlayerTransactionImpactMultiplierOption>
+  <!-- EN: Player contract fulfilment chance multiplier: -->
+  <VTE.PlayerContractFulfilmentChanceMultiplier>Множитель исполнения контрактов игрока:</VTE.PlayerContractFulfilmentChanceMultiplier>
+  <!-- EN: NPC contract fulfilment chance multiplier: -->
+  <VTE.NPCContractFulfilmentChanceMultiplier>Множитель исполнения контрактов НИП:</VTE.NPCContractFulfilmentChanceMultiplier>
+  <!-- EN: Max available NPC contract count: -->
+  <VTE.MaxNPCContractCount>Максимум доступных контрактов от НИП:</VTE.MaxNPCContractCount>
+  <!-- EN: Max trade company count: -->
+  <VTE.MaxCompanyCount>Максимум торговых компаний:</VTE.MaxCompanyCount>
+  <!-- EN: Maximum mark-up on NPC contract: -->
+  <VTE.MaximumMarkupOnNPCContract>Максимальная маржа у контрактов НИП:</VTE.MaximumMarkupOnNPCContract>
+  <!-- EN: Multiplier of how much news affect the market: -->
+  <VTE.NewsPriceImpactMultiplier>Множитель влияния новостей на рынок:</VTE.NewsPriceImpactMultiplier>
+  <!-- EN: Amount of random item price fluctuations: -->
+  <VTE.AmountOfRandomItemsToFluctuate>Уровень случайности в колебаниях цен:</VTE.AmountOfRandomItemsToFluctuate>
+  <!-- EN: Reset price fluctuations -->
+  <VTE.ResetPriceChanges>Сбросить колебания цен</VTE.ResetPriceChanges>
+  <!-- EN: You can only take this loan again on {0}. -->
+  <VTE.YouCanTakeThisLoanOn>Вы можете повторно взять только этот кредит в банке {0}.</VTE.YouCanTakeThisLoanOn>
+</LanguageData>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: no fires nearby -->
+  <VME_Fire_Desired.stages.0.label>нет огня поблизости</VME_Fire_Desired.stages.0.label>
+  <!-- EN: It has been too long since I’ve seen a fire. -->
+  <VME_Fire_Desired.stages.0.description>Я слишком долго не {PAWN_gender ? видел : видела} огня.</VME_Fire_Desired.stages.0.description>
+
+ <!-- EN: very few fires -->
+  <VME_Fire_Desired.stages.1.label>немножечко огня</VME_Fire_Desired.stages.1.label>
+ <!-- EN: I miss seeing the open flames. -->
+ <VME_Fire_Desired.stages.1.description>Я скучаю по виду открытого пламени.</VME_Fire_Desired.stages.1.description>
+
+  <!-- EN: small fire -->
+ <VME_Fire_Desired.stages.2.label>небольшое пламя</VME_Fire_Desired.stages.2.label>
+  <!-- EN: I recently saw a small fire. -->
+  <VME_Fire_Desired.stages.2.description>Недавно я {PAWN_gender ? видел : видела} небольшой огонь. Вот бы ещё раз.</VME_Fire_Desired.stages.2.description>
+
+  <!-- EN: saw fire -->
+  <VME_Fire_Desired.stages.3.label>заметное пламя</VME_Fire_Desired.stages.3.label>
+  <!-- EN: I recently saw a burning flame. -->
+  <VME_Fire_Desired.stages.3.description>Недавно я {PAWN_gender ? видел : видела} горящее пламя. Мне от этого радостно.</VME_Fire_Desired.stages.3.description>
+
+  <!-- EN: amazing fires -->
+  <VME_Fire_Desired.stages.4.label>чудесные огни</VME_Fire_Desired.stages.4.label>
+  <!-- EN: I am surrounded by fire. -->
+  <VME_Fire_Desired.stages.4.description>Я {PAWN_gender ? окружен : окружена} огнем. Это прекрасно.</VME_Fire_Desired.stages.4.description>
+
+  <!-- EN: beautiful fires -->
+  <VME_Fire_Desired.stages.5.label>прекрасные огни</VME_Fire_Desired.stages.5.label>
+  <!-- EN: I am surrounded by many beautiful flames. This is fine. -->
+  <VME_Fire_Desired.stages.5.description>Меня окружает множество прекрасных языков пламени. Как замечательно.</VME_Fire_Desired.stages.5.description>
+
+
+  <!-- EN: no fires nearby -->
+  <VME_Fire_Despised.stages.0.label>нет огня поблизости</VME_Fire_Despised.stages.0.label>
+  <!-- EN: There are no fires nearby. That's good. -->
+  <VME_Fire_Despised.stages.0.description>Поблизости нет никакого огня. Это хорошо.</VME_Fire_Despised.stages.0.description>
+
+  <!-- EN: very few fires -->
+  <VME_Fire_Despised.stages.1.label>немножечко огня</VME_Fire_Despised.stages.1.label>
+  <!-- EN: Looking at those fires makes me uneasy. -->
+  <VME_Fire_Despised.stages.1.description>От вида этих огоньков мне становится не по себе.</VME_Fire_Despised.stages.1.description>
+
+  <!-- EN: small fire -->
+  <VME_Fire_Despised.stages.2.label>небольшое пламя</VME_Fire_Despised.stages.2.label>
+  <!-- EN: I recently saw a small fire. I'd rather see it extinguished. -->
+  <VME_Fire_Despised.stages.2.description>Недавно я {PAWN_gender ? видел : видела} небольшой огонь. Скорее бы он погас.</VME_Fire_Despised.stages.2.description>
+
+  <!-- EN: saw fire -->
+  <VME_Fire_Despised.stages.3.label>заметное пламя</VME_Fire_Despised.stages.3.label>
+  <!-- EN: I recently saw a burning flame. It makes me very uncomfortable! -->
+  <VME_Fire_Despised.stages.3.description>Недавно я {PAWN_gender ? видел : видела} горящее пламя. От него мне очень некомфортно!</VME_Fire_Despised.stages.3.description>
+
+  <!-- EN: blazing fires -->
+  <VME_Fire_Despised.stages.4.label>пылающие огни</VME_Fire_Despised.stages.4.label>
+  <!-- EN: I am surrounded by fire! This is horrible! -->
+  <VME_Fire_Despised.stages.4.description>Я {PAWN_gender ? окружен : окружена} огнем! Это ужасно!</VME_Fire_Despised.stages.4.description>
+
+  <!-- EN: conflagration -->
+  <VME_Fire_Despised.stages.5.label>пожар</VME_Fire_Despised.stages.5.label>
+  <!-- EN: AHHHHHH! Everything is on fire! -->
+  <VME_Fire_Despised.stages.5.description>А-а-а! Всё в огне!</VME_Fire_Despised.stages.5.description>
+</LanguageData>

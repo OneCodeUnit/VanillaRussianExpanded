@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>r_name->[fmechpart] [smechpart] [mechhive] [natoalphabet]</li>
+
+    <li>mechhive->mechhive</li>
+
+    <li>fmechpart->universal</li>
+    <li>fmechpart->high-powered</li>
+    <li>fmechpart->reactive</li>
+    <li>fmechpart->cybernated</li>
+    <li>fmechpart->self-reliant</li>
+    <li>fmechpart->cybernetic</li>
+    <li>fmechpart->self-regulated</li>
+    <li>fmechpart->solar</li>
+    <li>fmechpart->digital</li>
+    <li>fmechpart->neohuman</li>
+    <li>fmechpart->highpowered</li>
+    <li>fmechpart->automated</li>
+    <li>fmechpart->integrated</li>
+    <li>fmechpart->compact</li>
+    <li>fmechpart->ultimate</li>
+    <li>fmechpart->super</li>
+    <li>fmechpart->strategic</li>
+    <li>fmechpart->unified</li>
+    <li>fmechpart->independent</li>
+    <li>fmechpart->temporary</li>
+    <li>fmechpart->emergency</li>
+    <li>fmechpart->mechanical</li>
+    <li>fmechpart->programmed</li>
+    <li>fmechpart->strategic</li>
+    <li>fmechpart->nuclear</li>
+		
+    <li>smechpart->operations</li>
+		<li>smechpart->nullification</li>
+    <li>smechpart->terraforming</li>
+    <li>smechpart->invasion</li>
+    <li>smechpart->safety</li>
+    <li>smechpart->navigation</li>
+    <li>smechpart->termination</li>
+    <li>smechpart->harvesting</li>
+    <li>smechpart->response</li>
+    <li>smechpart->disposal</li>
+		<li>smechpart->war management</li>
+    <li>smechpart->riot control</li>
+    <li>smechpart->life simulation</li>
+    <li>smechpart->algorithm</li>
+    <li>smechpart->caretaker</li>
+    <li>smechpart->war</li>
+    <li>smechpart->collection</li>
+    <li>smechpart->enforcement</li>
+		
+    <li>natoalphabet->alpha</li>
+		<li>natoalphabet->bravo</li>
+    <li>natoalphabet->charlie</li>
+    <li>natoalphabet->delta</li>
+    <li>natoalphabet->echo</li>
+    <li>natoalphabet->foxtrot</li>
+		<li>natoalphabet->golf</li>
+    <li>natoalphabet->hotel</li>
+    <li>natoalphabet->india</li>
+    <li>natoalphabet->juliett</li>
+    <li>natoalphabet->kilo</li>
+		<li>natoalphabet->lima</li>
+    <li>natoalphabet->mike</li>
+    <li>natoalphabet->november</li>
+    <li>natoalphabet->oscar</li>
+    <li>natoalphabet->papa</li>
+		<li>natoalphabet->quebec</li>
+    <li>natoalphabet->romeo</li>
+    <li>natoalphabet->sierra</li>
+    <li>natoalphabet->tango</li>
+    <li>natoalphabet->uniform</li>
+		<li>natoalphabet->victor</li>
+    <li>natoalphabet->whiskey</li>
+    <li>natoalphabet->x-ray</li>
+    <li>natoalphabet->yankee</li>
+    <li>natoalphabet->zulu</li>
+  -->
+  <VFE_NamerFactionMechanoid.rulePack.rulesFiles>
+    <li>fmechpart->Words/adjective_meh</li>
+    <li>natoalphabet->Words/math_num</li>
+  </VFE_NamerFactionMechanoid.rulePack.rulesFiles>
+
+  <VFE_NamerFactionMechanoid.rulePack.rulesStrings>
+    <li>r_name->Мехрой [natoalphabet]-[Digit] «[fmechpart]ое [smechpart]»</li>
+    <li>r_name->Мехрой [natoalphabet]-[Digit] «[fmechpart]ая [smechpartF]»</li>
+
+    <li>smechpartF->война</li>
+    <li>smechpartF->опека</li>
+    <li>smechpartF->симуляция</li>
+    <li>smechpartF->жатва</li>
+    <li>smechpartF->операция</li>
+    <li>smechpartF->навигация</li>
+    <li>smechpartF->реакция</li>
+    <li>smechpartF->последовательность</li>
+    <li>smechpartF->эгида</li>
+    <li>smechpartF->битва</li>
+
+    <li>smechpart->принуждение</li>
+    <li>smechpart->прикрытие</li>
+		<li>smechpart->обнуление</li>
+    <li>smechpart->удаление</li>
+    <li>smechpart->управление</li>
+    <li>smechpart->терраформирование</li>
+    <li>smechpart->вторжение</li>
+    <li>smechpart->уничтожение</li>
+    <li>smechpart->собрание</li>
+    <li>smechpart->подавление</li>
+  </VFE_NamerFactionMechanoid.rulePack.rulesStrings>
+</LanguageData>

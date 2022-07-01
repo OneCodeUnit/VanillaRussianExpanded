@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Senators of {0} -->
+  <VFEC.UI.SenatorsOf>Сенаторы {replace: {0}; "Центральная Республика"-"центральной республики"; "Западная Республика"-"западной республики"; "Восточная Республика"-"восточной республики"}</VFEC.UI.SenatorsOf>
+  <!-- EN: Gaining the favor of this senator will unlock: -->
+  <VFEC.UI.GainingFavor>Благосклонность этого сенатора откроет:</VFEC.UI.GainingFavor>
+  <!-- EN: {0} perk -->
+  <VFEC.UI.Perk>Привилегия «{0}»</VFEC.UI.Perk>
+  <!-- EN: {0} research project -->
+  <VFEC.UI.Research>Исследование «{0}»</VFEC.UI.Research>
+  <!-- EN: Request a quest -->
+  <VFEC.UI.ReQuest>Запросить задание</VFEC.UI.ReQuest>
+  <!-- EN: Bribe ({0} silver) -->
+  <VFEC.UI.Bribe>Взятка ({0} серебра)</VFEC.UI.Bribe>
+  <!-- EN: Gaining the favor of all senators will unlock: -->
+  <VFEC.UI.GainingFavorAll>Благосклонность всех откроет:</VFEC.UI.GainingFavorAll>
+  <!-- EN: Senators in favor: {0}/{1} -->
+  <VFEC.UI.SenatorsInFavor>{0_numCase ? сенатор благосклонен : сенатора благосклонно : сенаторов благосклонно} из {1}</VFEC.UI.SenatorsInFavor>
+  <!-- EN: Gaining favor of a senator will have that senator join your colony. Losing that senator will force you to impress a new one. As such, you should aim to keep them alive.\n
+Gain support of all the senators to unlock unique perks and eventually unite the Republics under your rule. Once you gain favor of all 5 senators of any Republic, the perks are yours forever, no matter what happens to Senators. -->
+  <VFEC.UI.Info>Когда вы получите благосклонность сенатора, он присоединится к вашему поселению. Если он погибнет, вам придётся строить отношения с новым сенатором с нуля. Поэтому постарайтесь сохранить сенатора.\n
+Поддержка всех сенаторов даст вам уникальные привилегии и позволит объединить Республику под вашим началом. Получив благосклонность всех 5 сенаторов в любой из частей Республики, полученные привилегии останутся навсегда с вами вне зависимости от того, что произойдёт с сенаторами.</VFEC.UI.Info>
+  <!-- EN: You do not have enough money with you to do this. -->
+  <VFEC.UI.NotEnoughMoney>У вас не хватает денег для этого.</VFEC.UI.NotEnoughMoney>
+  <!-- EN: {0} has rejected your bribe and can no longer be bribed. -->
+  <VFEC.UI.BribeReject>Сенатор {0} отказался принимать взятку и более не может быть подкуплен.</VFEC.UI.BribeReject>
+  <!-- EN: Already have a quest for that senator. -->
+  <VFEC.UI.AlreadyQuest>Задание от этого сенатора уже взято.</VFEC.UI.AlreadyQuest>
+</LanguageData>

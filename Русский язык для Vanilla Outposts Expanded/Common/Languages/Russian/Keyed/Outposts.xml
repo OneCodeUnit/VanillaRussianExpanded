@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Research Rate -->
+  <Outposts.Settings.ResearchRate>Скорость исследований</Outposts.Settings.ResearchRate>
+  <!-- EN: Time To Drill (Needs to happen before production starts) -->
+  <Outposts.Settings.WorkToDrill>Время на бурение (Должно пройти, прежде, чем начнётся производство)</Outposts.Settings.WorkToDrill>
+  <!-- EN: Cooldown -->
+  <Outposts.Settings.Cooldown>Перезарядка</Outposts.Settings.Cooldown>
+  <!-- EN: Shooting Importance -->
+  <Outposts.Settings.Shooting>Важность дальнего боя</Outposts.Settings.Shooting>
+  <!-- EN: Animals Importance -->
+  <Outposts.Settings.Animals>Важность животноводства</Outposts.Settings.Animals>
+  <!-- EN: Need Transport Pods Tech to Deploy Reinforcements? -->
+  <Outposts.Settings.NeedPods>Требуется ли технология «Транспортные капсулы» для высадки подкреплений?</Outposts.Settings.NeedPods>
+  <!-- EN: Leather Multiplier -->
+  <Outposts.Settings.Leather>Множитель шкур</Outposts.Settings.Leather>
+  <!-- EN: Meat Multiplier -->
+  <Outposts.Settings.Meat>Множитель мяса</Outposts.Settings.Meat>
+  <!-- EN: Intercept Incoming Raids? -->
+  <Outposts.Settings.DoIntercept>Перехватывать приближающиеся налёты?</Outposts.Settings.DoIntercept>
+  <!-- EN: Recruit chance Multiplier -->
+  <Outposts.Settings.Chance>Множитель шанса найма</Outposts.Settings.Chance>
+  <!-- EN: Artillery Strike -->
+  <Outposts.Commands.Fire.Label>Артиллерийский залп</Outposts.Commands.Fire.Label>
+  <!-- EN: Begin targeting for an artillery strike -->
+  <Outposts.Commands.Fire.Desc>Отметить цель для залпа артиллерии.</Outposts.Commands.Fire.Desc>
+  <!-- EN: Still on cooldown -->
+  <Outposts.Commands.Disabled.Cooldown>Перезарядка</Outposts.Commands.Disabled.Cooldown>
+  <!-- EN: On cooldown: {0} left -->
+  <Outposts.Cooldown>На перезарядке. Осталось: {0}</Outposts.Cooldown>
+  <!-- EN: Raid Intercepted -->
+  <Outposts.Letters.Intercept.Label>Налёт перехвачен</Outposts.Letters.Intercept.Label>
+  <!-- EN: A raid bound for {0} has been intercepted by the defensive outpost {0}. Hopefully they can survive this brave maneuver. -->
+  <Outposts.Letters.Intercept.Text>Налёт на {0} был перехвачен оборонительным аванпостом {0}. Будем надеяться, что никто из наших не пострадал.</Outposts.Letters.Intercept.Text>
+  <!-- EN: Send Reinforcements -->
+  <Outposts.Commands.Deploy.Label>Отправить подкрепления</Outposts.Commands.Deploy.Label>
+  <!-- EN: Deploy the garrison of this outpost in drop pods to assist one of your combat engagements. -->
+  <Outposts.Commands.Deploy.Desc>Погрузить гарнизон аванпоста в транспортные капсулы, чтобы они могли помочь поселению в столкновении с врагом.</Outposts.Commands.Deploy.Desc>
+  <!-- EN: Cannot send: Drop pods are not available to you -->
+  <Outposts.Commands.Deploy.Disabled>Нельзя погрузить: транспортные капсулы недоступны</Outposts.Commands.Deploy.Disabled>
+  <!-- EN: Cannot send last pawn -->
+  <Outposts.Commands.Deploy.Only1>Нельзя погрузить последнего персонажа</Outposts.Commands.Deploy.Only1>
+  <!-- EN: Drilling boreholes. {0} done. Estimated time remaining: {1} -->
+  <Outposts.Drilling>Бурение скважин. {0} готовы. Осталось времени: {1}</Outposts.Drilling>
+  <!-- EN: Must be made in the {0} -->
+  <Outposts.MustBeMade>Должен быть расположен в {0}</Outposts.MustBeMade>
+  <!-- EN: Must be made in mountains or hills -->
+  <Outposts.MustBeMade.Hill>Должен быть расположен в горах или на возвышенностях</Outposts.MustBeMade.Hill>
+  <!-- EN: Total skill too low, needs {0} -->
+  <Outposts.SkillTooLow>Общий уровень навыка слишком низок. Требуется {0}</Outposts.SkillTooLow>
+  <!-- EN: Not enough nearby settlements, need {0} within {1} tiles -->
+  <Outposts.NearbySettlements>Недостаточно поселений поблизости. Требуется {0} на расстоянии {1} клеток</Outposts.NearbySettlements>
+  <!-- EN: Pawns Recruited: {0} -->
+  <Outposts.Letters.Recruit.Label>Требуется персонажей: {0}</Outposts.Letters.Recruit.Label>
+  <!-- EN: The following pawns have been newly recruited in the town of {0}:\n{1} -->
+  <Outposts.Letters.Recruit.Desc>В городе {0} были недавно завербованы:\n{1}</Outposts.Letters.Recruit.Desc>
+  <!-- EN: Change Factory -->
+  <Outposts.Commands.Factory.Label>Сменить завод</Outposts.Commands.Factory.Label>
+  <!-- EN: Change which factory building this outpost uses to produce items for you -->
+  <Outposts.Commands.Factory.Desc>Выбрать здание, которое будет производить ресурсы</Outposts.Commands.Factory.Desc>
+  <!-- EN: Change Result -->
+  <Outposts.Commands.Comb.Label>Сменить ресурс</Outposts.Commands.Comb.Label>
+  <!-- EN: Change what the factory produces -->
+  <Outposts.Commands.Comb.Desc>Выбрать, что завод будет производить</Outposts.Commands.Comb.Desc>
+  <!-- EN: Must be made on the coast or a river -->
+  <Outposts.MustBeOnCoastOrRiver>Должен быть расположен рядом с водой</Outposts.MustBeOnCoastOrRiver>
+  <!-- EN: All occupants must be armed and ready for combat. -->
+  <Outposts.MustBeArmed>Все должны быть вооружены и готовы к бою.</Outposts.MustBeArmed>
+  <!-- EN: May recruit some new pawns in {0} -->
+  <Outposts.WillProduce.Pawns>Новый персонаж может быть завербован через {0}</Outposts.WillProduce.Pawns>
+  <!-- EN: Raid Ambush Won -->
+  <Outposts.Defensive.Won.Label>Победа в засаде на налёт</Outposts.Defensive.Won.Label>
+  <!-- EN: Your soldiers have successfully defeated the incoming raid before it could reach your settlement. -->
+  <Outposts.Defensive.Won.Desc>Ваши войны разгромили приближающийся налёт до того, как он достиг вашего поселения.</Outposts.Defensive.Won.Desc>
+  <!-- EN: Raid Ambush Lost -->
+  <Outposts.Defensive.Lost.Label>Поражение в засаде на налёт</Outposts.Defensive.Lost.Label>
+  <!-- EN: Your soldiers have been defeated whilst ambushing a raid targetting your settlement. Luckily, the raiders have been discouraged by your audacity and have decided to return home without continuing on to your settlement. Your soldiers' sacrifice is not in vain. -->
+  <Outposts.Defensive.Lost.Desc>Ваши войны потерпели поражение в засаде на приближающийся к поселению налёт. К счастью, враги были обескуражены дерзкой атакой и решили вернуться восвояси. Жертва войнов не была напрасной.</Outposts.Defensive.Lost.Desc>
+</LanguageData>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Select Your Curses -->
+  <VFEP.ChooseCurses>Выбрать проклятия</VFEP.ChooseCurses>
+  <!-- EN: The more curses you select, the more pawns your storyteller will allow you to have, and the rarer big threat events will be. -->
+  <VFEP.ChooseCurses.Desc>Чем больше проклятий будет выбрано, тем больше поселенцев позволит иметь рассказчик и тем реже будут случаться серьёзные угрозы.</VFEP.ChooseCurses.Desc>
+  <!-- EN: Desired population max: {0} -->
+  <VFEP.DesiredPopMax>Желаемый макс. насел.: {0}</VFEP.DesiredPopMax>
+  <!-- EN: Days between Big Threats: {0} -->
+  <VFEP.DaysBigThreats>Дней между серьёз. угр.: {0}</VFEP.DaysBigThreats>
+  <!-- EN: Warcasket Customization -->
+  <VFEP.WarcasketCustom>Изменение брони мертвеца</VFEP.WarcasketCustom>
+  <!-- EN: When you press Accept, a crafter you’ve chosen will bring the resources onto the frame and begin
+assembling a warcasket. The speed of the assembly depends on the crafting skill of your crafter.
+Once the process is completed, a warcasket will leave the platform. Be careful, as the pawn
+on the platform can still die of hunger when on the platform - you should prioritize the warcasket
+assembly over other tasks. -->
+  <VFEP.WarcasketText>Когда вы нажмёте «Принять», выбранный мастер начнёт собрать ресурсы для сборки брони мертвеца.
+Скорость сборки будет зависеть от уровня навыка ремесла выбранного мастера.
+Только когда сборка будет завершена, броня мертвеца покинет платформу. Поселенец в броне может умереть от голода во время сборки.
+Постарайтесь отдать максимальный приоритет процессу сборки брони.</VFEP.WarcasketText>
+  <!-- EN: Work Amount: -->
+  <VFEP.WorkAmount>Объём работ:</VFEP.WorkAmount>
+  <!-- EN: Crafter -->
+  <VFEP.Crafter>Мастер:</VFEP.Crafter>
+  <!-- EN: Helmet: -->
+  <VFEP.Helmet>Шлем:</VFEP.Helmet>
+  <!-- EN: Shoulderpads: -->
+  <VFEP.Shoulderpads>Наплечники:</VFEP.Shoulderpads>
+  <!-- EN: Armor frame: -->
+  <VFEP.ArmorFrame>Броня:</VFEP.ArmorFrame>
+  <!-- EN: Total Cost: -->
+  <VFEP.TotalCost>Всего:</VFEP.TotalCost>
+  <!-- EN: Resource Cost: -->
+  <VFEP.ResourceCost>Всего ресурсов:</VFEP.ResourceCost>
+  <!-- EN: Research more warcasket technology to unlock more armor pieces. -->
+  <VFEP.ResearchText>Исследуйте больше технологий мертвеца, чтобы открыть больше листов брони.</VFEP.ResearchText>
+  <!-- EN: Research warcaskets to learn how to use the foundry. -->
+  <VFEP.NoWarcaskets>Исследуйте броню мертвеца, чтобы узнать как пользоваться цехом мертвеца.</VFEP.NoWarcaskets>
+  <!-- EN: Not enough chemfuel for power jump. -->
+  <VFEP.NotEnoughFuel>Не хватает химтоплива для силового прыжка.</VFEP.NotEnoughFuel>
+  <!-- EN: Siege mode off -->
+  <VFEP.SiegeModeOff>Осадный режим отключён</VFEP.SiegeModeOff>
+  <!-- EN: Siege mode on -->
+  <VFEP.SiegeModeOn>Осадный режим включён</VFEP.SiegeModeOn>
+  <!-- EN: Cannot entomp in warcasket: {0} -->
+  <VFEPirates.CannotEntomb>Нельзя заковать в броню мертвеца: {0}</VFEPirates.CannotEntomb>
+  <!-- EN: Entomb in warcasket -->
+  <VFEPirates.EntombInWarcasket>Заковать в броню мертвеца</VFEPirates.EntombInWarcasket>
+  <!-- EN:  (Warning: {PAWN_nameDef} is not capable of violence, it will make {PAWN_objective} useless.) -->
+  <VFEP.EntombInIncapableOfViolenceWarning> (Внимание: {PAWN_nameDef} не может причинять насилие и будет бесполезен.)</VFEP.EntombInIncapableOfViolenceWarning>
+  <!-- EN: Activate shield field -->
+  <VFEP.ActivateShield>Активировать щит</VFEP.ActivateShield>
+  <!-- EN: Click to activate the shield field. It has 10 seconds of active mode and then 90 seconds cooldown. -->
+  <VFEP.ActivateShieldDesc>Нажмите, чтобы активировать щит. Он будет активен 10 секунд, а потом уйдёт на 90 секунд на перезарядку.</VFEP.ActivateShieldDesc>
+  <!-- EN: Deploy small, combat-ready drones from the docking port in the back. These drones can be controlled to provide firing support, but will self-detonate after 60 seconds. -->
+  <VFEP.DeployWarDrone>Выпустить готовых к бою дронов из заднего отсека. Ими можно управлять для создания огневой поддержки, но они самоуничтожатся через 60 секунд.</VFEP.DeployWarDrone>
+  <!-- EN: Fire a long range spidermine that will automatically run towards the nearest enemy, detonating as soon as it reaches them. -->
+  <VFEP.DeploySpidermineDesc>Выстрелить на дальнее расстояние миной-пауком, которая начнёт двигаться к ближайшему врагу и сдетонирует как только дойдёт до него.</VFEP.DeploySpidermineDesc>
+  <!-- EN: Cancel -->
+  <VFEP.Cancel>Отменить</VFEP.Cancel>
+</LanguageData>

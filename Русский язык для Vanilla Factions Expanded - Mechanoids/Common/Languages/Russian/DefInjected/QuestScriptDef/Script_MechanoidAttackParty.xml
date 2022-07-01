@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+		<li>questName->Saving the people of [asker_faction_name]</li>
+		<li>questName->Mechanoids siege of [asker_faction_name]</li>
+		<li>questName->[asker_faction_name] Under Siege</li>
+		<li>questName->[asker_faction_name] Under Attack</li>
+  -->
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+		<li>questName->Спасти людей фракции [asker_faction_name]</li>
+		<li>questName->Механоиды штурмуют фракцию [asker_faction_name]</li>
+		<li>questName->[asker_faction_name] под атакой</li>
+  </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+
+
+    <!-- EN:
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] outpost is under attack by mechanoids.\n\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it to the outpost in time, the men you save can choose to join you.\n\nYou can expect the defenders to be heavily outnumbered and wounded.</li>
+  -->
+  <VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name], сообщает нам, что механоиды атакуют [asker_possessive] людей.\n\nУ [asker_nameDef] нет другой возможности помочь. Зато, если успеете вовремя, спасённые люди смогут присоединиться к вам, если того пожелают\n\nСтоит быть готовым к тому, что защищающиеся будут в меньшинстве и с тяжёлыми ранами.</li>
+  </VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The outpost has fallen to the mechanoid attack force. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>Силы механоидов прорвали оборону. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>
+  <!-- EN: Mechanoids defeated -->
+  <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>Механоиды побеждены</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>
+  <!-- EN: All mechanoids in the area have been defeated. -->
+  <VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>Все механоиды в округе уничтожены.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>
+</LanguageData>

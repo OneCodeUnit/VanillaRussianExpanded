@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Various -->
+
+	<VCEF_FishingGrowingZone>Рыбное место</VCEF_FishingGrowingZone>
+	<VCEF_FishingGrowingZoneDesc>Создать область, где ваши поселенцы смогут ловить рыбу.</VCEF_FishingGrowingZoneDesc>
+
+	<VCEF_ChooseFish>Стараться ловить</VCEF_ChooseFish>
+	<VCEF_ChooseFishDesc>Указать, рыбу какого размера, среди обитающих в этом климате, поселенец будет ловить. Маленькие рыбы ловятся быстро, но их питательная ценность мала, в то время как большие рыбы ловятся дольше, но обладают большей питательной ценностью. Скорость ловли и питательная ценность средних рыб находится между ними. Однако всегда остаётся шанс выловить какую-нибудь другую рыбу или особый предмет</VCEF_ChooseFishDesc>
+
+	<VCEF_ChooseFishSmallLabel>Маленьких рыб</VCEF_ChooseFishSmallLabel>
+	<VCEF_ChooseFishMediumLabel>Средних рыб</VCEF_ChooseFishMediumLabel>
+	<VCEF_ChooseFishLargeLabel>Больших рыб</VCEF_ChooseFishLargeLabel>
+
+	<VCEF_CommandAllowFishing>Разрешить рыбачить</VCEF_CommandAllowFishing>
+	<VCEF_CommandAllowFishingDesc>Разрешить ловить рыбу в этой зоне</VCEF_CommandAllowFishingDesc>
+
+	<VCEF_ZoneSetTo>Эта область предназначена для ловли рыбы размера</VCEF_ZoneSetTo>
+	<VCEF_FishesInThisZone>Можно поймать: </VCEF_FishesInThisZone>
+	<VCEF_IsZoneOceanZone>Океан: </VCEF_IsZoneOceanZone>
+	<VCEF_Yes>Да</VCEF_Yes>
+	<VCEF_No>Нет</VCEF_No>
+	<VCEF_ZoneTooSmall>Это область слишком мала. Область для рыбалки должна быть, как минимум, {0} клеток (проверка производится каждые несколько секунд. Снимите игру с паузы и подождите).</VCEF_ZoneTooSmall>
+
+	<VCEF_NoFish>В этом климате отсутствует рыба для ловли (это может произойти, если климат не поддерживается данным модом или просто безжизненный)</VCEF_NoFish>
+
+	<VCEF_CaughtSpecial>Во время рыбалки был пойман особый предмет: {1}</VCEF_CaughtSpecial>
+
+	<!-- Options -->
+	
+	<VCEF_minimumZoneSize>Минимальный размер зоны для рыбалки</VCEF_minimumZoneSize>
+	<VCEF_minimumZoneSizeTooltip>Минимальный размер зоны для рыбалки.Значение по умолчанию — 25 клеток</VCEF_minimumZoneSizeTooltip>
+	
+	<VCEF_smallFishDurationFactor>Базовая продолжительность ловли в тиках</VCEF_smallFishDurationFactor>
+	<VCEF_smallFishDurationFactorTooltip>Базовая продолжительность ловли в тиках. Значение по умолчанию для маленькой рыбы — 4500. Значение для средней рыбы будет удвоено, для большой устроенно. Уменьшение этого значение увеличит количество выловленной рыбы в день.</VCEF_smallFishDurationFactorTooltip>
+
+	<VCEF_chanceForSpecials>Шанс получить особый предмет вместо рыбы</VCEF_chanceForSpecials>
+	<VCEF_chanceForSpecialsTooltip>Шанс получить особый предмет вместо рыбы. По умолчанию 1% для каждого действия.</VCEF_chanceForSpecialsTooltip>
+	
+	<VCEF_minMapTempForLowFish>Минимальная температура для снижения клёва</VCEF_minMapTempForLowFish>
+	<VCEF_minMapTempForLowFishTooltip>Минимальная температура для снижения клёва. Когда температура опустится нижу этого значения, клёв будет значительно снижен. По умолчанию 0ºC.</VCEF_minMapTempForLowFishTooltip>
+	
+	<VCEF_maxMapTempForLowFish>Максимальная температура для снижения клёва</VCEF_maxMapTempForLowFish>
+	<VCEF_maxMapTempForLowFishTooltip>Максимальная температура для снижения клёва. Когда температура поднимется выше этого значения, клёв будет значительно снижен. По умолчанию 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+	
+	<VCEF_dropFish>Рыбак оставляет рыбу на земле вместо того, чтобы нести её на склад</VCEF_dropFish>
+</LanguageData>

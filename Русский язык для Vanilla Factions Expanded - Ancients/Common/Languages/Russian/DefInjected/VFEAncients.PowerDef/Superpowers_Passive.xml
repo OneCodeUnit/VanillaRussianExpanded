@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: eagle eye -->
+  <EagleEye.label>орлиный глаз</EagleEye.label>
+  <!-- EN: The depth perception in this subject has been remarkably improved alongside their reaction speed, allowing them to rapidly adjust the firing arc to hit targets twice as far away than otherwise possible. -->
+  <EagleEye.description>Острота зрения субъекта значительно улучшилась, а вместе с ней и скорость реакции, позволяя поражать цели на два раза более далёкой дистанции.</EagleEye.description>
+  <!-- EN: Ranged weapon range doubled. -->
+  <EagleEye.effectDescription>Дальность стрельбы удвоена.</EagleEye.effectDescription>
+
+  <!-- EN: marksmanship -->
+  <Marksmanship.label>снайпер</Marksmanship.label>
+  <!-- EN: The depth perception in this subject has been remarkably improved alongside their visual acuity, giving them perfect, pinpoint accuracy with ranged weapons. -->
+  <Marksmanship.description>Острота зрения субъекта значительно улучшилась, а вместе с ней и скорость реакции, позволяя поражать цели на далёкой дистанции с идеальной точностью.</Marksmanship.description>
+
+  <!-- EN: assassin -->
+  <Assassin.label>убийца</Assassin.label>
+  <!-- EN: The subject has become capable of landing very precise hits even in frantic melee or from very long range, knowing exactly where to aim in order to target the brain or the heart. -->
+  <Assassin.description>Субъект открыл способность наносить точные удары в мозг или сердце даже в пылу жаркой схватки или на очень большом расстоянии.</Assassin.description>
+  <!-- EN: All attacks hit vital organs (brain and heart). -->
+  <Assassin.effectDescription>Все удары задевают жизненноважные органы (мозг и сердце).</Assassin.effectDescription>
+
+  <!-- EN: super strength -->
+  <SuperStrength.label>нечеловеческая сила</SuperStrength.label>
+  <!-- EN: The muscles in this subject have been enhanced with spindles of dense fibre, greatly improving their power-to-mass ratio and making them almost twice as strong as before. This doubles their melee damage and both local and caravan inventory capacity. -->
+  <SuperStrength.description>Мышцы субъекта усилились плотными нитями, улучшив отношение силы к массе, сделав его почти в два раза сильнее. Помимо этого был дважды усилен урон в ближнем бою и вес переносимых грузов.</SuperStrength.description>
+  <!-- EN: Doubled melee damage. Doubled Caravan inventory size. Doubled local map inventory size. -->
+  <SuperStrength.effectDescription>Удвоен урон в ближнем бою. Удвоена вместимость каравана. Удвоен размер инвентаря.</SuperStrength.effectDescription>
+
+  <!-- EN: martial artist -->
+  <MartialArtist.label>мастер боевых искусств</MartialArtist.label>
+  <!-- EN: The reaction speed in this subject has been greatly improved alongside their hand-eye coordination, allowing them to always land hits and never be hit in melee engagements. -->
+  <MartialArtist.description>Скорость реакции субъекта значительно возросла, улучшилась координация движений, что позволило всегда наносить удары и никогда не получать их.</MartialArtist.description>
+  <!-- EN: Never misses melee attacks. Always dodges melee attacks. -->
+  <MartialArtist.effectDescription>Никогда не промахивается. Всегда уклоняется.</MartialArtist.effectDescription>
+
+  <!-- EN: bulletproof skin -->
+  <BulletproofSkin.label>пуленепробиваемый</BulletproofSkin.label>
+  <!-- EN: The skin and muscle fibre in this subject have become incredibly dense, preventing them from suffering any cuts. It does nothing to prevent bruising or their bones from breaking. -->
+  <BulletproofSkin.description>Кожа и мышцы субъекта стали невероятно плотными. Теперь он защищён он любых порезов, но не от ушибов или переломов.</BulletproofSkin.description>
+  <!-- EN: All sharp damage dealt to this pawn changes into blunt damage. -->
+  <BulletproofSkin.effectDescription>Весь проникающий урон персонажу становится дробящим уроном.</BulletproofSkin.effectDescription>
+
+  <!-- EN: plasteel skeleton -->
+  <PlasteelSkeleton.label>скелет из пластали</PlasteelSkeleton.label>
+  <!-- EN: The subject’s skeletal structure has been slowly but entirely replaced with Plasteel, with no flaws to be found anywhere. Their bones can be neither cracked nor broken. -->
+  <PlasteelSkeleton.description>Все кости субъекта были незаметно заменены на пласталь. Новый скелет идеален, ничем не отличается от родного. Разве что теперь кости не сломаются или будут сломаны.</PlasteelSkeleton.description>
+  <!-- EN: Immune to cracks and broken bones. -->
+  <PlasteelSkeleton.effectDescription>Иммунитет к переломам.</PlasteelSkeleton.effectDescription>
+
+  <!-- EN: self resurrection -->
+  <SelfResurrection.label>возрождение</SelfResurrection.label>
+  <!-- EN: The subject is practically a zombie, as when their bodily and mental functions cease their body enters suspended animation. Over the course of 3 days, their body will recover from any grave wounds and forcibly resurrect, with the majority of their wounds remaining. -->
+  <SelfResurrection.description>Субъект стал фактически зомби. Когда его тело или мозг перестают функционировать, он впадает в анабиоз на 3 дня. В течении этого времени тело избавится от большинства серьёзных ран и принудительно воскреснет. Мелкие раны сохранятся.</SelfResurrection.description>
+  <!-- EN: This pawn cannot die, and as long as the body exists, a few moments after dying, the pawn will spring back to live with no wounds at all. -->
+  <SelfResurrection.effectDescription>Персонаж не умрёт пока его тело существует. Через некоторое время после смерти воскресает без ран.</SelfResurrection.effectDescription>
+
+  <!-- EN: redundant stomach -->
+  <RedundantStomach.label>запасной желудок</RedundantStomach.label>
+  <!-- EN: The subject’s body has become so adept at extracting energy from the environment that they no longer need to eat. Such energy sources could be toxins, EMI fields, sunlight, static charges or radiation. -->
+  <RedundantStomach.description>Тело субъекта научилось извлекать энергию из окружающей среды и субъекту больше не нужно есть. Теперь энергию можно получать из: токсинов, ЭМИ-полей, солнечного света, статических зарядов или радиации.</RedundantStomach.description>
+  <!-- EN: Regenerate hunger passively, removing the need to eat completely. -->
+  <RedundantStomach.effectDescription>Пассивно восстанавливает шкалу голода, полностью устраняет потребность в еде.</RedundantStomach.effectDescription>
+
+  <!-- EN: darkvision -->
+  <Darkvision.label>темновидение</Darkvision.label>
+  <!-- EN: The subject develops reflective membranes in the back of their eyes that are also very slightly bioluminescent, and their pupils are converted into vertical slits. This means they can see even in pitch dark as if it was broad daylight. -->
+  <Darkvision.description>У субъекта развиваются отражающие биолюминесцентные мембраны в задней части глаз, а его зрачки становятся узкими и вертикальными. Теперь он может видеть даже в кромешной темноте так, как если бы это было средь бела дня.</Darkvision.description>
+  <!-- EN: No darkness penalty or mood debuff. -->
+  <Darkvision.effectDescription>Отсутствую штрафы к темноте.</Darkvision.effectDescription>
+
+  <!-- EN: regenerating limbs -->
+  <RegeneratingLimbs.label>регенерирующие конечности</RegeneratingLimbs.label>
+  <!-- EN: The subject’s body has developed a mutated fungal colony that can replicate missing organs or limbs by “remembering” what the body is missing. -->
+  <RegeneratingLimbs.description>В теле субъекта развилась мутировавшая грибковая колония, которая может воспроизводить недостающие органы или конечности, «вспоминая», чего не хватает телу.</RegeneratingLimbs.description>
+  <!-- EN: Missing limbs and organs will grow back after some time has passed. -->
+  <RegeneratingLimbs.effectDescription>Недостающие органы и конечности отрастают со временем.</RegeneratingLimbs.effectDescription>
+
+  <!-- EN: efficient builder -->
+  <EfficientBuilder.label>эффективный строитель</EfficientBuilder.label>
+  <!-- EN: The subject has developed an unusual ability for sensing and predicting stresses in structures, allowing them to save a quarter of the resources half of the time without risking structural integrity. -->
+  <EfficientBuilder.description>Субъект развил необычную способность ощущать и прогнозировать напряжения в постройках, позволяя экономить четверть ресурсов в половине случаев без ущерба прочности постройки.</EfficientBuilder.description>
+  <!-- EN: 50% chance that building something will refund 25% resources used to build it. -->
+  <EfficientBuilder.effectDescription>50% вероятность вернуть 25% ресурсов при постройке.</EfficientBuilder.effectDescription>
+
+  <!-- EN: masterful craft -->
+  <MasterfulCraft.label>masterful craft</MasterfulCraft.label>
+  <!-- EN: The subject’s tactile sensitivity and hand-eye-coordination has skyrocketed, giving them superb handicraft skills and consistently being able to put out items 2 grades higher than similar workers. -->
+  <MasterfulCraft.description>Чувствительность и координация рук и глаз субъекта резко возросли, позволяя демонстрировать превосходные навыки рукоделия и регулярно создавать предметы на 2 класса выше, чем у других.</MasterfulCraft.description>
+  <!-- EN: Items crafted are always 2 quality levels higher, capped at Legendary. -->
+  <MasterfulCraft.effectDescription>Создаваемые предметы всегда получаются на два уровня выше, но не выше легендарного.</MasterfulCraft.effectDescription>
+
+  <!-- EN: cold resistance -->
+  <ColdResistance.label>сопротивление холоду</ColdResistance.label>
+  <!-- EN: The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the cold. They function by overstimulating the body’s muscles to generate heat, a feeling similar to twitching almost non-stop that they learn to ignore even if it happens during sleep. -->
+  <ColdResistance.description>У субъекта по всему телу появились крошечные узелки, способные защитить от холода. Они функционируют за счёт чрезмерной стимуляции мышц тела для выработки тепла. У субъекта возникает чувство почти непрерывного подергивания мышц, которое ещё нужно научиться игнорировать. Особенно во время сна.</ColdResistance.description>
+  <!-- EN: Will never suffer hypothermia. Does not suffer Slept in Cold debuff. -->
+  <ColdResistance.effectDescription>Иммунитет к гипотермии и штрафу «сон на холоде».</ColdResistance.effectDescription>
+
+  <!-- EN: heat resistance -->
+  <HeatResistance.label>сопротивление жару</HeatResistance.label>
+  <!-- EN: The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the heat. They function by overstimulating the body’s sweat glands and as such they will never suffer from heatstroke, they cannot be set on fire and ignore the disgust of being Sweaty. -->
+  <HeatResistance.description>У субъекта по всему телу появились крошечные узелки, способные защитить от жары. Они функционируют за счёт чрезмерной стимуляции потовых желёз организма. Субъект никогда не пострадает от теплового удара, его нельзя поджечь и заставить смириться с постоянным потением.</HeatResistance.description>
+  <!-- EN: Will never suffer heat stroke. Does not suffer Sweaty debuff. Cannot be set on fire. -->
+  <HeatResistance.effectDescription>Иммунитет к тепловому удару и штрафу «жарко». Не горит.</HeatResistance.effectDescription>
+
+  <!-- EN: celebrity -->
+  <Celebrity.label>знаменитость</Celebrity.label>
+  <!-- EN: The subject’s social awareness and general likeability has become almost legendary. They always know the right thing to say and no one can get over just how gosh darned likeable they are. -->
+  <Celebrity.description>Социальные навыки субъекта и его привлекательность стали почти что легендарными. Его слова бьют в самое сердце, а его привлекательность разит наповал.</Celebrity.description>
+  <!-- EN: All social interactions are Kind Words. People tend to like Celebrity pawn 2x as much. -->
+  <Celebrity.effectDescription>Все социальные взаимодействия вызывают чувство поддержки. Люди относятся к знаменитостям в два раза лучше.</Celebrity.effectDescription>
+
+  <!-- EN: master hacker -->
+  <MasterHacker.label>хакерман</MasterHacker.label>
+  <!-- EN: The subject has developed an unusual mental alacrity when it comes to resolving computer code. When forced to explain, they can only respond “it just works”. This allows the subject to conduct all the hacking operations instantaneously. -->
+  <MasterHacker.description>У субъекта развилось необычная быстрота ума при решении программистских задач. Как он это делает, никто не понимает. «Это просто работает», «вот так вот». Так или иначе у него получается мгновенно проводить взломы.</MasterHacker.description>
+  <!-- EN: All hacking operations initiated by this pawn are instant. -->
+  <MasterHacker.effectDescription>Все взломы, проводимые персонажем, завершаются мгновенно.</MasterHacker.effectDescription>
+
+  <!-- EN: loner -->
+  <Loner.label>одиночка</Loner.label>
+  <!-- EN: The subject is capable of attaining a form of meditative Zen when they are by themselves, able to replenish Recreation if in solitude. -->
+  <Loner.description>Субъект научился достигать Дзена, когда он в одиночестве. Он способен восполнять удовлетворённость, когда находится в одиночестве.</Loner.description>
+  <!-- EN: Recreation replenishes if alone in the room. -->
+  <Loner.effectDescription>Удовлетворённость растёт, когда персонаж один в комнате.</Loner.effectDescription>
+
+  <!-- EN: blast resistance -->
+  <BlastResistance.label>защита от взрывов</BlastResistance.label>
+  <!-- EN: The subject’s skin has changed to be non-Newtonian, hardening when exposed to extremely high impact velocities such as grenade shrapnel. -->
+  <BlastResistance.description>Кожа субъекта изменилась и стала неньютоновской, затвердевая при воздействии чрезвычайно сильных ударов, таких как взрыв гранаты.</BlastResistance.description>
+  <!-- EN: Takes no damage from explosions. -->
+  <BlastResistance.effectDescription>Не получает урона от взрывов.</BlastResistance.effectDescription>
+
+  <!-- EN: promising candidate -->
+  <PromisingCandidate.label>многообещающий</PromisingCandidate.label>
+  <!-- EN: For a lack of better term, the subject’s genes have been perfected for genetic alterations. They are completely malleable and can be improved without issue or risk of the critical experiment failure. -->
+  <PromisingCandidate.description>Это сложно объяснить, но гены субъекта стали идеальны для генетических изменений. Они совершенно податливы и могут быть улучшены без проблем или риска провала эксперимента.</PromisingCandidate.description>
+  <!-- EN: Chances of Experiment failed are always reduced to 0%. -->
+  <PromisingCandidate.effectDescription>Вероятность провала эксперимента всегда 0%.</PromisingCandidate.effectDescription>
+</LanguageData>

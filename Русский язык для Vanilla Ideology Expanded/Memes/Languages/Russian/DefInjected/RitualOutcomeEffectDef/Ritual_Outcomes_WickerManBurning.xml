@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: A prisoner of the colony will be locked in a cage, and set fire, killing the prisoner in the process. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_WickerManBurningOutcome.description>Заключённый будет заперт в клетке и сожжён. В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</VME_WickerManBurningOutcome.description>
+  <!-- EN: participant count -->
+  <VME_WickerManBurningOutcome.comps.0.label>количество участников</VME_WickerManBurningOutcome.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_WickerManBurningOutcome.comps.1.label>социальное влияние {PAWN_labelShort}</VME_WickerManBurningOutcome.comps.1.label>
+  <!-- EN: speaker's social impact -->
+  <VME_WickerManBurningOutcome.comps.1.labelAbstract>социальное влияние оратора</VME_WickerManBurningOutcome.comps.1.labelAbstract>
+
+  <!-- EN: Terrible -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.label>отвратительно</VME_WickerManBurningOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The prisoner rattled the cage all the time and it smelled like rotten bacon. -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.description>{0} было отвратительным! Заключённый всё время гремел клеткой, а ещё от него пахло тухлым салом.</VME_WickerManBurningOutcome.outcomeChances.0.description>
+
+  <!-- EN: Lackluster -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.label>уныло</VME_WickerManBurningOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The prisoner just burned to death too fast, and the fire didn't even lift our spirits much. -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.description>{0} было унылым. Заключённый просто слишком быстро сгорел заживо, огонь не сильно поднял нам настроение.</VME_WickerManBurningOutcome.outcomeChances.1.description>
+
+  <!-- EN: Good -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.label>хорошо</VME_WickerManBurningOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.description>{0} было хорошим. Мучительные крики пленника ещё долго будут резонировать с нами. Это ещё одна душа, поглощённая пламенем.</VME_WickerManBurningOutcome.outcomeChances.2.description>
+
+  <!-- EN: Glorious -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.label>славно</VME_WickerManBurningOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was glorious! We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.description>{0} было славно! Мы навсегда запомним трепет заключённого, испуганное крещендо криков, когда ещё одна душа была поглощена священным пламенем.</VME_WickerManBurningOutcome.outcomeChances.3.description>
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient security turret -->
+  <VFEA_Turret_AncientSecurityTurret.label>древняя охранная турель</VFEA_Turret_AncientSecurityTurret.label>
+  <!-- EN: A portable automatic turret. Basic in shape and form, but incredibly reliable. -->
+  <VFEA_Turret_AncientSecurityTurret.description>Небольшая переносимая автоматическая турель. Простая, но надёжная.</VFEA_Turret_AncientSecurityTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: ancient security turret gun -->
+  <VFEA_Gun_AncientSecurityTurret.label>древняя охранная турель</VFEA_Gun_AncientSecurityTurret.label>
+  <!-- EN: A very reliable automatic gun made to be mounted on a turret.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents. -->
+  <VFEA_Gun_AncientSecurityTurret.description>Крайне надёжная автоматическая пушка переделанная в турель.\n\nДанное устройство было сделано при помощи утраченных технологий древних цивилизаций и не может быть воспроизведено. Оно никогда не будет ломаться, а также более эффективно во время солнечных вспышек.</VFEA_Gun_AncientSecurityTurret.description>
+
+
+  <!-- EN: ancient point defense turret -->
+  <VFEA_Turret_AncientPointDefense.label>древняя турель точечной обороны</VFEA_Turret_AncientPointDefense.label>
+  <!-- EN:A large turret often used to defend ancient complexes. Uses two miniguns to quickly dispose of enemies and explosive projectiles.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents. -->
+  <VFEA_Turret_AncientPointDefense.description>Типичная для построек древних оборонительная система. Представляет из себя турель с двумя миниганами для быстрого уничтожения врагов и снарядов.\n\nДанное устройство было сделано при помощи утраченных технологий древних цивилизаций и не может быть воспроизведено. Оно никогда не будет ломаться, а также более эффективно во время солнечных вспышек.</VFEA_Turret_AncientPointDefense.description>
+  <!-- EN: Barrel durability -->
+  <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: ancient point defense turret -->
+  <VFEA_Gun_AncientPointDefenseTurret.label>древняя турель точечной обороны</VFEA_Gun_AncientPointDefenseTurret.label>
+  <!-- EN: An array of miniguns that can be attached to a turret. -->
+  <VFEA_Gun_AncientPointDefenseTurret.description>Миниганы, закреплённые на турели.</VFEA_Gun_AncientPointDefenseTurret.description>
+</LanguageData>

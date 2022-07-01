@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MentalStateEnraged.label>бешенство</MentalStateEnraged.label>
+
+  <MentalStateEnraged.rulePack.rulesStrings>
+    <li>tale_noun->как [PAWN_nameDef] становится бешеным</li>
+    <li>image->, как [PAWN_nameFull] впадает в бешенство[circumstance_phrase]</li>
+    <li>image->, как [PAWN_nameFull] сходит с ума[circumstance_phrase]</li>
+    <li>image->, как [PAWN_nameFull] ковыляет вперёд с видом психопата[circumstance_phrase]</li>
+    <li>circumstance_phrase->, пытаясь при этом раздеться</li>
+    <li>circumstance_phrase->, получив серьезные раны</li>
+    <li>circumstance_phrase->, в то время как другие корчатся от страха</li>
+    <li>circumstance_phrase->, в то время как [PAWN_possessive] друг спасается бегством</li>
+    <li>circumstance_phrase->[empty] из-за стресса</li>
+    <li>circumstance_phrase->, не владея более собой</li>
+    <li>desc_sentence->[PAWN_pronoun] дрожит от неконтролируемой ярости.</li>
+    <li>desc_sentence->[PAWN_possessive] зубы обнажаются в смертоносном оскале.</li>
+    <li>desc_sentence->в [PAWN_possessive] замерших глазах плещется безумие.</li>
+    <li>desc_sentence->Плевки летят из [PAWN_possessive] рта, в то время как [PAWN_pronoun] кричит в безумной ярости.</li>
+    <li>desc_sentence->[PAWN_pronoun] рвёт на себе одежду.</li>
+    <li>desc_sentence->[PAWN_pronoun] корчится в мученических гримасах.</li>
+    <li>desc_sentence->[PAWN_pronoun] маниакально улыбается.</li>
+    <li>desc_sentence->[PAWN_pronoun] рычит, как [Animal].</li>
+    <li>desc_sentence->Над [PAWN_possessive] головой символически изображается [Animal].</li>
+    <li>desc_sentence->В [PAWN_possessive] глазах виден убийственный блеск.</li>
+    <li>desc_sentence->Всё [PAWN_possessive] тело дрожит от ненависти.</li>
+    <li>desc_sentence->[PAWN_possessive] лицо замерло в извращённом спокойствии.</li>
+    <li>desc_sentence->Одинокая слеза скатывается по [PAWN_possessive] лицу.</li>
+  </MentalStateEnraged.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NocturnalAnimals.BodyClock>Внутренние часы</NocturnalAnimals.BodyClock>
+	<NocturnalAnimals.BodyClock_Description>Они определяют время, когда животное спит, а когда бодрствует.\n\nДневные животные спят ночью и бодрствуют днём, а ночные спят днём и бодрствуют ночью. Сумеречные животные активны вечером.</NocturnalAnimals.BodyClock_Description>
+
+	<NocturnalAnimals.BodyClock_Diurnal>Дневные</NocturnalAnimals.BodyClock_Diurnal>
+	<NocturnalAnimals.BodyClock_Nocturnal>Ночные</NocturnalAnimals.BodyClock_Nocturnal>
+	<NocturnalAnimals.BodyClock_Crepuscular>Сумеречные</NocturnalAnimals.BodyClock_Crepuscular>
+
+  <VEF_AsexualHatched>{0} размножается бесполым путём.</VEF_AsexualHatched>
+  <VEF_AsexualCloning>{0} клонировался.</VEF_AsexualCloning>
+  <VEF_AsexualHatchedEgg>{0} выпустил споры.</VEF_AsexualHatchedEgg>
+  <VEF_NotTameable>Это существо неприручаемо</VEF_NotTameable>
+  <VEF_TimeToMetamorphosis>Превращение через {0}</VEF_TimeToMetamorphosis>
+
+  <VEF_WarningEggExplodes>Внимание! Это яйцо взорвётся при вылуплении.</VEF_WarningEggExplodes>
+
+  <VEF_TimeToDie>Животное умрёт через {0}</VEF_TimeToDie>
+
+	<VEF_DisableAnimal>Отключить {0}</VEF_DisableAnimal>
+
+  <VEF_StomachContents>{0} существ, проглоченных целиком.</VEF_StomachContents>
+  <VEF_DigestionTime>Будет поглощено через {0}</VEF_DigestionTime>
+
+  <VEF_TerrainsNeedsDiggable>Требуется поверхность, на которой можно копать</VEF_TerrainsNeedsDiggable>
+
+  <VEF_WhileCaravaning>Во время путешествий производит {0} {1} каждые </VEF_WhileCaravaning>
+
+  <!-- Mod options -->
+  <VCE_AffectsAllAnimalMods>Эти параметры повлияют на всех животных из модов, использующих код Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+  <VCE_CorpseDecayingEffectOption>Разрешить разлагать и переваривать останки (пример — Helixien slug)</VCE_CorpseDecayingEffectOption>
+  <VCE_DigWhenHungryOption>Разрешить рыться в земле в поисках пищи (пример — пингвины)</VCE_DigWhenHungryOption>
+  <VCE_DigPeriodicallyOption>Разрешить иногда рыться в земле в поисках что-нибудь (пример — внезапник)</VCE_DigPeriodicallyOption>
+  <VCE_AnimalParticlesOption>Разрешить визуальные эффекты (пример — желейный ползун)</VCE_AnimalParticlesOption>
+  <VCE_AsexualReproductionOption>Разрешить бесполое размножение (пример — Red Goo)</VCE_AsexualReproductionOption>
+  <VFE_AsexualReproductionDisabled>Бесполое размножение отключено настройками мода</VFE_AsexualReproductionDisabled>
+  <VCE_BlinkMechanicsOption>Разрешить механику «мерцания» между двумя позициями</VCE_BlinkMechanicsOption>
+  <VCE_BuildPeriodicallyOption>Разрешить строить здания (пример — бобры)</VCE_BuildPeriodicallyOption>
+  <VCE_ChargeBatteriesOption>Разрешить заряжать батареи и заправлять генераторы</VCE_ChargeBatteriesOption>
+  <VCE_ExplodingEggsOption>Разрешить яйцам взрываться (пример — Dragons: Race to the Rim)</VCE_ExplodingEggsOption>
+  <VCE_HoveringOption>Разрешить животным «парить» и игнорировать штрафы от местности</VCE_HoveringOption>
+  <VCE_GraphicChangingOption>Разрешить динамически менять внешний вид (пример — Chameleon Yak)</VCE_GraphicChangingOption>
+  <VCE_EffecterOption>Разрешить вызывать эффекты, душевные состояния и мысли (пример — Witcher Monster Hunt)</VCE_EffecterOption>
+  <VCE_RegenerationOption>Разрешить регенерацию (активную и пассивную)</VCE_RegenerationOption>
+  <VCE_ResurrectionOption>Разрешить автовоскрешение (пример — Phoenix Owlcat)</VCE_ResurrectionOption>
+  <VCE_UntameableOption>Разрешить неприручаемость (пример — Королева инсектоидов)</VCE_UntameableOption>
+
+  <!-- Bills -->
+	
+	<VEF_BillRequiresMass>Требуется масса в {0} кг</VEF_BillRequiresMass>
+
+</LanguageData>

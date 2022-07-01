@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Solar flare power up -->
+  <VFEAncients.SolarPowerUp>Бонус от вспышки на солнце</VFEAncients.SolarPowerUp>
+  <!-- EN: Powers -->
+  <VFEAncients.TabPowers>Силы</VFEAncients.TabPowers>
+  <!-- EN: Superpowers -->
+  <VFEAncients.Superpowers>Суперсилы</VFEAncients.Superpowers>
+  <!-- EN: Weaknesses -->
+  <VFEAncients.Weaknesses>Слабости</VFEAncients.Weaknesses>
+  <!-- EN: Effects: -->
+  <VFEAncients.Effects>Эффекты:</VFEAncients.Effects>
+  <!-- EN: Give ability: {0} -->
+  <VFEAncients.Effect.AddAbility>Добавить способность: {0}</VFEAncients.Effect.AddAbility>
+  <!-- EN: Add health condition: {0} -->
+  <VFEAncients.Effect.AddHediff>Добавить состояние здоровья: {0}</VFEAncients.Effect.AddHediff>
+  <!-- EN: Nullify thought: {0} -->
+  <VFEAncients.Effect.NullThought>Избавиться от мысли: {0}</VFEAncients.Effect.NullThought>
+  <!-- EN: 100% (Marksmanship) -->
+  <VFEAncients.MarksmanshipTooltip>100% (стрельба)</VFEAncients.MarksmanshipTooltip>
+  <!-- EN: Reason: Killed someone -->
+  <VFEAncients.Reason.KilledSomeone>Причина: убил кого-то</VFEAncients.Reason.KilledSomeone>
+  <!-- EN: Reason: Rebuffed by {0} -->
+  <VFEAncients.Reason.Rejected>Причина: заменено на {0}</VFEAncients.Reason.Rejected>
+  <!-- EN: Cannot prioritize: {0} is audacious -->
+  <VFEAncients.CannotPrioritizeAudacious>Не задать приоритет: {0} не подчиняется</VFEAncients.CannotPrioritizeAudacious>
+  <!-- EN: Caused by power: {0} -->
+  <VFEAncients.IncapableOfTooltipPower>Вызвано силой: {0}</VFEAncients.IncapableOfTooltipPower>
+  <!-- EN: Not in mental state -->
+  <VFEAncients.NotInMentalState>Не имеет душевного состояния</VFEAncients.NotInMentalState>
+  <!-- EN: Not an animal -->
+  <VFEAncients.NotAnimal>Не является животным</VFEAncients.NotAnimal>
+  <!-- EN: Not applicable to tame animals -->
+  <VFEAncients.Tame>Не применимо к прирученным животным</VFEAncients.Tame>
+  <!-- EN: No possible targets -->
+  <VFEAncients.NoTargets>Нет доступных целей</VFEAncients.NoTargets>
+  <!-- EN: Refills in {0} -->
+  <VFEAncients.RefillsIn>Пополнение через {0}</VFEAncients.RefillsIn>
+  <!-- EN: Enter gene-tailoring pod -->
+  <VFEAncients.EnterGeneTailoringPod>Войти в капсулу биоподгонки</VFEAncients.EnterGeneTailoringPod>
+  <!-- EN: Carry {0} to gene-tailoring pod -->
+  <VFEAncients.CarryToGeneTailoringPod>Переносит {0} в капсулу биоподгонки</VFEAncients.CarryToGeneTailoringPod>
+  <!-- EN: Carry {0} to bio battery -->
+  <VFEAncients.CarryToBioBattery>Переносит {0} в биоаккумулятор</VFEAncients.CarryToBioBattery>
+  <!-- EN: Add superpower -->
+  <VFEAncients.Empower>Добавить суперсилу</VFEAncients.Empower>
+  <!-- EN: Remove weakness -->
+  <VFEAncients.RemoveWeakness>Удалить слабость</VFEAncients.RemoveWeakness>
+  <!-- EN: Experiment Success: {0} -->
+  <VFEAncients.Empowered.Label>Эксперимент успешен: {0}</VFEAncients.Empowered.Label>
+  <!-- EN: The experiment in the gene-tailoring pod has been a success! {0} has gained the power {1}. However, they have also gained the weakness {2}. -->
+  <VFEAncients.Empowered.Text>Эксперимент в капсуле биоподгонки успешно завершён! {0} получает {1}. Но, к сожалению, и слабость {2}.</VFEAncients.Empowered.Text>
+  <!-- EN: Experiment Success: {0} -->
+  <VFEAncients.RemoveWeakness.Label>Эксперимент успешен: {0}</VFEAncients.RemoveWeakness.Label>
+  <!-- EN: The experiment in the gene-tailoring pod has been a success! {0} has lost the weakness {1}. -->
+  <VFEAncients.RemoveWeakness.Text>Эксперимент в капсуле биоподгонки успешно завершён! {0} больше не имеет {1}.</VFEAncients.RemoveWeakness.Text>
+  <!-- EN: Start Operation -->
+  <VFEAncients.StartOperation>Начать операцию</VFEAncients.StartOperation>
+  <!-- EN: Current operation -->
+  <VFEAncients.CurrentOperation>Текущая операция</VFEAncients.CurrentOperation>
+  <!-- EN: Experiment failed -->
+  <VFEAncients.ExperimentFailed>Эксперимент провалился</VFEAncients.ExperimentFailed>
+  <!-- EN: Death -->
+  <VFEAncients.Death>Смерть</VFEAncients.Death>
+  <!-- EN: Subject has died and the experiment failed. No new powers were granted. -->
+  <VFEAncients.ExperimentFailed.Death>Подопытный умер и эксперимент провалился. Никаких новых сил получено не было.</VFEAncients.ExperimentFailed.Death>
+  <!-- EN: Berserk -->
+  <VFEAncients.Berserk>Берсерк</VFEAncients.Berserk>
+  <!-- EN: Subject has suffered severe brain damage and has gone mad. No new powers were granted. -->
+  <VFEAncients.ExperimentFailed.Berserk>Подопытный серьёзно повредил мозг и сошёл с ума. Никаких новых сил получено не было.</VFEAncients.ExperimentFailed.Berserk>
+  <!-- EN: Brain death -->
+  <VFEAncients.BrainDeath>Смерть мозга</VFEAncients.BrainDeath>
+  <!-- EN: Subject has suffered complete failure of brain functions and is now brain dead. No new powers were granted. -->
+  <VFEAncients.ExperimentFailed.BrainDeath>У подопытного произошел полный отказ функций мозга, и теперь мозг мёртв. Никаких новых сил получено не было.</VFEAncients.ExperimentFailed.BrainDeath>
+  <!-- EN: Launch Supplies -->
+  <VFEAncients.LaunchSupplies>Запуск поставки</VFEAncients.LaunchSupplies>
+  <!-- EN: Self-destructs in {0} -->
+  <VFEAncients.ExpiryIn>Самоуничтожение через {0}</VFEAncients.ExpiryIn>
+  <!-- EN: No warden is capable of this recruitment. -->
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>Нет надзирателей, способных к вербовке.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <!-- EN: Interrogation Success -->
+  <VFEAncients.InterrogationSuccess>Допрос успешен</VFEAncients.InterrogationSuccess>
+  <!-- EN: {0} has successfully interrogated {1}, who has revealed the location of {2}. -->
+  <VFEAncients.InterrogationSuccessDetail>На допросе {1} раскалывается и сообщает {0} о {2}.</VFEAncients.InterrogationSuccessDetail>
+  <!-- EN: Interrogation failed! -->
+  <VFEAncients.InterrogationFailure>Допрос провален!</VFEAncients.InterrogationFailure>
+  <!-- EN: uncontained -->
+  <VFEAncients.DeterioratingUncontained>неконтролируемый</VFEAncients.DeterioratingUncontained>
+  <!-- EN: Fire at drop pods -->
+  <VFEAncients.FireAtPods>Стрелять по капсулам</VFEAncients.FireAtPods>
+  <!-- EN: Fire at enemies -->
+  <VFEAncients.FireAtPawns>Стрелять по врагам</VFEAncients.FireAtPawns>
+  <!-- EN: Fire at explosive projectiles -->
+  <VFEAncients.FireAtProjectiles>Стрелять по снарядам</VFEAncients.FireAtProjectiles>
+  <!-- EN: Allow the point-defense turret to fire at incoming drop pods that contain enemy raiders. -->
+  <VFEAncients.FireAtPodsDesc>Настроить турель точечной обороны на стрельбу десантным капсулам с врагами.</VFEAncients.FireAtPodsDesc>
+  <!-- EN: Allow the point-defense turret to fire at enemy pawns within range, like a normal turret would. -->
+  <VFEAncients.FireAtPawnsDesc>Настроить турель точечной обороны на стрельбу по врагам в зоне поражения, как обычную турель.</VFEAncients.FireAtPawnsDesc>
+  <!-- EN: Allow the point-defense turret to fire at incoming explosive projectiles, such as rockets and mortar shells. -->
+  <VFEAncients.FireAtProjectilesDesc>Настроить турель точечной обороны на стрельбу по снарядам, таким как ракеты или миномётные снаряды.</VFEAncients.FireAtProjectilesDesc>
+  <!-- EN: The process of injecting super-nanites has finished. Because your lab equipment includes a nanite sampler, you may now select between the two power and weakness pairs for {0} to obtain. -->
+  <VFEAncients.PowerChoice>Введение супернанитов завершено. Поскольку у вас есть отборщик нанитов, можно выбрать между двумя парами сил и слабостей для {0}.</VFEAncients.PowerChoice>
+  <!-- EN: Select -->
+  <VFEAncients.Select>Выбрать</VFEAncients.Select>
+  <!-- EN: Mass Left: {0} / {1} ({2}) -->
+  <VFEAncients.MassLeft>Доступно: {0} / {1} ({2})</VFEAncients.MassLeft>
+  <!-- EN: Already in an animal form -->
+  <VFEAncients.AlreadyMetaMorph>Уже животное</VFEAncients.AlreadyMetaMorph>
+  <!-- EN: Cancel operation -->
+  <VFEAncients.CancelOp>Отменить операцию</VFEAncients.CancelOp>
+  <!-- EN: This supply slingshot contains the pawn {PAWN_labelShort}. You will not be able to get {PAWN_pronoun} back if you send {PAWN_pronoun} away. Launch anyway? -->
+  <VFEAncients.ConfirmSendPawn>В рогатке поставок находится {PAWN_labelShort}. Вы не получите {PAWN_possessive} обратно, если отправите. Отправить?</VFEAncients.ConfirmSendPawn>
+  <!-- EN: Decide not to do an operation on {PAWN} and eject {PAWN_pronoun} from the gene-tailroing pod. -->
+  <VFEAncients.CancelOpDesc>Решить не выполнять операцию над {PAWN_labelShort} и вытащить {PAWN_possessive} из капсулы биоподгонки.</VFEAncients.CancelOpDesc>
+  <!-- EN: Running this experiment has a {0} chance of failure. This is due to:{4}\n\nThis could be reduced by finding and installing some of these buildings:\n{1}\n\nThe experiment will take {2} and cannot be stopped once started. This is affected by:{3} -->
+  <VFEAncients.ExperimentFailureWarning>Запуск этого эксперимента имеет {0} процентов на провал. Это связано с:{4}\n\nВероятность провала можно снизить, если найти и подключить эти здания:\n{1}\n\nЭксперимент займёт {2} и не сможет быть остановлен до завершения. На время эксперимента влияют:{3}</VFEAncients.ExperimentFailureWarning>
+  <!-- EN: A supply crate is touching down nearby. It's a trade from another vault, and will contain items of equal value to the items you've sent -->
+	<VFEAncients.SupplyCrateArrived>Неподалёку приземлился ящик поставок с результатами торговли с другим убежищем. Он содержит предметы, равные по ценности отправленным</VFEAncients.SupplyCrateArrived>
+  <!-- EN: Enable glory kill music -->
+	<VFEAncients.EnableGloryKillMusic>Включить музыку для зверских убийств</VFEAncients.EnableGloryKillMusic>
+  <!-- EN: Gene-tailoring pod is not fueled. -->
+	<VFEAncient.GeneTailorNoFuel>Капсула биоподгонки незаправлена.</VFEAncient.GeneTailorNoFuel>
+  <!-- EN: Must be human -->
+	<VFEAncient.MustBeHumanlike>Требуется человек</VFEAncient.MustBeHumanlike>
+  <!-- EN: Gene-tailoring pod is occupied. -->
+	<VFEAncient.GeneTailorOccupied>Капсула биоподгонки занята.</VFEAncient.GeneTailorOccupied>
+  <!-- EN: Available operations cannot be applied on -->
+	<VFEAncient.AvailableOperationsCannotBeApplied>Доступные операции не могут быть применены к</VFEAncient.AvailableOperationsCannotBeApplied>
+  <!-- EN: Repair item -->
+  <VFEAncients.RepairMat>Починить предметы</VFEAncients.RepairMat>
+  <!-- EN: What material must be used to repair this at a mending table. -->
+  <VFEAncients.MatForRepair>Какой материал должен использоваться для починки на станциях починки.</VFEAncients.MatForRepair>
+  <!-- EN: Resurrects in -->
+  <VFEAncients.ResurrectsIn>Воскреснет через</VFEAncients.ResurrectsIn>
+</LanguageData>

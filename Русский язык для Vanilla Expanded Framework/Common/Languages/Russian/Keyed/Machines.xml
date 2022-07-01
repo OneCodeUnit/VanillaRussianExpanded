@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEMechForceRecharge>Зарядить</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Приказ машине вернуться на эту платформу для зарядки, вне зависимости от её текущего заряда батареи.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>Прикрепить турель</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Установить турель на этой передвижной платформе. Это действие потребует столько же ресурсов, сколько и постройка обычной турели.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>Машина уничтожена</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>Одна из машин уничтожена! Оставшиеся части можно разобрать на верстаке. Чтобы построить замену, один из поселенцев должен доставить следующие части на платформу:\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>Недостаточно ресурсов</VFEMechNoResources>
+  <VFEMechNoTurret>Нет активных подвижных турелей</VFEMechNoTurret>
+  <VFEMechReconstruct>>Нужно построить заново:</VFEMechReconstruct>
+  <VFEMechTurretResources>Нужно завершить турель:</VFEMechTurretResources>
+  <VFEMechLowerRange>Уменьшить область</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Уменьшить число доступных плиток для машины.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>Увеличить область</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Увеличить число доступных плиток для машины.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>Остановить машину</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Остановите продвижение машины и отправьте её на базу.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>Запустить машину</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Включить машину.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>Машина столкнулась с препятствием!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>Выбрать область</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Установите доступную область для всех связанных с этой платформой машин.</VFEMechSetAreaDesc>
+  <VFEMRideableMachineTip>На этом дроне можно ездить. Караванщики будут выбирать самых быстрых животных или дронов для езды, чтобы максимально ускорить движение каравана.</VFEMRideableMachineTip>
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} разрядилась и была оставлена.</VFEM.CaravanMachineRanOutPower>
+</LanguageData>

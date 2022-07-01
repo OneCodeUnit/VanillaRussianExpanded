@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will receive a recreation boost that last between 4 hours and 3 days that will raise their recreation bar. They'll also get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nThe ritual bonfire will stay lit for at least two quadrums, providing a beauty bonus nearby and counting towards the number of fires around for the Fire: Desired precept. -->
+  <VME_BonfireOutcome.description>В зависимости от качества ритуала участники получат повышение удовлетворённости, которое продлится от 4 часов до 3 дней. Также их настроение изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.\n\nРитуальный костёр будет гореть, как минимум, пару кварталов и увеличит красоту вокруг себя. Также считается источником огня для принципа «Огонь: желаем».</VME_BonfireOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_BonfireOutcome.comps.0.label>социальное влияние {PAWN_labelShort}</VME_BonfireOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_BonfireOutcome.comps.0.labelAbstract>социальное влияние оратора</VME_BonfireOutcome.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_BonfireOutcome.comps.1.label>количество участников</VME_BonfireOutcome.comps.1.label>
+
+  <!-- EN: Terrible -->
+  <VME_BonfireOutcome.outcomeChances.0.label>ужасно</VME_BonfireOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Some pathetic little flames drifted around, and they went away too soon (no recreation effect applied). -->
+  <VME_BonfireOutcome.outcomeChances.0.description>{0} был ужасным! Вокруг плавали какие-то маленькие жалкие огоньки, и они очень скоро исчезли (эффект отдыха не применён).</VME_BonfireOutcome.outcomeChances.0.description>
+
+  <!-- EN: Lackluster -->
+  <VME_BonfireOutcome.outcomeChances.1.label>уныло</VME_BonfireOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining.\n\nRecreation of all participants will be raised for 4 hours. -->
+  <VME_BonfireOutcome.outcomeChances.1.description>{0} был уныл. Мы ожидали чудесное гигантское пламя, а получили просто большой костёр. Ну хоть развлеклись.\n\nУдовлетворённость всех участников будет увеличена на 4 часа.</VME_BonfireOutcome.outcomeChances.1.description>
+
+  <!-- EN: Good -->
+  <VME_BonfireOutcome.outcomeChances.2.label>хорошо</VME_BonfireOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably.\n\nRecreation of all participants will be raised for 1 day. -->
+  <VME_BonfireOutcome.outcomeChances.2.description>{0} был хорошим. Пламя величественно поднималось и потрескивало над поселением, и это значительно подняло всем нам настроение.\n\nУдовлетворённость всех участников будет увеличена на 1 день.</VME_BonfireOutcome.outcomeChances.2.description>
+
+  <!-- EN: Glorious -->
+  <VME_BonfireOutcome.outcomeChances.3.label>славно</VME_BonfireOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was glorious! It was super fun and we really connected with each other with the shared experience.\n\nRecreation of all participants will be raised for 3 days. -->
+  <VME_BonfireOutcome.outcomeChances.3.description>{0} был славным! Это было очень весело, и мы действительно соединились друг с другом благодаря общему опыту.\n\nУдовлетворённость всех участников будет увеличена на 3 дня.</VME_BonfireOutcome.outcomeChances.3.description>
+</LanguageData>

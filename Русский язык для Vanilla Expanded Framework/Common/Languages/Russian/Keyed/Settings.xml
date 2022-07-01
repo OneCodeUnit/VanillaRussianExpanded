@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GeneralTitle>Основные</GeneralTitle>
+  <!-- CSG -->
+  <CSGTitle>Создание пользовательской структуры:</CSGTitle>
+  <CSGLog>Включить лог отладки пользовательских структур: </CSGLog>
+
+  <!-- Toggable patches -->
+  <TPTitle>Включение исправлений:</TPTitle>
+  <NeedRestart>Все настройки требуют перезапуска игры для применения</NeedRestart>
+  <XPatchFound>Найдено {0} исправлений</XPatchFound>
+
+	<!-- Weather damages -->
+	<VEF.WeatherDamages>Урон от погоды</VEF.WeatherDamages>
+	<VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
+  <!-- Faction Discovery -->
+  <FDTitle>Faction Discovery</FDTitle>
+  <NeedToBeInGame>Для начала необходимо загрузить сохранение</NeedToBeInGame>
+  <AskForPopUp>Добавить фракцию</AskForPopUp>
+  <AskForPopUpExplained>Нажать сюда, чтобы игра спрашивала о каждой фракции, которая может быть добавлена в игру</AskForPopUpExplained>
+  <CanAddXFaction>В сохранение было добавлено {0_numCase ? фракция : фракции : фракций}</CanAddXFaction>
+</LanguageData>

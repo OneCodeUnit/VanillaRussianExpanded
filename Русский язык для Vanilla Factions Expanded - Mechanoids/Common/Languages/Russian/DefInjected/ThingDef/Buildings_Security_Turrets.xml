@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: charge blaster turret -->
+  <VFE_Turret_AutoChargeBlaster.label>бластерная турель</VFE_Turret_AutoChargeBlaster.label>
+  <!-- EN: A burst-fire charge turret capable of concentrating fire on nearby enemy targets at medium ranges. Unarmored targets are unlikely to survive more than a few bursts. -->
+  <VFE_Turret_AutoChargeBlaster.description>Турель, поливающая очередями сконцентрированного бластерного огня врагов на средней дистанции. Маловероятно, что небронированные цели выдержат хотя бы несколько очередей.</VFE_Turret_AutoChargeBlaster.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelGizmoLabel>Заряд батареи</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: auto charge blaster -->
+  <VFE_Gun_AutoChargeBlaster.label>автоматический бластер</VFE_Gun_AutoChargeBlaster.label>
+  <!-- EN: A salvaged mechanoid charge blaster made to be mounted on a turret. -->
+  <VFE_Gun_AutoChargeBlaster.description>Уцелевший бластер механоидов. Можно установить установить на турельную платформу.</VFE_Gun_AutoChargeBlaster.description>
+
+  <!-- EN: charge lance turret -->
+  <VFE_Turret_AutoChargeLance.label>энергетическая турель</VFE_Turret_AutoChargeLance.label>
+  <!-- EN: A highly accurate, albeit slightly weaker version of the charge lance mounted on a simple-minded turret. Targets in power armor still must be cautious, as a single lucky shot is still more than capable of piercing through plasteel carapace. -->
+  <VFE_Turret_AutoChargeLance.description>Высокоточная, хоть и менее мощная версия энергокопья, установленного на турель без полноценного ИИ. Эта турель представляет опасность даже для врагов в силовой броне. При должной удаче, один выстрел способен пробить их пласталевый панцирь.</VFE_Turret_AutoChargeLance.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>Заряд батареи</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: auto charge lance -->
+  <VFE_Gun_AutoChargeLance.label>автоматическое энергокопьё</VFE_Gun_AutoChargeLance.label>
+  <!-- EN: A salvaged mechanoid charge lance made to be mounted on a turret. -->
+  <VFE_Gun_AutoChargeLance.description>Уцелевшее энергокопьё механоидов. Можно установить на турельную платформу.</VFE_Gun_AutoChargeLance.description>
+
+  <!-- EN: inferno cannon turret -->
+  <VFE_Turret_AutoInfernoCannon.label>инфернальная турель</VFE_Turret_AutoInfernoCannon.label>
+  <!-- EN: A short range cannon capable of spewing streams of fire. These turrets are usually deployed in short-ranged urban warfare. -->
+  <VFE_Turret_AutoInfernoCannon.description>Пушка, поливающая врагов потоками ограня на короткой дистанции. Эти турели обычно используются в контактных городских боях.</VFE_Turret_AutoInfernoCannon.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelGizmoLabel>Заряд батареи</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: auto inferno cannon -->
+  <VFE_Gun_AutoInfernoCannon.label>автоматическая инферно-пушка</VFE_Gun_AutoInfernoCannon.label>
+  <!-- EN: A salvaged mechanoid inferno cannon made to be mounted on a turret. -->
+  <VFE_Gun_AutoInfernoCannon.description>Уцелевшая инферно-пушка механоидов. Можно установить на турельную платформу.</VFE_Gun_AutoInfernoCannon.description>
+
+  <!-- EN: auto-mortar -->
+  <VFE_Turret_AutoMortar.label>автоминомёт</VFE_Turret_AutoMortar.label>
+  <!-- EN: An automatic mortar and range finder capable of processing simple coordinates and weather conditions to deliver a constant bombardment of pre-loaded mortar rounds. -->
+  <VFE_Turret_AutoMortar.description>Автоматический миномёт и дальномер, способный обрабатывать простые координаты и погодные условия, чтобы обеспечить постоянную бомбардировку заранее заряженными миномётными снарядами.</VFE_Turret_AutoMortar.description>
+  <!-- EN: Shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.fuelGizmoLabel>Снаряды</VFE_Turret_AutoMortar.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Remaining shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>Оставшиеся снаряды</VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: нет снарядов</VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: auto-mortar -->
+  <VFE_AutoMortar.label>автоминомёт</VFE_AutoMortar.label>
+  <!-- EN: Automatic mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <VFE_AutoMortar.description>Уцелевший автоминомёт механоидов. Перекидывает снаряды через стену. Совершенно неточный, но дальнобойный.</VFE_AutoMortar.description>
+
+  <!-- EN: auto tesla turret -->
+  <VFE_Turret_AutoTesla.label>турель с автотеслой</VFE_Turret_AutoTesla.label>
+  <!-- EN: A mechanized version of the heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but it cannot fire at close-up targets. Due to the abundance of electrical components, the turret may blast an EMP shock when damaged enough. -->
+  <VFE_Turret_AutoTesla.description>Улучшенная версия тяжёлой турели. Её выстрелы позволяет надёжно поражать цели на значительной дальности, но по близким целям стрельба невозможна. Из-за обилия электрических компонентов, сильные повреждения турели могут привести ЭМИ-взрыву.</VFE_Turret_AutoTesla.description>
+
+  <!-- EN: auto tesla blaster -->
+  <VFE_Gun_AutoTesla.label>автотесла</VFE_Gun_AutoTesla.label>
+  <!-- EN: Practically part mechanoid in and of itself, the Auto-tesla is a utility turret designed to slow down a Mechanoid without it being able to adapt to the effects. Four capacitors are charged to release a bolt of electricity that is carefully modulated by the internal targeting system before release. Upon impact, the power surge affects the unit’s power module and siphons off any reserves before seeking to jump to a nearby machine, gradually weakening. This can occur twice before the initially modulated current becomes too similar to the hosts, upon which the safety overrides ground the excess power. -->
+  <VFE_Gun_AutoTesla.description>Оружие фактически является механоидом, но предназначено для замедления механоидов без возможности им как-то адаптироваться к этому. На оружии расположены четыре конденсатора, которые позволяют выпускать тщательно промодулированный внутренней системой целеуказания заряд электричества. При попадании, заряд проходит по силовому контуру и откачивает резервы энергии. Далее он может перейти к следующей машине, несколько ослабнув. Заряд может переходить и дважды, пока изначально промодулированный ток не станет похожим на внутренний ток, переизбыток которого может быть заблокирован защитными системами.</VFE_Gun_AutoTesla.description>
+  <!-- EN: lightning bolt -->
+  <VFE_Bullet_TeslaProjectile.label>молния</VFE_Bullet_TeslaProjectile.label>
+</LanguageData>

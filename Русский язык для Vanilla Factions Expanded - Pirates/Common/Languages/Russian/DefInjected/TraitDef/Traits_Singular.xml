@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: warcasket -->
+  <VFEP_WarcasketTrait.degreeDatas.0.label>броня мертвеца</VFEP_WarcasketTrait.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef} is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, {PAWN_nameDef} is not capable of doing any work. -->
+  <VFEP_WarcasketTrait.degreeDatas.0.description>{PAWN_nameDef} находится внутри брони мертвеца. {PAWN_pronoun} больше не чувствует боль и не упадёт от болевого шока. Также {PAWN_nameDef} больше не сможет выполнять какую-либо работу из-за громоздкости брони.</VFEP_WarcasketTrait.degreeDatas.0.description>
+
+  <!-- EN: shellcasket -->
+  <VFEP_Shellcasket.degreeDatas.0.label>боль мертвеца</VFEP_Shellcasket.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef} was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that {PAWN_nameDef} is in constant, agonizing pain and can barely assemble his thoughts. Only installing {PAWN_nameDef} back in a warcasket can cure the symptoms. -->
+  <VFEP_Shellcasket.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? был : была} жестоко отделена от брони мертвеца. Это привело к сильному повреждения нервной системы и нервов, из-за чего {PAWN_nameDef} постоянно испытывает сильнейшую боль и не может сосредоточится. Избавить от боли может только возвращение в броню мертвеца.</VFEP_Shellcasket.degreeDatas.0.description>
+</LanguageData>

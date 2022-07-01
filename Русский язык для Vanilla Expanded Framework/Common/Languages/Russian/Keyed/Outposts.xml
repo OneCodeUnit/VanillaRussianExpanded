@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Outposts.Settings.Title>Vanilla Expanded Framework - Outposts</Outposts.Settings.Title>
+  <Outposts.Settings.Multiplier.Production>Множитель продуктивности аванпоста: {0}</Outposts.Settings.Multiplier.Production>
+  <Outposts.Settings.Multiplier.Time>Множитель времени аванпоста: {0}</Outposts.Settings.Multiplier.Time>
+  <Outposts.Dialog.Create>Создать</Outposts.Dialog.Create>
+  <Outposts.Commands.Create.Label>Создать аванпост</Outposts.Commands.Create.Label>
+  <Outposts.Commands.Create.Desc>Создать аванпост, используя караван</Outposts.Commands.Create.Desc>
+  <Outposts.Commands.TakeItems.Label>Забрать предметы</Outposts.Commands.TakeItems.Label>
+  <Outposts.Commands.TakeItems.Desc>Забрать предметы из {0} и добавить их в караван</Outposts.Commands.TakeItems.Desc>
+  <Outposts.Letters.Lost.Label>Аванпост потерян</Outposts.Letters.Lost.Label>
+  <Outposts.Letters.Lost.Text>К сожалению, из-за смерти всех жителей, аванпост {0} был потерян.</Outposts.Letters.Lost.Text>
+  <Outposts.Letters.BattleWon.Label>Победа аванпоста</Outposts.Letters.BattleWon.Label>
+  <Outposts.Letters.BattleWon.Text>Мы одержали победу в битве за {0}.</Outposts.Letters.BattleWon.Text>
+  <Outposts.Letters.Items.Label>Вещи из {0}</Outposts.Letters.Items.Label>
+  <Outposts.Letters.Items.Text>Из аванпоста {0} были получены следующие предметы:</Outposts.Letters.Items.Text>
+  <Outposts.Commands.AddPawn.Label>Добавить персонажа</Outposts.Commands.AddPawn.Label>
+  <Outposts.Commands.AddPawn.Desc>Перевезти персонажа в аванпост</Outposts.Commands.AddPawn.Desc>
+  <Outposts.Commands.Pack.Label>Сложить</Outposts.Commands.Pack.Label>
+  <Outposts.Commands.Pack.Desc>Сложить аванпост и организовать караван</Outposts.Commands.Pack.Desc>
+  <Outposts.Commands.StopPack.Label>Остановить складывание</Outposts.Commands.StopPack.Label>
+  <Outposts.Commands.StopPack.Desc>Отменить складывание аванпоста в караван</Outposts.Commands.StopPack.Desc>
+  <Outposts.Commands.Remove.Label>Вывести персонажа</Outposts.Commands.Remove.Label>
+  <Outposts.Commands.Remove.Desc>Вывести персонажа из аванпоста и создать караван</Outposts.Commands.Remove.Desc>
+  <Outposts.Command.Remove.Only1>Нельзя вывести персонажа: остался только один житель. Если вы хотите удалить аванпост, выберите «Сложить».</Outposts.Command.Remove.Only1>
+  <Outposts.Contains>Содержит {0} персонажей</Outposts.Contains>
+  <Outposts.Packing>Собирается караван. Будет готов через {0}</Outposts.Packing>
+  <Outposts.NotSkilledEnough>Персонажи недостаточно способны. Требуется общий уровень навыка {0} {1}</Outposts.NotSkilledEnough>
+  <Outposts.RestingAt>Отдыхает в аванпосте {0}</Outposts.RestingAt>
+  <Outposts.WillProduce.0>Произведёт что-то через {0}</Outposts.WillProduce.0>
+  <Outposts.WillProduce.1>Произведёт {0} {1} через {2}</Outposts.WillProduce.1>
+  <Outposts.WillProduce.2>Произведёт {0} {1} и {2} {3} через {4}</Outposts.WillProduce.2>
+  <Outposts.CannotBeMade>Нельзя создать в биоме «{0}»</Outposts.CannotBeMade>
+  <Outposts.WillProduce.N>Произведёт следующие вещи через {0}:\n{1}</Outposts.WillProduce.N>
+  <Outposts.NotEnoughPawns>Недостаточно людей в караване. Требуется не меньше {0}</Outposts.NotEnoughPawns>
+  <Outposts.TotalSkill>Общее значение навыка {0}: {1}</Outposts.TotalSkill>
+  <Outposts.TooClose>Слишком близко к другим аванпостам. Между ними должна быть хотя бы одна клетка</Outposts.TooClose>
+  <Outposts.AddedFromTransportPods>Ваши транспортные капсулы прибыли. {0} добавлено в {1}.</Outposts.AddedFromTransportPods>
+  <Outposts.AddTo>Добавить в аванпост</Outposts.AddTo>
+  <Outposts.SendNonPawns>Подтвердить отправку предметов в аванпост? Они отправятся сразу же.</Outposts.SendNonPawns>
+  <Outposts.AlreadyPacking>Уже складывается</Outposts.AlreadyPacking>
+  <Outposts.Settings.DeliveryMethod>Метод доставки</Outposts.Settings.DeliveryMethod>
+  <Outposts.Settings.DeliveryMethod.Teleport>Телепортация</Outposts.Settings.DeliveryMethod.Teleport>
+  <Outposts.Settings.DeliveryMethod.PackAnimal>Отправить вьючных животных</Outposts.Settings.DeliveryMethod.PackAnimal>
+  <Outposts.Settings.DeliveryMethod.Store>Хранить предметы на аванпосте</Outposts.Settings.DeliveryMethod.Store>
+  <Outposts.Settings.DeliveryMethod.ForcePods>Всегда отправлять транспортные капсулы</Outposts.Settings.DeliveryMethod.ForcePods>
+  <Outposts.Settings.DeliveryMethod.PackOrPods>Использовать транспортные капсулы по возможности, иначе отправлять вьючных животных</Outposts.Settings.DeliveryMethod.PackOrPods>
+  <Outposts.Abandoned>Аванпост заброшен</Outposts.Abandoned>
+  <Outposts.Abandoned.Desc>{0} был заброшен, так как там не осталось никого. Он очень быстро будет разграблен и захвачен природой, которая не оставит следов человеческого присутствия.</Outposts.Abandoned.Desc>
+  <Outposts.Take>Взять</Outposts.Take>
+  <Outposts.AllowedBiomes>Должен быть расположен в одном из этих биомов:</Outposts.AllowedBiomes>
+  <Outposts.DisallowedBiomes>Не может быть расположен в биомах:</Outposts.DisallowedBiomes>
+  <Outposts.NumPawns>Требуется не меньше {0} персонажей</Outposts.NumPawns>
+  <Outposts.RequiredSkill>Общий уровень навыка {0} не должен быть меньше {1}</Outposts.RequiredSkill>
+  <Outposts.GrowingRequired>Требуется возможность выращивать растения</Outposts.GrowingRequired>
+  <Outposts.MustHaveInCaravan>Требуется {0} в караване</Outposts.MustHaveInCaravan>
+  <Outposts.NoValidPawns>Нет доступных персонажей</Outposts.NoValidPawns>
+  <Outposts.SkillChange>Из-за изменения в уровне навыка {0} больше не будет производить {1}</Outposts.SkillChange>
+  <Outposts.Setting.ProductionTime>Время на производство</Outposts.Setting.ProductionTime>
+  <Outposts.Setting.PackTime>Время на складывание</Outposts.Setting.PackTime>
+  <Outposts.Setting.Range>Радиус</Outposts.Setting.Range>
+  <Outposts.Setting.MinimumPawns>Минимум персонажей для создания</Outposts.Setting.MinimumPawns>
+  <Outposts.Settings.Production>Множитель производства</Outposts.Settings.Production>
+  <Outposts.Settings.DoRaids>Включить налёты на аванпосты?</Outposts.Settings.DoRaids>
+</LanguageData>

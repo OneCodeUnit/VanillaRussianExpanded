@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<VAE>Vanilla Achievements Expanded</VAE>
+	<DebugWriter>Включить отладку</DebugWriter>
+	<DebugWriterConfirmation>Вы уверены, что хотите включить режим отладки? Он значительно снизит производительность, но позволит получать техническую информацию о достижениях. Это оправдано только для отладки модификаций.</DebugWriterConfirmation>
+	
+	<GenerateLogInfo>Записать в файл</GenerateLogInfo>
+	<GenerateLogInfoTooltip>Записать в файл информацию о достижениях. Исключительно для отладки.</GenerateLogInfoTooltip>
+	<SuccessfulWriteToFile>Информация о достижениях успешно записана в AchievementLog.txt</SuccessfulWriteToFile>
+	
+	<SideBarInfo>Открывайте достижения, получайте очки рассказчика и тратьте их на разнообразные события.</SideBarInfo>
+	
+	<StorytellerPoints>Очки рассказчика</StorytellerPoints>
+	
+	<PointsRedeem>Потратить очки на:</PointsRedeem>
+	<PointsAvailable>Доступно: {0}</PointsAvailable>
+	<PointsEarned>Получено: {0}</PointsEarned>
+	
+	<UnlockedDevMode>Получено в реж. разраб.</UnlockedDevMode>
+	<AchievementLocked>Не получено</AchievementLocked>
+	
+	<AchievementsUnlocked>Достижений открыто: {0}</AchievementsUnlocked>
+	<AchievementsTotalUnlocked>Всего достижений открыто: {0}</AchievementsTotalUnlocked>
+	<AchievementUnlocked>Открыто достижение!</AchievementUnlocked>
+	
+	<FailedRewardEvent>Не удалось получить награду {0}</FailedRewardEvent>
+	<FailedTargetFinder>Карта мира должна быть загружена, а цель события выбрана.</FailedTargetFinder>
+	<NoValidMap>Можно получить только на территории поселения.</NoValidMap>
+	<IncidentNotAvailable>Событие недоступно в данный момент.</IncidentNotAvailable>
+	<NotEnoughPoints>Недостаточно очков</NotEnoughPoints>
+	
+	<RandomQuestRewardItemLetter>Награда за задание</RandomQuestRewardItemLetter>
+	<RandomQuestRewardItem>Прибыл контейнер со случайной наградой за задание!</RandomQuestRewardItem>
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: Mechanoid ship destroyed -->
+  <VFEM_MechShipDestroyed.label>корабль механоидов уничтожен</VFEM_MechShipDestroyed.label>
+  <!-- EN: {FACTION_name} destroyed {1} -->
+  <VFEM_MechShipDestroyed.letterLabel>Фракция {FACTION_name} уничтожила {1}</VFEM_MechShipDestroyed.letterLabel>
+  <!-- EN: Through clever strategies, large number of casualties and incredible perseverance, {FACTION_name} managed to destroy {1}. -->
+  <VFEM_MechShipDestroyed.letterText>Благодаря хитрому плану, большим жертвам или же невероятному упорству, фракция {FACTION_name} уничтожила {1}.</VFEM_MechShipDestroyed.letterText>
+
+  <!-- EN: ship landing Frigate -->
+  <VFEM_ShipLandFrigate.label>посадка фрегата</VFEM_ShipLandFrigate.label>
+  <!-- EN: Ship Landed: Frigate -->
+  <VFEM_ShipLandFrigate.letterLabel>Приземлился корабль: фрегат</VFEM_ShipLandFrigate.letterLabel>
+  <!-- EN: {0} sent a new ship to land on the planet.\n\nA small ship often used for ground recon operations. It has minimal defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+  <VFEM_ShipLandFrigate.letterText>{0} отправил новый корабль на поверхность планеты.\n\nТакой небольшой корабль обычно используется для разведывательных миссий. У него минимальная защита. После разрушения, присутствие механоидов будет снижено.\n\nЕсли корабль останется целым, количество атакующих механоидов возрастёт.</VFEM_ShipLandFrigate.letterText>
+
+  <!-- EN: ship landing destroyer -->
+  <VFEM_ShipLandDestroyer.label>посадка эсминца</VFEM_ShipLandDestroyer.label>
+  <!-- EN: Ship Landed: destroyer -->
+  <VFEM_ShipLandDestroyer.letterLabel>Приземлился корабль: эсминец</VFEM_ShipLandDestroyer.letterLabel>
+  <!-- EN: {0} sent a new ship to land on the planet.\n\nDestroyer is a medium-sized ship usually serving as mechanoid hive defender. It has no short range defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+  <VFEM_ShipLandDestroyer.letterText>{0} отправил новый корабль на поверхность планеты.\n\nЭто эсминец, корабль среднего размера, обычно используемый для обороны роя. У него нет обороны на короткой дистанции. После разрушения, присутствие механоидов будет снижено.\n\nЕсли корабль останется целым, количество атакующих механоидов возрастёт.</VFEM_ShipLandDestroyer.letterText>
+
+  <!-- EN: ship landing cruiser -->
+  <VFEM_ShipLandCruiser.label>посадка крейсера</VFEM_ShipLandCruiser.label>
+  <!-- EN: Ship Landed: cruiser -->
+  <VFEM_ShipLandCruiser.letterLabel>Приземлился корабль: крейсер</VFEM_ShipLandCruiser.letterLabel>
+  <!-- EN: {0} sent a new ship to land on the planet.\n\nCruiser is a medium-sized ship usually serving as a bulk of a mechanoid hive fleet. Is has a number of short range defensive measures, but lacks long range weaponry. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+  <VFEM_ShipLandCruiser.letterText>{0} отправил новый корабль на поверхность планеты.\n\nЭто крейсер, корабль среднего размера, составляющий основу флота механоидов. У него есть орудия для короткой дистанции, но нет ничего дальнобойного. После разрушения, присутствие механоидов будет снижено.\n\nЕсли корабль останется целым, количество атакующих механоидов возрастёт.</VFEM_ShipLandCruiser.letterText>
+
+  <!-- EN: ship landing troopship -->
+  <VFEM_ShipLandTroopship.label>посадка транспортника</VFEM_ShipLandTroopship.label>
+  <!-- EN: Ship Landed: troopship -->
+  <VFEM_ShipLandTroopship.letterLabel>Приземлился корабль: транспортник</VFEM_ShipLandTroopship.letterLabel>
+  <!-- EN: {0} sent a new ship to land on the planet.\n\nTroopship is a large mechanoid factory-ship, capable of producing large amounts of combat-ready mechanoids in very little time. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+  <VFEM_ShipLandTroopship.letterText>{0} отправил новый корабль на поверхность планеты.\n\nТранспортник это огромный корабль-фабрика, способный произвести множество готовых к бою механоидов за короткий промежуток времени. После разрушения, присутствие механоидов будет снижено.\n\nЕсли корабль останется целым, количество атакующих механоидов возрастёт.</VFEM_ShipLandTroopship.letterText>
+
+  <!-- EN: ship landing carrier -->
+  <VFEM_ShipLandCarrier.label>посадка носителя</VFEM_ShipLandCarrier.label>
+  <!-- EN: Ship Landed: carrier -->
+  <VFEM_ShipLandCarrier.letterLabel>Приземлился корабль: носитель</VFEM_ShipLandCarrier.letterLabel>
+  <!-- EN: {0} sent a new ship to land on the planet.\n\nCarrier is the biggest ship in the mechanoid hive, heavily defended and with numerous means of producing new, combat-ready mechanoid units. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+  <VFEM_ShipLandCarrier.letterText>{0} отправил новый корабль на поверхность планеты.\n\nЭто носитель — самый большой корабль флота механоидов, отлично защищённый и наполненный различными средствами производства новых, готовых к бою механоидов. После разрушения, присутствие механоидов будет снижено.\n\nЕсли корабль останется целым, количество атакующих механоидов возрастёт.</VFEM_ShipLandCarrier.letterText>
+</LanguageData>

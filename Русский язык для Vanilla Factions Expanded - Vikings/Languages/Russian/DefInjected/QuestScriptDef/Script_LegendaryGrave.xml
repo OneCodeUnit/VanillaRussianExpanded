@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+    <li>questName->[legendary] [ruins]</li>
+    <li>questName->[legendary] [ruins] [asker_nameDef]</li>
+
+    <li>legendary->древняя</li>
+    <li>legendary->легендарная</li>
+    <li>legendary->таинственная</li>
+    <li>legendary->утраченная</li>
+    <li>legendary->загадочная</li>
+    <li>ruins->гробница</li>
+    <li>ruins->катакомба</li>
+    <li>ruins->могила</li>
+    <li>ruins->крипта</li>
+  </VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+
+	<VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)->Мы обнаружили местонахождение легендарного захоронения викингов недалеко от [map_definite]. Оно может охраняться.\n\nВы можете отправиться туда, победить стражей, забрать сокровища и, возможно, завербовать легендарного героя викингов.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] рассказывает нам о местонахождении легендарного захоронения викингов недалеко от [map_definite]. Оно может охраняться.\n\nВы можете отправиться туда, победить стражей, забрать сокровища и, возможно, завербовать легендарного героя викингов.</li>
+  </VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+
+  <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>
+  <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>Это место было разграблено кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>
+	<VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>
+  <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>Будучи обнаруженными, стражи разбудили героев и переместились в другое место. Задание «[resolvedQuestName]» окончено.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>
+	<VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>Задание выполнено: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
+	<VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>Вы победили стражей! Задание «[resolvedQuestName]» выполнено.</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>
+</LanguageData>

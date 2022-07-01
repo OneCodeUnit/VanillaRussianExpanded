@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PipeSystem_Consumption>{replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"} потребляется</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>Количество {replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"}, которое постройка потребляет в день из сети {replace: {1}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"} .</PipeSystem_ConsumptionExplained>
+
+  <PipeSystem_IdleConsumption>{replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"} потребляется в простое</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>Количество {replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"}, которое постройка потребляет в день во время простоя из сети {1}.</PipeSystem_IdleConsumptionExplained>
+
+  <PipeSystem_Production>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} производится</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>Количество {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"}, которое постройка производит в день и добавляет в сеть {1}.</PipeSystem_ProductionExplained>
+
+  <PipeSystem_DeconstructLabel>Разобрать {replace: {0}; "Глубтопливо"-"Глубтопливную"; "Химтопливо"-"Химтопливную"} трубу</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructDesc>Будут разобраны только трубы, транспортирующие {0}.</PipeSystem_DeconstructDesc>
+
+  <PipeSystem_ResourceOutput>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} получается:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceNeeded>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} требуется:</PipeSystem_ResourceNeeded>
+
+  <PipeSystem_ResourceStored>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} хранится:</PipeSystem_ResourceStored>
+
+  <PipeSystem_NotConnected>Не соединено с сетью {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"}.</PipeSystem_NotConnected>
+  <PipeSystem_ExcessStored>Излишков (запасов) {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} в сети:</PipeSystem_ExcessStored>
+  <PipeSystem_Stored>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} в сети:</PipeSystem_Stored>
+
+  <PipeSystem_ValveClosed>Вентиль закрыт.</PipeSystem_ValveClosed>
+  <PipeSystem_ValveOpened>Вентиль открыт.</PipeSystem_ValveOpened>
+
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <PipeSystem_AugmentStackDesc>Увеличить максимальное количество единиц в стопке на 1.</PipeSystem_AugmentStackDesc>
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <PipeSystem_AugmentStackDescB>Увеличить максимальное количество единиц в стопке на 10.</PipeSystem_AugmentStackDescB>
+
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <PipeSystem_DecreaseStackDesc>Уменьшить максимальное количество единиц в стопке на 1.</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <PipeSystem_DecreaseStackDescB>Уменьшить максимальное количество единиц в стопке на 10.</PipeSystem_DecreaseStackDescB>
+
+  <PipeSystem_AmountOut>Размер хранилища: {0}</PipeSystem_AmountOut>
+
+  <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_Producing>Производит {0} ед. {replace: {1}; "Глубинное топливо"-"глубинного топлива"; "Химическое топливо"-"химического топлива"}. Прогресс: {2}.</PipeSystem_Producing>
+  <PipeSystem_Produce>Производит {0} ед. {replace: {1}; "Глубинное топливо"-"глубинного топлива"; "Химическое топливо"-"химического топлива"}.</PipeSystem_Produce>
+  <PipeSystem_ChooseResult>Выбрать продукт</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResultDesc>Выбрать производимый продукт.</PipeSystem_ChooseResultDesc>
+
+  <PipeSystem_TransferContent>Перенести из хранилища</PipeSystem_TransferContent>
+  <PipeSystem_TransferContentDesc>Перенести наполнение хранилища в другое доступное хранилище.</PipeSystem_TransferContentDesc>
+  <PipeSystem_MarkedToTransferContent>Перенос наполнения хранилища в другое доступное хранилище...</PipeSystem_MarkedToTransferContent>
+</LanguageData>

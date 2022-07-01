@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: If the incantation ritual goes well (positive outcome) it will increase the corruption need of all participants by 10%, as well as provide a mood bonus. -->
+  <VME_IncantationOutcome.description>Если ритуал камлания завершится положительно, это удовлетворит потребность всех участников в осквернении на 10%, а также обеспечит повышение настроения.</VME_IncantationOutcome.description>
+  <!-- EN: room impressiveness -->
+  <VME_IncantationOutcome.comps.0.label>впечатление от помещения</VME_IncantationOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_IncantationOutcome.comps.1.label>количество участников</VME_IncantationOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_IncantationOutcome.comps.2.label>социальное влияние {PAWN_labelShort}</VME_IncantationOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <VME_IncantationOutcome.comps.2.labelAbstract>социальное влияние говорящего</VME_IncantationOutcome.comps.2.labelAbstract>
+
+  <!-- EN: Squamous -->
+  <VME_IncantationOutcome.outcomeChances.0.label>сквамозно</VME_IncantationOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was abnormal! An indescribably hideous gibbering! We'd even describe it as squamous, but we don't even know what that is! An unutterable word! -->
+  <VME_IncantationOutcome.outcomeChances.0.description>{0} было ненормальным! Неописуемо отвратительная тарабарщина! Это можно было бы назвать сквамозым, но что это слово вообще значит? Невыразимое слово!</VME_IncantationOutcome.outcomeChances.0.description>
+
+  <!-- EN: Accursed -->
+  <VME_IncantationOutcome.outcomeChances.1.label>проклято</VME_IncantationOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was suitably accursed. A litany of dark morbidities expressed in crime, perversion, and insanity. -->
+  <VME_IncantationOutcome.outcomeChances.1.description>{0} было надлежаще проклято. Литания тёмных пороков, выраженных в преступлениях, извращениях и безумии.</VME_IncantationOutcome.outcomeChances.1.description>
+
+  <!-- EN: Blasphemous -->
+  <VME_IncantationOutcome.outcomeChances.2.label>богохульно</VME_IncantationOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was blasphemous. A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse. -->
+  <VME_IncantationOutcome.outcomeChances.2.description>{0} было богохульным. Посулы скрытых и бездонных миров странной жизни, что пульсируют в безднах за звёздами и сдавливают наш родной мир ужасом из нечестивых измерений, которые могут наблюдать только мёртвые и лунные.</VME_IncantationOutcome.outcomeChances.2.description>
+
+  <!-- EN: Loathsome -->
+  <VME_IncantationOutcome.outcomeChances.3.label>омерзительно</VME_IncantationOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was loathsome! We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. -->
+  <VME_IncantationOutcome.outcomeChances.3.description>{0} было омерзительно! Мы живём на безмятежном острове неведения посреди чёрного океана бесконечности, но отправиться в плавание по нему было бы плохой идеей.</VME_IncantationOutcome.outcomeChances.3.description>
+</LanguageData>

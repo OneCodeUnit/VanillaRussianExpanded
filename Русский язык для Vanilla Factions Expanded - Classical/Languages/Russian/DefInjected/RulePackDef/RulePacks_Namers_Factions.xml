@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEC_NamerSettlementClassical.rulePack.rulesFiles.0>ClassicalName->Names/Classical_Towns</VFEC_NamerSettlementClassical.rulePack.rulesFiles.0>
+  <VFEC_NamerSettlementClassical.rulePack.rulesStrings.0>r_name->[ClassicalName]</VFEC_NamerSettlementClassical.rulePack.rulesStrings.0>
+
+  <VFEC_NamerPersonClassicalUtility.rulePack.rulesFiles>
+    <li>Classical_First_Male->Names/Classical_First_Male</li>
+    <li>Classical_First_Female->Names/Classical_First_Female</li>
+		<li>Classical_Last_Male->Names/Classical_Last_Male</li>
+    <li>Classical_Last_Female->Names/Classical_Last_Female</li>
+  </VFEC_NamerPersonClassicalUtility.rulePack.rulesFiles>
+  <VFEC_NamerPersonClassical.rulePack.rulesStrings.0>r_name(p=2)->[Classical_First_Male] [Classical_Last_Male]</VFEC_NamerPersonClassical.rulePack.rulesStrings.0>
+  <VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings.0>r_name(p=2)->[Classical_First_Female] [Classical_Last_Female]</VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings.0>
+
+  <VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings.0>r_leaderTitle->Сенатор</VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings.0>
+
+  <VFEC_NamerFactionCentral.rulePack.rulesStrings.0>r_name->Центральная республика</VFEC_NamerFactionCentral.rulePack.rulesStrings.0>
+  <VFEC_NamerFactionWestern.rulePack.rulesStrings.0>r_name->Западная республика</VFEC_NamerFactionWestern.rulePack.rulesStrings.0>
+  <VFEC_NamerFactionEastern.rulePack.rulesStrings.0>r_name->Восточная республика</VFEC_NamerFactionEastern.rulePack.rulesStrings.0>
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [intel] about Mechanoid [storage]</li>
+    <li>questName->Mechanoid [storage]</li>
+    <li>intel->Intel</li>
+    <li>intel->Clue</li>
+    <li>intel->Advice</li>
+    <li>intel->Information</li>
+    <li>storage->Storage Site</li>
+    <li>storage->Recycling Site</li>
+    <li>storage->Pick-up Coordinates</li>
+    <li>storage->Treasure</li>
+    <li>storage->Supplies</li>
+  -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[intel] [asker_nameDef] о [storage] механоидов</li>
+    <li>questName->[storage_sing] механоидов</li>
+		<li>intel->Информация</li>
+		<li>intel->Разведанные</li>
+		<li>intel->Предположение</li>
+		<li>intel->Данные</li>
+    <li>storage->хранилище</li>
+    <li>storage->грузе</li>
+    <li>storage->точке сбора</li>
+    <li>storage->сокровищах</li>
+    <li>storage->припасах</li>
+    <li>storage_sing->хранилище</li>
+    <li>storage_sing->груз</li>
+    <li>storage_sing->точка сбора</li>
+    <li>storage_sing->сокровища</li>
+    <li>storage_sing->припасы</li>
+  </VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+
+
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted encrypted communication about a large amount of raw resources worth [itemStashContentsValue] ready for collection not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid resources [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] informs us that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</li>
+  -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Мы получили зашифрованную информацию о куче ресурсов, общей ценностью в [itemStashContentsValue] единиц, упакованный и готовых к транспортировке из [map_definite]. Там можно будет найти:\n\n[itemStashContents]\n\nСудя по всему, механоиды будут охранять это место, пока груз не отправится на орбиту.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] сообщает о [itemStashContentsValue] единиц ресурсов механойдов, находящихся недалеко от нас. Там можно будет найти:\n\n[itemStashContents]\n\n[asker_label] также сообщает о механоидах, охраняющих груз до его отправки на орбиту.</li>
+  </VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been uplifted to orbit. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, груз был поднят на орбиту. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
+</LanguageData>

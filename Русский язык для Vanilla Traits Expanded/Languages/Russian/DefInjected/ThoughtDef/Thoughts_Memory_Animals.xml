@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VTE_BondedAnimalDiedHater.stages.0.label>смерть питомца</VTE_BondedAnimalDiedHater.stages.0.label>
+  <VTE_BondedAnimalDiedHater.stages.0.description>Такое надоедливое и глупое животное. Наконец-то оно умерло!</VTE_BondedAnimalDiedHater.stages.0.description>
+
+  <VTE_BondedAnimalLostHater.stages.0.label>потеря питомца</VTE_BondedAnimalLostHater.stages.0.label>
+  <VTE_BondedAnimalLostHater.stages.0.description>Такое надоедливое и глупое животное. Наконец-то оно исчезло!</VTE_BondedAnimalLostHater.stages.0.description>
+
+  <VTE_BondedAnimalBanishedHater.stages.0.label>изгнание питомца</VTE_BondedAnimalBanishedHater.stages.0.label>
+  <VTE_BondedAnimalBanishedHater.stages.0.description>Это постоянно бегающее за мной животное наконец-то выгнали!</VTE_BondedAnimalBanishedHater.stages.0.description>
+
+  <VTE_NuzzledHater.stages.0.label>приставание</VTE_NuzzledHater.stages.0.label>
+  <VTE_NuzzledHater.stages.0.description>Отвратительное животное трётся об меня.</VTE_NuzzledHater.stages.0.description>
+
+	<VTE_KilledMyBondedAnimalHater.stages.0.label>{PAWN_gender ? Убил : Убила} моего питомца</VTE_KilledMyBondedAnimalHater.stages.0.label>
+
+  <VTE_SoldMyBondedAnimalHater.stages.0.label>питомец продан</VTE_SoldMyBondedAnimalHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>моего питомца продали.</VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>
+  <VTE_SoldMyBondedAnimalHater.stages.0.description>Этот досаждающий мне питомец наконец-то ушёл, как вовремя!</VTE_SoldMyBondedAnimalHater.stages.0.description>
+
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.label>питомец продан.</VTE_SoldMyBondedAnimalMoodHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>моего питомца продали.</VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.description>Этот досаждающий мне питомец наконец-то ушёл, как вовремя!</VTE_SoldMyBondedAnimalMoodHater.stages.0.description>
+
+  <VTE_KilledColonyAnimalHater.stages.0.label>{PAWN_gender ? Убил : Убила} животное поселения</VTE_KilledColonyAnimalHater.stages.0.label>
+
+  <VTE_BondedAnimalMasterHater.stages.0.label>хозяин {0}</VTE_BondedAnimalMasterHater.stages.0.label>
+  <VTE_BondedAnimalMasterHater.stages.0.description>Находясь рядом с этой мерзкой тварью, я ненавижу саму жизнь.</VTE_BondedAnimalMasterHater.stages.0.description>
+  <VTE_BondedAnimalMasterHater.stages.1.label>хозяин {0}</VTE_BondedAnimalMasterHater.stages.1.label>
+  <VTE_BondedAnimalMasterHater.stages.1.description>Находясь рядом с этой мерзкой тварью, я ненавижу саму жизнь.</VTE_BondedAnimalMasterHater.stages.1.description>
+
+  <VTE_NotBondedAnimalMasterHater.stages.0.label>не хозяин {0}</VTE_NotBondedAnimalMasterHater.stages.0.label>
+  <VTE_NotBondedAnimalMasterHater.stages.0.description>Может, я и нравлюсь этой твари, но она мне определенно не нравится — я рад, что её забрал кто-то другой.</VTE_NotBondedAnimalMasterHater.stages.0.description>
+  <VTE_NotBondedAnimalMasterHater.stages.1.label>не хозяин {0}</VTE_NotBondedAnimalMasterHater.stages.1.label>
+  <VTE_NotBondedAnimalMasterHater.stages.1.description>Может, я и нравлюсь этой твари, но она мне определенно не нравится — я рад, что её забрал кто-то другой.</VTE_NotBondedAnimalMasterHater.stages.1.description>
+</LanguageData>

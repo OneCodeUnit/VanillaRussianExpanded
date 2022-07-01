@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.1>
+    <li>Common</li>
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Succulents</li>
+    <li IfModActive="LadyCookie.Farmland">Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">Soil</li>
+    <li IfModActive="Archoran.Utils.VPEAutoPlow">AutoPlow</li>
+  </v1.1>
+  <v1.2>
+    <li>Common</li>
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Succulents</li>
+    <li IfModActive="LadyCookie.Farmland">Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">Soil</li>
+    <li IfModActive="Archoran.Utils.VPEAutoPlow">AutoPlow</li>
+  </v1.2>
+  <v1.3>
+    <li>Common</li>
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Succulents</li>
+    <li IfModActive="LadyCookie.Farmland">Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">Soil</li>
+    <li IfModActive="Archoran.Utils.VPEAutoPlow">AutoPlow</li>
+    <li IfModActive="VanillaExpanded.VPlantsEMore">More</li>
+    <li IfModActive="Ludeon.RimWorld.Ideology">Ideology</li>
+    <li IfModActive="VanillaExpanded.VCookE">Cooking</li>
+    <li IfModActive="OskarPotocki.VFE.Vikings">Vikings</li>
+    <li IfModActive="VanillaExpanded.VCookESushi">Sushi</li>
+  </v1.3>
+</loadFolders>

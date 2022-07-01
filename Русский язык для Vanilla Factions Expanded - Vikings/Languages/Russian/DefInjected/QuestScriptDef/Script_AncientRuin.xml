@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+    <li>questName->[ancient] [ruins]</li>
+    <li>questName->[ancient] [ruins] [asker_nameDef]</li>
+
+		<li>questName->[ancientP] [ruinsP]</li>
+    <li>questName->[ancientP] [ruinsP] [asker_nameDef]</li>
+
+    <li>ancient->древняя</li>
+    <li>ancient->легендарная</li>
+    <li>ancient->старая</li>
+    <li>ancient->заброшенная</li>
+    <li>ancient->давно забытая</li>
+    <li>ruins->копь</li>
+    <li>ruins->гробница</li>
+    <li>ruins->могила</li>
+    <li>ruins->старая постройка</li>
+
+		<li>ancientP->древние</li>
+    <li>ancientP->легендарные</li>
+    <li>ancientP->старые</li>
+    <li>ancientP->заброшенные</li>
+    <li>ancientP->давно забытые</li>
+    <li>ruinsP->руины</li>
+    <li>ruinsP->копи</li>
+		<li>ruinsP->гробницы</li>
+  </VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+
+	<VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением древнего комплекса руин недалеко от [map_definite]. Там может храниться что угодно: от саркофагов криптосна и архоартефактов до редкого оружия и брони.\n\nБудьте осторожны, в этих руинах вас будут подстерегать различные опасности. Нужно быть готовыми ко всему.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] рассказывает нам о местонахождении древнего комплекса руин недалеко от [map_definite]. Там может храниться что угодно: от саркофагов криптосна и архоартефактов до редкого оружия и брони.\n\nБудьте осторожны, в этих руинах вас будут подстерегать различные опасности. Нужно быть готовыми ко всему.</li>
+  </VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+
+  <VFEV_OpportunitySite_AncientRuin.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OpportunitySite_AncientRuin.LetterLabelQuestExpired.slateRef>
+  <VFEV_OpportunitySite_AncientRuin.LetterTextQuestExpired.slateRef>Древние руины были найдены кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OpportunitySite_AncientRuin.LetterTextQuestExpired.slateRef>
+</LanguageData>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: singing shanties -->
+  <VFEP_Speech_Shanties.label>пение шанти</VFEP_Speech_Shanties.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+
+    <li>speechtopic->searching for [Vegetable]s to avoid scurvy</li>
+    <li>speechtopic->how to be [AdjectiveFriendly] while pillaging your enemies</li>
+    <li>speechtopic->using [AnimalBadass]s as a protein source</li>
+    <li>speechtopic->how [Game] trains you to act as a crew</li>
+    <li>speechtopic->using [Weapon] in a raid</li>
+    <li>speechtopic->pillaging through [TerrainFeature]s and [TerrainFeature]s</li>             
+    <li>speechtopic->how in a crew all are [PersonFamily]s and [PersonFamily]s</li>     
+    <li>speechtopic->the need for [PersonJob]s in a crew</li>
+    <li>speechtopic->confronting [PersonBadass]s</li>
+    <li>speechtopic->defeating [Enemy]s through sticking together</li>
+    <li>speechtopic->relishing [Gore] during combat</li>    
+    <li>speechtopic->the meaning of camaraderie</li>
+    <li>speechtopic->the comradeship of the crew</li>
+    <li>speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass]</li>
+    <li>speechtopic->how [AdjectiveBadass] the crew is</li>
+    <li>speechtopic->[AdjectiveNatural] [TerrainFeature]s</li>
+    <li>speechtopic->the crew's [AdjectiveLarge] potential</li>
+    <li>speechtopic->the [PersonalCharacteristic] of every crewmember</li>
+    <li>speechtopic->the terrible [PersonalCharacteristic] of the crew's enemies</li>
+
+    <li>speechtopic(p=0.25)->sticking together as group</li>
+    <li>speechtopic(p=0.25)->the path forward through tragedy, sticking together as a crew</li>
+    <li>speechtopic(p=0.25)->the crew and its importance</li>
+    <li>speechtopic(p=0.25)->survival of the strongest</li>
+    <li>speechtopic(p=0.25)->triumph through shared hardship</li>     
+    <li>speechtopic(p=0.25)->death of your enemies as a motivator</li>
+    <li>speechtopic(p=0.25)->strong hands and hearts, working together</li>
+    <li>speechtopic(p=0.25)->the right to survive and defeat those who are weaker</li>
+  -->
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->поисках [Vegetable] для предотвращения цинги</li>
+    <li>speechtopic->том, как быть [AdjectiveFriendly] во время налётов</li>
+    <li>speechtopic->том, как охотиться на [AnimalBadass] ради протеина</li>
+    <li>speechtopic->том, что вся наша жизнь — [Game], но кооперативная</li>
+    <li>speechtopic->мышлении, смертоносном, словно [Weapon] во время налёта</li>
+    <li>speechtopic->путешествиях через [TerrainFeature] и [TerrainFeature] перед налётов</li>
+    <li>speechtopic->что каждый член команды друг другу [PersonFamily]</li>
+    <li>speechtopic->потребности в [PersonJob] в команде</li>
+    <li>speechtopic->том, как побеждать [PersonBadass]</li>
+    <li>speechtopic->победе над [Enemy] с помощью духа братства</li>
+    <li>speechtopic->том, как [initiator_saw] [Gore] в бою</li>
+    <li>speechtopic->смысле братства</li>
+    <li>speechtopic->наличия капитана в команде</li>
+    <li>speechtopic->том, как быть [AdjectiveBadass], не будучи [AdjectiveBadass]</li>
+    <li>speechtopic->насколько наша команда [AdjectiveBadass]</li>
+    <li>speechtopic->[AdjectiveNatural] [TerrainFeature]</li>
+    <li>speechtopic->том, насколько [AdjectiveLarge] потенциал команды</li>
+    <li>speechtopic->[PersonalCharacteristic] каждого члена команды</li>
+    <li>speechtopic->ужасных проявлениях [PersonalCharacteristic] врагов команды</li>
+    <li>speechtopic(p=0.25)->важности сплочённости</li>
+    <li>speechtopic(p=0.25)->движении вперёд через все трагедии, как команда</li>
+    <li>speechtopic(p=0.25)->важности команды</li>
+    <li>speechtopic(p=0.25)->первостепенности выживания перед силой</li>
+    <li>speechtopic(p=0.25)->триумф, несмотря на трудности</li>
+    <li>speechtopic(p=0.25)->смерти врагов, как о мотивации</li>
+    <li>speechtopic(p=0.25)->стойких сердцах и умах, работающих вместе</li>
+    <li>speechtopic(p=0.25)->праве на выживание и победе над слабаками</li>
+    <li>initiator_saw(INITIATOR_gender==Male)->наслаждался</li>
+    <li>initiator_saw(INITIATOR_gender==Female)->наслаждалась</li>
+  </VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
+</LanguageData>

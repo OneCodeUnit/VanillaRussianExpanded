@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: prideful -->
+  <Prideful.label>гордец</Prideful.label>
+  <!-- EN: The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take rejection well, sometimes violently so. Being rejected can cause a murderer mental state against the love interest. -->
+  <Prideful.description>В результате эксперимента эго субъекта чрезвычайно возросло и он перестал воспринимать отказы. Реакция чрезвычайно жестокая. Отказ от любовного интереса, вероятно, приведёт к смертоубийству.</Prideful.description>
+  <!-- EN: When rebuffed, has a 10% chance to go into murderer mental state against the person who rebuffed them. -->
+  <Prideful.effectDescription>Будучи отвергнутым, имеет 10% шанс впасть в состояние неистового гнева и обратиться против отвергнувшего.</Prideful.effectDescription>
+
+  <!-- EN: bloodlust -->
+  <Bloodlust.label>жнец</Bloodlust.label>
+  <!-- EN: The subject’s hormone glands have become hypersensitive, and causing the death of someone causes a massive spike in dopamine and feels incredibly pleasurable, effectively becoming an addict to murder. This in turn can lead to one kill becoming a long chain of berserk rage-induced slaughter. -->
+  <Bloodlust.description>Эксперимент привёл к чрезмерной возбудимости желёз, из-за которой убийство вызывает огромный всплеск дофамина, вызывая зависимость. По этой причине одной убийство может вызвать состояния берсерка и вылиться в целую серию убийств.</Bloodlust.description>
+  <!-- EN: Upon killing, might enter a berserk mental state (50% chance). -->
+  <Bloodlust.effectDescription>После убийства имеет 50% шанс впасть в состояние берсерка.</Bloodlust.effectDescription>
+
+  <!-- EN: paranoid -->
+  <Paranoid.label>параноик</Paranoid.label>
+  <!-- EN: The subject has developed a massive case of homesickness, and only ever feels safe whenever they’re inside what they consider home. -->
+  <Paranoid.description>У субъекта возникает сильное желание вернуться домой. Только там он может чувствовать себя в безопасности.</Paranoid.description>
+  <!-- EN: If outside of the Home area, pawn suffers a mood debuff. -->
+  <Paranoid.effectDescription>Получает штраф к настроению, если находится за пределами домашней области.</Paranoid.effectDescription>
+
+  <!-- EN: audacious -->
+  <Audacious.label>дерзкий</Audacious.label>
+  <!-- EN: The subject has developed a complete disregard for any authority except their own and will only do whatever they want to. -->
+  <Audacious.description>Субъект больше не признаёт чью-либо власть над собой и будет делать только то, что хочет сам.</Audacious.description>
+  <!-- EN: Pawn cannot be TOLD to do something (right clicking and forcing tasks disabled). -->
+  <Audacious.effectDescription>Персонажу нельзя ПРИКАЗАТЬ сделать что-либо (правый кнопка и принудительные приказы отключены).</Audacious.effectDescription>
+
+  <!-- EN: callous -->
+  <Callous.label>безразличный</Callous.label>
+  <!-- EN: The subject has become callous and disregards the sanctity of life, butchering former colleagues or even friendly banter. As long as they have somewhere to sit, they don’t care. -->
+  <Callous.description>Субъект стал испытывать безразличие к ценности жизней других, спокойно стреляя по бывшим коллегами или отпуская чёрные шутки друзьям. Если человека убить, он умрёт. И ничего более.</Callous.description>
+  <!-- EN: Mood not affected by sight of death, unburied colonists, prisoners sold into slavery, organ harvesting, butchering of humans or friendly chats. Essentially a vanilla psychopath. -->
+  <Callous.effectDescription>На настроение не влияют: сцены смерти, непогребённые тела, работорговля, извлечение органов, разделка людей или дружеские беседы. Классический психопат.</Callous.effectDescription>
+
+  <!-- EN: immature -->
+  <Immature.label>незрелый</Immature.label>
+  <!-- EN: The subject has lost several methods of expressing their emotions, only able to get their point across by throwing tantrums. -->
+  <Immature.description>Субъект утратил способность выражать свои эмоции иначе, чем устраивая нервные срывы.</Immature.description>
+  <!-- EN: Majority of mental breaks are Tantrums. -->
+  <Immature.effectDescription>Все серьёзные нервные срывы являются истериками.</Immature.effectDescription>
+
+  <!-- EN: easily bored -->
+  <EasilyBored.label>скучающий</EasilyBored.label>
+  <!-- EN: The subject’s cognitive functions have become over developed and require twice the rate of recreational stimulation to delay mind-numbing boredom. -->
+  <EasilyBored.description>Когнитивные функции субъекта ускорились и теперь ему требуются в два раза более интенсивные развлечения, чтобы не скучать.</EasilyBored.description>
+  <!-- EN: Pawn Recreation drops at 2x the speed. -->
+  <EasilyBored.effectDescription>Шкала развлечений снижается в два раза быстрее.</EasilyBored.effectDescription>
+
+  <!-- EN: easily enraged -->
+  <EasilyEnraged.label>вспыльчивый</EasilyEnraged.label>
+  <!-- EN: The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take criticism well, causing them to fall into a psychotic rage every time they are slighted. -->
+  <EasilyEnraged.description>В результате эксперимента эго субъекта чрезвычайно возросло и он перестал воспринимать критику. Реакция чрезвычайно жестокая. Впадает в растерянность. каждый раз когда им пренебрегают.</EasilyEnraged.description>
+  <!-- EN: Pawn will initiate social fights every time they’re slighted. -->
+  <EasilyEnraged.effectDescription>Персонаж будет устраивать драки каждый раз, когда его задевают.</EasilyEnraged.effectDescription>
+
+  <!-- EN: sickly -->
+  <Sickly.label>чахлый</Sickly.label>
+  <!-- EN: The subject’s immune response has been ruined, requiring frequent trips to the doctor as they constantly gain new illnesses just as they’ve recovered from the previous one. -->
+  <Sickly.description>Иммунная система субъекта сильно ослабла и теперь он будет постоянно страдать от всё новых и новых болезней.</Sickly.description>
+  <!-- EN: Becomes ill very often. -->
+  <Sickly.effectDescription>Очень часто заболевает.</Sickly.effectDescription>
+
+  <!-- EN: zealot -->
+  <Zealot.label>фанатик</Zealot.label>
+  <!-- EN: The subject has developed an intense state of zealotry, that all who are against the will of the colony do not deserve to live. -->
+  <Zealot.description>У субъекта развилась фанатичная вера в идеалы поселения. Теперь все неверные заслуживают смерти.</Zealot.description>
+  <!-- EN: Will instantly kill all prisoners. -->
+  <Zealot.effectDescription>Будет немедленно убивать всех пленников.</Zealot.effectDescription>
+
+  <!-- EN: lustful -->
+  <Lustful.label>похотливый</Lustful.label>
+  <!-- EN: The subject’s hormone production has gone into overdrive, causing them to constantly make revolting remarks or gestures and generating bad blood between them and their colleagues. -->
+  <Lustful.description>У субъекта начался гормональный всплеск, заставляющий его обращать внимание на части тел других, комментировать и выражать свои желания жестами. Он быстро зарабатывает всеобщую неприязнь.</Lustful.description>
+  <!-- EN: Constantly flirts with others, but Flirts are always rejected. This drops relations with the flirt subjects. -->
+  <Lustful.effectDescription>Постоянно флиртует со всеми, но всегда отвергается. Это снижает отношения с флиртуемыми.</Lustful.effectDescription>
+
+  <!-- EN: hallucinations -->
+  <Hallucinations.label>галлюцинации</Hallucinations.label>
+  <!-- EN: The subject regularly suffers from auditory and optical hallucinations, completely convinced they are seeing something that isn’t there. Sometimes they try to make them go away by firing their weapons at them. -->
+  <Hallucinations.description>У субъекта начали появляться слуховые и оптические галлюцинации. Иногда он будет пытаться избавиться от них, начав стрелять в пустоту.</Hallucinations.description>
+  <!-- EN: Casually enters a silent mental break called ‘Seeing things’, where they will walk around aimlessly, potentially pulling out a weapon and firing once or twice. Such a mental break only lasts a short while and will NOT produce a letter announcing it. -->
+  <Hallucinations.effectDescription>Случайно входит в состояние скрытого нервного срыва «галлюцинации», который заставляет бродить по окрестностям, иногда вытаскивая оружия и стреляя пару раз. Этот нервный срыв длится недолго и НЕ ВЫЗЫВАЕТ сообщения.</Hallucinations.effectDescription>
+</LanguageData>

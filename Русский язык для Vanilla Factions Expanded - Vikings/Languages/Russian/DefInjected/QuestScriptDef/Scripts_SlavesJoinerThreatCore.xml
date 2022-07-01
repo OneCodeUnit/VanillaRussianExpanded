@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings>
+    <li>questDescription->[joiner_title] ^Number( [joiner_age] | '# год' | '# года' | '# лет')^ по имени [joiner_nameDef] присоединяется к вам. [joiner_relationInfo]</li>
+  </VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings>
+
+  <VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings>
+    <li>questName(p=2)->спасение [runnerGenitive]</li>
+    <li>questName(p=2)->помощь [runnerDative]</li>
+    <li>questName(p=2)->принятие [runnerGenitive]</li>
+    <li>questName->[runnerIndef] в беде</li>
+    <li>questName->[runnerIndef] в бегах</li>
+    <li>questName->[runnerIndef] ищет новый дом</li>
+    <li>questName->[runnerIndef] и [enemyFaction_pawnsPlural]</li>
+    <li>questName->[enemyFaction_pawnsPlural] охотятся на [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] охотятся на [runnerGenitive]</li>
+    <li>questName->[enemyFaction_pawnsPlural] преследуют [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] преследуют [runnerGenitive]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerNominative->беженец</li>
+    <li>runnerGenitive->беженца</li>
+    <li>runnerDative->беженцу</li>
+  </VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings>
+
+	<VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings>
+	  <li>joiner_frantic(joiner_gender==Male)->напуган</li>
+    <li>joiner_frantic(joiner_gender==Female)->напугана</li>
+		<li>joiner_slave(joiner_gender==Male)->раб, которого</li>
+    <li>joiner_slave(joiner_gender==Female)->рабыня, которую</li>
+		<li>questDescription->[joiner_title] ^Number( [joiner_age] | '# год' | '# года' | '# лет')^ по имени [joiner_nameDef] бежит и зовёт на помощь. [joiner_pronoun] [joiner_slave] преследуют [enemyFaction_pawnsPlural] из фракции [enemyFaction_name].\n\n[joiner_pronoun] умоляет о помощи и взамен обещает присоединиться к поселению.[joiner_relationInfo]\n\nЕсли вы согласитесь [joiner_possessive] принять, на вас нападут [enemyFaction_pawnsPluralDef], идущие у н[joiner_possessive] на хвосте. [joiner_nameDef] успевает сообщить, что в их группе: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] слишком [joiner_frantic], чтобы говорить что-либо ещё.</li>
+  </VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings>
+
+  <VFEV_ThreatReward_Raid_SlavesJoiner.LetterLabelCashing.value.slateRef>{BASELABEL} преследуют [../joiner_nameDef]</VFEV_ThreatReward_Raid_SlavesJoiner.LetterLabelCashing.value.slateRef>
+  <VFEV_ThreatReward_Raid_SlavesJoiner.LetterTextCashing.value.slateRef>{BASETEXT}\n\n[enemyFaction_pawnsPlural] пришли за [../joiner_nameDef].</VFEV_ThreatReward_Raid_SlavesJoiner.LetterTextCashing.value.slateRef>
+</LanguageData>
