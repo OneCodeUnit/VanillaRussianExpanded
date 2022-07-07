@@ -1,38 +1,67 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<OneShotOneKill.label>Один выстрел — один труп</OneShotOneKill.label>
-	<OneShotOneKill.description>Поселенец сделал 100 выстрелов в голову</OneShotOneKill.description>
+  <!-- EN: One Shot One Kill -->
+  <OneShotOneKill.label>Один выстрел — один труп</OneShotOneKill.label>
+  <!-- EN: Have a single pawn score 100 headshots. -->
+  <OneShotOneKill.description>Поселенец сделал 100 выстрелов в голову</OneShotOneKill.description>
 
-	<TriggerHappy.label>Тра-та-та пуль</TriggerHappy.label>
-	<TriggerHappy.description>Поселенец выпустил 2000 пуль</TriggerHappy.description>
+  <!-- EN: Trigger-Happy -->
+  <TriggerHappy.label>Тра-та-та пуль</TriggerHappy.label>
+  <!-- EN: Have a single pawn fire 2000 shots -->
+  <TriggerHappy.description>Поселенец выпустил 2 000 снарядов</TriggerHappy.description>
 
-	<OneSolidGardner.label>Плуг от работы блестит</OneSolidGardner.label>
-	<OneSolidGardner.description>Поселенец посадил 1000 растений</OneSolidGardner.description>
+  <!-- EN: One Solid Gardner -->
+  <OneSolidGardner.label>Плуг от работы блестит</OneSolidGardner.label>
+  <!-- EN: Have a single pawn sow 10000 plants. -->
+  <OneSolidGardner.description>Поселенец посадил 10 000 растений</OneSolidGardner.description>
 
-	<LifeSentence.label>Пожизненное заключение</LifeSentence.label>
-	<LifeSentence.description>Заключённый провел два года в тюрьме</LifeSentence.description>
+  <!-- EN: Life Sentence -->
+  <LifeSentence.label>Пожизненное заключение</LifeSentence.label>
+  <!-- EN: Have a single prisoner for 2 years. -->
+  <LifeSentence.description>Заключённый провел два года в тюрьме</LifeSentence.description>
 
-	<IMightNeedAShrink.label>Возможно, стоит обратиться к врачу</IMightNeedAShrink.label>
-	<IMightNeedAShrink.description>Поселенец провёл в нервных срывах 24 часа</IMightNeedAShrink.description>
+  <!-- EN: I Might Need A Shrink -->
+  <IMightNeedAShrink.label>Возможно, стоит обратиться к врачу</IMightNeedAShrink.label>
+  <!-- EN: Have a single pawn spend 24 hours total in Mental Breaks. -->
+  <IMightNeedAShrink.description>Поселенец провёл в нервных срывах 24 часа</IMightNeedAShrink.description>
 
-	<DrDolittle.label>Айболит</DrDolittle.label>
-	<DrDolittle.description>Поселенец приручил 50 животных</DrDolittle.description>
+  <!-- EN: Dr. Dolittle -->
+  <DrDolittle.label>Айболит</DrDolittle.label>
+  <!-- EN: Have a single pawn tame 50 animals. -->
+  <DrDolittle.description>Поселенец приручил 50 животных</DrDolittle.description>
 
-	<ProfessionalStripper.label>Ловкие пальцы</ProfessionalStripper.label>
-	<ProfessionalStripper.description>Поселенец раздел 100 тел</ProfessionalStripper.description>
+  <!-- EN: Professional Stripper -->
+  <ProfessionalStripper.label>Ловкие пальцы</ProfessionalStripper.label>
+  <!-- EN: Have a single pawn strip 100 bodies. -->
+  <ProfessionalStripper.description>Поселенец раздел 100 тел</ProfessionalStripper.description>
 
-	<BladeRunner.label>Бегущий по лезвию</BladeRunner.label>
-	<BladeRunner.description>Поселенец убил 50 механоидов</BladeRunner.description>
+  <!-- EN: Blade Runner -->
+  <BladeRunner.label>Бегущий по лезвию</BladeRunner.label>
+  <!-- EN: Have a single pawn kill 50 mechanoids -->
+  <BladeRunner.description>Поселенец убил 50 механоидов</BladeRunner.description>
 
-	<ScrubUp.label>Скальпель!</ScrubUp.label>
-	<ScrubUp.description>Провести 50 операций</ScrubUp.description>
+  <!-- EN: 3 Star Michelin -->
+  <ThreeStarMichelin.label>3 звезды «Мишлен»</ThreeStarMichelin.label>
+  <!-- EN: Have a single pawn cook 10000 meals. -->
+  <ThreeStarMichelin.description>Поселенец приготовил 10 000 блюд</ThreeStarMichelin.description>
 
-	<TheRimsBrightest.label>Передний край науки</TheRimsBrightest.label>
-	<TheRimsBrightest.description>Провести в сумме 2 года за исследованиями</TheRimsBrightest.description>
+  <!-- EN: Scrub Up -->
+  <ScrubUp.label>Скальпель!</ScrubUp.label>
+  <!-- EN: Perform a total of 50 operations. -->
+  <ScrubUp.description>Провести 50 операций</ScrubUp.description>
 
-	<IWishThisWasIkea.label>ИКЕА сюда доставляет?</IWishThisWasIkea.label>
-	<IWishThisWasIkea.description>Построить и разобрать 100 построек</IWishThisWasIkea.description>
+  <!-- EN: The Rim's Brightest -->
+  <TheRimsBrightest.label>Передний край науки</TheRimsBrightest.label>
+  <!-- EN: Spend a total of 2 years researching. -->
+  <TheRimsBrightest.description>Провести в сумме 2 года за исследованиями</TheRimsBrightest.description>
 
-	<ImOnFire.label>Идёт медведь по лесу...</ImOnFire.label>
-	<ImOnFire.description>Поселенец горел, в общей сложности, 3 дня</ImOnFire.description>
+  <!-- EN: I Wish This Was IKEA -->
+  <IWishThisWasIkea.label>ИКЕА и сюда доставляет?</IWishThisWasIkea.label>
+  <!-- EN: Construct AND Disassemble a total of 100 structures. -->
+  <IWishThisWasIkea.description>Построить И разобрать 100 построек</IWishThisWasIkea.description>
+
+  <!-- EN: I'm On Fire! -->
+  <ImOnFire.label>Идёт медведь по лесу...</ImOnFire.label>
+  <!-- EN: Have a single pawn spend a total of 3 days on fire. -->
+  <ImOnFire.description>Поселенец горел, в общей сложности, 3 дня</ImOnFire.description>
 </LanguageData>
