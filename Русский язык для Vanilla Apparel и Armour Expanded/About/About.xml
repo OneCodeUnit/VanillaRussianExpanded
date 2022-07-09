@@ -7,13 +7,12 @@
     <li>1.2</li>
     <li>1.3</li>
   </supportedVersions>
-  <packageId>RU.AAA</packageId>
+  <packageId>OW.RU.AAA</packageId>
   <description>Перевод на русский язык модов Vanilla Apparel Expanded с модулем Accessories и Vanilla Armour Expanded. Перевод модульный. Будут загружены только необходимые файлы.</description>
   <loadAfter>
     <li>VanillaExpanded.VAPPE</li>
     <li>VanillaExpanded.VARME</li>
     <li>VanillaExpanded.VAEAccessories</li>
-    <li>vanillaexpanded.achievements</li>
   </loadAfter>
   <incompatibleWith>
     <li>Am.Rus.VAPARE</li>
