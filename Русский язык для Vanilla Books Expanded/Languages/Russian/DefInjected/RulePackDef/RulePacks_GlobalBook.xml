@@ -345,47 +345,47 @@
   <VBE_BookUtility.rulePack.rulesFiles>
     <li>bookstyle->Words/BookWords/BookStyles</li>
     <li>bookstyle_adj->Words/BookWords/BookStylesAdjectives</li>
-		<li>ShootingSkill->Words/BookWords/ShootingSkill</li>
-		<li>AnimalsSkill->Words/BookWords/AnimalsSkill</li>
-		<li>ArtSkill->Words/BookWords/ArtSkill</li>
-		<li>ConstructionSkill->Words/BookWords/ConstructionSkill</li>
-		<li>CookingSkill->Words/BookWords/CookingSkill</li>
-		<li>CraftingSkill->Words/BookWords/CraftingSkill</li>
-		<li>GrowingSkill->Words/BookWords/GrowingSkill</li>
-		<li>IntellectualSkill->Words/BookWords/IntellectualSkill</li>
-		<li>MedicalSkill->Words/BookWords/MedicalSkill</li>
-		<li>MeleeSkill->Words/BookWords/MeleeSkill</li>
-		<li>MiningSkill->Words/BookWords/MiningSkill</li>
-		<li>SocialSkill->Words/BookWords/SocialSkill</li>
-		<li>Books->Words/BookWords/Books</li>
-		<li>Newspapers->Words/BookWords/Newspapers</li>
+    <li>ShootingSkill->Words/BookWords/ShootingSkill</li>
+    <li>AnimalsSkill->Words/BookWords/AnimalsSkill</li>
+    <li>ArtSkill->Words/BookWords/ArtSkill</li>
+    <li>ConstructionSkill->Words/BookWords/ConstructionSkill</li>
+    <li>CookingSkill->Words/BookWords/CookingSkill</li>
+    <li>CraftingSkill->Words/BookWords/CraftingSkill</li>
+    <li>GrowingSkill->Words/BookWords/GrowingSkill</li>
+    <li>IntellectualSkill->Words/BookWords/IntellectualSkill</li>
+    <li>MedicalSkill->Words/BookWords/MedicalSkill</li>
+    <li>MeleeSkill->Words/BookWords/MeleeSkill</li>
+    <li>MiningSkill->Words/BookWords/MiningSkill</li>
+    <li>SocialSkill->Words/BookWords/SocialSkill</li>
+    <li>Books->Words/BookWords/Books</li>
+    <li>Newspapers->Words/BookWords/Newspapers</li>
 
-		<li>Color->Words/Colors_Female</li>
-		<li>AdjectiveBadass->Words/Badass_Female</li>
-		<li>AdjectiveAngsty->Words/Angsty_Female</li>
+    <li>Color->Words/Colors_Female</li>
+    <li>AdjectiveBadass->Words/Badass_Female</li>
+    <li>AdjectiveAngsty->Words/Angsty_Female</li>
 
-		<li>ColorP->Words/Colors_Plural</li>
-		<li>AdjectiveBadassP->Words/Badass_Plural</li>
-		<li>AdjectiveAngstyP->Words/Angsty_Plural</li>
-		<li>AdjectiveFriendlyP->Words/Friendly_Plural</li>
-		<li>AdjectiveLargeP->Words/Large</li>
-		<li>of_badasspeople->Words/People_Enemies_Genitive_Plural</li>
+    <li>ColorP->Words/Colors_Plural</li>
+    <li>AdjectiveBadassP->Words/Badass_Plural</li>
+    <li>AdjectiveAngstyP->Words/Angsty_Plural</li>
+    <li>AdjectiveFriendlyP->Words/Friendly_Plural</li>
+    <li>AdjectiveLargeP->Words/Large</li>
+    <li>of_badasspeople->Words/People_Enemies_Genitive_Plural</li>
 
-		<li>nearnameinitialP->Words/Communities</li>
+    <li>nearnameinitialP->Words/Communities</li>
     <li>political_union_outlander->Words/PoliticalUnions_Outlander</li>
-	</VBE_BookUtility.rulePack.rulesFiles>
+  </VBE_BookUtility.rulePack.rulesFiles>
 
   <VBE_BookUtility.rulePack.rulesStrings>
-		<li>maybe_adjective-></li>
-		<li>maybe_adjective->[Color]</li>
-		<li>maybe_adjective->[AdjectiveBadass]</li>
-		<li>maybe_adjective->[AdjectiveAngsty]</li>
-		
-		<li>Adjective->[Color]</li>
-		<li>Adjective->[AdjectiveBadass]</li>
-		<li>Adjective->[AdjectiveAngsty]</li>
+    <li>maybe_adjective-></li>
+    <li>maybe_adjective->[Color]</li>
+    <li>maybe_adjective->[AdjectiveBadass]</li>
+    <li>maybe_adjective->[AdjectiveAngsty]</li>
+    
+    <li>Adjective->[Color]</li>
+    <li>Adjective->[AdjectiveBadass]</li>
+    <li>Adjective->[AdjectiveAngsty]</li>
 
-		<li>TerrainFeature->[TerrainFeatures_Genitive]</li>
+    <li>TerrainFeature->[TerrainFeatures_Genitive]</li>
 
     <li>depicts->показывает</li>
     <li>depicts->изображает</li>
@@ -394,413 +394,413 @@
     <li>depicts->представляет</li>
     <li>depicts->напоминает то</li>
 
-		<li>depiction->картина</li>
+    <li>depiction->картина</li>
     <li>depiction->изображение</li>
     <li>depiction->представление</li>
     <li>depiction->образ</li>
     <li>depiction->иллюстрация</li>
 
-		<li>cover->обложка книги [depicts] [image]</li>
-		<li>cover->на обложке написано: [depiction] того, как[image]</li>
-		<li>cover->на обложке имеется [depiction] того, как[image]</li>
-		
-		<li>first_chapters->первые несколько глав описывают процесс применения </li>
-		<li>first_chapters->в первой части книги подробно рассказывается о теме </li>
-		<li>first_chapters->первые несколько страниц описывают применение </li>
-		<li>first_chapters->начало книги вращается вокруг </li>
-		<li>first_chapters->книга начинается с </li>
-		<li>first_chapters->начало посвящено теме </li>
-		
-		<li>maybe_cont(p=2)-></li>
-		<li>maybe_cont-> в контексте [ConceptAny]</li>
-		<li>maybe_cont-> в [AdjectiveBadassP] тонах</li>
-		<li>maybe_cont-> и важности [ConceptAny]</li>
-		<li>maybe_cont-> с акцентом на использовании [TerrainFeature]</li>
-		<li>maybe_cont->, а также, как можно использовать [Vegetable] для улучшения этого</li>
-		<li>maybe_cont-> в процессе игры в [Game]</li>
-		<li>maybe_cont-> посреди мира, где главенствует [Animal]</li>
-		<li>maybe_cont-> становящимся красивее с [Gore]</li>
-		<li>maybe_cont->, как часть [TerrainFeature]</li>
-		<li>maybe_cont-> с позиции [Enemies_gen]</li>
-		<li>maybe_cont->, основываясь на опыте из поездки в [Community]</li>
-		<li>maybe_cont-> с личными выводами от наблюдения [Character]</li>
-		<li>maybe_cont->, основанное на интервью с [NamePerson] — местной знаменитостью</li>
-		<li>maybe_cont-> и тому, почему предметы [ColorP] цветов всегда сопоставляют с этим</li>
-		<li>maybe_cont->, а также, как [Animal] может помочь с этим</li>
-		<li>maybe_cont-> и описания того, как по-разному можно использовать [Weapon] на поле боя</li>
-		<li>maybe_cont->, основанное на различных опросах среди [AdjectiveFriendlyP] [PersonJobs_gen]</li>
-		<li>maybe_cont-> и то, как важно надеть [Apparel]</li>
-		<li>maybe_cont->, а также, как при помощи [ConceptPositive] и [ConceptPositive] можно улучшить это</li>
-		<li>maybe_cont-> используя [bookstyle_adj] стиль</li>
-		
-		
-		<li>middle_book->Затем автор переходит к описанию</li>
-		<li>middle_book->Следующие главы позволяют читателю поразмышлять о теме</li>
-		<li>middle_book->В следующей части обсуждается тема</li>
-		<li>middle_book->После этого, автор ударяется в пространные рассуждения природе</li>
-		<li>middle_book->В середине книги начинаются описание</li>
-		<li>middle_book->Следующая часть посвящена теме</li>
-		
-		<li>ending->Приближаясь к финалу, автор подводит итог над вопросом</li>
-		<li>ending->В конце книги делается акцент на теме</li>
-		<li>ending->В последних нескольких главах выделяется тема</li>
-		<li>ending->Окончание книги посвящено проблемам</li>
-		<li>ending->Последняя глава вращается вокруг</li>
-		<li>ending->На последней странице упоминается тема</li>
-		<li>ending->Последняя часть книги отдана на разбор</li>
-		<li>ending->Автор решил отдать последнюю часть книги освещению темы</li>
-		
-		<li>book_context->идею [ConceptAny], а стиль исполнения [bookstyle_adj]</li>
-		<li>book_context->[bookstyle_adj] стиль</li>
-		<li>book_context->стиль [bookstyle_adj], местами [bookstyle_adj]</li>
-		<li>book_context->[bookstyle_adj] стиль написания текста</li>
-		<li>book_context->стиль [bookstyle_adj], но [bookstyle_adj]</li>
-		
-		<li>maybe_writingstyles(p=3)-></li>
-		<li>maybe_writingstyles->, использующий в большом количестве [bookstyle]</li>
-		<li>maybe_writingstyles->, активно использующий [bookstyle]</li>
-		<li>maybe_writingstyles->, не использующий [bookstyle] ни разу</li>
-		<li>maybe_writingstyles->, использующий исключительно [bookstyle]</li>
-		<li>maybe_writingstyles->, использующий в большом количестве [bookstyle] и совершенно не использующий [bookstyle]</li>
-		<li>maybe_writingstyles->. Автор часто использует [bookstyle], переходя то, в [bookstyle], то в [bookstyle]</li>
-		<li>maybe_writingstyles-> и тут часто используются [bookstyle], имеющие [bookstyle_adj] вид</li>
-		
-		<li>book->эта книга</li>
-		<li>book->эта работа</li>
-		<li>book->это произведение</li>
-		<li>book->этот труд</li>
-		<li>book->этот текст</li>
-		
-		<li>book_general->[book] ставит своей целью подробно объяснить тему</li>
-		<li>book_general->[book] даёт читателю представление такой теме, как</li>
-		<li>book_general->Читая [book], можно получить ценную информацию по теме</li>
-		<li>book_general->[book] — всё о теме</li>
-		<li>book_general->[book] передаёт желание автора сосредоточить внимание читателя на теме</li>
-		
-		<li>maybe_ShootingSkill-></li>
-		<li>maybe_ShootingSkill-> и [ShootingSkill]</li>
-		<li>maybe_ShootingSkill->, а также [ShootingSkill]</li>
-		
-		<li>maybe_AnimalsSkill-></li>
-		<li>maybe_AnimalsSkill-> и [AnimalsSkill]</li>
-		<li>maybe_AnimalsSkill->, а также [AnimalsSkill]</li>
-		
-		<li>maybe_ArtSkill-></li>
-		<li>maybe_ArtSkill-> и [ArtSkill]</li>
-		<li>maybe_ArtSkill->, а также [ArtSkill]</li>
-		
-		<li>maybe_ConstructionSkill-></li>
-		<li>maybe_ConstructionSkill-> и [ConstructionSkill]</li>
-		<li>maybe_ConstructionSkill->, а также [ConstructionSkill]</li>
-		
-		<li>maybe_CookingSkill-></li>
-		<li>maybe_CookingSkill-> и [CookingSkill]</li>
-		<li>maybe_CookingSkill->, а также [CookingSkill]</li>
-		
-		<li>maybe_CraftingSkill-></li>
-		<li>maybe_CraftingSkill-> и [CraftingSkill]</li>
-		<li>maybe_CraftingSkill->, а также [CraftingSkill]</li>
-		
-		<li>maybe_GrowingSkill-></li>
-		<li>maybe_GrowingSkill-> и [GrowingSkill]</li>
-		<li>maybe_GrowingSkill->, а также [GrowingSkill]</li>		
-		
-		<li>maybe_IntellectualSkill-></li>
-		<li>maybe_IntellectualSkill-> и [IntellectualSkill]</li>
-		<li>maybe_IntellectualSkill->, а также [IntellectualSkill]</li>
-		
-		<li>maybe_MedicalSkill-></li>
-		<li>maybe_MedicalSkill-> и [MedicalSkill]</li>
-		<li>maybe_MedicalSkill->, а также [MedicalSkill]</li>
-		
-		<li>maybe_MeleeSkill-></li>
-		<li>maybe_MeleeSkill-> и [MeleeSkill]</li>
-		<li>maybe_MeleeSkill->, а также [MeleeSkill]</li>
-		
-		<li>maybe_MiningSkill-></li>
-		<li>maybe_MiningSkill-> и [MiningSkill]</li>
-		<li>maybe_MiningSkill->, а также [MiningSkill]</li>
-		
-		<li>maybe_SocialSkill-></li>
-		<li>maybe_SocialSkill-> и [SocialSkill]</li>
-		<li>maybe_SocialSkill->, а также [SocialSkill]</li>
-		
-		<li>inspired->Вдохновлена бестселлером под названием</li>
-		<li>inspired->Приквел популярной книги под названием</li>
-		<li>inspired->В значительно степени основывается на работе под названием</li>
-		<li>inspired->Написана для опровержения утверждений из работы</li>
-		
-		<!-- newspaper -->
+    <li>cover->обложка книги [depicts] [image]</li>
+    <li>cover->на обложке написано: [depiction] того, как[image]</li>
+    <li>cover->на обложке имеется [depiction] того, как[image]</li>
+    
+    <li>first_chapters->первые несколько глав описывают процесс применения </li>
+    <li>first_chapters->в первой части книги подробно рассказывается о теме </li>
+    <li>first_chapters->первые несколько страниц описывают применение </li>
+    <li>first_chapters->начало книги вращается вокруг </li>
+    <li>first_chapters->книга начинается с </li>
+    <li>first_chapters->начало посвящено теме </li>
+    
+    <li>maybe_cont(p=2)-></li>
+    <li>maybe_cont-> в контексте [ConceptAny]</li>
+    <li>maybe_cont-> в [AdjectiveBadassP] тонах</li>
+    <li>maybe_cont-> и важности [ConceptAny]</li>
+    <li>maybe_cont-> с акцентом на использовании [TerrainFeature]</li>
+    <li>maybe_cont->, а также, как можно использовать [Vegetable] для улучшения этого</li>
+    <li>maybe_cont-> в процессе игры в [Game]</li>
+    <li>maybe_cont-> посреди мира, где главенствует [Animal]</li>
+    <li>maybe_cont-> становящимся красивее с [Gore]</li>
+    <li>maybe_cont->, как часть [TerrainFeature]</li>
+    <li>maybe_cont-> с позиции [Enemies_gen]</li>
+    <li>maybe_cont->, основываясь на опыте из поездки в [Community]</li>
+    <li>maybe_cont-> с личными выводами от наблюдения [Character]</li>
+    <li>maybe_cont->, основанное на интервью с [NamePerson] — местной знаменитостью</li>
+    <li>maybe_cont-> и тому, почему предметы [ColorP] цветов всегда сопоставляют с этим</li>
+    <li>maybe_cont->, а также, как [Animal] может помочь с этим</li>
+    <li>maybe_cont-> и описания того, как по-разному можно использовать [Weapon] на поле боя</li>
+    <li>maybe_cont->, основанное на различных опросах среди [AdjectiveFriendlyP] [PersonJobs_gen]</li>
+    <li>maybe_cont-> и то, как важно надеть [Apparel]</li>
+    <li>maybe_cont->, а также, как при помощи [ConceptPositive] и [ConceptPositive] можно улучшить это</li>
+    <li>maybe_cont-> используя [bookstyle_adj] стиль</li>
+    
+    
+    <li>middle_book->Затем автор переходит к описанию</li>
+    <li>middle_book->Следующие главы позволяют читателю поразмышлять о теме</li>
+    <li>middle_book->В следующей части обсуждается тема</li>
+    <li>middle_book->После этого, автор ударяется в пространные рассуждения природе</li>
+    <li>middle_book->В середине книги начинаются описание</li>
+    <li>middle_book->Следующая часть посвящена теме</li>
+    
+    <li>ending->Приближаясь к финалу, автор подводит итог над вопросом</li>
+    <li>ending->В конце книги делается акцент на теме</li>
+    <li>ending->В последних нескольких главах выделяется тема</li>
+    <li>ending->Окончание книги посвящено проблемам</li>
+    <li>ending->Последняя глава вращается вокруг</li>
+    <li>ending->На последней странице упоминается тема</li>
+    <li>ending->Последняя часть книги отдана на разбор</li>
+    <li>ending->Автор решил отдать последнюю часть книги освещению темы</li>
+    
+    <li>book_context->идею [ConceptAny], а стиль исполнения [bookstyle_adj]</li>
+    <li>book_context->[bookstyle_adj] стиль</li>
+    <li>book_context->стиль [bookstyle_adj], местами [bookstyle_adj]</li>
+    <li>book_context->[bookstyle_adj] стиль написания текста</li>
+    <li>book_context->стиль [bookstyle_adj], но [bookstyle_adj]</li>
+    
+    <li>maybe_writingstyles(p=3)-></li>
+    <li>maybe_writingstyles->, использующий в большом количестве [bookstyle]</li>
+    <li>maybe_writingstyles->, активно использующий [bookstyle]</li>
+    <li>maybe_writingstyles->, не использующий [bookstyle] ни разу</li>
+    <li>maybe_writingstyles->, использующий исключительно [bookstyle]</li>
+    <li>maybe_writingstyles->, использующий в большом количестве [bookstyle] и совершенно не использующий [bookstyle]</li>
+    <li>maybe_writingstyles->. Автор часто использует [bookstyle], переходя то, в [bookstyle], то в [bookstyle]</li>
+    <li>maybe_writingstyles-> и тут часто используются [bookstyle], имеющие [bookstyle_adj] вид</li>
+    
+    <li>book->эта книга</li>
+    <li>book->эта работа</li>
+    <li>book->это произведение</li>
+    <li>book->этот труд</li>
+    <li>book->этот текст</li>
+    
+    <li>book_general->[book] ставит своей целью подробно объяснить тему</li>
+    <li>book_general->[book] даёт читателю представление такой теме, как</li>
+    <li>book_general->Читая [book], можно получить ценную информацию по теме</li>
+    <li>book_general->[book] — всё о теме</li>
+    <li>book_general->[book] передаёт желание автора сосредоточить внимание читателя на теме</li>
+    
+    <li>maybe_ShootingSkill-></li>
+    <li>maybe_ShootingSkill-> и [ShootingSkill]</li>
+    <li>maybe_ShootingSkill->, а также [ShootingSkill]</li>
+    
+    <li>maybe_AnimalsSkill-></li>
+    <li>maybe_AnimalsSkill-> и [AnimalsSkill]</li>
+    <li>maybe_AnimalsSkill->, а также [AnimalsSkill]</li>
+    
+    <li>maybe_ArtSkill-></li>
+    <li>maybe_ArtSkill-> и [ArtSkill]</li>
+    <li>maybe_ArtSkill->, а также [ArtSkill]</li>
+    
+    <li>maybe_ConstructionSkill-></li>
+    <li>maybe_ConstructionSkill-> и [ConstructionSkill]</li>
+    <li>maybe_ConstructionSkill->, а также [ConstructionSkill]</li>
+    
+    <li>maybe_CookingSkill-></li>
+    <li>maybe_CookingSkill-> и [CookingSkill]</li>
+    <li>maybe_CookingSkill->, а также [CookingSkill]</li>
+    
+    <li>maybe_CraftingSkill-></li>
+    <li>maybe_CraftingSkill-> и [CraftingSkill]</li>
+    <li>maybe_CraftingSkill->, а также [CraftingSkill]</li>
+    
+    <li>maybe_GrowingSkill-></li>
+    <li>maybe_GrowingSkill-> и [GrowingSkill]</li>
+    <li>maybe_GrowingSkill->, а также [GrowingSkill]</li>		
+    
+    <li>maybe_IntellectualSkill-></li>
+    <li>maybe_IntellectualSkill-> и [IntellectualSkill]</li>
+    <li>maybe_IntellectualSkill->, а также [IntellectualSkill]</li>
+    
+    <li>maybe_MedicalSkill-></li>
+    <li>maybe_MedicalSkill-> и [MedicalSkill]</li>
+    <li>maybe_MedicalSkill->, а также [MedicalSkill]</li>
+    
+    <li>maybe_MeleeSkill-></li>
+    <li>maybe_MeleeSkill-> и [MeleeSkill]</li>
+    <li>maybe_MeleeSkill->, а также [MeleeSkill]</li>
+    
+    <li>maybe_MiningSkill-></li>
+    <li>maybe_MiningSkill-> и [MiningSkill]</li>
+    <li>maybe_MiningSkill->, а также [MiningSkill]</li>
+    
+    <li>maybe_SocialSkill-></li>
+    <li>maybe_SocialSkill-> и [SocialSkill]</li>
+    <li>maybe_SocialSkill->, а также [SocialSkill]</li>
+    
+    <li>inspired->Вдохновлена бестселлером под названием</li>
+    <li>inspired->Приквел популярной книги под названием</li>
+    <li>inspired->В значительно степени основывается на работе под названием</li>
+    <li>inspired->Написана для опровержения утверждений из работы</li>
+    
+    <!-- newspaper -->
     <li>context_newspaper->[newspaper] углубляется в тему того, [tale_noun] [DATE].</li>
     <li>context_newspaper->[newspaper] касается темы того, [tale_noun] [DATE].</li>
     <li>context_newspaper->[newspaper] рассказывает историю о том, [tale_noun] [DATE].</li>
-		<li>context_newspaper->[newspaper] о том, [tale_noun] [DATE].</li>
-		<li>context_newspaper->[newspaper] информирует читателя о том, [tale_noun] [DATE].</li>
-		
-		<li>nearnameinitial->[townname_wordgen]</li>
+    <li>context_newspaper->[newspaper] о том, [tale_noun] [DATE].</li>
+    <li>context_newspaper->[newspaper] информирует читателя о том, [tale_noun] [DATE].</li>
+    
+    <li>nearnameinitial->[townname_wordgen]</li>
     <li>nearnameinitial->[nearnameinitialP]</li>
-		
-		<li>newspaper->эта газета</li>
-		<li>newspaper->этот журнал</li>
-		<li>newspaper->эта листовка</li>
-		<li>newspaper->это издание</li>
-		<li>newspaper->этот выпуск</li>
-		<li>newspaper->это печатное издание</li>
-		
-		<li>maybe_tom->о теме</li>
-		<li>maybe_tom->на тему</li>
-		<li>maybe_tom->ещё немного о теме</li>
-		<li>maybe_tom->дополнение к теме</li>
+    
+    <li>newspaper->эта газета</li>
+    <li>newspaper->этот журнал</li>
+    <li>newspaper->эта листовка</li>
+    <li>newspaper->это издание</li>
+    <li>newspaper->этот выпуск</li>
+    <li>newspaper->это печатное издание</li>
+    
+    <li>maybe_tom->о теме</li>
+    <li>maybe_tom->на тему</li>
+    <li>maybe_tom->ещё немного о теме</li>
+    <li>maybe_tom->дополнение к теме</li>
 
-		<li>Con_Skill->немного</li>
-		<li>Con_Skill->некоторое количество</li>
-		<li>Con_Skill->несколько</li>
-		<li>Con_Skill->много</li>
-		<li>Con_Skill->очень много</li>
+    <li>Con_Skill->немного</li>
+    <li>Con_Skill->некоторое количество</li>
+    <li>Con_Skill->несколько</li>
+    <li>Con_Skill->много</li>
+    <li>Con_Skill->очень много</li>
 
-		<li>maybe_letter(p=8)-></li>
+    <li>maybe_letter(p=8)-></li>
     <li>maybe_letter->[Letter]</li>
     <li>maybe_letter->[Letter][Letter]</li>
 
-		<!-- another shooting book -->
-		<li>ShootingBook->[maybe_adjective] [Books] [ShootingSkill]</li>
-		<li>ShootingBook->[AdjectiveBadass] [Books] [ShootingSkill]</li>
-		<li>ShootingBook->[AdjectiveLarge] [Books] [ShootingSkill]</li>
-		<li>ShootingBook->[Books] [ShootingSkill] [of_badasspeople]</li>
-		<li>ShootingBook->[maybe_adjective] [Books] [ShootingSkill]</li>
-		<li>ShootingBook->[AdjectiveBadass] [Books] [ShootingSkill]</li>
-		<li>ShootingBook->[Adjective] [Noun]: История	[ShootingSkill]</li>	
-		<li>ShootingBook->[ShootingSkill] [Digit]</li>
-        <li>ShootingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
-        <li>ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
-        <li>ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
-        <li>ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
-		<li>ShootingBook->[Books] [ShootingSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>ShootingBook->[ShootingSkill] [ANYPAWN_nameIndef]</li>
-        <li>ShootingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [ShootingSkill]</li>
-        <li>ShootingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [ShootingSkill]</li>
-        <li>ShootingBook->[Noun] и [Con_Skill] [ShootingSkill]</li>
-        <li>ShootingBook->[ConceptAny] и [Con_Skill] [ShootingSkill]</li>
-		
-		<!-- another animals book -->
-		<li>AnimalsBook->[maybe_adjective] [Books] [AnimalsSkill]</li>
-		<li>AnimalsBook->[AdjectiveBadass] [Books] [AnimalsSkill]</li>
-		<li>AnimalsBook->[AdjectiveLarge] [Books] [AnimalsSkill]</li>
-		<li>AnimalsBook->[Books] [AnimalsSkill] [of_badasspeople] </li>
-		<li>AnimalsBook->[maybe_adjective] [Books] [AnimalsSkill]</li>
-		<li>AnimalsBook->[AdjectiveBadass] [Books] [AnimalsSkill]</li>
-		<li>AnimalsBook->[Adjective] [Noun]: История	[AnimalsSkill]</li>	
-		<li>AnimalsBook->[AnimalsSkill] [Digit]</li>
-        <li>AnimalsBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
-        <li>AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
-        <li>AnimalsBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
-        <li>AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
-		<li>AnimalsBook->[Books] [AnimalsSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>AnimalsBook->[AnimalsSkill] [ANYPAWN_nameIndef]</li>
-        <li>AnimalsBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [AnimalsSkill]</li>
-        <li>AnimalsBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [AnimalsSkill]</li>
-        <li>AnimalsBook->[Noun] и [Con_Skill] [AnimalsSkill]</li>
-        <li>AnimalsBook->[ConceptAny] и [Con_Skill] [AnimalsSkill]</li>
-		
-		<!-- another art book -->
-		<li>ArtBook->[maybe_adjective] [Books] [ArtSkill]</li>
-		<li>ArtBook->[AdjectiveBadass] [Books] [ArtSkill]</li>
-		<li>ArtBook->[AdjectiveLarge] [Books] [ArtSkill]</li>
-		<li>ArtBook->[Books] [ArtSkill] [of_badasspeople] </li>
-		<li>ArtBook->[maybe_adjective] [Books] [ArtSkill]</li>
-		<li>ArtBook->[AdjectiveBadass] [Books] [ArtSkill]</li>
-		<li>ArtBook->[Adjective] [Noun]: История	[ArtSkill]</li>	
-		<li>ArtBook->[ArtSkill] [Digit]</li>
-        <li>ArtBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [ArtSkill]</li>
-        <li>ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [ArtSkill]</li>
-        <li>ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [ArtSkill]</li>
-        <li>ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [ArtSkill]</li>
-		<li>ArtBook->[Books] [ArtSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>ArtBook->[ArtSkill] [ANYPAWN_nameIndef]</li>
-        <li>ArtBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [ArtSkill]</li>
-        <li>ArtBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [ArtSkill]</li>
-        <li>ArtBook->[Noun] и [Con_Skill] [ArtSkill]</li>
-        <li>ArtBook->[ConceptAny] и [Con_Skill] [ArtSkill]</li>
-		
-		<!-- another construction book -->
-		<li>ConstructionBook->[maybe_adjective] [Books] [ConstructionSkill]</li>
-		<li>ConstructionBook->[AdjectiveBadass] [Books] [ConstructionSkill]</li>
-		<li>ConstructionBook->[AdjectiveLarge] [Books] [ConstructionSkill]</li>
-		<li>ConstructionBook->[Books] [ConstructionSkill] [of_badasspeople] </li>
-		<li>ConstructionBook->[maybe_adjective] [Books] [ConstructionSkill]</li>
-		<li>ConstructionBook->[AdjectiveBadass] [Books] [ConstructionSkill]</li>
-		<li>ConstructionBook->[Adjective] [Noun]: История	[ConstructionSkill]</li>	
-		<li>ConstructionBook->[ConstructionSkill] [Digit]</li>
-        <li>ConstructionBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
-        <li>ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
-        <li>ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
-        <li>ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
-		<li>ConstructionBook->[Books] [ConstructionSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>ConstructionBook->[ConstructionSkill] [ANYPAWN_nameIndef]</li>
-        <li>ConstructionBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [ConstructionSkill]</li>
-        <li>ConstructionBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [ConstructionSkill]</li>
-        <li>ConstructionBook->[Noun] и [Con_Skill] [ConstructionSkill]</li>
-        <li>ConstructionBook->[ConceptAny] и [Con_Skill] [ConstructionSkill]</li>
-		
-		<!-- another cooking book -->
-		<li>CookingBook->[maybe_adjective] [Books] [CookingSkill]</li>
-		<li>CookingBook->[AdjectiveBadass] [Books] [CookingSkill]</li>
-		<li>CookingBook->[AdjectiveLarge] [Books] [CookingSkill]</li>
-		<li>CookingBook->[Books] [CookingSkill] [of_badasspeople] </li>
-		<li>CookingBook->[maybe_adjective] [Books] [CookingSkill]</li>
-		<li>CookingBook->[AdjectiveBadass] [Books] [CookingSkill]</li>
-		<li>CookingBook->[Adjective] [Noun]: История	[CookingSkill]</li>	
-		<li>CookingBook->[CookingSkill] [Digit]</li>
-        <li>CookingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [CookingSkill]</li>
-        <li>CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [CookingSkill]</li>
-        <li>CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [CookingSkill]</li>
-        <li>CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [CookingSkill]</li>
-		<li>CookingBook->[Books] [CookingSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>CookingBook->[CookingSkill] [ANYPAWN_nameIndef]</li>
-        <li>CookingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [CookingSkill]</li>
-        <li>CookingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [CookingSkill]</li>
-        <li>CookingBook->[Noun] и [Con_Skill] [CookingSkill]</li>
-        <li>CookingBook->[ConceptAny] и [Con_Skill] [CookingSkill]</li>
-		
-		<!-- another crafting book -->
-		<li>CraftingBook->[maybe_adjective] [Books] [CraftingSkill]</li>
-		<li>CraftingBook->[AdjectiveBadass] [Books] [CraftingSkill]</li>
-		<li>CraftingBook->[AdjectiveLarge] [Books] [CraftingSkill]</li>
-		<li>CraftingBook->[Books] [CraftingSkill] [of_badasspeople] </li>
-		<li>CraftingBook->[maybe_adjective] [Books] [CraftingSkill]</li>
-		<li>CraftingBook->[AdjectiveBadass] [Books] [CraftingSkill]</li>
-		<li>CraftingBook->[Adjective] [Noun]: История	[CraftingSkill]</li>	
-		<li>CraftingBook->[CraftingSkill] [Digit]</li>
-        <li>CraftingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
-        <li>CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
-        <li>CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
-        <li>CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
-		<li>CraftingBook->[Books] [CraftingSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>CraftingBook->[CraftingSkill] [ANYPAWN_nameIndef]</li>
-        <li>CraftingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [CraftingSkill]</li>
-        <li>CraftingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [CraftingSkill]</li>
-        <li>CraftingBook->[Noun] и [Con_Skill] [CraftingSkill]</li>
-        <li>CraftingBook->[ConceptAny] и [Con_Skill] [CraftingSkill]</li>
-		
-		<!-- another growing book -->
-		<li>GrowingBook->[maybe_adjective] [Books] [GrowingSkill]</li>
-		<li>GrowingBook->[AdjectiveBadass] [Books] [GrowingSkill]</li>
-		<li>GrowingBook->[AdjectiveLarge] [Books] [GrowingSkill]</li>
-		<li>GrowingBook->[Books] [GrowingSkill] [of_badasspeople] </li>
-		<li>GrowingBook->[maybe_adjective] [Books] [GrowingSkill]</li>
-		<li>GrowingBook->[AdjectiveBadass] [Books] [GrowingSkill]</li>
-		<li>GrowingBook->[Adjective] [Noun]: История	[GrowingSkill]</li>	
-		<li>GrowingBook->[GrowingSkill] [Digit]</li>
-        <li>GrowingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
-        <li>GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
-        <li>GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
-        <li>GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
-		<li>GrowingBook->[Books] [GrowingSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>GrowingBook->[GrowingSkill] [ANYPAWN_nameIndef]</li>
-        <li>GrowingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [GrowingSkill]</li>
-        <li>GrowingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [GrowingSkill]</li>
-        <li>GrowingBook->[Noun] и [Con_Skill] [GrowingSkill]</li>
-        <li>GrowingBook->[ConceptAny] и [Con_Skill] [GrowingSkill]</li>
-		
-		<!-- another intellectual book -->
-		<li>IntellectualBook->[maybe_adjective] [Books] [IntellectualSkill]</li>
-		<li>IntellectualBook->[AdjectiveBadass] [Books] [IntellectualSkill]</li>
-		<li>IntellectualBook->[AdjectiveLarge] [Books] [IntellectualSkill]</li>
-		<li>IntellectualBook->[Books] [IntellectualSkill] [of_badasspeople] </li>
-		<li>IntellectualBook->[maybe_adjective] [Books] [IntellectualSkill]</li>
-		<li>IntellectualBook->[AdjectiveBadass] [Books] [IntellectualSkill]</li>
-		<li>IntellectualBook->[Adjective] [Noun]: История	[IntellectualSkill]</li>	
-		<li>IntellectualBook->[IntellectualSkill] [Digit]</li>
-        <li>IntellectualBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
-        <li>IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
-        <li>IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
-        <li>IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
-		<li>IntellectualBook->[Books] [IntellectualSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>IntellectualBook->[IntellectualSkill] [ANYPAWN_nameIndef]</li>
-        <li>IntellectualBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [IntellectualSkill]</li>
-        <li>IntellectualBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [IntellectualSkill]</li>
-        <li>IntellectualBook->[Noun] и [Con_Skill] [IntellectualSkill]</li>
-        <li>IntellectualBook->[ConceptAny] и [Con_Skill] [IntellectualSkill]</li>
-		
-		<!-- another medical book -->
-		<li>MedicalBook->[maybe_adjective] [Books] [MedicalSkill]</li>
-		<li>MedicalBook->[AdjectiveBadass] [Books] [MedicalSkill]</li>
-		<li>MedicalBook->[AdjectiveLarge] [Books] [MedicalSkill]</li>
-		<li>MedicalBook->[Books] [MedicalSkill] [of_badasspeople] </li>
-		<li>MedicalBook->[maybe_adjective] [Books] [MedicalSkill]</li>
-		<li>MedicalBook->[AdjectiveBadass] [Books] [MedicalSkill]</li>
-		<li>MedicalBook->[Adjective] [Noun]: История	[MedicalSkill]</li>	
-		<li>MedicalBook->[MedicalSkill] [Digit]</li>
-        <li>MedicalBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
-        <li>MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
-        <li>MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
-        <li>MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
-		<li>MedicalBook->[Books] [MedicalSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>MedicalBook->[MedicalSkill] [ANYPAWN_nameIndef]</li>
-        <li>MedicalBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [MedicalSkill]</li>
-        <li>MedicalBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [MedicalSkill]</li>
-        <li>MedicalBook->[Noun] и [Con_Skill] [MedicalSkill]</li>
-        <li>MedicalBook->[ConceptAny] и [Con_Skill] [MedicalSkill]</li>
-		
-		<!-- another melee book -->
-		<li>MeleeBook->[maybe_adjective] [Books] [MeleeSkill]</li>
-		<li>MeleeBook->[AdjectiveBadass] [Books] [MeleeSkill]</li>
-		<li>MeleeBook->[AdjectiveLarge] [Books] [MeleeSkill]</li>
-		<li>MeleeBook->[Books] [MeleeSkill] [of_badasspeople] </li>
-		<li>MeleeBook->[maybe_adjective] [Books] [MeleeSkill]</li>
-		<li>MeleeBook->[AdjectiveBadass] [Books] [MeleeSkill]</li>
-		<li>MeleeBook->[Adjective] [Noun]: История	[MeleeSkill]</li>	
-		<li>MeleeBook->[MeleeSkill] [Digit]</li>
-        <li>MeleeBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
-        <li>MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
-        <li>MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
-        <li>MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
-		<li>MeleeBook->[Books] [MeleeSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>MeleeBook->[MeleeSkill] [ANYPAWN_nameIndef]</li>
-        <li>MeleeBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [MeleeSkill]</li>
-        <li>MeleeBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [MeleeSkill]</li>
-        <li>MeleeBook->[Noun] и [Con_Skill] [MeleeSkill]</li>
-        <li>MeleeBook->[ConceptAny] и [Con_Skill] [MeleeSkill]</li>
-		
-		<!-- another mining book -->
-		<li>MiningBook->[maybe_adjective] [Books] [MiningSkill]</li>
-		<li>MiningBook->[AdjectiveBadass] [Books] [MiningSkill]</li>
-		<li>MiningBook->[AdjectiveLarge] [Books] [MiningSkill]</li>
-		<li>MiningBook->[Books] [MiningSkill] [of_badasspeople] </li>
-		<li>MiningBook->[maybe_adjective] [Books] [MiningSkill]</li>
-		<li>MiningBook->[AdjectiveBadass] [Books] [MiningSkill]</li>
-		<li>MiningBook->[Adjective] [Noun]: История	[MiningSkill]</li>	
-		<li>MiningBook->[MiningSkill] [Digit]</li>
-        <li>MiningBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [MiningSkill]</li>
-        <li>MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [MiningSkill]</li>
-        <li>MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [MiningSkill]</li>
-        <li>MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [MiningSkill]</li>
-		<li>MiningBook->[Books] [MiningSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>MiningBook->[MiningSkill] [ANYPAWN_nameIndef]</li>
-        <li>MiningBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [MiningSkill]</li>
-        <li>MiningBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [MiningSkill]</li>
-        <li>MiningBook->[Noun] и [Con_Skill] [MiningSkill]</li>
-        <li>MiningBook->[ConceptAny] и [Con_Skill] [MiningSkill]</li>
-		
-		<!-- another social book -->
-		<li>SocialBook->[maybe_adjective] [Books] [SocialSkill]</li>
-		<li>SocialBook->[AdjectiveBadass] [Books] [SocialSkill]</li>
-		<li>SocialBook->[AdjectiveLarge] [Books] [SocialSkill]</li>
-		<li>SocialBook->[Books] [SocialSkill] [of_badasspeople] </li>
-		<li>SocialBook->[maybe_adjective] [Books] [SocialSkill]</li>
-		<li>SocialBook->[AdjectiveBadass] [Books] [SocialSkill]</li>
-		<li>SocialBook->[Adjective] [Noun]: История	[SocialSkill]</li>	
-		<li>SocialBook->[SocialSkill] [Digit]</li>
-        <li>SocialBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [SocialSkill]</li>
-        <li>SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [SocialSkill]</li>
-        <li>SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [SocialSkill]</li>
-        <li>SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [SocialSkill]</li>
-		<li>SocialBook->[Books] [SocialSkill] за авторством [ANYPAWN_nameIndef]</li>
-		<li>SocialBook->[SocialSkill] [ANYPAWN_nameIndef]</li>
-        <li>SocialBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [SocialSkill]</li>
-        <li>SocialBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [SocialSkill]</li>
-        <li>SocialBook->[Noun] и [Con_Skill] [SocialSkill]</li>
-        <li>SocialBook->[ConceptAny] и [Con_Skill] [SocialSkill]</li>
-	</VBE_BookUtility.rulePack.rulesStrings>
+    <!-- another shooting book -->
+    <li>ShootingBook->[maybe_adjective] [Books] [ShootingSkill]</li>
+    <li>ShootingBook->[AdjectiveBadass] [Books] [ShootingSkill]</li>
+    <li>ShootingBook->[AdjectiveLarge] [Books] [ShootingSkill]</li>
+    <li>ShootingBook->[Books] [ShootingSkill] [of_badasspeople]</li>
+    <li>ShootingBook->[maybe_adjective] [Books] [ShootingSkill]</li>
+    <li>ShootingBook->[AdjectiveBadass] [Books] [ShootingSkill]</li>
+    <li>ShootingBook->[Adjective] [Noun]: История	[ShootingSkill]</li>	
+    <li>ShootingBook->[ShootingSkill] [Digit]</li>
+    <li>ShootingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
+    <li>ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
+    <li>ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
+    <li>ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [ShootingSkill]</li>
+    <li>ShootingBook->[Books] [ShootingSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>ShootingBook->[ShootingSkill] [ANYPAWN_nameIndef]</li>
+    <li>ShootingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [ShootingSkill]</li>
+    <li>ShootingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [ShootingSkill]</li>
+    <li>ShootingBook->[Noun] и [Con_Skill] [ShootingSkill]</li>
+    <li>ShootingBook->[ConceptAny] и [Con_Skill] [ShootingSkill]</li>
+    
+    <!-- another animals book -->
+    <li>AnimalsBook->[maybe_adjective] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook->[AdjectiveBadass] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook->[AdjectiveLarge] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook->[Books] [AnimalsSkill] [of_badasspeople] </li>
+    <li>AnimalsBook->[maybe_adjective] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook->[AdjectiveBadass] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook->[Adjective] [Noun]: История	[AnimalsSkill]</li>	
+    <li>AnimalsBook->[AnimalsSkill] [Digit]</li>
+    <li>AnimalsBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
+    <li>AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
+    <li>AnimalsBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
+    <li>AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [AnimalsSkill]</li>
+    <li>AnimalsBook->[Books] [AnimalsSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>AnimalsBook->[AnimalsSkill] [ANYPAWN_nameIndef]</li>
+    <li>AnimalsBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [AnimalsSkill]</li>
+    <li>AnimalsBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook->[Noun] и [Con_Skill] [AnimalsSkill]</li>
+    <li>AnimalsBook->[ConceptAny] и [Con_Skill] [AnimalsSkill]</li>
+    
+    <!-- another art book -->
+    <li>ArtBook->[maybe_adjective] [Books] [ArtSkill]</li>
+    <li>ArtBook->[AdjectiveBadass] [Books] [ArtSkill]</li>
+    <li>ArtBook->[AdjectiveLarge] [Books] [ArtSkill]</li>
+    <li>ArtBook->[Books] [ArtSkill] [of_badasspeople] </li>
+    <li>ArtBook->[maybe_adjective] [Books] [ArtSkill]</li>
+    <li>ArtBook->[AdjectiveBadass] [Books] [ArtSkill]</li>
+    <li>ArtBook->[Adjective] [Noun]: История	[ArtSkill]</li>	
+    <li>ArtBook->[ArtSkill] [Digit]</li>
+    <li>ArtBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [ArtSkill]</li>
+    <li>ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [ArtSkill]</li>
+    <li>ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [ArtSkill]</li>
+    <li>ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [ArtSkill]</li>
+    <li>ArtBook->[Books] [ArtSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>ArtBook->[ArtSkill] [ANYPAWN_nameIndef]</li>
+    <li>ArtBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [ArtSkill]</li>
+    <li>ArtBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [ArtSkill]</li>
+    <li>ArtBook->[Noun] и [Con_Skill] [ArtSkill]</li>
+    <li>ArtBook->[ConceptAny] и [Con_Skill] [ArtSkill]</li>
+    
+    <!-- another construction book -->
+    <li>ConstructionBook->[maybe_adjective] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook->[AdjectiveBadass] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook->[AdjectiveLarge] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook->[Books] [ConstructionSkill] [of_badasspeople] </li>
+    <li>ConstructionBook->[maybe_adjective] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook->[AdjectiveBadass] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook->[Adjective] [Noun]: История	[ConstructionSkill]</li>	
+    <li>ConstructionBook->[ConstructionSkill] [Digit]</li>
+    <li>ConstructionBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
+    <li>ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
+    <li>ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
+    <li>ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [ConstructionSkill]</li>
+    <li>ConstructionBook->[Books] [ConstructionSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>ConstructionBook->[ConstructionSkill] [ANYPAWN_nameIndef]</li>
+    <li>ConstructionBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [ConstructionSkill]</li>
+    <li>ConstructionBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook->[Noun] и [Con_Skill] [ConstructionSkill]</li>
+    <li>ConstructionBook->[ConceptAny] и [Con_Skill] [ConstructionSkill]</li>
+    
+    <!-- another cooking book -->
+    <li>CookingBook->[maybe_adjective] [Books] [CookingSkill]</li>
+    <li>CookingBook->[AdjectiveBadass] [Books] [CookingSkill]</li>
+    <li>CookingBook->[AdjectiveLarge] [Books] [CookingSkill]</li>
+    <li>CookingBook->[Books] [CookingSkill] [of_badasspeople] </li>
+    <li>CookingBook->[maybe_adjective] [Books] [CookingSkill]</li>
+    <li>CookingBook->[AdjectiveBadass] [Books] [CookingSkill]</li>
+    <li>CookingBook->[Adjective] [Noun]: История	[CookingSkill]</li>	
+    <li>CookingBook->[CookingSkill] [Digit]</li>
+    <li>CookingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [CookingSkill]</li>
+    <li>CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [CookingSkill]</li>
+    <li>CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [CookingSkill]</li>
+    <li>CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [CookingSkill]</li>
+    <li>CookingBook->[Books] [CookingSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>CookingBook->[CookingSkill] [ANYPAWN_nameIndef]</li>
+    <li>CookingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [CookingSkill]</li>
+    <li>CookingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [CookingSkill]</li>
+    <li>CookingBook->[Noun] и [Con_Skill] [CookingSkill]</li>
+    <li>CookingBook->[ConceptAny] и [Con_Skill] [CookingSkill]</li>
+    
+    <!-- another crafting book -->
+    <li>CraftingBook->[maybe_adjective] [Books] [CraftingSkill]</li>
+    <li>CraftingBook->[AdjectiveBadass] [Books] [CraftingSkill]</li>
+    <li>CraftingBook->[AdjectiveLarge] [Books] [CraftingSkill]</li>
+    <li>CraftingBook->[Books] [CraftingSkill] [of_badasspeople] </li>
+    <li>CraftingBook->[maybe_adjective] [Books] [CraftingSkill]</li>
+    <li>CraftingBook->[AdjectiveBadass] [Books] [CraftingSkill]</li>
+    <li>CraftingBook->[Adjective] [Noun]: История	[CraftingSkill]</li>	
+    <li>CraftingBook->[CraftingSkill] [Digit]</li>
+    <li>CraftingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
+    <li>CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
+    <li>CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
+    <li>CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [CraftingSkill]</li>
+    <li>CraftingBook->[Books] [CraftingSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>CraftingBook->[CraftingSkill] [ANYPAWN_nameIndef]</li>
+    <li>CraftingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [CraftingSkill]</li>
+    <li>CraftingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [CraftingSkill]</li>
+    <li>CraftingBook->[Noun] и [Con_Skill] [CraftingSkill]</li>
+    <li>CraftingBook->[ConceptAny] и [Con_Skill] [CraftingSkill]</li>
+    
+    <!-- another growing book -->
+    <li>GrowingBook->[maybe_adjective] [Books] [GrowingSkill]</li>
+    <li>GrowingBook->[AdjectiveBadass] [Books] [GrowingSkill]</li>
+    <li>GrowingBook->[AdjectiveLarge] [Books] [GrowingSkill]</li>
+    <li>GrowingBook->[Books] [GrowingSkill] [of_badasspeople] </li>
+    <li>GrowingBook->[maybe_adjective] [Books] [GrowingSkill]</li>
+    <li>GrowingBook->[AdjectiveBadass] [Books] [GrowingSkill]</li>
+    <li>GrowingBook->[Adjective] [Noun]: История	[GrowingSkill]</li>	
+    <li>GrowingBook->[GrowingSkill] [Digit]</li>
+    <li>GrowingBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
+    <li>GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
+    <li>GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
+    <li>GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [GrowingSkill]</li>
+    <li>GrowingBook->[Books] [GrowingSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>GrowingBook->[GrowingSkill] [ANYPAWN_nameIndef]</li>
+    <li>GrowingBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [GrowingSkill]</li>
+    <li>GrowingBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [GrowingSkill]</li>
+    <li>GrowingBook->[Noun] и [Con_Skill] [GrowingSkill]</li>
+    <li>GrowingBook->[ConceptAny] и [Con_Skill] [GrowingSkill]</li>
+    
+    <!-- another intellectual book -->
+    <li>IntellectualBook->[maybe_adjective] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook->[AdjectiveBadass] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook->[AdjectiveLarge] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook->[Books] [IntellectualSkill] [of_badasspeople] </li>
+    <li>IntellectualBook->[maybe_adjective] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook->[AdjectiveBadass] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook->[Adjective] [Noun]: История	[IntellectualSkill]</li>	
+    <li>IntellectualBook->[IntellectualSkill] [Digit]</li>
+    <li>IntellectualBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
+    <li>IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
+    <li>IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
+    <li>IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [IntellectualSkill]</li>
+    <li>IntellectualBook->[Books] [IntellectualSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>IntellectualBook->[IntellectualSkill] [ANYPAWN_nameIndef]</li>
+    <li>IntellectualBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [IntellectualSkill]</li>
+    <li>IntellectualBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook->[Noun] и [Con_Skill] [IntellectualSkill]</li>
+    <li>IntellectualBook->[ConceptAny] и [Con_Skill] [IntellectualSkill]</li>
+    
+    <!-- another medical book -->
+    <li>MedicalBook->[maybe_adjective] [Books] [MedicalSkill]</li>
+    <li>MedicalBook->[AdjectiveBadass] [Books] [MedicalSkill]</li>
+    <li>MedicalBook->[AdjectiveLarge] [Books] [MedicalSkill]</li>
+    <li>MedicalBook->[Books] [MedicalSkill] [of_badasspeople] </li>
+    <li>MedicalBook->[maybe_adjective] [Books] [MedicalSkill]</li>
+    <li>MedicalBook->[AdjectiveBadass] [Books] [MedicalSkill]</li>
+    <li>MedicalBook->[Adjective] [Noun]: История	[MedicalSkill]</li>	
+    <li>MedicalBook->[MedicalSkill] [Digit]</li>
+    <li>MedicalBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
+    <li>MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
+    <li>MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
+    <li>MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [MedicalSkill]</li>
+    <li>MedicalBook->[Books] [MedicalSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>MedicalBook->[MedicalSkill] [ANYPAWN_nameIndef]</li>
+    <li>MedicalBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [MedicalSkill]</li>
+    <li>MedicalBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [MedicalSkill]</li>
+    <li>MedicalBook->[Noun] и [Con_Skill] [MedicalSkill]</li>
+    <li>MedicalBook->[ConceptAny] и [Con_Skill] [MedicalSkill]</li>
+    
+    <!-- another melee book -->
+    <li>MeleeBook->[maybe_adjective] [Books] [MeleeSkill]</li>
+    <li>MeleeBook->[AdjectiveBadass] [Books] [MeleeSkill]</li>
+    <li>MeleeBook->[AdjectiveLarge] [Books] [MeleeSkill]</li>
+    <li>MeleeBook->[Books] [MeleeSkill] [of_badasspeople] </li>
+    <li>MeleeBook->[maybe_adjective] [Books] [MeleeSkill]</li>
+    <li>MeleeBook->[AdjectiveBadass] [Books] [MeleeSkill]</li>
+    <li>MeleeBook->[Adjective] [Noun]: История	[MeleeSkill]</li>	
+    <li>MeleeBook->[MeleeSkill] [Digit]</li>
+    <li>MeleeBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
+    <li>MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
+    <li>MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
+    <li>MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [MeleeSkill]</li>
+    <li>MeleeBook->[Books] [MeleeSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>MeleeBook->[MeleeSkill] [ANYPAWN_nameIndef]</li>
+    <li>MeleeBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [MeleeSkill]</li>
+    <li>MeleeBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [MeleeSkill]</li>
+    <li>MeleeBook->[Noun] и [Con_Skill] [MeleeSkill]</li>
+    <li>MeleeBook->[ConceptAny] и [Con_Skill] [MeleeSkill]</li>
+    
+    <!-- another mining book -->
+    <li>MiningBook->[maybe_adjective] [Books] [MiningSkill]</li>
+    <li>MiningBook->[AdjectiveBadass] [Books] [MiningSkill]</li>
+    <li>MiningBook->[AdjectiveLarge] [Books] [MiningSkill]</li>
+    <li>MiningBook->[Books] [MiningSkill] [of_badasspeople] </li>
+    <li>MiningBook->[maybe_adjective] [Books] [MiningSkill]</li>
+    <li>MiningBook->[AdjectiveBadass] [Books] [MiningSkill]</li>
+    <li>MiningBook->[Adjective] [Noun]: История	[MiningSkill]</li>	
+    <li>MiningBook->[MiningSkill] [Digit]</li>
+    <li>MiningBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [MiningSkill]</li>
+    <li>MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [MiningSkill]</li>
+    <li>MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [MiningSkill]</li>
+    <li>MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [MiningSkill]</li>
+    <li>MiningBook->[Books] [MiningSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>MiningBook->[MiningSkill] [ANYPAWN_nameIndef]</li>
+    <li>MiningBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [MiningSkill]</li>
+    <li>MiningBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [MiningSkill]</li>
+    <li>MiningBook->[Noun] и [Con_Skill] [MiningSkill]</li>
+    <li>MiningBook->[ConceptAny] и [Con_Skill] [MiningSkill]</li>
+    
+    <!-- another social book -->
+    <li>SocialBook->[maybe_adjective] [Books] [SocialSkill]</li>
+    <li>SocialBook->[AdjectiveBadass] [Books] [SocialSkill]</li>
+    <li>SocialBook->[AdjectiveLarge] [Books] [SocialSkill]</li>
+    <li>SocialBook->[Books] [SocialSkill] [of_badasspeople] </li>
+    <li>SocialBook->[maybe_adjective] [Books] [SocialSkill]</li>
+    <li>SocialBook->[AdjectiveBadass] [Books] [SocialSkill]</li>
+    <li>SocialBook->[Adjective] [Noun]: История	[SocialSkill]</li>	
+    <li>SocialBook->[SocialSkill] [Digit]</li>
+    <li>SocialBook->[maybe_letter][Digit][maybe_letter]: [maybe_tom] [SocialSkill]</li>
+    <li>SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [maybe_tom] [SocialSkill]</li>
+    <li>SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [maybe_tom] [SocialSkill]</li>
+    <li>SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [maybe_tom] [SocialSkill]</li>
+    <li>SocialBook->[Books] [SocialSkill] за авторством [ANYPAWN_nameIndef]</li>
+    <li>SocialBook->[SocialSkill] [ANYPAWN_nameIndef]</li>
+    <li>SocialBook->[Books] [ANYPAWN_nameIndef]: [maybe_tom] [SocialSkill]</li>
+    <li>SocialBook->[ANYPAWN_nameIndef] в [ColorP] тонах: [Books] [SocialSkill]</li>
+    <li>SocialBook->[Noun] и [Con_Skill] [SocialSkill]</li>
+    <li>SocialBook->[ConceptAny] и [Con_Skill] [SocialSkill]</li>
+  </VBE_BookUtility.rulePack.rulesStrings>
 
 </LanguageData>
