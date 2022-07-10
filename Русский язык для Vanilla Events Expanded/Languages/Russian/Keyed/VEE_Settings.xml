@@ -1,38 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Vanilla Event Expanded -->
   <SCat>Vanilla Event Expanded</SCat>
+  <!-- EN: Reset Settings -->
   <BReset>Сбросить настройки</BReset>
+  <!-- EN: Stop all world conditions -->
   <GCWReset>Остановить все события в мире</GCWReset>
+  <!-- EN: Stop all map conditions -->
   <GCMReset>Остановить все события на карте</GCMReset>
+  <!-- EN: You need to be ingame to end game conditions -->
   <NeedToBeIngame>Вы должны быть в игре, чтобы останавливать игровые события</NeedToBeIngame>
+  <!-- EN: &lt;color=cyan&gt;&lt;b&gt;Change events base chance (set to 0 to disable) :&lt;/b&gt;&lt;/color&gt; -->
   <CEBC>&lt;color=cyan&gt;&lt;b&gt;Изменить базовую вероятность события (установите на 0, чтобы отключить) :&lt;/b&gt;&lt;/color&gt;</CEBC>
+  <!-- EN: Open events base chance settings -->
   <BCS>Открыть настройки базовых вероятностей событий</BCS>
+  <!-- EN: Minimum days before refire : -->
   <MinTPE>Минимум дней до повторения:</MinTPE>
-  <ETPE>Минимум дней до старта:</ETPE>
+  <!-- EN: Minimum days before fire : -->
+  <ETPE>Минимум дней до начала:</ETPE>
+  <!-- EN: &lt;color=cyan&gt;&lt;b&gt;Purple events settings :&lt;/b&gt;&lt;/color&gt; -->
   <PES>&lt;color=cyan&gt;&lt;b&gt;Настройки фиолетовых событий:&lt;/b&gt;&lt;/color&gt;</PES>
 
+  <!-- EN: Ice age -->
   <IABaseC>Ледниковый период</IABaseC>
+  <!-- EN: Global warming -->
   <GWBaseC>Глобальное потепление</GWBaseC>
+  <!-- EN: Psychic rain -->
   <PRBaseC>Психический дождь</PRBaseC>
+  <!-- EN: Long night -->
   <LNBaseC>Долгая ночь</LNBaseC>
+  <!-- EN: Psychic Bloom -->
   <PBBaseC>Психическое цветение</PBBaseC>
 
+  <!-- EN: Hail storm -->
   <HSBaseC>Град</HSBaseC>
+  <!-- EN: Meteorite shower -->
   <MSBaseC>Метеоритный дождь</MSBaseC>
+  <!-- EN: Animal pod crash -->
   <APCBaseC>Крушение животного</APCBaseC>
+  <!-- EN: Wanderer join traitor -->
   <WJTBaseC>Пополнение</WJTBaseC>
+  <!-- EN: Space battle -->
   <SPBaseC>Космическая битва</SPBaseC>
+  <!-- EN: Shuttle crash -->
   <SCBaseC>Крушение шаттла</SCBaseC>
+  <!-- EN: Earthquake -->
   <EBaseC>Землетрясение</EBaseC>
+  <!-- EN: Cargo pods weapons -->
   <CPWBaseC>Грузовые контейнеры (оружие)</CPWBaseC>
+  <!-- EN: Cargo pods apparels -->
   <CPABaseC>Грузовые контейнеры (одежда)</CPABaseC>
+  <!-- EN: Caravan animals wander in -->
   <CAWIBaseC>Животные каравана</CAWIBaseC>
+  <!-- EN: Crop sprout -->
   <CSBaseC>Ростки культуры</CSBaseC>
+  <!-- EN: Battle animals wander in -->
   <BAWIBaseC>Боевые животные</BAWIBaseC>
+  <!-- EN: Drought -->
   <DBaseC>Засуха</DBaseC>
+  <!-- EN: Wild men wander in -->
   <WMWIBaseC>Дикие люди бродят поблизости</WMWIBaseC>
+  <!-- EN: Hunting party -->
   <HPBaseC>Охотничий отряд</HPBaseC>
 
+  <!-- EN: Stop world condition... -->
   <GCWResetOBO>Остановка событий в мире...</GCWResetOBO>
+  <!-- EN: Stop map condition... -->
   <GCMResetOBO>Остановка событий на карте...</GCMResetOBO>
+
+  <!-- EN: Number of day(s) in-between purple events: -->
+  <VEE_DaysBetweenPurpleEvents>Количество дней между фиолетовыми событиями:</VEE_DaysBetweenPurpleEvents>
 </LanguageData>

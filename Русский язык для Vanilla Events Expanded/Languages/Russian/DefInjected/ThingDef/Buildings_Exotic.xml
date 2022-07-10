@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VEE_ShipChunkHuman.label>кусок корабля</VEE_ShipChunkHuman.label>
-  <VEE_ShipChunkHuman.description>Кусок космического корабля. Может быть разобран для получения полезных ресурсов.</VEE_ShipChunkHuman.description>
+  <!-- EN: ship chunk -->
+  <VEE_ShipChunkHuman.label>обломок корабля</VEE_ShipChunkHuman.label>
+  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <VEE_ShipChunkHuman.description>Обломок космического корабля. Его можно разобрать для получения ценных ресурсов.</VEE_ShipChunkHuman.description>
 
-  <VEE_Shuttle.label>кусок челнока</VEE_Shuttle.label>
-  <VEE_Shuttle.description>Кусок челнока. Может быть разобран для получения полезных ресурсов.</VEE_Shuttle.description>
+  <!-- EN: shuttle chunk -->
+  <VEE_Shuttle.label>обломок челнока</VEE_Shuttle.label>
+  <!-- EN: A chunk of a shuttle. Can be deconstructed to yield useful resources. -->
+  <VEE_Shuttle.description>Обломок челнока. Его можно разобрать для получения ценных ресурсов.</VEE_Shuttle.description>
 
-  <ShuttleChunkIncoming.label>кусок челнока (прибытие)</ShuttleChunkIncoming.label>
+  <!-- EN: shuttle chunk (incoming) -->
+  <ShuttleChunkIncoming.label>обломок челнока (падает)</ShuttleChunkIncoming.label>
 
-  <SlagIncoming.label>шлак (прибытие)</SlagIncoming.label>
+  <!-- EN: slag (incoming) -->
+  <SlagIncoming.label>металлолом (падает)</SlagIncoming.label>
 </LanguageData>

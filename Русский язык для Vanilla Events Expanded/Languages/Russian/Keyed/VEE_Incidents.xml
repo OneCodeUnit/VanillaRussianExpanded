@@ -1,72 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- Animal transport pod crash -->
-  <LetterLabelAnimalPodCrash>Крушение транспортного контейнера с животным</LetterLabelAnimalPodCrash>
-  <AnimalPodCrash>Контейнер с {PAWN_kind} по кличке {PAWN_nameDef} потерпел крушение в транспортной капсуле поблизости. Если животное выживет после посадки, оно будет тяжело ранено.
-
-Если его спасут, оно может добровольно присоединиться к колонии или вернуться к жизни в дикой природе.</AnimalPodCrash>
-
+  <!-- EN: Animal transport pod crash -->
+  <LetterLabelAnimalPodCrash>Крушение транспортной капсулы с животным</LetterLabelAnimalPodCrash>
+  <!-- EN: A crate with a {PAWN_kind} called {PAWN_nameDef} is crashing in a transport pod nearby. If it survives the crash it will be badly wounded.\n\nIf rescued, it can freely join the colony, or go back to living in the wild. -->
+  <AnimalPodCrash>{PAWN_kind} по кличке {PAWN_nameDef} падает в транспортной капсуле недалеко от вашего поселения. Даже если животное переживёт приземление, оно будет тяжело ранено.\n\nЕсли его спасти, оно сможет присоединиться к поселению или вернуться к жизни в дикой природе.</AnimalPodCrash>
+  <!-- EN: Rescued animal join -->
   <AJLabel>Спасённое животное присоединилось</AJLabel>
+  <!-- EN: The animal you rescued is joining the colony -->
   <AJLetter>Животное, которое вы спасли, присоединилось к поселению</AJLetter>
+  <!-- EN: Rescued animal don't join -->
   <ADJLabel>Спасённое животное не присоединилось</ADJLabel>
+  <!-- EN: The animal you rescued isn't joining the colony -->
   <ADJLetter>Животное, которое вы спасли, не присоединилось к поселению</ADJLetter>
-  <!-- Traitor -->
+
+  <!-- EN: Traitor! -->
   <TraitorLabel>Предатель!</TraitorLabel>
-  <Traitor>{PAWN_nameFullDef}, {PAWN_gender ? которого : которую} вы приняли в свои ряды, {PAWN_gender ? оказался : оказалась} агентом противника из {PAWN_factionName}.
+  <!-- EN: A colonist named {PAWN_nameDef}, which you have accepted into your ranks, turns out to be an enemy agent from {PAWN_factionName}.\n\nYou can capture him for recruitment or slavery purposes. -->
+  <Traitor>{PAWN_nameFullDef}, {PAWN_gender ? которого : которую} вы приняли в свои ряды, {PAWN_gender ? оказался : оказалась} агентом противника из фракции {PAWN_factionName}.\n\nВы можете захватить {PAWN_possessive} с целью вербовки или рабства.</Traitor>
 
-Вы можете захватить {PAWN_possessive} с целью вербовки или рабства.</Traitor>
-
-  <!-- Space Battle -->
+  <!-- EN: Space battle -->
   <SpaceBattleLabel>Космическая битва</SpaceBattleLabel>
-  <SpaceBattle>Несколько крупных космических кораблей вступили в бой на орбите планеты. Пропущенные выстрелы и мусор могут поразить поверхность в этой области. Это может привести к массовым пожарам.</SpaceBattle>
+  <!-- EN: Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires. -->
+  <SpaceBattle>Несколько крупных космических кораблей вступили в бой на орбите планеты. Пропущенные выстрелы и обломки могут поразить поверхность на месте вашего поселения. Ожидайте массовых пожаров.</SpaceBattle>
 
-  <!-- Shuttle Crash -->
+  <!-- EN: Shuttle Crash -->
   <ShuttleCrashLabel>Крушение шаттла</ShuttleCrashLabel>
-  <ShuttleCrash>Шаттл, падает рядом. Если команда переживет удар, они будут тяжело ранены. Разрушенный корабль может быть разобран на полезные ресурсы.
+  <!-- EN: A planet-bound shuttle is crashing nearby. If the crew survives the impact, they will be badly wounded. The crashed ship can be deconstructed for useful resources.\n\nThe crew is not affiliated with any faction, which means they can be rescued and may join you freely, or captured for recruitment or slavery purposes. -->
+  <ShuttleCrash>Шаттл падает рядом. Даже если экипаж переживёт падение, он будет тяжело ранен. Разрушенный корабль можно разобрать ради полезных ресурсов.\n\nЭкипаж не связан ни с одной из фракций. Это означает, что их можно спасти и тогда они могут присоединиться к вам добровольно или захватить с целью вербовки или рабства.</ShuttleCrash>
 
-Экипаж не связан ни с одной из фракций. Это означает, что они могут быть спасены и присоединиться к вам добровольно или быть захвачены с целью вербовки или рабства.</ShuttleCrash>
-
-  <!-- Earthquake -->
+  <!-- EN: Earthquake -->
   <EarthquakeLabel>Землетрясение</EarthquakeLabel>
-  <Earthquake>Изменения в земной коре вызвали локальное землетрясение небольшого масштаба. Некоторые конструкции могут быть повреждены, а крыши обрушиться.</Earthquake>
+  <!-- EN: Changes in the planet’s crust caused a small scale localised earthquake. Some structures can become damaged and roofs can collapse. -->
+  <Earthquake>Изменения в земной коре вызвали небольшое локальное землетрясение. Некоторые постройки могут быть повреждены, а крыши обрушиться.</Earthquake>
 
-  <!-- Cargo pods (weapons) -->
+  <!-- EN: Cargo pods (weapons) -->
   <CPWLabel>Грузовые контейнеры (оружие)</CPWLabel>
-  <CPW>Вы обнаружили скопление грузовых контейнеров, разбившихся неподалёку.
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you’ll find something useful in the wreckage. -->
+  <CPW>Вы засекли несколько грузовых контейнеров, упавших поблизости.\n\nВозможно, вы найдёте что-то полезное в обломках.</CPW>
 
-Возможно, вы найдете что-то полезное в обломках.</CPW>
-
-  <!-- Cargo pods (apparel) -->
+  <!-- EN: Cargo pods (apparel) -->
   <CPALabel>Грузовые контейнеры (одежда)</CPALabel>
-  <CPA>Вы обнаружили скопление грузовых контейнеров, разбившихся неподалёку.
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you’ll find something useful in the wreckage. -->
+  <CPA>Вы засекли несколько грузовых контейнеров, упавших поблизости.\n\nВозможно, вы найдёте что-то полезное в обломках.</CPA>
 
-Возможно, вы найдете что-то полезное в обломках.</CPA>
-
-  <!-- Caravan animals wander in -->
+  <!-- EN: Caravan animals wander in -->
   <CAWILabel>Животные каравана бродят поблизости</CAWILabel>
-  <CAWI>Группа животных вида {PAWN_kind}, брошенных или потерянных, бродят поблизости.
+  <!-- EN: A group of {PAWN_kind}, abandoned or lost, wanders in.\n\nThey seem to have belonged to some caravan, as they still carry packs with valuable items. You can collect these items if you tame them or kill them. Otherwise, they will leave the area in a couple of days. -->
+  <CAWI>К вам забрели брошенные или потерянные животные.\n\nПохоже, они принадлежали к какому-то каравану, поскольку всё ещё несут на себе вьюки с ценными вещами. Вы можете собрать эти предметы, если приручите или убьёте их. В противном случае они покинут эту территорию через пару дней.</CAWI>
 
-Похоже, они принадлежали к какому-то каравану, поскольку всё ещё несут на себе вьюки с ценными вещами. Вы можете собрать эти предметы, если приручите или убьёте их. В противном случае они покинут эту территорию через пару дней.</CAWI>
-
-  <!-- Crop sprout -->
-  <CSLabel>Ростки культуры</CSLabel>
+  <!-- EN: Crop sprout -->
+  <CSLabel>Заросли растения</CSLabel>
+  <!-- EN: A large field of -->
   <CS1>Большое поле культуры</CS1>
+  <!-- EN: has sprouted nearby. If you wait for it to grow, you will be able to harvest plenty of food! If left unharvested, it will slowly rot and disappear. -->
   <CS2>проросло поблизости. Если вы подождёте, пока оно вырастет, вы сможете собрать много плодов! Если оставить урожай несобранным, он будет медленно гнить и пропадать.</CS2>
 
-  <!-- Battle animals wander in -->
-  <BAWILabel>Боевые животные бродят поблизости</BAWILabel>
-  <BAWI>Группа {0}, брошенные или потерянные, бродят поблизости.
+  <!-- EN: Battle animals wander in -->
+  <BAWILabel>Боевые животные прибиваются к поселению</BAWILabel>
+  <!-- EN: A group of {0}, abandoned or lost, wanders in.\n\nThey seem accustomed to human contact and are joining the colony. -->
+  <BAWI>К вам забрели брошенные или потерянные {0}.\n\nОни, видимо, привычны к людям, и потому прибиваются к вашему поселению.</BAWI>
 
-Они, кажется, привыкли к людям и присоединяются к поселению.</BAWI>
-
-  <!-- wild men wander in -->
+  <!-- EN: Wild men wander in -->
   <WMWILabel>Дикие люди бродят поблизости</WMWILabel>
+  <!-- EN: A small, pre-neolithic tribe of wild men wanders in. You can attempt to tame them. -->
   <WMWI>Небольшое племя диких людей бродит поблизости. Вы можете попытаться приручить их.</WMWI>
 
-  <!-- Hunting party -->
+  <!-- EN: Hunting party -->
   <HPLabel>Охотничий отряд</HPLabel>
-  <HP>Группа охотников из {0} проходят мимо. Они будут охотиться здесь в течение нескольких часов, а затем двинутся дальше.</HP>
+  <!-- EN: A group of hunters from {0} are passing through the area. They will hunt here for a few hours and then move on. -->
+  <HP>Группа охотников из фракции {0} проходит мимо. Они будут охотиться здесь в течение нескольких часов, а затем двинутся дальше.</HP>
 
+  <!-- EN: Decaying due to drought. -->
   <VEE_Decay>Засыхает</VEE_Decay>
+  <!-- EN: Adjusted fertility due to drought: {0} -->
   <VEE_DroughtGui>У {0} изменилась урожайность из-за засухи.</VEE_DroughtGui>
 </LanguageData>
