@@ -1,29 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Auto Drill -->
-
+  <!-- EN: Drill for {0} -->
   <VFE_ChunkToMine>Добывать {0}</VFE_ChunkToMine>
+  <!-- EN: Drill for Random Chunks -->
   <VFE_ChunkRandomMine>Добывать случайную породу</VFE_ChunkRandomMine>
+  <!-- EN: Choose chunk type to drill -->
   <VFE_ChooseMine>Выбрать тип породы для добычи</VFE_ChooseMine>
+  <!-- EN: Choose chunk type to drill. You can choose any of the map's rock types, or random -->
   <VFE_ChooseMineDesc>Выберите тип породы для добычи. Можно выбрать любой из доступных на карте или случайный</VFE_ChooseMineDesc>
+  <!-- EN: Random chunk -->
   <VFE_RandomRock>Случайный обломок</VFE_RandomRock>
+  <!-- EN: Select machine output -->
   <VFE_PleaseSelectOutput>Выбрать продукт</VFE_PleaseSelectOutput>
+  <!-- EN: This building must be placed on water -->
   <VFE_NeedsWater>Это здание должно быть расположено на воды</VFE_NeedsWater>
 
-  <!-- Random Building Graphics -->
-
+  <!-- EN: Change Graphic -->
   <VFE_ChangeGraphic>Сменить вид</VFE_ChangeGraphic>
+  <!-- EN: Change Graphic of this building randomly between those available -->
   <VFE_ChangeGraphicDesc>Меняйте внешний вид здания случайным образом между доступными вариантами</VFE_ChangeGraphicDesc>
 
-  <!-- Random Building Graphics, Options -->
-
+  <!-- EN: "Change Graphic" button changes graphic randomly (deselect for sequentially) -->
   <VFE_RandomOrSequentially>Кнопка «Сменить вид» меняет внешний вид случайным образом вместо последовательного</VFE_RandomOrSequentially>
+  <!-- EN: Hide the "Change Graphic" button -->
   <VFE_HideRandomizeButton>Спрятать кнопку «Сменить вид»</VFE_HideRandomizeButton>
 
+  <!-- EN: Switch light color -->
   <VFE.SwitchLightColor>Сменить цвет освещения</VFE.SwitchLightColor>
+  <!-- EN: Change current light colour. -->
   <VFE.SwitchLightColorDesc>Меняет текущий цвет освещения.</VFE.SwitchLightColorDesc>
+  <!-- EN: Change color to {0} -->
   <VFE.ChangeColorTo>Изменить цвет на {0}</VFE.ChangeColorTo>
-  <VFE.ColorSwitchPowerOff>Питание отключена. Невозможно сменить цвет.</VFE.ColorSwitchPowerOff>
-
+  <!-- EN: Power is off. Impossible to switch color. -->
+  <VFE.ColorSwitchPowerOff>Питание отключено. Невозможно сменить цвет.</VFE.ColorSwitchPowerOff>
 </LanguageData>

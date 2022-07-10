@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: xenophobic rage -->
   <VEF_XenophobicRage.label>ксенофобная ярость</VEF_XenophobicRage.label>
+  <!-- EN: {0} has flown into a xenophobic rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
   <VEF_XenophobicRage.beginLetter>{0} испытывает ксенофобную ярость.\n\n{PAWN_pronoun} хочет убить {1}.</VEF_XenophobicRage.beginLetter>
+  <!-- EN: {0} is no longer in a xenophobic rage. -->
   <VEF_XenophobicRage.recoveryMessage>{0} больше не испытывает ксенофобию.</VEF_XenophobicRage.recoveryMessage>
+  <!-- EN: Mental state: Xenophobic rage -->
   <VEF_XenophobicRage.baseInspectLine>Душевное состояние: ксенофобия</VEF_XenophobicRage.baseInspectLine>
 </LanguageData>

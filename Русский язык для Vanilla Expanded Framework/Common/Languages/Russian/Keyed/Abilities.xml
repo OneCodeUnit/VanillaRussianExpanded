@@ -1,8 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: {0} is on cooldown for {1} -->
   <VFEA.AbilityDisableReasonCooldown>{0} будет доступна через {1}</VFEA.AbilityDisableReasonCooldown>
+  <!-- EN: {0} doesn't meet the requirements -->
   <VFEA.AbilityDisableReasonGeneral>{0} не соответствует требованиям</VFEA.AbilityDisableReasonGeneral>
 
+  <!-- EN: Power -->
   <VFEA.AbilityStatsPower>Сила</VFEA.AbilityStatsPower>
+  <!-- EN: Duration -->
   <VFEA.AbilityStatsDuration>Длительность</VFEA.AbilityStatsDuration>
+
+  <!-- EN: Target must be hostile -->
+  <VFEA.TargetMustBeHostile>Цель должна быть враждебной</VFEA.TargetMustBeHostile>
+
+  <!-- EN: Minimum radius -->
+  <VFEA.MinRadius>Минимальный радиус</VFEA.MinRadius>
+
+  <!-- EN: Right-click to enable autocasting. -->
+  <VFEA.RClickToAuto>Правый клик включит автоприменение.</VFEA.RClickToAuto>
+  <!-- EN: Right-click to disable autocasting. -->
+  <VFEA.RClickToNoAuto>Правый клик выключит автоприменение.</VFEA.RClickToNoAuto>
 </LanguageData>

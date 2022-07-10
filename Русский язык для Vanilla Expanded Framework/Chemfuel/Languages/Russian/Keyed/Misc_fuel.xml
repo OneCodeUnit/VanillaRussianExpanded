@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Extract 150 chemfuel -->
   <VCHE_ExtractChemfuel>Извлечь 150 химтоплива</VCHE_ExtractChemfuel>
+  <!-- EN: Extract 150 chemfuel from the tank. A pawn will come to extract it. -->
   <VCHE_ExtractChemfuelDesc>Извлечь 150 химтоплива из цистерны. Поселенец скоро направится к цистерне.</VCHE_ExtractChemfuelDesc>
 
+  <!-- EN: Extract 150 deepchem -->
   <VCHE_ExtractDeepchem>Извлечь 150 глубтоплива</VCHE_ExtractDeepchem>
+  <!-- EN: Extract 150 deepchem from the tank. A pawn will come to extract it. -->
   <VCHE_ExtractDeepchemDesc>Извлечь 150 глубтоплива из цистерны. Поселенец скоро направится к цистерне.</VCHE_ExtractDeepchemDesc>
 
+  <!-- EN: Can’t refine: Tanks are full -->
   <VCHE_CantRefine>Перегонка недоступна: цистерны заполнены</VCHE_CantRefine>
+  <!-- EN: Can’t pump: Tanks are full -->
   <VCHE_CantPump>Закачка недоступна: цистерны заполнены</VCHE_CantPump>
 
+  <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
   <VCHE_CantPlaceHere>Насос глубинного топлива должен быть размещён на месторождении глубинного топлива. Воспользуйтесь глубинным сканером для его обнаружения.</VCHE_CantPlaceHere>
-
 </LanguageData>

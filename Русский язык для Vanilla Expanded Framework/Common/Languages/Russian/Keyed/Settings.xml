@@ -1,22 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: General -->
   <GeneralTitle>Основные</GeneralTitle>
-  <!-- CSG -->
+
+  <!-- EN: Custom structure generation: -->
   <CSGTitle>Создание пользовательской структуры:</CSGTitle>
+  <!-- EN: Enable structure generation debugging log:  -->
   <CSGLog>Включить лог отладки пользовательских структур: </CSGLog>
 
-  <!-- Toggable patches -->
-  <TPTitle>Включение исправлений:</TPTitle>
+  <!-- EN: Toggable patches -->
+  <TPTitle>Включение исправлений</TPTitle>
+  <!-- EN: All settings need a restart to be applied -->
   <NeedRestart>Все настройки требуют перезапуска игры для применения</NeedRestart>
+  <!-- EN: {0} patches found -->
   <XPatchFound>Найдено {0} исправлений</XPatchFound>
 
-	<!-- Weather damages -->
+  <!-- EN: >Weather damages -->
 	<VEF.WeatherDamages>Урон от погоды</VEF.WeatherDamages>
+  <!-- EN: {0} -->
 	<VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
-  <!-- Faction Discovery -->
-  <FDTitle>Faction Discovery</FDTitle>
+
+  <!-- EN: Faction Discovery -->
+  <FDTitle>Обнаружение фракций</FDTitle>
+  <!-- EN: You first need to load a save -->
   <NeedToBeInGame>Для начала необходимо загрузить сохранение</NeedToBeInGame>
+  <!-- EN: Add faction(s) -->
   <AskForPopUp>Добавить фракцию</AskForPopUp>
+  <!-- EN: Click this to be asked for each faction if you want it to be added to your game -->
   <AskForPopUpExplained>Нажать сюда, чтобы игра спрашивала о каждой фракции, которая может быть добавлена в игру</AskForPopUpExplained>
+  <!-- EN: {0} faction(s) can be added to your current save -->
   <CanAddXFaction>В сохранение было добавлено {0_numCase ? фракция : фракции : фракций}</CanAddXFaction>
+
+  <!-- EN: Disable mod source report in info cards -->
+  <VEF.DisableModSourceReport>Отключить сообщения об источниках модов на информационной панели</VEF.DisableModSourceReport>
 </LanguageData>

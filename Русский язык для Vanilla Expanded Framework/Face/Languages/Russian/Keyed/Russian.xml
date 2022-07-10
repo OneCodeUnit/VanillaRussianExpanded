@@ -1,39 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!-- EN: General Settings -->
   <NL_FA_Core_GeneralSettings>Основные настройки</NL_FA_Core_GeneralSettings>
 
+  <!-- EN: Force No-Cache -->
   <NL_FA_Force_No-Cache>Режим «без кеша»</NL_FA_Force_No-Cache>
+  <!-- EN: When Conflicting other forced update mods, please disable this feature. -->
   <NL_FA_Force_No-Cache_Hint>При конфликтах с другими модами, включающих принудительное обновление, режим стоит отключить.</NL_FA_Force_No-Cache_Hint>
 
+  <!-- EN: Enable Facial Animation in Portraits -->
   <NL_FA_Enable_Facial_Animation_in_Portraits>Включить лицевые анимации на портретах</NL_FA_Enable_Facial_Animation_in_Portraits>
+  <!-- EN: If your game is slow, please increase the update interval or disable this feature. -->
   <NL_FA_Enable_Facial_Animation_in_Portraits_Hint>Если игра начала работать медленно, увеличьте интервал обновления или отключите этот параметр.</NL_FA_Enable_Facial_Animation_in_Portraits_Hint>
   
+  <!-- EN: Update Interval:{0} Ticks -->
   <NL_FA_Update_Interval>Интервал обновления: {0} тиков</NL_FA_Update_Interval>
 
+  <!-- EN: Draw Settings -->
   <NL_FA_Draw_Settings>Настройки отрисовки</NL_FA_Draw_Settings>
 
+  <!-- EN: Switch Left And Right Eyes -->
   <NL_FA_Switch_Left_And_Right_Eyes>Переключить правый и левый глаз</NL_FA_Switch_Left_And_Right_Eyes>
+  <!-- EN: Fix an issue where the left and right eye scars are swapped. -->
   <NL_FA_Switch_Left_And_Right_Eyes_Hint>Позволяет исправить проблему, когда шрамы на правом и левом глазе поменялись местами.</NL_FA_Switch_Left_And_Right_Eyes_Hint>
 
+  <!-- EN: Draw the eyebrows above the hat. -->
   <NL_FA_Draw_the_eyebrows_above_the_hat>Отрисовывать брови поверх головных уборов</NL_FA_Draw_the_eyebrows_above_the_hat>
+  <!-- EN: Draw the eyebrows above the hat. -->
   <NL_FA_Draw_the_eyebrows_above_the_hat_Hint>Отрисовывать брови поверх головных уборов.</NL_FA_Draw_the_eyebrows_above_the_hat_Hint>
 
+  <!-- EN: Animation Settings -->
   <NL_FA_Animation_Settings>Настройки анимаций</NL_FA_Animation_Settings>
 
+  <!-- EN: Apply Facial Animation's Heads to Males -->
   <NL_FA_Enable_Male_Drawing>Применять лицевые анимации к мужским лицам</NL_FA_Enable_Male_Drawing>
+  <!-- EN: Apply Facial Animation's Heads to Males -->
   <NL_FA_Enable_Male_Drawing_Hint>Применять лицевые анимации к мужским лицам.</NL_FA_Enable_Male_Drawing_Hint>
 
+  <!-- EN: Apply Facial Animation's Heads to Females -->
   <NL_FA_Enable_Female_Drawing>Применять лицевые анимации к женским лицам</NL_FA_Enable_Female_Drawing>
+  <!-- EN: Apply Facial Animation's Heads to Females -->
   <NL_FA_Enable_Female_Drawing_Hint>Применять лицевые анимации к женским лицам.</NL_FA_Enable_Female_Drawing_Hint>
 
+  <!-- EN: Apply Facial Animation's Heads to Non-binary Races -->
   <NL_FA_Enable_Neither_Drawing>Применять лицевые анимации к небинарным расам</NL_FA_Enable_Neither_Drawing>
+  <!-- EN: Apply Facial Animation's Heads to Non-binary Races -->
   <NL_FA_Enable_Neither_Drawing_Hint>Применять лицевые анимации к небинарным расам.</NL_FA_Enable_Neither_Drawing_Hint>
 
+  <!-- EN: Enable Facial Animation for Non-Colonists. -->
   <NL_FA_Enable_Facial_Animation_For_Non_Colonists>Включить лицевые анимации для не-поселенцев</NL_FA_Enable_Facial_Animation_For_Non_Colonists>
+  <!-- EN: If disabled, it stop to apply non-colonists's animations. It will reduce the load on the facial animation's load. -->
   <NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>Когда выключено, анимации больше на работают у всех, кто не является вашим поселенцем. Это позволит повысить производительность игры.</NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>
 
+  <!-- EN: Remove all images above eyes. -->
   <NL_FA_Remove_Eye_Hediff_Graphic>Удалить всё, что перекрывает глаза</NL_FA_Remove_Eye_Hediff_Graphic>
+  <!-- EN: When enabled, nothing will be displayed when blindness, eye sensors or Alcotech eyes are worn. -->
   <NL_FA_Remove_Eye_Hediff_Graphic_Hint>При включении, у персонажей не будут отображаться эффекты слепоты, зрительных сенсоров и архоглаз.</NL_FA_Remove_Eye_Hediff_Graphic_Hint>
-  
 </LanguageData>

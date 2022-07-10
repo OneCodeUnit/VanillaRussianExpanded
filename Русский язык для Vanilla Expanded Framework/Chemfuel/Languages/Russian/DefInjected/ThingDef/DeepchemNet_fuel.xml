@@ -1,28 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!-- EN: deepchem pipe -->
   <VCHE_DeepchemPipe.label>глубтопливная труба</VCHE_DeepchemPipe.label>
+  <!-- EN: Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
   <VCHE_DeepchemPipe.description>Тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_DeepchemPipe.description>
+  <!-- EN: deepchem pipe (blueprint) -->
   <VCHE_DeepchemPipe_Blueprint.label>глубтопливная труба (проект)</VCHE_DeepchemPipe_Blueprint.label>
+  <!-- EN: deepchem pipe (building) -->
   <VCHE_DeepchemPipe_Frame.label>глубтопливная труба (в процессе сборки)</VCHE_DeepchemPipe_Frame.label>
+  <!-- EN: Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
   <VCHE_DeepchemPipe_Frame.description>Тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_DeepchemPipe_Frame.description>
 
+  <!-- EN: subterranean deepchem pipe -->
+  <VCHE_UndergroundDeepchemPipe.label>подземная глубтопливная труба</VCHE_UndergroundDeepchemPipe.label>
+  <!-- EN: Subterranean heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
+  <VCHE_UndergroundDeepchemPipe.description>Подземная тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_UndergroundDeepchemPipe.description>
+  <!-- EN: subterranean deepchem pipe (blueprint) -->
+  <VCHE_UndergroundDeepchemPipe_Blueprint.label>подземная глубтопливная труба (проект)</VCHE_UndergroundDeepchemPipe_Blueprint.label>
+  <!-- EN: subterranean deepchem pipe (building) -->
+  <VCHE_UndergroundDeepchemPipe_Frame.label>подземная глубтопливная труба (в процессе сборки)</VCHE_UndergroundDeepchemPipe_Frame.label>
+  <!-- EN: Subterranean heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
+  <VCHE_UndergroundDeepchemPipe_Frame.description>Подземная тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_UndergroundDeepchemPipe_Frame.description>
+
+  <!-- EN: deepchem tank -->
   <PS_DeepchemTank.label>цистерна глубтоплива</PS_DeepchemTank.label>
+  <!-- EN: A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. Tanks can be designated to be siphoned as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
   <PS_DeepchemTank.description>Тяжёлая ёмкость промышленного уровня для хранения глубинного топлива. Топливо из цистерн будет поступать по мере необходимости. Будьте осторожны: даже самое лёгкое повреждение может вызвать огненный взрыв, размер которого будет зависеть от количества хранимого топлива.</PS_DeepchemTank.description>
 
+  <!-- EN: deepchem refinery -->
   <PS_DeepchemRefinery.label>глубтопливный переработчик</PS_DeepchemRefinery.label>
+  <!-- EN: A complex machine capable of refining deepchem delivered via deepchem pipes into usable liquid chemfuel. If no output is detected fuel will automatically be dispensed into cans. If output is connected to a tank or tap via chemfuel pipes the finished product will be transported as such for storage or dispensing. -->
   <PS_DeepchemRefinery.description>Сложная машина, перерабатывающая поступающее глубтопливо в нестабильное жидкое химтопливо. Если она не обнаружит труб или цистерн, готовое химтопливо будет разливаться по канистрам. Если она обнаружит трубы или цистерны, готовое химтопливо будет транспортироваться в цистерны.</PS_DeepchemRefinery.description>
 
+  <!-- EN: deepchem pumpjack -->
   <VCHE_DeepchemPumpjack.label>глубтопливный насос</VCHE_DeepchemPumpjack.label>
+  <!-- EN: A deep-crust drilling rig for extracting deepchem from deep under the surface. Use a ground penetrating scanner to detect deposits. Deepchem can then be further refined into usable chemfuel. Can be repositioned freely. -->
   <VCHE_DeepchemPumpjack.description>Буровая установка для добычи глубинного топлива из-под поверхности. Используйте глубинные сканеры для обнаружения месторождений. Глубтопливо можно перерабатывать в химтопливо и транспортировать по трубопроводу.</VCHE_DeepchemPumpjack.description>
 
-  <VCHE_UndergroundDeepchemPipe.label>подземная глубтопливная труба</VCHE_UndergroundDeepchemPipe.label>
-  <VCHE_UndergroundDeepchemPipe.description>Подземная тяжёлая стальная труба, предназначенная для транспортировки глубинного топлива от насосов до переработчика или цистерны.</VCHE_UndergroundDeepchemPipe.description>
-
+  <!-- EN: deepchem tap -->
   <VCHE_DeepchemTap.label>клапан глубтоплива</VCHE_DeepchemTap.label>
+  <!-- EN: A hopper-like storage basin meant to hold dispensed deepchem from tanks periodically for use later. -->
   <VCHE_DeepchemTap.description>Резервуар, похожий на воронку. Предназначен для периодического отвода глубтоплива из цистерн для последующего использования.</VCHE_DeepchemTap.description>
 
+  <!-- EN: deepchem drain -->
   <VCHE_DeepchemDrain.label>слив глубтоплива</VCHE_DeepchemDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks. -->
   <VCHE_DeepchemDrain.description>Резервуар, похожий на воронку. Предназначен для заливки глубтоплива трубопровод и наполнения подсоединённых цистерн.</VCHE_DeepchemDrain.description>
-
 </LanguageData>
