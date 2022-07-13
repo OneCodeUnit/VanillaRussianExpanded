@@ -1,7 +1,9 @@
-## Данный репозиторий находится в работе
+Данный репозиторий находится в работе
 
-## Перевод на русский язык модов из серии [Vanilla Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=1884025115)
-# Репозиторий соотвествует [коллекцции переводов](https://steamcommunity.com/sharedfiles/filedetails/?id=2127966899) в Steam Workshop
+### Перевод на русский язык модов из серии [Vanilla Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=1884025115)
+Репозиторий соотвествует [коллекцции переводов](https://steamcommunity.com/sharedfiles/filedetails/?id=2127966899) в Steam Workshop
+
+### [Сооствествие переводов модам](https://github.com/OneCodeUnit/VanillaRussianExpanded/wiki/Состав-сборки)
 
 Рекомендую заглянуть в [дискорд-сервер проекта](https://discord.gg/Xmbwmgh).
 
