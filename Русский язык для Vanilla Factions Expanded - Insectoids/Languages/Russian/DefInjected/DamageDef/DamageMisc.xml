@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: psychic -->
   <VFEI_PsychicNoDamage.label>пси-удар</VFEI_PsychicNoDamage.label>
+  <!-- EN: {0} has been killed. -->
   <VFEI_PsychicNoDamage.deathMessage>{0} {0_gender ? умер : умерла}.</VFEI_PsychicNoDamage.deathMessage>
 
+  <!-- EN: toxic sting -->
   <VFEI_ToxicSting.label>удар ядовитым жалом</VFEI_ToxicSting.label>
+  <!-- EN: {0} has been stung to death. -->
   <VFEI_ToxicSting.deathMessage>{0} зажалили до смерти.</VFEI_ToxicSting.deathMessage>
-
 </LanguageData>

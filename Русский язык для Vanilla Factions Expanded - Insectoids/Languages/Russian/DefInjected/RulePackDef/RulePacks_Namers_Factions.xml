@@ -4,6 +4,7 @@
     <li>w_hive->Words/Insect</li>
   </VFEI_NamerFactionInsect.rulePack.rulesFiles>
 
+  <!-- EN: r_name->[groupname] Hive -->
   <VFEI_NamerFactionInsect.rulePack.rulesStrings>
     <li>r_name->[w_hive] улей</li>
     <li>r_name->[w_hive] рой</li>
@@ -27,6 +28,103 @@
     <li>townname_fixed->Words/ColonyNames</li>
   </VFEI_NamerSettlementInsectoid.rulePack.rulesFiles>
 
+  <!-- EN:
+  <li>r_name(p=12)->Infested [townname_wordgen] Settlement</li>
+  <li>r_name(p=6)->Infested [townname_fixed] Settlement</li>
+  <li>r_name(p=4)->Infested [townname_combo] Settlement</li>
+  <li>r_name->Infested [townname_near] Settlement</li>
+
+  <li>topicalnoun->[Vegetable]</li>
+  <li>topicalnoun->[Game]</li>
+  <li>topicalnoun->[BodyPart]</li>
+
+  <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+  <li>townname_combo->[topicalnoun]'s [TerrainFeature]</li>
+  <li>townname_combo(p=2)->[concept_positive]'s [TerrainFeature]</li>
+  <li>townname_combo(p=2)->[concept_positive] [TerrainFeature]</li>
+  <li>townname_combo(p=2)->[concept_positive] [Community]</li>
+  <li>townname_combo(p=3)->[Character]'s [TerrainFeature]</li>
+  <li>townname_combo(p=3)->[Character]'s [Community]</li>
+
+  <li>townname_near->[nearnameinitial]-at-the-[TerrainFeature]</li>
+  <li>townname_near->[nearnameinitial]-by-the-[TerrainFeature]</li>
+  <li>townname_near->[nearnameinitial]-on-the-[TerrainFeature]</li>
+  <li>nearnameinitial->[townname_wordgen]</li>
+  <li>nearnameinitial->[Community]</li>
+
+  <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][townend]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
+  <li>townname_wordgen->[TerrainFeature][townend]</li>
+  <li>townname_wordgen->[topicalnoun][townend]</li>
+  <li>townend->ville</li>
+  <li>townend->town</li>
+  <li>townend->hurst</li>
+  <li>townend->bourne</li>
+  <li>townend->brad</li>
+  <li>townend->dale</li>
+  <li>townend->hope</li>
+  <li>townend->ing</li>
+  <li>townend->ness</li>
+  <li>townend->mere</li>
+  <li>townend->shaw</li>
+  <li>townend->wick</li>
+  <li>townend->ton</li>
+  <li>townend->ston</li>
+  <li>townend->os</li>
+  <li>townend->den</li>
+  <li>townend->tas</li>
+  <li>townend->wood</li>
+  <li>townend->land</li>
+  <li>townend->worth</li>
+  <li>townend->roon</li>
+  <li>townend->ron</li>
+  <li>townend->well</li>
+
+  <li>r_name(p=4)->Infested [townname_combo] Settlement</li>
+  <li>r_name->Infested [townname_wordgen] Settlement</li>
+
+  <li>townname_combo->[AnimalBadass] [geography]</li>
+  <li>townname_combo->[AnimalBadass]'s [geography]</li>
+  <li>townname_combo->[ConceptBadass] [geography]</li>
+  <li>townname_combo->[ConceptBadass]'s' [geography]</li>
+  <li>townname_combo->[PersonBadass] [geography]</li>
+  <li>townname_combo->[PersonBadass]'s [geography]</li>
+  <li>townname_combo->[Enemy]'s [geography]</li>
+  <li>townname_combo->[Enemy] [geography]</li>
+  <li>townname_combo->[Weapon]'s [geography]</li>
+  <li>townname_combo->[Weapon] [geography]</li>
+  <li>townname_combo->[ColorBadass] [geography]</li>
+  <li>geography(p=2)->[TerrainFeature]</li>
+  <li>geography->[Community]</li>
+
+  <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+  <li>townendevil->vast</li>
+  <li>townendevil->varg</li>
+  <li>townendevil->vix</li>
+  <li>townendevil->tor</li>
+  <li>townendevil->tear</li>
+  <li>townendevil->cut</li>
+  <li>townendevil->lop</li>
+  <li>townendevil->oze</li>
+  <li>townendevil->ozzle</li>
+  <li>townendevil->latch</li>
+  <li>townendevil->lock</li>
+  <li>townendevil->burn</li>
+  <li>townendevil->sear</li>
+  <li>townendevil->shank</li>
+  <li>townendevil->hurt</li>
+  <li>townendevil->vash</li>
+  <li>townendevil->warg</li>
+  <li>townendevil->wug</li>
+  <li>townendevil->thot</li>
+  <li>townendevil->thard</li>
+  <li>townendevil->thad</li>
+  -->
   <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings>
     <li>r_name(p=9)->[townname_wordgen] во власти роя</li>
     <li>r_name(p=4)->[townname_fixed] во власти роя</li>
@@ -63,7 +161,6 @@
     <li>townend->мир</li>
     <li>townend->шо</li>
     <li>townend->вик</li>
-
 
     <li>r_name->[geography] [of_badassanimal] во власти роя</li>
     <li>r_name->[geography] [of_badassanimals] во власти роя</li>
