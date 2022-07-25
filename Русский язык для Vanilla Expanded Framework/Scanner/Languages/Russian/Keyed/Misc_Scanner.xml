@@ -1,9 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Better ground-penetrating scanner -->
   <BGPScanner_Name>Better ground-penetrating scanner</BGPScanner_Name>
+  <!-- EN: Chosen output time multiplier -->
   <BGPScanner_Multiplier>Множитель времени при выборе конкретного ресурса</BGPScanner_Multiplier>
+  <!-- EN: Automatic mode scan efficiency -->
   <BGPScanner_AutoEff>Эффективность сканирования в автоматическом режиме</BGPScanner_AutoEff>
+  <!-- EN: Enable automatic mode -->
   <BGPScanner_Auto>Включить автоматический режим</BGPScanner_Auto>
+  <!-- EN: When no pawns are using the ground-penetrating scanner, it will continue to scan at the specified efficiency below. -->
   <BGPScanner_AutoDsc>Когда никто не использует глубинный сканер, он он всё равно продолжает сканирование с заданной эффективностью.</BGPScanner_AutoDsc>
+  <!-- EN: Automatic mode has found a lump of buried {0} using the ground-penetrating scanner! -->
   <BGPScanner_AutoFind>Глубинный сканер в автоматическом режиме нашёл под землёй {0}!</BGPScanner_AutoFind>
 </LanguageData>
