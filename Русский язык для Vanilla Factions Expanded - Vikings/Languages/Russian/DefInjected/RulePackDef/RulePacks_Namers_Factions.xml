@@ -6,12 +6,46 @@
 		<li>ANordic->Words/AnimalsNordicN</li>
   </NamerFactionViking.rulePack.rulesFiles>
 
+  <!-- EN:
+    <li>r_name->The [AnimalNordic] Clan</li>
+    <li>r_name->The [Color] [AnimalNordic] Clan</li>
+		<li>r_name->[NorseNames]'s Clan</li>
+  -->
 	<NamerFactionViking.rulePack.rulesStrings>
     <li>r_name->Клан [ANordic]</li>
     <li>r_name->[ColorS] клан [ANordic]</li>
 		<li>r_name->Клан [NorseNamesN]</li>
   </NamerFactionViking.rulePack.rulesStrings>
 
+  <!-- EN:    
+    <li>r_name->[townname_wordgen]</li>
+
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vast</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->vix</li>
+    <li>townendevil->tor</li>
+    <li>townendevil->tear</li>
+    <li>townendevil->cut</li>
+    <li>townendevil->lop</li>
+    <li>townendevil->oze</li>
+    <li>townendevil->ozzle</li>
+    <li>townendevil->latch</li>
+    <li>townendevil->lock</li>
+    <li>townendevil->burn</li>
+    <li>townendevil->sear</li>
+    <li>townendevil->shank</li>
+    <li>townendevil->hurt</li>
+    <li>townendevil->vash</li>
+    <li>townendevil->warg</li>
+    <li>townendevil->wug</li>
+    <li>townendevil->thot</li>
+    <li>townendevil->thard</li>
+    <li>townendevil->thad</li>
+  -->
   <NamerSettlementViking.rulePack.rulesStrings>
     <li>r_name->[townname_wordgen]</li>
 
@@ -51,6 +85,14 @@
     <li>AnimalM->Words/Animals_Badass_Masc</li>
   </NamerPersonViking.rulePack.rulesFiles>
 
+  <!-- EN:     
+    <li>r_name(p=2)->[NorseNames] [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]berg</li>
+    <li>r_name->[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</li>
+    <li>r_name->[NorseNames] '[Color] [Animal]' [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]-son</li>
+    <li>r_name->[NorseNames] '[NorseNames]son' of [Animal] clan</li>
+  -->
   <NamerPersonViking.rulePack.rulesStrings>
     <li>r_name(p=2)->[NorseNamesC] сын [NorseNamesN]</li>
 		<li>r_name->[NorseNamesC] [NorseNamesC]берг</li>

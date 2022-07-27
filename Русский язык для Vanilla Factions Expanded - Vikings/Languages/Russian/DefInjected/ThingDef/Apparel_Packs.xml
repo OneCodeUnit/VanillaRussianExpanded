@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: throwable torch belt -->
   <VFEV_Apparel_TorchBelt.label>метательные факелы</VFEV_Apparel_TorchBelt.label>
+  <!-- EN: A belt with a number of wooden torches strapped to it. They can be lit up and thrown to set things ablaze. Can be refueled with wood. -->
   <VFEV_Apparel_TorchBelt.description>Связка факелов, закреплённая на поясе. Их можно метнуть, чтобы поджечь всё вокруг. Связку можно пополнять древесиной.</VFEV_Apparel_TorchBelt.description>
+  <!-- EN: torch -->
   <VFEV_Apparel_TorchBelt.comps.CompReloadable.chargeNoun>факел</VFEV_Apparel_TorchBelt.comps.CompReloadable.chargeNoun>
+  <!-- EN: throw torch -->
   <VFEV_Apparel_TorchBelt.verbs.0.label>метнуть факел</VFEV_Apparel_TorchBelt.verbs.0.label>
 
+  <!-- EN: thrown torch -->
   <VFEV_Proj_GrenadeTorch.label>метательный факел</VFEV_Proj_GrenadeTorch.label>
 </LanguageData>

@@ -1,7 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: drunk chitchat -->
   <VFEV_DrunkChitchat.label>пьяная болтовня</VFEV_DrunkChitchat.label>
 
+  <!-- EN:
+		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+		<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+
+		<li>talkedabout(p=4)->chatted about</li>
+		<li>talkedabout->shared a word about</li>
+		<li>talkedabout->spoke about</li>
+		<li>talkedabout->gabbed about</li>
+		<li>talkedabout->talked about</li>
+		<li>talkedabout->joked about</li>
+		<li>talkedabout->quipped about</li>
+
+		<li>commentedabout->said something about</li>
+		<li>commentedabout->said a word about</li>
+		<li>commentedabout->made a comment about</li>
+		<li>commentedabout->commented about</li>
+		<li>commentedabout->told a joke about</li>
+  -->
   <VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] с [RECIPIENT_nameDef] [TalkTopicLight].</li>
@@ -19,8 +39,28 @@
     <li>talkedabout->игриво обменивается парой слов</li>
   </VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
 
+  <!-- EN: very drunk chitchat -->
 	<VFEV_VeryDrunkChitchat.label>очень пьяная болтовня</VFEV_VeryDrunkChitchat.label>
 
+  <!-- EN:
+		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+		<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+
+		<li>talkedabout(p=4)->chatted about</li>
+		<li>talkedabout->shared a word about</li>
+		<li>talkedabout->spoke about</li>
+		<li>talkedabout->gabbed about</li>
+		<li>talkedabout->talked about</li>
+		<li>talkedabout->joked about</li>
+		<li>talkedabout->quipped about</li>
+
+		<li>commentedabout->said something about</li>
+		<li>commentedabout->said a word about</li>
+		<li>commentedabout->made a comment about</li>
+		<li>commentedabout->commented about</li>
+		<li>commentedabout->told a joke about</li>
+  -->
   <VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] с [RECIPIENT_nameDef] [TalkTopicLight].</li>
