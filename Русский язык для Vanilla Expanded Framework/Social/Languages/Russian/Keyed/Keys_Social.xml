@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN:
-  <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} would like to do some work.</VSIE.WorkFrenzyBeginLetterContinue>
-  <VSIE.GoFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} would like to join a caravan and venture into the world.</VSIE.GoFrenzyBeginLetterContinue>
-  <VSIE.ShootingFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} would like to go on a hunt.</VSIE.ShootingFrenzyBeginLetterContinue>
-  <VSIE.InspiredTradeBeginLetterContinue>\n\n{PAWN_pronoun} would like to close a trade.</VSIE.InspiredTradeBeginLetterContinue>
-  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\n{PAWN_pronoun} would like to recruit a prisoner.</VSIE.InspiredRecruitmentBeginLetterContinue>
-  <VSIE.InspiredTamingBeginLetterContinue>\n\n{PAWN_pronoun} would like to try and tame an animal.</VSIE.InspiredTamingBeginLetterContinue>
-  <VSIE.InspiredSurgeryBeginLetterContinue>\n\n{PAWN_pronoun} would like to perform a surgery.</VSIE.InspiredSurgeryBeginLetterContinue>
-  <VSIE.InspiredCreativityBeginLetterContinue>\n\n{PAWN_pronoun} would like to create a masterwork or legendary item.</VSIE.InspiredCreativityBeginLetterContinue>
-  -->
-  <VSIE.WorkFrenzyBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы выполнить какую-нибудь работу.</VSIE.WorkFrenzyBeginLetterContinue>
-  <VSIE.GoFrenzyBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы присоединиться к каравану и отправиться в путешествие.</VSIE.GoFrenzyBeginLetterContinue>
-  <VSIE.ShootingFrenzyBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы сходить на охоту.</VSIE.ShootingFrenzyBeginLetterContinue>
-  <VSIE.InspiredTradeBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы заключить сделку.</VSIE.InspiredTradeBeginLetterContinue>
-  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы завербовать пленника.</VSIE.InspiredRecruitmentBeginLetterContinue>
-  <VSIE.InspiredTamingBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы попробовать приручить животное.</VSIE.InspiredTamingBeginLetterContinue>
-  <VSIE.InspiredSurgeryBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы провести операцию.</VSIE.InspiredSurgeryBeginLetterContinue>
-  <VSIE.InspiredCreativityBeginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы создать шедевр или даже что-то легендарное.</VSIE.InspiredCreativityBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to do some work. -->
+  <VSIE.WorkFrenzyBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы выполнить какую-нибудь работу.</VSIE.WorkFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to join a caravan and venture into the world. -->
+  <VSIE.GoFrenzyBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы присоединиться к каравану и отправиться в путешествие.</VSIE.GoFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to go on a hunt. -->
+  <VSIE.ShootingFrenzyBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы поохотиться.</VSIE.ShootingFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to close a trade. -->
+  <VSIE.InspiredTradeBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы поторговать.</VSIE.InspiredTradeBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to recruit a prisoner. -->
+  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы завербовать пленника.</VSIE.InspiredRecruitmentBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to try and tame an animal. -->
+  <VSIE.InspiredTamingBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы попробовать приручить животное.</VSIE.InspiredTamingBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to perform a surgery. -->
+  <VSIE.InspiredSurgeryBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы провести операцию.</VSIE.InspiredSurgeryBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to create a masterwork or legendary item. -->
+  <VSIE.InspiredCreativityBeginLetterContinue>\n\nВ течение этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы создать шедевр или даже что-то легендарное.</VSIE.InspiredCreativityBeginLetterContinue>
 
   <!-- EN: {PAWN_nameDef} obtained {0} trait -->
   <VSIE.TraitChangeTitle>{PAWN_nameDef} получает черту «{0}»</VSIE.TraitChangeTitle>
@@ -75,5 +73,4 @@
   <VSIE.EnableSocialEnvironmentThoughts>Включить репутацию</VSIE.EnableSocialEnvironmentThoughts>
   <!-- EN: Enable one night stand -->
   <VSIE.EnableOneNightStand>Включить связи на одну ночь</VSIE.EnableOneNightStand>
-
 </LanguageData>

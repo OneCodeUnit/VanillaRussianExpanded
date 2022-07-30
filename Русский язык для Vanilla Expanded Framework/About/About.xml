@@ -8,7 +8,7 @@
     <li>1.3</li>
   </supportedVersions>
   <packageId>RU.VanillaFactionsExpanded.Core</packageId>
-  <description>Базовый перевод для модов серии Vanilla Expanded. Рекомендуется устанавливать при использовании моих переводов. Включает необходимые строки, используемые во многих модах. Помимо этого, включает в себя перевод на русский язык библиотеки Vanilla Expanded Framework, настроек из Vanilla Textures Expanded, Facial Animation, Better ground-penetrating scanner, Royalty и Ideology Patches, а также модов Vanilla Backgrounds Expanded, Vanilla Chemfuel Expanded, Vanilla Events Expanded, Vanilla Books Expanded, Vanilla Hair Expanded, Vanilla Fishing Expanded, Sometimes Raids Go Wrong (Forked).</description>
+  <description>Базовый перевод для модов серии Vanilla Expanded. Рекомендуется устанавливать при использовании моих переводов. Включает необходимые строки, используемые во многих модах. Помимо этого, включает в себя перевод на русский язык библиотеки Vanilla Expanded Framework, настроек из Vanilla Textures Expanded, Facial Animation, Better ground-penetrating scanner, Royalty и Ideology Patches, а также модов Vanilla Backgrounds Expanded, Vanilla Chemfuel Expanded, Vanilla Events Expanded, Vanilla Books Expanded, Vanilla Hair Expanded, Vanilla Fishing Expanded, Vanilla Social Interactions Expanded, Sometimes Raids Go Wrong (Forked).</description>
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>VanillaExpanded.VTEXE</li>
@@ -24,6 +24,7 @@
     <li>VanillaExpanded.VHE</li>
     <li>VanillaExpanded.VCEF</li>
     <li>VanillaExpanded.VCEFAddon</li>
+    <li>VanillaExpanded.VanillaSocialInteractionsExpanded</li>
   </loadAfter>
   <incompatibleWith>
     <li>Inoshishi3.VEF.RusPatch</li>
@@ -35,5 +36,7 @@
     <li>RU.VanillaExpanded.VHE</li>
     <li>Am.Rus.VHE</li>
     <li>RU.VanillaExpanded.VCEF</li>
+    <li>Am.Rus.VanillaSocialInteractionsExpanded</li>
+    <li>RU.VanillaSocialInteractionsExpanded</li>
   </incompatibleWith>
 </ModMetaData>
