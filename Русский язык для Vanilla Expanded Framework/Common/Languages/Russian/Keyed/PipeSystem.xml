@@ -78,4 +78,11 @@
   <PipeSystem_TransferContentDesc>Перенести наполнение хранилища в другое доступное хранилище.</PipeSystem_TransferContentDesc>
   <!-- EN: Transfering content to other available storages... -->
   <PipeSystem_MarkedToTransferContent>Перенос наполнения хранилища в другое доступное хранилище...</PipeSystem_MarkedToTransferContent>
+
+  <!-- EN: No thing to refill {0} -->
+  <PipeSystem_NothingToRefill>Нет ресурсов, чтобы наполнить {0}</PipeSystem_NothingToRefill>
+  <!-- EN: Allow manual refill -->
+  <PipeSystem_AllowManualRefill>Разрешить ручное наполнение</PipeSystem_AllowManualRefill>
+  <!-- EN: Allow pawns to directly refill storage -->
+  <PipeSystem_AllowManualRefillDesc>Разрешить напрямую наполнять это хранилище</PipeSystem_AllowManualRefillDesc>
 </LanguageData>

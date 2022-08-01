@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VPE_Wander_Sad.label>sad wandering</VPE_Wander_Sad.label>
-  <VPE_Wander_Sad.beginLetter>{0} has broken down and is wandering around in sadness.</VPE_Wander_Sad.beginLetter>
-  <VPE_Wander_Sad.beginLetterLabel>sad wander</VPE_Wander_Sad.beginLetterLabel>
-  <VPE_Wander_Sad.recoveryMessage>{0} is no longer wandering in sadness.</VPE_Wander_Sad.recoveryMessage>
-  <VPE_Wander_Sad.baseInspectLine>Mental state: Sad wandering</VPE_Wander_Sad.baseInspectLine>
-
-
+  <!-- EN: sad wandering -->
+  <VPE_Wander_Sad.label>уныние</VPE_Wander_Sad.label>
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <VPE_Wander_Sad.beginLetter>{0} бродит в печали.</VPE_Wander_Sad.beginLetter>
+  <!-- EN: sad wander -->
+  <VPE_Wander_Sad.beginLetterLabel>уныние</VPE_Wander_Sad.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <VPE_Wander_Sad.recoveryMessage>{0} больше не грустит.</VPE_Wander_Sad.recoveryMessage>
+  <!-- EN: Mental state: Sad wandering -->
+  <VPE_Wander_Sad.baseInspectLine>Душевное состояние: уныние</VPE_Wander_Sad.baseInspectLine>
 </LanguageData>

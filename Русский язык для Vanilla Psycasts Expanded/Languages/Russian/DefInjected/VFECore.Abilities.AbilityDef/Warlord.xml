@@ -1,35 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN:speedboost -->
+  <VPE_SpeedBoost.label>ускорение</VPE_SpeedBoost.label>
+  <!-- EN:Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity. -->
+  <VPE_SpeedBoost.description>Психически усиливает мышцы, суставы и связки в ногах псионика, утраивая его скорость передвижения приблизительно на две минуты, в зависимости от психочувствительности псионика.</VPE_SpeedBoost.description>
 
-  <VPE_SpeedBoost.label>speedboost</VPE_SpeedBoost.label>
-  <VPE_SpeedBoost.description>Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity.</VPE_SpeedBoost.description>
+  <!-- EN:blade focus -->
+  <VPE_BladeFocus.label>фокус клинка</VPE_BladeFocus.label>
+  <!-- EN:Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity. -->
+  <VPE_BladeFocus.description>Психически усиливает мышцы, суставы и связки в руках псионика, удваивая его скорость атаки в ближнем бою приблизительно на две минуты, в зависимости от психочувствительности псионика.</VPE_BladeFocus.description>
 
-  <VPE_BladeFocus.label>blade focus</VPE_BladeFocus.label>
-  <VPE_BladeFocus.description>Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity.</VPE_BladeFocus.description>
+  <!-- EN:firing focus -->
+  <VPE_FiringFocus.label>концентрированная стрельба</VPE_FiringFocus.label>
+  <!-- EN:Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity. -->
+  <VPE_FiringFocus.description>Психически усиливает кисти рук, глаза и скорость реакции псионика, уменьшая интервал между выстрелами на 80% приблизительно на две минуты, в зависимости от психочувствительности псионика.</VPE_FiringFocus.description>
 
-  <VPE_FiringFocus.label>firing focus</VPE_FiringFocus.label>
-  <VPE_FiringFocus.description>Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity.</VPE_FiringFocus.description>
+  <!-- EN:power leap -->
+  <VPE_PowerLeap.label>силовой прыжок</VPE_PowerLeap.label>
+  <!-- EN:Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity. -->
+  <VPE_PowerLeap.description>Значительно усиливает ноги, стопы и спину псионика, что даёт ему возможность прыжками преодолевать значительные расстояния, не получая при этом повреждений. Дальность прыжка меняется в зависимости от психочувствительности псионика.</VPE_PowerLeap.description>
 
-  <VPE_PowerLeap.label>power leap</VPE_PowerLeap.label>
-  <VPE_PowerLeap.description>Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity.</VPE_PowerLeap.description>
+  <!-- EN:adrenaline rush -->
+  <VPE_AdrenalineRush.label>адреналиновый рывок</VPE_AdrenalineRush.label>
+  <!-- EN:Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity. -->
+  <VPE_AdrenalineRush.description>Психически инициирует выброс адреналина в организме псионика, блокируя болевые рецепторы и улучшая его зрение, слух и способность к движению. Длится около тридцати секунд и зависит от психической чувствительности псионика.</VPE_AdrenalineRush.description>
 
-  <VPE_AdrenalineRush.label>adrenaline rush</VPE_AdrenalineRush.label>
-  <VPE_AdrenalineRush.description>Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity.</VPE_AdrenalineRush.description>
+  <!-- EN:controlled frenzy -->
+  <VPE_ControlledFrenzy.label>контролируемая ярость</VPE_ControlledFrenzy.label>
+  <!-- EN:Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy. -->
+  <VPE_ControlledFrenzy.description>Психически разжигает у псионика готовность и желание убивать, что удваивает его урон любым оружием. Каждое убийство снижает нейроперегрев на 10 единиц и сбрасывает счётчик ярости.</VPE_ControlledFrenzy.description>
 
-  <VPE_ControlledFrenzy.label>controlled frenzy</VPE_ControlledFrenzy.label>
-  <VPE_ControlledFrenzy.description>Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy.</VPE_ControlledFrenzy.description>
+  <!-- EN:guided shot -->
+  <VPE_GuidedShot.label>направленный выстрел</VPE_GuidedShot.label>
+  <!-- EN:Projects a psychic aura for 8 seconds that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. -->
+  <VPE_GuidedShot.description>На протяжении 8 секунд проецирует психическую ауру, которая позволяет стрелку усилием воли изменять траекторию движения любого своего снаряда, удваивая эффективный радиус стрельбы и гарантируя попадания на время действия способности.</VPE_GuidedShot.description>
 
-  <VPE_GuidedShot.label>guided shot</VPE_GuidedShot.label>
-  <VPE_GuidedShot.description>Projects a psychic aura for 8 seconds that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration.</VPE_GuidedShot.description>
+  <!-- EN:beckon -->
+  <VPE_Beckon.label>зов</VPE_Beckon.label>
+  <!-- EN:Psychically command the target to approach the caster. -->
+  <VPE_Beckon.description>Заставляет цель подойти к псионику.</VPE_Beckon.description>
 
-  <VPE_Beckon.label>beckon</VPE_Beckon.label>
-  <VPE_Beckon.description>Psychically command the target to approach the caster.</VPE_Beckon.description>
+  <!-- EN:killskip -->
+  <VPE_Killskip.label>убийственный прыжок</VPE_Killskip.label>
+  <!-- EN:Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill. -->
+  <VPE_Killskip.description>Псионик телепортируется к цели и наносит удар в ближнем бою, усиленный или ослабленный за счёт боевых навыков псионика. Если цель погибает, то псионик телепортируется к следующему ближайшему врагу и атакует снова, так до тех пор, пока рядом есть кого убивать.</VPE_Killskip.description>
 
-  <VPE_Killskip.label>killskip</VPE_Killskip.label>
-  <VPE_Killskip.description>Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill.</VPE_Killskip.description>
-
-  <VPE_MassBeckon.label>mass beckon</VPE_MassBeckon.label>
-  <VPE_MassBeckon.description>Psychically command the targets within an area to approach the caster.</VPE_MassBeckon.description>
-
-
+  <!-- EN:mass beckon -->
+  <VPE_MassBeckon.label>массовый зов</VPE_MassBeckon.label>
+  <!-- EN:Psychically command the targets within an area to approach the caster. -->
+  <VPE_MassBeckon.description>Заставляет группу целей подойти к псионику</VPE_MassBeckon.description>
 </LanguageData>

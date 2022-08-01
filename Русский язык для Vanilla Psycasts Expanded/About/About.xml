@@ -16,4 +16,8 @@
   <loadAfter>
     <li>VanillaExpanded.VPsycastsE</li>
   </loadAfter>
+  <incompatibleWith>
+    <li>VanillaExpanded.VPsycastsE.LeveFUN.RU</li>
+    <li>TranslateVanillaExpanded.VPsycast</li>
+  </incompatibleWith>
 </ModMetaData>

@@ -1,35 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN:bramble maze -->
+  <VPE_BrambleMaze.label>ежевичный лабиринт</VPE_BrambleMaze.label>
+  <!-- EN:Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours. -->
+  <VPE_BrambleMaze.description>Хаотично вливает жизненную энергию в указанное пространство, заставляя прорастать кусты ежевики, которые исчезнут через 12 часов.</VPE_BrambleMaze.description>
 
-  <VPE_BrambleMaze.label>bramble maze</VPE_BrambleMaze.label>
-  <VPE_BrambleMaze.description>Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours.</VPE_BrambleMaze.description>
+  <!-- EN:crop burst -->
+  <VPE_CropBurst.label>бурный рост</VPE_CropBurst.label>
+  <!-- EN:Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity. -->
+  <VPE_CropBurst.description>Накачивает плодородное место жизненной энергией, заставляя полезные растения вырастать со скоростью, зависящей от психической чувствительности псионика.</VPE_CropBurst.description>
 
-  <VPE_CropBurst.label>crop burst</VPE_CropBurst.label>
-  <VPE_CropBurst.description>Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity.</VPE_CropBurst.description>
+  <!-- EN:word of animals -->
+  <VPE_WordofAnimals.label>слово животных</VPE_WordofAnimals.label>
+  <!-- EN:Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. -->
+  <VPE_WordofAnimals.description>Умиротворить животное с помощью психического подавления, делая его неагрессивным, или приручая его.</VPE_WordofAnimals.description>
 
-  <VPE_WordofAnimals.label>word of animals</VPE_WordofAnimals.label>
-  <VPE_WordofAnimals.description>Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them.</VPE_WordofAnimals.description>
+  <!-- EN:manhunter pulse -->
+  <VPE_ManhunterPulse.label>волна агрессии</VPE_ManhunterPulse.label>
+  <!-- EN:Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan. -->
+  <VPE_ManhunterPulse.description>Используя псионический импульс, привести животных находящихся в пределах большой зоны в состояние ярости, длящейся около минуты. Может быть способом объявления войны, если использовано на животных, принадлежащих к каравану.</VPE_ManhunterPulse.description>
 
-  <VPE_ManhunterPulse.label>manhunter pulse</VPE_ManhunterPulse.label>
-  <VPE_ManhunterPulse.description>Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan.</VPE_ManhunterPulse.description>
+  <!-- EN:tree sprout -->
+  <VPE_TreeSprout.label>ростки деревьев</VPE_TreeSprout.label>
+  <!-- EN:Infuses a large, fertile area with potent life energy, causing it to sprout fully grown oak trees. -->
+  <VPE_TreeSprout.description>Накачивает большой участок плодородной земли жизненной энергией, вызывая бурный рост взрослых дубов.</VPE_TreeSprout.description>
 
-  <VPE_TreeSprout.label>tree sprout</VPE_TreeSprout.label>
-  <VPE_TreeSprout.description>Infuses a large, fertile area with potent life energy, causing it to sprout fully grown oak trees.</VPE_TreeSprout.description>
+  <!-- EN:shield animals -->
+  <VPE_ShieldAnimals.label>защита животных</VPE_ShieldAnimals.label>
+  <!-- EN:Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity. -->
+  <VPE_ShieldAnimals.description>Создаёт сферические прыжковые врата на всех животных поселения, находящихся в радиусе действия способности. Врата защищают животных от направленных извне снарядов, перенося эти снаряды в отдалённое место. Люди и предметы не подвергаются воздействию способности. Длительность защиты зависит от психической чувствительности псионика.</VPE_ShieldAnimals.description>
 
-  <VPE_ShieldAnimals.label>shield animals</VPE_ShieldAnimals.label>
-  <VPE_ShieldAnimals.description>Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity.</VPE_ShieldAnimals.description>
+  <!-- EN:animal allies -->
+  <VPE_AnimalAllies.label>друг человека</VPE_AnimalAllies.label>
+  <!-- EN:Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity. -->
+  <VPE_AnimalAllies.description>Вливает гармонирующую жизненную силу в большой участок земли, что влияет на поведение животных, заставляя их атаковать тех, кого псионик считает врагами. Длительность эффекта зависит от психической чувствительности псионика.</VPE_AnimalAllies.description>
 
-  <VPE_AnimalAllies.label>animal allies</VPE_AnimalAllies.label>
-  <VPE_AnimalAllies.description>Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity.</VPE_AnimalAllies.description>
+  <!-- EN:shrineshield-->
+  <VPE_Shrineshield.label>духовный щит</VPE_Shrineshield.label>
+  <!-- EN:Generate a spherical skipgate on a nature shrine that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine. -->
+  <VPE_Shrineshield.description>Создаёт сферические прыжковые врата вокруг естественного святилища. Эти врата отправляют любые направленные извне низколетящие снаряды в другое, отдалённое место. Люди и предметы не подвергаются воздействию способности. Длительность защиты зависит от размера святилища.</VPE_Shrineshield.description>
 
-  <VPE_Shrineshield.label>shrineshield</VPE_Shrineshield.label>
-  <VPE_Shrineshield.description>Generate a spherical skipgate on a nature shrine that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine.</VPE_Shrineshield.description>
+  <!-- EN:essence transfer -->
+  <VPE_EssenceTransfer.label>перенос эссенции</VPE_EssenceTransfer.label>
+  <!-- EN:Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a 6 hour coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying when finished. Should the linked animal die first, the effect is lost and there can only be one link at a time. -->
+  <VPE_EssenceTransfer.description>Забирает часть жизненной силы находящегося поблизости поселенца и связывает его с одним из животных поселения, в результате чего псионик погружается в кому на шесть часов. Если связанный поселенец погибает, то связанное животное придёт к нему и передаст свою жизненную силу, что приведёт к гибели самого животного. Если же первым погибнет животное, то связь между поселенцем и животным пропадёт. Одновременно может существовать связь только с одним животным.</VPE_EssenceTransfer.description>
 
-  <VPE_EssenceTransfer.label>essence transfer</VPE_EssenceTransfer.label>
-  <VPE_EssenceTransfer.description>Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a 6 hour coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying when finished. Should the linked animal die first, the effect is lost and there can only be one link at a time.</VPE_EssenceTransfer.description>
-
-  <VPE_SummonPack.label>summon pack</VPE_SummonPack.label>
-  <VPE_SummonPack.description>Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The distance the pulse travels, and with that the relative strength of the creatures are influenced by the caster’s psychic sensitivity.</VPE_SummonPack.description>
-
-
+  <!-- EN:summon pack -->
+  <VPE_SummonPack.label>призыв стаи</VPE_SummonPack.label>
+  <!-- EN:Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The distance the pulse travels, and with that the relative strength of the creatures are influenced by the caster’s psychic sensitivity. -->
+  <VPE_SummonPack.description>Псионик высвобождает волну жизненной силы в регионе, вызывая всплеск территориальной агрессии у различных животных, которые направляются, чтобы защитить поселение. Как только все нападающие побеждены, животные вернутся в свои места обитания. Радиус действия способности и относительная сила животных зависят от психической чувствительности псионика.</VPE_SummonPack.description>
 </LanguageData>

@@ -1,22 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: eltex dagger -->
+  <VPE_MeleeWeapon_EltexDagger.label>кинжал из эльтекса</VPE_MeleeWeapon_EltexDagger.label>
+  <!-- EN: A medieval dagger threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon, as it follows the same idea as any other knife: A handle for holding and a sharp edge for cutting. -->
+  <VPE_MeleeWeapon_EltexDagger.description>Средневековый кинжал с линиями из эльтекса. Не только увеличивает психочувствительность и рассеивание нейроперегрева, но и служит отличным оружием ближнего боя, если придерживаться правила: рукоять на себя, остриё на врага.</VPE_MeleeWeapon_EltexDagger.description>
+  <!-- EN: handle -->
+  <VPE_MeleeWeapon_EltexDagger.tools.0.label>рукоять</VPE_MeleeWeapon_EltexDagger.tools.0.label>
+  <!-- EN: blade -->
+  <VPE_MeleeWeapon_EltexDagger.tools.1.label>лезвие</VPE_MeleeWeapon_EltexDagger.tools.1.label>
+  <!-- EN: point -->
+  <VPE_MeleeWeapon_EltexDagger.tools.2.label>остриё</VPE_MeleeWeapon_EltexDagger.tools.2.label>
 
-  <VPE_MeleeWeapon_EltexDagger.label>eltex dagger</VPE_MeleeWeapon_EltexDagger.label>
-  <VPE_MeleeWeapon_EltexDagger.description>A medieval dagger threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon, as it follows the same idea as any other knife: A handle for holding and a sharp edge for cutting.</VPE_MeleeWeapon_EltexDagger.description>
-  <VPE_MeleeWeapon_EltexDagger.tools.0.label>handle</VPE_MeleeWeapon_EltexDagger.tools.0.label>
-  <VPE_MeleeWeapon_EltexDagger.tools.1.label>blade</VPE_MeleeWeapon_EltexDagger.tools.1.label>
-  <VPE_MeleeWeapon_EltexDagger.tools.2.label>point</VPE_MeleeWeapon_EltexDagger.tools.2.label>
+  <!-- EN: eltex mace -->
+  <VPE_MeleeWeapon_EltexMace.label>булава из эльтекса</VPE_MeleeWeapon_EltexMace.label>
+  <!-- EN: A medieval mace threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon, engineered for efficient swinging and deadly impacts. -->
+  <VPE_MeleeWeapon_EltexMace.description>Средневековая булава с линиями из эльтекса. Не только увеличивает психочувствительность и рассеивание нейроперегрева, но и служит отличным оружием ближнего боя, подходящим для эффективного замаха и смертоносного удара.</VPE_MeleeWeapon_EltexMace.description>
+  <!-- EN: handle -->
+  <VPE_MeleeWeapon_EltexMace.tools.0.label>рукоять</VPE_MeleeWeapon_EltexMace.tools.0.label>
+  <!-- EN: head -->
+  <VPE_MeleeWeapon_EltexMace.tools.1.label>навершие</VPE_MeleeWeapon_EltexMace.tools.1.label>
 
-  <VPE_MeleeWeapon_EltexMace.label>eltex mace</VPE_MeleeWeapon_EltexMace.label>
-  <VPE_MeleeWeapon_EltexMace.description>A medieval mace threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon, engineered for efficient swinging and deadly impacts.</VPE_MeleeWeapon_EltexMace.description>
-  <VPE_MeleeWeapon_EltexMace.tools.0.label>handle</VPE_MeleeWeapon_EltexMace.tools.0.label>
-  <VPE_MeleeWeapon_EltexMace.tools.1.label>head</VPE_MeleeWeapon_EltexMace.tools.1.label>
-
-  <VPE_MeleeWeapon_EltexSword.label>eltex sword</VPE_MeleeWeapon_EltexSword.label>
-  <VPE_MeleeWeapon_EltexSword.description>A medieval sword threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons.</VPE_MeleeWeapon_EltexSword.description>
-  <VPE_MeleeWeapon_EltexSword.tools.0.label>handle</VPE_MeleeWeapon_EltexSword.tools.0.label>
-  <VPE_MeleeWeapon_EltexSword.tools.1.label>point</VPE_MeleeWeapon_EltexSword.tools.1.label>
-  <VPE_MeleeWeapon_EltexSword.tools.2.label>edge</VPE_MeleeWeapon_EltexSword.tools.2.label>
-
-
+  <!-- EN: eltex sword -->
+  <VPE_MeleeWeapon_EltexSword.label>меч из эльтекса</VPE_MeleeWeapon_EltexSword.label>
+  <!-- EN: A medieval sword threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
+  <VPE_MeleeWeapon_EltexSword.description>Средневековый меч с линиями из эльтекса. Не только увеличивает психочувствительность и рассеивание нейроперегрева, но и служит отличным оружием ближнего боя. Хорош для колющих и рубящих ударов. Лёгкость и приёмистость меча часто позволяет одержать верх над противником с более тяжёлым и мощным оружием.</VPE_MeleeWeapon_EltexSword.description>
+  <!-- EN: handle -->
+  <VPE_MeleeWeapon_EltexSword.tools.0.label>рукоять</VPE_MeleeWeapon_EltexSword.tools.0.label>
+  <!-- EN: point -->
+  <VPE_MeleeWeapon_EltexSword.tools.1.label>остриё</VPE_MeleeWeapon_EltexSword.tools.1.label>
+  <!-- EN: edge -->
+  <VPE_MeleeWeapon_EltexSword.tools.2.label>лезвие</VPE_MeleeWeapon_EltexSword.tools.2.label>
 </LanguageData>

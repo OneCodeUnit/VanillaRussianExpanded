@@ -1,110 +1,179 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: recharge -->
+  <VPE_Recharge.label>подзарядка</VPE_Recharge.label>
+  <!-- EN: Electricity is being channeled to a nearby battery. -->
+  <VPE_Recharge.description>Электричество подается на ближайшую батарею.</VPE_Recharge.description>
 
-  <VPE_Recharge.label>recharge</VPE_Recharge.label>
-  <VPE_Recharge.description>Electricity is being channeled to a nearby battery.</VPE_Recharge.description>
+  <!-- EN: vortex -->
+  <VPE_Vortex.label>вихрь</VPE_Vortex.label>
+  <!-- EN: An electirical vortex is causing difficulty moving. -->
+  <VPE_Vortex.description>Электрический вихрь затрудняет передвижение.</VPE_Vortex.description>
 
-  <VPE_Vortex.label>vortex</VPE_Vortex.label>
-  <VPE_Vortex.description>An electirical vortex is causing difficulty moving.</VPE_Vortex.description>
+  <!-- EN: hurricane -->
+  <VPE_Hurricane.label>ураган</VPE_Hurricane.label>
+  <!-- EN: A hurricane is causing difficulty moving and seeing. -->
+  <VPE_Hurricane.description>Ураган затрудняет передвижение и затрудняет обзор.</VPE_Hurricane.description>
 
-  <VPE_Hurricane.label>hurricane</VPE_Hurricane.label>
-  <VPE_Hurricane.description>A hurricane is causing difficulty moving and seeing.</VPE_Hurricane.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.label>счастье</VPE_Bliss.label>
+  <!-- EN: Waves of serenity emanate deep from within, bringing peace of mind and lowering consciousness. -->
+  <VPE_Bliss.description>Волны безмятежности исходят глубоко изнутри, принося душевный покой и понижая сознание.</VPE_Bliss.description>
 
-  <VPE_Bliss.label>bliss</VPE_Bliss.label>
-  <VPE_Bliss.description>Waves of serenity emanate deep from within, bringing peace of mind and lowering consciousness.</VPE_Bliss.description>
+  <!-- EN: age sickness -->
+  <VPE_AgeSickness.label>старость</VPE_AgeSickness.label>
+  <!-- EN: Age-related psychic sickness greatly reducing manipulation and consciousness. -->
+  <VPE_AgeSickness.description>Возрастное пси-заболевание, значительно снижающее работу и сознание.</VPE_AgeSickness.description>
 
-  <VPE_AgeSickness.label>age sickness</VPE_AgeSickness.label>
-  <VPE_AgeSickness.description>Age-related psychic sickness greatly reducing manipulation and consciousness.</VPE_AgeSickness.description>
+  <!-- EN: psychic drone -->
+  <VPE_PsychicDrone.label>гул</VPE_PsychicDrone.label>
+  <!-- EN: A strong psychic force affecting every enemy humanlike in the area, making them feel more disturbed, terrified, and paranoid. -->
+  <VPE_PsychicDrone.description>Сильное пси-воздействие, влияющее на каждого врага-гуманоида в этом районе и заставляющее их чувствовать себя более встревоженными, напуганными и параноидальными/</VPE_PsychicDrone.description>
 
-  <VPE_PsychicDrone.label>psychic drone</VPE_PsychicDrone.label>
-  <VPE_PsychicDrone.description>A strong psychic force affecting every enemy humanlike in the area, making them feel more disturbed, terrified, and paranoid.</VPE_PsychicDrone.description>
+  <!-- EN: ice shield -->
+  <VPE_IceShield.label>ледяной щит</VPE_IceShield.label>
+  <!-- EN: A psychic shield that protects from hypothermia and freezer enemies that interact with it. -->
+  <VPE_IceShield.description>Пси-щит, защищающий от гипотермии и морозящий врагов в ближнем бою.</VPE_IceShield.description>
 
-  <VPE_IceShield.label>ice shield</VPE_IceShield.label>
-  <VPE_IceShield.description>A psychic shield that protects from hypothermia and freezer enemies that interact with it.</VPE_IceShield.description>
+  <!-- EN: frost ray -->
+  <VPE_FrostRay.label>морозный луч</VPE_FrostRay.label>
+  <!-- EN: A heavily damaging and freezing ray of frost. -->
+  <VPE_FrostRay.description>Мощный замораживающий луч.</VPE_FrostRay.description>
 
-  <VPE_FrostRay.label>frost ray</VPE_FrostRay.label>
-  <VPE_FrostRay.description>A heavily damaging and freezing ray of frost.</VPE_FrostRay.description>
+  <!-- EN: frozen solid -->
+  <VPE_IceBlock.label>заморозка</VPE_IceBlock.label>
+  <!-- EN: This entity is completely frozen in a block of ice, and will not be able to move until it melts. -->
+  <VPE_IceBlock.description>Это существо полностью заморожено в глыбе льда и не сможет двигаться, пока та не растает.</VPE_IceBlock.description>
 
-  <VPE_IceBlock.label>frozen solid</VPE_IceBlock.label>
-  <VPE_IceBlock.description>This entity is completely frozen in a block of ice, and will not be able to move until it melts.</VPE_IceBlock.description>
+  <!-- EN: casting blizzard -->
+  <VPE_BlizzardSource.label>призыв метели</VPE_BlizzardSource.label>
+  <!-- EN: This entity is casting blizzard. -->
+  <VPE_BlizzardSource.description>Эта сущность призывает метель.</VPE_BlizzardSource.description>
 
-  <VPE_BlizzardSource.label>casting blizzard</VPE_BlizzardSource.label>
-  <VPE_BlizzardSource.description>This entity is casting blizzard.</VPE_BlizzardSource.description>
+  <!-- EN: blizzard -->
+  <VPE_Blizzard.label>метель</VPE_Blizzard.label>
+  <!-- EN: A huge wind with extreme snow that lowers sight, manipulation and movement speed. -->
+  <VPE_Blizzard.description>Мощный ветер и сильнейший снег, мешающие обзор, работе и передвижению.</VPE_Blizzard.description>
 
-  <VPE_Blizzard.label>blizzard</VPE_Blizzard.label>
-  <VPE_Blizzard.description>A huge wind with extreme snow that lowers sight, manipulation and movement speed.</VPE_Blizzard.description>
+  <!-- EN: haywire -->
+  <VPE_Haywire.label>потеря контроля</VPE_Haywire.label>
+  <!-- EN: Psychically hacked programming that disrupts the IFF operations. -->
+  <VPE_Haywire.description>Психический взлом программы и нарушение системы опознавания «свой-чужой».</VPE_Haywire.description>
 
-  <VPE_Haywire.label>haywire</VPE_Haywire.label>
-  <VPE_Haywire.description>Psychically hacked programming that disrupts the IFF operations.</VPE_Haywire.description>
+  <!-- EN: powering -->
+  <VPE_InfinitePower.label>электроснабжение</VPE_InfinitePower.label>
+  <!-- EN: Generating infinite electricity supply to a given structure. -->
+  <VPE_InfinitePower.description>Генерация бесконечного электроснабжения для заданной постройки.</VPE_InfinitePower.description>
 
-  <VPE_InfinitePower.label>powering</VPE_InfinitePower.label>
-  <VPE_InfinitePower.description>Generating infinite electricity supply to a given structure.</VPE_InfinitePower.description>
+  <!-- EN: animal shield -->
+  <VPE_AnimalOvershield.label>щит животного</VPE_AnimalOvershield.label>
+  <!-- EN: An overshield that protects the animal from any ranged attacks. -->
+  <VPE_AnimalOvershield.description>Щит, защищающий животное от любых дальнобойных атак.</VPE_AnimalOvershield.description>
 
-  <VPE_AnimalOvershield.label>animal shield</VPE_AnimalOvershield.label>
-  <VPE_AnimalOvershield.description>An overshield that protects the animal from any ranged attacks.</VPE_AnimalOvershield.description>
+  <!-- EN: smartbuzz -->
+  <VPE_Smartbuzz.label>живой ум</VPE_Smartbuzz.label>
+  <!-- EN: Psychically-induced feelings of clarity and curiosity. This improves research speed as well as skill gain speed. -->
+  <VPE_Smartbuzz.description>Психически вызванные любознательность и любопытство. Ускоряют исследования и поднятие уровней навыков.</VPE_Smartbuzz.description>
 
-  <VPE_Smartbuzz.label>smartbuzz</VPE_Smartbuzz.label>
-  <VPE_Smartbuzz.description>Psychically-induced feelings of clarity and curiosity. This improves research speed as well as skill gain speed.</VPE_Smartbuzz.description>
+  <!-- EN: Essence of -->
+  <VPE_Essence.label>Эссенция</VPE_Essence.label>
+  <!-- EN: Psychically-split fragment of someone's personality imbued in this very being. -->
+  <VPE_Essence.description>Фрагмент чьей-то личности.</VPE_Essence.description>
 
-  <VPE_Essence.label>Essence of</VPE_Essence.label>
-  <VPE_Essence.description>Psychically-split fragment of someone's personality imbued in this very being.</VPE_Essence.description>
+  <!-- EN: darkvision -->
+  <VPE_Darkvision.label>темновидение</VPE_Darkvision.label>
+  <!-- EN: Psychically-induced ability to see through the darkness and shadows. -->
+  <VPE_Darkvision.description>Психически вызванная способность видеть сквозь тьму и тени.</VPE_Darkvision.description>
 
-  <VPE_Darkvision.label>darkvision</VPE_Darkvision.label>
-  <VPE_Darkvision.description>Psychically-induced ability to see through the darkness and shadows.</VPE_Darkvision.description>
+  <!-- EN: darkvision -->
+  <VPE_Darkvision_Display.label>темновидение</VPE_Darkvision_Display.label>
+  <!-- EN: Psychically-induced night vision. -->
+  <VPE_Darkvision_Display.description>Психически вызванное ночное зрение.</VPE_Darkvision_Display.description>
 
-  <VPE_Darkvision_Display.label>darkvision</VPE_Darkvision_Display.label>
-  <VPE_Darkvision_Display.description>Psychically-induced night vision.</VPE_Darkvision_Display.description>
+  <!-- EN: psychic productivity -->
+  <VPE_Productivity.label>пси-продуктивность</VPE_Productivity.label>
+  <!-- EN: Psychically-induced improvement to work speed. -->
+  <VPE_Productivity.description>Психически вызванное улучшение скорости работы.</VPE_Productivity.description>
 
-  <VPE_Productivity.label>psychic productivity</VPE_Productivity.label>
-  <VPE_Productivity.description>Psychically-induced improvement to work speed.</VPE_Productivity.description>
+  <!-- EN: psychic soothe -->
+  <VPE_PsychicSoothe.label>умиротворение</VPE_PsychicSoothe.label>
+  <!-- EN: Psychically-induced, self-satisfying perceptual distortions, giving a temporary mood boost. -->
+  <VPE_PsychicSoothe.description>Психически вызванное самоудовлетворяющее искажения восприятия, дающее временное повышение настроения.</VPE_PsychicSoothe.description>
 
-  <VPE_PsychicSoothe.label>psychic soothe</VPE_PsychicSoothe.label>
-  <VPE_PsychicSoothe.description>Psychically-induced, self-satisfying perceptual distortions, giving a temporary mood boost.</VPE_PsychicSoothe.description>
+  <!-- EN: group link -->
+  <VPE_GroupLink.label>групповая связь</VPE_GroupLink.label>
+  <!-- EN: Psychically-induced link between several entities. Any 'word of' psycast will resonate between all linked individuals. -->
+  <VPE_GroupLink.description>Психически вызванная связь между несколькими сущностями. Способности «Слово чего-то» будут действовать сразу на всех.</VPE_GroupLink.description>
 
-  <VPE_GroupLink.label>group link</VPE_GroupLink.label>
-  <VPE_GroupLink.description>Psychically-induced link between several entities. Any 'word of' psycast will resonate between all linked individuals.</VPE_GroupLink.description>
+  <!-- EN: psychic pain -->
+  <VPE_PsychicPain.label>пси-боль</VPE_PsychicPain.label>
+  <!-- EN: Psychically-induced extreme physical pain. -->
+  <VPE_PsychicPain.description>Психически вызванная сильная физическая боль.</VPE_PsychicPain.description>
 
-  <VPE_PsychicPain.label>psychic pain</VPE_PsychicPain.label>
-  <VPE_PsychicPain.description>Psychically-induced extreme physical pain.</VPE_PsychicPain.description>
+  <!-- EN: psychic protection -->
+  <VPE_Protection.label>пси-защита</VPE_Protection.label>
+  <!-- EN: Psychically-induced physical protection from incoming damage. -->
+  <VPE_Protection.description>Психически вызванная физическая защита от входящего урона.</VPE_Protection.description>
 
-  <VPE_Protection.label>psychic protection</VPE_Protection.label>
-  <VPE_Protection.description>Psychically-induced physical protection from incoming damage.</VPE_Protection.description>
+  <!-- EN: hallucination -->
+  <VPE_Hallucination.label>галлюцинация</VPE_Hallucination.label>
+  <!-- EN: Strong psychic suggestion that reshapes reality in the eyes of the affected individuals, making them perceive their every day life as that of a luxury. -->
+  <VPE_Hallucination.description>Сильное псионическое внушение, которое изменяет реальность в глазах затронутых сущностей, заставляя их воспринимать свою повседневную жизнь как роскошь.</VPE_Hallucination.description>
 
-  <VPE_Hallucination.label>hallucination</VPE_Hallucination.label>
-  <VPE_Hallucination.description>Strong psychic suggestion that reshapes reality in the eyes of the affected individuals, making them perceive their every day life as that of a luxury.</VPE_Hallucination.description>
+  <!-- EN: liferot -->
+  <VPE_Liferot.label>гниение заживо</VPE_Liferot.label>
+  <!-- EN: Psychically-induced mass necrosis, causing living and healthy limbs and organs to rot on the victim.< -->
+  <VPE_Liferot.description>Психически вызванный массовый некроз, вызывающий гниение живых и здоровых конечностей и органов жертвы.</VPE_Liferot.description>
 
-  <VPE_Liferot.label>liferot</VPE_Liferot.label>
-  <VPE_Liferot.description>Psychically-induced mass necrosis, causing living and healthy limbs and organs to rot on the victim.</VPE_Liferot.description>
+  <!-- EN: rot -->
+  <VPE_Rot.label>гниение</VPE_Rot.label>
+  <!-- EN: A rot. -->
+  <VPE_Rot.description>Гниение.</VPE_Rot.description>
+  <!-- EN: Rotted away -->
+  <VPE_Rot.injuryProps.destroyedLabel>сгнило</VPE_Rot.injuryProps.destroyedLabel>
+  <!-- EN: Rotted away -->
+  <VPE_Rot.injuryProps.destroyedOutLabel>сгнило</VPE_Rot.injuryProps.destroyedOutLabel>
+  <!-- EN: a rot -->
+  <VPE_Rot.labelNoun>гниение</VPE_Rot.labelNoun>
+  <VPE_Rot.labelNounPretty>{0} {1}</VPE_Rot.labelNounPretty >
 
-  <VPE_Rot.label>rot</VPE_Rot.label>
-  <VPE_Rot.description>A rot.</VPE_Rot.description>
-  <VPE_Rot.injuryProps.destroyedLabel>Rotted away</VPE_Rot.injuryProps.destroyedLabel>
-  <VPE_Rot.injuryProps.destroyedOutLabel>Rotted away</VPE_Rot.injuryProps.destroyedOutLabel>
-  <VPE_Rot.labelNoun>a rot</VPE_Rot.labelNoun>
+  <!-- EN: psychic vitality -->
+  <VPE_GainedVitality.label>жизненная пси-сила</VPE_GainedVitality.label>
+  <!-- EN: Psychically-induced vitality stolen from another person. -->
+  <VPE_GainedVitality.description>Психически призванная жизненная сила, украденная у другой персоны.</VPE_GainedVitality.description>
 
-  <VPE_GainedVitality.label>psychic vitality</VPE_GainedVitality.label>
-  <VPE_GainedVitality.description>Psychically-induced vitality stolen from another person.</VPE_GainedVitality.description>
+  <!-- EN: psychic weakness -->
+  <VPE_LostVitality.label>пси-слабость</VPE_LostVitality.label>
+  <!-- EN: Psychically-induced weakness caused by vitality being stolen by another person. -->
+  <VPE_LostVitality.description>Психически призванная слабость из-за того, что жизненная сила была украдена кем-то другим.</VPE_LostVitality.description>
 
-  <VPE_LostVitality.label>psychic weakness</VPE_LostVitality.label>
-  <VPE_LostVitality.description>Psychically-induced weakness caused by vitality being stolen by another person.</VPE_LostVitality.description>
+  <!-- EN: ghostwalk -->
+  <VPE_Ghostwalk.label>призрачный шаг</VPE_Ghostwalk.label>
+  <!-- EN: Psychically-induced matter phasing. -->
+  <VPE_Ghostwalk.description>Психический фазовый скачок.</VPE_Ghostwalk.description>
 
-  <VPE_Ghostwalk.label>ghostwalk</VPE_Ghostwalk.label>
-  <VPE_Ghostwalk.description>Psychically-induced matter phasing.</VPE_Ghostwalk.description>
+  <!-- EN: corpse talk -->
+  <VPE_CorpseTalk.label>разговор с мёртвыми</VPE_CorpseTalk.label>
+  <!-- EN: Psychically-induced link with a spirit of a deceased individual. -->
+  <VPE_CorpseTalk.description>Психически призванная связь с духом умершей личности.</VPE_CorpseTalk.description>
 
-  <VPE_CorpseTalk.label>corpse talk</VPE_CorpseTalk.label>
-  <VPE_CorpseTalk.description>Psychically-induced link with a spirit of a deceased individual.</VPE_CorpseTalk.description>
+  <!-- EN: bodies consumed -->
+  <VPE_BodiesConsumed.label>тело поглощено</VPE_BodiesConsumed.label>
+  <!-- EN: The amount of bodies that were consumed using the Consume Bodies psycast. Each body consumed increases a maximum neural heat by 1. -->
+  <VPE_BodiesConsumed.description>Количество тел, поглощённых пси-способностью «поглотить тела». Каждое тело увеличивает максимум нейроперегрева на 1.</VPE_BodiesConsumed.description>
 
-  <VPE_BodiesConsumed.label>bodies consumed</VPE_BodiesConsumed.label>
-  <VPE_BodiesConsumed.description>The amount of bodies that were consumed using the Consume Bodies psycast. Each body consumed increases a maximum neural heat by 1.</VPE_BodiesConsumed.description>
+  <!-- EN: death shield -->
+  <VPE_DeathShield.label>щит от смерти</VPE_DeathShield.label>
+  <!-- EN: Psychically-induced immortality that lasts for one day. -->
+  <VPE_DeathShield.description>Психически призванное бессмертие, которое длится один день.</VPE_DeathShield.description>
 
-  <VPE_DeathShield.label>death shield</VPE_DeathShield.label>
-  <VPE_DeathShield.description>Psychically-induced immortality that lasts for one day.</VPE_DeathShield.description>
+  <!-- EN: obscured -->
+  <VPE_Obscured.label>сокрытие в тенях</VPE_Obscured.label>
+  <!-- EN: Psychically-induced invisibility. -->
+  <VPE_Obscured.description>Психически призванная невидимость.</VPE_Obscured.description>
 
-  <VPE_Obscured.label>obscured</VPE_Obscured.label>
-  <VPE_Obscured.description>Psychically-induced invisibility.</VPE_Obscured.description>
-
-  <VPE_Shadowfocus.label>shadowfocus</VPE_Shadowfocus.label>
-  <VPE_Shadowfocus.description>Psychically-induced increase to psychic sensitivity based on the lack of light around the psycaster.</VPE_Shadowfocus.description>
-
-
+  <!-- EN: shadowfocus -->
+  <VPE_Shadowfocus.label>теневая концентрация</VPE_Shadowfocus.label>
+  <!-- EN: Psychically-induced increase to psychic sensitivity based on the lack of light around the psycaster. -->
+  <VPE_Shadowfocus.description>Психически призванное увеличение психочувствительности, зависящее от недостатка освещённости вокруг псионика.</VPE_Shadowfocus.description>
 </LanguageData>
