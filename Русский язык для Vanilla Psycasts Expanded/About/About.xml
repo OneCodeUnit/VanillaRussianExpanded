@@ -1,0 +1,23 @@
+﻿<ModMetaData>
+  <name>Русский язык для Vanilla Psycasts Expanded</name>
+  <author>OliveWizard, Amortem</author>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <packageId>OW.RU.PSY</packageId>
+  <description>Перевод на русский язык мода Vanilla Psycasts Expanded.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VPsycastsE</packageId>
+      <displayName>Vanilla Psycasts Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2842502659</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VPsycastsE</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>VanillaExpanded.VPsycastsE.LeveFUN.RU</li>
+    <li>TranslateVanillaExpanded.VPsycast</li>
+  </incompatibleWith>
+</ModMetaData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:solar pinhole -->
+  <VPE_SolarPinhole.label>солнечная брешь</VPE_SolarPinhole.label>
+  <!-- EN:Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
+  <VPE_SolarPinhole.description>Открывает микроскопические прыжковые врата, ведущие к ядру близлежащей звезды. Пока миниатюрная брешь в пространстве-времени будет открыта, звёздная материя сможет проходить сквозь неё, освещая и нагревая всё поблизости. Света будет достаточно для работы, но не для выращивания растений.</VPE_SolarPinhole.description>
+
+  <!-- EN:chunk skip -->
+  <VPE_Chunkskip.label>телепортация обломков</VPE_Chunkskip.label>
+  <!-- EN:>Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <VPE_Chunkskip.description>Разбрасывает 5 металлических или каменных обломков вокруг указанной точки. Их можно использовать в качестве дополнительных укрытий при ведении наступательного боя.</VPE_Chunkskip.description>
+
+  <!-- EN:waterskip -->
+  <VPE_Waterskip.label>вызов волны</VPE_Waterskip.label>
+  <!-- EN:Douse a target in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
+  <VPE_Waterskip.description>Накрывает выбранную область волной воды, гасящей огонь. Вода архотехнологически переносится через пространственные врата из далёкого водоёма или грунтовых вод.</VPE_Waterskip.description>
+
+  <!-- EN:chaos skip -->
+  <VPE_ChaosSkip.label>хаотичный прыжок</VPE_ChaosSkip.label>
+  <!-- EN:Teleport the target to a random position near where he started. Stuns the target for a second and is considered a hostile action. -->
+  <VPE_ChaosSkip.description>Перемещает цель в случайное место недалеко от отправной точки. Оглушает цель на секунду и считается враждебным действием.</VPE_ChaosSkip.description>
+
+  <!-- EN:skip -->
+  <VPE_Skip.label>прыжок</VPE_Skip.label>
+  <!-- EN:Teleport the target to a desired position not too far from his starting point. This is considered a hostile action. -->
+  <VPE_Skip.description>Перемещает цель в указанное место недалеко от отправной точки. Считается враждебным действием.</VPE_Skip.description>
+
+  <!-- EN:wall raise -->
+  <VPE_Wallraise.label>стена из недр</VPE_Wallraise.label>
+  <!-- EN:Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours. -->
+  <VPE_Wallraise.description>Формирует временную стену из почвы и камней, поднятых глубоко из под земли. Позволяет создать препятствие для движения и обзора на впечатляющем расстоянии. Эффект длится несколько часов.</VPE_Wallraise.description>
+
+  <!-- EN:smokepop -->
+  <VPE_Smokepop.label>дымовая завеса</VPE_Smokepop.label>
+  <!-- EN:Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+  <VPE_Smokepop.description>Поднимает плотную завесу пыли из-под земли. Через такое облако не могут стрелять турели, а точность стрельбы остального оружия снижается.</VPE_Smokepop.description>
+
+  <!-- EN:mass chaos skip -->
+  <VPE_MassChaosSkip.label>массовый хаотичный прыжок</VPE_MassChaosSkip.label>
+  <!-- EN:Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger. -->
+  <VPE_MassChaosSkip.description>Перемещает группу целей в случайное место неподалёку. Влияет на отношения с другими фракциями, так как это действие может подвергнуть их членов опасности.</VPE_MassChaosSkip.description>
+
+  <!-- EN:skipdoor -->
+  <VPE_Skipdoor.label>дверь измерений</VPE_Skipdoor.label>
+  <!-- EN:Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse. -->
+  <VPE_Skipdoor.description>Открывает путь к системе прыжковых врат, которые могут быть помещены в любом месте на постоянной основе. Сама система врат завязана на коллективном сознании группы, что позволяет всем её участникам использовать эти врата, а другие псионики могут их поддерживать. Однако, точки входа очень чувствительны к психическим явлениям и могут схлопываться, если воздействие будет достаточно сильным.</VPE_Skipdoor.description>
+
+  <!-- EN:farskip -->
+  <VPE_Farskip.label>длинный прыжок</VPE_Farskip.label>
+  <!-- EN:Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey. -->
+  <VPE_Farskip.description>Перемещает псионика и всех стоящих рядом с ним к союзнику за пределами карты. Эта способность позволяет перемещать людей по всей планете, однако, работает, только если в пункте назначения присутствует союзник, готовый выступить в качестве навигационного маяка. Перемещённые таким образом люди в пункте назначения всегда будут появляться рядом со случайным союзником.</VPE_Farskip.description>
+</LanguageData>

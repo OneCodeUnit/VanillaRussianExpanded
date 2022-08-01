@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:burden -->
+  <VPE_Burden.label>бремя</VPE_Burden.label>
+  <!-- EN:Slow the target for a short time by suppressing motor activity in the brain. Considered a hostile action and affected by the target’s psychic sensitivity. -->
+  <VPE_Burden.description>Ненадолго замедляет цель, подавляя активность двигательного центра её мозга. Считается враждебным действием и успех зависит от психической чувствительности цели.</VPE_Burden.description>
+
+  <!-- EN:stun -->
+  <VPE_Stun.label>оглушение</VPE_Stun.label>
+  <!-- EN:Momentarily disrupt motor function in the target's brain, preventing any movement. -->
+  <VPE_Stun.description>Мгновенно нарушает двигательные функции цели, не давая ей двигаться.</VPE_Stun.description>
+
+  <!-- EN:psychic shock -->
+  <VPE_PsychicShock.label>психический шок</VPE_PsychicShock.label>
+  <!-- EN:Psychically shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage and is overtly hostile. -->
+  <VPE_PsychicShock.description>Психически подвергает разум цели атаке хаотично сменяющимися образами, что блокирует нормальное восприятие и погружает цель в состояние психического шока. Чревато повреждениями мозга и ухудшением отношений с фракцией.</VPE_PsychicShock.description>
+
+  <!-- EN:neural heat dump -->
+  <VPE_NeuralHeatDump.label>сброс нейроперегрева</VPE_NeuralHeatDump.label>
+  <!-- EN:Instantly dump all your neural heat into a conscious ally. As a side effect, the target will fall into a debilitating, harmless coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
+  <VPE_NeuralHeatDump.description>Мгновенно сбрасывает накопившийся нейроперегрев на кого-то другого. Цель воздействия впадёт в изнурительную кому примерно на один день. Это не нанесёт дополнительного вреда, однако цель должна быть полностью согласна на это, поэтому только союзники, находящиеся в сознании, могут быть целью данного воздействия.</VPE_NeuralHeatDump.description>
+
+  <!-- EN: berserk -->
+  <VPE_Berserk.label>берсерк</VPE_Berserk.label>
+  <!-- EN:Induce a berserker psychosis in the target's mind, causing them to attack anyone nearby. They regain rationality after 15 seconds, depending on their psychic sensitivity. -->
+  <VPE_Berserk.description>Вызывает у цели приступ неконтролируемой ярости, заставляющий её атаковать всех вокруг. Цель приходит в себя спустя 15 секунд, в зависимости от психической чувствительности.</VPE_Berserk.description>
+
+  <!-- EN:aggressive heat dump -->
+  <VPE_AggressiveHeatDump.label>агрессивный сброс нейроперегрева</VPE_AggressiveHeatDump.label>
+  <!-- EN:Instantly dump all of your neural heat into a target, causing them to explode with an area of effect relative to the heat lost and the target’s psychic sensitivity. A good declaration of war. -->
+  <VPE_AggressiveHeatDump.description>Мгновенно сбрасывает накопившийся нейроперегрев на цель, разрывая её на части. Сила взрыва будет пропорциональна количеству нейроперегрева и психочувствительности цели. Отличный способ объявить войну.</VPE_AggressiveHeatDump.description>
+
+  <!-- EN:berskerk pulse -->
+  <VPE_BerserkPulse.label>волна берсерка</VPE_BerserkPulse.label>
+  <!-- EN:Generate an overwhelming rush of undirected rage in everyone near the target point. Considered an overt act of aggression and lasts several seconds. -->
+  <VPE_BerserkPulse.description>Выпустить волну всепоглощающей ненаправленной ярости на всех, кто находится рядом с точкой использования. Длится несколько секунд и считается актом агрессии.</VPE_BerserkPulse.description>
+
+  <!-- EN:psychic drone -->
+  <VPE_PsychicDrone.label>психический гул</VPE_PsychicDrone.label>
+  <!-- EN:Creates a massive psychic drone aura around the caster tuned to hostiles, frequently driving them insane until they overcome the break. Duration scales with the caster’s psychic sensitivity. -->
+  <VPE_PsychicDrone.description>Создать ауру психического гула вокруг применившего, направленную на врагов и доводящую их до безумия до тех пор, пока не случится нервный срыв. Длительность способности зависит от психической чувствительности пользователя.</VPE_PsychicDrone.description>
+
+  <!-- EN:neural heat detonation -->
+  <VPE_NeuralHeatDetonation.label>подрыв нейроперегрева</VPE_NeuralHeatDetonation.label>
+  <!-- EN:Efficiently but indiscriminately dumps all of the caster’s neural heat into an explosion away from themselves, the size being both relative to the heat lost and their psychic sensitivity. -->
+  <VPE_NeuralHeatDetonation.description>Эффективный, но беспорядочный сброс нейроперегрева в окружающее пространство в виде взрыва. Сила взрыва зависит от нейроперегрева и психической чувствительности применившего.</VPE_NeuralHeatDetonation.description>
+
+  <!-- EN:neuroquake -->
+  <VPE_Neuroquake.label>нейрошторм</VPE_Neuroquake.label>
+  <!-- EN:Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe inner circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <VPE_Neuroquake.description>Позволяет найти разрыв в пси-поле и расширить его, высвобождая оттуда огромное количество энергии. Каждое живое существо, находящееся в радиусе действия и вне безопасной зоны вокруг псионика, войдёт в состояние неконтролируемой ярости. Создание нейрошторма требует 12 секунд подготовительной медитации, после которой псионик впадёт в пси-кому на 5 дней. Отголоски нейрошторма пронесутся по планете на много километров вокруг, причиняя боль всем попавшим под их воздействие. После этого ухудшатся отношения со всеми фракциями.</VPE_Neuroquake.description>
+  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+  <VPE_Neuroquake.modExtensions.0.message>Если вы примените нейрошторм, его отголоски разнесутся по всей планете и вы потеряете отношения со всеми фракциями.\n\nНейрошторму потребуется 12 секунд для создания и это действие нельзя прервать. В конце псионик впадёт в пси-кому на 5\n\nВсе, даже в небольшом радиусе вокруг псионика будут задеты.\n\nВы точно хотите сотворить нейрошторм?</VPE_Neuroquake.modExtensions.0.message>
+</LanguageData>
