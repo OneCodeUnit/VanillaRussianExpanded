@@ -18,8 +18,16 @@
   <Outposts.Settings.Meat>Множитель мяса</Outposts.Settings.Meat>
   <!-- EN: Intercept Incoming Raids? -->
   <Outposts.Settings.DoIntercept>Перехватывать приближающиеся налёты?</Outposts.Settings.DoIntercept>
+  <!-- EN: Intercept Difficulty Multiplier -->
+  <Outposts.Settings.InterceptDifficultyMultiplier>Множитель сложности перехвата</Outposts.Settings.InterceptDifficultyMultiplier>
+  <!-- EN: This is in on top of your global difficulty modifier and intercept is already harder then regular defense raids. Adjust upwards at your own risk -->
+  <Outposts.Settings.InterceptDifficultyMultiplierTooltip>Дополняет выбранный уровень сложности. Повышайте на свой страх и риск, так как перехваты и так сложнее, чем обычные обороны</Outposts.Settings.InterceptDifficultyMultiplierTooltip>
   <!-- EN: Recruit chance Multiplier -->
   <Outposts.Settings.Chance>Множитель шанса найма</Outposts.Settings.Chance>
+  <!-- EN: Drop Pods Require Fuel -->
+  <Outposts.Settings.NeedFuel>Требуют ли транспортные капсулы топливо?</Outposts.Settings.NeedFuel>
+  <!-- EN: Amount of Fuel -->
+  <Outposts.Settings.NeedFuelAmount>Запас топлива</Outposts.Settings.NeedFuelAmount>
   <!-- EN: Artillery Strike -->
   <Outposts.Commands.Fire.Label>Артиллерийский залп</Outposts.Commands.Fire.Label>
   <!-- EN: Begin targeting for an artillery strike -->
@@ -30,8 +38,16 @@
   <Outposts.Cooldown>На перезарядке. Осталось: {0}</Outposts.Cooldown>
   <!-- EN: Raid Intercepted -->
   <Outposts.Letters.Intercept.Label>Налёт перехвачен</Outposts.Letters.Intercept.Label>
-  <!-- EN: A raid bound for {0} has been intercepted by the defensive outpost {0}. Hopefully they can survive this brave maneuver. -->
-  <Outposts.Letters.Intercept.Text>Налёт на {0} был перехвачен оборонительным аванпостом {0}. Будем надеяться, что никто из наших не пострадал.</Outposts.Letters.Intercept.Text>
+  <!-- EN: A raid bound for {0} has been intercepted by the defensive outpost {1}. Hopefully they can survive this brave maneuver. -->
+  <Outposts.Letters.Intercept.Text>Налёт на {0} был перехвачен оборонительным аванпостом {1}. Будем надеяться, что никто из наших не пострадал.</Outposts.Letters.Intercept.Text>
+  <!-- EN: Outpost Intercept Raid -->
+  <Outposts.Intercept.Title>Перехват налёта аванпостом</Outposts.Intercept.Title>
+  <!-- EN: Defenders at {0} have detected a raid from {1} heading towards {2}! \n\nThey are in position to ambush part of the raiding force, that if successful should cause the rest to scatter and return. They estimate the force they will fight is composed of: \n{3} -->
+  <Outposts.Intercept.CanIntercept>{0} обнаружил налёт фракции {1} на {2}! \n\nГарнизон аванпоста уже занял позицию, чтобы напасть из засады на часть группировки врагов. Если атака будет успешной, силы врага рассеются и вернутся назад. По оценке ваших людей, вам предстоит сражение со следующими врагами: \n{3}</Outposts.Intercept.CanIntercept>
+  <!-- EN: Maneuver and intercept the raiders -->
+  <Outposts.Intercept.InterceptRaid>Совершить манёвр и перехватить налёт</Outposts.Intercept.InterceptRaid>
+  <!-- EN: Stand down, and return to the outpost -->
+  <Outposts.Intercept.DontIntercept>Вернуться обратно в аванпост</Outposts.Intercept.DontIntercept>
   <!-- EN: Send Reinforcements -->
   <Outposts.Commands.Deploy.Label>Отправить подкрепления</Outposts.Commands.Deploy.Label>
   <!-- EN: Deploy the garrison of this outpost in drop pods to assist one of your combat engagements. -->
@@ -40,6 +56,8 @@
   <Outposts.Commands.Deploy.Disabled>Нельзя погрузить: транспортные капсулы недоступны</Outposts.Commands.Deploy.Disabled>
   <!-- EN: Cannot send last pawn -->
   <Outposts.Commands.Deploy.Only1>Нельзя погрузить последнего персонажа</Outposts.Commands.Deploy.Only1>
+  <!-- EN: Cannot send not enough stored fuel -->
+  <Outposts.Commands.Deploy.NotEnoughFuel>Нельзя погрузить: недостаточно топлива</Outposts.Commands.Deploy.NotEnoughFuel>
   <!-- EN: Drilling boreholes. {0} done. Estimated time remaining: {1} -->
   <Outposts.Drilling>Бурение скважин. {0} готовы. Осталось времени: {1}</Outposts.Drilling>
   <!-- EN: Must be made in the {0} -->
