@@ -67,15 +67,15 @@
   <!-- EN: Fish traps must be built at least 10 tiles apart from each other. -->
   <VME_NeedsDistance>Ловушка для рыба должна быть построена дальше 10 клеток от других ловушек.</VME_NeedsDistance>
   <!-- EN: This fish trap can catch small fish: -->
-  <VME_SmallFishTrapDescriptionInspect>Эта ловушка для рыбы ловит маленькую рыбу:</VME_SmallFishTrapDescriptionInspect>
+  <VME_SmallFishTrapDescriptionInspect>Эта ловушка ловит маленькую рыбу:</VME_SmallFishTrapDescriptionInspect>
   <!-- EN: Next small fish caught in -->
   <VME_SmallFishCaughtIn>Следующая маленькая рыба будет поймана через</VME_SmallFishCaughtIn>
   <!-- EN: This fish trap can catch medium fish: -->
-  <VME_MediumFishTrapDescriptionInspect>Эта ловушка для рыбы ловит среднюю рыбу:</VME_MediumFishTrapDescriptionInspect>
+  <VME_MediumFishTrapDescriptionInspect>Эта ловушка ловит среднюю рыбу:</VME_MediumFishTrapDescriptionInspect>
   <!-- EN: Next medium fish caught in -->
   <VME_MediumFishCaughtIn>Следующая средняя рыба будет поймана через</VME_MediumFishCaughtIn>
   <!-- EN: This fish trap can catch large fish: -->
-  <VME_LargeFishTrapDescriptionInspect>Эта ловушка для рыбы ловит большую рыбу:</VME_LargeFishTrapDescriptionInspect>
+  <VME_LargeFishTrapDescriptionInspect>Эта ловушка ловит большую рыбу:</VME_LargeFishTrapDescriptionInspect>
   <!-- EN: Next large fish caught in -->
   <VME_LargeFishCaughtIn>Следующая большая рыба будет поймана через</VME_LargeFishCaughtIn>
   <!-- EN: Catches until breaking: {0} -->
@@ -112,6 +112,10 @@
   <VEM_LowCorruptionDesc>Следующие люди имеют слишком низкий уровень осквернения (ниже 10%). Когда он достигнет 0%, осквернение можно будет заменить любой другой идеолигией. Стройте обелиски, чтобы поддерживать уровень осквернения или проводите ритуалы камлания для поднятия его на 10%:\n\n{0}</VEM_LowCorruptionDesc>
   <!-- EN: Chunks of ancient space junk have impacted nearby. You can uninstall and move them to build your junkyard.\n\nThis event happens if you have any colonists with an ideo using the Scrapper meme. -->
   <VME_MessageJunkChunkDrop>Куски древнего космического мусора упали неподалёку. Их можно демонтировать и перенести в другое место — на вашу свалку.\n\nЭто событие произошло из-за того, что у вас живёт поселенец с идеолигией, имеющей черту «Сбор лома».</VME_MessageJunkChunkDrop>
+  <!-- EN: Colonist must be capable of Talking -->
+  <VME_MessageRitualRoleMustBeCapableOfSocial>Поселенец должен иметь возможность говорить</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <!-- EN: Ritual needs the Exalted Priesthood meme -->
+  <VME_NeedsExaltedPriesthood>Ритуал требует черту «Exalted Priesthood»</VME_NeedsExaltedPriesthood>
   
   <!-- EN: Reset -->
   <VME_Reset>Сброс</VME_Reset>

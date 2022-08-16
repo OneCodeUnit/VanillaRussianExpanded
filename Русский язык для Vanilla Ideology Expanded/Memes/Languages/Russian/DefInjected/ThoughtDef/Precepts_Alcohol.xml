@@ -4,22 +4,18 @@
   <VME_Alcohol_Demanded.stages.0.label>недостаёт спиртного</VME_Alcohol_Demanded.stages.0.label>
   <!-- EN: I could use a drink. Something stronger please. -->
   <VME_Alcohol_Demanded.stages.0.description>Я бы {PAWN_gender ? выпил : выпила}. Чего-нибудь покрепче, если можно.</VME_Alcohol_Demanded.stages.0.description>
-
   <!-- EN: no alcohol -->
   <VME_Alcohol_Demanded.stages.1.label>без спиртного</VME_Alcohol_Demanded.stages.1.label>
   <!-- EN: I wish I could have a drink of something stronger. -->
   <VME_Alcohol_Demanded.stages.1.description>{PAWN_gender ? Хотел : Хотела} бы я выпить что-нибудь крепкое.</VME_Alcohol_Demanded.stages.1.description>
-
   <!-- EN: needs alcohol -->
   <VME_Alcohol_Demanded.stages.2.label>нужно спиртное</VME_Alcohol_Demanded.stages.2.label>
   <!-- EN: I need a drink of something stronger. -->
   <VME_Alcohol_Demanded.stages.2.description>Мне нужно выпить что-нибудь крепкое.</VME_Alcohol_Demanded.stages.2.description>
-
   <!-- EN: craves alcohol -->
   <VME_Alcohol_Demanded.stages.3.label>жажда спиртного</VME_Alcohol_Demanded.stages.3.label>
   <!-- EN: I’d kill for a drop of something stronger. -->
   <VME_Alcohol_Demanded.stages.3.description>Убить {PAWN_gender ? готов : готова} за каплю чего-нибудь крепкого.</VME_Alcohol_Demanded.stages.3.description>
-
   <!-- EN: demands alcohol -->
   <VME_Alcohol_Demanded.stages.4.label>требование спиртного</VME_Alcohol_Demanded.stages.4.label>
   <!-- EN: Booze or I riot. -->
@@ -30,22 +26,18 @@
   <VME_Alcohol_Desired.stages.0.label>недостаёт спиртного</VME_Alcohol_Desired.stages.0.label>
   <!-- EN: It's been a while since I've had a drink. -->
   <VME_Alcohol_Desired.stages.0.description>Я уже какое-то время не {PAWN_gender ? выпивал : выпивала}.</VME_Alcohol_Desired.stages.0.description>
-  
   <!-- EN: desiring a drink -->
   <VME_Alcohol_Desired.stages.1.label>желание выпить</VME_Alcohol_Desired.stages.1.label>
   <!-- EN: What this colony needs is a bar so we can take a few drinks with our friends after a day of hard work. -->
   <VME_Alcohol_Desired.stages.1.description>Если что и нужно поселению, так это бар, в котором можно выпить с друзьями после тяжёлого рабочего дня.</VME_Alcohol_Desired.stages.1.description>
-  
   <!-- EN: wanting a drink -->
   <VME_Alcohol_Desired.stages.2.label>стремление выпить</VME_Alcohol_Desired.stages.2.label>
   <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
   <VME_Alcohol_Desired.stages.2.description>Тяжёлая работа — это хорошо, но я бы очень {PAWN_gender ? хотел : хотела} расслабиться с бокалом пива или чего покрепче.</VME_Alcohol_Desired.stages.2.description>
-  
   <!-- EN: wanting a drink -->
   <VME_Alcohol_Desired.stages.3.label>стремление выпить</VME_Alcohol_Desired.stages.3.label>
   <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
   <VME_Alcohol_Desired.stages.3.description>Тяжёлая работа — это хорошо, но я бы очень {PAWN_gender ? хотел : хотела} расслабиться с бокалом пива или чего покрепче.</VME_Alcohol_Desired.stages.3.description>
-  
   <!-- EN: wanting a drink -->
   <VME_Alcohol_Desired.stages.4.label>стремление выпить</VME_Alcohol_Desired.stages.4.label>
   <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
@@ -56,7 +48,6 @@
   <VME_Alcohol_MildAbstinence.stages.0.label>употребление алкоголя</VME_Alcohol_MildAbstinence.stages.0.label>
   <!-- EN: I drank a bit of alcohol. Not a big deal, but I feel a bit woozy. -->
   <VME_Alcohol_MildAbstinence.stages.0.description>Я {PAWN_gender ? выпил : выпила} спиртного. Совсем немного, но голова уже немного кружится.</VME_Alcohol_MildAbstinence.stages.0.description>
-
   <!-- EN: abstained from alcohol -->
   <VME_Alcohol_MildAbstinence.stages.1.label>воздержание от алкоголя</VME_Alcohol_MildAbstinence.stages.1.label>
   <!-- EN: I haven't consumed alcohol lately. -->
