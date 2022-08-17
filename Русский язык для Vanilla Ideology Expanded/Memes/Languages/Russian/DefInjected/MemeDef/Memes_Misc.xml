@@ -191,38 +191,38 @@
     <li>alienistProphecy(tag=meme_Astrology)->The stars will reveal us the reality of these wondrous creatures.</li>
   -->
   <VME_Astrology.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Astrology)        ->[deity0_name] showed us that the path to true wisdom lies in understanding the stars.</li>
-    <li>episode(uses=1,tag=meme_Astrology)  ->[deity0_name] said to all the [memberNamePlural], "For in the Firmament you shall see a reflection of my Will."</li>
+    <li>creation(tag=meme_Astrology)->[deity0_name] он показал нам, что путь к истинной мудрости лежит через понимание звёзд .</li>
+    <li>episode(uses=1,tag=meme_Astrology)->[deity0_name] сказал нам [memberNamePlural], "For in the Firmament you shall see a reflection of my Will."</li>
 
-    <li>intro(tag=meme_Astrology)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that anyone may peer into the stars.</li>
-    <li>conflict(tag=meme_Astrology)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to obscure the firmament so we couldn't watch the majesty of the stars.</li>
-    <li>founderJoin(tag=meme_Astrology)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] unwavering resolve, and a zodiacal sign was created then and there.</li>
-    <li>victory(tag=meme_Astrology)         ->[founderName] read the astrological fortunes of the [foeSoldiers] and used them to convince them of [deity0_name]'s power.</li>
+    <li>intro(tag=meme_Astrology)->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], чтобы каждый мог взглянуть на звёздное небо.</li>
+    <li>conflict(tag=meme_Astrology)->Трус [foeLeader] стремился отрицать нашу веру [deity0_name], он пытался заслонить небосвод, чтобы мы не смогли наблюдать за звёздами.</li>
+    <li>founderJoin(tag=meme_Astrology)->[deity0_name] благословенный [place_job] под названием [founderName] с [foeLeader_possessive] непоколебимой решимостью, и тогда же был создан зодиакальный знак.</li>
+    <li>victory(tag=meme_Astrology) ->[founderName] прочитал астрологические предсказания[foeSoldiers] и использывал их, чтобы убедить их в силе [deity0_name].</li>
 
-    <li>setup(tag=meme_Astrology)           ->Our founder [founderName] was a great astrologer, capable of divining the fortunes of [founder_possessive] followers as he traveled between the cities.</li>
-    <li>story(uses=1,tag=meme_Astrology)    ->The believers spread knowledge of the wisdom found in the movement of the stars.</li>
+    <li>setup(tag=meme_Astrology)->Наш основатель [founderName] был хороим астрологом, он мог предсказать судьбу последователей [founder_possessive], путешествуя между городами.</li>
+    <li>story(uses=1,tag=meme_Astrology)->Верующие распространяли знания о мудрости, которые смогли распознать в движении звезд.</li>
 
-    <li>lessonIntro(tag=meme_Astrology)         ->In all my years observing the stars, I learned one lesson that stands over all:</li>
-    <li>lesson(tag=meme_Astrology)              ->our zodiacal signs guide us through all of our lives</li>
-    <li>lessonReinforcement(tag=meme_Astrology) ->This is the fact we need to spread, for the fate of oneself is reflected upon the heavens.</li>
+    <li>lessonIntro(tag=meme_Astrology)->За все годы наблюдений за звездами я усвоил один урок, самый дорогой урок:</li>
+    <li>lesson(tag=meme_Astrology)->наши зодиакальные знаки сопровождают нас на протяжении всей жизни.</li>
+    <li>lessonReinforcement(tag=meme_Astrology) ->Это факт, который мы должны распространять, ибо сюдьба наша отражается на небесах.</li>
 
-    <li>archistBasis(tag=meme_Astrology)    ->The archotechs announce their presence from the sky, and in the mind, they showed us that great knowledge is encoded in the movement of celestial bodies.</li>
-    <li>archistFact(tag=meme_Astrology)     ->Archotechs are wise beyond all reason, and they have coded immense knowledge on the stars.</li>
-    <li>archistProphecy(tag=meme_Astrology) ->[inTheEnd], the archotechs will voice their final wisdom to the holder of the [relic0_name]. Only one who is trained on the Art of the Zodiac can absorb their teachings.</li>
+    <li>archistBasis(tag=meme_Astrology)->Архотеки говорят нам о своем присутствии с неба, а мысленно они показали нам, что в движении небесных тел скрываются великие знания.</li>
+    <li>archistFact(tag=meme_Astrology)->Архотеки мудры сверх всякой меры, и они скрыли огромные знания о звездах.</li>
+    <li>archistProphecy(tag=meme_Astrology)->[inTheEnd], Арохотеки расскажут свою последнюю мудрость обладателю [relic0_name]. Только тот, кто обучен искусству Зодиака, может усвоить их учение.</li>
 
-    <li>animistFact(tag=meme_Astrology)     ->The spirits want to be known, and they manifest themselves not only through the creatures of land, but also in the heavens.</li>
+    <li>animistFact(tag=meme_Astrology)     ->Духи хотят чтобы о них знали, и они проявляют себя не только через земных существ, но и через небеса.</li>
 
-    <li>serketistProphecy(tag=meme_Astrology)->[itIsSaid] we will be wise enough to create a new zodiacal sign. Serket. The Holy Scarab.</li>
+    <li>serketistProphecy(tag=meme_Astrology)->[itIsSaid] мы будем достаточно мудры, чтобы создать новый Зодиак. Серкет. Священный скарабей.</li>
 
-    <li>chthonianProphecy(tag=meme_Astrology)->Eldritch knowledge lies upon the Unwavering Hungry Void between Stars, and by studying them we will be eternal, perhaps at the cost of our sanity.</li>
+    <li>chthonianProphecy(tag=meme_Astrology)->Жуткие знания лежат в Непоколебимой голодной пустоте между звездами, и, изучая их, мы обретем вечность, возможно, ценой своего рассудка.</li>
 
-    <li>esotericismProphecy(tag=meme_Astrology)->With such knowledge, we will devise a way to control the zodiac, and thus the fate of everyone.</li>
+    <li>esotericismProphecy(tag=meme_Astrology)->С такими знаниями мы придумаем способ управлять зодиаком, а значит, и судьбой каждого человека.</li>
 
-    <li>eschatologismFact(tag=meme_Astrology)->The stars will only show a singular fate: destruction.</li>
+    <li>eschatologismFact(tag=meme_Astrology)->Звезды покажут только одну судьбу: разрушение.</li>
 
-    <li>introMemo(tag=meme_Astrology)->It has been brought to my atention that some of you are using work breaks to share your astrological charts. Although this is a sanctioned topic by the Company, I would like to remind you that breaks should never exceed the allotted time.</li>
+    <li>introMemo(tag=meme_Astrology)->До моего сведения дошло, что некоторые из вас используют перерывы на работе для того, чтобы поделиться своими астрологическими картами. Хотя эта тема разрешена компанией, я хотел бы напомнить вам, что перерывы никогда не должны превышать отведенного времени.</li>
 
-    <li>alienistProphecy(tag=meme_Astrology)->The stars will reveal us the reality of these wondrous creatures.</li>
+    <li>alienistProphecy(tag=meme_Astrology)->Звезды откроют нам реальность этих чудесных созданий.</li>
   </VME_Astrology.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Astrology -->
@@ -313,37 +313,37 @@
     <li>alienistProphecy(tag=meme_GodEmperor)->All these wondrous animals will be a great trophy for our beloved God Emperor.</li>
   -->
   <VME_GodEmperor.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_GodEmperor)        ->[deity0_name] annointed [deity0_possessive] Chosen One to lead us through this life, our God Emperor.</li>
-    <li>episode(uses=1,tag=meme_GodEmperor)  ->[deity0_name] said to all the [memberNamePlural], "For you shall follow my Chosen One, the God Emperor, and prostrate yourselves in humility, submission and adoration."</li>
+    <li>creation(tag=meme_GodEmperor)        ->[deity0_name] благословил Избранного [deity0_possessive], нашего Бога-Императора, который укажет наш путь в жизни.</li>
+    <li>episode(uses=1,tag=meme_GodEmperor)  ->[deity0_name] сказал всем [memberNamePlural], "Ибо вы должны следовать за моим Избранником, Богом-Императором, и преклоняться перед ним в смирении, покорности и обожании".</li>
 
-    <li>intro(tag=meme_GodEmperor)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a huge monument to their God Emperor.</li>
-    <li>conflict(tag=meme_GodEmperor)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to slay our God Emperor, finding only ruin.</li>
-    <li>founderJoin(tag=meme_GodEmperor)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] divine power, and this sacred place empowers our eternal God Emperor.</li>
+    <li>intro(tag=meme_GodEmperor)           ->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], огромный памятник  нашему богу-императору.</li>
+    <li>conflict(tag=meme_GodEmperor)        ->Трус [foeLeader], стремился отрицать нашу веру [deity0_name], tried to slay our God пытались убить нашего Бога-Императора, но нашли только смерть.</li>
+    <li>founderJoin(tag=meme_GodEmperor)     ->[deity0_name] благословил [place_job] именуемое [founderName] с [foeLeader_possessive] божественную силу, и это священное место наделяет силой нашего вечного Бога-Императора.</li>
 
-    <li>setup(tag=meme_GodEmperor)           ->Our founder [founderName] was the greatest of the disciples of our God Emperor, a true servant.</li>
-    <li>story(uses=1,tag=meme_GodEmperor)    ->The believers will spread the wisdom of unwavering loyalty to the decreeds of our God Emperor.</li>
+    <li>setup(tag=meme_GodEmperor)           ->Наш основатель [founderName] был величайшим из учеников нашего Бога-Императора, истинным слугой.</li>
+    <li>story(uses=1,tag=meme_GodEmperor)    ->Последователи распространяли мудрость непоколебимой верности постановлениям нашего Бога Императора.</li>
 
-    <li>lessonIntro(tag=meme_GodEmperor)         ->In all my years serving our God Emperor, I learned one lesson that stands over all:</li>
-    <li>lesson(tag=meme_GodEmperor)              ->only through absolute subservience to our leader will we achieve our goals</li>
-    <li>lessonReinforcement(tag=meme_GodEmperor) ->It is only through the Divine Will of our God Emperor that we will uncover the secrets of the Cosmos.</li>
+    <li>lessonIntro(tag=meme_GodEmperor)         ->За все годы моего служения нашему Богу-Императору я усвоил один урок, очень важный урок:</li>
+    <li>lesson(tag=meme_GodEmperor)              ->только через абсолютное подчинение нашему лидеру мы достигнем наших целей</li>
+    <li>lessonReinforcement(tag=meme_GodEmperor) ->Только благодаря Божественной воле нашего Бога-Императора мы сможем раскрыть тайны Космоса.</li>
 
-    <li>archistBasis(tag=meme_GodEmperor)    ->The archotechs announce their presence from the sky, and in the mind, our God Emperor is their Chosen One.</li>
-    <li>archistFact(tag=meme_GodEmperor)     ->Archotechs are wise beyond all reason, it stands to logic that their paragon is also the epitome of wisdom.</li>
-    <li>archistProphecy(tag=meme_GodEmperor) ->[inTheEnd], the archotechs will voice their final wisdom to our God Emperor, holder of the [relic0_name].</li>
+    <li>archistBasis(tag=meme_GodEmperor)    ->Архотеки провозглашают присутствие своё в небе и разуме и Бога-Императора - Избранный их.</li>
+    <li>archistFact(tag=meme_GodEmperor)     ->Мудрость архотеков не знает предела. И ничего удивительного в том, что их проявления также являются воплощением мудрости.</li>
+    <li>archistProphecy(tag=meme_GodEmperor) ->[inTheEnd],Архотеки передадут свою последнюю мудрость нашему Богу-Императору, обладателю [relic0_name].</li>
 
-    <li>animistFact(tag=meme_GodEmperor)     ->The spirits want to be known, and they manifest themselves in the body of our God Emperor.</li>
+    <li>animistFact(tag=meme_GodEmperor)     ->Духи хотят чтобы о них знали, и они проявляют себя в теле нашего Бога Императора.</li>
 
-    <li>serketistProphecy(tag=meme_GodEmperor)->[itIsSaid] our God Emperor will bathe in the blood of a thousand insects, annointed by their sacrifice.</li>
+    <li>serketistProphecy(tag=meme_GodEmperor)->[itIsSaid] Наш Бог-Император будет окроплён кровью и ихором тысяч насекомых, благословлённый их общей жертвой.</li>
 
-    <li>chthonianProphecy(tag=meme_GodEmperor)->Our God Emperor is the guardian of madness, the one who keeps our minds safe from the cruel insanity of the Cosmos.</li>
+    <li>chthonianProphecy(tag=meme_GodEmperor)->Наш Бог-Император - хранитель безумия, тот, кто оберегает наш разум от жестокого безумия Космоса.</li>
 
-    <li>esotericismProphecy(tag=meme_GodEmperor)->Our God Emperor is wise beyond reckoning in the occult ways, and will guide us in devising new ways to use this hidden knowledge.</li>
+    <li>esotericismProphecy(tag=meme_GodEmperor)->Мудрость нашего Бога-Императора открывает ему путь к неизведанному и он будет вести нас к этим тайным знаниям.</li>
+  
+    <li>eschatologismFact(tag=meme_GodEmperor)->Наш Бог-Император принесёт Конец Времён. И в служении ему мы прикоснёмся к его великой славе.</li>
 
-    <li>eschatologismFact(tag=meme_GodEmperor)->Our God Emperor will bring forth the End Times. In servitude, we will participate in this divine glory.</li>
+    <li>introMemo(tag=meme_GodEmperor)->Я знаю, что ходили слухи о том, что генеральный директор компании - Бог. Да, Бог-Император, на самом деле. Но это ничего не значит, если каждый из вас не будет работать ПРОДУКТИВНО!</li>
 
-    <li>introMemo(tag=meme_GodEmperor)->Now, I know there have been rummors of the CEO of the Company being a God. Yes, a God Emperor, in fact. But that doesn't mean anything unless each and any of you acts PROACTIVELY. We need to leverage our assets!</li>
-
-    <li>alienistProphecy(tag=meme_GodEmperor)->All these wondrous animals will be a great trophy for our beloved God Emperor.</li>
+    <li>alienistProphecy(tag=meme_GodEmperor)->Все эти экзотические животные станут большим трофеем для нашего любимого Бога Императора.</li>
   </VME_GodEmperor.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: God Emperor -->
@@ -418,37 +418,37 @@
     <li>alienistProphecy(tag=meme_HardcoreIndustrialis)->All these wondrous creatures show us what the ingenuity of humanity can do through hard work and careful experimentation.</li>
   -->
   <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] spurned [deity0_possessive] followers to work, for there is nothing holier than perseverance.</li>
-    <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] said to all the [memberNamePlural], "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</li>
+    <li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] сподвигал последователей [deity0_possessive] к работе, ибо нет ничего святее упорства.</li>
+    <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] сказал всем [memberNamePlural], "Секретов успеха не существует. Это результат подготовки, упорного труда и извлечения уроков из неудач."</li>
 
-    <li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a magnificent centerpiece for the factories that churned out a myriad finished products.</li>
-    <li>conflict(tag=meme_HardcoreIndustrialis)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to sabotage our factory lines, but our resilience was unnending.</li>
-    <li>founderJoin(tag=meme_HardcoreIndustrialis)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] divine power, and he became the greatest industrialist ever known.</li>
+    <li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], великолепный центр для заводов, которые выпускали огромное количество готовой продукции.</li>
+    <li>conflict(tag=meme_HardcoreIndustrialis)        ->Трус [foeLeader], стремился отрицать нашу веру [deity0_name], пытались саботировать наши заводские линии, но наша стойкость была непоколебимой.</li>
+    <li>founderJoin(tag=meme_HardcoreIndustrialis)     ->[deity0_name] благословил [place_job] именуемое [founderName] с [foeLeader_possessive] божественной силой, сделавшая его величайшим мануфактором из когда-либо известных.</li>
 
-    <li>setup(tag=meme_HardcoreIndustrialis)           ->Our founder [founderName] was a genius. An industrialist and philanthropist like the Oil Barons of antiquity.</li>
-    <li>story(uses=1,tag=meme_HardcoreIndustrialis)    ->There were endless factories built by [founder_possessive] hand. A single motto hang in a sign over their entrance: "With hard work and effort, you can achieve anything."</li>
+    <li>setup(tag=meme_HardcoreIndustrialis)           ->Наш глава [founderName] был гением. Промышленником и филантропом, которому были подобны нефтяные бароны древности.</li>
+    <li>story(uses=1,tag=meme_HardcoreIndustrialis)    -Там были бесконечные фабрики, построенные руками [founder_possessive]. Над каждым входом висела вывеска с единственным девизом: "Упорным трудом и старанием можно добиться чего угодно."</li>
 
-    <li>lessonIntro(tag=meme_HardcoreIndustrialis)         ->A single vital lesson was ingrained in all of us:</li>
-    <li>lesson(tag=meme_HardcoreIndustrialis)              ->the moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity</li>
-    <li>lessonReinforcement(tag=meme_HardcoreIndustrialis) ->And that is why hard work always pays off, whatever you do.</li>
+    <li>lessonIntro(tag=meme_HardcoreIndustrialis)         ->Все мы усвоили один жизненно важный урок:</li>
+    <li>lesson(tag=meme_HardcoreIndustrialis)              ->как только мы поверим, что успех определяется укоренившимся уровнем способностей, а не стойкостью и трудолюбием, мы станем хрупкими перед лицом трудностей</li>
+    <li>lessonReinforcement(tag=meme_HardcoreIndustrialis) ->И именно поэтому упорный труд всегда окупается, чем бы вы ни занимались.</li>
 
-    <li>archistBasis(tag=meme_HardcoreIndustrialis)    ->The archotechs are the pinnacle of technology, and only through hard work we may even beging to approach their prowess.</li>
-    <li>archistFact(tag=meme_HardcoreIndustrialis)     ->From our factories will pour a hundred thousand tons of plasteel and exochrome. The victory of industry over nature.</li>
-    <li>archistProphecy(tag=meme_HardcoreIndustrialis) ->[inTheEnd], we may be able to replicate the advanced technological secrets of the [relic0_name].</li>
+    <li>archistBasis(tag=meme_HardcoreIndustrialis)    ->Архотеки - вершина технологии, и только благодаря упорной работе мы можем приблизиться к их совершенству.</li>
+    <li>archistFact(tag=meme_HardcoreIndustrialis)     ->С наших заводов польется сто тысяч тонн пластали. Победа промышленности над природой.</li>
+    <li>archistProphecy(tag=meme_HardcoreIndustrialis) ->[inTheEnd], мы в достаточно умны чтобы раскрыть секреты передовых технологий [relic0_name].</li>
 
-    <li>animistFact(tag=meme_HardcoreIndustrialis)     ->If there are spirits of nature, it stands to reason that there must also be spirits of machinery.</li>
+    <li>animistFact(tag=meme_HardcoreIndustrialis)     ->Если существуют духи природы, то логично предположить, что должны существовать и духи машин..</li>
 
-    <li>serketistProphecy(tag=meme_HardcoreIndustrialis)->[itIsSaid] we will acquire the resilience and productivity of our beloved insects.</li>
+    <li>serketistProphecy(tag=meme_HardcoreIndustrialis)->[itIsSaid] Мы станем такими же устойчивыми и продуктивными как наши любимые насекомые.</li>
 
-    <li>chthonianProphecy(tag=meme_HardcoreIndustrialis)->Only through hard work we can be saved from these eldritch demons. Our perseverance will be their downfall.</li>
+    <li>chthonianProphecy(tag=meme_HardcoreIndustrialis)->Только упорным трудом мы можем спастись от этих жутких демонов. Наше упорство станет их гибелью.</li>
 
-    <li>esotericismProphecy(tag=meme_HardcoreIndustrialis)->Our machinery will be infused with occult magics, a powerful engine of creation that will usher in a new world of plenty.</li>
+    <li>esotericismProphecy(tag=meme_HardcoreIndustrialis)->Наши машины будут пронизаны оккультной магией, это будет мощный двигатель созидания, который откроет новый мир изобилия.</li>
 
-    <li>eschatologismFact(tag=meme_HardcoreIndustrialis)->Our factories will bloat the sky and suffocate all life. Their skin will dissolve from their bones, and be consumed in the fires of industry.</li>
+    <li>eschatologismFact(tag=meme_HardcoreIndustrialis)->Наши фабрики заполонят небо и задушат все живое. Их кожа отделится от костей и сгорит в огне промышленности..</li>
 
-    <li>introMemo(tag=meme_HardcoreIndustrialis)->It has come to my attention that our production quotas have fallen 4.56% compared to last quarter. This is unnaceptable, and I trust that you will labour harder than ever to increase our throughput to desireable levels.</li>
+    <li>introMemo(tag=meme_HardcoreIndustrialis)->До моего сведения дошло, что наши производственные квоты снизились на 4,56% по сравнению с прошлым кварталом. Это недопустимо, и я верю, что вы будете работать усерднее, чем когда-либо, чтобы увеличить нашу пропускную способность до желаемого уровня.</li>
 
-    <li>alienistProphecy(tag=meme_HardcoreIndustrialis)->All these wondrous creatures show us what the ingenuity of humanity can do through hard work and careful experimentation.</li>
+    <li>alienistProphecy(tag=meme_HardcoreIndustrialis)->Все эти удивительные существа показывают нам, чего может добиться изобретательность человечества благодаря упорному труду и тщательным экспериментам.</li>
   </VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Industrialism -->
@@ -528,38 +528,38 @@
     <li>alienistProphecy(tag=meme_Gestalt)->If we have to judge whether all these genetically modified creations are good or bad, we will need to do it together.</li>
   -->
   <VME_Gestalt.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Gestalt)        ->[deity0_name] made all men and women into a single consciousness, and only through our foolisness have we drifted apart.</li>
-    <li>episode(uses=1,tag=meme_Gestalt)  ->[deity0_name] said to all, "The only frontier that has ever existed is the self. [deity0_name] has spoken."</li>
+    <li>creation(tag=meme_Gestalt)        ->[deity0_name] превратил всех мужчин и женщин в единое сознание, и только по нашей глупости мы разделились.</li>
+    <li>episode(uses=1,tag=meme_Gestalt)  ->[deity0_name] сказал всем: "Единственная граница, которая когда-либо существовала - это индивидуальность.Сказало [deity0_name]".</li>
 
-    <li>intro(tag=meme_Gestalt)           ->The people of the [place_summary] [place_name] worked together in unison, and built a great [altarName] to honor [deity0_name]. They learned that all consciousness is one, separated only by a thin veil of the physical.</li>
-    <li>conflict(tag=meme_Gestalt)        ->The [foeLeader] could not abide the unity of [memberNamePlural], and sent [foeLeader_possessive] [foeSoldiers] to the [place_community] to destroy their gestalt conciousness.</li>
-    <li>founderJoin(tag=meme_Gestalt)     ->A [place_job] named [founderName] threw [founder_objective]self into a fire to protest the [foeLeader]. [founderName] perished in the flames, but it didn't matter, for he was but a cog in the eternal machinery that is [memberNamePlural].</li>
-    <li>victory(tag=meme_Gestalt)         ->[founderName]'s actions united the people. Acting as a single organism they stormed the home of the [foeLeader]. The [foeSoldiers] could do nothing against such a superior hive mind, and the [foeLeader] was mercilessly slaughtered.</li>
+    <li>intro(tag=meme_Gestalt)           ->Люди [place_summary] [place_name00] работали вместе в унисон, и постороили великолепный [altarName] чтобы отдат честь [deity0_name]. Они узнали, что все сознание едино, разделено лишь тонкой завесой физического мира.</li>
+    <li>conflict(tag=meme_Gestalt)        ->[foeLeader] не смирился с единством [memberNamePlural], и послал [foeLeader_possessive] [foeSoldiers] к [place_community] чтобы уничтожить наше коллективное сознание.</li>
+    <li>founderJoin(tag=meme_Gestalt)     ->[place_job] по имени [founderName] пригнул [founder_objective] в огонь, чтобы выралить протест [foeLeader]. [founderName] сгорел заживо в пламени, но это не имело значения, ибо он был лишь винтиком в вечном механизме, которым является [memberNamePlural].</li>
+    <li>victory(tag=meme_Gestalt)         ->Действия [founderName] объединили людей. Действуя как единый организм, они ворвались в дом [foeLeader]. [foeSoldiers]  ничего не смогли сделать против идеального механизма, и [foeLeader] был безжалосто убит.</li>
 
-    <li>setup(tag=meme_Gestalt)           ->In a world of every man for himself, [founderName] spoke a single truth: "For you aren't individuals, you are part of a larger organism."</li>
+    <li>setup(tag=meme_Gestalt)           ->В мире, где каждый сам за себя, [founderName] говорил одну истину: "Вы не отдельные люди, вы - часть большого организма."</li>
     <li>story(uses=1,tag=meme_Gestalt)    ->[founderName] taught us to extend our awareness outward, beyond the self of body, to embrace the self of group and the self of humanity. The goals of the group and the greater race are transcendent, and to embrace them is to achieve enlightenment.</li>
 
-    <li>lessonIntro(tag=meme_Gestalt)     ->They were amazed at our uniformness of thought. I explained to them that there is nothing more important than</li>
-    <li>lesson(tag=meme_Gestalt)              ->a harmony of purpose and thought; no indecision, no doubts; the security and strength of a unified will</li>
-    <li>lessonReinforcement(tag=meme_Gestalt) ->We are Many, and you... are one. How can you hope to prevail against us?</li>
+    <li>lessonIntro(tag=meme_Gestalt)     ->Они были поражены единством наших мыслей. Я объяснил им, что нет ничего более важного, чем</li>
+    <li>lesson(tag=meme_Gestalt)              ->гармония цели и мысли; никакой нерешительности, никаких сомнений; безопасность и сила единой воли</li>
+    <li>lessonReinforcement(tag=meme_Gestalt) ->Нас много, а ты... один. Как вы можете надеяться победить нас?</li>
 
-    <li>archistBasis(tag=meme_Gestalt)    ->Every thought and action, every spark of intelligence in the Archotechs is bound and interlinked into a single mind, into a single great entity which stretches over light years of space.</li>
-    <li>archistFact(tag=meme_Gestalt)     ->A multiply-embodied consciousness. All of them but one node of a distributed network.</li>
-    <li>archistProphecy(tag=meme_Gestalt) ->[inTheEnd], we may never approach the perfection achieved by them, shackled as we are by our flesh bodies, but we will certainly try.</li>
+    <li>archistBasis(tag=meme_Gestalt)    ->Каждая мысль и действие, каждая искра интеллекта в Архотеках связана и взаимосвязана в единый разум, в единую великую сущность, простирающуюся на световые годы пространства.</li>
+    <li>archistFact(tag=meme_Gestalt)     ->Многократно воплощенное сознание. Все они - лишь один узел распределенной сети.</li>
+    <li>archistProphecy(tag=meme_Gestalt) ->[inTheEnd], возможно, мы никогда не приблизимся к совершенству, достигнутому ими, будучи скованными нашими телами из плоти, но мы, конечно, будем стараться.</li>
 
-    <li>animistFact(tag=meme_Gestalt)     ->Humanity itself is represented by a single, overencompasing spirit, and only by liberating ourselves of our individuality will we be able to embrace it.</li>
+    <li>animistFact(tag=meme_Gestalt)     ->Само человечество представлено единым, всепоглощающим духом, и только освободившись от своей индивидуальности, мы сможем охватить его.</li>
 
-    <li>serketistProphecy(tag=meme_Gestalt)->[itIsSaid] we can study the insectoid hive minds and emulate their perfection. A true synchronicity, a harmony of purpose and thought; no indecision, no doubts; the security and strength of a unified will.</li>
+    <li>serketistProphecy(tag=meme_Gestalt)->[itIsSaid] мы можем изучать инсектоидные ульи и подражать их совершенству. Истинная синхронность, гармония цели и мысли; никакой нерешительности, никаких сомнений; безопасность и сила единой воли.</li>
 
-    <li>chthonianProphecy(tag=meme_Gestalt)->Only by unifying our minds in a harmony of purpose and thought; no indecision, no doubts; will we stand a chance against the madness that haunts us from outer space.</li>
+    <li>chthonianProphecy(tag=meme_Gestalt)->Только объединив наши умы в гармонию цели и мысли, без нерешительности, без сомнений, у нас будет шанс противостоять безумию, которое преследует нас из космоса..</li>
 
-    <li>esotericismProphecy(tag=meme_Gestalt)->We will unify our minds in a harmony of purpose and thought; no indecision, no doubts. The secret knowlegde will be ours.</li>
+    <li>esotericismProphecy(tag=meme_Gestalt)->Мы объединим наши умы в гармонию цели и мысли; никакой нерешительности, никаких сомнений. Тайное знание будет нашим.</li>
 
-    <li>eschatologismFact(tag=meme_Gestalt)->We will unify our minds in a harmony of purpose and thought; no indecision, no doubts. A single purpose, a single will: to destroy.</li>
+    <li>eschatologismFact(tag=meme_Gestalt)->Мы объединим наши умы в гармонию цели и мысли; никакой нерешительности, никаких сомнений. Единая цель, единая воля: уничтожать.</li>
 
-    <li>introMemo(tag=meme_Gestalt)->There have been some unsavoury rumours about an "employee appreciation" award. Let me remind you that in this Company we all act as One. We strive for a harmony of purpose and thought; no indecision, no doubts; the security and strength of a unified will. This is what our clients want, this is what out clients DESERVE.</li>
+    <li>introMemo(tag=meme_Gestalt)->Ходят нелицеприятные слухи о премии "за признательность сотрудникам". Позвольте мне напомнить вам, что в этой компании мы все действуем как единое целое. Мы стремимся к гармонии целей и мыслей; никакой нерешительности, никаких сомнений; безопасность и сила единой воли. Это то, чего хотят наши клиенты, это то, чего наши клиенты ЖЕЛАЮТ.</li>
 
-    <li>alienistProphecy(tag=meme_Gestalt)->If we have to judge whether all these genetically modified creations are good or bad, we will need to do it together.</li>
+    <li>alienistProphecy(tag=meme_Gestalt)->Если нам придется судить о том, хороши или плохи все эти генетически модифицированные творения, нам придется делать это вместе.</li>
   </VME_Gestalt.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: gestalt -->
@@ -654,8 +654,8 @@
     <li>alienistProphecy(tag=meme_Fleshcrafting)->All these wayward creations of humanity provide us with an infinite bounty of flesh for our experiments.</li>
   -->
   <VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Fleshcrafting)        ->[deity0_name] granted us the knowledge of fleshcrafting, that we may use it to improve and remake ourselves in [deity0_possessive] perfect image.</li>
-    <li>episode(uses=1,tag=meme_Fleshcrafting)  ->Human bio-shapers studied the works of [deity0_name], which pleased [deity0_objective].</li>
+    <li>creation(tag=meme_Fleshcrafting)        ->[deity0_name] даровал нам знание о создании плоти, чтобы мы могли использовать его для улучшения себя в образ совершенствия [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Fleshcrafting)  ->Человеческие био-формирователи изучали работы [deity0_name], которые радовали [deity0_objective].</li>
 
     <li>intro(tag=meme_Fleshcrafting)           ->On the [place_summary] [place_name], the [memberNamePlural] found the words of [deity0_name], carved into the quivering, mutated flesh of some gigantic space creature.</li>
     <li>conflict(tag=meme_Fleshcrafting)        ->A technologist [foeLeader] envied the enhanced progress of the [memberNamePlural], and [foeLeader_possessive] [foeSoldiers] destroyed their flesh vats with [place_personalWeapon]s.</li>
