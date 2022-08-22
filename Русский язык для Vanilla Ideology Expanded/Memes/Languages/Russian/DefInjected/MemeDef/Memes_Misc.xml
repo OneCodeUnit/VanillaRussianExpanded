@@ -537,7 +537,7 @@
     <li>victory(tag=meme_Gestalt)         ->Действия [founderName] объединили людей. Действуя как единый организм, они ворвались в дом [foeLeader]. [foeSoldiers]  ничего не смогли сделать против идеального механизма, и [foeLeader] был безжалосто убит.</li>
 
     <li>setup(tag=meme_Gestalt)           ->В мире, где каждый сам за себя, [founderName] говорил одну истину: "Вы не отдельные люди, вы - часть большого организма."</li>
-    <li>story(uses=1,tag=meme_Gestalt)    ->[founderName] taught us to extend our awareness outward, beyond the self of body, to embrace the self of group and the self of humanity. The goals of the group and the greater race are transcendent, and to embrace them is to achieve enlightenment.</li>
+    <li>story(uses=1,tag=meme_Gestalt)    ->[founderName] Научили нас простирать своё сознание наружу, за пределы телесной оболочки, осознавать существование "Я" как группы и "Я" как всего человечества. Цели, которые ставит перед собой группа и вся раса целиком - находятся за пределами обычного понимания и достичь их - значит достичь просветления.</li>
 
     <li>lessonIntro(tag=meme_Gestalt)     ->Они были поражены единством наших мыслей. Я объяснил им, что нет ничего более важного, чем</li>
     <li>lesson(tag=meme_Gestalt)              ->гармония цели и мысли; никакой нерешительности, никаких сомнений; безопасность и сила единой воли</li>
@@ -657,38 +657,38 @@
     <li>creation(tag=meme_Fleshcrafting)        ->[deity0_name] даровал нам знание о создании плоти, чтобы мы могли использовать его для улучшения себя в образ совершенствия [deity0_possessive].</li>
     <li>episode(uses=1,tag=meme_Fleshcrafting)  ->Человеческие био-формирователи изучали работы [deity0_name], которые радовали [deity0_objective].</li>
 
-    <li>intro(tag=meme_Fleshcrafting)           ->On the [place_summary] [place_name], the [memberNamePlural] found the words of [deity0_name], carved into the quivering, mutated flesh of some gigantic space creature.</li>
-    <li>conflict(tag=meme_Fleshcrafting)        ->A technologist [foeLeader] envied the enhanced progress of the [memberNamePlural], and [foeLeader_possessive] [foeSoldiers] destroyed their flesh vats with [place_personalWeapon]s.</li>
-    <li>founderJoin(tag=meme_Fleshcrafting)     ->A cunning [place_job] named [founderName] mutated [founder_possessive] vocal chords to warn the [memberNamePlural] of the approach of the [foeSoldiers].</li>
-    <li>victory(tag=meme_Fleshcrafting)         ->[founderName] received divine fleshcrafting knowledge from [deity0_name], and used it to enhance the bodies and minds of the [memberNamePlural] so they could defeat the [foeSoldiers].</li>
+    <li>intro(tag=meme_Fleshcrafting)           ->На [place_summary] [place_name] [memberNamePlural] нашел слова о [deity0_name],вырезаные на мутировавшей плоти неизведанного гигансткого космического существа.</li>
+    <li>conflict(tag=meme_Fleshcrafting)        ->Технологическое отребье [foeLeader] завидовал прогрессу [memberNamePlural], и [foeLeader_possessive] [foeSoldiers] и уничтожил чаны с плотью [place_personalWeapon].</li>
+    <li>founderJoin(tag=meme_Fleshcrafting)     ->Хитрый [place_job] по имени [founderName] модифицировал путём мутации [founder_possessive] голосовые связки, чтобы предупредить [memberNamePlural] of the approach of the [foeSoldiers].</li>
+    <li>victory(tag=meme_Fleshcrafting)         ->[founderName] received divine fleshcrafting knowledge from [deity0_name], and used it to enhance the bodies and minds of the [memberNamePlural] о приближении [foeSoldiers].</li>
 
-    <li>setup(tag=meme_Fleshcrafting)           ->[founderName] was a bio-scientist in the early days of human planetary colonization. Seeing the absurd ethical restrictions of the common colonies, [founder_pronoun] took a small ship to found [founder_possessive] own movement.</li>
-    <li>story(uses=1,tag=meme_Fleshcrafting)    ->[founderName] assembled a team of great fleshcrafters and geneticists to re-define humanity.</li>
+    <li>setup(tag=meme_Fleshcrafting)           ->[founderName] Был био-ученым во время, когда люди начинали колонизировать планеты. Видя абсурдные для него этические ограничения обычных колоний, [founder_pronoun]  сел на небольшой корабль, чтобы основать [founder_possessive] собственное движение.</li>
+    <li>story(uses=1,tag=meme_Fleshcrafting)    ->[founderName] собрал команду великих мастеров плоти и генетиков, чтобы заново создать человечество.</li>
 
-    <li>lessonIntro(tag=meme_Fleshcrafting)         ->The oldest shaper in my division taught me the history of fleshcrafting, how genetic experimentation on humans has always been seen with fear, but this was not his true lesson. He was really leading me to understand that</li>
-    <li>lesson(tag=meme_Fleshcrafting)              ->humanity's flesh is nothing but a canvas. An empty, white canvas waiting to be filled</li>
-    <li>lessonReinforcement(tag=meme_Fleshcrafting) ->And any limitations imposed on the artist only serve to spoil the final result of his art.</li>
+    <li>lessonIntro(tag=meme_Fleshcrafting)         ->Самый старый закройщик в моем подразделении рассказывал мне об истории создания плоти, о том, как генетические эксперименты над людьми всегда воспринимались с опаской, но не это было его истинным уроком. На самом деле он подводил меня к пониманию того, что</li>
+    <li>lesson(tag=meme_Fleshcrafting)              ->плоть человечества - это всего лишь холст. Пустой, белый холст, ждущий, когда его заполнят</li>
+    <li>lessonReinforcement(tag=meme_Fleshcrafting) ->И любые ограничения, налагаемые на художника, только портят конечный результат его творчества.</li>
 
-    <li>archistBasis(tag=meme_Fleshcrafting)    ->Humanity's pursuit of technology gave birth to the all-powerful archotechs as the rightful next step in the development of consciousness.</li>
-    <li>archistFact(tag=meme_Fleshcrafting)     ->Fleshcrafting teaches us that technology by itself is inhumane, if not accompanied by the guiding hand of biological evolution.</li>
-    <li>archistProphecy(tag=meme_Fleshcrafting) ->[inTheEnd], we shall modify our own bodies and intertwine them with the archotechs.</li>
+    <li>archistBasis(tag=meme_Fleshcrafting)    ->Стремление человечества к технологиям породило всемогущих архотеков как следующий шаг в развитии сознания.</li>
+    <li>archistFact(tag=meme_Fleshcrafting)     ->Создание плоти учит нас, что технология сама по себе бесчеловечна, если ее не сопровождает направляющая рука биологической эволюции.</li>
+    <li>archistProphecy(tag=meme_Fleshcrafting) ->[inTheEnd],  мы изменим наши собственные тела и соединим их с архотеками.</li>
 
-    <li>animistBasis(tag=meme_Fleshcrafting)    ->The spirit world drives every action in the universe, and mortal flesh is just another manifestation of it.</li>
-    <li>animistFact(tag=meme_Fleshcrafting)     ->We will modify our own bodies until they are a valid vessel for the spirits.</li>
-    <li>animistFact(tag=meme_Fleshcrafting)     ->When the spirits become fused with our flesh, both will be combined and become more powerful.</li>
-    <li>animistProphecy(tag=meme_Fleshcrafting) ->[itIsSaid] that one day the wielder of the [relic0_name] will summon its spirit who will teach humanity the ultimate gift of fleshcrafting.</li>
+    <li>animistBasis(tag=meme_Fleshcrafting)    ->Мир духа управляет всеми действиями во Вселенной, и смертная плоть - лишь еще одно его проявление.</li>
+    <li>animistFact(tag=meme_Fleshcrafting)     ->Мы будем совершенствовать свои тела до тех пор, пока они не станут подходящим сосудом для духов..</li>
+    <li>animistFact(tag=meme_Fleshcrafting)     ->Когда духи сливаются с нашей плотью, оба объединяются и становятся более сильными.</li>
+    <li>animistProphecy(tag=meme_Fleshcrafting) ->[itIsSaid] что однажды обладатель [relic0_name]вызовет ее дух, который научит человечество высшему дару, создание плоти.</li>
 
-    <li>serketistProphecy(tag=meme_Fleshcrafting)->[itIsSaid] with the proper technology we will shape our bodies to be like those of insects. Tough and immutable, our new chittering forms will be as close to perfection as possible.</li>
+    <li>serketistProphecy(tag=meme_Fleshcrafting)->[itIsSaid] С помощью соответствующей технологии мы сможем сформировать наши тела, как у насекомых. Жесткие и неизменные, наши новые стрекочущие формы будут настолько близки к совершенству, насколько это возможно.</li>
 
-    <li>chthonianProphecy(tag=meme_Fleshcrafting)->Our human bodies will not be able to withstand the madness and cosmic insanity brought by these entities: we must shape our forms beyond the imaginable so they are capable of resisting their onslaught.</li>
+    <li>chthonianProphecy(tag=meme_Fleshcrafting)->Наши человеческие тела не смогут противостоять космическому безумию, принесенному этими сущностями: мы должны придать нашим телам форму, которая будет способна противостоять их натиску.</li>
 
-    <li>esotericismProphecy(tag=meme_Fleshcrafting)->In shaping our bodies we will gain an invaluable insight into the secrets of the Cosmos.</li>
+    <li>esotericismProphecy(tag=meme_Fleshcrafting)->Формируя свое тело, мы получим бесценное представление о тайнах Космоса.</li>
 
-    <li>eschatologismFact(tag=meme_Fleshcrafting)->We will shape our bodies, contorting them into nightmarish shapes that will bring with them the end of all things.</li>
+    <li>eschatologismFact(tag=meme_Fleshcrafting)->Мы будем формировать наши тела, придавая им кошмарные формы, которые принесут с собой конец всего сущего.</li>
 
-    <li>introMemo(tag=meme_Fleshcrafting)->The company's policy about self-mutilation and fleshcrafting is crystal clear: if it helps the bottom line, go ahead. Just please clean the meeting room afterwards.</li>
+    <li>introMemo(tag=meme_Fleshcrafting)->Политика компании в отношении членовредительства и плотских утех предельно ясна: если это помогает прибыли, то вперед. Только, пожалуйста, после этого уберите комнату для совещаний.</li>
 
-    <li>alienistProphecy(tag=meme_Fleshcrafting)->All these wayward creations of humanity provide us with an infinite bounty of flesh for our experiments.</li>
+    <li>alienistProphecy(tag=meme_Fleshcrafting)->Все эти заблудшие творения человечества дают нам бесконечное изобилие плоти для наших экспериментов.</li>
   </VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Biotechnologism -->
@@ -792,40 +792,41 @@
     <li>alienistProphecy(tag=meme_HolyDiseases)->All these wayward creations of humanity provide us with an infinite reservoir of holy diseases, a cornucopia of plagues.</li>
   -->
   <VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_HolyDiseases)        ->[deity0_name] filled the Universe with all kinds of viruses and bacteria, diminutive organisms that are the bearers of [deity0_possessive] gifts.</li>
-    <li>episode(uses=1,tag=meme_HolyDiseases)  ->We accepted [deity0_name]'s bounty, offering our bodies as vessels for [deity0_possessive] myriad diseases, which pleased [deity0_objective].</li>
+    <li>creation(tag=meme_HolyDiseases)        ->[deity0_name] наполнили Вселенную всевозможными вирусами и бактериями, миниатюрными организмами, которые являются носителями даров [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_HolyDiseases)  ->Мы принимали щедрость [deity0_name], предлагая свои тела в качестве сосудов для [deity0_possessive] миллиардов болезней, что радовало [deity0_objective].</li>
 
-    <li>intro(tag=meme_HolyDiseases)           ->On the [place_summary] [place_name], the [memberNamePlural] found a sealed tomb with a huge holy symbol of [deity0_name].</li>
-    <li>conflict(tag=meme_HolyDiseases)        ->An archeologist directed the [memberNamePlural] to open the ancient tomb, and within it were found the microbiological archives of a long lost civilization: a panoply of contagious diseases as the world hadn't seen in millenia.</li>
-    <li>founderJoin(tag=meme_HolyDiseases)     ->A most revered priest named [founderName] infected himself with one of the diseases from the archive, showing the [memberNamePlural] that they were actually a gift from [deity0_name].</li>
-    <li>victory(tag=meme_HolyDiseases)         ->[founderName] received [deity0_name]'s blessing, and to this day we offer our bodies as vessels for [deity0_possessive] myriad diseases.</li>
+    <li>intro(tag=meme_HolyDiseases)           ->На [place_summary] [place_name], [memberNamePlural] нашли запечатанную гробницу с огромным священным символом, изображающим [deity0_name].</li>
+    <li>conflict(tag=meme_HolyDiseases)        ->Археолог поручил [memberNamePlural] и открыть древнюю гробницу, внутри которой мы нашли архивы, содержащие информацию о микробиологических исследованиях давно забытой цивилизации: целый ряд крайне опасных заболеваний, с которыми мир не сталкивался на протяжении столетий.</li>
 
-    <li>setup(tag=meme_HolyDiseases)           ->[founderName] was a bio-scientist in the early days of human planetary colonization. Seeing the soft, complacent behavior of the colonies, [founder_pronoun] took a small ship to found [founder_possessive] own movement.</li>
-    <li>story(uses=1,tag=meme_HolyDiseases)    ->[founderName] assembled a team of great geneticists to modify the human body, making it more resistant to diseases by gradually inflicting healthy bodies with them.</li>
+    <li>founderJoin(tag=meme_HolyDiseases)     ->Самый почитаемый священник по имени [founderName] заразил себя одной из болезней из архива, показав, что [memberNamePlural] что на самом деле они были подарком от [deity0_name].</li>
+    <li>victory(tag=meme_HolyDiseases)         ->[founderName] получил от [deity0_name] благословил, и по сей день мы предлагаем наши тела как сосуды для [deity0_possessive] множество заболеваний.</li>
 
-    <li>lessonIntro(tag=meme_HolyDiseases)         ->The oldest doctor in my hospital taught me the history of disease, how humanity had always feared sickness and death. He was really leading me to understand that</li>
-    <li>lesson(tag=meme_HolyDiseases)              ->microorganisms are also part of nature, and by not embracing disease we are only making ourselves weaker to it</li>
-    <li>lessonReinforcement(tag=meme_HolyDiseases) ->Only by accepting disease as an integral part of life may we truly realize our potential.</li>
+    <li>setup(tag=meme_HolyDiseases)           ->[founderName] Был био-ученым во время, когда люди начинали колонизировать планеты. Видя деликатное и дружелюбное поведение других колоний [founder_pronoun] взял небольшой корабль, чтобы основать [founder_possessive] собственное движение.</li>
+    <li>story(uses=1,tag=meme_HolyDiseases)    ->[founderName] Собрал команду специалистов в области генетических исследований, чтобы раскрыть потенциал человеческого организма, подвергая тела испытуемых различным болезням, добиваясь стойкого иммунитета к ним.</li>
 
-    <li>archistBasis(tag=meme_HolyDiseases)    ->As we are like insignificant microbes to the archotechs, we need to ask ourselves: do we want to be handled as microbes usually are?</li>
-    <li>archistFact(tag=meme_HolyDiseases)     ->If the archotechs treated us as we treat the creatures that seem insignificant to us, they'd have wiped us from existance a long time ago.</li>
-    <li>archistProphecy(tag=meme_HolyDiseases) ->Therefore, it stands to reason to treat diseases as we'd like to be treated by entities who are so far above us in the evolutionary scale as we are to microorganisms.</li>
+    <li>lessonIntro(tag=meme_HolyDiseases)         ->Самый старый врач в моей больнице рассказывал мне об истории болезней, о том, как человечество всегда боялось болезней и смерти. Он действительно подводил меня к пониманию того, что</li>
+    <li>lesson(tag=meme_HolyDiseases)              ->микроорганизмы также являются частью природы, и, не принимая болезни, мы только делаем себя слабее для них</li>
+    <li>lessonReinforcement(tag=meme_HolyDiseases) ->Только принимая болезнь как неотъемлемую часть жизни, мы можем по-настоящему реализовать свой потенциал.</li>
 
-    <li>animistBasis(tag=meme_HolyDiseases)    ->In the world of spirits, everything has a corresponding entity that guards it and protects it.</li>
-    <li>animistFact(tag=meme_HolyDiseases)     ->It stands to reason that even the most insignificant and smallest of beings have a corresponding spirit, too.</li>
-    <li>animistProphecy(tag=meme_HolyDiseases) ->By offering our mortal bodies as vessels for the spirits of disease, we will ensure to always be on their good graces.</li>
+    <li>archistBasis(tag=meme_HolyDiseases)    ->Поскольку для архотеков мы подобны незначительным микробам, мы должны спросить себя: хотим ли мы, чтобы с нами обращались так, как обычно обращаются с микробами?</li>
+    <li>archistFact(tag=meme_HolyDiseases)     ->Если бы архотеки относились к нам так, как мы относимся к существам, которые кажутся нам незначительными, они бы давно стерли нас с лица земли.</li>
+    <li>archistProphecy(tag=meme_HolyDiseases) ->Поэтому вполне разумно относиться к болезням так, как мы хотели бы, чтобы относились к существам, которые настолько выше нас в эволюционной шкале, насколько мы выше микроорганизмов.</li>
 
-    <li>serketistProphecy(tag=meme_HolyDiseases)->[itIsSaid] the greatest plagues will descend upon us brought by fearsome insects, and we will embrace them with glee, for their touch will be holy and reign supreme.</li>
+    <li>animistBasis(tag=meme_HolyDiseases)    ->В мире духов у всего есть свой защитник, духовный страж, охраняющий и оберегающий живое и неживое.</li>
+    <li>animistFact(tag=meme_HolyDiseases)     ->Логично предположить, что даже самые незначительные и мелкие существа имеют соответствующий дух.</li>
+    <li>animistProphecy(tag=meme_HolyDiseases) ->Предлагая свои бренные тела в качестве сосудов для духов болезней, мы обеспечим себе возможность всегда быть на их благосклонности.</li>
 
-    <li>chthonianProphecy(tag=meme_HolyDiseases)->Only by subjecting our mortal bodies to the most dangerous of diseases will we strengthen our minds to resist the onslaught of these absolutely insane extra-normal entities.</li>
+    <li>serketistProphecy(tag=meme_HolyDiseases)->[itIsSaid] Великие хвори падут на нас, принесённые на крыльях ужасающих насекомых, но мы примем их с радостью, ведь их прикосновение есть свято и несёт в себе величие.</li>
 
-    <li>esotericismProphecy(tag=meme_HolyDiseases)->We believe that through the suffering brought on by flesh corrupting diseases we will focus our minds into deciphering the greatest of secrets.</li>
+    <li>chthonianProphecy(tag=meme_HolyDiseases)->Лишь подвергая наши смертные тела самым опасным из болезней, мы укрепим свои умы, чтобы они выстояли под натиском безумных и неназываемых ужасов, живущих за гранью нормального.</li>
 
-    <li>eschatologismFact(tag=meme_HolyDiseases)->There will be four signs of the impending Apocalypse: Disease, Famine, War and Death, and we shall embrace the first horseman with glee.</li>
+    <li>esotericismProphecy(tag=meme_HolyDiseases)->Мы верим, что через страдания, причинённые нам искажающими плоть болезнями, мы сможем отточить свой разум в достаточной мере, чтобы открыть величайшие из секретов.</li>
 
-    <li>introMemo(tag=meme_HolyDiseases)->Regarding the issue of paid sick leave, the company is OK with it, as long as you work from home, and work harder. A few degrees of fever never killed anyone! And if they did, it was in service to the company, so everything worked out in hindsight! Think proactively!</li>
+    <li>eschatologismFact(tag=meme_HolyDiseases)->Есть четыре знака грядущего Апокалипсиса: Болезнь, Голод, Война и Смерть, и мы примем первого всадника с подобающей радостью.</li>
 
-    <li>alienistProphecy(tag=meme_HolyDiseases)->All these wayward creations of humanity provide us with an infinite reservoir of holy diseases, a cornucopia of plagues.</li>
+    <li>introMemo(tag=meme_HolyDiseases)->Относительно больничных: компания готова их оплачивать, до тех пор, пока вы продолжаете работать из дома, причём работать усерднее, чем обычно. Небольшое повышение температуры ещё никого не убивало, а если даже убивало - то это было на благо компании, так что всё в любом случае заканчивалось хорошо! Мыслите проактивно!</li>
+
+    <li>alienistProphecy(tag=meme_HolyDiseases)->Все эти заблудшие творения рук людских - есть неиссякаемый сосуд благословлённых болезней, рог изобилия, изрыгающий чуму, гной и струпья.</li>
   </VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Plaguebringing -->
@@ -912,38 +913,38 @@
     <li>alienistProphecy(tag=meme_CraftCulture)->All these wayward creations of humanity provide us with infinite inspiration for our own creations.</li>
   -->
   <VME_CraftCulture.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_CraftCulture)        ->[deity0_name] is the Great Artificer, [deity0_pronoun] created the Universe and crafted the first humans from the primordial clay.</li>
-    <li>episode(uses=1,tag=meme_CraftCulture)  ->[deity0_name] said to all the [memberNamePlural]: "There is no greater gift than Making, for you are following my footsteps."</li>
+    <li>creation(tag=meme_CraftCulture)        ->[deity0_name] Великий Ремесник, [deity0_pronoun] создал Вселенную и создал первых людей из первобытной глины.</li>
+    <li>episode(uses=1,tag=meme_CraftCulture)  ->[deity0_name] сказал всем [memberNamePlural]: "Нет более ценного дара, чем сотворение, ведь так вы следуете шагами моими."</li>
 
-    <li>intro(tag=meme_CraftCulture)           ->[memberNamePlural] crafted a great [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory and a testament to the ability of our crafters.</li>
-    <li>conflict(tag=meme_CraftCulture)        ->A coward [foeLeader], seeking to deny the crafting of [deity0_name], tried to destroy the creations of the [memberNamePlural].</li>
-    <li>founderJoin(tag=meme_CraftCulture)     ->[deity0_name] blessed [founderName] with a wondrous crafting relic, the [relic0_name], which allowed [founderName_objective] to repair and mend the damage created by [foeLeader] before it could be undone.</li>
-    <li>victory(tag=meme_CraftCulture)         ->[founderName] looked at the exhausted [foeLeader] before him, with a smirk in [founderName_possessive] face: "Fool, you can't destroy the creations of [deity0_name]'s followers, for we are blessed by [deity0_possessive] prowess, and so are therefore our inventions".</li>
+    <li>intro(tag=meme_CraftCulture)           ->[memberNamePlural] построили [altarName] на [place_summary] [place_name], возвели монумент [deity0_name] славе и воплощений умений наших ремеслиников.</li>
+    <li>conflict(tag=meme_CraftCulture)        ->Трус по имени [foeLeader], стремясь посрамить детище  [deity0_name], пытался уничтожить сотворённое [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_CraftCulture)     ->[deity0_name] благословил [founderName] рукотворным чудом, [relic0_name], который позволил [founderName_objective] восстановить урон, который нанёс  [foeLeader], прежде чем он будет утрачен навсегда.</li>
+    <li>victory(tag=meme_CraftCulture)         ->[founderName] взглянул на измождённого [foeLeader], распростёршегося перед ним, и на лице [founderName_possessive]  появилась ухмылка: "Глупец, ты не можешь навредить творениям последователей [deity0_name], ведь мы благословлены созидательной мощью [deity0_possessive], как и наши изобретения.".</li>
 
-    <li>setup(tag=meme_CraftCulture)           ->Our founder [founderName] was a great crafter, there was no art or machine beyond the capabilities of [founder_possessive] hands.</li>
-    <li>story(uses=1,tag=meme_CraftCulture)    ->[founder_possessive] followers came to love and cherish [founder_possessive] techniques and [founder_possessive] exquisite creations.</li>
+    <li>setup(tag=meme_CraftCulture)           ->Наш основатель, [founderName] был великим ремесленником и не существовало такой машины, или предмета, которые были бы неподвластны рукам [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_CraftCulture)    ->Последователи [founder_possessive] пришли к нему, чтобы вознести ему хвалу за его непревзойдённые творения.</li>
 
-    <li>lessonIntro(tag=meme_CraftCulture)         ->In all my years crafting wondrous inventions, I learned one lesson that stands over all:</li>
-    <li>lesson(tag=meme_CraftCulture)              ->it is only by creating that we can impress our souls upon this uncaring Universe</li>
-    <li>lessonReinforcement(tag=meme_CraftCulture) ->No one will care about you when you are dead, but you will be kept alive as long as someone can look upon what you created and rejoice.</li>
+    <li>lessonIntro(tag=meme_CraftCulture)         ->За все мои годы, пока я создавал эти чудесные вещи, я усвоил один урок, который стоит превыше остальных:</li>
+    <li>lesson(tag=meme_CraftCulture)              ->Только создавая, мы можем вселить вдохновение в наши души, находящиеся посреди этой безразличной к нам Вселенной.</li>
+    <li>lessonReinforcement(tag=meme_CraftCulture) ->Мёртвые не получают заботы, но пока кто-то может радоваться тому, что ты сотворил - ты будешь жить.</li>
 
-    <li>archistBasis(tag=meme_CraftCulture)    ->The archotechs are not a natural phenomena of the Universe. They were created, they were crafted. And it was by human hands.</li>
-    <li>archistFact(tag=meme_CraftCulture)     ->Archotechs are wise beyond all reason, and their wisdom must have been seeded from the very moment of their creation.</li>
-    <li>archistProphecy(tag=meme_CraftCulture) ->[inTheEnd], by crafting and perfecting such wondrous creations as the mighty [relic0_name], we will be as skilled as the forgotten makers who uncovered the secrets of archotechnology.</li>
+    <li>archistBasis(tag=meme_CraftCulture)    ->Архотеки - не часть природы Вселенной. Они были созданы. Они рукотворны. И сотворили их люди.</li>
+    <li>archistFact(tag=meme_CraftCulture)     ->Мудрость архотеков превосходит любые границы и мудрость их должна распространяться по Вселенной так же, как распространяется жизнь, с самого момента её рождения.</li>
+    <li>archistProphecy(tag=meme_CraftCulture) ->[inTheEnd], создавая и совершенствуя такие рукотворные чудеса, как великая [relic0_name], мы в своём мастерстве приблизимся к забытым творцам, которые когда-то открыли секреты архотехнологии.</li>
 
-    <li>animistFact(tag=meme_CraftCulture)     ->The spirits need a vessel to manifest in the mundane world, and by creating wondrous inventions we will be able to provide them with a suitable recipient.</li>
+    <li>animistFact(tag=meme_CraftCulture)     ->Духи нуждаются в сосудах, которые позволят им проявить себя в нашем мире. И создавая чудесные изобретения, мы даём им такой сосуд.</li>
 
-    <li>serketistProphecy(tag=meme_CraftCulture)->[itIsSaid] by emulating the industriousness of the insects we will craft and create thousands of might wondrous inventions.</li>
+    <li>serketistProphecy(tag=meme_CraftCulture)->[itIsSaid] подражая трудолюбию насекомых, мы создаём сотни и тысячи поистине чудесных творений.</li>
 
-    <li>chthonianProphecy(tag=meme_CraftCulture)->Only an arcane invention of unearthly provenance may perhaps shield us from such insanity. We shall craft our way to salvation.</li>
+    <li>chthonianProphecy(tag=meme_CraftCulture)->Только пронизанные тайными, нечеловеческими знаниями изобретения смогут дать нам хотя бы призрачную защиту от безумия. Созидая, мы проложим себе путь к спасению.</li>
 
-    <li>esotericismProphecy(tag=meme_CraftCulture)->By studying the mechanisms of wondrous creations we may uncover some of these ancient secrets, and perhaps gaze into the unknown.</li>
+    <li>esotericismProphecy(tag=meme_CraftCulture)->Изучая то, как работают причудливые изобретения, мы сможем раскрыть секреты древних и даже заглянуть за грань того, что доступно человеческому пониманию.</li>
 
-    <li>eschatologismFact(tag=meme_CraftCulture)->Mark my words: the world will end, and we shall be the crafters of its demise.</li>
+    <li>eschatologismFact(tag=meme_CraftCulture)->Помяните моё слово: мир рухнет и мы будем создателями его конца.</li>
 
-    <li>introMemo(tag=meme_CraftCulture)->Starting next Tuesday, we are introducing production quotas on each crafting station. Bear in mind that straying too far from these quotas might result in immediate admonishment from Upper Management. Guys, this is not a charity, we are here to PRODUCE.</li>
+    <li>introMemo(tag=meme_CraftCulture)->Начиная со следующего вторника, будут утверждены новые производственные нормы на каждой из станций. Имейте в виду, что любые отклонения от установленных норм влекут за собой немедленные дисциплинарные меры, регулируемые Руководством. Коллеги, это не богадельня, мы здесь для того, чтобы ПРОИЗВОДИТЬ.</li>
 
-    <li>alienistProphecy(tag=meme_CraftCulture)->All these wayward creations of humanity provide us with infinite inspiration for our own creations.</li>
+    <li>alienistProphecy(tag=meme_CraftCulture)->Все эти заблудшие творения рук людских - есть неиссякаемый сосуд вдохновения для наших собственных изобретений.</li>
   </VME_CraftCulture.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Crafting -->
@@ -1040,38 +1041,38 @@
     <li>alienistProphecy(tag=meme_Progressive)->All these wayward creations of humanity shows us what humanity can achieve through automated technology, wondrous genetic laboratories sampling the genome at breakneck speeds.</li>
   -->
   <VME_Progressive.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Progressive)        ->[deity0_name] saw the [memberNamePlural] struggling with their machines, and laughed good-naturedly at them: "Haven't I given you the tools to make the machines do the work for you? It's senseless to struggle".</li>
-    <li>episode(uses=1,tag=meme_Progressive)  ->[deity0_name] said to all the [memberNamePlural]: "Manual labour is not sacred to me. Indeed you are honouring me by freeing your time by automating your tasks".</li>
+    <li>creation(tag=meme_Progressive)        ->[deity0_name] увидел, как  [memberNamePlural] пытаются справиться со своими машинами и засмеялся без тени злобы: «Разве я не дал вам орудий, чтобы обуздать эти машины и  заставить их служить вам? Ваши старания тщетны.»</li>
+    <li>episode(uses=1,tag=meme_Progressive)  ->[deity0_name] сказал всем [memberNamePlural]: "Ручной труд не является для меня священным. Вы оказываете мне честь, освобождая свое время за счет автоматизации своих задач.".</li>
 
-    <li>intro(tag=meme_Progressive)           ->[memberNamePlural] used automated factories to craft a great [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.</li>
-    <li>conflict(tag=meme_Progressive)        ->A rampaging mechanoid hive, seeking to destroy the automated machines of [deity0_name], tried to destroy the creations of the [memberNamePlural].</li>
-    <li>founderJoin(tag=meme_Progressive)     ->[deity0_name] instructed [founderName] to repurpose the factories to create a holy relic, the [relic0_name], which allowed [founderName_objective] to repel the mechanoids' attack before it was too late.</li>
-    <li>victory(tag=meme_Progressive)         ->[founderName] crushed the ancient machines before him, and scavenged their army for parts to build the next improved factories.</li>
+    <li>intro(tag=meme_Progressive)           ->[memberNamePlural] использовали автоматические заводы чтобы создат великолепный [altarName] на [place_summary] [place_name], монумент, показывающий славу [deity0_name].</li>
+    <li>conflict(tag=meme_Progressive)        ->Разбушевавшийся улей механоидов, стремился уничтожить автоматизированные машины [deity0_name], пытался уничтожить творения [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Progressive)     ->[deity0_name] поручил [founderName] изменили производство так, чтобы создать священную реликвию -  [relic0_name], которая позволила [founderName_objective] отразить нападение механоидов, прежде чем было слишком поздно.</li>
+    <li>victory(tag=meme_Progressive)         ->[founderName] разгромил механоидов, и разобрал их армию на запчасти, чтобы построить новые усовершенствованные фабрики.</li>
 
-    <li>setup(tag=meme_Progressive)           ->Our founder [founderName] was a great engineer, a renowned expert in the art of factory line automation. There was no process that couldn't be automated by [founder_possessive] hands.</li>
-    <li>story(uses=1,tag=meme_Progressive)    ->[founder_possessive] followers studied [founder_possessive] automation techniques for decades, scrutinizing [founder_possessive] insights and applying them to their own factories.</li>
+    <li>setup(tag=meme_Progressive)           ->Наш основатель [founderName] был великим инженером, признанным экспертом в искусстве автоматизации заводских линий. Не существовало процесса, который нельзя было бы автоматизировать с помощью [founder_possessive] hands.</li>
+    <li>story(uses=1,tag=meme_Progressive)    ->Последователи [founder_possessive] десятилетиями изучали методы автоматизации [founder_possessive], тщательно анализируя идеи [founder_possessive] и применяя их на собственных заводах.</li>
 
-    <li>lessonIntro(tag=meme_Progressive)         ->In all my years optimizing the throughput of factory lines, I learned one lesson that stands over all:</li>
-    <li>lesson(tag=meme_Progressive)              ->the first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency</li>
-    <li>lessonReinforcement(tag=meme_Progressive) ->Automation is such an incredible idea that if we could continue to improve this capability, the applications are really quite boundless.</li>
+    <li>lessonIntro(tag=meme_Progressive)         ->За все годы работы по оптимизации пропускной способности заводских линий я усвоил один урок, самый ценный из всех:</li>
+    <li>lesson(tag=meme_Progressive)              ->первое правило для любой технологии, используемой в бизнесе - автоматизация всегда будет в разы увеличивать эффективность.</li>
+    <li>lessonReinforcement(tag=meme_Progressive) ->Автоматизация - это поистине великолепная идея. Если мы будем продолжать развивать это направление, то возможности для её применения - поистине безграничны.</li>
 
-    <li>archistBasis(tag=meme_Progressive)    ->The archotechs are flawless. They have perfected ways to manipulate the Universe that are far beyond our understanding.</li>
-    <li>archistFact(tag=meme_Progressive)     ->Do you really think an archotech would create anything by hand?</li>
-    <li>archistProphecy(tag=meme_Progressive) ->[inTheEnd], the only way to approach their capabilities would be to achieve a level of automation that allows us to focus on ascension.</li>
+    <li>archistBasis(tag=meme_Progressive)    ->Архотеки безупречны. Они достигли таких пределов совершенства в том, что касается изменения Вселенной, что вышли далеко за пределы доступные нашему пониманию. И вы правда думаете, что архотеки</li>
+    <li>archistFact(tag=meme_Progressive)     ->будут создавать что-либо простым ручным трудом?</li>
+    <li>archistProphecy(tag=meme_Progressive) ->[inTheEnd],  это единственный возможный путь приблизиться к их возможностям, создавая такой уровень автоматизации труда, который бы позволил нам выйти на новую ступень эволюции.</li>
 
-    <li>animistFact(tag=meme_Progressive)     ->The spirits are pure mind. Supreme intelligences that are far beyond the mundane and the physical. As such, they frown upon manual labour. Why create things by hand, when a soulless machine can do it for you?</li>
+    <li>animistFact(tag=meme_Progressive)     ->Духи - это чистый разум. Высший разум, который находится далеко за пределами обыденного и физического. Поэтому они не одобряют ручной труд. Зачем создавать вещи вручную, если бездушная машина может сделать это за вас?</li>
 
-    <li>serketistProphecy(tag=meme_Progressive)->[itIsSaid] a factory's production line is like a great insect, its multiple parts moving in a single coordinated melody, not unlike the teamwork present in an ant hive.</li>
+    <li>serketistProphecy(tag=meme_Progressive)->[itIsSaid], что  производственная линия завода похожа на большое насекомое, ее многочисленные части движутся в единой согласованной мелодии, не похожей на командную работу, присутствующую в муравьином улье.</li>
 
-    <li>chthonianProphecy(tag=meme_Progressive)->We can't waste our precious lives toiling away in mindless manual labour. We shall design wondrous automated machines that will remove our need to work, and allow us to focus on the realities of the transmundane.</li>
+    <li>chthonianProphecy(tag=meme_Progressive)->Мы не можем позволить себе растрачивать наши жизни в муках бездумного ручного труда. Мы создадим великолепные, полностью автономные механизмы, которые избавят нас от необходимости работать и позволят нам сосредоточиться на том, что выходит за пределы мирской жизни.</li>
 
-    <li>esotericismProphecy(tag=meme_Progressive)->By studying the mechanisms and processes of our automated factories we may uncover some of these ancient secrets, and perhaps gaze into the unknown.</li>
+    <li>esotericismProphecy(tag=meme_Progressive)->Изучая механизмы и процессы наших автоматизированных фабрик, мы можем раскрыть некоторые из этих древних секретов и, возможно, заглянуть в неведомое..</li>
 
-    <li>eschatologismFact(tag=meme_Progressive)->We won't stop at a single world. Our automated orbital factories will fill the Cosmos with a myriad destructive machines. We shall bring the end of everything.</li>
+    <li>eschatologismFact(tag=meme_Progressive)->Мы не остановимся ни на одном мире. Наши автоматизированные орбитальные фабрики заполнят Космос мириадами разрушительных машин. Мы принесем конец всему.</li>
 
-    <li>introMemo(tag=meme_Progressive)->We have received complaints from Steve in tech support concerning the reluctance of some of you to adopt the new process automation policies. Some people were overhead saying "I spent 30 hours automating a process that I could do in half an hour by hand!". This is SO SHORTSIGHTED!</li>
+    <li>introMemo(tag=meme_Progressive)->Мы получили жалобы от Стива из техподдержки по поводу нежелания некоторых из вас принять новые правила автоматизации процессов. Некоторые люди говорили: "Я потратил 30 часов на автоматизацию процесса, который я мог бы сделать за полчаса вручную!". ЭТО ТАК НЕДАЛЬНОВИДНО!</li>
 
-    <li>alienistProphecy(tag=meme_Progressive)->All these wayward creations of humanity shows us what humanity can achieve through automated technology, wondrous genetic laboratories sampling the genome at breakneck speeds.</li>
+    <li>alienistProphecy(tag=meme_Progressive)->Все эти заблудшие творения человечества показывают нам, чего может достичь человечество с помощью автоматизированных технологий, чудесных генетических лабораторий, берущих пробы генома с бешеной скоростью.</li>
   </VME_Progressive.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Automation -->
@@ -1153,38 +1154,38 @@
     <li>alienistProphecy(tag=tag=meme_Aristocratic)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</li>
   -->
   <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Aristocratic)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Why do you treat everyone equally? Some of you are born to be rulers, while others are born to be ruled".</li>
-    <li>episode(uses=1,tag=meme_Aristocratic)  ->[deity0_name] said to all the [memberNamePlural]: "Honour your leaders and treat them like my heralds on the mortal world, for they are more than mere men".</li>
+    <li>creation(tag=meme_Aristocratic)        ->[божество0_имя] увидело, что некоторые из [memberNamePlural] более пригодны для правления, чем другие, и обратилось к ним: "Почему вы относитесь ко всем одинаково? Некоторые из вас рождены быть правителями, а другие рождены, чтобы ими управляли".</li>
+    <li>episode(uses=1,tag=meme_Aristocratic)  ->[deity0_name] сказал всем [memberNamePlural]: "Почитайте своих лидеров и обращайтесь с ними, как с моими посланниками в мире смертных, ибо они больше, чем простые люди".</li>
 
-    <li>intro(tag=meme_Aristocratic)           ->[memberNamePlural] built a regal [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.</li>
-    <li>conflict(tag=meme_Aristocratic)        ->Constant peasant revolts threatened the existance of [deity0_name]'s temple, and the leaders of the [memberNamePlural] decided to pacify them.</li>
-    <li>founderJoin(tag=meme_Aristocratic)     ->[deity0_name] instructed [founderName] to put the peasants in their place, for they were theatening the lives of their betters.</li>
-    <li>victory(tag=meme_Aristocratic)         ->[founderName] crushed the peasant revolts, and his royal bloodline has been blessed ever since.</li>
+    <li>intro(tag=meme_Aristocratic)           ->[memberNamePlural] построили величественный [altarName] на [place_summary] [place_name], монумент, показывающий славу [deity0_name].</li>
+    <li>conflict(tag=meme_Aristocratic)        ->Постоянные крестьянские восстания угрожали существованию храма [deity0_name], и лидеры [memberNamePlural] решили остановить их.</li>
+    <li>founderJoin(tag=meme_Aristocratic)     ->[deity0_name] поручил [founderName] заставить чернь знать своё место, после того, как они угрожали жизням тех, кто находится над ними.</li>
+    <li>victory(tag=meme_Aristocratic)         ->[founderName] подавил крестьянские восстания, и с тех пор его королевский род был благословен.</li>
 
-    <li>setup(tag=meme_Aristocratic)           ->Our founder [founderName] was a great sociologist, who saw the weak democratic systems in [founder_possessive] native world and found them incredibly inadequate. [founder_pronoun} chartered a private spaceship and left with hundreds of [founder_possessive] followers to create the ideal feudal society.</li>
-    <li>story(uses=1,tag=meme_Aristocratic)    ->[founderName]'s followers studied [founder_possessive] writings and created a social structure that has been stable for more than two hundred years.</li>
+    <li>setup(tag=meme_Aristocratic)           ->Наш основатель [founderName] был великим социологом, который увидел слабые демократические системы в родном мире [founder_possessive] и нашел их неадекватными. [founder_pronoun} сел в частный космический корабль и отправился с сотнями последователей [founder_possessive], чтобы создать идеальное феодальное общество.</li>
+    <li>story(uses=1,tag=meme_Aristocratic)    ->Последователи [founderName] изучили труды [founder_possessive] и создали социальную структуру, которая остается стабильной уже более двухсот лет.</li>
 
-    <li>lessonIntro(tag=meme_Aristocratic)         ->In all my years ruling over the masses, I learned one lesson that stands over all:</li>
-    <li>lesson(tag=meme_Aristocratic)              ->some people are born to be rulers, while others are born to be ruled</li>
-    <li>lessonReinforcement(tag=meme_Aristocratic) ->And only by honouring and obeying our noblest aristocrats can we truly build a stable society.</li>
+    <li>lessonIntro(tag=meme_Aristocratic)         ->За все годы моего правления над людьми я усвоил один урок, самый дорогой урок:</li>
+    <li>lesson(tag=meme_Aristocratic)              ->одни люди рождаются, чтобы быть правителями, а другие - чтобы ими управляли</li>
+    <li>lessonReinforcement(tag=meme_Aristocratic) ->И только почитая и повинуясь нашим благороднейшим аристократам, мы можем действительно построить стабильное общество.</li>
 
-    <li>archistBasis(tag=meme_Aristocratic)    ->The archotechs are flawless. A perfect example of hierarchy where most live to serve the needs of the noble few.</li>
-    <li>archistFact(tag=meme_Aristocratic)     ->There is no ground for hesitation: only those truly subservient to their betters will be rewarded when the archotechs make themselves known to the rest of the Universe.</li>
-    <li>archistProphecy(tag=meme_Aristocratic) ->[inTheEnd], the archotechs will allow those of noble blood to ascend, but their servants will be allowed to serve them afterwards too.</li>
+    <li>archistBasis(tag=meme_Aristocratic)    ->Архотеки безупречны. Идеальный пример иерархии, где большинство живет для того, чтобы служить нуждам немногих благородных.</li>
+    <li>archistFact(tag=meme_Aristocratic)     ->Нет никаких оснований для колебаний: только те, кто действительно подчиняется своим ставленникам, будут вознаграждены, когда Архотеки заявят о себе остальной части Вселенной.</li>
+    <li>archistProphecy(tag=meme_Aristocratic) ->[inTheEnd], Архотеки позволят вознестись тем, кто благородных кровей, но их слугам будет позволено служить им и после этого.</li>
 
-    <li>animistFact(tag=meme_Aristocratic)     ->The spirits value those of pure blood above the rest, for those who can command others in life are also proving the strength of their spirit.</li>
+    <li>animistFact(tag=meme_Aristocratic)     ->Духи ценят чистокровных людей выше остальных, ибо те, кто может командовать другими в жизни, также доказывают силу своего духа..</li>
 
-    <li>serketistProphecy(tag=meme_Aristocratic)->As ants and bees have their queens and their drones, so shall we organize our societies: one of noble blood reigning supreme over his or her subjects.</li>
+    <li>serketistProphecy(tag=meme_Aristocratic)->Как у муравьев и пчел есть королевы и трутни, так и мы должны организовать наши общества: один благородной крови, правящий над своими подданными.</li>
 
-    <li>chthonianProphecy(tag=meme_Aristocratic)->Our leaders of noble blood will protect us and shield us from the cosmic insanity of these terrible beings. Only by obeying them can we hope to stay sane.</li>
+    <li>chthonianProphecy(tag=meme_Aristocratic)->Наши лидеры благородной крови защитят нас и укроют от космического безумия этих ужасных существ. Только повинуясь им, мы можем надеяться сохранить рассудок.</li>
 
-    <li>esotericismProphecy(tag=meme_Aristocratic)->The noble blood of our leaders will allow them to see beyond the veil. Secrets that are to be forever hidden from their humble servants.</li>
+    <li>esotericismProphecy(tag=meme_Aristocratic)->Благородная кровь наших вождей позволит им заглянуть за завесу неизведанного. И откроет им секреты, которые навеки останутся неизвестными их скромным слугам.</li>
 
-    <li>eschatologismFact(tag=meme_Aristocratic)->We shall name our leader the Prince of Lies. The one who brings the end of all things.</li>
+    <li>eschatologismFact(tag=meme_Aristocratic)->Мы назовем нашего лидера Принцем Лжи. Тот, кто принесет конец всему сущему.</li>
 
-    <li>introMemo(tag=meme_Aristocratic)->Remember that those of noble blood have vacation time privileges. Yes, I understand that some of you would like to take a vacation in August, and that you may have two children and it's hard to find a good daycare in that month, but your lack of aristocratic lineage means you will have to adapt to the current situation.</li>
+    <li>introMemo(tag=meme_Aristocratic)->Помните, что у людей благородной крови есть привилегии на отпуск. Да, я понимаю, что некоторые из вас хотели бы взять отпуск в августе, и что у вас, возможно, двое детей, и трудно найти хороший детский сад в этот месяц, но отсутствие у вас голубых кровей означает, что вам придется приспосабливаться к текущей ситуации.</li>
 
-    <li>alienistProphecy(tag=tag=meme_Aristocratic)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</li>
+    <li>alienistProphecy(tag=tag=meme_Aristocratic)->Мы создадим чудесные королевские зверинцы со всеми этими существами, настоящую демонстрацию нашей силы и могущества.</li>
   </VME_Aristocratic.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Nobility -->
