@@ -792,7 +792,7 @@
     <li>alienistProphecy(tag=meme_HolyDiseases)->All these wayward creations of humanity provide us with an infinite reservoir of holy diseases, a cornucopia of plagues.</li>
   -->
   <VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_HolyDiseases)        ->[deity0_name] наполнили Вселенную всевозможными вирусами и бактериями, миниатюрными организмами, которые являются носителями даров [deity0_possessive].</li>
+    <li>creation(tag=meme_HolyDiseases)        ->[deity0_name] наполнил Вселенную всевозможными вирусами и бактериями, миниатюрными организмами, которые являются носителями даров [deity0_possessive].</li>
     <li>episode(uses=1,tag=meme_HolyDiseases)  ->Мы принимали щедрость [deity0_name], предлагая свои тела в качестве сосудов для [deity0_possessive] миллиардов болезней, что радовало [deity0_objective].</li>
 
     <li>intro(tag=meme_HolyDiseases)           ->На [place_summary] [place_name], [memberNamePlural] нашли запечатанную гробницу с огромным священным символом, изображающим [deity0_name].</li>
@@ -1266,38 +1266,38 @@
     <li>alienistProphecy(tag=meme_Republic)->Our three triumvir will decide the fate of all these wayward human creations, for we trust their wisdom in such matters.</li>
   -->
   <VME_Republic.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Republic)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Your governance shall be split between three leaders, and they will lead you to unimaginable glory".</li>
-    <li>episode(uses=1,tag=meme_Republic)  ->[deity0_name] said to all the [memberNamePlural]: "Understand that the dignity of the republic is of first importance and preferable to life".</li>
+    <li>creation(tag=meme_Republic)        ->[deity0_name]  увидел, что некоторые из [memberNamePlural] были более пригодны для правления, чем другие, и сказал им: "Ваше правление будет разделено между тремя лидерами, и они приведут вас к невообразимой славе".</li>
+    <li>episode(uses=1,tag=meme_Republic)  ->[deity0_name] сказал всем [memberNamePlural]: "Понять, что достоинства республики имеют первостепенные значения и предпочтительнее для жизни".</li>
 
-    <li>intro(tag=meme_Republic)           ->[memberNamePlural] built a huge senate house on the [place_summary] [place_name], a testament to [deity0_name]'s glory.</li>
-    <li>conflict(tag=meme_Republic)        ->A powerful [foeLeader] took advantage of the frailness of the old Empire of the [memberNamePlural], and [foeLeader_pronoun] used its ingrained corruption to dismantle it from inside.</li>
-    <li>founderJoin(tag=meme_Republic)     ->[deity0_name] instructed [founderName] to look for two other triumvirs, and thus created the First Republic of the [memberNamePlural].</li>
-    <li>victory(tag=meme_Republic)         ->Thus united, [foeLeader] was defeated, and the [memberNamePlural] have enjoyed the prosperity of the republican system ever since.</li>
+    <li>intro(tag=meme_Republic)           ->[memberNamePlural] построили огромный дом сената на [place_summary] [place_name], как доказательство почитания [deity0_name].</li>
+    <li>conflict(tag=meme_Republic)        ->Могущественный [foeLeader] воспользовался слабостью старой империи [memberNamePlural], а [foeLeader_pronoun] использовал укоренившуюся коррупцию, чтобы разрушить ее изнутри.</li>
+    <li>founderJoin(tag=meme_Republic)     ->[deity0_name] поручил [founderName] найти двух других триумвиров, и таким образом была создана Первая Республика [memberNamePlural].</li>
+    <li>victory(tag=meme_Republic)         ->Объединившись, [foeLeader]был свержен, и [memberNamePlural] наслаждались процветанием республиканской системы.</li>
 
-    <li>setup(tag=meme_Republic)           ->Our founder [founderName] was a great politician, who saw the corruption in the govermenets of [founder_possessive] native world and found them incredibly inadequate. There he founded the First Republic of the [memberNamePlural], an institution that has held triumphant for hundreds of years.</li>
-    <li>story(uses=1,tag=meme_Republic)    ->[founderName]'s followers studied [founder_possessive] writings and created a social structure that has always brought stability to us all.</li>
+    <li>setup(tag=meme_Republic)           ->Наш основатель [founderName] был хорошим политиком,  который видел коррупцию в правительственных органах [founder_possessive] и нашел их отвротительными. Он основал Первую Республику [memberNamePlural], институт, который просуществовал сотни лет.</li>
+    <li>story(uses=1,tag=meme_Republic)    ->Последователи [founderName] учились [founder_possessive] писать и создавать социальные структуры, которые всегда приносили нам стабильность.</li>
 
-    <li>lessonIntro(tag=meme_Republic)         ->In all our years ruling over the masses, we three have learned one lesson that stands over all:</li>
-    <li>lesson(tag=meme_Republic)              ->a single leader cannot be expected to be incorruptible, for we are mere men, with out temptations and faults</li>
-    <li>lessonReinforcement(tag=meme_Republic) ->As triumvirs, it is our solemn duty to take care and look for one another, not letting any of us fall into temptation and corruption.</li>
+    <li>lessonIntro(tag=meme_Republic)         ->За все годы нашего правления массами мы трое усвоили один урок, который самым важным:</li>
+    <li>lesson(tag=meme_Republic)              ->Нельзя ждать от того, кто правит в одиночку, что он будет устойчив к порокам, ведь мы - всего лишь люди, со своими искушениями и недостатками.</li>
+    <li>lessonReinforcement(tag=meme_Republic) ->Как триумвиры, мы обязаны заботиться и присматривать друг за другом, не позволяя никому из нас впасть в искушение и разврат.</li>
 
-    <li>archistBasis(tag=meme_Republic)    ->It is believed that three supreme archotechs bring a world into transcendence.</li>
-    <li>archistFact(tag=meme_Republic)     ->By the incomprehensible will of these three, all human followers are allowed to transcend. We must emulate this in our societies, for the numbre three seems to be of special significance.</li>
-    <li>archistProphecy(tag=meme_Republic) ->[inTheEnd], our three triumvirs will become archotechs themselves, and the endless cycle of ascension will continue.</li>
+    <li>archistBasis(tag=meme_Republic)    ->Считается, что три верховных архотека приводят мир к трансцендентности.</li>
+    <li>archistFact(tag=meme_Republic)     ->Лишь неисповедимая воля этих трёх, позволит их последователям вознестись. Мы должны воссоздать этот принцип в нашем обществе, ведь скромность тех трёх имеет огромное значение.</li>
+    <li>archistProphecy(tag=meme_Republic) ->[inTheEnd], наши три триумвира сами станут архотеками, и бесконечный цикл вознесения продолжится.</li>
 
-    <li>animistFact(tag=meme_Republic)     ->The number three is sacred to the spìrits. We model our society after the republican triumvirate to appease and honour them.</li>
+    <li>animistFact(tag=meme_Republic)     ->Число три священно для духов. Мы строим наше общество по образцу республиканского триумвирата, чтобы умиротворить и почтить их.</li>
 
-    <li>serketistProphecy(tag=meme_Republic)->Three great leaders will govern our society: The Beetle, the Spider and the Ant. This triumvirate will gide us in the greatest times of need.</li>
+    <li>serketistProphecy(tag=meme_Republic)->Три великих лидера будут управлять нашим обществом: Жук, Паук и Муравей. Этот триумвират будет помогать нам в самые трудные времена..</li>
 
-    <li>chthonianProphecy(tag=meme_Republic)->Obscure stories tell of the Triumvirate of the Abyssal Depths, a particularly vicious group of eldritch entities bent on subjugating our mortal minds. We shall create our own triumvirate to protect us from them.</li>
+    <li>chthonianProphecy(tag=meme_Republic)->Неизвестные истории рассказывают о Триумвирате Бездны, особенно злобной группе жутких сущностей, стремящихся подчинить себе наши смертные умы. Мы создадим свой собственный триумвират, чтобы защитить нас от них.</li>
 
-    <li>esotericismProphecy(tag=meme_Republic)->It is said that the ancient Greeks of Earth considered the number three as the perfect number, the number of harmony, wisdom and understanding. The number of the divine.</li>
+    <li>esotericismProphecy(tag=meme_Republic)->Говорят, что древние греки Земли считали число три совершенным числом, числом гармонии, мудрости и понимания. Число божественного.</li>
 
-    <li>eschatologismFact(tag=meme_Republic)->Lead by three heralds of the end of times, we will usher in a new era of darkness.</li>
+    <li>eschatologismFact(tag=meme_Republic)->Ведомые тремя глашатаями конца времен, мы вступим в новую эру тьмы.</li>
 
-    <li>introMemo(tag=meme_Republic)->We are aware that some new employees are confused with our somewhat unorthodox three-winged corporate structure... It's simple, really, we consider our company to be a post-modern form of government, based on efficiency and economical robustness.</li>
+    <li>introMemo(tag=meme_Republic)->Мы знаем, что некоторых новых сотрудников смущает наша несколько неортодоксальная трехкрылая корпоративная структура... На самом деле все просто: мы считаем нашу компанию постсовременной формой правления, основанной на эффективности и экономической прочности.</li>
 
-    <li>alienistProphecy(tag=meme_Republic)->Our three triumvir will decide the fate of all these wayward human creations, for we trust their wisdom in such matters.</li>
+    <li>alienistProphecy(tag=meme_Republic)->Три наших триумвира решат судьбу всех этих заблудших человеческих творений, ибо мы доверяем их мудрости в таких вопросах.</li>
   </VME_Republic.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Republic -->
@@ -1382,38 +1382,38 @@
     <li>alienistProphecy(tag=meme_ExaltedPriesthood)->Our dear leader, the highest among our priests, will decide the fate of all these wayward human creations, for we trust his wisdom in such matters.</li>
   -->
   <VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_ExaltedPriesthood)        ->[deity0_name] munified our faith by appointing our dear founder, [founderName], as the head of [deity0_possessive] church.</li>
-    <li>episode(uses=1,tag=meme_ExaltedPriesthood)  ->[deity0_name] said to all the [memberNamePlural], "[founderName] shall be my steward, so that [founderName_pronoun] may be able both to preach with sound doctrine and to refute those who contradict it."</li>
+    <li>creation(tag=meme_ExaltedPriesthood)        ->[deity0_name] укрепил нашу веру, назначив нашего дорогого основателя, [founderName], главой церкви [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_ExaltedPriesthood)  ->[deity0_name] сказал всем [memberNamePlural], "[founderName] будет моим наместником, имея возможность как наставлять на путь истиный, так и возразить тем, кто хочет от него отступить."</li>
 
-    <li>intro(tag=meme_ExaltedPriesthood)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that anyone may join [founderName] to exalt the virtues of [deity0_name].</li>
-    <li>conflict(tag=meme_ExaltedPriesthood)        ->A coward [foeLeader], seeking to deny the holiness of [founderName], tried to destroy the [altarName] with a torch.</li>
-    <li>founderJoin(tag=meme_ExaltedPriesthood)     ->Praying to [deity0_name], a huge bolt of pure light spread from [founderName]'s hands, smiting the [foeLeader] in an instant.</li>
-    <li>victory(tag=meme_ExaltedPriesthood)         ->All the [foeSoldiers] immediately fell to their knees, humbled by the display of power of [founderName] and begged to be accepted into our faith.</li>
+    <li>intro(tag=meme_ExaltedPriesthood)           ->[memberNamePlural] построили великолепный [altarName] на [place_summary] [place_name], чтобы любой желающий мог присоединиться к [founderName] чтобы возвеличить достоинства [deity0_name].</li>
+    <li>conflict(tag=meme_ExaltedPriesthood)        ->Трус <!--АКА Чмо, Лох, Хуй, Залупа, Пидор--> [foeLeader], отрицал святость [founderName], пытался уничтожить [altarName] с помощью факела.</li>
+    <li>founderJoin(tag=meme_ExaltedPriesthood)     ->Молясь [deity0_name], огромная стрела чистого света вырвалась из рук [founderName], поразив [foeLeader] в мгновение ока.</li>
+    <li>victory(tag=meme_ExaltedPriesthood)         ->Все приспешники [foeSoldiers]  тут же упали на колени, униженные демонстрацией силы [founderName] умоляли принять их в нашу веру.</li>
 
-    <li>setup(tag=meme_ExaltedPriesthood)           ->Our founder [founderName] was a great theologian. [founderName_possessive] studies of the myriad gods of humanity made [founderName_objective] come to the conclusion that religion was not exactly the truth, but a life without faith woucl also be entirely meaningless.</li>
-    <li>story(uses=1,tag=meme_ExaltedPriesthood)    ->As [founderName_possessive] followers, we will continue the study of theology, and try to discern the deepest secrets of the Cosmos.</li>
+    <li>setup(tag=meme_ExaltedPriesthood)           ->Наш основатель [founderName] был великим теологом. [founderName_possessive] Изучая множество божеств, которых создавал человек, [founderName_objective]  пришёл к тому, что хотя религии и не являются истиной, жизнь лишённая веры - была бы лишённой и всякого смысла.</li>
+    <li>story(uses=1,tag=meme_ExaltedPriesthood)    ->Как последователи [founderName_possessive], мы продолжим изучение теологии и попытаемся разгадать глубочайшие тайны Космоса.</li>
 
-    <li>lessonIntro(tag=meme_ExaltedPriesthood)         ->In all my years studying religion, I learned one lesson that stands over all:</li>
-    <li>lesson(tag=meme_ExaltedPriesthood)              ->we need priests to guide the human spirit, even if it turns out there are no gods</li>
-    <li>lessonReinforcement(tag=meme_ExaltedPriesthood) ->After all, even if we don't believe in the transcendental it is clear that we don't understand the whole picture.</li>
+    <li>lessonIntro(tag=meme_ExaltedPriesthood)         ->За все годы изучения религии я усвоил один урок, очень важный урок:</li>
+    <li>lesson(tag=meme_ExaltedPriesthood)              ->нам нужны священники, чтобы направлять человеческий дух, даже если выяснится, что богов нет</li>
+    <li>lessonReinforcement(tag=meme_ExaltedPriesthood) ->Даже не веря трансцендентное, мы всё ещё не имеем всей полноты картины.</li>
 
-    <li>archistBasis(tag=meme_ExaltedPriesthood)    ->The archotechs value a strong leadership above all. If a group of people are disunited, they are weak.</li>
-    <li>archistFact(tag=meme_ExaltedPriesthood)     ->Our dear leader, the highest of all our priests, will be the conduit through which we will communicate with the archotechs, and beg for our Transcendence.</li>
-    <li>archistProphecy(tag=meme_ExaltedPriesthood) ->[inTheEnd], the archotechs will voice their final wisdom to our leader, the holder of the [relic0_name], and we will reverently stand by his or her side in that final moment.</li>
+    <li>archistBasis(tag=meme_ExaltedPriesthood)    ->Архотеки превыше всего ценят сильное руководство. Если группа людей разобщена, они слабы..</li>
+    <li>archistFact(tag=meme_ExaltedPriesthood)     ->Наш дорогой лидер, высший из всех наших жрецов, будет проводником, через который мы будем общаться с архонтами и просить о нашей Трансценденции.</li>
+    <li>archistProphecy(tag=meme_ExaltedPriesthood) ->[inTheEnd], архонты выскажут свою последнюю мудрость нашему лидеру, обладателю [relic0_name], и мы благоговейно встанем рядом с ним или с ней в этот последний момент.</li>
 
-    <li>animistFact(tag=meme_ExaltedPriesthood)     ->Our dear leader, the highest among our priests, is the Voice of the Spirits. Only through him or her will the spirits make their wishes be known among the true believers.</li>
+    <li>animistFact(tag=meme_ExaltedPriesthood)     ->Наш дорогой лидер, высший среди наших жрецов, является Голосом Духов. Только через него или нее духи озвучивают свои желания среди истинно верующих.</li>
 
-    <li>serketistProphecy(tag=meme_ExaltedPriesthood)->[itIsSaid] the highest among our priests will transcend the mortal shell, and become one with the insects.</li>
+    <li>serketistProphecy(tag=meme_ExaltedPriesthood)->[itIsSaid] высшие из наших жрецов выйдут за пределы смертной оболочки и станут одним целым с насекомыми.</li>
 
-    <li>chthonianProphecy(tag=meme_ExaltedPriesthood)->The Dark Pope, highest among our priests, will protect us from the insanity from beyond the stars, acting as a psychic beacon of hope bathed in the darkness of the void.</li>
+    <li>chthonianProphecy(tag=meme_ExaltedPriesthood)->Темный Жрец, высший среди наших священников, защитит нас от безумия из-за пределов звезд, действуя как психический маяк надежды, купающийся во тьме пустоты.</li>
 
-    <li>esotericismProphecy(tag=meme_ExaltedPriesthood)->The Dark Pope, highest among our priests, will venture into a world of rasping whispers and half-forgotten promises. He alone can discern the greatest of all misteries.</li>
+    <li>esotericismProphecy(tag=meme_ExaltedPriesthood)->Темный Жрец, высший среди наших священников, отважится войти в мир шелестящих шепотов и полузабытых обещаний. Только он один способен разглядеть величайшую из всех загадок.</li>
 
-    <li>eschatologismFact(tag=meme_ExaltedPriesthood)->The Dark Pope, highest among our priests, will usher in the end of times. The herald of this world's destruction.</li>
+    <li>eschatologismFact(tag=meme_ExaltedPriesthood)->Темный Жрец, высший среди наших священников, возвестит о наступлении конца времен. Предвестник разрушения этого мира.</li>
 
-    <li>introMemo(tag=meme_ExaltedPriesthood)->If you look at the calendar, you have certainly noticed that the birthday of our Dear Leader and CEO is in two weeks. Now, it is of course an optional thing, but in the name of good team spirit I expect each and every one of you to look for a gift of at least two months salary equivalent price. It's the least we can do!</li>
+    <li>introMemo(tag=meme_ExaltedPriesthood)->Если вы посмотрите на календарь, то наверняка заметили, что день рождения нашего Уважаемого Руководителя и Генерального директора через две недели. Конечно, это необязательная вещь, но во имя хорошего командного духа я ожидаю, что каждый из вас подыщет подарок стоимостью не менее двухмесячной зарплаты. Это самое малое, что мы можем сделать!</li>
 
-    <li>alienistProphecy(tag=meme_ExaltedPriesthood)->Our dear leader, the highest among our priests, will decide the fate of all these wayward human creations, for we trust his wisdom in such matters.</li>
+    <li>alienistProphecy(tag=meme_ExaltedPriesthood)->Наш дорогой лидер, высший из наших жрецов, решит судьбу всех этих заблудших человеческих творений, ибо мы доверяем его мудрости в таких вопросах.</li>
   </VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Papacy -->
@@ -1505,41 +1505,41 @@
     <li>alienistProphecy(tag=meme_Scrapper)->Perhaps all these wayward human creations can be repurposed somehow, as they are nothing but living pieces of ancient technology.</li>
   -->
   <VME_Scrapper.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Scrapper)        ->[deity0_name] taught us to never leave anything to waste: "Squandering is a great sin, for I created the world in my image, and by letting things unused your are also insulting me."</li>
-    <li>episode(uses=1,tag=meme_Scrapper)  ->Following the teachings of [deity0_name], we learned to reuse and recycle things to make better use of them.</li>
+    <li>creation(tag=meme_Scrapper)        ->[deity0_name] учил нас никогда ничего не оставлять впустую: "Расточительство - великий грех, ибо Я создал мир по образу и подобию Своему, и, оставляя вещи без употребления, вы также оскорбляете Меня".</li>
+    <li>episode(uses=1,tag=meme_Scrapper)  ->Следуя учениям [deity0_name], мы научились повторно использовать и перерабатывать вещи.</li>
 
-    <li>intro(tag=meme_Scrapper)           ->On the [place_summary] [place_name], the [memberNamePlural] found the words of [deity0_name], technical instructions to disassemble and reuse the mighty machines of our ancestors.</li>
-    <li>conflict(tag=meme_Scrapper)        ->An envious [foeLeader] saw the progress of the [memberNamePlural], and sought to destroy our repurposed machines.</li>
-    <li>founderJoin(tag=meme_Scrapper)     ->[founderName], known as the Great Scavenger, put together a makeshift weapon, the [relic0_name], and managed to stop the [foeLeader] before it was too late.</li>
-    <li>victory(tag=meme_Scrapper)         ->Seeing the resourcefulness of [founderName], [founderName_possessive] followers named [founderName_objective] a teacher, and learned from [founderName_objective] the secrets of scavenging ancient tech.</li>
+    <li>intro(tag=meme_Scrapper)           ->На [place_summary] [place_name], [memberNamePlural] нашли слова о [deity0_name], технические инструкции по разборке и повторному использованию могучих машин наших предков.</li>
+    <li>conflict(tag=meme_Scrapper)        ->Завистник [foeLeader] увидел прогресс [memberNamePlural], и пытался уничтожить наши переоборудованные машины..</li>
+    <li>founderJoin(tag=meme_Scrapper)     ->[founderName], известный как Великий Падальщик, собрал самодельное оружие, [relic0_name], и сумел остановить [foeLeader], пока не стало слишком поздно.</li>
+    <li>victory(tag=meme_Scrapper)         ->Видя изобретательность [founderName], последователи [founderName_possessive] назвали [founderName_objective] учителем и научились у [founderName_objective] секретам поиска древних технологий.</li>
 
-    <li>setup(tag=meme_Scrapper)           ->[founderName] was an engineer in one of the Glitterworlds. [founder_pronoun] noticed that long ranged exploration vessels sent to the Rim always told of ancient technology littered around the myriad worlds. Could this ancient tech perhaps be studied, reversed engineered, and repurposed?</li>
-    <li>story(uses=1,tag=meme_Scrapper)    ->[founderName] assembled a team of interstellar explorers, and decided to see for [founderName_objective]self what could be done with this mysterious forgotten technology. Unfortunately, [founderName_pronoun] didn't survive the dangerous trip.</li>
+    <li>setup(tag=meme_Scrapper)           ->[founderName] был инженером в одном из Сияющих Миров. [founder_pronoun] заметил, что исследовательские корабли дальнего радиуса действия, отправляемые на планету Rim , всегда рассказывали о древних технологиях, разбросанных по мириадам миров. Может быть, эти древние технологии можно изучить, переделать и применить заново?</li>
+    <li>story(uses=1,tag=meme_Scrapper)    ->[founderName] собрал команду межзвездных исследователей и решил посмотреть [founderName_objective] сам, что можно сделать с этой таинственной забытой технологией. К сожалению, [founderName_pronoun] не пережил опасного путешествия.</li>
 
-    <li>lessonIntro(tag=meme_Scrapper)         ->The oldest scavenger in my division taught me the history of ancient tech, how all the myriad worlds in the Rim are filled with discarded ancient tech. He was leading me to understand that</li>
-    <li>lesson(tag=meme_Scrapper)              ->humanity has been around for a long time, and it is absurd to not repurpose the discarded technology of our ancestors</li>
-    <li>lessonReinforcement(tag=meme_Scrapper) ->Perhaps ancient technology is junk, or perhaps it is the key to our survival.</li>
+    <li>lessonIntro(tag=meme_Scrapper)         ->Старейший мусорщик в моем отделе учил меня истории древних технологий, рассказывал о том, как все мириады миров в Rimе заполнены выброшенными древними технологиями. Он подвел меня к пониманию того, что</li>
+    <li>lesson(tag=meme_Scrapper)              ->человечество существует уже очень давно, и абсурдно не перепрофилировать выброшенные технологии наших предков</li>
+    <li>lessonReinforcement(tag=meme_Scrapper) ->Возможно, древние технологии - это хлам, а возможно, это ключ к нашему выживанию.</li>
 
-    <li>archistBasis(tag=meme_Scrapper)    ->It is a fact that archotechs were originally of human creation, we created the next step in the development of consciousness.</li>
-    <li>archistFact(tag=meme_Scrapper)     ->The discarded ancient technology of our ancestor might be just forgotten junk. But what if this isn't the case? What if this waste is in reality something that will prove essential to our Transcendence?</li>
-   <li>archistProphecy(tag=meme_Scrapper) ->[inTheEnd], we shall not let an ounce of ancient technology go to waste. We will scrounge every piece of technology laying around, and hopefully discover its secrets.</li>
+    <li>archistBasis(tag=meme_Scrapper)    ->Факт, что архотеки изначально были созданы человеком, мы создали следующий шаг в развитии сознания.</li>
+    <li>archistFact(tag=meme_Scrapper)     ->Выброшенные древние технологии наших предков могут оказаться просто забытым хламом. Но что, если это не так? Что, если этот мусор на самом деле является чем-то, что окажется необходимым для нашего Трансцендентального развития?</li>
+   <li>archistProphecy(tag=meme_Scrapper) ->[inTheEnd], Мы не позволим ни одной унции древней технологии пропасть зря. Мы разберем каждый кусочек технологии, лежащий поблизости, и, надеюсь, откроем его секреты.</li>
 
-    <li>animistBasis(tag=meme_Scrapper)    ->The pieces of ancient debris found around the world are relics of the Ancients.</li>
-    <li>animistFact(tag=meme_Scrapper)     ->The spirits will guide us to recover all the ancient tech that our ancestors left discarded.</li>
-    <li>animistFact(tag=meme_Scrapper)     ->When we have recovered and reused the technology of our forefathers, we will truly make their spirits at peace.</li>
-    <li>animistProphecy(tag=meme_Scrapper) ->[itIsSaid] one day we will be as intelligent as the ancients were, and their discarded machinery will hold no secrets for us.</li>
+    <li>animistBasis(tag=meme_Scrapper)    ->Куски древних обломков, найденные по всему миру, являются реликвиями Древних.</li>
+    <li>animistFact(tag=meme_Scrapper)     ->Духи направят нас на восстановление всех древних технологий, которые наши предки оставили выброшенными.</li>
+    <li>animistFact(tag=meme_Scrapper)     ->Когда мы восстановим и повторно используем технологии наших предков, мы действительно успокоим их дух.</li>
+    <li>animistProphecy(tag=meme_Scrapper) ->[itIsSaid] однажды мы станем такими же разумными, как древние, и их выброшенные машины не будут хранить для нас никаких секретов.</li>
 
-    <li>serketistProphecy(tag=meme_Scrapper)->[itIsSaid] we will learn that scavenging the ancient technology that litters the landscape is as sacred as termites using soil to build their nests.</li>
+    <li>serketistProphecy(tag=meme_Scrapper)->[itIsSaid] мы узнаем, что сбор мусора с древних технологий, засоряющих ландшафт, так же священен, как и использование термитами почвы для строительства своих гнезд.</li>
 
-    <li>chthonianProphecy(tag=meme_Scrapper)->The Rim is littered with the technological corpses of those who failed to appease these inhuman entities: only by repurposing this ancient technology may we hope to resist their onslaught where so many others failed.</li>
+    <li>chthonianProphecy(tag=meme_Scrapper)->Мир Rim усеян технологическими трупами тех кто не смог умиротворить эти бесчеловечные сущности: только перепрофилировав эту древнюю технологию, мы можем надеяться противостоять их натиску там, где многие другие потерпели неудачу.</li>
 
-    <li>esotericismProphecy(tag=meme_Scrapper)->The Rim is littered with technological remains of those who came long before us. We will study and repurpose these fragments of the past, and learn all of their secrets.</li>
+    <li>esotericismProphecy(tag=meme_Scrapper)->Край усеян технологическими останками тех, кто пришел задолго до нас. Мы будем изучать и перерабатывать эти фрагменты прошлого и узнаем все их секреты.</li>
 
-    <li>eschatologismFact(tag=meme_Scrapper)->The Rim is littered with the technological corpses of those who have fallen before, and we will use their own forgotten technology to bring the end of times.</li>
+    <li>eschatologismFact(tag=meme_Scrapper)->Мир Rim усеян технологическими трупами тех кто пали раньше, и мы будем использовать их собственные забытые технологии, чтобы приблизить конец времен.</li>
 
-    <li>introMemo(tag=meme_Scrapper)->In this week's recommended reading I'd like to point you to: "Reassess, reduce, reuse, recycle – how to be a sustainable modern business". Please read it at your leisure and we will discuss the finer points in tomorrow's meeting.</li>
+    <li>introMemo(tag=meme_Scrapper)->На этой неделе в списке рекомендуемой литературы я хотел бы обратить ваше внимание на: "Переоценка, сокращение, повторное использование, переработка - как стать устойчивым современным бизнесом". Пожалуйста, прочитайте ее на досуге, а тонкости мы обсудим на завтрашней встрече.</li>
 
-    <li>alienistProphecy(tag=meme_Scrapper)->Perhaps all these wayward human creations can be repurposed somehow, as they are nothing but living pieces of ancient technology.</li>
+    <li>alienistProphecy(tag=meme_Scrapper)->Возможно, все эти заблудшие человеческие творения можно как-то перепрофилировать, ведь они не что иное, как живые части древних технологий.</li>
   </VME_Scrapper.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Scavenging -->
@@ -1637,40 +1637,40 @@
     <li>alienistProphecy(tag=meme_Trader)->These wayward creations, born of human creativity, represent a boundless potential wealth that we'd do well to exploit.</li>
   -->
   <VME_Trader.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Trader)        ->[deity0_name] spoke to [deity0_possessive] followers: "Poverty is the greatest sin. Amassing wealth is the true measure of humanity."</li>
-    <li>episode(uses=1,tag=meme_Trader)  ->Following the teachings of [deity0_name], we struggled to become the richest faction of all. Poets will sing about prosperity and opulence long after we are gone.</li>
+    <li>creation(tag=meme_Trader)        ->[deity0_name] сказал последователям [deity0_possessive]: "Бедность - величайший грех. Накопление богатства - истинная мера человечности."</li>
+    <li>episode(uses=1,tag=meme_Trader)  ->Следуя учениям [deity0_name], мы боролись за то, чтобы стать самой богатой фракцией из всех. Поэты будут петь о процветании и роскоши еще долго после того, как нас не станет.</li>
 
-    <li>intro(tag=meme_Trader)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic vault to store all the riches consecrated to [deity0_name].</li>
-    <li>conflict(tag=meme_Trader)        ->An envious [foeLeader] wanted all these riches for [foeLeader_objective]self, and sought to steal our hard-earned wealth.</li>
-    <li>founderJoin(tag=meme_Trader)     ->[founderName], known as the Great Merchant, bought a powerful neutron bomb from an allied nation's traders, and used it against the [foeLeader]'s soldiers.</li>
-    <li>victory(tag=meme_Trader)         ->The terrible weapon decimated their ranks, their flesh melting from their bones, but left the vault unaffected, as it was built sparing no expenses and prepared to withstand even the fury of atomic fire.</li>
+    <li>intro(tag=meme_Trader)           ->На [place_summary] [place_name], [memberNamePlural] построил гигантское хранилище для хранения всех богатств, посвященных [deity0_name].</li>
+    <li>conflict(tag=meme_Trader)        ->Завистник [foeLeader] хотел все эти богатства для [foeLeader_objective] себя, и пытался украсть наше с трудом заработанное богатство.</li>
+    <li>founderJoin(tag=meme_Trader)     ->[founderName], известный как Великий Торговец, купил у торговцев союзной страны мощную нейтронную бомбу и использовал ее против солдат [foeLeader].</li>
+    <li>victory(tag=meme_Trader)         ->Ужасное оружие уничтожило их ряды, их плоть отделялась от костей, но не тронуло хранилище, поскольку оно было построено с особыми затратами и было готово выдержать даже ярость атомного огня.</li>
 
-    <li>setup(tag=meme_Trader)           ->[founderName] was an economist in one of the Glitterworlds. [founder_pronoun] looked at the apparent prosperity surrounding [foeLeader_objective] and saw only decadence. The stagnation of a false post-scarcity economy that has forgotten what makes life worth living.</li>
-    <li>story(uses=1,tag=meme_Trader)    ->Seeking the thrill of making his own fortune, [founderName] assembled a team of merchants and chartered a ship to travel to the Rim. Unfortunately, [founderName_pronoun] didn't survive the dangerous trip.</li>
+    <li>setup(tag=meme_Trader)           ->[founderName] был экономистом в одном из Блестящих миров.. [founder_pronoun] посмотрел на видимое процветание, окружающее [foeLeader_objective], и увидел только упадок. Стагнация ложной экономики пост-ущербности, которая забыла о том, что делает жизнь достойной жизни.</li>
+    <li>story(uses=1,tag=meme_Trader)    ->В поисках острых ощущений, чтобы заработать собственное состояние, [founderName] собрал команду торговцев и взял корабль, чтобы отправиться на планету Rim. собрал команду торговцев и взял корабль, чтобы отправиться на планету Rim. К сожалению, [founderName_pronoun] не пережил опасного путешествия.</li>
 
-    <li>lessonIntro(tag=meme_Trader)         ->The oldest trader in my caravan taught me the history of wealth, how humanity has always sought to increase its prosperity. He was leading me to understand that</li>
-    <li>lesson(tag=meme_Trader)              ->the true measure and power of a man lies in profit</li>
-    <li>lessonReinforcement(tag=meme_Trader) ->A poor man is a defenseless man, and the Rim is not a place for weaklings.</li>
+    <li>lessonIntro(tag=meme_Trader)         ->Самый старый торговец в моем караване учил меня истории богатства, тому, как человечество всегда стремилось к увеличению своего благосостояния. Он подводил меня к пониманию того, что</li>
+    <li>lesson(tag=meme_Trader)              ->истинная мера и сила человека заключается в прибыли</li>
+    <li>lessonReinforcement(tag=meme_Trader) ->Бедный человек - это слабый человек, а Rim - не место для слабаков.</li>
 
-    <li>archistBasis(tag=meme_Trader)    ->Picture a world entering transcendence. Do you really think the masses of poor, filthy, unwashed beggars have any place in such a process?</li>
-    <li>archistFact(tag=meme_Trader)     ->The archotechs can't ascend everyone, and it stands to reason that they will choose the most prosperous and capable of us all.</li>
-    <li>archistProphecy(tag=meme_Trader) ->[inTheEnd], only those who can buy their way to transcendence will be chosen.</li>
+    <li>archistBasis(tag=meme_Trader)    ->Представьте себе мир, вступающий в трансцендентность. Вы действительно думаете, что массам бедных, грязных, немытых нищих есть место в таком процессе?</li>
+    <li>archistFact(tag=meme_Trader)     ->Архотеки не могут вознести всех, и вполне логично, что они выберут самых процветающих и способных из всех нас.</li>
+    <li>archistProphecy(tag=meme_Trader) ->[inTheEnd], только те, кто может купить свой путь к трансцендентности, будут выбраны.</li>
 
-    <li>animistBasis(tag=meme_Trader)    ->As there are spirits of nature and mechanisms, so there are spirits that govern the abstract concepts that guide the future of humanity.</li>
-    <li>animistFact(tag=meme_Trader)     ->Among the spirits, the spirit of wealth has unrivaled power among them all, for it controls the sphere of prosperity, of power.</li>
-    <li>animistProphecy(tag=meme_Trader) ->[itIsSaid] only those who amass incredible wealth can truly appease the spirits.</li>
+    <li>animistBasis(tag=meme_Trader)    ->Как есть духи природы и механизмов, так есть и духи, управляющие абстрактными понятиями, которые определяют будущее человечества.</li>
+    <li>animistFact(tag=meme_Trader)     ->Среди духов дух богатства обладает непревзойденной властью, ибо он контролирует сферу процветания, власти.</li>
+    <li>animistProphecy(tag=meme_Trader) ->[itIsSaid] только те, кто накопил невероятное богатство, могут по-настоящему успокоить духов.</li>
 
-    <li>serketistProphecy(tag=meme_Trader)->[itIsSaid] as ants store food for the long winter, we will accumulate wealth beyond all imagining, and with it, incredible prosperity.</li>
+    <li>serketistProphecy(tag=meme_Trader)->[itIsSaid] как муравьи запасают пищу на долгую зиму, мы накопим богатство, превосходящее всякое воображение, а вместе с ним и невероятное процветание.</li>
 
-    <li>chthonianProphecy(tag=meme_Trader)->Only the truly prosperous can hope to evade the gaze of such eldritch entities. We will amass wealth beyond all imagining, and with it hopefully buy our way out of their insanity.</li>
+    <li>chthonianProphecy(tag=meme_Trader)->Только по-настоящему процветающие люди могут надеяться укрыться от взгляда таких жутких существ. Мы соберем богатство, превосходящее всякое воображение, и с его помощью, надеюсь, купим себе выход из их безумия.</li>
 
-    <li>esotericismProphecy(tag=meme_Trader)->Such occult knowledge will be expensive. We will amass wealth beyond all imagining, and with it hopefully buy all the secrets that remain hidden.</li>
+    <li>esotericismProphecy(tag=meme_Trader)->Такие оккультные знания будут стоить дорого. Мы накопим богатство, превосходящее всякое воображение, и с его помощью, надеюсь, купим все секреты, которые остаются скрытыми.</li>
 
-    <li>eschatologismFact(tag=meme_Trader)->We will amass wealth beyond all imagining, and with it hopefully buy the doomsday devices that will bring the end of days.</li>
+    <li>eschatologismFact(tag=meme_Trader)->Мы накопим богатство, превышающее все мыслимые пределы, и на него, надеюсь, купим устройства судного дня, которые приблизят конец света.</li>
 
-    <li>introMemo(tag=meme_Trader)->Regarding employee incentives, please remember that this is not a charity. As the saying goes: "it is wealth that moves the world, and profit that rules it".</li>
+    <li>introMemo(tag=meme_Trader)->Что касается поощрения сотрудников, пожалуйста, помните, что это не благотворительная организация. Как говорится: "богатство движет миром, а прибыль управляет им".</li>
 
-    <li>alienistProphecy(tag=meme_Trader)->These wayward creations, born of human creativity, represent a boundless potential wealth that we'd do well to exploit.</li>
+    <li>alienistProphecy(tag=meme_Trader)->Эти непутевые творения, рожденные человеческим творчеством, представляют собой безграничное потенциальное богатство.</li>
   </VME_Trader.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Trader -->
