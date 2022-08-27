@@ -1645,7 +1645,7 @@
     <li>founderJoin(tag=meme_Trader)     ->[founderName], известный как Великий Торговец, купил у торговцев союзной страны мощную нейтронную бомбу и использовал ее против солдат [foeLeader].</li>
     <li>victory(tag=meme_Trader)         ->Ужасное оружие уничтожило их ряды, их плоть отделялась от костей, но не тронуло хранилище, поскольку оно было построено с особыми затратами и было готово выдержать даже ярость атомного огня.</li>
 
-    <li>setup(tag=meme_Trader)           ->[founderName] был экономистом в одном из Блестящих миров.. [founder_pronoun] посмотрел на видимое процветание, окружающее [foeLeader_objective], и увидел только упадок. Стагнация ложной экономики пост-ущербности, которая забыла о том, что делает жизнь достойной жизни.</li>
+    <li>setup(tag=meme_Trader)           ->[founderName] был экономистом в одном из Блестящих миров. [founder_pronoun] посмотрел на видимое процветание, окружающее [foeLeader_objective], и увидел только упадок. Стагнация ложной экономики пост-ущербности, которая забыла о том, что делает жизнь достойной жизни.</li>
     <li>story(uses=1,tag=meme_Trader)    ->В поисках острых ощущений, чтобы заработать собственное состояние, [founderName] собрал команду торговцев и взял корабль, чтобы отправиться на планету Rim. собрал команду торговцев и взял корабль, чтобы отправиться на планету Rim. К сожалению, [founderName_pronoun] не пережил опасного путешествия.</li>
 
     <li>lessonIntro(tag=meme_Trader)         ->Самый старый торговец в моем караване учил меня истории богатства, тому, как человечество всегда стремилось к увеличению своего благосостояния. Он подводил меня к пониманию того, что</li>
@@ -1766,40 +1766,40 @@
     <li>alienistProphecy(tag=meme_Elders)->These wayward creations, born of human creativity, hold a treasure trove of ancient wisdom, a window to the forgotten techniques of our ancestors.</li>
   -->
   <VME_Elders.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Elders)        ->[deity0_name] spoke to [deity0_possessive] followers: "Respect and obey your elders, for wisdom comes only from experience."</li>
-    <li>episode(uses=1,tag=meme_Elders)  ->Following [deity0_name]'s teachings, we honoured our elders, putting their needs above those of others.</li>
+    <li>creation(tag=meme_Elders)        ->[deity0_name] сказал последователям [deity0_possessive]: "Уважайте и слушайтесь старших, ибо мудрость и опытом приходит только с возрастом."</li>
+    <li>episode(uses=1,tag=meme_Elders)  ->Последователи [deity0_name] научились, почитать старших, ставя их потребности выше потребностей других людей.</li>
 
-    <li>intro(tag=meme_Elders)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic retirement home, so that the elders could spend their twilight years.</li>
-    <li>conflict(tag=meme_Elders)        ->A young [foeLeader], jealous of the wisdom of [deity0_name]'s followers, tried to spread a deadly plague that only affected the elderly.</li>
-    <li>founderJoin(tag=meme_Elders)     ->[founderName], a great scientist, developed a cure in a record time, saving many lives in the process.</li>
-    <li>victory(tag=meme_Elders)         ->[foeLeader] was imprisoned, and [foeLeader_possessive] tale will forever be used as a cautinary tale against those who try to deny the wisdom of our elders.</li>
+    <li>intro(tag=meme_Elders)           ->На [place_summary] [place_name], [memberNamePlural] Отстроил огромный дом престарелых, в котором пожилые могут провести закат своей жизни.</li>
+    <li>conflict(tag=meme_Elders)        ->Молодой [foeLeader], завидовал мудрости последователей [deity0_name], пытался распространить смертельную чуму, которая поражала только пожилых людей.</li>
+    <li>founderJoin(tag=meme_Elders)     ->[founderName], великий учёный, разработал лекарство в рекордно короткие сроки, спасая при этом множество жизней.</li>
+    <li>victory(tag=meme_Elders)         ->[foeLeader] был заключен в тюрьму, а рассказ [foeLeader_possessive] будет вечно использоваться как поучительный рассказ против тех, кто пытается отрицать мудрость наших старших.</li>
 
-    <li>setup(tag=meme_Elders)           ->[founderName] was a social scientist in one of the Glitterworlds. [founder_pronoun] posited that wisdom is accumulated through experience, and only a person who has experienced a lot can truly be considered wise.</li>
-    <li>story(uses=1,tag=meme_Elders)    ->[founderName] thus created a great school of thought, where the wisdom of our elders is always respected and considered.</li>
+    <li>setup(tag=meme_Elders)           ->[founderName] был социологом в одном из Блестящих миров. [founder_pronoun] утверждал, что мудрость и опыт накапливается через возраст, и только человек, который много пережил, может считаться по-настоящему мудрым.</li>
+    <li>story(uses=1,tag=meme_Elders)    ->[founderName] таким образом, создали великую школу мысли, где всегда уважают и учитывают мудрость старших.</li>
 
-    <li>lessonIntro(tag=meme_Elders)         ->The oldest man in our community taught me the history of civilization, how the youth have always recklessly thrown themselves into conflicts without pondering all the alternatives. He was leading me to understand that</li>
-    <li>lesson(tag=meme_Elders)              ->age brings experience, and experience brings wisdom</li>
-    <li>lessonReinforcement(tag=meme_Elders) ->Without wisdom, any decision is raw and wild, and prone to cause unwanted consequences.</li>
+    <li>lessonIntro(tag=meme_Elders)         ->Старейший человек в нашей общине рассказывал мне об истории цивилизации, о том, как молодежь всегда безрассудно бросалась в конфликты, не обдумав все альтернативы. Он подводил меня к пониманию того, что</li>
+    <li>lesson(tag=meme_Elders)              ->возраст приносит опыт, а опыт приносит мудрость</li>
+    <li>lessonReinforcement(tag=meme_Elders) ->Без мудрости любое решение является грубым и необдуманным и это чревато нежелательными последствиями.</li>
 
-    <li>archistBasis(tag=meme_Elders)    ->The archotechs are supreme beings, existing beyond concepts like age and time.</li>
-    <li>archistFact(tag=meme_Elders)     ->Whirling through a vortex of infinite time, their wisdom grows far larger than anything possible for a mere human.</li>
-    <li>archistProphecy(tag=meme_Elders) ->[inTheEnd], the archotechs will allow only the wisest of us to transcend, and thus we must honour our elders as they will be the heralds of our ascendancy.</li>
+    <li>archistBasis(tag=meme_Elders)    ->Архотеки - высшие существа, существующие вне таких понятий, как возраст и время.</li>
+    <li>archistFact(tag=meme_Elders)     ->Проходя через вихрь бесконечного времени, их мудрость становится намного больше, чем это возможно для обычного человека.</li>
+    <li>archistProphecy(tag=meme_Elders) ->[inTheEnd], Архотехи позволят только самым мудрым из нас перейти на следующую ступень эволюции и подняться до своего уровня, так что мы должны с почтением относиться к старшим, ведь они будут первопроходцами нашего вознесения.</li>
 
-    <li>animistBasis(tag=meme_Elders)    ->The spirits value wisdom above anything else, for only those who are truly wise can properly communicate with them.</li>
-    <li>animistFact(tag=meme_Elders)     ->Our elders, in their infinite wisdom, will act as a conduit to the world of the spirits.</li>
-    <li>animistProphecy(tag=meme_Elders) ->[itIsSaid] the wisest of our elders will one day commune fully with the spirits, becoming one with them.</li>
+    <li>animistBasis(tag=meme_Elders)    ->Духи ценят мудрость превыше всего, потому что только те, кто действительно мудр, могут правильно общаться с ними.</li>
+    <li>animistFact(tag=meme_Elders)     ->Наши старейшины, в своей бесконечной мудрости, будут действовать как проводник в мир духов.</li>
+    <li>animistProphecy(tag=meme_Elders) ->[itIsSaid] Однажды мудрейшие из наших старцев смогут стать едиными с духами.</li>
 
-    <li>serketistProphecy(tag=meme_Elders)->[itIsSaid] we will become as eternal as the greatest ant colony. Old and wise beyond measure.</li>
+    <li>serketistProphecy(tag=meme_Elders)->[itIsSaid] мы станем вечными, как величайший муравейник. Старый и мудрый сверх меры.</li>
 
-    <li>chthonianProphecy(tag=meme_Elders)->Perhaps we should accumulate wisdom, as the eldritch entities are old and wise beyond all imagining.</li>
+    <li>chthonianProphecy(tag=meme_Elders)->Возможно, нам следует накапливать мудрость, ведь жуткие сущности стары и мудры сверх всякой меры.</li>
 
-    <li>esotericismProphecy(tag=meme_Elders)->Such occult knowledge can only be acquired with time and study. Only the eldest among us will be wise enough to pierce the barrier between reality and the realms beyond.</li>
+    <li>esotericismProphecy(tag=meme_Elders)->Такие оккультные знания можно приобрести только со временем и учебой. Только самые старшие среди нас будут достаточно мудры, чтобы пробить барьер между реальностью и потусторонними мирами.</li>
 
-    <li>eschatologismFact(tag=meme_Elders)->We shall honour our elders, for they have been labouring the longest to bring about the end of days.</li>
+    <li>eschatologismFact(tag=meme_Elders)->Мы будем почитать наших старейшин, ибо они дольше всех трудились, чтобы приблизить конец времён.</li>
 
-    <li>introMemo(tag=meme_Elders)->Hear me out on this: it is time to retire retirement. Retirement only causes a severe shortage of talented workers, people who have been bringing expertise and wisdom to our company for decades. Why are we just letting them go? It's absurd!</li>
+    <li>introMemo(tag=meme_Elders)->Послушайте, что я вам скажу: нам пора отправить на пенсию само понятие "пенсии". Когда человек отправляется на покой - общество теряет талантливых работников, людей, которые делились своей мудростью и навыками с другими сотрудниками на протяжении десятилетий. Почему мы вообще должны их отпускать? Это чушь!</li>
 
-    <li>alienistProphecy(tag=meme_Elders)->These wayward creations, born of human creativity, hold a treasure trove of ancient wisdom, a window to the forgotten techniques of our ancestors.</li>
+    <li>alienistProphecy(tag=meme_Elders)->Эти странные творения, рожденные человеческим творчеством, являются кладезем древней мудрости, окном в забытые техники наших предков.</li>
   </VME_Elders.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Elders -->
@@ -1875,40 +1875,40 @@
     <li>alienistProphecy(tag=meme_Vegan)->These wayward creatures are poor, innocent beings. It would be a grave mistake to mistreat them in any way.</li>
   -->
   <VME_Vegan.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Vegan)        ->[deity0_name] spoke to [deity0_possessive] followers: "Shun the flesh, for it is sinful and impure."</li>
-    <li>episode(uses=1,tag=meme_Vegan)  ->As [deity0_name] commanded, we banned the ingestion of meat. Our bodies will not be a tomb for other creatures.</li>
+    <li>creation(tag=meme_Vegan)        ->[deity0_name] сказал последователям [deity0_possessive]: "Отринь плоть, ведь она нечиста и грешна".</li>
+    <li>episode(uses=1,tag=meme_Vegan)  -Как нам велел [deity0_name], мы отказались от употребления мяса. Наши тела не будут гробницей для других живых существ..</li>
 
-    <li>intro(tag=meme_Vegan)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic farm, where all sorts of juicy fruits and plump vegetables were grown.</li>
+    <li>intro(tag=meme_Vegan)           ->На [place_summary] [place_name], [memberNamePlural] построил гигантскую ферму, где выращивались всевозможные сочные фрукты и пухлые овощи.</li>
     <li>conflict(tag=meme_Vegan)        ->An evil industrial farmer, seeing [foeLeader_possessive] profits evaporate due to most [memberNamePlural]s shunning meat, wanted to sabotage the farm by any means necessary.</li>
-    <li>founderJoin(tag=meme_Vegan)     ->Our founder, [founderName], firmly spoke to [foeLeader_objective]: "Could you look an animal in the eyes and say to it, ‘My appetite is more important than your suffering’?".</li>
-    <li>victory(tag=meme_Vegan)         ->Eventually, everyone was convinced of [founderName_possessive] arguments, and the [memberNamePlural] will forever respect the natural world around us.</li>
+    <li>founderJoin(tag=meme_Vegan)     ->наш основатель, [founderName], твёрдо сказал [foeLeader_objective]: "Можешь ли ты посмотреть животному в глаза и сказать ему: "Мой аппетит важнее твоих страданий"?".</li>
+    <li>victory(tag=meme_Vegan)         ->Со временем все приняли доводы [founderName_possessive] и теперь [memberNamePlural] будут всегда относиться с уважением к природе вокруг.</li>
 
-    <li>setup(tag=meme_Vegan)           ->[founderName] was an ecologist in one of the Glitterworlds, on the brink of climate collapse. [founder_pronoun] found that many planets that had heavily relied on meat consumption as a way to feed their populace eventually sucumbed to ecological disaster. Meat was just not efficient enough to feed a large population.</li>
-    <li>story(uses=1,tag=meme_Vegan)    ->Seeking a better way, [founderName] became a vegan, and shunned meat forever. The rest of society, however, was far too entrenched in their old customs, and [founder_pronoun] and [founderName_possessive] followers has to escape the doomed planet, trying to find a new home among the stars.</li>
+    <li>setup(tag=meme_Vegan)           ->[founderName] был экологом в одном из Блесящих миров, на грани климатического коллапса. [founder_pronoun] обнаружил, что многие планеты, которые в значительной степени полагались на потребление мяса как способ прокормить свое население, в конечном итоге потерпели экологическую катастрофу. Мясо просто недостаточно эффективно для того, чтобы прокормить большое население.</li>
+    <li>story(uses=1,tag=meme_Vegan)    ->Находясь в поисках лучшего пути, [founderName] стал веганом, и навсегда отказался от мяса. Однако остальное общество слишком укоренилось в своих старых обычаях, и последователям [founder_pronoun] и [founderName_possessive] пришлось бежать с обреченной планеты, пытаясь найти новый дом среди звезд.</li>
 
-    <li>lessonIntro(tag=meme_Vegan)         ->The oldest ecologist in my caravan taught me the history of veganism, how many societies collapse because of their insistence on consuming meat. He was leading me to understand that</li>
-    <li>lesson(tag=meme_Vegan)              ->becoming vegan is the most important and direct change we can immediately make to save a planet and its species</li>
-    <li>lessonReinforcement(tag=meme_Vegan) ->All life deserves respect, dignity, and compassion. All life.</li>
+    <li>lessonIntro(tag=meme_Vegan)         ->Старейший эколог в моём караване обучил меня истории веганизма, тому, как многие сообщества постигал крах из-за их приверженности своей привычке поедать мясо. Он помог мне прийти к тому:</li>
+    <li>lesson(tag=meme_Vegan)              ->стать веганом - значит сделать первый шаг к тому, чтобы спасти всю планету и всех живых существ на ней. </li>
+    <li>lessonReinforcement(tag=meme_Vegan) ->Любая жизнь заслуживает уважения, достоинства и сострадания. Абсолютно любая.</li>
 
-    <li>archistBasis(tag=meme_Vegan)    ->Archotechs are wise beyond measure. Do you think they would condone cruelty to others? Humans have victimized animals to such a degree that they are not even considered victims. They are not even considered at all. They are nothing; they don’t count; they don’t matter.</li>
-    <li>archistFact(tag=meme_Vegan)     ->There is no fundamental difference between man and animals in their ability to feel pleasure and pain, happiness, and misery. And to an archotech, we are all the same.</li>
-    <li>archistProphecy(tag=meme_Vegan) ->[inTheEnd], non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.</li>
+    <li>archistBasis(tag=meme_Vegan)    ->Мудрость архотеков не знает границ. И неужели ты думаешь, что они одобрят жестокость по отношению к другим? Люди так долго вели себя как тираны по отношению к животным, что те даже уже не считаются жертвами угнетения. О них вообще уже никто не думает. Они - ничто. Они жизни не имеют значения, а смерти - не имеют числа.</li>
+    <li>archistFact(tag=meme_Vegan)     ->Между человеком и животным нет особого различия - и те, и другие могут чувствовать удовольствие и боль, радость и грусть. А для архотеха мы все одинаковы.</li>
+    <li>archistProphecy(tag=meme_Vegan) ->[inTheEnd], отказ от насилия ведёт к наивысшей идее, которая соотносится с целью эволюции. Пока мы не прекратим причинять боль другим - мы всё ещё будем дикарями.</li>
 
-    <li>animistBasis(tag=meme_Vegan)    ->Until one has loved an animal, a part of one’s soul remains unawakened, hidden to the spirit world.</li>
-    <li>animistFact(tag=meme_Vegan)     ->The soul is the same in all living creatures, although the body of each is different.</li>
-    <li>animistProphecy(tag=meme_Vegan) ->[itIsSaid] that vegan food is soul food in its truest form. Your soul is your intent. If your intent is pure, you are pure.</li>
+    <li>animistBasis(tag=meme_Vegan)    ->Часть твоей души не воспрянет ото сна, пока ты не почувствовал в себе любви к животным вокруг, она будет скрыта от духовного мира.</li>
+    <li>animistFact(tag=meme_Vegan)     ->Душа одинакова у всех живых существ, хотя и живёт она в разных телах. Веганская пища - есть пища для души, в самой чистой своей форме.</li>
+    <li>animistProphecy(tag=meme_Vegan) ->[itIsSaid] Душа одинакова у всех живых существ, хотя и живёт она в разных телах. Веганская пища - есть пища для души, в самой чистой своей форме. Твоя душа - это твои намерения. И если они чисты, то и ты тоже чист.</li>
 
-    <li>serketistProphecy(tag=meme_Vegan)->[itIsSaid] we will understand that our sacred diet is actually a gift from the holiest of creatures.</li>
+    <li>serketistProphecy(tag=meme_Vegan)->[itIsSaid] Всем нам понятна идея о том, что наша священная пища - это дар от самых святых из всех живых существ.</li>
 
-    <li>chthonianProphecy(tag=meme_Vegan)->These eldritch entities would devour our flesh and rip it from our bones, feasting on our entrails. Are we not better than them?</li>
+    <li>chthonianProphecy(tag=meme_Vegan)->Жуткие существа, живущие за гранью того, что подвластно человеческому разуму пожрут нашу плоть, срывая её с костей и пируя нашими внутренностями. И что же, разве мы не лучше их?</li>
 
-    <li>esotericismProphecy(tag=meme_Vegan)->Such occult knowledge will require a pure mind to fathom. A pure mind that realizes that its desires do not entitle it to add to another’s suffering.</li>
+    <li>esotericismProphecy(tag=meme_Vegan)->Для понимания оккультного и скрытого нужен чистый разум. А разум может быть чистым только тогда, когда он не желает преумножать чужих страданий.</li>
 
-    <li>eschatologismFact(tag=meme_Vegan)->We will shun the devouring of corrupt, rotting, sickening meat, for it is a symbol of why this world and its cruel inhabitants must be purged.</li>
+    <li>eschatologismFact(tag=meme_Vegan)->Мы отринем поедание осквернённой, гниющей плоти, как символ того, из-за чего этот мир, вместе с его жестокосердными обитателями должен быть очищен.</li>
 
-    <li>introMemo(tag=meme_Vegan)->Starting from now, we will only offer vegan alternatives in our cattering services. Simply put, meat is too expensive, and we need to streamline our expenses to keep being competitive.</li>
+    <li>introMemo(tag=meme_Vegan)->Начиная с этого дня в нашей столовой присутствует только вегетарианское меню. Причина проста: мясо слишком дорого и нам нужно оптимизировать расходы, чтобы оставаться конкурентноспособными.</li>
 
-    <li>alienistProphecy(tag=meme_Vegan)->These wayward creatures are poor, innocent beings. It would be a grave mistake to mistreat them in any way.</li>
+    <li>alienistProphecy(tag=meme_Vegan)->Эти заблудшие создания - столь же невинны, сколь и несчастны. Было бы огромной ошибкой причинять им боль любым способом.</li>
   </VME_Vegan.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Vegan -->
@@ -1995,40 +1995,40 @@
     <li>alienistProphecy(tag=meme_Egalitarian)->These wayward creatures are a point of contention among many people. Are they to be protected, or destroyed? We'd do well to listen to all points of view before deciding.</li>
   -->
   <VME_Egalitarian.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Egalitarian)        ->[deity0_name] showed us that the path to true wisdom lies in tolerance and equality.</li>
-    <li>episode(uses=1,tag=meme_Egalitarian)  ->[deity0_name] said to all the [memberNamePlural], "You were all created in my own image, and you are all equal to my eyes."</li>
+    <li>creation(tag=meme_Egalitarian)        ->[deity0_name] показал нам, что путь к истинной мудрости лежит через терпимость и равенство.</li>
+    <li>episode(uses=1,tag=meme_Egalitarian)  ->[deity0_name] сказал всем [memberNamePlural], "Вы все созданы по Моему образу и подобию, и вы все равны в Моих глазах."</li>
 
-    <li>intro(tag=meme_Egalitarian)           ->On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where people would accept the beliefs of their neighbours, and revel in the sharing of different perspectives.</li>
-    <li>conflict(tag=meme_Egalitarian)           ->A bigot [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was intolerant of any belief different from [foeLeader_possessive] own.</li>
-    <li>founderJoin(tag=meme_Egalitarian)        ->[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], and gave a long, passionate speech about the need for respect and tolerance.</li>
-    <li>victory(tag=meme_Egalitarian)            ->Even if the [foeLeader] wasn't convinced by the arguments, everyone else applauded [founderName]'s words, and [founderName_pronoun] was considered from that moment to be [deity0_name]'s speaker.</li>
+    <li>intro(tag=meme_Egalitarian)           ->радиция зародилась в  [altarRoomLabel], принадлежащем [deity0_name], где люди могли принимать убеждения соседей и наслаждаться принятию других перспектив.</li>
+    <li>conflict(tag=meme_Egalitarian)           ->Погрязший в предрассудках [foeLeader] смотрел на это с неприязнью, не будучи способным принять какую-либо веру, кроме своей собственной.</li>
+    <li>founderJoin(tag=meme_Egalitarian)        ->Истинный последователь [deity0_name] [founderName] предстал перед [place_powerCenter], и произнес длинную, страстную речь о необходимости уважения и терпимости.</li>
+    <li>victory(tag=meme_Egalitarian)            ->Даже если слова [founderName] не возымели должного эффекта на [foeLeader], они всё равно были встречены бурными аплодисментами и [foudnerName] был <!--была--> назван проводником воли [deity0_name].</li>
 
-    <li>setup(tag=meme_Egalitarian)           ->From [founderName_possessive] early life, [founderName] was persecuted and imprisoned. [founderName_possessive] ideas were so radically different that [founderName_pronoun] could never fit anywhere. Perhaps [founderName_pronoun] could have reacted to this scorn with more hatred of [founderName_possessive] own, but instead [founderName_pronoun] decided to embrace the opposite.</li>
-    <li>story(uses=1,tag=meme_Egalitarian)    ->[founderName]'s ideas of tolerance and equality deeply resonated with some people, and a new school of thought was born: Light knows no bigotry, wind knows no discrimination, rain knows no snobbery, crops know no segregation.</li>
+    <li>setup(tag=meme_Egalitarian)           ->С самого начала жизни [founderName_possessive] [founderName] подвергался преследованиям и тюремному заключению. Идеи [founderName_possessive] были настолько радикально разными, что [founderName_pronoun] никогда не мог никуда вписаться. Возможно, [founderName_pronoun] мог бы отреагировать на это презрение еще большей ненавистью к [founderName_possessive], но вместо этого [founderName_pronoun] решил принять противоположное мнение.</li>
+    <li>story(uses=1,tag=meme_Egalitarian)    ->Идеи [founderName] о толерантности и равенстве нашли глубокий отклик у некоторых людей, и родилась новая школа мысли: Свет не знает фанатизма, ветер не знает дискриминации, дождь не знает снобизма, посевы не знают сегрегации.</li>
 
-    <li>lessonIntro(tag=meme_Egalitarian)         ->Bigotry, hate, bullying, perversion and discrimination must never be considered to be human rights. It took so long to understand that</li>
-    <li>lesson(tag=meme_Egalitarian)              ->a human without a strong sense of justice, is no human - a human without a strong sense of acceptance, is no human - a human without a strong sense of egalitarianism, is no human</li>
-    <li>lessonReinforcement(tag=meme_Egalitarian) ->To be human, is to act human, and to act human, is to stand up to all forms of inhumanity.</li>
+    <li>lessonIntro(tag=meme_Egalitarian)         ->Предвзятость, ненависть, издевательства, извращения и дискриминация никогда не должны считаться правами человека. Потребовалось так много времени, чтобы понять, что</li>
+    <li>lesson(tag=meme_Egalitarian)              ->человек без сильного чувства справедливости не является человеком - человек без сильного чувства принятия не является человеком - человек без сильного чувства эгалитаризма не является человеком</li>
+    <li>lessonReinforcement(tag=meme_Egalitarian) ->Быть человеком - значит поступать по-человечески, а поступать по-человечески - значит противостоять всем формам бесчеловечности.</li>
 
-    <li>archistBasis(tag=meme_Egalitarian)    ->Archotechs are the pinnacle of ethical development. Beings so wise and so advanced that they have achieved perfection in their thoughts.</li>
-    <li>archistFact(tag=meme_Egalitarian)     ->To an archotech, there must be no differences between two human beings. We are all the same in their eyes.</li>
-    <li>archistProphecy(tag=meme_Egalitarian) ->Only by forgetting our differences and focusing on what makes us all human can we become worthy of transcendence.</li>
+    <li>archistBasis(tag=meme_Egalitarian)    ->Архотеки - это вершина этического развития. Существа настолько мудрые и продвинутые, что достигли совершенства в своих мыслях.</li>
+    <li>archistFact(tag=meme_Egalitarian)     ->Для архотека не должно быть различий между двумя человеческими существами. В их глазах мы все одинаковы.</li>
+    <li>archistProphecy(tag=meme_Egalitarian) ->Только забыв о наших различиях и сосредоточившись на том, что делает всех нас людьми, мы можем стать достойными трансценденции.</li>
 
-    <li>animistBasis(tag=meme_Egalitarian)    ->As spirits are but a shadow to us, pervading the hidden corners behind reality, so are we similarly hidden to them.</li>
-    <li>animistFact(tag=meme_Egalitarian)     ->To the spirits, we are a blurred impression upon the ethereal plane. The differences that seem so striking to us are not as noticeable to them.</li>
-    <li>animistProphecy(tag=meme_Egalitarian) ->[itIsSaid] only by forgetting our differences and focusing on what makes us all human can we make the spirits truly listen to us.</li>
+    <li>animistBasis(tag=meme_Egalitarian)    ->Как духи являются для нас лишь тенью, проникающей в потаенные уголки, скрытые за реальностью, так и мы скрыты для них.</li>
+    <li>animistFact(tag=meme_Egalitarian)     ->Для духов мы являемся размытыми впечатлениями на бесплотном плане. Различия, которые кажутся нам столь разительными, для них не так заметны.</li>
+    <li>animistProphecy(tag=meme_Egalitarian) ->[itIsSaid] только забыв о наших различиях и сосредоточившись на том, что делает всех нас людьми, мы можем заставить духов по-настоящему прислушаться к нам.</li>
 
-    <li>serketistProphecy(tag=meme_Egalitarian)->[itIsSaid] we will form a society in which our differences do not matter. Accepting and tolerant, as all insects are.</li>
+    <li>serketistProphecy(tag=meme_Egalitarian)->[itIsSaid] мы сформируем общество, в котором наши различия не будут иметь значения. Принимающие и терпимые, как все насекомые.</li>
 
-    <li>chthonianProphecy(tag=meme_Egalitarian)->In the face of such cosmic depravity our quarrels and differences are moot. Death does not care about the creed of those it collects.</li>
+    <li>chthonianProphecy(tag=meme_Egalitarian)->Перед лицом такого космического разврата наши ссоры и разногласия не имеют смысла. Смерть не заботится о вероисповедании тех, кого она собирает.</li>
 
-    <li>esotericismProphecy(tag=meme_Egalitarian)->Such occult knowledge will require an open mind. We'll need to welcome all sorts of creeds and beliefs into our fold.</li>
+    <li>esotericismProphecy(tag=meme_Egalitarian)->Такие оккультные знания требуют открытого ума. Мы должны будем принять в свои ряды представителей всех вероисповеданий и убеждений.</li>
 
-    <li>eschatologismFact(tag=meme_Egalitarian)->A narrow mind won't be able to bring the end of days. We'll need to expand our minds if we want to get the job done.</li>
+    <li>eschatologismFact(tag=meme_Egalitarian)->Узкий ум не сможет приблизить конец дней. Нам нужно расширить свой разум, если мы хотим добиться желаемого.</li>
 
-    <li>introMemo(tag=meme_Egalitarian)->This coming week we are instating the new multifaith policies to ensure all our employees are free to express their own beliefs in peace. The Human Resources department will handle reservations and timetables for the scheduled multifaith masses.</li>
+    <li>introMemo(tag=meme_Egalitarian)->На предстоящей неделе мы вводим в действие новую многоконфессиональную политику, чтобы все наши сотрудники могли спокойно выражать свои убеждения. Отдел кадров будет заниматься бронированием билетов и расписанием запланированных многоконфессиональных месс.</li>
 
-    <li>alienistProphecy(tag=meme_Egalitarian)->These wayward creatures are a point of contention among many people. Are they to be protected, or destroyed? We'd do well to listen to all points of view before deciding.</li>
+    <li>alienistProphecy(tag=meme_Egalitarian)->Эти своенравные существа вызывают споры среди многих людей. Нужно ли их защищать или уничтожать? Нам стоит выслушать все точки зрения, прежде чем принимать решение.</li>
   </VME_Egalitarian.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Egalitarianism -->
@@ -2100,40 +2100,40 @@
     <li>alienistProphecy(tag=meme_Pacifist)->These wayward creatures are innocent beings. We are not killers, and perhaps we'd better leave them alone.</li>
   -->
   <VME_Pacifist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Pacifist)        ->[deity0_name] saw the violence in the human heart, and recoiled in disgust.</li>
-    <li>episode(uses=1,tag=meme_Pacifist)  ->Speaking to the believers, [deity0_name] said: "There are many causes worth dying for, but certainly, there are none worth killing for".</li>
+    <li>creation(tag=meme_Pacifist)        ->[deity0_name] увидел насилие в человеческом сердце и отпрянул в отвращении.</li>
+    <li>episode(uses=1,tag=meme_Pacifist)  ->Обращаясь к верующим, [deity0_name] сказал: "Есть много причин, за которые стоит умереть, но, конечно, нет ни одной, за которую стоило бы убивать".</li>
 
-    <li>intro(tag=meme_Pacifist)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were no strangers to war and violence, and this deeply saddened [deity0_name].</li>
-    <li>conflict(tag=meme_Pacifist)        ->[deity0_name] saw the constant machinations of a terrible [foeLeader], a warmonger, and how [foeLeader_pronoun] was always fanning the flames of war.</li>
-    <li>founderJoin(tag=meme_Pacifist)     ->In a show of divine inspiration, [deity0_name] infused the [foeLeader] with the thoughts and experiences of all those [foeLeader_pronoun] had maimed and killed, and [foeLeader_pronoun] immediately had a change of heart. From that point on, the [foeLeader] took [foeLeader_possessive] new name as the [deity0_name]'s speaker: [founderName] the Peacemaker.</li>
-    <li>victory(tag=meme_Pacifist)         ->[founderName] made us all understand that no one is beyond redemption and that eternal wisdom lies in meeting hatred with non-hatred.</li>
+    <li>intro(tag=meme_Pacifist)           ->[place_summary] [place_name] всегда раздирали конфликты. [memberNamePlural] <!--(кому-чему)--> не была чужда жестокость и кровопролитие и это очень огорчало [deity0_name].</li>
+    <li>conflict(tag=meme_Pacifist)        ->[deity0_name] видел постоянные махинации ужасного [foeLeader], разжигателя войны, и как [foeLeader_pronoun] постоянно раздувал пламя войны.</li>
+    <li>founderJoin(tag=meme_Pacifist)     ->В знак божественного вдохновения [deity0_name] наделило [foeLeader] мыслями и страданиями всех тех, кого [foeLeader_pronoun] покалечил и убил, и [foeLeader_pronoun] сразу же передумал. С этого момента [foeLeader] взял [foeLeader_possessive] новое имя в качестве голоса [deity0_name]: [founderName] Миротворец.</li>
+    <li>victory(tag=meme_Pacifist)         ->[founderName] заставил всех нас понять, что никто не может быть искуплен и что вечная мудрость заключается в том, чтобы на ненависть отвечать не ненавистью.</li>
 
-    <li>setup(tag=meme_Pacifist)           ->[founderName] was a former warlord. Hundreds of thousands had fallen before [founderName_possessive] armies. After years of fighting, [founder_pronoun] looked at [founderName_objective]self in the mirror one day and could only see the blood of all [founderName_possessive] victims, and then and there [founder_pronoun] decided to preach the cause of total pacifism. [founderName_possessive] tale of redemption would resonate through the centuries.</li>
-    <li>story(uses=1,tag=meme_Pacifist)    ->[founderName] understood better than anyone else that nothing will end war unless the people themselves refuse to go to war.</li>
+    <li>setup(tag=meme_Pacifist)           ->[founderName] был бывшим военачальником. Сотни тысяч пали перед армиями [founderName_possessive]. После многих лет борьбы [founder_pronoun] однажды посмотрел на [founderName_objective]себя в зеркало и увидел только кровь всех жертв [founderName_possessive], и тогда [founder_pronoun] решил проповедовать дело полного пацифизма. История искупления [founderName_possessive] будет звучать в веками.</li>
+    <li>story(uses=1,tag=meme_Pacifist)    ->[founderName] лучше других понимал, что ничто не положит конец войне, если люди сами не откажутся идти на войну.</li>
 
-    <li>lessonIntro(tag=meme_Pacifist)         ->Military lessons were part of our school education, but our teacher was what he called a militant pacifist. He tried to instill into us that</li>
-    <li>lesson(tag=meme_Pacifist)              ->nothing will end war unless the people themselves refuse to go to war</li>
-    <li>lessonReinforcement(tag=meme_Pacifist) ->Never do anything against conscience even if the state demands it.</li>
+    <li>lessonIntro(tag=meme_Pacifist)         ->Военные уроки были частью нашего школьного образования, но наш учитель был, как он говорил, воинствующим пацифистом. Он пытался внушить нам, что</li>
+    <li>lesson(tag=meme_Pacifist)              ->ничто не положит конец войне, если люди сами не откажутся от войны</li>
+    <li>lessonReinforcement(tag=meme_Pacifist) ->Никогда не делайте ничего против совести, даже если этого требует государство.</li>
 
-    <li>archistBasis(tag=meme_Pacifist)    ->Can you imagine how archotechs view such a primitive thing as war?</li>
-    <li>archistFact(tag=meme_Pacifist)     ->War is inherently wasteful. Dedicating resources to kill each other only serves to deplete those resources, which could have been better used to improve the lives of everyone involved. To an archotech this senseless squandering is abhorrent.</li>
-    <li>archistProphecy(tag=meme_Pacifist) ->[inTheEnd], only those who can resist their most basic violent urges will be ready to transcend.</li>
+    <li>archistBasis(tag=meme_Pacifist)    ->Можете себе представить, как архотеки относятся к такой примитивной вещи, как война?</li>
+    <li>archistFact(tag=meme_Pacifist)     ->Война по своей сути расточительна. Выделение ресурсов на убийство друг друга приводит лишь к истощению этих ресурсов, которые можно было бы лучше использовать для улучшения жизни всех людей. Для архотека это бессмысленное расточительство отвратительно.</li>
+    <li>archistProphecy(tag=meme_Pacifist) ->[inTheEnd], только те, кто может противостоять своим самым основным побуждениям к насилию, будут готовы выйти за его пределы.</li>
 
-    <li>animistBasis(tag=meme_Pacifist)    ->The spirit of war is immensely powerful, fed by thousands of years of violent human expansion through the stars. It is, however, not a spirit of love, nor it has any sympathy for the humanity that feeds it with suffering.</li>
-    <li>animistFact(tag=meme_Pacifist)     ->Feeding the spirit of war with strife is senseless and wasteful. We should instead cultivate and feed a spirit of peace, of concordance.</li>
-    <li>animistProphecy(tag=meme_Pacifist) ->[itIsSaid] only those who can resist their most basic violent urges will be ready to commune with the spirits.</li>
+    <li>animistBasis(tag=meme_Pacifist)    ->Дух войны неизмеримо силён, подкармливаемый тысячелетиями межзвёздной экспансии людей. В нём нет места любви и состраданию к человечеству, которое подпитывает его своими страданиями.</li>
+    <li>animistFact(tag=meme_Pacifist)     ->Питать дух войны раздорами бессмысленно и расточительно. Вместо этого мы должны культивировать и питать дух мира, согласия.</li>
+    <li>animistProphecy(tag=meme_Pacifist) ->[itIsSaid] только те, кто может противостоять своим самым элементарным порывам к насилию, будут готовы к общению с духами.</li>
 
-    <li>serketistProphecy(tag=meme_Pacifist)->[itIsSaid] we will understand that insects are not intrinsically violent, and don't kill for sport like humans do. We should strive to be more like them.</li>
+    <li>serketistProphecy(tag=meme_Pacifist)->[itIsSaid] мы поймем, что насекомые не жестоки по своей природе и не убивают ради спортивного интереса, как это делают люди. Мы должны стремиться быть более похожими на них.</li>
 
-    <li>chthonianProphecy(tag=meme_Pacifist)->Violence will not be the key to overcoming these ancient entities, for you cannot fight terror with terror. Only by shunning the violence that arises from their cosmic insanity can we hope to save ourselves truly.</li>
+    <li>chthonianProphecy(tag=meme_Pacifist)->Насилие не станет ключом к победе над этими древними сущностями, ибо нельзя бороться с террором с помощью террора. Только отвергнув насилие, порожденное их космическим безумием, мы можем надеяться спастись по-настоящему.</li>
 
-    <li>esotericismProphecy(tag=meme_Pacifist)->Occult knowledge is subtle, and cannot be acquired by force. We shall hone our minds without violence to discover the hidden truths of the Universe.</li>
+    <li>esotericismProphecy(tag=meme_Pacifist)->Оккультные знания очень тонки, и их нельзя приобрести силой. Мы будем оттачивать свой ум без насилия, чтобы открыть скрытые истины Вселенной.</li>
 
-    <li>eschatologismFact(tag=meme_Pacifist)->As much as the world deserves to burn, we are not killers. If we become murderers, how are we any better than this cursed Universe? No, the Apocalypse must be brought without bloodshed, cleanly. It's the only way.</li>
+    <li>eschatologismFact(tag=meme_Pacifist)->Как бы мир ни заслуживал сожжения, мы не убийцы. Если мы станем убийцами, то чем мы лучше этой проклятой Вселенной? Нет, Апокалипсис должен быть принесен без кровопролития, чисто. Это единственный способ.</li>
 
-    <li>introMemo(tag=meme_Pacifist)->We are writing to inform you that the two employees (who shall remain unnamed per the company's privacy clauses) who caused a violent altercation yesterday have had their contracts terminated, and are no longer part of our staff. Such violence in the workplace is abhorrent and we will NOT let it go unpunished.</li>
+    <li>introMemo(tag=meme_Pacifist)->Сообщаем вам, что с двумя сотрудниками (имена которых останутся неназванными в соответствии с условиями конфиденциальности компании), которые вчера устроили драку с применением насилия, были расторгнуты контракты, и они больше не являются частью нашего штата. Подобное насилие на рабочем месте отвратительно, и мы НЕ оставим его безнаказанным.</li>
 
-    <li>alienistProphecy(tag=meme_Pacifist)->These wayward creatures are innocent beings. We are not killers, and perhaps we'd better leave them alone.</li>
+    <li>alienistProphecy(tag=meme_Pacifist)->Эти заблудшие создания - невинные существа. Мы не убийцы, и, возможно, нам лучше оставить их в покое.</li>
   </VME_Pacifist.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Pacifism -->
