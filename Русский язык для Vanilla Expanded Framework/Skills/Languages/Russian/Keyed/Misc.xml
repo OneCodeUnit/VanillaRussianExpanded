@@ -61,9 +61,27 @@
   <!-- EN: Insufficient skill -->
   <VSE.SkillTooLow>Низкий уровень</VSE.SkillTooLow>
   <!-- EN: At max expertise -->
-  <VSE.MaxExpertise>Максимум</VSE.MaxExpertise>
+  <VSE.AtMaxExpertise>Максимум</VSE.AtMaxExpertise>
   <!-- EN: Vanilla Skills Expanded -->
   <VSE>Vanilla Skills Expanded</VSE>
+  <!-- EN: Maximum expertise per colonist: -->
+  <VSE.MaxExpertise>Количества мастерства поселенца:</VSE.MaxExpertise>
+  <!-- EN: Allow multiple critical passions -->
+  <VVE.AllowMultiCritical>Разрешить несколько критических интересов</VVE.AllowMultiCritical>
+  <!-- EN: If false, will ensure that only one Critical passion will generate per pawn, to avoid them overlapping and causing them both to be useless. -->
+  <VVE.AllowMultiCritical.Desc>Если выключено, убедитесь, что у каждого персонажа только один критический интерес. Иначе они перекроют друг друга и станут бесполезными.</VVE.AllowMultiCritical.Desc>
+  <!-- EN: Critical effects passions -->
+  <VVE.CriticalEffectPassions>Эффекты критических интересов</VVE.CriticalEffectPassions>
+  <!-- EN: If false, the learn rate factor debuff on other skills from Critical will not effect other skills the pawn is passionate about. -->
+  <VVE.CriticalEffectPassions.Desc>Если выключено, отрицательные бонусы к скорости изучения других навыков без критического интереса не будут применяться.</VVE.CriticalEffectPassions.Desc>
+  <!-- EN: Edit passion commonalities, groups are separate -->
+  <VVE.Commonalities>Редактировать бонусы от интересов.</VVE.Commonalities>
+  <!-- EN: Reset to default -->
+  <VVE.Reset>Сбросить</VVE.Reset>
+  <!-- EN: Bad: -->
+  <VVE.Bad>Отрицательные:</VVE.Bad>
+  <!-- EN: Good: -->
+  <VVE.Good>Положительные:</VVE.Good>
   <!-- EN: Re-enable skill loss -->
   <VSE.EnableSkillLoss>Вернуть потерю опыта</VSE.EnableSkillLoss>
   <!-- EN: By default, Ducks' Insane Skills disables all skill loss. By selecting this option, this mod will override Ducks and enable it again. Use this if you still want to be able to take advantage of the forget speed changes in the new passions. -->
