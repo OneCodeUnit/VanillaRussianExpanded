@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs> 
+
+    <!-- ======================= Platypus leather =============================== -->
+
+	<ThingDef ParentName="LeatherBase">
+		<defName>AEXP_Leather_Platypus</defName>
+		<label>platypus leather</label>
+		<description>Platypus fur was considered a valuable commodity in the days of old Terra, a fact that almost drove the Platypus to extinction. Luckily, the animal was protected and thrived again.</description>
+		<graphicData>
+			<color>(82,65,57)</color>
+		</graphicData>
+		<statBases>
+			<MarketValue>9.0</MarketValue>
+			<StuffPower_Armor_Sharp>0.15</StuffPower_Armor_Sharp>
+			<StuffPower_Insulation_Heat>22</StuffPower_Insulation_Heat>
+		</statBases>
+		<stuffProps>
+			<color>(82,65,57)</color>
+			<commonality>0.005</commonality>
+			<statFactors>
+				<MaxHitPoints>0.9</MaxHitPoints>
+				<Beauty>3</Beauty>
+			</statFactors>
+		</stuffProps>
+	</ThingDef>
+  
+
+</Defs>

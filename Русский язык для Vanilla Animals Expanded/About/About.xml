@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Русский язык для Vanilla Animals Expanded</name>
+  <author>いのしし_3, OliveWizard, Hart ty, Amortem</author>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <packageId>OW.RU.ANIMAL</packageId>
+  <description>Перевод на русский язык модулей серии Vanilla Animals Expanded:
+  Royal Animals
+  Caves
+  Endangered
+  Temperate Forest
+  Australia
+  Tropical Swamp
+  Tropical Rainforest
+  Boreal Forest
+  Ice Sheet
+  Tundra
+  Extreme Desert
+  Desert
+  Arid Shrubland
+  Cats and Dogs</description>
+  <loadAfter>
+    <li>VanillaExpanded.VAERoy</li>
+    <li>VanillaExpanded.VAECaves</li>
+    <li>VanillaExpanded.VAEEndAndExt</li>
+    <li>VanillaExpanded.VAETF</li>
+    <li>VanillaExpanded.VAEAU</li>
+    <li>VanillaExpanded.VAETS</li>
+    <li>VanillaExpanded.VAETR</li>
+    <li>VanillaExpanded.VAEBF</li>
+    <li>VanillaExpanded.VAEIS</li>
+    <li>VanillaExpanded.VAET</li>
+    <li>VanillaExpanded.VAEED</li>
+    <li>VanillaExpanded.VAED</li>
+    <li>VanillaExpanded.VAEAS</li>
+    <li>VanillaExpanded.VAECD</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>Inoshishi3.VAE.RusPatch</li>
+    <li>Am.Rus.VAE</li>
+  </incompatibleWith>
+</ModMetaData>

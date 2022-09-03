@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Advanced Biomes</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+
+
+
+
+
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Boombat"]/race/wildBiomes</xpath>
+				<value>
+					<PoisonForest>0.05</PoisonForest>
+					<Savanna>0.1</Savanna>
+					
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Kangaroo"]/race/wildBiomes</xpath>
+				<value>					
+					
+					<Savanna>0.4</Savanna>
+					<Wetland>0.01</Wetland>	
+
+				</value>
+			</li>
+
+
+
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Koala"]/race/wildBiomes</xpath>
+				<value>
+
+					<PoisonForest>0.05</PoisonForest>
+					<Savanna>0.01</Savanna>
+					<Wetland>0.01</Wetland>	
+
+
+				</value>
+			</li>	
+			
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Platypus"]/race/wildBiomes</xpath>
+				<value>
+
+					
+					<Wetland>0.5</Wetland>	
+
+
+				</value>
+			</li>	
+
+
+		</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+

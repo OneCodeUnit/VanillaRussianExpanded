@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Animals Expanded — Australia</name>
+	<author>Oskar Potocki, Sarg Bjornson</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+	<packageId>VanillaExpanded.VAEAU</packageId>
+	<description>Australia is currently suffering a terrible crisis, and our team believes that we need to do everything in our power to spread the awareness. 24 people have died due to the insane bushfires so far - with three of them being volunteer firefighters. Over 6.3 million hectares of land have been burnt, leading to deaths of countless animals - some native only to the continent of Australia. You probably wonder how big is the 6.3 million hectares? Well, it’s essentially half of England. Please, consider donating to either NSW Rural Fire Service or WWF (both links will be available at the bottom of the mod description) to help save what little animals are still alive.
+
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Australian Animals expansion. It adds 4 new animals that will spawn in several different biomes. They have vanilla artwork, sounds and balancing.
+</description>
+</ModMetaData>

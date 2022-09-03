@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Nature's Pretty Sweet</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+	
+
+
+			
+
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Boombat"]/race/wildBiomes</xpath>
+				<value>
+					<TKKN_Desert>0.05</TKKN_Desert>
+					<TKKN_Oasis>0.1</TKKN_Oasis>
+					<TKKN_RedwoodForest>0.01</TKKN_RedwoodForest>
+					<TKKN_Grasslands>0.4</TKKN_Grasslands>
+					<TKKN_Savanna>0.1</TKKN_Savanna>
+					
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Kangaroo"]/race/wildBiomes</xpath>
+				<value>					
+					<TKKN_Desert>0.05</TKKN_Desert>
+					<TKKN_Oasis>0.1</TKKN_Oasis>
+					<TKKN_Grasslands>0.4</TKKN_Grasslands>
+					<TKKN_Savanna>0.4</TKKN_Savanna>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Koala"]/race/wildBiomes</xpath>
+				<value>	
+					
+					<TKKN_RedwoodForest>0.4</TKKN_RedwoodForest>
+					
+					<TKKN_Grasslands>0.04</TKKN_Grasslands>
+					<TKKN_Savanna>0.04</TKKN_Savanna>
+										
+				</value>
+			</li>	
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName="AEXP_Platypus"]/race/wildBiomes</xpath>
+				<value>	
+				
+					<TKKN_Oasis>0.05</TKKN_Oasis>
+					
+					<TKKN_Grasslands>0.04</TKKN_Grasslands>
+					<TKKN_Savanna>0.04</TKKN_Savanna>
+										
+				</value>
+			</li>	
+
+		
+			
+		</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+

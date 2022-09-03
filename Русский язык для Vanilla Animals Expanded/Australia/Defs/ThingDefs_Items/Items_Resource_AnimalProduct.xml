@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--=====================================================================-->
+  <!--=============================== Eggs ================================-->
+  <!--=====================================================================-->
+
+
+  <!-- Platypus -->
+  
+
+  <ThingDef ParentName="EggFertBase">
+    <defName>AEXP_EggPlatypusFertilized</defName>
+    <label>platypus egg (fert.)</label>
+    <description>A fertilized platypus egg. If all goes well, it should hatch into a baby platypus. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(136,94,9)</color>
+      <drawSize>0.85</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>9.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>15</hatcherDaystoHatch>
+        <hatcherPawn>AEXP_Platypus</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+	
+	
+  
+</Defs>

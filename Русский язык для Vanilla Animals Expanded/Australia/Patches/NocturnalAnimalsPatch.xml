@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	
+
+	
+	 <!-- Boombat -->
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>/Defs/ThingDef[defName="AEXP_Boombat"]</xpath>
+        <value>
+            <li Class="NocturnalAnimals.ExtendedRaceProperties">
+                <bodyClock>Crepuscular</bodyClock>
+            </li>
+        </value>
+    </Operation>
+
+</Patch>
