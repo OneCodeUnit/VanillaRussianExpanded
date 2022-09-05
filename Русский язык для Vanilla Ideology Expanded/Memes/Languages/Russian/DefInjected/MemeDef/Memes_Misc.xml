@@ -2219,8 +2219,8 @@
     <li>alienistProphecy(tag=meme_FireWorship)->All these wayward creatures, forgotten creations of humanity, will serve as kindling for the flames.</li>
   -->
   <VME_FireWorship.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_FireWorship)        ->[deity0_name] [deity0_infused]  в своих последователей священное пламя: «Герой и трус испытывают одинаковый страх, но герой противостоит страху и превращает его в огонь».</li>
-    <li>episode(uses=1,tag=meme_FireWorship)  ->[deity0_name] [deity0_gave] нам учение, следуя которому мы поняли, что то, что огонь не уничтожает, он закаляет.</li>
+    <li>creation(tag=meme_FireWorship)        ->[deity0_name] вселяло в последователей [deity0_infused] священное пламя: «И герой, и трус испытывают один и тот же страх, только герой противостоит своему страху и превращает его в огонь».</li>
+    <li>episode(uses=1,tag=meme_FireWorship)  ->Следуя учению [deity0_name] [deity0_gave] мы поняли, что огонь не уничтожает, он закаляет.</li>
 
     <li>intro(tag=meme_FireWorship)           ->В месте, называемом, [place_summary] [place_name], [memberNamePlural] сложили огромный костёр, посвящённый [deity0_god] огня по имени [deity0_name].</li>
     <li>conflict(tag=meme_FireWorship)        ->[foe_envious] [foeLeader] [foe_saw] костёр на горизонте и [foe_wanted] погасить его пламя.</li>
