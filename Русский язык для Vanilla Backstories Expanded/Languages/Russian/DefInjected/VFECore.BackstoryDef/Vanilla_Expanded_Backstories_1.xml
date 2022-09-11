@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VBE_PirateChef.title>Pirate chef</VBE_PirateChef.title>
-  <VBE_PirateChef.titleShort>Chef</VBE_PirateChef.titleShort>
-  <VBE_PirateChef.baseDescription>[PAWN_nameDef] was the Chef on a pirate ship. Between meals, they told tall tales that kept the crew's morale high. The crew's loyalty to their chef was great, possibly even greater than to their captain...</VBE_PirateChef.baseDescription>
+  <!-- EN: Pirate chef -->
+  <VBE_PirateChef.title>пиратский повар</VBE_PirateChef.title>
+  <!-- EN: Chef -->
+  <VBE_PirateChef.titleShort>повар</VBE_PirateChef.titleShort>
+  <!-- EN: [PAWN_nameDef] was the Chef on a pirate ship. Between meals, they told tall tales that kept the crew's morale high. The crew's loyalty to their chef was great, possibly even greater than to their captain... -->
+  <VBE_PirateChef.baseDescription>{PAWN_nameDef} {PAWN_gender ? был : была} шеф-поваром на пиратском корабле. Во время приёмов пищи команда любила рассказывать своему повару разные истории. Весёлые беседы позволяли отвлечься от трудностей жизни и наладить хорошие отношения с поваром. Со временем преданность команды повару стала настолько высока, что начала угрожать капитану...</VBE_PirateChef.baseDescription>
 
   <VBE_GeneModdedBeauty.title>Gene-modded beauty</VBE_GeneModdedBeauty.title>
   <VBE_GeneModdedBeauty.titleShort>Beauty</VBE_GeneModdedBeauty.titleShort>
