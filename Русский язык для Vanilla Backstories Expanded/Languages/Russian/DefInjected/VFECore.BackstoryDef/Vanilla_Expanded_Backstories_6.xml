@@ -1,67 +1,119 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VBE_CriminalPriest.title>Criminal priest</VBE_CriminalPriest.title>
-  <VBE_CriminalPriest.titleShort>Priest</VBE_CriminalPriest.titleShort>
-  <VBE_CriminalPriest.baseDescription>[PAWN_nameDef] somehow wormed their way into a comfortable position among the clergy in a small outlander town on a rimworld.  [PAWN_nameDef] would often exploit this position for personal gain whether it be by blackmailing those who had come to confess, or by directly stealing donations.
+  <!-- EN:Criminal priest -->
+  <VBE_CriminalPriest.title>Порочный священник</VBE_CriminalPriest.title>
+  <!-- EN:Priest -->
+  <VBE_CriminalPriest.titleShort>Священник</VBE_CriminalPriest.titleShort>
+  <!-- EN:[PAWN_nameDef] somehow wormed their way into a comfortable position among the clergy in a small outlander town on a rimworld.  [PAWN_nameDef] would often exploit this position for personal gain whether it be by blackmailing those who had come to confess, or by directly stealing donations. 
 
-During this time [PAWN_nameDef] relied heavily on their charisma to avoid conflict. 
+During this time [PAWN_nameDef] relied heavily on their charisma to avoid conflict.-->
+  <VBE_CriminalPriest.baseDescription>{PAWN_nameDef} каким-то образом {PAWN_gender ? занял : заняла} тёплое местечко в церковном сословии маленького городка на одном из окраинных миров. {PAWN_nameDef} часто {PAWN_gender ? злоупотреблял : злоупотребляла} своей позицией для личных нужд, будь то шантаж исповедующихся прихожан или кража пожертвований.
+
+В бытность служителем церкви {PAWN_nameDef} {PAWN_gender ? полагался : полагалась} на свою харизму, дабы избежать конфликтов. 
 </VBE_CriminalPriest.baseDescription>
 
-  <VBE_IndustrialSoldier.title>Industrial soldier</VBE_IndustrialSoldier.title>
-  <VBE_IndustrialSoldier.titleShort>Soldier</VBE_IndustrialSoldier.titleShort>
-  <VBE_IndustrialSoldier.baseDescription>[PAWN_nameDef] was recruited into the army of an industrial power on a midworld. When training finally ended, [PAWN_pronoun] was sent to the frontlines, where [PAWN_pronoun] took part in an unbelievably bloody battle. The rest of [PAWN_possessive] platoon was killed in the ensuing battle. This terrible tragedy has left [PAWN_nameDef] a shell of [PAWN_possessive] former self.</VBE_IndustrialSoldier.baseDescription>
+<!-- EN: Industrial soldier -->
+  <VBE_IndustrialSoldier.title>Корпоративный солдат</VBE_IndustrialSoldier.title>
+  <!-- EN: Soldier -->
+  <VBE_IndustrialSoldier.titleShort>Солдат</VBE_IndustrialSoldier.titleShort>
+  <!-- EN: [PAWN_nameDef] was recruited into the army of an industrial power on a midworld. When training finally ended, [PAWN_pronoun] was sent to the frontlines, where [PAWN_pronoun] took part in an unbelievably bloody battle. The rest of [PAWN_possessive] platoon was killed in the ensuing battle. This terrible tragedy has left [PAWN_nameDef] a shell of [PAWN_possessive] former self. -->
+  <VBE_IndustrialSoldier.baseDescription>{PAWN_nameDef} {PAWN_gender ? был завербован : была завербована} в армию, принадлежащую одному из промышленных гигантов среднего мира. После окончания тренировки {PAWN_pronoun} {PAWN_gender ? был отправлен : была отправлена} на передовую, где почти сразу {PAWN_gender ? попал : попала} в невероятно жестокое и кровавое сражение, в котором погиб {PAWN_pronoun} взвод. Эти ужасающие события оставили лишь тень от того человека, кем {PAWN_nameDef} {PAWN_gender ? был : была} до этого.</VBE_IndustrialSoldier.baseDescription>
 
-  <VBE_LandscapePainter.title>Landscape painter</VBE_LandscapePainter.title>
-  <VBE_LandscapePainter.titleShort>Painter</VBE_LandscapePainter.titleShort>
-  <VBE_LandscapePainter.baseDescription>[PAWN_nameDef] has dedicated [PAWN_possessive] life to depicting beautiful landscapes. Though [PAWN_possessive] works didn't bring [PAWN_objective] much recognition, it helped to fund the costs of living at a cost of making [PAWN_objective] somewhat reclusive.</VBE_LandscapePainter.baseDescription>
+<!-- EN:Landscape painter -->
+  <VBE_LandscapePainter.title>Художник-пейзажист</VBE_LandscapePainter.title>
+  <!-- EN: Painter -->
+  <VBE_LandscapePainter.titleShort>Художник</VBE_LandscapePainter.titleShort>
+  <!-- EN: [PAWN_nameDef] has dedicated [PAWN_possessive] life to depicting beautiful landscapes. Though [PAWN_possessive] works didn't bring [PAWN_objective] much recognition, it helped to fund the costs of living at a cost of making [PAWN_objective] somewhat reclusive. -->
+  <VBE_LandscapePainter.baseDescription>{PAWN_nameDef} {PAWN_gender ? посвятил : посвятила} свою жизнь созданию картин с изображением красивых мест. И хотя {PAWN_possessive} работы не принесли автору ни особой славы, ни признания, они позволяли {PAWN_objective} заработать на жизнь, пусть и несколько отшельническую.</VBE_LandscapePainter.baseDescription>
 
-  <VBE_Dietetician.title>Dietetician</VBE_Dietetician.title>
-  <VBE_Dietetician.titleShort>Dietetician</VBE_Dietetician.titleShort>
-  <VBE_Dietetician.baseDescription>[PAWN_nameDef] was always interested in nutrition and it's effect on the human's body.  [PAWN_pronoun] specialised in treating patients with clinical conditions.</VBE_Dietetician.baseDescription>
 
-  <VBE_ArtCritic.title>Art critic</VBE_ArtCritic.title>
-  <VBE_ArtCritic.titleShort>Critic</VBE_ArtCritic.titleShort>
-  <VBE_ArtCritic.baseDescription>[PAWN_nameDef] has made a name for themselves as one of the most influential critics, [PAWN_possessive] reviews could make or break careers.</VBE_ArtCritic.baseDescription>
+<!-- EN:Dietetician -->
+  <VBE_Dietetician.title>Диетолог</VBE_Dietetician.title>
 
-  <VBE_IndustrialWorldCounterterrorist.title>Industrial world counterterrorist</VBE_IndustrialWorldCounterterrorist.title>
-  <VBE_IndustrialWorldCounterterrorist.titleShort>Counterterrorist</VBE_IndustrialWorldCounterterrorist.titleShort>
-  <VBE_IndustrialWorldCounterterrorist.baseDescription>[PAWN_nameDef] served on a counterterrorism unit on a factionalized industrial world. [PAWN_pronoun] understood the reasons why they operated, but stood staunchly against the violent methods they used against the innocent. [PAWN_pronoun] gained considerable skills in rhetoric, negotiation, combat, and emergency first aid. Despite this, [PAWN_possessive] personal life skills were undeveloped as the custodial and cafeteria staff handled most of it.</VBE_IndustrialWorldCounterterrorist.baseDescription>
+  <!-- EN:Dietetician -->
+  <VBE_Dietetician.titleShort>Диетолог</VBE_Dietetician.titleShort>
 
-  <VBE_Chemist.title>Chemist</VBE_Chemist.title>
-  <VBE_Chemist.titleShort>Chemist</VBE_Chemist.titleShort>
-  <VBE_Chemist.baseDescription>[PAWN_nameDef] has mastered the art of chemistry. It proved to be a quite versatile skill in [PAWN_possessive] life - from volcano for a science fair to homemade bombs, odds are [PAWN_nameDef] knows how to create that.</VBE_Chemist.baseDescription>
+  <!-- EN:[PAWN_nameDef] was always interested in nutrition and it's effect on the human's body.  [PAWN_pronoun] specialised in treating patients with clinical conditions. -->
+  <VBE_Dietetician.baseDescription>[PAWN_nameDef] всегда {PAWN_gender ? интересовался : интересовалась} вопросами питания и его влиянием на человеческое тело. {PAWN_pronoun} особенно хорошо разбирается в терапии пациентов с хроническими заболеваниями.</VBE_Dietetician.baseDescription>
 
-  <VBE_TaxCollector.title>Tax collector</VBE_TaxCollector.title>
-  <VBE_TaxCollector.titleShort>Collector</VBE_TaxCollector.titleShort>
-  <VBE_TaxCollector.baseDescription>[PAWN_nameDef] has been appointed with the duty of collecting taxes and other payments from various merchants of [PAWN_possessive] settlement. Due to nature of such job [PAWN_objective] was one of the most hated person in town, but the cut from the taxes [PAWN_pronoun] took made the job worth it.</VBE_TaxCollector.baseDescription>
+<!-- EN:Art critic -->
+  <VBE_ArtCritic.title>Художественный критик</VBE_ArtCritic.title>
+  <!-- EN:Critic -->
+  <VBE_ArtCritic.titleShort>Критик</VBE_ArtCritic.titleShort>
+  <!-- EN:[PAWN_nameDef] has made a name for themselves as one of the most influential critics, [PAWN_possessive] reviews could make or break careers. -->
+  <VBE_ArtCritic.baseDescription>{PAWN_nameDef} {PAWN_gender ? создал : создала} себе репутацию одного из самых влиятельных критиков, {PAWN_possesive} обзоры могли легко разрушить карьеру, или создать её.</VBE_ArtCritic.baseDescription>
 
-  <VBE_ReluctantCadet.title>Reluctant cadet</VBE_ReluctantCadet.title>
-  <VBE_ReluctantCadet.titleShort>Cadet</VBE_ReluctantCadet.titleShort>
-  <VBE_ReluctantCadet.baseDescription>[PAWN_nameDef] was recruited into an Imperial youth training program. [PAWN_pronoun] lacked any enthusiasm and accordingly failed most of [PAWN_possessive] classes. However, refusing to participate left [PAWN_objective] with plenty of time to talk to [PAWN_possessive] friends and try out different hobbies.</VBE_ReluctantCadet.baseDescription>
+<!-- EN:Industrial world counterterrorist -->
+  <VBE_IndustrialWorldCounterterrorist.title>Силовик с промышленного мира</VBE_IndustrialWorldCounterterrorist.title>
+  <!-- EN:Counterterrorist -->
+  <VBE_IndustrialWorldCounterterrorist.titleShort>Силовик</VBE_IndustrialWorldCounterterrorist.titleShort>
+  <!-- EN:[PAWN_nameDef] served on a counterterrorism unit on a factionalized industrial world. [PAWN_pronoun] understood the reasons why they operated, but stood staunchly against the violent methods they used against the innocent. [PAWN_pronoun] gained considerable skills in rhetoric, negotiation, combat, and emergency first aid. Despite this, [PAWN_possessive] personal life skills were undeveloped as the custodial and cafeteria staff handled most of it. -->
+  <VBE_IndustrialWorldCounterterrorist.baseDescription>{PAWN_nameDef} {PAWN_gender ? служил : служила} в контртеррористическом подразделении одной из многочисленных группировок промышленного мира. {PAWN_pronoun} {PAWN_gender ? понимал : понимала}, ради чего существует {PAWN_possessive} подразделение, но {PAWN_gender ? был : была} против того, чтобы использовать насилие против невиновных. {PAWN_pronoun} {PAWN_gender ? получил : получила} глубокие познания в искусстве переговоров, стрельбе, навыки ближнего боя и оказания первой помощи. Несмотря на это, {PAWN_possessive} личные и социальные навыки оказались развитыми меньше, так как обслуживающий персонал базы брал на себя заботу о почти всех нуждах подразделения.</VBE_IndustrialWorldCounterterrorist.baseDescription>
 
-  <VBE_OrphanThief.title>Orphan thief</VBE_OrphanThief.title>
-  <VBE_OrphanThief.titleShort>Orphan</VBE_OrphanThief.titleShort>
-  <VBE_OrphanThief.baseDescription>When [PAWN_pronoun] was young, [PAWN_nameDef]'s parents were imprisoned for speaking out against the local government. [PAWN_pronoun] was forced to steal food in order to survive, and soon became a capable thief. The experience left [PAWN_objective] unwilling to rely much on others.
+<!-- EN:Chemist -->
+  <VBE_Chemist.title>Химик</VBE_Chemist.title>
+  <!-- EN:Chemist -->
+  <VBE_Chemist.titleShort>Химик</VBE_Chemist.titleShort>
+  <!-- EN:[PAWN_nameDef] has mastered the art of chemistry. It proved to be a quite versatile skill in [PAWN_possessive] life - from volcano for a science fair to homemade bombs, odds are [PAWN_nameDef] knows how to create that. -->
+  <VBE_Chemist.baseDescription>{PAWN_nameDef} в совершенстве {PAWN_gender ? овладел : овладела} премудростями химической науки. Оказалось, что познания в химии применимы в очень многих вещах - от модели вулкана на научной выставке, до самодельной взрывчатки. Велика вероятность, что {PAWN_nameDef} знает, как сделать обе эти вещи и что-то больше.</VBE_Chemist.baseDescription>
 
-As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.</VBE_OrphanThief.baseDescription>
+<!-- EN:Tax collector -->
+  <VBE_TaxCollector.title>Сборщик налогов</VBE_TaxCollector.title>
+  <!-- EN:Collector -->
+  <VBE_TaxCollector.titleShort>Сборщик</VBE_TaxCollector.titleShort>
+  <!-- EN:[PAWN_nameDef] has been appointed with the duty of collecting taxes and other payments from various merchants of [PAWN_possessive] settlement. Due to nature of such job [PAWN_objective] was one of the most hated person in town, but the cut from the taxes [PAWN_pronoun] took made the job worth it. -->
+  <VBE_TaxCollector.baseDescription>{PAWN_nameDef} был назначен ответственным за сбор налогов и подобных платежей с торговцев {PAWN_possessive} поселения. Из-за специфики такой работы {PAWN_pronoun} {PAWN_gender ? был : была} самым нелюбимым человеком в округе. Впрочем, своя доля от собранных налогов позволяла смириться с этим.</VBE_TaxCollector.baseDescription>
 
-  <VBE_PrivateContractor.title>Private contractor</VBE_PrivateContractor.title>
-  <VBE_PrivateContractor.titleShort>Bought</VBE_PrivateContractor.titleShort>
-  <VBE_PrivateContractor.baseDescription>[PAWN_nameDef] always works for the highest bidder. [PAWN_possessive] background in the military made [PAWN_objective] a good shot. Due to being present when many shady deals were made, [PAWN_pronoun] also picked up on some negotiation skills.</VBE_PrivateContractor.baseDescription>
+<!-- EN:Reluctant cadet -->
+  <VBE_ReluctantCadet.title>Нерадивый курсант</VBE_ReluctantCadet.title>
+  <!-- EN:Cadet -->
+  <VBE_ReluctantCadet.titleShort>Курсант</VBE_ReluctantCadet.titleShort>
+  <!-- EN:[PAWN_nameDef] was recruited into an Imperial youth training program. [PAWN_pronoun] lacked any enthusiasm and accordingly failed most of [PAWN_possessive] classes. However, refusing to participate left [PAWN_objective] with plenty of time to talk to [PAWN_possessive] friends and try out different hobbies. -->
+  <VBE_ReluctantCadet.baseDescription>{PAWN_nameDef} вступил в Имперскую патриотическую программу воспитания молодёжи. Но увы, ввиду отсутствия мотивации успешно {PAWN_gender ? заваливал : заваливала} все экзамены. Впрочем, {PAWN_possessive} прогулы оставляли для н{PAWN_possessive} предостаточно возможностей для общения со сверстниками и возможность попробовать себя в различных хобби.</VBE_ReluctantCadet.baseDescription>
 
-  <VBE_MattressTester.title>Mattress tester</VBE_MattressTester.title>
-  <VBE_MattressTester.titleShort>Mattress</VBE_MattressTester.titleShort>
-  <VBE_MattressTester.baseDescription>[PAWN_nameDef] rated various mattress, mostly in their softness and the quality of sleep they provide. Naps on the job were contracually enforced. Some called it "the best job in the world".</VBE_MattressTester.baseDescription>
+<!-- EN:Orphan thief -->
+  <VBE_OrphanThief.title>Вор-сирота</VBE_OrphanThief.title>
+  <!-- EN:Orphan -->
+  <VBE_OrphanThief.titleShort>Сирота</VBE_OrphanThief.titleShort>
+  <!-- EN:When [PAWN_pronoun] was young, [PAWN_nameDef]'s parents were imprisoned for speaking out against the local government. [PAWN_pronoun] was forced to steal food in order to survive, and soon became a capable thief. The experience left [PAWN_objective] unwilling to rely much on others.
 
-  <VBE_ExtranetTroll.title>Extranet troll</VBE_ExtranetTroll.title>
-  <VBE_ExtranetTroll.titleShort>Troll</VBE_ExtranetTroll.titleShort>
-  <VBE_ExtranetTroll.baseDescription>[PAWN_nameDef] spent [PAWN_possessive] days spreading disinformation across the extranet at the behest of his employers. Eventually, [PAWN_pronoun] outlived [PAWN_possessive] usefulness and was fired, and with no marketable skills, [PAWN_pronoun] had to work miserable, dead-end jobs just to feed [PAWN_objective]self. </VBE_ExtranetTroll.baseDescription>
+As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police. -->
+  <VBE_OrphanThief.baseDescription>Ещё до того, как {PAWN_nameDef} {PAWN_gender ? повзрослел : повзрослела}, {PAWN_possessive} родители попали в тюрьму за диссидентские высказывания, направленные против местной власти. Чтобы выжить, {PAWN_objective} приходилось красть еду и вскоре, {PAWN_pronoun} {PAWN_gender ? стал : стала} весьма способным вором. Подобный опыт приучил {PAWN_possessive} полагаться в первую очередь на себя.
 
-  <VBE_PirateKid.title>Pirate kid</VBE_PirateKid.title>
-  <VBE_PirateKid.titleShort>Pirate</VBE_PirateKid.titleShort>
-  <VBE_PirateKid.baseDescription>[PAWN_nameDef] was kidnapped by pirates at a young age. [PAWN_possessive] small size allowed [PAWN_objective] to fit into tiny maintenance spaces on boarded ships to steal valuable electronic components. Coincidentally,  [PAWN_pronoun] also became quite adept at treating electrical burns.</VBE_PirateKid.baseDescription>
+  Хобби {PAWN_nameDef} стало коллекционирование украденных у военной полиции шлемов.</VBE_OrphanThief.baseDescription>
 
-  <VBE_ProsecutedWarVeteran.title>Prosecuted war veteran</VBE_ProsecutedWarVeteran.title>
-  <VBE_ProsecutedWarVeteran.titleShort>Prosecuted Vet</VBE_ProsecutedWarVeteran.titleShort>
-  <VBE_ProsecutedWarVeteran.baseDescription>[PAWN_nameDef] has joined the military in wrong side of civil war. Turning the war [PAWN_nameDef] were trained in shooting and urban warfare. After the war concluded , [PAWN_nameDef] was prosecuted by the local government and banished. Due to [PAWN_pronoun] prosecution [PAWN_nameDef] has lost many skills and have hard time re integrating into a normal life.</VBE_ProsecutedWarVeteran.baseDescription>
+<!-- EN:Private contractor -->
+  <VBE_PrivateContractor.title>Частный подрядчик</VBE_PrivateContractor.title>
+  <!-- EN:Bought -->
+  <VBE_PrivateContractor.titleShort>Наёмник</VBE_PrivateContractor.titleShort>
+  <!-- EN:[PAWN_nameDef] always works for the highest bidder. [PAWN_possessive] background in the military made [PAWN_objective] a good shot. Due to being present when many shady deals were made, [PAWN_pronoun] also picked up on some negotiation skills. -->
+  <VBE_PrivateContractor.baseDescription>{PAWN_nameDef} работает на того, кто больше платит. Армейское прошлое сделало {PAWN_possessive} первоклассным стрелком, все те сомнительные сделки, которые {PAWN_objective} удалось заключить позволили {PAWN_objective} отточить свои навыки переговорщика.</VBE_PrivateContractor.baseDescription>
+
+<!-- EN:Mattress tester -->
+  <VBE_MattressTester.title>Испытатель матрасов</VBE_MattressTester.title>
+  <!-- EN:Mattress -->
+  <VBE_MattressTester.titleShort>Испытатель матрасов</VBE_MattressTester.titleShort>
+  <!-- EN:[PAWN_nameDef] rated various mattress, mostly in their softness and the quality of sleep they provide. Naps on the job were contracually enforced. Some called it "the best job in the world". -->
+  <VBE_MattressTester.baseDescription>{PAWN_nameDef} {PAWN_gender ? занимался : занималась} испытанием и оценкой различных матрасов, в основном по критериям их мягкости и качества сна, которые они предоставляют. Сон на {PAWN_possessive} работе не просто не осуждается, но является прописанной в контракте обязанностью. Кто-то может считать это «лучшей работой в мире».</VBE_MattressTester.baseDescription>
+
+<!-- EN:Extranet troll -->
+  <VBE_ExtranetTroll.title>Тролль из экстранета</VBE_ExtranetTroll.title>
+  <!-- EN:Troll -->
+  <VBE_ExtranetTroll.titleShort>Тролль</VBE_ExtranetTroll.titleShort>
+  <!-- EN:[PAWN_nameDef] spent [PAWN_possessive] days spreading disinformation across the extranet at the behest of his employers. Eventually, [PAWN_pronoun] outlived [PAWN_possessive] usefulness and was fired, and with no marketable skills, [PAWN_pronoun] had to work miserable, dead-end jobs just to feed [PAWN_objective]self. -->
+  <VBE_ExtranetTroll.baseDescription>{PAWN_nameDef} {PAWN_gender ? проводил все его : проводила все её} дни распространяя дезинформацию в экстранете, по указке его нанимателей. В какой-то момент, {PAWN_gender ? он исчерпал : она исчерпала} свой ресурс и {PAWN_gender ? был уволен : была уволена}. Не имея востребованных навыков, {PAWN_objective} приходилось находить для себя неквалифицированную работу, просто чтобы прокормить себя.</VBE_ExtranetTroll.baseDescription>
+
+<!-- EN:Pirate kid -->
+  <VBE_PirateKid.title>Ребёнок-пират</VBE_PirateKid.title>
+  <!-- EN:Pirate -->
+  <VBE_PirateKid.titleShort>Пират</VBE_PirateKid.titleShort>
+  <!-- EN:[PAWN_nameDef] was kidnapped by pirates at a young age. [PAWN_possessive] small size allowed [PAWN_objective] to fit into tiny maintenance spaces on boarded ships to steal valuable electronic components. Coincidentally,  [PAWN_pronoun] also became quite adept at treating electrical burns. -->
+  <VBE_PirateKid.baseDescription>{PAWN_nameDef} {PAWN_gender ? был похищен : была похищена} пиратами в очень юном возрасте. {PAWN_possessive} компактный размер позволял {PAWN_objective} пролезть в любые узкие пространства взятых на абордаж космических кораблей, чтобы украсть оттуда ценные компоненты. По странному совпадению {PAWN_gender ? он отлично научился : она отлично научилась} лечить электрические ожоги.</VBE_PirateKid.baseDescription>
+
+<!-- EN:Prosecuted war veteran -->
+  <VBE_ProsecutedWarVeteran.title>Ветеран в изгнании</VBE_ProsecutedWarVeteran.title>
+  <!-- EN:Prosecuted Vet -->
+  <VBE_ProsecutedWarVeteran.titleShort>Ветеран</VBE_ProsecutedWarVeteran.titleShort>
+  <!-- EN:[PAWN_nameDef] has joined the military in wrong side of civil war. Turning the war [PAWN_nameDef] were trained in shooting and urban warfare. After the war concluded , [PAWN_nameDef] was prosecuted by the local government and banished. Due to [PAWN_pronoun] prosecution [PAWN_nameDef] has lost many skills and have hard time re integrating into a normal life. -->
+  <VBE_ProsecutedWarVeteran.baseDescription>{PAWN_nameDef} {PAWN_gender ? вступил : вступила} в армию одной из сторон бушевавшей в то время гражданской войны. В какой-то момент эта сторона оказалась проигравшей. Участвуя в сражениях, {PAWN_nameDef} {PAWN_gender ? обучался : обучалась} стрельбе и тактике ведения городского боя. После окончания войны, {PAWN_nameDef} {PAWN_gender ? оказался : оказалась} на скамье подсудимых и {PAWN_gender ? был изгнан : была изгнана}. За время трибунала {PAWN_pronoun} {PAWN_gender ? растерял : растеряла} значительную часть навыков и {PAWN_objective} теперь трудно вернуться к нормальной, гражданской жизни.</VBE_ProsecutedWarVeteran.baseDescription>
 </LanguageData>
