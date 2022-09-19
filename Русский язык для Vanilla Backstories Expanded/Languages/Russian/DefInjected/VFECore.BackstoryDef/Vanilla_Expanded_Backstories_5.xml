@@ -1,62 +1,107 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VBE_EldestCaretaker.title>Eldest caretaker</VBE_EldestCaretaker.title>
-  <VBE_EldestCaretaker.titleShort>Caretaker</VBE_EldestCaretaker.titleShort>
-  <VBE_EldestCaretaker.baseDescription>As the eldest child, it was the job of [PAWN_nameDef] to look after their younger siblings. While the adults were away working, [PAWN_pronoun] got used to being in charge, but didn't have much chance to explore on their own as a child.</VBE_EldestCaretaker.baseDescription>
+  <!-- EN: Eldest caretaker -->
+  <VBE_EldestCaretaker.title></VBE_EldestCaretaker.title>
+  <!-- EN: Caretaker -->
+  <VBE_EldestCaretaker.titleShort></VBE_EldestCaretaker.titleShort>
+  <!-- EN: As the eldest child, it was the job of [PAWN_nameDef] to look after their younger siblings. While the adults were away working, [PAWN_pronoun] got used to being in charge, but didn't have much chance to explore on their own as a child. -->
+  <VBE_EldestCaretaker.baseDescription></VBE_EldestCaretaker.baseDescription>
 
-  <VBE_Oracle.title>Oracle</VBE_Oracle.title>
-  <VBE_Oracle.titleShort>Oracle</VBE_Oracle.titleShort>
-  <VBE_Oracle.baseDescription>[PAWN_nameDef] wasn't like everyone else, and they all knew it. The strange visions, outbursts and eccentric behavior always kept [PAWN_nameDef] at arm's length from others. [PAWN_objective] would have been outcast long before, were it not for [PAWN_possessive] visions so often true.</VBE_Oracle.baseDescription>
+  <!-- EN: Oracle -->
+  <VBE_Oracle.title></VBE_Oracle.title>
+  <!-- EN: Oracle -->
+  <VBE_Oracle.titleShort></VBE_Oracle.titleShort>
+  <!-- EN: [PAWN_nameDef] wasn't like everyone else, and they all knew it. The strange visions, outbursts and eccentric behavior always kept [PAWN_nameDef] at arm's length from others. [PAWN_objective] would have been outcast long before, were it not for [PAWN_possessive] visions so often true -->
+  <VBE_Oracle.baseDescription>.</VBE_Oracle.baseDescription>
+  
+  <!-- EN: Apprentice -->
+  <VBE_Apprentice.title></VBE_Apprentice.title>
+  <!-- EN: Apprentice -->
+  <VBE_Apprentice.titleShort></VBE_Apprentice.titleShort>
+  <!-- EN: Once of age, a young [PAWN_nameDef] took to study under the great masters, learning from the bottom up. [PAWN_objective] left family and home to pursue a passion and trade. The work was grueling but it was all worth to carve out their own path. -->
+  <VBE_Apprentice.baseDescription></VBE_Apprentice.baseDescription>
 
-  <VBE_Apprentice.title>Apprentice</VBE_Apprentice.title>
-  <VBE_Apprentice.titleShort>Apprentice</VBE_Apprentice.titleShort>
-  <VBE_Apprentice.baseDescription>Once of age, a young [PAWN_nameDef] took to study under the great masters, learning from the bottom up. [PAWN_objective] left family and home to pursue a passion and trade. The work was grueling but it was all worth to carve out their own path.</VBE_Apprentice.baseDescription>
+  <!-- EN: Medieval page -->
+  <VBE_MedievalPage.title></VBE_MedievalPage.title>
+  <!-- EN: Page -->
+  <VBE_MedievalPage.titleShort></VBE_MedievalPage.titleShort>
+  <!-- EN: Serving under a great lord or lady, [PAWN_nameDef] was sworn to their liege. This mostly amounted to a whole lot of hauling, cleaning and busywork, but there was much to be learned in studying under the 'care' of nobility -->
+  <VBE_MedievalPage.baseDescription>.</VBE_MedievalPage.baseDescription>
 
-  <VBE_MedievalPage.title>Medieval page</VBE_MedievalPage.title>
-  <VBE_MedievalPage.titleShort>Page</VBE_MedievalPage.titleShort>
-  <VBE_MedievalPage.baseDescription>Serving under a great lord or lady, [PAWN_nameDef] was sworn to their liege. This mostly amounted to a whole lot of hauling, cleaning and busywork, but there was much to be learned in studying under the 'care' of nobility.</VBE_MedievalPage.baseDescription>
+  <!-- EN: Translator -->
+  <VBE_Translator.title></VBE_Translator.title>
+  <!-- EN: Translator -->
+  <VBE_Translator.titleShort></VBE_Translator.titleShort>
+  <!-- EN: [PAWN_nameDef] always loved foreign languages. [PAWN_pronoun] worked from home as a freelance translator. This gave [PAWN_objective] enough time to broaden [PAWN_possessive] knowledge in various areas and to tend to [PAWN_possessive] garden. However, [PAWN_pronoun] would spend weeks without human contact and is still unseasy around strangers to this day. -->
+  <VBE_Translator.baseDescription></VBE_Translator.baseDescription>
 
-  <VBE_Translator.title>Translator</VBE_Translator.title>
-  <VBE_Translator.titleShort>Translator</VBE_Translator.titleShort>
-  <VBE_Translator.baseDescription>[PAWN_nameDef] always loved foreign languages. [PAWN_pronoun] worked from home as a freelance translator. This gave [PAWN_objective] enough time to broaden [PAWN_possessive] knowledge in various areas and to tend to [PAWN_possessive] garden. However, [PAWN_pronoun] would spend weeks without human contact and is still unseasy around strangers to this day.</VBE_Translator.baseDescription>
+  <!-- EN: Maid -->
+  <VBE_Maid.title></VBE_Maid.title>
+  <!-- EN: Maid -->
+  <VBE_Maid.titleShort></VBE_Maid.titleShort>
+  <!-- EN: Trim and tidy, this is [PAWN_nameDef]'s moto. [PAWN_pronoun] sees a lot more the seedy side of the world, cleaning up after it in one way or another. But [PAWN_pronoun] knows best when to apply [PAWN_possessive] trade, for there's more to [PAWN_possessive] skill than merely cleaning. -->
+  <VBE_Maid.baseDescription></VBE_Maid.baseDescription>
 
-  <VBE_Maid.title>Maid</VBE_Maid.title>
-  <VBE_Maid.titleShort>Maid</VBE_Maid.titleShort>
-  <VBE_Maid.baseDescription>Trim and tidy, this is [PAWN_nameDef]'s moto. [PAWN_pronoun] sees a lot more the seedy side of the world, cleaning up after it in one way or another. But [PAWN_pronoun] knows best when to apply [PAWN_possessive] trade, for there's more to [PAWN_possessive] skill than merely cleaning.</VBE_Maid.baseDescription>
+  <!-- EN: Abandoned colonist -->
+  <VBE_AbandonedColonist.title></VBE_AbandonedColonist.title>
+  <!-- EN: Colonist -->
+  <VBE_AbandonedColonist.titleShort></VBE_AbandonedColonist.titleShort>
+  <!-- EN: [PAWN_nameDef] was selected for a colonization program on a distant rimworld. When [PAWN_possessive] ship was torn apart, [PAWN_nameDef] was not among the select few granted the privilege of an escape pod. But, by some sheer miracle, [PAWN_pronoun] survived, and vowed to find those who had left [PAWN_objective] behind. -->
+  <VBE_AbandonedColonist.baseDescription></VBE_AbandonedColonist.baseDescription>
 
-  <VBE_AbandonedColonist.title>Abandoned colonist</VBE_AbandonedColonist.title>
-  <VBE_AbandonedColonist.titleShort>Colonist</VBE_AbandonedColonist.titleShort>
-  <VBE_AbandonedColonist.baseDescription>[PAWN_nameDef] was selected for a colonization program on a distant rimworld. When [PAWN_possessive] ship was torn apart, [PAWN_nameDef] was not among the select few granted the privilege of an escape pod. But, by some sheer miracle, [PAWN_pronoun] survived, and vowed to find those who had left [PAWN_objective] behind.</VBE_AbandonedColonist.baseDescription>
+  <!-- EN: Corporate spy -->
+  <VBE_CorporateSpy.title></VBE_CorporateSpy.title>
+  <!-- EN: Spy -->
+  <VBE_CorporateSpy.titleShort></VBE_CorporateSpy.titleShort>
+  <!-- EN: [PAWN_nameDef] used to conduct industrial espionage for a big corporation. One of  [PAWN_possessive] mission required [PAWN_objective] to undergo gender reassignment to seduce the CEO of a rival corporation. [PAWN_nameDef] only managed to accomplish  [PAWN_possessive] mission because [PAWN_pronoun] felt more in tune with [PAWN_possessive] new gender than with the previous one. This gave [PAWN_pronoun] a unique perspective and [PAWN_pronoun] started to offer counseling to people feeling overwhelmed by the expectations of others. -->
+  <VBE_CorporateSpy.baseDescription></VBE_CorporateSpy.baseDescription>
 
-  <VBE_CorporateSpy.title>Corporate spy</VBE_CorporateSpy.title>
-  <VBE_CorporateSpy.titleShort>Spy</VBE_CorporateSpy.titleShort>
-  <VBE_CorporateSpy.baseDescription>[PAWN_nameDef] used to conduct industrial espionage for a big corporation. One of  [PAWN_possessive] mission required [PAWN_objective] to undergo gender reassignment to seduce the CEO of a rival corporation. [PAWN_nameDef] only managed to accomplish  [PAWN_possessive] mission because [PAWN_pronoun] felt more in tune with [PAWN_possessive] new gender than with the previous one. This gave [PAWN_pronoun] a unique perspective and [PAWN_pronoun] started to offer counseling to people feeling overwhelmed by the expectations of others.</VBE_CorporateSpy.baseDescription>
+  <!-- EN: Bull leaper -->
+  <VBE_Bullleaper.title></VBE_Bullleaper.title>
+  <!-- EN: Acrobat -->
+  <VBE_Bullleaper.titleShort></VBE_Bullleaper.titleShort>
+  <!-- EN: [PAWN_nameDef] is a dancer and an acrobat. [PAWN_pronoun] used to dance around and leap over the back of a charging bull to entertain the crowd. All bull leapers have to be very agile, but what made [PAWN_pronoun] especially good was [PAWN_possessive] deep understanding of the animal's behavior. As bull leaping is a very dangerous activity, [PAWN_nameDef] often had to provide first aid to wounded colleagues. -->
+  <VBE_Bullleaper.baseDescription></VBE_Bullleaper.baseDescription>
 
-  <VBE_Bullleaper.title>Bull leaper</VBE_Bullleaper.title>
-  <VBE_Bullleaper.titleShort>Acrobat</VBE_Bullleaper.titleShort>
-  <VBE_Bullleaper.baseDescription>[PAWN_nameDef] is a dancer and an acrobat. [PAWN_pronoun] used to dance around and leap over the back of a charging bull to entertain the crowd. All bull leapers have to be very agile, but what made [PAWN_pronoun] especially good was [PAWN_possessive] deep understanding of the animal's behavior. As bull leaping is a very dangerous activity, [PAWN_nameDef] often had to provide first aid to wounded colleagues.</VBE_Bullleaper.baseDescription>
+  <!-- EN: Drone operator -->
+  <VBE_DroneOperator.title></VBE_DroneOperator.title>
+  <!-- EN: Controller -->
+  <VBE_DroneOperator.titleShort></VBE_DroneOperator.titleShort>
+  <!-- EN: [PAWN_nameDef] was hired to oversee the defensive drones for a large intra-system freighter ship. Intended to help provide a set of human eyes to stop craftier pirates from slipping past the automated systems, [PAWN_possessive] job frequently entailed long stretches of nothing but maintenance and watching empty screens between docks. When the ship was enlisted to transfer to a system, [PAWN_pronoun] thought nothing of it, and continued [PAWN_possessive] routine. [PAWN_pronoun] was dozing soundly when the first breaching pod hit -->
+  <VBE_DroneOperator.baseDescription>.</VBE_DroneOperator.baseDescription>
 
-  <VBE_DroneOperator.title>Drone operator</VBE_DroneOperator.title>
-  <VBE_DroneOperator.titleShort>Controller</VBE_DroneOperator.titleShort>
-  <VBE_DroneOperator.baseDescription>[PAWN_nameDef] was hired to oversee the defensive drones for a large intra-system freighter ship. Intended to help provide a set of human eyes to stop craftier pirates from slipping past the automated systems, [PAWN_possessive] job frequently entailed long stretches of nothing but maintenance and watching empty screens between docks. When the ship was enlisted to transfer to a system, [PAWN_pronoun] thought nothing of it, and continued [PAWN_possessive] routine. [PAWN_pronoun] was dozing soundly when the first breaching pod hit.</VBE_DroneOperator.baseDescription>
+  <!-- EN: Cult leader -->
+  <VBE_CultLeader.title></VBE_CultLeader.title>
+  <!-- EN: Cultist -->
+  <VBE_CultLeader.titleShort></VBE_CultLeader.titleShort>
+  <!-- EN: [PAWN_nameDef] was a leader of a terrifying cult. [PAWN_possessive] was responsible for performing all kind of bloody rituals. Torturing and sacrificing people was on the daily matter to ensure satisfaction of their always hungry for pain and suffer God. They were all required to wear intimidating masks and long robes to hide their physical appearance. No one could leave the cult alive, at least till now. -->
+  <VBE_CultLeader.baseDescription></VBE_CultLeader.baseDescription>
 
-  <VBE_CultLeader.title>Cult leader</VBE_CultLeader.title>
-  <VBE_CultLeader.titleShort>Cultist</VBE_CultLeader.titleShort>
-  <VBE_CultLeader.baseDescription>[PAWN_nameDef] was a leader of a terrifying cult. [PAWN_possessive] was responsible for performing all kind of bloody rituals. Torturing and sacrificing people was on the daily matter to ensure satisfaction of their always hungry for pain and suffer God. They were all required to wear intimidating masks and long robes to hide their physical appearance. No one could leave the cult alive, at least till now.</VBE_CultLeader.baseDescription>
+  <!-- EN: Adventurous dreamer -->
+  <VBE_AdventurousDreamer.title></VBE_AdventurousDreamer.title>
+  <!-- EN: Dreamer -->
+  <VBE_AdventurousDreamer.titleShort></VBE_AdventurousDreamer.titleShort>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood consuming outlandish fiction in all its forms, dreaming of exploring fantastic worlds and finding treasures of every variety. Though [PAWN_pronoun] settled more into the mundanity of [PAWN_possessive] life as time passed, [PAWN_pronoun] never lost that spark of hope for something more exciting -->
+  <VBE_AdventurousDreamer.baseDescription>.</VBE_AdventurousDreamer.baseDescription>
 
-  <VBE_AdventurousDreamer.title>Adventurous dreamer</VBE_AdventurousDreamer.title>
-  <VBE_AdventurousDreamer.titleShort>Dreamer</VBE_AdventurousDreamer.titleShort>
-  <VBE_AdventurousDreamer.baseDescription>[PAWN_nameDef] spent [PAWN_possessive] childhood consuming outlandish fiction in all its forms, dreaming of exploring fantastic worlds and finding treasures of every variety. Though [PAWN_pronoun] settled more into the mundanity of [PAWN_possessive] life as time passed, [PAWN_pronoun] never lost that spark of hope for something more exciting.</VBE_AdventurousDreamer.baseDescription>
+  <!-- EN: Standard-bearer -->
+  <VBE_Standardbearer.title></VBE_Standardbearer.title>
+  <!-- EN: Banneret -->
+  <VBE_Standardbearer.titleShort></VBE_Standardbearer.titleShort>
+  <!-- EN: [PAWN_nameDef] was a standardbearer.  [PAWN_possessive] had to bear and protect the emblem of  [PAWN_possessive] people in wartime. [PAWN_pronoun] was chosen because of  [PAWN_possessive] fighting skills and [PAWN_possessive] ability to read the battlefield: [PAWN_pronoun] was expected to push forward if a group was wavering and to retreat with the emblem if the battle was lost. [PAWN_pronoun] was freed from cooking and digging duties -->
+  <VBE_Standardbearer.baseDescription>.</VBE_Standardbearer.baseDescription>
 
-  <VBE_Standardbearer.title>Standard-bearer</VBE_Standardbearer.title>
-  <VBE_Standardbearer.titleShort>Banneret</VBE_Standardbearer.titleShort>
-  <VBE_Standardbearer.baseDescription>[PAWN_nameDef] was a standardbearer.  [PAWN_possessive] had to bear and protect the emblem of  [PAWN_possessive] people in wartime. [PAWN_pronoun] was chosen because of  [PAWN_possessive] fighting skills and [PAWN_possessive] ability to read the battlefield: [PAWN_pronoun] was expected to push forward if a group was wavering and to retreat with the emblem if the battle was lost. [PAWN_pronoun] was freed from cooking and digging duties.</VBE_Standardbearer.baseDescription>
+  <!-- EN: Midworld programmer -->
+  <VBE_MidworldProgrammer.title></VBE_MidworldProgrammer.title>
+  <!-- EN: Programmer -->
+  <VBE_MidworldProgrammer.titleShort></VBE_MidworldProgrammer.titleShort>
+  <!-- EN: [PAWN_nameDef]'s dream was to become a programmer and create Medicine software to make people's lives better. As it often happens, [PAWN_possessive] life turned out differently. To earn a living, [PAWN_nameDef] had to start writing military software for combat robots. It gave [PAWN_objective] a lot of programming knowledge as well as some insights in weapons' inner workings. -->
+  <VBE_MidworldProgrammer.baseDescription></VBE_MidworldProgrammer.baseDescription>
 
-  <VBE_MidworldProgrammer.title>Midworld programmer</VBE_MidworldProgrammer.title>
-  <VBE_MidworldProgrammer.titleShort>Programmer</VBE_MidworldProgrammer.titleShort>
-  <VBE_MidworldProgrammer.baseDescription>[PAWN_nameDef]'s dream was to become a programmer and create Medicine software to make people's lives better. As it often happens, [PAWN_possessive] life turned out differently. To earn a living, [PAWN_nameDef] had to start writing military software for combat robots. It gave [PAWN_objective] a lot of programming knowledge as well as some insights in weapons' inner workings.</VBE_MidworldProgrammer.baseDescription>
-
-  <VBE_Landsknecht.title>Landsknecht</VBE_Landsknecht.title>
-  <VBE_Landsknecht.titleShort>Landsknecht</VBE_Landsknecht.titleShort>
-  <VBE_Landsknecht.baseDescription>[PAWN_nameDef] was barely scrapping by in [PAWN_possessive] village when the recruiter came. The man told [PAWN_objective] that [PAWN_pronoun] would get his first payment in advance, so [PAWN_nameDef] sold [PAWN_possessive] tools and enlisted. At the beginning, [PAWN_pronoun] only had a pike, but after some time [PAWN_pronoun] was able to buy the extravagant clothing marking [PAWN_objective] as a successful soldier. He never betrayed [PAWN_possessive] principles: don't question the orders of whoever is keeping you fed.</VBE_Landsknecht.baseDescription>
+  <!-- EN: Landsknecht -->
+  <VBE_Landsknecht.title></VBE_Landsknecht.title>
+  <!-- EN: Landsknecht -->
+  <VBE_Landsknecht.titleShort></VBE_Landsknecht.titleShort>
+  <!-- EN: [PAWN_nameDef] was barely scrapping by in [PAWN_possessive] village when the recruiter came. The man told [PAWN_objective] that [PAWN_pronoun] would get his first payment in advance, so [PAWN_nameDef] sold [PAWN_possessive] tools and enlisted. At the beginning, [PAWN_pronoun] only had a pike, but after some time [PAWN_pronoun] was able to buy the extravagant clothing marking [PAWN_objective] as a successful soldier. He never betrayed [PAWN_possessive] principles: don't question the orders of whoever is keeping you fed. -->
+  <VBE_Landsknecht.baseDescription></VBE_Landsknecht.baseDescription>
 </LanguageData>
