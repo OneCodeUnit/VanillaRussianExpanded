@@ -1,64 +1,107 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VBE_AquaponicWorker.title>Aquaponic worker</VBE_AquaponicWorker.title>
-  <VBE_AquaponicWorker.titleShort>Fishfarmer</VBE_AquaponicWorker.titleShort>
-  <VBE_AquaponicWorker.baseDescription>[PAWN_nameDef] used to work in an aquaponic lab. He was tasked with the production of fish and vegetables for his colony. While PAWN_possessive] work was important it did leave little time for socializing.</VBE_AquaponicWorker.baseDescription>
+  <!-- EN:Aquaponic worker -->
+  <VBE_AquaponicWorker.title>Работник аквапонической лаборатории</VBE_AquaponicWorker.title>
+  <!-- EN:Fishfarmer -->
+  <VBE_AquaponicWorker.titleShort>Рыбовод</VBE_AquaponicWorker.titleShort>
+  <!-- EN:[PAWN_nameDef] used to work in an aquaponic lab. He was tasked with the production of fish and vegetables for his colony. While PAWN_possessive] work was important it did leave little time for socializing. -->
+  <VBE_AquaponicWorker.baseDescription>{PAWN_nameDef} раньше {PAWN_gender ? работал : работала} в аквапонической лаборатории. Основной {PAWN_possessive} задачей было производство рыбы и овощей для своего поселения. И хотя {PAWN_possessive} работа считалась важной, она не оставляла времени для общения с другими людьми.</VBE_AquaponicWorker.baseDescription>
 
-  <VBE_StewCooker.title>Stew cooker</VBE_StewCooker.title>
-  <VBE_StewCooker.titleShort>Cook</VBE_StewCooker.titleShort>
-  <VBE_StewCooker.baseDescription>[PAWN_nameDef] marched with long lines of medieval armies, and was in charge of the stew pots in the camps. [PAWN_possessive] know-how about some local plants and fungi allowed people to stretch ration for longer, and saved a life or two when the supplies ran dry.</VBE_StewCooker.baseDescription>
+  <!-- EN:Stew cooker -->
+  <VBE_StewCooker.title>Кашевар</VBE_StewCooker.title>
+  <!-- EN:Cook -->
+  <VBE_StewCooker.titleShort>Повар</VBE_StewCooker.titleShort>
+  <!-- EN:[PAWN_nameDef] marched with long lines of medieval armies, and was in charge of the stew pots in the camps. [PAWN_possessive] know-how about some local plants and fungi allowed people to stretch ration for longer, and saved a life or two when the supplies ran dry. -->
+  <VBE_StewCooker.baseDescription>{PAWN_nameDef} {PAWN_gender ? двигался : двигалась} вместе с отрядами средневековых армий и {PAWN_gender ? отвечал : отвечала} за то, чтобы в котлах всегда была горячая похлёбка. {PAWN_possessive} познания съедобных растений и грибов позволяли протянуть подольше на имеющихся запасах и спасли не одну жизнь, когда припасов не оставалось.</VBE_StewCooker.baseDescription>
 
-  <VBE_StarvingArtist.title>Starving artist</VBE_StarvingArtist.title>
-  <VBE_StarvingArtist.titleShort>Artist</VBE_StarvingArtist.titleShort>
-  <VBE_StarvingArtist.baseDescription>[PAWN_nameDef] was an relatively well-off art student in an urban world. A financial collapse forced [PAWN_objective] onto the streets, selling paintings for a living. [PAWN_pronoun] didn’t make much, and what surplus [PAWN_pronoun] had went into more materials and food for some friendly and loyal stray dogs.</VBE_StarvingArtist.baseDescription>
+  <!-- EN:Starving artist -->
+  <VBE_StarvingArtist.title>Голодающий художник</VBE_StarvingArtist.title>
+  <!-- EN:Artist -->
+  <VBE_StarvingArtist.titleShort>Художник</VBE_StarvingArtist.titleShort>
+  <!-- EN:[PAWN_nameDef] was an relatively well-off art student in an urban world. A financial collapse forced [PAWN_objective] onto the streets, selling paintings for a living. [PAWN_pronoun] didn’t make much, and what surplus [PAWN_pronoun] had went into more materials and food for some friendly and loyal stray dogs. -->
+  <VBE_StarvingArtist.baseDescription>{PAWN_nameDef} {PAWN_gender ? был : была} довольно успевающим учеником художественной школы урбанизированного мира. Из-за финансового кризиса {PAWN_pronoun} {PAWN_gender ? оказался : оказалась} на улице и {PAWN_gender ? был вынужден : была вынуждена} продавать свои картины, чтобы добыть пропитание. Много зарабатывать не получалось, а все {PAWN_possessive} скромные сбережения уходили на материалы для рисования и угощения для нескольких верных бродячих собак, с которыми {PAWN_objective} удалось подружиться.</VBE_StarvingArtist.baseDescription>
 
-  <VBE_Foreman.title>Foreman</VBE_Foreman.title>
-  <VBE_Foreman.titleShort>Foreman</VBE_Foreman.titleShort>
-  <VBE_Foreman.baseDescription>[PAWN_nameDef] was a foreman in a mine extracting industrial metals. [PAWN_pronoun] worked alongside the workers to ensure safety and motivate them. Workers under [PAWN_objective] were paid decently well, and liked [PAWN_possessive] leadership.</VBE_Foreman.baseDescription>
+  <!-- EN:Foreman -->
+  <VBE_Foreman.title>Штейгер</VBE_Foreman.title>
+  <!-- EN:Foreman -->
+  <VBE_Foreman.titleShort>Штейгер</VBE_Foreman.titleShort>
+  <!-- EN:[PAWN_nameDef] was a foreman in a mine extracting industrial metals. [PAWN_pronoun] worked alongside the workers to ensure safety and motivate them. Workers under [PAWN_objective] were paid decently well, and liked [PAWN_possessive] leadership. -->
+  <VBE_Foreman.baseDescription>{PAWN_nameDef} раньше {PAWN_gender ? был : была} штейгером в рудной шахте. {PAWN_pronoun} {PAWN_gender ? работал : работала} бок о бок с рабочими, следя за их безопасностью и мотивируя их. Рабочие под {PAWN_possessive} началом получали достойную плату и были довольны {PAWN_gender ? своим начальником : своей начальницей}.</VBE_Foreman.baseDescription>
 
-  <VBE_GalleryJanitor.title>Gallery janitor</VBE_GalleryJanitor.title>
-  <VBE_GalleryJanitor.titleShort>Janitor</VBE_GalleryJanitor.titleShort>
-  <VBE_GalleryJanitor.baseDescription>[PAWN_nameDef] worked as a janitor in a modern art gallery, but never understood the appeal. One day, [PAWN_pronoun] decided to add a few strokes of paint to an asymmetrical artwork worth millions. [PAWN_nameDef] made headlines in the news, and [PAWN_pronoun] was fired and banned from the gallery.</VBE_GalleryJanitor.baseDescription>
+  <!-- EN:Gallery janitor -->
+  <VBE_GalleryJanitor.title>Музейный уборщик</VBE_GalleryJanitor.title>
+  <!-- EN:Janitor -->
+  <VBE_GalleryJanitor.titleShort>Уборщик</VBE_GalleryJanitor.titleShort>
+  <!-- EN:[PAWN_nameDef] worked as a janitor in a modern art gallery, but never understood the appeal. One day, [PAWN_pronoun] decided to add a few strokes of paint to an asymmetrical artwork worth millions. [PAWN_nameDef] made headlines in the news, and [PAWN_pronoun] was fired and banned from the gallery. -->
+  <VBE_GalleryJanitor.baseDescription>{PAWN_nameDef} {PAWN_gender ? работал : работала} уборщиком в галерее современного искусства, которое всегда было выше {PAWN_possessive} понимания. Однажды {PAWN_nameDef} {PAWN_gender ? решил : решила} добавить несколько мазков кистью к ассиметричной картине, стоившей миллионы, после чего {PAWN_possessive} имя появилось на первых полосах всех газет. {PAWN_nameDef} {PAWN_gender ? был уволен : была уволена} и {PAWN_objective} было запрещено приближаться к галерее.</VBE_GalleryJanitor.baseDescription>
 
-  <VBE_HostessInTraining.title>Hostess in training</VBE_HostessInTraining.title>
-  <VBE_HostessInTraining.titleShort>Hostess</VBE_HostessInTraining.titleShort>
-  <VBE_HostessInTraining.baseDescription>[PAWN_nameDef] spent plenty of time in their parent's restaurant growing up, eventually getting a job seating patrons. While they weren't a cook by trade, they still picked up a lot of the tastes and preferences of the clientele, along with plenty of gossip. This ended poorly one day after an altercation with an ex-lover, and they've been drifting since.</VBE_HostessInTraining.baseDescription>
+  <!-- EN:Hostess in training -->
+  <VBE_HostessInTraining.title>Стажёр в ресторане</VBE_HostessInTraining.title>
+  <!-- EN:Hostess -->
+  <VBE_HostessInTraining.titleShort>Стажёр</VBE_HostessInTraining.titleShort>
+  <!-- EN:[PAWN_nameDef] spent plenty of time in their parent's restaurant growing up, eventually getting a job seating patrons. While they weren't a cook by trade, they still picked up a lot of the tastes and preferences of the clientele, along with plenty of gossip. This ended poorly one day after an altercation with an ex-lover, and they've been drifting since. -->
+  <VBE_HostessInTraining.baseDescription>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} большую часть своего времени в ресторане родителей, помогая им. Со временем {PAWN_gender ? взял : взяла} на себя работу приветствовать и рассаживать гостей. Хотя {PAWN_nameDef} и не {PAWN_gender ? готовил сам : готовила сама}, это не помешало {PAWN_objective} научиться многим тонкостям, касающихся вкусов клиентов, равно как быть в курсе огромного количества слухов и сплетен, что не могло не закончиться плохо. Однажды случилась ссора с {PAWN_gender ? бывшей : бывшим}, из-за которой теперь {PAWN_nameDef} ищет себе новое место в жизни.</VBE_HostessInTraining.baseDescription>
 
-  <VBE_TunerPunk.title>Tuner punk</VBE_TunerPunk.title>
-  <VBE_TunerPunk.titleShort>Tuner</VBE_TunerPunk.titleShort>
-  <VBE_TunerPunk.baseDescription>A bit of a loner, [PAWN_nameDef] found belonging and family in the mechanics who'd race modded-out cars. This led to many knife brawls, high-speed chases, and the occasional gunshot wound, but this didn't stop [PAWN_nameDef] from enjoying the competition.</VBE_TunerPunk.baseDescription>
+  <!-- EN:Tuner punk -->
+  <VBE_TunerPunk.title>Уличный гонщик</VBE_TunerPunk.title>
+  <!-- EN:Tuner -->
+  <VBE_TunerPunk.titleShort>Гонщик</VBE_TunerPunk.titleShort>
+  <!-- EN:A bit of a loner, [PAWN_nameDef] found belonging and family in the mechanics who'd race modded-out cars. This led to many knife brawls, high-speed chases, and the occasional gunshot wound, but this didn't stop [PAWN_nameDef] from enjoying the competition. -->
+  <VBE_TunerPunk.baseDescription>Одиночка по характеру, {PAWN_nameDef} {PAWN_gender ? нашёл : нашла} и семью, и призвание в группе механиков, устраивавших уличные гонки на кустарно модифицированных автомобилях. В {PAWN_possessive} жизни нашлось место и поножовщинам, и погоням на безумных скоростях, и даже огнестрельным ранениям. Но это не отбило у н{PAWN_possessive} азарта и тяги к соревнованиям.</VBE_TunerPunk.baseDescription>
 
-  <VBE_OliveFarmer.title>Olive farmer</VBE_OliveFarmer.title>
-  <VBE_OliveFarmer.titleShort>Farmer</VBE_OliveFarmer.titleShort>
-  <VBE_OliveFarmer.baseDescription>[PAWN_nameDef] was the lucky owner of an olive tree plantation. [PAWN_pronoun] would spend hours tending the saplings, always telling [PAWN_possessive] family when they would laugh about it: never give up your last sapling, whatever happens, you can always start over. One day, [PAWN_pronoun] was found in a refugee group, staring blankly at his last possessions: a bloody picture and a small sapling. When it was time to go, [PAWN_pronoun] left the small olive tree behind.</VBE_OliveFarmer.baseDescription>
+  <!-- EN:Olive farmer -->
+  <VBE_OliveFarmer.title>Оливковый фермер</VBE_OliveFarmer.title>
+  <!-- EN:Farmer -->
+  <VBE_OliveFarmer.titleShort>Садовод</VBE_OliveFarmer.titleShort>
+  <!-- EN:[PAWN_nameDef] was the lucky owner of an olive tree plantation. [PAWN_pronoun] would spend hours tending the saplings, always telling [PAWN_possessive] family when they would laugh about it: never give up your last sapling, whatever happens, you can always start over. One day, [PAWN_pronoun] was found in a refugee group, staring blankly at his last possessions: a bloody picture and a small sapling. When it was time to go, [PAWN_pronoun] left the small olive tree behind. -->
+  <VBE_OliveFarmer.baseDescription>{PAWN_nameDef} {PAWN_gender ? оказался : оказалась} одним из счастливых владельцев плантации оливковых деревьев. {PAWN_pronoun} часами {PAWN_gender ? ухаживал : ухаживала} за ростками, не уставая говорить своей семье, когда они смеялись над {PAWN_gender ? ним : ней}: «- Даже если у тебя остался только один росточек, ты всегда можешь начать сначала». В какой-то момент {PAWN_nameDef} {PAWN_gender ? обнаружился : обнаружилась} среди группы беженцев. Пустым взглядом  {PAWN_gender ? он смотрел : она смотрела} на всё, что у н{PAWN_possessive} осталось: запачканное кровью фото и единственный оливковый саженец. Когда пришло время уходить, {PAWN_nameDef} {PAWN_gender ? оставил : оставила} позади лишь маленькое оливковое дерево.</VBE_OliveFarmer.baseDescription>
 
-  <VBE_Florist.title>Florist</VBE_Florist.title>
-  <VBE_Florist.titleShort>Florist</VBE_Florist.titleShort>
-  <VBE_Florist.baseDescription>[PAWN_nameDef] is a gentle soul with a talent for creating new flower hybrids. [PAWN_pronoun] loved to create new flowers for all kinds of occasions, but was deeply distressed each time someone died. When the plague struck [PAWN_possessive] city, [PAWN_pronoun] was one of the few to survive and went nearly mad with grief as [PAWN_pronoun] saw how many had died. The city had to be abandoned, but a few years later travelers started to tell that it was now entirely covered in flowers, as if one flower sprouted for each and every victim of the plague.</VBE_Florist.baseDescription>
+  <!-- EN:Florist -->
+  <VBE_Florist.title>Флорист</VBE_Florist.title>
+  <!-- EN:Florist -->
+  <VBE_Florist.titleShort>Флорист</VBE_Florist.titleShort>
+  <!-- EN:[PAWN_nameDef] is a gentle soul with a talent for creating new flower hybrids. [PAWN_pronoun] loved to create new flowers for all kinds of occasions, but was deeply distressed each time someone died. When the plague struck [PAWN_possessive] city, [PAWN_pronoun] was one of the few to survive and went nearly mad with grief as [PAWN_pronoun] saw how many had died. The city had to be abandoned, but a few years later travelers started to tell that it was now entirely covered in flowers, as if one flower sprouted for each and every victim of the plague. -->
+  <VBE_Florist.baseDescription>{PAWN_nameDef} — человек с тонкой душевной организацией и талантом к выведению новых видов растений. {PAWN_pronoun} {PAWN_gender ? обожал : обожала} создавать новые цветы для всех случаев жизни, но {PAWN_gender ? был крайне потрясён : была крайне потрясена} каждый раз, когда кто-либо умирал. Когда чума пришла в {PAWN_possessive} город, {PAWN_nameDef} {PAWN_gender ? оказался одним : оказалась одной} из тех немногих, кто выжил и почти {PAWN_gender ? сошёл : сошла} с ума от горя, видя то, скольким повезло намного меньше. Город был заброшен, но, спустя несколько лет, проезжавшие мимо путешественники заметили, что теперь он полностью покрыт цветами. Каждый распустившийся цветок рос там как память об одной из жертв чумы.</VBE_Florist.baseDescription>
 
-  <VBE_ChildofTheAnimaTree.title>Child of the anima tree</VBE_ChildofTheAnimaTree.title>
-  <VBE_ChildofTheAnimaTree.titleShort>Psychic</VBE_ChildofTheAnimaTree.titleShort>
-  <VBE_ChildofTheAnimaTree.baseDescription>[PAWN_nameDef] was born and raised within very close proximity to an Anima tree. [PAWN_possessive] village taught [PAWN_objective] the great importance of this tree and how to take good care of it. As a result of spending so much time with the tree, [PAWN_objective] has a very developed connection to the psychic energies of this world.</VBE_ChildofTheAnimaTree.baseDescription>
+  <!-- EN:Child of the anima tree -->
+  <VBE_ChildofTheAnimaTree.title>Дитя древа души</VBE_ChildofTheAnimaTree.title>
+  <!-- EN:Psychic -->
+  <VBE_ChildofTheAnimaTree.titleShort>Псайкер</VBE_ChildofTheAnimaTree.titleShort>
+  <!-- EN:[PAWN_nameDef] was born and raised within very close proximity to an Anima tree. [PAWN_possessive] village taught [PAWN_objective] the great importance of this tree and how to take good care of it. As a result of spending so much time with the tree, [PAWN_objective] has a very developed connection to the psychic energies of this world. -->
+  <VBE_ChildofTheAnimaTree.baseDescription>{PAWN_nameDef} {PAWN_gender ? родился и вырос : родилась и выросла} в непосредственной близости от древа души. Для {PAWN_possessive} деревни древо имело огромное значение и вся деревня так или иначе ухаживала за ним. Проводя очень и очень много времени рядом с деревом, {PAWN_nameDef} {PAWN_gender ? выработал : выработала} связь с психическими эманациями этого мира.</VBE_ChildofTheAnimaTree.baseDescription>
 
-  <VBE_AnimatronicMechanic.title>Animatronic mechanic</VBE_AnimatronicMechanic.title>
-  <VBE_AnimatronicMechanic.titleShort>Mechanic</VBE_AnimatronicMechanic.titleShort>
-  <VBE_AnimatronicMechanic.baseDescription>[PAWN_nameDef] use to be a mechanic who specialized in the construction of animatronics.  [PAWN_possessive] creations were often used in movie production, restaurants, theme parks and theater productions.</VBE_AnimatronicMechanic.baseDescription>
+  <!-- EN:Animatronic mechanic -->
+  <VBE_AnimatronicMechanic.title>Механик-аниматроник</VBE_AnimatronicMechanic.title>
+  <!-- EN:Mechanic -->
+  <VBE_AnimatronicMechanic.titleShort>Механик</VBE_AnimatronicMechanic.titleShort>
+  <!-- EN:[PAWN_nameDef] use to be a mechanic who specialized in the construction of animatronics.  [PAWN_possessive] creations were often used in movie production, restaurants, theme parks and theater productions.-->
+  <VBE_AnimatronicMechanic.baseDescription>{PAWN_nameDef} раньше {PAWN_gender ? был : была} механиком, специализировавшимся на создании аниматроников. {PAWN_possessive} изделия часто можно было увидеть в фильмах, ресторанах, тематических парках и театрализованных постановках.</VBE_AnimatronicMechanic.baseDescription>
 
-  <VBE_Simraised.title>Sim-raised</VBE_Simraised.title>
-  <VBE_Simraised.titleShort>Sheltered</VBE_Simraised.titleShort>
-  <VBE_Simraised.baseDescription>[PAWN_nameDef] grew up in a simulated environment composed of augmented reality and virtual reality elements inside a robot-tended, environmentally sealed dome. While safe and idyllic, this placid lifestyle left [PAWN_possessive] wanting something more in life.</VBE_Simraised.baseDescription>
+  <!-- EN:Sim-raised -->
+  <VBE_Simraised.title>Выращенный в симуляции</VBE_Simraised.title>
+  <!-- EN:Sheltered -->
+  <VBE_Simraised.titleShort>Домашний</VBE_Simraised.titleShort>
+  <!-- EN:[PAWN_nameDef] grew up in a simulated environment composed of augmented reality and virtual reality elements inside a robot-tended, environmentally sealed dome. While safe and idyllic, this placid lifestyle left [PAWN_possessive] wanting something more in life. -->
+  <VBE_Simraised.baseDescription>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в симулированной среде, состоящей из элементов продвинутой виртуальной реальности внутри закрытого обслуживаемого роботами купола. Несмотря на идиллию и безопасность, этот образ жизни ощущался до крайности пресным и {PAWN_pronoun} всегда {PAWN_gender ? желал : желала} большего.</VBE_Simraised.baseDescription>
 
-  <VBE_BlacksmithApprentice.title>Blacksmith apprentice</VBE_BlacksmithApprentice.title>
-  <VBE_BlacksmithApprentice.titleShort>Apprentice</VBE_BlacksmithApprentice.titleShort>
-  <VBE_BlacksmithApprentice.baseDescription>[PAWN_nameDef] worked under a respected blacksmith as a young apprentice. [PAWN_objective] daily duties included tending the forge, hauling supplies, and sometimes  making smaller and simpler tools.
+  <!-- EN:Blacksmith apprentice -->
+  <VBE_BlacksmithApprentice.title>Ученик кузнеца</VBE_BlacksmithApprentice.title>
+  <!-- EN:Apprentice -->
+  <VBE_BlacksmithApprentice.titleShort>Подмастерье</VBE_BlacksmithApprentice.titleShort>
+  <!-- EN:[PAWN_nameDef] worked under a respected blacksmith as a young apprentice. [PAWN_objective] daily duties included tending the forge, hauling supplies, and sometimes  making smaller and simpler tools.\n\n[PAWN_objective] favourite thing to make was small daggers and wooden weapons for [PAWN_objective] fellow children, which made [PAWN_possessive] quite popular. -->
+  <VBE_BlacksmithApprentice.baseDescription>{PAWN_nameDef} {PAWN_gender ? работал : работала} подмастерьем уважаемого в своём поселении человека — умелого кузнеца. {PAWN_objective} ежедневная работа в основном состояла в том, чтобы поддерживать жар в кузне, приносить материалы и иногда изготавливать простые инструменты и небольшие металлические изделия. Но {PAWN_possessive} любимым делом было мастерить небольшие кинжалы и деревянное оружие для других детей, что помогло {PAWN_objective} снискать среди них некоторую популярность.</VBE_BlacksmithApprentice.baseDescription>
 
-[PAWN_objective] favourite thing to make was small daggers and wooden weapons for [PAWN_objective] fellow children, which made [PAWN_possessive] quite popular.</VBE_BlacksmithApprentice.baseDescription>
+  <!-- EN:Junior jeweler -->
+  <VBE_JuniorJeweler.title>юный ювелир</VBE_JuniorJeweler.title>
+  <!-- EN:Mineralogist -->
+  <VBE_JuniorJeweler.titleShort>Минералог</VBE_JuniorJeweler.titleShort>
+  <!-- EN:[PAWN_nameDef] was fascinated by gems and minerals as a child. [PAWN_pronoun] built a collection, learned how to polish and cut stones, and developed an encyclopedic knowledge on mineralogy. -->
+  <VBE_JuniorJeweler.baseDescription>{PAWN_nameDef} всегда, с самого детства {PAWN_gender ? увлекался : увлекалась} минералами и драгоценными камнями. {PAWN_pronoun} {PAWN_gender ? собрал : собрала} впечатляющую коллекцию образцов. Помимо этого, {PAWN_pronoun} {PAWN_gender ? научился : научилась} обрабатывать камни и может похвастаться поистине энциклопедическими познаниями в вопросах минералогии.</VBE_JuniorJeweler.baseDescription>
 
-  <VBE_JuniorJeweler.title>Junior jeweler</VBE_JuniorJeweler.title>
-  <VBE_JuniorJeweler.titleShort>Mineralogist</VBE_JuniorJeweler.titleShort>
-  <VBE_JuniorJeweler.baseDescription>[PAWN_nameDef] was fascinated by gems and minerals as a child. [PAWN_pronoun] built a collection, learned how to polish and cut stones, and developed an encyclopedic knowledge on mineralogy.</VBE_JuniorJeweler.baseDescription>
-
-  <VBE_Jeweler.title>Jeweler</VBE_Jeweler.title>
-  <VBE_Jeweler.titleShort>Jeweler</VBE_Jeweler.titleShort>
-  <VBE_Jeweler.baseDescription>[PAWN_nameDef] inspected, cut, polished, and sold all sorts of gems and exotic minerals. [PAWN_pronoun] could tell you the difference between ten types of quartz by lustre alone.</VBE_Jeweler.baseDescription>
+  <!-- EN:Jeweler -->
+  <VBE_Jeweler.title>Ювелир</VBE_Jeweler.title>
+  <!-- EN:Jeweler -->
+  <VBE_Jeweler.titleShort>Ювелир</VBE_Jeweler.titleShort>
+  <!-- EN:[PAWN_nameDef] inspected, cut, polished, and sold all sorts of gems and exotic minerals. [PAWN_pronoun] could tell you the difference between ten types of quartz by lustre alone. -->
+  <VBE_Jeweler.baseDescription>{PAWN_nameDef} {PAWN_gender ? занимался : занималась} осмотром, обработкой, полировкой и торговлей самыми разными минералами и драгоценными камнями. {PAWN_pronoun} может различать разные сорта кварца по одному лишь его блеску.</VBE_Jeweler.baseDescription>
 </LanguageData>
