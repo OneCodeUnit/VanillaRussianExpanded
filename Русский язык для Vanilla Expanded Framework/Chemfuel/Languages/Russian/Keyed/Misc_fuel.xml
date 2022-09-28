@@ -17,4 +17,14 @@
 
   <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
   <VCHE_CantPlaceHere>Насос глубинного топлива должен быть размещён на месторождении глубинного топлива. Воспользуйтесь глубинным сканером для его обнаружения.</VCHE_CantPlaceHere>
+
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemValve>вентиль химтоплива</VCHE_ChemValve>
+  <!-- EN: Switches chemfuel flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_ChemValveDesc>Открывает или перекрывает поток топлива.</VCHE_ChemValveDesc>
+
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepChemValve>вентиль глубтоплива</VCHE_DeepChemValve>
+  <!-- EN: Switches deepchem flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_DeepChemValveDesc>Открывает или перекрывает поток топлива.</VCHE_DeepChemValveDesc>
 </LanguageData>

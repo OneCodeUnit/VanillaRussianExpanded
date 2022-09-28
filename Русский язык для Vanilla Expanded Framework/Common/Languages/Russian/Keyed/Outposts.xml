@@ -6,6 +6,10 @@
   <Outposts.Settings.Multiplier.Production>Множитель продуктивности аванпоста: {0}</Outposts.Settings.Multiplier.Production>
   <!-- EN: Global Time Multiplier: {0} -->
   <Outposts.Settings.Multiplier.Time>Множитель времени аванпоста: {0}</Outposts.Settings.Multiplier.Time>
+  <!-- EN: Global Raid Difficulty Multiplier: {0} -->
+	<Outposts.Settings.RaidDifficulty>Глобальный множитель сложности налётов: {0}</Outposts.Settings.RaidDifficulty>
+  <!-- EN: Raid Frequency Range -->
+	<Outposts.Settings.RaidFrequency>Разброс частоты налётов</Outposts.Settings.RaidFrequency>
   <!-- EN: Create -->
   <Outposts.Dialog.Create>Создать</Outposts.Dialog.Create>
   <!-- EN: Create Outpost -->
@@ -16,6 +20,10 @@
   <Outposts.Commands.TakeItems.Label>Забрать предметы</Outposts.Commands.TakeItems.Label>
   <!-- EN: Take items from {0} and add them to the caravan -->
   <Outposts.Commands.TakeItems.Desc>Забрать предметы из {0} и добавить их в караван</Outposts.Commands.TakeItems.Desc>
+  <!-- EN: Give items -->
+	<Outposts.Commands.GiveItems.Label>Отдать предметы</Outposts.Commands.GiveItems.Label>
+  <!-- EN: Take items from {0} and add them to the outpost -->
+  <Outposts.Commands.GiveItems.Desc>Забрать предметы из {0} и добавить их в аванпост</Outposts.Commands.GiveItems.Desc>
   <!-- EN: Outpost Lost -->
   <Outposts.Letters.Lost.Label>Аванпост потерян</Outposts.Letters.Lost.Label>
   <!-- EN: Regretfully, due to the deaths of all inhabitants, the outpost of {0} has been lost to us. -->
@@ -24,6 +32,12 @@
   <Outposts.Letters.BattleWon.Label>Победа аванпоста</Outposts.Letters.BattleWon.Label>
   <!-- EN: We have successfully won the battle for {0}. -->
   <Outposts.Letters.BattleWon.Text>Мы одержали победу в битве за {0}.</Outposts.Letters.BattleWon.Text>
+  <!-- EN: We have managed to capture {0} in the aftermath -->
+  <Outposts.Letters.BattleWon.Captured>После боя удалось захватить {0}</Outposts.Letters.BattleWon.Captured>
+  <!-- EN: We have managed to recover {0}'s body -->
+	<Outposts.Letters.BattleWon.Rescued>После боя удалось поднять на ноги {0}</Outposts.Letters.BattleWon.Rescued>
+  <!-- EN: We have secured: {0} worth of goods and weapons from the raiders -->
+	<Outposts.Letters.BattleWon.Secured>По итогам боя нашими стали {0} ценных предметом и единиц оружия</Outposts.Letters.BattleWon.Secured>
   <!-- EN: Items From {0} -->
   <Outposts.Letters.Items.Label>Вещи из {0}</Outposts.Letters.Items.Label>
   <!-- EN: You have received the follow items from the outpost {0}: -->
@@ -32,6 +46,10 @@
   <Outposts.Commands.AddPawn.Label>Добавить персонажа</Outposts.Commands.AddPawn.Label>
   <!-- EN: Transfer a pawn from this caravan to the outpost -->
   <Outposts.Commands.AddPawn.Desc>Перевезти персонажа в аванпост</Outposts.Commands.AddPawn.Desc>
+  <!-- EN: Delivery Destination -->
+  <Outposts.Commands.DeliveryColony.Label>Место назначения</Outposts.Commands.DeliveryColony.Label>
+  <!-- EN: Select which colony will recieve the goods. Currently: {0} -->
+  <Outposts.Commands.DeliveryColony.Desc>Выберите, какое поселение будет получать ресурсы. Сейчас это: {0}</Outposts.Commands.DeliveryColony.Desc>
   <!-- EN: Pack -->
   <Outposts.Commands.Pack.Label>Сложить</Outposts.Commands.Pack.Label>
   <!-- EN: Begin packing this outpost back into a caravan -->
@@ -96,6 +114,8 @@
   <Outposts.Abandoned.Desc>{0} был заброшен, так как там не осталось никого. Он очень быстро будет разграблен и захвачен природой, которая не оставит следов человеческого присутствия.</Outposts.Abandoned.Desc>
   <!-- EN: Take -->
   <Outposts.Take>Взять</Outposts.Take>
+  <!-- EN: Give -->
+  <Outposts.Give>Отдать</Outposts.Give>
   <!-- EN: Must be in one of the following biomes: -->
   <Outposts.AllowedBiomes>Должен быть расположен в одном из этих биомов:</Outposts.AllowedBiomes>
   <!-- EN: Cannot be in any of the following biomes: -->
