@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Cannibalistic surgeon -->
+  <VBE_CannibalisticSurgeon.title>Хирург-каннибал</VBE_CannibalisticSurgeon.title>
+  <!-- EN: Surgeon -->
+  <VBE_CannibalisticSurgeon.titleShort>Хирург</VBE_CannibalisticSurgeon.titleShort>
+  <!-- EN: [PAWN_nameDef] was a surgeon at a prestigious institution until [PAWN_possessive] tendency to take 'culinary liberties' with the deceased was revealed. Rather than damage their reputation by going public, [PAWN_pronoun] was offered a one way trip to a distant rimworld as a 'retirement package' -->
+  <VBE_CannibalisticSurgeon.baseDescription>{PAWN_nameDef} {PAWN_gender ? был : была} практикующим хирургом в центральной клинике, пока {PAWN_possessive} привычка позволять себе «кулинарные свободы» в отношении умерших пациентов не стала известна руководству. Чтобы не навредить репутации клиники, руководство отправило {PAWN_possessive} на почётную пенсию на отдалённый мир.</VBE_CannibalisticSurgeon.baseDescription>
+
+  <!-- EN: Lone traveller -->
+  <VBE_LoneTraveller.title>Одинокий путник</VBE_LoneTraveller.title>
+  <!-- EN: Traveller -->
+  <VBE_LoneTraveller.titleShort>Путешественник</VBE_LoneTraveller.titleShort>
+  <!-- EN: [PAWN_nameDef] dedicated [PAWN_possessive] life to travelling all across the world, with no specific destiny or reason. Many joined and leaved [PAWN_nameDef]'s travels throughout the time, and during which [PAWN_pronoun] learned many different skills. Given the nature of [PAWN_possessive] life, [PAWN_nameDef] learned to live life with no great comforts. -->
+  <VBE_LoneTraveller.baseDescription>{PAWN_nameDef} {PAWN_gender ? посвятил : посвятила} свою жизнь путешествиям по миру без какой-либо определённой цели или причины. {PAWN_nameDef} {PAWN_gender ? обзаводился : обзаводилась} спутниками и {PAWN_gender ? терял : теряла} их. За время, проведённое с попутчиками, {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела} знания о самых разных вещах. Живя таким образом, {PAWN_nameDef} {PAWN_gender ? научился: научилась} обходиться без особых удобств.</VBE_LoneTraveller.baseDescription>
+
+  <!-- EN: Troupe child -->
+  <VBE_TroupeChild.title>Ребёнок цирка</VBE_TroupeChild.title>
+  <!-- EN: Troupe Child -->
+  <VBE_TroupeChild.titleShort>Ребёнок цирка</VBE_TroupeChild.titleShort>
+  <!-- EN: [PAWN_nameDef] was born into a traveling troupe family, but never fell into the craft. As such, they relegated themselves to odd jobs and keeping their head down, which they thrived at. The nomadic nature of their family, however, made it so [PAWN_pronoun] did not make many friends -->
+  <VBE_TroupeChild.baseDescription>{PAWN_nameDef} {PAWN_gender ? родился : родилась} в семье цирковых актёров, но так и не {PAWN_gender ? смог : смогла} найти себя в цирковом искусстве. Поэтому {PAWN_pronoun} {PAWN_gender ? посвятил : посвятила} жизнь поиску себя, регулярно меняя работу. Единственное, что было для н{PAWN_possessive} постоянным — это уныние, в чём {PAWN_pronoun}  {PAWN_gender ? преуспел : преуспела}. Из-за бродячего образа жизни своей семьи, {PAWN_nameDef} не {PAWN_gender ? смог : смогла} обзавестись большим количеством друзей.</VBE_TroupeChild.baseDescription>
+  
+  <!-- EN: Living cure -->
+  <VBE_LivingCure.title>Живое лекарство</VBE_LivingCure.title>  
+  <!-- EN: Living Cure -->
+  <VBE_LivingCure.titleShort>Живое лекарство</VBE_LivingCure.titleShort>
+  <!-- EN: When [PAWN_nameDef] was going through a checkup after [PAWN_objective] was born, doctors found out [PAWN_objective] was immune to a variety of diseases due to an extremely rare mutation, and that [PAWN_Possessive] blood could be used to treat many illnesses first thought to be terminal. This led to [PAWN_nameDef] having to stay in the hospital to work as a living cure, and [PAWN_objective] was not allowed to leave. -->
+  <VBE_LivingCure.baseDescription>Когда {PAWN_nameDef} {PAWN_gender ? проходил : проходила} обследование после своего рождения, врачи обнаружили, что из-за чрезвычайно редкой мутации, {PAWN_pronoun} {PAWN_gender ? невосприимчив : невосприимчива} ко многим заболеваниям и {PAWN_possessive} кровь можно использовать для лечения болезней, которые ранее считались неизлечимыми. Это привело к тому, что {PAWN_nameDef} {PAWN_gender ? начал : начала} жить и работать больнице в качестве живого лекарства без возможности покидать её.</VBE_LivingCure.baseDescription>
+ 
+  <!-- EN: Cannonfodder -->
+  <VBE_Cannonfodder.title>Пушечное мясо</VBE_Cannonfodder.title>
+  <!-- EN: Cannonfodder -->
+  <VBE_Cannonfodder.titleShort>Пушечное мясо</VBE_Cannonfodder.titleShort>
+  <!-- EN: [PAWN_nameDef] didn’t have any opportunities or connections with influential individuals after reaching adulthood. Knowing [PAWN_Possessive] only opportunity was to join the military, [PAWN_pronoun] enlisted into the lowest ranks of the army -->
+  <VBE_Cannonfodder.baseDescription>После достижения совершеннолетия {PAWN_nameDef} {PAWN_gender ? оказался лишённым : оказалась лишённой} перспектив в жизни или влиятельных друзей. Понимая, что {PAWN_possessive} единственная возможность добиться чего-либо, {PAWN_nameDef} {PAWN_gender ? решил : решила} стать солдатом и {PAWN_gender ? оказался : оказалась} в самом низу её структуры.</VBE_Cannonfodder.baseDescription>
+
+  <!-- EN: Cyber dilettante -->
+  <VBE_CyberDilettante.title>Кибердилетант</VBE_CyberDilettante.title>
+  <!-- EN: Techie -->
+  <VBE_CyberDilettante.titleShort>Кодер</VBE_CyberDilettante.titleShort>
+  <!-- EN: [PAWN_nameDef] is in love with software and cyberspace, with the potential to connect people across vast distances and enhance their abilities with the speedy precision of mechanized computation. [PAWN_pronoun] has always wanted to be a coder and is full of ideas [PAWN_pronoun]'d love to implement... if [PAWN_pronoun] was any good at coding. Unfortunately, [PAWN_possessive] talents lie elsewhere -->
+  <VBE_CyberDilettante.baseDescription>{PAWN_nameDef} {PAWN_gender ? влюблен : влюблена} в программное обеспечение и киберпространство, в его потенциал, позволяющий соединять людей на огромных расстояниях и расширять их способности молниеносной скоростью точных вычислений. {PAWN_pronoun} всегда {PAWN_gender ? хотел: хотела} быть кодером. {PAWN_possessive} голова полна идей, которые {PAWN_pronoun} с удовольствием бы {PAWN_gender ? воплотил : воплотила}... если бы {PAWN_nameDef} хоть немного {PAWN_gender ? умел : умела} бы программировать. К сожалению, {PAWN_possessive} навыки так и остались где-то на базовом уровне.</VBE_CyberDilettante.baseDescription>
+  
+  <!-- EN: Tomb maker -->
+  <VBE_TombMaker.title>Создатель могил</VBE_TombMaker.title>
+  <!-- EN: Sepulcherist -->
+  <VBE_TombMaker.titleShort>Гробовщик</VBE_TombMaker.titleShort>
+  <!-- EN: When [PAWN_nameDef] was young, a lethal pox swept through [PAWN_possessive] settlement, killing four out of every five people. Old enough to use a shovel, [PAWN_pronoun] dug graves for many people [PAWN_pronoun] knew and loved, but burial wasn't enough to honor them. [PAWN_pronoun] would routinely return over the years and gradually erect ornamented tombs for the fallen -->
+  <VBE_TombMaker.baseDescription>Когда {PAWN_nameDef} {PAWN_pronoun} {PAWN_gender ? был cовсем юным : была совсем юной}, в {PAWN_possesive} поселении свирепствовал очень опасный штамм оспы, убивавшей примерно каждого пятого заболевшего.  Будучи достаточно {PAWN_gender ? взрослым : взрослой}, чтобы держать в руках лопату, {PAWN_nameDef} {PAWN_gender ? копал : копала} могилы для тех, кого {PAWN_pronoun} {PAWN_gender ? любил и знал : любила и знала} раньше, но просто похоронить их было недостаточно, поэтому  {PAWN_pronoun} {PAWN_gender ? навещал : навещала} их каждый год и современем {PAWN_gender ? построил : построила} искусно украшенные усыпальницы для тех, кого больше не было рядом.</VBE_TombMaker.baseDescription>
+  
+  <!-- EN: Genetic reincarnation -->
+  <VBE_GeneticReincarnation.title>Генетическое перерождение</VBE_GeneticReincarnation.title>
+  <!-- EN: Reincarnation -->
+  <VBE_GeneticReincarnation.titleShort>Перерождение</VBE_GeneticReincarnation.titleShort>
+  <!-- EN: [PAWN_nameDef] was vat-grown as a genetic clone of an ancient philosopher-tyrant. Beheld as a celebrity of cultural revitalization from infanthood, [PAWN_pronoun] was simultaneously doted upon and stifled, everyone demanding [PAWN_objective] to act exactly as [PAWN_pronoun] did in [PAWN_possessive] previous life -->
+  <VBE_GeneticReincarnation.baseDescription>{PAWN_nameDef} {PAWN_gender ? был : была} искусственно выращенным клоном древнего тирана-философа. С самого детства к н{PAWN_objective} относились как к знаменитости культурного реннессанса, {PAWN_possessive} окружали вниманием и заботой, но при этом от н{PAWN_possessive} все вокруг ждали, что {PAWN_nameDef} будет вести себя точно так же, как {PAWN_pronoun} это {PAWN_gender ? делал: делала} и в прошлой жизни.</VBE_GeneticReincarnation.baseDescription>
+  
+  <!-- EN: Drill operator -->
+  <VBE_DrillOperator.title>Оператор буровой установки</VBE_DrillOperator.title>
+  <!-- EN: Driller -->
+  <VBE_DrillOperator.titleShort>Бурильщик</VBE_DrillOperator.titleShort>
+  <!-- EN: [PAWN_nameDef] was employed in a crust-penetrating mining operation gone wrong. [PAWN_nameDef] was one of the few survivors, and with the others [PAWN_pronoun] brought a legal case against the mining company on the basis that they'd covered up discovery of insectoid infestation to secure more profits. When the company started silencing the survivors, [PAWN_pronoun] stowed away on a starship for safety's sake. -->
+  <VBE_DrillOperator.baseDescription>{PAWN_nameDef} {PAWN_gender ? был : была} членом шахтёрской экспедиции, в которой что-то пошло очень сильно не так. {PAWN_nameDef} {PAWN_gender ? был : была} среди немногих выживших, подавших коллективный иск против нанимателя - горнодобывающей компании, которая скрыла наличие улья инсектоидов ради получения прибыли. Когда компания начала избавляться от свидетелей, {PAWN_nameDef} {PAWN_gender ? принял : приняла} решение сбежать с планеты, чтобы хотя бы сохранить свою жизнь.</VBE_DrillOperator.baseDescription>
+
+  <!-- EN: Walker engineer -->
+  <VBE_WalkerEngineer.title>Инженер шагоходов</VBE_WalkerEngineer.title>
+  <!-- EN: Engineer -->
+  <VBE_WalkerEngineer.titleShort>Инженер</VBE_WalkerEngineer.titleShort>
+  <!-- EN: Always eager for a challenge, [PAWN_nameDef] worked on various military vehicles, including the frightening Warwalkers. A tough and sweaty job with high risk of limb injury, [PAWN_nameDef] adapted quickly to strenuous work cycles. This cost their creativity, however, and left little time for other hobbies -->
+  <VBE_WalkerEngineer.baseDescription>Всегда {PAWN_gender ? готовый : готовая} испытать себя на прочность, {PAWN_nameDef} {PAWN_gender ? нёс : несла} службу на самых разных боевых машинах, в том числе на устрашающих боевых шагоходах. Работа тяжёлая и грязная, с постоянным риском травмы, но {PAWN_nameDef} {PAWN_gender ? привык : привыкла} к ней достаточно быстро. Но это было достигнуто ценой способностей к творчеству и отсутствия хобби.</VBE_WalkerEngineer.baseDescription>
+
+  <!-- EN: Freak -->
+  <VBE_Freak.title>Уродец</VBE_Freak.title>
+  <!-- EN: Freak -->
+  <VBE_Freak.titleShort>Уродец</VBE_Freak.titleShort>
+  <!-- EN: [PAWN_nameDef] was born heavily deformed. [PAWN_pronoun] was sold a space circus and travelled between worlds. There, people paid to watch [PAWN_objective] perform various shows. One day, as the company was travelling to a nearby space station, [PAWN_nameDef] managed to escape -->
+  <VBE_Freak.baseDescription> {PAWN_nameDef} {PAWN_gender ? родился: родилась} с сильно деформированным телом. Родители  продали {PAWN_possessive} в космический цирк и с тех пор {PAWN_pronoun} {PAWN_gender ? путешествовал: путешествовала} между мирами. Зрители платили за то, чтобы посмотреть, как {PAWN_nameDef} выступает в различных шоу. Однажды, когда цирк направлялся на соседнюю космическую станцию, {PAWN_nameDef} {PAWN_gender ? смог : смогла} использовать свой шанс и сбежать. </VBE_Freak.baseDescription>
+
+  <!-- EN: Propagandist -->
+  <VBE_Propagandist.title>Пропагандист</VBE_Propagandist.title>
+  <!-- EN: Propagandist -->
+  <VBE_Propagandist.titleShort>Пропагандист</VBE_Propagandist.titleShort>
+  <!-- EN: [PAWN_nameDef] got a job as a reporter, but eventually noticed that [PAWN_possessive] work was often edited before release, with many aspects being omitted or rewritten entirely. When [PAWN_pronoun] brought it up with upper management and was told the choice was truth or success... [PAWN_pronoun] chose the latter. It used to keep [PAWN_objective] up at night, but money is money and fame is fame. -->
+    <VBE_Propagandist.baseDescription>{PAWN_nameDef} {PAWN_gender ? получил: получила} работу корреспондента, но со временем  {PAWN_pronoun} {PAWN_gender ? стал: стала} замечать, что {PAWN_possessive} работы часто редактировались перед выпуском, причем многие аспекты были опущены или полностью переписаны. Когда {PAWN_pronoun} {PAWN_gender ? заговорил: заговорила} об этом с руководством, {PAWN_possessive} поставили перед выбором - правда или успех... {PAWN_pronoun} {PAWN_gender ? выбрал: выбрала} последнее. Раньше это не давало {PAWN_objective} спать ночами, но деньги есть деньги, а слава есть слава...</VBE_Propagandist.baseDescription>
+
+  <!-- EN: Lighthouse keeper -->
+  <VBE_LighthouseKeeper.title>Хранитель маяка</VBE_LighthouseKeeper.title>
+  <!-- EN: Keeper -->
+  <VBE_LighthouseKeeper.titleShort>Хранитель</VBE_LighthouseKeeper.titleShort>
+  <!-- EN: A solitary individual, [PAWN_nameDef] has spent a large portion of their life tending to the (mostly) automated lighthouse space stations. Feeding navigational information to ships of many eras, these quiet postings were often considered punishments by those who worked them. [PAWN_nameDef] disagrees, however, and the quiet was wonderful for them and their art -->
+  <VBE_LighthouseKeeper.baseDescription>{PAWN_nameDef} ценит уединение и {PAWN_gender ? провёл: провела} большую часть своей жизни, ухаживая за (в основном) автоматизированными космическими станциями-маяками. Подавая навигационную информацию на корабли из самых разных технологических эпох, эти тихие посты часто считались наказанием для тех, кто на них работал. Однако {PAWN_nameDef} не {PAWN_gender ? соглашался: соглашалась} с этим, так как {PAWN_pronoun} наслаждается тишиной и по-настоящему хорошо работает в одиночестве.</VBE_LighthouseKeeper.baseDescription>
+
+  <!-- EN: Atomic bombardier -->
+  <VBE_AtomicBombardier.title>Пилот атомного бомбардировщика</VBE_AtomicBombardier.title>
+  <!-- EN: Bombardier -->
+  <VBE_AtomicBombardier.titleShort>Пилот бомбардировщика</VBE_AtomicBombardier.titleShort>
+  <!-- EN: [PAWN_nameDef] was responsible for lining up and releasing nuclear bombs over enemy territory. During [PAWN_possessive] years of service, [PAWN_possessive] aim became very accurate, and [PAWN_possessive]  mind desensitized to death -->
+  <VBE_AtomicBombardier.baseDescription>{PAWN_nameDef} {PAWN_gender ? отвечал: отвечала} за наведение на цель и доставку ядерных бомб к целям, находящимся на вражеской территории. За годы службы, {PAWN_possessive} глазомер стал предельно точным, а разум утратил чувствительность к чужой смерти.</VBE_AtomicBombardier.baseDescription>
+
+  <!-- EN: Bureaucratic programmer -->
+  <VBE_BureaucraticProgrammer.title>Бюрократический программист</VBE_BureaucraticProgrammer.title>
+  <!-- EN: bureaucrat -->
+  <VBE_BureaucraticProgrammer.titleShort>Бюрократ</VBE_BureaucraticProgrammer.titleShort>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] adult life coding programs to extract data from bureaucratic forms so they could automatically fill out other forms. Of course, since other bureaucrats legally had to double-check [PAWN_possessive] program's results, the actual work savings were marginal at best. [PAWN_pronoun] has spent too much time behind a desk to be much use at manual labor -->
+  <VBE_BureaucraticProgrammer.baseDescription>{PAWN_nameDef} {PAWN_gender ? провёл : провела} значительную часть своей жизни создавая программы, способные брать данные из бюрократических документов, чтобы потом автоматически заполнять другие формы. Разумеется, поскольку другие бюрократы были обязаны проверять результаты программы, на {PAWN_possessive} зарплату в лучшем случае можно было просто выжить. {PAWN_nameDef} {PAWN_gender ? провёл : провела} слишком много времени за компьютером, чтобы быть {PAWN_gender ? полезным : полезной} в более грубой работе.</VBE_BureaucraticProgrammer.baseDescription>
+</LanguageData>
