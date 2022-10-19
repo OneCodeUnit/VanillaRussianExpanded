@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShootingAccuracy.degreeDatas.expert_shooter.label>опытный стрелок</ShootingAccuracy.degreeDatas.expert_shooter.label>
+  <ShootingAccuracy.degreeDatas.expert_shooter.description>{PAWN_nameDef} {PAWN_gender ? прошёл : прошла} стрелковую подготовку. {PAWN_pronoun} {PAWN_gender ? способен : способна} стрелять быстро и точно.</ShootingAccuracy.degreeDatas.expert_shooter.description>
+
+  <DrugDesire.stages.chemical_fascination.label>увлечение «химией»</DrugDesire.stages.chemical_fascination.label>
+  <DrugDesire.stages.chemical_fascination.description>У {PAWN_nameDef} сильное влечение к химическим источникам удовольствия. {PAWN_pronoun} будет потреблять их гораздо больше и, если не имеет зависимости от какого-либо наркотика, иногда, при плохом настроении, будет впадать в тяжёлые наркотические срывы. {PAWN_pronoun} будет игнорировать политику приёма наркотиков. С другой стороны, наркотики будут вызывать вдохновение.</DrugDesire.stages.chemical_fascination.description>
+  
+	<DrugDesire.stages.chemical_interest.label>интерес к «химии»</DrugDesire.stages.chemical_interest.label>
+  <DrugDesire.stages.chemical_interest.description>У {PAWN_nameDef} нездоровый интерес к химическим источникам удовольствия. {PAWN_pronoun} будет потреблять их гораздо больше и, если не имеет зависимости от какого-либо наркотика, иногда, при плохом настроении, будет впадать в тяжёлые наркотические срывы. {PAWN_pronoun} будет игнорировать политику приёма наркотиков. С другой стороны, наркотики будут вызывать вдохновение.</DrugDesire.stages.chemical_interest.description>
+
+	<DrugDesire.stages.teetotaler.label>трезвенник</DrugDesire.stages.teetotaler.label>
+  <DrugDesire.stages.teetotaler.description>{PAWN_nameDef} не приемлет идею получения удовольствия от «химии» и держится подальше от алкоголя и наркотиков. {PAWN_nameDef} — трудолюбивый человек.</DrugDesire.stages.teetotaler.description>
+
+
+  <Beauty.degreeDatas.ugly.description>{PAWN_nameDef} имеет непривлекательную, отталкивающую внешность. Зато даже парочка шрамов никак не испортит лицо.</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.description>{PAWN_nameDef} обладает поистине безобразной внешностью. {PAWN_possessive} лицо — что-то среднее между рисунком бездарного ребёнка, заспиртованным в банке уродцем и произведением современного искусства. Людям приходится прикладывать усилие, чтобы просто смотреть {PAWN_objective} в лицо при разговоре. Зато даже парочка... десятков шрамов никак не испортят лицо.</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <NaturalMood.degreeDatas.depressive.description>{PAWN_nameDef} всегда в плохом настроении. И оно редко улучшается, даже когда всё хорошо. Справится с ним можно лишь запершись в комнате или побродив по округе.</NaturalMood.degreeDatas.depressive.description>
+
+  <Nerves.degreeDatas.volatile.description>{PAWN_nameDef} всегда на взводе. Малейшее эмоциональное напряжение может закончиться нервным срывом. Но можно что-нибудь сломать, чтобы выпустить пар.</Nerves.degreeDatas.volatile.description>
+
+  <Neurotic.degreeDatas.neurotic.description>{PAWN_nameDef} любит всё делать правильно, отчего работает больше и усерднее остальных. Такое напряжение иногда приводит к внезапным перепадам настроения.</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.description>{PAWN_nameDef} постоянно переживает обо всём, чем занимается. {PAWN_pronoun} заставляет себя работать с невероятным усердием, что плохо сказывается на {PAWN_possessive} нервах, вызывая внезапные перепады настроения.</Neurotic.degreeDatas.very_neurotic.description>
+  
+
+	<Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} всегда говорит в точности то, что думает, особенно, если это {PAWN_possessive} раздражает. Обычно это влияет на окружающих не в лучшую сторону. Но и {PAWN_possessive} {PAWN_gender ? самого : саму} сложно задеть.</Abrasive.degreeDatas.abrasive.description>
+
+  <Gourmand.degreeDatas.gourmand.label>обжора</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef} обожает вкусно поесть, еда стала чуть ли не смыслом {PAWN_possessive} жизни. Хоть {PAWN_pronoun} и имеет непомерный аппетит, {PAWN_nameDef} быстро ест, быстро готовит и прекрасно разбирается ингредиентах, сводя риск пищевых отравлений к минимуму.</Gourmand.degreeDatas.gourmand.description>
+
+
+  <Jealous.degreeDatas.jealous.description>К тем, чья комната лучше, чем {PAWN_possessive}, {PAWN_nameDef} испытывает сильную зависть, отражающуюся на {PAWN_possessive} настроении. Зато {PAWN_pronoun} почти не страдает из-за смерти заключённых или поселенцев. Да и хорошую одежду с трупов не против носить.</Jealous.degreeDatas.jealous.description>
+
+  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} так и не {PAWN_gender ? научился : научилась} учиться. У н{PAWN_possessive} есть мотивация и талант. Просто нужно время и терпение.\n\n    Каждый уровень навыка увеличивает эффективность обучения на 2%</SlowLearner.degreeDatas.slow_learner.description>
+
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} имеет слабый характер и низкий болевой порог. Даже лёгкая боль способна вывести {PAWN_possessive} из строя. Зато {PAWN_pronoun} действительно хорошо бегает и по какой-то причине почти {PAWN_gender ? невосприимчив : невосприимчива} к токсичным веществам.</Wimp.degreeDatas.wimp.description>
+
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef} обладает толстой кожей, крепкими мышцами и прочными костями. По сравнению с обычным человеком {PAWN_pronoun} получает гораздо меньше урона от тех же атак. И {PAWN_possessive} не так-то просто сдвинуть с места.</Tough.degreeDatas.tough.description>
+
+  <Pyromaniac.degreeDatas.pyromaniac.label>пироман</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} обожает огонь и никогда не будет тушить пожары. Иногда, чтобы снять напряжение, {PAWN_pronoun} начинает поджигать всё, до чего дотянется. Чем хуже {PAWN_possessive} настроение, тем чаще {PAWN_pronoun} будет это делать. Зато каким-то образом увлечение огнём приводит к более частым вдохновениям.</Pyromaniac.degreeDatas.pyromaniac.description>
+
+  <TooSmart.degreeDatas.too_smart.label>зазнайка</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} {PAWN_gender ? умён : умна} для местных. {PAWN_pronoun} учится быстрее кого-либо, но получаемые знания не делают общение с {PAWN_gender ? ним : ней} приятнее.</TooSmart.degreeDatas.too_smart.description>
+</LanguageData>
