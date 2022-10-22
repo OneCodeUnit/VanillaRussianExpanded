@@ -46,4 +46,9 @@
   <VCHE_DeepchemDrain.label>слив глубтоплива</VCHE_DeepchemDrain.label>
   <!-- EN: A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks. -->
   <VCHE_DeepchemDrain.description>Резервуар, похожий на воронку. Предназначен для заливки глубтоплива трубопровод и наполнения подсоединённых цистерн.</VCHE_DeepchemDrain.description>
+
+  <!-- EN: deepchem valve -->
+  <VCHE_DeepchemValve.label>вентиль глубтоплива</VCHE_DeepchemValve.label>
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepchemValve.description>Открывает или перекрывает поток топлива.</VCHE_DeepchemValve.description>
 </LanguageData>

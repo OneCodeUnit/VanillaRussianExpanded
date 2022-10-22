@@ -3,5 +3,10 @@
   <!-- EN: acid burn -->
   <VEF_SecondaryAcidBurn.label>химический ожог</VEF_SecondaryAcidBurn.label>
   <!-- EN: {0} has been corroded to death. -->
-  <VEF_SecondaryAcidBurn.deathMessage>{0} {0_gender ? был разъеден : была разъедена}.</VEF_SecondaryAcidBurn.deathMessage>
+  <VEF_SecondaryAcidBurn.deathMessage>{0} {0_gender ? разъеден : разъедена}.</VEF_SecondaryAcidBurn.deathMessage>
+
+  <!-- EN: permanent burn -->
+  <VEF_PermanentBurn.label>ожог</VEF_PermanentBurn.label>
+  <!-- EN: {0} has been killed by burning. -->
+  <VEF_PermanentBurn.deathMessage>{0} {0_gender ? сгорел : сгорела}.</VEF_PermanentBurn.deathMessage>
 </LanguageData>

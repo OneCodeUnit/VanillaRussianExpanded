@@ -4,8 +4,14 @@
   <BGPScanner_Name>Better ground-penetrating scanner</BGPScanner_Name>
   <!-- EN: Chosen output time multiplier -->
   <BGPScanner_Multiplier>Множитель времени при выборе конкретного ресурса</BGPScanner_Multiplier>
+  <!-- EN: Divide search time by thing deep commality-->
+  <BGPScanner_DivideByCommonality>Разное время поиска в зависимости от редкости</BGPScanner_DivideByCommonality>
+  <!-- EN: The more common the thing is, the quicker it will be to find. This only apply when choosing a specific output. It is applied after the choosen output multiplier. -->
+  <BGPScanner_DivideByCommonalityDesc>Чем чаще встречается ресурс, тем быстрее его можно найти. Данная настройка оказывает эффект только когда, выбран конкретный ресурс.</BGPScanner_DivideByCommonalityDesc>
   <!-- EN: Automatic mode scan efficiency -->
   <BGPScanner_AutoEff>Эффективность сканирования в автоматическом режиме</BGPScanner_AutoEff>
+  <!-- EN: Allow to build the ground-penetrating scanner under a roof -->
+  <BGPScanner_AllowUnderRoof>Разрешить строить глубинный сканер под крышей</BGPScanner_AllowUnderRoof>
   <!-- EN: Enable automatic mode -->
   <BGPScanner_Auto>Включить автоматический режим</BGPScanner_Auto>
   <!-- EN: When no pawns are using the ground-penetrating scanner, it will continue to scan at the specified efficiency below. -->

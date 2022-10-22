@@ -81,4 +81,14 @@
   <VFEP_HypothermicSlowdown.stages.3.label>серьёзное</VFEP_HypothermicSlowdown.stages.3.label>
   <!-- EN: extreme -->
   <VFEP_HypothermicSlowdown.stages.4.label>экстремальное</VFEP_HypothermicSlowdown.stages.4.label>
+
+  <!-- EN: permanent burn -->
+  <VEF_PermanentBurn.label>ожог</VEF_PermanentBurn.label>
+  <!-- EN: A permanent burn scar that cannot be treated. -->
+  <VEF_PermanentBurn.description>Шрам от ожога, который не пройдёт.</VEF_PermanentBurn.description>
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>сгорело</VEF_PermanentBurn.injuryProps.destroyedLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>сгорело</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+  <VEF_PermanentBurn.labelNoun>ожог</VEF_PermanentBurn.labelNoun>
+  <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>шрам от ожога</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_PermanentBurn.labelNounPretty>{0} {1}</VEF_PermanentBurn.labelNounPretty>
 </LanguageData>
