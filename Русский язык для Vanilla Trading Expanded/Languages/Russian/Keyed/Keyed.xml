@@ -197,6 +197,10 @@
   <VTE.YourContractsExplanation>Вы можете создавать контракты. Выбирая количество требуемых товаров, маржу и срок завершения. Длительные контракты с высокой маржой имеют высокие шансы быть исполненными. Если у вас не будет достаточно не денег на счету, чтобы покрыть контракт, он автоматически отменится.</VTE.YourContractsExplanation>
   <!-- EN: The caravan will arrive to pick up the contracted items in 3 days. Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
   <VTE.ContractCompletedMessage>Караван прибудет к вам и в течение 3 дней будет ожидать товаров по контракту. Убедитесь, что они будут в наличии, когда караван прибудет. Платёж будет проведён, когда караван покинет ваше поселение.</VTE.ContractCompletedMessage>
+  <!-- EN: Due to the fact that your location has become dangerous, the caravan that arrived for the contracted items left the map. They will return for the items when it is safe. Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
+  <VTE.CaravanContractWillReturnMessage>Из-за того, что в вашем поселении стало небезопасно, караван, прибывший за товарами, покинул местность. Он вернётся за товарами, когда у вас станет безопасно.
+	
+Убедитесь, что у вас будет достаточно товаров, когда караван вернётся. Оплата придёт сразу после того, как он покинет территорию поселения с товарами.</VTE.CaravanContractWillReturnMessage>
   <!-- EN: A caravan from {0} is approaching. They are collecting contracted items. -->
   <VTE.LetterTraderCaravanArrival>Прибывает караван из {0}. Они пришли по контракту за товарами.</VTE.LetterTraderCaravanArrival>
   <!-- EN: The caravan didn’t find the promised goods and leaves the area. Only {0} of {1} were collected. You will not receive any payment. -->
@@ -240,4 +244,16 @@ Cargo pods are arriving containing: -->
   <VTE.ResetPriceChanges>Сбросить колебания цен</VTE.ResetPriceChanges>
   <!-- EN: You can only take this loan again on {0}. -->
   <VTE.YouCanTakeThisLoanOn>Вы можете повторно взять только этот кредит в банке {0}.</VTE.YouCanTakeThisLoanOn>
+  <!-- EN: Caravan-less contract item pickup -->
+  <VTE.CaravanLessContractItemPickup>Отправка товаров без каравана</VTE.CaravanLessContractItemPickup>
+  <!-- EN: Maximum value of NPC contracts in silver: -->
+	<VTE.MaximumMarketValueOfItemsInContracts>Максимальная стоимость контрактов у НИП в серебре:</VTE.MaximumMarketValueOfItemsInContracts>
+  <!-- EN: Maximum value of NPC contracts in percentage of wealth: -->
+	<VTE.MaximumMarketValueOfItemsPerPlayerWealth>Максимальная стоимость контрактов у НИП в процентах от богатства:</VTE.MaximumMarketValueOfItemsPerPlayerWealth>
+  <!-- EN: Price fluctuation limitations -->
+	<VTE.MaximumPriceFluctuations>Ограничение изменения цен</VTE.MaximumPriceFluctuations>
+  <!-- EN: Negative change: {0} -->
+	<VTE.MinimumOfMarketValue>В минус: {0}</VTE.MinimumOfMarketValue>
+  <!-- EN: Positive change: {0} -->
+	<VTE.MaximumOfMarketValue>В плюс: {0}</VTE.MaximumOfMarketValue>
 </LanguageData>
