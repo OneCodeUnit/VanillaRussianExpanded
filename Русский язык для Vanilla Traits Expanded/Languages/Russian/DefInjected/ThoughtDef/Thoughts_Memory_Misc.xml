@@ -1,30 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Created low quality item -->
   <VTE_CreatedLowQualityItem.stages.0.label>создан низкокачественный предмет</VTE_CreatedLowQualityItem.stages.0.label>
+  <!-- EN: I crafted junk. I feel like I can't do anything right. -->
   <VTE_CreatedLowQualityItem.stages.0.description>Я {PAWN_gender ? создал : создала} какой-то мусор. Наверное, только на это я и {PAWN_gender ? способен : способна}.</VTE_CreatedLowQualityItem.stages.0.description>
 
+  <!-- EN: Сould not finish item -->
   <VTE_CouldNotFinishItem.stages.0.label>не получается доделать</VTE_CouldNotFinishItem.stages.0.label>
+  <!-- EN: I couldn't finish my project, it just wasn't coming along correctly. -->
   <VTE_CouldNotFinishItem.stages.0.description>Я не могу закончить свой проект. Он никак не выходит таким, каким должен быть.</VTE_CouldNotFinishItem.stages.0.description>
 
+  <!-- EN: Passionately cleaning -->
   <VTE_PassionateCleaningWork.stages.0.label>энтузиазм чистюли</VTE_PassionateCleaningWork.stages.0.label>
+  <!-- EN: I actually really enjoy organizing and cleaning up the place. -->
   <VTE_PassionateCleaningWork.stages.0.description>Мне нравится приводить в порядок это место!</VTE_PassionateCleaningWork.stages.0.description>
 
+  <!-- EN: My rivals are alive -->
   <VTE_MyRivalsAreAlive.stages.0.label>враги живы</VTE_MyRivalsAreAlive.stages.0.label>
+  <!-- EN: I hate them. Why should they deserve to live? -->
   <VTE_MyRivalsAreAlive.stages.0.description>Ненавижу их. Почему они продолжают жить?</VTE_MyRivalsAreAlive.stages.0.description>
 
+  <!-- EN: Mechanoid died -->
   <VTE_MechanoidIsKilled.stages.0.label>механоид уничтожен</VTE_MechanoidIsKilled.stages.0.label>
+  <!-- EN: Those evil machines don't deserve to function. -->
   <VTE_MechanoidIsKilled.stages.0.description>Эти злые машины не заслуживают существования.</VTE_MechanoidIsKilled.stages.0.description>
 
+  <!-- EN: observed much blood -->
   <VTE_ObservedManyBlood.stages.0.label>слишком много крови</VTE_ObservedManyBlood.stages.0.label>
+  <!-- EN: I saw so much blood and bits. Just remembering it makes me gag. -->
   <VTE_ObservedManyBlood.stages.0.description>Так много крови и ошмётков. Одно воспоминание об этом воспоминание вызывает тошноту.</VTE_ObservedManyBlood.stages.0.description>
 
+  <!-- EN: >Watched television recently -->
   <VTE_WatchedTelevisor.stages.0.label>просмотр телевизора</VTE_WatchedTelevisor.stages.0.label>
+  <!-- EN: I got to laze around and catch up on my shows. -->
   <VTE_WatchedTelevisor.stages.0.description>Как приятно немного отдохнуть и посмотреть пару любимых передач.</VTE_WatchedTelevisor.stages.0.description>
 
+  <!-- EN: No dedicated laboratory -->
   <VTE_NoDedicatedLaboratory.stages.0.label>нет отдельной лаборатории</VTE_NoDedicatedLaboratory.stages.0.label>
+  <!-- EN: I have nowhere to study in peace, how annoying. -->
   <VTE_NoDedicatedLaboratory.stages.0.description>Я нигде не могу исследовать в тишине. Раздражает.</VTE_NoDedicatedLaboratory.stages.0.description>
 
+  <!-- EN: No animals in the colony -->
   <VTE_AnimalsInColony.stages.0.label>в поселении нет животных</VTE_AnimalsInColony.stages.0.label>
+  <!-- EN: We don't have a single animal. -->
   <VTE_AnimalsInColony.stages.0.description>У нас совсем нет животных.</VTE_AnimalsInColony.stages.0.description>
   <VTE_AnimalsInColony.stages.1.label>в поселении почти нет животных</VTE_AnimalsInColony.stages.1.label>
   <VTE_AnimalsInColony.stages.1.description>У нас почти нет животных, это отстой.</VTE_AnimalsInColony.stages.1.description>
@@ -57,27 +75,43 @@
   <VTE_AnimalsInColony.stages.15.label>в поселении стада животных</VTE_AnimalsInColony.stages.15.label>
   <VTE_AnimalsInColony.stages.15.description>У нас теперь так много животных! Смотреть на них — одно удовольствие!</VTE_AnimalsInColony.stages.15.description>
 
+  <!-- EN: Ocean lover -->
   <VTE_ChildOfSea.stages.0.label>любитель моря</VTE_ChildOfSea.stages.0.label>
+  <!-- EN: I just love being around the ocean and rivers, water is beautiful. -->
   <VTE_ChildOfSea.stages.0.description>Я просто люблю гулять по берегам рек и морей. Водная гладь прекрасна.</VTE_ChildOfSea.stages.0.description>
 
+  <!-- EN: Mountain lover -->
   <VTE_ChildOfMountain.stages.0.label>любитель гор</VTE_ChildOfMountain.stages.0.label>
+  <!-- EN: I just love being around the mountains, they take my breath away. -->
   <VTE_ChildOfMountain.stages.0.description>Я просто люблю гулять в горах. Захватывает дух.</VTE_ChildOfMountain.stages.0.description>
 
+  <!-- EN: Hasn't harvested organs -->
   <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>органы не собраны</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
+  <!-- EN: I'm growing impatient and bored, I need more subjects. -->
   <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Становится скучно и я теряю терпение. Мне нужны пациенты.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
  
+  <!-- EN: Harvested organs -->
   <VTE_HarvestedOrgans.stages.0.label>органы собраны</VTE_HarvestedOrgans.stages.0.label>
+  <!-- EN: The operation went just as expected, my collection has grown. -->
   <VTE_HarvestedOrgans.stages.0.description>Операция прошла по плану, моя коллекция расширилась.</VTE_HarvestedOrgans.stages.0.description>
 
+  <!-- EN: Has not left colony -->
   <VTE_HaventExitedColonyForLongTime.stages.0.label>заперт в поселении</VTE_HaventExitedColonyForLongTime.stages.0.label>
+  <!-- EN: I haven't left home in a while, I'd really like to travel for a change. -->
   <VTE_HaventExitedColonyForLongTime.stages.0.description>Я уже давно не {PAWN_gender ? покидал : покидала} свой дом. Очень хочу сменить обстановку и попутешествовать.</VTE_HaventExitedColonyForLongTime.stages.0.description>
 
+  <!-- EN: soaking wet -->
   <VTE_SoakingWetChildOfTheSea.stages.0.label>{PAWN_gender ? Промок : Промокла}</VTE_SoakingWetChildOfTheSea.stages.0.label>
+  <!-- EN: I'm soaking wet. Love it. -->
   <VTE_SoakingWetChildOfTheSea.stages.0.description>Я {PAWN_gender ? промок : промокла} до нитки. Мне это нравится!</VTE_SoakingWetChildOfTheSea.stages.0.description>
 
+  <!-- EN: darkness -->
   <VTE_EnvironmentDark.stages.0.label>темно</VTE_EnvironmentDark.stages.0.label>
+  <!-- EN: I've been in the dark for a while. I like it. -->
   <VTE_EnvironmentDark.stages.0.description>Я в кромешной тьме. И мне это нравится.</VTE_EnvironmentDark.stages.0.description>
 
+  <!-- EN: Dunce -->
   <VTE_Dunce.stages.0.label>отсталый</VTE_Dunce.stages.0.label>
+  <!-- EN: I don't really understand why everybody's so upset all the time. -->
   <VTE_Dunce.stages.0.description>Я совершенно не понимаю, почему все ходят такие постоянно грустные.</VTE_Dunce.stages.0.description>
 </LanguageData>

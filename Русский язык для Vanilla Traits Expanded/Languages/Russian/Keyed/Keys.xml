@@ -1,19 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+  <!-- EN: {PAWN_nameDef} has destroyed the item {PAWN_pronon} just crafted due to the item not being of sufficient quality -->
   <VTE.HasDestroyedItem>{PAWN_nameDef} {PAWN_gender ? уничтожил : уничтожила} результат своей работы из-за того, что он не был достаточно качественным</VTE.HasDestroyedItem>
+  <!-- EN: {PAWN_nameDef} got a bruise due to being clumsy -->
   <VTE.GotBruise>{PAWN_nameDef} {PAWN_gender ? получил : получила} ушиб из-за своей неуклюжести</VTE.GotBruise>
+  <!-- EN: {PAWN_nameDef} is too heavy of a sleeper to be drafted. -->
   <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} слишком крепко спит.</VTE.CantBeWokenUpHeavySleeper>
+  <!-- EN: {PAWN_nameDef} has given up on {0} for now due to being a perfectionist -->
   <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} {PAWN_gender ? прекратил : прекратила} {0} из-за перфекционизма</VTE.DecisesInterruptCurrentCostructionJob>
+  <!-- EN: Wanderlust pawns will traverse to foreign locations at an increased speed -->
   <VTE.CavaranSpeedIsDoubledWanderlusts>Жажда странствий позволяет путешествовать с увеличенной скоростью</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <!-- EN: {PAWN_nameDef} has stolen a possession not belonging to their faction, this may damage relations between affiliated factions -->
   <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} {PAWN_gender ? украл : украла} имущество другой фракции. Это может нанести урон отношениям двух фракций</VTE.KleptomaniacStealsItemFrom>
+  <!-- EN: {PAWN_nameDef} was caught trying to steal another factions possessions, this may damage relations between affiliated factions -->
   <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} {PAWN_gender ? была поймана : был пойман} на краже имущества другой фракции. Это может нанести урон отношениям двух фракций</VTE.KleptomaniacFailedToStealItemFrom>
+  <!-- EN: {PAWN_nameDef} has damaged {0} due to their weight or strange posture -->
   <VTE.PawnBreaksChairs>{PAWN_nameDef} {PAWN_gender ? повредил : повредила} {0} из-за слишком большого веса или неправильного положения</VTE.PawnBreaksChairs>
+  <!-- EN: {PAWN_nameDef} stole {0} from {VICTIM_nameDef} -->
   <VTE.PawnStoleItem>{PAWN_nameDef} {PAWN_gender ? украл : украла} {0} у {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <!-- EN: {PAWN_nameDef} failed to steal {0} from {VICTIM_nameDef}. This has angered the {VICTIM_nameDef} faction -->
   <VTE.PawnFailedToStealItem>{PAWN_nameDef} не {PAWN_gender ? смог : смогла} украсть {0} у {VICTIM_nameDef}. Это вскрылось и разозлило фракцию {VICTIM_nameDef}</VTE.PawnFailedToStealItem>
+  <!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
   <VTE.PawnCowardlyFlees>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyFlees>
+  <!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
   <VTE.PawnCowardlyExitMapHostile>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyExitMapHostile>
+  <!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
   <VTE.PawnCowardlyExitMapAlly>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyExitMapAlly>
+  <!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
   <VTE.PawnCowardlyExitMapNeutral>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyExitMapNeutral>
+  <!-- EN: {PAWN_nameDef} has defied or forgotten their orders and stopped working for the time being -->
   <VTE.PawnStopsForcedJob>{PAWN_nameDef} {PAWN_gender ? решил : решила} проигнорировать приказы и прекратить работу</VTE.PawnStopsForcedJob>
+  <!-- EN: {PAWN_nameDef} has disarmed {VICTIM_nameDef} in melee combat -->
   <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} {PAWN_gender ? разоружил : разоружила} {VICTIM_nameDef} в рукопашной схватке</VTE.VictimDropsEquipmentMartialArtist>
 </LanguageData>

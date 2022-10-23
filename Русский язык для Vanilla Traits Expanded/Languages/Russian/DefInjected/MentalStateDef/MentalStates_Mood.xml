@@ -1,20 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: technophobe tantrum -->
   <VTE_TechnophobeTantrum.label>истерика технофоба</VTE_TechnophobeTantrum.label>
+  <!-- EN: Mental state: technophobe tantrum -->
   <VTE_TechnophobeTantrum.baseInspectLine>Душевное состояние: истерика технофоба</VTE_TechnophobeTantrum.baseInspectLine>
+  <!-- EN: {0} has flown into a technophobe tantrum.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on technology. -->
   <VTE_TechnophobeTantrum.beginLetter>{0} бьётся в истерике.\n\n{PAWN_pronoun} собирается выместить свой гнев на технике.</VTE_TechnophobeTantrum.beginLetter>
   <VTE_TechnophobeTantrum.beginLetterLabel>истерика технофоба</VTE_TechnophobeTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer in a technophobe tantrum. -->
   <VTE_TechnophobeTantrum.recoveryMessage>{0} больше не бьётся в истерике.</VTE_TechnophobeTantrum.recoveryMessage>
 
+  <!-- EN: panic freezing -->
   <VTE_PanicFreezing.label>паническая атака</VTE_PanicFreezing.label>
+  <!-- EN: Mental state: freezing in panic -->
   <VTE_PanicFreezing.baseInspectLine>Душевное состояние: ступор</VTE_PanicFreezing.baseInspectLine>
+  <!-- EN: {0} is freezing in panic. -->
   <VTE_PanicFreezing.beginLetter>{0} {PAWN_gender ? впал : впала} в ступор от страха.</VTE_PanicFreezing.beginLetter>
+  <!-- EN: panic attack -->
   <VTE_PanicFreezing.beginLetterLabel>паническая атака</VTE_PanicFreezing.beginLetterLabel>
+  <!-- EN: {0} is no longer freezing in panic. -->
   <VTE_PanicFreezing.recoveryMessage>{0} может двигаться.</VTE_PanicFreezing.recoveryMessage>
 
+  <!-- EN: kleptomaniac -->
   <VTE_Kleptomaniac.label>клептомания</VTE_Kleptomaniac.label>
+  <!-- EN: Mental state: Kleptomaniac -->
   <VTE_Kleptomaniac.baseInspectLine>Душевное состояние: клептомания</VTE_Kleptomaniac.baseInspectLine>
+  <!-- EN: {0} is stealing items from visitors. -->
   <VTE_Kleptomaniac.beginLetter>{0} будет пытаться обокрасть гостей.</VTE_Kleptomaniac.beginLetter>
+  <!-- EN: Kleptomaniac -->
   <VTE_Kleptomaniac.beginLetterLabel>клептомания</VTE_Kleptomaniac.beginLetterLabel>
+  <!-- EN: {0} is no longer stealing items from visitors. -->
   <VTE_Kleptomaniac.recoveryMessage>{0} больше не будет пытаться обокрасть гостей.</VTE_Kleptomaniac.recoveryMessage>
 </LanguageData>

@@ -1,161 +1,267 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: absent-minded -->
   <VTE_AbsentMinded.degreeDatas.0.label>рассеянность</VTE_AbsentMinded.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] tends to occasionally allow their mind to drift, even in the middle of working. -->
   <VTE_AbsentMinded.degreeDatas.0.description>{PAWN_nameDef} любит витать в облаках даже во время работы.</VTE_AbsentMinded.degreeDatas.0.description>
 
+  <!-- EN: eccentric -->
   <VTE_Eccentric.degreeDatas.0.label>эксцентричность</VTE_Eccentric.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has a loose screw or two, a small trade off for being naturally scientifically inclined. -->
   <VTE_Eccentric.degreeDatas.0.description>У {PAWN_nameDef} заехали некоторые шарики за ролики, но это небольшая цена за научный талант.</VTE_Eccentric.degreeDatas.0.description>
 
+  <!-- EN: perfectionist -->
   <VTE_Perfectionist.degreeDatas.0.label>перфекционист</VTE_Perfectionist.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] strives for perfection in [PAWN_possessive] work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in. -->
   <VTE_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} стремится к совершенству в свой работе. Это позволяет создавать вещи лучшего качества, ценой большего времени. Однако создание низкокачественного продукта расстроит {PAWN_possessive}. Кроме того, {PAWN_nameDef} очень редко, но может бросить проект недоделанным из-за того, что тот движется не в том направлении.</VTE_Perfectionist.degreeDatas.0.description>
 
+  <!-- EN: coward -->
   <VTE_Coward.degreeDatas.0.label>трусость</VTE_Coward.degreeDatas.0.label>
+  <!-- EN: While fully capable of warfare in theory, [PAWN_nameDef]'s fight or flight instincts heavily lean towards flight, and [PAWN_pronoun] will try to hide or run as a first priority. -->
   <VTE_Coward.degreeDatas.0.description>Теоретически полностью готовый для ведения боевых действий, {PAWN_nameDef} предпочитает убегать и прятаться, а не сражаться. Чем и будет заниматься в первую очередь.</VTE_Coward.degreeDatas.0.description>
 
+  <!-- EN: brave -->
   <VTE_Brave.degreeDatas.0.label>храбрость</VTE_Brave.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds. -->
   <VTE_Brave.degreeDatas.0.description>{PAWN_nameDef}, по сравнению с прочими, обладает повышенной физической и душевной стойкостью и легко адаптируется к суровым условиям окраинных миров.</VTE_Brave.degreeDatas.0.description>
 
+  <!-- EN: clumsy -->
   <VTE_Clumsy.degreeDatas.0.label>неуклюжий</VTE_Clumsy.degreeDatas.0.label>
+  <!-- EN: Minor bruises and scrapes plague [PAWN_nameDef] all too often, mostly due to uncoordinated tripping or falling. -->
   <VTE_Clumsy.degreeDatas.0.description>Постоянные ушибы и царапины преследуют {PAWN_nameDef} словно проклятье, в основном из-за {PAWN_possessive} собственных спотыканий и падений на ровном месте.</VTE_Clumsy.degreeDatas.0.description>
 
+  <!-- EN: heat inclined -->
   <VTE_HeatInclined.degreeDatas.0.label>теплолюбивый</VTE_HeatInclined.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either. -->
   <VTE_HeatInclined.degreeDatas.0.description>{PAWN_nameDef} любит яркое солнце и тёплые летние дни. {PAWN_pronoun} не против работы или сна на жаре. </VTE_HeatInclined.degreeDatas.0.description>
 
-  <VTE_ColdInclined.degreeDatas.0.label>холодолюбивый</VTE_ColdInclined.degreeDatas.0.label>
+  <!-- EN: cold inclined -->
+  <VTE_ColdInclined.degreeDatas.0.label>хладолюбивый</VTE_ColdInclined.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either. -->
   <VTE_ColdInclined.degreeDatas.0.description>{PAWN_nameDef} любит пасмурную погоду и холодную зимнюю ночь. {PAWN_pronoun} не против немножко помёрзнуть или сна на холоде.</VTE_ColdInclined.degreeDatas.0.description>
 
+  <!-- EN: heavy sleeper< -->
   <VTE_HeavySleeper.degreeDatas.0.label>соня</VTE_HeavySleeper.degreeDatas.0.label>
+  <!-- EN: A bomb could go off next to [PAWN_nameDef] while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either. -->
   <VTE_HeavySleeper.degreeDatas.0.description>Бомба может разорваться рядом с {PAWN_nameDef}, а {PAWN_pronoun} продолжит спать. Даже необходимость защиты поселения не сможет прервать {PAWN_possessive} богатырский сон.</VTE_HeavySleeper.degreeDatas.0.description>
 
+  <!-- EN: neat -->
   <VTE_Neat.degreeDatas.0.label>чистюля</VTE_Neat.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning. -->
   <VTE_Neat.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? чистоплотен и аккуратен : чистоплотна и аккуратна}. {PAWN_pronoun} не разводит грязь вокруг и очень любит убираться.</VTE_Neat.degreeDatas.0.description>
 
+  <!-- EN: slob -->
   <VTE_Slob.degreeDatas.0.label>неряха</VTE_Slob.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes. -->
   <VTE_Slob.degreeDatas.0.description>{PAWN_nameDef} не {PAWN_gender ? чистоплотен : чистоплотна} и постоянно оставляет мусор и грязь после себя. Зато {PAWN_possessive} не волнует грязь в комнатах.</VTE_Slob.degreeDatas.0.description>
 
+  <!-- EN: workaholic -->
   <VTE_Workaholic.degreeDatas.0.label>трудоголик</VTE_Workaholic.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has problems taking breaks or resting mid job. [PAWN_pronoun] will continue to work even sacrificing their health or sleep. -->
   <VTE_Workaholic.degreeDatas.0.description>{PAWN_nameDef} имеет проблемы с перерывами и отдыхом во время работы. Рабочий запал заставляет {PAWN_possessive} доделывать вещи до конца, даже ценой сна и здоровья.</VTE_Workaholic.degreeDatas.0.description>
 
+  <!-- EN: iron stomach -->
   <VTE_IronStomach.degreeDatas.0.label>железный желудок</VTE_IronStomach.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has never felt nausea in [PAWN_possessive] life. Throwing up or food poisoning is foreign to [PAWN_objective]. -->
   <VTE_IronStomach.degreeDatas.0.description>Тошнота это не про {PAWN_nameDef}. Рвота и пищевые отравления чужды {PAWN_objective}.</VTE_IronStomach.degreeDatas.0.description>
 
+  <!-- EN: animal lover -->
   <VTE_AnimalLover.degreeDatas.0.label>друг животных</VTE_AnimalLover.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] can't stand mistreatment of animals. [PAWN_pronoun] will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher. -->
   <VTE_AnimalLover.degreeDatas.0.description>{PAWN_nameDef} не потерпит жестокого обращения с животными. {PAWN_pronoun} будет {PAWN_gender ? рад : рада} потискать животное или обзавестись питомцем, но будет сильно грустить без хотя бы одного животного или став свидетелем смерти питомца. Также {PAWN_pronoun} ни за что не согласиться разделывать туши животных.</VTE_AnimalLover.degreeDatas.0.description>
 
+  <!-- EN: animal hater -->
   <VTE_AnimalHater.degreeDatas.0.label>враг животных</VTE_AnimalHater.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them. -->
   <VTE_AnimalHater.degreeDatas.0.description>{PAWN_nameDef} считает человека вершиной пищевой цепи. Убийство животных доставит {PAWN_objective} удовольствие, а снижение числа животных в поселении станет лишь приятным дополнением.</VTE_AnimalHater.degreeDatas.0.description>
 
+  <!-- EN: big-boned -->
   <VTE_BigBoned.degreeDatas.0.label>широкая кость</VTE_BigBoned.degreeDatas.0.label>
+  <!-- EN: Whether because they're a bit chunky or because they shift their weight oddly, [PAWN_nameDef] has broken a few chairs in their time and is likely to break more. -->
   <VTE_BigBoned.degreeDatas.0.description>В силу ли наследственности, тяжёлых костй или неправильного распределения веса, {PAWN_nameDef} уже {PAWN_gender ? успел : успела} сломать несколько стульев и наверняка сломает ещё больше.</VTE_BigBoned.degreeDatas.0.description>
 
+  <!-- EN: rebel -->
   <VTE_Rebel.degreeDatas.0.label>бунтарь</VTE_Rebel.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do. -->
   <VTE_Rebel.degreeDatas.0.description>{PAWN_nameDef} играет только по свои собственным правилам и будет сопротивляться навязанным приказам и работам.</VTE_Rebel.degreeDatas.0.description>
 
+  <!-- EN: submissive -->
   <VTE_Submissive.degreeDatas.0.label>покорный</VTE_Submissive.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something. -->
   <VTE_Submissive.degreeDatas.0.description>{PAWN_nameDef} нуждается в чётких инструкциях о том, что и когда делать. {PAWN_pronoun} работает с нормальность скоростью только тогда, когда отдан приказ.</VTE_Submissive.degreeDatas.0.description>
 
+  <!-- EN: vengeful -->
   <VTE_Vengeful.degreeDatas.0.label>мстительный</VTE_Vengeful.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending. -->
   <VTE_Vengeful.degreeDatas.0.description>{PAWN_nameDef} пропитан злобой. {PAWN_pronoun} не может стоять на одной земле со своими врагами и будет {PAWN_gender ? рад : рада}, когда они умрут.</VTE_Vengeful.degreeDatas.0.description>
 
+  <!-- EN: technophobe -->
   <VTE_Technophobe.degreeDatas.0.label>технофоб</VTE_Technophobe.degreeDatas.0.label>
+  <!-- EN: Whether by past trauma or fear of change, [PAWN_nameDef] rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids. -->
   <VTE_Technophobe.degreeDatas.0.description>Будь то старая травма или страх перемен, но {PAWN_nameDef} отвергает всё новое. {PAWN_pronoun} может вдруг начать атаковать техническое устройство и не будет исследовать. Зато любит уничтожать механоидов.</VTE_Technophobe.degreeDatas.0.description>
 
+  <!-- EN: fun-loving -->
   <VTE_FunLoving.degreeDatas.0.label>тусовщик</VTE_FunLoving.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] always recalls the good times and lives to party, any party attended will be remembered for many times longer than most. -->
   <VTE_FunLoving.degreeDatas.0.description>{PAWN_nameDef} любит веселиться и живёт вечеринками. Любая вечеринка, посещённая {PAWN_gender ? им : ей}, запомнится надолго.</VTE_FunLoving.degreeDatas.0.description>
 
+  <!-- EN: dunce -->
   <VTE_Dunce.degreeDatas.0.label>отсталый</VTE_Dunce.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally. -->
   <VTE_Dunce.degreeDatas.0.description>{PAWN_nameDef} имеет проблемы с умственными способностями. {PAWN_pronoun} с трудом учится и поддерживает разговоры, но чувствует себя {PAWN_gender ? счастливым : счастливой}.</VTE_Dunce.degreeDatas.0.description>
 
+  <!-- EN: martial artist -->
   <VTE_MartialArtist.degreeDatas.0.label>мастер боевых искусств</VTE_MartialArtist.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] learned a specific move in melee combat which allows them to disarm opponents and will use it frequently. -->
   <VTE_MartialArtist.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? выучил : выучила} особый приём ближнего боя, позволяющий легко разоружать противников и с удовольствием продемонстрирует его.</VTE_MartialArtist.degreeDatas.0.description>
 
+  <!-- EN: snob -->
   <VTE_Snob.degreeDatas.0.label>сноб</VTE_Snob.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty. -->
   <VTE_Snob.degreeDatas.0.description>{PAWN_nameDef} считает себя членом высшего общества и любит критиковать произведения искусства и знатных особ.</VTE_Snob.degreeDatas.0.description>
 
+  <!-- EN: squeamish -->
   <VTE_Squeamish.degreeDatas.0.label>чувствительный</VTE_Squeamish.degreeDatas.0.label>
+  <!-- EN: Sour stomach plagues [PAWN_nameDef] any time they're around too much blood or rotting corpses. Vomiting is just part of life for {PAWN_objective}. -->
   <VTE_Squeamish.degreeDatas.0.description>Слабый желудок {PAWN_nameDef} даёт о себе знать каждый раз при виде крови и трупов. Рвота — часть {PAWN_possessive} жизни на этом окраинном мире.</VTE_Squeamish.degreeDatas.0.description>
 
+  <!-- EN: anxious -->
   <VTE_Anxious.degreeDatas.0.label>нервный</VTE_Anxious.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe. -->
   <VTE_Anxious.degreeDatas.0.description>{PAWN_nameDef} постоянно нервничает, особенно при скоплениях людей. {PAWN_pronoun} не будет посещать различные собрания, но будет время от времени уединяться в своей комнате, чтобы побыть в одиночестве.</VTE_Anxious.degreeDatas.0.description>
 
+  <!-- EN: insatiable -->
   <VTE_Insatiable.degreeDatas.0.label>ненасытный</VTE_Insatiable.degreeDatas.0.label>
+  <!-- EN: No amount of lovin' is enough lovin' for [PAWN_nameDef]. [PAWN_pronoun] will tend to jump from partner to partner and tumble between the sheets with them frequently.< -->
   <VTE_Insatiable.degreeDatas.0.description>Никакой любви не хватит, чтобы удовлетворить желания {PAWN_nameDef}. {PAWN_pronoun} будет менять партнёров, как перчатки и регулярно развлекаться под простынями с каждым.</VTE_Insatiable.degreeDatas.0.description>
 
+  <!-- EN: prude -->
   <VTE_Prude.degreeDatas.0.label>непорочный</VTE_Prude.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns. -->
   <VTE_Prude.degreeDatas.0.description>{PAWN_nameDef} всегда {PAWN_gender ? верен : верна} своему партнёру и никогда не подумает о разводе. А ещё, больше чем кто-либо, ненавидит ходить без одежды.</VTE_Prude.degreeDatas.0.description>
 
+  <!-- EN: couch potato -->
   <VTE_CouchPotato.degreeDatas.0.label>тюлень</VTE_CouchPotato.degreeDatas.0.label>
+  <!-- EN: An armchair and flatscreen is all [PAWN_nameDef] needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so. -->
   <VTE_CouchPotato.degreeDatas.0.description>Чтобы быть счастливым, {PAWN_nameDef} нужно лишь удобное кресло и тв-экран. Даже повторы серий и глупые шоу будут отличным развлечением для н{PAWN_possessive}. {PAWN_nameDef} никогда не устанет смотреть телевизор и будет этому рад.</VTE_CouchPotato.degreeDatas.0.description>
 
+  <!-- EN: cat person -->
   <VTE_CatPerson.degreeDatas.0.label>кошатник</VTE_CatPerson.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs. -->
   <VTE_CatPerson.degreeDatas.0.description>{PAWN_nameDef} без ума от всего кошачьего. {PAWN_pronoun} обожает ухаживать за кошками, однако недолюбливает собак.</VTE_CatPerson.degreeDatas.0.description>
 
+  <!-- EN: dog person -->
   <VTE_DogPerson.degreeDatas.0.label>собачник</VTE_DogPerson.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats. -->
   <VTE_DogPerson.degreeDatas.0.description>{PAWN_nameDef} без ума от всего собачьего. {PAWN_pronoun} обожает ухаживать за собаками, однако недолюбливает кошек.</VTE_DogPerson.degreeDatas.0.description>
 
+  <!-- EN: prodigy -->
   <VTE_Prodigy.degreeDatas.0.label>гений</VTE_Prodigy.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently. -->
   <VTE_Prodigy.degreeDatas.0.description>{PAWN_nameDef} отлично разбирается в естественных науках и {PAWN_gender ? способен : способна} исследовать больше и лучше. Однако {PAWN_pronoun} будет {PAWN_gender ? недоволен : недовольна} отсутствием личной лаборатории и сильнее {PAWN_gender ? подвержен : подвержена} стрессам.</VTE_Prodigy.degreeDatas.0.description>
 
+  <!-- EN: menagerist -->
   <VTE_Menagerist.degreeDatas.0.label>дрессировщик</VTE_Menagerist.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them. -->
   <VTE_Menagerist.degreeDatas.0.description>{PAWN_nameDef} считает животных неотъемлемой частью общества и жизни вне зависимости от их роли: пушистых друзей или источников пищи. {PAWN_pronoun} хочет видеть как можно больше животных вокруг себя и имеет талант к приручению и обучению.</VTE_Menagerist.degreeDatas.0.description>
 
+  <!-- EN: Ocean lover -->
   <VTE_ChildOfSea.degreeDatas.0.label>любитель моря</VTE_ChildOfSea.degreeDatas.0.label>
+  <!-- EN: The sea calls to [PAWN_nameDef]. [PAWN_pronoun] feels happier just being near the ocean or a deep river. -->
   <VTE_ChildOfSea.degreeDatas.0.description>{PAWN_nameDef} чувствует зов моря! {PAWN_pronoun} будет {PAWN_gender ? счастлив : счастлива} находиться рядом с морем или рекой.</VTE_ChildOfSea.degreeDatas.0.description>
 
+  <!-- EN: Mountain lover -->
   <VTE_ChildOfMountain.degreeDatas.0.label>любитель гор</VTE_ChildOfMountain.degreeDatas.0.label>
+  <!-- EN: The mountains call to [PAWN_nameDef]. [PAWN_pronoun] feels happier just being near a large mountain. -->
   <VTE_ChildOfMountain.degreeDatas.0.description>{PAWN_nameDef} чувствует зов гор! {PAWN_pronoun} будет {PAWN_gender ? счастлив : счастлива} находиться рядом с большой горой.</VTE_ChildOfMountain.degreeDatas.0.description>
 
+  <!-- EN: mad surgeon -->
   <VTE_MadSurgeon.degreeDatas.0.label>безумный доктор</VTE_MadSurgeon.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has a twisted secret. [PAWN_pronoun] treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them. -->
   <VTE_MadSurgeon.degreeDatas.0.description>{PAWN_nameDef} хранит секрет. Операция по сбору органов это всего лишь небольшой эксперимент. Исследование, которое делает {PAWN_possessive} счастливым. {PAWN_nameDef} осознаёт всю важность своей работы и будет {PAWN_gender ? недоволен : недовольна} длительным перерывам между пополнениями коллекции... то есть между операциями.</VTE_MadSurgeon.degreeDatas.0.description>
 
+  <!-- EN: drunken master -->
   <VTE_DrunkenMaster.degreeDatas.0.label>пьяный мастер</VTE_DrunkenMaster.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are. -->
   <VTE_DrunkenMaster.degreeDatas.0.description>Как поговаривают, после того как {PAWN_nameDef} выпьет, {PAWN_pronoun} становится мастером ближнего боя. Судя по всему, уровень мастерства растёт по мере опьянения.</VTE_DrunkenMaster.degreeDatas.0.description>
 
+  <!-- EN: kleptomaniac -->
   <VTE_Kleptomaniac.degreeDatas.0.label>клептоман</VTE_Kleptomaniac.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is compulsed to steal and take things that don't belong to them, even if it means angering the other party. -->
   <VTE_Kleptomaniac.degreeDatas.0.description>{PAWN_nameDef} не может удержаться от того, чтобы не стащить что-нибудь у другого человека. Даже если это приведёт к нехорошим последствиям.</VTE_Kleptomaniac.degreeDatas.0.description>
 
+  <!-- EN: stoner -->
   <VTE_Stoner.degreeDatas.0.label>торчок</VTE_Stoner.degreeDatas.0.label>
+  <!-- EN: Smokeleaf culture is just part of life for [PAWN_nameDef]. [PAWN_pronoun] absolutely adores smokeleaf and would rather die before giving it up. -->
   <VTE_Stoner.degreeDatas.0.description>Курение дымолиста — важная часть образа жизни {PAWN_nameDef}. {PAWN_pronoun} скорее умрёт, чем откажется выкурить косяк дымолиста.</VTE_Stoner.degreeDatas.0.description>
 
+  <!-- EN: lush -->
   <VTE_Lush.degreeDatas.0.label>синяк</VTE_Lush.degreeDatas.0.label>
+  <!-- EN: Alcohol culture is just part of life for [PAWN_nameDef]. [PAWN_pronoun] absolutely adores booze and would rather die before giving it up. -->
   <VTE_Lush.degreeDatas.0.description>Алкоголь — важная часть образа жизни {PAWN_nameDef}. {PAWN_pronoun} скорее умрёт, чем откажется от выпивки.</VTE_Lush.degreeDatas.0.description>
 
-  <VTE_Wanderlust.degreeDatas.0.label>жажда странствий</VTE_Wanderlust.degreeDatas.0.label>g
+  <!-- EN: wanderlust -->
+  <VTE_Wanderlust.degreeDatas.0.label>жажда странствий</VTE_Wanderlust.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling. -->
   <VTE_Wanderlust.degreeDatas.0.description>{PAWN_nameDef} любит путешествовать и делает это быстро. Будет грустить, если давно не {PAWN_gender ? путешествовал : путешествовала}. Благодаря опыту прошлых путешествий, в дроге добывает еды больше, чем кто-либо.</VTE_Wanderlust.degreeDatas.0.description>
 
+  <!-- EN: insomniac -->
   <VTE_Insomniac.degreeDatas.0.label>ужасный сон</VTE_Insomniac.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is never really asleep or awake. [PAWN_pronoun] is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so. -->
   <VTE_Insomniac.degreeDatas.0.description>{PAWN_nameDef} никак не может выспаться и ходит, как зомби, пошатываясь, кое-как пытаясь работать. У {PAWN_nameDef} лишь примерно раз в три дня получается нормально поспать без кошмаров.</VTE_Insomniac.degreeDatas.0.description>
 
+  <!-- EN: world weary -->
   <VTE_WorldWeary.degreeDatas.0.label>судьбы мира</VTE_WorldWeary.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has grown tired of the world and needs to be constantly distracted to stop dark thoughts. [PAWN_possessive] bleak personality is a big downer and therefore it is very hard to become friends with them. -->
   <VTE_WorldWeary.degreeDatas.0.description>{PAWN_nameDef} погружён в тяжёлые думы о судьбах мира. Эти мысли утомляют и нужно чем-то отвлечься. {PAWN_pronoun} сам по себе мрачный человек, разрушающий вечеринки своим присутствием и потому имеет сложности с нахождением друзей.</VTE_WorldWeary.degreeDatas.0.description>
 
+  <!-- EN: desensitized -->
   <VTE_Desensitized.degreeDatas.0.label>десенсибилизирован</VTE_Desensitized.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies. -->
   <VTE_Desensitized.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? ожесточился : ожесточилась} после перенесённой психической травмы. Теперь утрата любимцев, поселенцев, членов семьи и другие горести не вызывают у н{PAWN_possessive} никаких эмоций.</VTE_Desensitized.degreeDatas.0.description>
 
+  <!-- EN: refined palate -->
   <VTE_RefinedPalate.degreeDatas.0.label>утончённый вкус</VTE_RefinedPalate.degreeDatas.0.label>
+  <!-- EN: Only the finest of culinary creations may grace the lips of [PAWN_nameDef]. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite. -->
   <VTE_RefinedPalate.degreeDatas.0.description>Только лучшие блюда могут удовлетворить {PAWN_nameDef}. {PAWN_pronoun} спокойно примет еду простых людей, но по-настоящему изысканные блюда будет смаковать до последнего кусочка.</VTE_RefinedPalate.degreeDatas.0.description>
 
+  <!-- EN: academian -->
   <VTE_Academian.degreeDatas.0.label>книжник</VTE_Academian.degreeDatas.0.label>
+  <!-- EN: Whether through studying ancient manuscripts or years of scholastic pursuit [PAWN_nameDef] is surprisingly well read on a variety of topics, particularly science and medical practice. -->
   <VTE_Academian.degreeDatas.0.description>{PAWN_nameDef} проявляет удивительный талант к изучению древних свитков или иным бесцельным изысканиям. Так или иначе {PAWN_pronoun} отлично разбирается во множестве тем, особенно в науке и медицине.</VTE_Academian.degreeDatas.0.description>
 
+  <!-- EN: groundbreaker -->
   <VTE_Groundbreaker.degreeDatas.0.label>первопроходец</VTE_Groundbreaker.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] strongly believes infrastucture rules all and is a natural born stoneworker. -->
   <VTE_Groundbreaker.degreeDatas.0.description>{PAWN_nameDef} считает инфраструктуру основой всего и является прирождённым каменщиком.</VTE_Groundbreaker.degreeDatas.0.description>
 
+  <!-- EN: gastronomist -->
   <VTE_Gastronomist.degreeDatas.0.label>гастроном</VTE_Gastronomist.degreeDatas.0.label>
+  <!-- EN: In the eyes of [PAWN_nameDef] food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat. -->
   <VTE_Gastronomist.degreeDatas.0.description>{PAWN_nameDef} считает еду искусством и каждое приготовленное {PAWN_gender ? им : ей} блюдо красиво, вкусно и безопасно.</VTE_Gastronomist.degreeDatas.0.description>
 
+  <!-- EN: ecologist -->
   <VTE_Ecologist.degreeDatas.0.label>эколог</VTE_Ecologist.degreeDatas.0.label>
+  <!-- EN: Flora and fauna are both vital to [PAWN_nameDef]. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings. -->
   <VTE_Ecologist.degreeDatas.0.description>{PAWN_nameDef} ценит важность флоры и фауны. {PAWN_pronoun} ценить дары Геи и не тратит понапрасну части растений и животных.</VTE_Ecologist.degreeDatas.0.description>
 
+  <!-- EN: tycoon -->
   <VTE_Tycoon.degreeDatas.0.label>делец</VTE_Tycoon.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has an eye for silver and a tongue made from it. They believe their products are the best products and [PAWN_pronoun] will likely convince you if given the chance. -->
   <VTE_Tycoon.degreeDatas.0.description>{PAWN_nameDef} имеет острое чутьё и подвешенный язык. {PAWN_pronoun} без проблем убедит кого угодно, что {PAWN_possessive} товары лучшие, а эта сделка самая выгодная.</VTE_Tycoon.degreeDatas.0.description>
 
+  <!-- EN: thick skinned -->
   <VTE_ThickSkinned.degreeDatas.0.label>толстая кожа</VTE_ThickSkinned.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is strangely hypercoagulating and will bleed much more slowly than most. -->
   <VTE_ThickSkinned.degreeDatas.0.description>У {PAWN_nameDef} необычная гиперкоагуляция, снижающая кровотечения.</VTE_ThickSkinned.degreeDatas.0.description>
 
+  <!-- EN: thin skinned -->
   <VTE_ThinSkinned.degreeDatas.0.label>тонкая кожа</VTE_ThinSkinned.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] is strangely hemophilic and tends to bleed much more profusely than others. -->
   <VTE_ThinSkinned.degreeDatas.0.description>У {PAWN_nameDef} необычная гемофилия, увеличивающая кровотечения.</VTE_ThinSkinned.degreeDatas.0.description>
 
+  <!-- EN: schizoid -->
   <VTE_Schizoid.degreeDatas.0.label>шизоид</VTE_Schizoid.degreeDatas.0.label>
+  <!-- EN: [PAWN_nameDef] has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown. -->
   <VTE_Schizoid.degreeDatas.0.description>{PAWN_nameDef} имеет проблемы с самовыражением, которы разрастаются со временем, как снежный ком, и приводят к нервному срыву.</VTE_Schizoid.degreeDatas.0.description>
 </LanguageData>
