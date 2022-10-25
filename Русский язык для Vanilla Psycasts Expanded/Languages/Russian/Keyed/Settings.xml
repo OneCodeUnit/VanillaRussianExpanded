@@ -8,4 +8,14 @@
   <VPE.PsycasterSpawnBaseChance>Вероятность появление псиоников при игре с Базиликусом Благодарящим</VPE.PsycasterSpawnBaseChance>
   <!-- EN: Basilicus Bestower Psycaster strength factor -->
   <VPE.PsycasterSpawnAdditional>Сила псиоников при игре с Базиликусом Благодарящим</VPE.PsycasterSpawnAdditional>
+  <!-- EN: Allow shrinking? -->
+  <VPE.AllowShrink>Разрешить уменьшение?</VPE.AllowShrink>
+  <!-- EN: Allow psycast gizmos to be shrunken to half size when there are a lot of them. -->
+  <VPE.AllowShrink.Desc>Разрешить уменьшать визуальные эффекты от способностей вдвое, когда их много.</VPE.AllowShrink.Desc>
+  <!-- EN: UI small mode -->
+  <VPE.SmallMode>Малый интерфейс</VPE.SmallMode>
+  <!-- EN: In samll mode, the stats are moved to a tooltip and the psysets are moved to a separate dialog. If checked, this will force small mode. If X'ed, this will ban small mode. If partial (yellow line), this will allow default behavior (small mode will be active if your vertical resolution is less than 1080). -->
+  <VPE.SmallMode.Desc>Режим малого интерфейса переносит статистику во всплывающую подсказку, а наборы умений в отдельный диалог. Галочка сделает его активным всегда. Крестик запретит его. Тильда сделает его активным только тогда, когда вертикальное разрешение экрана будет меньше 1080.</VPE.SmallMode.Desc>
+  <!-- EN: Mute Skipdoor Sound -->
+  <VPE.MuteSkipdoor>Выключить звук Двери измерений</VPE.MuteSkipdoor>
 </LanguageData>
