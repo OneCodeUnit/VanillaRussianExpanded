@@ -1,74 +1,117 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!-- EN: Pawns join -->
   <VSEWW_GoodPawnJoins.label>Поселенец</VSEWW_GoodPawnJoins.label>
+  <!-- EN: A group of 3 pawns worth a minimum 100 and up to 175 Combat points joins the colony -->
   <VSEWW_GoodPawnJoins.description>К поселению присоединятся 3 персонажа стоимостью от 100 до 175 боевых очков.</VSEWW_GoodPawnJoins.description>
 
+  <!-- EN: Resource drop -->
   <VSEWW_GoodResourceDrop.label>Ресурсы</VSEWW_GoodResourceDrop.label>
+  <!-- EN: Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel -->
   <VSEWW_GoodResourceDrop.description>Грузовой контейнер, содержащий 500 ед. древесины, 500 стали, 30 компонентов и 200 пластали.</VSEWW_GoodResourceDrop.description>
 
+  <!-- EN: Components drop -->
   <VSEWW_GoodComponentDrop.label>Компоненты</VSEWW_GoodComponentDrop.label>
+  <!-- EN: Cargo pods drop 60 components, 15 advanced components -->
   <VSEWW_GoodComponentDrop.description>Грузовой контейнер, содержащий 60 компонентов и 15 продвинутых компонентов.</VSEWW_GoodComponentDrop.description>
 
+  <!-- EN: Food and medicine drop -->
   <VSEWW_GoodFoodAndMedicineDrop.label>Еда и медикаменты</VSEWW_GoodFoodAndMedicineDrop.label>
+  <!-- EN: Cargo pods drop 100 survival meals and 100 medicine -->
   <VSEWW_GoodFoodAndMedicineDrop.description>Грузовой контейнер, содержащий 100 сухих пайков и 100 медикаментов.</VSEWW_GoodFoodAndMedicineDrop.description>
 
+  <!-- EN: Fuel drop -->
   <VSEWW_GoodFuelDrop.label>Топливо</VSEWW_GoodFuelDrop.label>
+  <!-- EN: Cargo pods drop 800 chemfuel, 800 wood and 250 uranium -->
   <VSEWW_GoodFuelDrop.description>Грузовой контейнер, содержащий 800 ед. химтоплива, 800 древесины и 250 урана.</VSEWW_GoodFuelDrop.description>
 
+  <!-- EN: Good weapons drop -->
   <VSEWW_GoodWeaponsDrop.label>Хорошее оружие</VSEWW_GoodWeaponsDrop.label>
+  <!-- EN: Cargo pods 3 random weapons, quality is Good -->
   <VSEWW_GoodWeaponsDrop.description>Грузовой контейнер, содержащий 3 случайных оружия хорошего качества.</VSEWW_GoodWeaponsDrop.description>
 
+  <!-- EN: Good armor drop -->
   <VSEWW_GoodArmorDrop.label>Хорошая броня</VSEWW_GoodArmorDrop.label>
+  <!-- EN: Cargo pods 3 random pieces of armor, quality is Good -->
   <VSEWW_GoodArmorDrop.description>Грузовой контейнер, содержащий 3 случайных ед. брони хорошего качества.</VSEWW_GoodArmorDrop.description>
 
+  <!-- EN: Cash -->
   <VSEWW_GoodCashDrop.label>Деньги</VSEWW_GoodCashDrop.label>
+  <!-- EN: Cargo pods drop 5000 silver, 250 gold -->
   <VSEWW_GoodCashDrop.description>Грузовой контейнер, содержащий 5000 ед. серебра и 250 золота.</VSEWW_GoodCashDrop.description>
 
+  <!-- EN: Delay next wave -->
   <VSEWW_DelayBy7.label>Отложить волну</VSEWW_DelayBy7.label>
+  <!-- EN: Next wave is delayed by 7 days -->
   <VSEWW_DelayBy7.description>Следующая волна будет отложена на 7 дней.</VSEWW_DelayBy7.description>
 
+  <!-- EN: Combat Animal drop -->
   <VSEWW_CombatAnimalDrop.label>Боевое животное</VSEWW_CombatAnimalDrop.label>
+  <!-- EN: Cargo pod drops 5 random, tamed combat animals -->
   <VSEWW_CombatAnimalDrop.description>Грузовой контейнер, содержащий 5 случайных прирученных боевых животных.</VSEWW_CombatAnimalDrop.description>
 
+  <!-- EN: Textile drop -->
   <VSEWW_GoodTextileDrop.label>Текстиль</VSEWW_GoodTextileDrop.label>
+  <!-- EN: Cargo pod drops 1000 random pieces of leather or textile -->
   <VSEWW_GoodTextileDrop.description>Грузовой контейнер, содержащий 1000 ед. случайного текстиля, кож или шкур.</VSEWW_GoodTextileDrop.description>
 
+  <!-- EN: Skill boost -->
   <VSEWW_GoodSkillBoost.label>Усиление навыков</VSEWW_GoodSkillBoost.label>
+  <!-- EN: Improve every skill of every pawn under your control by 2 -->
   <VSEWW_GoodSkillBoost.description>Увеличение всех навыков персонажей под вашим контролем на 2.</VSEWW_GoodSkillBoost.description>
 
+  <!-- EN: Research boost -->
   <VSEWW_GoodReseachBoost.label>Ускорение исследований</VSEWW_GoodReseachBoost.label>
+  <!-- EN: Instantly research 5 random research projects you meet prerequisites for -->
   <VSEWW_GoodReseachBoost.description>Мгновенное изучение 5 случайных доступных технологий.</VSEWW_GoodReseachBoost.description>
 
+  <!-- EN: Weaken next wave -->
   <VSEWW_Weaken50.label>Ослабление волны</VSEWW_Weaken50.label>
+  <!-- EN: Next wave only has 50% Combat points it would normally have -->
   <VSEWW_Weaken50.description>Объём следующей волны будет составлять лишь 50% боевых очков от запланированного.</VSEWW_Weaken50.description>
 
+  <!-- EN: Allies! -->
   <VSEWW_Allies.label>Союзники!</VSEWW_Allies.label>
+  <!-- EN: Next wave also brings allies that are 2x the regular size, to help you -->
   <VSEWW_Allies.description>Следующая волна, помимо врагов, вызовет союзников в двойном размере, которые помогут вам.</VSEWW_Allies.description>
 
+  <!-- EN: Archotech artifacts drop -->
   <VSEWW_GoodArchotechArtifactsDrop.label>Архоартефакты</VSEWW_GoodArchotechArtifactsDrop.label>
+  <!-- EN: Receive 5 random archotech items (can be minified structures) -->
   <VSEWW_GoodArchotechArtifactsDrop.description>5 случайных архотехнологичных вещей (могут быть сложенными постройками).</VSEWW_GoodArchotechArtifactsDrop.description>
 
+  <!-- EN: Orbital beam targeter -->
   <VSEWW_OrbitalTargeterPowerBeamDrop.label>Целеуказатель для силового луча</VSEWW_OrbitalTargeterPowerBeamDrop.label>
+  <!-- EN: Receive an orbital beam targeter -->
   <VSEWW_OrbitalTargeterPowerBeamDrop.description>Получить целеуказатель для силового луча.</VSEWW_OrbitalTargeterPowerBeamDrop.description>
 
+  <!-- EN: Orbital bombardment targeter -->
   <VSEWW_OrbitalTargeterBombardmentDrop.label>Целеуказатель для бомбардировки</VSEWW_OrbitalTargeterBombardmentDrop.label>
+  <!-- EN: Receive an orbital bombardment targeter -->
   <VSEWW_OrbitalTargeterBombardmentDrop.description>Получить целеуказатель для бомбардировки.</VSEWW_OrbitalTargeterBombardmentDrop.description>
 
+  <!-- EN: Tornado generator -->
   <VSEWW_TornadoGeneratorDrop.label>Генератор вихря</VSEWW_TornadoGeneratorDrop.label>
+  <!-- EN: Receive a tornado generator -->
   <VSEWW_TornadoGeneratorDrop.description>Получить генератор вихря.</VSEWW_TornadoGeneratorDrop.description>
 
+  <!-- EN: Drugs drop -->
   <VSEWW_GoodDrugsDrop.label>Наркотики</VSEWW_GoodDrugsDrop.label>
+  <!-- EN: Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up, 20 go juice -->
   <VSEWW_GoodDrugsDrop.description>Получить 10 ед. амброзии, 10 психинового чая, 20 пива, 20 косяков дымолиста, 20 хлопьев психина, 20 порошка психина, 20 бодрина и 20 Go-сока.</VSEWW_GoodDrugsDrop.description>
 
+  <!-- EN: Prosthetics drop -->
   <VSEWW_GoodProstheticsDrop.label>Протезы</VSEWW_GoodProstheticsDrop.label>
+  <!-- EN: Cargo pod drops 5 random low-level prosthetics and 5 bionic prosthetics -->
   <VSEWW_GoodProstheticsDrop.description>Грузовой контейнер, содержащий 5 случайных низкоуровневых протезов и 5 бионических.</VSEWW_GoodProstheticsDrop.description>
 
+  <!-- EN: Random Excellent reward -->
   <VSEWW_RandomExcellentDrop.label>Случайная отличная награда</VSEWW_RandomExcellentDrop.label>
+  <!-- EN: Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward -->
   <VSEWW_RandomExcellentDrop.description>Вместо конкретной награды «хорошего» уровня можно получить случайную награду «отличного» уровня.</VSEWW_RandomExcellentDrop.description>
 
+  <!-- EN: Orbital Trader Arrival -->
   <VSEWW_OrbitalTraderArrival.label>Орбитальный торговец</VSEWW_OrbitalTraderArrival.label>
+  <!-- EN: Send a random orbital trader -->
   <VSEWW_OrbitalTraderArrival.description>Прилетает случайный орбитальный торговец.</VSEWW_OrbitalTraderArrival.description>
-
-
 </LanguageData>

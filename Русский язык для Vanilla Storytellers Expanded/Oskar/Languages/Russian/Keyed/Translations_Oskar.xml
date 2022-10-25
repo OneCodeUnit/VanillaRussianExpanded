@@ -1,30 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- Labels -->
-	<PatchTitle>RimWorld {0} «{1}»</PatchTitle>
-	<PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
-	<OskarObnoxious>Оскар Оскорбительный</OskarObnoxious>
-	<PatchNotes>Открыть список изменений</PatchNotes>
-	
-	<!-- Patch Window -->
-	<ValueChanged>Параметр «{0}» изменён с {1} на {2}</ValueChanged>
-	<ValueUnchanged>Параметр «{0}» остался без изменений. Текущее значение — {1}</ValueUnchanged>
-	<ValueChangedDefault>defaultValue параметра «{0}» изменено с {1} на {2}</ValueChangedDefault>
-	<ValueUnchangedDefault>defaultValue параметра «{0}» осталось без изменений. Текущее значение — {1}</ValueUnchangedDefault>
-	
-	<!-- Settings -->
-	<TicksBetweenPatchNotes>Время между обновлениями</TicksBetweenPatchNotes>
-	<TicksBetweenPatchNotesTooltip>Время (в тиках) до момента выхода следующего обновления.</TicksBetweenPatchNotesTooltip>
-	
-	<DefsChangedPerPatch>Объекты</DefsChangedPerPatch>
-	<DefsChangedPerPatchTooltip>Количество объектов в каждом обновлении</DefsChangedPerPatchTooltip>
-	<FieldsChangedPerDef>Параметры</FieldsChangedPerDef>
-	<FieldsChangedPerDefTooltip>Количество изменяемых параметров для каждого объекта</FieldsChangedPerDefTooltip>
-	<PatchNotesStored>Количество отображаемых обновлений</PatchNotesStored>
-	<PatchNotesStoredTooltip>Максимальное число списков изменений, хранимых и отображаемых в окне списков изменений. Этот параметр влияет только на отображение. Изменения, вносимые обновлениями всё равно остаются.</PatchNotesStoredTooltip>
-	
-	<ShowAllPatchNotes>Открыть список изменений</ShowAllPatchNotes>
-	<ResetPatchNotesToDefault>Сбросить настройки</ResetPatchNotesToDefault>
-	<DebugShowPatchGeneration>Лог создания списка изменений</DebugShowPatchGeneration>
-	<DebugShowPatchGenerationTooltip>Вывод всех шагов создания списка изменений в Debug log. (Использовать только для поиска ошибок)</DebugShowPatchGenerationTooltip>
+  <!-- EN: RimWorld {0} "{1}" -->
+  <PatchTitle>RimWorld {0} «{1}»</PatchTitle>
+  <!-- EN: RimWorld {0} -->
+  <PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
+  <!-- EN: Oskar Obnoxious -->
+  <OskarObnoxious>Оскар Оскорбительный</OskarObnoxious>
+  <!-- EN: New Update Released -->
+  <PatchNotes>Открыть список изменений</PatchNotes>
+  
+  <!-- EN: {0} changed from {1} to {2} -->
+  <ValueChanged>Параметр «{0}» изменён с {1} на {2}</ValueChanged>
+  <!-- EN: {0} will stay the same. Current value is {1} -->
+  <ValueUnchanged>Параметр «{0}» остался без изменений. Текущее значение — {1}</ValueUnchanged>
+  <!-- EN: {0} defaultValue changed from {1} to {2} -->
+  <ValueChangedDefault>defaultValue параметра «{0}» изменено с {1} на {2}</ValueChangedDefault>
+  <!-- EN: {0} defaultValue will stay the same. Current value is {1} -->
+  <ValueUnchangedDefault>defaultValue параметра «{0}» осталось без изменений. Текущее значение — {1}</ValueUnchangedDefault>
+  
+  <!-- EN: Ticks Between Patch Notes -->
+  <TicksBetweenPatchNotes>Время между обновлениями</TicksBetweenPatchNotes>
+  <!-- EN: Ticks till the next patch notes will be released. Google the RimWorld time wiki if you're unsure what the values would be. 60,000 ticks = 1 Day -->
+  <TicksBetweenPatchNotesTooltip>Время (в тиках) до момента выхода следующего обновления.</TicksBetweenPatchNotesTooltip>
+  
+  <!-- EN: Defs -->
+  <DefsChangedPerPatch>Объекты</DefsChangedPerPatch>
+  <!-- EN: Number of Defs patched per Patch Notes -->
+  <DefsChangedPerPatchTooltip>Количество объектов в каждом обновлении</DefsChangedPerPatchTooltip>
+  <!-- EN: Fields -->
+  <FieldsChangedPerDef>Параметры</FieldsChangedPerDef>
+  <!-- EN: Number of fields patched per Def -->
+  <FieldsChangedPerDefTooltip>Количество изменяемых параметров для каждого объекта</FieldsChangedPerDefTooltip>
+  <!-- EN: Patch Notes Stored -->
+  <PatchNotesStored>Количество отображаемых обновлений</PatchNotesStored>
+  <!-- EN: Max number of patch notes that will be stored and viewable in the Patch Notes window. It will only show the most recent patches up to this amount, but all previous patches will still apply their changes. -->
+  <PatchNotesStoredTooltip>Максимальное число списков изменений, хранимых и отображаемых в окне списков изменений. Этот параметр влияет только на отображение. Изменения, вносимые обновлениями всё равно остаются.</PatchNotesStoredTooltip>
+  
+  <!-- EN: Open Patch Notes -->
+  <ShowAllPatchNotes>Открыть список изменений</ShowAllPatchNotes>
+  <!-- EN: Reset Settings -->
+  <ResetPatchNotesToDefault>Сбросить настройки</ResetPatchNotesToDefault>
+  <!-- EN: Log Patch Generation -->
+  <DebugShowPatchGeneration>Лог создания списка изменений</DebugShowPatchGeneration>
+  <!-- EN: Output all patch generation steps into Message logs. (For debugging only) -->
+  <DebugShowPatchGenerationTooltip>Вывод всех шагов создания списка изменений в Debug log. (Использовать только для поиска ошибок)</DebugShowPatchGenerationTooltip>
 </LanguageData>

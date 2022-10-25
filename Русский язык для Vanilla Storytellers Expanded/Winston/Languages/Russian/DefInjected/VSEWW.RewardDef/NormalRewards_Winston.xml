@@ -1,62 +1,97 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!-- EN: Pawn joins -->
   <VSEWW_NormalPawnJoins.label>Поселенец</VSEWW_NormalPawnJoins.label>
+  <!-- EN: A single pawn worth minimum 50 and up to 125 Combat points joins the colony -->
   <VSEWW_NormalPawnJoins.description>К поселению присоединится персонаж стоимостью от 50 до 125 боевых очков.</VSEWW_NormalPawnJoins.description>
 
+  <!-- EN: Resource drop -->
   <VSEWW_NormalResourceDrop.label>Ресурсы</VSEWW_NormalResourceDrop.label>
+  <!-- EN: Cargo pods drop 250 wood, 250 steel, 10 components -->
   <VSEWW_NormalResourceDrop.description>Грузовой контейнер, содержащий 250 ед. древесины, 250 стали и 10 компонентов.</VSEWW_NormalResourceDrop.description>
 
+  <!-- EN: Component drop -->
   <VSEWW_NormalComponentDrop.label>Компоненты</VSEWW_NormalComponentDrop.label>
+  <!-- EN: Cargo pods drop 20 components, 5 advanced components -->
   <VSEWW_NormalComponentDrop.description>Грузовой контейнер, содержащий 20 компонентов и 5 продвинутых компонентов.</VSEWW_NormalComponentDrop.description>
 
+  <!-- EN: Food and medicine drop -->
   <VSEWW_NormalFoodAndMedicineDrop.label>Еда и медикаменты</VSEWW_NormalFoodAndMedicineDrop.label>
+  <!-- EN: Cargo pods drop 30 survival meals and 30 medicine -->
   <VSEWW_NormalFoodAndMedicineDrop.description>Грузовой контейнер, содержащий 30 сухих пайков и 30 медикаментов.</VSEWW_NormalFoodAndMedicineDrop.description>
 
+  <!-- EN: Uranium drop -->
   <VSEWW_UraniumDrop.label>Уран</VSEWW_UraniumDrop.label>
+  <!-- EN: Cargo pods drop 100 uranium -->
   <VSEWW_UraniumDrop.description>Грузовой контейнер, содержащий 100 ед. урана.</VSEWW_UraniumDrop.description>
 
+  <!-- EN: Fuel drop -->
   <VSEWW_NormalFuelDrop.label>Топливо</VSEWW_NormalFuelDrop.label>
+  <!-- EN: Cargo pods drop 500 chemfuel -->
   <VSEWW_NormalFuelDrop.description>Грузовой контейнер, содержащий 500 ед. химтоплива.</VSEWW_NormalFuelDrop.description>
 
+  <!-- EN: Plasteel drop -->
   <VSEWW_PlasteelDrop.label>Пласталь</VSEWW_PlasteelDrop.label>
+  <!-- EN: Cargo pods drop 100 plasteel -->
   <VSEWW_PlasteelDrop.description>Грузовой контейнер, содержащий 100 ед. пластали.</VSEWW_PlasteelDrop.description>
 
+  <!-- EN: Normal weapons drop -->
   <VSEWW_NormalWeaponsDrop.label>Нормальное оружие</VSEWW_NormalWeaponsDrop.label>
+  <!-- EN: Cargo pods 3 random weapons, quality is normal -->
   <VSEWW_NormalWeaponsDrop.description>Грузовой контейнер, содержащий 3 случайных оружия нормального качества.</VSEWW_NormalWeaponsDrop.description>
 
+  <!-- EN: Cash -->
   <VSEWW_NormalCashDrop.label>Деньги</VSEWW_NormalCashDrop.label>
+  <!-- EN: Cargo pods drop 3000 silver -->
   <VSEWW_NormalCashDrop.description>Грузовой контейнер, содержащий 3000 ед. серебра.</VSEWW_NormalCashDrop.description>
 
+  <!-- EN: Caravan arrival -->
   <VSEWW_CaravanArrival.label>Караван</VSEWW_CaravanArrival.label>
+  <!-- EN: A random caravan arrives -->
   <VSEWW_CaravanArrival.description>Прибудет случайный караван.</VSEWW_CaravanArrival.description>
 
+  <!-- EN: Delay next wave -->
   <VSEWW_DelayBy3.label>Отложить волну</VSEWW_DelayBy3.label>
+  <!-- EN: Next wave is delayed by 3 days -->
   <VSEWW_DelayBy3.description>Следующая волна будет отложена на 3 дня.</VSEWW_DelayBy3.description>
 
+  <!-- EN: Animal drop -->
   <VSEWW_NormalAnimalDrop.label>Животное</VSEWW_NormalAnimalDrop.label>
+  <!-- EN: Cargo pod drops 2 random, tamed animals -->
   <VSEWW_NormalAnimalDrop.description>Грузовой контейнер, содержащий 2 случайных прирученных животных.</VSEWW_NormalAnimalDrop.description>
 
+  <!-- EN: Textile drop -->
   <VSEWW_NormalTextileDrop.label>Текстиль</VSEWW_NormalTextileDrop.label>
+  <!-- EN: Cargo pod drops 400 random pieces of leather or textile -->
   <VSEWW_NormalTextileDrop.description>Грузовой контейнер, содержащий 400 ед. случайного текстиля, кож или шкур.</VSEWW_NormalTextileDrop.description>
 
+  <!-- EN: Miniturret drop -->
   <VSEWW_MiniturretDrop.label>Мини-турель</VSEWW_MiniturretDrop.label>
+  <!-- EN: Cargo pod drops 3 minified mini-turrets -->
   <VSEWW_MiniturretDrop.description>Грузовой контейнер, содержащий 3 сложенных мини-турели.</VSEWW_MiniturretDrop.description>
 
+  <!-- EN: Research boost -->
   <VSEWW_NormalReseachBoost.label>Ускорение исследований</VSEWW_NormalReseachBoost.label>
+  <!-- EN: Instantly research 3 random research projects you meet prerequisites for -->
   <VSEWW_NormalReseachBoost.description>Мгновенное изучение 3 случайных доступных технологий.</VSEWW_NormalReseachBoost.description>
 
+  <!-- EN: Prosthetics drop -->
   <VSEWW_NormalProstheticsDrop.label>Протезы</VSEWW_NormalProstheticsDrop.label>
+  <!-- EN: Cargo pod drops 5 random low-level prosthetics -->
   <VSEWW_NormalProstheticsDrop.description>Грузовой контейнер, содержащий 5 случайных низкоуровневых протезов.</VSEWW_NormalProstheticsDrop.description>
 
+  <!-- EN: Random Good reward -->
   <VSEWW_RandomGoodDrop.label>Случайная хорошая награда</VSEWW_RandomGoodDrop.label>
+  <!-- EN: Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward -->
   <VSEWW_RandomGoodDrop.description>Вместо конкретной награды «обычного» уровня можно получить случайную награду «хорошего» уровня.</VSEWW_RandomGoodDrop.description>
 
+  <!-- EN: Meteorite impact -->
   <VSEWW_MeteoriteImpact.label>Метеорит</VSEWW_MeteoriteImpact.label>
+  <!-- EN: Meteorite impact -->
   <VSEWW_MeteoriteImpact.description>Падение метеорита.</VSEWW_MeteoriteImpact.description>
 
+  <!-- EN: Psychic Soothe -->
   <VSEWW_PsychicSoothe.label>Умиротворение</VSEWW_PsychicSoothe.label>
+  <!-- EN: Psychic Soothe -->
   <VSEWW_PsychicSoothe.description>Вызывает умиротворение.</VSEWW_PsychicSoothe.description>
-
-
 </LanguageData>

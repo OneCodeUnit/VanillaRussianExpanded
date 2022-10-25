@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Русский язык для Vanilla Storytellers Expanded</name>
-  <author>OliveWizzard</author>
-	<supportedVersions>
-		<li>1.1</li>
-		<li>1.2</li>
-		<li>1.3</li>
-	</supportedVersions>
-	<packageId>RU.VSE</packageId>
-  <description>Перевод на русский язык модов серии Vanilla Storytellers Expanded: Perry Persistent, Empress Evil, Freya Fierce, Igor Invader, Oskar Obnoxious, Diego Industrial, Maynard Medieval, Neron Neolithic, Winston Wave и RimWorld Rick.
-Не обязательно устанавливать все моды. Перевод будет работать даже если установлен только один.</description>
-	<loadAfter>
-		<li>VSE.EmpressEvil</li>
-		<li>VSE.PerryPersistent</li>
-		<li>VSE.FreyaFierce</li>
-		<li>VSE.IgorInvader</li>
-		<li>VSE.OskarObnoxious</li>
-		<li>VSE.DiegoIndustrial</li>
-		<li>VSE.MaynardMedieval</li>
-		<li>VSE.NeronNeolithic</li>
-		<li>VanillaStorytellersExpanded.WinstonWave</li>
-		<li>vanillaexpanded.storytellers.rick</li>
-		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
-	</loadAfter>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.VSE</packageId>
+  <description>Перевод на русский язык всех модов серии Vanilla Storytellers Expanded: Perry Persistent, Empress Evil, Freya Fierce, Igor Invader, Oskar Obnoxious, Diego Industrial, Maynard Medieval, Neron Neolithic, Winston Wave и RimWorld Rick.</description>
+  <loadAfter>
+    <li>VSE.EmpressEvil</li>
+    <li>VSE.PerryPersistent</li>
+    <li>VSE.FreyaFierce</li>
+    <li>VSE.IgorInvader</li>
+    <li>VSE.OskarObnoxious</li>
+    <li>VSE.DiegoIndustrial</li>
+    <li>VSE.MaynardMedieval</li>
+    <li>VSE.NeronNeolithic</li>
+    <li>VanillaStorytellersExpanded.WinstonWave</li>
+    <li>vanillaexpanded.storytellers.rick</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+  </loadAfter>
 </ModMetaData>

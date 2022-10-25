@@ -1,54 +1,177 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Random reward of the {0} category -->
   <VESWW.RandomRewardOf>Случайная награда уровня «{0}»</VESWW.RandomRewardOf>
+  <!-- EN: {0} random apparel(s) of {1} quality with the {3} tag -->
   <VESWW.RandomApparel>{0} случайная одежда качества «{1}» из категории «{3}»</VESWW.RandomApparel>
+  <!-- EN: {0} random weapon(s) of {1} quality with the {3} tag -->
   <VESWW.RandomWeapons>{0} случайное оружие качества «{1}» из категории «{3}»</VESWW.RandomWeapons>
+  <!-- EN: {0} random thing(s) of {1} quality within the {3} category -->
   <VESWW.RandomThing>{0} случайные предметы качества «{1}» из категории «{3}»</VESWW.RandomThing>
+  <!-- EN: {0} random thing(s) of {1} quality within the {3} categories -->
   <VESWW.RandomThingMC>{0} случайные предметы качества «{1}» из категории «{3}»</VESWW.RandomThingMC>
+  <!-- EN: {0} random stone blocks -->
   <VESWW.RandomBlocks>{0} случайные каменные блоки</VESWW.RandomBlocks>
+  <!-- EN: {0} random pawn(s) of {1} intelligence -->
   <VESWW.RandomPawns>{0} случайный персонаж с {1} очками</VESWW.RandomPawns>
+  <!-- EN: The {0} event -->
   <VESWW.FiringEvent>Началось событие {0}</VESWW.FiringEvent>
+  <!-- EN: {0} {1} -->
   <VESWW.Item>{0} {1}</VESWW.Item>
+  <!-- EN: {0} {1} of {2} quality -->
   <VESWW.ItemWQuality>{0} {1} качества «{2}»</VESWW.ItemWQuality>
+  <!-- EN: {0} {1} -->
   <VESWW.Pawn>{0} {1}</VESWW.Pawn>
+  <!-- EN: Unlock {0} researches -->
   <VESWW.Research>Открыто {0} исследований</VESWW.Research>
+  <!-- EN: Add {0} points to every colonists, slaves and prisonners -->
   <VESWW.SkillBoost>Добавлено {0_numCase ? очко : очка : очков} каждому поселенцу, рабу и пленнику</VESWW.SkillBoost>
+  <!-- EN: Next wave is delayed by {0} days -->
   <VESWW.Delay>Следующая волна отложена на {0_numCase ? день : дня : дней}</VESWW.Delay>
+  <!-- EN: Next wave is wekeaned by {0} -->
   <VESWW.Weaken>Следующая волна ослаблена на {0}</VESWW.Weaken>
+  <!-- EN: Next wave will also spawn friendlies to help you out -->
   <VESWW.Allies>Следующая волна также призовёт союзников к вам на помощь</VESWW.Allies>
+  <!-- EN: Instantly heal all damages on all colonists, slaves and prisonners -->
   <VESWW.MassHeal>Мгновенное лечение повреждений поселенцев, рабов и пленников</VESWW.MassHeal>
+  <!-- EN: {0} has been researched -->
   <VESWW.ResearchUnlocked>исследование {0} было открыто</VESWW.ResearchUnlocked>
+  <!-- EN: {0} reward -->
   <VESWW.Reward>{0} награда</VESWW.Reward>
+  <!-- EN: Select reward -->
   <VESWW.SelectReward>Выбрать награду</VESWW.SelectReward>
+  <!-- EN: Wave {0} -->
   <VESWW.WaveNum>Волна {0}</VESWW.WaveNum>
+  <!-- EN: Enemies coming ({0}): -->
   <VESWW.EnemiesC>Враги прибывают ({0}):</VESWW.EnemiesC>
+  <!-- EN: Defeat remaining enemies: -->
   <VESWW.EnemiesR>Уничтожить оставшихся врагов:</VESWW.EnemiesR>
-  <VESWW.RandRewardOutcome>You are getting: {0}</VESWW.RandRewardOutcome>
-  <VESWW.RemoveOldDropSpot>Removing other reward drop spot</VESWW.RemoveOldDropSpot>
+  <!-- EN: You are getting: {0} -->
+  <VESWW.RandRewardOutcome>Вы получаете: {0}</VESWW.RandRewardOutcome>
+  <!-- EN: Removing other reward drop spot -->
+  <VESWW.RemoveOldDropSpot>Удаление других наград из точки сбора</VESWW.RemoveOldDropSpot>
+  <!-- EN: Summon early -->
   <VESWW.SkipWave>Призвать раньше</VESWW.SkipWave>
-  <VESWW.BossWave>Волна с боссом</VESWW.BossWave>
+  <!-- EN: Boss wave -->
+  <VESWW.BossWave>Босс-волна</VESWW.BossWave>
+  <!-- EN: Normal wave -->
   <VESWW.NormalWave>Обычная волна</VESWW.NormalWave>
+  <!-- EN: {0} points used -->
   <VESWW.PointUsed>{0} очков использовано</VESWW.PointUsed>
+  <!-- EN: Reward commonality at this wave: -->
   <VESWW.RewardChance>Качество наград этой волны:</VESWW.RewardChance>
+  <!-- EN: {0} chance of getting a fourth reward choice if summoning the wave now -->
   <VESWW.MoreRewardChance>Шанс {0} получить четвёртую награду, если призвать волну сейчас</VESWW.MoreRewardChance>
+  <!-- EN: Game Over! -->
   <VESWW.GameOver>Игра окончена!</VESWW.GameOver>
+  <!-- EN: Waves survived: {0} -->
   <VESWW.SurvivedX>Пережито волн: {0}</VESWW.SurvivedX>
+  <!-- EN: Days survived: {0} -->
   <VESWW.SurvivedDaysX>Пережито дней: {0}</VESWW.SurvivedDaysX>
+  <!-- EN: Total kills: {0} -->
   <VESWW.TotalKill>Всего убийств: {0}</VESWW.TotalKill>
+  <!-- EN: Greatest population: {0} -->
   <VESWW.MaxPopEver>Максимум населения: {0}</VESWW.MaxPopEver>
+  <!-- EN: Reinforcement! -->
   <VESWW.Reinforcement>Подкрепления!</VESWW.Reinforcement>
+  <!-- EN: Final score: {0} -->
   <VESWW.Score>Итоговый счёт: {0}</VESWW.Score>
-  <!-- Settings -->
-  <VESWW.ModName>Vanilla Storytellers Expanded - Винстон Волновой</VESWW.ModName>
-  <VESWW.TimeBeforeFirstWave>Время до первой волны:</VESWW.TimeBeforeFirstWave>
-  <VESWW.TimeBetweenWaves>Время между волнами:</VESWW.TimeBetweenWaves>
-  <VESWW.MaxPoints>Максимум очков для угрозы:</VESWW.MaxPoints>
-  <VESWW.DrawBackground>Отображать счётчик волн:</VESWW.DrawBackground>
-  <VESWW.PointMultiplierBefore20>Множитель очков до волны 20:</VESWW.PointMultiplierBefore20>
-  <VESWW.PointMultiplierAfter20>Множитель очков после волны 20:</VESWW.PointMultiplierAfter20>
-  <VESWW.EnableStats>Включить рост характеристик:</VESWW.EnableStats>
-  <VESWW.DrawBack>Отображать счётчик волн:</VESWW.DrawBack>
-  <VESWW.MysteryMod>Включить режим «тайны» (модификаторы волн будут скрыты):</VESWW.MysteryMod>
-  <VESWW.RandomRewardMod>Отправить случайную награду (вместо выбранной):</VESWW.RandomRewardMod>
+  <!-- EN: Draggable: -->
+  <VESWW.Locked>Переносимый:</VESWW.Locked>
+  <!-- EN: Poor -->
+  <VESWW.Poor>плохо</VESWW.Poor>
+  <!-- EN: Normal -->
+  <VESWW.Normal>нормально</VESWW.Normal>
+  <!-- EN: Good -->
+  <VESWW.Good>хорошо</VESWW.Good>
+  <!-- EN: Excellent -->
+  <VESWW.Excellent>отлично</VESWW.Excellent>
+  <!-- EN: Legendary -->
+  <VESWW.Legendary>легенда</VESWW.Legendary>
 
+  <!-- EN: Vanilla Storytellers Expanded - Winston Wave -->
+  <VESWW.ModName>Vanilla Storytellers Expanded - Винстон Волновой</VESWW.ModName>
+  <!-- EN: Time before first wave: -->
+  <VESWW.TimeBeforeFirstWave>Время до первой волны:</VESWW.TimeBeforeFirstWave>
+  <!-- EN: Time between waves: -->
+  <VESWW.TimeBetweenWaves>Время между волнами:</VESWW.TimeBetweenWaves>
+  <!-- EN: Maximum days to deafeat a wave: -->
+  <VESWW.TimeToDefeatWave>Максимум дней, чтобы победить волну:</VESWW.TimeToDefeatWave>
+  <!-- EN: Max threat points used: -->
+  <VESWW.MaxPoints>Максимум очков для угрозы:</VESWW.MaxPoints>
+  <!-- EN: Draw wave counter background: -->
+  <VESWW.DrawBackground>Отображать счётчик волн:</VESWW.DrawBackground>
+  <!-- EN: Wave points multiplier before wave 20: -->
+  <VESWW.PointMultiplierBefore20>Множитель очков до волны 20:</VESWW.PointMultiplierBefore20>
+  <!-- EN: Wave points multiplier after wave 20: -->
+  <VESWW.PointMultiplierAfter20>Множитель очков после волны 20:</VESWW.PointMultiplierAfter20>
+  <!-- EN: Enable stats increase: -->
+  <VESWW.EnableStats>Включить рост характеристик:</VESWW.EnableStats>
+  <!-- EN: Draw wave counter background: -->
+  <VESWW.DrawBack>Отображать счётчик волн:</VESWW.DrawBack>
+  <!-- EN: Enable mystery mode: -->
+  <VESWW.MysteryMod>Включить режим «тайны» (модификаторы волн будут скрыты):</VESWW.MysteryMod>
+  <!-- EN: Send random reward: -->
+  <VESWW.RandomRewardMod>Отправить случайную награду (вместо выбранной):</VESWW.RandomRewardMod>
+  <!-- EN: Exclude modifier(s) from waves: -->
+  <VESWW.Modifiers>Исключить модификаторы:</VESWW.Modifiers>
+  <!-- EN: Remove modifier(s) from excluded -->
+  <VESWW.RModifiers>Убрать модификаторы из исключённых</VESWW.RModifiers>
+  <!-- EN: Exclude modifier(s) -->
+  <VESWW.AModifiers>Исключить модификаторы</VESWW.AModifiers>
+  <!-- EN: Exclude certain faction(s) from waves: -->
+  <VESWW.ExcludedFaction>Исключить фракции из волн:</VESWW.ExcludedFaction>
+  <!-- EN: Exclude faction -->
+  <VESWW.AddExcludedFaction>Исключить фракцию</VESWW.AddExcludedFaction>
+  <!-- EN: Remove faction from excluded -->
+  <VESWW.RemoveExcludedFaction>Убрать фракцию из исключённых</VESWW.RemoveExcludedFaction>
+  <!-- EN: Exclude certain strategies from boss waves: -->
+  <VESWW.ExcludedStrategy>Исключить стратегии из Босс-волн:</VESWW.ExcludedStrategy>
+  <!-- EN: Exclude raid strategy -->
+  <VESWW.AddExcludedStrategy>Исключить стратегию налёта</VESWW.AddExcludedStrategy>
+  <!-- EN: Remove raid strategy from excluded -->
+  <VESWW.RemoveExcludedStrategy>Убрать стратегию из исключённых</VESWW.RemoveExcludedStrategy>
+  <!-- EN: Hide the wave counter "draggable" checkbox: -->
+  <VESWW.ShowDraggable>Скрыть счётчик волн из сдвигаемой отметки:</VESWW.ShowDraggable>
+  <!-- EN: Timer use rimworld time: -->
+  <VESWW.UseRimworldTime>Таймер использует внутриигровое время:</VESWW.UseRimworldTime>
+  <!-- EN: Show raiders pawns list and faction: -->
+  <VESWW.DontShowPawnList>Показать список налётчиков и фракций:</VESWW.DontShowPawnList>
+  <!-- EN: Reset wave counter position -->
+  <VESWW.ResetCounterPos>Сбросить положение счётчика волн</VESWW.ResetCounterPos>
+  <!-- EN: Load a save using Winston first! -->
+  <VESWW.LoadToReset>Перед использованием загрузите сохранение с Винстоном!</VESWW.LoadToReset>
+  <!-- EN: Reward drop pods also drop steel slag chunk(s) -->
+  <VESWW.DisableSteelSlagChunk>Транспортные капсулы с наградами оставляют металлолом</VESWW.DisableSteelSlagChunk>
+  <!-- EN: General -->
+  <VESWW.GS>Общие</VESWW.GS>
+  <!-- EN: Waves -->
+  <VESWW.VS>Волны</VESWW.VS>
+  <!-- EN: Modifiers -->
+  <VESWW.MS>Модификаторы</VESWW.MS>
+  <!-- EN: Wave counter -->
+  <VESWW.WCS>Счётчик волн</VESWW.WCS>
+  
+  <!-- EN: Number of days before the first wave arrive. -->
+  <VESWW.TimeBeforeFirstWaveTip>Число дней до первой волны.</VESWW.TimeBeforeFirstWaveTip>
+  <!-- EN: Number of days in between each wave. -->
+  <VESWW.TimeBetweenWavesTip>Число дней между волнами.</VESWW.TimeBetweenWavesTip>
+  <!-- EN: Maximum number of days the player have to defeat a wave. If the wave isn't defeated in this time, the next wave is prepared and no rewards are given. -->
+  <VESWW.TimeToDefeatWaveTip>Предельное количество дней, за которое игрок должен победить волну. Если волна не будет побеждена за это время, появится следующая волна, а награды за эту не будет.</VESWW.TimeToDefeatWaveTip>
+  <!-- EN: Maximum amount of points used in the raid generation. -->
+  <VESWW.MaxPointsTip>Максимальное количество очков, используемое для создания налёта.</VESWW.MaxPointsTip>
+  <!-- EN: Raid point multiplier used before the wave 20. -->
+  <VESWW.PointMultiplierBefore20Tip>Множитель очков налёта для волн до 20 волны.</VESWW.PointMultiplierBefore20Tip>
+  <!-- EN: Raid point multiplier used after the wave 20. -->
+  <VESWW.PointMultiplierAfter20Tip>Множитель очков налёта для волн после 20 волны.</VESWW.PointMultiplierAfter20Tip>
+  <!-- EN: Stats increased are: natural healing factor, global work speed, research speed and plant growth speed. -->
+  <VESWW.EnableStatsTip>Растущие характеристики: множитель заживления, общая скорость работы, скорость исследования и скорость роста растений.</VESWW.EnableStatsTip>
+  <!-- EN: With this enabled, the reward window will never be showed. You will always get a random reward. -->
+  <VESWW.RandomRewardModTip>Когда включено, окно с наградами никогда не появится. Вы всегда будете получать случайную награду.</VESWW.RandomRewardModTip>
+  <!-- EN: With this enabled, the modifier will always be hidden. You will know a modifier has been applied, but not which one. -->
+  <VESWW.MysteryModTip>Когда включено, модификатор всегда будет скрыт. Вы будете знать, что модификатор применён, но не какой именно.</VESWW.MysteryModTip>
+  <!-- EN: If disabled, you won't be able to change the counter draggabality until you reactivate this. -->
+  <VESWW.ShowDraggableTip>Когда выключено, вы не сможете перетаскивать счётчик.</VESWW.ShowDraggableTip>
+  <!-- EN: If this is enabled the timer use rimworld time instead of real life time. -->
+  <VESWW.UseRimworldTimeTip>Когда включено, используется внутриигровой таймер вместо системного.</VESWW.UseRimworldTimeTip>
 </LanguageData>

@@ -1,56 +1,87 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!-- EN: Pawns join -->
   <VSEWW_ExcellentPawnJoins.label>Поселенец</VSEWW_ExcellentPawnJoins.label>
+  <!-- EN: A group of 5 pawns worth a minimum of 175 Combat points joins the colony -->
   <VSEWW_ExcellentPawnJoins.description>К поселению присоединятся 5 персонажей стоимостью от 175 боевых очков.</VSEWW_ExcellentPawnJoins.description>
 
+  <!-- EN: Resource drop -->
   <VSEWW_ExcellentResourceDrop.label>Ресурсы</VSEWW_ExcellentResourceDrop.label>
+  <!-- EN: Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel -->
   <VSEWW_ExcellentResourceDrop.description>Грузовой контейнер, содержащий 1000 ед. древесины, 1000 стали, 60 компонентов, 20 продвинутых компонентов и 300 пластали.</VSEWW_ExcellentResourceDrop.description>
 
+  <!-- EN: Food and medicine drop -->
   <VSEWW_ExcellentFoodAndMedicineDrop.label>Еда и медикаменты</VSEWW_ExcellentFoodAndMedicineDrop.label>
+  <!-- EN: Cargo pods drop 120 survival meals, 20 glitterworld medicine and 100 medicine -->
   <VSEWW_ExcellentFoodAndMedicineDrop.description>Грузовой контейнер, содержащий 120 сухих пайков, 20 передовых медикаментов и 100 медикаментов.</VSEWW_ExcellentFoodAndMedicineDrop.description>
 
+  <!-- EN: Fuel drop -->
   <VSEWW_ExcellentFuelDrop.label>Топливо</VSEWW_ExcellentFuelDrop.label>
+  <!-- EN: Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium -->
   <VSEWW_ExcellentFuelDrop.description>Грузовой контейнер, содержащий 1000 ед. химтоплива, 1000 древесины и 400 урана.</VSEWW_ExcellentFuelDrop.description>
 
+  <!-- EN: Excellent weapons drop -->
   <VSEWW_ExcellentWeaponDrop.label>Отличное оружие</VSEWW_ExcellentWeaponDrop.label>
+  <!-- EN: Cargo pods 5 random weapons, quality is Excellent -->
   <VSEWW_ExcellentWeaponDrop.description>Грузовой контейнер, содержащий 5 случайных оружия отличного качества.</VSEWW_ExcellentWeaponDrop.description>
 
+  <!-- EN: Excellent armor drop -->
   <VSEWW_ExcellentArmorDrop.label>Отличная броня</VSEWW_ExcellentArmorDrop.label>
+  <!-- EN: Cargo pods 5 random pieces of armor, quality is Excellent -->
   <VSEWW_ExcellentArmorDrop.description>Грузовой контейнер, содержащий 5 случайных ед. брони отличного качества</VSEWW_ExcellentArmorDrop.description>
 
+  <!-- EN: Cash -->
   <VSEWW_ExcellentCashDrop.label>Деньги</VSEWW_ExcellentCashDrop.label>
+  <!-- EN: Cargo pods drop 10000 silver, 500 gold -->
   <VSEWW_ExcellentCashDrop.description>Грузовой контейнер, содержащий 10000 ед. серебра и 500 золота.</VSEWW_ExcellentCashDrop.description>
 
+  <!-- EN: Delay next wave -->
   <VSEWW_DelayBy15.label>Отложить волну</VSEWW_DelayBy15.label>
+  <!-- EN: The next wave is delayed by 15 days -->
   <VSEWW_DelayBy15.description>Следующая волна будет отложена на 15 дней.</VSEWW_DelayBy15.description>
 
+  <!-- EN: Wargs drop -->
   <VSEWW_WargDrop.label>Варг</VSEWW_WargDrop.label>
+  <!-- EN: Cargo pod drops 10 tamed wargs -->
   <VSEWW_WargDrop.description>Грузовой контейнер, содержащий 10 прирученных варгов.</VSEWW_WargDrop.description>
 
+  <!-- EN: Skill boost -->
   <VSEWW_ExcellentSkillBoost.label>Усиление навыков</VSEWW_ExcellentSkillBoost.label>
+  <!-- EN: Improve every skill of every pawn under your control by 3 -->
   <VSEWW_ExcellentSkillBoost.description>Увеличение всех навыков персонажей под вашим контролем на 3.</VSEWW_ExcellentSkillBoost.description>
 
+  <!-- EN: Research boost -->
   <VSEWW_ExcellentReseachBoost.label>Ускорение исследований</VSEWW_ExcellentReseachBoost.label>
+  <!-- EN: Instantly research 8 random research projects you meet prerequisites for -->
   <VSEWW_ExcellentReseachBoost.description>Мгновенное изучение 8 случайных доступных технологий.</VSEWW_ExcellentReseachBoost.description>
 
+  <!-- EN: Archotech artifacts drop -->
   <VSEWW_ExcellentArchotechArtifactsDrop.label>Архоартефакты</VSEWW_ExcellentArchotechArtifactsDrop.label>
+  <!-- EN: Receive 8 random archotech items (can be minified structures) -->
   <VSEWW_ExcellentArchotechArtifactsDrop.description>8 случайных архотехнологичных вещей (могут быть сложенными постройками).</VSEWW_ExcellentArchotechArtifactsDrop.description>
 
+  <!-- EN: Targeters drop -->
   <VSEWW_TargetersDrop.label>Целеуказатели</VSEWW_TargetersDrop.label>
+  <!-- EN: Receive an orbital beam targeter, orbital bombardment targeter and tornado generator -->
   <VSEWW_TargetersDrop.description>Получить целеуказатель для силового луча, целеуказатель для бомбардировки и генератор вихря.</VSEWW_TargetersDrop.description>
 
+  <!-- EN: Drugs drop -->
   <VSEWW_ExcellentDrugsDrop.label>Наркотики</VSEWW_ExcellentDrugsDrop.label>
+  <!-- EN: Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up, 200 go juice -->
   <VSEWW_ExcellentDrugsDrop.description>Получить 100 ед. амброзии, 100 психинового чая, 200 пива, 200 косяков дымолиста, 200 хлопьев психина, 200 порошка психина, 200 бодрина, 200 Go-сока.</VSEWW_ExcellentDrugsDrop.description>
 
+  <!-- EN: Prosthetics drop -->
   <VSEWW_ExcellentProstheticsDrop.label>Протезы</VSEWW_ExcellentProstheticsDrop.label>
+  <!-- EN: Cargo pod drops random 10 bionic prosthetics -->
   <VSEWW_ExcellentProstheticsDrop.description>Грузовой контейнер, содержащий 10 случайных бионических протезов.</VSEWW_ExcellentProstheticsDrop.description>
 
+  <!-- EN: Healer serum drop -->
   <VSEWW_MechSerumHealerDrop.label>Сыворотка исцеления</VSEWW_MechSerumHealerDrop.label>
+  <!-- EN: Cargo pod drops 5 Mechanoid healer serum -->
   <VSEWW_MechSerumHealerDrop.description>Грузовой контейнер, содержащий 5 ед. сыворотки исцеления.</VSEWW_MechSerumHealerDrop.description>
 
+  <!-- EN: Random Legendary reward -->
   <VSEWW_RandomLegendaryDrop.label>Случайная легендарная награда</VSEWW_RandomLegendaryDrop.label>
+  <!-- EN: Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward -->
   <VSEWW_RandomLegendaryDrop.description>Вместо конкретной награды «отличного» уровня можно получить случайную награду «легендарного» уровня.</VSEWW_RandomLegendaryDrop.description>
-
-
 </LanguageData>
