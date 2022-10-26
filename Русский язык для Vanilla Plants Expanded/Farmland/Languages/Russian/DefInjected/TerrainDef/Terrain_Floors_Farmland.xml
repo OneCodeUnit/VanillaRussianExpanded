@@ -1,8 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: farmland -->
   <Farmland.label>пашня</Farmland.label>
-  <Farmland.tools.dirt.label>грязь</Farmland.tools.dirt.label>
+  <!-- EN: dirt -->
+  <Farmland.tools.0.label>грязь</Farmland.tools.0.label>
 
+  <!-- EN: rich farmland -->
   <FarmlandRich.label>плодородная пашня</FarmlandRich.label>
-  <FarmlandRich.tools.dirt.label>грязь</FarmlandRich.tools.dirt.label>
+  <!-- EN: dirt -->
+  <FarmlandRich.tools.0.label>грязь</FarmlandRich.tools.0.label>
+
+  <!-- EN: poor farmland -->
+  <FarmlandDry.label>бедная пашня</FarmlandDry.label>
+  <!-- EN: dirt -->
+  <FarmlandDry.tools.0.label>грязь</FarmlandDry.tools.0.label>
 </LanguageData>

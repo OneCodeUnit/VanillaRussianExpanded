@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<VPEAutoPlow.ModName>Vanilla Plants Expanded - Auto Plow</VPEAutoPlow.ModName>
-	<VPEAutoPlow.CompatLabel>Отключить обеспечение совместимости</VPEAutoPlow.CompatLabel>
-	<VPEAutoPlow.CompatTooltip>Если вы сохраняли игру с модом для версии ниже 1.1, отключите этот параметр. Включите, если хотите отключить обеспечение совместимости.</VPEAutoPlow.CompatTooltip>
-	<VPEAutoPlow.allowAutoPlow>Разрешить автоматически вспахивать почву</VPEAutoPlow.allowAutoPlow>
-	<VPEAutoPlow.allowAutoPlowDesc>Разрешить автоматически вспахивать после сбора урожая</VPEAutoPlow.allowAutoPlowDesc>
+  <!-- EN: Vanilla Plants Expanded - Auto Plow -->
+  <VPEAutoPlow.ModName>Vanilla Plants Expanded - Auto Plow</VPEAutoPlow.ModName>
+  <!-- EN: Disable compatibility patcher -->
+  <VPEAutoPlow.CompatLabel>Отключить обеспечение совместимости</VPEAutoPlow.CompatLabel>
+  <!-- EN: If you saved your game with mod version below 1.1, disable this setting to let the patcher do its work. Switch it on if you want to deactivate it. -->
+  <VPEAutoPlow.CompatTooltip>Если вы сохраняли игру с модом для версии ниже 1.1, отключите этот параметр. Включите, если хотите отключить обеспечение совместимости.</VPEAutoPlow.CompatTooltip>
+  <!-- EN: Allow Auto Plow -->
+  <VPEAutoPlow.allowAutoPlow>Автоматически вспахивать почву</VPEAutoPlow.allowAutoPlow>
+  <!-- EN: Allow Auto Plowing after harvest -->
+  <VPEAutoPlow.allowAutoPlowDesc>Автоматически вспахивать после сбора урожая</VPEAutoPlow.allowAutoPlowDesc>
 </LanguageData>

@@ -1,28 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Aquatic Growing Zone -->
   <VCE_AquaticGrowingZone>Посадки на воде</VCE_AquaticGrowingZone>
+  <!-- EN: Create a zone where your colonists will try to grow aquatic plants. Aquatic plants ignore terrain fertility but take a very long time to sow and harvest.\n\nThese zones can't be placed on oceanic (salty) water. -->
   <VCE_AquaticGrowingZoneDesc>Создать область, где ваши поселенцы будут выращивать растения на воде. Растения в этой области игнорируют требования к плодородности почвы, но на их посев и сбор уходит больше времени.\n\nЭти области не могут быть размещены на морской (солёной) воде.</VCE_AquaticGrowingZoneDesc>
 
+  <!-- EN: Sand Growing Zone -->
   <VCE_SandyGrowingZone>Посадки на песке</VCE_SandyGrowingZone>
+  <!-- EN: Create a zone where your colonists will try to grow sandy terrain plants. Sand plants ignore terrain fertility but take a very long time to sow and harvest. -->
   <VCE_SandyGrowingZoneDesc>Создать область, где ваши поселенцы будут выращивать растения на на песке. Растения в этой области игнорируют требования к плодородности почвы, но на их посев и сбор уходит больше времени.</VCE_SandyGrowingZoneDesc>
 
+  <!-- EN: Not in equatorial region (in this planet, below {0} latitude). Growing normally. -->
   <VCE_NotInEquator>Растение не в экваториальной зоне (на этой планете ниже {0} широты). Скорость роста — обычная.</VCE_NotInEquator>
+  <!-- EN: In equatorial region, growing 30% faster. -->
   <VCE_InEquator>Растение в экваториальной зоне. Скорость роста: +30%.</VCE_InEquator>
 
+  <!-- EN: This plant needs to grow in shade: outside, but under a roof. -->
   <VCE_NeedsShade>Растение должно располагаться в тени. Снаружи, но под крышей.</VCE_NeedsShade>
 
+  <!-- EN: Apiary found nearby -->
   <VCE_Pollinated>Улей обнаружен</VCE_Pollinated>
+  <!-- EN: No apiary found in a 6 tiles radius (calculated on sowing) -->
   <VCE_NotPollinated>В радиусе 6 клеток отсутствуют ульи (рассчитывается при посеве)</VCE_NotPollinated>
 
+  <!-- EN: Carrots planted nearby: {0}/100 -->
   <VCE_CarrotsNearby>Моркови поблизости: {0}/100</VCE_CarrotsNearby>
+  <!-- EN: Green beans planted nearby: {0}/100 -->
   <VCE_BeansNearby>Зелёной фасоли поблизости: {0}/100</VCE_BeansNearby>
 
+  <!-- EN: Growth reduced due to non-rocky terrain -->
   <VCE_StuntedGrowthFertility>Скорость роста уменьшена из-за некаменистой почвы</VCE_StuntedGrowthFertility>
+  <!-- EN: Growth impossible due to too fertile terrain -->
   <VCE_StoppedGrowthFertility>Рост невозможен из-за чрезмерно плодородной почвы</VCE_StoppedGrowthFertility>
 
+  <!-- EN: A body of water nearby is impeding this plant's growth -->
   <VCE_WaterNearby>Поблизости обнаружен водоём, мешающий росту растения.</VCE_WaterNearby>
+  <!-- EN: Lack of a body of water nearby is impeding this plant's growth -->
   <VCE_NoWaterNearby>Отсутствие водоёма поблизости не даёт растению расти.</VCE_NoWaterNearby>
 
+  <!-- EN: Too far away from the sea, no extra growth bonus -->
   <VCE_NoSeaTilesNearby>Растение не получает бонуса к скорости роста, так как находится слишком далеко от моря.</VCE_NoSeaTilesNearby>
+  <!-- EN: {0} sea tiles nearby, providing {0}% growth bonus -->
   <VCE_SeaTilesNearby>Поблизости находится {0} клеток моря, что даёт {0}% бонус к скорости роста.</VCE_SeaTilesNearby>
 </LanguageData>
