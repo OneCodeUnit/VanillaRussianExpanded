@@ -1,30 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Русский язык для Vanilla Weapons Expanded</name>
-	<author>OliveWizzard</author>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-		<li>1.2</li>
-		<li>1.3</li>
+  <name>Русский язык для Vanilla Weapons Expanded</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
   </supportedVersions>
-	<packageId>RU.VanillaExpanded.VWE</packageId>
-	<description>Перевод на русский язык мода Vanilla Weapons Expanded и всех его дополнений (наличие дополнений не является обязательным).</description>
-	<loadAfter>
-		<li>VanillaExpanded.VWE</li>
-		<li>VanillaExpanded.VWEQ</li>
-		<li>VanillaExpanded.VWEL</li>
-		<li>VanillaExpanded.VWEG</li>
-		<li>VanillaExpanded.VWEHW</li>
-		<li>VanillaExpanded.VWEC</li>
-		<li>VanillaExpanded.VWEMS</li>
-		<li>VanillaExpanded.VWENL</li>
-		<li>VanillaExpanded.VWEFT</li>
-		<li>VanillaExpanded.VWETB</li>
-		<li>VanillaExpanded.VPersonaWeaponsE</li>
-		<li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
-		<li>vanillaexpanded.achievements</li>
-		<li>legodude17.heavyweaponsreloading</li>
-		<li>legodude17.rocketreloading</li>
-	</loadAfter>
+  <packageId>OW.RU.Weapons</packageId>
+  <description>Перевод на русский язык мода Vanilla Weapons Expanded и всех его модулей.</description>
+  <loadAfter>
+    <li>VanillaExpanded.VWE</li>
+    <li>VanillaExpanded.VWEQ</li>
+    <li>VanillaExpanded.VWEL</li>
+    <li>VanillaExpanded.VWEG</li>
+    <li>VanillaExpanded.VWEHW</li>
+    <li>VanillaExpanded.VWEC</li>
+    <li>VanillaExpanded.VWEMS</li>
+    <li>VanillaExpanded.VWENL</li>
+    <li>VanillaExpanded.VWEFT</li>
+    <li>VanillaExpanded.VWETB</li>
+    <li>VanillaExpanded.VPersonaWeaponsE</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
+    <li>vanillaexpanded.achievements</li>
+    <li>legodude17.heavyweaponsreloading</li>
+    <li>legodude17.rocketreloading</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>RU.Vanilla.Weapons.Expanded.Laser</li>
+    <li>RU.Vanilla.Weapons.ExpandedQuickdraw</li>
+    <li>Am.Rus.VWE</li>
+  </incompatibleWith>
 </ModMetaData>
