@@ -3165,13 +3165,12 @@
 
 
   <!-- 26 -->
-<!--
-  EN: insectoid supremacy
+  <!-- EN: insectoid supremacy-->
   <VME_InsectoidSupremacy.label>примат инсектоидов</VME_InsectoidSupremacy.label>
-  EN: The labyrinthine tunnels of the underdark ungulate with a seemingly limitless hive of relentless and brutal insects, we should not fear them, we should revere them.
+  <!-- EN: The labyrinthine tunnels of the underdark ungulate with a seemingly limitless hive of relentless and brutal insects, we should not fear them, we should revere them.-->
   <VME_InsectoidSupremacy.description>Лабиринты подземных тоннелей в кажущихся безграничными ульях, полных безжалостных и жестоких насекомых. Мы не должны их бояться, мы должны их уважать.</VME_InsectoidSupremacy.description>
 
-  EN:
+  <!-- EN:
     <li>memeAdjective->insectoid</li>
     <li>memeAdjective->chitinous</li>
     <li>memeAdjective->insectile</li>
@@ -3179,7 +3178,7 @@
     <li>memeCreed->insectoids</li>
     <li>memeHyphenPrefix->bug</li>
     <li>memeHyphenPrefix->fly</li>
-    <li>memeConcept->insects</li>
+    <li>memeConcept->insects</li> -->
   
   <VME_InsectoidSupremacy.generalRules.rulesStrings>
     <li>memeAdjective->инсектоидный</li>
@@ -3192,77 +3191,74 @@
     <li>memeConcept->инсектоидов</li>
   </VME_InsectoidSupremacy.generalRules.rulesStrings>
 
-  EN:
-    <li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] visage is otherworldly: a moving mass of chitin-covered flesh, thousands of small insects constantly darting in and out of its armoured plates."</li>
-    <li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] commanded [deity0_possessive] followers: "respect and revere the insectoids, for they are my children and they were created in my own image".</li>
-
+  <!-- EN:
+		<li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] visage is otherworldly: a moving mass of chitin-covered flesh, thousands of small insects constantly darting in and out of its armoured plates."</li>
+		<li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] commanded [deity0_possessive] followers: "respect and revere the insectoids, for they are my children and they were created in my own image".</li>
+		
     <li>intro(tag=meme_InsectoidSupremacy)           ->On the [place_summary] [place_name], the [memberNamePlural] built a great human hive, a testament to the glory of [deity0_name].</li>
-    <li>conflict(tag=meme_InsectoidSupremacy)        ->An evil [foeLeader] despised [foeLeader_possessive] neighbours, and wanted to return to the ancient times when men lived apart from each other, isolated.</li>
-    <li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], the Chosen of [deity0_name], heard of the apostasy of the [foeLeader], and sought to convince [foeLeader_objective] of the error of [foeLeader_possessive] isolationist ways.</li>
-    <li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] extorted the virtues of [deity0_name]'s swarm cities, and the [foeLeader] was convinced of the truth behind [founder_possessive] words.</li>
-
+		<li>conflict(tag=meme_InsectoidSupremacy)        ->An evil [foeLeader] despised [foeLeader_possessive] neighbours, and wanted to return to the ancient times when men lived apart from each other, isolated.</li>
+		<li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], the Chosen of [deity0_name], heard of the apostasy of the [foeLeader], and sought to convince [foeLeader_objective] of the error of [foeLeader_possessive] isolationist ways.</li>
+		<li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] extorted the virtues of [deity0_name]'s swarm cities, and the [foeLeader] was convinced of the truth behind [founder_possessive] words.</li>
+					
     <li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] was a biologist in one of the Glitterworlds. [founder_pronoun] spent [founder_possessive] whole youth studying insectoids, and came to the conclusion that they are a perfect lifeform. Adaptive, strong and resilient.</li>
-    <li>story(uses=1,tag=meme_InsectoidSupremacy)    ->Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</li>
-
+		<li>story(uses=1,tag=meme_InsectoidSupremacy)    ->Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</li>
+					
     <li>lessonIntro(tag=meme_InsectoidSupremacy)         ->My experiments with insectoids were extensive and thorough. After many years of toiling I came to the conclusion that</li>
-    <li>lesson(tag=meme_InsectoidSupremacy)              ->insectoids are the perfect lifeform, the next stage of evolution</li>
-    <li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Insectoids are adaptive, strong and resilient. They are simply superior to us humans in all respects.</li>
-
+		<li>lesson(tag=meme_InsectoidSupremacy)              ->insectoids are the perfect lifeform, the next stage of evolution</li>
+		<li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Insectoids are adaptive, strong and resilient. They are simply superior to us humans in all respects.</li>
+					
     <li>archistBasis(tag=meme_InsectoidSupremacy)    ->In their infinite wisdom, the archotechs inspired humans to bio-engineer the perfect lifeform: insectoids.</li>
-    <li>archistFact(tag=meme_InsectoidSupremacy)     ->Insectoids show us that biological evolution is just another step on the path to transcendence.</li>
-    <li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], only those who properly revere the perfect forms of the insectoids will be chosen by the archotechs.</li>
+		<li>archistFact(tag=meme_InsectoidSupremacy)     ->Insectoids show us that biological evolution is just another step on the path to transcendence.</li>
+		<li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], only those who properly revere the perfect forms of the insectoids will be chosen by the archotechs.</li>
 
-    <li>animistBasis(tag=meme_InsectoidSupremacy)    ->Among the animal spirits, those who watch over the insectoids are the most powerful.</li>
-    <li>animistFact(tag=meme_InsectoidSupremacy)     ->Insectoids are perfect creatures. Adaptive, strong and resilient. They are simply superior to us humans in all respects, and the spirits that govern them reign supreme.</li>
-    <li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] only those who properly revere the perfect forms of the insectoids can truly appease the spirits.</li>
-
-    <li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] we will become like perfect, holy insects. I, for one, welcome our new insect overlords.</li>
-
-    <li>chthonianProphecy(tag=meme_InsectoidSupremacy)->We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful insectoids can we hope to stand a chance against them.</li>
-
-    <li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Such occult knowledge can be sought in the mysterious fractal patterns of an insectoid carapace. They are the perfect lifeform, the next stage of evolution.</li>
-
+		<li>animistBasis(tag=meme_InsectoidSupremacy)    ->Among the animal spirits, those who watch over the insectoids are the most powerful.</li>
+		<li>animistFact(tag=meme_InsectoidSupremacy)     ->Insectoids are perfect creatures. Adaptive, strong and resilient. They are simply superior to us humans in all respects, and the spirits that govern them reign supreme.</li>
+		<li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] only those who properly revere the perfect forms of the insectoids can truly appease the spirits.</li>
+    
+		<li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] we will become like perfect, holy insects. I, for one, welcome our new insect overlords.</li>
+		<li>chthonianProphecy(tag=meme_InsectoidSupremacy)->We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful insectoids can we hope to stand a chance against them.</li>
+		<li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Such occult knowledge can be sought in the mysterious fractal patterns of an insectoid carapace. They are the perfect lifeform, the next stage of evolution.</li>
+		
     <li>eschatologismFact(tag=meme_InsectoidSupremacy)->Like a devouring swarm of ravenous insects we will descend upon our enemies, and leave only their bones, devoid of flesh.</li>
+		<li>introMemo(tag=meme_InsectoidSupremacy)->Concerning the constant reports about cockroaches in the cafeteria, need I remind you that cockroaches are living creatures, as worthy of respect as you and I? I will not allow a single more furtive call to a pest control company!</li>
+		<li>alienistProphecy(tag=meme_InsectoidSupremacy)->Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</li> -->
 
-    <li>introMemo(tag=meme_InsectoidSupremacy)->Concerning the constant reports about cockroaches in the cafeteria, need I remind you that cockroaches are living creatures, as worthy of respect as you and I? I will not allow a single more furtive call to a pest control company!</li>
-
-    <li>alienistProphecy(tag=meme_InsectoidSupremacy)->Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</li>
-  
   <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] имеет загадочный облик: движущаяся масса покрытой хитином плоти, тысячи мелких насекомых, постоянно шныряющих внутри и снаружи ее бронированных пластин.</li>
-    <li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] [deity0_commanded] своим последователям: «Уважайте и почитайте инсектоидов, ибо они мои дети,созданые по моему образу и подобию».</li>
-
-    <li>intro(tag=meme_InsectoidSupremacy)           ->В месте, что зовётся [place_summary] [place_name], [memberNamePlural] построили великий человеческий улей, свидетельство славы божества по имени [deity0_name].</li>
-    <li>conflict(tag=meme_InsectoidSupremacy)        ->[foe_evil] [foeLeader] [foe_despised] своих соседей и [foe_wanted] вернуться в древние времена, когда люди жили отдельно друг от друга, разрозненные.</li>
-    <li>founderJoin(tag=meme_InsectoidSupremacy)     -[founderName], вскоре после того, как [deity0_name] [deity0_Chosen] [founder_Chosen] об отступничестве, которое [foe_committed] [foeLeader], и [founder_sought] убедить [foeLeader_possessive] в ошибочности изоляционизма.</li>
-    <li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] [founder_extorted] достоинства городов роя, которым [deity0_patronized] [deity0_name], и [foeLeader] [foe_convinced] в правдивости [founder_possessive] слов.</li>
-
-    <li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] [founder_was] биологом в одном из утопических миров. [founder_pronoun] [founder_spent] всю юность, изучая инсектоидов, и [founder_came] к выводу, что они являются идеальной формой жизни. Адаптивные, сильные и вынослиыве.</li>
-    <li>story(uses=1,tag=meme_InsectoidSupremacy)    ->В стремлении продолжить свои исследования [founderName] [founder_assembled] команду учёных и [founder_chartered] корабль для путешествия в окраинные миры, где [founder_possessive] эксперименты не вызывали бы страха и подозрений.</li>
-
-    <li>lessonIntro(tag=meme_InsectoidSupremacy)         ->Мои эксперименты с инсектоидами были обширны и тщательны. После многих лет труда я пришел к выводу, что</li>
-    <li>lesson(tag=meme_InsectoidSupremacy)              ->инсектоиды - идеальная форма жизни, следующий этап эволюции </li>
-    <li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Инсектоиды адаптивны, сильны и выносливы. Они просто превосходят нас, людей, во всех отношениях.</li>
-
-    <li>archistBasis(tag=meme_InsectoidSupremacy)    ->В своей бесконечной мудрости архотеки вдохновили людей на биоинженерию идеальной формы жизни: инсектоидов.</li>
-    <li>archistFact(tag=meme_InsectoidSupremacy)     ->Насекомые показывают нам, что биологическая эволюция - это всего лишь еще один шаг на пути к трансцендентности.</li>
-    <li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], только те, кто должным образом чтит совершенные формы инсектоидов, будут выбраны архотеками.</li>
-
-    <li>animistBasis(tag=meme_InsectoidSupremacy)    ->Среди духов животных самыми могущественными являются те, кто охраняет инсектоидов.</li>
-    <li>animistFact(tag=meme_InsectoidSupremacy)     ->Инсектоиды — совершенные существа. Адаптивные, сильные и вынослиые. Они превосходят нас, людей, во всех отношениях, и духи, которые правят ими, царят безраздельно.</li>
-    <li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] только те, кто должным образом чтит совершенные формы инсектоидов, могут по-настоящему умилостивить духов.</li>
-
-    <li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] мы станем подобны совершенным, святым инсектоидам. Я, за одно, поприветствую наших новых инсектоидов-повелителей.</li>
-
-    <li>chthonianProphecy(tag=meme_InsectoidSupremacy)->Мы — ничто перед этими жуткими сущностями, и только объединив наши тела с телами самых могущественных инсектоидов, мы можем надеяться противостоять им.</li>
-
-    <li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Такое оккультное знание можно найти в таинственных фрактальных узорах панцирей инсектоидов. Они являются совершенной формой жизни, следующей стадией эволюции.</li>
-
-    <li>eschatologismFact(tag=meme_InsectoidSupremacy)->Подобно всепожирающему рою прожорливых инсектоидов, мы обрушимся на наших врагов и оставим от них только кости, лишённые плоти.</li>
-
-    <li>introMemo(tag=meme_InsectoidSupremacy)->Что касается постоянных сообщений о тараканах в кафетерии, нужно ли мне напоминать вам, что тараканы — это живые существа, так же достойные уважения, как вы и я? Я не допущу больше ни одного тайного звонка в компанию по борьбе с вредителями!</li>
-
-    <li>alienistProphecy(tag=meme_InsectoidSupremacy)->Среди этих генетически модифицированных животных находится линия генов инсектоидов, которая была разработана в Sorne(???) и принесла нам идеальную форму жизни.</li>
+	<!-- theist myth -->
+	<li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] имеет загадочный облик: движущаяся масса покрытой хитином плоти, тысячи мелких насекомых, постоянно шныряющих внутри и снаружи ее бронированных пластин.</li>
+	<li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] [deity0_commanded] своим последователям: «Уважайте и почитайте инсектоидов, ибо они мои дети,созданые по моему образу и подобию».</li>
+	<!-- theist founder -->
+	<li>intro(tag=meme_InsectoidSupremacy)           ->В месте, что зовётся [place_summary] [place_name], [memberNamePlural] построили великий человеческий улей, свидетельство славы божества по имени [deity0_name].</li>
+	<li>conflict(tag=meme_InsectoidSupremacy)        ->[foe_evil] [foeLeader] [foe_despised] своих соседей и [foe_wanted] вернуться в древние времена, когда люди жили отдельно друг от друга, разрозненные.</li>
+	<li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], вскоре после того, как [deity0_name] [deity0_Chosen] [founder_Chosen] об отступничестве, которое [foe_committed] [foeLeader], и [founder_sought] убедить [foeLeader_possessive] в ошибочности изоляционизма.</li>
+	<li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] [founder_extorted] достоинства городов роя, которым [deity0_patronized] [deity0_name], и [foeLeader] [foe_convinced] в правдивости [founder_possessive] слов.</li>
+	<!-- ideological founder -->
+	<li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] [founder_was] биологом в одном из утопических миров. [founder_pronoun] [founder_spent] всю юность, изучая инсектоидов, и [founder_came] к выводу, что они являются идеальной формой жизни. Адаптивные, сильные и вынослиыве.</li>
+	<li>story(uses=1,tag=meme_InsectoidSupremacy)    ->В стремлении продолжить свои исследования [founderName] [founder_assembled] команду учёных и [founder_chartered] корабль для путешествия в окраинные миры, где [founder_possessive] эксперименты не вызывали бы страха и подозрений.</li>
+	<!-- ideological lesson -->
+	<li>lessonIntro(tag=meme_InsectoidSupremacy)         ->Мои эксперименты с инсектоидами были обширны и тщательны. После многих лет труда я пришел к выводу, что</li>
+	<li>lesson(tag=meme_InsectoidSupremacy)              ->инсектоиды - идеальная форма жизни, следующий этап эволюции </li>
+	<li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Инсектоиды адаптивны, сильны и выносливы. Они просто превосходят нас, людей, во всех отношениях.</li>
+	<!-- archist -->
+	<li>archistBasis(tag=meme_InsectoidSupremacy)    ->В своей бесконечной мудрости архотеки вдохновили людей на биоинженерию идеальной формы жизни: инсектоидов.</li>
+	<li>archistFact(tag=meme_InsectoidSupremacy)     ->Насекомые показывают нам, что биологическая эволюция - это всего лишь еще один шаг на пути к трансцендентности.</li>
+	<li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], только те, кто должным образом чтит совершенные формы инсектоидов, будут выбраны архотеками.</li>
+	<!-- animist -->
+	<li>animistBasis(tag=meme_InsectoidSupremacy)    ->Среди духов животных самыми могущественными являются те, кто охраняет инсектоидов.</li>
+	<li>animistFact(tag=meme_InsectoidSupremacy)     ->Инсектоиды — совершенные существа. Адаптивные, сильные и вынослиые. Они превосходят нас, людей, во всех отношениях, и духи, которые правят ими, царят безраздельно.</li>
+	<li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] только те, кто должным образом чтит совершенные формы инсектоидов, могут по-настоящему умилостивить духов.</li>
+	<!-- serketist -->
+	<li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] мы станем подобны совершенным, святым инсектоидам. Я, за одно, поприветствую наших новых инсектоидов-повелителей.</li>
+	<!-- eldritch / chthonian -->
+	<li>chthonianProphecy(tag=meme_InsectoidSupremacy)->Мы — ничто перед этими жуткими сущностями, и только объединив наши тела с телами самых могущественных инсектоидов, мы можем надеяться противостоять им.</li>
+	<!-- esoteric -->
+	<li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Такое оккультное знание можно найти в таинственных фрактальных узорах панцирей инсектоидов. Они являются совершенной формой жизни, следующей стадией эволюции.</li>
+	<!-- eschatologism -->
+	<li>eschatologismFact(tag=meme_InsectoidSupremacy)->Подобно всепожирающему рою прожорливых инсектоидов, мы обрушимся на наших врагов и оставим от них только кости, лишённые плоти.</li>
+	<!-- corporate -->
+	<li>introMemo(tag=meme_InsectoidSupremacy)->Что касается постоянных сообщений о тараканах в кафетерии, нужно ли мне напоминать вам, что тараканы — это живые существа, так же достойные уважения, как вы и я? Я не допущу больше ни одного тайного звонка в компанию по борьбе с вредителями!</li>
+	<!-- alienist -->
+	<li>alienistProphecy(tag=meme_InsectoidSupremacy)->Среди этих генетически модифицированных животных находится линия генов инсектоидов, которая была разработана в Sorne(???) и принесла нам идеальную форму жизни.</li>
 
     <li>deity0_commanded(deity0_gender==None)->повелело</li>
     <li>deity0_commanded(deity0_gender==Male)->повелел</li>
@@ -3305,15 +3301,14 @@
     <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
   </VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
 
-  EN: Insectoid
+  <!-- EN: Insectoid -->
   <VME_InsectoidSupremacy.symbolPacks.0.ideoName>Инсектоид</VME_InsectoidSupremacy.symbolPacks.0.ideoName>
-  EN: insectoids
+  <!-- EN: insectoids -->
   <VME_InsectoidSupremacy.symbolPacks.0.theme>инсектоидов</VME_InsectoidSupremacy.symbolPacks.0.theme>
-  EN: insectoid
+  <!-- EN: insectoid -->
   <VME_InsectoidSupremacy.symbolPacks.0.adjective>инсектоидный</VME_InsectoidSupremacy.symbolPacks.0.adjective>
-  EN: insect worshipper
+  <!-- EN: insect worshipper -->
   <VME_InsectoidSupremacy.symbolPacks.0.member>насекомопоклонник</VME_InsectoidSupremacy.symbolPacks.0.member>
--->
 
   <!-- 27 -->
 
