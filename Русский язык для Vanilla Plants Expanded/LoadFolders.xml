@@ -18,6 +18,7 @@
     <li>Common</li>
     <li IfModActive="VanillaExpanded.VPlantsESucculents">Succulents</li>
     <li IfModActive="LadyCookie.Farmland">Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">Soil</li>
     <li IfModActive="Archoran.Utils.VPEAutoPlow">AutoPlow</li>
     <li IfModActive="VanillaExpanded.VPlantsEMore">More</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Ideology</li>
@@ -29,6 +30,7 @@
     <li>Common</li>
     <li IfModActive="VanillaExpanded.VPlantsESucculents">Succulents</li>
     <li IfModActive="LadyCookie.Farmland">Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">Soil</li>
     <li IfModActive="Archoran.Utils.VPEAutoPlow">AutoPlow</li>
     <li IfModActive="VanillaExpanded.VPlantsEMore">More</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Ideology</li>
