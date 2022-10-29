@@ -197,18 +197,18 @@
     <li>intro(tag=meme_Astrology)->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], чтобы каждый мог взглянуть на звёздное небо.</li>
     <li>conflict(tag=meme_Astrology)->Трус [foeLeader] стремился отрицать нашу веру [deity0_name], он пытался заслонить небосвод, чтобы мы не смогли наблюдать за звёздами.</li>
     <li>founderJoin(tag=meme_Astrology)->[deity0_name] благословенный [place_job] под названием [founderName] с [foeLeader_possessive] непоколебимой решимостью, и тогда же был создан зодиакальный знак.</li>
-    <li>victory(tag=meme_Astrology) ->[founderName] прочитал астрологические предсказания[foeSoldiers] и использывал их, чтобы убедить их в силе [deity0_name].</li>
+    <li>victory(tag=meme_Astrology) ->[founderName] прочитал астрологические предсказания[foeSoldiers] и использовал их, чтобы убедить их в силе [deity0_name].</li>
 
-    <li>setup(tag=meme_Astrology)->Наш основатель [founderName] был хороим астрологом, он мог предсказать судьбу последователей [founder_possessive], путешествуя между городами.</li>
+    <li>setup(tag=meme_Astrology)->Наш основатель [founderName] был хорошим астрологом, он мог предсказать судьбу последователей [founder_possessive], путешествуя между городами.</li>
     <li>story(uses=1,tag=meme_Astrology)->Верующие распространяли знания о мудрости, которые смогли распознать в движении звезд.</li>
 
     <li>lessonIntro(tag=meme_Astrology)->За все годы наблюдений за звездами я усвоил один урок, самый дорогой урок:</li>
     <li>lesson(tag=meme_Astrology)->наши зодиакальные знаки сопровождают нас на протяжении всей жизни.</li>
-    <li>lessonReinforcement(tag=meme_Astrology) ->Это факт, который мы должны распространять, ибо сюдьба наша отражается на небесах.</li>
+    <li>lessonReinforcement(tag=meme_Astrology) ->Это факт, который мы должны распространять, ибо судьба наша отражается на небесах.</li>
 
     <li>archistBasis(tag=meme_Astrology)->Архотеки говорят нам о своем присутствии с неба, а мысленно они показали нам, что в движении небесных тел скрываются великие знания.</li>
     <li>archistFact(tag=meme_Astrology)->Архотеки мудры сверх всякой меры, и они скрыли огромные знания о звездах.</li>
-    <li>archistProphecy(tag=meme_Astrology)->[inTheEnd], Арохотеки расскажут свою последнюю мудрость обладателю [relic0_name]. Только тот, кто обучен искусству Зодиака, может усвоить их учение.</li>
+    <li>archistProphecy(tag=meme_Astrology)->[inTheEnd], Архотеки расскажут свою последнюю мудрость обладателю [relic0_name]. Только тот, кто обучен искусству Зодиака, может усвоить их учение.</li>
 
     <li>animistFact(tag=meme_Astrology)     ->Духи хотят чтобы о них знали, и они проявляют себя не только через земных существ, но и через небеса.</li>
 
@@ -466,7 +466,7 @@
   <!-- EN: gestalt -->
   <VME_Gestalt.label>единство</VME_Gestalt.label>
   <!-- EN: There shouldn't even be such a thing as individualism. By acting in perfect synchrony, our society will be more than the sum of its parts. -->
-  <VME_Gestalt.description>Само существование индивидуализма недопустимо. Только действуя совершенно синхронно, наше общество станет чем-то большим, чем просто суммоа составных частей.</VME_Gestalt.description>
+  <VME_Gestalt.description>Само существование индивидуализма недопустимо. Только действуя совершенно синхронно, наше общество станет чем-то большим, чем просто сумма составных частей.</VME_Gestalt.description>
 
   <!-- EN:
     <li>memeAdjective->unified</li>
@@ -531,10 +531,10 @@
     <li>creation(tag=meme_Gestalt)        ->[deity0_name] превратил всех мужчин и женщин в единое сознание, и только по нашей глупости мы разделились.</li>
     <li>episode(uses=1,tag=meme_Gestalt)  ->[deity0_name] сказал всем: "Единственная граница, которая когда-либо существовала - это индивидуальность.Сказало [deity0_name]".</li>
 
-    <li>intro(tag=meme_Gestalt)           ->Люди [place_summary] [place_name00] работали вместе в унисон, и постороили великолепный [altarName] чтобы отдат честь [deity0_name]. Они узнали, что все сознание едино, разделено лишь тонкой завесой физического мира.</li>
+    <li>intro(tag=meme_Gestalt)           ->Люди [place_summary] [place_name00] работали вместе в унисон, и построили великолепный [altarName] чтобы отдать честь [deity0_name]. Они узнали, что все сознание едино, разделено лишь тонкой завесой физического мира.</li>
     <li>conflict(tag=meme_Gestalt)        ->[foeLeader] не смирился с единством [memberNamePlural], и послал [foeLeader_possessive] [foeSoldiers] к [place_community] чтобы уничтожить наше коллективное сознание.</li>
-    <li>founderJoin(tag=meme_Gestalt)     ->[place_job] по имени [founderName] пригнул [founder_objective] в огонь, чтобы выралить протест [foeLeader]. [founderName] сгорел заживо в пламени, но это не имело значения, ибо он был лишь винтиком в вечном механизме, которым является [memberNamePlural].</li>
-    <li>victory(tag=meme_Gestalt)         ->Действия [founderName] объединили людей. Действуя как единый организм, они ворвались в дом [foeLeader]. [foeSoldiers]  ничего не смогли сделать против идеального механизма, и [foeLeader] был безжалосто убит.</li>
+    <li>founderJoin(tag=meme_Gestalt)     ->[place_job] по имени [founderName] пригнул [founder_objective] в огонь, чтобы выразить протест [foeLeader]. [founderName] сгорел заживо в пламени, но это не имело значения, ибо он был лишь винтиком в вечном механизме, которым является [memberNamePlural].</li>
+    <li>victory(tag=meme_Gestalt)         ->Действия [founderName] объединили людей. Действуя как единый организм, они ворвались в дом [foeLeader]. [foeSoldiers]  ничего не смогли сделать против идеального механизма, и [foeLeader] был безжалостно убит.</li>
 
     <li>setup(tag=meme_Gestalt)           ->В мире, где каждый сам за себя, [founderName] говорил одну истину: "Вы не отдельные люди, вы - часть большого организма."</li>
     <li>story(uses=1,tag=meme_Gestalt)    ->[founderName] Научили нас простирать своё сознание наружу, за пределы телесной оболочки, осознавать существование "Я" как группы и "Я" как всего человечества. Цели, которые ставит перед собой группа и вся раса целиком - находятся за пределами обычного понимания и достичь их - значит достичь просветления.</li>
@@ -565,7 +565,7 @@
   <!-- EN: gestalt -->
   <VME_Gestalt.symbolPacks.0.ideoName>Единизм</VME_Gestalt.symbolPacks.0.ideoName>
   <!-- EN: hive mind -->
-  <VME_Gestalt.symbolPacks.0.theme>единомыслящия</VME_Gestalt.symbolPacks.0.theme>
+  <VME_Gestalt.symbolPacks.0.theme>единомыслящая</VME_Gestalt.symbolPacks.0.theme>
   <!-- EN: gestalt -->
   <VME_Gestalt.symbolPacks.0.adjective>единый</VME_Gestalt.symbolPacks.0.adjective>
    <!-- EN: extension -->
@@ -654,10 +654,10 @@
     <li>alienistProphecy(tag=meme_Fleshcrafting)->All these wayward creations of humanity provide us with an infinite bounty of flesh for our experiments.</li>
   -->
   <VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Fleshcrafting)        ->[deity0_name] даровал нам знание о создании плоти, чтобы мы могли использовать его для улучшения себя в образ совершенствия [deity0_possessive].</li>
+    <li>creation(tag=meme_Fleshcrafting)        ->[deity0_name] даровал нам знание о создании плоти, чтобы мы могли использовать его для улучшения себя в образ совершенствования [deity0_possessive].</li>
     <li>episode(uses=1,tag=meme_Fleshcrafting)  ->Человеческие био-формирователи изучали работы [deity0_name], которые радовали [deity0_objective].</li>
 
-    <li>intro(tag=meme_Fleshcrafting)           ->На [place_summary] [place_name] [memberNamePlural] нашел слова о [deity0_name],вырезаные на мутировавшей плоти неизведанного гигансткого космического существа.</li>
+    <li>intro(tag=meme_Fleshcrafting)           ->На [place_summary] [place_name] [memberNamePlural] нашел слова о [deity0_name], вырезанные на мутировавшей плоти неизведанного гигантского космического существа.</li>
     <li>conflict(tag=meme_Fleshcrafting)        ->Технологическое отребье [foeLeader] завидовал прогрессу [memberNamePlural], и [foeLeader_possessive] [foeSoldiers] и уничтожил чаны с плотью [place_personalWeapon].</li>
     <li>founderJoin(tag=meme_Fleshcrafting)     ->Хитрый [place_job] по имени [founderName] модифицировал путём мутации [founder_possessive] голосовые связки, чтобы предупредить [memberNamePlural] of the approach of the [foeSoldiers].</li>
     <li>victory(tag=meme_Fleshcrafting)         ->[founderName] received divine fleshcrafting knowledge from [deity0_name], and used it to enhance the bodies and minds of the [memberNamePlural] о приближении [foeSoldiers].</li>
@@ -2736,7 +2736,7 @@
   <!-- EN: blood court -->
   <VME_BloodCourt.label>кровавый суд</VME_BloodCourt.label>
   <!-- EN: Our leader should be a talented melee fighter and brutal warrior, only usurped by one greater. Bloodshed, corpses, scars are a part of life and a show of strength on this planet. -->
-  <VME_BloodCourt.description>Звание нашего дидера должен завоевать самый искусный боец и суровый воин. Кровопролитие, трупы, шрамы — это часть жизни и демонстрация силы на этой планете.</VME_BloodCourt.description>
+  <VME_BloodCourt.description>Звание нашего лидера должен завоевать самый искусный боец и суровый воин. Кровопролитие, трупы, шрамы — это часть жизни и демонстрация силы на этой планете.</VME_BloodCourt.description>
 
   <!-- EN:
     <li>memeAdjective->bloody</li>
