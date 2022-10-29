@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: {0} screeches something only saurids could understand into the microphone and disconnects. -->
+  <VRESaurids_FactionGreetingHostile>{0} выкрикивает в микрофон какие-то животные звуки, понятные лишь завридам и отключается.</VRESaurids_FactionGreetingHostile>
+  <!-- EN: Hissing and screeching angrily, {0} demands that you make a gesture of unity, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nHissing an insult, {0_pronoun} disconnects. -->
+  <VRESaurids_FactionGreetingHostileAppreciative>{0} злобно шипит и рычит, требует вас сделать жест «единства», например, принести подарок какому-либо их поселению или отпустить невредимым пленного из {0_possessive} фракции. До тех пор {0_pronoun} не желает с вами разговаривать.\n\nНапоследок {0} бурчит в ваш адрес какую-то гадость и отключается.</VRESaurids_FactionGreetingHostileAppreciative>
+  <!-- EN: {0} hisses a greeting and asks what business you need done. -->
+  <VRESaurids_FactionGreetingWary>{0} приветственно шипит и спрашивает, с чем вы пришли.</VRESaurids_FactionGreetingWary>
+  <!-- EN: Barks out enthusiastically, {0} greets {NEGOTIATOR_labelShort} and asks what {LEADER_pronoun} can do to help you. -->
+  <VRESaurids_FactionGreetingWarm>Радостно выкрикивая грубые животные звуки, {0} тепло приветствует {NEGOTIATOR_labelShort} и спрашивает, чем {LEADER_pronoun} может помочь.</VRESaurids_FactionGreetingWarm>
+  <!-- EN: {0} agrees to send saurid fighters to help you. -->
+  <VRESaurids_MilitaryAidSent>{0} соглашается отправить бойцов-завридов вам на помощь.</VRESaurids_MilitaryAidSent>
+
+  <!-- EN: {0} laid an egg! -->
+  <VRESaurids.EggLaidLabel>{0} откладывает яйцо!</VRESaurids.EggLaidLabel>
+  <!-- EN: {0} has laid an egg due to being oviparous. Make sure to keep the egg in a safe environment, under the roof and between 0°C - 50°C. After some time the egg will hatch into a child. {0} will be unable to lay another egg until their body recovers from this process. -->
+  <VRESaurids.EggLaidDesc>{0} откладывает яйцо, так как является яйцекладущим. Убедитесь, что яйцо будет в безопасности: под крышей и при температуре 0°C - 50°C. Спустя некоторое время из яйца вылупится ребёнок. {0} не сможет отложить ещё одно яйцо, пока тело не восстановится.</VRESaurids.EggLaidDesc>
+  <!-- EN: {0}'s egg hatched! -->
+  <VRESaurids.EggHatchedLabel>Ребёнок вылупился из яйца {0}!</VRESaurids.EggHatchedLabel>
+  <!-- EN: {0}'s egg has hatched successfully, adding a new baby to the colony! Remember to take care of them and ensure they grow up healthy. -->
+  <VRESaurids.EggHatchedDesc>Яйцо {0} созрело и дало нового ребёнка поселению! Помните: чтобы дети росли здоровыми, о них нужно заботиться.</VRESaurids.EggHatchedDesc>
+</LanguageData>

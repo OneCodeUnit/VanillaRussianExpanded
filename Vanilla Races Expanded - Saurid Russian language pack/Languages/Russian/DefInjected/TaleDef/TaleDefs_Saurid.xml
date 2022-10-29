@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: hypothic slowdown revealed -->
+  <VRESaurids_HypothermicReveal.label>замедление жизнедеятельности из-за холода</VRESaurids_HypothermicReveal.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] getting hypothermia</li>
+    <li>tale_noun->[PAWN_nameDef] freezing to death</li>
+    <li>image->[PAWN_nameFull] trudging through snow [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] huddled beside a [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for a warm [Apparel] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trying to light a fire [circumstance_group]</li>
+    <li>circumstance_phrase->while [PAWN_possessive] face slowly turns blue</li>
+    <li>circumstance_phrase->and shivering uncontrollably</li>
+    <li>circumstance_phrase->while covered in frost</li>
+    <li>circumstance_phrase->while exhaling clouds of fog</li>
+    <li>desc_sentence->[Quantity_adjphrase] frozen [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are tattered and worn.</li>
+    <li>desc_sentence->A cold blue moon looms in the background.</li>
+    <li>desc_sentence->The scene takes place inside a snow-covered [TreeType] forest.</li>
+    <li>desc_sentence->The scene appears to take place inside a freezer.</li>
+    <li>desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+    <li>tale_noun->как [PAWN_nameDef] замерзает</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] продирается через снежные сугробы</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] съёживается в попытке сохранить тепло</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] ищёт тёплую одежду</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] подползает ближе к огню</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] пытается разжечь огонь</li>
+    <li>circumstance_phrase->, постепенно синея от холода,</li>
+    <li>circumstance_phrase->, трясясь от холода,</li>
+    <li>circumstance_phrase->, покрываясь инеем,</li>
+    <li>circumstance_phrase->, выдыхая изо рта пар,</li>
+    <li>desc_sentence->[PAWN_possessive] окружают замёрзшие трупы животных.</li>
+    <li>desc_sentence->[PAWN_possessive] одежда изорвана в клочья.</li>
+    <li>desc_sentence->В небе висит холодно-синяя луна.</li>
+    <li>desc_sentence->[PAWN_possessive] окружает заснеженный лес.</li>
+    <li>desc_sentence->Действие происходит в морозильной камере.</li>
+    <li>desc_sentence->Рядом дрожит от холода [Animal].</li>
+    <li>desc_sentence->Повсюду лежат замерзающие животные.</li>
+  </VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+
+  <!-- EN: hyperthermic slowdown revealed -->
+  <VRESaurids_HyperthermicReveal.label>замедление жизнедеятельности из-за жары</VRESaurids_HyperthermicReveal.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] getting heatstroke</li>
+    <li>tale_noun->[PAWN_nameDef] overheating</li>
+    <li>image->[PAWN_nameFull] trudging through sand [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] huddled in the shade of a [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for water [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for shade [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crawling across sun-baked dirt [circumstance_group]</li>
+    <li>circumstance_phrase->with red dry skin</li>
+    <li>circumstance_phrase->and covered in sweat</li>
+    <li>circumstance_phrase->with cracked dry lips</li>
+    <li>circumstance_phrase->while vomiting</li>
+    <li>desc_sentence->[Quantity_adjphrase] dessicated [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are tattered and torn.</li>
+    <li>desc_sentence->A blazing sun looms in the background.</li>
+    <li>desc_sentence->The scene takes place inside a blazing desert.</li>
+    <li>desc_sentence->The scene appears to take place inside, next to a heater.</li>
+    <li>desc_sentence->[Quantity_adjphrase] unmoving [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+    <li>tale_noun->как [PAWN_nameDef] перегревается</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] продирается сквозь пески</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] съёживается в тени</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] ищет воду</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] ищет тень</li>
+    <li>image->, как [PAWN_nameFull][circumstance_phrase] ползёт по выжженной солнцем земле</li>
+    <li>circumstance_phrase->[empty] с покрасневшей кожей</li>
+    <li>circumstance_phrase->, непрерывно потея,</li>
+    <li>circumstance_phrase->[empty] с высохшими, потрескавшимися губами</li>
+    <li>circumstance_phrase->, согнувшись в приступе рвоты,</li>
+    <li>desc_sentence->[PAWN_possessive] окружают иссушенные трупы животных.</li>
+    <li>desc_sentence->[PAWN_possessive] одежда изорвана в клочья.</li>
+    <li>desc_sentence->В небе висит палящее солнце.</li>
+    <li>desc_sentence->Действие происходит посреди знойной пустыни.</li>
+    <li>desc_sentence->Действие происходит в помещении рядом с источником тепла.</li>
+    <li>desc_sentence->[Quantity_adjphrase] животных неподвиждно лежат рядом.</li>
+    <li>desc_sentence->Повсюду лежат умирающие животные.</li>
+  </VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+</LanguageData>
