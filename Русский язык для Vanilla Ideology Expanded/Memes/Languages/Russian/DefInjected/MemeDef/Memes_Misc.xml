@@ -418,7 +418,7 @@
     <li>alienistProphecy(tag=meme_HardcoreIndustrialis)->All these wondrous creatures show us what the ingenuity of humanity can do through hard work and careful experimentation.</li>
   -->
   <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] сподвигал последователей [deity0_possessive] к работе, ибо нет ничего святее упорства.</li>
+    <li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] сподвигнул последователей [deity0_possessive] к работе, ибо нет ничего святее упорства.</li>
     <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] сказал всем [memberNamePlural], "Секретов успеха не существует. Это результат подготовки, упорного труда и извлечения уроков из неудач."</li>
 
     <li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], великолепный центр для заводов, которые выпускали огромное количество готовой продукции.</li>
@@ -1386,7 +1386,7 @@
     <li>episode(uses=1,tag=meme_ExaltedPriesthood)  ->[deity0_name] сказал всем [memberNamePlural], "[founderName] будет моим наместником, имея возможность как наставлять на путь истиный, так и возразить тем, кто хочет от него отступить."</li>
 
     <li>intro(tag=meme_ExaltedPriesthood)           ->[memberNamePlural] построили великолепный [altarName] на [place_summary] [place_name], чтобы любой желающий мог присоединиться к [founderName] чтобы возвеличить достоинства [deity0_name].</li>
-    <li>conflict(tag=meme_ExaltedPriesthood)        ->Трус <!--АКА Чмо, Лох, Хуй, Залупа, Пидор--> [foeLeader], отрицал святость [founderName], пытался уничтожить [altarName] с помощью факела.</li>
+    <li>conflict(tag=meme_ExaltedPriesthood)        ->Трус [foeLeader], отрицал святость [founderName], пытался уничтожить [altarName] с помощью факела.</li>
     <li>founderJoin(tag=meme_ExaltedPriesthood)     ->Молясь [deity0_name], огромная стрела чистого света вырвалась из рук [founderName], поразив [foeLeader] в мгновение ока.</li>
     <li>victory(tag=meme_ExaltedPriesthood)         ->Все приспешники [foeSoldiers]  тут же упали на колени, униженные демонстрацией силы [founderName] умоляли принять их в нашу веру.</li>
 
@@ -2145,11 +2145,6 @@
   <!-- EN: pacifist -->
   <VME_Pacifist.symbolPacks.0.member>пацифист</VME_Pacifist.symbolPacks.0.member>
 
-
-
-  <!-- ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы -->
-
-
   <!-- 19 -->
 
   <!-- EN: fire worship -->
@@ -2407,20 +2402,20 @@
     <li>deity0_open(deity0_gender==None)->открыло</li>
     <li>deity0_open(deity0_gender==Male)->открыл</li>
     <li>deity0_open(deity0_gender==Female)->открыла</li>
-	<li>founder_gathered(founder_gender==Male)->собрал</li>
+	  <li>founder_gathered(founder_gender==Male)->собрал</li>
     <li>founder_gathered(founder_gender==Female)->собрала</li>
-	<li>founder_asked(founder_gender==Male)->попросил</li>
+	  <li>founder_asked(founder_gender==Male)->попросил</li>
     <li>founder_asked(founder_gender==Female)->попросила</li>
-	<li>founder_gained(founder_gender==Male)->получил</li>
+	  <li>founder_gained(founder_gender==Male)->получил</li>
     <li>founder_gained(founder_gender==Female)->получила</li>
 
-	<li>founder_was(founder_gender==Male)->был</li>
+	  <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	<li>founder_posited(founder_gender==Male)->утверждал</li>
+	  <li>founder_posited(founder_gender==Male)->утверждал</li>
     <li>founder_posited(founder_gender==Female)->утверждала</li>
-	<li>founder_assembled(founder_gender==Male)->собрал</li>
+	  <li>founder_assembled(founder_gender==Male)->собрал</li>
     <li>founder_assembled(founder_gender==Female)->собрала</li>
-	<li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+	  <li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
     <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
   </VME_Bushido.descriptionMaker.rules.rulesStrings>
 
@@ -3258,7 +3253,7 @@
 	<!-- corporate -->
 	<li>introMemo(tag=meme_InsectoidSupremacy)->Что касается постоянных сообщений о тараканах в кафетерии, нужно ли мне напоминать вам, что тараканы — это живые существа, так же достойные уважения, как вы и я? Я не допущу больше ни одного тайного звонка в компанию по борьбе с вредителями!</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_InsectoidSupremacy)->Среди этих генетически модифицированных животных находится линия генов инсектоидов, которая была разработана в Sorne(???) и принесла нам идеальную форму жизни.</li>
+	<li>alienistProphecy(tag=meme_InsectoidSupremacy)->Среди этих генетически модифицированных животных находится линия генов инсектоидов, которая была разработана в Сорне и принесла нам идеальную форму жизни.</li>
 
     <li>deity0_commanded(deity0_gender==None)->повелело</li>
     <li>deity0_commanded(deity0_gender==Male)->повелел</li>
