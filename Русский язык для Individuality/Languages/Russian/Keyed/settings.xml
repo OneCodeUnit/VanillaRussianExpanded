@@ -1,38 +1,68 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SyrTraitsSettingsCategory>Individuality</SyrTraitsSettingsCategory>
-  
-  <SyrTraitsTraitCount>Количество черт по умолчанию</SyrTraitsTraitCount>
-  <SyrTraitsDisabled>Модуль «Романы» отключен, потому что</SyrTraitsDisabled>
-  <SyrTraitsDisabledPsychology>мод «Psychology» активен</SyrTraitsDisabledPsychology>
-  <SyrTraitsDisabledRationalRomance>мод «Rational Romance» активен</SyrTraitsDisabledRationalRomance>
-  <SyrTraitsDisableRomance>Отключить модуль «Романы»</SyrTraitsDisableRomance>
-  <SyrTraitsDisableRomanceTooltip>Отключить эффекты от сексуальной ориентации и открытости</SyrTraitsDisableRomanceTooltip>
-  <SyrTraitsSexualityCommonality>Сексуальная ориентация</SyrTraitsSexualityCommonality>
-  <SyrTraitsSexualityCommonalityStraight>Гетеросексуал</SyrTraitsSexualityCommonalityStraight>
-  <SyrTraitsSexualityCommonalityBi>Бисексуал</SyrTraitsSexualityCommonalityBi>
-  <SyrTraitsSexualityCommonalityGay>Гомосексуал</SyrTraitsSexualityCommonalityGay>
-  <SyrTraitsSexualityCommonalityAsexual>Асексуал</SyrTraitsSexualityCommonalityAsexual>
-  <SyrTraitsDefaultSettings>Сбросить</SyrTraitsDefaultSettings>
-  <SyrTraitsDefaultSettingsTooltip>Вернуть настройки по умолчанию</SyrTraitsDefaultSettingsTooltip>
-  
-  <IndividualityWindow>Индивидуальность</IndividualityWindow>
-  <IndividualityTooltip>Посмотреть личность</IndividualityTooltip>
-  <SexualityPawn>Сексуальная ориентация</SexualityPawn>
-  <SexualityPawnTooltip>Определяет привлекательность того или иного пола</SexualityPawnTooltip>
-  <RomanceFactor>Открытость</RomanceFactor>
-  <RomanceFactorTooltip>Определяет вероятность попытки завести любовные отношения</RomanceFactorTooltip>
+  <!-- EN:Amount of traits pawns spawn with -->
+  <SyrTraitsTraitCount>Количество черт, с которыми может появиться пешка</SyrTraitsTraitCount>
+  <!-- EN:Romance features disabled because of -->
+  <SyrTraitsDisabled>Возможности романтики отключены из-за</SyrTraitsDisabled>
+  <!-- EN:Psychology is active -->
+  <SyrTraitsDisabledPsychology>мод Psychology активен</SyrTraitsDisabledPsychology>
+  <!-- EN:Rational Romance is active -->
+  <SyrTraitsDisabledRationalRomance>мод Rational Romance активен</SyrTraitsDisabledRationalRomance>
+  <!-- EN:Disable romance features -->
+  <SyrTraitsDisableRomance>Отключить функции Romance</SyrTraitsDisableRomance>
+  <!-- EN:Disables sexuality and confidence values and their effects -->
+  <SyrTraitsDisableRomanceTooltip>Отключает действие настроек сексуальной ориентации и значения уверенности, а также их влияние на игровой процесс</SyrTraitsDisableRomanceTooltip>
+  <!-- EN:Commonality of sexualities -->
+  <SyrTraitsSexualityCommonality>Распространённость ориентаций</SyrTraitsSexualityCommonality>
+  <!-- EN:Straight -->
+  <SyrTraitsSexualityCommonalityStraight>Гетеросексуальность</SyrTraitsSexualityCommonalityStraight>
+  <!-- EN:Bi -->
+  <SyrTraitsSexualityCommonalityBi>Бисексуальность</SyrTraitsSexualityCommonalityBi>
+  <!-- EN:Gay -->
+  <SyrTraitsSexualityCommonalityGay>Гомосексуальность</SyrTraitsSexualityCommonalityGay>
+  <!-- EN:Asexual -->
+  <SyrTraitsSexualityCommonalityAsexual>Асексуальность</SyrTraitsSexualityCommonalityAsexual>
+  <!-- EN:Reset to default -->
+  <SyrTraitsDefaultSettings>По умолчанию</SyrTraitsDefaultSettings>
+  <!-- EN:Reset settings to default values -->
+  <SyrTraitsDefaultSettingsTooltip>Вернуть значения к настройкам по умолчанию</SyrTraitsDefaultSettingsTooltip>
+
+  <!-- EN:Individuality -->
+  <IndividualityWindow>Individuality</IndividualityWindow>
+  <!-- EN:View individuality -->
+  <IndividualityTooltip>Просмотреть индивидуальность</IndividualityTooltip>
+  <!-- EN:Sexuality -->
+  <SexualityPawn>Сексуальность</SexualityPawn>
+  <!-- EN:Which genders this person is attracted to -->
+  <SexualityPawnTooltip>К людям какого пола персонаж будет испытывать влечение</SexualityPawnTooltip>
+  <!-- EN:Confidence -->
+  <RomanceFactor>Уверенность</RomanceFactor>
+  <!-- EN:How likely it is this person attempts to romance someone -->
+  <RomanceFactorTooltip>Насколько велика возможность попытки начать отношения данным персонажем</RomanceFactorTooltip>
+  <!-- EN:Psychic sensitivity -->
   <PsychicFactor>Психочувствительность</PsychicFactor>
-  <PsychicFactorTooltip>Врождённая чувствительность к психическим явлениям</PsychicFactorTooltip>
-  <BodyWeight>Вес</BodyWeight>
-  <BodyWeightTooltip>Вес персонажа</BodyWeightTooltip>
-  <SyrIndividuality_EditModeOn>Включить редактирование</SyrIndividuality_EditModeOn>
-  <SyrIndividuality_EditModeOff>Выключить редактирование</SyrIndividuality_EditModeOff>
-  <SyrIndividuality_EditModeTooltip>Левый клик для увеличения, правый для уменьшения</SyrIndividuality_EditModeTooltip>
-  <BodyWeightOffset>Телосложение</BodyWeightOffset>
-  <SyrTraitsDaVinciGene>Потомок да Винчи</SyrTraitsDaVinciGene>
-  <SyrTraitsSlowLearnerLabel>Медленный ученик</SyrTraitsSlowLearnerLabel>
-  <SyrTraitsSlowLearner>Бонус от навыков</SyrTraitsSlowLearner>
+  <!-- EN:This person's natural sensitivity to psychic phenomena -->
+  <PsychicFactorTooltip>Чувствительность персонажа к психическим эманациям</PsychicFactorTooltip>
+  <!-- EN:Body weight -->
+  <BodyWeight>Масса тела</BodyWeight>
+  <!-- EN:The weight of this person -->
+  <BodyWeightTooltip>Масса тела персонажа</BodyWeightTooltip>
+  <!-- EN:Enable edit mode -->
+  <SyrIndividuality_EditModeOn>Включить режим редактирования</SyrIndividuality_EditModeOn>
+  <!-- EN:Disable edit mode -->
+  <SyrIndividuality_EditModeOff>Отключить режим редактирования</SyrIndividuality_EditModeOff>
+  <!-- EN:Left-click a field to increase, right-click to decrease -->
+  <SyrIndividuality_EditModeTooltip>ЛКМ в поле - увеличивает значение, ПКМ - уменьшает.</SyrIndividuality_EditModeTooltip>
+  <!-- EN:Natural body shape -->
+  <BodyWeightOffset>Естественная форма тела</BodyWeightOffset>
+  <!-- EN:Da Vinci Gene -->
+  <SyrTraitsDaVinciGene>Ген Да Винчи</SyrTraitsDaVinciGene>
+  <!-- EN:Slow learner -->
+  <SyrTraitsSlowLearnerLabel>Труднообучаемый</SyrTraitsSlowLearnerLabel>
+  <!-- EN:Bonus from total skills -->
+  <SyrTraitsSlowLearner>Общий бонус от навыков</SyrTraitsSlowLearner>
+  
 
 </LanguageData>

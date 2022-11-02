@@ -1,44 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <SYR_Agile.degreeDatas.0.label>прирождённый ниндзя</SYR_Agile.degreeDatas.0.label>
-  <SYR_Agile.degreeDatas.0.description>{PAWN_nameDef} всегда двигается быстро и незаметно, а в бою демонстрирует отличные рефлексы и ловкость.</SYR_Agile.degreeDatas.0.description>
 
+  <!-- Work -->
+
+<!-- EN:stealthy -->
+  <SYR_Agile.degreeDatas.0.label>скрытность</SYR_Agile.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} is uncommonly agile and stealthy, with better reflexes and a more flexible body than most. -->
+  <SYR_Agile.degreeDatas.0.description>{PAWN_nameDef} необыкновенно {PAWN_gender ?  ловкий и скрытный : ловкая и скрытная} и обладает более быстрыми рефлексами и гибким телом, по сравнению с другими людьми.</SYR_Agile.degreeDatas.0.description>
+
+<!-- EN:animal friend -->
   <SYR_AnimalAffinity.degreeDatas.0.label>друг животных</SYR_AnimalAffinity.degreeDatas.0.label>
-  <SYR_AnimalAffinity.degreeDatas.0.description>{PAWN_nameDef} имеет природный дар к общению с животными. И это общение взаимно: животные легко понимают, чего {PAWN_pronoun} от них хочет. {PAWN_nameDef} проводит много времени с животными, но оно того стоит.\n\n    Неудачные попытки приручения никогда не вызывают агрессию\n    Проще приручить диких животных</SYR_AnimalAffinity.degreeDatas.0.description>
+  <!-- EN:{PAWN_nameDef} has a special connection to animals and understands them better than most people. Animals also tend to understand what {PAWN_pronoun} wants from them. The time {PAWN_pronoun} spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals -->
+  <SYR_AnimalAffinity.degreeDatas.0.description>{PAWN_nameDef} обладает особой связью с животными и понимает их лучше, чем это делают многие люди. Животные также понимают, что {PAWN_nameDef} от них хочет. Да, {PAWN_pronoun} проводит с животными очень много времени. Но оно того определённо стоит.\n\n    Попытки приручить животное не вызовут ярость\n    Приручение самых диких животных намного легче</SYR_AnimalAffinity.degreeDatas.0.description>
 
+<!-- EN:architect -->
   <SYR_Architect.degreeDatas.0.label>архитектор</SYR_Architect.degreeDatas.0.label>
-  <SYR_Architect.degreeDatas.0.description>{PAWN_nameDef} отлично разбирается в строительных материалах, особенно в камне. {PAWN_pronoun} может построить из камня что угодно в три раза быстрее и мгновенно облагородить вашу пещеру.\n\n    Строительство из камня +200%</SYR_Architect.degreeDatas.0.description>
-  
-  <SYR_CreativeThinker.degreeDatas.0.label>креативный</SYR_CreativeThinker.degreeDatas.0.label>
-  <SYR_CreativeThinker.degreeDatas.0.description>У {PAWN_nameDef} свой собственный поход к науке. {PAWN_pronoun} всегда мыслит нестандартно, а идеи для решения научных проблем находит в искусстве.\n\n    Навык искусства увеличивает скорость исследований</SYR_CreativeThinker.degreeDatas.0.description>
-  
+  <!-- EN:{PAWN_nameDef} is proficient with various construction materials, particularly stone. {PAWN_pronoun} will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200% -->
+  <SYR_Architect.degreeDatas.0.description>{PAWN_nameDef} обладает огромными навыками, когда речь идёт о строительстве и материалах, в особенности - различных видах камня. {PAWN_pronoun} работает с камнем в три раза быстрее и сделает дворец из любой пещеры в мгновение ока.\n\n    Скорость постройки из каменных материалов +200%</SYR_Architect.degreeDatas.0.description>
+
+<!-- EN:creative thinker -->
+  <SYR_CreativeThinker.degreeDatas.0.label>креативное мышление</SYR_CreativeThinker.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} has a unique approach to science. {PAWN_pronoun} always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed -->
+  <SYR_CreativeThinker.degreeDatas.0.description>{PAWN_nameDef} практикует уникальный подход к научным вопросам. {PAWN_pronoun} мыслит нестандартно и находит способы решения научных вопросов в произведениях искусства. \n\n    Произведения искусства увеличивают скорость исследований.</SYR_CreativeThinker.degreeDatas.0.description>
+
+<!-- EN:fortunate -->
   <SYR_GoodFortune.degreeDatas.0.label>везунчик</SYR_GoodFortune.degreeDatas.0.label>
-  <SYR_GoodFortune.degreeDatas.0.description>Похоже, что {PAWN_nameDef} арендовал всю удачу на этой планете.</SYR_GoodFortune.degreeDatas.0.description>
+  <!-- EN:{PAWN_nameDef} seems to have rented all the good fortune on this Rimworld. -->
+  <SYR_GoodFortune.degreeDatas.0.description>Судя по всему, {PAWN_nameDef} {PAWN_gender ?  умудрился : умудрилась} забрать в себе всю удачу этого окраинного мира.</SYR_GoodFortune.degreeDatas.0.description>
 
-  <SYR_GreenThumb.degreeDatas.0.label>зелёные пальцы</SYR_GreenThumb.degreeDatas.0.label>
-  <SYR_GreenThumb.degreeDatas.0.description>{PAWN_nameDef} имеет особый талант к выращиванию растений даже в неподходящих на первый взгляд условиях. {PAWN_pronoun} {PAWN_gender ? способен : способна} вырастить даже самое прихотливое растение.\n\n    Очень любит цветы в своей спальне\n    Может посадить любое растение вне зависимости от навыка фермерства</SYR_GreenThumb.degreeDatas.0.description>
+<!-- EN:green thumb -->
+  <SYR_GreenThumb.degreeDatas.0.label>прирождённый садовник</SYR_GreenThumb.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} has a special talent to grow plants and nurture them even in hostile enviroments. {PAWN_pronoun} can grow any plant, even if other people would fail due to their lack of skills. {PAWN_pronoun} would like some plants in {PAWN_possessive} bedroom.\n\n    Can grow any plant regardless of skill -->
+  <SYR_GreenThumb.degreeDatas.0.description>{PAWN_nameDef} обладает талантом к выращиванию любых растений, даже в самых суровых условиях. {PAWN_pronoun} может заставить расти что угодно, вне зависимости от сложности и капризности растения. {PAWN_nameDef} будет чувствовать себя намного счастливее и лучше, если в {PAWN_possessive} комнате будут растения.\n\n    Может выращивать любые растения, вне зависимости от требуемого навыка</SYR_GreenThumb.degreeDatas.0.description>
 
-  <SYR_GunNut.degreeDatas.0.label>оружейный фанат</SYR_GunNut.degreeDatas.0.label>
-  <SYR_GunNut.degreeDatas.0.description>{PAWN_nameDef} просто обожает оружие. {PAWN_pronoun} {PAWN_gender ? посвятил : посвятила} свою жизнь изучению огнестрельного оружия. И, как оказалось, не зря. Только не пытайтесь отправить {PAWN_possessive} с ножом на перестрелку.</SYR_GunNut.degreeDatas.0.description>
+<!-- EN:gun nut -->
+  <SYR_GunNut.degreeDatas.0.label>оружейный фанатик</SYR_GunNut.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} is a gun nut, {PAWN_possessive} life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand {PAWN_objective} a melee weapon. -->
+  <SYR_GunNut.degreeDatas.0.description>{PAWN_nameDef} обожает огнестрельное оружие. Вся {PAWN_possessive} жизнь вращается вокруг самого разного огнестрельного оружия, способов его производства, обслуживания и конечно же - использования. Довольно полезное качество в текущих обстоятельствах. Главное не доверять {PAWN_objective} холодное оружие.</SYR_GunNut.degreeDatas.0.description>
 
-  <SYR_HandEyeCoordination.degreeDatas.0.label>координация движений</SYR_HandEyeCoordination.degreeDatas.0.label>
-  <SYR_HandEyeCoordination.degreeDatas.0.description>У {PAWN_nameDef} великолепная координация движений.</SYR_HandEyeCoordination.degreeDatas.0.description>
+<!-- EN:hand-eye coordination -->
+  <SYR_HandEyeCoordination.degreeDatas.0.label>зрительно-моторная координация</SYR_HandEyeCoordination.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} is exceptionally coordinated with his hands. -->
+  <SYR_HandEyeCoordination.degreeDatas.0.description>{PAWN_nameDef} отличается особенно развитой координацией движений и зрительно-моторной координацией.</SYR_HandEyeCoordination.degreeDatas.0.description>
 
-  <SYR_KeenEye.degreeDatas.0.label>глаз-алмаз</SYR_KeenEye.degreeDatas.0.label>
-  <SYR_KeenEye.degreeDatas.0.description>У {PAWN_nameDef} острый взгляд, способный обнаружить мельчайшие залежи ценной руды.\n\n    {PAWN_pronoun} будет время от времени дополнительно находить немного полезных ископаемых при добыче камня или руды. На равнинах шанс выше.</SYR_KeenEye.degreeDatas.0.description>
+<!-- EN:keen eye -->
+  <SYR_KeenEye.degreeDatas.0.label>зоркий глаз</SYR_KeenEye.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} has a keen eye and can spot even tiny mineral deposits. {PAWN_pronoun} will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain. -->
+  <SYR_KeenEye.degreeDatas.0.description>{PAWN_nameDef} обладает острым зрением и может заметить даже самые крохотные жилки полезных минералов. {PAWN_pronoun} будет иногда находить ресурсы в небольших количествах, когда будет заниматься добычей камня, или руд. Шансы повышаются на равнинной местности.</SYR_KeenEye.degreeDatas.0.description>
 
+<!-- EN:mechanoid expert -->
   <SYR_MechanoidExpert.degreeDatas.0.label>эксперт по механоидам</SYR_MechanoidExpert.degreeDatas.0.label>
-  <SYR_MechanoidExpert.degreeDatas.0.description>{PAWN_nameDef} далеко не раз {PAWN_gender ? сталкивался : сталкивалась} с механоидами. {PAWN_pronoun} {PAWN_gender ? стал : стала} не только настоящим экспертом сборки и разборки механоидов, но и опасным противником для них.\n\n    Урон механоидам +50%</SYR_MechanoidExpert.degreeDatas.0.description>
+  <!-- EN:{PAWN_nameDef} has had their fair share of encounters with mechanoids. {PAWN_pronoun} has become an expert in mechanoid construction and combat, making {PAWN_objective} uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50% -->
+  <SYR_MechanoidExpert.degreeDatas.0.description>За свою жизнь {PAWN_nameDef} {PAWN_gender ?  повидал : повидала} достаточно механоидов и {PAWN_gender ?  стал : стала} экспертом по их созданию и их использованию в войне, что делает {PAWN_possessive} идеальным кандидатом для того, чтобы сражаться с ними и разбирать их на части.\n\n    +50% к урону по механоидам</SYR_MechanoidExpert.degreeDatas.0.description>
 
+<!-- EN:perfectionist -->
   <SYR_Perfectionist.degreeDatas.0.label>перфекционист</SYR_Perfectionist.degreeDatas.0.label>
-  <SYR_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} хочет, чтобы всё было идеально. Это требует времени, но результаты говорят сами за себя.\n\n    Уровень мастерства +1 (шанс 50%)</SYR_Perfectionist.degreeDatas.0.description>
+  <!-- EN:{PAWN_nameDef} wants thing to be exactly right. This does take time, but the results speak for themselves.\n\n    Quality level +1 (50% chance) -->
+  <SYR_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} всегда стремится достичь определённого результата, который будет полностью соответствовать {PAWN_possessive} ожиданиям. На это требуется время, но результаты обычно говорят сами за себя.\n\n    +1 к качеству изготавливаемых предметов и построек (с 50% шансом)</SYR_Perfectionist.degreeDatas.0.description>
 
-  <SYR_Haggler.degreeDatas.0.label>чуткий</SYR_Haggler.degreeDatas.0.label>
-  <SYR_Haggler.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? способен : способна} понять другого человека и подобрать нужные слова. Однако {PAWN_possessive} эмпатия не всегда полезна: оскорбления будут «бить» сильнее.</SYR_Haggler.degreeDatas.0.description>
+<!-- EN:silver tongue -->
+  <SYR_Haggler.degreeDatas.0.label>серебряный язык</SYR_Haggler.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} knows exactly the right words for every situation. This also means {PAWN_possessive} insults hurt more. -->
+  <SYR_Haggler.degreeDatas.0.description>{PAWN_nameDef} всегда может найти нужные слова для любой ситуации. Но злые языки страшнее пистолета и {PAWN_possessive} оскорбления также ранят куда сильнее.</SYR_Haggler.degreeDatas.0.description>
 
-  <SYR_SteadyHands.degreeDatas.0.label>выдержка</SYR_SteadyHands.degreeDatas.0.label>
-  <SYR_SteadyHands.degreeDatas.0.description>Рука {PAWN_nameDef} не дрогнет даже в самой тяжёлой ситуации.\n\n    Нет штрафа при самолечении</SYR_SteadyHands.degreeDatas.0.description>
+<!-- EN:steady hands -->
+  <SYR_SteadyHands.degreeDatas.0.label>твёрдая рука</SYR_SteadyHands.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} has particularly steady hands, which don't even tremble in dire circumstances or when {PAWN_pronoun} {PAWN_objective}self is injured.\n\n    No self-tend penalty -->
+  <SYR_SteadyHands.degreeDatas.0.description>{PAWN_nameDef} обладает уникальным свойством - {PAWN_possessive} рука не дрогнет ни при каких обстоятельствах, даже когда {PAWN_gender ?  сам : сама} {PAWN_nameDef} {PAWN_gender ?  ранен : ранена.\n\n    Отсутствует штраф при самолечении</SYR_SteadyHands.degreeDatas.0.description>
 
-  <SYR_StrongBack.degreeDatas.0.label>тяжеловоз</SYR_StrongBack.degreeDatas.0.label>
-  <SYR_StrongBack.degreeDatas.0.description>У {PAWN_nameDef} выносливости, как у рабочей лошади. {PAWN_pronoun} {PAWN_gender ? способен : способна} перенести больше груза, чем обычный человек.</SYR_StrongBack.degreeDatas.0.description>
+<!-- EN:strong back -->
+  <SYR_StrongBack.degreeDatas.0.label>крепкая спина</SYR_StrongBack.degreeDatas.0.label>
+  <!-- EN:{PAWN_nameDef} has a very strong back or is part mule or something. {PAWN_pronoun} can carry significantly more as a normal person. -->
+  <SYR_StrongBack.degreeDatas.0.description>Кто-то считает, что {PAWN_nameDef} - отчасти является мулом. {PAWN_pronoun} носить куда больший вес, нежели другие люди.</SYR_StrongBack.degreeDatas.0.description>
+
+
 </LanguageData>

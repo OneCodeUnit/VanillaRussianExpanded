@@ -1,66 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Thought_SYR_GreenThumb.stages.0.label>тоска без растений</Thought_SYR_GreenThumb.stages.0.label>
-  <Thought_SYR_GreenThumb.stages.0.description>Почему в моей спальне нет растений?</Thought_SYR_GreenThumb.stages.0.description>
 
-  <Thought_SYR_GreenThumb.stages.1.label>грусть без растений</Thought_SYR_GreenThumb.stages.1.label>
-  <Thought_SYR_GreenThumb.stages.1.description>Я бы {PAWN_gender ? хотел : хотела} больше растений в спальне. Одного-двух мало.</Thought_SYR_GreenThumb.stages.1.description>
-
-  <Thought_SYR_GreenThumb.stages.2.label>удовлетворение от растений</Thought_SYR_GreenThumb.stages.2.label>
-  <Thought_SYR_GreenThumb.stages.2.description>В моей спальне спальне несколько прекрасных растений. Но я бы {PAWN_gender ? хотел : хотела} побольше.</Thought_SYR_GreenThumb.stages.2.description>
-
-  <Thought_SYR_GreenThumb.stages.3.label>радость от растений</Thought_SYR_GreenThumb.stages.3.label>
-  <Thought_SYR_GreenThumb.stages.3.description>В моей спальне спальне прекрасные растения. Но я бы {PAWN_gender ? хотел : хотела} побольше.</Thought_SYR_GreenThumb.stages.3.description>
-
-  <Thought_SYR_GreenThumb.stages.4.label>счастье от растений</Thought_SYR_GreenThumb.stages.4.label>
-  <Thought_SYR_GreenThumb.stages.4.description>В моей спальне много прекрасных растений. Но я бы {PAWN_gender ? хотел : хотела} побольше.</Thought_SYR_GreenThumb.stages.4.description>
-
-  <Thought_SYR_GreenThumb.stages.5.label>восторг от растений</Thought_SYR_GreenThumb.stages.5.label>
-  <Thought_SYR_GreenThumb.stages.5.description>Сколько же прекрасных растений в моей спальне!</Thought_SYR_GreenThumb.stages.5.description>
-
-
-  <FeelingRandom.stages.0.label>необыкновенное чувство</FeelingRandom.stages.0.label>
-  <FeelingRandom.stages.0.description>Без какой-либо на то причины, я чувствую себя совершенно фантастически.</FeelingRandom.stages.0.description>
-
-  <FeelingRandom.stages.1.label>прекрасное чувство</FeelingRandom.stages.1.label>
-  <FeelingRandom.stages.1.description>Без какой-либо на то причины, я чувствую себя отлично.</FeelingRandom.stages.1.description>
-
-  <FeelingRandom.stages.2.label>приятное чувство</FeelingRandom.stages.2.label>
-  <FeelingRandom.stages.2.description>Без какой-либо на то причины, я чувствую себя хорошо.</FeelingRandom.stages.2.description>
-
-  <FeelingRandom.stages.3.label>неприятное чувство</FeelingRandom.stages.3.label>
-  <FeelingRandom.stages.3.description>Без какой-либо на то причины, я чувствую себя плохо.</FeelingRandom.stages.3.description>
-
-  <FeelingRandom.stages.4.label>отвратительное чувство</FeelingRandom.stages.4.label>
-  <FeelingRandom.stages.4.description>Без какой-либо на то причины, я чувствую себя просто отвратительно.</FeelingRandom.stages.4.description>
-
-  <FeelingRandom.stages.5.label>депрессия</FeelingRandom.stages.5.label>
-  <FeelingRandom.stages.5.description>Без какой-либо на то причины, я чувствую себя совершенно {PAWN_gender ? несчастным : несчастной}...</FeelingRandom.stages.5.description>
+<!-- EN:green thumb frustrated -->
+  <Thought_SYR_GreenThumb.stages.0.label>прирождённый садовник расстроен</Thought_SYR_GreenThumb.stages.0.label>
+  <!-- EN:Why are there no plants in my room? -->
+  <Thought_SYR_GreenThumb.stages.0.description>Почему в моей комнате нет растений?</Thought_SYR_GreenThumb.stages.0.description>
+  <!-- EN:green thumb unhappy -->
+  <Thought_SYR_GreenThumb.stages.1.label>прирождённый садовник несчастлив</Thought_SYR_GreenThumb.stages.1.label>
+  <!-- EN:Can I have some more plants in my room? One or two just won't do. -->
+  <Thought_SYR_GreenThumb.stages.1.description>Нельзя ли мне побольше растений в комнату? Одного-двух попросту недостаточно</Thought_SYR_GreenThumb.stages.1.description>
+  <!-- EN:green thumb satisfied -->
+  <Thought_SYR_GreenThumb.stages.2.label>прирождённый садовник доволен</Thought_SYR_GreenThumb.stages.2.label>
+  <!-- EN:Those are some nice plants in my bedroom, though I would love if it were more. -->
+  <Thought_SYR_GreenThumb.stages.2.description>В моей комнате есть растения, но мне хотелось бы больше.</Thought_SYR_GreenThumb.stages.2.description>
+  <!-- EN:green thumb happy -->
+  <Thought_SYR_GreenThumb.stages.3.label>прирождённый садовник рад</Thought_SYR_GreenThumb.stages.3.label>
+  <!-- EN:Those are nice plants in my bedroom, though I would love if it were some more. -->
+  <Thought_SYR_GreenThumb.stages.3.description>В моей комнате есть растения, но мне хотелось бы, чтобы их было ещё больше.</Thought_SYR_GreenThumb.stages.3.description>
+  <!-- EN:green thumb pleased -->
+  <Thought_SYR_GreenThumb.stages.4.label>прирождённый садовник в восторге</Thought_SYR_GreenThumb.stages.4.label>
+  <!-- EN:Those are quite a few nice plants in my bedroom, though it could be a little more. -->
+  <Thought_SYR_GreenThumb.stages.4.description>В моей комнате есть несколько растений, но мне хотелось бы, чтобы их было ещё чуточку больше.</Thought_SYR_GreenThumb.stages.4.description>
+  <!-- EN:green thumb delighted -->
+  <Thought_SYR_GreenThumb.stages.5.label>прирождённый садовник счастлив</Thought_SYR_GreenThumb.stages.5.label>
+  <!-- EN:So many wonderful plants in my room. -->
+  <Thought_SYR_GreenThumb.stages.5.description>В моей комнате так много растений!</Thought_SYR_GreenThumb.stages.5.description>
 
 
-  <ProsthophobeHappy.stages.0.label>радость биоконсерватора</ProsthophobeHappy.stages.0.label>
-  <ProsthophobeHappy.stages.0.description>Моё тело чистое и незапятнанное, без каких-либо инородных частей.</ProsthophobeHappy.stages.0.description>
+<!-- EN:body purist happy -->
+  <ProsthophobeHappy.stages.0.label>биоконсерватор счастлив</ProsthophobeHappy.stages.0.label>
+  <!-- EN:Pure and unsullied, my body is whole, without any artifical parts. -->
+  <ProsthophobeHappy.stages.0.description>Моё тело чисто и неизмененно, в нём нет никаких искусственных частей.</ProsthophobeHappy.stages.0.description>
 
-  <SYR_GunNutUnhappy.stages.0.label>с ножом на перестрелке</SYR_GunNutUnhappy.stages.0.label>
-  <SYR_GunNutUnhappy.stages.0.description>Что это такое? Я похож на дикаря с дубиной? Мне нужна пушка, или хотя бы лук!.</SYR_GunNutUnhappy.stages.0.description>
+<!-- EN:Feeling manic -->
+  <FeelingRandom.stages.0.label>Маниакальное настроение</FeelingRandom.stages.0.label>
+  <!-- EN:For no apparent reason, I just feel absolutely fantastic right now! -->
+  <FeelingRandom.stages.0.description>Без какой-либо на то причины, я чувствую себя просто потрясающе!</FeelingRandom.stages.0.description>
+  <!-- EN:Feeling great -->
+  <FeelingRandom.stages.1.label>Отличное настроение</FeelingRandom.stages.1.label>
+  <!-- EN:For no apparent reason, I just feel great right now. -->
+  <FeelingRandom.stages.1.description>Без какой-то на то причины, я чувствую себя очень хорошо</FeelingRandom.stages.1.description>
+  <!-- EN:Feeling good -->
+  <FeelingRandom.stages.2.label>Хорошее настроение</FeelingRandom.stages.2.label>
+  <!-- EN:For no apparent reason, I just feel good right now. -->
+  <FeelingRandom.stages.2.description>Без какой-либо причины я чувствую себя довольно хорошо.</FeelingRandom.stages.2.description>
+  <!-- EN:Feeling bad -->
+  <FeelingRandom.stages.3.label>Плохое настроение</FeelingRandom.stages.3.label>
+  <!-- EN:For no apparent reason, I just feel bad right now. -->
+  <FeelingRandom.stages.3.description>Без какой-то причины я чувствую себя довольно плохо.</FeelingRandom.stages.3.description>
+  <!-- EN:Feeling terrible -->
+  <FeelingRandom.stages.4.label>Ужасное настроение</FeelingRandom.stages.4.label>
+  <!-- EN:For no apparent reason, I just feel terrible right now. -->
+  <FeelingRandom.stages.4.description>Почему-то  я чувствую себя очень плохо.</FeelingRandom.stages.4.description>
+  <!-- EN:Feeling depressive -->
+  <FeelingRandom.stages.5.label>Депрессивное настроение</FeelingRandom.stages.5.label>
+  <!-- EN:For no apparent reason, I just feel utterly miserable right now... -->
+  <FeelingRandom.stages.5.description>Почему-то я чувствую себя абсолютно ужасно...</FeelingRandom.stages.5.description>
 
-  <Greedy.stages.greedy_for_impressive_bedroom-0.label>жадный желает впечатляющую спальню</Greedy.stages.greedy_for_impressive_bedroom-0.label>
-  <Greedy.stages.greedy_for_impressive_bedroom-0.description>Я хочу себе спальню, и получше!</Greedy.stages.greedy_for_impressive_bedroom-0.description>
-  <Greedy.stages.greedy_for_impressive_bedroom-1.label>жадный желает впечатляющую спальню</Greedy.stages.greedy_for_impressive_bedroom-1.label>
-  <Greedy.stages.greedy_for_impressive_bedroom-1.description>Моя комната просто жалкая! Я хочу себе спальню лучше!</Greedy.stages.greedy_for_impressive_bedroom-1.description>
-  <Greedy.stages.greedy_for_impressive_bedroom-2.label>жадный желает впечатляющую спальню</Greedy.stages.greedy_for_impressive_bedroom-2.label>
-  <Greedy.stages.greedy_for_impressive_bedroom-2.description>Моя комната нехороша! Я хочу, чтобы у меня была спальня лучше!</Greedy.stages.greedy_for_impressive_bedroom-2.description>
-  <Greedy.stages.greedy_for_impressive_bedroom-3.label>жадный желает впечатляющую спальню</Greedy.stages.greedy_for_impressive_bedroom-3.label>
-  <Greedy.stages.greedy_for_impressive_bedroom-3.description>Моя комната недостаточно хороша! Я хочу, чтобы у меня была спальня ещё лучше!</Greedy.stages.greedy_for_impressive_bedroom-3.description>
-  <Greedy.stages.greedy_for_impressive_bedroom-4.label>жадный желает впечатляющую спальню</Greedy.stages.greedy_for_impressive_bedroom-4.label>
-  <Greedy.stages.greedy_for_impressive_bedroom-4.description>Моя комната всё ещё недостаточно хороша! Я хочу себе действительно впечатляющую спальню!</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+<!-- EN:gun nut has melee weapon -->
+  <SYR_GunNutUnhappy.stages.0.label>оружейный фанатик использует холодное оружие</SYR_GunNutUnhappy.stages.0.label>
+  <!-- EN:What is this? I don't want to use a caveman tool, I want a gun, or a bow at least! -->
+  <SYR_GunNutUnhappy.stages.0.description>Ну и что это такое? Я не хочу быть похожим на неандертальца с острой палкой в руке. Мне нужна пушка! Ну или на худой конец - лук.</SYR_GunNutUnhappy.stages.0.description>
 
-  <Greedy.stages.greedy_has_impressive_bedroom-0.label>жадный имеет впечатляющую спальню</Greedy.stages.greedy_has_impressive_bedroom-0.label>
-  <Greedy.stages.greedy_has_impressive_bedroom-0.description>Моя комната прекрасна. Я вполне доволен.</Greedy.stages.greedy_has_impressive_bedroom-0.description>
-  <Greedy.stages.greedy_has_impressive_bedroom-1.label>жадный имеет впечатляющую спальню</Greedy.stages.greedy_has_impressive_bedroom-1.label>
-  <Greedy.stages.greedy_has_impressive_bedroom-1.description>Моя комната восхитительна. Я доволен.</Greedy.stages.greedy_has_impressive_bedroom-1.description>
-  <Greedy.stages.greedy_has_impressive_bedroom-2.label>жадный имеет впечатляющую спальню</Greedy.stages.greedy_has_impressive_bedroom-2.label>
-  <Greedy.stages.greedy_has_impressive_bedroom-2.description>Моя комната великолепна. Я очень доволен.</Greedy.stages.greedy_has_impressive_bedroom-2.description>
-	<Greedy.stages.greedy_has_impressive_bedroom-3.label>жадный имеет впечатляющую спальню</Greedy.stages.greedy_has_impressive_bedroom-3.label>
-  <Greedy.stages.greedy_has_impressive_bedroom-3.description>Моя комната чудесна. Я полностью удовлетворён.</Greedy.stages.greedy_has_impressive_bedroom-3.description>
+
 </LanguageData>
