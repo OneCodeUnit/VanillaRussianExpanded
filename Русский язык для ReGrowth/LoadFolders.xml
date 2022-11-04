@@ -1,34 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
-  <v1.1>
-    <li>Common</li>
-    <li IfModActive="ReGrowth.BOTR.BorealForestExpansion">Boreal</li>
-    <li IfModActive="VanillaExpanded.VCEF">Fishing</li>
-  </v1.1>
   <v1.2>
-    <li>Common</li>
-    <li IfModActive="ReGrowth.BOTR.BorealForestExpansion">Boreal</li>
+    <li>Common_OLD</li>
+    <li IfModActive="ReGrowth.BOTR.BorealForestExpansion">Boreal_OLD</li>
     <li IfModActive="ReGrowth.BOTR.ColdBogExpansion">Bog</li>
     <li IfModActive="ReGrowth.BOTR.DesertExpansion">Desert</li>
-    <li IfModActive="ReGrowth.BOTR.AspenForest">Aspen</li>
-    <li IfModActive="ReGrowth.BOTR.TundraExpansion">Tundra</li>
+    <li IfModActive="ReGrowth.BOTR.AspenForest">Aspen_OLD</li>
+    <li IfModActive="ReGrowth.BOTR.TundraExpansion">Tundra_OLD</li>
     <li IfModActive="ReGrowth.BOTR.Wastelands">Wastelands</li>
     <li IfModActive="ReGrowth.BOTR.WastelandFauna">Mutated</li>
-    <li IfModActive="ReGrowth.BOTR.TemperateForestExpansion">Temperate</li>
+    <li IfModActive="ReGrowth.BOTR.TemperateForestExpansion">Temperate_OLD</li>
     <li IfModActive="ReGrowth.BOTR.ExtinctAnimalsPack">Extinct_old</li>
     <li IfModActive="ReGrowth.BOTR.VolcanicIceSheet">Volcanic</li>
     <li IfModActive="VanillaExpanded.VCEF">Fishing</li>
   </v1.2>
   <v1.3>
-    <li>Common</li>
-    <li IfModActive="ReGrowth.BOTR.BorealForestExpansion">Boreal</li>
+    <li>Common_OLD</li>
+    <li IfModActive="ReGrowth.BOTR.BorealForestExpansion">Boreal_OLD</li>
     <li IfModActive="ReGrowth.BOTR.ColdBogExpansion">Bog</li>
     <li IfModActive="ReGrowth.BOTR.DesertExpansion">Desert</li>
-    <li IfModActive="ReGrowth.BOTR.AspenForest">Aspen</li>
-    <li IfModActive="ReGrowth.BOTR.TundraExpansion">Tundra</li>
+    <li IfModActive="ReGrowth.BOTR.AspenForest">Aspen_OLD</li>
+    <li IfModActive="ReGrowth.BOTR.TundraExpansion">Tundra_OLD</li>
     <li IfModActive="ReGrowth.BOTR.Wastelands">Wastelands</li>
     <li IfModActive="ReGrowth.BOTR.WastelandFauna">Mutated</li>
-    <li IfModActive="ReGrowth.BOTR.TemperateForestExpansion">Temperate</li>
+    <li IfModActive="ReGrowth.BOTR.TemperateForestExpansion">Temperate_OLD</li>
     <li IfModActive="ReGrowth.BOTR.ExtinctAnimalsPack">Extinct_old</li>
     <li IfModActive="ReGrowth2.ExtinctAnimals">Extinct</li>
     <li IfModActive="ReGrowth.BOTR.VolcanicIceSheet">Volcanic</li>
@@ -37,4 +32,16 @@
     <li IfModActive="KYD.MiscTweaks.ReGrowth">Tweaks</li>
     <li IfModActive="VanillaExpanded.VCEF">Fishing</li>
   </v1.3>
+  <v1.4>
+    <li>Common</li>
+    <li IfModActive="ReGrowth.BOTR.BorealForestExpansion">Boreal</li>
+    <li IfModActive="ReGrowth.BOTR.TundraExpansion">Tundra</li>
+    <li IfModActive="ReGrowth.BOTR.SwampExpansion">Swamp</li>
+    <li IfModActive="ReGrowth.BOTR.TemperateForestExpansion">Temperate</li>
+    <li IfModActive="Mlie.ReGrowthExpandedWorldGeneration">Generation</li>
+    <li IfModActive="ReGrowth.BOTR.AspenForest">Aspen</li>
+    <li IfModActive="VanillaExpanded.VCEF">Fishing</li>
+    <li IfModActive="Owlchemist.Moonlight">Moonlight</li>
+    <li IfModActive="ReGrowth.BOTR.ExtinctAnimalsPack">Extinct_New</li>
+  </v1.4>
 </loadFolders>

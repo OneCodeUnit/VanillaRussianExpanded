@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Marsh -->
+
+  <RG_BathingMarsh.stages.0.label>купание в марше</RG_BathingMarsh.stages.0.label>
+  <RG_BathingMarsh.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в марше.</RG_BathingMarsh.stages.0.description>
+
+
+  <!-- Lakes and Rivers -->
+
+  <RG_BathingWater.stages.0.label>купание в воде</RG_BathingWater.stages.0.label>
+  <RG_BathingWater.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись. Это всегда поднимает настроение.</RG_BathingWater.stages.0.description>
+
+
+  <!-- Ocean -->
+
+  <RG_BathingOcean.stages.0.label>купание в море</RG_BathingOcean.stages.0.label>
+  <RG_BathingOcean.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в море. Это действительно помогает ненадолго забыть обо всех проблемах.</RG_BathingOcean.stages.0.description>
+
+
+  <!-- Hot Spring -->
+
+  <RG_HotSpringBathing.stages.0.label>купание в горячем источнике</RG_HotSpringBathing.stages.0.label>
+  <RG_HotSpringBathing.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в горячем источнике. Это ни с чем не сравнимое удовольствие.</RG_HotSpringBathing.stages.0.description>
+
+
+  <!-- Waste -->
+
+  <RG_WasteBathing.stages.0.label>купание в луже с химикатами</RG_WasteBathing.stages.0.label>
+  <RG_WasteBathing.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в токсичных отходах. Отвратительный опыт.</RG_WasteBathing.stages.0.description>
+
+
+</LanguageData>
