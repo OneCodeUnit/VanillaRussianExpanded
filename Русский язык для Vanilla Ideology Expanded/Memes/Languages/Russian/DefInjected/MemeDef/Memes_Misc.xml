@@ -419,14 +419,14 @@
   -->
   <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] сподвигнул последователей [deity0_possessive] к работе, ибо нет ничего святее упорства.</li>
-    <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] сказал всем [memberNamePlural], "Секретов успеха не существует. Это результат подготовки, упорного труда и извлечения уроков из неудач."</li>
+    <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] сказал всем [memberNamePlural], «Секретов успеха не существует. Это результат подготовки, упорного труда и извлечения уроков из неудач.»</li>
 
     <li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], великолепный центр для заводов, которые выпускали огромное количество готовой продукции.</li>
     <li>conflict(tag=meme_HardcoreIndustrialis)        ->Трус [foeLeader], стремился отрицать нашу веру [deity0_name], пытались саботировать наши заводские линии, но наша стойкость была непоколебимой.</li>
     <li>founderJoin(tag=meme_HardcoreIndustrialis)     ->[deity0_name] благословил [place_job] именуемое [founderName] с [foeLeader_possessive] божественной силой, сделавшая его величайшим мануфактором из когда-либо известных.</li>
 
     <li>setup(tag=meme_HardcoreIndustrialis)           ->Наш глава [founderName] был гением. Промышленником и филантропом, которому были подобны нефтяные бароны древности.</li>
-    <li>story(uses=1,tag=meme_HardcoreIndustrialis)    -Там были бесконечные фабрики, построенные руками [founder_possessive]. Над каждым входом висела вывеска с единственным девизом: "Упорным трудом и старанием можно добиться чего угодно."</li>
+    <li>story(uses=1,tag=meme_HardcoreIndustrialis)    ->Там были бесконечные фабрики, построенные руками [founder_possessive]. Над каждым входом висела вывеска с единственным девизом: «Упорным трудом и старанием можно добиться чего угодно.»</li>
 
     <li>lessonIntro(tag=meme_HardcoreIndustrialis)         ->Все мы усвоили один жизненно важный урок:</li>
     <li>lesson(tag=meme_HardcoreIndustrialis)              ->как только мы поверим, что успех определяется укоренившимся уровнем способностей, а не стойкостью и трудолюбием, мы станем хрупкими перед лицом трудностей</li>
