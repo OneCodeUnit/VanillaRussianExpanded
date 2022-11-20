@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>EdB Prepare Carefully Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.EDB</packageId>
+  <description>Перевод на русский язык мода EdB Prepare Carefully и его временного форка для 1.4.</description>
+  <loadAfter>
+		<li>EdB.PrepareCarefully</li>
+    <li>EdB.PrepareCarefully.alonske.fork</li>
+	</loadAfter>
+  <incompatibleWith>
+    <li>EdB.PrepareCarefully.alonske.fork.kotobike</li>
+    <li>craftersmine.Translation.EdB.PrepareCarefully</li>
+    <li>Am.Rus.PrepareCarefully</li>
+    <li>EdB.PrepareCarefullyRus</li>
+  </incompatibleWith>
+</ModMetaData>

@@ -38,7 +38,7 @@
 
   <EdB.PC.Dialog.Backstory.Filter.Add>Добавить фильтр</EdB.PC.Dialog.Backstory.Filter.Add>
   <EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>Без недоступных работ</EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>
-  <EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>Без отрицательных бонусов</EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>
+  <EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>Без штрафов</EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>
   <EdB.PC.Dialog.Backstory.Filter.SkillBonus>Бонус: {0} +{1}</EdB.PC.Dialog.Backstory.Filter.SkillBonus>
   <EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>Бонус к навыку: {0}, +{1} или лучше</EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>
   <EdB.PC.Dialog.Backstory.Filter.MatchesFaction>Только предыстории фракций</EdB.PC.Dialog.Backstory.Filter.MatchesFaction>
@@ -121,7 +121,7 @@
   <EdB.PC.Error.NotEnoughPoints>Вы потратили слишком много очков.</EdB.PC.Error.NotEnoughPoints>
   <EdB.PC.Error.NotEnoughColonists1>Вы должны иметь по крайней мере одного поселенца.</EdB.PC.Error.NotEnoughColonists1>
   <EdB.PC.Error.NotEnoughColonists>Вы должны иметь по крайней мере {0} поселенцев.</EdB.PC.Error.NotEnoughColonists>
-  <EdB.PC.Error.GameVersion>Prepare Carefully не удалось инициализировать.
+  <EdB.PC.Error.GameVersion>Не удалось инициализировать Prepare Carefully.
   
 Эта ошибка может быть вызвана слишком старой версией игры.
 
@@ -129,7 +129,7 @@
   
 Пожалуйста, обновите игру и проверьте, исправилась ли ошибка.
   </EdB.PC.Error.GameVersion>
-  <EdB.PC.Error.Initialization>Prepare Carefully не удалось инициализировать.
+  <EdB.PC.Error.Initialization>Не удалось инициализировать Prepare Carefully.
 
 Эта ошибка часто бывает вызвана неожиданной проблемой между Prepare Carefully и другим модом, но ошибка может быть и в самом Prepare Carefully.
 
