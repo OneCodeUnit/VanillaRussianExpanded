@@ -192,7 +192,7 @@
   -->
   <VME_Astrology.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Astrology)->[deity0_name] он показал нам, что путь к истинной мудрости лежит через понимание звёзд .</li>
-    <li>episode(uses=1,tag=meme_Astrology)->[deity0_name] сказал нам [memberNamePlural], "For in the Firmament you shall see a reflection of my Will."</li>
+    <li>episode(uses=1,tag=meme_Astrology)->[deity0_name] сказал нам [memberNamePlural]: «Расположение звёзд на небе станет отражением моих планов».</li>
 
     <li>intro(tag=meme_Astrology)->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], чтобы каждый мог взглянуть на звёздное небо.</li>
     <li>conflict(tag=meme_Astrology)->Трус [foeLeader] стремился отрицать нашу веру [deity0_name], он пытался заслонить небосвод, чтобы мы не смогли наблюдать за звёздами.</li>
@@ -2001,7 +2001,7 @@
     <li>intro(tag=meme_Egalitarian)           ->радиция зародилась в  [altarRoomLabel], принадлежащем [deity0_name], где люди могли принимать убеждения соседей и наслаждаться принятию других перспектив.</li>
     <li>conflict(tag=meme_Egalitarian)           ->Погрязший в предрассудках [foeLeader] смотрел на это с неприязнью, не будучи способным принять какую-либо веру, кроме своей собственной.</li>
     <li>founderJoin(tag=meme_Egalitarian)        ->Истинный последователь [deity0_name] [founderName] предстал перед [place_powerCenter], и произнес длинную, страстную речь о необходимости уважения и терпимости.</li>
-    <li>victory(tag=meme_Egalitarian)            ->Даже если слова [founderName] не возымели должного эффекта на [foeLeader], они всё равно были встречены бурными аплодисментами и [foudnerName] был <!--была--> назван проводником воли [deity0_name].</li>
+    <li>victory(tag=meme_Egalitarian)            ->Даже если слова [founderName] не возымели должного эффекта на [foeLeader], они всё равно были встречены бурными аплодисментами и [foudnerName] был назван проводником воли [deity0_name].</li>
 
     <li>setup(tag=meme_Egalitarian)           ->С самого начала жизни [founderName_possessive] [founderName] подвергался преследованиям и тюремному заключению. Идеи [founderName_possessive] были настолько радикально разными, что [founderName_pronoun] никогда не мог никуда вписаться. Возможно, [founderName_pronoun] мог бы отреагировать на это презрение еще большей ненавистью к [founderName_possessive], но вместо этого [founderName_pronoun] решил принять противоположное мнение.</li>
     <li>story(uses=1,tag=meme_Egalitarian)    ->Идеи [founderName] о толерантности и равенстве нашли глубокий отклик у некоторых людей, и родилась новая школа мысли: Свет не знает фанатизма, ветер не знает дискриминации, дождь не знает снобизма, посевы не знают сегрегации.</li>
@@ -2103,7 +2103,7 @@
     <li>creation(tag=meme_Pacifist)        ->[deity0_name] увидел насилие в человеческом сердце и отпрянул в отвращении.</li>
     <li>episode(uses=1,tag=meme_Pacifist)  ->Обращаясь к верующим, [deity0_name] сказал: "Есть много причин, за которые стоит умереть, но, конечно, нет ни одной, за которую стоило бы убивать".</li>
 
-    <li>intro(tag=meme_Pacifist)           ->[place_summary] [place_name] всегда раздирали конфликты. [memberNamePlural] <!--(кому-чему)--> не была чужда жестокость и кровопролитие и это очень огорчало [deity0_name].</li>
+    <li>intro(tag=meme_Pacifist)           ->[place_summary] [place_name] всегда раздирали конфликты. [memberNamePlural] не была чужда жестокость и кровопролитие и это очень огорчало [deity0_name].</li>
     <li>conflict(tag=meme_Pacifist)        ->[deity0_name] видел постоянные махинации ужасного [foeLeader], разжигателя войны, и как [foeLeader_pronoun] постоянно раздувал пламя войны.</li>
     <li>founderJoin(tag=meme_Pacifist)     ->В знак божественного вдохновения [deity0_name] наделило [foeLeader] мыслями и страданиями всех тех, кого [foeLeader_pronoun] покалечил и убил, и [foeLeader_pronoun] сразу же передумал. С этого момента [foeLeader] взял [foeLeader_possessive] новое имя в качестве голоса [deity0_name]: [founderName] Миротворец.</li>
     <li>victory(tag=meme_Pacifist)         ->[founderName] заставил всех нас понять, что никто не может быть искуплен и что вечная мудрость заключается в том, чтобы на ненависть отвечать не ненавистью.</li>
