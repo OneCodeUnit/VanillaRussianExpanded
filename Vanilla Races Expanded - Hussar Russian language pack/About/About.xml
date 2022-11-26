@@ -1,0 +1,19 @@
+﻿<ModMetaData>
+	<name>Vanilla Races Expanded - Hussar Russian Language Pack</name>
+	<author>OliveWizard</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+  <packageId>OW.RU.Hussar</packageId>
+  <description>Перевод на русский язык мода Vanilla Races Expanded - Hussar.</description>
+  <modDependencies>
+    <li>
+      <packageId>vanillaracesexpanded.hussar</packageId>
+      <displayName>Vanilla Races Expanded - Hussar</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2893586390</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+	<loadAfter>
+		<li>vanillaracesexpanded.hussar</li>
+	</loadAfter>
+</ModMetaData>
