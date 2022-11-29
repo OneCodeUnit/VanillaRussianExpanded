@@ -4,49 +4,69 @@
   <VPE_EnchantQuality.label>улучшить качество</VPE_EnchantQuality.label>
   <!-- EN:The caster concentrates on an item and attempts to improve its quality by reshaping the material slightly, but cannot imitate a master’s handiwork. -->
   <VPE_EnchantQuality.description>Псионик фокусируется на предмете и пытается улучшить качество, слегка изменяя форму. Но этого недостаточно, чтобы повторить работу мастера.</VPE_EnchantQuality.description>
+  <VPE_EnchantQuality.jobReportString>Использует способность: {0}</VPE_EnchantQuality.jobReportString>
+  <VPE_EnchantQuality.verbProperties.label>улучшить качество</VPE_EnchantQuality.verbProperties.label>
 
   <!-- EN:mend -->
   <VPE_Mend.label>восстановить</VPE_Mend.label>
   <!-- EN:The caster concentrates on an item and attempts to repair present damage by rebinding the material, with the effect scaling with their psychic sensitivity. -->
   <VPE_Mend.description>Псионик фокусируется на предмете и пытается устранить повреждения материала. Эффект зависит от психической чувствительности псионика.</VPE_Mend.description>
+  <VPE_Mend.jobReportString>Использует способность: {0}</VPE_Mend.jobReportString>
+  <VPE_Mend.verbProperties.label>восстановить</VPE_Mend.verbProperties.label>
 
   <!-- EN:conure heat pearls -->
   <VPE_ConjureHeatPearls.label>создать перегревный жемчуг</VPE_ConjureHeatPearls.label>
   <!-- EN:Converts a minimum amount of the caster’s heat into metaphysical pearls. These can be thrown at other psycasters to induce massive amounts of heat on them, but are otherwise harmless. -->
   <VPE_ConjureHeatPearls.description>Превращает некоторое количество накопленного псиоником нейроперегрева в метафизические предметы, более всего похожие на причудливо выглядящий жемчуг. Эти жемчужины могут быть брошены в других псиоников, чтобы вызывать у них быстрое накопление нейроперегрева. В остальном этот жемчуг безвреден.</VPE_ConjureHeatPearls.description>
+  <VPE_ConjureHeatPearls.jobReportString>Использует способность: {0}</VPE_ConjureHeatPearls.jobReportString>
+  <VPE_ConjureHeatPearls.verbProperties.label>создать перегревный жемчуг</VPE_ConjureHeatPearls.verbProperties.label>
 
   <!-- EN:haywire -->
   <VPE_Haywire.label>сбой</VPE_Haywire.label>
   <!-- EN:Designates an area to experience psychic interference, effectively scrambling electronic systems’ IFFs while identifying the caster’s people as allies. Duration scales with psychic sensitivity. -->
   <VPE_Haywire.description>В обозначенном месте возникают психические помехи, нарушающие корректную работу электронных систем и в частности — систем распознавания «свой-чужой», что заставляет их распознавать самого псионика и членов его фракции как союзников. Длительность эффекта зависит от психической чувствительности псионика.</VPE_Haywire.description>
+  <VPE_Haywire.jobReportString>Использует способность: {0}</VPE_Haywire.jobReportString>
+  <VPE_Haywire.verbProperties.label>сбой</VPE_Haywire.verbProperties.label>
 
   <!-- EN:power -->
   <VPE_Power.label>чистая энергия</VPE_Power.label>
   <!-- EN:etaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity. -->
   <VPE_Power.description>Метафизически перенастраивает систему энергоснабжения в устройстве так, чтобы энергия для его работы в течение нескольких дней поступала из флуктуаций квантовой пены. Длительность эффекта зависит от психической чувствительности псионика.</VPE_Power.description>
+  <VPE_Power.jobReportString>Использует способность: {0}</VPE_Power.jobReportString>
+  <VPE_Power.verbProperties.label>чистая энергия</VPE_Power.verbProperties.label>
 
   <!-- EN:rock construct -->
   <VPE_RockConstruct.label>каменный конструкт</VPE_RockConstruct.label>
   <!-- EN:Converts a minimum amount of the caster’s heat capacity into metaphysical crystals to be implanted into a stone chunk. This new rock construct is capable of performing simple chores, and breaking the crystal allows the heat capacity to be restored. -->
   <VPE_RockConstruct.description>Переводит некоторый объём доступного лимита нейроперегрева в форму, которую возможно влить напрямую в обломок камня. Получившийся каменный конструкт способен выполнять самые базовые команды, а уничтожение кристального ядра позволяет вернуть лимит нейроперегрева к прежним значениям.</VPE_RockConstruct.description>
+  <VPE_RockConstruct.jobReportString>Использует способность: {0}</VPE_RockConstruct.jobReportString>
+  <VPE_RockConstruct.verbProperties.label>каменный конструкт</VPE_RockConstruct.verbProperties.label>
 
   <!-- EN:steel construct -->
   <VPE_SteelConstruct.label>стальной конструкт</VPE_SteelConstruct.label>
   <!-- EN:Converts a minimum amount of the caster’s heat capacity into metaphysical crystals to be implanted into a steel slag. This new steel construct will follow the caster and defend them from harm, and breaking the crystal allows the heat capacity to be restored. -->
   <VPE_SteelConstruct.description>Переводит некоторый объём доступного лимита нейроперегрева в форму, которую возможно влить напрямую в кусок металлолома. Получившийся стальной конструкт будет следовать за псиоником и защищать его, а уничтожение кристального ядра позволяет вернуть лимит нейроперегрева к прежним значениям.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.jobReportString>Использует способность: {0}</VPE_SteelConstruct.jobReportString>
+  <VPE_SteelConstruct.verbProperties.label>стальной конструкт</VPE_SteelConstruct.verbProperties.label>
 
   <!-- EN:craft psyring -->
   <VPE_CraftPsyRing.label>создать пси-кольцо</VPE_CraftPsyRing.label>
   <!-- EN:Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice. -->
   <VPE_CraftPsyRing.description>Психически придать фрагменту эльтекса форму кольца, пронизанного знаниями псионика. Будучи надетым другим псиоником, позволяет тому пользоваться заключёнными в кольце способностью без необходимости предварительной практики.</VPE_CraftPsyRing.description>
+  <VPE_CraftPsyRing.jobReportString>Использует способность: {0}</VPE_CraftPsyRing.jobReportString>
+  <VPE_CraftPsyRing.verbProperties.label>создать пси-кольцо</VPE_CraftPsyRing.verbProperties.label>
 
   <!-- EN:word of progress -->
   <VPE_WordofProgress.label>слово прогресса</VPE_WordofProgress.label>
   <!-- EN:Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity. -->
   <VPE_WordofProgress.description>Произнести слова, пробуждающие у слушателя имеющиеся способности к решению сложных задач, параллельно психически заряжая его разум и вдохновляя. В результате чего у цели в два раза повышается скорость исследований и рост интеллектуальных навыков в течение пяти дней. Эффект также зависит от психической чувствительности цели.</VPE_WordofProgress.description>
+  <VPE_WordofProgress.jobReportString>Использует способность: {0}</VPE_WordofProgress.jobReportString>
+  <VPE_WordofProgress.verbProperties.label>слово прогресса</VPE_WordofProgress.verbProperties.label>
 
   <!-- EN:reverse engineer -->
   <VPE_ReverseEngineer.label>обратный инжиниринг</VPE_ReverseEngineer.label>
   <!-- EN:The caster concentrates on an object and attempts to unravel the knowledge needed to manufacture more of them. The long, intense concentration ends with the caster falling into a 6-hour coma. -->
   <VPE_ReverseEngineer.description>Псионик фокусируется на предмете и пытается понять тайные знания, необходимые для создания этого предмета. Результатом длительного напряжения псионических и когнитивных способностей является шестичасовая кома.</VPE_ReverseEngineer.description>
+  <VPE_ReverseEngineer.jobReportString>Использует способность: {0}</VPE_ReverseEngineer.jobReportString>
+  <VPE_ReverseEngineer.verbProperties.label>обратный инжиниринг</VPE_ReverseEngineer.verbProperties.label>
 </LanguageData>
