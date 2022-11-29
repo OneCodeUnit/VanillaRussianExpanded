@@ -4,49 +4,70 @@
   <VPE_WordofTrust.label>слово доверия</VPE_WordofTrust.label>
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him. -->
   <VPE_WordofTrust.description>Поговорить с пленником, психически воздействуя на его сознание, чтобы снизить сопротивление вербовке. Для осуществления непосредственно вербовки эта способность не применяется.</VPE_WordofTrust.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofTrust.jobReportString>Использует способность: {0}</VPE_WordofTrust.jobReportString>
+  <VPE_WordofTrust.verbProperties.label>слово доверия</VPE_WordofTrust.verbProperties.label>
 
   <!-- EN: word of productivity -->
   <VPE_WordofProductivity.label>слово продуктивности</VPE_WordofProductivity.label>
   <!-- EN: Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity. -->
   <VPE_WordofProductivity.description>Использовать мотивирующие слова в сочетании со значительным усилением метаболизма, чтобы сделать цель более продуктивным членом общества на ближайшие несколько дней. Считается враждебным действием и успех зависит от психической чувствительности цели.</VPE_WordofProductivity.description>
+  <VPE_WordofProductivity.jobReportString>Использует способность: {0}</VPE_WordofProductivity.jobReportString>
+  <VPE_WordofProductivity.verbProperties.label>слово продуктивности</VPE_WordofProductivity.verbProperties.label>
 
   <!-- EN: blinding pulse -->
   <VPE_BlindingPulse.label>ослепляющий импульс</VPE_BlindingPulse.label>
   <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity. -->
   <VPE_BlindingPulse.description>Вызвать псионический шум в зрительных центрах мозга у всех, кто находится неподалёку от точки применения способности, фактически ослепляя тех, кто подвергся воздействию способности. Длится примерно полминуты, успех зависит от психической чувствительности целей.</VPE_BlindingPulse.description>
+  <VPE_BlindingPulse.jobReportString>Использует способность: {0}</VPE_BlindingPulse.jobReportString>
+  <VPE_BlindingPulse.verbProperties.label>ослепляющий импульс</VPE_BlindingPulse.verbProperties.label>
 
   <!-- EN: word of alliance -->
   <VPE_WordofAlliance.label>слово альянса</VPE_WordofAlliance.label>
   <!-- EN: Speak words of friendship and benefits to a close target using psychic suggestion, helping them realize that you’re not all that bad. Only works on those willing to listen and effect scales with the caster's psychic sensitivity. -->
   <VPE_WordofAlliance.description>Связать слова о дружбе и взаимовыгоде с психическим воздействием на находящуюся поблизости цель, подталкивая её к осознанию того, что с вами не так уж и плохо. Работает только на тех, кто готов слушать. Эффект зависит от психической чувствительности того, кто эту способность использует.</VPE_WordofAlliance.description>
+  <VPE_WordofAlliance.jobReportString>Использует способность: {0}</VPE_WordofAlliance.jobReportString>
+  <VPE_WordofAlliance.verbProperties.label>слово альянса</VPE_WordofAlliance.verbProperties.label>
 
   <!-- EN: group link -->
   <VPE_GroupLink.label>групповая связь</VPE_GroupLink.label>
   <!-- EN: Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range. -->
   <VPE_GroupLink.description>Создаёт вокруг применившего психосферу, позволяющую ему проецировать любые «слова», предназначенные для одной цели, на находящихся вокруг людей. Эффект исчезает, если цели покидают радиус действия.</VPE_GroupLink.description>
+  <VPE_GroupLink.jobReportString>Использует способность: {0}</VPE_GroupLink.jobReportString>
+  <VPE_GroupLink.verbProperties.label>групповая связь</VPE_GroupLink.verbProperties.label>
 
   <!-- EN: word of pain -->
   <VPE_WordofPain.label>слово боли</VPE_WordofPain.label>
   <!-- EN: Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity. -->
   <VPE_WordofPain.description>Перегрузить нервные окончания цели, параллельно воздействуя на болевые центры мозга. Эффект от способности возрастает вместе с психической чувствительностью цели.</VPE_WordofPain.description>
+  <VPE_WordofPain.jobReportString>Использует способность: {0}</VPE_WordofPain.jobReportString>
+  <VPE_WordofPain.verbProperties.label>слово боли</VPE_WordofPain.verbProperties.label>
 
   <!-- EN: mind break -->
   <VPE_MindBreak.label>слом разума</VPE_MindBreak.label>
   <!-- EN: Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions. -->
   <VPE_MindBreak.description>Волна направленного псионического шума создаёт необратимые изменения в мозге цели, превращая её в не знающего усталости раба. Гарантированно разозлит фракцию, к которой ранее принадлежала цель.</VPE_MindBreak.description>
+  <VPE_MindBreak.jobReportString>Использует способность: {0}</VPE_MindBreak.jobReportString>
+  <VPE_MindBreak.verbProperties.label>слом разума</VPE_MindBreak.verbProperties.label>
 
   <!-- EN: word of protection -->
   <VPE_WordofProtection.label>слово защиты</VPE_WordofProtection.label>
   <!-- EN: Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity. -->
   <VPE_WordofProtection.description>Психически изменить структуру тела цели с помощью гармонизированного псионического шума, делая её более устойчивым к урону. Эффект длительный и увеличивается с психочувствительностью применившего.</VPE_WordofProtection.description>
+  <VPE_WordofProtection.jobReportString>Использует способность: {0}</VPE_WordofProtection.jobReportString>
+  <VPE_WordofProtection.verbProperties.label>слово защиты</VPE_WordofProtection.verbProperties.label>
 
   <!-- EN: drain psyessence -->
   <VPE_DrainPsyessence.label>извлечь пси-эссенцию</VPE_DrainPsyessence.label>
   <!-- EN: Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions. -->
   <VPE_DrainPsyessence.description>Применяется по отношению к обездвиженным псионически одарённым персонажам. С помощью сильного направленного псионического шума плоть цели расплавляется и превращается в пси-эссенцию, пригодную для поглощения пользователем для подкрепления его псионических способностей. Последнее мгновение псионического разрушения ощущается всеми в радиусе многих километров вокруг, что неизбежно приведёт к дипломатическим последствиям.</VPE_DrainPsyessence.description>
+  <VPE_DrainPsyessence.jobReportString>Использует способность: {0}</VPE_DrainPsyessence.jobReportString>
+  <VPE_DrainPsyessence.verbProperties.label>извлечь пси-эссенцию</VPE_DrainPsyessence.verbProperties.label>
 
   <!-- EN: mass hallucination -->
   <VPE_MassHallucination.label>массовые галлюцинации</VPE_MassHallucination.label>
   <!-- EN: Creating a massive burst of psychic suggestion, convinced nearby pawns that rooms are the absolute best they could possibly be. The resulting coma for the caster and the effect lasts for five days. -->
   <VPE_MassHallucination.description>Создать выброс псионической энергии, направленной на то, чтобы убедить людей вокруг, что помещения выглядят абсолютно идеально возможным образом. Эффект сохраняется в течение пяти дней. Столько же длится и кома применившего после использования способности.</VPE_MassHallucination.description>
+  <VPE_MassHallucination.jobReportString>Использует способность: {0}</VPE_MassHallucination.jobReportString>
+  <VPE_MassHallucination.verbProperties.label>массовые галлюцинации</VPE_MassHallucination.verbProperties.label>
 </LanguageData>
