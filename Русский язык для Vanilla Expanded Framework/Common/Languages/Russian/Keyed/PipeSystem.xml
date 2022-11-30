@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: {0} consumption -->
-  <PipeSystem_Consumption>{replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"} потребляется</PipeSystem_Consumption>
+  <PipeSystem_Consumption>{lookup: {0}; Case; 1} потребляется</PipeSystem_Consumption>
   <!-- EN: The amount per day of {0} this building will draw from the {1} grid. -->
-  <PipeSystem_ConsumptionExplained>Количество {replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"}, которое постройка потребляет в день из сети {replace: {1}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"} .</PipeSystem_ConsumptionExplained>
+  <PipeSystem_ConsumptionExplained>Количество {lookup: {0}; Case; 1}, которое постройка потребляет в день из сети {lookup: {0}; Case; 1}.</PipeSystem_ConsumptionExplained>
 
   <!-- EN: {0} idle consumption -->
-  <PipeSystem_IdleConsumption>{replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"} потребляется в простое</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumption>{lookup: {0}; Case; 1} потребляется в простое</PipeSystem_IdleConsumption>
   <!-- EN: The amount of {0} this building will draw from the {1} grid when idle. -->
-  <PipeSystem_IdleConsumptionExplained>Количество {replace: {0}; "Глубтопливо"-"глубтоплива"; "Химтопливо"-"химтоплива"}, которое постройка потребляет в день во время простоя из сети {1}.</PipeSystem_IdleConsumptionExplained>
+  <PipeSystem_IdleConsumptionExplained>Количество {lookup: {0}; Case; 1}, которое постройка потребляет в день во время простоя из сети {1}.</PipeSystem_IdleConsumptionExplained>
 
   <!-- EN: {0} production -->
-  <PipeSystem_Production>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} производится</PipeSystem_Production>
+  <PipeSystem_Production>{lookup: {0}; Case; 1} производится</PipeSystem_Production>
   <!-- EN: The amount per day of {0} this building will produce for the {1} grid. -->
-  <PipeSystem_ProductionExplained>Количество {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"}, которое постройка производит в день и добавляет в сеть {1}.</PipeSystem_ProductionExplained>
+  <PipeSystem_ProductionExplained>Количество {lookup: {0}; Case; 1}, которое постройка производит в день и добавляет в сеть {1}.</PipeSystem_ProductionExplained>
 
   <!-- EN: Deconstruct {0} pipes -->
-  <PipeSystem_DeconstructLabel>Разобрать {replace: {0}; "Глубтопливо"-"Глубтопливную"; "Химтопливо"-"Химтопливную"} трубу</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructLabel>Разобрать трубу {lookup: {0}; Case; 1}</PipeSystem_DeconstructLabel>
   <!-- EN: Only deconstruct pipes part of the {0} network. -->
   <PipeSystem_DeconstructDesc>Будут разобраны только трубы, транспортирующие {0}.</PipeSystem_DeconstructDesc>
 
   <!-- EN: {0} output: -->
-  <PipeSystem_ResourceOutput>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} получается:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceOutput>{lookup: {0}; Case; 1} получается:</PipeSystem_ResourceOutput>
   <!-- EN: {0} needed: -->
-  <PipeSystem_ResourceNeeded>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} требуется:</PipeSystem_ResourceNeeded>
+  <PipeSystem_ResourceNeeded>{lookup: {0}; Case; 1} требуется:</PipeSystem_ResourceNeeded>
 
   <!-- EN: {0} stored: -->
-  <PipeSystem_ResourceStored>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} хранится:</PipeSystem_ResourceStored>
+  <PipeSystem_ResourceStored>{lookup: {0}; Case; 1} хранится:</PipeSystem_ResourceStored>
 
   <!-- EN: Not connected to {}. -->
-  <PipeSystem_NotConnected>Не соединено с сетью {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"}.</PipeSystem_NotConnected>
+  <PipeSystem_NotConnected>Не соединено с сетью {lookup: {0}; Case; 1}.</PipeSystem_NotConnected>
   <!-- EN: {0} excess (stored) in network: -->
-  <PipeSystem_ExcessStored>Излишков (запасов) {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} в сети:</PipeSystem_ExcessStored>
+  <PipeSystem_ExcessStored>Излишков (запасов) {lookup: {0}; Case; 1} в сети:</PipeSystem_ExcessStored>
   <!-- EN: {0} stored in network: -->
-  <PipeSystem_Stored>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} в сети:</PipeSystem_Stored>
+  <PipeSystem_Stored>{lookup: {0}; Case; 1} в сети:</PipeSystem_Stored>
 
   <!-- EN: Valve closed. -->
   <PipeSystem_ValveClosed>Вентиль закрыт.</PipeSystem_ValveClosed>
@@ -64,9 +64,9 @@
   <!-- EN: Buffer: {0} -->
   <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
   <!-- EN: Producing {0} {1}. Cycle progress: {2}. -->
-  <PipeSystem_Producing>Производит {0} ед. {replace: {1}; "Глубинное топливо"-"глубинного топлива"; "Химическое топливо"-"химического топлива"}. Прогресс: {2}.</PipeSystem_Producing>
+  <PipeSystem_Producing>Производит {0} ед. {lookup: {0}; Case; 1}. Прогресс: {2}.</PipeSystem_Producing>
   <!-- EN: Produce {0} {1}. -->
-  <PipeSystem_Produce>Производит {0} ед. {replace: {1}; "Глубинное топливо"-"глубинного топлива"; "Химическое топливо"-"химического топлива"}.</PipeSystem_Produce>
+  <PipeSystem_Produce>Производит {0} ед. {lookup: {0}; Case; 1}.</PipeSystem_Produce>
   <!-- EN: Choose result -->
   <PipeSystem_ChooseResult>Выбрать продукт</PipeSystem_ChooseResult>
   <!-- EN: Choose processor result. -->
