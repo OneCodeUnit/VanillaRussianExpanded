@@ -42,6 +42,14 @@
   <VSE.Expertise19>мастер планетарного масштаба</VSE.Expertise19>
   <!-- EN: Legendary Expert -->
   <VSE.Expertise20>легендарный мастер</VSE.Expertise20>
+  <!-- EN: Expertise -->
+  <VSE.Expertise>Мастерство</VSE.Expertise>
+  <!-- EN: Forgetting Speed -->
+  <VSE.ForgetSpeed>Скорость потери</VSE.ForgetSpeed>
+  <!-- EN: Effects: -->
+  <VSE.Effects>Эффекты:</VSE.Effects>
+  <!-- EN: Effects (per level): -->
+  <VSE.Effects.PerLevel>Эффекты (за уровень):</VSE.Effects.PerLevel>
   <!-- EN: Colonist can gain expertise -->
   <VSE.ExpertiseAvailable>Поселенец может получить мастерство</VSE.ExpertiseAvailable>
   <!-- EN: Colonists can gain expertise -->
@@ -62,28 +70,36 @@
   <VSE.SkillTooLow>Низкий уровень</VSE.SkillTooLow>
   <!-- EN: At max expertise -->
   <VSE.AtMaxExpertise>Максимум</VSE.AtMaxExpertise>
+  <!-- EN: Expertise overlap -->
+  <VSE.ExpertiseOverlap>Наложение мастерства</VSE.ExpertiseOverlap>
   <!-- EN: Vanilla Skills Expanded -->
   <VSE>Vanilla Skills Expanded</VSE>
   <!-- EN: Maximum expertise per colonist: -->
   <VSE.MaxExpertise>Количества мастерства поселенца:</VSE.MaxExpertise>
   <!-- EN: Allow multiple critical passions -->
-  <VVE.AllowMultiCritical>Разрешить несколько критических интересов</VVE.AllowMultiCritical>
+  <VSE.AllowMultiCritical>Разрешить несколько критических интересов</VSE.AllowMultiCritical>
   <!-- EN: If false, will ensure that only one Critical passion will generate per pawn, to avoid them overlapping and causing them both to be useless. -->
-  <VVE.AllowMultiCritical.Desc>Если выключено, убедитесь, что у каждого персонажа только один критический интерес. Иначе они перекроют друг друга и станут бесполезными.</VVE.AllowMultiCritical.Desc>
+  <VSE.AllowMultiCritical.Desc>Если выключено, убедитесь, что у каждого персонажа только один критический интерес. Иначе они перекроют друг друга и станут бесполезными.</VSE.AllowMultiCritical.Desc>
   <!-- EN: Critical effects passions -->
-  <VVE.CriticalEffectPassions>Эффекты критических интересов</VVE.CriticalEffectPassions>
+  <VSE.CriticalEffectPassions>Эффекты критических интересов</VSE.CriticalEffectPassions>
   <!-- EN: If false, the learn rate factor debuff on other skills from Critical will not effect other skills the pawn is passionate about. -->
-  <VVE.CriticalEffectPassions.Desc>Если выключено, отрицательные бонусы к скорости изучения других навыков без критического интереса не будут применяться.</VVE.CriticalEffectPassions.Desc>
+  <VSE.CriticalEffectPassions.Desc>Если выключено, отрицательные бонусы к скорости изучения других навыков без критического интереса не будут применяться.</VSE.CriticalEffectPassions.Desc>
   <!-- EN: Edit passion commonalities, groups are separate -->
-  <VVE.Commonalities>Редактировать бонусы от интересов.</VVE.Commonalities>
+  <VSE.Commonalities>Редактировать бонусы от интересов.</VSE.Commonalities>
   <!-- EN: Reset to default -->
-  <VVE.Reset>Сбросить</VVE.Reset>
+  <VSE.Reset>Сбросить</VSE.Reset>
   <!-- EN: Bad: -->
-  <VVE.Bad>Отрицательные:</VVE.Bad>
+  <VSE.Bad>Отрицательные:</VSE.Bad>
   <!-- EN: Good: -->
-  <VVE.Good>Положительные:</VVE.Good>
+  <VSE.Good>Положительные:</VSE.Good>
+  <!-- EN: Allow expertise overlap -->
+  <VSE.AllowExpertiseOverlap>Разрешить наложение мастерства</VSE.AllowExpertiseOverlap>
+  <!-- EN: If false, then only 1 expertise can be chosen per skill, regardless of max expertise setting. -->
+  <VSE.AllowExpertiseOverlap.Desc>Если запретить, то будет возможно только одно мастерство для каждого навыка вне зависимости от максимального количества мастерства в настройках.</VSE.AllowExpertiseOverlap.Desc>
   <!-- EN: Re-enable skill loss -->
   <VSE.EnableSkillLoss>Вернуть потерю опыта</VSE.EnableSkillLoss>
+  <!-- EN: Enable "Expertise Available" alert -->
+  <VSE.EnableAlert>Включить предупреждения о наложении мастерства</VSE.EnableAlert>
   <!-- EN: By default, Ducks' Insane Skills disables all skill loss. By selecting this option, this mod will override Ducks and enable it again. Use this if you still want to be able to take advantage of the forget speed changes in the new passions. -->
   <VSE.EnableSkillsLoss.Desc>По умолчанию мод «Ducks' Insane Skills» отключает потерю опыта в навыках. Включив эту настройку, можно вернуть потерю обратно. Включите, если хотите использовать все преимущества и недостатки новых видов интереса.</VSE.EnableSkillsLoss.Desc>
 </LanguageData>

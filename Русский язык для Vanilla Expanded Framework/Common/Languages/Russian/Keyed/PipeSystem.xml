@@ -85,4 +85,11 @@
   <PipeSystem_AllowManualRefill>Разрешить ручное наполнение</PipeSystem_AllowManualRefill>
   <!-- EN: Allow pawns to directly refill storage -->
   <PipeSystem_AllowManualRefillDesc>Разрешить напрямую наполнять это хранилище</PipeSystem_AllowManualRefillDesc>
+
+  <!-- EN: Can’t extract: Tanks are full -->
+  <PipeSystem_CantExtract>Нельзя извлечь: хранилища заполнены</PipeSystem_CantExtract>
+  <!-- EN: {0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits. -->
+  <PipeSystem_CantPlaceHere>{0} можно расположить только на месторождениях, где есть {1}. Используйте глубинные сканеры, чтобы найти их.</PipeSystem_CantPlaceHere>
+  <!-- EN: Amount left in deposit: {0}. -->
+  <PipeSystem_ResourceLeft>Осталось в месторождении: {0}.</PipeSystem_ResourceLeft>
 </LanguageData>
