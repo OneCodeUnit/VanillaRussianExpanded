@@ -10,11 +10,16 @@
   <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs new barrel -->
   <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: ancient security turret bullet -->
+  <VFEA_Bullet_AncientSecurityTurret.label>пуля из древней охранной турели</VFEA_Bullet_AncientSecurityTurret.label>
 
   <!-- EN: ancient security turret gun -->
   <VFEA_Gun_AncientSecurityTurret.label>древняя охранная турель</VFEA_Gun_AncientSecurityTurret.label>
   <!-- EN: A very reliable automatic gun made to be mounted on a turret.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents. -->
   <VFEA_Gun_AncientSecurityTurret.description>Крайне надёжная автоматическая пушка переделанная в турель.\n\nДанное устройство было сделано при помощи утраченных технологий древних цивилизаций и не может быть воспроизведено. Оно никогда не будет ломаться, а также более эффективно во время солнечных вспышек.</VFEA_Gun_AncientSecurityTurret.description>
+  <!-- EN: ancient security turret gun -->
+  <VFEA_Gun_AncientSecurityTurret.verbs.Verb_Shoot.label>древняя охранная турель</VFEA_Gun_AncientSecurityTurret.verbs.Verb_Shoot.label>
+  
 
 
   <!-- EN: ancient point defense turret -->
@@ -32,4 +37,8 @@
   <VFEA_Gun_AncientPointDefenseTurret.label>древняя турель точечной обороны</VFEA_Gun_AncientPointDefenseTurret.label>
   <!-- EN: An array of miniguns that can be attached to a turret. -->
   <VFEA_Gun_AncientPointDefenseTurret.description>Миниганы, закреплённые на турели.</VFEA_Gun_AncientPointDefenseTurret.description>
+  <!-- EN: ancient point defense turret bullet -->
+  <VFEA_Bullet_AncientPointDefenseTurret.label>пуля из древней турели точечной обороны</VFEA_Bullet_AncientPointDefenseTurret.label>
+  <!-- EN: point-defense -->
+  <VFEA_Gun_AncientPointDefenseTurret.verbs.pointdefense.label>точечная оборона</VFEA_Gun_AncientPointDefenseTurret.verbs.pointdefense.label>
 </LanguageData>

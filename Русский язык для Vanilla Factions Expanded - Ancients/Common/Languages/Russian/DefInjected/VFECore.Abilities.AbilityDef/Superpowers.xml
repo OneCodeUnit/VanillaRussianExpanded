@@ -4,114 +4,160 @@
   <VFEA_SuperJump.label>суперпрыжок</VFEA_SuperJump.label>
   <!-- EN: Jump over a short distance (10 cells) within line of sight to close the distance to the enemy. -->
   <VFEA_SuperJump.description>Прыжок на короткое расстояние (10 клеток), находящееся в поле зрения. Позволяет сократить дистанцию с противником.</VFEA_SuperJump.description>
+  <VFEA_SuperJump.jobReportString>Использует способность: {0}</VFEA_SuperJump.jobReportString>
+  <VFEA_SuperJump.verbProperties.label>суперпрыжок</VFEA_SuperJump.verbProperties.label>
 
   <!-- EN: berserk (telepathy) -->
   <VFEA_Berserk.label>берсерк (телепатия)</VFEA_Berserk.label>
   <!-- EN: Cast on an enemy to turn them on their allies. -->
   <VFEA_Berserk.description>Заставьте врага атаковать своих союзников.</VFEA_Berserk.description>
+  <VFEA_Berserk.jobReportString>Использует способность: {0}</VFEA_Berserk.jobReportString>
+  <VFEA_Berserk.verbProperties.label>берсерк (телепатия)</VFEA_Berserk.verbProperties.label>
 
   <!-- EN: calm (telepathy) -->
   <VFEA_Calm.label>спокойствие (телепатия)</VFEA_Calm.label>
   <!-- EN: Cast on a friend to instantly snap them out of a mental break. -->
   <VFEA_Calm.description>Заставляет союзника завершить нервный срыв.</VFEA_Calm.description>
+  <VFEA_Calm.jobReportString>Использует способность: {0}</VFEA_Calm.jobReportString>
+  <VFEA_Calm.verbProperties.label>спокойствие (телепатия)</VFEA_Calm.verbProperties.label>
 
   <!-- EN: psychic shock -->
   <VFEA_PsychicShock.label>психический шок</VFEA_PsychicShock.label>
   <!-- EN: Fire a psychic shock on the enemy, rendering them unconscious. -->
   <VFEA_PsychicShock.description>Вызывает психический шок у врага и выводит его из строя.</VFEA_PsychicShock.description>
+  <VFEA_PsychicShock.jobReportString>Использует способность: {0}</VFEA_PsychicShock.jobReportString>
+  <VFEA_PsychicShock.verbProperties.label>психический шок</VFEA_PsychicShock.verbProperties.label>
 
   <!-- EN: invisibility -->
   <VFEA_Invisibility.label>невидимость</VFEA_Invisibility.label>
   <!-- EN: Turns invisible for 60 seconds. -->
   <VFEA_Invisibility.description>Делает невидимым на 60 секунд.</VFEA_Invisibility.description>
+  <VFEA_Invisibility.jobReportString>Использует способность: {0}</VFEA_Invisibility.jobReportString>
+  <VFEA_Invisibility.verbProperties.label>невидимость</VFEA_Invisibility.verbProperties.label>
 
   <!-- EN: self-control -->
   <VFEA_SelfControl.label>самоконтроль</VFEA_SelfControl.label>
   <!-- EN: When activated, immediately stop any mental breaks this pawn is under effect of. -->
   <VFEA_SelfControl.description>Немедленное выводит персонажа из состояния нервного срыва.</VFEA_SelfControl.description>
+  <VFEA_SelfControl.jobReportString>Использует способность: {0}</VFEA_SelfControl.jobReportString>
+  <VFEA_SelfControl.verbProperties.label>самоконтроль</VFEA_SelfControl.verbProperties.label>
 
   <!-- EN: overshield -->
   <VFEA_Overshield.label>сверхщит</VFEA_Overshield.label>
   <!-- EN: Generate an impenetrable shield around yourself that lasts 30 seconds. -->
   <VFEA_Overshield.description>На 30 секунд создаёт вокруг персонажа непроницаемый щит.</VFEA_Overshield.description>
+  <VFEA_Overshield.jobReportString>Использует способность: {0}</VFEA_Overshield.jobReportString>
+  <VFEA_Overshield.verbProperties.label>сверхщит</VFEA_Overshield.verbProperties.label>
 
   <!-- EN: summon lightning -->
   <VFEA_SummonLightning.label>призыв молнии</VFEA_SummonLightning.label>
   <!-- EN: Designate an area that will be blasted by lightning bolts. -->
   <VFEA_SummonLightning.description>Вызывает молнии на выбранную территорию.</VFEA_SummonLightning.description>
+  <VFEA_SummonLightning.jobReportString>Использует способность: {0}</VFEA_SummonLightning.jobReportString>
+  <VFEA_SummonLightning.verbProperties.label>призыв молнии</VFEA_SummonLightning.verbProperties.label>
 
   <!-- EN: animal speech -->
   <VFEA_AnimalSpeech.label>общение с животными</VFEA_AnimalSpeech.label>
   <!-- EN: When cast on a man hunting animal, calms it. When cast on a wild animal, tame it. -->
   <VFEA_AnimalSpeech.description>Заставляет успокоиться агрессивное животное или приручить дикое.</VFEA_AnimalSpeech.description>
+  <VFEA_AnimalSpeech.jobReportString>Использует способность: {0}</VFEA_AnimalSpeech.jobReportString>
+  <VFEA_AnimalSpeech.verbProperties.label>общение с животными</VFEA_AnimalSpeech.verbProperties.label>
 
   <!-- EN: empathy -->
   <VFEA_Empathy.label>эмпатия</VFEA_Empathy.label>
   <!-- EN: Cast on an ally to give them a strong mood buff lasting 24 hours. -->
   <VFEA_Empathy.description>Даёт союзнику бонус к настроению на 24 часа.</VFEA_Empathy.description>
+  <VFEA_Empathy.jobReportString>Использует способность: {0}</VFEA_Empathy.jobReportString>
+  <VFEA_Empathy.verbProperties.label>эмпатия</VFEA_Empathy.verbProperties.label>
 
   <!-- EN: heal others -->
   <VFEA_Heal.label>лечение окружающих</VFEA_Heal.label>
   <!-- EN: Cast on an ally to cure them of all their wounds. -->
   <VFEA_Heal.description>Излечивает раны союзника.</VFEA_Heal.description>
+  <VFEA_Heal.jobReportString>Использует способность: {0}</VFEA_Heal.jobReportString>
+  <VFEA_Heal.verbProperties.label>лечение окружающих</VFEA_Heal.verbProperties.label>
 
   <!-- EN: glory kill -->
   <VFEA_GloryKill.label>зверское убийство</VFEA_GloryKill.label>
   <!-- EN: Kill a random enemy in 1 cell radius, spawning large amount of blood everywhere, and removing a random amount of their limbs. -->
   <VFEA_GloryKill.description>Убивает случайного врага в радиусе одной клетки. Из него проливается огромное количество крови, а некоторое случайное количество конечностей отрывается.</VFEA_GloryKill.description>
+  <VFEA_GloryKill.jobReportString>Использует способность: {0}</VFEA_GloryKill.jobReportString>
+  <VFEA_GloryKill.verbProperties.label>зверское убийство</VFEA_GloryKill.verbProperties.label>
 
   <!-- EN: electro-magnetic pulse -->
   <VFEA_ElectromagneticPulse.label>электромагнитный импульс</VFEA_ElectromagneticPulse.label>
   <!-- EN: Generate a large EMP explosion around yourself, disabling all electronics in radius. -->
   <VFEA_ElectromagneticPulse.description>Вызывает мощный ЭМИ-взрыв вокруг персонажа и выключает всю электронику.</VFEA_ElectromagneticPulse.description>
+  <VFEA_ElectromagneticPulse.jobReportString>Использует способность: {0}</VFEA_ElectromagneticPulse.jobReportString>
+  <VFEA_ElectromagneticPulse.verbProperties.label>электромагнитный импульс</VFEA_ElectromagneticPulse.verbProperties.label>
 
   <!-- EN: fire breath -->
   <VFEA_FireBreath.label>огненное дыхание</VFEA_FireBreath.label>
   <!-- EN: Spew fire up to 12 cells range in front of you, burning enemies and sending them running. -->
   <VFEA_FireBreath.description>Позволяет выдохнуть огонь на 12 клеток вперёд, чтобы поджечь и обратить врагов в бегство.</VFEA_FireBreath.description>
+  <VFEA_FireBreath.jobReportString>Использует способность: {0}</VFEA_FireBreath.jobReportString>
+  <VFEA_FireBreath.verbProperties.label>огненное дыхание</VFEA_FireBreath.verbProperties.label>
 
   <!-- EN: ice breath -->
   <VFEA_IceBreath.label>ледяное дыхание</VFEA_IceBreath.label>
   <!-- EN: Spew ice up to 12 cells range in front of you, slowing enemies and applying high hypothermia. -->
   <VFEA_IceBreath.description>Позволяет выдохнуть лёд на 12 клеток вперёд, чтобы замедлить врагов и вызвать у них гипотермия.</VFEA_IceBreath.description>
+  <VFEA_IceBreath.jobReportString>Использует способность: {0}</VFEA_IceBreath.jobReportString>
+  <VFEA_IceBreath.verbProperties.label>ледяное дыхание</VFEA_IceBreath.verbProperties.label>
 
   <!-- EN: laser eyes -->
   <VFEA_LaserEyes.label>лазер из глаз</VFEA_LaserEyes.label>
   <!-- EN: Fire an incredibly powerful beam of energy from your eyes. Maximum range is 35. -->
   <VFEA_LaserEyes.description>Позволяет выпустить луч невероятной силы из глаз на расстояние до 35 клеток.</VFEA_LaserEyes.description>
+  <VFEA_LaserEyes.jobReportString>Использует способность: {0}</VFEA_LaserEyes.jobReportString>
+  <VFEA_LaserEyes.verbProperties.label>лазер из глаз</VFEA_LaserEyes.verbProperties.label>
 
   <!-- EN: matter phasing -->
   <VFEA_MatterPhasing.label>фазовый скачок</VFEA_MatterPhasing.label>
   <!-- EN: Turn on to phase through walls for 10 seconds. -->
   <VFEA_MatterPhasing.description>Позволяет проходить сквозь стены в течение 10 секунд.</VFEA_MatterPhasing.description>
+  <VFEA_MatterPhasing.jobReportString>Использует способность: {0}</VFEA_MatterPhasing.jobReportString>
+  <VFEA_MatterPhasing.verbProperties.label>фазовый скачок</VFEA_MatterPhasing.verbProperties.label>
 
   <!-- EN: electricity blast -->
   <VFEA_ElectricityBlast.label>электрозаряд</VFEA_ElectricityBlast.label>
   <!-- EN: Fire an arc of lightning that bounced between enemies, burning them and disabling any electronics. -->
   <VFEA_ElectricityBlast.description>Выпускает цепную молнию, которая переходит на другие цели, сжигает их и выводит из строя любую электронику.</VFEA_ElectricityBlast.description>
+  <VFEA_ElectricityBlast.jobReportString>Использует способность: {0}</VFEA_ElectricityBlast.jobReportString>
+  <VFEA_ElectricityBlast.verbProperties.label>электрозаряд</VFEA_ElectricityBlast.verbProperties.label>
 
   <!-- EN: speed burst -->
   <VFEA_SpeedBurst.label>ускорение</VFEA_SpeedBurst.label>
   <!-- EN: 4x Movement speed. Melee cooldown halved. Lasts 30 seconds. -->
   <VFEA_SpeedBurst.description>На 30 секунд ускоряет скорость передвижения в 4 раза и сокращает в 2 раза время между атаками.</VFEA_SpeedBurst.description>
+  <VFEA_SpeedBurst.jobReportString>Использует способность: {0}</VFEA_SpeedBurst.jobReportString>
+  <VFEA_SpeedBurst.verbProperties.label>ускорение</VFEA_SpeedBurst.verbProperties.label>
 
   <!-- EN: acid spitting -->
   <VFEA_AcidBreath.label>ядовитый плевок</VFEA_AcidBreath.label>
   <!-- EN: The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly. -->
   <VFEA_AcidBreath.description>У персонажа появляются мешочки с химикатами на груди. Они соединены со ртом при помощи трубок. Позволяет выплёвывать яд, который при контакте с кислородом образует комки едкого желе.</VFEA_AcidBreath.description>
+  <VFEA_AcidBreath.jobReportString>Использует способность: {0}</VFEA_AcidBreath.jobReportString>
+  <VFEA_AcidBreath.verbProperties.label>ядовитый плевок</VFEA_AcidBreath.verbProperties.label>
 
   <!-- EN: fireball -->
   <VFEA_Fireball.label>огненный шар</VFEA_Fireball.label>
   <!-- EN: The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire. -->
   <VFEA_Fireball.description>У персонажа появляется мешочек с химтопливом и многочисленные железы на ладонях. Каждые 30 секунд железы образуют в ладонях комочек воспламеняющегося вещества. Его можно бросить и поджечь небольшую область.</VFEA_Fireball.description>
+  <VFEA_Fireball.jobReportString>Использует способность: {0}</VFEA_Fireball.jobReportString>
+  <VFEA_Fireball.verbProperties.label>огненный шар</VFEA_Fireball.verbProperties.label>
 
   <!-- EN: metamorphosis (turtle) -->
   <VFEA_MetamorphosisTurtle.label>трансформация (черепаха)</VFEA_MetamorphosisTurtle.label>
   <!-- EN: The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a tortoise, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds. -->
   <VFEA_MetamorphosisTurtle.description>У персонажа появляется возможность концентрировать свою психическую силу, чтобы заставить тело принять представляемую форму. Черепахи, в данном случае. Здоровье, размер и навыки будут соответствовать этому животному. Через 60 секунд теле вернётся к прежней форме.</VFEA_MetamorphosisTurtle.description>
+  <VFEA_MetamorphosisTurtle.jobReportString>Использует способность: {0}</VFEA_MetamorphosisTurtle.jobReportString>
+  <VFEA_MetamorphosisTurtle.verbProperties.label>трансформация (черепаха)</VFEA_MetamorphosisTurtle.verbProperties.label>
 
   <!-- EN: metamorphosis (warg) -->
   <VFEA_MetamorphosisWarg.label>трансформация (варг)</VFEA_MetamorphosisWarg.label>
   <!-- EN: The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a warg, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds. -->
   <VFEA_MetamorphosisWarg.description>У персонажа появляется возможность концентрировать свою психическую силу, чтобы заставить тело принять представляемую форму. Варга, в данном случае. Здоровье, размер и навыки будут соответствовать этому животному. Через 60 секунд теле вернётся к прежней форме.</VFEA_MetamorphosisWarg.description>
+  <VFEA_MetamorphosisWarg.jobReportString>Использует способность: {0}</VFEA_MetamorphosisWarg.jobReportString>
+  <VFEA_MetamorphosisWarg.verbProperties.label>трансформация (варг)</VFEA_MetamorphosisWarg.verbProperties.label>
 </LanguageData>
