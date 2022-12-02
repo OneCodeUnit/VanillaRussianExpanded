@@ -9,17 +9,25 @@
   <VFEP_Artillery_FieldGun.label>полевое оружие</VFEP_Artillery_FieldGun.label>
   <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
   <VFEP_Artillery_FieldGun.description>Орудие, запускающее снаряды всех видов. Вариант миномёта, имеющий все его достоинства и недостатки, но имеет угол наводки лишь в 90 градусов в обмен на удвоенную скорость стрельбы.</VFEP_Artillery_FieldGun.description>
+  <!-- EN: field gun -->
+  <VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>полевое оружие</VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>
 
   <!-- EN: cannon -->
   <VFEP_Turret_Cannon.label>пушка</VFEP_Turret_Cannon.label>
   <!-- EN: A portable medieval cannon mounted on a 180 degree swivel that launches roughly-rounded balls of steel at a considerable range. The accuracy is rather lacking, but it is a vast improvement compared to catapults while also having a considerably faster fire rate. -->
   <VFEP_Turret_Cannon.description>Передвижная средневековая пушка, способная поворачиваться на 180 градусов и запускать круглые металлические шары на большие расстояния. Точность стрельбы оставляет желать лучшего, но пушка всё равно превосходит катапульты как минимум в скорости стрельбы.</VFEP_Turret_Cannon.description>
   <VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуются ядра</VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>Ядро</VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>Ядро</VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>
 
   <!-- EN: cannon -->
   <VFEP_Artillery_Cannon.label>пушка</VFEP_Artillery_Cannon.label>
   <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
   <VFEP_Artillery_Cannon.description>Орудие, запускающее снаряды всех видов. Вариант миномёта, имеющий все его достоинства и недостатки, но имеет угол наводки лишь в 90 градусов в обмен на удвоенную скорость стрельбы.</VFEP_Artillery_Cannon.description>
+  <!-- EN: cannon -->
+  <VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>пушка</VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>
 
   <!-- EN: cannonball -->
   <VFEP_Bullet_Cannonball.label>ядро</VFEP_Bullet_Cannonball.label>
