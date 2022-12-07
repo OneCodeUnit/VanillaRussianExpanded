@@ -22,21 +22,21 @@
   </VFEV_FenrirHunt.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_FenrirHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_FenrirHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The Fenrir has been found by others. The quest [resolvedQuestName] has expired. -->
-  <VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>Фенрир был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_FenrirHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Фенрир был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_FenrirHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_FenrirHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_FenrirHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After being discovered, the Fenrir fled. The quest [resolvedQuestName] has ended. -->
-  <VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>После обнаружения, Фенрир сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_FenrirHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После обнаружения, Фенрир сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_FenrirHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Payment arrived -->
-  <VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Оплата прибыла</VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
   <!-- EN: You have defeated the Fenrir!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>Вы победили Фенрира!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Вы победили Фенрира!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_FenrirHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
 
   <!-- EN:     
     <li>questName(priority=1)->[asker_nameDef]'s Lothurr [hunt]</li>
@@ -60,21 +60,21 @@
   </VFEV_LothurrHunt.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_LothurrHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_LothurrHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The Lothurr has been found by others. The quest [resolvedQuestName] has expired. -->
-  <VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>Лодур был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_LothurrHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Лодур был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_LothurrHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_LothurrHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_LothurrHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After being discovered, the Lothurr fled. The quest [resolvedQuestName] has ended. -->
-  <VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>После обнаружения, Лодур сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_LothurrHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После обнаружения, Лодур сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_LothurrHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Payment arrived -->
-  <VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Оплата прибыла</VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
   <!-- EN: You have defeated the Lothurr!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>Вы победили Лодура!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Вы победили Лодура!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_LothurrHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
 
   <!-- EN:    
     <li>questName(priority=1)->[asker_nameDef]'s Njörun [hunt]</li>
@@ -98,21 +98,21 @@
   </VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_NjorunHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_NjorunHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The Njörun have been found by others. The quest [resolvedQuestName] has expired. -->
-  <VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>Ньёрун был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_NjorunHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Ньёрун был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_NjorunHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_NjorunHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_NjorunHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After being discovered, the Njörun fled. The quest [resolvedQuestName] has ended. -->
-  <VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>После обнаружения, Ньёрун сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_NjorunHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После обнаружения, Ньёрун сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_NjorunHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Payment arrived -->
-  <VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Оплата прибыла</VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
   <!-- EN: You have defeated the Njörun!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>Вы победили Ньёруна!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Вы победили Ньёруна!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_NjorunHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
 
   <!-- EN:     
     <li>questName(priority=1)->[asker_nameDef]'s Thrumbo [hunt]</li>
@@ -136,21 +136,21 @@
   </VFEV_ThrumboHunt.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_ThrumboHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The Thrumbo has been found by others. The quest [resolvedQuestName] has expired. -->
-  <VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>Трумбо был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Трумбо был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_ThrumboHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_ThrumboHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After being discovered, the Thrumbo fled. The quest [resolvedQuestName] has ended. -->
-  <VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>После обнаружения, Трумбо сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После обнаружения, Трумбо сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_ThrumboHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Payment arrived -->
-  <VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Оплата прибыла</VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
   <!-- EN: You have defeated the Thrumbo!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>Вы победили Трумбо!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Вы победили Трумбо!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_ThrumboHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
 
   <!-- EN:     
     <li>questName(priority=1)->[asker_nameDef]'s Odin [hunt]</li>
@@ -174,19 +174,19 @@
   </VFEV_OdinHunt.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>
+  <VFEV_OdinHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OdinHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: Odin has been found by others. The quest [resolvedQuestName] has expired. -->
-  <VFEV_OdinHunt.LetterTextQuestExpired.slateRef>Один был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OdinHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_OdinHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Один был найден кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OdinHunt.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>
+  <VFEV_OdinHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_OdinHunt.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After being discovered, Odin went away. The quest [resolvedQuestName] has ended. -->
-  <VFEV_OdinHunt.LetterTextQuestFailed.slateRef>После обнаружения, Один сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_OdinHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_OdinHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После обнаружения, Один сбежал. Задание «[resolvedQuestName]» окончено.</VFEV_OdinHunt.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Payment arrived -->
-  <VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>
+  <VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Оплата прибыла</VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
   <!-- EN: You have defeated the Odin!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>Вы победили Одина!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Вы победили Одина!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel -->
-  <VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>
+  <VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] единиц ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFEV_OdinHunt.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
 </LanguageData>
