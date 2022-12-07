@@ -4,19 +4,39 @@
   <VFEI_Artifacts_PsychicPacifier.label>пси-умиротворитель</VFEI_Artifacts_PsychicPacifier.label>
   <!-- EN: One-use artifact that directs psychic pacifying blast towards a character, making them join your faction. There is a large risk of brain damage. It works at long distances, and through walls. -->
   <VFEI_Artifacts_PsychicPacifier.description>Одноразовый артефакт, который направляет психический умиротворяющий взрыв на персонажа, заставляя его присоединиться к вашей фракции. Существует большая вероятность повредить мозг. Он действует на больших расстояниях и через стены.</VFEI_Artifacts_PsychicPacifier.description>
+  <!-- EN: charge -->
+  <VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.chargeNoun>заряд</VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.cooldownGerund>перезаряжается</VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.cooldownGerund>
+  <!-- EN: psychic pacifier -->
+  <VFEI_Artifacts_PsychicPacifier.verbs.psychic_animal_tamer.label>пси-умиротворитель</VFEI_Artifacts_PsychicPacifier.verbs.psychic_animal_tamer.label>
 
   <!-- EN: psychic animal tamer -->
   <VFEI_Artifacts_PsychicAnimalTamer.label>пси-приручатель</VFEI_Artifacts_PsychicAnimalTamer.label>
   <!-- EN: A limited-use psychic animal tamer. It overwhelms the target's mind with terrifying mental persuasion, dropping it into a transcendental state, in which it gets trusting and keen with you. There is a risk of brain damage. It works at long distances, and through walls. -->
   <VFEI_Artifacts_PsychicAnimalTamer.description>Одноразовый укротитель животных. Он подавляет сознание цели жутким ментальным убеждением, погружая его в трансцендентное состояние, в котором он становится доверчивым и увлеченным вами. Существует большая вероятность повредить мозг. Он действует на больших расстояниях и через стены.</VFEI_Artifacts_PsychicAnimalTamer.description>
+  <!-- EN: charge -->
+  <VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.chargeNoun>заряд</VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.cooldownGerund>перезаряжается</VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.cooldownGerund>
+  <!-- EN: psychic animal tamer -->
+  <VFEI_Artifacts_PsychicAnimalTamer.verbs.psychic_animal_tamer.label>пси-приручатель</VFEI_Artifacts_PsychicAnimalTamer.verbs.psychic_animal_tamer.label>
 
   <!-- EN: archotech eraser -->
   <VFEI_Artifacts_ArchotechEraser.label>архостиратель</VFEI_Artifacts_ArchotechEraser.label>
   <!-- EN: One-use artifact that utilises a vanometric core to erase everything in a radius of 10 from existence. Needs to be manually triggered. -->
   <VFEI_Artifacts_ArchotechEraser.description>Одноразовый артефакт, использующий ванометрическое ядро, чтобы стереть из существования всё в радиусе 10. Активируется вручную.</VFEI_Artifacts_ArchotechEraser.description>
+  <!-- EN: charge -->
+  <VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.chargeNoun>заряд</VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.cooldownGerund>перезаряжается</VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.cooldownGerund>
+  <!-- EN: archotech eraser -->
+  <VFEI_Artifacts_ArchotechEraser.verbs.archotech_eraser.label>архостиратель</VFEI_Artifacts_ArchotechEraser.verbs.archotech_eraser.label>
 
   <!-- EN: archotech teleporter -->
   <VFEI_Artifacts_ArchotechTeleporter.label>архотелепортатор</VFEI_Artifacts_ArchotechTeleporter.label>
   <!-- EN: One-use artifact which allows to transport up to 500 kg of mass from one place to any other place on the planet. -->
   <VFEI_Artifacts_ArchotechTeleporter.description>Одноразовый артефакт, позволяющий транспортировать до 500 кг массы из одного места в любое другое место на планете. Нельзя использовать для дарения подарков или налёта на другую фракцию.</VFEI_Artifacts_ArchotechTeleporter.description>
+  <!-- EN: Activate {0_label} -->
+  <VFEI_Artifacts_ArchotechTeleporter.comps.CompUsable.useLabel>Активировать {0_label}</VFEI_Artifacts_ArchotechTeleporter.comps.CompUsable.useLabel>
 </LanguageData>
