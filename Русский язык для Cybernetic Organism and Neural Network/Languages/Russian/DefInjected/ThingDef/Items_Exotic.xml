@@ -5,36 +5,47 @@
 
   <CONN_NeuromodBooster.label>нейромодификатор-усилитель</CONN_NeuromodBooster.label>
   <CONN_NeuromodBooster.description>Нейронный модификатор представляет собой небольшое устройство, вводимое в глаз прямо через зрачок, с целью внесения изменений в имеющуюся структуру головного мозга. Данный тип нейромодификаторов немого увеличивает все навыки.</CONN_NeuromodBooster.description>
+  <!-- Use neuromod booster -->
+  <CONN_NeuromodBooster.comps.CompUsable_Neurotrainer.useLabel>Использовать нейромодификатор-усилитель</CONN_NeuromodBooster.comps.CompUsable_Neurotrainer.useLabel>
 
 
   <!-- ############## Brainwash ############## -->
 
   <CONN_Brainwash.label>Мозговыжималка</CONN_Brainwash.label>
   <CONN_Brainwash.description>Устройство, предназначенное для стирания воспоминаний. Удаляет черты характера, не относящиеся непосредственно к предыстории поселенца.</CONN_Brainwash.description>
+  <!-- Use brainwasher -->
+  <CONN_Brainwash.comps.CompUsable.useLabel>Использовать Мозговыжималку</CONN_Brainwash.comps.CompUsable.useLabel>
 
 
   <!-- ############## Passion Giver ############## -->
 
   <CONN_PassionGiver.label>разжигатель интереса</CONN_PassionGiver.label>
   <CONN_PassionGiver.description>Вводит наноботов, изменяющих клетки мозга для возникновения интереса к случайно выбранному навыку.</CONN_PassionGiver.description>
-
+  <!-- Use passion giver -->
+  <CONN_PassionGiver.comps.CompUsable.useLabel>Использовать разжигатель интереса</CONN_PassionGiver.comps.CompUsable.useLabel>
 
   <!-- ############## Trait Giver ############## -->
 
   <CONN_TraitGiver.label>создатель черт</CONN_TraitGiver.label>
   <CONN_TraitGiver.description>Вводит наноботов, изменяющих клетки мозга для появления случайной черты характера.</CONN_TraitGiver.description>
+  <!-- Use trait giver -->
+  <CONN_TraitGiver.comps.CompUsable.useLabel>Использовать создатель черт</CONN_TraitGiver.comps.CompUsable.useLabel>
 
 
   <!-- ############## Mind Clearer ############## -->
 
   <NeurotrainersClearer.label>очиститель мозга</NeurotrainersClearer.label>
   <NeurotrainersClearer.description>Модель мозговыжималки, очищающая кратковременную память. Влияет на все текущие состояния.</NeurotrainersClearer.description>
+  <!-- Use mind clearer -->
+  <NeurotrainersClearer.comps.CompUsable.useLabel>Использовать очиститель мозга</NeurotrainersClearer.comps.CompUsable.useLabel>
 
 
   <!-- ############## Reconditioner ############## -->
 
   <CONN_Reconditioner.label>перестроитель</CONN_Reconditioner.label>
   <CONN_Reconditioner.description>Вводит наноботов, изменяющих клетки мозга для очистки долговременной памяти. Создайте новую историю персонажа.</CONN_Reconditioner.description>
+  <!-- Use reconditioner -->
+  <CONN_Reconditioner.comps.CompUsable.useLabel>Использовать перестроитель</CONN_Reconditioner.comps.CompUsable.useLabel>
 
 
 </LanguageData>
