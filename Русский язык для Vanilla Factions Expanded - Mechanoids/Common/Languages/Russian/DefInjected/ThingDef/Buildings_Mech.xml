@@ -74,11 +74,15 @@
   <VFE_Gun_ChargeBlasterCannon.label>бластер</VFE_Gun_ChargeBlasterCannon.label>
   <!-- EN: A mechanoid-tech charge blaster. -->
   <VFE_Gun_ChargeBlasterCannon.description>Бластер механоидов.</VFE_Gun_ChargeBlasterCannon.description>
+  <!-- EN: charge blaster -->
+  <VFE_Gun_ChargeBlasterCannon.verbs.Verb_Shoot.label>бластер</VFE_Gun_ChargeBlasterCannon.verbs.Verb_Shoot.label>
 
   <!-- EN: charge lance cannon -->
   <VFE_Turret_ChargeLanceCannon.label>энергетическое орудие</VFE_Turret_ChargeLanceCannon.label>
   <!-- EN: A ship-mounted charge lance cannon. It fires a supercharged railgun projectile over a long distance. This element is usually a part of a much larger ship. -->
   <VFE_Turret_ChargeLanceCannon.description>Энергетическое орудие точечной защиты. Стреляет заряженными снарядами на дальние дистанции. Является частью большого корабля механоидов.</VFE_Turret_ChargeLanceCannon.description>
+  <!-- EN: charge lance cannon -->
+  <VFE_Turret_ChargeLanceCannon.verbs.Verb_Shoot.label>энергетическое орудие</VFE_Turret_ChargeLanceCannon.verbs.Verb_Shoot.label>
 
   <!-- EN: charge lance -->
   <VFE_Gun_ChargeLanceCannon.label>энергокопьё</VFE_Gun_ChargeLanceCannon.label>
@@ -119,6 +123,8 @@
   <VFE_Gun_AutoMortarCannon.label>автоминомёт</VFE_Gun_AutoMortarCannon.label>
   <!-- EN: A mechanoid-tech automatic mortar. -->
   <VFE_Gun_AutoMortarCannon.description>Автоминомёт механоидов.</VFE_Gun_AutoMortarCannon.description>
+  <!-- EN: auto mortar cannon  -->
+  <VFE_Gun_AutoMortarCannon.verbs.Verb_Shoot.label>автоминомёт</VFE_Gun_AutoMortarCannon.verbs.Verb_Shoot.label>
 
   <!-- EN: inferno launcher artillery -->
   <VFE_Turret_InfernoLauncherArtillery.label>артиллерия «инферно»</VFE_Turret_InfernoLauncherArtillery.label>
@@ -129,6 +135,8 @@
   <VFE_Gun_InfernoArtillery.label>артиллерия «инферно»</VFE_Gun_InfernoArtillery.label>
   <!-- EN: A mechanoid-tech inferno artillery. -->
   <VFE_Gun_InfernoArtillery.description>Артиллерия «инферно» механоидов.</VFE_Gun_InfernoArtillery.description>
+  <!-- EN: inferno artillery  -->
+  <VFE_Gun_InfernoArtillery.verbs.Verb_Shoot.label>артиллерия «инферно»</VFE_Gun_InfernoArtillery.verbs.Verb_Shoot.label>
 
   <!-- EN: inferno artillery shell -->
   <VFE_Bullet_InfernoArtillery.label>снаряд «инферно»</VFE_Bullet_InfernoArtillery.label>
@@ -142,6 +150,8 @@
   <VFE_Gun_ChargeRailgun.label>рельсовая энергопушка</VFE_Gun_ChargeRailgun.label>
   <!-- EN: A powerful, mechanoid-tech charge railgun. -->
   <VFE_Gun_ChargeRailgun.description>Мощная рельсовая энергопушка механоидов.</VFE_Gun_ChargeRailgun.description>
+  <!-- EN: charge railgun -->
+  <VFE_Gun_ChargeRailgun.verbs.Verb_Shoot.label>рельсовая энергопушка</VFE_Gun_ChargeRailgun.verbs.Verb_Shoot.label>
 
   <!-- EN: charge railgun shot -->
   <VFE_Bullet_ChargeRailgun.label>снаряд рельсовой энергопушки</VFE_Bullet_ChargeRailgun.label>
@@ -155,6 +165,8 @@
   <VFE_Gun_OrbitalBombardmentTargeter.label>целеуказатель для бомбардировки</VFE_Gun_OrbitalBombardmentTargeter.label>
   <!-- EN: An antenna capable of summoning an orbital bombardment. -->
   <VFE_Gun_OrbitalBombardmentTargeter.description>Антенна вызывающая орбитальную бомбардировку.</VFE_Gun_OrbitalBombardmentTargeter.description>
+  <!-- EN: orbital bombardment targeter  -->
+  <VFE_Gun_OrbitalBombardmentTargeter.verbs.Verb_Bombardment.label>целеуказатель для бомбардировки</VFE_Gun_OrbitalBombardmentTargeter.verbs.Verb_Bombardment.label>
 
   <!-- EN: mechanoid assembly pod -->
   <VFE_AssemblyPod.label>сборочный модуль</VFE_AssemblyPod.label>

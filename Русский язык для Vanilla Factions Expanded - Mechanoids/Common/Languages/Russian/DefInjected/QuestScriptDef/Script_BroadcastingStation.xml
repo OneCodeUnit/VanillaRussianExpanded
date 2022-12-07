@@ -48,19 +48,19 @@
 
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>Механоиды свернули лагерь и отправились в другое место. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Механоиды свернули лагерь и отправились в другое место. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>Поняв, что их местонахождение известно, механоиды свернули лагерь и отправились в другое место. Задание «[resolvedQuestName]» окончено.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Поняв, что их местонахождение известно, механоиды свернули лагерь и отправились в другое место. Задание «[resolvedQuestName]» окончено.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Payment arrived -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>Оплата прибыла</VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Оплата прибыла</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
   <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>Вы уничтожили лагерь механоидов!\n\nПрибыла оплата от фракции [asker_faction_name].</VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Вы уничтожили лагерь механоидов!\n\nПрибыла оплата от фракции [asker_faction_name].</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. ^Replace( [asker_faction_royalFavorLabel] | 'милость короны'-'милости короны')^.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
 </LanguageData>
