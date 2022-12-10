@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Factions Expanded - Medieval</li>
+		</mods>
+		
+		<match Class="PatchOperationSequence">
+			<operations>
+
+
+			<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookDessertMealBase"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookDessertMealBase"]/defaultIngredientFilter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookComplexDessertMealBase"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookComplexDessertMealBase"]/defaultIngredientFilter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookGourmetDessertMealBase"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookGourmetDessertMealBase"]/defaultIngredientFilter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertSimple"]/ingredients/li/filter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertSimpleBulk"]/ingredients/li/filter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertFine"]/ingredients/li[@Name="Fruit"]/filter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertFineBulk"]/ingredients/li[@Name="Fruit"]/filter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertLavish"]/ingredients/li[@Name="Fruit"]/filter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertLavishBulk"]/ingredients/li[@Name="Fruit"]/filter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertGourmet"]/ingredients/li[@Name="Fruit"]/filter/thingDefs</xpath>
+					<value>
+
+						<li>VFEM_RawGrapes</li>
+
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+
+

@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Genetics Expanded</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+
+
+				<!-- Weird Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_WeirdMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_WeirdMilk</li>
+							</items>	
+							<amount>
+								<li>50</li>
+							</amount>
+							<result>VCE_WeirdCheese</result>	
+							<yield>25</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>8</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>75</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_WeirdCheese</defName>
+							<label>weird cheese</label>
+							<description>A foul smelling cheese constantly dripping an oily film. It has a sour, chemical taste, which can either be considered an acquired taste or disgusting.</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_WeirdCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>8</MarketValue>
+								<Nutrition>0.1</Nutrition>
+								<FoodPoisonChanceFixedHuman>0.08</FoodPoisonChanceFixedHuman>
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>MealLavish</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<maxNumToIngestAtOnce>5</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>80</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+				<!-- Mecha Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_MechaMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_MechaMilk</li>
+							</items>	
+							<amount>
+								<li>50</li>
+							</amount>
+							<result>VCE_MechaCheese</result>	
+							<yield>1</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>10</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>100</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_MechaCheese</defName>
+							<label>mecha cheese</label>
+							<description>A mechanoid cheese created by pressing mechanoid milk. This isn't edible, but if consumed it will act as an incredibly powerful drug, similar to Luciferium, but without addictiveness.</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_MechaCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>10</stackLimit>
+							<statBases>
+								<MarketValue>800</MarketValue>
+								<Mass>1</Mass>
+								<Nutrition>0.9</Nutrition>
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<foodType>Meal</foodType>
+								<preferability>MealLavish</preferability>
+								<tasteThought>VCE_AteMechaCheese</tasteThought>
+
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
+								<joy>0.03</joy>
+								<joyKind>Gluttonous</joyKind>
+							</ingestible>
+							<comps>
+
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ThoughtDef>
+							<defName>VCE_AteMechaCheese</defName>
+							<thoughtClass>VanillaCookingExpanded.Thought_Hediff</thoughtClass>
+							<hediff>GR_MechaCheeseHediff</hediff>
+							<validWhileDespawned>true</validWhileDespawned>
+							<stages>
+								<li>
+									<label>ate mecha cheese</label>
+									<description>That... was... huh... My whole body is tingling.</description>
+									<baseMoodEffect>10</baseMoodEffect>
+								</li>
+							</stages>
+
+						</ThoughtDef>
+					</value>
+				</li>
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<HediffDef>
+							<defName>GR_MechaCheeseHediff</defName>
+							<hediffClass>Hediff_High</hediffClass>
+							<label>cheese mechanites</label>
+							<description>Active mechanites in the body. They improve the body's functioning in all respects.</description>
+							<defaultLabelColor>(1,1,0.5)</defaultLabelColor>
+							<scenarioCanAdd>true</scenarioCanAdd>
+							<maxSeverity>1.0</maxSeverity>
+							<isBad>false</isBad>
+							<comps>
+								<li Class="HediffCompProperties_SeverityPerDay">
+									<severityPerDay>-1</severityPerDay>
+									<showHoursToRecover>true</showHoursToRecover>
+								</li>
+							</comps>
+							<stages>
+								<li>
+									<painFactor>0.9</painFactor>
+									<capMods>
+										<li>
+											<capacity>Consciousness</capacity>
+											<offset>0.05</offset>
+										</li>
+										<li>
+											<capacity>Moving</capacity>
+											<offset>0.05</offset>
+										</li>
+										<li>
+											<capacity>Sight</capacity>
+											<offset>0.05</offset>
+										</li>
+										<li>
+											<capacity>BloodFiltration</capacity>
+											<offset>0.10</offset>
+										</li>
+										<li>
+											<capacity>BloodPumping</capacity>
+											<offset>0.1</offset>
+										</li>
+										<li>
+											<capacity>Metabolism</capacity>
+											<offset>0.05</offset>
+										</li>
+										<li>
+											<capacity>Breathing</capacity>
+											<offset>0.05</offset>
+										</li>
+									</capMods>
+								</li>
+							</stages>
+						</HediffDef>
+					</value>
+				</li>
+
+
+				<!-- Bearffalo Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_BearMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_BearffaloMilk</li>
+							</items>	
+							<amount>
+								<li>50</li>
+							</amount>
+							<result>VCE_BearffaloCheese</result>	
+							<yield>25</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>10</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>75</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_BearffaloCheese</defName>
+							<label>bearffalo cheese</label>
+							<description>An strange blue cheese created from Bearffalo milk. Very nutritive, but very high in saturated fats.</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_BearffaloCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>12</MarketValue>
+								<Nutrition>0.18</Nutrition>
+
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>MealLavish</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<tasteThought>VCE_AteBearffaloCheese</tasteThought>
+								<maxNumToIngestAtOnce>6</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>50</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ThoughtDef>	
+							<thoughtClass>VanillaCookingExpanded.Thought_Hediff</thoughtClass>
+							<defName>VCE_AteBearffaloCheese</defName>
+							<durationDays>1</durationDays>
+							<stages>
+								<li>
+									<label>ate bearffalo cheese</label>
+									<description>That was tasty. Greasy, but tasty.</description>
+									<baseMoodEffect>1</baseMoodEffect>
+								</li>
+							</stages>	
+							
+						</ThoughtDef>
+					</value>
+				</li>
+
+				<!-- Thrumffalo Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_ThrumboMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_ThrumffaloMilk</li>
+							</items>	
+							<amount>
+								<li>40</li>
+							</amount>
+							<result>VCE_ThrumffaloGouda</result>	
+							<yield>20</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>10</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>75</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_ThrumffaloGouda</defName>
+							<label>thrumffalo gouda</label>
+							<description>Thrumffalo Gouda is considered a refined delicacy. It takes a very long time to ripen, but once it is ready it is one of the most nourishing cheeses available on the Rim.</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_ThrumffaloGouda</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>15</MarketValue>
+								<Nutrition>0.20</Nutrition>
+
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>MealLavish</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<tasteThought>AteLavishMeal</tasteThought>
+								<ingestSound>Meal_Eat</ingestSound>
+								<maxNumToIngestAtOnce>5</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>100</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+				<!-- Muffalochicken Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_ChickenMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_MuffalochickenMilk</li>
+							</items>	
+							<amount>
+								<li>50</li>
+							</amount>
+							<result>VCE_LumpyCheese</result>	
+							<yield>25</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>10</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>75</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_LumpyCheese</defName>
+							<label>lumpy cheese</label>
+							<description>This lumpy cheese seems to have concentrated protein chunks, tasting like chicken nuggets. Colonists seem to like it.</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_LumpyCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>11</MarketValue>
+								<Nutrition>0.16</Nutrition>
+
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>MealLavish</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<joy>0.02</joy>
+								<joyKind>Gluttonous</joyKind>
+								<maxNumToIngestAtOnce>7</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>40</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+				<!-- Chickenffalo Milk -->
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_ChikenfaloMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_ChickenffaloMilk</li>
+							</items>	
+							<amount>
+								<li>70</li>
+							</amount>
+							<result>VCE_ChickenffaloCheese</result>	
+							<yield>35</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>5</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>10</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>15</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>30</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>35</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>40</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>60</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_ChickenffaloCheese</defName>
+							<label>Chickenffalo cheese</label>
+							<description>A very bland, almost tasteless cheese. The only good thing about it is that it ripens much faster than other cheeses.</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_ChickenffaloCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>5</MarketValue>
+								<Nutrition>0.065</Nutrition>
+
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>MealLavish</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<maxNumToIngestAtOnce>20</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>40</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+				<!-- Muffalobear Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_MuffaloBearMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_MuffalobearMilk</li>
+							</items>	
+							<amount>
+								<li>50</li>
+							</amount>
+							<result>VCE_BrownCheese</result>	
+							<yield>25</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>10</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>75</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_BrownCheese</defName>
+							<label>brown cheese</label>
+							<description>A brown coloured cheese, similar in taste to Cheddar but with roasted nut overtones. Not very nutritive, but very pleasurable to eat.</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_BrownCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>10</MarketValue>
+								<Nutrition>0.1</Nutrition>
+
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>MealLavish</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<joy>0.10</joy>
+								<joyKind>Gluttonous</joyKind>
+								<maxNumToIngestAtOnce>10</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>200</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+				<!-- Wolffalo Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_WolfaloMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_WolffaloMilk</li>
+							</items>	
+							<amount>
+								<li>50</li>
+							</amount>
+							<result>VCE_HairyCheese</result>	
+							<yield>25</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>10</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>75</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_HairyCheese</defName>
+							<label>hairy cheese</label>
+							<description>Why? Why, why, why, WHY? Cheese. With hair. WHY???</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_HairyCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>4</MarketValue>
+								<Nutrition>0.02</Nutrition>
+								<Flammability>1.5</Flammability>
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>DesperateOnly</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<maxNumToIngestAtOnce>30</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>80</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+				<!-- Rat Milk -->
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+						<ItemProcessor.CombinationDef>
+							<defName>VCE_RatMilkIntoCheese</defName>
+							<building>VCE_CheesePress</building>
+							<items>
+								<li>GR_RatMilk</li>
+							</items>	
+							<amount>
+								<li>50</li>
+							</amount>
+							<result>VCE_RatCheese</result>	
+							<yield>25</yield>
+							<useQualityIncreasing>true</useQualityIncreasing>
+							<awfulQualityAgeDaysThreshold>10</awfulQualityAgeDaysThreshold>
+							<poorQualityAgeDaysThreshold>15</poorQualityAgeDaysThreshold>
+							<normalQualityAgeDaysThreshold>25</normalQualityAgeDaysThreshold>
+							<goodQualityAgeDaysThreshold>35</goodQualityAgeDaysThreshold>
+							<excellentQualityAgeDaysThreshold>40</excellentQualityAgeDaysThreshold>
+							<masterworkQualityAgeDaysThreshold>45</masterworkQualityAgeDaysThreshold>
+							<legendaryQualityAgeDaysThreshold>75</legendaryQualityAgeDaysThreshold>
+						</ItemProcessor.CombinationDef>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+
+						<ThingDef ParentName="MealBase">
+							<defName>VCE_RatCheese</defName>
+							<label>rat cheese</label>
+							<description>Once you get over the thought that this cheese was created from giant rat milk, it isn't so bad at all!</description>
+							<graphicData>
+								<texPath>Things/Items/Cheese/VCE_RatCheese</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<tradeability>Sellable</tradeability>
+							<stackLimit>75</stackLimit>
+							<statBases>
+								<MarketValue>11</MarketValue>
+								<Nutrition>0.16</Nutrition>
+
+							</statBases>
+							<thingCategories>
+								<li>VCE_Cheese</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>MealLavish</preferability>
+								<ingestEffect>EatMeat</ingestEffect>
+								<ingestSound>Meal_Eat</ingestSound>
+								<tasteThought>GR_AteRatMilk</tasteThought>
+								<maxNumToIngestAtOnce>6</maxNumToIngestAtOnce>
+							</ingestible>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>60</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+								<li>
+									<compClass>CompQuality</compClass>
+								</li>
+								<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
+								<li Class="VFECore.CompProperties_IngestedThoughtFromQuality">
+									<ingestedThought>VCE_AteCheese</ingestedThought>
+								</li>
+							</comps>
+						</ThingDef>
+
+
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs/ItemProcessor.ItemAcceptedDef[defName = "IP_CheesePressFirstItem"]/items</xpath>
+					<value>
+						<li>GR_WeirdMilk</li>
+						<li>GR_MechaMilk</li>
+						<li>GR_BearffaloMilk</li>
+						<li>GR_ThrumffaloMilk</li>
+						<li>GR_MuffalochickenMilk</li>
+						<li>GR_ChickenffaloMilk</li>
+						<li>GR_MuffalobearMilk</li>
+						<li>GR_WolffaloMilk</li>
+						<li>GR_RatMilk</li>
+					</value>
+				</li>
+
+
+
+
+
+
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+

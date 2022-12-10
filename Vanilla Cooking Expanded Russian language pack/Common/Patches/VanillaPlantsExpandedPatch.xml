@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Plants Expanded</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<!-- Condiments -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<ThingDef ParentName="RoughPlantBase">
+							<defName>VCE_Ketchup</defName>
+							<label>ketchup</label>
+							<description>A thick sauce made from stewing tomatoes, both salty and tangy in tandem with a sweet aftertaste. Perfect for meaty meals or fried foods.</description>
+							<graphicData>
+								<texPath>Things/Items/Condiments/VCE_Ketchup</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<statBases>
+								<MarketValue>1.21</MarketValue>
+								<Nutrition>0.01</Nutrition>
+								<Flammability>1.3</Flammability>
+							</statBases>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>120</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+							</comps>
+							<thingCategories>
+								<li>VCE_Condiments</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>NeverForNutrition</preferability>
+								<specialThoughtAsIngredient>VCE_ConsumedKetchup</specialThoughtAsIngredient>
+								<optimalityOffsetFeedingAnimals>-50</optimalityOffsetFeedingAnimals>
+							</ingestible>
+							<ingredient>
+								<mergeCompatibilityTags>
+									<li>Condiments</li>
+								</mergeCompatibilityTags>
+							</ingredient>
+							<modExtensions>
+								<li Class="AnimalBehaviours.AnimalStatExtension">
+									<statToAdd>
+										<li>VCE_CondimentEffects</li>
+									
+									</statToAdd>
+									<statValues>
+										<li>VCE_CondimentEffectsTitle</li>
+										
+									</statValues>
+									<statDescriptions>
+										<li>VCE_CondimentEffectsKetchup</li>
+									
+									</statDescriptions>
+								</li>
+							</modExtensions>
+						</ThingDef>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<ThingDef ParentName="RoughPlantBase">
+							<defName>VCE_HotSauce</defName>
+							<label>hot sauce</label>
+							<description>A potent, spicy sauce made from blending and simmering chilis and other spices. While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption.</description>
+							<graphicData>
+								<texPath>Things/Items/Condiments/VCE_HotSauce</texPath>
+								<graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<statBases>
+								<MarketValue>1.21</MarketValue>
+								<Nutrition>0.01</Nutrition>
+								<Flammability>1.3</Flammability>
+							</statBases>
+							<comps>
+								<li Class="CompProperties_Rottable">
+									<daysToRotStart>120</daysToRotStart>
+									<rotDestroys>true</rotDestroys>
+								</li>
+							</comps>
+							<thingCategories>
+								<li>VCE_Condiments</li>
+							</thingCategories>
+							<ingestible>
+								<preferability>NeverForNutrition</preferability>
+								<specialThoughtAsIngredient>VCE_ConsumedHotSauce</specialThoughtAsIngredient>
+								<optimalityOffsetFeedingAnimals>-50</optimalityOffsetFeedingAnimals>
+							</ingestible>
+							<ingredient>
+								<mergeCompatibilityTags>
+									<li>Condiments</li>
+								</mergeCompatibilityTags>
+							</ingredient>
+							<modExtensions>
+								<li Class="AnimalBehaviours.AnimalStatExtension">
+									<statToAdd>
+										<li>VCE_CondimentEffects</li>
+								
+									</statToAdd>
+									<statValues>
+										<li>VCE_CondimentEffectsTitle</li>
+										
+									</statValues>
+									<statDescriptions>
+										<li>VCE_CondimentEffectsSauce</li>
+										
+									</statDescriptions>
+								</li>
+							</modExtensions>
+						</ThingDef>
+					</value>
+				</li>
+				<!-- Condiment Recipes -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<RecipeDef>
+							<defName>VCE_Ketchup</defName>
+							<label>make ketchup</label>
+							<description>Create ketchup from tomatoes. A thick sauce made from stewing tomatoes, both salty and tangy in tandem with a sweet aftertaste. Perfect for meaty meals or fried foods.</description>
+							<jobString>Making ketchup.</jobString>
+							<workSpeedStat>CookSpeed</workSpeedStat>
+							<effectWorking>Cook</effectWorking>
+							<soundWorking>Recipe_CookMeal</soundWorking>
+							<workAmount>200</workAmount>
+							<recipeUsers>
+								<li>VCE_CondimentPrepTable</li>
+							</recipeUsers>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>VCE_RawTomatoes</li>
+										</thingDefs>
+									</filter>
+									<count>10</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>VCE_RawTomatoes</li>
+								</thingDefs>
+							</fixedIngredientFilter>
+							<products>
+								<VCE_Ketchup>10</VCE_Ketchup>
+							</products>
+							<researchPrerequisite>VCE_CondimentsResearch</researchPrerequisite>
+						</RecipeDef>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<RecipeDef>
+							<defName>VCE_HotSauce</defName>
+							<label>make hot sauce</label>
+							<description>Create hot sauce from peppers. A potent, spicy sauce made from blending and simmering chilis and other spices. While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption.</description>
+							<jobString>Making hot sauce.</jobString>
+							<workSpeedStat>CookSpeed</workSpeedStat>
+							<effectWorking>Cook</effectWorking>
+							<soundWorking>Recipe_CookMeal</soundWorking>
+							<workAmount>200</workAmount>
+							<recipeUsers>
+								<li>VCE_CondimentPrepTable</li>
+							</recipeUsers>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>VCE_RawPepper</li>
+										</thingDefs>
+									</filter>
+									<count>10</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>VCE_RawPepper</li>
+								</thingDefs>
+							</fixedIngredientFilter>
+							<products>
+								<VCE_HotSauce>10</VCE_HotSauce>
+							</products>
+							<researchPrerequisite>VCE_CondimentsResearch</researchPrerequisite>
+						</RecipeDef>
+					</value>
+				</li>
+				<!-- Thoughts -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<ThoughtDef>
+							<thoughtClass>VanillaCookingExpanded.Thought_Hediff</thoughtClass>
+							<defName>VCE_ConsumedKetchup</defName>
+							<durationDays>0.5</durationDays>
+							<stages>
+								<li>
+									<label>consumed ketchup</label>
+									<description>Delicious, sticky goodness.</description>
+									<baseMoodEffect>2</baseMoodEffect>
+								</li>
+							</stages>
+							
+						</ThoughtDef>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<ThoughtDef>
+							<thoughtClass>VanillaCookingExpanded.Thought_Hediff</thoughtClass>
+							<hediff>VCE_ConsumedHotSauce</hediff>
+							<defName>VCE_ConsumedHotSauce</defName>
+							<durationDays>0.5</durationDays>
+							<stages>
+								<li>
+									<label>hurts so good</label>
+									<description>I absolutely hate that super strong hot sauce! Please give me more.</description>
+									<baseMoodEffect>-3</baseMoodEffect>
+								</li>
+							</stages>
+						</ThoughtDef>
+					</value>
+				</li>
+				<!-- Hediffs -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<HediffDef>
+							<defName>VCE_ConsumedHotSauce</defName>
+							<label>consumed hot sauce (from meal)</label>
+							<makesSickThought>false</makesSickThought>
+							<description>Consumed a potent, spicy sauce made from blending and simmering chilis and other spices. While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours.</description>
+							<tendable>false</tendable>
+							<isBad>false</isBad>
+							<defaultLabelColor>(255,95,95)</defaultLabelColor>
+							<hediffClass>HediffWithComps</hediffClass>
+							<initialSeverity>1.0</initialSeverity>
+							<maxSeverity>1.0</maxSeverity>
+							<comps>
+								<li Class="VanillaCookingExpanded.HediffCompProperties_WhileHavingThoughts">
+									<thoughtDefs>
+										<li>VCE_ConsumedHotSauce</li>
+									</thoughtDefs>
+								</li>
+							</comps>
+							<stages>
+								<li>
+									<painFactor>0.85</painFactor>
+									<statOffsets>
+										<ComfyTemperatureMin>-10</ComfyTemperatureMin>
+									</statOffsets>
+								</li>
+							</stages>
+						</HediffDef>
+					</value>
+				</li>
+				<!-- Adding Fruits to Dessert Recipes -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookDessertMealBase"]/fixedIngredientFilter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookDessertMealBase"]/defaultIngredientFilter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookComplexDessertMealBase"]/fixedIngredientFilter/categories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookComplexDessertMealBase"]/defaultIngredientFilter/categories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookGourmetDessertMealBase"]/fixedIngredientFilter/categories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[@Name = "VCE_CookGourmetDessertMealBase"]/defaultIngredientFilter/categories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertSimple"]/ingredients/li/filter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertSimpleBulk"]/ingredients/li/filter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertFine"]/ingredients/li[@Name="Fruit"]/filter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertFineBulk"]/ingredients/li[@Name="Fruit"]/filter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertLavish"]/ingredients/li[@Name="Fruit"]/filter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertLavishBulk"]/ingredients/li[@Name="Fruit"]/filter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CookDessertGourmet"]/ingredients/li[@Name="Fruit"]/filter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CanFruit"]/fixedIngredientFilter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CanFruit"]/defaultIngredientFilter</xpath>
+					<value>
+						<categories>
+							<li>VCE_Fruit</li>
+						</categories>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CanFruit"]/ingredients/li/filter/categories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CanProduce"]/fixedIngredientFilter/disallowedCategories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName = "VCE_CanProduce"]/defaultIngredientFilter/disallowedCategories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName = "VCE_CannedFruit"]/thingCategories</xpath>
+					<value>
+						<li>VCE_Fruit</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>
+

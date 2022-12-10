@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationAdd"> 
+		<xpath>/Defs/RecipeDef[@Name="CookMealBase" or @Name="CookGourmetMealBase" or @Name="VCE_CookBakeMealBase" or @Name="VCE_CookGourmetBakeMealBase" or @Name="VCE_CookDessertMealBase" or @Name="VCE_CookComplexDessertMealBase" or @Name="VCE_CookGourmetDessertMealBase"]/defaultIngredientFilter/disallowedCategories</xpath>
+		<value>
+			<li>VCE_Cheese</li>
+		</value>
+	</Operation>
+
+
+
+
+</Patch>

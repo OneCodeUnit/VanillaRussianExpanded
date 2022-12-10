@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Caravan_Outlander_Exotic"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VCE_DigestibleResurrectorNanites</thingDef>
+				<countRange>1~1</countRange>
+			</li>
+
+
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Orbital_Exotic"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VCE_DigestibleResurrectorNanites</thingDef>
+				<countRange>1~1</countRange>
+			</li>
+
+
+		</value>
+	</Operation>
+
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Caravan_Outlander_BulkGoods"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_Category">
+				<categoryDef>VCE_Condiments</categoryDef>
+
+				<thingDefCountRange>3~3</thingDefCountRange>
+				<totalPriceRange>100~150</totalPriceRange>
+			</li>
+
+
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Orbital_BulkGoods"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_Category">
+				<categoryDef>VCE_Condiments</categoryDef>
+
+				<thingDefCountRange>3~3</thingDefCountRange>
+				<totalPriceRange>100~150</totalPriceRange>
+			</li>
+
+
+		</value>
+	</Operation>
+	
+		<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Base_Outlander_Standard"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_Category">
+				<categoryDef>VCE_Condiments</categoryDef>
+
+				<thingDefCountRange>1~2</thingDefCountRange>
+				<totalPriceRange>75~100</totalPriceRange>
+			</li>
+
+
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Caravan_Outlander_BulkGoods"]/stockGenerators/li[@Class="StockGenerator_Category" and categoryDef="VCE_Condiments"]</xpath>
+		<value>
+        <excludedThingDefs>
+          <li>VCE_DigestibleResurrectorNanites</li> <!-- Can currently potentially appear when mods that scale trader wealth are in play, as VCE_DigestibleResurrectorNanites are a type of VCE_Condiment. -->
+        </excludedThingDefs>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Orbital_BulkGoods"]/stockGenerators/li[@Class="StockGenerator_Category" and categoryDef="VCE_Condiments"]</xpath>
+		<value>
+        <excludedThingDefs>
+          <li>VCE_DigestibleResurrectorNanites</li> <!-- Can currently potentially appear when mods that scale trader wealth are in play, as VCE_DigestibleResurrectorNanites are a type of VCE_Condiment. -->
+        </excludedThingDefs>
+		</value>
+	</Operation>
+	
+		<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Base_Outlander_Standard"]/stockGenerators/li[@Class="StockGenerator_Category" and categoryDef="VCE_Condiments"]</xpath>
+		<value>
+        <excludedThingDefs>
+          <li>VCE_DigestibleResurrectorNanites</li> <!-- Can currently potentially appear when mods that scale trader wealth are in play, as VCE_DigestibleResurrectorNanites are a type of VCE_Condiment. -->
+        </excludedThingDefs>
+		</value>
+	</Operation>
+	
+	
+
+<!-- Orbital traders that carry Foods OR Chocolate OR Beer, will carry Junk Food -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[orbital = "true"]/stockGenerators/li[@Class = "StockGenerator_SingleDef" and thingDef = "Chocolate"]/.. | /Defs/TraderKindDef[orbital = "true"]/stockGenerators/li[@Class = "StockGenerator_SingleDef" and thingDef = "Beer"]/.. | /Defs/TraderKindDef[orbital = "true"]/stockGenerators/li[@Class = "StockGenerator_MultiDef" and thingDefs = "Chocolate"]/.. | /Defs/TraderKindDef[orbital = "true"]/stockGenerators/li[@Class = "StockGenerator_MultiDef" and thingDefs = "Beer"]/..</xpath>
+		<value>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>VCE_JunkFood</tradeTag>
+        <thingDefCountRange>2~3</thingDefCountRange>
+        <countRange>10~30</countRange>
+      </li>
+		</value>
+	</Operation>
+	
+
+
+
+</Patch>

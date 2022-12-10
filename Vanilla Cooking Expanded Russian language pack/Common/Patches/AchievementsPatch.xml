@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Achievements Expanded</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+
+						<AchievementsExpanded.AchievementTabDef>
+							<defName>VCE_Achievements</defName>
+							<label>Vanilla Cuisine</label>
+						</AchievementsExpanded.AchievementTabDef>
+
+						
+
+
+
+						<!--<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementBigBoned</defName>
+							<label>Big-Boned</label>
+							<description>Have a colonist get more than 80% cholesterol</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.HediffWithSeverityTracker">
+								<def>VCE_Cholesterol</def>
+								<severity>0.8</severity>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementBigBoned</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>-->
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementFiveStarRestaurant</defName>
+							<label>Five Star Restaurant</label>
+							<description>Serve a total of 100 Gourmet meals</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTracker">
+								<def>VCE_MealGourmet</def>
+
+								<count>100</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementFiveStarRestaurant</texPath>
+							<points>20</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementLannibalHecter</defName>
+							<label>Lannibal Hecter</label>
+							<description>Make a Gourmet meal with human meat</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_MealGourmet</def>
+								<includeingredient>Meat_Human</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementLannibalHecter</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementRatatouille</defName>
+							<label>Ratatouille</label>
+							<description>Make a Fine grill with rat meat</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_FineGrill</def>
+								<includeingredient>Meat_Rat</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementRatatouille</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementQuattroFormaggi</defName>
+							<label>Quattro formaggi</label>
+							<description>Make a Lavish bake using flour and cheese</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_LavishBake</def>
+								<includeingredient>VCE_Cheese</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementQuattroFormaggi</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementKitchenNightmare</defName>
+							<label>Kitchen Nightmare</label>
+							<description>Build a total of 7 new Cooking Expanded kitchen buildings</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.MultipleBuildingTracker">
+								<buildingsList>
+									<li>VCE_ElectricPot</li>
+									<li>VCE_Grill</li>
+									<li>VCE_DeepFrier</li>
+									<li>VCE_CanningMachine</li>
+									<li>VCE_CondimentPrepTable</li>
+									<li>VCE_CheesePress</li>
+								</buildingsList>
+								<count>7</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementKitchenNightmare</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementBonFromage</defName>
+							<label>Bon Fromage</label>
+							<description>Obtain a Legendary quality regular cheese</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemTrackerWithQuality">
+								<def>VCE_Cheese</def>
+								<quality>Legendary</quality>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementBonFromage</texPath>
+							<points>50</points>
+						</AchievementsExpanded.AchievementDef>
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementNastyAndRubbery</defName>
+							<label>Nasty and Rubbery</label>
+							<description>Stuff some unfertilized chicken eggs inside a can</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_CannedAP</def>
+								<includeingredient>EggChickenUnfertilized</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementNastyAndRubbery</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementRefrigerationFailure</defName>
+							<label>Refrigeration Failure</label>
+							<description>Have 30 Simple grills ruin due to being refrigerated</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemTracker">
+								<def>VCE_RuinedSimpleGrill</def>
+								<count>30</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementRefrigerationFailure</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementAmysBaking</defName>
+							<label>Amy's Baking</label>
+							<description>Make a revolting Gourmet dessert using Mayo</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_GourmetDessert</def>
+								<includeingredient>VCE_Mayo</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementAmysBaking</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementTastyRobots</defName>
+							<label>Tasty Robots</label>
+							<description>Craft any meal with digestible resurrector nanites</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+
+								<includeingredient>VCE_DigestibleResurrectorNanites</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementTastyRobots</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementDiabetesSoup</defName>
+							<label>Diabetes Soup</label>
+							<description>Make a sweet Gourmet soup using sugar</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_CookedSoupGourmet</def>
+								<includeingredient>VCE_RawSugar</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementDiabetesSoup</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementSpam</defName>
+							<label>Rim SPAM</label>
+							<description>Stuff some pork in a can and call it a day</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_CannedMeat</def>
+								<includeingredient>Meat_Pig</includeingredient>
+								<count>1</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementSpam</texPath>
+							<points>10</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementFreedomFries</defName>
+							<label>Freedom Fries</label>
+							<description>Make 200 deep fried potatoes</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerWithIngredients">
+								<def>VCE_DeepFriedVegetables</def>
+								<includeingredient>RawPotatoes</includeingredient>
+								<count>200</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementFreedomFries</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementHarvestWheat</defName>
+							<label>Don't Fear the Reaper</label>
+							<description>Harvest 100 wheat plants</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.PlantTracker">
+								<def>VCE_Wheat</def>
+
+								<count>100</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementHarvestWheat</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementSugarDaddy</defName>
+							<label>Sugar Daddy</label>
+							<description>Harvest 100 sugarcane plants</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.PlantTracker">
+								<def>VCE_Sugarcane</def>
+
+								<count>100</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementSugarDaddy</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>	
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementSilkRoad</defName>
+							<label>Silk Road</label>
+							<description>Earn 1000 silver selling spices</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.TraderTracker">
+								<def>VCE_RawSpices</def>
+								<worth>1000</worth>
+								<singleTransaction>false</singleTransaction>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementSilkRoad</texPath>
+							<points>40</points>
+						</AchievementsExpanded.AchievementDef>
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementInsectGourmet</defName>
+							<label>Insect Gourmet</label>
+							<description>Obtain 100 bottles of insect jelly preserves</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemTracker">
+								<def>VCE_InsectJellyPreserves</def>
+								<count>100</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementInsectGourmet</texPath>
+							<points>25</points>
+						</AchievementsExpanded.AchievementDef>
+
+						<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementTheCheesemaker</defName>
+							<label>The Cheesemaker</label>
+							<description>Craft a total of 200 pieces of cheese</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.ItemTracker">
+								<def>VCE_Cheese</def>
+								<count>200</count>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementTheCheesemaker</texPath>
+							<points>25</points>
+						</AchievementsExpanded.AchievementDef>
+
+						<!--<AchievementsExpanded.AchievementDef>
+							<defName>VCE_AchievementHealthyAsAnOx</defName>
+							<label>Healthy as an Ox</label>
+							<description>Have a pawn with cholesterol, diabetes and high blood pressure</description>
+							<bgtexPath>Achievements/VCE_AchievementBackground</bgtexPath>
+							<tab>VCE_Achievements</tab>
+							<tracker Class="AchievementsExpanded.MultiHediffTracker">
+								<defs>
+									<li>
+										<key>VCE_Cholesterol</key>
+										<value>1</value>
+									</li>
+									<li>
+										<key>VCE_Diabetes</key>
+										<value>1</value>
+									</li>
+									<li>
+										<key>VCE_HighBloodPressure</key>
+										<value>1</value>
+									</li>
+
+								</defs>
+							</tracker>
+
+							<texPath>Achievements/VCE_AchievementHealthyAsAnOx</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>-->
+
+
+					</value>
+				</li>
+
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+
