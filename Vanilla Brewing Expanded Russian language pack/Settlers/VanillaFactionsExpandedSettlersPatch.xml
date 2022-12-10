@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Factions Expanded - Settlers</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+
+
+
+
+
+				<!-- Adding Chemshine to Cocktail Recipes -->
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailMealBase"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Chemshine</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailMealBase"]/defaultIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Chemshine</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailFineMealBase"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Chemshine</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailFineMealBase"]/defaultIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Chemshine</li>
+					</value>
+				</li>
+				
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailSimple"]/ingredients/li/filter/thingDefs</xpath>
+					<value>
+						<li>Chemshine</li>
+					</value>
+				</li>
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailFine"]/ingredients/li[2]/filter/thingDefs</xpath>
+					<value>
+						<li>Chemshine</li>
+					</value>
+				</li>
+
+			
+				<li Class="PatchOperationConditional">
+					<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailLavish"]/ingredients/li[2]/filter/thingDefs</xpath>
+					<nomatch Class="PatchOperationAdd">
+					 <success>Always</success>
+						<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailLavish"]/ingredients/li[2]/filter</xpath>
+						<value>
+							<thingDefs>
+								<li>Chemshine</li>
+							</thingDefs>
+						</value>
+					</nomatch>
+					<match Class="PatchOperationAdd">
+					 <success>Always</success>
+						<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailLavish"]/ingredients/li[2]/filter/thingDefs</xpath>
+						<value>
+							<li>Chemshine</li>
+						</value>
+					</match>
+				</li>
+
+				
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName = "Chemshine"]/ingestible</xpath>
+					<value>
+						<specialThoughtAsIngredient>VBE_ChemshineAsIngredient</specialThoughtAsIngredient>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+						<ThoughtDef>	
+							<defName>VBE_ChemshineAsIngredient</defName>
+							<thoughtClass>VanillaCookingExpanded.Thought_Hediff</thoughtClass>
+							<hediff>Chemshined</hediff>
+							<durationDays>1</durationDays>
+							<stages>
+								<li>
+									<label>Drank chemshine-based cocktail</label>
+									<description>Yummy.</description>
+									<baseMoodEffect>0</baseMoodEffect>
+								</li>
+							</stages>	
+
+						</ThoughtDef>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+
