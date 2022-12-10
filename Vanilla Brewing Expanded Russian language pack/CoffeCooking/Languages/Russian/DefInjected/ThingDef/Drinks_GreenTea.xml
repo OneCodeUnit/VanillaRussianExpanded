@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VBE_GreenTea.label>green tea</VBE_GreenTea.label>
-  <VBE_GreenTea.description>A light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor.</VBE_GreenTea.description>
-  <VBE_GreenTea.ingestible.ingestCommandString>Drink {0}</VBE_GreenTea.ingestible.ingestCommandString>
-  <VBE_GreenTea.ingestible.ingestReportString>Drinking {0}.</VBE_GreenTea.ingestible.ingestReportString>
-
-
+	<!-- EN: green tea -->
+  <VBE_GreenTea.label>зелёный чай</VBE_GreenTea.label>
+	<!-- EN: A light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor. -->
+  <VBE_GreenTea.description>Лёгкий, цитрусовый зелёный чай, приправленный сахаром для придания маслянистого, почти орехового вкуса.</VBE_GreenTea.description>
+	<!-- EN: Drink {0} -->
+  <VBE_GreenTea.ingestible.ingestCommandString>Пить {0}</VBE_GreenTea.ingestible.ingestCommandString>
+	<!-- EN: Drinking {0}. -->
+  <VBE_GreenTea.ingestible.ingestReportString>Пьёт {0}.</VBE_GreenTea.ingestible.ingestReportString>
 </LanguageData>
