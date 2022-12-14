@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VBE_LatteCoffee.label>latte coffee</VBE_LatteCoffee.label>
-  <VBE_LatteCoffee.description>Potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals.</VBE_LatteCoffee.description>
-  <VBE_LatteCoffee.ingestible.ingestCommandString>Drink {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
-  <VBE_LatteCoffee.ingestible.ingestReportString>Drinking {0}.</VBE_LatteCoffee.ingestible.ingestReportString>
-
-
+  <!-- EN: latte coffee -->
+  <VBE_LatteCoffee.label>латте</VBE_LatteCoffee.label>
+  <!-- EN: Potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals. -->
+  <VBE_LatteCoffee.description>Крепкий эспрессо, смешанный со свежим молоком, для уменьшения горечи. Кофе латте имеет репутацию напитка, специально предназначенного для «искушённых» личностей.</VBE_LatteCoffee.description>
+  <!-- EN: Drink {0} -->
+  <VBE_LatteCoffee.ingestible.ingestCommandString>Пить {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_LatteCoffee.ingestible.ingestReportString>Пьёт {0}.</VBE_LatteCoffee.ingestible.ingestReportString>
 </LanguageData>
