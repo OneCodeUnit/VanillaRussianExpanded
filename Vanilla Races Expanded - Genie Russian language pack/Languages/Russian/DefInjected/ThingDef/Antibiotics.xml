@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VRE_Antibiotics.label>antibiotics</VRE_Antibiotics.label>
-  <VRE_Antibiotics.description>A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours.\n\nThis drug doesn’t prevent new infections. It does cure existing infections - even those that are not yet discovered, however excessive usage of antibiotics can render a person temporarily resistant to the effect of them.</VRE_Antibiotics.description>
-
-
+  <!-- EN: antibiotics -->
+  <VRE_Antibiotics.label>антибиотики</VRE_Antibiotics.label>
+  <!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours.\n\nThis drug doesn’t prevent new infections. It does cure existing infections - even those that are not yet discovered, however excessive usage of antibiotics can render a person temporarily resistant to the effect of them. -->
+  <VRE_Antibiotics.description>Лекарство для ускорения выработки иммунитета. Применяется для лечения таких заболеваний, как малярия и чума, а также инфекций, вызванных загрязнением ран. Эффект длится 12 часов.\n\nЭто лекарство не предупреждает появление новых инфекций, но помогает лечить уже существующие, даже те, которые ещё не обнаружены. Однако злоупотребление антибиотиками может привести к временной невосприимчивости к их воздействию.</VRE_Antibiotics.description>
+  <!-- EN: Take {0} -->
+  <VRE_Antibiotics.ingestible.ingestCommandString>Принять {0}</VRE_Antibiotics.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <VRE_Antibiotics.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</VRE_Antibiotics.ingestible.ingestReportString>
 </LanguageData>

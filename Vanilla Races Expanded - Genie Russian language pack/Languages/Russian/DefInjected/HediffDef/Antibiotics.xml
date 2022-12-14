@@ -1,28 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: antibiotics -->
+  <VRE_AntibioticsHigh.label>антибиотики</VRE_AntibioticsHigh.label>
+  <!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+  <VRE_AntibioticsHigh.description>Лекарство для ускорения выработки иммунитета. Применяется для лечения таких заболеваний, как малярия и чума, а также инфекций, вызванных загрязнением ран. Эффект длится 12 часов и зависит от генов иммунитета (чем слабее иммунитет, тем сильнее эффект от приёма). Также на эффективность влияет наличие толерантности к препарату.</VRE_AntibioticsHigh.description>
 
-  <VRE_AntibioticsHigh.label>antibiotics</VRE_AntibioticsHigh.label>
-  <VRE_AntibioticsHigh.description>A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.</VRE_AntibioticsHigh.description>
+  <!-- EN: antibiotics -->
+  <VRE_AntibioticsHigh_NoImmunity.label>антибиотики</VRE_AntibioticsHigh_NoImmunity.label>
+  <!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+  <VRE_AntibioticsHigh_NoImmunity.description>Лекарство для ускорения выработки иммунитета. Применяется для лечения таких заболеваний, как малярия и чума, а также инфекций, вызванных загрязнением ран. Эффект длится 12 часов и зависит от генов иммунитета (чем слабее иммунитет, тем сильнее эффект от приёма). Также на эффективность влияет наличие толерантности к препарату.</VRE_AntibioticsHigh_NoImmunity.description>
 
-  <VRE_AntibioticsHigh_NoImmunity.label>antibiotics</VRE_AntibioticsHigh_NoImmunity.label>
-  <VRE_AntibioticsHigh_NoImmunity.description>A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.</VRE_AntibioticsHigh_NoImmunity.description>
+  <!-- EN: antibiotics -->
+  <VRE_AntibioticsHigh_VeryWeak.label>антибиотики</VRE_AntibioticsHigh_VeryWeak.label>
+  <!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+  <VRE_AntibioticsHigh_VeryWeak.description>Лекарство для ускорения выработки иммунитета. Применяется для лечения таких заболеваний, как малярия и чума, а также инфекций, вызванных загрязнением ран. Эффект длится 12 часов и зависит от генов иммунитета (чем слабее иммунитет, тем сильнее эффект от приёма). Также на эффективность влияет наличие толерантности к препарату.</VRE_AntibioticsHigh_VeryWeak.description>
 
-  <VRE_AntibioticsHigh_VeryWeak.label>antibiotics</VRE_AntibioticsHigh_VeryWeak.label>
-  <VRE_AntibioticsHigh_VeryWeak.description>A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.</VRE_AntibioticsHigh_VeryWeak.description>
-
-  <VRE_AntibioticsHigh_Weak.label>antibiotics</VRE_AntibioticsHigh_Weak.label>
-  <VRE_AntibioticsHigh_Weak.description>A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.</VRE_AntibioticsHigh_Weak.description>
-
+  <!-- EN: antibiotics -->
+  <VRE_AntibioticsHigh_Weak.label>антибиотики</VRE_AntibioticsHigh_Weak.label>
+  <!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+  <VRE_AntibioticsHigh_Weak.description>Лекарство для ускорения выработки иммунитета. Применяется для лечения таких заболеваний, как малярия и чума, а также инфекций, вызванных загрязнением ран. Эффект длится 12 часов и зависит от генов иммунитета (чем слабее иммунитет, тем сильнее эффект от приёма). Также на эффективность влияет наличие толерантности к препарату.</VRE_AntibioticsHigh_Weak.description>
 
   <!-- Antibiotics Addiction -->
+  <!-- EN: antibiotics tolerance -->
+  <VRE_AntibioticsTolerance.label>толерантность к антибиотикам</VRE_AntibioticsTolerance.label>
+  <!-- EN: A built-up tolerance to antibiotics. The more severe this tolerance is, the more antibiotics it takes to get the same effect. -->
+  <VRE_AntibioticsTolerance.description>Выработалась толерантность к антибиотикам. Чем она серьёзнее, тем больше потребуется антибиотиков для достижения нужного эффекта.</VRE_AntibioticsTolerance.description>
 
-  <VRE_AntibioticsTolerance.label>antibiotics tolerance</VRE_AntibioticsTolerance.label>
-  <VRE_AntibioticsTolerance.description>A built-up tolerance to antibiotics. The more severe this tolerance is, the more antibiotics it takes to get the same effect.</VRE_AntibioticsTolerance.description>
-
-  <VRE_AntibioticsAddiction.label>antibiotics addiction</VRE_AntibioticsAddiction.label>
-  <VRE_AntibioticsAddiction.description>A chemical addiction to antibiotics. Long-term presence of antibiotics has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
-\nWithout regular doses of antibiotics, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</VRE_AntibioticsAddiction.description>
-  <VRE_AntibioticsAddiction.stages.1.label>withdrawal</VRE_AntibioticsAddiction.stages.1.label>
-
-
+  <!-- EN: antibiotics addiction -->
+  <VRE_AntibioticsAddiction.label>зависимость от антибиотиков</VRE_AntibioticsAddiction.label>
+  <!-- EN: A chemical addiction to antibiotics. Long-term presence of antibiotics has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of antibiotics, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <VRE_AntibioticsAddiction.description>Зависимость от антибиотиков. Продолжительное употребление антибиотиков вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без вещества.
+\nПерерыв в регулярном употреблении вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости.</VRE_AntibioticsAddiction.description>
+  <!-- EN: withdrawal -->
+  <VRE_AntibioticsAddiction.stages.1.label>ломка</VRE_AntibioticsAddiction.stages.1.label>
 </LanguageData>
