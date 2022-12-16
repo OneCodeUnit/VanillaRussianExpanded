@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: BaseFine -->
+  <VOEAdditionalOutposts.Settings.Fine>Размер штрафа</VOEAdditionalOutposts.Settings.Fine>
+  <!-- EN: Melee Skill Multiplier -->
+  <VOEAdditionalOutposts.Settings.Melee>Множитель от навыка ближнего боя</VOEAdditionalOutposts.Settings.Melee>
+  <!-- EN: Fine -->
+  <VOEAdditionalOutposts.PatrolFine>Штрафовать</VOEAdditionalOutposts.PatrolFine>
+  <!-- EN: Imprison -->
+  <VOEAdditionalOutposts.PatrolImprison>Заключать в тюрьму</VOEAdditionalOutposts.PatrolImprison>
+  <!-- EN: Curret strategy: {0} violator\nNext border patrol result in {1} -->
+  <VOEAdditionalOutposts.WillPatrol>Текущая политика: {0}\nСледующий результат патрулирования через {1}</VOEAdditionalOutposts.WillPatrol>
+  <!-- EN: Border Patrol From {0} Nothing To Report -->
+  <VOEAdditionalOutposts.Letters.PatrolFail.Label>Патруль {0} никого не задержал</VOEAdditionalOutposts.Letters.PatrolFail.Label>
+  <!-- EN: Border patrol from {0} didn't catch any violators -->
+  <VOEAdditionalOutposts.Letters.PatrolFail.Text>Патрульные из {0} не смогли задержать ни одного нарушителя</VOEAdditionalOutposts.Letters.PatrolFail.Text>
+  <!-- EN: Must be made on road -->
+  <VOEAdditionalOutposts.MustBeMade.Road>Необходимо расположить на дороге</VOEAdditionalOutposts.MustBeMade.Road>
+  <!-- EN: Too close to other outpost of same type, must have at least {0} tile between them -->
+  <VOEAdditionalOutposts.MustBeMade.FarFromSame>Слишком близко к аванпосту того же типа. Требуется не меньше {0} клеток</VOEAdditionalOutposts.MustBeMade.FarFromSame>
+  <!-- EN: No same type outposts nearby within {0} tiles -->
+  <VOEAdditionalOutposts.NoNearbySameType>Отсутствуют аванпосты того же типа на расстоянии {0} клеток</VOEAdditionalOutposts.NoNearbySameType>
+</LanguageData>

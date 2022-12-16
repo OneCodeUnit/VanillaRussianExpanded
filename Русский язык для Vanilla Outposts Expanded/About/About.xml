@@ -7,7 +7,7 @@
 	  <li>1.4</li>
   </supportedVersions>
   <packageId>OW.RU.Outposts</packageId>
-  <description>Перевод на русский язык мода Vanilla Outposts Expanded и двух неофициальных дополнений: Unofficial Vanilla Outposts Expanded Expanded: Trading и Vanilla Outposts Expanded Expanded: Ranch.</description>
+  <description>Перевод на русский язык мода Vanilla Outposts Expanded и трёх неофициальных дополнений: Unofficial Vanilla Outposts Expanded Expanded: Trading, Vanilla Outposts Expanded Expanded: Ranch и Vanilla Outposts Expanded Additional Outposts.</description>
   <modDependencies>
     <li>
       <packageId>vanillaexpanded.outposts</packageId>
@@ -21,6 +21,7 @@
     <li>oskarpotocki.vfe.mechanoid</li>
     <li>ClownCat.VOEE.Ranch</li>
     <li>ClownCat.UVOEE.Trading</li>
+    <li>MrHydralisk.VOEAdditionalOutposts</li>
 	</loadAfter>
   <incompatibleWith>
     <li>am.rus.vanillaexpanded.outposts</li>

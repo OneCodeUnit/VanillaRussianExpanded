@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: construction workers outpost -->
+  <Outpost_Construction_Site.label>аванпост рабочих</Outpost_Construction_Site.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in providing construction workers for temporary employment to other factions in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Construction_Site.description>Временный лагерь, управляемый автономно. Лагерь специализируется на предоставлении строителей для временных работ другим фракциям. Когда аванпост соберёт достаточное количество серебра, оно будет доставлено на край карты основного поселения.</Outpost_Construction_Site.description>
+
+  <!-- EN: field hospital -->
+  <Outpost_Field_Hospital.label>полевой госпиталь</Outpost_Field_Hospital.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in producing medical supplies for colony. Alternatively can sell them and provide medical help to wanderers, caravans and natives in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Field_Hospital.description>Временный лагерь, управляемый автономно. Лагерь специализируется на производстве медицины для поселения. Помимо этого, он может продавать её проходящим мимо путешественникам, караванам и местным жителям. Когда госпиталь соберёт достаточное количество серебра, оно будет доставлено на край карты основного поселения.</Outpost_Field_Hospital.description>
+  <!-- EN: Choose strategy for hospital -->
+  <Outpost_Field_Hospital.modExtensions.0.ChooseLabel>Выбрать стратегию</Outpost_Field_Hospital.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose between producing medical supplies for colony or for sale -->
+  <Outpost_Field_Hospital.modExtensions.0.ChooseDesc>Выбрать между поставкой медицины или её продажей</Outpost_Field_Hospital.modExtensions.0.ChooseDesc>
+
+  <!-- EN: restaurant -->
+  <Outpost_Restaurant.label>ресторан</Outpost_Restaurant.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in producing meals supplies for colony. Alternatively can sell meals to wanderers, caravans and natives in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Restaurant.description>Временный лагерь, управляемый автономно. Лагерь специализируется на производстве блюд для поселения. Помимо этого, он может продавать их проходящим мимо путешественникам, караванам и местным жителям. Когда ресторан соберёт достаточное количество серебра, оно будет доставлено на край карты основного поселения.</Outpost_Restaurant.description>
+  <!-- EN: Choose strategy for restaurant -->
+  <Outpost_Restaurant.modExtensions.0.ChooseLabel>Выбрать стратегию</Outpost_Restaurant.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose between producing meals for colony or for sale -->
+  <Outpost_Restaurant.modExtensions.0.ChooseDesc>Выбрать между поставкой блюд или их продажей</Outpost_Restaurant.modExtensions.0.ChooseDesc>
+
+  <!-- EN: wandering circus -->
+  <Outpost_Circus.label>бродячий цирк</Outpost_Circus.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in organizing artistic and recreational events for wanderers, caravans and natives in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Circus.description>Временный лагерь, управляемый автономно. Лагерь специализируется на организации представлений для путешественников, караванов и местных жителей. За плату.Когда цирк соберёт достаточное количество серебра, оно будет доставлено на край карты основного поселения.</Outpost_Circus.description>
+
+  <!-- EN: embassy -->
+  <Outpost_Embassy.label>посольство</Outpost_Embassy.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in negotiating with other factions. Once the negotiations are successful, goodwill of that faction will increase. -->
+  <Outpost_Embassy.description>Временный лагерь, управляемый автономно. Лагерь специализируется на переговорах с другими фракциями. Если переговоры окажутся успешными, ваши отношения с фракцией улучшатся.</Outpost_Embassy.description>
+  <!-- EN: Negotiate with {0}-->
+  <Outpost_Embassy.modExtensions.0.ChooseLabel>Вести переговоры с {0}</Outpost_Embassy.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose with what faction this outpost will negotiate -->
+  <Outpost_Embassy.modExtensions.0.ChooseDesc>Выбрать фракцию для улучшения отношений</Outpost_Embassy.modExtensions.0.ChooseDesc>
+
+  <!-- EN: border post -->
+  <Outpost_Border_Post.label>застава</Outpost_Border_Post.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in patroling faction's border, searching for illegal trespassers and smugglers. Once the violator is caught, he is fined or imprisoned. After which a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Border_Post.description>Временный лагерь, управляемый автономно. Лагерь специализируется на патрулировании границ фракции, поиске нарушителей и контрабандистов. Как только нарушитель будет пойман, он получит штраф или тюремный срок. И то, и другое будет доставлено на край карты основного поселения.</Outpost_Border_Post.description>
+  <!-- EN: {0} violator-->
+  <Outpost_Border_Post.modExtensions.0.ChooseLabel>{0}</Outpost_Border_Post.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose what to do with violator -->
+  <Outpost_Border_Post.modExtensions.0.ChooseDesc>Выбрать, что делать с нарушителями</Outpost_Border_Post.modExtensions.0.ChooseDesc>
+
+  <!-- EN: mercenary camp -->
+  <Outpost_Mercenary_Camp.label>лагерь наёмников</Outpost_Mercenary_Camp.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in providing mercenary services in exchange for silver. Once mission is over reward will be delivered at the outskirts of a faction's primary colony. -->
+  <Outpost_Mercenary_Camp.description>Временный лагерь, управляемый автономно. Лагерь специализируется на предоставлении солдат за серебро. Когда поступит серебро за контракт, оно будет доставлено на край карты основного поселения.</Outpost_Mercenary_Camp.description>
+  <!-- EN: Risk lvl {0}-->
+  <Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>Уровень риска {0}</Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose risk lvl for next mission -->
+  <Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>Выбрать уровень риска для следующего контракта</Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>
+
+  <!-- EN: prison -->
+  <Outpost_Prison.label>тюрьма</Outpost_Prison.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in keeping prisoners and their rehabilitation. Get payment with silver for holding prisoners from other factions. Can force to work, recruit or enslave colony prisoners. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Prison.description>Временный лагерь, управляемый автономно. Лагерь специализируется на содержании пленников и их перевоспитании. Может зарабатывать деньги за содержание пленников других фракций. Пленники из вашего поселения могут быть отправлены на принудительные работы, завербованы или обращены в рабство. Когда тюрьма соберёт достаточное количество серебра, оно будет доставлено на край карты основного поселения.</Outpost_Prison.description>
+  <!-- EN: Choose what to do with prisoners -->
+  <Outpost_Prison.modExtensions.0.ChooseDesc>Выбрать, что делать с пленниками</Outpost_Prison.modExtensions.0.ChooseDesc>
+
+  <!-- EN: church -->
+  <Outpost_Church.label>церковь</Outpost_Church.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in spreading ideology. Get donations with silver from visitors. Can convert people to faction's ideology. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Church.description>Временный лагерь, управляемый автономно. Лагерь специализируется на распространении идеолигии. И получении пожертвовании от верующих. Может обращать людей в идеолигию фракции. Когда церковь соберёт достаточное количество серебра, оно будет доставлено на край карты основного поселения.</Outpost_Church.description>
+  <!-- EN: Spread {0}-->
+  <Outpost_Church.modExtensions.0.ChooseLabel>Распространять {0}</Outpost_Church.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose what ideology your priests will spread -->
+  <Outpost_Church.modExtensions.0.ChooseDesc>Выбрать идеолигию, которую следует распространять</Outpost_Church.modExtensions.0.ChooseDesc>
+</LanguageData>
