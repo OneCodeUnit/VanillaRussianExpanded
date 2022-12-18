@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VBE_LemonCoffee.label>espresso romano</VBE_LemonCoffee.label>
-  <VBE_LemonCoffee.description>A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites.</VBE_LemonCoffee.description>
-  <VBE_LemonCoffee.ingestible.ingestCommandString>Drink {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
-  <VBE_LemonCoffee.ingestible.ingestReportString>Drinking {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
-
-
+  <!-- EN: espresso romano -->
+  <VBE_LemonCoffee.label>кофе романо</VBE_LemonCoffee.label>
+  <!-- EN: A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites. -->
+  <VBE_LemonCoffee.description>Неожиданная и странная комбинация. И без того кислый кофе украшается долькой ещё более кислого лимона, предназначенного для выжимания в кофе непосредственно перед употреблением. Изысканный вкус, к которому, однако, нужно привыкнуть. Эффективен в борьбе с кишечными паразитами.</VBE_LemonCoffee.description>
+  <!-- EN: Drink {0} -->
+  <VBE_LemonCoffee.ingestible.ingestCommandString>Пить {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_LemonCoffee.ingestible.ingestReportString>Пьёт {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
 </LanguageData>
