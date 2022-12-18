@@ -3,9 +3,13 @@
 
   <!-- Soups -->
 
-  <VCE_InsertSoup>insert soup</VCE_InsertSoup>
-  <VCE_InsertSoupDesc>Soup to Cook</VCE_InsertSoupDesc>
-  <VCE_NoSoupsFound>No soups of that kind found in this map.</VCE_NoSoupsFound>
+<!-- EN:insert soup -->
+  <VCE_InsertSoup>поместить суп</VCE_InsertSoup>
+  <!-- EN:Soup to Cook -->
+  <VCE_InsertSoupDesc>Суп для варки</VCE_InsertSoupDesc>
+  <!-- EN:No soups of that kind found in this map.Не удалось найти на карте подходящего супа -->
+  <VCE_NoSoupsFound>Не удалось найти на карте подходящего супа/</VCE_NoSoupsFound>
+  <!-- EN:simple soup -->
   <VCE_UncookedSoupSimple>simple soup</VCE_UncookedSoupSimple>
   <VCE_UncookedSoupFine>fine soup</VCE_UncookedSoupFine>
   <VCE_UncookedSoupLavish>lavish soup</VCE_UncookedSoupLavish>
