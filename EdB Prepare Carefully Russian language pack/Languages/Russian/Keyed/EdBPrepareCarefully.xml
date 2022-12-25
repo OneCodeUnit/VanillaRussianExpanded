@@ -1,126 +1,237 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Add a Parent -->
   <EdB.PC.AddParentChild.Header.AddParent>Добавить родителя</EdB.PC.AddParentChild.Header.AddParent>
+  <!-- EN: You must select a parent -->
   <EdB.PC.AddParentChild.Error.ParentRequired>Вы должны выбрать родителя</EdB.PC.AddParentChild.Error.ParentRequired>
+  <!-- EN: Add a Child -->
   <EdB.PC.AddParentChild.Header.AddChild>Добавить ребёнка</EdB.PC.AddParentChild.Header.AddChild>
+  <!-- EN: You must select a child -->
   <EdB.PC.AddParentChild.Error.ChildRequired>Вы должны выбрать ребёнка</EdB.PC.AddParentChild.Error.ChildRequired>
+  <!-- EN: Select a colonist -->
   <EdB.PC.AddParentChild.Header.SelectColonist>Выберите поселенца</EdB.PC.AddParentChild.Header.SelectColonist>
+  <!-- EN: Select another character from the world -->
   <EdB.PC.AddParentChild.Header.SelectWorldPawn>Выберите другого персонажа, существующего в мире</EdB.PC.AddParentChild.Header.SelectWorldPawn>
+  <!-- EN: Create a temporary character to link together two other characters -->
   <EdB.PC.AddParentChild.Header.CreateTemporaryPawn>Создайте временного персонажа, чтобы связать двух других персонажей</EdB.PC.AddParentChild.Header.CreateTemporaryPawn>
+  <!-- EN: New Temporary Character -->
   <EdB.PC.AddParentChild.NewHiddenCharacter>Новый временный персонаж</EdB.PC.AddParentChild.NewHiddenCharacter>
+  <!-- EN: Temporary -->
   <EdB.PC.AddParentChild.Temporary>Временный</EdB.PC.AddParentChild.Temporary>
+  <!-- EN: Colony -->
   <EdB.PC.AddParentChild.Colony>Поселение</EdB.PC.AddParentChild.Colony>
+  <!-- EN: World -->
   <EdB.PC.AddParentChild.World>Мир</EdB.PC.AddParentChild.World>
 
+  <!-- EN: Select The Relationship -->
   <EdB.PC.AddRelationship.Header.Relationship>Выберите отношение</EdB.PC.AddRelationship.Header.Relationship>
+  <!-- EN: Select a Character -->
   <EdB.PC.AddRelationship.Header.Source>Выберите персонажа</EdB.PC.AddRelationship.Header.Source>
+  <!-- EN: Select a Target Character -->
   <EdB.PC.AddRelationship.Header.Target>Выберите целевого персонажа</EdB.PC.AddRelationship.Header.Target>
+  <!-- EN: You must select a relationship -->
   <EdB.PC.AddRelationship.Error.RelationshipRequired>Вы должны выбрать отношения</EdB.PC.AddRelationship.Error.RelationshipRequired>
+  <!-- EN: You must select a character -->
   <EdB.PC.AddRelationship.Error.SourceRequired>Вы должны выбрать персонажа</EdB.PC.AddRelationship.Error.SourceRequired>
+  <!-- EN: You must select a character -->
   <EdB.PC.AddRelationship.Error.TargetRequired>Вы должны выбрать персонажа</EdB.PC.AddRelationship.Error.TargetRequired>
 
+  <!-- EN: {0}, {1} -->
   <EdB.PC.Animals.LabelWithGender>{0}, {1}</EdB.PC.Animals.LabelWithGender>
+  <!-- EN: {0} -->
   <EdB.PC.Animals.LabelWithoutGender>{0}</EdB.PC.Animals.LabelWithoutGender>
 
+  <!-- EN: Whole Body -->
   <EdB.PC.BodyParts.WholeBody>Всё тело</EdB.PC.BodyParts.WholeBody>
 
+  <!-- EN: Add -->
   <EdB.PC.Common.Add>Добавить</EdB.PC.Common.Add>
+  <!-- EN: Next -->
   <EdB.PC.Common.Next>Далее</EdB.PC.Common.Next>
+  <!-- EN: None -->
   <EdB.PC.Common.NoOptionSelected>Нет</EdB.PC.Common.NoOptionSelected>
+  <!-- EN: None -->
   <EdB.PC.Common.NoOptionAvailable>Нет</EdB.PC.Common.NoOptionAvailable>
+  <!-- EN: Cancel -->
   <EdB.PC.Common.Cancel>Отмена</EdB.PC.Common.Cancel>
+  <!-- EN: Close -->
   <EdB.PC.Common.Close>Закрыть</EdB.PC.Common.Close>
+  <!-- EN: Confirm -->
   <EdB.PC.Common.Confirm>Подтвердить</EdB.PC.Common.Confirm>
+  <!-- EN: Default -->
   <EdB.PC.Common.Default>По умолчанию</EdB.PC.Common.Default>
+  <!-- EN: Select -->
   <EdB.PC.Common.Select>Выбрать</EdB.PC.Common.Select>
 
+  <!-- EN: Select Abilities -->
   <EdB.PC.Dialog.Abilities.Header>Выбрать способности</EdB.PC.Dialog.Abilities.Header>
-
+  
+  <!-- EN: Add Filter -->
   <EdB.PC.Dialog.Backstory.Filter.Add>Добавить фильтр</EdB.PC.Dialog.Backstory.Filter.Add>
+  <!-- EN: No Disabled Work Types -->
   <EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>Без недоступных работ</EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>
+  <!-- EN: No Skill Penalties -->
   <EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>Без штрафов</EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>
+  <!-- EN: Bonus: {0} +{1} -->
   <EdB.PC.Dialog.Backstory.Filter.SkillBonus>Бонус: {0} +{1}</EdB.PC.Dialog.Backstory.Filter.SkillBonus>
+  <!-- EN: Skill Bonus: {0}, +{1} or better -->
   <EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>Бонус к навыку: {0}, +{1} или лучше</EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>
+  <!-- EN: Faction backstories only -->
   <EdB.PC.Dialog.Backstory.Filter.MatchesFaction>Только предыстории фракций</EdB.PC.Dialog.Backstory.Filter.MatchesFaction>
 
+  <!-- EN: Select a location -->
   <EdB.PC.Dialog.BodyPart.Header>Выберите место</EdB.PC.Dialog.BodyPart.Header>
+  <!-- EN: You must select a location -->
   <EdB.PC.Dialog.BodyPart.Error.Required>Вы должны выбрать место</EdB.PC.Dialog.BodyPart.Error.Required>
 
+  <!-- EN: Choose a Faction -->
   <EdB.PC.Dialog.Faction.ChooseFaction>Выберите фракцию</EdB.PC.Dialog.Faction.ChooseFaction>
+  <!-- EN: Leader: {0} -->
   <EdB.PC.Dialog.Faction.LeaderFaction>Лидер: {0}</EdB.PC.Dialog.Faction.LeaderFaction>
+  <!-- EN: {1}: {0} -->
   <EdB.PC.Dialog.Faction.NumberedFaction>{1}: {0}</EdB.PC.Dialog.Faction.NumberedFaction>
+  <!-- EN: Random -->
   <EdB.PC.Dialog.Faction.Random>Случайная</EdB.PC.Dialog.Faction.Random>
+  <!-- EN: Random: {0} -->
   <EdB.PC.Dialog.Faction.RandomFaction>Случайная: {0}</EdB.PC.Dialog.Faction.RandomFaction>
+  <!-- EN: Make this character the leader of a specific faction -->
   <EdB.PC.Dialog.Faction.SelectLeaderFaction>Сделать этого персонажа лидером определённой фракции</EdB.PC.Dialog.Faction.SelectLeaderFaction>
+  <!-- EN: Place this character in a random faction -->
   <EdB.PC.Dialog.Faction.SelectRandomFaction>Сделать этого персонажа членом случайной фракции</EdB.PC.Dialog.Faction.SelectRandomFaction>
-  <EdB.PC.Dialog.Faction.SelectSpecificFaction>Выберите определенную фракцию для этого персонажа</EdB.PC.Dialog.Faction.SelectSpecificFaction>
+  <!-- EN: Choose a specific faction for this character -->
+  <EdB.PC.Dialog.Faction.SelectSpecificFaction>Выберите определённую фракцию для этого персонажа</EdB.PC.Dialog.Faction.SelectSpecificFaction>
 
+  <!-- EN: Select a Favorite Color -->
   <EdB.PC.Dialog.FavoriteColor.Header>Выберите любимый цвет</EdB.PC.Dialog.FavoriteColor.Header>
 
+  <!-- EN: You've selected at least one implant that will not be installed because it conflicts with another selection:\n{0} -->
   <EdB.PC.Dialog.Implant.Alert>Вы выбрали, как минимум, один имплантат который не будет установлен, поскольку конфликтует с:\n{0}</EdB.PC.Dialog.Implant.Alert>
-  <EdB.PC.Dialog.Implant.Alert.Item>— {0}, {1}</EdB.PC.Dialog.Implant.Alert.Item>
+  <!-- EN: - {0}, {1} -->
+  <EdB.PC.Dialog.Implant.Alert.Item>- {0}, {1}</EdB.PC.Dialog.Implant.Alert.Item>
+  <!-- EN: Apply -->
   <EdB.PC.Dialog.Implant.Button.Confirm>Применить</EdB.PC.Dialog.Implant.Button.Confirm>
-  <EdB.PC.Dialog.Implant.Conflict>Этот имплант не может быть установлен, поскольку он конфликтует с:\n\n— {0}, {1}</EdB.PC.Dialog.Implant.Conflict>
+  <!-- EN: This implant cannot be installed because it conflicts with the following:\n\n- {0}, {1} -->
+  <EdB.PC.Dialog.Implant.Conflict>Этот имплант не может быть установлен, поскольку он конфликтует с:\n\n- {0}, {1}</EdB.PC.Dialog.Implant.Conflict>
+  <!-- EN: Select Implants and Bionics -->
   <EdB.PC.Dialog.Implant.Header>Выберите протезы и импланты</EdB.PC.Dialog.Implant.Header>
 
+  <!-- EN: Select a condition -->
   <EdB.PC.Dialog.Injury.Header>Выберите состояние</EdB.PC.Dialog.Injury.Header>
+  <!-- EN: You must select a condition -->
   <EdB.PC.Dialog.Injury.Error.Required>Вы должны выбрать состояние</EdB.PC.Dialog.Injury.Error.Required>
+  <!-- EN: {0} ({1}) -->
   <EdB.PC.Dialog.Injury.OldInjury.Label>{0} ({1})</EdB.PC.Dialog.Injury.OldInjury.Label>
 
+  <!-- EN: Load -->
   <EdB.PC.Dialog.PawnPreset.Button.Load>Загрузить</EdB.PC.Dialog.PawnPreset.Button.Load>
+  <!-- EN: Save -->
   <EdB.PC.Dialog.PawnPreset.Button.Save>Сохранить</EdB.PC.Dialog.PawnPreset.Button.Save>
+  <!-- EN: Delete this Colonist -->
   <EdB.PC.Dialog.PawnPreset.DeleteTooltip>Удалить этого поселенца</EdB.PC.Dialog.PawnPreset.DeleteTooltip>
+  <!-- EN: Are you sure that you want to delete this colonist? -->
   <EdB.PC.Dialog.PawnPreset.ConfirmDelete>Вы уверены, что хотите удалить этого поселенца?</EdB.PC.Dialog.PawnPreset.ConfirmDelete>
+  <!-- EN: Loaded character {0} -->
   <EdB.PC.Dialog.PawnPreset.Loaded>Персонаж {0} загружен</EdB.PC.Dialog.PawnPreset.Loaded>
-  <EdB.PC.Dialog.PawnPreset.Error.Failed>Не удалось загрузить персонажа. Убедитесь, что все необходимые моды включены.</EdB.PC.Dialog.PawnPreset.Error.Failed>
-  <EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>Поселенцы, сохранённые в пре-альфа 13 не поддерживаются.</EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>
+  <!-- EN: Failed to load character.  Check that all required mods are enabled. -->
+  <EdB.PC.Dialog.PawnPreset.Error.Failed>Не удалось загрузить персонажа. Убедитесь, что все необходимые моды активны.</EdB.PC.Dialog.PawnPreset.Error.Failed>
+  <!-- EN: Pre-alpha 13 versions of saved colonists are not supported. -->
+  <EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>Поселенцы, сохранённые в версии пре-альфа 13, не поддерживаются.</EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>
 
+  <!-- EN: Load Preset -->
   <EdB.PC.Dialog.Preset.Button.Load>Загрузить</EdB.PC.Dialog.Preset.Button.Load>
+  <!-- EN: Save Preset -->
   <EdB.PC.Dialog.Preset.Button.Save>Сохранить</EdB.PC.Dialog.Preset.Button.Save>
+  <!-- EN: Are you sure that you want to delete this preset? -->
   <EdB.PC.Dialog.Preset.ConfirmDelete>Вы уверены, что хотите удалить этот шаблон?</EdB.PC.Dialog.Preset.ConfirmDelete>
-  <EdB.PC.Dialog.Preset.DeleteTooltip>Удалить этот шаблон</EdB.PC.Dialog.Preset.DeleteTooltip>
+  <!-- EN: Delete this Preset -->
+  <EdB.PC.Dialog.Preset.DeleteTooltip>Удалить шаблон</EdB.PC.Dialog.Preset.DeleteTooltip>
+  <!-- EN: Could not load equipment from the preset. -->
   <EdB.PC.Dialog.Preset.Error.EquipmentFailed>Не удалось загрузить инвентарь из шаблона.</EdB.PC.Dialog.Preset.Error.EquipmentFailed>
-  <EdB.PC.Dialog.Preset.Error.Failed>Не удалось загрузить поселенцев из шаблона.  Убедитесь, что все необходимые моды включены.</EdB.PC.Dialog.Preset.Error.Failed>
-  <EdB.PC.Dialog.Preset.Error.PartialSaveFailure>Возникла проблема при сохранении шаблона. Некоторые настройки не были включены.</EdB.PC.Dialog.Preset.Error.PartialSaveFailure>
-  <EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>Шаблоны из пре-альфа 13 не поддерживаются.</EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>
+  <!-- EN: Failed to load colonists from the preset.  Check that all required mods are enabled. -->
+  <EdB.PC.Dialog.Preset.Error.Failed>Не удалось загрузить поселенцев из шаблона.  Убедитесь, что все необходимые моды активны.</EdB.PC.Dialog.Preset.Error.Failed>
+  <!-- EN: There were problems saving the preset. Some customizations were not included. -->
+  <EdB.PC.Dialog.Preset.Error.PartialSaveFailure>Возникла проблема при сохранении шаблона. Некоторые настройки не были добавлены.</EdB.PC.Dialog.Preset.Error.PartialSaveFailure>
+  <!-- EN: Pre-alpha 13 versions of presets are not supported. -->
+  <EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>Шаблоны, сохранённые в версии пре-альфа 13, не поддерживаются.</EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>
+  <!-- EN: Could not load a custom relationship from the preset. -->
   <EdB.PC.Dialog.Preset.Error.RelationshipFailed>Не удалось загрузить пользовательские отношения из шаблона.</EdB.PC.Dialog.Preset.Error.RelationshipFailed>
+  <!-- EN: There was a problem while saving.  You may not be able to load the preset. -->
   <EdB.PC.Dialog.Preset.Error.SaveFailed>Возникла проблема при сохранении. Возможно, вы не сможете загрузить шаблон.</EdB.PC.Dialog.Preset.Error.SaveFailed>
-  <EdB.PC.Dialog.Preset.Error.ThingDefFailed>Не удалось полностью загрузить шаблон. Убедитесь, что все необходимые моды включены.</EdB.PC.Dialog.Preset.Error.ThingDefFailed>
-  <EdB.PC.Dialog.Preset.Error.NoCharacter>Не удалось загрузить сохранённого персонажа. Убедитесь, что все необходимые моды включены.</EdB.PC.Dialog.Preset.Error.NoCharacter>
+  <!-- EN: Could not fully load preset.  Check that all required mods are enabled. -->
+  <EdB.PC.Dialog.Preset.Error.ThingDefFailed>Не удалось полностью загрузить шаблон. Убедитесь, что все необходимые моды активны.</EdB.PC.Dialog.Preset.Error.ThingDefFailed>
+  <!-- EN: Could not load saved character.  Check that all required mods are enabled. -->
+  <EdB.PC.Dialog.Preset.Error.NoCharacter>Не удалось загрузить сохранённого персонажа. Убедитесь, что все необходимые моды активны.</EdB.PC.Dialog.Preset.Error.NoCharacter>
+  <!-- EN: Loaded preset {0} -->
   <EdB.PC.Dialog.Preset.Loaded>Загружен шаблон {0}</EdB.PC.Dialog.Preset.Loaded>
 
-  <EdB.PC.Dialog.Severity.Header>Выберите степень серьезности</EdB.PC.Dialog.Severity.Header>
-  <EdB.PC.Dialog.Severity.Error.Required>Вы должны выбрать степень серьезности</EdB.PC.Dialog.Severity.Error.Required>
+  <!-- EN: Select a severity level -->
+  <EdB.PC.Dialog.Severity.Header>Выберите степень серьёзности</EdB.PC.Dialog.Severity.Header>
+  <!-- EN: You must select a severity level -->
+  <EdB.PC.Dialog.Severity.Error.Required>Вы должны выбрать степень серьёзности</EdB.PC.Dialog.Severity.Error.Required>
+  <!-- EN: 2 Damage -->
   <EdB.PC.Dialog.Severity.OldInjury.Label.2>2 единицы урона</EdB.PC.Dialog.Severity.OldInjury.Label.2>
+  <!-- EN: 3 Damage -->
   <EdB.PC.Dialog.Severity.OldInjury.Label.3>3 единицы урона</EdB.PC.Dialog.Severity.OldInjury.Label.3>
+  <!-- EN: 4 Damage -->
   <EdB.PC.Dialog.Severity.OldInjury.Label.4>4 единицы урона</EdB.PC.Dialog.Severity.OldInjury.Label.4>
+  <!-- EN: 5 Damage -->
   <EdB.PC.Dialog.Severity.OldInjury.Label.5>5 единиц урона</EdB.PC.Dialog.Severity.OldInjury.Label.5>
+  <!-- EN: 6 Damage -->
   <EdB.PC.Dialog.Severity.OldInjury.Label.6>6 единиц урона</EdB.PC.Dialog.Severity.OldInjury.Label.6>
+  <!-- EN: {0} {1} -->
   <EdB.PC.Dialog.Severity.Stage.Label.>{0} {1}</EdB.PC.Dialog.Severity.Stage.Label.>
 
+  <!-- EN: Add a Title -->
   <EdB.PC.Dialog.Titles.Header>Назвать</EdB.PC.Dialog.Titles.Header>
-
+  
+  <!-- EN: Unrecoverable Error -->
   <EdB.PC.Dialog.UnrecoverableError.Header>Неисправимая ошибка</EdB.PC.Dialog.UnrecoverableError.Header>
+  <!-- EN: Something went wrong, and Prepare Carefully was not able to recover.  The following error message may help identify the problem:
+
+"{0}" -->
   <EdB.PC.Dialog.UnrecoverableError.Message>Что-то пошло не так и Prepare Carefully не смог прийти в себя. Следующее сообщение об ошибке может помочь идентифицировать проблему:
 
 «{0}»</EdB.PC.Dialog.UnrecoverableError.Message>
 
+  <!-- EN: {0} {1} -->
   <EdB.PC.Equipment.AnimalLabel>{0} {1}</EdB.PC.Equipment.AnimalLabel>
+  <!-- EN: Animals -->
   <EdB.PC.Equipment.Type.Animals>Животные</EdB.PC.Equipment.Type.Animals>
+  <!-- EN: Apparel -->
   <EdB.PC.Equipment.Type.Apparel>Одежда</EdB.PC.Equipment.Type.Apparel>
+  <!-- EN: Furniture -->
   <EdB.PC.Equipment.Type.Buildings>Мебель</EdB.PC.Equipment.Type.Buildings>
+  <!-- EN: Food -->
   <EdB.PC.Equipment.Type.Food>Еда</EdB.PC.Equipment.Type.Food>
+  <!-- EN: Medical -->
   <EdB.PC.Equipment.Type.Medical>Медикаменты</EdB.PC.Equipment.Type.Medical>
+  <!-- EN: Resources -->
   <EdB.PC.Equipment.Type.Resources>Ресурсы</EdB.PC.Equipment.Type.Resources>
+  <!-- EN: Weapons -->
   <EdB.PC.Equipment.Type.Weapons>Оружие</EdB.PC.Equipment.Type.Weapons>
+  <!-- EN: Initializing... -->
   <EdB.PC.Equipment.LoadingProgress.Initializing>Инициализация...</EdB.PC.Equipment.LoadingProgress.Initializing>
+  <!-- EN: Processing materials... -->
   <EdB.PC.Equipment.LoadingProgress.StuffDefs>Обработка материалов...</EdB.PC.Equipment.LoadingProgress.StuffDefs>
+  <!-- EN: Processing items... -->
   <EdB.PC.Equipment.LoadingProgress.ThingDefs>Обработка предметов...</EdB.PC.Equipment.LoadingProgress.ThingDefs>
+  <!-- EN: Finished -->
   <EdB.PC.Equipment.LoadingProgress.Finished>Завершено</EdB.PC.Equipment.LoadingProgress.Finished>
 
+  <!-- EN: You've spent too many points. -->
   <EdB.PC.Error.NotEnoughPoints>Вы потратили слишком много очков.</EdB.PC.Error.NotEnoughPoints>
-  <EdB.PC.Error.NotEnoughColonists1>Вы должны иметь по крайней мере одного поселенца.</EdB.PC.Error.NotEnoughColonists1>
-  <EdB.PC.Error.NotEnoughColonists>Вы должны иметь по крайней мере {0} поселенцев.</EdB.PC.Error.NotEnoughColonists>
+  <!-- EN: You must have at least one colonist. -->
+  <EdB.PC.Error.NotEnoughColonists1>У вас должен быть по крайней мере один поселенец.</EdB.PC.Error.NotEnoughColonists1>
+  <!-- EN: You must have at least {0} colonists. -->
+  <EdB.PC.Error.NotEnoughColonists>У вас должны быть по крайней мере {0_numCase ? поселенец : поселенца : поселенцев}.</EdB.PC.Error.NotEnoughColonists>
+  <!-- EN: Prepare Carefully failed to initialize.
+  
+This may be because you are running an older version of RimWorld than required.
+
+You are running version {0} of the game.  Prepare Carefully requires that you run at least version {1}.
+  
+Please update to the minimum required version or newer to see if it fixes your problem.
+   -->
   <EdB.PC.Error.GameVersion>Не удалось инициализировать Prepare Carefully.
   
 Эта ошибка может быть вызвана слишком старой версией игры.
@@ -129,6 +240,12 @@
   
 Пожалуйста, обновите игру и проверьте, исправилась ли ошибка.
   </EdB.PC.Error.GameVersion>
+  <!-- EN: Prepare Carefully failed to initialize.
+
+This is frequently caused by an unexpected issue between Prepare Carefully and another mod but could also be a caused by a bug in Prepare Carefully.
+
+Before reporting an error, please try to figure out which mod may be causing the problem.  If you have a lot of mods, you can use a divide and conquer approach to disable mods until you find the one that's triggering the issue.
+   -->
   <EdB.PC.Error.Initialization>Не удалось инициализировать Prepare Carefully.
 
 Эта ошибка часто бывает вызвана неожиданной проблемой между Prepare Carefully и другим модом, но ошибка может быть и в самом Prepare Carefully.
@@ -136,134 +253,263 @@
 Прежде чем сообщать об ошибке, пожалуйста, попробуйте выяснить, какой мод может быть причиной проблемы. Если у вас много модов, вы можете использовать подход «разделяй и властвуй» и отключать моды, пока не найдётся тот, который вызывает проблему.
   </EdB.PC.Error.Initialization>
 
+  <!-- EN: {0} ({1}) -->
   <EdB.PC.Pawn.AgeWithChronological>{0} ({1})</EdB.PC.Pawn.AgeWithChronological>
+  <!-- EN: {0} -->
   <EdB.PC.Pawn.AgeWithoutChronological>{0}</EdB.PC.Pawn.AgeWithoutChronological>
+  <!-- EN: Average -->
   <EdB.PC.Pawn.BodyType.Average>Среднее</EdB.PC.Pawn.BodyType.Average>
+  <!-- EN: Heavyset -->
   <EdB.PC.Pawn.BodyType.Heavyset>Грузное</EdB.PC.Pawn.BodyType.Heavyset>
+  <!-- EN: Hulking -->
   <EdB.PC.Pawn.BodyType.Hulking>Плечистое</EdB.PC.Pawn.BodyType.Hulking>
+  <!-- EN: Rotund -->
   <EdB.PC.Pawn.BodyType.Oval>Округлое</EdB.PC.Pawn.BodyType.Oval>
+  <!-- EN: Thin -->
   <EdB.PC.Pawn.BodyType.Thin>Худощавое</EdB.PC.Pawn.BodyType.Thin>
+  <!-- EN: Unnamed -->
   <EdB.PC.Pawn.BodyType.Unnamed>Неназванное</EdB.PC.Pawn.BodyType.Unnamed>
+  <!-- EN: {0}, {1} -->
   <EdB.PC.Pawn.HiddenPawnDescriptionWithGender>{0}, {1}</EdB.PC.Pawn.HiddenPawnDescriptionWithGender>
+  <!-- EN: {0} -->
   <EdB.PC.Pawn.HiddenPawnDescriptionNoGender>{0}</EdB.PC.Pawn.HiddenPawnDescriptionNoGender>
+  <!-- EN: Hidden {0} -->
   <EdB.PC.Pawn.HiddenPawnNameFull>Скрытый {0}</EdB.PC.Pawn.HiddenPawnNameFull>
+  <!-- EN: Hidden {0} -->
   <EdB.PC.Pawn.HiddenPawnNameShort>Скрытый {0}</EdB.PC.Pawn.HiddenPawnNameShort>
+  <!-- EN: Unknown -->
   <EdB.PC.Pawn.HiddenPawnProfession>Неизвестно</EdB.PC.Pawn.HiddenPawnProfession>
+  <!-- EN: {0}, {1}, age {2} -->
   <EdB.PC.Pawn.PawnDescriptionWithGender>{0}, {1}, возрастом {2}</EdB.PC.Pawn.PawnDescriptionWithGender>
+  <!-- EN: {0}, age {1} -->
   <EdB.PC.Pawn.PawnDescriptionNoGender>{0}, возрастом {1}</EdB.PC.Pawn.PawnDescriptionNoGender>
+  <!-- EN: Accessory -->
   <EdB.PC.Pawn.PawnLayer.Accessory>Аксессуар</EdB.PC.Pawn.PawnLayer.Accessory>
+  <!-- EN: Option {0} -->
   <EdB.PC.Pawn.PawnLayer.AlienAddonOption>Выбор {0}</EdB.PC.Pawn.PawnLayer.AlienAddonOption>
+  <!-- EN: Beard -->
   <EdB.PC.Pawn.PawnLayer.Beard>Борода</EdB.PC.Pawn.PawnLayer.Beard>
+  <!-- EN: Body Tattoo -->
   <EdB.PC.Pawn.PawnLayer.BodyTattoo>Татуировки на теле</EdB.PC.Pawn.PawnLayer.BodyTattoo>
+  <!-- EN: Body Type -->
   <EdB.PC.Pawn.PawnLayer.BodyType>Телосложение</EdB.PC.Pawn.PawnLayer.BodyType>
+  <!-- EN: Bottom Clothing Layer -->
   <EdB.PC.Pawn.PawnLayer.BottomClothingLayer>Внутренний слой одежды</EdB.PC.Pawn.PawnLayer.BottomClothingLayer>
+  <!-- EN: Eye Covering -->
   <EdB.PC.Pawn.PawnLayer.EyeCovering>Глаза</EdB.PC.Pawn.PawnLayer.EyeCovering>
+  <!-- EN: Face Tattoo -->
   <EdB.PC.Pawn.PawnLayer.FaceTattoo>Татуировки на лице</EdB.PC.Pawn.PawnLayer.FaceTattoo>
+  <!-- EN: Hair -->
   <EdB.PC.Pawn.PawnLayer.Hair>Причёска</EdB.PC.Pawn.PawnLayer.Hair>
+  <!-- EN: Hat -->
   <EdB.PC.Pawn.PawnLayer.Hat>Головной убор</EdB.PC.Pawn.PawnLayer.Hat>
+  <!-- EN: Head Type -->
   <EdB.PC.Pawn.PawnLayer.HeadType>Тип головы</EdB.PC.Pawn.PawnLayer.HeadType>
+  <!-- EN: Middle Clothing Layer -->
   <EdB.PC.Pawn.PawnLayer.MiddleClothingLayer>Средний слой одежды</EdB.PC.Pawn.PawnLayer.MiddleClothingLayer>
+  <!-- EN: Pants -->
   <EdB.PC.Pawn.PawnLayer.Pants>Штаны</EdB.PC.Pawn.PawnLayer.Pants>
+  <!-- EN: Top Clothing Layer -->
   <EdB.PC.Pawn.PawnLayer.TopClothingLayer>Внешний слой одежды</EdB.PC.Pawn.PawnLayer.TopClothingLayer>
+  <!-- EN: Temporary {0} -->
   <EdB.PC.Pawn.TemporaryPawnNameFull>Временный {0}</EdB.PC.Pawn.TemporaryPawnNameFull>
+  <!-- EN: Temp {0} -->
   <EdB.PC.Pawn.TemporaryPawnNameShort>Временный {0}</EdB.PC.Pawn.TemporaryPawnNameShort>
 
+  <!-- EN: Load Preset -->
   <EdB.PC.Page.Button.LoadPreset>Загрузить шаблон</EdB.PC.Page.Button.LoadPreset>
+  <!-- EN: Prepare Carefully -->
   <EdB.PC.Page.Button.PrepareCarefully>Аккуратная\nподготовка</EdB.PC.Page.Button.PrepareCarefully>
+  <!-- EN: Save Preset -->
   <EdB.PC.Page.Button.SavePreset>Сохранить шаблон</EdB.PC.Page.Button.SavePreset>
+  <!-- EN: Are you sure that you do not want to Prepare Carefully?  Any changes that you made will be lost. -->
   <EdB.PC.Page.ConfirmExit>Вы уверены, что не хотите аккуратно подготовиться? Любые сделанные изменения будут потеряны.</EdB.PC.Page.ConfirmExit>
+  <!-- EN: Are you sure that you are finished with your customizations?  Confirm that you're ready to start! -->
   <EdB.PC.Page.ConfirmStart>Вы уверены, что закончили с подготовкой? Подтвердите, что вы готовы начать!</EdB.PC.Page.ConfirmStart>
+  <!-- EN: Total Spent: {0} -->
   <EdB.PC.Page.Points.CostSummary.Total>Всего потрачено: {0}</EdB.PC.Page.Points.CostSummary.Total>
+  <!-- EN: Equipment: {0} -->
   <EdB.PC.Page.Points.CostSummary.Equipment>Инвентарь: {0}</EdB.PC.Page.Points.CostSummary.Equipment>
+  <!-- EN: Apparel: {0} -->
   <EdB.PC.Page.Points.CostSummary.Apparel>Одежда: {0}</EdB.PC.Page.Points.CostSummary.Apparel>
+  <!-- EN: {0}: {1} -->
   <EdB.PC.Page.Points.CostSummary.Colonist>{0}: {1}</EdB.PC.Page.Points.CostSummary.Colonist>
+  <!-- EN: Implants: {0} -->
   <EdB.PC.Page.Points.CostSummary.Implants>Импланты: {0}</EdB.PC.Page.Points.CostSummary.Implants>
+  <!-- EN: Disable Point Limits -->
+  <EdB.PC.Page.Points.DisablePoints>Отключить лимит очков</EdB.PC.Page.Points.DisablePoints>
+  <!-- EN: You've spent too many points. -->
   <EdB.PC.Page.Points.NotEnoughPoints>Вы потратили слишком много очков.</EdB.PC.Page.Points.NotEnoughPoints>
+  <!-- EN: Points Remaining: {0} -->
   <EdB.PC.Page.Points.Remaining>Осталось очков: {0}</EdB.PC.Page.Points.Remaining>
-  <EdB.PC.Page.Points.ScenarioPoints>Начальные поселенцы и ресурсы, которые были случайным образом сгенерированы для этого сценария, стоили {0} очков.</EdB.PC.Page.Points.ScenarioPoints>
+  <!-- EN: The starting colonists and resources that were randomly generated for this scenario were worth {0} points. -->
+  <EdB.PC.Page.Points.ScenarioPoints>Начальные поселенцы и ресурсы, которые были случайным образом сгенерированы для этого сценария, стоят {0} очков.</EdB.PC.Page.Points.ScenarioPoints>
+  <!-- EN: Points Spent: {0} -->
   <EdB.PC.Page.Points.Spent>Очков потрачено: {0}</EdB.PC.Page.Points.Spent>
+  <!-- EN: Unlimited -->
   <EdB.PC.Page.Points.Unlimited>Неограниченно</EdB.PC.Page.Points.Unlimited>
+  <!-- EN: Use Point Limits -->
   <EdB.PC.Page.Points.UsePoints>Ограничить очки</EdB.PC.Page.Points.UsePoints>
+  <!-- EN: Enable point limits if you want to maintain a balanced start by paying for skills, additional colonists and equipment from a fixed number of available points.  Your starting points will match the point cost of the characters and resources that were randomly generated for your chosen scenario.
+
+Disable point limits to prepare your starting colonists with no limitations.
+   -->
   <EdB.PC.Page.Points.UsePoints.Tip>Включите лимиты очков, если хотите придерживаться сбалансированного старта, оплачивая навыки, дополнительных поселенцев и вещи для инвентаря из фиксированного количества доступных очков. Ваши начальные очки будут соответствовать стоимости персонажей и ресурсов, которые были случайным образом сгенерированы для выбранного сценария.
 
 Отключите ограничения по очкам, чтобы подготовить ваших начальных поселенцев без ограничений.
   </EdB.PC.Page.Points.UsePoints.Tip>
-  <EdB.PC.Page.Title>Аккуратная подготовка</EdB.PC.Page.Title>
-  
+  <!-- EN: Prepare Carefully -->
+  <EdB.PC.Page.Title>Подготовка</EdB.PC.Page.Title>
+
+  <!-- EN: No abilities -->
   <EdB.PC.Panel.Abilities.None>Нет способностей</EdB.PC.Panel.Abilities.None>
 
-  <EdB.PC.Panel.Age.Biological>Возраст:\nБиологический</EdB.PC.Panel.Age.Biological>
-  <EdB.PC.Panel.Age.Chronological>Хронологический</EdB.PC.Panel.Age.Chronological>
+  <!-- EN: Age -->
+  <EdB.PC.Panel.Age.Header>Возраст</EdB.PC.Panel.Age.Header>
+  <!-- EN: Biological -->
+  <EdB.PC.Panel.Age.Label.BiologicalAge>Биологический</EdB.PC.Panel.Age.Label.BiologicalAge>
+  <!-- EN: Chronological -->
+  <EdB.PC.Panel.Age.Label.ChronologicalAge>Хронологический</EdB.PC.Panel.Age.Label.ChronologicalAge>
+  <!-- EN: Years -->
+  <EdB.PC.Panel.Age.Label.Years>Годы</EdB.PC.Panel.Age.Label.Years>
+  <!-- EN: Days -->
+  <EdB.PC.Panel.Age.Label.Days>Дни</EdB.PC.Panel.Age.Label.Days>
+  <!-- EN: Biological Age -->
+  <EdB.PC.Panel.Age.Biological>Биологический возраст</EdB.PC.Panel.Age.Biological>
+  <!-- EN: Chronological Age -->
+  <EdB.PC.Panel.Age.Chronological>Хронологический возраст</EdB.PC.Panel.Age.Chronological>
 
+  <!-- EN: Cannot wear the selected {0} with the following apparel: -->
   <EdB.PC.Panel.Appearance.ApparelConflict.Description>Нельзя надеть {0} с этой одеждой:</EdB.PC.Panel.Appearance.ApparelConflict.Description>
-  <EdB.PC.Panel.Appearance.ApparelConflict.LineItem> — {0}</EdB.PC.Panel.Appearance.ApparelConflict.LineItem>
+  <!-- EN:  - {0} -->
+  <EdB.PC.Panel.Appearance.ApparelConflict.LineItem> - {0}</EdB.PC.Panel.Appearance.ApparelConflict.LineItem>
+  <!-- EN: None -->
   <EdB.PC.Panel.Appearance.NoneSelected>Ничего</EdB.PC.Panel.Appearance.NoneSelected>
+  <!-- EN: The game will often "redress" world characters, giving them new apparel and equipment before spawning them on the map.  If you select a custom apparel option, those customizations will likely be lost if you eventually encounter the character.
+  
+This is not the case for faction leaders.  If you make this character a faction leader, your apparel customizations will be preserved. -->
   <EdB.PC.Panel.Appearance.WorldPawnAlert>Игра часто «исправляет» персонажей в мире, давая им новую одежду и снаряжение перед их появлением на карте. Если вы настроите им одежду, она, скорее всего, будет потеряна, когда вы встретитесь с персонажем.
   
 Это не относится к лидерам фракций. Если вы сделаете этого персонажа лидером фракции, ваши настройки одежды будут сохранены.</EdB.PC.Panel.Appearance.WorldPawnAlert>
 
+  <!-- EN: Add Equipment -->
   <EdB.PC.Panel.AvailableEquipment.Add>Добавить в инвентарь</EdB.PC.Panel.AvailableEquipment.Add>
+  <!-- EN: All Materials -->
   <EdB.PC.Panel.AvailableEquipment.Materials.All>Любой материал</EdB.PC.Panel.AvailableEquipment.Materials.All>
+  <!-- EN: No Materials -->
   <EdB.PC.Panel.AvailableEquipment.Materials.None>Нестандартный материал</EdB.PC.Panel.AvailableEquipment.Materials.None>
 
+  <!-- EN: Colony -->
   <EdB.PC.Panel.ColonyPawnList.Title>Поселение</EdB.PC.Panel.ColonyPawnList.Title>
   
+  <!-- EN: You must select a location -->
   <EdB.PC.Panel.Health.Error.MustSelectBodyPart>Вы должны выбрать часть тела</EdB.PC.Panel.Health.Error.MustSelectBodyPart>
+  <!-- EN: You must select an implant procedure -->
   <EdB.PC.Panel.Health.Error.MustSelectImplant>Вы должны выбрать имплант</EdB.PC.Panel.Health.Error.MustSelectImplant>
+  <!-- EN: You must select an option -->
   <EdB.PC.Panel.Health.Error.MustSelectOption>Вы должны выбрать</EdB.PC.Panel.Health.Error.MustSelectOption>
-  <EdB.PC.Panel.Health.Error.MustSelectSeverity>Вы должны выбрать степень серьезности</EdB.PC.Panel.Health.Error.MustSelectSeverity>
+  <!-- EN: You must select a severity level -->
+  <EdB.PC.Panel.Health.Error.MustSelectSeverity>Вы должны выбрать степень серьёзности</EdB.PC.Panel.Health.Error.MustSelectSeverity>
+  <!-- EN: Add an injury or health condition -->
   <EdB.PC.Panel.Health.HediffTypeInjury>Добавить травму или состояние здоровья</EdB.PC.Panel.Health.HediffTypeInjury>
+  <!-- EN: Manage implants and bionics -->
   <EdB.PC.Panel.Health.HediffTypeImplant>Управлять протезами и имплантами</EdB.PC.Panel.Health.HediffTypeImplant>
+  <!-- EN: {0}, {1} -->
   <EdB.PC.Panel.Health.InjuryLabel.Stage>{0}, {1}</EdB.PC.Panel.Health.InjuryLabel.Stage>
+  <!-- EN: {0} -->
   <EdB.PC.Panel.Health.InjuryLabel.Severity>{0}</EdB.PC.Panel.Health.InjuryLabel.Severity>
+  <!-- EN: No injuries, conditions or implants -->
   <EdB.PC.Panel.Health.None>Нет травм, состояний или имплантатов</EdB.PC.Panel.Health.None>
+  <!-- EN: Select a location -->
   <EdB.PC.Panel.Health.SelectBodyPart>Выбрать часть тела</EdB.PC.Panel.Health.SelectBodyPart>
-  <EdB.PC.Panel.Health.SelectSeverity>Выберите степень серьезности</EdB.PC.Panel.Health.SelectSeverity>
+  <!-- EN: Select a severity level -->
+  <EdB.PC.Panel.Health.SelectSeverity>Выберите степень серьёзности</EdB.PC.Panel.Health.SelectSeverity>
 
+  <!-- EN: None -->
   <EdB.PC.Panel.Incapable.None>Ничего</EdB.PC.Panel.Incapable.None>
+  <!-- EN: None of your pawns are capable of the following work types that are considered to be required by the vanilla game.
+
+{0}
+
+You can play the game with your colonists as they are, but you will be asked to confirm before starting the scenario. -->
   <EdB.PC.Panel.Incapable.Warning>Ни один из ваших поселенцев не способен выполнять те виды работы, которые считаются необходимыми для старта в RimWorld.
 
 {0}
 
 Вы всё равно можете играть с этими поселенцами, но вы должны будете подтвердить это перед началом сценария.</EdB.PC.Panel.Incapable.Warning>
-  <EdB.PC.Panel.Incapable.WarningItem> — {0}</EdB.PC.Panel.Incapable.WarningItem>
+  <!-- EN:  - {0} -->
+  <EdB.PC.Panel.Incapable.WarningItem> - {0}</EdB.PC.Panel.Incapable.WarningItem>
 
+  <!-- EN: Load Character -->
   <EdB.PC.Panel.LoadSave.Load>Загрузить</EdB.PC.Panel.LoadSave.Load>
+  <!-- EN: Save Character -->
   <EdB.PC.Panel.LoadSave.Save>Сохранить</EdB.PC.Panel.LoadSave.Save>
 
+  <!-- EN: Add... -->
   <EdB.PC.Panel.PawnList.Add>Добавить</EdB.PC.Panel.PawnList.Add>
+  <!-- EN: Are you sure that you want to remove this character? -->
   <EdB.PC.Panel.PawnList.Delete.Confirm>Вы уверены, что хотите удалить этого персонажа?</EdB.PC.Panel.PawnList.Delete.Confirm>
+  <!-- EN: There was an unexpected error when trying to create the new character -->
   <EdB.PC.Panel.PawnList.Error.FactionPawnFailed>При попытке создать нового персонажа произошла неожиданная ошибка</EdB.PC.Panel.PawnList.Error.FactionPawnFailed>
+  <!-- EN: Must select a faction -->
   <EdB.PC.Panel.PawnList.Error.MustSelectFaction>Вы должны выбрать фракцию</EdB.PC.Panel.PawnList.Error.MustSelectFaction>
+  <!-- EN: Load... -->
   <EdB.PC.Panel.PawnList.Load>Загрузить</EdB.PC.Panel.PawnList.Load>
+  <!-- EN: ({0}) -->
   <EdB.PC.Panel.PawnList.PawnCount>({0})</EdB.PC.Panel.PawnList.PawnCount>
+  <!-- EN: Select From a Faction Template -->
   <EdB.PC.Panel.PawnList.SelectFaction>Добавить из шаблона фракции</EdB.PC.Panel.PawnList.SelectFaction>
 
+  <!-- EN: {0}
+Click the randomize button to generate a colonist within this developmental stage's age range -->
+  <EdB.PC.Panel.Randomize.Tip.DevelopmentalStage>{0}
+Нажмите кнопку «случайно», чтобы создался поселенец возраста, соответствующего выбранной стадии</EdB.PC.Panel.Randomize.Tip.DevelopmentalStage>
+  <!-- EN: {0}
+Click the randomize button to generate a colonist with this xenotype -->
+  <EdB.PC.Panel.Randomize.Tip.Xenotype>{0}
+Нажмите кнопку «случайно», чтобы создался поселенец с выбранным ксенотипом</EdB.PC.Panel.Randomize.Tip.Xenotype>
+  
+  <!-- EN: Other Relationships -->
   <EdB.PC.Panel.RelationshipsOther.Title>Остальные отношения</EdB.PC.Panel.RelationshipsOther.Title>
 
+  <!-- EN: Parent, Child and Sibling Relationships -->
   <EdB.PC.Panel.RelationshipsParentChild.Title>Отношения кровного родства</EdB.PC.Panel.RelationshipsParentChild.Title>
 
+  <!-- EN: Remove Equipment -->
   <EdB.PC.Panel.SelectedEquipment.Remove>Удалить из инвентаря</EdB.PC.Panel.SelectedEquipment.Remove>
 
+  <!-- EN: Reset all skills and passions to their original values -->
   <EdB.PC.Panel.Skills.ResetTip>Сбросить все навыки и степени интереса к их изначальным значениям</EdB.PC.Panel.Skills.ResetTip>
+  <!-- EN: Clear all skills and passions by setting them to their lowest possible levels -->
   <EdB.PC.Panel.Skills.ClearTip>Очистить все навыки и степени интереса до минимально возможных значений</EdB.PC.Panel.Skills.ClearTip>
-  
-  <EdB.PC.Panel.Titles.Header>Названия</EdB.PC.Panel.Titles.Header>
-  <EdB.PC.Panel.Titles.None>Нет названий</EdB.PC.Panel.Titles.None>
 
-  <EdB.PC.Panel.Traits.None>Нет черт характера</EdB.PC.Panel.Traits.None>
-  <EdB.PC.Panel.Traits.Tip.Conflict>{0}\n\nКонфликтует с:\n{1}</EdB.PC.Panel.Traits.Tip.Conflict>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.1> — {0}</EdB.PC.Panel.Traits.Tip.Conflict.List.1>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.2> — {0}\n — {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.2>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.Many> — {0}\n{1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Many>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.Last> — {0}\n — {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Last>
+  <!-- EN: Titles -->
+  <EdB.PC.Panel.Titles.Header>Названия</EdB.PC.Panel.Titles.Header>
+  <!-- EN: No titles -->
+  <EdB.PC.Panel.Titles.None>Нет названий</EdB.PC.Panel.Titles.None>
   
+  <!-- EN: No traits -->
+  <EdB.PC.Panel.Traits.None>Нет черт характера</EdB.PC.Panel.Traits.None>
+  <!-- EN: {0}\n\nConflicts with:\n{1} -->
+  <EdB.PC.Panel.Traits.Tip.Conflict>{0}\n\nКонфликтует с:\n{1}</EdB.PC.Panel.Traits.Tip.Conflict>
+  <!-- EN:  - {0} -->
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.1> - {0}</EdB.PC.Panel.Traits.Tip.Conflict.List.1>
+  <!-- EN:  - {0}\n - {1} -->
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.2> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.2>
+  <!-- EN:  - {0}\n{1} -->
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.Many> - {0}\n{1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Many>
+  <!-- EN:  - {0}\n - {1} -->
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.Last> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Last>
+  
+  <!-- EN: Animals -->
   <EdB.PC.TabView.Animals.Title>Животные</EdB.PC.TabView.Animals.Title>
+  <!-- EN: Equipment -->
   <EdB.PC.TabView.Equipment.Title>Инвентарь</EdB.PC.TabView.Equipment.Title>
+  <!-- EN: Characters -->
   <EdB.PC.TabView.Pawns.Title>Персонажи</EdB.PC.TabView.Pawns.Title>
+  <!-- EN: Relationships -->
   <EdB.PC.TabView.Relationships.Title>Отношения</EdB.PC.TabView.Relationships.Title>
 
+  <!-- EN: World -->
   <EdB.PC.Panel.WorldPawnList.Title>Мир</EdB.PC.Panel.WorldPawnList.Title>
-  
-
 </LanguageData>
