@@ -5,7 +5,7 @@
   <!-- EN: A sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical. Kombucha acts as a home remedy against the flu, reducing its severity by 5%. -->
   <VBE_Kombucha.description>Кисло-сладкий, естественно газированный напиток, полученный путём помещения чайного гриба в подсахаренный чайный настой для ферментации. Считается полезным для здоровья, хотя некоторые относятся к нему скептически. Также известен под названиям «комбуча». Чайный квас может быть использован как домашнее средство против гриппа, уменьшая тяжесть болезни на 5%.</VBE_Kombucha.description>
   <!-- EN: Drink {0} -->
-  <VBE_Kombucha.ingestible.ingestCommandString>Пить {0}</VBE_Kombucha.ingestible.ingestCommandString>
+  <VBE_Kombucha.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_Kombucha.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_Kombucha.ingestible.ingestReportString>Пьёт {0}.</VBE_Kombucha.ingestible.ingestReportString>
+  <VBE_Kombucha.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_Kombucha.ingestible.ingestReportString>
 </LanguageData>

@@ -5,7 +5,7 @@
   <!-- EN: A mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. It is usually served cold, but whether it’s served hot or cold it’s equally confusing to the imbiber. -->
   <VBE_Yuenyeung.description>Смесь кофе и чая. Любители чая и кофе отбрасывают свои разногласия в сторону, готовя это противоестественное варево. Обычно его подают холодным, но независимо от его температуры, оно одинаково сбивает с толку пьющего.</VBE_Yuenyeung.description>
   <!-- EN: Drink {0} -->
-  <VBE_Yuenyeung.ingestible.ingestCommandString>Пить {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
+  <VBE_Yuenyeung.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_Yuenyeung.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_Yuenyeung.ingestible.ingestReportString>Пьёт {0}.</VBE_Yuenyeung.ingestible.ingestReportString>
+  <VBE_Yuenyeung.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_Yuenyeung.ingestible.ingestReportString>
 </LanguageData>

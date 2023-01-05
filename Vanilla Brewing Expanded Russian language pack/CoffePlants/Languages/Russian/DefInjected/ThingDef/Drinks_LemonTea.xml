@@ -5,7 +5,7 @@
   <!-- EN: A dark tea cut with water, chilled and garnished with a wedge of bright lemon. -->
   <VBE_LemonTea.description>Чёрный чай, охлаждённый и украшенный долькой лимона.</VBE_LemonTea.description>
   <!-- EN: Drink {0} -->
-  <VBE_LemonTea.ingestible.ingestCommandString>Пить {0}</VBE_LemonTea.ingestible.ingestCommandString>
+  <VBE_LemonTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_LemonTea.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_LemonTea.ingestible.ingestReportString>Пьёт {0}.</VBE_LemonTea.ingestible.ingestReportString>
+  <VBE_LemonTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_LemonTea.ingestible.ingestReportString>
 </LanguageData>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- EN: noon chai -->
+  <!-- EN: noon chai -->
   <VBE_NoonChai.label>кашмирский чай</VBE_NoonChai.label>
-	<!-- EN: An ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Used for treating muscle parasites. -->
+  <!-- EN: An ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Used for treating muscle parasites. -->
   <VBE_NoonChai.description>Кашмирский чай, приготовленный по древнему рецепту. Готовится путём смешивания чайных листьев, щепотки соли и пищевой соды, в результате чего получается яркий розовый напиток. Этот чай не только вкусный, но и полезный для организма — он может быть использован для лечения мышечных паразитов.</VBE_NoonChai.description>
-	<!-- EN: Drink {0} -->
-  <VBE_NoonChai.ingestible.ingestCommandString>Пить {0}</VBE_NoonChai.ingestible.ingestCommandString>
-	<!-- EN: Drinking {0}. -->
-  <VBE_NoonChai.ingestible.ingestReportString>Пьёт {0}.</VBE_NoonChai.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <VBE_NoonChai.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_NoonChai.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_NoonChai.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_NoonChai.ingestible.ingestReportString>
 </LanguageData>

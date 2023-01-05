@@ -1,14 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VBE_VodkaHigh.label>vodka high</VBE_VodkaHigh.label>
-  <VBE_VodkaHigh.description>Drank some vodka. Provides a melee accuracy buff that scales with drunkeness.</VBE_VodkaHigh.description>
-  <VBE_VodkaHigh.stages.0.label>warm</VBE_VodkaHigh.stages.0.label>
-  <VBE_VodkaHigh.stages.1.label>tipsy</VBE_VodkaHigh.stages.1.label>
-  <VBE_VodkaHigh.stages.2.label>drunk</VBE_VodkaHigh.stages.2.label>
-  <VBE_VodkaHigh.stages.3.label>hammered</VBE_VodkaHigh.stages.3.label>
-  <VBE_VodkaHigh.stages.4.label>blackout</VBE_VodkaHigh.stages.4.label>
-  <VBE_VodkaHigh.labelNoun>a vodka high</VBE_VodkaHigh.labelNoun>
-
-
+  <!-- EN: vodka high -->
+  <VBE_VodkaHigh.label>опьянение от водки</VBE_VodkaHigh.label>
+  <!-- EN: Drank some vodka. Provides a melee accuracy buff that scales with drunkeness. -->
+  <VBE_VodkaHigh.description>Употребление водки увеличивает шанс удара врукопашную, в зависимости от степени опьянения.</VBE_VodkaHigh.description>
+  <!-- EN: warm -->
+  <VBE_VodkaHigh.stages.0.label>навеселе</VBE_VodkaHigh.stages.0.label>
+  <!-- EN: tipsy -->
+  <VBE_VodkaHigh.stages.1.label>подшофе</VBE_VodkaHigh.stages.1.label>
+  <!-- EN: drunk -->
+  <VBE_VodkaHigh.stages.2.label>под градусом</VBE_VodkaHigh.stages.2.label>
+  <!-- EN: hammered -->
+  <VBE_VodkaHigh.stages.3.label>в стельку</VBE_VodkaHigh.stages.3.label>
+  <!-- EN: blackout -->
+  <VBE_VodkaHigh.stages.4.label>в отключке</VBE_VodkaHigh.stages.4.label>
+  <!-- EN: a vodka high -->
+  <VBE_VodkaHigh.labelNoun>опьянение от водки</VBE_VodkaHigh.labelNoun>
 </LanguageData>

@@ -5,7 +5,7 @@
   <!-- EN: A particularly bitter tea cut with creamy milk, wakes one up and helps cure ailments. -->
   <VBE_BlackTea.description>Довольно горький чай, разбавленный сливками или молоком. Бодрит и помогает лечить недуги.</VBE_BlackTea.description>
   <!-- EN: Drink {0} -->
-  <VBE_BlackTea.ingestible.ingestCommandString>Пить {0}</VBE_BlackTea.ingestible.ingestCommandString>
+  <VBE_BlackTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_BlackTea.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_BlackTea.ingestible.ingestReportString>Пьёт {0}.</VBE_BlackTea.ingestible.ingestReportString>
+  <VBE_BlackTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_BlackTea.ingestible.ingestReportString>
 </LanguageData>

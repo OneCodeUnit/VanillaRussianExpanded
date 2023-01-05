@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VBE_Tequila.label>tequila</VBE_Tequila.label>
-  <VBE_Tequila.description>A fermented liquor made from agave sap, a favorite of wild, rowdy banditos and muffalo wranglers alike. Includes a high-protein snack at the bottom of the bottle believed to bring good luck. Imbibers are known to excel at extended combat.</VBE_Tequila.description>
-  <VBE_Tequila.tools.0.label>bottle</VBE_Tequila.tools.0.label>
-  <VBE_Tequila.tools.1.label>neck</VBE_Tequila.tools.1.label>
-  <VBE_Tequila.ingestible.ingestCommandString>Drink {0}</VBE_Tequila.ingestible.ingestCommandString>
-  <VBE_Tequila.ingestible.ingestReportString>Drinking {0}.</VBE_Tequila.ingestible.ingestReportString>
-
-
+  <!-- EN: tequila -->
+  <VBE_Tequila.label>текила</VBE_Tequila.label>
+  <!-- EN: A fermented liquor made from agave sap, a favorite of wild, rowdy banditos and muffalo wranglers alike. Includes a high-protein snack at the bottom of the bottle believed to bring good luck. Imbibers are known to excel at extended combat. -->
+  <VBE_Tequila.description>Ферментированный спиртной напиток, приготовленный из сока агавы. Он любим как дикими, шумными бандитами, так и пастухами муффало. На дне бутылки образуется съедобная высокопротеиновая масса, которая, как считается, приносит удачу. Выпившие текилу успешнее ведут дальний бой.</VBE_Tequila.description>
+  <!-- EN: bottle -->
+  <VBE_Tequila.tools.0.label>бутылка</VBE_Tequila.tools.0.label>
+  <!-- EN: neck -->
+  <VBE_Tequila.tools.1.label>горлышко</VBE_Tequila.tools.1.label>
+  <!-- EN: Drink {0} -->
+  <VBE_Tequila.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_Tequila.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_Tequila.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_Tequila.ingestible.ingestReportString>
 </LanguageData>

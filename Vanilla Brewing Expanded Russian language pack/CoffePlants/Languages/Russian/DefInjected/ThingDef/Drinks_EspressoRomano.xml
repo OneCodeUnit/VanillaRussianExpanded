@@ -5,7 +5,7 @@
   <!-- EN: A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites. -->
   <VBE_LemonCoffee.description>Неожиданная и странная комбинация. И без того кислый кофе украшается долькой ещё более кислого лимона, предназначенного для выжимания в кофе непосредственно перед употреблением. Изысканный вкус, к которому, однако, нужно привыкнуть. Эффективен в борьбе с кишечными паразитами.</VBE_LemonCoffee.description>
   <!-- EN: Drink {0} -->
-  <VBE_LemonCoffee.ingestible.ingestCommandString>Пить {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+  <VBE_LemonCoffee.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_LemonCoffee.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_LemonCoffee.ingestible.ingestReportString>Пьёт {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+  <VBE_LemonCoffee.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_LemonCoffee.ingestible.ingestReportString>
 </LanguageData>

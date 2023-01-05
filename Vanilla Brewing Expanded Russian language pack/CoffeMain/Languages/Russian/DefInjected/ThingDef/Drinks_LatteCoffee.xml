@@ -5,7 +5,7 @@
   <!-- EN: Potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals. -->
   <VBE_LatteCoffee.description>Крепкий эспрессо, смешанный со свежим молоком, для уменьшения горечи. Кофе латте имеет репутацию напитка, специально предназначенного для «искушённых» личностей.</VBE_LatteCoffee.description>
   <!-- EN: Drink {0} -->
-  <VBE_LatteCoffee.ingestible.ingestCommandString>Пить {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
+  <VBE_LatteCoffee.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_LatteCoffee.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_LatteCoffee.ingestible.ingestReportString>Пьёт {0}.</VBE_LatteCoffee.ingestible.ingestReportString>
+  <VBE_LatteCoffee.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_LatteCoffee.ingestible.ingestReportString>
 </LanguageData>

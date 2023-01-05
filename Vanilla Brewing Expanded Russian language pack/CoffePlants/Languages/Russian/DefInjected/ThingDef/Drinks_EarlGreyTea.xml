@@ -5,7 +5,7 @@
   <!-- EN: A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize. -->
   <VBE_EarlGreyTea.description>Очень крепкий и сладковатый чай с фруктовыми нотами. Попробовав его, некоторые люди начинают испытывать странную тягу к колонизации.</VBE_EarlGreyTea.description>
   <!-- EN: Drink {0} -->
-  <VBE_EarlGreyTea.ingestible.ingestCommandString>Пить {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+  <VBE_EarlGreyTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_EarlGreyTea.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_EarlGreyTea.ingestible.ingestReportString>Пьёт {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+  <VBE_EarlGreyTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_EarlGreyTea.ingestible.ingestReportString>
 </LanguageData>

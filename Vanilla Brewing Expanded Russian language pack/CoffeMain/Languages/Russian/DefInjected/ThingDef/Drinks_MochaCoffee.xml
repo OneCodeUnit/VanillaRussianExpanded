@@ -3,9 +3,9 @@
   <!-- EN: mocha coffee -->
   <VBE_MochaCoffee.label>кофе мокко</VBE_MochaCoffee.label>
   <!-- EN: Coffee mixed with sweet and luxurious chocolate, very fun to drink. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink. -->
-  <VBE_MochaCoffee.description>Кофе, смешанный со сладким и изысканным шоколадом. Очень приятен на вкус. Некоторые снобы утверждают, что мокко - это скорее десерт, чем кофейный напиток.</VBE_MochaCoffee.description>
+  <VBE_MochaCoffee.description>Кофе, смешанный со сладким и изысканным шоколадом. Очень приятен на вкус. Некоторые снобы утверждают, что мокко — это скорее десерт, чем кофейный напиток.</VBE_MochaCoffee.description>
   <!-- EN: Drink {0} -->
-  <VBE_MochaCoffee.ingestible.ingestCommandString>Пить {0}</VBE_MochaCoffee.ingestible.ingestCommandString>
+  <VBE_MochaCoffee.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_MochaCoffee.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VBE_MochaCoffee.ingestible.ingestReportString>Пьёт {0}.</VBE_MochaCoffee.ingestible.ingestReportString>
+  <VBE_MochaCoffee.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_MochaCoffee.ingestible.ingestReportString>
 </LanguageData>

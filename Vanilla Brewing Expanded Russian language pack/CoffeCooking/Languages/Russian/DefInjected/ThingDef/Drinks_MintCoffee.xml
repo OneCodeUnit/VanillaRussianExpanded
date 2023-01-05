@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- EN: mint coffee -->
+  <!-- EN: mint coffee -->
   <VBE_MintCoffee.label>мятный кофе</VBE_MintCoffee.label>
-	<!-- EN: Bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath. -->
+  <!-- EN: Bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath. -->
   <VBE_MintCoffee.description>Смесь горького эспрессо со сливками или молоком. Дополнительно заправляется мятным маслом и украшается. Прохладный и бархатистый вкус кофе сменяется ещё более прохладным, успокаивающим мятным послевкусием. Делает дыхание удивительно свежим.</VBE_MintCoffee.description>
-	<!-- EN: Drink {0} -->
-  <VBE_MintCoffee.ingestible.ingestCommandString>Пить {0}</VBE_MintCoffee.ingestible.ingestCommandString>
-	<!-- EN: Drinking {0}. -->
-  <VBE_MintCoffee.ingestible.ingestReportString>Пьёт {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <VBE_MintCoffee.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_MintCoffee.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_MintCoffee.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_MintCoffee.ingestible.ingestReportString>
 </LanguageData>

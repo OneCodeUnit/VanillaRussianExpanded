@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: smooth and mild -->
+  <VBE_TobaccoHigh.stages.0.label>мягкий, расслабляющий вкус</VBE_TobaccoHigh.stages.0.label>
+  <!-- EN: That cigarette was just what I needed, such a smooth flavor. -->
+  <VBE_TobaccoHigh.stages.0.description>Эта сигарета — как раз то, что мне было нужно. До чего же мягкий вкус.</VBE_TobaccoHigh.stages.0.description>
 
-  <VBE_TobaccoHigh.stages.0.label>smooth and mild</VBE_TobaccoHigh.stages.0.label>
-  <VBE_TobaccoHigh.stages.0.description>That cigarette was just what I needed, such a smooth flavor.</VBE_TobaccoHigh.stages.0.description>
+  <!-- EN: puffing on luxury -->
+  <VBE_DeluxeTobaccoHigh.stages.0.label>дорогая сигара</VBE_DeluxeTobaccoHigh.stages.0.label>
+  <!-- EN: A cigar makes me feel like I’ve made it big in life. -->
+  <VBE_DeluxeTobaccoHigh.stages.0.description>Выкуренная сигара заставляет меня чувствовать, что я многого {PAWN_gender ? добился : добилась} в жизни.</VBE_DeluxeTobaccoHigh.stages.0.description>
 
-  <VBE_DeluxeTobaccoHigh.stages.0.label>puffing on luxury</VBE_DeluxeTobaccoHigh.stages.0.label>
-  <VBE_DeluxeTobaccoHigh.stages.0.description>A cigar makes me feel like I’ve made it big in life.</VBE_DeluxeTobaccoHigh.stages.0.description>
-
-
-  <!-- Smokeleaf addiction -->
-
-  <VBE_TobaccoWithdrawal.stages.1.label>tobacco withdrawal</VBE_TobaccoWithdrawal.stages.1.label>
-  <VBE_TobaccoWithdrawal.stages.1.description>I really wish I could smoke. I'd kill for a cigarette.</VBE_TobaccoWithdrawal.stages.1.description>
-
-
+  <!-- EN: tobacco withdrawal -->
+  <VBE_TobaccoWithdrawal.stages.1.label>ломка по табаку</VBE_TobaccoWithdrawal.stages.1.label>
+  <!-- EN: I really wish I could smoke. I'd kill for a cigarette. -->
+  <VBE_TobaccoWithdrawal.stages.1.description>Как же хочется курить. Я бы {PAWN_gender ? убил : убила} за сигарету!</VBE_TobaccoWithdrawal.stages.1.description>
 </LanguageData>
