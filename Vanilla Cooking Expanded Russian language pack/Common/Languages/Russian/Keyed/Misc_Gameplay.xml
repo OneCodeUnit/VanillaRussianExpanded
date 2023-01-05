@@ -4,104 +4,188 @@
   <!-- Soups -->
 
 <!-- EN:insert soup -->
+  <!-- EN: поместить суп -->
   <VCE_InsertSoup>поместить суп</VCE_InsertSoup>
   <!-- EN:Soup to Cook -->
+  <!-- EN: Суп для варки -->
   <VCE_InsertSoupDesc>Суп для варки</VCE_InsertSoupDesc>
   <!-- EN:No soups of that kind found in this map.Не удалось найти на карте подходящего супа -->
+  <!-- EN: Не удалось найти на карте подходящего супа/ -->
   <VCE_NoSoupsFound>Не удалось найти на карте подходящего супа/</VCE_NoSoupsFound>
   <!-- EN:simple soup -->
+  <!-- EN: simple soup -->
   <VCE_UncookedSoupSimple>simple soup</VCE_UncookedSoupSimple>
+  <!-- EN: fine soup -->
   <VCE_UncookedSoupFine>fine soup</VCE_UncookedSoupFine>
+  <!-- EN: lavish soup -->
   <VCE_UncookedSoupLavish>lavish soup</VCE_UncookedSoupLavish>
+  <!-- EN: gourmet soup -->
   <VCE_UncookedSoupGourmet>gourmet soup</VCE_UncookedSoupGourmet>
+  <!-- EN: insert simple soup -->
   <VCE_UncookedSoupSimple_InsertSoup>insert simple soup</VCE_UncookedSoupSimple_InsertSoup>
+  <!-- EN: insert fine soup -->
   <VCE_UncookedSoupFine_InsertSoup>insert fine soup</VCE_UncookedSoupFine_InsertSoup>
+  <!-- EN: insert lavish soup -->
   <VCE_UncookedSoupLavish_InsertSoup>insert lavish soup</VCE_UncookedSoupLavish_InsertSoup>
+  <!-- EN: insert gourmet soup -->
   <VCE_UncookedSoupGourmet_InsertSoup>insert gourmet soup</VCE_UncookedSoupGourmet_InsertSoup>
+  <!-- EN: Select a type of soup to be cooked -->
   <VCE_SelectSoup>Select a type of soup to be cooked</VCE_SelectSoup>
+  <!-- EN: Bring Soup -->
   <VCE_StartInsertion>Bring Soup</VCE_StartInsertion>
+  <!-- EN: Bring a soup to the electric pot to start cooking -->
   <VCE_StartInsertionDesc>Bring a soup to the electric pot to start cooking</VCE_StartInsertionDesc>
+  <!-- EN: Remove Soup -->
   <VCE_RemoveSoup>Remove Soup</VCE_RemoveSoup>
+  <!-- EN: Remove the soup from the pot. This can only be done before you start cooking it. -->
   <VCE_RemoveSoupDesc>Remove the soup from the pot. This can only be done before you start cooking it.</VCE_RemoveSoupDesc>
+  <!-- EN: Cancel Bringing Soup -->
   <VCE_CancelBringingSoup>Cancel Bringing Soup</VCE_CancelBringingSoup>
+  <!-- EN: Cancel bringing soup to the electric pot. -->
   <VCE_CancelBringingSoupDesc>Cancel bringing soup to the electric pot.</VCE_CancelBringingSoupDesc>
+  <!-- EN: Wait until the soup has been brought to the electric pot, or cancel the job. -->
   <VCE_WaitTillJobsEnd>Wait until the soup has been brought to the electric pot, or cancel the job.</VCE_WaitTillJobsEnd>
+  <!-- EN: The electric pot is not powered -->
   <VCE_NotPowered>The electric pot is not powered</VCE_NotPowered>
+  <!-- EN: Cook Soup -->
   <VCE_Engage>Cook Soup</VCE_Engage>
+  <!-- EN: Start cooking soup. This process takes 3 days and can't be interrupted, or the soup will be destroyed. -->
   <VCE_EngageDesc>Start cooking soup. This process takes 3 days and can't be interrupted, or the soup will be destroyed.</VCE_EngageDesc>
+  <!-- EN: The soup has spoiled due to a power failure in the electric pot -->
   <VCE_SoupFailurePower>The soup has spoiled due to a power failure in the electric pot</VCE_SoupFailurePower>
+  <!-- EN: The soup is spoiling fast due to a lack of fuel in the electric pot -->
   <VCE_SoupFailurePowerWarning>The soup is spoiling fast due to a lack of fuel in the electric pot</VCE_SoupFailurePowerWarning>
+  <!-- EN: A soup has finished cooking in the electric pot -->
   <VCE_SoupFinished>A soup has finished cooking in the electric pot</VCE_SoupFinished>
+  <!-- EN: An {0} is cooking. It will be ready in {1} -->
   <VCE_SoupInProgress>An {0} is cooking. It will be ready in {1}</VCE_SoupInProgress>
+  <!-- EN: A soup has finished cooking and is waiting for pickup -->
   <VCE_SoupReady>A soup has finished cooking and is waiting for pickup</VCE_SoupReady>
 
   <!-- Cheese making -->
 
+  <!-- EN: Select Milk to press in the cheese press. Different milks might produce different types of cheese. -->
   <VCE_InsertMilkDesc>Select Milk to press in the cheese press. Different milks might produce different types of cheese.</VCE_InsertMilkDesc>
+  <!-- EN: Select Milk -->
   <VCE_InsertMilk>Select Milk</VCE_InsertMilk>
+  <!-- EN: Insert {0} -->
   <VCE_InsertMilkVariable>Insert {0}</VCE_InsertMilkVariable>
+  <!-- EN: No milks of that kind found in this map. -->
   <VCE_NoMilksFound>No milks of that kind found in this map.</VCE_NoMilksFound>
+  <!-- EN: Select a type of milk to be pressed -->
   <VCE_SelectMilk>Select a type of milk to be pressed</VCE_SelectMilk>
+  <!-- EN: Bring Milk -->
   <VCE_StartInsertionMilk>Bring Milk</VCE_StartInsertionMilk>
+  <!-- EN: Bring milk to the cheese press to start pressing -->
   <VCE_StartInsertionMilkDesc>Bring milk to the cheese press to start pressing</VCE_StartInsertionMilkDesc>
+  <!-- EN: Remove Milk -->
   <VCE_RemoveMilk>Remove Milk</VCE_RemoveMilk>
+  <!-- EN: Remove the milk from the press. This can only be done before you start pressing it. -->
   <VCE_RemoveMilkDesc>Remove the milk from the press. This can only be done before you start pressing it.</VCE_RemoveMilkDesc>
+  <!-- EN: Cancel Bringing Milk -->
   <VCE_CancelBringingMilk>Cancel Bringing Milk</VCE_CancelBringingMilk>
+  <!-- EN: Cancel bringing milk to the cheese press. -->
   <VCE_CancelBringingMilkDesc>Cancel bringing milk to the cheese press.</VCE_CancelBringingMilkDesc>
+  <!-- EN: Wait until the milk has been brought to the cheese press, or cancel the job. -->
   <VCE_WaitTillJobsEndMilk>Wait until the milk has been brought to the cheese press, or cancel the job.</VCE_WaitTillJobsEndMilk>
+  <!-- EN: Press Into Cheese -->
   <VCE_EngageMilk>Press Into Cheese</VCE_EngageMilk>
+  <!-- EN: Start pressing milk into cheese. This process takes a variable time and cheese will increase in quality with ripening. You can remove it at any time after the initial period. -->
   <VCE_EngageMilkDesc>Start pressing milk into cheese. This process takes a variable time and cheese will increase in quality with ripening. You can remove it at any time after the initial period.</VCE_EngageMilkDesc>
+  <!-- EN: A cheese has finished ripening in the cheese press -->
   <VCE_CheeseFinished>A cheese has finished ripening in the cheese press</VCE_CheeseFinished>
+  <!-- EN: Cheese press is pressing {0}. It will be ready with {1} quality in {2} -->
   <VCE_CheeseInProgress>Cheese press is pressing {0}. It will be ready with {1} quality in {2}</VCE_CheeseInProgress>
+  <!-- EN: This cheese has reached its desired degree of ripening and is waiting for pickup -->
   <VCE_CheeseReady>This cheese has reached its desired degree of ripening and is waiting for pickup</VCE_CheeseReady>
+  <!-- EN: This milk has been improperly defined to work with the cheese press, contact the milk mod's author -->
   <VCE_MilkImproperlyDefined>This milk has been improperly defined to work with the cheese press, contact the milk mod's author</VCE_MilkImproperlyDefined>
+  <!-- EN: Remove Cheese ({0}) -->
   <VCE_RemoveCheese>Remove Cheese ({0})</VCE_RemoveCheese>
+  <!-- EN: Remove cheese from the cheese press. The cheese will be ready at the present quality level ({0}) -->
   <VCE_RemoveCheeseDesc>Remove cheese from the cheese press. The cheese will be ready at the present quality level ({0})</VCE_RemoveCheeseDesc>
 
+  <!-- EN: Cheese press is empty right now -->
   <VCE_CheesePressEmpty>Cheese press is empty right now</VCE_CheesePressEmpty>
+  <!-- EN: Cheese press filled with {0} -->
   <VCE_CheesePressFilled>Cheese press filled with {0}</VCE_CheesePressFilled>
+  <!-- EN: Cheese press is working: -->
   <VCE_CheesePressWorking>Cheese press is working:</VCE_CheesePressWorking>
+  <!-- EN:  (filled at {0} of {1}) -->
   <VCE_ResourcePercentage> (filled at {0} of {1})</VCE_ResourcePercentage>
 
   <!-- Condiment stats (using code from AnimalBehaviours) -->
 
+  <!-- EN: Condiment Effects -->
   <VCE_CondimentEffects>Condiment Effects</VCE_CondimentEffects>
+  <!-- EN: Acting as condiment -->
   <VCE_CondimentEffectsTitle>Acting as condiment</VCE_CondimentEffectsTitle>
+  <!-- EN: Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Consuming meals that include this condiment gives a 15% immunity gain speed boost for 12 hours. -->
   <VCE_CondimentEffectsAgave>Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Consuming meals that include this condiment gives a 15% immunity gain speed boost for 12 hours.</VCE_CondimentEffectsAgave>
+  <!-- EN: Sugar is easily converted into energy by the body, which may result in a nice burst of energy. Consuming meals that include this condiment increases moving stat by 15% for 12 hours. -->
   <VCE_CondimentEffectsSugar>Sugar is easily converted into energy by the body, which may result in a nice burst of energy. Consuming meals that include this condiment increases moving stat by 15% for 12 hours.</VCE_CondimentEffectsSugar>
+  <!-- EN: A variety of aromatic and pungent spices. Consuming meals that include this condiment increases manipulation stat by 10% for 12 hours. -->
   <VCE_CondimentEffectsSpices>A variety of aromatic and pungent spices. Consuming meals that include this condiment increases manipulation stat by 10% for 12 hours.</VCE_CondimentEffectsSpices>
+  <!-- EN: Consuming meals that include this condiment increases mood by 5 for 12 hours. -->
   <VCE_CondimentEffectsSalt>Consuming meals that include this condiment increases mood by 5 for 12 hours.</VCE_CondimentEffectsSalt>
+  <!-- EN: Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. Consuming meals that include this condiment lowers hunger rate by 15% for 12 hours. -->
   <VCE_CondimentEffectsMayo>Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. Consuming meals that include this condiment lowers hunger rate by 15% for 12 hours.</VCE_CondimentEffectsMayo>
+  <!-- EN: Consuming meals that include this condiment increases mood by 10 for 12 hours. -->
   <VCE_CondimentEffectsJelly>Consuming meals that include this condiment increases mood by 10 for 12 hours.</VCE_CondimentEffectsJelly>
+  <!-- EN: Consuming meals that include this condiment creates a smokeleaf high without addiction risks. -->
   <VCE_CondimentEffectsButter>Consuming meals that include this condiment creates a smokeleaf high without addiction risks.</VCE_CondimentEffectsButter>
+  <!-- EN: Consuming meals that include this condiment increases mood by 7 for 12 hours. -->
   <VCE_CondimentEffectsSyrup>Consuming meals that include this condiment increases mood by 7 for 12 hours.</VCE_CondimentEffectsSyrup>
+  <!-- EN: Consuming meals that include this condiment increases manipulation by 1% for 12 hours. The colonist will be resurrected if it is killed during that time. -->
   <VCE_CondimentEffectsNanites>Consuming meals that include this condiment increases manipulation by 1% for 12 hours. The colonist will be resurrected if it is killed during that time.</VCE_CondimentEffectsNanites>
+  <!-- EN: Consuming meals that include this condiment increases mood by 3 for 12 hours. -->
   <VCE_CondimentEffectsKetchup>Consuming meals that include this condiment increases mood by 3 for 12 hours.</VCE_CondimentEffectsKetchup>
+  <!-- EN: While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Consuming meals that include this condiment boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours. Mood will be reduced by 3. -->
   <VCE_CondimentEffectsSauce>While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Consuming meals that include this condiment boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours. Mood will be reduced by 3.</VCE_CondimentEffectsSauce>
 
+  <!-- EN: Health Effects -->
   <VCE_HealthEffects>Health Effects</VCE_HealthEffects>
+  <!-- EN: No health effects -->
   <VCE_NoEffect>No health effects</VCE_NoEffect>
+  <!-- EN: Consuming meals that include this condiment causes no negative health effects. -->
   <VCE_NoEffectDesc>Consuming meals that include this condiment causes no negative health effects.</VCE_NoEffectDesc>
 
+  <!-- EN: Diabetes -->
   <VCE_DiabetesEffect>Diabetes</VCE_DiabetesEffect>
+  <!-- EN: Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%. -->
   <VCE_DiabetesEffectDescHalfPoint>Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.</VCE_DiabetesEffectDescHalfPoint>
+  <!-- EN: Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%. -->
   <VCE_DiabetesEffectDescOneAndHalfPoint>Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.</VCE_DiabetesEffectDescOneAndHalfPoint>
+  <!-- EN: Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.75%. -->
   <VCE_DiabetesEffectDescThreeQuarterPoint>Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.75%.</VCE_DiabetesEffectDescThreeQuarterPoint>
+  <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%. -->
   <VCE_DiabetesDessertSimpleDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.</VCE_DiabetesDessertSimpleDesc>
+  <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%. -->
   <VCE_DiabetesDessertFineDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.</VCE_DiabetesDessertFineDesc>
+  <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 2.5%. -->
   <VCE_DiabetesDessertLavishDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 2.5%.</VCE_DiabetesDessertLavishDesc>
+  <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 3.5%. -->
   <VCE_DiabetesDessertGourmetDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 3.5%.</VCE_DiabetesDessertGourmetDesc>
 
 
+  <!-- EN: High Blood Pressure -->
   <VCE_HighBloodPressureEffect>High Blood Pressure</VCE_HighBloodPressureEffect>
+  <!-- EN: Consuming meals that include this condiment causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 0.75%. -->
   <VCE_HighBloodPressureEffectDesc>Consuming meals that include this condiment causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 0.75%.</VCE_HighBloodPressureEffectDesc>
+  <!-- EN: Consuming canned goods causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 1.5%. -->
   <VCE_HighBloodPressureEffectDescCanned>Consuming canned goods causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 1.5%.</VCE_HighBloodPressureEffectDescCanned>
 
+  <!-- EN: Cholesterol -->
   <VCE_CholesterolEffect>Cholesterol</VCE_CholesterolEffect>
+  <!-- EN: Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1%. -->
   <VCE_CholesterolEffectDesc>Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1%.</VCE_CholesterolEffectDesc>
+  <!-- EN: Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%. -->
   <VCE_CholesterolEffectDescOneAndHalfPoint>Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.</VCE_CholesterolEffectDescOneAndHalfPoint>
+  <!-- EN: Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 2%. -->
   <VCE_CholesterolEffectDescDouble>Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 2%.</VCE_CholesterolEffectDescDouble>
+  <!-- EN: Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%. -->
   <VCE_CholesterolDescDeepFried>Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.</VCE_CholesterolDescDeepFried>
+
 
 
 </LanguageData>

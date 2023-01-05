@@ -1,124 +1,111 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Ingredient based thoughts -->
-
-<!-- EN:consumed sugar -->
+  <!-- EN:consumed sugar -->
   <VCE_ConsumedSugar.stages.0.label>{PAWN_gender ? Съел : Съела} сахар</VCE_ConsumedSugar.stages.0.label>
   <!-- EN:Sugar is not love. But it can feel like it. -->
-  <VCE_ConsumedSugar.stages.0.description>Сахар - это конечно не любовь. Но он такой же сладкий.</VCE_ConsumedSugar.stages.0.description>
+  <VCE_ConsumedSugar.stages.0.description>Сахар — это, конечно, не любовь, но он такой же сладкий.</VCE_ConsumedSugar.stages.0.description>
 
-<!-- EN:consumed chocolate syrup -->
+  <!-- EN:consumed chocolate syrup -->
   <VCE_ConsumedChocolateSyrup.stages.0.label>{PAWN_gender ? Съел : Съела} шоколадный сироп</VCE_ConsumedChocolateSyrup.stages.0.label>
   <!-- EN:Chocolate IS love. -->
   <VCE_ConsumedChocolateSyrup.stages.0.description>Шоколад, мой любимый</VCE_ConsumedChocolateSyrup.stages.0.description>
 
-<!-- EN:consumed insect jelly preserves -->
+  <!-- EN:consumed insect jelly preserves -->
   <VCE_ConsumedInsectJelly.stages.0.label>{PAWN_gender ? Съел : Съела} варенье из желе насекомых</VCE_ConsumedInsectJelly.stages.0.label>
   <!-- EN: -->
   <VCE_ConsumedInsectJelly.stages.0.description>Какой невероятно сладкий и насыщенный вкус!</VCE_ConsumedInsectJelly.stages.0.description>
 
-<!-- EN:high on smokeleaf butter -->
+  <!-- EN:high on smokeleaf butter -->
   <VCE_SmokeleafButterHigh.stages.0.label>под кайфом от дымолистного масла</VCE_SmokeleafButterHigh.stages.0.label>
   <!-- EN:'m, like, stoned, man. -->
-  <VCE_SmokeleafButterHigh.stages.0.description>Чува-ак, я под кайфом!</VCE_SmokeleafButterHigh.stages.0.description>
+  <VCE_SmokeleafButterHigh.stages.0.description>Чува-а-ак, я под кайфом!</VCE_SmokeleafButterHigh.stages.0.description>
 
-<!-- EN:consumed salt -->
+  <!-- EN:consumed salt -->
   <VCE_ConsumedSalt.stages.0.label>{PAWN_gender ? Съел : Съела} соль</VCE_ConsumedSalt.stages.0.label>
   <!-- EN:A pinch of salt really enhances the flavours of a meal. -->
   <VCE_ConsumedSalt.stages.0.description>Щепотка соли делает любое блюдо лучше.</VCE_ConsumedSalt.stages.0.description>
 
-<!-- EN:consumed mayo -->
+  <!-- EN:consumed mayo -->
   <VCE_ConsumedMayo.stages.0.label>{PAWN_gender ? Съел : Съела} майонез</VCE_ConsumedMayo.stages.0.label>
   <!-- EN: ate some delicious mayo. Very filling! -->
   <VCE_ConsumedMayo.stages.0.description>В моём обеде был майонез. Очень питательно!</VCE_ConsumedMayo.stages.0.description>
 
-<!-- EN:consumed agave -->
+  <!-- EN:consumed agave -->
   <VCE_ConsumedAgave.stages.0.label>{PAWN_gender ? Съел : Съела} нектар агавы</VCE_ConsumedAgave.stages.0.label>
   <!-- EN:I ate some delicious agave nectar. -->
   <VCE_ConsumedAgave.stages.0.description>Я {PAWN_gender ? съел : съела} немного нектара агавы.</VCE_ConsumedAgave.stages.0.description>
 
-<!-- EN:consumed spices -->
+  <!-- EN:consumed spices -->
   <VCE_ConsumedSpices.stages.0.label>{PAWN_gender ? Съел : Съела} специи</VCE_ConsumedSpices.stages.0.label>
   <!-- EN:That meal was spicy! -->
   <VCE_ConsumedSpices.stages.0.description>Это блюдо было острым!</VCE_ConsumedSpices.stages.0.description>
 
-<!-- EN:resurrector nanites -->
-  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>воскрешающие наниты</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
+  <!-- EN:resurrector nanites -->
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>воскрешающие механиты</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
   <!-- EN:I feel invincible! -->
   <VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>Я чувствую себя {PAWN_gender ? неуязвимым : неуязвимой}!</VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>
 
 
-  <!-- Gourmet based thoughts -->
-
-<!-- EN:ate gourmet meal -->
+  <!-- EN:ate gourmet meal -->
   <VCE_AteGourmetMeal.stages.0.label>{PAWN_gender ? Съел : Съела} изысканное блюдо</VCE_AteGourmetMeal.stages.0.label>
   <!-- EN:A mindbending culinary experience. My palate has been gifted with sensations that are beyond this world. -->
   <VCE_AteGourmetMeal.stages.0.description>Умопомпрачительное кулинарное приключение. Мой язык испытал то, что находится за пределами возможного.</VCE_AteGourmetMeal.stages.0.description>
 
 
-  <!-- Dessert based thoughts -->
-
-<!-- EN:ate simple dessert -->
+  <!-- EN:ate simple dessert -->
   <VCE_AteSimpleDessert.stages.0.label>{PAWN_gender ? Съел : Съела} простой десерт</VCE_AteSimpleDessert.stages.0.label>
   <!-- EN:That dessert was very simple, but certainly tasty. -->
-  <VCE_AteSimpleDessert.stages.0.description>Этот десерт был довольно простым, но тем не менее - вкусным.</VCE_AteSimpleDessert.stages.0.description>
+  <VCE_AteSimpleDessert.stages.0.description>Этот десерт был довольно простым, но тем не менее — вкусным.</VCE_AteSimpleDessert.stages.0.description>
 
-<!-- EN:ate fine dessert -->
+  <!-- EN:ate fine dessert -->
   <VCE_AteFineDessert.stages.0.label>{PAWN_gender ? Съел : Съела} отличный десерт</VCE_AteFineDessert.stages.0.label>
   <!-- EN:That dessert was really good! I want more! -->
   <VCE_AteFineDessert.stages.0.description>Это был замечательный десерт! Я хочу ещё!</VCE_AteFineDessert.stages.0.description>
 
-<!-- EN:ate lavish dessert -->
+  <!-- EN:ate lavish dessert -->
   <VCE_AteLavishDessert.stages.0.label>{PAWN_gender ? Съел : Съела} шикарный десерт</VCE_AteLavishDessert.stages.0.label>
   <!-- EN:That dessert was unbelievably good, I'm so eager to eat more of it! -->
   <VCE_AteLavishDessert.stages.0.description>Этот десерт был невероятно вкусным, я очень хочу съесть ещё такого же!</VCE_AteLavishDessert.stages.0.description>
 
-<!-- EN:ate gourmet dessert -->
+  <!-- EN:ate gourmet dessert -->
   <VCE_AteGourmetDessert.stages.0.label>{PAWN_gender ? Съел : Съела} изысканный десерт</VCE_AteGourmetDessert.stages.0.label>
   <!-- EN:Oh my God! My palate had never experienced such an explosion of orgasmic tastes. That was pure food porn. I need more! -->
   <VCE_AteGourmetDessert.stages.0.description>О боже мой! Мне никогда не приходилось испытывать ничего подобного! Это настоящий вкусовой оргазм! Я хочу больше, мне НУЖНО больше!</VCE_AteGourmetDessert.stages.0.description>
 
 
-  <!-- Grill based thoughts -->
-
-<!-- EN:ate simple grill -->
+  <!-- EN:ate simple grill -->
   <VCE_AteSimpleGrill.stages.0.label>{PAWN_gender ? Съел : Съела} простое блюдо на гриле.</VCE_AteSimpleGrill.stages.0.label>
   <!-- EN:A simple grill. Meh -->
   <VCE_AteSimpleGrill.stages.0.description>Простое блюдо на гриле. Мдауж.</VCE_AteSimpleGrill.stages.0.description>
 
-<!-- EN:ate fine grill -->
+  <!-- EN:ate fine grill -->
   <VCE_AteFineGrill.stages.0.label>{PAWN_gender ? Съел : Съела} отличное блюдо на гриле</VCE_AteFineGrill.stages.0.label>
   <!-- EN:I ate a very fine grilled meat with some vegetables. Super tasty. -->
   <VCE_AteFineGrill.stages.0.description>Я {PAWN_gender ? съел : съела} хорошо прожаренное мясо с овощами. Невероятно вкусно.</VCE_AteFineGrill.stages.0.description>
 
-<!-- EN:ate lavish grill -->
+  <!-- EN:ate lavish grill -->
   <VCE_AteLavishGrill.stages.0.label>{PAWN_gender ? Съел : Съела} шикарное блюдо на гриле.</VCE_AteLavishGrill.stages.0.label>
   <!-- EN:I ate an incredible dish with expertly cooked grilled meat and some veggies. Delicious! -->
   <VCE_AteLavishGrill.stages.0.description>Я {PAWN_gender ? съел : съела} невероятно вкусное блюдо из мастерски приготовленным на гриле мяса и овощей. Объеденье!</VCE_AteLavishGrill.stages.0.description>
 
-<!-- EN:ate gourmet grill -->
+  <!-- EN:ate gourmet grill -->
   <VCE_AteGourmetGrill.stages.0.label>{PAWN_gender ? Съел : Съела} изысканное блюдо на гриле</VCE_AteGourmetGrill.stages.0.label>
   <!-- EN:That... that was out of this world. The meat melted in my mouth. Just incredible. -->
   <VCE_AteGourmetGrill.stages.0.description>Это было... что-то необыкновенное. Мясо таяло во рту. Просто необыкновенно.</VCE_AteGourmetGrill.stages.0.description>
 
 
-  <!-- Fried and canned food based thoughts -->
-
-<!-- EN:ate deep fried food -->
+  <!-- EN:ate deep fried food -->
   <VCE_AteFriedGoods.stages.0.label>{PAWN_gender ? Съел : Съела} еду, приготовленную во фритюре.</VCE_AteFriedGoods.stages.0.label>
   <!-- EN:Greasy food. So delicious. -->
   <VCE_AteFriedGoods.stages.0.description>Такая нездоровая. И такая вкусная.</VCE_AteFriedGoods.stages.0.description>
 
-<!-- EN:ate canned food -->
+  <!-- EN:ate canned food -->
   <VCE_ConsumedCannedGoods.stages.0.label>{PAWN_gender ? Съел : Съела} консервы</VCE_ConsumedCannedGoods.stages.0.label>
   <!-- EN:Eating directly from a can is like eating without a table. -->
-  <VCE_ConsumedCannedGoods.stages.0.description>Есть консервы прямо из банки - всё равно что есть прямо на земле.</VCE_ConsumedCannedGoods.stages.0.description>
+  <VCE_ConsumedCannedGoods.stages.0.description>Есть консервы прямо из банки — всё равно что есть прямо на земле.</VCE_ConsumedCannedGoods.stages.0.description>
 
 
-  <!-- Cheese quality based thoughts -->
-
-<!-- EN:ate awful cheese -->
+  <!-- EN:ate awful cheese -->
   <VCE_AteCheese.stages.0.label>{PAWN_gender ? Съел : Съела} ужасный сыр</VCE_AteCheese.stages.0.label>
   <!-- EN:I ate some poorly curdled milk with barely any cheese flavour. Disgusting. -->
   <VCE_AteCheese.stages.0.description>Я {PAWN_gender ? съел : съела} какое-то едва свернувшееся молоко, которое было мало похоже на сыр. Отвратительно.</VCE_AteCheese.stages.0.description>
@@ -146,6 +133,4 @@
   <VCE_AteCheese.stages.6.label>{PAWN_gender ? Съел : Съела} легендарный сыр</VCE_AteCheese.stages.6.label>
   <!-- EN:I've eaten quite possibly some of the best cheese I've ever tasted! -->
   <VCE_AteCheese.stages.6.description>Я {PAWN_gender ? съел : съела}, пожалуй лучший сыр, который мы довелось когда-либо пробовать!</VCE_AteCheese.stages.6.description>
-
-
 </LanguageData>

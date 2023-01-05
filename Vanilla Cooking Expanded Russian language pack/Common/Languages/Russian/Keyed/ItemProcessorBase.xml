@@ -3,58 +3,111 @@
 
   <!-- Generic -->
 
+  <!-- EN: Insert -->
   <IP_InsertFirstItemDesc>Insert</IP_InsertFirstItemDesc>
+  <!-- EN: Insert -->
   <IP_InsertSecondItemDesc>Insert</IP_InsertSecondItemDesc>
+  <!-- EN: Insert -->
   <IP_InsertThirdItemDesc>Insert</IP_InsertThirdItemDesc>
+  <!-- EN: Insert {0} -->
   <IP_InsertVariable>Insert {0}</IP_InsertVariable>
+  <!-- EN: Insert {0} in 2nd slot -->
   <IP_InsertVariableSecond>Insert {0} in 2nd slot</IP_InsertVariableSecond>
+  <!-- EN: Insert {0} in 3rd slot -->
   <IP_InsertVariableThird>Insert {0} in 3rd slot</IP_InsertVariableThird>
+  <!-- EN: No items of that kind ({0}) found in this map -->
   <IP_CantFindThing>No items of that kind ({0}) found in this map</IP_CantFindThing>
+  <!-- EN: Bring Ingredients -->
   <IP_BringIngredients>Bring Ingredients</IP_BringIngredients>
+  <!-- EN: Bring ingredients to start the process -->
   <IP_BringIngredientsDesc>Bring ingredients to start the process</IP_BringIngredientsDesc>
+  <!-- EN: Cancel Bringing Ingredients -->
   <IP_CancelIngredients>Cancel Bringing Ingredients</IP_CancelIngredients>
+  <!-- EN: Cancel Bringing Ingredients to this building -->
   <IP_CancelIngredientsDesc>Cancel Bringing Ingredients to this building</IP_CancelIngredientsDesc>
+  <!-- EN: No ingredient found on map -->
   <IP_NoIngredientFound>No ingredient found on map</IP_NoIngredientFound>
+  <!-- EN: Choose Ingredient -->
   <IP_ChooseIngredient>Choose Ingredient</IP_ChooseIngredient>
+  <!-- EN: Choose Second Ingredient -->
   <IP_ChooseIngredientSecond>Choose Second Ingredient</IP_ChooseIngredientSecond>
+  <!-- EN: Choose Third Ingredient -->
   <IP_ChooseIngredientThird>Choose Third Ingredient</IP_ChooseIngredientThird>
+  <!-- EN: One of the ingredients has been improperly defined to work with the item processor, contact the mod's author -->
   <IP_IngredientImproperlyDefined>One of the ingredients has been improperly defined to work with the item processor, contact the mod's author</IP_IngredientImproperlyDefined>
+  <!-- EN: {0} needs to be powered to start working -->
   <IP_NoPowerDestroysWarning>{0} needs to be powered to start working</IP_NoPowerDestroysWarning>
+  <!-- EN: {0} needs to be fueled to start working -->
   <IP_NoFuelDestroysWarning>{0} needs to be fueled to start working</IP_NoFuelDestroysWarning>
+  <!-- EN: {0} needs to have an adequate light level to start working -->
   <IP_LightDestroysWarning>{0} needs to have an adequate light level to start working</IP_LightDestroysWarning>
+  <!-- EN: {0} needs to not be raining to start working -->
   <IP_RainDestroysWarning>{0} needs to not be raining to start working</IP_RainDestroysWarning>
+  <!-- EN: {0} needs to have an adequate temperature ({1} - {2}) to start working -->
   <IP_TemperatureDestroysWarning>{0} needs to have an adequate temperature ({1} - {2}) to start working</IP_TemperatureDestroysWarning>
+  <!-- EN: The result is spoiling due to a power failure in the item processor -->
   <IP_NoPowerDestroysInitialWarning>The result is spoiling due to a power failure in the item processor</IP_NoPowerDestroysInitialWarning>
+  <!-- EN: The result has spoiled due to a power failure in the item processor -->
   <IP_NoPowerDestroysMessage>The result has spoiled due to a power failure in the item processor</IP_NoPowerDestroysMessage>
+  <!-- EN: A product has finished processing and is waiting for pickup -->
   <IP_GenericProductFinished>A product has finished processing and is waiting for pickup</IP_GenericProductFinished>
+  <!-- EN: {0} is empty -->
   <IP_IsEmpty>{0} is empty</IP_IsEmpty>
+  <!-- EN: {0} is filled with {1} -->
   <IP_FilledWith>{0} is filled with {1}</IP_FilledWith>
+  <!-- EN: {0}'s 2nd slot is filled with {1} -->
   <IP_FilledWithSecond>{0}'s 2nd slot is filled with {1}</IP_FilledWithSecond>
+  <!-- EN: {0}'s 3rd slot is filled with {1} -->
   <IP_FilledWithThird>{0}'s 3rd slot is filled with {1}</IP_FilledWithThird>
+  <!-- EN:  (filled at {0} of {1}) -->
   <IP_IngredientPercentage> (filled at {0} of {1})</IP_IngredientPercentage>
+  <!-- EN: {0} is working:  -->
   <IP_ProcessorWorking>{0} is working: </IP_ProcessorWorking>
+  <!-- EN: {0} is processing {1}. {2} will be ready with {3} quality in {4} -->
   <IP_ProcessingInProgress>{0} is processing {1}. {2} will be ready with {3} quality in {4}</IP_ProcessingInProgress>
+  <!-- EN: {0} is processing {1}. {2} will be ready in {3} -->
   <IP_ProcessingInProgressNoQuality>{0} is processing {1}. {2} will be ready in {3}</IP_ProcessingInProgressNoQuality>
+  <!-- EN: Remove {0} ({1}) -->
   <IP_RemoveProduct>Remove {0} ({1})</IP_RemoveProduct>
+  <!-- EN: Remove {0} from the {1}. The product will be ready at the present quality level ({2}) -->
   <IP_RemoveProductDesc>Remove {0} from the {1}. The product will be ready at the present quality level ({2})</IP_RemoveProductDesc>
+  <!-- EN: Reset Recipes -->
   <IP_ResetSemiautomatic>Reset Recipes</IP_ResetSemiautomatic>
+  <!-- EN: This will reset the building after the current product is finished, so a new input ingredient can be chosen -->
   <IP_ResetSemiautomaticDesc>This will reset the building after the current product is finished, so a new input ingredient can be chosen</IP_ResetSemiautomaticDesc>
+  <!-- EN: No combination found for these ingredients -->
   <IP_NoCombination>No combination found for these ingredients</IP_NoCombination>
+  <!-- EN: Set quality for product extraction. When the product reaches this quality, a colonist will automatically retrieve it and carry it to an stockpile if available. If not set, products will be extracted manually, or at Legendary quality. -->
   <IP_SetAutoQuality>Set quality for product extraction. When the product reaches this quality, a colonist will automatically retrieve it and carry it to an stockpile if available. If not set, products will be extracted manually, or at Legendary quality.</IP_SetAutoQuality>
+  <!-- EN: Choose Auto Quality -->
   <IP_ChooseQualityAuto>Choose Auto Quality</IP_ChooseQualityAuto>
+  <!-- EN: Auto Quality: {0} -->
   <IP_QualityAutoIs>Auto Quality: {0}</IP_QualityAutoIs>
+  <!-- EN: Disable Auto Quality -->
   <IP_QualityAutoNot>Disable Auto Quality</IP_QualityAutoNot>
+  <!-- EN: Auto Quality, product will be extracted at quality level: {0} -->
   <IP_QualityAutoEstablished>Auto Quality, product will be extracted at quality level: {0}</IP_QualityAutoEstablished>
+  <!-- EN: Auto Ingredient Acquiring -->
   <IP_ToggleAuto>Auto Ingredient Acquiring</IP_ToggleAuto>
+  <!-- EN: If set to active, this building will automatically grab ingredients from adjacent hoppers, and automatically start working again once the product is removed. If not, colonists will haul the ingredients to the building, and it will need to be activated manually once refilled -->
   <IP_ToggleAutoDesc>If set to active, this building will automatically grab ingredients from adjacent hoppers, and automatically start working again once the product is removed. If not, colonists will haul the ingredients to the building, and it will need to be activated manually once refilled</IP_ToggleAutoDesc>
+  <!-- EN: Waiting for pickup -->
   <IP_ProductWaiting>Waiting for pickup</IP_ProductWaiting>
+  <!-- EN: The process in this machine is being interrupted due to an inadequate level of light and will be spoiled soon -->
   <IP_OutsideLightRange>The process in this machine is being interrupted due to an inadequate level of light and will be spoiled soon</IP_OutsideLightRange>
+  <!-- EN: The product in this machine has spoiled due to an inadequate level of light -->
   <IP_SpoiledDueToLight>The product in this machine has spoiled due to an inadequate level of light</IP_SpoiledDueToLight>
+  <!-- EN: The process in this machine is being interrupted due to inclement weather and will be spoiled soon -->
   <IP_ItRains>The process in this machine is being interrupted due to inclement weather and will be spoiled soon</IP_ItRains>
+  <!-- EN: The product in this machine has spoiled due to inclement weather -->
   <IP_SpoiledDueToRain>The product in this machine has spoiled due to inclement weather</IP_SpoiledDueToRain>
+  <!-- EN: The process in this machine is being interrupted due to an unsuitable temperature and will be spoiled soon -->
   <IP_WrongTemp>The process in this machine is being interrupted due to an unsuitable temperature and will be spoiled soon</IP_WrongTemp>
+  <!-- EN: The product in this machine has spoiled due to an unsuitable temperature -->
   <IP_SpoiledDueToWrongTemp>The product in this machine has spoiled due to an unsuitable temperature</IP_SpoiledDueToWrongTemp>
+  <!-- EN: . This fermenter needs a temperature between {0} and {1} degrees {2} -->
   <IP_TempRangeInThisMachine>. This fermenter needs a temperature between {0} and {1} degrees {2}</IP_TempRangeInThisMachine>
+
 
 
 
