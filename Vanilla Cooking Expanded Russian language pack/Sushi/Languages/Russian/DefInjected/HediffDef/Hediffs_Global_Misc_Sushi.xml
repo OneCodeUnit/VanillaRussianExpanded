@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: consumed soy sauce (from meal) -->
+  <VCE_ConsumedSoySauce.label>съеден соевый соус (из блюда)</VCE_ConsumedSoySauce.label>
+  <!-- EN: A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste. Soy sauce contains 10 times the antioxidants of red wine, and can help prevent cardiovascular diseases (increases blood pumping and filtration). -->
+  <VCE_ConsumedSoySauce.description>Ферментированная паста из соевых бобов, обжаренного зерна, соли и бактерий аспергиллюс. Соевый соус можно добавлять непосредственно в пищу в качестве приправы для придания насыщенного вкуса умами. Соевый соус содержит в 10 раз больше антиоксидантов, чем красное вино, и может помочь предотвратить сердечно-сосудистые заболевания (улучшает кровообращение и фильтрацию крови).</VCE_ConsumedSoySauce.description>
+
+  <!-- EN: consumed wasabi (from meal) -->
+  <VCE_ConsumedWasabi.label>съедена васаби (из блюда)</VCE_ConsumedWasabi.label>
+  <!-- EN: A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi clears your breathing and makes you feel warmer for a while. -->
+  <VCE_ConsumedWasabi.description>Паста, приготовленная из измельчённых корневищ одноимённого растения используется в качестве острой приправы к суши и другим блюдам. По вкусу она похожа скорее на острую горчицу, чем на перец чили, поскольку больше стимулирует работу носа, чем языка. Васаби на некоторое время прочищает нос и даёт ощущение теплоты.</VCE_ConsumedWasabi.description>
+
+  <!-- EN: consumed simple sushi (from meal) -->
+  <VCE_AteSimpleSushi.label>съедены простые суши (из блюда)</VCE_AteSimpleSushi.label>
+  <!-- EN: I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteSimpleSushi.description>Я {PAWN_gender ? съел : съела} вкусные и сытные суши.</VCE_AteSimpleSushi.description>
+
+  <!-- EN: consumed fine sushi (from meal) -->
+  <VCE_AteFineSushi.label>съедены отличные суши (из блюда)</VCE_AteFineSushi.label>
+  <!-- EN: I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteFineSushi.description>Я {PAWN_gender ? съел : съела} вкусные и сытные суши.</VCE_AteFineSushi.description>
+
+  <!-- EN: consumed lavish sushi (from meal) -->
+  <VCE_AteLavishSushi.label>съедены шикарные суши (из блюда)</VCE_AteLavishSushi.label>
+  <!-- EN: I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteLavishSushi.description>Я {PAWN_gender ? съел : съела} вкусные и сытные суши.</VCE_AteLavishSushi.description>
+
+  <!-- EN: consumed gourmet sushi (from meal) -->
+  <VCE_AteGourmetSushi.label>съедены изысканные суши (из блюда)</VCE_AteGourmetSushi.label>
+  <!-- EN: I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteGourmetSushi.description>Я {PAWN_gender ? съел : съела} вкусные и сытные суши.</VCE_AteGourmetSushi.description>
+</LanguageData>

@@ -1,44 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Soups -->
-
-<!-- EN:insert soup -->
-  <!-- EN: поместить суп -->
+  <!-- EN:insert soup -->
   <VCE_InsertSoup>поместить суп</VCE_InsertSoup>
   <!-- EN:Soup to Cook -->
-  <!-- EN: Суп для варки -->
-  <VCE_InsertSoupDesc>Суп для варки</VCE_InsertSoupDesc>
-  <!-- EN:No soups of that kind found in this map.Не удалось найти на карте подходящего супа -->
-  <!-- EN: Не удалось найти на карте подходящего супа/ -->
-  <VCE_NoSoupsFound>Не удалось найти на карте подходящего супа/</VCE_NoSoupsFound>
+  <VCE_InsertSoupDesc>Выбрать суп</VCE_InsertSoupDesc>
+  <!-- EN:No soups of that kind found in this map. -->
+  <VCE_NoSoupsFound>Не удалось найти на карте подходящего супа.</VCE_NoSoupsFound>
   <!-- EN:simple soup -->
-  <!-- EN: simple soup -->
-  <VCE_UncookedSoupSimple>simple soup</VCE_UncookedSoupSimple>
+  <VCE_UncookedSoupSimple>простой суп</VCE_UncookedSoupSimple>
   <!-- EN: fine soup -->
-  <VCE_UncookedSoupFine>fine soup</VCE_UncookedSoupFine>
+  <VCE_UncookedSoupFine>отличный суп</VCE_UncookedSoupFine>
   <!-- EN: lavish soup -->
-  <VCE_UncookedSoupLavish>lavish soup</VCE_UncookedSoupLavish>
+  <VCE_UncookedSoupLavish>шикарный суп</VCE_UncookedSoupLavish>
   <!-- EN: gourmet soup -->
-  <VCE_UncookedSoupGourmet>gourmet soup</VCE_UncookedSoupGourmet>
+  <VCE_UncookedSoupGourmet>изысканный суп</VCE_UncookedSoupGourmet>
   <!-- EN: insert simple soup -->
-  <VCE_UncookedSoupSimple_InsertSoup>insert simple soup</VCE_UncookedSoupSimple_InsertSoup>
+  <VCE_UncookedSoupSimple_InsertSoup>поместить простой суп</VCE_UncookedSoupSimple_InsertSoup>
   <!-- EN: insert fine soup -->
-  <VCE_UncookedSoupFine_InsertSoup>insert fine soup</VCE_UncookedSoupFine_InsertSoup>
+  <VCE_UncookedSoupFine_InsertSoup>поместить отличный суп</VCE_UncookedSoupFine_InsertSoup>
   <!-- EN: insert lavish soup -->
-  <VCE_UncookedSoupLavish_InsertSoup>insert lavish soup</VCE_UncookedSoupLavish_InsertSoup>
+  <VCE_UncookedSoupLavish_InsertSoup>поместить шикарный суп</VCE_UncookedSoupLavish_InsertSoup>
   <!-- EN: insert gourmet soup -->
-  <VCE_UncookedSoupGourmet_InsertSoup>insert gourmet soup</VCE_UncookedSoupGourmet_InsertSoup>
+  <VCE_UncookedSoupGourmet_InsertSoup>поместить gourmet суп</VCE_UncookedSoupGourmet_InsertSoup>
   <!-- EN: Select a type of soup to be cooked -->
-  <VCE_SelectSoup>Select a type of soup to be cooked</VCE_SelectSoup>
+  <VCE_SelectSoup>Выбрать качество супа</VCE_SelectSoup>
   <!-- EN: Bring Soup -->
-  <VCE_StartInsertion>Bring Soup</VCE_StartInsertion>
+  <VCE_StartInsertion>Принести суп</VCE_StartInsertion>
   <!-- EN: Bring a soup to the electric pot to start cooking -->
-  <VCE_StartInsertionDesc>Bring a soup to the electric pot to start cooking</VCE_StartInsertionDesc>
+  <VCE_StartInsertionDesc>Поставить суп на электрическую кастрюлю для начала приготовления</VCE_StartInsertionDesc>
   <!-- EN: Remove Soup -->
-  <VCE_RemoveSoup>Remove Soup</VCE_RemoveSoup>
+  <VCE_RemoveSoup>Убрать суп</VCE_RemoveSoup>
   <!-- EN: Remove the soup from the pot. This can only be done before you start cooking it. -->
-  <VCE_RemoveSoupDesc>Remove the soup from the pot. This can only be done before you start cooking it.</VCE_RemoveSoupDesc>
+  <VCE_RemoveSoupDesc>Убрать суп из электрической кастрюли. Это можно сделать только до начала приготовления.</VCE_RemoveSoupDesc>
   <!-- EN: Cancel Bringing Soup -->
   <VCE_CancelBringingSoup>Cancel Bringing Soup</VCE_CancelBringingSoup>
   <!-- EN: Cancel bringing soup to the electric pot. -->
@@ -185,7 +178,4 @@
   <VCE_CholesterolEffectDescDouble>Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 2%.</VCE_CholesterolEffectDescDouble>
   <!-- EN: Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%. -->
   <VCE_CholesterolDescDeepFried>Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.</VCE_CholesterolDescDeepFried>
-
-
-
 </LanguageData>
