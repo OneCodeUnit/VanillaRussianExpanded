@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Vanilla Cooking Expanded Russian Language Pack</name>
-  <author>Amortem, OliveWizard</author>
+  <author>Amortem, OliveWizard, Mewn Goddess</author>
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
   <packageId>OW.RU.Cooking</packageId>
-  <description>Перевод на русский язык мода Vanilla Cooking Expanded и дополнений Stews и Sushi.</description>
+  <description>Обновлённый и улучшенный перевод на русский язык мода Vanilla Cooking Expanded и дополнений Stews и Sushi.</description>
   <modDependencies>
     <li>
       <packageId>VanillaExpanded.VCookE</packageId>
@@ -26,5 +26,6 @@
   </loadAfter>
   <incompatibleWith>
     <li>Am.Rus.VCookE</li>
+    <li>Inoshishi3.VCE.RusPatch</li>
   </incompatibleWith>
 </ModMetaData>
