@@ -21,13 +21,13 @@
   <!-- EN: insert lavish soup -->
   <VCE_UncookedSoupLavish_InsertSoup>поместить шикарный суп</VCE_UncookedSoupLavish_InsertSoup>
   <!-- EN: insert gourmet soup -->
-  <VCE_UncookedSoupGourmet_InsertSoup>поместить gourmet суп</VCE_UncookedSoupGourmet_InsertSoup>
+  <VCE_UncookedSoupGourmet_InsertSoup>поместить изысканный суп</VCE_UncookedSoupGourmet_InsertSoup>
   <!-- EN: Select a type of soup to be cooked -->
   <VCE_SelectSoup>Выбрать качество супа</VCE_SelectSoup>
   <!-- EN: Bring Soup -->
   <VCE_StartInsertion>Принести суп</VCE_StartInsertion>
   <!-- EN: Bring a soup to the electric pot to start cooking -->
-  <VCE_StartInsertionDesc>Поставить суп на электрическую кастрюлю для начала приготовления</VCE_StartInsertionDesc>
+  <VCE_StartInsertionDesc>Поставить суп на электрическую кастрюлю для начала приготовления.</VCE_StartInsertionDesc>
   <!-- EN: Remove Soup -->
   <VCE_RemoveSoup>Убрать суп</VCE_RemoveSoup>
   <!-- EN: Remove the soup from the pot. This can only be done before you start cooking it. -->
@@ -45,15 +45,15 @@
   <!-- EN: Start cooking soup. This process takes 3 days and can't be interrupted, or the soup will be destroyed. -->
   <VCE_EngageDesc>Начать варить суп. Этой займёт 3 дня и не должно прерываться, иначе суп пропадёт.</VCE_EngageDesc>
   <!-- EN: The soup has spoiled due to a power failure in the electric pot -->
-  <VCE_SoupFailurePower>Суп испортился из-за проблем с питанием у электрической кастрюли</VCE_SoupFailurePower>
+  <VCE_SoupFailurePower>Суп испортился из-за проблем с питанием у электрической кастрюли.</VCE_SoupFailurePower>
   <!-- EN: The soup is spoiling fast due to a lack of fuel in the electric pot -->
-  <VCE_SoupFailurePowerWarning>Суп начинает быстро портиться из-за недостатка питания у электрической кастрюли</VCE_SoupFailurePowerWarning>
+  <VCE_SoupFailurePowerWarning>Суп начинает быстро портиться из-за недостатка питания у электрической кастрюли.</VCE_SoupFailurePowerWarning>
   <!-- EN: A soup has finished cooking in the electric pot -->
-  <VCE_SoupFinished>Электрическая кастрюля закончила готовить суп</VCE_SoupFinished>
+  <VCE_SoupFinished>Электрическая кастрюля закончила готовить суп.</VCE_SoupFinished>
   <!-- EN: An {0} is cooking. It will be ready in {1} -->
   <VCE_SoupInProgress>{0} готовится. Он будет готов через {1}</VCE_SoupInProgress>
   <!-- EN: A soup has finished cooking and is waiting for pickup -->
-  <VCE_SoupReady>Суп готов и ожидает, когда его заберут</VCE_SoupReady>
+  <VCE_SoupReady>Суп готов и ожидает, когда его заберут.</VCE_SoupReady>
 
   <!-- Cheese making -->
 
@@ -70,7 +70,7 @@
   <!-- EN: Bring Milk -->
   <VCE_StartInsertionMilk>Приносить молоко</VCE_StartInsertionMilk>
   <!-- EN: Bring milk to the cheese press to start pressing -->
-  <VCE_StartInsertionMilkDesc>Принести молоко в пресс для начала производства</VCE_StartInsertionMilkDesc>
+  <VCE_StartInsertionMilkDesc>Принести молоко в пресс для начала производства.</VCE_StartInsertionMilkDesc>
   <!-- EN: Remove Milk -->
   <VCE_RemoveMilk>Убрать молоко</VCE_RemoveMilk>
   <!-- EN: Remove the milk from the press. This can only be done before you start pressing it. -->
@@ -90,7 +90,7 @@
   <!-- EN: Cheese press is pressing {0}. It will be ready with {1} quality in {2} -->
   <VCE_CheeseInProgress>Сыр создаётся в {0}. Он будет готов через {1} с качеством уровня «{2}»</VCE_CheeseInProgress>
   <!-- EN: This cheese has reached its desired degree of ripening and is waiting for pickup -->
-  <VCE_CheeseReady>Сыр достиг последней стадии созревания и ожидает, когда его заберут</VCE_CheeseReady>
+  <VCE_CheeseReady>Сыр достиг последней стадии созревания и ожидает, когда его заберут.</VCE_CheeseReady>
   <!-- EN: This milk has been improperly defined to work with the cheese press, contact the milk mod's author -->
   <VCE_MilkImproperlyDefined>Это молоко было неправильно определено для работы с прессом для сыра. Свяжитесь с автором мода с этим молоком</VCE_MilkImproperlyDefined>
   <!-- EN: Remove Cheese ({0}) -->
