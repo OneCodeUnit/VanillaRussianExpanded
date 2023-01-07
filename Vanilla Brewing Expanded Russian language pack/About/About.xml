@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Brewing Expanded Russian Language Pack</name>
+  <author>Mewn Goddess</author>
+  <packageId>OW.RU.Brewing</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>Перевод на русский язык мода Vanilla Brewing Expanded и дополнения Coffees and Teas.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VBrewE</packageId>
+      <displayName>Vanilla Brewing Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2186560858</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+	<loadAfter>
+		<li>VanillaExpanded.VBrewE</li>
+    <li>VanillaExpanded.VBrewECandT</li>
+	</loadAfter>
+  <incompatibleWith>
+    <li>Am.Rus.VBrewE</li>
+  </incompatibleWith>
+</ModMetaData>

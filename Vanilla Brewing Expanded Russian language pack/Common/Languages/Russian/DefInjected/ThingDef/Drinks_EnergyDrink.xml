@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: energy drink -->
+  <VBE_EnergyDrink.label>энергетик</VBE_EnergyDrink.label>
+  <!-- EN: A sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation. -->
+  <VBE_EnergyDrink.description>Кисловатый шипучий напиток с лёгким горьковатым привкусом. Сочетание сахара и кофеина даёт быстрый прилив энергии, который позже резко спадает. Имеет заметное радиоактивное послевкусие.</VBE_EnergyDrink.description>
+  <!-- EN: Drink {0} -->
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_EnergyDrink.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_EnergyDrink.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_EnergyDrink.ingestible.ingestReportString>
+</LanguageData>

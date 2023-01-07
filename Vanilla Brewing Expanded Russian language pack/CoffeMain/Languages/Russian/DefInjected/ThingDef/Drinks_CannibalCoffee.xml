@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: cannibal coffee -->
+  <VBE_CannibalCoffee.label>каннибальский кофе</VBE_CannibalCoffee.label>
+  <!-- EN: For a very particular… refined coffee drinker. -->
+  <VBE_CannibalCoffee.description>Напиток для особо...специфических ценителей кофе.</VBE_CannibalCoffee.description>
+  <!-- EN: Drink {0} -->
+  <VBE_CannibalCoffee.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_CannibalCoffee.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_CannibalCoffee.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_CannibalCoffee.ingestible.ingestReportString>
+</LanguageData>

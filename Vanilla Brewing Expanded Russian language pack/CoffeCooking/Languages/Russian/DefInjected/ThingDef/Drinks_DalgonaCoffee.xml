@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: dalgona coffee -->
+  <VBE_DalgonaCoffee.label>дальгона-кофе</VBE_DalgonaCoffee.label>
+  <!-- EN: A trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking. Arguably the perfect drink to sip on while studying or reading. -->
+  <VBE_DalgonaCoffee.description>Новый модный напиток, по слухам, родом из далёких индустриальных миров. Кофейные гранулы быстро смешиваются с сахаром для образования густой, сладкой пены, которую после этого распределяют по хорошо охлажденному молоку. Пожалуй, это идеальный напиток для потягивания во время учёбы или чтения.</VBE_DalgonaCoffee.description>
+  <!-- EN: Drink {0} -->
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_DalgonaCoffee.ingestible.ingestReportString>
+</LanguageData>
