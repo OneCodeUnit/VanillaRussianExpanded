@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Cooking Expanded Russian Language Pack</name>
+  <author>Amortem, OliveWizard, Mewn Goddess</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.Cooking</packageId>
+  <description>Обновлённый и улучшенный перевод на русский язык мода Vanilla Cooking Expanded и дополнений Stews и Sushi.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VCookE</packageId>
+      <displayName>Vanilla Cooking Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2134308519</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VCookE</li>
+    <li>VanillaExpanded.VCookEStews</li>
+    <li>VanillaExpanded.VCookESushi</li>
+    <li>VanillaExpanded.VPlantsE</li>
+    <li>VanillaExpanded.VCEF</li>
+    <li>OskarPotocki.VFE.Insectoid</li>
+    <li>VanillaExpanded.VGeneticsE</li>
+    <li>vanillaexpanded.achievements</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>Am.Rus.VCookE</li>
+    <li>Inoshishi3.VCE.RusPatch</li>
+  </incompatibleWith>
+</ModMetaData>
