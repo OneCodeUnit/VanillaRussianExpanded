@@ -45,137 +45,136 @@
   <!-- EN: Start cooking soup. This process takes 3 days and can't be interrupted, or the soup will be destroyed. -->
   <VCE_EngageDesc>Начать варить суп. Этой займёт 3 дня и не должно прерываться, иначе суп пропадёт.</VCE_EngageDesc>
   <!-- EN: The soup has spoiled due to a power failure in the electric pot -->
-  <VCE_SoupFailurePower>The soup has spoiled due to a power failure in the electric pot</VCE_SoupFailurePower>
+  <VCE_SoupFailurePower>Суп испортился из-за проблем с питанием у электрической кастрюли</VCE_SoupFailurePower>
   <!-- EN: The soup is spoiling fast due to a lack of fuel in the electric pot -->
-  <VCE_SoupFailurePowerWarning>The soup is spoiling fast due to a lack of fuel in the electric pot</VCE_SoupFailurePowerWarning>
+  <VCE_SoupFailurePowerWarning>Суп начинает быстро портиться из-за недостатка питания у электрической кастрюли</VCE_SoupFailurePowerWarning>
   <!-- EN: A soup has finished cooking in the electric pot -->
-  <VCE_SoupFinished>A soup has finished cooking in the electric pot</VCE_SoupFinished>
+  <VCE_SoupFinished>Электрическая кастрюля закончила готовить суп</VCE_SoupFinished>
   <!-- EN: An {0} is cooking. It will be ready in {1} -->
-  <VCE_SoupInProgress>An {0} is cooking. It will be ready in {1}</VCE_SoupInProgress>
+  <VCE_SoupInProgress>{0} готовится. Он будет готов через {1}</VCE_SoupInProgress>
   <!-- EN: A soup has finished cooking and is waiting for pickup -->
-  <VCE_SoupReady>A soup has finished cooking and is waiting for pickup</VCE_SoupReady>
+  <VCE_SoupReady>Суп готов и ожидает, когда его заберут</VCE_SoupReady>
 
   <!-- Cheese making -->
 
   <!-- EN: Select Milk to press in the cheese press. Different milks might produce different types of cheese. -->
-  <VCE_InsertMilkDesc>Select Milk to press in the cheese press. Different milks might produce different types of cheese.</VCE_InsertMilkDesc>
+  <VCE_InsertMilkDesc>Выберите молоко для сырного пресса. Из разных видов молока получаются разные виды сыра.</VCE_InsertMilkDesc>
   <!-- EN: Select Milk -->
-  <VCE_InsertMilk>Select Milk</VCE_InsertMilk>
+  <VCE_InsertMilk>Выбрать молоко</VCE_InsertMilk>
   <!-- EN: Insert {0} -->
-  <VCE_InsertMilkVariable>Insert {0}</VCE_InsertMilkVariable>
+  <VCE_InsertMilkVariable>Добавить {0}</VCE_InsertMilkVariable>
   <!-- EN: No milks of that kind found in this map. -->
-  <VCE_NoMilksFound>No milks of that kind found in this map.</VCE_NoMilksFound>
+  <VCE_NoMilksFound>Выбранное молоко отсутствует на карте.</VCE_NoMilksFound>
   <!-- EN: Select a type of milk to be pressed -->
-  <VCE_SelectMilk>Select a type of milk to be pressed</VCE_SelectMilk>
+  <VCE_SelectMilk>Выбрать тип молока для пресса</VCE_SelectMilk>
   <!-- EN: Bring Milk -->
-  <VCE_StartInsertionMilk>Bring Milk</VCE_StartInsertionMilk>
+  <VCE_StartInsertionMilk>Приносить молоко</VCE_StartInsertionMilk>
   <!-- EN: Bring milk to the cheese press to start pressing -->
-  <VCE_StartInsertionMilkDesc>Bring milk to the cheese press to start pressing</VCE_StartInsertionMilkDesc>
+  <VCE_StartInsertionMilkDesc>Принести молоко в пресс для начала производства</VCE_StartInsertionMilkDesc>
   <!-- EN: Remove Milk -->
-  <VCE_RemoveMilk>Remove Milk</VCE_RemoveMilk>
+  <VCE_RemoveMilk>Убрать молоко</VCE_RemoveMilk>
   <!-- EN: Remove the milk from the press. This can only be done before you start pressing it. -->
-  <VCE_RemoveMilkDesc>Remove the milk from the press. This can only be done before you start pressing it.</VCE_RemoveMilkDesc>
+  <VCE_RemoveMilkDesc>Убрать молоко из пресса. Это можно сделать только до начала производства.</VCE_RemoveMilkDesc>
   <!-- EN: Cancel Bringing Milk -->
-  <VCE_CancelBringingMilk>Cancel Bringing Milk</VCE_CancelBringingMilk>
+  <VCE_CancelBringingMilk>Не приносить молоко</VCE_CancelBringingMilk>
   <!-- EN: Cancel bringing milk to the cheese press. -->
-  <VCE_CancelBringingMilkDesc>Cancel bringing milk to the cheese press.</VCE_CancelBringingMilkDesc>
+  <VCE_CancelBringingMilkDesc>Не приносить молоко в пресс для сыра.</VCE_CancelBringingMilkDesc>
   <!-- EN: Wait until the milk has been brought to the cheese press, or cancel the job. -->
-  <VCE_WaitTillJobsEndMilk>Wait until the milk has been brought to the cheese press, or cancel the job.</VCE_WaitTillJobsEndMilk>
+  <VCE_WaitTillJobsEndMilk>Дождитесь, пока молоко не будет доставлено в пресс или отмените задачу.</VCE_WaitTillJobsEndMilk>
   <!-- EN: Press Into Cheese -->
-  <VCE_EngageMilk>Press Into Cheese</VCE_EngageMilk>
+  <VCE_EngageMilk>Спрессовать в сыр</VCE_EngageMilk>
   <!-- EN: Start pressing milk into cheese. This process takes a variable time and cheese will increase in quality with ripening. You can remove it at any time after the initial period. -->
-  <VCE_EngageMilkDesc>Start pressing milk into cheese. This process takes a variable time and cheese will increase in quality with ripening. You can remove it at any time after the initial period.</VCE_EngageMilkDesc>
+  <VCE_EngageMilkDesc>Начать спрессовывать молоко в сыр. Этот процесс может занять разное время, так как сыр будет улучшать своё качество в зависимости от выдержки. Однако вы можете забрать его в любое время после окончания начальной фазы.</VCE_EngageMilkDesc>
   <!-- EN: A cheese has finished ripening in the cheese press -->
-  <VCE_CheeseFinished>A cheese has finished ripening in the cheese press</VCE_CheeseFinished>
+  <VCE_CheeseFinished>Сыр закончил созревать в прессе</VCE_CheeseFinished>
   <!-- EN: Cheese press is pressing {0}. It will be ready with {1} quality in {2} -->
-  <VCE_CheeseInProgress>Cheese press is pressing {0}. It will be ready with {1} quality in {2}</VCE_CheeseInProgress>
+  <VCE_CheeseInProgress>Сыр создаётся в {0}. Он будет готов через {1} с качеством уровня «{2}»</VCE_CheeseInProgress>
   <!-- EN: This cheese has reached its desired degree of ripening and is waiting for pickup -->
-  <VCE_CheeseReady>This cheese has reached its desired degree of ripening and is waiting for pickup</VCE_CheeseReady>
+  <VCE_CheeseReady>Сыр достиг последней стадии созревания и ожидает, когда его заберут</VCE_CheeseReady>
   <!-- EN: This milk has been improperly defined to work with the cheese press, contact the milk mod's author -->
-  <VCE_MilkImproperlyDefined>This milk has been improperly defined to work with the cheese press, contact the milk mod's author</VCE_MilkImproperlyDefined>
+  <VCE_MilkImproperlyDefined>Это молоко было неправильно определено для работы с прессом для сыра. Свяжитесь с автором мода с этим молоком</VCE_MilkImproperlyDefined>
   <!-- EN: Remove Cheese ({0}) -->
-  <VCE_RemoveCheese>Remove Cheese ({0})</VCE_RemoveCheese>
+  <VCE_RemoveCheese>Забрать сыр ({0})</VCE_RemoveCheese>
   <!-- EN: Remove cheese from the cheese press. The cheese will be ready at the present quality level ({0}) -->
-  <VCE_RemoveCheeseDesc>Remove cheese from the cheese press. The cheese will be ready at the present quality level ({0})</VCE_RemoveCheeseDesc>
+  <VCE_RemoveCheeseDesc>Забрать сыр из пресса для сыра. Сыр будет иметь то качество, до которого он дозрел. Сейчас это «{0}»</VCE_RemoveCheeseDesc>
 
   <!-- EN: Cheese press is empty right now -->
-  <VCE_CheesePressEmpty>Cheese press is empty right now</VCE_CheesePressEmpty>
+  <VCE_CheesePressEmpty>Пресс для сыра пуст</VCE_CheesePressEmpty>
   <!-- EN: Cheese press filled with {0} -->
-  <VCE_CheesePressFilled>Cheese press filled with {0}</VCE_CheesePressFilled>
+  <VCE_CheesePressFilled>Пресс для сыра заполнен {0}</VCE_CheesePressFilled>
   <!-- EN: Cheese press is working: -->
-  <VCE_CheesePressWorking>Cheese press is working:</VCE_CheesePressWorking>
+  <VCE_CheesePressWorking>Пресс для сыра работает над:</VCE_CheesePressWorking>
   <!-- EN:  (filled at {0} of {1}) -->
-  <VCE_ResourcePercentage> (filled at {0} of {1})</VCE_ResourcePercentage>
+  <VCE_ResourcePercentage> (заполнено на {0} из {1})</VCE_ResourcePercentage>
 
-  <!-- Condiment stats (using code from AnimalBehaviours) -->
 
   <!-- EN: Condiment Effects -->
-  <VCE_CondimentEffects>Condiment Effects</VCE_CondimentEffects>
+  <VCE_CondimentEffects>Эффекты приправ</VCE_CondimentEffects>
   <!-- EN: Acting as condiment -->
-  <VCE_CondimentEffectsTitle>Acting as condiment</VCE_CondimentEffectsTitle>
+  <VCE_CondimentEffectsTitle>Действует как приправа</VCE_CondimentEffectsTitle>
   <!-- EN: Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Consuming meals that include this condiment gives a 15% immunity gain speed boost for 12 hours. -->
-  <VCE_CondimentEffectsAgave>Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Consuming meals that include this condiment gives a 15% immunity gain speed boost for 12 hours.</VCE_CondimentEffectsAgave>
+  <VCE_CondimentEffectsAgave>Плоды агавы содержат жидкий, чуть сладковатый нектар, известный своими целебными и противовоспалительными свойствами. При употреблении повышает иммунитет на 15% на 12 часов.</VCE_CondimentEffectsAgave>
   <!-- EN: Sugar is easily converted into energy by the body, which may result in a nice burst of energy. Consuming meals that include this condiment increases moving stat by 15% for 12 hours. -->
-  <VCE_CondimentEffectsSugar>Sugar is easily converted into energy by the body, which may result in a nice burst of energy. Consuming meals that include this condiment increases moving stat by 15% for 12 hours.</VCE_CondimentEffectsSugar>
+  <VCE_CondimentEffectsSugar>Организм легко усваивает сахар и превращает его в энергию, что приводит к повышению активности организма. Увеличивает общую скорость передвижения на 15% на 12 часов.</VCE_CondimentEffectsSugar>
   <!-- EN: A variety of aromatic and pungent spices. Consuming meals that include this condiment increases manipulation stat by 10% for 12 hours. -->
-  <VCE_CondimentEffectsSpices>A variety of aromatic and pungent spices. Consuming meals that include this condiment increases manipulation stat by 10% for 12 hours.</VCE_CondimentEffectsSpices>
+  <VCE_CondimentEffectsSpices>Употреблены различные специи, придающие блюду особый запах и остроту. Увеличивает скорость работы на 10% на 12 часов.</VCE_CondimentEffectsSpices>
   <!-- EN: Consuming meals that include this condiment increases mood by 5 for 12 hours. -->
-  <VCE_CondimentEffectsSalt>Consuming meals that include this condiment increases mood by 5 for 12 hours.</VCE_CondimentEffectsSalt>
+  <VCE_CondimentEffectsSalt>Употребление блюда с этой приправой увеличит настроение на 5 на 12 часов.</VCE_CondimentEffectsSalt>
   <!-- EN: Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. Consuming meals that include this condiment lowers hunger rate by 15% for 12 hours. -->
-  <VCE_CondimentEffectsMayo>Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. Consuming meals that include this condiment lowers hunger rate by 15% for 12 hours.</VCE_CondimentEffectsMayo>
+  <VCE_CondimentEffectsMayo>Будучи очень нездоровой едой, он, тем не менее, делает блюдо вкуснее и сам по себе насыщен калориями. Понижает голод на 15% на 12 часов.</VCE_CondimentEffectsMayo>
   <!-- EN: Consuming meals that include this condiment increases mood by 10 for 12 hours. -->
-  <VCE_CondimentEffectsJelly>Consuming meals that include this condiment increases mood by 10 for 12 hours.</VCE_CondimentEffectsJelly>
+  <VCE_CondimentEffectsJelly>Употребление блюда с этой приправой увеличит настроение на 10 на 12 часов.</VCE_CondimentEffectsJelly>
   <!-- EN: Consuming meals that include this condiment creates a smokeleaf high without addiction risks. -->
-  <VCE_CondimentEffectsButter>Consuming meals that include this condiment creates a smokeleaf high without addiction risks.</VCE_CondimentEffectsButter>
+  <VCE_CondimentEffectsButter>Употребление блюда с этой приправой вызовет эффект кайфа от дымолиста без каких-либо дополнительных последствий.</VCE_CondimentEffectsButter>
   <!-- EN: Consuming meals that include this condiment increases mood by 7 for 12 hours. -->
-  <VCE_CondimentEffectsSyrup>Consuming meals that include this condiment increases mood by 7 for 12 hours.</VCE_CondimentEffectsSyrup>
+  <VCE_CondimentEffectsSyrup>Употребление блюда с этой приправой увеличит настроение на 7 на 12 часов.</VCE_CondimentEffectsSyrup>
   <!-- EN: Consuming meals that include this condiment increases manipulation by 1% for 12 hours. The colonist will be resurrected if it is killed during that time. -->
-  <VCE_CondimentEffectsNanites>Consuming meals that include this condiment increases manipulation by 1% for 12 hours. The colonist will be resurrected if it is killed during that time.</VCE_CondimentEffectsNanites>
+  <VCE_CondimentEffectsNanites>Употребление блюда с этой приправой увеличит скорость работы 1% на 12 часов. Помимо этого, поселенец будет воскрешён, если умрёт в этот промежуток времени.</VCE_CondimentEffectsNanites>
   <!-- EN: Consuming meals that include this condiment increases mood by 3 for 12 hours. -->
-  <VCE_CondimentEffectsKetchup>Consuming meals that include this condiment increases mood by 3 for 12 hours.</VCE_CondimentEffectsKetchup>
+  <VCE_CondimentEffectsKetchup>Употребление блюда с этой приправой увеличит настроение на 3 на 12 часов.</VCE_CondimentEffectsKetchup>
   <!-- EN: While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Consuming meals that include this condiment boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours. Mood will be reduced by 3. -->
-  <VCE_CondimentEffectsSauce>While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Consuming meals that include this condiment boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours. Mood will be reduced by 3.</VCE_CondimentEffectsSauce>
+  <VCE_CondimentEffectsSauce>Самые острые соусы поначалу причиняют боль, но известно, что потом они притупляют боль и вызывают тёплый пот. Повышена устойчивость к боли на 15% и устойчивость к холоду на 10ºC на 12 часов. Настроение уменьшится на 3.</VCE_CondimentEffectsSauce>
 
   <!-- EN: Health Effects -->
-  <VCE_HealthEffects>Health Effects</VCE_HealthEffects>
+  <VCE_HealthEffects>Состояния здоровья</VCE_HealthEffects>
   <!-- EN: No health effects -->
-  <VCE_NoEffect>No health effects</VCE_NoEffect>
+  <VCE_NoEffect>Нет особых эффектов</VCE_NoEffect>
   <!-- EN: Consuming meals that include this condiment causes no negative health effects. -->
-  <VCE_NoEffectDesc>Consuming meals that include this condiment causes no negative health effects.</VCE_NoEffectDesc>
+  <VCE_NoEffectDesc>Употребление блюда с этой приправой не вызовет никаких негативных эффектов.</VCE_NoEffectDesc>
 
   <!-- EN: Diabetes -->
-  <VCE_DiabetesEffect>Diabetes</VCE_DiabetesEffect>
+  <VCE_DiabetesEffect>Диабет</VCE_DiabetesEffect>
   <!-- EN: Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%. -->
-  <VCE_DiabetesEffectDescHalfPoint>Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.</VCE_DiabetesEffectDescHalfPoint>
+  <VCE_DiabetesEffectDescHalfPoint>Употребление блюд, содержащих эту приправу, приводит к диабету. Каждый приём такой пищи увеличивает риск развития диабета у поселенца на 0.5%.</VCE_DiabetesEffectDescHalfPoint>
   <!-- EN: Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%. -->
-  <VCE_DiabetesEffectDescOneAndHalfPoint>Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.</VCE_DiabetesEffectDescOneAndHalfPoint>
+  <VCE_DiabetesEffectDescOneAndHalfPoint>Употребление блюд, содержащих эту приправу, приводит к диабету. Каждый приём такой пищи увеличивает риск развития диабета у поселенца на 1.5%.</VCE_DiabetesEffectDescOneAndHalfPoint>
   <!-- EN: Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.75%. -->
-  <VCE_DiabetesEffectDescThreeQuarterPoint>Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.75%.</VCE_DiabetesEffectDescThreeQuarterPoint>
+  <VCE_DiabetesEffectDescThreeQuarterPoint>Употребление блюд, содержащих эту приправу, приводит к диабету. Каждый приём такой пищи увеличивает риск развития диабета у поселенца на 0.75%.</VCE_DiabetesEffectDescThreeQuarterPoint>
   <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%. -->
-  <VCE_DiabetesDessertSimpleDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.</VCE_DiabetesDessertSimpleDesc>
+  <VCE_DiabetesDessertSimpleDesc>Употребление этого блюда приводит к диабету. Каждый приём такой пищи увеличивает риск развития диабета у поселенца на 0.5%.</VCE_DiabetesDessertSimpleDesc>
   <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%. -->
-  <VCE_DiabetesDessertFineDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.</VCE_DiabetesDessertFineDesc>
+  <VCE_DiabetesDessertFineDesc>Употребление этого блюда приводит к диабету. Каждый приём такой пищи увеличивает риск развития диабета у поселенца на 1.5%.</VCE_DiabetesDessertFineDesc>
   <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 2.5%. -->
-  <VCE_DiabetesDessertLavishDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 2.5%.</VCE_DiabetesDessertLavishDesc>
+  <VCE_DiabetesDessertLavishDesc>Употребление этого блюда приводит к диабету. Каждый приём такой пищи увеличивает риск развития диабета у поселенца на 2.5%.</VCE_DiabetesDessertLavishDesc>
   <!-- EN: Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 3.5%. -->
-  <VCE_DiabetesDessertGourmetDesc>Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 3.5%.</VCE_DiabetesDessertGourmetDesc>
+  <VCE_DiabetesDessertGourmetDesc>Употребление этого блюда приводит к диабету. Каждый приём такой пищи увеличивает риск развития диабета у поселенца на 3.5%.</VCE_DiabetesDessertGourmetDesc>
 
 
   <!-- EN: High Blood Pressure -->
-  <VCE_HighBloodPressureEffect>High Blood Pressure</VCE_HighBloodPressureEffect>
+  <VCE_HighBloodPressureEffect>Высокое давление</VCE_HighBloodPressureEffect>
   <!-- EN: Consuming meals that include this condiment causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 0.75%. -->
-  <VCE_HighBloodPressureEffectDesc>Consuming meals that include this condiment causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 0.75%.</VCE_HighBloodPressureEffectDesc>
+  <VCE_HighBloodPressureEffectDesc>Употребление блюд, содержащих эту приправу, приводит к высокому давлению. Каждый приём такой пищи увеличивает риск развития высокого давления у поселенца на 0.75%.</VCE_HighBloodPressureEffectDesc>
   <!-- EN: Consuming canned goods causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 1.5%. -->
-  <VCE_HighBloodPressureEffectDescCanned>Consuming canned goods causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 1.5%.</VCE_HighBloodPressureEffectDescCanned>
+  <VCE_HighBloodPressureEffectDescCanned>Употребление этого блюда приводит к высокому давлению. Каждый приём такой пищи увеличивает риск развития высокого давления у поселенца на 1.5%.</VCE_HighBloodPressureEffectDescCanned>
 
   <!-- EN: Cholesterol -->
-  <VCE_CholesterolEffect>Cholesterol</VCE_CholesterolEffect>
+  <VCE_CholesterolEffect>Высокий холестерин</VCE_CholesterolEffect>
   <!-- EN: Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1%. -->
-  <VCE_CholesterolEffectDesc>Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1%.</VCE_CholesterolEffectDesc>
+  <VCE_CholesterolEffectDesc>Употребление блюд, содержащих эту приправу, приводит к высокому холестерину. Каждый приём такой пищи увеличивает риск развития высокого холестерина у поселенца на 1%.</VCE_CholesterolEffectDesc>
   <!-- EN: Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%. -->
-  <VCE_CholesterolEffectDescOneAndHalfPoint>Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.</VCE_CholesterolEffectDescOneAndHalfPoint>
+  <VCE_CholesterolEffectDescOneAndHalfPoint>Употребление блюд, содержащих эту приправу, приводит к высокому холестерину. Каждый приём такой пищи увеличивает риск развития высокого холестерина у поселенца на1.5%.</VCE_CholesterolEffectDescOneAndHalfPoint>
   <!-- EN: Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 2%. -->
-  <VCE_CholesterolEffectDescDouble>Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 2%.</VCE_CholesterolEffectDescDouble>
+  <VCE_CholesterolEffectDescDouble>Употребление блюд, содержащих эту приправу, приводит к высокому холестерину. Каждый приём такой пищи увеличивает риск развития высокого холестерина у поселенца на 2%.</VCE_CholesterolEffectDescDouble>
   <!-- EN: Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%. -->
-  <VCE_CholesterolDescDeepFried>Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.</VCE_CholesterolDescDeepFried>
+  <VCE_CholesterolDescDeepFried>Употребление приготовленной на фритюре еды приводит к высокому холестерину. Каждый приём такой пищи увеличивает риск развития высокого холестерина у поселенца на 1.5%.</VCE_CholesterolDescDeepFried>
 </LanguageData>
