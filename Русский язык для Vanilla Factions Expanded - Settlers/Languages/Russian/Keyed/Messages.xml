@@ -1,45 +1,82 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: Raid caravan from {0} -->
   <CaravanRaidLabel>Raid caravan from {0}</CaravanRaidLabel>
+  <!-- EN: You have received information of a caravan from {0} that has set up camp nearby. Now would be a good time to raid it, but be aware that caravans are usually guarded. -->
   <CaravanRaidDialogue>You have received information of a caravan from {0} that has set up camp nearby. Now would be a good time to raid it, but be aware that caravans are usually guarded.</CaravanRaidDialogue>
+  <!-- EN: Wanted by {0} -->
   <WantedLabel>Wanted by {0}</WantedLabel>
+  <!-- EN: {0} has put up a bounty for {PAWN_nameDef}, a most vile criminal with many atrocities under {PAWN_possessive} name. {PAWN_nameDef} from {1} is wanted for {2} silver if delivered dead, double if delivered alive to one of {0}'s settlements. -->
   <WantedDialogue>{0} has put up a bounty for {PAWN_nameDef}, a most vile criminal with many atrocities under {PAWN_possessive} name. {PAWN_nameDef} from {1} is wanted for {2} silver if delivered dead, double if delivered alive to one of {0}'s settlements.</WantedDialogue>
+  <!-- EN: Turn in {PAWN_nameDef} -->
   <WantedTurnIn>Turn in {PAWN_nameDef}</WantedTurnIn>
+  <!-- EN: Turn in the corpse of {PAWN_nameDef} for a reward. -->
   <WantedTurnInDescDead>Turn in the corpse of {PAWN_nameDef} for a reward.</WantedTurnInDescDead>
+  <!-- EN: Turn in the criminal {PAWN_nameDef} for a reward. -->
   <WantedTurnInDescAlive>Turn in the criminal {PAWN_nameDef} for a reward.</WantedTurnInDescAlive>
+  <!-- EN: Turned in {PAWN_nameDef}. -->
   <WantedTurnInLabel>Turned in {PAWN_nameDef}.</WantedTurnInLabel>
+  <!-- EN: You've turned in the corpse of {PAWN_nameDef} for {0} silver. -->
   <WantedTurnInMessageDead>You've turned in the corpse of {PAWN_nameDef} for {0} silver.</WantedTurnInMessageDead>
+  <!-- EN: You've turned in criminal {PAWN_nameDef} alive for {0} silver. -->
   <WantedTurnInMessageAlive>You've turned in criminal {PAWN_nameDef} alive for {0} silver.</WantedTurnInMessageAlive>
+  <!-- EN: Wanted by {0} for {1} silver -->
   <WantedHediff>Wanted by {0} for {1} silver</WantedHediff>
+  <!-- EN: Default Settings -->
   <DefaultSettings>Default Settings</DefaultSettings>
+  <!-- EN: Minimum reward for bounties: {0} -->
   <MinReward>Minimum reward for bounties: {0}</MinReward>
+  <!-- EN: Maximum reward for bounties: {0} -->
   <MaxReward>Maximum reward for bounties: {0}</MaxReward>
+  <!-- EN: Should muffalo go for your chemshine: {0} -->
   <Chemsined>Should muffalo go for your chemshine: {0}</Chemsined>
+  <!-- EN: Protection fee -->
   <ProtectionFeeLabel>Protection fee</ProtectionFeeLabel>
+  <!-- EN: A band of thugs sent by {0} call you from nearby. \n\n They offer to keep your colony safe from any threats, even the ones potentially caused by them, as long as you pay a fee of {1} silver. \n\n Be warned - refusal can anger the thugs.  -->
   <ProtectionFeeDialogue>A band of thugs sent by {0} call you from nearby. \n\n They offer to keep your colony safe from any threats, even the ones potentially caused by them, as long as you pay a fee of {1} silver. \n\n Be warned - refusal can anger the thugs. </ProtectionFeeDialogue>
+  <!-- EN: Accept the offer and pay -->
   <ProtectionFeeAgree>Accept the offer and pay</ProtectionFeeAgree>
+  <!-- EN: The thugs from {0} seem happy with the deal and cut the communication. -->
   <ProtectionFeeAgreeDialogue>The thugs from {0} seem happy with the deal and cut the communication.</ProtectionFeeAgreeDialogue>
+  <!-- EN: Refuse the offer -->
   <ProtectionFeeDisagree>Refuse the offer</ProtectionFeeDisagree>
+  <!-- EN: The thugs from {0} seem happy about you refusing their offer and cut the communication right after assuring you that they cannot guarantee your safety. -->
   <ProtectionFeeDisagreeDialogue>The thugs from {0} seem happy about you refusing their offer and cut the communication right after assuring you that they cannot guarantee your safety.</ProtectionFeeDisagreeDialogue>
+  <!-- EN: Not enough silver -->
   <ProtectionFeeNotEnoughSilver>Not enough silver</ProtectionFeeNotEnoughSilver>
+  <!-- EN: Chemshined Muffalos -->
   <DrunkMuffaloTitle>Chemshined Muffalos</DrunkMuffaloTitle>
+  <!-- EN: A small herd of muffalos have arrived in the area. It would seem they have found a secret stash of chemshine earlier, making them crave it even more. Watch out for their drunken shenanigans. -->
   <DrunkMuffaloMessage>A small herd of muffalos have arrived in the area. It would seem they have found a secret stash of chemshine earlier, making them crave it even more. Watch out for their drunken shenanigans.</DrunkMuffaloMessage>
 
+  <!-- EN: Contains {0} / {1} chemfuel. -->
   <ContainsChemfuel>Contains {0} / {1} chemfuel.</ContainsChemfuel>
+  <!-- EN: Contains {0} / {1} chemshine. -->
   <ContainsChemshine>Contains {0} / {1} chemshine.</ContainsChemshine>
+  <!-- EN: need chemfuel -->
   <NoChemfuel>need chemfuel</NoChemfuel>
 
   <!-- Chemsine -->
+  <!-- EN: Chemfuel -->
   <VFES_InsertFirstItemDesc>Chemfuel</VFES_InsertFirstItemDesc>
+  <!-- EN: Bring chemfuel -->
   <VFES_bringIngredientsText>Bring chemfuel</VFES_bringIngredientsText>
+  <!-- EN: Bring chemfuel to the chemsine barrel to start fermentation -->
   <VFES_bringIngredientsDesc>Bring chemfuel to the chemsine barrel to start fermentation</VFES_bringIngredientsDesc>
+  <!-- EN: Cancel bringing chemfuel -->
   <VFES_cancelIngredientsText>Cancel bringing chemfuel</VFES_cancelIngredientsText>
+  <!-- EN: Cancel bringing chemfuel to the chemsine barrel. -->
   <VFES_cancelIngredientsDesc>Cancel bringing chemfuel to the chemsine barrel.</VFES_cancelIngredientsDesc>
+  <!-- EN: Remove chemsine -->
   <VFES_removeProductText>Remove chemsine</VFES_removeProductText>
+  <!-- EN: Remove chemsine from the chemsine barrel. -->
   <VFES_removeProductDesc>Remove chemsine from the chemsine barrel.</VFES_removeProductDesc>
 
   <!-- Wanted -->
+  <!-- EN: Bounty target -->
   <VFES_Target>Bounty target</VFES_Target>
+  <!-- EN: The bounty target {0} has been located at this outpost. -->
   <VFES_TargetDesc>The bounty target {0} has been located at this outpost.</VFES_TargetDesc>
+
 
 </LanguageData>
