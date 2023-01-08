@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>questName->Награда за голову: [nameFull] [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>questName->Разыскивается живым или мертвым: [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>questName->Разбойники: [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>questDescription->[asker_nameFull], [asker_faction_leaderTitle] из [asker_faction_name] приветствует нас. Видимо, пресловутый [criminal_nameFull] из [siteFaction_name] прячется в наших окрестностях.\n\n[asker_nameDef] просит нас принести [nickname] в одно из их поселений за награду в [bounty] серебра, и удвоенную сумму, если [nickname] будет в живых. Они прячутся в безопасном схроне, и он, скорее всего, охраняется.\n\nЕсли мы очистим их лагерь, [allRewardsDescriptions]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>
+  <VFES_Wanted.root.nodes.11.node.nodes.0.label>Срок действия квеста истёк: [resolvedQuestName]</VFES_Wanted.root.nodes.11.node.nodes.0.label>
+  <VFES_Wanted.root.nodes.11.node.nodes.0.text>[criminal_nameFull] услышал(а) об их скомпрометированной позиции, поэтому решил(а) покинуть этот район. Срок действия [resolvedQuestName] истёк.</VFES_Wanted.root.nodes.11.node.nodes.0.text>
+  <VFES_Wanted.root.nodes.12.node.nodes.0.label>Квест провален: [resolvedQuestName]</VFES_Wanted.root.nodes.12.node.nodes.0.label>
+  <VFES_Wanted.root.nodes.12.node.nodes.0.text>Разбойники собрали вещи и пошли дальше. Квест [resolvedQuestName] провален.</VFES_Wanted.root.nodes.12.node.nodes.0.text>
+  <VFES_Wanted.root.nodes.13.node.customLetterLabel>Вознаграждение прибыло</VFES_Wanted.root.nodes.13.node.customLetterLabel>
+  <VFES_Wanted.root.nodes.13.node.customLetterText>Вы победили [criminal_nameFull] и ликвидировали лагерь!\n\nПолучено вознаграждение от [asker_faction_name].</VFES_Wanted.root.nodes.13.node.customLetterText>
+
+  <VFES_CaravanRaid.questNameRules.rulesStrings.0>questName->Караван: [raid]</VFES_CaravanRaid.questNameRules.rulesStrings.0>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.1>questName->[asker_nameDef] и [raid] каравана</VFES_CaravanRaid.questNameRules.rulesStrings.1>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.2>raid->Рейд</VFES_CaravanRaid.questNameRules.rulesStrings.2>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.3>raid->Атака</VFES_CaravanRaid.questNameRules.rulesStrings.3>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.4>raid->Засада</VFES_CaravanRaid.questNameRules.rulesStrings.4>
+  <VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] из [asker_faction_name] прислал(а) нам сообщение. По-видимому, [siteFaction_pawnsPlural] отдыхают со своими животными, прежде чем продолжить свое путешествие.\n[asker_nameDef] сообщил(а) нам их местоположение, при желании мы можем атаковать их.</VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>
+  <VFES_CaravanRaid.root.nodes.10.node.nodes.0.label>Срок действия квеста истёк: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.10.node.nodes.0.label>
+  <VFES_CaravanRaid.root.nodes.10.node.nodes.0.text>[siteFaction_pawnsPlural] собрали свои вещи и ушли. Срок действия [resolvedQuestName] истёк.</VFES_CaravanRaid.root.nodes.10.node.nodes.0.text>
+  <VFES_CaravanRaid.root.nodes.11.node.nodes.0.label>Квест провален: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.11.node.nodes.0.label>
+  <VFES_CaravanRaid.root.nodes.11.node.nodes.0.text>После своего обнаружения [siteFaction_pawnsPlural] покинули место дислокации. Квест [resolvedQuestName] провален.</VFES_CaravanRaid.root.nodes.11.node.nodes.0.text>
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CaravanRaidLabel>Raid caravan from {0}</CaravanRaidLabel>
+  <CaravanRaidDialogue>You have received information of a caravan from {0} that has set up camp nearby. Now would be a good time to raid it, but be aware that caravans are usually guarded.</CaravanRaidDialogue>
+  <WantedLabel>Wanted by {0}</WantedLabel>
+  <WantedDialogue>{0} has put up a bounty for {PAWN_nameDef}, a most vile criminal with many atrocities under {PAWN_possessive} name. {PAWN_nameDef} from {1} is wanted for {2} silver if delivered dead, double if delivered alive to one of {0}'s settlements.</WantedDialogue>
+  <WantedTurnIn>Turn in {PAWN_nameDef}</WantedTurnIn>
+  <WantedTurnInDescDead>Turn in the corpse of {PAWN_nameDef} for a reward.</WantedTurnInDescDead>
+  <WantedTurnInDescAlive>Turn in the criminal {PAWN_nameDef} for a reward.</WantedTurnInDescAlive>
+  <WantedTurnInLabel>Turned in {PAWN_nameDef}.</WantedTurnInLabel>
+  <WantedTurnInMessageDead>You've turned in the corpse of {PAWN_nameDef} for {0} silver.</WantedTurnInMessageDead>
+  <WantedTurnInMessageAlive>You've turned in criminal {PAWN_nameDef} alive for {0} silver.</WantedTurnInMessageAlive>
+  <WantedHediff>Wanted by {0} for {1} silver</WantedHediff>
+  <DefaultSettings>Default Settings</DefaultSettings>
+  <MinReward>Minimum reward for bounties: {0}</MinReward>
+  <MaxReward>Maximum reward for bounties: {0}</MaxReward>
+  <Chemsined>Should muffalo go for your chemshine: {0}</Chemsined>
+  <ProtectionFeeLabel>Protection fee</ProtectionFeeLabel>
+  <ProtectionFeeDialogue>A band of thugs sent by {0} call you from nearby. \n\n They offer to keep your colony safe from any threats, even the ones potentially caused by them, as long as you pay a fee of {1} silver. \n\n Be warned - refusal can anger the thugs. </ProtectionFeeDialogue>
+  <ProtectionFeeAgree>Accept the offer and pay</ProtectionFeeAgree>
+  <ProtectionFeeAgreeDialogue>The thugs from {0} seem happy with the deal and cut the communication.</ProtectionFeeAgreeDialogue>
+  <ProtectionFeeDisagree>Refuse the offer</ProtectionFeeDisagree>
+  <ProtectionFeeDisagreeDialogue>The thugs from {0} seem happy about you refusing their offer and cut the communication right after assuring you that they cannot guarantee your safety.</ProtectionFeeDisagreeDialogue>
+  <ProtectionFeeNotEnoughSilver>Not enough silver</ProtectionFeeNotEnoughSilver>
+  <DrunkMuffaloTitle>Chemshined Muffalos</DrunkMuffaloTitle>
+  <DrunkMuffaloMessage>A small herd of muffalos have arrived in the area. It would seem they have found a secret stash of chemshine earlier, making them crave it even more. Watch out for their drunken shenanigans.</DrunkMuffaloMessage>
+
+  <ContainsChemfuel>Contains {0} / {1} chemfuel.</ContainsChemfuel>
+  <ContainsChemshine>Contains {0} / {1} chemshine.</ContainsChemshine>
+  <NoChemfuel>need chemfuel</NoChemfuel>
+
+  <!-- Chemsine -->
+  <VFES_InsertFirstItemDesc>Chemfuel</VFES_InsertFirstItemDesc>
+  <VFES_bringIngredientsText>Bring chemfuel</VFES_bringIngredientsText>
+  <VFES_bringIngredientsDesc>Bring chemfuel to the chemsine barrel to start fermentation</VFES_bringIngredientsDesc>
+  <VFES_cancelIngredientsText>Cancel bringing chemfuel</VFES_cancelIngredientsText>
+  <VFES_cancelIngredientsDesc>Cancel bringing chemfuel to the chemsine barrel.</VFES_cancelIngredientsDesc>
+  <VFES_removeProductText>Remove chemsine</VFES_removeProductText>
+  <VFES_removeProductDesc>Remove chemsine from the chemsine barrel.</VFES_removeProductDesc>
+
+  <!-- Wanted -->
+  <VFES_Target>Bounty target</VFES_Target>
+  <VFES_TargetDesc>The bounty target {0} has been located at this outpost.</VFES_TargetDesc>
+
+</LanguageData>

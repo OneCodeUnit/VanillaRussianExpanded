@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gun_GatlingGun.label>пулемёт Гатлинга</Gun_GatlingGun.label>
+  <Gun_GatlingGun.description>Простой автоматический пулемёт.</Gun_GatlingGun.description>
+
+  <Bullet_GatlingGun.label>пуля пулемёта Гатлинга</Bullet_GatlingGun.label>
+
+  <Turret_GatlingGun.label>турель пулемета Гатлинга</Turret_GatlingGun.label>
+  <Turret_GatlingGun.description>Простой автоматический пулемёт в лице управляемой турели. Чем дольше стреляет эта турель, тем больше скорость стрельбы. Может взорваться при повреждении.</Turret_GatlingGun.description>
+  <Turret_GatlingGun.comps.fuelLabel>Выстрелов до замены ствола</Turret_GatlingGun.comps.fuelLabel>
+  <Turret_GatlingGun.comps.fuelGizmoLabel>Прочность ствола</Turret_GatlingGun.comps.fuelGizmoLabel>
+  <Turret_GatlingGun.comps.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</Turret_GatlingGun.comps.outOfFuelMessage>
+
+</LanguageData>
