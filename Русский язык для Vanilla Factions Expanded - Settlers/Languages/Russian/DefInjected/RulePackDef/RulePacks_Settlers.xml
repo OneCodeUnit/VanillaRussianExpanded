@@ -1,17 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Settlers -->
-
   <!-- EN: r_name->The [Color] [TerrainFeature] Settlement -->
-  <NamerFactionSettler.rulePack.rulesStrings.0>r_name-&gt;The [Color] [TerrainFeature] Settlement</NamerFactionSettler.rulePack.rulesStrings.0>
-
-
-  <!-- Bandits -->
+  <NamerFactionSettler.rulePack.rulesStrings>
+    <li>r_name->[Color] [TerrainFeature_masc]</li>
+    <li>r_name->[Color_fem] [TerrainFeature_fem]</li>
+    <li>r_name->[Color_neutral] [TerrainFeature_neutral]</li>
+  </NamerFactionSettler.rulePack.rulesStrings>
 
   <!-- EN: r_name->The [Color] [TerrainFeature] Bandits -->
-  <NamerFactionBandits.rulePack.rulesStrings.0>r_name-&gt;The [Color] [TerrainFeature] Bandits</NamerFactionBandits.rulePack.rulesStrings.0>
-
-
-
+  <NamerFactionBandits.rulePack.rulesStrings>
+    <li>r_name->Банда [Color] [TerrainFeature_masc]</li>
+    <li>r_name->Банда [Color_fem] [TerrainFeature_fem]</li>
+    <li>r_name->Банда [Color_neutral] [TerrainFeature_neutral]</li>
+  </NamerFactionBandits.rulePack.rulesStrings>
 </LanguageData>
