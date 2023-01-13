@@ -1,47 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Double-Action Revolver -->
-
   <!-- EN: double-action revolver -->
-  <VFES_Gun_DoubleActionRevolver.label>double-action revolver</VFES_Gun_DoubleActionRevolver.label>
+  <VFES_Gun_DoubleActionRevolver.label>ковбойский револьвер</VFES_Gun_DoubleActionRevolver.label>
   <!-- EN: An ancient pattern double-action revolver. It's not very accurate, but has a decent firing speed for a pistol and is quick on the draw. -->
-  <VFES_Gun_DoubleActionRevolver.description>An ancient pattern double-action revolver. It's not very accurate, but has a decent firing speed for a pistol and is quick on the draw.</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.description>Старинный револьвер с УСМ двойного действия. Он не очень точен, но имеет приличную для пистолета скорость стрельбы и изготовку. Самое то для дуэлей.</VFES_Gun_DoubleActionRevolver.description>
   <!-- EN: grip -->
-  <VFES_Gun_DoubleActionRevolver.tools.0.label>grip</VFES_Gun_DoubleActionRevolver.tools.0.label>
+  <VFES_Gun_DoubleActionRevolver.tools.0.label>рукоять</VFES_Gun_DoubleActionRevolver.tools.0.label>
   <!-- EN: barrel -->
-  <VFES_Gun_DoubleActionRevolver.tools.1.label>barrel</VFES_Gun_DoubleActionRevolver.tools.1.label>
+  <VFES_Gun_DoubleActionRevolver.tools.1.label>ствол</VFES_Gun_DoubleActionRevolver.tools.1.label>
   <!-- EN: double-action revolver -->
-  <VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>double-action revolver</VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>
-
-
-  <!-- Double-Barreled Shotgun -->
+  <VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>ковбойский револьвер</VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>
 
   <!-- EN: double-barreled shotgun -->
-  <VFES_Gun_DoubleBarreledShotgun.label>double-barreled shotgun</VFES_Gun_DoubleBarreledShotgun.label>
+  <VFES_Gun_DoubleBarreledShotgun.label>двустволка</VFES_Gun_DoubleBarreledShotgun.label>
   <!-- EN: An ancient design of shotgun with two individually loaded barrels, that emits a tight-packed spray of pellets. -->
-  <VFES_Gun_DoubleBarreledShotgun.description>An ancient design of shotgun with two individually loaded barrels, that emits a tight-packed spray of pellets.</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.description>Старинный дробовик с двумя независимыми стволами, который выстреливает плотным облаком дробинок.</VFES_Gun_DoubleBarreledShotgun.description>
   <!-- EN: stock -->
-  <VFES_Gun_DoubleBarreledShotgun.tools.0.label>stock</VFES_Gun_DoubleBarreledShotgun.tools.0.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.0.label>приклад</VFES_Gun_DoubleBarreledShotgun.tools.0.label>
   <!-- EN: barrel -->
-  <VFES_Gun_DoubleBarreledShotgun.tools.1.label>barrel</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.1.label>ствол</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
   <!-- EN: double-barreled shotgun -->
-  <VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>double-barreled shotgun</VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>
-
-
-  <!-- Hunting Rifle -->
+  <VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>двустволка</VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>
 
   <!-- EN: hunting rifle -->
-  <VFES_Gun_HuntingRifle.label>hunting rifle</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.label>охотничья винтовка</VFES_Gun_HuntingRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle with a scope. With its exceptional range, and low fire rate, it is unlikely to drive animals to revenge, which makes it an excellent choice for hunting. -->
-  <VFES_Gun_HuntingRifle.description>An ancient pattern bolt-action rifle with a scope. With its exceptional range, and low fire rate, it is unlikely to drive animals to revenge, which makes it an excellent choice for hunting.</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.description>Старинная винтовка со скользящим затвором и оптическим прицелом. Благодаря исключительной дальности стрельбы и низкой скорострельности она вряд ли заставит животных мстить, что делает её отличным выбором для охоты.</VFES_Gun_HuntingRifle.description>
   <!-- EN: stock -->
-  <VFES_Gun_HuntingRifle.tools.0.label>stock</VFES_Gun_HuntingRifle.tools.0.label>
+  <VFES_Gun_HuntingRifle.tools.0.label>приклад</VFES_Gun_HuntingRifle.tools.0.label>
   <!-- EN: barrel -->
-  <VFES_Gun_HuntingRifle.tools.1.label>barrel</VFES_Gun_HuntingRifle.tools.1.label>
+  <VFES_Gun_HuntingRifle.tools.1.label>ствол</VFES_Gun_HuntingRifle.tools.1.label>
   <!-- EN: hunting rifle -->
-  <VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>hunting rifle</VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>
-
-
-
+  <VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>охотничья винтовка</VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>
 </LanguageData>
