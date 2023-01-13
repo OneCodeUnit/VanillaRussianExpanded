@@ -9,7 +9,7 @@
   <VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
     <li>questName->награда за голову: [nameFull] [nickname]</li>
     <li>questName->разыскивается живым или мертвым: [nickname]</li>
-		<li>questName->банда [nickname]</li>
+    <li>questName->банда [nickname]</li>
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name] приветствует нас и сообщает, что недалеко от нашего поселения прячется скандально известный [criminal_nameFull] из фракции [siteFaction_name].\n\n[asker_nameDef] просит доставить [nickname] в одно из поселений [asker_faction_name]. Наградой за это будет [bounty] единиц серебра за мёртвое тело и в два раза больше, если преступник будет приведён живым. [criminal_nameFull] прячется в убежище, которое, вероятно, охраняется.\n\nЕсли мы зачистим вражеский лагерь, [allRewardsDescriptions]</li>
   </VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
 
@@ -38,8 +38,7 @@
   <VFES_CaravanRaid.questNameRules.rulesStrings>
     <li>questName->[raid] на караван</li>
     <li>questName->[asker_nameDef] и [raid] на караван</li>
-
-		<li>raid->налёт</li>
+    <li>raid->налёт</li>
     <li>raid->атака</li>
     <li>raid->засада</li>
   </VFES_CaravanRaid.questNameRules.rulesStrings>
