@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: gatling gun -->
+  <Gun_GatlingGun.label>пулемёт Гатлинга</Gun_GatlingGun.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_GatlingGun.description>Простой автоматический пулемёт с возможностью стационарной установки.</Gun_GatlingGun.description>
+  <!-- EN: gatling gun -->
+  <Gun_GatlingGun.verbs.Verb_Shoot.label>пулемёт Гатлинга</Gun_GatlingGun.verbs.Verb_Shoot.label>
+
+  <!-- EN: gattling bullet -->
+  <Bullet_GatlingGun.label>пуля из пулемёта Гатлинга</Bullet_GatlingGun.label>
+
+  <!-- EN: gatling gun turret -->
+  <Turret_GatlingGun.label>стационарный пулемёт Гатлинга</Turret_GatlingGun.label>
+  <!-- EN: A portable, old time turret. Needs to be manned in order to be operated. Requires steel to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May explode when damaged. -->
+  <Turret_GatlingGun.description>Переносная турель старого образца. Управляет вручную. Ей требуется сталь для восстановления ствола после интенсивной стрельбы. Скорость стрельбы увеличивается тем сильнее, чем дольше пулемёт стреляет. Может взорваться при повреждении.</Turret_GatlingGun.description>
+  <!-- EN: Barrel durability -->
+  <Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_GatlingGun.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</Turret_GatlingGun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: safe house -->
+  <WantedHideout.label>убежище преступника</WantedHideout.label>
+  <!-- EN: A safe house for a wanted criminal. -->
+  <WantedHideout.description>Место, где прячется разыскиваемый преступник.</WantedHideout.description>
+  <!-- EN: Attacking {0} -->
+  <WantedHideout.approachingReportString>Нападает на {lookup: {0}; Case; 3}</WantedHideout.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <WantedHideout.approachOrderString>Напасть на {lookup: {0}; Case; 3}</WantedHideout.approachOrderString>
+  <!-- EN: There is an enemy outpost in this area. -->
+  <WantedHideout.arrivedLetter>В этом месте расположен вражеский лагерь.</WantedHideout.arrivedLetter>
+</LanguageData>

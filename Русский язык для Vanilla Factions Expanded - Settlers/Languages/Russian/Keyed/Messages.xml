@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Raid caravan from {0} -->
+  <CaravanRaidLabel>Налёт на караван из {0}</CaravanRaidLabel>
+  <!-- EN: You have received information of a caravan from {0} that has set up camp nearby. Now would be a good time to raid it, but be aware that caravans are usually guarded. -->
+  <CaravanRaidDialogue>Вы получили информацию о караване из фракции {0}, который разбил лагерь неподалёку. Сейчас, возможно, самый удачный момент, чтобы ограбить его, но не сомневайтесь: караван хорошо охраняется.</CaravanRaidDialogue>
+  <!-- EN: Wanted by {0} -->
+  <WantedLabel>{0} разыскивает</WantedLabel>
+  <!-- EN: {0} has put up a bounty for {PAWN_nameDef}, a most vile criminal with many atrocities under {PAWN_possessive} name. {PAWN_nameDef} from {1} is wanted for {2} silver if delivered dead, double if delivered alive to one of {0}'s settlements. -->
+  <WantedDialogue>{0} назначает награду за голову {PAWN_nameDef} из {1} — жесткого преступника, совершившего немало злодеяний. Награда за {PAWN_possessive} голову составляет {2} единиц серебра за мёртвое тело и в два раза больше, если доставить {PAWN_possessive} в одно из поселений фракции {0} живым.</WantedDialogue>
+  <!-- EN: Turn in {PAWN_nameDef} -->
+  <WantedTurnIn>Сдать {PAWN_nameDef}</WantedTurnIn>
+  <!-- EN: Turn in the corpse of {PAWN_nameDef} for a reward. -->
+  <WantedTurnInDescDead>Получить награду за тело {PAWN_nameDef}.</WantedTurnInDescDead>
+  <!-- EN: Turn in the criminal {PAWN_nameDef} for a reward. -->
+  <WantedTurnInDescAlive>Получить награду за {PAWN_nameDef}.</WantedTurnInDescAlive>
+  <!-- EN: Turned in {PAWN_nameDef}. -->
+  <WantedTurnInLabel>{PAWN_nameDef} доставлен</WantedTurnInLabel>
+  <!-- EN: You've turned in the corpse of {PAWN_nameDef} for {0} silver. -->
+  <WantedTurnInMessageDead>Вы получили {0} единиц серебра за тело {PAWN_nameDef}.</WantedTurnInMessageDead>
+  <!-- EN: You've turned in criminal {PAWN_nameDef} alive for {0} silver. -->
+  <WantedTurnInMessageAlive>Вы получили {0} единиц серебра за доставку {PAWN_nameDef} живым.</WantedTurnInMessageAlive>
+  <!-- EN: Wanted by {0} for {1} silver -->
+  <WantedHediff>Назначена награда {1} единиц серебра фракцией {0}</WantedHediff>
+  <!-- EN: Default Settings -->
+  <DefaultSettings>Настройки по умолчанию</DefaultSettings>
+  <!-- EN: Minimum reward for bounties: {0} -->
+  <MinReward>Минимальное вознаграждение: {0}</MinReward>
+  <!-- EN: Maximum reward for bounties: {0} -->
+  <MaxReward>Максимальное вознаграждение: {0}</MaxReward>
+  <!-- EN: Should muffalo go for your chemshine: {0} -->
+  <Chemsined>Должны ли муффало приходить за вашим химогоном: {0}</Chemsined>
+  <!-- EN: Protection fee -->
+  <ProtectionFeeLabel>Плата за защиту</ProtectionFeeLabel>
+  <!-- EN: A band of thugs sent by {0} call you from nearby. \n\n They offer to keep your colony safe from any threats, even the ones potentially caused by them, as long as you pay a fee of {1} silver. \n\n Be warned - refusal can anger the thugs.  -->
+  <ProtectionFeeDialogue>Поступил вызов от группы бандитов из фракции {0}.\n\nОни расположились неподалёку и предлагают защиту от любых угроз, в том числе, от них самих, до тех пор пока вы будете платить {1} единиц серебра.\n\nИмейте ввиду — отказ может их разозлить.</ProtectionFeeDialogue>
+  <!-- EN: Accept the offer and pay -->
+  <ProtectionFeeAgree>Принять предложение и заплатить</ProtectionFeeAgree>
+  <!-- EN: The thugs from {0} seem happy with the deal and cut the communication. -->
+  <ProtectionFeeAgreeDialogue>Бандиты из фракции {0} выглядят довольными сделкой и отключаются.</ProtectionFeeAgreeDialogue>
+  <!-- EN: Refuse the offer -->
+  <ProtectionFeeDisagree>Отклонить предложение</ProtectionFeeDisagree>
+  <!-- EN: The thugs from {0} seem happy about you refusing their offer and cut the communication right after assuring you that they cannot guarantee your safety. -->
+  <ProtectionFeeDisagreeDialogue>Бандиты из {0} выглядят довольными вашим отказом и отключаются, предупредив напоследок, что не гарантируют вашу безопасность.</ProtectionFeeDisagreeDialogue>
+  <!-- EN: Not enough silver -->
+  <ProtectionFeeNotEnoughSilver>Недостаточно серебра</ProtectionFeeNotEnoughSilver>
+  <!-- EN: Chemshined Muffalos -->
+  <DrunkMuffaloTitle>Пьяные муффало</DrunkMuffaloTitle>
+  <!-- EN: A small herd of muffalos have arrived in the area. It would seem they have found a secret stash of chemshine earlier, making them crave it even more. Watch out for their drunken shenanigans. -->
+  <DrunkMuffaloMessage>Небольшое стадо муффало забрело в этот район. Похоже, они где-то нашли тайник с химогоном. И они хотят ещё! Остерегайтесь их пьяных проделок.</DrunkMuffaloMessage>
+
+  <!-- EN: Contains {0} / {1} chemfuel. -->
+  <ContainsChemfuel>Содержит {0} / {1} химтоплива.</ContainsChemfuel>
+  <!-- EN: Contains {0} / {1} chemshine. -->
+  <ContainsChemshine>Содержит {0} / {1} химогона.</ContainsChemshine>
+  <!-- EN: need chemfuel -->
+  <NoChemfuel>нужно химтопливо</NoChemfuel>
+
+  <!-- EN: Chemfuel -->
+  <VFES_InsertFirstItemDesc>Химтопливо</VFES_InsertFirstItemDesc>
+  <!-- EN: Bring chemfuel -->
+  <VFES_bringIngredientsText>Принести химтопливо</VFES_bringIngredientsText>
+  <!-- EN: Bring chemfuel to the chemsine barrel to start fermentation -->
+  <VFES_bringIngredientsDesc>Приносить химтопливо в бочку для химогона для брожения</VFES_bringIngredientsDesc>
+  <!-- EN: Cancel bringing chemfuel -->
+  <VFES_cancelIngredientsText>Не приносить химтопливо</VFES_cancelIngredientsText>
+  <!-- EN: Cancel bringing chemfuel to the chemsine barrel. -->
+  <VFES_cancelIngredientsDesc>Отменить доставку химтоплива в бочку для химогона.</VFES_cancelIngredientsDesc>
+  <!-- EN: Remove chemsine -->
+  <VFES_removeProductText>Забрать химогон</VFES_removeProductText>
+  <!-- EN: Remove chemsine from the chemsine barrel. -->
+  <VFES_removeProductDesc>Забрать химогон из бочки.</VFES_removeProductDesc>
+
+  <!-- EN: Bounty target -->
+  <VFES_Target>Цель охоты за головами</VFES_Target>
+  <!-- EN: The bounty target {0} has been located at this outpost. -->
+  <VFES_TargetDesc>Здесь находится {0} — цель охоты за головами.</VFES_TargetDesc>
+</LanguageData>
