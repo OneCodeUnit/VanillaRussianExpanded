@@ -1,16 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <NamerFactionSettler.rulePack.rulesFiles>
+    <li>STColor->Words/Colors</li>
+    <li>STColor_fem->Words/Colors_Female</li>
+    <li>STColor_neutral->Words/Colors_Neutral</li>
+    <li>STTerrainFeature_masc->Words/TerrainFeatures_Masc</li>
+    <li>STTerrainFeature_fem->Words/TerrainFeatures_Fem</li>
+    <li>STTerrainFeature_neutral->Words/TerrainFeatures_Neutral</li>
+  </NamerFactionSettler.rulePack.rulesFiles>
+
   <!-- EN: r_name->The [Color] [TerrainFeature] Settlement -->
   <NamerFactionSettler.rulePack.rulesStrings>
-    <li>r_name->[Color] [TerrainFeature_masc]</li>
-    <li>r_name->[Color_fem] [TerrainFeature_fem]</li>
-    <li>r_name->[Color_neutral] [TerrainFeature_neutral]</li>
+    <li>r_name->[STColor] [STTerrainFeature_masc]</li>
+    <li>r_name->[STColor_fem] [STTerrainFeature_fem]</li>
+    <li>r_name->[STColor_neutral] [STTerrainFeature_neutral]</li>
   </NamerFactionSettler.rulePack.rulesStrings>
+
+
+
+  <NamerFactionSettler.rulePack.rulesFiles>
+    <li>STColor_gen->Words/Colors_Genitive</li>
+    <li>STColor_fem_gen->Words/Colors_Female_Genitive</li>
+    <li>STTerrainFeature_gen->TerrainFeatures_Genitive</li>
+    <li>STTerrainFeature_gen_fem->TerrainFeatures_Genitive_Female</li>
+  </NamerFactionSettler.rulePack.rulesFiles>
 
   <!-- EN: r_name->The [Color] [TerrainFeature] Bandits -->
   <NamerFactionBandits.rulePack.rulesStrings>
-    <li>r_name->Банда [Color] [TerrainFeature_masc]</li>
-    <li>r_name->Банда [Color_fem] [TerrainFeature_fem]</li>
-    <li>r_name->Банда [Color_neutral] [TerrainFeature_neutral]</li>
+    <li>r_name->Банда [STColor_gen] [STTerrainFeature_gen]</li>
+    <li>r_name->Банда [STColor_fem_gen] [STTerrainFeature_gen_fem]</li>
   </NamerFactionBandits.rulePack.rulesStrings>
 </LanguageData>
