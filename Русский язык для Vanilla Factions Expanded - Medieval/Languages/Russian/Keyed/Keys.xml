@@ -2,49 +2,81 @@
 <LanguageData>
 
   <!-- Wine barrel -->
+  <!-- EN: Must to Insert -->
   <VanillaFactionsExpanded.Wine.InsertFirstItemDesc>Must to Insert</VanillaFactionsExpanded.Wine.InsertFirstItemDesc>
+  <!-- EN: Bring must -->
   <VanillaFactionsExpanded.Wine.bringIngredientsText>Bring must</VanillaFactionsExpanded.Wine.bringIngredientsText>
+  <!-- EN: Bring wine must to the wine barrel to start fermentation -->
   <VanillaFactionsExpanded.Wine.bringIngredientsDesc>Bring wine must to the wine barrel to start fermentation</VanillaFactionsExpanded.Wine.bringIngredientsDesc>
+  <!-- EN: Cancel bringing must -->
   <VanillaFactionsExpanded.Wine.cancelIngredientsText>Cancel bringing must</VanillaFactionsExpanded.Wine.cancelIngredientsText>
+  <!-- EN: Cancel bringing wine must to the wine barrel. -->
   <VanillaFactionsExpanded.Wine.cancelIngredientsDesc>Cancel bringing wine must to the wine barrel.</VanillaFactionsExpanded.Wine.cancelIngredientsDesc>
+  <!-- EN: Remove wine ({0}) -->
   <VanillaFactionsExpanded.Wine.removeProductText>Remove wine ({0})</VanillaFactionsExpanded.Wine.removeProductText>
+  <!-- EN: Remove wine from the wine barrel. The barrel will be ready at the present quality level ({0}) -->
   <VanillaFactionsExpanded.Wine.removeProductDesc>Remove wine from the wine barrel. The barrel will be ready at the present quality level ({0})</VanillaFactionsExpanded.Wine.removeProductDesc>
 
 
   <!-- Smoker -->
+  <!-- EN: Meat to Insert -->
   <VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>Meat to Insert</VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>
+  <!-- EN: Bring meat -->
   <VanillaFactionsExpanded.Smoker.bringIngredientsText>Bring meat</VanillaFactionsExpanded.Smoker.bringIngredientsText>
+  <!-- EN: Bring meat to the Smoker to start smoking -->
   <VanillaFactionsExpanded.Smoker.bringIngredientsDesc>Bring meat to the Smoker to start smoking</VanillaFactionsExpanded.Smoker.bringIngredientsDesc>
+  <!-- EN: Cancel bringing meat -->
   <VanillaFactionsExpanded.Smoker.cancelIngredientsText>Cancel bringing meat</VanillaFactionsExpanded.Smoker.cancelIngredientsText>
+  <!-- EN: Cancel bringing meat to the Smoker. -->
   <VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>Cancel bringing meat to the Smoker.</VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>
 
   <!-- Tournaments -->
+  <!-- EN: The tournament will last {0} days. -->
   <VanillaFactionsExpanded.TournamentDurationDays>The tournament will last {0} days.</VanillaFactionsExpanded.TournamentDurationDays>
+  <!-- EN: Prize: {0} ({1} left) -->
   <VanillaFactionsExpanded.MedievalTournamentInspectString>Prize: {0} ({1} left)</VanillaFactionsExpanded.MedievalTournamentInspectString>
 
+  <!-- EN: Attend {0} -->
   <VanillaFactionsExpanded.AttendMedievalTournament>Attend {0}</VanillaFactionsExpanded.AttendMedievalTournament>
+  <!-- EN: Attending {0} -->
   <VanillaFactionsExpanded.CaravanAttending>Attending {0}</VanillaFactionsExpanded.CaravanAttending>
 
+  <!-- EN: This tournament is being hosted by {0} of {1}, and the category is {2}. There are {3} other competitors in this tournament, all eager to have a chance at winning the following prizes:\n\n{4} -->
   <VanillaFactionsExpanded.MedievalTournamentInitial>This tournament is being hosted by {0} of {1}, and the category is {2}. There are {3} other competitors in this tournament, all eager to have a chance at winning the following prizes:\n\n{4}</VanillaFactionsExpanded.MedievalTournamentInitial>
 
+  <!-- EN: Participate -->
   <VanillaFactionsExpanded.Participate>Participate</VanillaFactionsExpanded.Participate>
+  <!-- EN: You have chosen to participate in this tournament. Name your champion: -->
   <VanillaFactionsExpanded.ParticipateInitial>You have chosen to participate in this tournament. Name your champion:</VanillaFactionsExpanded.ParticipateInitial>
+  <!-- EN: odds -->
   <VanillaFactionsExpanded.PredictedPerformance>odds</VanillaFactionsExpanded.PredictedPerformance>
+  <!-- EN: cannot participate -->
   <VanillaFactionsExpanded.CannotParticipate>cannot participate</VanillaFactionsExpanded.CannotParticipate>
 
+  <!-- EN: Tournament won -->
   <VanillaFactionsExpanded.TournamentWinLetter>Tournament won</VanillaFactionsExpanded.TournamentWinLetter>
+  <!-- EN: Congratulations, {PAWN_labelShort} has finished {0} out of {1} in the tournament! You have gained goodwill with {2} and won the following prizes:\n\n{3} -->
   <VanillaFactionsExpanded.TournamentWinLetter_Text>Congratulations, {PAWN_labelShort} has finished {0} out of {1} in the tournament! You have gained goodwill with {2} and won the following prizes:\n\n{3}</VanillaFactionsExpanded.TournamentWinLetter_Text>
 
+  <!-- EN: Tournament lost -->
   <VanillaFactionsExpanded.TournamentLossLetter>Tournament lost</VanillaFactionsExpanded.TournamentLossLetter>
+  <!-- EN: {PAWN_labelShort} was unfortunately not able to win the tournament this time. {PAWN_pronoun} finished {0} out of {1} place. -->
   <VanillaFactionsExpanded.TournamentLossLetter_Text>{PAWN_labelShort} was unfortunately not able to win the tournament this time. {PAWN_pronoun} finished {0} out of {1} place.</VanillaFactionsExpanded.TournamentLossLetter_Text>
 
+  <!-- EN: Tournament cancelled -->
   <VanillaFactionsExpanded.TournamentCancelledLetter>Tournament cancelled</VanillaFactionsExpanded.TournamentCancelledLetter>
+  <!-- EN: The tournament had to be cancelled due to an incident. -->
   <VanillaFactionsExpanded.TournamentCancelledLetter_Text>The tournament had to be cancelled due to an incident.</VanillaFactionsExpanded.TournamentCancelledLetter_Text>
 
+  <!-- EN: {PAWN_labelShort} has gained {0} experience. -->
   <VanillaFactionsExpanded.TournamentExpGains>{PAWN_labelShort} has gained {0} experience.</VanillaFactionsExpanded.TournamentExpGains>
+  <!-- EN: Round {0}: {1} -->
   <VanillaFactionsExpanded.LogEntryLine>Round {0}: {1}</VanillaFactionsExpanded.LogEntryLine>
 
+  <!-- EN: Leave -->
   <VanillaFactionsExpanded.Leave>Leave</VanillaFactionsExpanded.Leave>
+  <!-- EN: Black plague spreaded. {PAWN_nameDef} got infected with it. Consider quarantine for infected pawns. -->
   <VFEM.BlackPlagueSpreadedFurther>Black plague spreaded. {PAWN_nameDef} got infected with it. Consider quarantine for infected pawns.</VFEM.BlackPlagueSpreadedFurther>
+
 
 </LanguageData>
