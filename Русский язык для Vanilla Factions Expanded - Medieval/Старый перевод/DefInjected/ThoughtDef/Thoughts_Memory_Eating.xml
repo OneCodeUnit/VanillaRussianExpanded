@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_DrankWine.stages.0.label>{PAWN_gender ? Выпил : Выпила} ужасное вино</VFEM_DrankWine.stages.0.label>
+  <VFEM_DrankWine.stages.0.description>Я {PAWN_gender ? выпил : выпила} немного сусла, которое едва успело забродить. Отвратительно.</VFEM_DrankWine.stages.0.description>
+
+  <VFEM_DrankWine.stages.1.label>{PAWN_gender ? Выпил : Выпила} плохое вино</VFEM_DrankWine.stages.1.label>
+  <VFEM_DrankWine.stages.1.description>У этого вина могло быть еще несколько дней для брожения.</VFEM_DrankWine.stages.1.description>
+
+  <VFEM_DrankWine.stages.2.label>{PAWN_gender ? Выпил : Выпила} обычное вино</VFEM_DrankWine.stages.2.label>
+
+  <VFEM_DrankWine.stages.3.label>{PAWN_gender ? Выпил : Выпила} хорошее вино</VFEM_DrankWine.stages.3.label>
+  <VFEM_DrankWine.stages.3.description>Я {PAWN_gender ? Выпил : Выпила} хорошее вино.</VFEM_DrankWine.stages.3.description>
+
+  <VFEM_DrankWine.stages.4.label>{PAWN_gender ? Выпил : Выпила} отличное вино</VFEM_DrankWine.stages.4.label>
+  <VFEM_DrankWine.stages.4.description>Я {PAWN_gender ? Выпил : Выпила} отличное вино.</VFEM_DrankWine.stages.4.description>
+
+  <VFEM_DrankWine.stages.5.label>{PAWN_gender ? Выпил : Выпила} шедевральное вино</VFEM_DrankWine.stages.5.label>
+  <VFEM_DrankWine.stages.5.description>Это вино было просто восхитительным!</VFEM_DrankWine.stages.5.description>
+
+  <VFEM_DrankWine.stages.6.label>{PAWN_gender ? Выпил : Выпила} легендарное вино</VFEM_DrankWine.stages.6.label>
+  <VFEM_DrankWine.stages.6.description>Я {PAWN_gender ? Выпил : Выпила}, возможно, лучшее вино, которое я когда-либо {PAWN_gender ? пробовал : пробовала}!</VFEM_DrankWine.stages.6.description>
+
+</LanguageData>

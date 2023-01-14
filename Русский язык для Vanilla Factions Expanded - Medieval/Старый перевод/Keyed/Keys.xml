@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Wine barrel -->
+    <VanillaFactionsExpanded.Wine.InsertFirstItemDesc>Выбор сусла</VanillaFactionsExpanded.Wine.InsertFirstItemDesc>
+    <VanillaFactionsExpanded.Wine.bringIngredientsText>Принести сусло</VanillaFactionsExpanded.Wine.bringIngredientsText>
+    <VanillaFactionsExpanded.Wine.bringIngredientsDesc>Принести сусло к винной бочке, чтобы начать процесс брожения.</VanillaFactionsExpanded.Wine.bringIngredientsDesc>
+    <VanillaFactionsExpanded.Wine.cancelIngredientsText>Отменить доставку сусла</VanillaFactionsExpanded.Wine.cancelIngredientsText>
+    <VanillaFactionsExpanded.Wine.cancelIngredientsDesc>Отмена доставки сусла к винной бочке.</VanillaFactionsExpanded.Wine.cancelIngredientsDesc>
+    <VanillaFactionsExpanded.Wine.removeProductText>Извлечь вино ({0})</VanillaFactionsExpanded.Wine.removeProductText>
+    <VanillaFactionsExpanded.Wine.removeProductDesc>Извлечь вино из бочки. Вино этой бочки будет готово на уровне качества: ({0})</VanillaFactionsExpanded.Wine.removeProductDesc>
+
+	<!-- Smoker -->
+    <VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>Выбор мяса</VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>
+    <VanillaFactionsExpanded.Smoker.bringIngredientsText>Принести мясо</VanillaFactionsExpanded.Smoker.bringIngredientsText>
+    <VanillaFactionsExpanded.Smoker.bringIngredientsDesc>Принести мясо к коптильне, чтобы начать процесс копчения.</VanillaFactionsExpanded.Smoker.bringIngredientsDesc>
+    <VanillaFactionsExpanded.Smoker.cancelIngredientsText>Отменить доставку мяса</VanillaFactionsExpanded.Smoker.cancelIngredientsText>
+    <VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>Отмена доставки мяса к коптильне.</VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>
+
+    <!-- Tournaments -->
+    <VanillaFactionsExpanded.TournamentDurationDays>Турнир продлится {0} дней.</VanillaFactionsExpanded.TournamentDurationDays>
+    <VanillaFactionsExpanded.MedievalTournamentInspectString>Приз: {0} (осталось {1})</VanillaFactionsExpanded.MedievalTournamentInspectString>
+
+    <VanillaFactionsExpanded.AttendMedievalTournament>Посетить {0}</VanillaFactionsExpanded.AttendMedievalTournament>
+    <VanillaFactionsExpanded.CaravanAttending>Посещает {0}</VanillaFactionsExpanded.CaravanAttending>
+
+    <VanillaFactionsExpanded.MedievalTournamentInitial>Этот турнир проводится {0} из {1}, категория: {2}. В этом турнире участвуют ещё {3} других участников, и все они хотят иметь шанс выиграть следующие призы:\n\n{4}</VanillaFactionsExpanded.MedievalTournamentInitial>
+
+    <VanillaFactionsExpanded.Participate>Принять участие</VanillaFactionsExpanded.Participate>
+    <VanillaFactionsExpanded.ParticipateInitial>Вы приняли участие в этом турнире. Выберите своего будущего чемпиона:</VanillaFactionsExpanded.ParticipateInitial>
+    <VanillaFactionsExpanded.PredictedPerformance>шансы</VanillaFactionsExpanded.PredictedPerformance>
+    <VanillaFactionsExpanded.CannotParticipate>невозможно участвовать</VanillaFactionsExpanded.CannotParticipate>
+
+    <VanillaFactionsExpanded.TournamentWinLetter>Турнир выигран!</VanillaFactionsExpanded.TournamentWinLetter>
+    <VanillaFactionsExpanded.TournamentWinLetter_Text>Поздравляем, {PAWN_labelShort} завершил(а) турнир, будучи на {0} месте из {1}! Вы приобрели дополнительную репутацию с {2} и выиграли следующие призы:\n\n{3}</VanillaFactionsExpanded.TournamentWinLetter_Text>
+
+    <VanillaFactionsExpanded.TournamentLossLetter>Турнир проигран</VanillaFactionsExpanded.TournamentLossLetter>
+    <VanillaFactionsExpanded.TournamentLossLetter_Text>К сожалению, на этот раз {PAWN_labelShort} не смог(ла) выиграть турнир. {PAWN_pronoun} завершил(а) турнир, будучи на {0} месте из {1}.</VanillaFactionsExpanded.TournamentLossLetter_Text>
+
+    <VanillaFactionsExpanded.TournamentCancelledLetter>Турнир отменён</VanillaFactionsExpanded.TournamentCancelledLetter>
+    <VanillaFactionsExpanded.TournamentCancelledLetter_Text>Турнир пришлось отменить из-за инцидента.</VanillaFactionsExpanded.TournamentCancelledLetter_Text>
+
+    <VanillaFactionsExpanded.TournamentExpGains>{PAWN_labelShort} получил(а) {0} опыта.</VanillaFactionsExpanded.TournamentExpGains>
+    <VanillaFactionsExpanded.LogEntryLine>Раунд {0}: {1}</VanillaFactionsExpanded.LogEntryLine>
+
+    <VanillaFactionsExpanded.Leave>Покинуть</VanillaFactionsExpanded.Leave>
+
+	<VFEM.BlackPlagueSpreadedFurther>Распространение чумы! {PAWN_nameDef} заразился(лась) ею. Подумайте о карантине для зараженных пешек.</VFEM.BlackPlagueSpreadedFurther>
+
+</LanguageData>

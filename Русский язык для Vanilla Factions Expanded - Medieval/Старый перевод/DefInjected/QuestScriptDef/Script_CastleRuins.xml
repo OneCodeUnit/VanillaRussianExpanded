@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>questName(priority=1)->[journey] [asker_nameDef] у [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>questName->[stash] около [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>journey->Путешествие</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>journey->Экспедиция</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>journey->Охота за сокровищами</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>journey->Авантюра</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>ruins->Руин замка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>ruins->Разрушенной крепости</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>ruins->Разрушенного замка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>ruins->Уничтоженного замка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>ruins->Пустых владений</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>stash->Тайник</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>stash->Запасы</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>stash->Сокровище</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>ruins->Руин</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>ruins->Разрушенного замка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>ruins->Разрушенных владений</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>
+
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->Мы перехватили сообщения о развалинах заброшенного замка, в которых есть сокровища недалеко от [map_definite].\n\nКажется, что [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] из [asker_faction_name], сообщил(а) нам о некоторых руинах заброшенного замка, недалеко от нас, в которых могут быть сокровища. Никто не знает, что случилось с предыдущими обитателями, но мы всё ещё можем собрать то, что осталось.\n\n[asker_label] говорит, что [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>
+
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>Срок действия квеста истёк: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>Перехваченные сообщения указывают на то, что разрушенный замок был разграблен другими людьми. Срок действия [resolvedQuestName] истёк.</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>
+
+</LanguageData>

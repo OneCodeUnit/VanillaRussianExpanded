@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>questName->Схватка</VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->[asker_nameDef], [asker_faction_leaderTitle] из [asker_faction_name] передаёт, что [asker_possessive] войска столкнулись с врагами и хотят сразиться с ними в открытом бою.\nУ [asker_nameDef] нет подкреплений или помощи, и они передают, что если вы успеете сделать помочь вовремя, вы окажете большую услугу для [asker_faction_name].</VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>Срок действия квеста истёк: [resolvedQuestName]</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>Битва окончена. Срок действия [resolvedQuestName] истёк.</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>Враг побеждён.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>Все враги в области побеждены.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>
+
+</LanguageData>
