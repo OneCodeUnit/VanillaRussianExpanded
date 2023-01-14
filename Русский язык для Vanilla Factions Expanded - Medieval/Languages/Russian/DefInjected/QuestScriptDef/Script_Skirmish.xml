@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>questName-&gt;Skirmish</VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] forces encountered an enemy and want to battle them in an open field.
+\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it in time, you will be doing them a great favor.</VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.root.nodes.6.node.name>siteThreatChance</VFE_OpportunitySite_Skirmish.root.nodes.6.node.name>
+  <VFE_OpportunitySite_Skirmish.root.nodes.6.elseNode.name>siteThreatChance</VFE_OpportunitySite_Skirmish.root.nodes.6.elseNode.name>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text> The battle has resolved. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>Enemy defeated.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>All enemies in the area have been defeated.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>
+
+
+</LanguageData>

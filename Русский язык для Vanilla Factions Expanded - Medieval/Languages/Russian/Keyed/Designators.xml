@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DesignatorDigTerrain>Dig terrain</DesignatorDigTerrain>
+  <DesignatorDigTerrainDesc>Designate moatable terrain to be dug.</DesignatorDigTerrainDesc>
+  <DesignatorFillTerrain>Fill terrain</DesignatorFillTerrain>
+  <DesignatorFillTerrainDesc>Designate moatable terrain to be filled.</DesignatorFillTerrainDesc>
+  <TerrainBeingDug>The surface is already marked for digging.</TerrainBeingDug>
+  <TerrainBeingFilled>The surface is already marked for filling.</TerrainBeingFilled>
+  <MessageMustDesignateMoatableTerrain>Must designate moatable terrain.</MessageMustDesignateMoatableTerrain>
+  <AtDeepestLevel>Can't dig deeper, already at the lowest level.</AtDeepestLevel>
+  <AtHighestLevel>Can't fill more, already at highest level.</AtHighestLevel>
+  <CantFillWater>There's too much water, consider using a pump.</CantFillWater>
+
+</LanguageData>

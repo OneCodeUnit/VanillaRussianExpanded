@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+    <identifier>VanillaFactionsExpandedMedieval</identifier>
+    <version>1.0.5.0</version>
+    <dependencies>
+        <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    </dependencies>
+    <loadAfter>
+        <li>[1.0]RimCuisine2Core</li>
+        <li>[1.0]RimCuisine2:BottlingandBoozeExpansion</li>
+        <li>VanillaWeaponsExpanded</li>
+    </loadAfter>
+    <!-- <manifestUri></manifestUri>
+    <downloadUri></downloadUri> -->
+</Manifest>

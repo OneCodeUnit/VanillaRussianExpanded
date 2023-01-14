@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[asker_nameDef]'s [journey] to the [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>questName-&gt;[stash] in the [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>journey-&gt;Journey</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>journey-&gt;Expedition</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>journey-&gt;Treasure hunt</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>journey-&gt;Adventure</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>ruins-&gt;Castle ruins</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>ruins-&gt;Ruined fortress</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>ruins-&gt;Destroyed castle</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>ruins-&gt;Ruined castle</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>ruins-&gt;Empty hold</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>stash-&gt;Stash</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>stash-&gt;Stockpile</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>stash-&gt;Treasure</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>ruins-&gt;Ruins</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>ruins-&gt;Ruined castle</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>ruins-&gt;Destroyed hold</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)-&gt;We've intercepted messages about an abandoned castle ruins that contain treasure not far from [map_definite].\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)-&gt;[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of some abandoned castle ruins that may contain treasure not far from us. Noone knows what happened to previous inhabitants, but we might still be able to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.3.name>asker</VFEM_OpportunitySite_CastleRuins.root.nodes.3.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.3.elseNode.nodes.0.name>askerIsNull</VFEM_OpportunitySite_CastleRuins.root.nodes.3.elseNode.nodes.0.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.5.node.name>siteThreatChance</VFEM_OpportunitySite_CastleRuins.root.nodes.5.node.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.5.elseNode.name>siteThreatChance</VFEM_OpportunitySite_CastleRuins.root.nodes.5.elseNode.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>Intercepted communications indicate the ruined castle has been scavenged by others. The quest [resolvedQuestName] has expired.</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>
+
+
+</LanguageData>
