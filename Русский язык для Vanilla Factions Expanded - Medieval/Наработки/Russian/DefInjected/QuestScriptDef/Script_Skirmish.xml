@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<QuestScriptDef>
+		<defName>VFE_OpportunitySite_Skirmish</defName>
+		<rootSelectionWeight>0.8</rootSelectionWeight>
+		<rootMinPoints>100</rootMinPoints>
+		<rootIncreasesPopulation>true</rootIncreasesPopulation>
+		<autoAccept>true</autoAccept>
+		<questNameRules>
+			<rulesStrings>
+				<li>questName->Skirmish</li>
+			</rulesStrings>
+		</questNameRules>
+		<questDescriptionRules>
+			<rulesStrings>
+				<!-- Faction leader asker -->
+				<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] forces encountered an enemy and want to battle them in an open field.
+\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it in time, you will be doing them a great favor.</li>
+			</rulesStrings>
+		</questDescriptionRules>
+
+		<root Class="QuestNode_Sequence">
+			<nodes>
+				<li Class="QuestNode_SubScript">
+					<def>Util_RandomizePointsChallengeRating</def>
+					<parms>
+						<pointsFactorTwoStar>1.5</pointsFactorTwoStar>
+						<pointsFactorThreeStar>2</pointsFactorThreeStar>
+					</parms>
+				</li>
+				<li Class="QuestNode_SubScript">
+					<def>Util_GetDefaultRewardValueFromPoints</def>
+				</li>
+				<li Class="QuestNode_SubScript">
+					<def>Util_AdjustPointsForDistantFight</def>
+				</li>
+				<li Class="QuestNode_GetMap" />
+
+				<li Class="QuestNode_RandomNode">
+					<nodes>
+						<li Class="QuestNode_GetPawn">
+							<storeAs>asker</storeAs>
+							<mustBeFactionLeader>true</mustBeFactionLeader>
+							<mustBeNonHostileToPlayer>true</mustBeNonHostileToPlayer>
+							<hostileWeight>0.15</hostileWeight>
+							<selectionWeight>0.3</selectionWeight>
+						</li>
+					</nodes>
+				</li>
+
+				<li Class="QuestNode_GetSiteTile">
+					<storeAs>siteTile</storeAs>
+					<preferCloserTiles>true</preferCloserTiles>
+				</li>
+
+				<li Class="QuestNode_ViolentQuestsAllowed">
+					<node Class="QuestNode_Set">
+						<name>siteThreatChance</name>
+						<value>0.7</value>
+					</node>
+					<elseNode Class="QuestNode_Set">
+						<name>siteThreatChance</name>
+						<value>0</value>
+					</elseNode>
+				</li>
+
+				<li Class="QuestNode_GetSitePartDefsByTagsAndFaction">
+					<storeAs>sitePartDefs</storeAs>
+					<storeFactionAs>siteFaction</storeFactionAs>
+					<sitePartsTags>
+						<li>
+							<tag>VFE_Skirmish</tag>
+						</li>
+					</sitePartsTags>
+				</li>
+
+				<li Class="QuestNode_GetDefaultSitePartsParams">
+					<tile>$siteTile</tile>
+					<faction>$siteFaction</faction>
+					<sitePartDefs>$sitePartDefs</sitePartDefs>
+					<storeSitePartsParamsAs>sitePartsParams</storeSitePartsParamsAs>
+				</li>
+
+				<li Class="QuestNode_SubScript">
+					<def>Util_GenerateSite</def>
+					<parms>
+						<hiddenSitePartsPossible>true</hiddenSitePartsPossible>
+					</parms>
+				</li>
+
+				<li Class="QuestNode_SpawnWorldObjects">
+					<worldObjects>$site</worldObjects>
+				</li>
+
+				<li Class="QuestNode_WorldObjectTimeout">
+					<worldObject>$site</worldObject>
+					<isQuestTimeout>true</isQuestTimeout>
+					<delayTicks>$(randInt(7,15)*60000)</delayTicks>
+					<inSignalDisable>site.MapGenerated</inSignalDisable>
+					<node Class="QuestNode_Sequence">
+						<nodes>
+							<li Class="QuestNode_Letter">
+								<label TKey="LetterLabelQuestExpired">Quest expired: [resolvedQuestName]</label>
+								<text TKey="LetterTextQuestExpired"> The battle has resolved. The quest [resolvedQuestName] has expired.</text>
+							</li>
+							<li Class="QuestNode_End">
+								<outcome>Fail</outcome>
+							</li>
+						</nodes>
+					</node>
+				</li>
+
+				<li Class="QuestNode_NoWorldObject">
+					<worldObject>$site</worldObject>
+					<node Class="QuestNode_End" />
+				</li>
+
+				<li Class="QuestNode_Signal">
+					<inSignal>site.AllEnemiesDefeated</inSignal>
+					<node Class="QuestNode_Sequence">
+						<nodes>
+							<li Class="QuestNode_Letter">
+								<label TKey="LetterLabelEnemiesAreDefeated">Enemy defeated.</label>
+								<text TKey="LetterTextEnemiesAreDefeated">All enemies in the area have been defeated.</text>
+							</li>
+						</nodes>
+					</node>
+				</li>
+				<li Class="QuestNode_End">
+					<inSignal>site.AllEnemiesDefeated</inSignal>
+					<outcome>Success</outcome>
+				</li>
+			</nodes>
+		</root>
+	</QuestScriptDef>
+</Defs>
