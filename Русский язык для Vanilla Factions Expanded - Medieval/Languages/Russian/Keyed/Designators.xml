@@ -1,25 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Dig terrain -->
-  <DesignatorDigTerrain>Dig terrain</DesignatorDigTerrain>
+  <DesignatorDigTerrain>Выкопать ров</DesignatorDigTerrain>
   <!-- EN: Designate moatable terrain to be dug. -->
-  <DesignatorDigTerrainDesc>Designate moatable terrain to be dug.</DesignatorDigTerrainDesc>
+  <DesignatorDigTerrainDesc>Обозначить пригодную для рытья поверхность для выкапывания рва.</DesignatorDigTerrainDesc>
   <!-- EN: Fill terrain -->
-  <DesignatorFillTerrain>Fill terrain</DesignatorFillTerrain>
+  <DesignatorFillTerrain>Закопать ров</DesignatorFillTerrain>
   <!-- EN: Designate moatable terrain to be filled. -->
-  <DesignatorFillTerrainDesc>Designate moatable terrain to be filled.</DesignatorFillTerrainDesc>
+  <DesignatorFillTerrainDesc>Обозначить поверхность, которую нужно заполнить почвой.</DesignatorFillTerrainDesc>
   <!-- EN: The surface is already marked for digging. -->
-  <TerrainBeingDug>The surface is already marked for digging.</TerrainBeingDug>
+  <TerrainBeingDug>Поверхность уже отмечена для копания.</TerrainBeingDug>
   <!-- EN: The surface is already marked for filling. -->
-  <TerrainBeingFilled>The surface is already marked for filling.</TerrainBeingFilled>
+  <TerrainBeingFilled>Поверхность уже отмечена для заполнения.</TerrainBeingFilled>
   <!-- EN: Must designate moatable terrain. -->
-  <MessageMustDesignateMoatableTerrain>Must designate moatable terrain.</MessageMustDesignateMoatableTerrain>
+  <MessageMustDesignateMoatableTerrain>Нужно указать землю, которую можно копать.</MessageMustDesignateMoatableTerrain>
   <!-- EN: Can't dig deeper, already at the lowest level. -->
-  <AtDeepestLevel>Can't dig deeper, already at the lowest level.</AtDeepestLevel>
+  <AtDeepestLevel>Невозможно копать глубже — достигнут минимальный уровень.</AtDeepestLevel>
   <!-- EN: Can't fill more, already at highest level. -->
-  <AtHighestLevel>Can't fill more, already at highest level.</AtHighestLevel>
+  <AtHighestLevel>Невозможно заполнить — достигнут максимальный уровень.</AtHighestLevel>
   <!-- EN: There's too much water, consider using a pump. -->
-  <CantFillWater>There's too much water, consider using a pump.</CantFillWater>
-
-
+  <CantFillWater>Слишком много воды. Подумайте над использованием водяной помпы.</CantFillWater>
 </LanguageData>

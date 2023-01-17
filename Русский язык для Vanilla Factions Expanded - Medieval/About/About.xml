@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Русский язык для Vanilla Factions Expanded - Medieval</name>
-  <author>OliveWizard, Mewn Goddessn</author>
+  <author>OliveWizard, Mewn Goddess</author>
   <supportedVersions>
 	  <li>1.4</li>
   </supportedVersions>
   <description>Обновлённый перевод на русский язык мода Vanilla Factions Expanded - Medieval.</description>
-  <packageId>OskarPotocki.VanillaFactionsExpanded.MedievalModule</packageId>
+  <packageId>ow.ru.MedievalModule</packageId>
   <modDependencies>
     <li>
       <packageId>OskarPotocki.VanillaFactionsExpanded.MedievalModule</packageId>
@@ -19,7 +19,7 @@
     <li>VanillaExpanded.VCEF</li>
   </loadAfter>
   <incompatibleWith>
-		<li>Inoshishi3.VFE.MedievalModuleRusPatch</li>
+	<li>Inoshishi3.VFE.MedievalModuleRusPatch</li>
     <li>Am.Rus.MedievalModule</li>
 	</incompatibleWith>
 </ModMetaData>
