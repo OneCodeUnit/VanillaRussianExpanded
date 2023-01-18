@@ -12,7 +12,6 @@
 	<VFEM_NamerFactionMedieval.rulePack.rulesStrings>
     <li>r_name(p=0.35)->[PlaceOutlander]</li>
     <li>r_name->[union_med] [PlaceOutlander]</li>
-    <li>r_name->[PlaceOutlander] [union_med]</li>
   </VFEM_NamerFactionMedieval.rulePack.rulesStrings>
 
   <VFEM_NamerSettlementMedieval.rulePack.rulesFiles>
@@ -37,12 +36,12 @@
     <li>Name_Last->Words/Med_Last</li>
   </VFEM_NamerPersonMedieval.rulePack.rulesFiles>
   <!-- EN: r_name(p=2)->[Medieval_First_Male] [Medieval_Last] -->
-  <VFEM_NamerPersonMedieval.rulePack.rulesStrings.0>r_name(p=2)-&gt;[Name_First_Male] [Name_Last]</VFEM_NamerPersonMedieval.rulePack.rulesStrings.0>
+  <VFEM_NamerPersonMedieval.rulePack.rulesStrings.0>r_name(p=2)->[Name_First_Male] [Name_Last]</VFEM_NamerPersonMedieval.rulePack.rulesStrings.0>
 
-  <VFEM_NamerPersonMedieval.rulePack.rulesFiles>
+  <VFEM_NamerPersonMedievalFemale.rulePack.rulesFiles>
     <li>Name_First_Female->Words/Med_First_Female</li>
     <li>Name_Last->Words/Med_Last</li>
-  </VFEM_NamerPersonMedieval.rulePack.rulesFiles>
+  </VFEM_NamerPersonMedievalFemale.rulePack.rulesFiles>
   <!-- EN: r_name(p=2)->[Medieval_First_Female] [Medieval_Last] -->
-  <VFEM_NamerPersonMedievalFemale.rulePack.rulesStrings.0>r_name(p=2)-&gt;[Name_First_Female] [Name_Last]</VFEM_NamerPersonMedievalFemale.rulePack.rulesStrings.0>
+  <VFEM_NamerPersonMedievalFemale.rulePack.rulesStrings.0>r_name(p=2)->[Name_First_Female] [Name_Last]</VFEM_NamerPersonMedievalFemale.rulePack.rulesStrings.0>
 </LanguageData>

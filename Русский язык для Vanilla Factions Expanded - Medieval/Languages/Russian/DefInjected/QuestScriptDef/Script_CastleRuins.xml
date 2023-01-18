@@ -15,13 +15,13 @@
     <li>stash->Stash</li>
     <li>stash->Stockpile</li>
     <li>stash->Treasure</li>
-		<li>ruins->Ruins</li>
+    <li>ruins->Ruins</li>
     <li>ruins->Ruined castle</li>
     <li>ruins->Destroyed hold</li>
   -->
   <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings>
-    <li>questName(priority=1)->[journey] в [ruins][castle] от [asker_nameDef]</li>
-    <li>questName(priority=1)->[journey2] в [ruins2][castle] от [asker_nameDef]</li>
+    <li>questName(priority=1)->[journey] в [ruins] [castle] от [asker_nameDef]</li>
+    <li>questName(priority=1)->[journey2] в [ruins2] [castle] от [asker_nameDef]</li>
     <li>questName->[stash] в [ruins][castle]</li>
 
     <li>journey2->Путешествие</li>
@@ -33,7 +33,7 @@
     <li>stash->Хранилище</li>
     <li>stash->Сокровище</li>
 
-		<li>ruins->руинах</li>
+    <li>ruins->руинах</li>
     <li>ruins->обломках</li>
     <li>ruins->останках</li>
 
@@ -49,13 +49,13 @@
 
   <!-- EN: questDescription(askerIsNull==true)->We've intercepted messages about an abandoned castle ruins that contain treasure not far from [map_definite].\n\nIt seems that [allSitePartsDescriptionsExceptFirst] -->
   <!-- EN: questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of some abandoned castle ruins that may contain treasure not far from us. Noone knows what happened to previous inhabitants, but we might still be able to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst] -->
-	<VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings>
-		<li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением заброшенного замка с сокровищами недалеко от [map_definite]. Судя по всему, это [allSitePartsDescriptionsExceptFirst]</li>
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением заброшенного замка с сокровищами недалеко от [map_definite]. Судя по всему, это [allSitePartsDescriptionsExceptFirst]</li>
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] рассказывает нам о местонахождении заброшенного замка с сокровищами недалеко от нас. Никто не знает, что случилось с его обитателями, но сокровища определённо остались нетронутыми. [asker_label] говорит, что там есть [allSitePartsDescriptionsExceptFirst]</li>
   </VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>Время задания истекло: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: Intercepted communications indicate the ruined castle has been scavenged by others. The quest [resolvedQuestName] has expired. -->
-  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>Согласно сообщениям, замок был очищен кем-то другим. Задания [resolvedQuestName] истекло.</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Судя по перехваченным сообщениям, сокровищами замка завладел кто-то другой. Время, отведённое для задания [resolvedQuestName], истекло.</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
 </LanguageData>
