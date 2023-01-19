@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Factions Expanded - Medieval</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+    <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/FactionDef[defName="VFEM_PlayerKingdom"]</xpath>
+          <value>
+              <allowedCultures>
+                <li>VFEM_Feudal</li>
+              </allowedCultures>
+              <disallowedMemes>
+                <li MayRequire="Ludeon.RimWorld.Ideology">Transhumanist</li>
+              </disallowedMemes>
+              <disallowedPrecepts>
+                <li MayRequire="Ludeon.RimWorld.Ideology">Nudity_Male_CoveringAnythingButGroinDisapproved</li>
+                <li MayRequire="Ludeon.RimWorld.Ideology">Nudity_Female_CoveringAnythingButGroinDisapproved</li>
+              </disallowedPrecepts>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
