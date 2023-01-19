@@ -4,6 +4,17 @@
   <AC.InstallStack>Вживить память полушарий</AC.InstallStack>
   <!-- EN: Select a pawn or empty sleeve to implant the cortical stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve. -->
   <AC.InstallStackDesc>Выберите поселенца или пустую оболочку для установки пустой памяти полушарий. Операция будет автоматически создана на вкладке «Здоровье» выбранного поселенца или оболочки.</AC.InstallStackDesc>
+  <!-- EN: Implant archo stack -->
+  <AC.InstallArchoStack>Вживить древнюю память полушарий</AC.InstallArchoStack>
+  <!-- EN: Select a pawn or empty sleeve to implant the archo stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve. -->
+	<AC.InstallArchoStackDesc>Выберите поселенца или пустую оболочку для установки пустой древней памяти полушарий. Операция будет автоматически создана на вкладке «Здоровье» выбранного поселенца или оболочки.</AC.InstallArchoStackDesc>
+
+  <!-- EN: {0} have a {1} chance of starting with a {2}. -->
+  <AC.ScenPart_PawnsHaveCorticalStack>{0} имеет шанс {1} процентов начать с {2}.</AC.ScenPart_PawnsHaveCorticalStack>
+  <!-- EN: Already set a stack to duplicate -->
+  <AC.AlreadySetToDuplicate>Уже выбрана для копирования</AC.AlreadySetToDuplicate>
+  <!-- EN: Not enough space for new stack -->
+	<AC.NoEnoughSpaceForNewStack>Недостаточно места для новой памяти полушарий</AC.NoEnoughSpaceForNewStack>
 
   <!-- EN: Grow sleeve -->
   <AC.CreateSleeveBody>Вырастить оболочку</AC.CreateSleeveBody>
@@ -171,26 +182,16 @@
   <AC.AllowStrangerStacks>*память чужаков</AC.AllowStrangerStacks>
   <!-- EN: *Allow hostile cortical stacks -->
   <AC.AllowHostileStacks>*память врагов</AC.AllowHostileStacks>
+  <!-- EN: *Allow archo stacks -->
+  <AC.AllowArchoStacks>*древнюю память</AC.AllowArchoStacks>
   <!-- EN: Copy -->
   <AC.Copy>Копия</AC.Copy>
   <!-- EN: Original -->
   <AC.Original>Оригинал</AC.Original>
   <!-- EN: {PAWN_nameDef} successfully duplicated cortical stack. -->
   <AC.SuccessfullyDuplicatedStack>Память полушарий успешно скопирована {PAWN_nameDef}.</AC.SuccessfullyDuplicatedStack>
-  <!-- EN: Organ incubator is running out neutroamine -->
-  <AC.OrganIncubatorIsRunningOutFuel>Инкубатор органов без нейтроамина</AC.OrganIncubatorIsRunningOutFuel>
-  <!-- EN: Organ incubator is running out power -->
-  <AC.OrganIncubatorIsRunningOutPower>Инкубатор органов без энергии</AC.OrganIncubatorIsRunningOutPower>
-  <!-- EN: Organ in the incubator is spoiled -->
-  <AC.OrganSpoiled>Орган в инкубаторе испортился</AC.OrganSpoiled>
-  <!-- EN: Cancel organ growing -->
-  <AC.CancelOrganGrowing>Отменить выращивание</AC.CancelOrganGrowing>
-  <!-- EN: Cancel sleeve growing -->
-  <AC.CancelOrganGrowingDesc>Отменить выращивание</AC.CancelOrganGrowingDesc>
-  <!-- EN: Grow organ -->
-  <AC.CreateOrgan>Вырастить орган</AC.CreateOrgan>
-  <!-- EN: Grow an organ. -->
-  <AC.CreateOrganDesc>Вырастить орган.</AC.CreateOrganDesc>
+  <!-- EN: {PAWN_nameDef} failed to duplicate cortical stack. -->
+  <AC.FailedToDuplicatedStack>{PAWN_nameDef} не удалось скопировать память полушарий.</AC.FailedToDuplicatedStack>
   <!-- EN: Sleeve Incubator: Finished growing sleeve! -->
   <AC.FinishedGrowingSleeve>Инкубатор оболочек закончил выращивание!</AC.FinishedGrowingSleeve>
   <!-- EN: Hack stack -->
@@ -207,6 +208,10 @@
   <AC.WipeStackDesc>Стереть память полушарий хранящейся личности.</AC.WipeStackDesc>
   <!-- EN: {PAWN_nameDef} already has a cortical stack installed! -->
   <AC.PawnAlreadyHasStack>У {PAWN_nameDef} уже установлена память полушарий!</AC.PawnAlreadyHasStack>
+  <!-- EN: {PAWN_nameDef} already has an archo stack installed! -->
+  <AC.PawnAlreadyHasArchoStack>У {PAWN_nameDef} уже установлена древняя память!</AC.PawnAlreadyHasArchoStack>
+  <!-- EN: {PAWN_nameDef} already has an archo stack installed, cannot downgrade! -->
+	<AC.PawnStackCannotDowngrade>У {PAWN_nameDef} уже установлена древняя память, нельзя установить обычную!</AC.PawnStackCannotDowngrade>
   <!-- EN: Cannot install cortical stack - neck is missing or another implant installed in the neck. -->
   <AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Нельзя вживить память полушарий: шея отсутствует или занята другим имплантом.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
   <!-- EN: This stack is set for hacking already on the decryption workbench. -->
