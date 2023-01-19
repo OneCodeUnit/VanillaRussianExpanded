@@ -8,7 +8,7 @@
     <li>1.4</li>
   </supportedVersions>
   <packageId>OW.RU.CORE</packageId>
-  <description>Базовый перевод для модов серии Vanilla Expanded. Рекомендуется устанавливать при использовании моих переводов. Включает необходимые строки, используемые во многих модах.Помимо этого, включает в себя:
+  <description>Базовый перевод для модов серии Vanilla Expanded. Рекомендуется устанавливать при использовании моих переводов. Включает необходимые строки, используемые во многих модах. Помимо этого, включает в себя:
 перевод на русский язык библиотеки Vanilla Expanded Framework
 настроек из Vanilla Textures Expanded, Facial Animation, Better ground-penetrating scanner, Royalty и Ideology Patches
 А также модов:
@@ -22,7 +22,9 @@ Vanilla Social Interactions Expanded
 Vanilla Skills Expanded
 Vanilla Helixien Gas Expanded
 Sometimes Raids Go Wrong (Forked)
-Sometimes Raids Go Wrong.</description>
+Sometimes Raids Go Wrong
+Vanilla Nutrient Paste Expanded.
+</description>
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>VanillaExpanded.VTEXE</li>
@@ -42,6 +44,7 @@ Sometimes Raids Go Wrong.</description>
     <li>vanillaexpanded.skills</li>
     <li>VanillaExpanded.HelixienGas</li>
     <li>marvinkosh.sometimesraidsgowrong</li>
+	<li>VanillaExpanded.VNutrientE</li>
     <li>OW.RU.Brewing</li>
     <li>OW.RU.Cooking</li>
   </loadAfter>
