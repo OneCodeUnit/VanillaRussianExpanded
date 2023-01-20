@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Animals Expanded Russian Language Pack</name>
+  <author>OliveWizard, Mewn Goddess, Hart ty, Amortem</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.ANIMAL</packageId>
+  <description>Перевод на русский язык всех модулей серии Vanilla Animals Expanded.</description>
+  <loadAfter>
+    <li>VanillaExpanded.VAERoy</li>
+    <li>VanillaExpanded.VAECaves</li>
+    <li>VanillaExpanded.VAEEndAndExt</li>
+    <li>VanillaExpanded.VanillaAnimalsExpanded</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>Inoshishi3.VAE.RusPatch</li>
+    <li>Am.Rus.VAE</li>
+    <li>kamikadza13.vanillaexpanded.vaeroy</li>
+  </incompatibleWith>
+</ModMetaData>
