@@ -1,35 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: strengthened by bond -->
   <VAE_StrengthenedByBond.label>strengthened by bond</VAE_StrengthenedByBond.label>
+  <!-- EN: This animal is bonded to one of the colonists and it will be considerably strengtened. However, if the bonded colonist dies, the animal will leave the map and be forever lost. -->
   <VAE_StrengthenedByBond.description>This animal is bonded to one of the colonists and it will be considerably strengtened. However, if the bonded colonist dies, the animal will leave the map and be forever lost.</VAE_StrengthenedByBond.description>
 
+  <!-- EN: no pain sensitivity -->
   <VAE_NoPain.label>no pain sensitivity</VAE_NoPain.label>
+  <!-- EN: This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
   <VAE_NoPain.description>This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain.</VAE_NoPain.description>
 
+  <!-- EN: stunned by vicious attack -->
   <VAE_StunnedByViciousAttack.label>stunned by vicious attack</VAE_StunnedByViciousAttack.label>
+  <!-- EN: This creature has been the target of a vicious assault. -->
   <VAE_StunnedByViciousAttack.description>This creature has been the target of a vicious assault.</VAE_StunnedByViciousAttack.description>
 
+  <!-- EN: silk covered -->
   <VAE_SilkCovered.label>silk covered</VAE_SilkCovered.label>
+  <!-- EN: This creature has been attacked by a giant spider and is partially covered in strands of adhesive silk. -->
   <VAE_SilkCovered.description>This creature has been attacked by a giant spider and is partially covered in strands of adhesive silk.</VAE_SilkCovered.description>
 
+  <!-- EN: wallbreaker -->
   <VAE_WallBreaker.label>wallbreaker</VAE_WallBreaker.label>
+  <!-- EN: This insectoid hulk is rampaging ravenously and will crush walls and other structures in its path. -->
   <VAE_WallBreaker.description>This insectoid hulk is rampaging ravenously and will crush walls and other structures in its path.</VAE_WallBreaker.description>
 
+  <!-- EN: bleeding wounds -->
   <VAE_BleedingWound.label>bleeding wounds</VAE_BleedingWound.label>
+  <!-- EN: A bleeding wound that continues to cause blood loss for quite some time after the initial attack. -->
   <VAE_BleedingWound.description>A bleeding wound that continues to cause blood loss for quite some time after the initial attack.</VAE_BleedingWound.description>
+  <!-- EN: bleeding wounds, minor -->
   <VAE_BleedingWound.stages.0.label>bleeding wounds, minor</VAE_BleedingWound.stages.0.label>
+  <!-- EN: bleeding wounds, moderate -->
   <VAE_BleedingWound.stages.1.label>bleeding wounds, moderate</VAE_BleedingWound.stages.1.label>
+  <!-- EN: bleeding wounds, serious -->
   <VAE_BleedingWound.stages.2.label>bleeding wounds, serious</VAE_BleedingWound.stages.2.label>
 
+  <!-- EN: open wound -->
   <VAE_OpenWound.label>open wound</VAE_OpenWound.label>
+  <!-- EN: An open wound. -->
   <VAE_OpenWound.description>An open wound.</VAE_OpenWound.description>
+  <!-- EN: bandaged -->
   <VAE_OpenWound.comps.0.labelTendedWell>bandaged</VAE_OpenWound.comps.0.labelTendedWell>
+  <!-- EN: sutured -->
   <VAE_OpenWound.comps.0.labelTendedWellInner>sutured</VAE_OpenWound.comps.0.labelTendedWellInner>
+  <!-- EN: set -->
   <VAE_OpenWound.comps.0.labelSolidTendedWell>set</VAE_OpenWound.comps.0.labelSolidTendedWell>
+  <!-- EN: Cut off -->
   <VAE_OpenWound.injuryProps.destroyedLabel>Cut off</VAE_OpenWound.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
   <VAE_OpenWound.injuryProps.destroyedOutLabel>Cut out</VAE_OpenWound.injuryProps.destroyedOutLabel>
+  <!-- EN: an open wound -->
   <VAE_OpenWound.labelNoun>an open wound</VAE_OpenWound.labelNoun>
+
 
 
 </LanguageData>

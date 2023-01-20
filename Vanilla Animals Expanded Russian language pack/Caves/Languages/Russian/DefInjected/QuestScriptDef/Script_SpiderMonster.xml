@@ -1,21 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: questName->[asker_nameDef]'s [monster] [contract] -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.0>questName-&gt;[asker_nameDef]'s [monster] [contract]</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.0>
+  <!-- EN: monster->spider -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.1>monster-&gt;spider</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.1>
+  <!-- EN: monster->ancient giant spider -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.2>monster-&gt;ancient giant spider</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.2>
+  <!-- EN: monster->arachnid -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.3>monster-&gt;arachnid</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.3>
+  <!-- EN: monster->gargantuan spider -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.4>monster-&gt;gargantuan spider</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.4>
+  <!-- EN: contract->contract -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.5>contract-&gt;contract</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.5>
+  <!-- EN: contract->mission -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.6>contract-&gt;mission</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.6>
+  <!-- EN: contract->arrangement -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.7>contract-&gt;arrangement</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.7>
+  <!-- EN: contract->undertaking -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.8>contract-&gt;undertaking</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.8>
+  <!-- EN: contract->holy task -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.9>contract-&gt;holy task</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.9>
+  <!-- EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has reported that their livestock seems to be disappearing at alarming rates. A mess of silk strands is all that is often left, hinting that a ravenous nest of giant spiders is behind the disappearances.\n\nIf we successfully investigate this mystery, [allRewardsDescriptions] -->
   <VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has reported that their livestock seems to be disappearing at alarming rates. A mess of silk strands is all that is often left, hinting that a ravenous nest of giant spiders is behind the disappearances.\n\nIf we successfully investigate this mystery, [allRewardsDescriptions]</VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings.0>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
   <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>Quest expired: [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>
+  <!-- EN: The spiders have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired. -->
   <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>The spiders have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired.</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
   <VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.label>
+  <!-- EN: These colonists participated in the epic hunt for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
   <VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>These colonists participated in the epic hunt for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service.</VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>
+
 
 
 </LanguageData>
