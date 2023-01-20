@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: questName->Skirmish -->
+  <VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>questName->Схватка</VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>
+  <!-- EN: questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] forces encountered an enemy and want to battle them in an open field.\n\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it in time, you will be doing them a great favor. -->
+  <VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name], сообщает, что [asker_possessive] силы встретили врага и собираются сразиться с ним в чистом поле.\n\n[asker_nameDef] никого больше не может призвать на помощь и сообщает, что если вы вовремя подоспеете с подкреплением, то окажете [asker_objective] большую услугу.</VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN:  The battle has resolved. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Битва завершилась. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Enemy defeated. -->
+  <VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>Враги побеждены.</VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
+  <!-- EN: All enemies in the area have been defeated. -->
+  <VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>Все враги на этой территории были побеждены.</VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>
+</LanguageData>
