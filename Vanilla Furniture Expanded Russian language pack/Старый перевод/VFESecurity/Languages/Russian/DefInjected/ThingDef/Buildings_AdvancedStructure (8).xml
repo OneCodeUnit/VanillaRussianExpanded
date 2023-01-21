@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_DeployableBarrier.label>разворачиваемый барьер</VFES_DeployableBarrier.label>
+  <VFES_DeployableBarrier.description>Разворачиваемый барьер, который в отключённом состоянии действует как обычный пол. Обеспечивает отличное укрытие от дальних атак. Будучи неактивным получает вдвое меньше урона.</VFES_DeployableBarrier.description>
+
+  <VFES_Turret_FloorTurret.label>разворачиваемая турель</VFES_Turret_FloorTurret.label>
+  <VFES_Turret_FloorTurret.description>Разворачиваемая двухствольная автоматическая турель, которая в отключённом состоянии действует как обычный пол. Будучи под поверхностью получает вдвое меньше урона. Требуется сталь для ремонта стволов после интенсивного использования. При повреждении может взорваться.</VFES_Turret_FloorTurret.description>
+
+  <VFES_Gun_FloorTurret.label>подповерхностная двуствольная турель</VFES_Gun_FloorTurret.label>
+
+  <VFES_Turret_HMGComplex.label>стационарный пулемёт</VFES_Turret_HMGComplex.label>
+  <VFES_Turret_HMGComplex.description>Стационарный крупнокалиберный пулемёт и мешки с песком для укрытия.</VFES_Turret_HMGComplex.description>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>Выстрелов до израсходования патронов</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>Патроны</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: закончились патроны</VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_HMGComplex.label>стационарный пулемёт</VFES_Gun_HMGComplex.label>
+  <VFES_Gun_HMGComplex.description>Стационарный крупнокалиберный пулемёт и мешки с песком для укрытия.</VFES_Gun_HMGComplex.description>
+
+  <VFES_Bullet_HMGComplex.label>пулемётная пуля</VFES_Bullet_HMGComplex.label>
+
+</LanguageData>
