@@ -3,91 +3,153 @@
 
 
   <!-- Gas pipe system -->
-  <VPE_PipesNotConnected>Pipes not connected to generator or tanks</VPE_PipesNotConnected>
-  <VPE_PipeConnectedRateStored>Pipe grid excess/stored: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
-  <VPE_LiquidTankStored>Gas stored</VPE_LiquidTankStored>
-  <VPE_LiquidTankEfficiency>Tank efficiency</VPE_LiquidTankEfficiency>
-  <VPE_TankLeakage>Minimum sealant leakage</VPE_TankLeakage>
-  <VPE_NutrientNeeded>Gas needed</VPE_NutrientNeeded>
-  <VPE_LiquidOutput>Gas output</VPE_LiquidOutput>
-  <VPE_MustPlaceOnGasGeyser>This building must be placed on top of a helixien gas geyser</VPE_MustPlaceOnGasGeyser>
-  <VPE_PlugHole>Fill hole</VPE_PlugHole>
-  <VPE_PlugHoleDesc>Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space.</VPE_PlugHoleDesc>
-  <VPE_CancelPlugHole>Cancel fill hole</VPE_CancelPlugHole>
-  <VPE_CancelPlugHoleDesc>Cancels the hole filling job.</VPE_CancelPlugHoleDesc>
-  <VPE_MustPlaceAdjacentToPipe>Gas powered buildings must be placed adjacent to gas pipes, not on top</VPE_MustPlaceAdjacentToPipe>
-  <VPE_DeconstructGasPipes>Deconstruct Gas Network</VPE_DeconstructGasPipes>
-  <VPE_DeconstructGasPipesDesc>Deconstruct only gas pipes and subterranean gas pipes</VPE_DeconstructGasPipesDesc>
-  <VPE_DisableGasPathCalculations>Disable Helixien gas path calculations (use to reduce lag)</VPE_DisableGasPathCalculations>
+  <!-- EN: Pipes not connected to generator or tanks -->
+	<VPE_PipesNotConnected>Pipes not connected to generator or tanks</VPE_PipesNotConnected>
+  <!-- EN: Pipe grid excess/stored: {0} ml / {1} ml-d -->
+	<VPE_PipeConnectedRateStored>Pipe grid excess/stored: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+  <!-- EN: Gas stored -->
+	<VPE_LiquidTankStored>Gas stored</VPE_LiquidTankStored>
+  <!-- EN: Tank efficiency -->
+	<VPE_LiquidTankEfficiency>Tank efficiency</VPE_LiquidTankEfficiency>
+  <!-- EN: Minimum sealant leakage -->
+	<VPE_TankLeakage>Minimum sealant leakage</VPE_TankLeakage>
+  <!-- EN: Gas needed -->
+	<VPE_NutrientNeeded>Gas needed</VPE_NutrientNeeded>
+  <!-- EN: Gas output -->
+	<VPE_LiquidOutput>Gas output</VPE_LiquidOutput>
+  <!-- EN: This building must be placed on top of a helixien gas geyser -->
+	<VPE_MustPlaceOnGasGeyser>This building must be placed on top of a helixien gas geyser</VPE_MustPlaceOnGasGeyser>
+  <!-- EN: Fill hole -->
+	<VPE_PlugHole>Fill hole</VPE_PlugHole>
+  <!-- EN: Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space. -->
+	<VPE_PlugHoleDesc>Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space.</VPE_PlugHoleDesc>
+  <!-- EN: Cancel fill hole -->
+	<VPE_CancelPlugHole>Cancel fill hole</VPE_CancelPlugHole>
+  <!-- EN: Cancels the hole filling job. -->
+	<VPE_CancelPlugHoleDesc>Cancels the hole filling job.</VPE_CancelPlugHoleDesc>
+  <!-- EN: Gas powered buildings must be placed adjacent to gas pipes, not on top -->
+	<VPE_MustPlaceAdjacentToPipe>Gas powered buildings must be placed adjacent to gas pipes, not on top</VPE_MustPlaceAdjacentToPipe>
+  <!-- EN: Deconstruct Gas Network -->
+	<VPE_DeconstructGasPipes>Deconstruct Gas Network</VPE_DeconstructGasPipes>
+  <!-- EN: Deconstruct only gas pipes and subterranean gas pipes -->
+	<VPE_DeconstructGasPipesDesc>Deconstruct only gas pipes and subterranean gas pipes</VPE_DeconstructGasPipesDesc>
+  <!-- EN: Disable Helixien gas path calculations (use to reduce lag) -->
+	<VPE_DisableGasPathCalculations>Disable Helixien gas path calculations (use to reduce lag)</VPE_DisableGasPathCalculations>
 
 
-  <Fluffy.GasNetwork.GasNetworkInspectString>Gas excess (stored) in network: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
-  <Fluffy.GasNetwork.Stored>Gas stored: {0}/{1}</Fluffy.GasNetwork.Stored>
-  <Fluffy.GasNetwork.Production>Gas produced: {0}</Fluffy.GasNetwork.Production>
-  <Fluffy.GasNetwork.Consumption>Gas consumed: {0}</Fluffy.GasNetwork.Consumption>
-  <Fluffy.GasNetwork.GasOff>Gas turned off.</Fluffy.GasNetwork.GasOff>
-  <Fluffy.GasNetwork.NoNetwork>Not connected to gas network.</Fluffy.GasNetwork.NoNetwork>
-  <Fluffy.GasNetwork.ValveOpen>Valve is open.</Fluffy.GasNetwork.ValveOpen>
-  <Fluffy.GasNetwork.ValveClosed>Valve is closed.</Fluffy.GasNetwork.ValveClosed>
-  <Fluffy.GasNetwork.CommandToggleGas.Label>Toggle gas flow</Fluffy.GasNetwork.CommandToggleGas.Label>
-  <Fluffy.GasNetwork.CommandToggleGas.Desc>Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch.</Fluffy.GasNetwork.CommandToggleGas.Desc>
-  <Fluffy.GasNetwork.DesiredBuffer>Target gas storage: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
-  <Fluffy.GasNetwork.BufferOff>Gas storage turned off.</Fluffy.GasNetwork.BufferOff>
+  <!-- EN: Gas excess (stored) in network: {0} ({1}) -->
+	<Fluffy.GasNetwork.GasNetworkInspectString>Gas excess (stored) in network: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+  <!-- EN: Gas stored: {0}/{1} -->
+	<Fluffy.GasNetwork.Stored>Gas stored: {0}/{1}</Fluffy.GasNetwork.Stored>
+  <!-- EN: Gas produced: {0} -->
+	<Fluffy.GasNetwork.Production>Gas produced: {0}</Fluffy.GasNetwork.Production>
+  <!-- EN: Gas consumed: {0} -->
+	<Fluffy.GasNetwork.Consumption>Gas consumed: {0}</Fluffy.GasNetwork.Consumption>
+  <!-- EN: Gas turned off. -->
+	<Fluffy.GasNetwork.GasOff>Gas turned off.</Fluffy.GasNetwork.GasOff>
+  <!-- EN: Not connected to gas network. -->
+	<Fluffy.GasNetwork.NoNetwork>Not connected to gas network.</Fluffy.GasNetwork.NoNetwork>
+  <!-- EN: Valve is open. -->
+	<Fluffy.GasNetwork.ValveOpen>Valve is open.</Fluffy.GasNetwork.ValveOpen>
+  <!-- EN: Valve is closed. -->
+	<Fluffy.GasNetwork.ValveClosed>Valve is closed.</Fluffy.GasNetwork.ValveClosed>
+  <!-- EN: Toggle gas flow -->
+	<Fluffy.GasNetwork.CommandToggleGas.Label>Toggle gas flow</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <!-- EN: Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch. -->
+	<Fluffy.GasNetwork.CommandToggleGas.Desc>Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <!-- EN: Target gas storage: {0}/{1} -->
+	<Fluffy.GasNetwork.DesiredBuffer>Target gas storage: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <!-- EN: Gas storage turned off. -->
+	<Fluffy.GasNetwork.BufferOff>Gas storage turned off.</Fluffy.GasNetwork.BufferOff>
 
-  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Preferred unit of wind speed</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
-  <Fluffy.GasNetwork.Settings.Wind.Category>Wind Simulation</Fluffy.GasNetwork.Settings.Wind.Category>
+  <!-- EN: Preferred unit of wind speed -->
+	<Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Preferred unit of wind speed</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <!-- EN: Wind Simulation -->
+	<Fluffy.GasNetwork.Settings.Wind.Category>Wind Simulation</Fluffy.GasNetwork.Settings.Wind.Category>
 
   <!-- Nucular Reactor -->
-  <VPE_RadiationProduced>Warning: Reactor producing radiation in a {0} meters radius</VPE_RadiationProduced>
-  <VPE_TempInReactorRoom>Temperature in reactor room: {0}ºC</VPE_TempInReactorRoom>
-  <VPE_TempInReactorRoomCritical>Warning: Temperature in reactor room: {0}ºC</VPE_TempInReactorRoomCritical>
-  <VPE_Meltdown>Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of</VPE_Meltdown>
-  <VPE_MeltdownLetterLabel>Reactor Meltdown</VPE_MeltdownLetterLabel>
-  <VPE_MeltdownLetter>A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours.</VPE_MeltdownLetter>
-  <VPE_NoReactorRoom>Reactor room must be a roofed, enclosed space</VPE_NoReactorRoom>
+  <!-- EN: Warning: Reactor producing radiation in a {0} meters radius -->
+	<VPE_RadiationProduced>Warning: Reactor producing radiation in a {0} meters radius</VPE_RadiationProduced>
+  <!-- EN: Temperature in reactor room: {0}ºC -->
+	<VPE_TempInReactorRoom>Temperature in reactor room: {0}ºC</VPE_TempInReactorRoom>
+  <!-- EN: Warning: Temperature in reactor room: {0}ºC -->
+	<VPE_TempInReactorRoomCritical>Warning: Temperature in reactor room: {0}ºC</VPE_TempInReactorRoomCritical>
+  <!-- EN: Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of -->
+	<VPE_Meltdown>Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of</VPE_Meltdown>
+  <!-- EN: Reactor Meltdown -->
+	<VPE_MeltdownLetterLabel>Reactor Meltdown</VPE_MeltdownLetterLabel>
+  <!-- EN: A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours. -->
+	<VPE_MeltdownLetter>A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours.</VPE_MeltdownLetter>
+  <!-- EN: Reactor room must be a roofed, enclosed space -->
+	<VPE_NoReactorRoom>Reactor room must be a roofed, enclosed space</VPE_NoReactorRoom>
 
   <!-- Misc -->
-  <VPE_MustPlaceRoofed>This building needs to be placed in an indoors, roofed area</VPE_MustPlaceRoofed>
+  <!-- EN: This building needs to be placed in an indoors, roofed area -->
+	<VPE_MustPlaceRoofed>This building needs to be placed in an indoors, roofed area</VPE_MustPlaceRoofed>
 
   <!-- Violence Generator -->
-  <VPE_SoulsTime>Souls stored for: </VPE_SoulsTime>
-  <VPE_Producing>Producing {0} W of electricity</VPE_Producing>
-  <VPE_NotProducing>No souls absorbed. The Machine Gods are hungry for human souls.</VPE_NotProducing>
-  <VPE_ToggleViolenceGenerator>Switch Generator</VPE_ToggleViolenceGenerator>
-  <VPE_ToggleViolenceGeneratorDesc>Switch Generator between a working and an inactive state</VPE_ToggleViolenceGeneratorDesc>
-  <VPE_GeneratorIsOff>Violence generator is toggled off and inactive right now</VPE_GeneratorIsOff>
+  <!-- EN: Souls stored for:  -->
+	<VPE_SoulsTime>Souls stored for: </VPE_SoulsTime>
+  <!-- EN: Producing {0} W of electricity -->
+	<VPE_Producing>Producing {0} W of electricity</VPE_Producing>
+  <!-- EN: No souls absorbed. The Machine Gods are hungry for human souls. -->
+	<VPE_NotProducing>No souls absorbed. The Machine Gods are hungry for human souls.</VPE_NotProducing>
+  <!-- EN: Switch Generator -->
+	<VPE_ToggleViolenceGenerator>Switch Generator</VPE_ToggleViolenceGenerator>
+  <!-- EN: Switch Generator between a working and an inactive state -->
+	<VPE_ToggleViolenceGeneratorDesc>Switch Generator between a working and an inactive state</VPE_ToggleViolenceGeneratorDesc>
+  <!-- EN: Violence generator is toggled off and inactive right now -->
+	<VPE_GeneratorIsOff>Violence generator is toggled off and inactive right now</VPE_GeneratorIsOff>
 
   <!-- Lightning Generator -->
-  <VPE_LightningTime>Lightning energy stored for: </VPE_LightningTime>
+  <!-- EN: Lightning energy stored for:  -->
+	<VPE_LightningTime>Lightning energy stored for: </VPE_LightningTime>
 
-  <VPE_NotLightningProducing>Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm.</VPE_NotLightningProducing>
+  <!-- EN: Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm. -->
+	<VPE_NotLightningProducing>Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm.</VPE_NotLightningProducing>
 
   <!-- Gas pipe kaboom -->
 
-  <VPE_AGasPipe>a gas pipe</VPE_AGasPipe>
-  <VPE_GasExplosion>A fault in {0} has caused a gas explosion.</VPE_GasExplosion>
-  <VPE_GasExplosionStartedFire>A fault in {0} has caused a gas explosion which started a fire.</VPE_GasExplosionStartedFire>
-  <VPE_GasExplosionLostGas>All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion.</VPE_GasExplosionLostGas>
-  <VPE_GasExplosionLWasLarge>This large amount of gas has created an explosion of considerable size.</VPE_GasExplosionLWasLarge>
-  <VPE_GasExplosionLWasHuge>That really is a huge explosion. Wow.</VPE_GasExplosionLWasHuge>
-  <VPE_LetterLabelGasExplosion>Kaboom!</VPE_LetterLabelGasExplosion>
+  <!-- EN: a gas pipe -->
+	<VPE_AGasPipe>a gas pipe</VPE_AGasPipe>
+  <!-- EN: A fault in {0} has caused a gas explosion. -->
+	<VPE_GasExplosion>A fault in {0} has caused a gas explosion.</VPE_GasExplosion>
+  <!-- EN: A fault in {0} has caused a gas explosion which started a fire. -->
+	<VPE_GasExplosionStartedFire>A fault in {0} has caused a gas explosion which started a fire.</VPE_GasExplosionStartedFire>
+  <!-- EN: All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion. -->
+	<VPE_GasExplosionLostGas>All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion.</VPE_GasExplosionLostGas>
+  <!-- EN: This large amount of gas has created an explosion of considerable size. -->
+	<VPE_GasExplosionLWasLarge>This large amount of gas has created an explosion of considerable size.</VPE_GasExplosionLWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
+	<VPE_GasExplosionLWasHuge>That really is a huge explosion. Wow.</VPE_GasExplosionLWasHuge>
+  <!-- EN: Kaboom! -->
+	<VPE_LetterLabelGasExplosion>Kaboom!</VPE_LetterLabelGasExplosion>
 
   <!-- Chemfuel Pond -->
 
-  <VPE_PondHasFuel>This chemfuel pond has {0} units of chemfuel left</VPE_PondHasFuel>
-  <VPE_PondNoFuel>This chemfuel pond is depleted</VPE_PondNoFuel>
-  <VPE_MustPlaceOnChemfuelPond>The chemfuel pump needs to be built on top of a chemfuel pond</VPE_MustPlaceOnChemfuelPond>
-  <VPE_PumpProducing>The pump will produce {0} units of chemfuel in {1}</VPE_PumpProducing>
+  <!-- EN: This chemfuel pond has {0} units of chemfuel left -->
+	<VPE_PondHasFuel>This chemfuel pond has {0} units of chemfuel left</VPE_PondHasFuel>
+  <!-- EN: This chemfuel pond is depleted -->
+	<VPE_PondNoFuel>This chemfuel pond is depleted</VPE_PondNoFuel>
+  <!-- EN: The chemfuel pump needs to be built on top of a chemfuel pond -->
+	<VPE_MustPlaceOnChemfuelPond>The chemfuel pump needs to be built on top of a chemfuel pond</VPE_MustPlaceOnChemfuelPond>
+  <!-- EN: The pump will produce {0} units of chemfuel in {1} -->
+	<VPE_PumpProducing>The pump will produce {0} units of chemfuel in {1}</VPE_PumpProducing>
 
   <!-- Tidal power plant -->
 
-  <VPE_NeedsWater>This power plant must be built on water</VPE_NeedsWater>
-  <VPE_NeedsDistance>Tidal power plants must be built with at least 40 tiles of separation of each other</VPE_NeedsDistance>
+  <!-- EN: This power plant must be built on water -->
+	<VPE_NeedsWater>This power plant must be built on water</VPE_NeedsWater>
+  <!-- EN: Tidal power plants must be built with at least 40 tiles of separation of each other -->
+	<VPE_NeedsDistance>Tidal power plants must be built with at least 40 tiles of separation of each other</VPE_NeedsDistance>
 
   <!-- Update Letter -->
 
-  <VPE_GasUpdateNoticeLetterLabel>Power Mod Update</VPE_GasUpdateNoticeLetterLabel>
-  <VPE_GasUpdateNoticeLetterText>The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free.</VPE_GasUpdateNoticeLetterText>
+  <!-- EN: Power Mod Update -->
+	<VPE_GasUpdateNoticeLetterLabel>Power Mod Update</VPE_GasUpdateNoticeLetterLabel>
+  <!-- EN: The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free. -->
+	<VPE_GasUpdateNoticeLetterText>The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free.</VPE_GasUpdateNoticeLetterText>
+
 
 
 </LanguageData>

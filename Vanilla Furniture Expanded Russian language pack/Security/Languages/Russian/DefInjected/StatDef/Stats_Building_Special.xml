@@ -1,16 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VFES_EnergyShieldEnergyMax.label>shield max energy</VFES_EnergyShieldEnergyMax.label>
-  <VFES_EnergyShieldEnergyMax.description>The maximum energy a shield generator can have at one time. More energy absorbs more damage.</VFES_EnergyShieldEnergyMax.description>
+  <!-- EN: shield max energy -->
+	<VFES_EnergyShieldEnergyMax.label>shield max energy</VFES_EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+	<VFES_EnergyShieldEnergyMax.description>The maximum energy a shield generator can have at one time. More energy absorbs more damage.</VFES_EnergyShieldEnergyMax.description>
 
-  <VFES_EnergyShieldRechargeRate.label>shield recharge rate</VFES_EnergyShieldRechargeRate.label>
-  <VFES_EnergyShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</VFES_EnergyShieldRechargeRate.description>
-  <VFES_EnergyShieldRechargeRate.formatString>{0}/s</VFES_EnergyShieldRechargeRate.formatString>
+  <!-- EN: shield recharge rate -->
+	<VFES_EnergyShieldRechargeRate.label>shield recharge rate</VFES_EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+	<VFES_EnergyShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</VFES_EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+	<VFES_EnergyShieldRechargeRate.formatString>{0}/s</VFES_EnergyShieldRechargeRate.formatString>
 
-  <VFES_EnergyShieldRadius.label>shield radius</VFES_EnergyShieldRadius.label>
-  <VFES_EnergyShieldRadius.description>The area covered when the energy shield is active.</VFES_EnergyShieldRadius.description>
-  <VFES_EnergyShieldRadius.formatString>{0} c</VFES_EnergyShieldRadius.formatString>
+  <!-- EN: shield radius -->
+	<VFES_EnergyShieldRadius.label>shield radius</VFES_EnergyShieldRadius.label>
+  <!-- EN: The area covered when the energy shield is active. -->
+	<VFES_EnergyShieldRadius.description>The area covered when the energy shield is active.</VFES_EnergyShieldRadius.description>
+  <!-- EN: {0} c -->
+	<VFES_EnergyShieldRadius.formatString>{0} c</VFES_EnergyShieldRadius.formatString>
+
 
 
 </LanguageData>

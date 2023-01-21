@@ -3,25 +3,33 @@
 
   <!-- Splinter -->
 
-  <VFES_SplinterArrow.label>splinter</VFES_SplinterArrow.label>
-  <VFES_SplinterArrow.deathMessage>{0} has been pierced through to death by a gigantic arrow.</VFES_SplinterArrow.deathMessage>
+  <!-- EN: splinter -->
+	<VFES_SplinterArrow.label>splinter</VFES_SplinterArrow.label>
+  <!-- EN: {0} has been pierced through to death by a gigantic arrow. -->
+	<VFES_SplinterArrow.deathMessage>{0} has been pierced through to death by a gigantic arrow.</VFES_SplinterArrow.deathMessage>
 
 
   <!-- Rock -->
 
-  <VFES_Rock.label>rock</VFES_Rock.label>
-  <VFES_Rock.deathMessage>{0} has been squashed to death by a gigantic rock.</VFES_Rock.deathMessage>
+  <!-- EN: rock -->
+	<VFES_Rock.label>rock</VFES_Rock.label>
+  <!-- EN: {0} has been squashed to death by a gigantic rock. -->
+	<VFES_Rock.deathMessage>{0} has been squashed to death by a gigantic rock.</VFES_Rock.deathMessage>
 
 
   <!-- Flame -->
 
-  <VFES_HauntingFlame.label>flame</VFES_HauntingFlame.label>
-  <VFES_HauntingFlame.deathMessage>{0} has burned to death.</VFES_HauntingFlame.deathMessage>
+  <!-- EN: flame -->
+	<VFES_HauntingFlame.label>flame</VFES_HauntingFlame.label>
+  <!-- EN: {0} has burned to death. -->
+	<VFES_HauntingFlame.deathMessage>{0} has burned to death.</VFES_HauntingFlame.deathMessage>
 
 
   <!-- None -->
 
-  <VFES_NoDMG.deathMessage>{0} has been killed.</VFES_NoDMG.deathMessage>
+  <!-- EN: {0} has been killed. -->
+	<VFES_NoDMG.deathMessage>{0} has been killed.</VFES_NoDMG.deathMessage>
+
 
 
 </LanguageData>
