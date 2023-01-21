@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+   <Operation Class="PatchOperationFindMod">
+      <mods>
+         <li>Royalty</li>
+      </mods>
+      <match Class="PatchOperationSequence">
+         <operations>
+            <li Class="PatchOperationAdd">
+               <xpath>/Defs</xpath>
+               <value>
+                  <TerrainDef ParentName="FloorBase" Name="FineMetalTileBase" Abstract="True">
+                     <description>Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct.</description>
+                     <texturePath>Terrains/FineMetalTile</texturePath>
+                     <renderPrecedence>228</renderPrecedence>
+                     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+                     <tags>
+                        <li>FineFloor</li>
+                     </tags>
+					 <designatorDropdown>VFEArch_FineMetalFloor</designatorDropdown>
+                     <researchPrerequisites>
+                        <li>Smithing</li>
+                     </researchPrerequisites>
+                  </TerrainDef>
+                  <TerrainDef ParentName="FineMetalTileBase">
+                     <defName>VFEArch_FineSteelTile</defName>
+                     <label>fine steel tile</label>
+                     <renderPrecedence>241</renderPrecedence>
+                     <color>(105,105,105)</color>
+                     <statBases>
+                        <Beauty>3</Beauty>
+                        <WorkToBuild>800</WorkToBuild>
+                        <Cleanliness>0.2</Cleanliness>
+                     </statBases>
+                     <costList>
+                        <Steel>20</Steel>
+                     </costList>
+                  </TerrainDef>
+                  <TerrainDef ParentName="FineMetalTileBase">
+                     <defName>VFEArch_FineSilverTile</defName>
+                     <label>fine silver tile</label>
+                     <renderPrecedence>241</renderPrecedence>
+                     <color>(0.45, 0.45, 0.45)</color>
+                     <statBases>
+                        <Beauty>7</Beauty>
+                        <WorkToBuild>800</WorkToBuild>
+                        <Cleanliness>0.2</Cleanliness>
+                     </statBases>
+                     <costList>
+                        <Silver>200</Silver>
+                     </costList>
+                  </TerrainDef>
+                  <TerrainDef ParentName="FineMetalTileBase">
+                     <defName>VFEArch_FineGoldTile</defName>
+                     <label>fine gold tile</label>
+                     <renderPrecedence>241</renderPrecedence>
+                     <color>(0.65, 0.65, 0.35)</color>
+                     <statBases>
+                        <Beauty>14</Beauty>
+                        <WorkToBuild>800</WorkToBuild>
+                        <Cleanliness>0.2</Cleanliness>
+                     </statBases>
+                     <costList>
+                        <Gold>200</Gold>
+                     </costList>
+                  </TerrainDef>
+                  <DesignatorDropdownGroupDef>
+                     <defName>VFEArch_FineMetalFloor</defName>
+                     <label>fine metal floor</label>
+                  </DesignatorDropdownGroupDef>
+                  <TerrainDef ParentName="FloorBase">
+                     <defName>VFEArch_FineWoodenFloor</defName>
+                     <label>fine wooden floor</label>
+                     <description>Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.</description>
+                     <texturePath>Terrains/FineWoodenFloor</texturePath>
+                     <renderPrecedence>228</renderPrecedence>
+                     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+                     <color>(108,78,55)</color>
+                     <costList>
+                        <WoodLog>20</WoodLog>
+                     </costList>
+                     <statBases>
+                        <WorkToBuild>5000</WorkToBuild>
+                        <Beauty>3</Beauty>
+						<Flammability>0.22</Flammability>
+                     </statBases>
+                     <tags>
+                        <li>FineFloor</li>
+                     </tags>
+                     <constructEffect>ConstructWood</constructEffect>
+                     <designatorDropdown>VFEArch_FineWoodenFloor</designatorDropdown>
+                  </TerrainDef>
+                  <TerrainDef ParentName="FloorBase">
+                     <defName>VFEArch_FineWoodenFloorWalnut</defName>
+                     <label>walnut fine wooden floor</label>
+                     <description>Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.</description>
+                     <texturePath>Terrains/FineWoodenFloor</texturePath>
+                     <renderPrecedence>228</renderPrecedence>
+                     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+                     <color>(79,60,45)</color>
+                     <costList>
+                        <WoodLog>20</WoodLog>
+                     </costList>
+                     <statBases>
+                        <WorkToBuild>5000</WorkToBuild>
+                        <Beauty>3</Beauty>
+						<Flammability>0.22</Flammability>
+                     </statBases>
+                     <tags>
+                        <li>FineFloor</li>
+                     </tags>
+                     <constructEffect>ConstructWood</constructEffect>
+                     <designatorDropdown>VFEArch_FineWoodenFloor</designatorDropdown>
+                  </TerrainDef>
+                  <TerrainDef ParentName="FloorBase">
+                     <defName>VFEArch_FineWoodenFloorBirch</defName>
+                     <label>birch fine wooden floor</label>
+                     <description>Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.</description>
+                     <texturePath>Terrains/FineWoodenFloor</texturePath>
+                     <renderPrecedence>228</renderPrecedence>
+                     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+                     <color>(243,196,150)</color>
+                     <costList>
+                        <WoodLog>20</WoodLog>
+                     </costList>
+                     <statBases>
+                        <WorkToBuild>5000</WorkToBuild>
+                        <Beauty>3</Beauty>
+						<Flammability>0.22</Flammability>
+                     </statBases>
+                     <tags>
+                        <li>FineFloor</li>
+                     </tags>
+                     <constructEffect>ConstructWood</constructEffect>
+                     <designatorDropdown>VFEArch_FineWoodenFloor</designatorDropdown>
+                  </TerrainDef>
+                  <TerrainDef ParentName="FloorBase">
+                     <defName>VFEArch_FineWoodenFloorMahogany</defName>
+                     <label>mahogany fine wooden floor</label>
+                     <description>Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.</description>
+                     <texturePath>Terrains/FineWoodenFloor</texturePath>
+                     <renderPrecedence>228</renderPrecedence>
+                     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+                     <color>(134,79,49)</color>
+                     <costList>
+                        <WoodLog>20</WoodLog>
+                     </costList>
+                     <statBases>
+                        <WorkToBuild>5000</WorkToBuild>
+                        <Beauty>3</Beauty>
+						<Flammability>0.22</Flammability>
+                     </statBases>
+                     <tags>
+                        <li>FineFloor</li>
+                     </tags>
+                     <constructEffect>ConstructWood</constructEffect>
+                     <designatorDropdown>VFEArch_FineWoodenFloor</designatorDropdown>
+                  </TerrainDef>
+                  <DesignatorDropdownGroupDef>
+                     <defName>VFEArch_FineWoodenFloor</defName>
+                     <label>fine wooden floor</label>
+                  </DesignatorDropdownGroupDef>
+                  <ThingDef ParentName="BuildingBase">
+                     <defName>VFEArch_FineWall</defName>
+                     <label>fine wall</label>
+                     <description>A beautiful, impassable wall. Capable of holding up a roof.</description>
+                     <thingClass>Building</thingClass>
+                     <category>Building</category>
+                     <graphicData>
+                        <texPath>FineWall</texPath>
+                        <graphicClass>Graphic_Appearances</graphicClass>
+                        <linkType>CornerFiller</linkType>
+                        <linkFlags>
+                           <li>Wall</li>
+                           <li>Rock</li>
+                        </linkFlags>
+                        <damageData>
+                           <cornerTL>Damage/Corner</cornerTL>
+                           <cornerTR>Damage/Corner</cornerTR>
+                           <cornerBL>Damage/Corner</cornerBL>
+                           <cornerBR>Damage/Corner</cornerBR>
+                           <edgeTop>Damage/Edge</edgeTop>
+                           <edgeBot>Damage/Edge</edgeBot>
+                           <edgeLeft>Damage/Edge</edgeLeft>
+                           <edgeRight>Damage/Edge</edgeRight>
+                        </damageData>
+                     </graphicData>
+                     <uiIconPath>FineWall/FineWallSmooth_MenuIcon</uiIconPath>
+                     <uiIconPathsStuff>
+                        <li>
+                           <appearance>Planks</appearance>
+                           <iconPath>FineWall/FineWallPlanks_MenuIcon</iconPath>
+                        </li>
+                        <li>
+                           <appearance>Bricks</appearance>
+                           <iconPath>FineWall/FineWallBricks_MenuIcon</iconPath>
+                        </li>
+                     </uiIconPathsStuff>
+                     <statBases>
+                        <MaxHitPoints>300</MaxHitPoints>
+                        <WorkToBuild>335</WorkToBuild>
+                        <Flammability>1.0</Flammability>
+                        <MeditationFocusStrength>0.22</MeditationFocusStrength>
+						<Beauty>3</Beauty>
+                     </statBases>
+                     <costStuffCount>10</costStuffCount>
+                     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+                     <altitudeLayer>Building</altitudeLayer>
+                     <passability>Impassable</passability>
+                     <blockWind>true</blockWind>
+                     <castEdgeShadows>true</castEdgeShadows>
+                     <fillPercent>1</fillPercent>
+                     <coversFloor>true</coversFloor>
+                     <placingDraggableDimensions>1</placingDraggableDimensions>
+                     <tickerType>Never</tickerType>
+                     <rotatable>false</rotatable>
+                     <selectable>true</selectable>
+                     <neverMultiSelect>true</neverMultiSelect>
+                     <useStuffTerrainAffordance>true</useStuffTerrainAffordance>
+                     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+                     <!-- Best affordance needed for stone -->
+                     <holdsRoof>true</holdsRoof>
+                     <designationCategory>Structure</designationCategory>
+                     <staticSunShadowHeight>1.0</staticSunShadowHeight>
+                     <blockLight>true</blockLight>
+                     <canOverlapZones>false</canOverlapZones>
+                     <fertility>0</fertility>
+                     <stuffCategories>
+                        <li>Metallic</li>
+                        <li>Woody</li>
+                        <li>Stony</li>
+                     </stuffCategories>
+                     <building>
+                        <isInert>true</isInert>
+                        <isPlaceOverableWall>true</isPlaceOverableWall>
+                        <ai_chillDestination>false</ai_chillDestination>
+                        <blueprintGraphicData>
+                           <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+                        </blueprintGraphicData>
+                     </building>
+                     <comps>
+                        <li Class="CompProperties_MeditationFocus">
+                           <statDef>MeditationFocusStrength</statDef>
+                           <focusTypes>
+                              <li>Minimal</li>
+                           </focusTypes>
+                        </li>
+                     </comps>
+                     <damageMultipliers>
+                        <li>
+                           <damageDef>Bomb</damageDef>
+                           <multiplier>2</multiplier>
+                        </li>
+                        <li>
+                           <damageDef>Thump</damageDef>
+                           <multiplier>4</multiplier>
+                        </li>
+                     </damageMultipliers>
+                  </ThingDef>
+               </value>
+            </li>
+         </operations>
+      </match>
+   </Operation>
+</Patch>
+

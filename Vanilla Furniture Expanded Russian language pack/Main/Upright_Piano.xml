@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Royalty</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/ThingDef[defName="Joy_Piano"]/label</xpath>
+      <value>
+        <label>upright piano</label>
+      </value>
+    </match>
+  </Operation>
+
+</Patch>
