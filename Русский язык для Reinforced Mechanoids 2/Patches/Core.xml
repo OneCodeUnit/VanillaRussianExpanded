@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<!-- ================================ Patches in new stuff into the base game ====================== -->
+		<operations>
+			<!-- ================================ Patches in new mechanoids into the default faction pawnGroupMakers ====================== -->
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/FactionDef[defName="Mechanoid"]/pawnGroupMakers/li[kindDef="Combat" and commonality=100]/options</xpath>
+				<value>
+					<RM_Mech_Vulture>5</RM_Mech_Vulture>
+					<RM_Mech_Ranger>10</RM_Mech_Ranger>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/FactionDef[defName="Mechanoid"]/pawnGroupMakers/li[kindDef="Combat" and commonality=80]/options</xpath>
+				<value>
+					<RM_Mech_Vulture>5</RM_Mech_Vulture>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/FactionDef[defName="Mechanoid"]/pawnGroupMakers/li[kindDef="Combat" and commonality=30]/options</xpath>
+				<value>
+					<RM_Mech_Vulture>5</RM_Mech_Vulture>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/FactionDef[defName="Mechanoid"]/pawnGroupMakers/li[kindDef="Combat" and commonality=1]/options</xpath>
+				<value>
+					<RM_Mech_Vulture>5</RM_Mech_Vulture>
+				</value>
+			</li>
+			<!-- ================================ Creates new pawnGroupMaker entry for the Caretaker raid ====================== -->
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/FactionDef[defName = "Mechanoid"]/pawnGroupMakers</xpath>
+				<value>
+					<li Class="ReinforcedMechanoids.PawnGroupMaker_CaretakerRaid">
+						<!-- Caretaker Raid -->
+						<kindDef>Combat</kindDef>
+						<commonality>1</commonality>
+						<options>
+							<Mech_Militor MayRequire="Ludeon.RimWorld.Biotech">20</Mech_Militor>
+							<RM_Mech_Ranger>10</RM_Mech_Ranger>
+							<Mech_Lancer>10</Mech_Lancer>
+							<Mech_Scyther>10</Mech_Scyther>
+							<Mech_Legionary MayRequire="Ludeon.RimWorld.Biotech">5</Mech_Legionary>
+							<Mech_CentipedeBlaster>5</Mech_CentipedeBlaster>
+							<Mech_CentipedeGunner>3</Mech_CentipedeGunner>
+							<Mech_CentipedeBurner>3</Mech_CentipedeBurner>
+							<RM_Mech_Caretaker>1</RM_Mech_Caretaker>
+						</options>
+					</li>
+				</value>
+			</li>
+			<!-- ================================ Patches in the power cell to any crashed ship parts that are related to mechanoids ====================== -->
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[@Name="CrashedShipPartBase"]/killedLeavings</xpath>
+				<value>
+					<RM_VanometricMechanoidCell>1</RM_VanometricMechanoidCell>
+				</value>
+			</li>
+			<!-- ================================ Patches in the optional bills to convert power cells between the old mod and mine. ====================== -->
+			<li Class="PatchOperationAdd" MayRequire="Mlie.MechanoidPower">
+				<xpath>Defs</xpath>
+				<value>
+					<RecipeDef>
+						<defName>RM_ConvertCellOne</defName>
+						<label>convert mechanoid cell to my mod</label>
+						<description>Convert a Mechanoid Cell from "Mechanoid Power (Continued)" to my mod. This recipe only appears with both mods loaded and used to move from one mod to the other!</description>
+						<jobString>convert cell.</jobString>
+						<workAmount>1</workAmount>
+						<workSpeedStat>SmeltingSpeed</workSpeedStat>
+						<effectWorking>Smelt</effectWorking>
+						<soundWorking>Recipe_Smelt</soundWorking>
+						<recipeUsers>
+							<li>CraftingSpot</li>
+						</recipeUsers>
+						<workSkill>Crafting</workSkill>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>MPC_MechanoidPCell</li>
+									</thingDefs>
+								</filter>
+								<count>1</count>
+							</li>
+						</ingredients>
+						<fixedIngredientFilter>
+							<thingDefs>
+								<li>MPC_MechanoidPCell</li>
+							</thingDefs>
+						</fixedIngredientFilter>
+						<products>
+							<RM_VanometricMechanoidCell>1</RM_VanometricMechanoidCell>
+						</products>
+					</RecipeDef>
+					<RecipeDef>
+						<defName>RM_ConvertCellTwo</defName>
+						<label>convert mechanoid cell from my mod</label>
+						<description>Convert a Mechanoid Cell from my mod to "Mechanoid Power (Continued)". This recipe only appears with both mods loaded and used to move from one mod to the other!</description>
+						<jobString>convert cell.</jobString>
+						<workAmount>1</workAmount>
+						<workSpeedStat>SmeltingSpeed</workSpeedStat>
+						<effectWorking>Smelt</effectWorking>
+						<soundWorking>Recipe_Smelt</soundWorking>
+						<recipeUsers>
+							<li>CraftingSpot</li>
+						</recipeUsers>
+						<workSkill>Crafting</workSkill>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>RM_VanometricMechanoidCell</li>
+									</thingDefs>
+								</filter>
+								<count>1</count>
+							</li>
+						</ingredients>
+						<fixedIngredientFilter>
+							<thingDefs>
+								<li>RM_VanometricMechanoidCell</li>
+							</thingDefs>
+						</fixedIngredientFilter>
+						<products>
+							<MPC_MechanoidPCell>1</MPC_MechanoidPCell>
+						</products>
+					</RecipeDef>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

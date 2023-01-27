@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Ideology</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<!-- ================================ Add Defs that need Ideology ====================== -->
+				<li Class="PatchOperationAdd">
+					<xpath>Defs</xpath>
+					<value>
+						<!-- ================================ Rusted War Jeep ====================== -->
+						<ThingDef ParentName="NonDeconstructibleAncientBuildingBase">
+							<defName>RM_AncientRustedJeep</defName>
+							<label>ancient scout jeep</label>
+							<description>An ancient, broken scout jeep. Everything that isn't rusted away was looted long ago.</description>
+							<graphicData>
+								<texPath>Things/Building/Ruins/RustedWarJeep</texPath>
+								<graphicClass>Graphic_Multi</graphicClass>
+								<drawSize>(3,5)</drawSize>
+								<shadowData>
+									<volume>(1.8, 0.7, 3.8)</volume>
+								</shadowData>
+							</graphicData>
+							<size>(2,4)</size>
+							<fillPercent>0.5</fillPercent>
+							<statBases>
+								<MaxHitPoints>1000</MaxHitPoints>
+							</statBases>
+							<killedLeavings>
+								<ChunkSlagSteel>1</ChunkSlagSteel>
+							</killedLeavings>
+						</ThingDef>
+						<!-- ================================ Adds Relic ====================== -->
+						<ThingDef ParentName="RelicInertBase">
+							<defName>RM_RelicSacredIcon</defName>
+							<label>sacred icon</label>
+							<graphicData>
+								<texPath>Things/Item/Relic/RelicSacredIcon</texPath>
+								<graphicClass>Graphic_Single</graphicClass>
+							</graphicData>
+							<stuffCategories>
+								<li>Metallic</li>
+							</stuffCategories>
+							<costStuffCount>100</costStuffCount>
+						</ThingDef>
+						<!-- ================================ Adds Rule Packs for Names ====================== -->
+						<RulePackDef>
+							<defName>RM_LeaderTitleMakerTyrikan</defName>
+							<rulePack>
+								<rulesStrings>
+									<li>r_leaderTitle->Hierarch</li>
+									<li>r_leaderTitle->High One</li>
+									<li>r_leaderTitle->Holy One</li>
+									<li>r_leaderTitle->Anointed One</li>
+								</rulesStrings>
+							</rulePack>
+						</RulePackDef>
+						<!-- ================================ Adds new Meme ====================== -->
+						<MemeDef>
+							<defName>RM_TyrikanLegacy</defName>
+							<label>tyrikan legacy</label>
+							<description>We are the children of Tyrikan, for our world might be gone, but not our ideals.</description>
+							<iconPath>UI/Memes/TyrikanLegacy</iconPath>
+							<groupDef>Misc</groupDef>
+							<impact>2</impact>
+							<renderOrder>70</renderOrder>
+							<requireOne>
+								<li>
+									<li>Pain_Idealized</li>
+								</li>
+								<li>
+									<li>Proselytizing_Frequently</li>
+								</li>
+								<li>
+									<li>Execution_RespectedIfGuilty</li>
+									<li>Execution_Required</li>
+								</li>
+							</requireOne>
+							<generalRules>
+								<rulesStrings>
+									<li>memeAdjective->ancient</li>
+									<li>memeAdjective->holy</li>
+									<li>memeAdjective->great</li>
+									<li>memeAdjective->true</li>
+									<li>memeCreed->covenant</li>
+									<li>memeCreed->hierarchy</li>
+									<li>memeMoralist->oracle</li>
+									<li>memeMoralist->foreseer</li>
+									<li>memeMoralist->seer</li>
+									<li>memeMoralist->diviner</li>
+									<li>memeMoralist->augur</li>
+								</rulesStrings>
+							</generalRules>
+							<preferredWeaponClasses>
+								<noble>Ultratech</noble>
+								<despised>Neolithic</despised>
+							</preferredWeaponClasses>
+							<styleItemTags>
+								<li>
+									<tag>NoBeard</tag>
+									<weightFactor>2</weightFactor>
+								</li>
+							</styleItemTags>
+						</MemeDef>
+						<!-- ================================ Adds new Ideo Icons ====================== -->
+						<IdeoIconDef>
+							<defName>RM_TyrikanA</defName>
+							<iconPath>UI/Ideoligions/TyrikanA</iconPath>
+							<memes>
+								<li>RM_TyrikanLegacy</li>
+							</memes>
+						</IdeoIconDef>
+						<IdeoIconDef>
+							<defName>RM_TyrikanB</defName>
+							<iconPath>UI/Ideoligions/TyrikanB</iconPath>
+							<memes>
+								<li>RM_TyrikanLegacy</li>
+							</memes>
+						</IdeoIconDef>
+						<IdeoIconDef>
+							<defName>RM_TyrikanC</defName>
+							<iconPath>UI/Ideoligions/TyrikanC</iconPath>
+							<memes>
+								<li>RM_TyrikanLegacy</li>
+							</memes>
+						</IdeoIconDef>
+						<IdeoIconDef>
+							<defName>RM_TyrikanD</defName>
+							<iconPath>UI/Ideoligions/TyrikanD</iconPath>
+							<memes>
+								<li>RM_TyrikanLegacy</li>
+							</memes>
+						</IdeoIconDef>
+					</value>
+				</li>
+				<!-- ================================ Adds Rusted War Jeep to mapgen ====================== -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/GenStepDef[defName="AncientJunkClusters"]/genStep[@Class="GenStep_ScatterGroup"]/groups/li[5]/things</xpath>
+					<value>
+						<RM_AncientRustedJeep>0.15</RM_AncientRustedJeep>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>
