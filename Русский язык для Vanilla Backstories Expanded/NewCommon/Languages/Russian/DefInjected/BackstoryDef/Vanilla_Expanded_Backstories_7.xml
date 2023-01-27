@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:Incompetent pilot -->
+  <VBE_IncompetentPilot.title>Пилот-неумёха</VBE_IncompetentPilot.title>
+  <!-- EN:Incompetent -->
+  <VBE_IncompetentPilot.titleShort>Неумёха</VBE_IncompetentPilot.titleShort>
+  <!-- EN:[PAWN_nameDef] was a helmsman of a large cargo vessel. An unfortunate series of events, some of which were [PAWN_possessive] fault, resulted in the entirety of his crew being vaporized by his ship's fusion engine in a freak accident. Fearing reprisal, he hailed a passing pirate ship and managed to smooth talk [PAWN_possessive] way into safe passage to another world to restart his life, and hopefully forget about his past mistakes. -->
+  <VBE_IncompetentPilot.baseDesc>{PAWN_nameDef} {PAWN_gender ? служил : служила} рулевым на крупном торговом космическом судне. Трагическое стечение обстоятельств, в части которых {PAWN_gender ? был виноват сам: была виновата сама} {PAWN_nameDef}, привело к тому, что весь экипаж судна был обращён в пепел выхлопом фузионного двигателя корабля. Опасаясь последствий, {PAWN_nameDef} {PAWN_gender ? связался : связалась} с пролетавшим неподалёку пиратским кораблём и {PAWN_gender ? сумел : сумела} уговорить капитана взять себя на борт, чтобы {PAWN_pronoun} {PAWN_gender ? мог : могла} начать новую жизнь и, по возможности, забыть об ошибках прошлого.</VBE_IncompetentPilot.baseDesc>
+
+  <!-- EN:Marauder -->
+  <VBE_Marauder.title>Мародёр</VBE_Marauder.title>
+  <!-- EN:Marauder -->
+  <VBE_Marauder.titleShort>Мародёр</VBE_Marauder.titleShort>
+  <!-- EN:[PAWN_nameDef] spent most of [PAWN_possessive] life as a fighter in a nomadic fleet of space pirates until it dissolved from infighting. [PAWN_objective] saw many battles, but never even went close to any books. -->
+  <VBE_Marauder.baseDesc>{PAWN_nameDef} {PAWN_gender ? провёл : провела} большую часть своей жизни в качестве бойца кочующего флота космических пиратов. Так продолжалось, пока флот не распался из-за внутренних конфликтов. {PAWN_nameDef} {PAWN_gender ? участвовал : участвовала} во многих сражениях, но никогда и близко не {PAWN_gender ? подходил : подходила} к книгам.</VBE_Marauder.baseDesc>
+
+  <!-- EN:Archotech fanatic -->
+  <VBE_ArchotechFanatic.title>Фанатик архотека</VBE_ArchotechFanatic.title>
+  <!-- EN:Archofanatic -->
+  <VBE_ArchotechFanatic.titleShort>Архофанатик</VBE_ArchotechFanatic.titleShort>
+  <!-- EN:[PAWN_nameDef] claims that [PAWN_possessive] mind has been visited by an omnipotent entity that manifests itself through advanced archotech objects. While [PAWN_nameDef] shows great affinity towards technology and research, [PAWN_pronoun] harbors equally strong disgust when it comes to plants and animals. -->
+  <VBE_ArchotechFanatic.baseDesc>Как {PAWN_nameDef} утверждает, {PAWN_possessive} разум посетила всемогущая сущность, которая проявляет себя через различные артефакты архотехов. И хоть {PAWN_nameDef} демонстрирует искренний интерес к технологиям и науке, ко всему, что касается растений и животных, {PAWN_pronoun} демонстрирует столь же искреннюю неприязнь.</VBE_ArchotechFanatic.baseDesc>
+
+  <!-- EN:Pond designer -->
+  <VBE_PondDesigner.title>Дизайнер прудов</VBE_PondDesigner.title>
+  <!-- EN:Gardener -->
+  <VBE_PondDesigner.titleShort>Садовник</VBE_PondDesigner.titleShort>
+  <!-- EN:[PAWN_nameDef] created extravagant ponds for the wealthy. [PAWN_possessive] knowledge of aquatic flora and fauna and how they interact is unsurpassed. One day, a client introduced a new fish into one of [PAWN_possessive] pond, destroying the delicate ecosystem. That was the last drop for [PAWN_objective], who left everything behind and took the first ship to the Rim, where [PAWN_pronoun] hopes to realize [PAWN_possessive] dream: to design a whole new ecosystem on a planetary scale. -->
+  <VBE_PondDesigner.baseDesc>{PAWN_nameDef} {PAWN_gender ? занимался : занималась} созданием вычурных прудов для богатых клиентов. Мало кто может сравниться с {PAWN_gender ? ним : ней} в том, что касается знаний о пресноводной флоре, фауне и том, как они взаимодействуют между собой. Однажды кто-то из {PAWN_possessive} клиентов выпустил новую рыбку в недавно законченную работу и она разрушила хрупкий баланс существовавшей там экосистемы. Это стало последней каплей и {PAWN_nameDef} {PAWN_gender ? покинул : покинула} планету на первом же корабле, следовавшем к окраинным мирам, в погоне за своей мечтой: создать экосистему планетарных масштабов.</VBE_PondDesigner.baseDesc>
+
+  <!-- EN:Cryonic -->
+  <VBE_Cryonic.title>Крионик</VBE_Cryonic.title>
+  <!-- EN:Cryonic -->
+  <VBE_Cryonic.titleShort>Крионик</VBE_Cryonic.titleShort>
+  <!-- EN:[PAWN_nameDef] is from a civilization that perished to an ice age that devastated [PAWN_possessive] homeworld. [PAWN_possessive] body was preserved in the ice for centuries until [PAWN_pronoun] was recovered by a glitterworld archaeological expedition, and was resuscitated with advanced mechanite serums on their planet. Unwilling to be kept as a research subject, [PAWN_nameDef] escaped with the help of a group of humanitarian activists. This experience made [PAWN_objective] distrustful of strangers, but [PAWN_pronoun] also picked up some knowledge from [PAWN_possessive] time in the laboratory. -->
+  <VBE_Cryonic.baseDesc>{PAWN_nameDef} {PAWN_gender ? выжил : выжила} в катаклизме — ледниковом периоде, который положил конец {PAWN_possessive} цивилизации. По чистой случайности {PAWN_possessive} тело сохранилось во льдах на протяжении столетий, пока {PAWN_nameDef} не {PAWN_gender ? был : была} извлечена из ледника группой учёных-археологов с утопического мира, которые и вернули {PAWN_possessive} к жизни на своей планете при помощи сыворотки воскрешения. Не желая быть подопытным кроликом, {PAWN_nameDef} {PAWN_gender ? заручился : заручилась} поддержкой местной ячейки борцов за права человека. Эти события повлияли на {PAWN_possessive} способность доверять людям, но то время, которое {PAWN_pronoun} {PAWN_gender ? провёл : провела} в лаборатории, позволило {PAWN_objective} многому научиться.</VBE_Cryonic.baseDesc>
+
+  <!-- EN:Master of ceremonies -->
+  <VBE_Masterofceremonies.title>Церемонимейстер</VBE_Masterofceremonies.title>
+  <!-- EN:Arbiter -->
+  <VBE_Masterofceremonies.titleShort>Церемонимейстер</VBE_Masterofceremonies.titleShort>
+  <!-- EN:[PAWN_nameDef] was a master of ceremonies. [PAWN_pronoun] trained for decades just to meet the minimal requirements for the job: [PAWN_pronoun] had to memorize the thousands of complicated rituals ruling diplomatic meetings on his world, including the correct way to execute one who makes a mistake. In [PAWN_possessive] culture, war has all but disappeared: nobody has ever managed to get to the end of the ritual required to declare war without making a mistake. [PAWN_pronoun] now hopes to bring the same peace to the Rim, one ritual at a time. -->
+  <VBE_Masterofceremonies.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} знатоком церемоний. {PAWN_pronoun} {PAWN_gender ? провёл : провела} десятки лет тренируясь и обучаясь, для того, чтобы соответствовать хотя бы минимально приемлемым требованиям для этой работы: {PAWN_pronoun} {PAWN_gender ? должен был: должна была} в мельчайших подробностях запомнить тысячи дипломатических ритуалов своего мира, в том числе, знание того, как правильно казнить того, кто совершил ошибку. В {PAWN_possessive} культуре война практически исчезла как таковая: никто просто не был способен правильно объявить войну доведя нужный ритуал до конца и не совершив при этом ошибок. {PAWN_nameDef} стремится принести такую же мирную жизнь и на этот окраинный мир. Шаг за шагом, ритуал за ритуалом.</VBE_Masterofceremonies.baseDesc>
+
+  <!-- EN:Chemfuel farmer -->
+  <VBE_ChemfuelFarmer.title>Химтопливый фермер</VBE_ChemfuelFarmer.title>
+  <!-- EN:Farmer -->
+  <VBE_ChemfuelFarmer.titleShort>Фермер</VBE_ChemfuelFarmer.titleShort>
+  <!-- EN:[PAWN_nameDef] is an entrepreneur. [PAWN_pronoun] recognized immediately how much money was to be made with chemfuel, a substance so widely used that demand never seems to go down, no matter how much of the stuff you sell. [PAWN_pronoun] first convinced [PAWN_possessive] family to buy a boomalope ranch, then his neighbors to plant chemroot. Soon, the whole town was refining everything they could get their hands on. Since the storm of last summer, [PAWN_pronoun] has been looking for a new town to live in. Anywhere, really: he has no family to tie him down. -->
+  <VBE_ChemfuelFarmer.baseDesc>{PAWN_nameDef} — предприниматель. {PAWN_objective} не составило труда очень быстро понять, сколько можно заработать на химтопливе, которое используется практически повсеместно, а спрос на него практически не падает, вне зависимости от того, сколько ты продаёшь. Сначала {PAWN_pronoun} {PAWN_gender ? уговорил : уговорила} свою семью купить ранчо и бумалоп. Затем — {PAWN_gender ? убедил : убедила} своих соседей начать выращивать химкорень. Вскоре весь городок был занят переработкой всего того, что они могли вырастить или ещё как-то заполучить. После случившейся прошлым летом грозы, {PAWN_nameDef} занимается поисками нового места, где можно было бы обзавестись новой семьёй и работой.</VBE_ChemfuelFarmer.baseDesc>
+
+  <!-- EN:Cog in the machine -->
+  <VBE_CoginTheMachine.title>Винтик в машине</VBE_CoginTheMachine.title>
+  <!-- EN:Cog -->
+  <VBE_CoginTheMachine.titleShort>Винтик</VBE_CoginTheMachine.titleShort>
+  <!-- EN:[PAWN_nameDef] lived on a very organized and efficient world. [PAWN_pronoun] was trained from birth to do one very specialized job: to paint one specific screw in a specific shade of gray. One day, [PAWN_pronoun] decided to paint the screws green. The other workers couldn't cope with this unforeseen change and stopped working. The chaos spread, and [PAWN_nameDef] soon had to flee a world plunged in anarchy. -->
+  <VBE_CoginTheMachine.baseDesc>{PAWN_nameDef} {PAWN_gender ? жил : жила} на очень организованном мире, где всё было заточено под максимальную эффективность. С самого рождения {PAWN_possessive} обучали для одной единственной задачи: красить один определённый крепёж в один определённый оттенок серого. Однажды {PAWN_pronoun} {PAWN_gender ? решил : решила} покрасить крепежи в зелёный. Другие работники не смогли справиться со столь резкими изменениями и бросили работу. Хаос расползался по всей планете, и вскоре {PAWN_nameDef} {PAWN_gender ? сбежал : сбежала} с объятого анархией мира.</VBE_CoginTheMachine.baseDesc>
+
+  <!-- EN:Train driver -->
+  <VBE_TrainDriver.title>Машинист поезда</VBE_TrainDriver.title>
+  <!-- EN:Engineer -->
+  <VBE_TrainDriver.titleShort>Машинист</VBE_TrainDriver.titleShort>
+  <!-- EN:[PAWN_nameDef] loves trains. [PAWN_pronoun] used to drive a steam-powered locomotive on a small line in an idyllic landscape. [PAWN_pronoun] would greet the sleepy villages along the line each morning with the cheery sound of the horn. [PAWN_possessive] only worry was to shovel enough coal to keep the locomotive running and to repair the train from time to time. One day, he had to stop in a village. An enraged and sleep-deprived mob took the opportunity to destroy the train and [PAWN_nameDef] decided to leave before they remembered who was responsible for sounding the horn. -->
+  <VBE_TrainDriver.baseDesc>{PAWN_nameDef} обожает поезда. Раньше {PAWN_pronoun} {PAWN_gender ? управлял : управляла} поездом, следовавшим по железнодорожной ветке мимо сёл и деревень. {PAWN_nameDef} {PAWN_gender ? приветствовал : приветствовала} сонных жителей бодрым свистом локомотивного гудка каждое утро. {PAWN_objective} нужно было лишь поддерживать жар в топке и поддерживать механизмы локомотива в рабочем состоянии. Однажды {PAWN_objective} пришлось совершить остановку в деревне. Разъярённая толпа лишённых сна жителей воспользовалась возможностью и выместила свою злобу на поезде. {PAWN_nameDef} {PAWN_gender ? поспешил : поспешила} скрыться, пока они не вспомнили, кто на самом деле отвечал за гудки.</VBE_TrainDriver.baseDesc>
+
+  <!-- EN:Cloned heir -->
+  <VBE_ClonedHeir.title>Клонированный наследник</VBE_ClonedHeir.title>
+  <!-- EN:Clone -->
+  <VBE_ClonedHeir.titleShort>Клон</VBE_ClonedHeir.titleShort>
+  <!-- EN:[PAWN_nameDef] was created to replace the missing heir of a noble house, but did not turn out quite right. Despite the best efforts of [PAWN_possessive] tutors, [PAWN_pronoun] was far more interested in bloodshed than the intricacies of the court.\n\nWhen the heir turned out to be alive after all, [PAWN_nameDef] was discarded to make room for [PAWN_possessive] genetic source. -->
+  <VBE_ClonedHeir.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} чтобы заменить {PAWN_gender ? пропавшего наследника : пропавшую наследницу} благородного дома, но что-то пошло не совсем по плану. Несмотря на все усилия {PAWN_possessive} учителей, {PAWN_pronoun} больше {PAWN_gender ? интересовался : интересовалась} кровопролитием, нежели тонкостями жизни благородного двора.\n\nА когда в итоге {PAWN_gender ? настоящий наследник объявился живым и здоровым : настоящая наследница объявилась живой и здоровой}, от клона было решено избавиться, чтобы оригинал мог занять своё место.</VBE_ClonedHeir.baseDesc>
+
+  <!-- EN:Medicine prodigy -->
+  <VBE_MedicineProdigy.title>Врач-вундеркинд</VBE_MedicineProdigy.title>
+  <!-- EN:Prodigy -->
+  <VBE_MedicineProdigy.titleShort>Вундеркинд</VBE_MedicineProdigy.titleShort>
+  <!-- EN:Born on an overpopulated urbworld, [PAWN_nameDef] displayed a remarkable aptitude for medicine from an early age. Plucked from the education system and inducted into a special program for the intellectually gifted, [PAWN_pronoun] received the best education money could buy, but little time to develop socially or engage in risky behaviour.\n\nTo [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment. -->
+  <VBE_MedicineProdigy.baseDesc>{PAWN_gender ? Рождённый : Рождённая} на перенаселённом мире, {PAWN_nameDef} с ранних лет {PAWN_gender ? демонстрировал : демонстрировала} впечатляющие способности к медицине. Будучи {PAWN_gender ?  извлечённым : извлечённой} из общеобразовательной системы, {PAWN_nameDef} {PAWN_gender ? получал : получала} лучшее образование, которое можно было купить за деньги, но ценой почти полного отсутствия социализации.\n\nВ итоге, для {PAWN_possessive} богатых покровителей, {PAWN_pronoun} {PAWN_gender ? оказался : оказалась} слишком дорогостоящей инвестицией.</VBE_MedicineProdigy.baseDesc>
+
+  <!-- EN:Corrupt politician -->
+  <VBE_CorruptPolitician.title>Коррумпированный политик</VBE_CorruptPolitician.title>
+  <!-- EN:Politician -->
+  <VBE_CorruptPolitician.titleShort>Политик</VBE_CorruptPolitician.titleShort>
+  <!-- EN:[PAWN_nameDef] had a gift for lying and getting away with it, a gift [PAWN_pronoun] used to get elected only to embezzle staggering sums. When [PAWN_possessive] lies finally caught up with [PAWN_objective], [PAWN_pronoun] shot a peacekeeper and fled the planet. -->
+  <VBE_CorruptPolitician.baseDesc>{PAWN_nameDef} обладает редким даром: вовремя оказываться не при делах. Этот самый дар оказался особенно полезен, когда {PAWN_nameDef} {PAWN_gender ? пришёл : пришла} в политику, исключительно для того, чтобы присвоить себе немыслимые суммы денег. Когда {PAWN_possessive} дар дал сбой, {PAWN_objective} ничего не оставалось, кроме как застрелить миротворца и сбежать с планеты.</VBE_CorruptPolitician.baseDesc>
+
+  <!-- EN:Imperial circus performer -->
+  <VBE_ImperialCircusPerformer.title>Артист имперского цирка</VBE_ImperialCircusPerformer.title>
+  <!-- EN:Clown -->
+  <VBE_ImperialCircusPerformer.titleShort>Клоун</VBE_ImperialCircusPerformer.titleShort>
+  <!-- EN:Though [PAWN_pronoun] is known by [PAWN_possessive] friends as [PAWN_nameDef], throughout the systems [PAWN_pronoun] is known as [PAWN_nameDef] the Amazing. [PAWN_nameDef] has performed theatrics and acrobatic stunts and for the Imperial nobles. [PAWN_pronoun] will often brag about [PAWN_possessive] group of followers that attend [PAWN_possessive] every show. Though, no one really knows how many of [PAWN_possessive] stories are just made up. -->
+  <VBE_ImperialCircusPerformer.baseDesc>Для своих друзей и знакомых {PAWN_nameDef} — просто {PAWN_nameDef}. В то же время для жителей многих городов в системе, {PAWN_pronoun} {PAWN_gender ? известен : известна} как «{PAWN_nameDef} {PAWN_gender ? Великолепный : Великолепная}». {PAWN_nameDef} {PAWN_gender ? выступал : выступала} на множестве арен перед многочисленными представителями Имперской знати. {PAWN_pronoun} довольно часто хвастается перед своей группой фанатов, которые не пропускают ни единого {PAWN_possessive} шоу. Хотя, никто не может с уверенностью сказать, какие из {PAWN_possessive} историй являются правдой, а какие — выдумкой.</VBE_ImperialCircusPerformer.baseDesc>
+
+  <!-- EN:Corporate mascot -->
+  <VBE_CorporateMascot.title>Корпоративный талисман</VBE_CorporateMascot.title>
+  <!-- EN:Mascot -->
+  <VBE_CorporateMascot.titleShort>Талисман</VBE_CorporateMascot.titleShort>
+  <!-- EN:[PAWN_nameDef] was a costumed entertainer for a morally questionable entertainment corporation. [PAWN_pronoun] was forced to dance in a depressing white animal suit in exchange for meager pay. -->
+  <VBE_CorporateMascot.baseDesc>{PAWN_nameDef} {PAWN_gender ? работал : работала} аниматором на одну сомнительную развлекательную корпорацию. {PAWN_objective} приходилось танцевать в ростовом костюме белого пушистого животного за сущие гроши.</VBE_CorporateMascot.baseDesc>
+
+  <!-- EN:Deep space scrapper -->
+  <VBE_DeepSpaceScrapper.title>Космический мусорщик</VBE_DeepSpaceScrapper.title>
+  <!-- EN:Scrapper -->
+  <VBE_DeepSpaceScrapper.titleShort>Мусорщик</VBE_DeepSpaceScrapper.titleShort>
+  <!-- EN:Due to the amount of recent interstellar battles, there are a lot of derelict ships floating in space. It's [PAWN_nameDef]'s job to find these ships and salvage them. [PAWN_nameDef] scraps ships, both in orbit and planetside wrecks, and sells the material and parts. Since the ownership of these ships can come into question, [PAWN_nameDef] sometimes finds [PAWN_objective]self on the wrong side of the law. -->
+  <VBE_DeepSpaceScrapper.baseDesc>Из-за огромного количества недавних космических баталий, что в космосе, что на поверхности планет можно найти великое множество обломков кораблей. И здесь в дело вступают такие люди, как {PAWN_nameDef}. {PAWN_possessive} работа — разбирать эти обломки на части и продавать полученные материалы. Легитимность такого заработка находится под сомнением, как то, по какую сторону закона находится {PAWN_nameDef}.</VBE_DeepSpaceScrapper.baseDesc>
+</LanguageData>

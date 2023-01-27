@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:Sommelier -->
+  <VBE_Sommelier.title>Сомелье</VBE_Sommelier.title>
+  <!-- EN:Sommelier -->
+  <VBE_Sommelier.titleShort>Сомелье</VBE_Sommelier.titleShort>
+  <!-- EN:[PAWN_nameDef] was an experienced winemaker, growing [PAWN_possessive] own grapes and putting utmost care into [PAWN_possessive] work. [PAWN_pronoun] also is quite fond of cooking meals to pair with [PAWN_possessive] wines. -->
+  <VBE_Sommelier.baseDesc>{PAWN_nameDef} — опытный винодел,{PAWN_gender ? который выращивал : которая выращивала} собственный виноград и {PAWN_gender ? вкладывал : вкладывала} душу в своё ремесло. Кроме этого, {PAWN_nameDef} гордится своей готовкой, ведь ничто так не подчёркивает хорошее вино, как это делает вкусная еда.</VBE_Sommelier.baseDesc>
+
+  <!--EN:Desert survivor -->
+  <VBE_DesertSurvivor.title>Житель пустыни</VBE_DesertSurvivor.title>
+  <!--EN:Survivor -->
+  <VBE_DesertSurvivor.titleShort>Выживший</VBE_DesertSurvivor.titleShort>
+  <!--EN:[PAWN_nameDef]'s sworn enemies left [PAWN_objective] to die on a hostile desert planet. Despite all the odds, [PAWN_pronoun] survived in such an environment and adapted to it. Due to spending a lot of time living in the wastelands, [PAWN_nameDef] has no knowledge about plants. -->
+  <VBE_DesertSurvivor.baseDesc>Когда-то заклятый враг оставил {PAWN_possessive} умирать на пустынной планете, отличавшейся враждебной средой. Несмотря на свои скромные шансы, {PAWN_nameDef}, не только {PAWN_gender ? смог : смогла} выжить, но ещё и {PAWN_gender ? приспособился : приспособилась} к жизни в песках. Что интересно, имея огромный опыт выживания, {PAWN_nameDef} совершенно не разбирается в растениях, так как на пустынных планетах их редко где можно было найти.</VBE_DesertSurvivor.baseDesc>
+
+  <!-- EN:Literary critic -->
+  <VBE_LiteraryCritic.title>Литературный критик</VBE_LiteraryCritic.title>
+  <!-- EN:Critic -->
+  <VBE_LiteraryCritic.titleShort>Критик</VBE_LiteraryCritic.titleShort>
+  <!-- EN:[PAWN_nameDef] partook in formal education in Literature, obtaining the highest score in [PAWN_objective] class and even in the history of that department’s founding. As such, [PAWN_pronoun] takes almost sadistic pleasure in critiquing people’s work, especially if they are otherwise considered their magnum opus. Many bestselling authors have been reduced to tears by [PAWN_objective] harsh judgement, which often results in their life’s work becoming publicly despised. -->
+  <VBE_LiteraryCritic.baseDesc>Получая высшее образования в области литературы, {PAWN_nameDef} {PAWN_gender ? смог : смогла} набрать на итоговом экзамене наивысший балл не только из своего класса, но и за всю историю своего учебного заведения. Может быть из-за этого {PAWN_pronoun} теперь получает почти садистское удовлетворение, критикуя работы других людей. Особенно, если они считают их своим шедевром. {PAWN_possessive} рецензии были причиной слёз авторов многих бестселлеров, а отношение публики к самим авторам и их творчеству менялось самым кардинальным образом, от всеобщего обожания к полнейшему позору.</VBE_LiteraryCritic.baseDesc>
+
+  <!-- EN:Rodent rancher -->
+  <VBE_RodentRancher.title>Крысовод</VBE_RodentRancher.title>
+  <!-- EN:Rancher -->
+  <VBE_RodentRancher.titleShort>Крысовод</VBE_RodentRancher.titleShort>
+  <!-- EN:[PAWN_nameDef] spent a lot of [PAWN_objective] time working on a rodent farm in an overpopulated city on one of the urbworlds. Due to limited spacing and mostly processed foods, [PAWN_pronoun] found great success in offering actual meat for those who wanted a break from mediocrity. Granted [PAWN_pronoun] ended up on the run because [PAWN_possessive] Ratburgers attracted the taxman, but [PAWN_pronoun] found it fun while it lasted. -->
+  <VBE_RodentRancher.baseDesc>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} большую часть своей жизни ухаживая за крысиной фермой, расположенной в одном из густонаселённых городов-ульев урбанизированного мира. Из-за того, что жителям города приходилось жить в условиях ограниченного пространства и сублимированных продуктов, {PAWN_possessive} бизнес-идея была неожиданно успешной, так как {PAWN_nameDef} {PAWN_gender ? предлагал : предлагала} людям то, чего им было трудно достать — натуральное мясо. Так продолжалось, пока {PAWN_possessive} бизнесом не заинтересовалась налоговая инспекция, из-за чего {PAWN_objective} пришлось спешно покинуть планету. Ну, по крайней мере, это было увлекательно.</VBE_RodentRancher.baseDesc>
+
+  <!-- EN:Pathological liar -->
+  <VBE_PathologicalLiar.title>Патологический лжец</VBE_PathologicalLiar.title>
+  <!-- EN:Liar -->
+  <VBE_PathologicalLiar.titleShort>Лжец</VBE_PathologicalLiar.titleShort>
+  <!-- EN:[PAWN_nameDef] loves to make stuff up and just can’t help [PAWN_objective]self. Particularly, [PAWN_pronoun] enjoys going to any place that serves alcohol and tells the biggest, boldest stories full of twists, turns and drama while being bought round after round. However, once [PAWN_pronoun] gets bored or has decided that [PAWN_pronoun] has drunk enough, almost every story ends on a completely random note with everyone dying in horrific fashion. -->
+  <VBE_PathologicalLiar.baseDesc>{PAWN_nameDef} жить не может без того, чтобы не соврать, даже если дело касается мелочей. Больше всего {PAWN_pronoun} любит зайти куда-нибудь, где {PAWN_objective} могут налить выпивки и начать рассказывать залихватскую историю, полную неожиданных поворотов, под щедрое угощение. Ну а когда {PAWN_objective} это надоедает, или {PAWN_objective} кажется, что {PAWN_pronoun} {PAWN_gender ? выпил : выпила} достаточно, почти каждая история заканчивается самым внезапным образом. Как правило — тем, что все её герои погибли ужасной смертью.</VBE_PathologicalLiar.baseDesc>
+
+  <!-- EN:Blackguard -->
+  <VBE_Blackguard.title>Меченый</VBE_Blackguard.title>
+  <!-- EN:Blackguard -->
+  <VBE_Blackguard.titleShort>Меченый</VBE_Blackguard.titleShort>
+  <!-- EN:[PAWN_nameDef] never really managed well wherever [PAWN_pronoun] went as a general air of misfortune seemingly hovers over [PAWN_possessive] head. As most people are extremely superstitious, every town [PAWN_pronoun] has visited has chased [PAWN_objective] away as disaster always seems to follow while [PAWN_pronoun] survives. So [PAWN_pronoun] got really good at fending for [PAWN_objective]self. -->
+  <VBE_Blackguard.baseDesc>{PAWN_nameDef} — не тот человек, про которого можно сказать, что {PAWN_objective} повезло в жизни. Кажется, что где бы {PAWN_pronoun} ни {PAWN_gender ? появился : появилась}, всюду злой рок следует за {PAWN_gender ? ним : ней} по пятам. Ну а поскольку многие люди суеверны, то {PAWN_possessive} часто выгоняли из городов и сёл, зная о том, что {PAWN_nameDef} несёт за собой беду, которая не щадит никого вокруг, кроме н{PAWN_possessive} {PAWN_gender ? самого : самой}. Так, со временем, {PAWN_nameDef} {PAWN_gender ? научился : научилась} заботиться о себе без посторонней помощи.</VBE_Blackguard.baseDesc>
+
+  <!-- EN:Bounty hunter -->
+  <VBE_BountyHunter.title>Охотник за головами</VBE_BountyHunter.title>
+  <!-- EN:Hunter -->
+  <VBE_BountyHunter.titleShort>Охотник</VBE_BountyHunter.titleShort>
+  <!-- EN:[PAWN_nameDef] takes a lot of pride in [PAWN_possessive] to find, capture and deliver individuals who have pissed off the wrong people, primarily if it involves a large cash influx in [PAWN_possessive] direction. It might not be the most glamorous job but it pays for a decent lifestyle and that’s all [PAWN_pronoun] has ever really wanted in life. Plus [PAWN_pronoun] gets to shoot people in the face, which can be surprisingly therapeutic. -->
+  <VBE_BountyHunter.baseDesc>{PAWN_nameDef} гордится своим умением выслеживать, захватывать и доставлять тех, кто перешёл дорогу не тем людям. Особенно, когда речь идёт о больших суммах денег, попадающих в {PAWN_possessive} карман. Может работа и не самая приятная, но позволяет мало в чём себя ограничивать, а это всё, чего {PAWN_nameDef} когда-либо {PAWN_gender ? хотел : хотела} получить от жизни. Плюс, {PAWN_pronoun} всегда может выстрелить кому-нибудь в лицо, а это очень здорово помогает поднять настроение.</VBE_BountyHunter.baseDesc>
+
+  <!-- EN:Thane -->
+  <VBE_Thane.title>Тан</VBE_Thane.title>
+  <!-- EN:Thane -->
+  <VBE_Thane.titleShort>Тан</VBE_Thane.titleShort>
+  <!-- EN:[PAWN_nameDef] was elevated to a position of thane in [PAWN_possessive] jarl’s holding, giving [PAWN_possessive] a large degree of freedom to do as [PAWN_pronoun] pleased as long as it advanced their interests. So far [PAWN_pronoun] has enjoyed an easier life with a few servants while taking up an interest in raising beasts of war and training elite soldiers. -->
+  <VBE_Thane.baseDesc>{PAWN_nameDef} {PAWN_gender ? получил : получила} звание тана во владении своего ярла, что даёт {PAWN_objective} значительную долю свободы и привилегий, до тех пор, пока они не противоречат интересам ярла. {PAWN_nameDef} {PAWN_gender ? наслаждался : наслаждалась} сравнительно более приятной жизнью, во многом полагаясь на своих слуг и {PAWN_gender ? занимался : занималась} дрессировкой боевых зверей и тренировкой элитных бойцов ярла.</VBE_Thane.baseDesc>
+
+  <!-- EN:Trainee combat medic -->
+  <VBE_TraineeCombatMedic.title>Полевой медик</VBE_TraineeCombatMedic.title>
+  <!-- EN:Paramedic -->
+  <VBE_TraineeCombatMedic.titleShort>Фельдшер</VBE_TraineeCombatMedic.titleShort>
+  <!-- EN:[PAWN_nameDef] has received extensive military training to act as the lynchpin for [PAWN_possessive] squad. This includes but is not limited to recovering and treating wounded soldiers or people of interest, as well as acting as second-in-command. While this doesn’t detract from the results, [PAWN_pronoun] has an extremely dry, no-nonsense personality and can be difficult to get along with. -->
+  <VBE_TraineeCombatMedic.baseDesc>{PAWN_nameDef} {PAWN_gender ? прошёл : прошла} продвинутую армейскую программу тренировки, направленную на то, чтобы сделать из н{PAWN_possessive} надежду и опору своего взвода. Тренировка включала в себя (но не ограничивалась) санитарной эвакуацией, первой медицинской помощью и начальной командирской подготовкой. И хотя это не повлияло на конечный итог, но стоит отметить, что {PAWN_nameDef} обладает очень сдержанным характером и сухой, строгой манерой общения, и не терпит разгильдяйства. Из-за чего многие считают, что с {PAWN_gender ? ним : ней} трудно поладить.</VBE_TraineeCombatMedic.baseDesc>
+</LanguageData>
