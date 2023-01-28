@@ -1,68 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN:
+    <li>physical_description_root->This [rug] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [rug] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [rug] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>rug->rug</li>
+    <li>rug->work</li>
+    <li>rug->work</li>
+    <li>rug->textile</li>
+  -->
+  <ArtDescription_Rug.rulePack.rulesStrings>
+    <li>physical_description_root->[rug] демонстрирует[image]. [desc_sentence_group]</li>
+    <li>rug->Этот ковёр</li>
+    <li>rug->Эта работа</li>
+    <li>rug->Эта вышивка</li>
+  </ArtDescription_Rug.rulePack.rulesStrings>
 
-  <!-- EN: physical_description_root->This [rug] [depicts] [image]. [desc_sentence_group] -->
-	<ArtDescription_Rug.rulePack.rulesStrings.0>physical_description_root-&gt;This [rug] [depicts] [image]. [desc_sentence_group]</ArtDescription_Rug.rulePack.rulesStrings.0>
-  <!-- EN: physical_description_root->This [rug] bears a [depiction] of [image]. [desc_sentence_group] -->
-	<ArtDescription_Rug.rulePack.rulesStrings.1>physical_description_root-&gt;This [rug] bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Rug.rulePack.rulesStrings.1>
-  <!-- EN: physical_description_root->On this [rug] is a [depiction] of [image]. [desc_sentence_group] -->
-	<ArtDescription_Rug.rulePack.rulesStrings.2>physical_description_root-&gt;On this [rug] is a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Rug.rulePack.rulesStrings.2>
-  <!-- EN: rug->rug -->
-	<ArtDescription_Rug.rulePack.rulesStrings.3>rug-&gt;rug</ArtDescription_Rug.rulePack.rulesStrings.3>
-  <!-- EN: rug->work -->
-	<ArtDescription_Rug.rulePack.rulesStrings.4>rug-&gt;work</ArtDescription_Rug.rulePack.rulesStrings.4>
-  <!-- EN: rug->piece -->
-	<ArtDescription_Rug.rulePack.rulesStrings.5>rug-&gt;piece</ArtDescription_Rug.rulePack.rulesStrings.5>
-  <!-- EN: rug->textile -->
-	<ArtDescription_Rug.rulePack.rulesStrings.6>rug-&gt;textile</ArtDescription_Rug.rulePack.rulesStrings.6>
+  <!-- EN:
+    <li>physical_description_root->This [pottery] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [pottery] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [pottery] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>rug->pottery</li>
+    <li>rug->work</li>
+    <li>rug->piece</li>
+    <li>rug->set</li>
+  -->
+  <ArtDescription_Pottery.rulePack.rulesStrings>
+    <li>physical_description_root->[pottery] демонстрирует[image]. [desc_sentence_group]</li>
+    <li>pottery->Этот набор</li>
+    <li>pottery->Эта посуда</li>
+    <li>pottery->Эта работа</li>
+  </ArtDescription_Pottery.rulePack.rulesStrings>
 
-  <!-- EN: physical_description_root->This [pottery] [depicts] [image]. [desc_sentence_group] -->
-	<ArtDescription_Pottery.rulePack.rulesStrings.0>physical_description_root-&gt;This [pottery] [depicts] [image]. [desc_sentence_group]</ArtDescription_Pottery.rulePack.rulesStrings.0>
-  <!-- EN: physical_description_root->This [pottery] bears a [depiction] of [image]. [desc_sentence_group] -->
-	<ArtDescription_Pottery.rulePack.rulesStrings.1>physical_description_root-&gt;This [pottery] bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Pottery.rulePack.rulesStrings.1>
-  <!-- EN: physical_description_root->On this [pottery] is a [depiction] of [image]. [desc_sentence_group] -->
-	<ArtDescription_Pottery.rulePack.rulesStrings.2>physical_description_root-&gt;On this [pottery] is a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Pottery.rulePack.rulesStrings.2>
-  <!-- EN: pottery->pottery -->
-	<ArtDescription_Pottery.rulePack.rulesStrings.3>pottery-&gt;pottery</ArtDescription_Pottery.rulePack.rulesStrings.3>
-  <!-- EN: pottery->work -->
-	<ArtDescription_Pottery.rulePack.rulesStrings.4>pottery-&gt;work</ArtDescription_Pottery.rulePack.rulesStrings.4>
-  <!-- EN: pottery->piece -->
-	<ArtDescription_Pottery.rulePack.rulesStrings.5>pottery-&gt;piece</ArtDescription_Pottery.rulePack.rulesStrings.5>
-  <!-- EN: pottery->set -->
-	<ArtDescription_Pottery.rulePack.rulesStrings.6>pottery-&gt;set</ArtDescription_Pottery.rulePack.rulesStrings.6>
+  <!-- EN:
+    <li>physical_description_root->This [pottery] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [pottery] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [pottery] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>rug->hologram</li>
+    <li>rug->light sculpture</li>
+    <li>rug->piece</li>
+    <li>rug->model</li>
+  -->
+  <ArtDescription_Hologram.rulePack.rulesStrings>
+    <li>physical_description_root->[hologram] демонстрирует[image]. [desc_sentence_group]</li>
+    <li>hologram->Эта голограмма</li>
+    <li>hologram->Эта скульптура из света</li>
+    <li>hologram->Эта работа</li>
+    <li>hologram->Эта модель</li>
+  </ArtDescription_Hologram.rulePack.rulesStrings>
 
-  <!-- EN: physical_description_root->This [hologram] [depicts] [image]. [desc_sentence_group] -->
-	<ArtDescription_Hologram.rulePack.rulesStrings.0>physical_description_root-&gt;This [hologram] [depicts] [image]. [desc_sentence_group]</ArtDescription_Hologram.rulePack.rulesStrings.0>
-  <!-- EN: physical_description_root->This [hologram] bears a [depiction] of [image]. [desc_sentence_group] -->
-	<ArtDescription_Hologram.rulePack.rulesStrings.1>physical_description_root-&gt;This [hologram] bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Hologram.rulePack.rulesStrings.1>
-  <!-- EN: physical_description_root->On this [hologram] is a [depiction] of [image]. [desc_sentence_group] -->
-	<ArtDescription_Hologram.rulePack.rulesStrings.2>physical_description_root-&gt;On this [hologram] is a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Hologram.rulePack.rulesStrings.2>
-  <!-- EN: hologram->hologram -->
-	<ArtDescription_Hologram.rulePack.rulesStrings.3>hologram-&gt;hologram</ArtDescription_Hologram.rulePack.rulesStrings.3>
-  <!-- EN: hologram->light sculpture -->
-	<ArtDescription_Hologram.rulePack.rulesStrings.4>hologram-&gt;light sculpture</ArtDescription_Hologram.rulePack.rulesStrings.4>
-  <!-- EN: hologram->piece -->
-	<ArtDescription_Hologram.rulePack.rulesStrings.5>hologram-&gt;piece</ArtDescription_Hologram.rulePack.rulesStrings.5>
-  <!-- EN: hologram->model -->
-	<ArtDescription_Hologram.rulePack.rulesStrings.6>hologram-&gt;model</ArtDescription_Hologram.rulePack.rulesStrings.6>
-
-  <!-- EN: physical_description_root->This [machine] [imprints] an image of [image]. [desc_sentence_group] -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.0>physical_description_root-&gt;This [machine] [imprints] an image of [image]. [desc_sentence_group]</ArtDescription_Archotech.rulePack.rulesStrings.0>
-  <!-- EN: machine->machine -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.1>machine-&gt;machine</ArtDescription_Archotech.rulePack.rulesStrings.1>
-  <!-- EN: machine->ancient device -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.2>machine-&gt;ancient device</ArtDescription_Archotech.rulePack.rulesStrings.2>
-  <!-- EN: machine->unexplainable structure -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.3>machine-&gt;unexplainable structure</ArtDescription_Archotech.rulePack.rulesStrings.3>
-  <!-- EN: machine->archotech sculpture -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.4>machine-&gt;archotech sculpture</ArtDescription_Archotech.rulePack.rulesStrings.4>
-  <!-- EN: imprints->conveys -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.5>imprints-&gt;conveys</ArtDescription_Archotech.rulePack.rulesStrings.5>
-  <!-- EN: imprints->imprints -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.6>imprints-&gt;imprints</ArtDescription_Archotech.rulePack.rulesStrings.6>
-  <!-- EN: imprints->makes people think of -->
-	<ArtDescription_Archotech.rulePack.rulesStrings.7>imprints-&gt;makes people think of</ArtDescription_Archotech.rulePack.rulesStrings.7>
-
-
-
+  <!-- EN:
+    <li>physical_description_root->This [machine] [imprints] an image of [image]. [desc_sentence_group]</li>
+    <li>machine->machine</li>
+    <li>machine->ancient device</li>
+    <li>machine->unexplainable structure</li>
+    <li>machine->archotech sculpture</li>
+    <li>imprints->conveys</li>
+    <li>imprints->imprints</li>
+    <li>imprints->makes people think of</li>
+  -->
+  <ArtDescription_Archotech.rulePack.rulesStrings>
+    <li>physical_description_root->[hologram] [imprints][image]. [desc_sentence_group]</li>
+    <li>machine->Эта машина</li>
+    <li>machine->Это древнее устройство</li>
+    <li>machine->Эта необъяснимая структура</li>
+    <li>machine->Эта архоскульптура</li>
+    <li>imprints->показывает</li>
+    <li>imprints->демонстрирует</li>
+    <li>imprints->заставляет думать о том</li>
+  </ArtDescription_Archotech.rulePack.rulesStrings>
 </LanguageData>
