@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
   <v1.4>
-    <li>Main</li>
+    <li>Common</li>
+	<li IfModActive="VanillaExpanded.VFECore">Main</li>
     <li IfModActive="VanillaExpanded.VFEArchitect">Architect</li>
     <li IfModActive="VanillaExpanded.VFEArt">Art</li>
     <li IfModActive="VanillaExpanded.VFEMedical">Medical</li>
