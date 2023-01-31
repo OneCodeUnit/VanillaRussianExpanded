@@ -1,37 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: portable wood-fired generator -->
-	<VFE_PortableWoodFiredGenerator.label>portable wood-fired generator</VFE_PortableWoodFiredGenerator.label>
+  <VFE_PortableWoodFiredGenerator.label>переносной генератор на дровах</VFE_PortableWoodFiredGenerator.label>
   <!-- EN: Produces a small amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. This generator is light enough to be carried around. -->
-	<VFE_PortableWoodFiredGenerator.description>Produces a small amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. This generator is light enough to be carried around.</VFE_PortableWoodFiredGenerator.description>
+  <VFE_PortableWoodFiredGenerator.description>Производит небольшое количество электричества, потребляя в качестве топлива древесину. Необходимо заправлять вручную. Этот генератор достаточно лёгкий, чтобы его можно было носить с собой.</VFE_PortableWoodFiredGenerator.description>
 
   <!-- EN: portable chemfuel powered generator -->
-	<VFE_PortableChemfuelPoweredGenerator.label>portable chemfuel powered generator</VFE_PortableChemfuelPoweredGenerator.label>
+  <VFE_PortableChemfuelPoweredGenerator.label>переносной генератор на химтопливе</VFE_PortableChemfuelPoweredGenerator.label>
   <!-- EN: Produces a small amount of power by consuming chemfuel. Must be periodically refueled by hand. This generator is light enough to be carried around. -->
-	<VFE_PortableChemfuelPoweredGenerator.description>Produces a small amount of power by consuming chemfuel. Must be periodically refueled by hand. This generator is light enough to be carried around.</VFE_PortableChemfuelPoweredGenerator.description>
+  <VFE_PortableChemfuelPoweredGenerator.description>Производит небольшое количество электричества, потребляя химическое топливо. Необходимо заправлять вручную. Этот генератор достаточно лёгкий, чтобы его можно было носить с собой.</VFE_PortableChemfuelPoweredGenerator.description>
 
   <!-- EN: industrial wood-fired generator -->
-	<VFE_IndustrialWoodFiredGenerator.label>industrial wood-fired generator</VFE_IndustrialWoodFiredGenerator.label>
+  <VFE_IndustrialWoodFiredGenerator.label>промышленный генератор на дровах</VFE_IndustrialWoodFiredGenerator.label>
   <!-- EN: Produces a large amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-	<VFE_IndustrialWoodFiredGenerator.description>Produces a large amount of power by consuming wood. Must be periodically loaded with wood fuel by hand.</VFE_IndustrialWoodFiredGenerator.description>
+  <VFE_IndustrialWoodFiredGenerator.description>Производит большое количество электричества, потребляя в качестве топлива древесину. Необходимо заправлять вручную.</VFE_IndustrialWoodFiredGenerator.description>
 
   <!-- EN: industrial chemfuel powered generator -->
-	<VFE_IndustrialChemfuelPoweredGenerator.label>industrial chemfuel powered generator</VFE_IndustrialChemfuelPoweredGenerator.label>
+  <VFE_IndustrialChemfuelPoweredGenerator.label>промышленный генератор на химтопливе</VFE_IndustrialChemfuelPoweredGenerator.label>
   <!-- EN: Produces a large amount of power by consuming chemfuel. Must be periodically refueled by hand. -->
-	<VFE_IndustrialChemfuelPoweredGenerator.description>Produces a large amount of power by consuming chemfuel. Must be periodically refueled by hand.</VFE_IndustrialChemfuelPoweredGenerator.description>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>Производит большое количество электричества, потребляя химическое топливо. Необходимо заправлять вручную.</VFE_IndustrialChemfuelPoweredGenerator.description>
 
   <!-- EN: tidal generator -->
-	<VFE_TidalGenerator.label>tidal generator</VFE_TidalGenerator.label>
+  <VFE_TidalGenerator.label>приливный генератор</VFE_TidalGenerator.label>
   <!-- EN: Produces electricity from moving masses of water, particularly tides. Must be placed on water. -->
-	<VFE_TidalGenerator.description>Produces electricity from moving masses of water, particularly tides. Must be placed on water.</VFE_TidalGenerator.description>
+  <VFE_TidalGenerator.description>Вырабатывает электричество из движущихся масс воды, в частности — приливов. Должен быть размещён на воде.</VFE_TidalGenerator.description>
   <!-- EN: tidal generator (blueprint) -->
-	<VFE_TidalGenerator_Blueprint.label>tidal generator (blueprint)</VFE_TidalGenerator_Blueprint.label>
+  <Blueprint_VFE_TidalGenerator.label>приливный генератор (проект)</Blueprint_VFE_TidalGenerator.label>
   <!-- EN: tidal generator (building) -->
-	<VFE_TidalGenerator_Frame.label>tidal generator (building)</VFE_TidalGenerator_Frame.label>
+  <Frame_VFE_TidalGenerator.label>приливный генератор (строится)</Frame_VFE_TidalGenerator.label>
   <!-- EN: Produces electricity from moving masses of water, particularly tides. Must be placed on water. -->
-	<VFE_TidalGenerator_Frame.description>Produces electricity from moving masses of water, particularly tides. Must be placed on water.</VFE_TidalGenerator_Frame.description>
-
-
-
+  <Frame_VFE_TidalGenerator.description>Вырабатывает электричество из движущихся масс воды, в частности — приливов. Должен быть размещён на воде.</Frame_VFE_TidalGenerator.description>
 </LanguageData>
