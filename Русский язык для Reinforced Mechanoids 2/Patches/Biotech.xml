@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Biotech</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<!-- ================================ Add Defs that need Biotech ====================== -->
+				<li Class="PatchOperationAdd">
+					<xpath>Defs</xpath>
+					<value>
+						<!-- ================================ Mechanoid Recipies (Small) ====================== -->
+						<RecipeDef ParentName="LightMechanoidRecipe">
+							<defName>RM_Mech_Vulture</defName>
+							<label>gestate vulture</label>
+							<description>Gestate a vulture mechanoid.</description>
+							<products>
+								<RM_Mech_Vulture>1</RM_Mech_Vulture>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Vulture</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="SuperHeavyMechanoidRecipe">
+							<defName>RM_Mech_Caretaker</defName>
+							<label>gestate caretaker</label>
+							<description>Gestate a caretaker mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>200</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>200</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>4</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentSpacer</li>
+										</thingDefs>
+									</filter>
+									<count>2</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreHigh</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Caretaker>1</RM_Mech_Caretaker>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Caretaker</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="LightMechanoidRecipe">
+							<defName>RM_Mech_Falcon</defName>
+							<label>gestate falcon</label>
+							<description>Gestate a falcon mechanoid.</description>
+							<products>
+								<RM_Mech_Falcon>1</RM_Mech_Falcon>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Falcon</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="MediumMechanoidRecipe">
+							<defName>RM_Mech_Gremlin</defName>
+							<label>gestate gremlin</label>
+							<description>Gestate a gremlin mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>75</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>75</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>4</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreRegular</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Gremlin>1</RM_Mech_Gremlin>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Gremlin</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="MediumMechanoidRecipe">
+							<defName>RM_Mech_Harpy</defName>
+							<label>gestate harpy</label>
+							<description>Gestate a harpy mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>75</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>75</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>4</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreRegular</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Harpy>1</RM_Mech_Harpy>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Harpy</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="MediumMechanoidRecipe">
+							<defName>RM_Mech_Ranger</defName>
+							<label>gestate ranger</label>
+							<description>Gestate a ranger mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>75</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>75</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>4</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreRegular</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Ranger>1</RM_Mech_Ranger>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Ranger</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="MediumMechanoidRecipe">
+							<defName>RM_Mech_Zealot</defName>
+							<label>gestate zealot</label>
+							<description>Gestate a zealot mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>95</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>85</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>6</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreRegular</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Zealot>1</RM_Mech_Zealot>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Zealot</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="MediumMechanoidRecipe">
+							<defName>RM_Mech_Marshal</defName>
+							<label>gestate marshal</label>
+							<description>Gestate a marshal mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>85</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>95</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>5</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreRegular</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Marshal>1</RM_Mech_Marshal>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Marshal</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="HeavyMechanoidRecipe">
+							<defName>RM_Mech_Sentinel</defName>
+							<label>gestate sentinel</label>
+							<description>Gestate a sentinel mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>150</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>75</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>5</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreRegular</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Sentinel>1</RM_Mech_Sentinel>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Sentinel</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="HeavyMechanoidRecipe">
+							<defName>RM_Mech_Behemoth</defName>
+							<label>gestate behemoth</label>
+							<description>Gestate a behemoth mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>150</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>95</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>6</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreRegular</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Behemoth>1</RM_Mech_Behemoth>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Behemoth</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="SuperHeavyMechanoidRecipe">
+							<defName>RM_Mech_Wraith</defName>
+							<label>gestate wraith</label>
+							<description>Gestate a wraith mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>200</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>200</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>4</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentSpacer</li>
+										</thingDefs>
+									</filter>
+									<count>2</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreHigh</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Wraith>1</RM_Mech_Wraith>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Wraith</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+						<RecipeDef ParentName="SuperHeavyMechanoidRecipe">
+							<defName>RM_Mech_Locust</defName>
+							<label>gestate locust</label>
+							<description>Gestate a locust mechanoid.</description>
+							<ingredients Inherit="False">
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Steel</li>
+										</thingDefs>
+									</filter>
+									<count>200</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>Plasteel</li>
+										</thingDefs>
+									</filter>
+									<count>200</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>4</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>ComponentSpacer</li>
+										</thingDefs>
+									</filter>
+									<count>2</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>SubcoreHigh</li>
+										</thingDefs>
+									</filter>
+									<count>1</count>
+								</li>
+							</ingredients>
+							<products>
+								<RM_Mech_Locust>1</RM_Mech_Locust>
+							</products>
+							<descriptionHyperlinks>
+								<ThingDef>RM_Mech_Locust</ThingDef>
+							</descriptionHyperlinks>
+						</RecipeDef>
+
+					</value>
+				</li>
+				<!-- ================================ Adds Mechanoid recipies ====================== -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="MechGestator"]/recipes</xpath>
+					<value>
+						<li>RM_Mech_Vulture</li>
+						<li>RM_Mech_Falcon</li>
+						<li>RM_Mech_Harpy</li>
+						<li>RM_Mech_Gremlin</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="LargeMechGestator"]/recipes</xpath>
+					<value>
+						<li>RM_Mech_Ranger</li>
+						<li>RM_Mech_Zealot</li>
+						<li>RM_Mech_Marshal</li>
+						<li>RM_Mech_Sentinel</li>
+						<li>RM_Mech_Behemoth</li>
+						<li>RM_Mech_Wraith</li>
+						<li>RM_Mech_Locust</li>
+						<li>RM_Mech_Caretaker</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[@Name="BaseMechanoidResurrectionRecipe"]</xpath>
+					<value>
+						<displayPriority>0</displayPriority>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName="ResurrectLightMech"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Corpse_RM_Mech_Vulture</li>
+						<li>Corpse_RM_Mech_Falcon</li>
+						<li>Corpse_RM_Mech_Harpy</li>
+						<li>Corpse_RM_Mech_Gremlin</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName="ResurrectMediumMech"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Corpse_RM_Mech_Ranger</li>
+						<li>Corpse_RM_Mech_Zealot</li>
+						<li>Corpse_RM_Mech_Marshal</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName="ResurrectHeavyMech"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Corpse_RM_Mech_Sentinel</li>
+						<li>Corpse_RM_Mech_Behemoth</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[defName="ResurrectUltraheavyMech"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>Corpse_RM_Mech_Wraith</li>
+						<li>Corpse_RM_Mech_Locust</li>
+						<li>Corpse_RM_Mech_Caretaker</li>
+					</value>
+				</li>
+				<!-- ================================ Patches Gestalt Engine into Biotech ====================== -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="RM_GestaltEngine"]/designationCategory</xpath>
+					<value>
+						<designationCategory>Biotech</designationCategory>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

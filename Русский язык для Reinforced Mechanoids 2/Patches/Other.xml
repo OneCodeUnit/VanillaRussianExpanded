@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!-- ================================ Adds smoke effect to the vanometric generator ====================== -->
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Simple FX: Smoke</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="RM_VanometricGenerator"]/comps</xpath>
+					<value>
+						<li Class="Flecker.CompProperties_Smoker">
+							<particleOffset>(-0.5,0,-0.5)</particleOffset>
+						</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+	<!-- ================================ Adds Graviton Mace sound to VFE-Pirates ====================== -->
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Factions Expanded - Pirates</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/DamageDef[defName="VFEP_GravityHammerAttack"]/modExtensions/li[@Class="VFECore.DamageExtension"]/soundOnDamage</xpath>
+					<value>
+						<soundOnDamage>RM_Hit_GravitonMace</soundOnDamage>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>
