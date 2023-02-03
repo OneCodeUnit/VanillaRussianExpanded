@@ -15,10 +15,8 @@
 	
 	Planting a saplingchild makes the pawn temporarily infertile.
   -->
-  <VRE_SaplingBirth.customEffectDescriptions>
-	<li>Посадка саженецев-потомоков вместо беременности и живорождения.</li>
-	<li>Посадка саженца-потомока делает персонажа временно бесплодным.</li>
-  </VRE_SaplingBirth.customEffectDescriptions>
+  <VRE_SaplingBirth.customEffectDescriptions.0>Посадка саженецев-потомоков вместо беременности и живорождения.</VRE_SaplingBirth.customEffectDescriptions.0>
+  <VRE_SaplingBirth.customEffectDescriptions.1>Посадка саженца-потомока делает персонажа временно бесплодным.</VRE_SaplingBirth.customEffectDescriptions.1>
   
   
   <!-- EN: polux affinity -->
@@ -28,9 +26,7 @@
   <!-- EN: 
 	All polux bushes on the map have their radius increased by +2 for every pawn with a Polux affinity gene currently on the map.
   -->
-  <VRE_PoluxAffinity.customEffectDescriptions>
-	<li>Все кусты Поллукса получают +2 к радиусу действия за каждого персонажа с геном родства с древом Поллукса на карте.</li>
-  </VRE_PoluxAffinity.customEffectDescriptions>
+  <VRE_PoluxAffinity.customEffectDescriptions.0>Все кусты Поллукса получают +2 к радиусу действия за каждого персонажа с геном родства с древом Поллукса на карте.</VRE_PoluxAffinity.customEffectDescriptions.0>
   <!-- EN: wastepacks -->
   <VRE_PoluxAffinity.resourceLabel>отходы</VRE_PoluxAffinity.resourceLabel>
   <!-- EN: A need by {PAWN_nameDef} to consume wastepacks -->
