@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: 
 	questName->the [adjAny] Phytokin
@@ -8,24 +8,24 @@
 	adjAny->ambushed
   -->
   <VRE_Intro_Phytokin.questNameRules.rulesStrings>
-	<li>questName->the [adjAny] Phytokin</li>
-	<li>adjAny->hunted</li>
-	<li>adjAny->fleeing</li>
-	<li>adjAny->solitary</li>
-	<li>adjAny->ambushed</li>
+	<li>questName->[adjAny]</li>
+	<li>adjAny->охота на фитона</li>
+	<li>adjAny->убегающий фитон</li>
+	<li>adjAny->одинокий фитон</li>
+	<li>adjAny->засада на фитона</li>
   </VRE_Intro_Phytokin.questNameRules.rulesStrings>
   
   <!-- EN: 
 	questDescription->[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.
   -->
   <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
-	<li>questDescription->[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.</li>
+	<li>questDescription->Могущественный фитон по имени [asker_nameFull] бежит и зовёт на помощь! Она была изгнана из фракции [enemyFaction_name] за то, что дала им неудачный совет, и теперь за ней охотится поисковый отряд [enemyFaction_pawnsPlural], состоящий из:\n\n[raid/raidPawnKinds]\n\n[asker_nameFull] хочет, чтобы её защищали на территории [map_definite]. Если вы согласитесь её принять, на вас нападёт поисковый отряд, с которым придётся разобраться.\n\nФитоны — это гуманоиды, созданные на основе растений с акцентом на симметрию и симбиоз. Родство с растениями и способность питаться солнечным светом делает их очень полезными для оказания помощи новым поселениям и недостаточно успешным фермерским хозяйствам на индустриальных мирах.</li>
   </VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
 
   <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], the band of pirates pursuing her will arrive soon. -->
-  <VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nBecause you accepted [asker_nameDef], the band of pirates pursuing her will arrive soon.</VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>
+  <VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nТак как вы приняли [asker_nameDef] в своё поселение, банда пиратов, преследующих её, скоро прибудет.</VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>
   <!-- EN: {BASELABEL}: Pursuing pirates -->
-  <VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Pursuing pirates</VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>
+  <VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Преследующие пираты</VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>
   <!-- EN: {BASETEXT}\n\nThese are the pirates that were hunting [../asker_nameFull].\n -->
-  <VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nThese are the pirates that were hunting [../asker_nameFull].\n</VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>
+  <VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nЭто пираты, преследовавшие [../asker_nameFull].\n</VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>
 </LanguageData>
