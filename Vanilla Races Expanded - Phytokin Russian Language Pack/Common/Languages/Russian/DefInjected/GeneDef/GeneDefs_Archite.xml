@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: photosynthesis -->
+  <VRE_Photosynthesis.label>photosynthesis</VRE_Photosynthesis.label>
+  <!-- EN: Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight. -->
+  <VRE_Photosynthesis.description>Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight.</VRE_Photosynthesis.description>
+  
+  
+  <!-- EN: saplingbirth -->
+  <VRE_SaplingBirth.label>saplingbirth</VRE_SaplingBirth.label>
+  <!-- EN: Carriers of this gene grow their baby outside of their womb, in the form of a saplingchild plant. When the plant is fully grown, a child can be extracted from it. -->
+  <VRE_SaplingBirth.description>Carriers of this gene grow their baby outside of their womb, in the form of a saplingchild plant. When the plant is fully grown, a child can be extracted from it.</VRE_SaplingBirth.description>
+  <!-- EN: 
+	Plants saplingchild instead of pregnancy and live birth.
+	
+	Planting a saplingchild makes the pawn temporarily infertile.
+  -->
+  <VRE_SaplingBirth.customEffectDescriptions>
+	<li>Plants saplingchild instead of pregnancy and live birth.</li>
+	<li>Planting a saplingchild makes the pawn temporarily infertile.</li>
+  </VRE_SaplingBirth.customEffectDescriptions>
+  
+  
+  <!-- EN: polux affinity -->
+  <VRE_PoluxAffinity.label>polux affinity</VRE_PoluxAffinity.label>
+  <!-- EN: Carriers of this gene have a special connection to the polux tree, allowing them to act as an amplifier to the special properties of the tree. Once a year they can plant a polux bush that will progressively grow, and their very presence will strengthen the effect of the bush's pollution pumping effects. They can also consume wastepacks and will become unhappy if there is no waste to be consumed. Consuming wastepacks does not satisfy their hunger. -->
+  <VRE_PoluxAffinity.description>Carriers of this gene have a special connection to the polux tree, allowing them to act as an amplifier to the special properties of the tree. Once a year they can plant a polux bush that will progressively grow, and their very presence will strengthen the effect of the bush's pollution pumping effects. They can also consume wastepacks and will become unhappy if there is no waste to be consumed. Consuming wastepacks does not satisfy their hunger.</VRE_PoluxAffinity.description>
+  <!-- EN: 
+	All polux bushes on the map have their radius increased by +2 for every pawn with a Polux affinity gene currently on the map.
+  -->
+  <VRE_PoluxAffinity.customEffectDescriptions>
+	<li>All polux bushes on the map have their radius increased by +2 for every pawn with a Polux affinity gene currently on the map.</li>
+  </VRE_PoluxAffinity.customEffectDescriptions>
+  <!-- EN: wastepacks -->
+  <VRE_PoluxAffinity.resourceLabel>wastepacks</VRE_PoluxAffinity.resourceLabel>
+  <!-- EN: A need by {PAWN_nameDef} to consume wastepacks -->
+  <VRE_PoluxAffinity.resourceDescription>A need by {PAWN_nameDef} to consume wastepacks</VRE_PoluxAffinity.resourceDescription>
+</LanguageData>
