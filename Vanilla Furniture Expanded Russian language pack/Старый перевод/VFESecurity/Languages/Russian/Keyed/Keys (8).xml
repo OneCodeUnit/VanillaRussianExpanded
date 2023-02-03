@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Submersible -->
+	<VFESecurity.Submerged>погружен(а)</VFESecurity.Submerged>
+
+	<!-- Long-range artillery -->
+	<VFESecurity.WorldTileRange>Радиус артиллерии</VFESecurity.WorldTileRange>
+
+	<VFESecurity.TargetWorldTile>Выбрать цель удара</VFESecurity.TargetWorldTile>
+	<VFESecurity.TargetWorldTile_Description>Выбор клекти мира, по которой будет стрелять {0}.</VFESecurity.TargetWorldTile_Description>
+	<VFESecurity.TargetWorldTile_DescriptionShort>Выбор клекти мира для обстрела.</VFESecurity.TargetWorldTile_DescriptionShort>
+	<VFESecurity.CommandTargetTileFailNoArtillery>В этом {0} нет подходящей артиллерии.</VFESecurity.CommandTargetTileFailNoArtillery>
+
+	<VFESecurity.TargetWorldTileOutOfRange>Вне радиуса поражения</VFESecurity.TargetWorldTileOutOfRange>
+	<VFESecurity.TargetMap>Выбрать карту</VFESecurity.TargetMap>
+	<VFESecurity.TargetPeaceTalks>Выбрать мирные переговоры</VFESecurity.TargetPeaceTalks>
+	<VFESecurity.TargetSettlement>Выбрать поселение</VFESecurity.TargetSettlement>
+	<VFESecurity.TargetOutpost>Выбрать аванпост</VFESecurity.TargetOutpost>
+	<VFESecurity.TargetWorldTileEmpty>Выбрать пустую клетку (без эффекта)</VFESecurity.TargetWorldTileEmpty>
+	<VFESecurity.TargetWorldFlyingObject>Не может нацеливаться на летающие объекты.</VFESecurity.TargetWorldFlyingObject>
+	<VFESecurity.TargetWorldTileSameTile>Невозможно выбрать одну и ту же цель.</VFESecurity.TargetWorldTileSameTile>
+
+	<VFESecurity.MessageTargetWorldTileInvalid>Целевая область недоступна.</VFESecurity.MessageTargetWorldTileInvalid>
+	<VFESecurity.Settlement>поселение</VFESecurity.Settlement>
+	<VFESecurity.MessageTargetWorldTileOutOfRange>Цель вне диапазона обстрела артиллерии.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+	<!-- Messages -->
+	<VFESecurity.GoodwillChangedReason_ArtilleryStrike>атакован(а) артиллерией</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+	<VFESecurity.Message_ArtilleryBombardmentEnded>{0} из {1} прекратил(и) обстрел ваших поселений.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+	<!-- Letters -->
+	<VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>Спровоцировать {0}</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+	<VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Нанесение артиллерийского удара по карте с мирными переговорами испортило отношения между вами и {0}. В ответ они могут послать группу рейдов.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+	<VFESecurity.ArtilleryStrikeSettlement_Letter>Возмездие за артиллерийский удар</VFESecurity.ArtilleryStrikeSettlement_Letter>
+	<VFESecurity.ArtilleryStrikeSettlement_LetterText>Из-за вашей провокации в виде артиллерийского удара, {0} с {1} решили открыть ответный огонь по вашим поселениям, используя собственную артиллерию!\n\nЭто будет продолжаться несколько дней, или пока вы не уничтожите их.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+	<VFESecurity.LetterFactionBaseDefeatedStrike>База противника {0} уничтожена.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+	<!-- Psychic pylon -->
+	<VFESecurity.PsychicPylonExposure>Подвергание влиянию пси-установке.</VFESecurity.PsychicPylonExposure>
+
+	<!-- Ammo crate -->
+	<VFESecurity.AmmoCrate>Ящик с боеприпасами</VFESecurity.AmmoCrate>
+
+	<!-- Rearmable traps -->
+	<VFESecurity.Armed>Заряжен(а)</VFESecurity.Armed>
+	<VFESecurity.NeedsRearming>Нуждается в перезарядке</VFESecurity.NeedsRearming>
+	<VFESecurity.DesignatorRearmTraps>Перезарядить</VFESecurity.DesignatorRearmTraps>
+	<VFESecurity.DesignatorRearmTraps_Description>Отметить разряженные ловушки для перезарядки.</VFESecurity.DesignatorRearmTraps_Description>
+	<VFESecurity.MessageMustDesignateRearmables>Должны быть обозначены незаряженные перезаряжаемые ловушки.</VFESecurity.MessageMustDesignateRearmables>
+
+</LanguageData>

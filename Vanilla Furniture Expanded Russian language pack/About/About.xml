@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Furniture Expanded Russian Language Pack</name>
+  <author>Mewn Goddess, OliveWizard</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.Furniture</packageId>
+  <description>Обновлённый и улучшенный перевод на русский язык мода Vanilla Furniture Expanded и всех модулей.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VFECore</packageId>
+      <displayName>Vanilla Furniture Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1718190143</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VFECore</li>
+    <li>VanillaExpanded.VFEArchitect</li>
+    <li>VanillaExpanded.VFEArt</li>
+    <li>VanillaExpanded.VFEFarming</li>
+    <li>VanillaExpanded.VFEMedical</li>
+    <li>VanillaExpanded.VFEPower</li>
+    <li>VanillaExpanded.VFEProduction</li>
+    <li>VanillaExpanded.VFEPropsandDecor</li>
+    <li>VanillaExpanded.VFESecurity</li>
+    <li>VanillaExpanded.VFESpacer</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>ru.vanilla.furniture.expanded.farming</li>
+    <li>ru.vanilla.furniture.expanded.power</li>
+    <li>ru.vanilla.furniture.expanded.production</li>
+    <li>ru.vanilla.furniture.expanded.spacer.module</li>
+    <li>am.rus.vfecore</li>
+    <li>am.rus.vfearchitect</li>
+    <li>am.rus.vfeart</li>
+    <li>am.rus.vfepropsanddecor</li>
+    <li>am.rus.vfesecurity</li>
+  </incompatibleWith>
+</ModMetaData>
