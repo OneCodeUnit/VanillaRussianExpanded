@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: splinter -->
-	<VFES_SplinterArrow.label>щепка</VFES_SplinterArrow.label>
+  <VFES_SplinterArrow.label>щепка</VFES_SplinterArrow.label>
   <!-- EN: {0} has been pierced through to death by a gigantic arrow. -->
-	<VFES_SplinterArrow.deathMessage>{0} {0_gender ? пронзён : пронзена} насмерть гигантской стрелой.</VFES_SplinterArrow.deathMessage>
+  <VFES_SplinterArrow.deathMessage>{0} {0_gender ? пронзён : пронзена} насмерть гигантской стрелой.</VFES_SplinterArrow.deathMessage>
 
   <!-- EN: rock -->
-	<VFES_Rock.label>камень</VFES_Rock.label>
+  <VFES_Rock.label>камень</VFES_Rock.label>
   <!-- EN: {0} has been squashed to death by a gigantic rock. -->
-	<VFES_Rock.deathMessage>{0} {0_gender ? раздавлен : раздавлена} гигантским камнем.</VFES_Rock.deathMessage>
+  <VFES_Rock.deathMessage>{0} {0_gender ? раздавлен : раздавлена} гигантским камнем.</VFES_Rock.deathMessage>
 
   <!-- EN: flame -->
-	<VFES_HauntingFlame.label>пламя</VFES_HauntingFlame.label>
+  <VFES_HauntingFlame.label>пламя</VFES_HauntingFlame.label>
   <!-- EN: {0} has burned to death. -->
-	<VFES_HauntingFlame.deathMessage>{0} {0_gender ? сгорел : сгорела} заживо.</VFES_HauntingFlame.deathMessage>
+  <VFES_HauntingFlame.deathMessage>{0} {0_gender ? сгорел : сгорела} заживо.</VFES_HauntingFlame.deathMessage>
 
   <!-- EN: {0} has been killed. -->
-	<VFES_NoDMG.deathMessage>{0} {0_gender ? убит : убита : убито}.</VFES_NoDMG.deathMessage>
+  <VFES_NoDMG.deathMessage>{0} {0_gender ? убит : убита : убито}.</VFES_NoDMG.deathMessage>
 </LanguageData>
