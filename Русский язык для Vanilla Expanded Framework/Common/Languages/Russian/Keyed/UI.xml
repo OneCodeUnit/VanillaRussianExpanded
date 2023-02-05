@@ -52,4 +52,22 @@ If hired {0} die on duty, you will incur an additional 5% increase to contract p
   <VEF.AvailableContracts>Доступные контракты: {0}</VEF.AvailableContracts>
   <!-- EN: Mechanoids -->
   <VEF.MechsSection>Механоиды</VEF.MechsSection>
+  
+  <!-- EN: Default -->
+  <VEF.DoorLockDefault>По умолчанию</VEF.DoorLockDefault>
+  <!-- EN: Everyone -->
+  <VEF.DoorLockEveryone>Все</VEF.DoorLockEveryone>
+  <!-- EN: Only colonists and animals -->
+  <VEF.DoorLockOnlyColonistsAndAnimals>Только поселенцы и животные</VEF.DoorLockOnlyColonistsAndAnimals>
+  <!-- EN: Only colonists, animals and friendlies -->
+  <VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Только поселенцы, животные и союзники</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+  <!-- EN: Only drafted -->
+  <VEF.DoorLockOnlyDrafted>Только в режиме призыва</VEF.DoorLockOnlyDrafted>
+
+  <!-- EN: Current door lock policy "{0}" -->
+  <VEF.DoorLockState>Текущая политика блокировки дверей "{0}"</VEF.DoorLockState>
+  <!-- EN: Click to change current door lock policy. -->
+  <VEF.DoorLockStateDesc>Нажмите, чтобы сменить текущую политику блокировки дверей.</VEF.DoorLockStateDesc>
+  <!-- EN: Power is off. Impossible to change door lock policy. -->
+  <VEF.DoorLockStatePowerOff>Отсутствует электроэнергия. Невозможно сменить политику блокировки дверей.</VEF.DoorLockStatePowerOff>
 </LanguageData>

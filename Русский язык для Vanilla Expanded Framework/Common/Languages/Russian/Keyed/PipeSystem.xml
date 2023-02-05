@@ -30,8 +30,8 @@
 
   <!-- EN: Not connected to {}. -->
   <PipeSystem_NotConnected>Не соединено с сетью {lookup: {0}; Case; 1}.</PipeSystem_NotConnected>
-  <!-- EN: {0} excess (stored) in network: -->
-  <PipeSystem_ExcessStored>Излишков (запасов) {lookup: {0}; Case; 1} в сети:</PipeSystem_ExcessStored>
+  <!-- EN: Net excess/stored in network: {0} {2}/d / {1} {2} -->
+  <PipeSystem_ExcessStored>Излишков/запасов в сети: {0} {replace: {2}; "l"-"л"}/день / {1} {replace: {2}; "l"-"л"}</PipeSystem_ExcessStored>
   <!-- EN: {0} stored in network: -->
   <PipeSystem_Stored>{lookup: {0}; Case; 1} в сети:</PipeSystem_Stored>
 
@@ -65,8 +65,8 @@
   <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
   <!-- EN: Producing {0} {1}. Cycle progress: {2}. -->
   <PipeSystem_Producing>Производит {0} ед. {lookup: {0}; Case; 1}. Прогресс: {2}.</PipeSystem_Producing>
-  <!-- EN: Produce {0} {1}. -->
-  <PipeSystem_Produce>Производит {0} ед. {lookup: {0}; Case; 1}.</PipeSystem_Produce>
+  <!-- EN: Produce {0} {1} from {2} {3} -->
+  <PipeSystem_Produce>Производит {0} {1} из {2} {3}</PipeSystem_Produce>
   <!-- EN: Choose result -->
   <PipeSystem_ChooseResult>Выбрать продукт</PipeSystem_ChooseResult>
   <!-- EN: Choose processor result. -->
@@ -92,4 +92,14 @@
   <PipeSystem_CantPlaceHere>{0} можно расположить только на месторождениях, где есть {1}. Используйте глубинные сканеры, чтобы найти их.</PipeSystem_CantPlaceHere>
   <!-- EN: Amount left in deposit: {0}. -->
   <PipeSystem_ResourceLeft>Осталось в месторождении: {0}.</PipeSystem_ResourceLeft>
+
+  <!-- EN: No storage connected -->
+  <PipeSystem_NoStorageInNet>Нет подключенных хранилищ</PipeSystem_NoStorageInNet>
+  <!-- EN: The following networks are not connected to any storage building, but need one: -->
+  <PipeSystem_NoStorageInNetDesc>Следующие сети необходимо подключить к хранилищу:</PipeSystem_NoStorageInNetDesc>
+
+  <!-- EN: {0} content rotted away due to a lack of power. -->
+  <PipeSystem_StorageContentRotted>Содержимое {0} сгнило из-за нехватки энергии.</PipeSystem_StorageContentRotted>
+  <!-- EN: Content will rot in {0} due to a lack of power. -->
+  <PipeSystem_ContentWillRot>Содержимое {0} сгниёт из-за нехватки энергии.</PipeSystem_ContentWillRot>
 </LanguageData>
