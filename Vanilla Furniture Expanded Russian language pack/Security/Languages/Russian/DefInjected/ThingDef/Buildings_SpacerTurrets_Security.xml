@@ -4,22 +4,38 @@
   <VFES_Turret_ChargeTurret.label>энергетическая турель</VFES_Turret_ChargeTurret.label>
   <!-- EN: An automatic turret with a charge pulser gun on top, utilising advanced sensors which offer improved accuracy. Requires plasteel to refurbish its barrel after heavy use. May explode when damaged. -->
   <VFES_Turret_ChargeTurret.description>Автоматическая турель с энергетическим орудием и продвинутыми сенсорами, которые обеспечивают повышенную точность. Для ремонта изношенного ствола требуется пласталь. При повреждении может взорваться.</VFES_Turret_ChargeTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>требуется замена ствола</VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: charged turret gun -->
   <VFES_Gun_ChargeTurret.label>пушка энергетической турели</VFES_Gun_ChargeTurret.label>
   <!-- EN: A charge rifle made to be mounted on a turret. -->
   <VFES_Gun_ChargeTurret.description>Энерговинтовка, предназначенная для крепления к турельной установке.</VFES_Gun_ChargeTurret.description>
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>пушка энергетической турели</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
 
 
   <!-- EN: charge railgun -->
   <VFES_Turret_ChargeRailgunTurret.label>энергетический рельсотрон</VFES_Turret_ChargeRailgunTurret.label>
   <!-- EN: A heavy railgun cannon usually mounted on spacecraft, utilising an array of advanced sensors which offer top-class accuracy. Requires components to be replaced in order to operate. May explode when damaged. -->
   <VFES_Turret_ChargeRailgunTurret.description>Тяжёлая рельсовая пушка, одна из тех, которые можно увидеть на космических кораблях. Массив продвинутых датчиков обеспечивает первоклассную точность стрельбы. Для ремонта изношенного ствола требуются компоненты. При повреждении может взорваться.</VFES_Turret_ChargeRailgunTurret.description>
+  <!-- EN: Component durability -->
+  <VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность компонентов</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until component replacement -->
+  <VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены компонентов</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new components -->
+  <VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.outOfFuelMessage>требуются новые компоненты</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: charge railgun -->
   <VFES_Gun_RailgunTurret.label>энергетический рельсотрон</VFES_Gun_RailgunTurret.label>
   <!-- EN: An advanced railgun designed to launch two electromagnetically accelerated projectiles simultaneously. -->
   <VFES_Gun_RailgunTurret.description>Продвинутая рельсовая пушка, предназначенная для одновременного запуска двух снарядов с электромагнитным ускорением.</VFES_Gun_RailgunTurret.description>
+  <!-- EN: charge railgun -->
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>энергетический рельсотрон</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
 
   <!-- EN: charge railgun shots -->
   <VFES_Bullet_DoubleChargeLance.label>выстрел из энергетического рельсотрона</VFES_Bullet_DoubleChargeLance.label>
@@ -29,11 +45,19 @@
   <VFES_Turret_EMPTurret.label>ЭМИ-орудие</VFES_Turret_EMPTurret.label>
   <!-- EN: An electro-magnetic pulse cannon usually mounted on a spacecraft. Requires uranium rods to be replaced in order to operate. Can only target mechanoids and may explode if damaged. -->
   <VFES_Turret_EMPTurret.description>Электромагнитное орудие, одно из тех, которые можно увидеть на космических кораблях. Для работы требуется периодическая замена урановых стержней. При повреждении может взорваться.</VFES_Turret_EMPTurret.description>
+  <!-- EN: Uranium rods -->
+  <VFES_Turret_EMPTurret.comps.CompRefuelable.fuelGizmoLabel>Урановые стержни</VFES_Turret_EMPTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of uranium -->
+  <VFES_Turret_EMPTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены урановых стержней</VFES_Turret_EMPTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Need uranium -->
+  <VFES_Turret_EMPTurret.comps.CompRefuelable.outOfFuelMessage>требуется уран</VFES_Turret_EMPTurret.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: EMP cannon -->
   <VFES_Gun_EMPTurret.label>ЭМИ-орудие</VFES_Gun_EMPTurret.label>
   <!-- EN: An EMP coil gun made to be mounted on a turret. -->
   <VFES_Gun_EMPTurret.description>ЭМИ-катушка, предназначенная для крепления к турельной установке.</VFES_Gun_EMPTurret.description>
+  <!-- EN: EMP cannon -->
+  <VFES_Gun_EMPTurret.verbs.Verb_Shoot.label>ЭМИ-орудие</VFES_Gun_EMPTurret.verbs.Verb_Shoot.label>
 
   <!-- EN: EMP shot -->
   <VFES_Bullet_EMPCannon.label>ЭМИ-заряд</VFES_Bullet_EMPCannon.label>

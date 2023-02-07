@@ -4,9 +4,17 @@
   <VFES_Turret_AutocannonDouble.label>сдвоенная тяжёлая турель</VFES_Turret_AutocannonDouble.label>
   <!-- EN: A heavy automatic turret enhanced with 2 barrels. Its large-caliber shells do heavy damage over significant ranges, but its barrels must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
   <VFES_Turret_AutocannonDouble.description>Тяжёлая дальнобойная автоматическая турель с двумя стволами. Крупный калибр позволяет надёжно поражать цели на значительной дальности, но приводит к быстрому износу ствола. Не стреляет вблизи. При повреждении может взорваться.</VFES_Turret_AutocannonDouble.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+ <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>требуется замена ствола</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: double autocannon -->
   <VFES_TurretDoubleAutocannon_Top.label>сдвоенная пушка тяжёлой турели</VFES_TurretDoubleAutocannon_Top.label>
   <!-- EN: A self-loading large-bore double cannon designed to be attached to a turret. -->
   <VFES_TurretDoubleAutocannon_Top.description>Самозарядное крупнокалиберное орудие, предназначенное для крепления к турельной установке.</VFES_TurretDoubleAutocannon_Top.description>
+  <!-- EN: double autocannon -->
+  <VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>сдвоенная пушка тяжёлой турели</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
 </LanguageData>

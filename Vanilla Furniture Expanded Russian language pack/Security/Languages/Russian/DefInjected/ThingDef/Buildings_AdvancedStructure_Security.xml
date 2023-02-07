@@ -9,22 +9,38 @@
   <VFES_Turret_FloorTurret.label>развёртываемая турель</VFES_Turret_FloorTurret.label>
   <!-- EN: A submersible military-grade double barreled automatic turret which acts as a normal floor tile when unpowered. It only takes half as much damage when submerged. Requires steel to refurbish its barrels after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
   <VFES_Turret_FloorTurret.description>Выдвижная автоматическая турель военного класса, которая в неактивном состоянии ничем не выделяется на фоне пола. В неактивном состоянии получает вдвое меньше урона. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_FloorTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_FloorTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFES_Turret_FloorTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_FloorTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFES_Turret_FloorTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrels -->
+  <VFES_Turret_FloorTurret.comps.CompRefuelable.outOfFuelMessage>требуется замена ствола</VFES_Turret_FloorTurret.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: submersible military turret doublegun -->
   <VFES_Gun_FloorTurret.label>сдвоенная пушка развёртываемой турели</VFES_Gun_FloorTurret.label>
   <!-- EN: Two simple automatic guns made to be mounted on a turret. -->
   <VFES_Gun_FloorTurret.description>Сдвоенная лёгкая автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_FloorTurret.description>
+  <!-- EN: submersible military turret doublegun -->
+  <VFES_Gun_FloorTurret.verbs.Verb_Shoot.label>сдвоенная пушка развёртываемой турели</VFES_Gun_FloorTurret.verbs.Verb_Shoot.label>
 
   <!-- EN: HMG complex -->
   <VFES_Turret_HMGComplex.label>стационарный тяжёлый пулемёт</VFES_Turret_HMGComplex.label>
   <!-- EN: A stationary heavy machine gun supported by some sandbags to grant cover. -->
   <VFES_Turret_HMGComplex.description>Стационарный тяжёлый пулемёт, установленный на мешках с песком.</VFES_Turret_HMGComplex.description>
+  <!-- EN: Ammo -->
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>Боеприпасы</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of ammo -->
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>Выстрелов до окончания боеприпасов</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of ammo -->
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>требуются боеприпасы</VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: mounted HMG -->
   <VFES_Gun_HMGComplex.label>тяжёлый пулемёт</VFES_Gun_HMGComplex.label>
   <!-- EN: A mounted variant of a heavy machine gun. -->
   <VFES_Gun_HMGComplex.description>Стационарный вариант тяжёлого пулемёта.</VFES_Gun_HMGComplex.description>
-
+  <!-- EN: mounted HMG -->
+  <VFES_Gun_HMGComplex.verbs.Verb_Shoot.label>тяжёлый пулемёт</VFES_Gun_HMGComplex.verbs.Verb_Shoot.label>
+  
   <!-- EN: HMG bullet -->
   <VFES_Bullet_HMGComplex.label>пуля из тяжёлого пулемёта</VFES_Bullet_HMGComplex.label>
 </LanguageData>
