@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+		questName->High Stellarch Ascension
+  -->
+  <VFEE_Parade.questNameRules.rulesStrings>
+		<li>questName->High Stellarch Ascension</li>
+  </VFEE_Parade.questNameRules.rulesStrings>
+  <!-- EN: 
+		lodgersLabel->noble
+		lodgersLabelPlural->nobles
+		lodgersDef(nobleCount==1)->[lodgers0_nameDef]
+		lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]
+		theirHisHer(nobleCount==1)->[lodgers0_possessive]
+		theirHisHer(nobleCount>=2)->their
+		lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]
+		lodgersPronoun(nobleCount>=2)->they
+		lodgersWasWere(nobleCount==1)->was
+		lodgersWasWere(nobleCount>=2)->were
+		appreciateAppreciates(nobleCount==1)->appreciates
+		appreciateAppreciates(nobleCount>=2)->appreciate
+		questDescription->[stellarch_nameFull] has reached the peak of what they can achieve from a surface of the rim world. In order to progress further in the grand hierarchy and become the right hand of Emperor [emperor_nameFull], [stellarch_nameFull] needs to partake in a traditional ascension parade, after which they will depart on a shuttle and join the Emperor.\nParade of this magnitude is bound to draw the attention of deserters.\nOnce you accept this quest, you will have 5 days to prepare for the parade. Consider improving your defenses and working out contingency plans, as it is difficult to say which way the parade will move. At all times you will have to keep the parade safe from harm.\nKeep an eye on any rivals or enemies of [stellarch_nameFull], as they might decide it’s a good time to make a move and claim the power for themselves.\nThe shuttle will arrive bringing the highest ranking nobility to the parade. You will be responsible for providing the security for the event. After the parade starts, it will slowly move through the map for 12 hours, after which everyone, including [stellarch_nameFull], will board the shuttle and depart.		
+  -->
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+		<li>lodgersLabel->noble</li>
+		<li>lodgersLabelPlural->nobles</li>
+		<li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+		<li>lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]</li>
+		<li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+		<li>theirHisHer(nobleCount>=2)->their</li>
+		<li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+		<li>lodgersPronoun(nobleCount>=2)->they</li>
+		<li>lodgersWasWere(nobleCount==1)->was</li>
+		<li>lodgersWasWere(nobleCount>=2)->were</li>
+		<li>appreciateAppreciates(nobleCount==1)->appreciates</li>
+		<li>appreciateAppreciates(nobleCount>=2)->appreciate</li>
+		<li>questDescription->[stellarch_nameFull] has reached the peak of what they can achieve from a surface of the rim world. In order to progress further in the grand hierarchy and become the right hand of Emperor [emperor_nameFull], [stellarch_nameFull] needs to partake in a traditional ascension parade, after which they will depart on a shuttle and join the Emperor.\nParade of this magnitude is bound to draw the attention of deserters.\nOnce you accept this quest, you will have 5 days to prepare for the parade. Consider improving your defenses and working out contingency plans, as it is difficult to say which way the parade will move. At all times you will have to keep the parade safe from harm.\nKeep an eye on any rivals or enemies of [stellarch_nameFull], as they might decide it’s a good time to make a move and claim the power for themselves.\nThe shuttle will arrive bringing the highest ranking nobility to the parade. You will be responsible for providing the security for the event. After the parade starts, it will slowly move through the map for 12 hours, after which everyone, including [stellarch_nameFull], will board the shuttle and depart.</li>
+  </VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN: 
+		lastOrNot(nobleCount==1)->
+		lastOrNot(nobleCount>=2)->last
+		lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]
+		lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]
+		decidedToLeave->Are leaving immediately, and will not remember this event fondly!
+		oneOfThe->one of the nobles visting for the parade
+		questOver->The quest '[resolvedQuestName]' is over.
+		CeremonyFailedLetterLabel->Parade failed
+		CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Parade. [asker_pronoun] is leaving with [asker_possessive] guests
+		CeremonyTimeoutLetterLabel->Parade failed
+		CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the Parade. [asker_pronoun] is leaving with [asker_possessive] guests.
+		letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].
+		lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested
+		lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]
+		letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.
+		lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure
+		lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]
+		letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.
+		lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure
+		lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]
+		letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.
+		lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure
+		lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]
+		letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.
+		lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure
+		lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]
+		ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed
+		ShuttleDestroyedLabel->Shuttle destroyed: Parade Failed
+		ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]
+		raidArrivedLetterLabel->Deserter assasination attempt
+		raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the parade and assasinate the [stellarch_nameFull]\n\nThe parade must not be interrupted for any reason!
+		ParadeSuccessLetterLetterLabel->Parade Success
+		ParadeSuccessLetterText->The shuttle is ready to depart with all those ascending with [stellarch_nameFull]. It will depart upon your command!
+  -->
+  <VFEE_Parade.questContentRules.rulesStrings>
+		<li>lastOrNot(nobleCount==1)-></li>
+		<li>lastOrNot(nobleCount>=2)->last</li>
+		<li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+		<li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+		<li>decidedToLeave->Are leaving immediately, and will not remember this event fondly!</li>
+		<li>oneOfThe->one of the nobles visting for the parade</li>
+		<li>questOver->The quest '[resolvedQuestName]' is over.</li>
+		<li>CeremonyFailedLetterLabel->Parade failed</li>
+		<li>CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Parade. [asker_pronoun] is leaving with [asker_possessive] guests</li>
+		<li>CeremonyTimeoutLetterLabel->Parade failed</li>
+		<li>CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the Parade. [asker_pronoun] is leaving with [asker_possessive] guests.</li>
+		<li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+		<li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested</li>
+		<li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+		<li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+		<li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+		<li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+		<li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+		<li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure</li>
+		<li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+		<li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+		<li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure</li>
+		<li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+		<li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.</li>
+		<li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure</li>
+		<li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+		<li>ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed</li>
+		<li>ShuttleDestroyedLabel->Shuttle destroyed: Parade Failed</li>
+		<li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+		<li>raidArrivedLetterLabel->Deserter assasination attempt</li>
+		<li>raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the parade and assasinate the [stellarch_nameFull]\n\nThe parade must not be interrupted for any reason!</li>
+		<li>ParadeSuccessLetterLetterLabel->Parade Success</li>
+		<li>ParadeSuccessLetterText->The shuttle is ready to depart with all those ascending with [stellarch_nameFull]. It will depart upon your command!</li>
+  </VFEE_Parade.questContentRules.rulesStrings>
+</LanguageData>

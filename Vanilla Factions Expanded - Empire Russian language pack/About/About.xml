@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Factions Expanded - Empire Russian Language Pack</name>
+  <author>???</author>
+  <packageId>RUS.VFE.Empire</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>Перевод на русский язык мода Vanilla Factions Expanded - Empire.</description>
+  <modDependencies>
+    <li>
+      <packageId>OskarPotocki.VFE.Empire</packageId>
+      <displayName>Vanilla Factions Expanded - Empire</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2938820380</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+	<li>OskarPotocki.VFE.Empire</li>
+  </loadAfter>
+</ModMetaData>

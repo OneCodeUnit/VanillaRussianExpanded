@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: royal gossip -->
+  <VFEE_RoyalGossip.label>royal gossip</VFEE_RoyalGossip.label>
+  <!-- EN: 
+		r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].
+		r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] with [RECIPIENT_nameDef].
+		talkedabout(p=4)->chatted about
+		talkedabout->shared a word about
+		talkedabout->spoke about
+		talkedabout->gabbed about
+		talkedabout->talked about
+		talkedabout->joked about
+		talkedabout->quipped about
+  -->
+  <VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] with [RECIPIENT_nameDef].</li>
+		<li>talkedabout(p=4)->chatted about</li>
+		<li>talkedabout->shared a word about</li>
+		<li>talkedabout->spoke about</li>
+		<li>talkedabout->gabbed about</li>
+		<li>talkedabout->talked about</li>
+		<li>talkedabout->joked about</li>
+		<li>talkedabout->quipped about</li>
+  </VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+</LanguageData>

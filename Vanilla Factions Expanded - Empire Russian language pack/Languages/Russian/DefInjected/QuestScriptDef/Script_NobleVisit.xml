@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+		questName(sameQuestsCount==0)->[asker_nameDef]’s visit
+		questName->hosting [lodgerIndef]
+		questName->[lodgerIndef] visit
+		lodgerIndef(nobleCount==1)->a royal
+		lodgerIndef(nobleCount==1)->a noble
+		lodgerIndef(nobleCount>=2)->royals
+		lodgerIndef(nobleCount>=2)->nobles
+  -->
+  <VFEE_NobleVisit.questNameRules.rulesStrings>
+		<li>questName(sameQuestsCount==0)->[asker_nameDef]’s visit</li>
+		<li>questName->hosting [lodgerIndef]</li>
+		<li>questName->[lodgerIndef] visit</li>
+		<li>lodgerIndef(nobleCount==1)->a royal</li>
+		<li>lodgerIndef(nobleCount==1)->a noble</li>
+		<li>lodgerIndef(nobleCount>=2)->royals</li>
+		<li>lodgerIndef(nobleCount>=2)->nobles</li>
+  </VFEE_NobleVisit.questNameRules.rulesStrings>
+  <!-- EN: 
+		lodgersLabel->noble
+		lodgersLabelPlural->nobles
+		lodgersDef(nobleCount==1)->[lodgers0_nameDef]
+		lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]
+		joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]
+		specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> You'll need to satisfy any special royal needs the [lodgersLabelPlural] may have.
+		specialNeedsExplanation->
+		theirHisHer(nobleCount==1)->[lodgers0_possessive]
+		theirHisHer(nobleCount>=2)->their
+		lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]
+		lodgersPronoun(nobleCount>=2)->they
+		lodgersWasWere(nobleCount==1)->was
+		lodgersWasWere(nobleCount>=2)->were
+		appreciateAppreciates(nobleCount==1)->appreciates
+		appreciateAppreciates(nobleCount>=2)->appreciate
+		questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], satisfy [asker_possessive] royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_royalTitleInCurrentFaction] will bring two of [asker_possessive] personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.
+		questDescription(nobleCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], and [asker_possessive] royal court of [nobleCountLessOne] nobles and satisfy their royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_nameFull] will bring two of his personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.
+		allyAllies(lodgersCountMinusOne==1)->ally
+		allyAllies(lodgersCountMinusOne>=2)->allies
+  -->
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+		<li>lodgersLabel->noble</li>
+		<li>lodgersLabelPlural->nobles</li>
+		<li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+		<li>lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]</li>
+		<li>joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]</li>
+		<li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> You'll need to satisfy any special royal needs the [lodgersLabelPlural] may have.</li>
+		<li>specialNeedsExplanation-></li>
+		<li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+		<li>theirHisHer(nobleCount>=2)->their</li>
+		<li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+		<li>lodgersPronoun(nobleCount>=2)->they</li>
+		<li>lodgersWasWere(nobleCount==1)->was</li>
+		<li>lodgersWasWere(nobleCount>=2)->were</li>
+		<li>appreciateAppreciates(nobleCount==1)->appreciates</li>
+		<li>appreciateAppreciates(nobleCount>=2)->appreciate</li>
+		<li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], satisfy [asker_possessive] royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_royalTitleInCurrentFaction] will bring two of [asker_possessive] personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.</li>
+		<li>questDescription(nobleCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], and [asker_possessive] royal court of [nobleCountLessOne] nobles and satisfy their royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_nameFull] will bring two of his personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.</li>
+		<li>allyAllies(lodgersCountMinusOne==1)->ally</li>
+		<li>allyAllies(lodgersCountMinusOne>=2)->allies</li>
+  </VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN: 
+		lastOrNot(nobleCount==1)->
+		lastOrNot(nobleCount>=2)->last
+		lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]
+		lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]
+		decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.
+		othersWillNotAccept->The {PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is} not willing to accept this
+		oneOfThe->one of the nobles you invited to stay with you
+		questOver->The quest '[resolvedQuestName]' is over.
+		letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].
+		lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested: Departure
+		lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]
+		letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.
+		lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure
+		lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]
+		letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.
+		lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure
+		lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]
+		letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.
+		lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure
+		lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]
+		letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.
+		lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure
+		lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]
+		ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed
+		ShuttleDestroyedLabel->[lodgersLabel] Shuttle destroyed: Departure
+		ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]
+		letterIntroBadMood->{SUBJECT_definite}, [oneOfThe], who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long.
+		nobleUnhappyLetterLabel->[lodgersLabel] unhappy
+		nobleUnhappyLetterText->[letterIntroBadMood]\n\n[decidedToLeave]
+		lodgerLeftNotAllHealthyLetterLabel->[lodgersLabel] : untreated
+		lodgerLeftNotAllHealthyLetterText->[lodgersLabel] left the map with injuries and wll not have fond memories of their visit
+		LetterLabelShuttleArrived->Shuttle arrived
+		LetterTextShuttleArrived->The shuttle has arrived to collect [asker_nameFull] and their court
+		lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] left healthy
+		lodgersLeavingLetterText->[asker_nameFull] thanks you for inviting them to stay at [map_definite] for these [questDurationTicks_duration].
+  -->
+  <VFEE_NobleVisit.questContentRules.rulesStrings>
+		<li>lastOrNot(nobleCount==1)-></li>
+		<li>lastOrNot(nobleCount>=2)->last</li>
+		<li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+		<li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+		<li>decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.</li>
+		<li>othersWillNotAccept->The {PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is} not willing to accept this</li>
+		<li>oneOfThe->one of the nobles you invited to stay with you</li>
+		<li>questOver->The quest '[resolvedQuestName]' is over.</li>
+		<li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+		<li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested: Departure</li>
+		<li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+		<li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+		<li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+		<li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+		<li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+		<li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure</li>
+		<li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+		<li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+		<li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure</li>
+		<li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+		<li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.</li>
+		<li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure</li>
+		<li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+		<li>ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed</li>
+		<li>ShuttleDestroyedLabel->[lodgersLabel] Shuttle destroyed: Departure</li>
+		<li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+		<li>letterIntroBadMood->{SUBJECT_definite}, [oneOfThe], who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long.</li>
+		<li>nobleUnhappyLetterLabel->[lodgersLabel] unhappy</li>
+		<li>nobleUnhappyLetterText->[letterIntroBadMood]\n\n[decidedToLeave]</li>
+		<li>lodgerLeftNotAllHealthyLetterLabel->[lodgersLabel] : untreated</li>
+		<li>lodgerLeftNotAllHealthyLetterText->[lodgersLabel] left the map with injuries and wll not have fond memories of their visit</li>
+		<li>LetterLabelShuttleArrived->Shuttle arrived</li>
+		<li>LetterTextShuttleArrived->The shuttle has arrived to collect [asker_nameFull] and their court</li>
+		<li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] left healthy</li>
+		<li>lodgersLeavingLetterText->[asker_nameFull] thanks you for inviting them to stay at [map_definite] for these [questDurationTicks_duration].</li>
+  </VFEE_NobleVisit.questContentRules.rulesStrings>
+</LanguageData>

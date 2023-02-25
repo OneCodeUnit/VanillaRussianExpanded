@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: OR -->
+  <VFEE.OR>OR</VFEE.OR>
+  <!-- EN: Unable to start due to {0} not having a dignified throne. -->
+  <VFEE.StartBestower.NoThrone>Unable to start due to {0} not having a dignified throne.</VFEE.StartBestower.NoThrone>
+  <!-- EN: Unable to start due to no valid throne rooms for the bestowing of the title. -->
+  <VFEE.StartBestower.NoTarget>Unable to start due to no valid throne rooms for the bestowing of the title.</VFEE.StartBestower.NoTarget>
+  <!-- EN: Unable to start due to target already possesing a higher title -->
+  <VFEE.StartBestower.HigherTitle>Unable to start due to target already possesing a higher title</VFEE.StartBestower.HigherTitle>
+  <!-- EN: Unable to start while an existing ritual is ongoing. -->
+  <VFEE.StartBestower.DisabledExistingRitual>Unable to start while an existing ritual is ongoing.</VFEE.StartBestower.DisabledExistingRitual>
+  <!-- EN: Gallery requirements -->
+  <VFEE.GalleryRequirements>Gallery requirements</VFEE.GalleryRequirements>
+  <!-- EN: Gallery requirements unmet: {0} -->
+  <VFEE.GalleryRequirements.Unmet>Gallery requirements unmet: {0}</VFEE.GalleryRequirements.Unmet>
+  <!-- EN: Ballroom requirements -->
+  <VFEE.BallroomRequirements>Ballroom requirements</VFEE.BallroomRequirements>
+  <!-- EN: Ballroom requirements unmet for: {0} -->
+  <VFEE.BallroomRequirements.Unmet>Ballroom requirements unmet for: {0}</VFEE.BallroomRequirements.Unmet>
+  <!-- EN: Ballroom does not have a big enough dance floor for the guests! They would like an open floor space of {0} infront of an instrument  -->
+  <VFEE.BallroomRequirements.DanceFloorToSmall>Ballroom does not have a big enough dance floor for the guests! They would like an open floor space of {0} infront of an instrument </VFEE.BallroomRequirements.DanceFloorToSmall>
+  <!-- EN: Noble court requirements -->
+  <VFEE.CourtRequirements>Noble court requirements</VFEE.CourtRequirements>
+  <!-- EN: Host Grandball -->
+  <VFEE.GrandBall.Begin>Host Grandball</VFEE.GrandBall.Begin>
+  <!-- EN: Grandball -->
+  <VFEE.GrandBall.Label>Grandball</VFEE.GrandBall.Label>
+  <!-- EN: Leave Grandball -->
+  <VFEE.GrandBall.Leave.label>Leave Grandball</VFEE.GrandBall.Leave.label>
+  <!-- EN: This pawn will leave the grandball, they will not be able to rejoin the festivities later -->
+  <VFEE.GrandBall.Leave.Desc>This pawn will leave the grandball, they will not be able to rejoin the festivities later</VFEE.GrandBall.Leave.Desc>
+  <!-- EN: Cancel Grandball -->
+  <VFEE.GrandBall.Cancel.Label>Cancel Grandball</VFEE.GrandBall.Cancel.Label>
+  <!-- EN: Cancel the grand ball sending everyone home and failing the quest -->
+  <VFEE.GrandBall.Cancel.Desc>Cancel the grand ball sending everyone home and failing the quest</VFEE.GrandBall.Cancel.Desc>
+  <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
+  <VFEE.GrandBall.Cancel.Confirm>There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed.</VFEE.GrandBall.Cancel.Confirm>
+  <!-- EN: Your guests are waiting for you to start the grand ball. They wont wait long however -->
+  <VFEE.GrandBall.Waiting>Your guests are waiting for you to start the grand ball. They wont wait long however</VFEE.GrandBall.Waiting>
+  <!-- EN: An exclusive ball to only be attended by those with a royal title, and a few who can play instruments -->
+  <VFEE.GrandBall.Description>An exclusive ball to only be attended by those with a royal title, and a few who can play instruments</VFEE.GrandBall.Description>
+  <!-- EN: Participants -->
+  <VFEE.GrandBall.ChooseParticipants>Participants</VFEE.GrandBall.ChooseParticipants>
+  <!-- EN: Host Art Exhibit -->
+  <VFEE.ArtExhibit.Begin>Host Art Exhibit</VFEE.ArtExhibit.Begin>
+  <!-- EN: Art Exhibit -->
+  <VFEE.ArtExhibit.Label>Art Exhibit</VFEE.ArtExhibit.Label>
+  <!-- EN: Leave exhibit -->
+  <VFEE.ArtExhibit.Leave.label>Leave exhibit</VFEE.ArtExhibit.Leave.label>
+  <!-- EN: This pawn will leave the exhibit, they will not be able to rejoin the festivities later -->
+  <VFEE.ArtExhibit.Leave.Desc>This pawn will leave the exhibit, they will not be able to rejoin the festivities later</VFEE.ArtExhibit.Leave.Desc>
+  <!-- EN: Cancel Exhibit -->
+  <VFEE.ArtExhibit.Cancel.Label>Cancel Exhibit</VFEE.ArtExhibit.Cancel.Label>
+  <!-- EN: Cancel the art exhibit sending everyone home and failing the quest -->
+  <VFEE.ArtExhibit.Cancel.Desc>Cancel the art exhibit sending everyone home and failing the quest</VFEE.ArtExhibit.Cancel.Desc>
+  <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
+  <VFEE.ArtExhibit.Cancel.Confirm>There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed.</VFEE.ArtExhibit.Cancel.Confirm>
+  <!-- EN: Your guests are waiting for you to start the art exhibit. They wont wait long however -->
+  <VFEE.ArtExhibit.Waiting>Your guests are waiting for you to start the art exhibit. They wont wait long however</VFEE.ArtExhibit.Waiting>
+  <!-- EN: An art expedition to only be attended by those with a royal title, to view your galley and gossip with eachother. -->
+  <VFEE.ArtExhibit.Description>An art expedition to only be attended by those with a royal title, to view your galley and gossip with eachother.</VFEE.ArtExhibit.Description>
+  <!-- EN: Participants -->
+  <VFEE.ArtExhibit.ChooseParticipants>Participants</VFEE.ArtExhibit.ChooseParticipants>
+  <!-- EN: Host Parade -->
+  <VFEE.Parade.Begin>Host Parade</VFEE.Parade.Begin>
+  <!-- EN: Driven by jealousy {0} is attempting to murder the stellarch! -->
+  <VFEE.Parade.Murder>Driven by jealousy {0} is attempting to murder the stellarch!</VFEE.Parade.Murder>
+  <!-- EN: Parade -->
+  <VFEE.Parade.Label>Parade</VFEE.Parade.Label>
+  <!-- EN: Leave Parade -->
+  <VFEE.Parade.Leave.label>Leave Parade</VFEE.Parade.Leave.label>
+  <!-- EN: This pawn will leave the Parade, they will not be able to rejoin the festivities later -->
+  <VFEE.Parade.Leave.Desc>This pawn will leave the Parade, they will not be able to rejoin the festivities later</VFEE.Parade.Leave.Desc>
+  <!-- EN: Cancel Parade -->
+  <VFEE.Parade.Cancel.Label>Cancel Parade</VFEE.Parade.Cancel.Label>
+  <!-- EN: Cancel the parade sending everyone home and failing the quest -->
+  <VFEE.Parade.Cancel.Desc>Cancel the parade sending everyone home and failing the quest</VFEE.Parade.Cancel.Desc>
+  <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unhappy and the quest will be failed. -->
+  <VFEE.Parade.Cancel.Confirm>There will be no opportunity to restart this ritual, your guests will go home unhappy and the quest will be failed.</VFEE.Parade.Cancel.Confirm>
+  <!-- EN: Your guests are waiting for you to start the Parade. They wont wait long however -->
+  <VFEE.Parade.Waiting>Your guests are waiting for you to start the Parade. They wont wait long however</VFEE.Parade.Waiting>
+  <!-- EN: A traditional ascension parade to send off the stellarch! -->
+  <VFEE.Parade.Description>A traditional ascension parade to send off the stellarch!</VFEE.Parade.Description>
+  <!-- EN: The stellarch does not trust {0} enough. -->
+  <VFEE.Parade.InvalidGuard>The stellarch does not trust {0} enough.</VFEE.Parade.InvalidGuard>
+  <!-- EN: Participants -->
+  <VFEE.Parade.ChooseParticipants>Participants</VFEE.Parade.ChooseParticipants>
+  <!-- EN: Unable to find a suitable drop beacon for the guests to land their shuttle at -->
+  <VFEE.Parade.LandingAreaUnmet>Unable to find a suitable drop beacon for the guests to land their shuttle at</VFEE.Parade.LandingAreaUnmet>
+  <!-- EN: Stellarch Ascension -->
+  <VFEE.Parade.Reward.Label>Stellarch Ascension</VFEE.Parade.Reward.Label>
+  <!-- EN: Your Stellarch will achieve ascension with passage off world to progress further in the grand hierachy, serving directly with the emperor -->
+  <VFEE.Parade.Reward.Description>Your Stellarch will achieve ascension with passage off world to progress further in the grand hierachy, serving directly with the emperor</VFEE.Parade.Reward.Description>
+  <!-- EN: Defuse bomb -->
+  <VFEE.DefuseBomb>Defuse bomb</VFEE.DefuseBomb>
+  <!-- EN: Deserters are leaving as they have eliminated their target. -->
+  <VFEE.AssassinationSuccess>Deserters are leaving as they have eliminated their target.</VFEE.AssassinationSuccess>
+  <!-- EN: Discard -->
+  <VFEE.Discard>Discard</VFEE.Discard>
+  <!-- EN: Deserters are leaving as they have eliminated every imperial title holder in the area. -->
+  <VFEE.RoyaltyDead>Deserters are leaving as they have eliminated every imperial title holder in the area.</VFEE.RoyaltyDead>
+  <!-- EN: {0} has sent you a celebration package of aperitif! -->
+  <VFEE.GotDrug>{0} has sent you a celebration package of aperitif!</VFEE.GotDrug>
+  <!-- EN: The tithe of {0} has arrived from {1}. -->
+  <VFEE.TitheArrived>The tithe of {0} has arrived from {1}.</VFEE.TitheArrived>
+</LanguageData>
