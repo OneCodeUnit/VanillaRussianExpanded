@@ -14,7 +14,7 @@
 		talkedabout->quipped about
   -->
   <VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
-		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout_plural] [THIRDPARTY_nameDef].</li>
 		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] with [RECIPIENT_nameDef].</li>
 		<li>talkedabout(p=4)->chatted about</li>
 		<li>talkedabout->shared a word about</li>
@@ -23,5 +23,12 @@
 		<li>talkedabout->talked about</li>
 		<li>talkedabout->joked about</li>
 		<li>talkedabout->quipped about</li>
+		<li>talkedabout_plural(p=4)->chatted about</li>
+		<li>talkedabout_plural->shared a word about</li>
+		<li>talkedabout_plural->spoke about</li>
+		<li>talkedabout_plural->gabbed about</li>
+		<li>talkedabout_plural->talked about</li>
+		<li>talkedabout_plural->joked about</li>
+		<li>talkedabout_plural->quipped about</li>
   </VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
 </LanguageData>
