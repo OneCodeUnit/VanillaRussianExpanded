@@ -1,107 +1,107 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: OR -->
-  <VFEE.OR>OR</VFEE.OR>
+  <VFEE.OR>ИЛИ</VFEE.OR>
   <!-- EN: Unable to start due to {0} not having a dignified throne. -->
-  <VFEE.StartBestower.NoThrone>Unable to start due to {0} not having a dignified throne.</VFEE.StartBestower.NoThrone>
+  <VFEE.StartBestower.NoThrone>Не удаётся начать из-за отсутствия трона, достойного титула {0}.</VFEE.StartBestower.NoThrone>
   <!-- EN: Unable to start due to no valid throne rooms for the bestowing of the title. -->
-  <VFEE.StartBestower.NoTarget>Unable to start due to no valid throne rooms for the bestowing of the title.</VFEE.StartBestower.NoTarget>
+  <VFEE.StartBestower.NoTarget>Не удаётся начать из-за отсутствия подходящего тронного зала для проведения церемонии присвоения титула.</VFEE.StartBestower.NoTarget>
   <!-- EN: Unable to start due to target already possesing a higher title -->
-  <VFEE.StartBestower.HigherTitle>Unable to start due to target already possesing a higher title</VFEE.StartBestower.HigherTitle>
+  <VFEE.StartBestower.HigherTitle>Не удаётся начать из-за того, что цель уже имеет более высокий титул.</VFEE.StartBestower.HigherTitle>
   <!-- EN: Unable to start while an existing ritual is ongoing. -->
-  <VFEE.StartBestower.DisabledExistingRitual>Unable to start while an existing ritual is ongoing.</VFEE.StartBestower.DisabledExistingRitual>
+  <VFEE.StartBestower.DisabledExistingRitual>Не удаётся начать пока идёт текущий ритуал.</VFEE.StartBestower.DisabledExistingRitual>
   <!-- EN: Gallery requirements -->
-  <VFEE.GalleryRequirements>Gallery requirements</VFEE.GalleryRequirements>
+  <VFEE.GalleryRequirements>Требования к художественной галерее</VFEE.GalleryRequirements>
   <!-- EN: Gallery requirements unmet: {0} -->
-  <VFEE.GalleryRequirements.Unmet>Gallery requirements unmet: {0}</VFEE.GalleryRequirements.Unmet>
+  <VFEE.GalleryRequirements.Unmet>удовлетворить требования к художественной галерее: {0}</VFEE.GalleryRequirements.Unmet>
   <!-- EN: Ballroom requirements -->
-  <VFEE.BallroomRequirements>Ballroom requirements</VFEE.BallroomRequirements>
+  <VFEE.BallroomRequirements>Требования к бальному залу</VFEE.BallroomRequirements>
   <!-- EN: Ballroom requirements unmet for: {0} -->
-  <VFEE.BallroomRequirements.Unmet>Ballroom requirements unmet for: {0}</VFEE.BallroomRequirements.Unmet>
+  <VFEE.BallroomRequirements.Unmet>удовлетворить требования к бальному залу: {0}</VFEE.BallroomRequirements.Unmet>
   <!-- EN: Ballroom does not have a big enough dance floor for the guests! They would like an open floor space of {0} infront of an instrument  -->
-  <VFEE.BallroomRequirements.DanceFloorToSmall>Ballroom does not have a big enough dance floor for the guests! They would like an open floor space of {0} infront of an instrument </VFEE.BallroomRequirements.DanceFloorToSmall>
+  <VFEE.BallroomRequirements.DanceFloorToSmall>выделить достаточно места для танцев. Гости желают, чтобы перед музыкальным инструментом было незанятное пространство, размером в {0} {0_numCase ? клетку : клетки : клеток}.</VFEE.BallroomRequirements.DanceFloorToSmall>
   <!-- EN: Noble court requirements -->
-  <VFEE.CourtRequirements>Noble court requirements</VFEE.CourtRequirements>
+  <VFEE.CourtRequirements>Требования к королевскому двору</VFEE.CourtRequirements>
   <!-- EN: Host Grandball -->
-  <VFEE.GrandBall.Begin>Host Grandball</VFEE.GrandBall.Begin>
+  <VFEE.GrandBall.Begin>Провести большой бал</VFEE.GrandBall.Begin>
   <!-- EN: Grandball -->
-  <VFEE.GrandBall.Label>Grandball</VFEE.GrandBall.Label>
+  <VFEE.GrandBall.Label>Большой бал</VFEE.GrandBall.Label>
   <!-- EN: Leave Grandball -->
-  <VFEE.GrandBall.Leave.label>Leave Grandball</VFEE.GrandBall.Leave.label>
+  <VFEE.GrandBall.Leave.label>Покинуть большой бал</VFEE.GrandBall.Leave.label>
   <!-- EN: This pawn will leave the grandball, they will not be able to rejoin the festivities later -->
-  <VFEE.GrandBall.Leave.Desc>This pawn will leave the grandball, they will not be able to rejoin the festivities later</VFEE.GrandBall.Leave.Desc>
+  <VFEE.GrandBall.Leave.Desc>Этот персонаж покинет большой бал и не сможет позже присоединиться к празднику</VFEE.GrandBall.Leave.Desc>
   <!-- EN: Cancel Grandball -->
-  <VFEE.GrandBall.Cancel.Label>Cancel Grandball</VFEE.GrandBall.Cancel.Label>
+  <VFEE.GrandBall.Cancel.Label>Отменить большой бал</VFEE.GrandBall.Cancel.Label>
   <!-- EN: Cancel the grand ball sending everyone home and failing the quest -->
-  <VFEE.GrandBall.Cancel.Desc>Cancel the grand ball sending everyone home and failing the quest</VFEE.GrandBall.Cancel.Desc>
+  <VFEE.GrandBall.Cancel.Desc>Отменить большой бал и отправить всех участников домой, провалив задание.</VFEE.GrandBall.Cancel.Desc>
   <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
-  <VFEE.GrandBall.Cancel.Confirm>There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed.</VFEE.GrandBall.Cancel.Confirm>
+  <VFEE.GrandBall.Cancel.Confirm>Возможности начать ритуал заново не будет. Ваши гости вернутся домой недовольными и задание будет провалено.</VFEE.GrandBall.Cancel.Confirm>
   <!-- EN: Your guests are waiting for you to start the grand ball. They wont wait long however -->
-  <VFEE.GrandBall.Waiting>Your guests are waiting for you to start the grand ball. They wont wait long however</VFEE.GrandBall.Waiting>
+  <VFEE.GrandBall.Waiting>Ваши гости ожидают, когда вы начнёте большой бал. Однако долго они ждать не станут.</VFEE.GrandBall.Waiting>
   <!-- EN: An exclusive ball to only be attended by those with a royal title, and a few who can play instruments -->
-  <VFEE.GrandBall.Description>An exclusive ball to only be attended by those with a royal title, and a few who can play instruments</VFEE.GrandBall.Description>
+  <VFEE.GrandBall.Description>Грандиозный бал, на котором могут присутствовать только представители имперской знати и несколько человек, умеющих играть на музыкальных инструментах.</VFEE.GrandBall.Description>
   <!-- EN: Participants -->
-  <VFEE.GrandBall.ChooseParticipants>Participants</VFEE.GrandBall.ChooseParticipants>
+  <VFEE.GrandBall.ChooseParticipants>Участники</VFEE.GrandBall.ChooseParticipants>
   <!-- EN: Host Art Exhibit -->
-  <VFEE.ArtExhibit.Begin>Host Art Exhibit</VFEE.ArtExhibit.Begin>
+  <VFEE.ArtExhibit.Begin>Провести выставку</VFEE.ArtExhibit.Begin>
   <!-- EN: Art Exhibit -->
-  <VFEE.ArtExhibit.Label>Art Exhibit</VFEE.ArtExhibit.Label>
+  <VFEE.ArtExhibit.Label>Выставка искусства</VFEE.ArtExhibit.Label>
   <!-- EN: Leave exhibit -->
-  <VFEE.ArtExhibit.Leave.label>Leave exhibit</VFEE.ArtExhibit.Leave.label>
+  <VFEE.ArtExhibit.Leave.label>Покинуть выставку</VFEE.ArtExhibit.Leave.label>
   <!-- EN: This pawn will leave the exhibit, they will not be able to rejoin the festivities later -->
-  <VFEE.ArtExhibit.Leave.Desc>This pawn will leave the exhibit, they will not be able to rejoin the festivities later</VFEE.ArtExhibit.Leave.Desc>
+  <VFEE.ArtExhibit.Leave.Desc>Этот персонаж покинет выставку и не сможет позже присоединиться к празднику</VFEE.ArtExhibit.Leave.Desc>
   <!-- EN: Cancel Exhibit -->
-  <VFEE.ArtExhibit.Cancel.Label>Cancel Exhibit</VFEE.ArtExhibit.Cancel.Label>
+  <VFEE.ArtExhibit.Cancel.Label>Отменить выставку</VFEE.ArtExhibit.Cancel.Label>
   <!-- EN: Cancel the art exhibit sending everyone home and failing the quest -->
-  <VFEE.ArtExhibit.Cancel.Desc>Cancel the art exhibit sending everyone home and failing the quest</VFEE.ArtExhibit.Cancel.Desc>
+  <VFEE.ArtExhibit.Cancel.Desc>Отменить выставку и отправить всех участников домой, провалив задание</VFEE.ArtExhibit.Cancel.Desc>
   <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
-  <VFEE.ArtExhibit.Cancel.Confirm>There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed.</VFEE.ArtExhibit.Cancel.Confirm>
+  <VFEE.ArtExhibit.Cancel.Confirm>Возможности начать ритуал заново не будет. Ваши гости вернутся домой недовольными и задание будет провалено.</VFEE.ArtExhibit.Cancel.Confirm>
   <!-- EN: Your guests are waiting for you to start the art exhibit. They wont wait long however -->
-  <VFEE.ArtExhibit.Waiting>Your guests are waiting for you to start the art exhibit. They wont wait long however</VFEE.ArtExhibit.Waiting>
+  <VFEE.ArtExhibit.Waiting>Ваши гости ожидают, когда вы начнёте выставку. Однако долго они ждать не станут</VFEE.ArtExhibit.Waiting>
   <!-- EN: An art expedition to only be attended by those with a royal title, to view your galley and gossip with eachother. -->
-  <VFEE.ArtExhibit.Description>An art expedition to only be attended by those with a royal title, to view your galley and gossip with eachother.</VFEE.ArtExhibit.Description>
+  <VFEE.ArtExhibit.Description>Выставка искусства, на которой могут присутствовать только представители имперской знати. Не ней они смогут рассматривать ваши произведения искусства и сплетничать друг с другом.</VFEE.ArtExhibit.Description>
   <!-- EN: Participants -->
-  <VFEE.ArtExhibit.ChooseParticipants>Participants</VFEE.ArtExhibit.ChooseParticipants>
+  <VFEE.ArtExhibit.ChooseParticipants>Участники</VFEE.ArtExhibit.ChooseParticipants>
   <!-- EN: Host Parade -->
-  <VFEE.Parade.Begin>Host Parade</VFEE.Parade.Begin>
+  <VFEE.Parade.Begin>Провести парад</VFEE.Parade.Begin>
   <!-- EN: Driven by jealousy {0} is attempting to murder the stellarch! -->
-  <VFEE.Parade.Murder>Driven by jealousy {0} is attempting to murder the stellarch!</VFEE.Parade.Murder>
+  <VFEE.Parade.Murder>В приступе зависти {0} предпринимает попытку убийства стелларха!</VFEE.Parade.Murder>
   <!-- EN: Parade -->
-  <VFEE.Parade.Label>Parade</VFEE.Parade.Label>
+  <VFEE.Parade.Label>Парад</VFEE.Parade.Label>
   <!-- EN: Leave Parade -->
-  <VFEE.Parade.Leave.label>Leave Parade</VFEE.Parade.Leave.label>
+  <VFEE.Parade.Leave.label>Покинуть парад</VFEE.Parade.Leave.label>
   <!-- EN: This pawn will leave the Parade, they will not be able to rejoin the festivities later -->
-  <VFEE.Parade.Leave.Desc>This pawn will leave the Parade, they will not be able to rejoin the festivities later</VFEE.Parade.Leave.Desc>
+  <VFEE.Parade.Leave.Desc>Этот персонаж покинет парад и не сможет позже присоединиться к празднику.</VFEE.Parade.Leave.Desc>
   <!-- EN: Cancel Parade -->
-  <VFEE.Parade.Cancel.Label>Cancel Parade</VFEE.Parade.Cancel.Label>
+  <VFEE.Parade.Cancel.Label>Отменить парад</VFEE.Parade.Cancel.Label>
   <!-- EN: Cancel the parade sending everyone home and failing the quest -->
-  <VFEE.Parade.Cancel.Desc>Cancel the parade sending everyone home and failing the quest</VFEE.Parade.Cancel.Desc>
+  <VFEE.Parade.Cancel.Desc>Отменить парад и отправить всех участников домой, провалив задание.</VFEE.Parade.Cancel.Desc>
   <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unhappy and the quest will be failed. -->
-  <VFEE.Parade.Cancel.Confirm>There will be no opportunity to restart this ritual, your guests will go home unhappy and the quest will be failed.</VFEE.Parade.Cancel.Confirm>
+  <VFEE.Parade.Cancel.Confirm>Возможности начать ритуал заново не будет. Ваши гости вернутся домой недовольными и задание будет провалено.</VFEE.Parade.Cancel.Confirm>
   <!-- EN: Your guests are waiting for you to start the Parade. They wont wait long however -->
-  <VFEE.Parade.Waiting>Your guests are waiting for you to start the Parade. They wont wait long however</VFEE.Parade.Waiting>
+  <VFEE.Parade.Waiting>Ваши гости ожидают, когда вы начнёте парад. Однако долго они ждать не станут.</VFEE.Parade.Waiting>
   <!-- EN: A traditional ascension parade to send off the stellarch! -->
-  <VFEE.Parade.Description>A traditional ascension parade to send off the stellarch!</VFEE.Parade.Description>
+  <VFEE.Parade.Description>Традиционный парад в честь восхождения стелларха!</VFEE.Parade.Description>
   <!-- EN: The stellarch does not trust {0} enough. -->
-  <VFEE.Parade.InvalidGuard>The stellarch does not trust {0} enough.</VFEE.Parade.InvalidGuard>
+  <VFEE.Parade.InvalidGuard>Стелларх недостаточно доверяет {0}.</VFEE.Parade.InvalidGuard>
   <!-- EN: Participants -->
-  <VFEE.Parade.ChooseParticipants>Participants</VFEE.Parade.ChooseParticipants>
+  <VFEE.Parade.ChooseParticipants>Участники</VFEE.Parade.ChooseParticipants>
   <!-- EN: Unable to find a suitable drop beacon for the guests to land their shuttle at -->
-  <VFEE.Parade.LandingAreaUnmet>Unable to find a suitable drop beacon for the guests to land their shuttle at</VFEE.Parade.LandingAreaUnmet>
+  <VFEE.Parade.LandingAreaUnmet>установить подходящие посадочные маяки для приземления челнока гостей.</VFEE.Parade.LandingAreaUnmet>
   <!-- EN: Stellarch Ascension -->
-  <VFEE.Parade.Reward.Label>Stellarch Ascension</VFEE.Parade.Reward.Label>
+  <VFEE.Parade.Reward.Label>восхождение Cтелларха</VFEE.Parade.Reward.Label>
   <!-- EN: Your Stellarch will achieve ascension with passage off world to progress further in the grand hierachy, serving directly with the emperor -->
-  <VFEE.Parade.Reward.Description>Your Stellarch will achieve ascension with passage off world to progress further in the grand hierachy, serving directly with the emperor</VFEE.Parade.Reward.Description>
+  <VFEE.Parade.Reward.Description>Ваш стелларх покинет планету, чтобы продвинуться дальше в Великой Иерархии и служить непосредственно Императору.</VFEE.Parade.Reward.Description>
   <!-- EN: Defuse bomb -->
-  <VFEE.DefuseBomb>Defuse bomb</VFEE.DefuseBomb>
+  <VFEE.DefuseBomb>Обезвредить бомбу</VFEE.DefuseBomb>
   <!-- EN: Deserters are leaving as they have eliminated their target. -->
-  <VFEE.AssassinationSuccess>Deserters are leaving as they have eliminated their target.</VFEE.AssassinationSuccess>
+  <VFEE.AssassinationSuccess>Дезертиры ликвидировали свою цель и уходят.</VFEE.AssassinationSuccess>
   <!-- EN: Discard -->
-  <VFEE.Discard>Discard</VFEE.Discard>
+  <VFEE.Discard>Отклонить</VFEE.Discard>
   <!-- EN: Deserters are leaving as they have eliminated every imperial title holder in the area. -->
-  <VFEE.RoyaltyDead>Deserters are leaving as they have eliminated every imperial title holder in the area.</VFEE.RoyaltyDead>
+  <VFEE.RoyaltyDead>Дезертиры ликвидировали всех представителей имперской знати и уходят.</VFEE.RoyaltyDead>
   <!-- EN: {0} has sent you a celebration package of aperitif! -->
-  <VFEE.GotDrug>{0} has sent you a celebration package of aperitif!</VFEE.GotDrug>
+  <VFEE.GotDrug>{0} отправляет вам праздничную посылку с аперитивом!</VFEE.GotDrug>
   <!-- EN: The tithe of {0} has arrived from {1}. -->
-  <VFEE.TitheArrived>The tithe of {0} has arrived from {1}.</VFEE.TitheArrived>
+  <VFEE.TitheArrived>Прибыла десятина ({0}) из {1}.</VFEE.TitheArrived>
 </LanguageData>

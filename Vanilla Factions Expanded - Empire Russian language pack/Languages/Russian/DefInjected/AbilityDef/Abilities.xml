@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: royal address -->
-  <VFEE_RoyalAddress.label>royal address</VFEE_RoyalAddress.label>
+  <VFEE_RoyalAddress.label>Речь короля</VFEE_RoyalAddress.label>
   <!-- EN: is giving a royal address from the throne.If all goes well, every titled participant will gain a small amount of honor, and they will gain honor for each titled participant. If it goes poorly, the speech will do social damage and will lose honor for each titled participant. The outcome depends on their social abilities. Imperial nobility currently residing in the area will join the speech and count as titled participants. -->
-  <VFEE_RoyalAddress.description>is giving a royal address from the throne.If all goes well, every titled participant will gain a small amount of honor, and they will gain honor for each titled participant. If it goes poorly, the speech will do social damage and will lose honor for each titled participant. The outcome depends on their social abilities. Imperial nobility currently residing in the area will join the speech and count as titled participants.</VFEE_RoyalAddress.description>
+  <VFEE_RoyalAddress.description>Произнести в тронном зале речь короля. Если все пройдет хорошо, каждый титулованный участник получит небольшое количество милости короны. Сам оратор тоже получит милость короны за каждого титулованного участника. Провальная речь нанесет социальный ущерб и лишит всех титулованных участников милости. Шанс успеха зависит от социальных способностей оратора. Имперская знать, гостящая в регионе присоединится к обращению и будет считаться среди титулованных участников.</VFEE_RoyalAddress.description>
   <!-- EN: bestow: Freeholder -->
-  <VFEE_BestowFreeholder.label>bestow: Freeholder</VFEE_BestowFreeholder.label>
+  <VFEE_BestowFreeholder.label>даровать титул: Фригольдер</VFEE_BestowFreeholder.label>
   <!-- EN: Bestows the Freeholder title on a selected pawn. That pawn receives 1 Honor. Can’t be cast on a pawn that’s already a Freeholder or higher. Has a 3 day cooldown. -->
-  <VFEE_BestowFreeholder.description>Bestows the Freeholder title on a selected pawn. That pawn receives 1 Honor. Can’t be cast on a pawn that’s already a Freeholder or higher. Has a 3 day cooldown.</VFEE_BestowFreeholder.description>
+  <VFEE_BestowFreeholder.description>Даровать титул Фригольдера выбранному персонажу. Он получит 1 ед. милости короны. Нельзя применить к персонажу, уже имеющему титул Фригольдера или выше. Длительность перезарядки — 3 дня.</VFEE_BestowFreeholder.description>
 
   <!-- EN: bestow: Yeoman -->
-  <VFEE_BestowYeoman.label>bestow: Yeoman</VFEE_BestowYeoman.label>
+  <VFEE_BestowYeoman.label>даровать титул: Йомен</VFEE_BestowYeoman.label>
   <!-- EN: Bestows the Yeoman title on a selected pawn. That pawn now has 7 honor. Can’t be cast on a pawn that’s already a Yeoman or higher. Has a 3 day cooldown. -->
-  <VFEE_BestowYeoman.description>Bestows the Yeoman title on a selected pawn. That pawn now has 7 honor. Can’t be cast on a pawn that’s already a Yeoman or higher. Has a 3 day cooldown.</VFEE_BestowYeoman.description>
+  <VFEE_BestowYeoman.description>Даровать титул Йомена выбранному персонажу. Он получит 7 ед. милости короны. Нельзя применить к персонажу, уже имеющему титул Йомена или выше. Длительность перезарядки — 3 дня.</VFEE_BestowYeoman.description>
 
   <!-- EN: bestow: Acolyte -->
-  <VFEE_BestowAcolyte.label>bestow: Acolyte</VFEE_BestowAcolyte.label>
+  <VFEE_BestowAcolyte.label>даровать титул: Аколит</VFEE_BestowAcolyte.label>
   <!-- EN: Bestows the Acolyte title on a selected pawn. That pawn now has 13 honor. Can’t be cast on a pawn that’s already a Acolyte or higher. Has a 3 day cooldown. -->
-  <VFEE_BestowAcolyte.description>Bestows the Acolyte title on a selected pawn. That pawn now has 13 honor. Can’t be cast on a pawn that’s already a Acolyte or higher. Has a 3 day cooldown.</VFEE_BestowAcolyte.description>
+  <VFEE_BestowAcolyte.description>Даровать титул Аколита выбранному персонажу. Он получит 13 ед. милости короны. Нельзя применить к персонажу, уже имеющему титул Аколита или выше. Длительность перезарядки — 3 дня.</VFEE_BestowAcolyte.description>
 
   <!-- EN: bestow: Knight -->
-  <VFEE_BestowKnight.label>bestow: Knight</VFEE_BestowKnight.label>
+  <VFEE_BestowKnight.label>даровать титул: Рыцарь</VFEE_BestowKnight.label>
   <!-- EN: Bestows the Knight/Dame title on a selected pawn. That pawn now has 21 honor. Can’t be cast on a pawn that’s already a Knight/Dame or higher. Has a 3 day cooldown. -->
-  <VFEE_BestowKnight.description>Bestows the Knight/Dame title on a selected pawn. That pawn now has 21 honor. Can’t be cast on a pawn that’s already a Knight/Dame or higher. Has a 3 day cooldown.</VFEE_BestowKnight.description>
+  <VFEE_BestowKnight.description>Даровать титул Рыцаря/Дамы выбранному персонажу. Он получит 21 ед. милости короны. Нельзя применить к персонажу, уже имеющему титул Рыцаря/Дамы или выше. Длительность перезарядки — 3 дня.</VFEE_BestowKnight.description>
 
   <!-- EN: bestow: Praetor -->
-  <VFEE_BestowPraetor.label>bestow: Praetor</VFEE_BestowPraetor.label>
+  <VFEE_BestowPraetor.label>даровать титул: Претор</VFEE_BestowPraetor.label>
   <!-- EN: Bestows the Praetor title on a selected pawn. That pawn now has 31 honor. Can’t be cast on a pawn that’s already a Praetor or higher. Has a 3 day cooldown. -->
-  <VFEE_BestowPraetor.description>Bestows the Praetor title on a selected pawn. That pawn now has 31 honor. Can’t be cast on a pawn that’s already a Praetor or higher. Has a 3 day cooldown.</VFEE_BestowPraetor.description>
+  <VFEE_BestowPraetor.description>Даровать титул Претора выбранному персонажу. Он получит 31 ед. милости короны. Нельзя применить к персонажу, уже имеющему титул Претора или выше. Длительность перезарядки — 3 дня.</VFEE_BestowPraetor.description>
 
   <!-- EN: bestow: Baron -->
-  <VFEE_BestowBaron.label>bestow: Baron</VFEE_BestowBaron.label>
+  <VFEE_BestowBaron.label>даровать титул: Барон</VFEE_BestowBaron.label>
   <!-- EN: Bestows the Baron/Baroness title on a selected pawn. That pawn now has 45 honor. Can’t be cast on a pawn that’s already a Baron/Baroness or higher. Has a 3 day cooldown. -->
-  <VFEE_BestowBaron.description>Bestows the Baron/Baroness title on a selected pawn. That pawn now has 45 honor. Can’t be cast on a pawn that’s already a Baron/Baroness or higher. Has a 3 day cooldown.</VFEE_BestowBaron.description>
+  <VFEE_BestowBaron.description>Даровать титул Барона/Баронессы выбранному персонажу. Он получит 45 ед. милости короны. Нельзя применить к персонажу, уже имеющему титул Барона/Баронессы или выше. Длительность перезарядки — 3 дня.</VFEE_BestowBaron.description>
 
   <!-- EN: bestow: Count -->
-  <VFEE_BestowCount.label>bestow: Count</VFEE_BestowCount.label>
+  <VFEE_BestowCount.label>даровать титул: Граф</VFEE_BestowCount.label>
   <!-- EN: Bestows the Count/Countess title on a selected pawn. That pawn now has 45 honor. Can’t be cast on a pawn that’s already a Count/Countess or higher. Has a 3 day cooldown. -->
-  <VFEE_BestowCount.description>Bestows the Count/Countess title on a selected pawn. That pawn now has 45 honor. Can’t be cast on a pawn that’s already a Count/Countess or higher. Has a 3 day cooldown.</VFEE_BestowCount.description>
+  <VFEE_BestowCount.description>Даровать титул Графа/Графини выбранному персонажу. Он получит 45 ед. милости короны. Нельзя применить к персонажу, уже имеющему титул Графа/Графини или выше. Длительность перезарядки — 3 дня.</VFEE_BestowCount.description>
 </LanguageData>

@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: royal gossip -->
-  <VFEE_RoyalGossip.label>royal gossip</VFEE_RoyalGossip.label>
+  <VFEE_RoyalGossip.label>королевские сплетни</VFEE_RoyalGossip.label>
   <!-- EN: 
 		r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].
 		r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] with [RECIPIENT_nameDef].
@@ -14,21 +14,21 @@
 		talkedabout->quipped about
   -->
   <VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
-		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout_plural] [THIRDPARTY_nameDef].</li>
-		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] with [RECIPIENT_nameDef].</li>
-		<li>talkedabout(p=4)->chatted about</li>
-		<li>talkedabout->shared a word about</li>
-		<li>talkedabout->spoke about</li>
-		<li>talkedabout->gabbed about</li>
-		<li>talkedabout->talked about</li>
-		<li>talkedabout->joked about</li>
-		<li>talkedabout->quipped about</li>
-		<li>talkedabout_plural(p=4)->chatted about</li>
-		<li>talkedabout_plural->shared a word about</li>
-		<li>talkedabout_plural->spoke about</li>
-		<li>talkedabout_plural->gabbed about</li>
-		<li>talkedabout_plural->talked about</li>
-		<li>talkedabout_plural->joked about</li>
-		<li>talkedabout_plural->quipped about</li>
+		<li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [THIRDPARTY_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] с [RECIPIENT_nameDef].</li>
+		<li>talkedabout(p=4)->болтает про</li>
+		<li>talkedabout->обменивается парой слов про</li>
+		<li>talkedabout->говорит про</li>
+		<li>talkedabout->треплется про</li>
+		<li>talkedabout->беседует про</li>
+		<li>talkedabout->шутит про</li>
+		<li>talkedabout->отпускает остроты про</li>
+		<li>talkedabout_plural(p=4)->болтают про</li>
+		<li>talkedabout_plural->обмениваются парой слов про</li>
+		<li>talkedabout_plural->говорят про</li>
+		<li>talkedabout_plural->треплются про</li>
+		<li>talkedabout_plural->беседуют про</li>
+		<li>talkedabout_plural->шутят про</li>
+		<li>talkedabout_plural->отпускают остроты про</li>
   </VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
 </LanguageData>
