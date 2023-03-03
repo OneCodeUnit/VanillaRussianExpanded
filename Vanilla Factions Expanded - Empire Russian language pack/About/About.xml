@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Vanilla Factions Expanded - Empire Russian Language Pack</name>
-  <author>???</author>
-  <packageId>RUS.VFE.Empire</packageId>
+  <author>Mewn Goddess</author>
+  <packageId>MG.RU.Empire</packageId>
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
@@ -15,6 +15,9 @@
     </li>
   </modDependencies>
   <loadAfter>
-	<li>OskarPotocki.VFE.Empire</li>
+	  <li>OskarPotocki.VFE.Empire</li>
   </loadAfter>
+  <incompatibleWith>
+    <li>shavius.vfeempire.ru</li>
+  </incompatibleWith>
 </ModMetaData>
