@@ -19,7 +19,7 @@
   <!-- EN: Ballroom requirements unmet for: {0} -->
   <VFEE.BallroomRequirements.Unmet>удовлетворить требования к бальному залу: {0}</VFEE.BallroomRequirements.Unmet>
   <!-- EN: Ballroom does not have a big enough dance floor for the guests! They would like an open floor space of {0} infront of an instrument  -->
-  <VFEE.BallroomRequirements.DanceFloorToSmall>выделить достаточно места для танцев. Гости желают, чтобы перед музыкальным инструментом было незанятное пространство, размером в {0} {0_numCase ? клетку : клетки : клеток}.</VFEE.BallroomRequirements.DanceFloorToSmall>
+  <VFEE.BallroomRequirements.DanceFloorToSmall>выделить достаточно места для танцев. Гости желают, чтобы перед музыкальным инструментом было незанятое пространство, размером в {0} клеток.</VFEE.BallroomRequirements.DanceFloorToSmall>
   <!-- EN: Noble court requirements -->
   <VFEE.CourtRequirements>Требования к королевскому двору</VFEE.CourtRequirements>
   <!-- EN: Host Grandball -->
@@ -29,7 +29,7 @@
   <!-- EN: Leave Grandball -->
   <VFEE.GrandBall.Leave.label>Покинуть большой бал</VFEE.GrandBall.Leave.label>
   <!-- EN: This pawn will leave the grandball, they will not be able to rejoin the festivities later -->
-  <VFEE.GrandBall.Leave.Desc>Этот персонаж покинет большой бал и не сможет позже присоединиться к празднику</VFEE.GrandBall.Leave.Desc>
+  <VFEE.GrandBall.Leave.Desc>Этот персонаж покинет большой бал и не сможет позже присоединиться к празднику.</VFEE.GrandBall.Leave.Desc>
   <!-- EN: Cancel Grandball -->
   <VFEE.GrandBall.Cancel.Label>Отменить большой бал</VFEE.GrandBall.Cancel.Label>
   <!-- EN: Cancel the grand ball sending everyone home and failing the quest -->
@@ -49,15 +49,15 @@
   <!-- EN: Leave exhibit -->
   <VFEE.ArtExhibit.Leave.label>Покинуть выставку</VFEE.ArtExhibit.Leave.label>
   <!-- EN: This pawn will leave the exhibit, they will not be able to rejoin the festivities later -->
-  <VFEE.ArtExhibit.Leave.Desc>Этот персонаж покинет выставку и не сможет позже присоединиться к празднику</VFEE.ArtExhibit.Leave.Desc>
+  <VFEE.ArtExhibit.Leave.Desc>Этот персонаж покинет выставку и не сможет позже присоединиться к празднику.</VFEE.ArtExhibit.Leave.Desc>
   <!-- EN: Cancel Exhibit -->
   <VFEE.ArtExhibit.Cancel.Label>Отменить выставку</VFEE.ArtExhibit.Cancel.Label>
   <!-- EN: Cancel the art exhibit sending everyone home and failing the quest -->
-  <VFEE.ArtExhibit.Cancel.Desc>Отменить выставку и отправить всех участников домой, провалив задание</VFEE.ArtExhibit.Cancel.Desc>
+  <VFEE.ArtExhibit.Cancel.Desc>Отменить выставку и отправить всех участников домой, провалив задание.</VFEE.ArtExhibit.Cancel.Desc>
   <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
   <VFEE.ArtExhibit.Cancel.Confirm>Возможности начать ритуал заново не будет. Ваши гости вернутся домой недовольными и задание будет провалено.</VFEE.ArtExhibit.Cancel.Confirm>
   <!-- EN: Your guests are waiting for you to start the art exhibit. They wont wait long however -->
-  <VFEE.ArtExhibit.Waiting>Ваши гости ожидают, когда вы начнёте выставку. Однако долго они ждать не станут</VFEE.ArtExhibit.Waiting>
+  <VFEE.ArtExhibit.Waiting>Ваши гости ожидают, когда вы начнёте выставку. Однако долго они ждать не станут.</VFEE.ArtExhibit.Waiting>
   <!-- EN: An art expedition to only be attended by those with a royal title, to view your galley and gossip with eachother. -->
   <VFEE.ArtExhibit.Description>Выставка искусства, на которой могут присутствовать только представители имперской знати. Не ней они смогут рассматривать ваши произведения искусства и сплетничать друг с другом.</VFEE.ArtExhibit.Description>
   <!-- EN: Participants -->
@@ -65,7 +65,7 @@
   <!-- EN: Host Parade -->
   <VFEE.Parade.Begin>Провести парад</VFEE.Parade.Begin>
   <!-- EN: Driven by jealousy {0} is attempting to murder the stellarch! -->
-  <VFEE.Parade.Murder>В приступе зависти {0} предпринимает попытку убийства стелларха!</VFEE.Parade.Murder>
+  <VFEE.Parade.Murder>В приступе зависти {0} предпринимает попытку убийства Стелларха!</VFEE.Parade.Murder>
   <!-- EN: Parade -->
   <VFEE.Parade.Label>Парад</VFEE.Parade.Label>
   <!-- EN: Leave Parade -->
@@ -81,7 +81,7 @@
   <!-- EN: Your guests are waiting for you to start the Parade. They wont wait long however -->
   <VFEE.Parade.Waiting>Ваши гости ожидают, когда вы начнёте парад. Однако долго они ждать не станут.</VFEE.Parade.Waiting>
   <!-- EN: A traditional ascension parade to send off the stellarch! -->
-  <VFEE.Parade.Description>Традиционный парад в честь восхождения стелларха!</VFEE.Parade.Description>
+  <VFEE.Parade.Description>Традиционный парад в честь восхождения Стелларха!</VFEE.Parade.Description>
   <!-- EN: The stellarch does not trust {0} enough. -->
   <VFEE.Parade.InvalidGuard>Стелларх недостаточно доверяет {0}.</VFEE.Parade.InvalidGuard>
   <!-- EN: Participants -->
@@ -89,9 +89,9 @@
   <!-- EN: Unable to find a suitable drop beacon for the guests to land their shuttle at -->
   <VFEE.Parade.LandingAreaUnmet>установить подходящие посадочные маяки для приземления челнока гостей.</VFEE.Parade.LandingAreaUnmet>
   <!-- EN: Stellarch Ascension -->
-  <VFEE.Parade.Reward.Label>восхождение Cтелларха</VFEE.Parade.Reward.Label>
+  <VFEE.Parade.Reward.Label>Восхождение Cтелларха</VFEE.Parade.Reward.Label>
   <!-- EN: Your Stellarch will achieve ascension with passage off world to progress further in the grand hierachy, serving directly with the emperor -->
-  <VFEE.Parade.Reward.Description>Ваш стелларх покинет планету, чтобы продвинуться дальше в Великой Иерархии и служить непосредственно Императору.</VFEE.Parade.Reward.Description>
+  <VFEE.Parade.Reward.Description>Ваш Стелларх покинет планету, чтобы продвинуться дальше в Великой Иерархии и служить непосредственно Императору.</VFEE.Parade.Reward.Description>
   <!-- EN: Defuse bomb -->
   <VFEE.DefuseBomb>Обезвредить бомбу</VFEE.DefuseBomb>
   <!-- EN: Deserters are leaving as they have eliminated their target. -->

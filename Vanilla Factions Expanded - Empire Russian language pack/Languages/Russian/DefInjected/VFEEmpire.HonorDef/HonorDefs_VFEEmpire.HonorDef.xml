@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: First of {PAWN_possessive} Name -->
-  <VFEE_FirstOfName.label>Первый своего имени</VFEE_FirstOfName.label>
+  <VFEE_FirstOfName.label>{PAWN_gender ? Первый : Первая} своего имени</VFEE_FirstOfName.label>
   <!-- EN: Every noble person has +5 opinion of this pawn. -->
   <VFEE_FirstOfName.description>Каждый знатный человек получает +5 к мнению об этом персонаже.</VFEE_FirstOfName.description>
   <!-- EN: The Great -->
-  <VFEE_TheGreat.label>Великий</VFEE_TheGreat.label>
+  <VFEE_TheGreat.label>{PAWN_gender ? Великий : Великая}</VFEE_TheGreat.label>
   <!-- EN: +5 mood -->
   <VFEE_TheGreat.description>+5 к настроению</VFEE_TheGreat.description>
   <!-- EN: Chosen of {FACTION_name} -->
-  <VFEE_Chosen.label>Избранный из {FACTION_name}</VFEE_Chosen.label>
+  <VFEE_Chosen.label>{PAWN_gender ? Избранный : Избранная} из {FACTION_name}</VFEE_Chosen.label>
   <!-- EN: +10 Opinion from every pawn of {FACTION_name}. +10 Opinion about every pawn of {FACTION_name}. -->
   <VFEE_Chosen.description>Все представители фракции {FACTION_name} получают +10 к мнению об этом персонаже. Этот персонаж получает +10 к мнению о всех представителях фракции {FACTION_name}.</VFEE_Chosen.description>
   <!-- EN: Destroyer of {FACTION_name} -->
-  <VFEE_Destroyer.label>Разрушитель из {FACTION_name}</VFEE_Destroyer.label>
+  <VFEE_Destroyer.label>Уничтожитель {FACTION_name}</VFEE_Destroyer.label>
   <!-- EN: +10% Trade Price Improvement with Enemies of {FACTION_name}. -->
   <VFEE_Destroyer.description>Улучшение торговых цен на 10% с врагами фракции {FACTION_name}.</VFEE_Destroyer.description>
   <!-- EN: {RANK} of {SETTLEMENT_label} -->
@@ -23,13 +23,13 @@
   <!-- EN: Ruler of {SETTLEMENT_label} -->
   <VFEE_RulerOf.label>Правитель {SETTLEMENT_label}</VFEE_RulerOf.label>
   <!-- EN: Tithe collection speed of {SETTLEMENT_label} is doubled. -->
-  <VFEE_RulerOf.description>Скорость сбора десятины поселением {SETTLEMENT_label} удвоена.</VFEE_RulerOf.description>
+  <VFEE_RulerOf.description>Скорость накопления десятины поселением {SETTLEMENT_label} удвоена.</VFEE_RulerOf.description>
   <!-- EN: Wielder of the {WEAPON_label} -->
-  <VFEE_WieldOfWeapon.label>Хозяин {WEAPON_label}</VFEE_WieldOfWeapon.label>
+  <VFEE_WieldOfWeapon.label>{PAWN_gender ? Хозяин : Хозяйка} {WEAPON_label}</VFEE_WieldOfWeapon.label>
   <!-- EN: 50% chance of +1 Honor for every kill with {WEAPON_label}. -->
   <VFEE_WieldOfWeapon.description>50% шанс получения 1 ед. милости короны за каждое убийство, совершённое оружием {WEAPON_label}.</VFEE_WieldOfWeapon.description>
   <!-- EN: Patron of Arts -->
-  <VFEE_PatronOfArts.label>Покровитель искусств</VFEE_PatronOfArts.label>
+  <VFEE_PatronOfArts.label>{PAWN_gender ? Покровитель : Покровительница} искусств</VFEE_PatronOfArts.label>
   <!-- EN: +3 Honor after successful art exhibition -->
   <VFEE_PatronOfArts.description>+3 ед. милости короны после успешной выставки</VFEE_PatronOfArts.description>
   <!-- EN: {CHILD} of {PARENT_labelShort} -->
@@ -41,7 +41,7 @@
   <!-- EN: Shooting skill never decays. -->
   <VFEE_Marksman.description>Уровень владения навыком Дальнего боя не будет снижаться.</VFEE_Marksman.description>
   <!-- EN: The Warrior -->
-  <VFEE_Warrior.label>Воитель</VFEE_Warrior.label>
+  <VFEE_Warrior.label>{PAWN_gender ? Воитель : Воительница}</VFEE_Warrior.label>
   <!-- EN: Melee skill never decays. -->
   <VFEE_Warrior.description>Уровень владения навыком Ближнего боя не будет снижаться.</VFEE_Warrior.description>
   <!-- EN: The Architect -->
@@ -69,7 +69,7 @@
   <!-- EN: Crafting skill never decays. -->
   <VFEE_Craftsman.description>Уровень владения навыком Ремесла не будет снижаться.</VFEE_Craftsman.description>
   <!-- EN: The Artist -->
-  <VFEE_Artist.label>Художник</VFEE_Artist.label>
+  <VFEE_Artist.label>{PAWN_gender ? Художник : Художница}</VFEE_Artist.label>
   <!-- EN: Artistic skill never decays. -->
   <VFEE_Artist.description>Уровень владения навыком Искусства не будет снижаться.</VFEE_Artist.description>
   <!-- EN: The Healer -->

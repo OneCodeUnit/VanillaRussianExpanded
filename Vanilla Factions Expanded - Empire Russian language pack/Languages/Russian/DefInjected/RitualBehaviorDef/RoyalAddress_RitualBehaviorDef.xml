@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Royal address from the throne -->
+  <VFEE_RoyalAddres_Behavior.letterTitle>королевская речь</VFEE_RoyalAddres_Behavior.letterTitle>
+  <!-- EN: {ORGANIZER_labelShort} is giving a royal address from the throne. \nIf all goes well, every titled participant will gain a small amount of honor, and {ORGANIZER_labelShort} will gain honor for each titled participant. If it goes poorly, the speech will do social damage and {ORGANIZER_labelShort} will lose honor for each titled participant. The outcome depends on {ORGANIZER_labelShort}'s social abilities. Imperial nobility currently residing in the area will join the speech and count as titled participants. -->
+  <VFEE_RoyalAddres_Behavior.letterText>{ORGANIZER_labelShort} произнесёт её со своего трона.\nЕсли всё пройдёт гладко, все титулованные участники получат некоторое количество милости короны, а сам {ORGANIZER_labelShort} получит её за каждого участника. Если всё пройдёт плохо, речь принесёт только вред, а {ORGANIZER_labelShort} потеряет несколько единиц милости короны, в зависимости от количества участников. Исход будет зависеть от социальных навыков {ORGANIZER_labelShort}. Если во время речи в поселении будет присутствовать представители знати, они присоединятся к церемонии в качестве участников.</VFEE_RoyalAddres_Behavior.letterText>
+  <!-- EN: organizer -->
+  <VFEE_RoyalAddres_Behavior.roles.0.label>организатор</VFEE_RoyalAddres_Behavior.roles.0.label>
+  <!-- EN: title holders -->
+  <VFEE_RoyalAddres_Behavior.roles.1.label>титулованные участники</VFEE_RoyalAddres_Behavior.roles.1.label>
+</LanguageData>

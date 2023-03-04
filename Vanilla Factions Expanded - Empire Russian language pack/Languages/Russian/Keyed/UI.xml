@@ -13,15 +13,15 @@
   <!-- EN: Developer mode -->
   <VFEE.DevMode>Режим разработчика</VFEE.DevMode>
   <!-- EN: Unused vassalage points: {0} -->
-  <VFEE.VassalPoints>Неиспользованные очки вассалов: {0}</VFEE.VassalPoints>
+  <VFEE.VassalPoints>Очки вассалитета: {0}</VFEE.VassalPoints>
   <!-- EN: Release all vassals -->
   <VFEE.ReleaseAllVassals>Распустить вассалов</VFEE.ReleaseAllVassals>
   <!-- EN: Releasing vassals will causes resources stored to be lost. Are you sure? -->
   <VFEE.ReleaseAllVassals.Confirm>Роспуск вассалов приведёт к потере хранящихся у них ресурсов. Вы уверены?</VFEE.ReleaseAllVassals.Confirm>
   <!-- EN: Vassals of {0}, {1} -->
   <VFEE.VassalsOf>Вассалы {0}, {1}</VFEE.VassalsOf>
-  <!-- EN: Tithes will be delivered via drop-pods after designated time has elapsed. -->
-  <VFEE.TitheDesc>Десятина будет доставлена транспортными капсулами по истечении назначенного времени.</VFEE.TitheDesc>
+  <!-- EN: Tithes will be delivered via drop-pods after designated time has elapsed. ПОЛНЫЙ ПЕРЕВОД НЕ ПОМЕЩАЕТСЯ -->
+  <VFEE.TitheDesc>Десятина будет доставлена транспортными капсулами.</VFEE.TitheDesc>
   <!-- EN: Deliver -->
   <VFEE.Deliver>Доставлять</VFEE.Deliver>
   <!-- EN: Every 7 days -->
@@ -39,7 +39,7 @@
   <!-- EN: {0} in stockpile: {1} -->
   <VFEE.InStockpile>{lookup: {0}; Case; 1} в наличии: {1}</VFEE.InStockpile>
   <!-- EN: You can only vassalize bases that are less than 100 tiles away from you or your vassals\nVassalize more towns to increase the reach and unlock more potential vassal subjects -->
-  <VFEE.VassalDesc>Вы можете вассализировать только те поселения, которые расположены не более чем в 100 клетках от ваших вассалов.\nВассализируйте больше поселений, чтобы увеличить количество потенциальных вассалов</VFEE.VassalDesc>
+  <VFEE.VassalDesc>Вы можете вассализировать только те поселения, которые расположены не более чем в 100 клетках от ваших вассалов.\nВассализируйте больше поселений, чтобы увеличить количество потенциальных вассалов.</VFEE.VassalDesc>
   <!-- EN: Can't vassalize: Too far away -->
   <VFEE.NoVassalize>Нельзя сделать вассалом: слишком далеко</VFEE.NoVassalize>
   <!-- EN: Vassalize -->
@@ -49,7 +49,7 @@
   <!-- EN: {0} of the {1} -->
   <VFEE.OfThe>{0} фракции {1}</VFEE.OfThe>
   <!-- EN: Invite as visitor -->
-  <VFEE.Invite>пригласить в гости</VFEE.Invite>
+  <VFEE.Invite>Пригласить в гости</VFEE.Invite>
   <!-- EN: Invite as {0} (Cost: {1} honor) -->
   <VFEE.InviteAs>Пригласить от имени {0} (цена: {1} ед. милости короны)</VFEE.InviteAs>
   <!-- EN: Skip to previous title -->
@@ -69,7 +69,7 @@
   <!-- EN: Honors of {0}, {1} -->
   <VFEE.HonorsOf>Почётные титулы {0}, {1}</VFEE.HonorsOf>
   <!-- EN: you will gain the honor {0} to assign to a colonist -->
-  <VFEE.Honors.Reward>вы дадите {0} милости короны поселенцу</VFEE.Honors.Reward>
+  <VFEE.Honors.Reward>вы получите почётный титул {0}, который можно будет применить к поселенцу</VFEE.Honors.Reward>
   <!-- EN: Honors -->
   <VFEE.Honors>Почётные титулы</VFEE.Honors>
   <!-- EN: Must be lord of {0} -->
