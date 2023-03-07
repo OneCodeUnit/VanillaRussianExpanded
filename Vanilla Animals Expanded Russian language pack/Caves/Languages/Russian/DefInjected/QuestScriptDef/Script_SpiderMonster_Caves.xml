@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN:
     <li>questName->[asker_nameDef]'s [monster] [contract]</li>
@@ -13,29 +13,29 @@
     <li>contract->holy task</li>
   -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings>
-    <li>questName->[asker_nameDef]'s [monster] [contract]</li>
-		<li>monster->spider</li>
-    <li>monster->ancient giant spider</li>
-    <li>monster->arachnid</li>
-    <li>monster->gargantuan spider</li>
-    <li>contract->contract</li>
-    <li>contract->mission</li>
-    <li>contract->arrangement</li>
-    <li>contract->undertaking</li>
-    <li>contract->holy task</li>
+    <li>questName->[contract] [monster] от [asker_nameDef]</li>
+		<li>monster->паука</li>
+    <li>monster->древнего гигантского паука</li>
+    <li>monster->арахнида</li>
+    <li>monster->паука-колосса</li>
+    <li>contract->контракт на убийство</li>
+    <li>contract->миссия по уничтожению</li>
+    <li>contract->договор на убийство</li>
+    <li>contract->заказ на</li>
+    <li>contract->поход на</li>
   </VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings>
 
   <!-- EN:
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has reported that their livestock seems to be disappearing at alarming rates. A mess of silk strands is all that is often left, hinting that a ravenous nest of giant spiders is behind the disappearances.\n\nIf we successfully investigate this mystery, [allRewardsDescriptions]</li>
   -->
   <VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has reported that their livestock seems to be disappearing at alarming rates. A mess of silk strands is all that is often left, hinting that a ravenous nest of giant spiders is behind the disappearances.\n\nIf we successfully investigate this mystery, [allRewardsDescriptions]</li>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name], передаёт нам сообщение об участившихся случаях пропажи скота. Судя по остающейся на местах пропажи паутине, причина кроется в гнезде гигантских пауков.\n\nЕсли мы сможем разобраться с этим делом, то получим [allRewardsDescriptions]</li>
   </VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>Quest expired: [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>Время задания истекло: [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>
   <!-- EN: The spiders have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired. -->
-  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>The spiders have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired.</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>Пауки покинули эту местность и вы не услышите о них, пока они не найдут своих следующих жертв. Время, отведённое для задания [resolvedQuestName], истекло.</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>
   <!-- EN: These colonists participated in the epic hunt for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
-  <VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>These colonists participated in the epic hunt for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service.</VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>Эти поселенцы приняли участие в эпической охоте по заданию [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. {lookup: [asker_faction_royalFavorLabel]; Case; 1}.</VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>
 </LanguageData>

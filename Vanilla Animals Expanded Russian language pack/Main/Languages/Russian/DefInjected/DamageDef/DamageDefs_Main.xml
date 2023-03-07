@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- EN: venomous bite -->
-  <AEXP_GilaToxicBuildUp.label>venomous bite</AEXP_GilaToxicBuildUp.label>
+  <AEXP_GilaToxicBuildUp.label>ядовитый укус</AEXP_GilaToxicBuildUp.label>
   <!-- EN: {0} has been bitten to death. -->
-  <AEXP_GilaToxicBuildUp.deathMessage>{0} has been bitten to death.</AEXP_GilaToxicBuildUp.deathMessage>
+  <AEXP_GilaToxicBuildUp.deathMessage>{0} {0_gender ? погиб : погибла} от ядовитого укуса.</AEXP_GilaToxicBuildUp.deathMessage>
 
   <!-- EN: venomous bite -->
-  <AEXP_RattleSnakeToxicBuildUp.label>venomous bite</AEXP_RattleSnakeToxicBuildUp.label>
+  <AEXP_RattleSnakeToxicBuildUp.label>ядовитый укус</AEXP_RattleSnakeToxicBuildUp.label>
   <!-- EN: {0} has been bitten to death. -->
-  <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} has been bitten to death.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
+  <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} {0_gender ? погиб : погибла} от ядовитого укуса.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
 
   <!-- EN: venomous bite -->
-  <AEXP_MegascorpionToxicBuildUp.label>venomous bite</AEXP_MegascorpionToxicBuildUp.label>
+  <AEXP_MegascorpionToxicBuildUp.label>ядовитое жало</AEXP_MegascorpionToxicBuildUp.label>
   <!-- EN: {0} has been stung to death. -->
-  <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} has been stung to death.</AEXP_MegascorpionToxicBuildUp.deathMessage>
+  <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} {0_gender ? погиб : погибла} от яда.</AEXP_MegascorpionToxicBuildUp.deathMessage>
 
 
 

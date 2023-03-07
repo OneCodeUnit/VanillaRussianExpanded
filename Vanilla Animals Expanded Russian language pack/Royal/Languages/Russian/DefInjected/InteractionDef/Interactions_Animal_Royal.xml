@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: psychic nuzzle -->
-  <VAERoy_PeacockInteraction.label>psychic nuzzle</VAERoy_PeacockInteraction.label>
+  <VAERoy_PeacockInteraction.label>пси-ласка</VAERoy_PeacockInteraction.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -29,34 +29,34 @@
     <li>rubbedpart->arm</li>
   -->
     <VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
-    <li>nuzzled(p=2)->psychically nuzzled</li>
-    <li>nuzzled->psychically snuggled up to</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] об [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [rubbedpart] [RECIPIENT_nameDef].</li>
+    <li>nuzzled(p=2)->ласкается</li>
+    <li>nuzzled->трётся своим клювом</li>
     <li>nuzzleadverb(p=4)-></li>
-    <li>nuzzleadverb->gently</li>
-    <li>nuzzleadverb->encouragingly</li>
-    <li>nuzzleadverb->happily</li>
-    <li>nuzzleadverb->softly</li>
-    <li>nuzzleadverb->supportively</li>
-    <li>nuzzleadverb->lightly</li>
-    <li>nuzzleadverb->warmly</li>
-    <li>nuzzleadverb->plaintively</li>
-    <li>nuzzleadverb->lovingly</li>
-    <li>nuzzleadverb->affectionately</li>
-    <li>rubbedpart->leg</li>
-    <li>rubbedpart->knee</li>
-    <li>rubbedpart->foot</li>
-    <li>rubbedpart->elbow</li>
-    <li>rubbedpart->hip</li>
-    <li>rubbedpart->shoulder</li>
-    <li>rubbedpart->hand</li>
-    <li>rubbedpart->side</li>
-    <li>rubbedpart->arm</li>
+    <li>nuzzleadverb->мягко</li>
+    <li>nuzzleadverb->ободряюще</li>
+    <li>nuzzleadverb->радостно</li>
+    <li>nuzzleadverb->нежно</li>
+    <li>nuzzleadverb->одобрительно</li>
+    <li>nuzzleadverb->легко</li>
+    <li>nuzzleadverb->тепло</li>
+    <li>nuzzleadverb->жалобно</li>
+    <li>nuzzleadverb->ласково</li>
+    <li>nuzzleadverb->любя</li>
+    <li>rubbedpart->об ногу</li>
+    <li>rubbedpart->об колено</li>
+    <li>rubbedpart->о ступню</li>
+    <li>rubbedpart->о щиколотку</li>
+    <li>rubbedpart->о бедро</li>
+    <li>rubbedpart->о плечо</li>
+    <li>rubbedpart->об руку</li>
+    <li>rubbedpart-></li>
+    <li>rubbedpart-></li>
   </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
 
   <!-- EN: tutoring -->
-  <VAERoy_OrangutanInteraction.label>tutoring</VAERoy_OrangutanInteraction.label>
+  <VAERoy_OrangutanInteraction.label>наставничество</VAERoy_OrangutanInteraction.label>
     <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
@@ -97,41 +97,41 @@
     <li>animalthings->the negative effects of preferential treatment</li>
   -->
   <VAERoy_OrangutanInteraction.rulePack.rulesStrings>
-		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
-		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [animalthings].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] с [RECIPIENT_nameDef] [animalthings].</li>
 		<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
 
-		<li>talkedabout(p=4)->chatted about</li>
-		<li>talkedabout->shared a word about</li>
-		<li>talkedabout->spoke about</li>
-		<li>talkedabout->gabbed about</li>
-		<li>talkedabout->talked about</li>
-		<li>talkedabout->mumbled about</li>
-		<li>talkedabout->quipped about</li>
+		<li>talkedabout(p=4)->беседует</li>
+		<li>talkedabout->говорит</li>
+		<li>talkedabout->рассказывает</li>
+		<li>talkedabout->обсуждает</li>
+		<li>talkedabout->обменивается парой слов</li>
+		<li>talkedabout->делится своими догадками</li>
+		<li>talkedabout->обменивается мыслями</li>
 
 		<li>commentedabout->said something about</li>
 		<li>commentedabout->made a comment about</li>
 		<li>commentedabout->commented about</li>
 		<li>commentedabout->mused about</li>
 		
-		<li>animalthings->the comparison of paternalistic societies with other social aspects and matters</li>
-		<li>animalthings->the origin of or linguistic analysis of the term paragliding</li>
-		<li>animalthings->how other cultures or nations view hard work</li>
-		<li>animalthings->the personal and professional analysis and impact of mathematics</li>
-		<li>animalthings->poetry related to prepackaged snacks</li>
-		<li>animalthings->outdated opinions about ethnic violence</li>
-		<li>animalthings->a journalistic WHERE analysis of self-deportation immigration policy: where it happened - places, countries, or regions involved or affected</li>
-		<li>animalthings->countries with highest consumption of cauliflower</li>
-		<li>animalthings->expert opinions about sexual orientation</li>
-		<li>animalthings->what is unique about bread</li>
-		<li>animalthings->the ethics of laser eye surgery</li>
-		<li>animalthings->the religious, theological, spiritual, and moral analysis of decision making</li>
-		<li>animalthings->why phone tapping matters</li>
-		<li>animalthings->an embarrassing experience involving positive attitude</li>
-		<li>animalthings->a comparison of different types of cocktails</li>
-		<li>animalthings->the comparison of wearing your heart on your sleeve with other habits</li>
-		<li>animalthings->the best experts' opinions on inner city poverty in the world</li>
-		<li>animalthings->excerpts from books or articles related to glass etching</li>
-		<li>animalthings->the negative effects of preferential treatment</li>
+		<li>animalthings->о сравнении патерналистских обществ с другими социальными аспектами</li>
+		<li>animalthings->о происхождении и лингвистическом анализе термина «парапланеризм»</li>
+		<li>animalthings->про то, как другие культуры относятся к тяжёлому труду</li>
+		<li>animalthings->про личный и профессиональный анализ и влияние математики</li>
+		<li>animalthings->о поэзии, связанной с расфасованными закусками</li>
+		<li>animalthings->об устаревших мнениях относительно этнического насилия</li>
+		<li>animalthings->о журналистском анализе иммиграционной политики самодепортации: где это произошло — места, страны или регионы, вовлеченные или затронутые этим явлением</li>
+		<li>animalthings->о странах с самым высоким потреблением цветной капусты</li>
+		<li>animalthings->о мнениях экспертов о сексуальной ориентации</li>
+		<li>animalthings->про уникальные качества хлеба</li>
+		<li>animalthings->про этичность лазерной хирургии глаза</li>
+		<li>animalthings->про религиозный, теологический, духовный и моральный анализ принятия решений</li>
+		<li>animalthings->о важности прослушивания телефонов</li>
+		<li>animalthings->о неловких ситуациях, связанных с позитивным мышлением</li>
+		<li>animalthings->о сравнении различных типов коктейлей</li>
+		<li>animalthings->о сравнении открытого выражения своих чувств с другими привычками</li>
+		<li>animalthings->о мнениях экспертов насчёт нищеты в бедных кварталах городов</li>
+		<li>animalthings->о выдержках из книг или статей, связанных с травлением стекла</li>
+		<li>animalthings->о негативных эффектах льготного экономического режима</li>
   </VAERoy_OrangutanInteraction.rulePack.rulesStrings>
 </LanguageData>
