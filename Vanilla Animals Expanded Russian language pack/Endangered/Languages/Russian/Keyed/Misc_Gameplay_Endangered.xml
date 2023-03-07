@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <!-- EN: Body clock -->
+  <NocturnalAnimals.BodyClock>Внутренние часы</NocturnalAnimals.BodyClock>
+  <!-- EN: Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk. -->
+  <NocturnalAnimals.BodyClock_Description>Они определяют время, когда животное спит, а когда бодрствует.\n\nДневные животные спят ночью и бодрствуют днём, а ночные спят днём и бодрствуют ночью. Сумеречные животные активны вечером.</NocturnalAnimals.BodyClock_Description>
+
+  <!-- EN: Diurnal -->
+  <NocturnalAnimals.BodyClock_Diurnal>Дневные</NocturnalAnimals.BodyClock_Diurnal>
+  <!-- EN: Nocturnal -->
+  <NocturnalAnimals.BodyClock_Nocturnal>Ночные</NocturnalAnimals.BodyClock_Nocturnal>
+  <!-- EN: Crepuscular -->
+  <NocturnalAnimals.BodyClock_Crepuscular>Сумеречные</NocturnalAnimals.BodyClock_Crepuscular>
+
+  <!-- EN: Release to the wild -->
+  <VAEE.ReleaseIntoWild>Отпустить на волю</VAEE.ReleaseIntoWild>
+  <!-- EN: Release this animal to the wild and increase relations with tribal and outlander factions. -->
+  <VAEE.ReleaseIntoWildDesc>Отпустить животное обратно в дикую природу. Это действие улучшает отношения с племенными фракциями и фракциями чужеземцев.</VAEE.ReleaseIntoWildDesc>
+  <!-- EN: Release to repopulate -->
+  <VAEE.ReleaseToRepopulate>Отпустить для репопуляции</VAEE.ReleaseToRepopulate>
+  <!-- EN: Release this animal to the wild to repupulate and increase relations with tribal and outlander factions. -->
+  <VAEE.ReleaseToRepopulateDesc>Отпустить животное обратно в дикую природу для восстановления численности популяции этого вида. Это действие улучшает отношения с племенными фракциями и фракциями чужеземцев.</VAEE.ReleaseToRepopulateDesc>
+  <!-- EN: Endangered Animals. -->
+  <VAEE.LetterLabelExtintAnimalsPasses>Вымирающие животные</VAEE.LetterLabelExtintAnimalsPasses>
+  <!-- EN: A pair of {0}, critically endangered, have wandered into the area.\n\nThey can easily fall prey to larger predators and poachers, but you can tame them and bring them to safety. \n\nReleasing endangered animals into the wild will boost relations with tribal and outlander factions. -->
+  <VAEE.LetterExtintAnimalsPasses>К вам забрела пара {lookup: {lookup: {0}; Plural; 1}; Case; 1}, находящихся на грани вымирания.\n\nОни могут легко стать добычей более крупных хищников и браконьеров, но вы можете приручить их и поместить в безопасное место.\n\nВыпуск вымирающих видов животных на волю улучшает отношения с племенными фракциями и фракциями чужеземцев.</VAEE.LetterExtintAnimalsPasses>
+  <!-- EN: A pair of {0}, critically endangered, have wandered into the area.\n\nThey can easily fall prey to larger predators and poachers, but you can tame them and bring them to safety. \n\nReleasing endangered animals into the wild to repopulate the species will boost relations with tribal and outlander factions. -->
+  <VAEE.LetterExtintAnimalsPassesRepopulate>К вам забрела пара {lookup: {lookup: {0}; Plural; 1}; Case; 1}, находящихся на грани вымирания.\n\nОни могут легко стать добычей более крупных хищников и браконьеров, но вы можете приручить их и поместить в безопасное место.\n\nВыпуск вымирающих видов животных на волю для репопуляции улучшает отношения с племенными фракциями и фракциями чужеземцев.</VAEE.LetterExtintAnimalsPassesRepopulate>
+  <!-- EN: Releasing an endangered animal into the wild improved relations with tribal and outlander factions by +2. -->
+  <VAEE.ReleasingToTheWildMessage>Выпуск животного на грани вымирания на волю улучшило отношения с племенными фракциями и фракциями чужеземцев на 2.</VAEE.ReleasingToTheWildMessage>
+  <!-- EN: Releasing an endangered animal into the wild to repopulate the species improved relations with tribal and outlander factions by +2. -->
+  <VAEE.ReleasingToTheWildMessageRepopulate>Выпуск животного на грани вымирания на волю для репопуляции улучшило отношения с племенными фракциями и фракциями чужеземцев на 2.</VAEE.ReleasingToTheWildMessageRepopulate>
+  <!-- EN: Releasing to the wild\n\nReleasing an animal to the wild means you will never see it again, as the animal will walk off the map. -->
+  <VAEE.ReleasingToTheWildConfirmation>Отпустить на волю.\n\nЭто означает, что вы никогда больше не увидите выпускаемое животное, так как оно уйдёт с карты.</VAEE.ReleasingToTheWildConfirmation>
+  <!-- EN: Releasing to repopulate\n\nReleasing an animal to the wild to repopulate the species means you will never see it again, as the animal will walk off the map. -->
+  <VAEE.ReleasingToTheWildConfirmationRepopulate>Отпустить на для репопуляции.\n\nЭто означает, что вы никогда больше не увидите выпускаемое животное, так как оно уйдёт с карты.</VAEE.ReleasingToTheWildConfirmationRepopulate>
+  <!-- EN: Cancel -->
+  <VAEE.Cancel>Отменить</VAEE.Cancel>
+  <!-- EN: Add release into wild button to all animals -->
+  <VAEE.AddBanishGizmoToAllAnimals>Добавить кнопку «Отпустить на волю» всем животным</VAEE.AddBanishGizmoToAllAnimals>
+  <!-- EN: Add release to repopulate button to all animals -->
+  <VAEE.AddBanishGizmoToAllAnimalsRepopulate>Добавить кнопку «Отпустить для репопуляции» всем животным</VAEE.AddBanishGizmoToAllAnimalsRepopulate>
+
+
+</LanguageData>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: strengthened by bond -->
+  <VAE_StrengthenedByBond.label>укрепляющая связь</VAE_StrengthenedByBond.label>
+  <!-- EN: This animal is bonded to one of the colonists and it will be considerably strengtened. However, if the bonded colonist dies, the animal will leave the map and be forever lost. -->
+  <VAE_StrengthenedByBond.description>Это животное значительно укрепляется за счёт связи с одним из поселенцев. Однако если связанный поселенец умрёт, животное покинет поселение и будет навсегда утрачено.</VAE_StrengthenedByBond.description>
+
+  <!-- EN: no pain sensitivity -->
+  <VAE_NoPain.label>нечувствительность к боли</VAE_NoPain.label>
+  <!-- EN: This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VAE_NoPain.description>Это животное имеет сниженный болевой порог и может сражаться дольше до того, как будет сражено.</VAE_NoPain.description>
+
+  <!-- EN: stunned by vicious attack -->
+  <VAE_StunnedByViciousAttack.label>оглушён мощной атакой</VAE_StunnedByViciousAttack.label>
+  <!-- EN: This creature has been the target of a vicious assault. -->
+  <VAE_StunnedByViciousAttack.description>Это существо стало целью жестокого нападения.</VAE_StunnedByViciousAttack.description>
+
+  <!-- EN: silk covered -->
+  <VAE_SilkCovered.label>паутина</VAE_SilkCovered.label>
+  <!-- EN: This creature has been attacked by a giant spider and is partially covered in strands of adhesive silk. -->
+  <VAE_SilkCovered.description>Это существо было атаковано гигантским пауком и частично покрыто нитями клейкой паутины.</VAE_SilkCovered.description>
+
+  <!-- EN: wallbreaker -->
+  <VAE_WallBreaker.label>сокрушительная ярость</VAE_WallBreaker.label>
+  <!-- EN: This insectoid hulk is rampaging ravenously and will crush walls and other structures in its path. -->
+  <VAE_WallBreaker.description>Этот инсектоид-громила разъярён и будет крушить стены и другие строения, которые попадутся на его пути.</VAE_WallBreaker.description>
+
+  <!-- EN: bleeding wounds -->
+  <VAE_BleedingWound.label>кровоточащие раны</VAE_BleedingWound.label>
+  <!-- EN: A bleeding wound that continues to cause blood loss for quite some time after the initial attack. -->
+  <VAE_BleedingWound.description>Рана, продолжающая кровоточить в течение продолжительного времени после нанесения удара.</VAE_BleedingWound.description>
+  <!-- EN: bleeding wounds, minor -->
+  <VAE_BleedingWound.stages.0.label>лёгкие кровоточащие раны</VAE_BleedingWound.stages.0.label>
+  <!-- EN: bleeding wounds, moderate -->
+  <VAE_BleedingWound.stages.1.label>умеренные кровоточащие раны</VAE_BleedingWound.stages.1.label>
+  <!-- EN: bleeding wounds, serious -->
+  <VAE_BleedingWound.stages.2.label>серьёзные кровоточащие раны</VAE_BleedingWound.stages.2.label>
+
+  <!-- EN: open wound -->
+  <VAE_OpenWound.label>открытая рана</VAE_OpenWound.label>
+  <!-- EN: An open wound. -->
+  <VAE_OpenWound.description>Открытая рана.</VAE_OpenWound.description>
+  <!-- EN: bandaged -->
+  <VAE_OpenWound.comps.0.labelTendedWell>перевязано</VAE_OpenWound.comps.0.labelTendedWell>
+  <!-- EN: sutured -->
+  <VAE_OpenWound.comps.0.labelTendedWellInner>зашито</VAE_OpenWound.comps.0.labelTendedWellInner>
+  <!-- EN: set -->
+  <VAE_OpenWound.comps.0.labelSolidTendedWell>обработано</VAE_OpenWound.comps.0.labelSolidTendedWell>
+  <!-- EN: Cut off -->
+  <VAE_OpenWound.injuryProps.destroyedLabel>отрезано</VAE_OpenWound.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <VAE_OpenWound.injuryProps.destroyedOutLabel>вырезано</VAE_OpenWound.injuryProps.destroyedOutLabel>
+  <!-- EN: an open wound -->
+  <VAE_OpenWound.labelNoun>открытая рана</VAE_OpenWound.labelNoun>
+
+
+
+</LanguageData>
