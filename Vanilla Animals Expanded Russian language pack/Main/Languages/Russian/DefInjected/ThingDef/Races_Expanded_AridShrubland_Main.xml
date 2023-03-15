@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Coyote -->
-
   <!-- EN: coyote -->
   <AEXP_Coyote.label>койот</AEXP_Coyote.label>
   <!-- EN: A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
@@ -14,8 +11,6 @@
   <!-- EN: head -->
   <AEXP_Coyote.tools.3.label>голова</AEXP_Coyote.tools.3.label>
 
-
-  <!-- Giraffe -->
 
   <!-- EN: giraffe -->
   <AEXP_Giraffe.label>жираф</AEXP_Giraffe.label>
@@ -29,8 +24,6 @@
   <AEXP_Giraffe.tools.3.label>голова</AEXP_Giraffe.tools.3.label>
 
 
-  <!-- Hippopotamus -->
-
   <!-- EN: hippopotamus -->
   <AEXP_Hippopotamus.label>гиппопотам</AEXP_Hippopotamus.label>
   <!-- EN: A massive semi-aquatic hoofed mammal with thick skin and a very powerful jaw.\n\nExtremely difficult to tame, these monstrous beings often attack on a failed attempt. -->
@@ -42,8 +35,6 @@
   <!-- EN: head -->
   <AEXP_Hippopotamus.tools.3.label>голова</AEXP_Hippopotamus.tools.3.label>
 
-
-  <!-- Zebra -->
 
   <!-- EN: zebra -->
   <AEXP_Zebra.label>зебра</AEXP_Zebra.label>
@@ -57,8 +48,6 @@
   <AEXP_Zebra.tools.2.label>правое копыто</AEXP_Zebra.tools.2.label>
 
 
-  <!-- Wildebeest -->
-
   <!-- EN: wildebeest -->
   <AEXP_Wildebeest.label>антилопа гну</AEXP_Wildebeest.label>
   <!-- EN: Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its wildness, it produces milk at much slower rate than a standard cow. -->
@@ -71,21 +60,20 @@
   <AEXP_Wildebeest.tools.3.label>правое копыто</AEXP_Wildebeest.tools.3.label>
 
 
-  <!-- Crocodile -->
-
   <!-- EN: crocodile -->
   <AEXP_Crocodile.label>крокодил</AEXP_Crocodile.label>
   <!-- EN: A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes. -->
   <AEXP_Crocodile.description>Крупная полуводная рептилия, чаще всего встречающаяся на берегах рек. Развитые хищные инстинкты в сочетании с чрезвычайно сильной челюстью позволяют им нападать на гораздо более крупную чем они добычу. Старые крокодилы могут вырастать до чудовищных размеров.</AEXP_Crocodile.description>
 
 
-  <!-- Cheetah -->
-
   <!-- EN: cheetah -->
   <AEXP_Cheetah.label>гепард</AEXP_Cheetah.label>
   <!-- EN: These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs. -->
   <AEXP_Cheetah.description>Эти кошки обладают стройным, долговязым телом, что позволяет им развивать невероятную скорость. Они покрыты шерстью коричневого цвета со сплошными чёрными круглыми пятнами. Также у гепардов очень длинные ноги, длинный узкий хвост, обеспечивающий равновесие, и глубокая грудная клетка с большими легкими.</AEXP_Cheetah.description>
-
-
-
+  <!-- EN: left claw -->
+  <AEXP_Cheetah.tools.left_claw.label>левая лапа</AEXP_Cheetah.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Cheetah.tools.right_claw.label>правая лапа</AEXP_Cheetah.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Cheetah.tools.head.label>голова</AEXP_Cheetah.tools.head.label>
 </LanguageData>

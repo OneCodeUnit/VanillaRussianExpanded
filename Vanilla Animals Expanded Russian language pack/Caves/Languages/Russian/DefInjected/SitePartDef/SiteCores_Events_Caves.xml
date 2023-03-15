@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: monster encounter -->
   <VAE_Spider_MonsterEncounterCore.label>логово чудовища</VAE_Spider_MonsterEncounterCore.label>
   <!-- EN: The place where a monster is roaming. -->
   <VAE_Spider_MonsterEncounterCore.description>Место, где бродит чудовище.</VAE_Spider_MonsterEncounterCore.description>
-
-
-
+  <!-- EN: Attacking {0} -->
+  <VAE_Spider_MonsterEncounterCore.approachingReportString>Нападает на {lookup: {0}; Case; 3}</VAE_Spider_MonsterEncounterCore.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <VAE_Spider_MonsterEncounterCore.approachOrderString>Напасть на {lookup: {0}; Case; 3}</VAE_Spider_MonsterEncounterCore.approachOrderString>
 </LanguageData>

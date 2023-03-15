@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Gorilla -->
-
   <!-- EN: gorilla -->
   <AEXP_Gorilla.label>горилла</AEXP_Gorilla.label>
   <!-- EN: These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos. Like all the great apes, the arms of the gorilla are longer than its legs. Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened. -->
@@ -13,17 +10,21 @@
   <AEXP_Gorilla.tools.1.label>правый кулак</AEXP_Gorilla.tools.1.label>
   <!-- EN: head -->
   <AEXP_Gorilla.tools.3.label>голова</AEXP_Gorilla.tools.3.label>
+  <!-- EN: primate meat -->
+  <AEXP_Gorilla.race.meatLabel>мясо примата</AEXP_Gorilla.race.meatLabel>
 
-
-  <!-- Jaguar -->
 
   <!-- EN: jaguar -->
   <AEXP_Jaguar.label>ягуар</AEXP_Jaguar.label>
   <!-- EN: A large felid species and the only existing member of the Panthera native to the Americas in old Earth. This spotted cat closely resembles the leopard, but is usually larger and sturdier. The jaguar enjoys swimming and is largely a solitary, opportunistic, stalk-and-ambush predator at the top of the food chain. -->
   <AEXP_Jaguar.description>Крупный вид кошачьих и единственный существующий представитель рода пантер, обитающий в Америке на старой Земле. Внешне ягуар очень похож на леопарда, но значительно превосходит его по размерам. Ягуар любит плавать и в основном является хищником-одиночкой, охотящимся из засады и находящимся на вершине пищевой цепи.</AEXP_Jaguar.description>
+  <!-- EN: left claw -->
+  <AEXP_Jaguar.tools.left_claw.label>левая лапа</AEXP_Jaguar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Jaguar.tools.right_claw.label>правая лапа</AEXP_Jaguar.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Jaguar.tools.head.label>голова</AEXP_Jaguar.tools.head.label>
 
-
-  <!-- Lemur -->
 
   <!-- EN: lemur -->
   <AEXP_Lemur.label>лемур</AEXP_Lemur.label>
@@ -37,8 +38,6 @@
   <AEXP_Lemur.tools.3.label>голова</AEXP_Lemur.tools.3.label>
 
 
-  <!-- Mandrill -->
-
   <!-- EN: mandrill -->
   <AEXP_Mandrill.label>мандрил</AEXP_Mandrill.label>
   <!-- EN: Mandrills are one of the largest of all monkeys. They are shy and reclusive primates that live only in rain forests. Mandrills are extremely colorful, perhaps more so than any other mammal. They are easily identifiable by the blue and red skin on their faces and their brightly hued rumps. -->
@@ -51,8 +50,6 @@
   <AEXP_Mandrill.tools.3.label>голова</AEXP_Mandrill.tools.3.label>
 
 
-  <!-- Tapir -->
-
   <!-- EN: tapir -->
   <AEXP_Tapir.label>тапир</AEXP_Tapir.label>
   <!-- EN: A large, herbivorous mammal, similar in shape to a pig, with a short nose trunk, tapirs inhabit jungle and forest regions. -->
@@ -60,8 +57,6 @@
   <!-- EN: head -->
   <AEXP_Tapir.tools.1.label>голова</AEXP_Tapir.tools.1.label>
 
-
-  <!-- Tiger -->
 
   <!-- EN: tiger -->
   <AEXP_Tiger.label>тигр</AEXP_Tiger.label>
@@ -73,7 +68,4 @@
   <AEXP_Tiger.tools.1.label>правая лапа</AEXP_Tiger.tools.1.label>
   <!-- EN: head -->
   <AEXP_Tiger.tools.3.label>голова</AEXP_Tiger.tools.3.label>
-
-
-
 </LanguageData>

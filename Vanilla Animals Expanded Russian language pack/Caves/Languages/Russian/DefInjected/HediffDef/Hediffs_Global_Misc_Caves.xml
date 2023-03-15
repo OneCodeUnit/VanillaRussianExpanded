@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: strengthened by bond -->
   <VAE_StrengthenedByBond.label>укрепляющая связь</VAE_StrengthenedByBond.label>
   <!-- EN: This animal is bonded to one of the colonists and it will be considerably strengtened. However, if the bonded colonist dies, the animal will leave the map and be forever lost. -->
@@ -12,7 +11,7 @@
   <VAE_NoPain.description>Это животное имеет сниженный болевой порог и может сражаться дольше до того, как будет сражено.</VAE_NoPain.description>
 
   <!-- EN: stunned by vicious attack -->
-  <VAE_StunnedByViciousAttack.label>оглушён мощной атакой</VAE_StunnedByViciousAttack.label>
+  <VAE_StunnedByViciousAttack.label>оглушение мощной атакой</VAE_StunnedByViciousAttack.label>
   <!-- EN: This creature has been the target of a vicious assault. -->
   <VAE_StunnedByViciousAttack.description>Это существо стало целью жестокого нападения.</VAE_StunnedByViciousAttack.description>
 
@@ -53,7 +52,8 @@
   <VAE_OpenWound.injuryProps.destroyedOutLabel>вырезано</VAE_OpenWound.injuryProps.destroyedOutLabel>
   <!-- EN: an open wound -->
   <VAE_OpenWound.labelNoun>открытая рана</VAE_OpenWound.labelNoun>
-
-
-
+  <!-- EN: stab scar -->
+  <VAE_OpenWound.comps.HediffComp_GetsPermanent.permanentLabel>шрам от колотой раны</VAE_OpenWound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <VAE_OpenWound.labelNounPretty>{0} на {1}</VAE_OpenWound.labelNounPretty>
 </LanguageData>

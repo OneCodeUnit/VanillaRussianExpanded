@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: bloodlust -->
   <VAECaves_Bloodlust.label>кровожадность</VAECaves_Bloodlust.label>
-
-
-
+  <!-- EN: Maddened: Manhunter -->
+  <VAECaves_Bloodlust.baseInspectLine>Душевное состояние: кровожадность</VAECaves_Bloodlust.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <VAECaves_Bloodlust.beginLetter>{0} ведёт себя очень агрессивно!</VAECaves_Bloodlust.beginLetter>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <VAECaves_Bloodlust.recoveryMessage>{0} успокаивается, агрессия проходит.</VAECaves_Bloodlust.recoveryMessage>
 </LanguageData>

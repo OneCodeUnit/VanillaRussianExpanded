@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Penguin -->
-
   <!-- EN: penguin -->
   <AEXP_Penguin.label>пингвин</AEXP_Penguin.label>
   <!-- EN: An aquatic, flightless bird, only found in arctic regions. Often seen in massive flocks, penguins are fierce when cornered, and can quickly overrun any hunter incompetent enough to get close to them. -->
@@ -15,8 +12,6 @@
   <AEXP_Penguin.tools.2.label>голова</AEXP_Penguin.tools.2.label>
 
 
-  <!-- Seal -->
-
   <!-- EN: seal -->
   <AEXP_Seal.label>тюлень</AEXP_Seal.label>
   <!-- EN: A medium sized semi-aquatic mammal, which only comes ashore to eat, mate and escape from predators. Being an aggresive hunter, seals are capable of tackling much bigger prey and are known for cannibalism if the food is scarce. -->
@@ -27,9 +22,9 @@
   <AEXP_Seal.tools.1.label>правый передний ласт</AEXP_Seal.tools.1.label>
   <!-- EN: head -->
   <AEXP_Seal.tools.3.label>голова</AEXP_Seal.tools.3.label>
+  <!-- EN: pinniped meat -->
+  <AEXP_Seal.race.meatLabel>мясо ластоногого</AEXP_Seal.race.meatLabel>
 
-
-  <!-- Walrus -->
 
   <!-- EN: walrus -->
   <AEXP_Walrus.label>морж</AEXP_Walrus.label>
@@ -37,7 +32,4 @@
   <AEXP_Walrus.description>Крупное морское животное, встречающееся только в арктических регионах. Морж обладает длинными бивнями, которые являются ценным предметом роскоши.</AEXP_Walrus.description>
   <!-- EN: head -->
   <AEXP_Walrus.tools.1.label>голова</AEXP_Walrus.tools.1.label>
-
-
-
 </LanguageData>

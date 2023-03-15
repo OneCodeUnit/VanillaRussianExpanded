@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN:
     <li>questName->[asker_nameDef]'s [monster] [contract]</li>
-		<li>monster->spider</li>
+    <li>monster->spider</li>
     <li>monster->ancient giant spider</li>
     <li>monster->arachnid</li>
     <li>monster->gargantuan spider</li>
@@ -14,7 +14,7 @@
   -->
   <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings>
     <li>questName->[contract] [monster] от [asker_nameDef]</li>
-		<li>monster->паука</li>
+    <li>monster->паука</li>
     <li>monster->древнего гигантского паука</li>
     <li>monster->арахнида</li>
     <li>monster->паука-колосса</li>
@@ -33,9 +33,15 @@
   </VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>Время задания истекло: [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The spiders have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired. -->
-  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>Пауки покинули эту местность и вы не услышите о них, пока они не найдут своих следующих жертв. Время, отведённое для задания [resolvedQuestName], истекло.</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Пауки покинули эту местность и вы не услышите о них, пока они не найдут своих следующих жертв. Время, отведённое для задания [resolvedQuestName], истекло.</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Оплата прибыла</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the spiders!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Вы уничтожили пауков!\n\nПрибыла оплата от фракции [asker_faction_name].</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the epic hunt for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
-  <VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>Эти поселенцы приняли участие в эпической охоте по заданию [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. {lookup: [asker_faction_royalFavorLabel]; Case; 1}.</VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в эпической охоте по заданию [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. {lookup: [asker_faction_royalFavorLabel]; Case; 1}.</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
 </LanguageData>

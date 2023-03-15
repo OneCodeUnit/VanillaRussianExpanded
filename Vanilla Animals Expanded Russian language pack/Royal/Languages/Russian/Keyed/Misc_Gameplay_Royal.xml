@@ -1,18 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-
-
-
-
-  <!-- Animal Stats -->
-
   <!-- EN: Primary Role -->
   <VAERoy_PrimaryRole>Основная роль</VAERoy_PrimaryRole>
   <!-- EN: Secondary Role -->
   <VAERoy_SecondaryRole>Второстепенная роль</VAERoy_SecondaryRole>
-
-  <!-- Roles -->
 
   <!-- EN: Combat -->
   <VAERoy_Combat>Бой</VAERoy_Combat>
@@ -20,23 +11,22 @@
   <VAERoy_EggLayer>Кладка яиц</VAERoy_EggLayer>
 
   <!-- EN: Utility -->
-  <VAERoy_Utility>специализация</VAERoy_Utility>
+  <VAERoy_Utility>Специализация</VAERoy_Utility>
   <!-- EN: Utility - Mood -->
-  <VAERoy_UtilityMood>Специализация - настроение</VAERoy_UtilityMood>
+  <VAERoy_UtilityMood>Настроение</VAERoy_UtilityMood>
   <!-- EN: Utility - Social -->
-  <VAERoy_UtilitySocial>Специализация - общение</VAERoy_UtilitySocial>
+  <VAERoy_UtilitySocial>Общение</VAERoy_UtilitySocial>
   <!-- EN: Utility - Heat Disipation -->
-  <VAERoy_UtilityHeat>Специализация - рассеивание нейроперегрева</VAERoy_UtilityHeat>
+  <VAERoy_UtilityHeat>Рассеивание нейроперегрева</VAERoy_UtilityHeat>
   <!-- EN: Utility - Psychic -->
-  <VAERoy_UtilityPsychic>Специализация - пси-силы</VAERoy_UtilityPsychic>
+  <VAERoy_UtilityPsychic>Пси-силы</VAERoy_UtilityPsychic>
   <!-- EN: Utility - Crowd Control -->
-  <VAERoy_UtilityCrowd>Специализация - контроль толпы</VAERoy_UtilityCrowd>
+  <VAERoy_UtilityCrowd>Контроль толпы</VAERoy_UtilityCrowd>
   <!-- EN: Utility - Food -->
-  <VAERoy_UtilityFood>Специализация - пища</VAERoy_UtilityFood>
+  <VAERoy_UtilityFood>Пища</VAERoy_UtilityFood>
   <!-- EN: Utility - Building -->
-  <VAERoy_UtilityBuilding>Специализация - строительство</VAERoy_UtilityBuilding>
+  <VAERoy_UtilityBuilding>Строительство</VAERoy_UtilityBuilding>
 
-  <!-- Roles Descriptions -->
 
   <!-- EN: Combat animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines.\n\nThis animal gets greatly increased melee attacks as it ages. -->
   <VAERoy_CombatDescInc>Боевые животные специализируются на ведении ближнего боя. Они могут наносить высокий урон, имеют хорошее здоровье и сопротивляемость, или другие способности, которые позволяют им выживать на передовой.\n\nС возрастом сила атаки этого животного значительно увеличивается.</VAERoy_CombatDescInc>
@@ -58,21 +48,4 @@
   <VAERoy_UtilityFoodDesc>Это фермерское животное, выращиваемое для получения специального мяса.</VAERoy_UtilityFoodDesc>
   <!-- EN: This animal is not suited for combat, being quite physically weak. It will however build nests that act as a very beautiful animal sleeping spot. -->
   <VAERoy_UtilityBuildingDesc>Это животное физически слабо и не подходит для использования в боевых целях. Зато оно строит гнёзда, которые могут служить очень красивым спальным местом для животных.</VAERoy_UtilityBuildingDesc>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </LanguageData>

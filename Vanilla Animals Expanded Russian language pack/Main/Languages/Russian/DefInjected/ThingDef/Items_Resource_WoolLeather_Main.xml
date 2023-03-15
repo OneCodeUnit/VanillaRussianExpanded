@@ -1,69 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Hippopotamus -->
-
   <!-- EN: hippopotamus leather -->
   <AEXP_Leather_Hippopotamus.label>кожа гиппопотама</AEXP_Leather_Hippopotamus.label>
   <!-- EN: A thick leather of a hippopotamus. Not only it's extremely durable, but it also provides considerable heat insulation. -->
-  <AEXP_Leather_Hippopotamus.description>Толстая очищенная кожа гиппопотама. Очень крепкая и хорошо защищает от жары.</AEXP_Leather_Hippopotamus.description>
+  <AEXP_Leather_Hippopotamus.description>Толстая очищенная кожа гиппопотама. Очень крепкая и хорошо защищает от воздействия высоких температур.</AEXP_Leather_Hippopotamus.description>
+  <AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>кожи гиппопотама</AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>
 
-
-  <!-- Wildebeest -->
 
   <!-- EN: wildebeest pelt -->
   <AEXP_Leather_Wildebeest.label>шкура антилопы гну</AEXP_Leather_Wildebeest.label>
   <!-- EN: A thick but crumbly wildebeest fur and leather. Whilst it provides some degree of damage protection, the overall longevity of the item decreases. -->
   <AEXP_Leather_Wildebeest.description>Густой, но рыхлый мех и кожа антилопы гну. Хотя этот материал обеспечивает некоторую степень защиты от повреждений, долговечность изделий из него невысока.</AEXP_Leather_Wildebeest.description>
+  <AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>шкуры антилопы гну</AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>
 
-
-  <!-- Platypus leather -->
 
   <!-- EN: platypus leather -->
   <AEXP_Leather_Platypus.label>шкура утконоса</AEXP_Leather_Platypus.label>
   <!-- EN: Platypus fur was considered a valuable commodity in the days of old Terra, a fact that almost drove the Platypus to extinction. Luckily, the animal was protected and thrived again. -->
   <AEXP_Leather_Platypus.description>В давние времена на Земле мех утконоса считался ценным товаром, что едва не привело к вымиранию этого вида. К счастью, животное было вовремя защищено и его численность возросла.</AEXP_Leather_Platypus.description>
+  <AEXP_Leather_Platypus.stuffProps.stuffAdjective>шкуры утконоса</AEXP_Leather_Platypus.stuffProps.stuffAdjective>
 
-
-  <!-- Lion -->
 
   <!-- EN: lion pelt -->
   <AEXP_Leather_Lion.label>шкура льва</AEXP_Leather_Lion.label>
   <!-- EN: A strong, luxurious leather of the leader of the animal kingdom. Often sought after by urbworld philanthropists. -->
   <AEXP_Leather_Lion.description>Прочная, роскошная шкура царя зверей. Пользуется спросом у филантропов урбанизированных миров.</AEXP_Leather_Lion.description>
+  <AEXP_Leather_Lion.stuffProps.stuffAdjective>шкуры льва</AEXP_Leather_Lion.stuffProps.stuffAdjective>
 
-
-  <!-- Camel -->
 
   <!-- EN: camel wool -->
   <WoolCamel.label>верблюжья шерсть</WoolCamel.label>
   <!-- EN: Camel's wool. It provides good insulation from heat. -->
-  <WoolCamel.description>Шерсть двугорбого верблюда. Обеспечивает хорошую защиту от жары.</WoolCamel.description>
+  <WoolCamel.description>Шерсть двугорбого верблюда. Обеспечивает хорошую защиту от воздействия высоких температур.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>верблюжьей шерсти</WoolCamel.stuffProps.stuffAdjective>
 
-
-  <!-- Pinnipeds -->
 
   <!-- EN: pinniped leather -->
   <AEXP_Leather_Pinniped.label>кожа ластоногого</AEXP_Leather_Pinniped.label>
   <!-- EN: Tanned and dried leather from a Pinniped. It is of average strength but insulates well against heat. -->
-  <AEXP_Leather_Pinniped.description>Дублёная, высушенная, очищенная кожа ластоногого. Обладает средней прочностью и обеспечивает хорошую защиту от жары.</AEXP_Leather_Pinniped.description>
+  <AEXP_Leather_Pinniped.description>Дублёная, высушенная, очищенная кожа ластоногого. Обладает средней прочностью и обеспечивает хорошую защиту от воздействия высоких температур.</AEXP_Leather_Pinniped.description>
+  <AEXP_Leather_Pinniped.stuffProps.stuffAdjective>кожи ластоногого</AEXP_Leather_Pinniped.stuffProps.stuffAdjective>
 
-
-  <!-- Tiger leather -->
 
   <!-- EN: tiger leather -->
   <AEXP_Leather_Tiger.label>шкура тигра</AEXP_Leather_Tiger.label>
   <!-- EN: Tigers were often the target of poachers in old Earth due to their luxurious pelts, a fact that almost drove them to extinction. With the near lawlessness of the Rim, tiger leather is seen as another exotic commodity to trade between settlements. -->
   <AEXP_Leather_Tiger.description>Тигры часто становились целью браконьеров на старой Земле из-за их роскошных шкур. Это почти довело их до вымирания. Почти такое же беззаконие, царящее на окраинных мирах, позволяет продолжать использовать шкуру тигра в качестве экзотического товара для торговли между поселениями.</AEXP_Leather_Tiger.description>
+  <AEXP_Leather_Tiger.stuffProps.stuffAdjective>шкуры тигра</AEXP_Leather_Tiger.stuffProps.stuffAdjective>
 
-
-  <!-- Musk Ox -->
 
   <!-- EN: musk ox wool -->
   <AEXP_MuskOxWool.label>шерсть овцебыка</AEXP_MuskOxWool.label>
   <!-- EN: The inner wool of the muskox, originally known in Inuktitut as Qiviuq. Stronger and warmer than sheep's wool, and softer than cashmere wool. -->
   <AEXP_MuskOxWool.description>Шерсть овцебыка. Прочнее и теплее, чем овечья шерсть, и мягче, чем кашемир.</AEXP_MuskOxWool.description>
-
-
-
+  <AEXP_MuskOxWool.stuffProps.stuffAdjective>шерсти овцебыка</AEXP_MuskOxWool.stuffProps.stuffAdjective>
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: psychic nuzzle -->
   <VAERoy_PeacockInteraction.label>пси-ласка</VAERoy_PeacockInteraction.label>
@@ -51,8 +51,6 @@
     <li>rubbedpart->о бедро</li>
     <li>rubbedpart->о плечо</li>
     <li>rubbedpart->об руку</li>
-    <li>rubbedpart-></li>
-    <li>rubbedpart-></li>
   </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
 
   <!-- EN: tutoring -->
@@ -96,10 +94,9 @@
     <li>animalthings->excerpts from books or articles related to glass etching</li>
     <li>animalthings->the negative effects of preferential treatment</li>
   -->
-  <VAERoy_OrangutanInteraction.rulePack.rulesStrings>
+  <VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
 		<li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [animalthings].</li>
 		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] с [RECIPIENT_nameDef] [animalthings].</li>
-		<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
 
 		<li>talkedabout(p=4)->беседует</li>
 		<li>talkedabout->говорит</li>
@@ -108,11 +105,14 @@
 		<li>talkedabout->обменивается парой слов</li>
 		<li>talkedabout->делится своими догадками</li>
 		<li>talkedabout->обменивается мыслями</li>
-
-		<li>commentedabout->said something about</li>
-		<li>commentedabout->made a comment about</li>
-		<li>commentedabout->commented about</li>
-		<li>commentedabout->mused about</li>
+		
+		<li>talkedabout_plural(p=4)->беседуют</li>
+		<li>talkedabout_plural->говорят</li>
+		<li>talkedabout_plural->разговаривают</li>
+		<li>talkedabout_plural->обсуждают</li>
+		<li>talkedabout_plural->обмениваются парой слов</li>
+		<li>talkedabout_plural->делятся своими догадками</li>
+		<li>talkedabout_plural->обмениваются мыслями</li>
 		
 		<li>animalthings->о сравнении патерналистских обществ с другими социальными аспектами</li>
 		<li>animalthings->о происхождении и лингвистическом анализе термина «парапланеризм»</li>
@@ -133,5 +133,5 @@
 		<li>animalthings->о мнениях экспертов насчёт нищеты в бедных кварталах городов</li>
 		<li>animalthings->о выдержках из книг или статей, связанных с травлением стекла</li>
 		<li>animalthings->о негативных эффектах льготного экономического режима</li>
-  </VAERoy_OrangutanInteraction.rulePack.rulesStrings>
+  </VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
 </LanguageData>
