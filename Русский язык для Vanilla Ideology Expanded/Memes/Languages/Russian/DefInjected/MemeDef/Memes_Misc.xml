@@ -1876,7 +1876,7 @@
   -->
   <VME_Vegan.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Vegan)        ->[deity0_name] сказал последователям [deity0_possessive]: "Отринь плоть, ведь она нечиста и грешна".</li>
-    <li>episode(uses=1,tag=meme_Vegan)  -Как нам велел [deity0_name], мы отказались от употребления мяса. Наши тела не будут гробницей для других живых существ..</li>
+    <li>episode(uses=1,tag=meme_Vegan)  ->Как нам велел [deity0_name], мы отказались от употребления мяса. Наши тела не будут гробницей для других живых существ.</li>
 
     <li>intro(tag=meme_Vegan)           ->На [place_summary] [place_name], [memberNamePlural] построил гигантскую ферму, где выращивались всевозможные сочные фрукты и пухлые овощи.</li>
     <li>conflict(tag=meme_Vegan)        ->An evil industrial farmer, seeing [foeLeader_possessive] profits evaporate due to most [memberNamePlural]s shunning meat, wanted to sabotage the farm by any means necessary.</li>
