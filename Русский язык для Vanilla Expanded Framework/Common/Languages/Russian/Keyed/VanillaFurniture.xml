@@ -18,12 +18,22 @@
   <!-- EN: Change Graphic -->
   <VFE_ChangeGraphic>Сменить вид</VFE_ChangeGraphic>
   <!-- EN: Change Graphic of this building randomly between those available -->
-  <VFE_ChangeGraphicDesc>Меняйте внешний вид здания случайным образом между доступными вариантами</VFE_ChangeGraphicDesc>
+  <VFE_ChangeGraphicDesc>Меняйте внешний вид постройки случайным образом между доступными вариантами</VFE_ChangeGraphicDesc>
+
+  <!-- EN: Choose Graphic -->
+  <VFE_ChooseGraphic>Выбрать вид</VFE_ChooseGraphic>
+  <!-- EN: Choose Graphic of this building via a menu with all available options -->
+  <VFE_ChooseGraphicDesc>Выберите вид постройки в меню со всеми доступными вариантами</VFE_ChooseGraphicDesc>
+
+  <!-- EN: This building doesn't have extra random graphics to choose from. Some modder added the comp class to the building without alternative graphics, which is weird -->
+  <VFE_NoGraphics>Эта постройка не имеет дополнительных вариантов внешнего вида для выбора. Какой-то автор добавил поддержку альтернативных вариантов, но не сделал их. Это странно</VFE_NoGraphics>
 
   <!-- EN: "Change Graphic" button changes graphic randomly (deselect for sequentially) -->
   <VFE_RandomOrSequentially>Кнопка «Сменить вид» меняет внешний вид случайным образом вместо последовательного</VFE_RandomOrSequentially>
-  <!-- EN: Hide the "Change Graphic" button -->
-  <VFE_HideRandomizeButton>Спрятать кнопку «Сменить вид»</VFE_HideRandomizeButton>
+  <!-- EN: Hide the "Random Graphic" and "Choose Graphic" buttons -->
+  <VFE_HideRandomizeButton>Спрятать кнопки «Сменить вид» и «Выбрать вид»</VFE_HideRandomizeButton>
+  <!-- EN: Make random graphics buildings NOT start randomized -->
+  <VFE_RandomBuildingsDontStartRandom>Сделать случайный вид здания неслучайным изначально</VFE_RandomBuildingsDontStartRandom>
 
   <!-- EN: Switch light color -->
   <VFE.SwitchLightColor>Сменить цвет освещения</VFE.SwitchLightColor>
