@@ -7,12 +7,13 @@
   <v1.3>
     <li>Old</li>
     <li IfModActive="vanillaexpanded.achievements">Achievements</li>
-		<li IfModActive="Ludeon.RimWorld.Ideology">Ideology</li>
+	<li IfModActive="Ludeon.RimWorld.Ideology">Ideology</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Royalty</li>
   </v1.3>
   <v1.4>
     <li>New</li>
     <li IfModNotActive="OskarPotocki.VFE.Ultratech">Standalone</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Ideology_New</li>
+	<li IfModActive="Ludeon.RimWorld.Royalty">Royalty_New</li>
   </v1.4>
 </loadFolders>

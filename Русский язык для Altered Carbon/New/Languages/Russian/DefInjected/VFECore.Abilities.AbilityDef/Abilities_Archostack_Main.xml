@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: stack skip -->
+  <AC_ArchoStackSkip.label>стэк-прыжок</AC_ArchoStackSkip.label>
+  <!-- EN: Skip the archo stack into the targets body, taking control over it. Kills the target and the sleeve the archostack is currently in. This is useful if the current sleeve is near death. -->
+  <AC_ArchoStackSkip.description>Использовать прыжковые врата, чтобы переместить архостэк в тело цели, взяв его под контроль. Эта способность не только уничтожает личность цели, но и убивает оболочку, в которой кортикальный архостэк находился до этого. Полезно, если текущая оболочка находится в критическом состоянии.</AC_ArchoStackSkip.description>
+  <!-- EN: Using ability: {0} -->
+  <AC_ArchoStackSkip.jobReportString>Использует способность: {0}</AC_ArchoStackSkip.jobReportString> 
+  <!-- EN: stack skip -->
+  <AC_ArchoStackSkip.verbProperties.label>стэк-прыжок</AC_ArchoStackSkip.verbProperties.label>
+</LanguageData>

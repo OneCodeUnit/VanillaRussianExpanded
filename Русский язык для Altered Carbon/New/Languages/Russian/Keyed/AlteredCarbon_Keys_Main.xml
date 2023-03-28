@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Implant cortical stack -->
+  <AC.InstallStack>Вживить стэк</AC.InstallStack>
+  <!-- EN: Select a pawn or empty sleeve to implant the cortical stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallStackDesc>Выберите поселенца или пустую оболочку для имплантации кортикального стэка. Операция будет автоматически создана на вкладке «Здоровье» выбранного поселенца или оболочки.</AC.InstallStackDesc>
+
+  <!-- EN: Select a pawn to implant the empty cortical stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallEmptyStackDesc>Выберите поселенца или пустую оболочку для имплантации пустого кортикального стэка. Операция будет автоматически создана на вкладке «Здоровье» выбранного поселенца или оболочки.</AC.InstallEmptyStackDesc>
+
+  <!-- EN: Implant archo stack -->
+  <AC.InstallArchoStack>Вживить архостэк</AC.InstallArchoStack>
+  <!-- EN: Select a pawn or empty sleeve to implant the archo stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallArchoStackDesc>Выберите поселенца или пустую оболочку для имплантации кортикального архостэка. Операция будет автоматически создана на вкладке «Здоровье» выбранного поселенца или оболочки.</AC.InstallArchoStackDesc>
+
+  <!-- EN: Select a pawn to implant the empty archo stack in via surgery. The surgery will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallEmptyArchoStackDesc>Выберите поселенца или пустую оболочку для имплантации пустого кортикального архостэка. Операция будет автоматически создана на вкладке «Здоровье» выбранного поселенца или оболочки.</AC.InstallEmptyArchoStackDesc>
+
+  <!-- EN: Extract stack -->
+  <AC.DesignatorExtractStack>Извлечь стэк</AC.DesignatorExtractStack>
+  <!-- EN: Extract cortical stacks from dead bodies -->
+  <AC.DesignatorExtractStackDesc>Извлечь кортикальный стэк из трупа.</AC.DesignatorExtractStackDesc>
+  <!-- EN: The body should have a cortical stack -->
+  <AC.MessageMustDesignateHasStack>У трупа долен быть вживлённый кортикальный стэк.</AC.MessageMustDesignateHasStack>
+
+  <!-- EN: Extract stack -->
+  <AC.ExtractStack>Извлечь стэк</AC.ExtractStack>
+
+  <!-- EN: Faction -->
+  <AC.Faction>Фракция</AC.Faction>
+  <!-- EN: Childhood -->
+  <AC.Childhood>Детство</AC.Childhood>
+  <!-- EN: Adulthood -->
+  <AC.Adulthood>Зрелость</AC.Adulthood>
+  <!-- EN: Chronological age -->
+  <AC.AgeChronologicalTicks>Хронологический возраст</AC.AgeChronologicalTicks>
+
+  <!-- EN: Destroy stack -->
+  <AC.DestroyStack>Уничтожить стэк</AC.DestroyStack>
+  <!-- EN: Destroyed stack -->
+  <AC.DestroyedStack>Уничтоженный стэк</AC.DestroyedStack>
+  <!-- EN: An empty stack was destroyed by inept actions of {PAWN_labelShort}. -->
+  <AC.DestroyedStackDesc>Пустой кортикальный стэк был уничтожен неумелыми действиями {PAWN_labelShort}.</AC.DestroyedStackDesc>
+  <!-- EN: A stack was destroyed by inept actions of {PAWN_labelShort}. -->
+  <AC.DestroyedWipingStackDesc>Кортикальный стэк был уничтожен неумелыми действиями {PAWN_labelShort}.</AC.DestroyedWipingStackDesc>
+
+  <!-- EN: Empty stack -->
+  <AC.EmptyStack>Пустой стэк</AC.EmptyStack>
+  <!-- EN: An empty stack. -->
+  <AC.EmptyStackDesc>Пустой кортикальный стэк.</AC.EmptyStackDesc>
+  <!-- EN: Deleting Stack:\nWARNING! You are about to wipe this stack, killing the person saved on it. Are you sure you want to continue? -->
+  <AC.EmptyStackConfirmation>Стереть данные на стэке:\nВНИМАНИЕ! Стерев данные, хранящиеся на этом кортикальном стэке, вы принесёте настоящую смерть тому, кто на нём записан. Вы уверены, что хотите продолжить?</AC.EmptyStackConfirmation>
+
+  <!-- EN: Destroying Stack:\nWARNING! You are about to destroy this stack. Are you sure you want to continue? -->
+  <AC.DestroyStackConfirmation>Уничтожить стэк:\nВНИМАНИЕ! Вы собираетесь уничтожить этот кортикальный стэк. Уверены, что хотите продолжить?</AC.DestroyStackConfirmation>
+
+  <!-- EN: (requires intellectual skill of 10 or higher) -->
+  <AC.CannotCopyNoIntellectual>(требуется уровень навыка «Умственный труд» 10 или выше)</AC.CannotCopyNoIntellectual>
+  <!-- EN: (no empty stacks on the map) -->
+  <AC.CannotCopyNoOtherEmptyStacks>(на карте нет пустых стэков)</AC.CannotCopyNoOtherEmptyStacks>
+
+  <!-- EN: erased {PAWN_labelShort} -->
+  <AC.GoodwillChangedReason_ErasedPawn>стирание {PAWN_labelShort}</AC.GoodwillChangedReason_ErasedPawn>
+
+  <!-- EN: Rest Stack (requires intellectual skill of 5 or higher) -->
+  <AC.CantWipeStackTooDumb>(требуется уровень навыка «Умственный труд» 5 или выше)</AC.CantWipeStackTooDumb>
+
+  <!-- EN: Decrypt Ancient Stacks: Failed, cortical stack destroyed! -->
+  <AC.FailedCorticalStackDestroyed>Расшифровка древнего стэка: провал, кортикальный стэк уничтожен!</AC.FailedCorticalStackDestroyed>
+
+  <!-- EN: {0} have a {1} chance of starting with a {2}. -->
+  <AC.ScenPart_PawnsHaveCorticalStack>{0} имеет {1} шанс начать с {2}.</AC.ScenPart_PawnsHaveCorticalStack>
+
+  <!-- EN: Auto-load -->
+  <AC.AutoLoad>Автозагрузка</AC.AutoLoad>
+  <!-- EN: If active, haulers will automatically store this stack in a stack array. -->
+  <AC.AutoLoadDesc>Если включено, то носильщики будут автоматически загружать этот стэк в квантовую матрицу хранения.</AC.AutoLoadDesc>
+
+  <!-- EN: Sleeve with stack installed inside. -->
+  <AC.SleeveWithStack>Оболочка с вживлённым кортикальным стэком.</AC.SleeveWithStack>
+  <!-- EN: {PAWN_nameDef} already has a cortical stack installed! -->
+  <AC.PawnAlreadyHasStack>{PAWN_nameDef} уже имеет вживлённый кортикальный стэк!</AC.PawnAlreadyHasStack>
+  <!-- EN: {PAWN_nameDef} already has an archo stack installed! -->
+  <AC.PawnAlreadyHasArchoStack>{PAWN_nameDef} уже имеет вживлённый кортикальный архостэк!</AC.PawnAlreadyHasArchoStack>
+
+  <!-- EN: {PAWN_nameDef} already has an archo stack installed! -->
+  <AC.PawnStackCannotDowngrade>{PAWN_nameDef} уже имеет вживлённый кортикальный архостэк, нельзя установить обычный!</AC.PawnStackCannotDowngrade>
+  <!-- EN: Cannot install cortical stack - neck is missing or another implant installed in the neck. -->
+  <AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Нельзя вживить стэк: шея отсутствует или занята другим имплантом.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
+
+  <!-- EN: Empty sleeve -->
+  <AC.EmptySleeve>Пустая оболочка</AC.EmptySleeve>
+  <!-- EN: Sleeve Death -->
+  <AC.SleeveDeath>Смерть оболочки</AC.SleeveDeath>
+  <!-- EN: Sleeve Death. -->
+  <AC.SleeveDeathDesc>Оболочка мертва.</AC.SleeveDeathDesc>
+  <!-- EN: Sleeve of {PAWN_labelShort} has died. Cause: {1}. -->
+  <AC.PawnDiedBecauseOf>Оболочка {PAWN_labelShort} умерла. Причина: {1}.</AC.PawnDiedBecauseOf>
+  <!-- EN: Sleeve of {1_labelShort} has died. -->
+  <AC.PawnDied>Оболочка {1_labelShort} умерла.</AC.PawnDied>
+  <!-- EN: Sleeve of  -->
+  <AC.SleveOf>Оболочка </AC.SleveOf>
+
+  <!-- EN: Take empty sleeve to sleeve casket or medical bed -->
+  <AC.TakeToSleeveCasketOrMedicalBed>Перенести пустую оболочку в камеру поддержания жизни или в медицинскую кровать</AC.TakeToSleeveCasketOrMedicalBed>
+  <!-- EN: Cannot take: No reachable, un-reserved sleeve casket or medical bed in safe temperature. -->
+  <AC.CannotTakeToSleeveCasketOrMedicalBed>Невозможно перенести: нет доступных свободных камер поддержания жизни или медицинских кроватей в местах с безопасной температурой.</AC.CannotTakeToSleeveCasketOrMedicalBed>
+
+  <!-- EN: Grow sleeve -->
+  <AC.CreateSleeveBody>Вырастить оболочку</AC.CreateSleeveBody>
+  <!-- EN: Sleeve Customization -->
+  <AC.SleeveCustomization>Настройка оболочки</AC.SleeveCustomization>
+  <!-- EN: No Sleeve -->
+  <AC.NoSleeve>Нет оболочки</AC.NoSleeve>
+  <!-- EN: Sleeve -->
+  <AC.Sleeve>Оболочка</AC.Sleeve>
+
+  <!-- EN: Create a new baseliner or xenotype sleeve using available xenogerms. -->
+  <AC.CreateSleeveBodyDesc>Создать первозданного или генетически модифицированного человека, используя доступные ксеносемена.</AC.CreateSleeveBodyDesc>
+
+  <!-- EN: Gene options -->
+  <AC.GeneOptions>Настройка генов</AC.GeneOptions>
+  <!-- EN: Body options -->
+  <AC.BodyOptions>Настройка тела</AC.BodyOptions>
+  <!-- EN: Selected xenogerm will be consumed in the process. If no xenogerm is selected, the sleeve will be grown as a "Baseliner". -->
+  <AC.XenogermExplanation>Выбранное ксеносемя будет потрачено в процессе.</AC.XenogermExplanation>
+  <!-- EN: Available options depend on the genes of the selected xenogerm. Chosen options will be used as active genes, while conflicting ones will be dormant. -->
+  <AC.GeneOptionsExplanation>Доступные варианты зависят от генов выбранных ксеносемян. Выбранные варианты будут использоваться в качестве активных генов, а конфликтующие будут неактивными.</AC.GeneOptionsExplanation>
+  <!-- EN: Baseliner skins and hair colour options are always available. Chosen options will be used as active genes, while conflicting ones will be dormant. -->
+  <AC.BodyOptionsExplanation>Выбранные варианты цвета кожи и волос будут использоваться в качестве активных генов, а конфликтующие будут неактивными.</AC.BodyOptionsExplanation>
+  <!-- EN: Grow non-archotech genes in xenogerm as germline genes:  -->
+  <AC.ConvertGenesToGermline>Вырастить неархо-гены в ксеносемени в качестве наследуемых: </AC.ConvertGenesToGermline>
+
+  <!-- EN: Due to lack of power, the sleeve will be lost in {0}. -->
+  <AC.PowerSleeveWillBeLostIn>Из-за нехватки энергии оболочка будет утрачена через {0}.</AC.PowerSleeveWillBeLostIn>
+  <!-- EN: Due to lack of neutroamine, the sleeve will be lost in {0}. -->
+  <AC.FuelSleeveWillBeLostIn>Из-за недостатка нейтроамина оболочка будет утрачена через {0}.</AC.FuelSleeveWillBeLostIn>
+  <!-- EN: Due to lack of neutroamine, the sleeve will begin to deteriorate in {0} -->
+  <AC.FuelSleeveWillBeDeteriorated>Из-за недостатка нейтроамина оболочка начнёт портиться через {0}.</AC.FuelSleeveWillBeDeteriorated>
+  <!-- EN: Due to lack of neutroamine, the sleeve is deteriorating. -->
+  <AC.FuelSleeveIsDeteriorating>Из-за недостатка нейтроамина оболочка портится.</AC.FuelSleeveIsDeteriorating>
+
+  <!-- EN: Race -->
+  <AC.Race>Раса</AC.Race>
+  <!-- EN: Xenotype -->
+  <AC.Xenotype>Ксенотип</AC.Xenotype>
+  <!-- EN: Active brain template:  -->
+  <AC.ActiveBrainTemplateDesc>Активный шаблон мозга: </AC.ActiveBrainTemplateDesc>
+  <!-- EN: Awaiting brain template:  -->
+  <AC.AwaitingBrainTemplateDesc>Ожидающий шаблон мозга: </AC.AwaitingBrainTemplateDesc>
+  <!-- EN: Brain template is active and cannot be removed or changed during sleeve growth process. Abort sleeve growth in order to remove/change brain template. -->
+  <AC.BrainTemplateIsUsedCurrently>Активный шаблон мозга не может быть удалён или заменён во время выращивания оболочки. Для замены или изменения шаблона необходимо прервать процесс выращивания.</AC.BrainTemplateIsUsedCurrently>
+
+  <!-- EN: Sleeve quality -->
+  <AC.SleeveQuality>Качество оболочки</AC.SleeveQuality>
+  <!-- EN: Sleeve beauty -->
+  <AC.SleeveBeauty>Красота оболочки</AC.SleeveBeauty>
+  <!-- EN: Psychic sensitivity -->
+  <AC.PsychicSensitivity>Психочувствительность</AC.PsychicSensitivity>
+
+  <!-- EN: When you press Accept, a sleeve will begin growing in this Sleeve incubator. During growth, it will require a constant power connection as well as neutroamine connection via neutro pipes. When the timer finishes, a Sleeve can be extracted and either used straight-away, or inserted into a Sleeve casket. -->
+  <AC.SleeveCustomizationExplanation>Подтвердив, вы запустите процесс выращивания оболочки. В ходе него потребуется постоянная подача энергии и нейтроамина. Когда процесс завершится, оболочку можно будет извлечь и использовать или перенести в камеру поддержания жизни.</AC.SleeveCustomizationExplanation>
+
+  <!-- EN: Save template -->
+  <AC.SaveTemplate>Сохранить шаблон</AC.SaveTemplate>
+  <!-- EN: Load template -->
+  <AC.LoadTemplate>Загрузить шаблон</AC.LoadTemplate>
+  <!-- EN: Cancel the sleeve growing process. -->
+  <AC.CancelSleeveBodyGrowing>Отменить выращивание</AC.CancelSleeveBodyGrowing>
+  <!-- EN: Cancel sleeve growing. -->
+  <AC.CancelSleeveBodyGrowingDesc>Отменить выращивание.</AC.CancelSleeveBodyGrowingDesc>
+  <!-- EN: Release sleeve -->
+  <AC.ReleaseSleeve>Извлечь оболочку</AC.ReleaseSleeve>
+  <!-- EN: This race does not support hair! -->
+  <AC.NoHairAllowed>Для этой расы недоступны волосы!</AC.NoHairAllowed>
+  <!-- EN: Body shape -->
+  <AC.BodyShape>Телосложение</AC.BodyShape>
+  <!-- EN: Body type -->
+  <AC.BodyTypeReplace>Выбрать телосложение</AC.BodyTypeReplace>
+  <!-- EN: Cancel -->
+  <AC.Cancel>Отменить</AC.Cancel>
+  <!-- EN: Growth progress:  -->
+  <AC.GrowthProgress>Оболочка выращена на </AC.GrowthProgress>
+  <!-- EN: Hair colour -->
+  <AC.HairColour>Цвет волос</AC.HairColour>
+  <!-- EN: Hair type -->
+  <AC.HairType>Причёска</AC.HairType>
+  <!-- EN: Head shape -->
+  <AC.HeadShape>Голова</AC.HeadShape>
+  <!-- EN: Head type -->
+  <AC.HeadTypeReplace>Выбрать форму головы</AC.HeadTypeReplace>
+  <!-- EN: Beard type -->
+  <AC.BeardType>Борода</AC.BeardType>
+  <!-- EN: Face tattoos type -->
+  <AC.FaceTattoosType>Татуировки на лице</AC.FaceTattoosType>
+  <!-- EN: Body tattoos type -->
+  <AC.BodyTattoosType>Татуировки на теле</AC.BodyTattoosType>
+  <!-- EN: Level of beauty -->
+  <AC.LevelOfBeauty>Уровень красоты</AC.LevelOfBeauty>
+  <!-- EN: Level of quality -->
+  <AC.LevelofQuality>Уровень качества</AC.LevelofQuality>
+
+  <!-- EN: Require neutroamine -->
+  <AC.RequireBiomass>Требуется нейтроамин</AC.RequireBiomass>
+  <!-- EN: Skin colour -->
+  <AC.SkinColour>Цвет кожи</AC.SkinColour>
+  <!-- EN: Total time to grow: {0} -->
+  <AC.TimeToGrow>Выращивание: {0}</AC.TimeToGrow>
+  <!-- EN: Total neutroamine needed: {0} -->
+  <AC.GrowCost>Требуется нейтроамина: {0}</AC.GrowCost>
+  <!-- EN: Select race -->
+  <AC.SelectRace>Выбрать расу</AC.SelectRace>
+  <!-- EN: Race type -->
+  <AC.RaceTypeReplace>Раса</AC.RaceTypeReplace>
+  <!-- EN: Clone sleeve -->
+  <AC.CloneSleeve>Клонировать оболочку</AC.CloneSleeve>
+  <!-- EN: Create a sleeve based on an existing pawn, including endogenes. -->
+  <AC.CloneSleeveDesc>Создать оболочку на основе вашего поселенца.</AC.CloneSleeveDesc>
+  <!-- EN: Sleeve incubator is running out neutroamine -->
+  <AC.IsRunningOutFuel>В инкубаторе оболочек закончился нейтроамин.</AC.IsRunningOutFuel>
+  <!-- EN: Sleeve incubator is running out power -->
+  <AC.IsRunningOutPower>Инкубатор оболочек без энергии.</AC.IsRunningOutPower>
+  <!-- EN: Sleeve body in the incubator is dead -->
+  <AC.SleeveInIncubatorIsDead>Оболочка в инкубаторе умерла</AC.SleeveInIncubatorIsDead>
+  <!-- EN: Repurpose corpse -->
+  <AC.RepurposeCorpse>Преобразовать труп</AC.RepurposeCorpse>
+  <!-- EN: Repurpose a not fully rotten corpse and turn it into an empty sleeve. -->
+  <AC.RepurposeCorpseDesc>Преобразовать не полностью сгнившее тело и превратить его в пустую оболочку.</AC.RepurposeCorpseDesc>
+
+  <!-- EN: Sleeve grower is occupied. -->
+  <AC.SleeveGrowerIsOccupied>Инкубатор оболочек занят.</AC.SleeveGrowerIsOccupied>
+  <!-- EN: Cancel repurposing corpse -->
+  <AC.CancelRepurposingCorpse>Отменить преобразование трупа</AC.CancelRepurposingCorpse>
+  <!-- EN: Cancel repurposing corpse into a empty sleeve. -->
+  <AC.CancelRepurposingCorpseDesc>Отменить преобразование трупа в пустую оболочку.</AC.CancelRepurposingCorpseDesc>
+  <!-- EN: Cortical stack must be removed first. -->
+  <AC.CorticalStackMustBeRemovedFirst>Сначала необходимо извлечь кортикальный стэк.</AC.CorticalStackMustBeRemovedFirst>
+  <!-- EN: Saved Sleeve Design could not be fully loaded. Missing required xenogerm! -->
+  <AC.SleeveDesignCouldntBeFullyLoaded>Сохранённый дизайн оболочки не может быть полностью загружен. Отсутствует необходимое ксеносемя!</AC.SleeveDesignCouldntBeFullyLoaded>
+  <!-- EN: A {PAWN_nameDef} body couldn't be copied fully. The following xenogenes were skipped: {1} -->
+  <AC.PawnBodyCouldntBeFullyCopied>Тело {PAWN_nameDef} не может быть скопировано полностью. Были пропущены следующие ксеносемена: {1}</AC.PawnBodyCouldntBeFullyCopied>
+  <!-- EN: Start growing -->
+  <AC.StartGrowing>Начать выращивание</AC.StartGrowing>
+  <!-- EN: Sleeve Incubator: Finished growing sleeve! -->
+  <AC.FinishedGrowingSleeve>Инкубатор оболочек закончил выращивание!</AC.FinishedGrowingSleeve>
+
+  <!-- EN: Backup -->
+  <AC.Backup>Резервное копирование</AC.Backup>
+  <!-- EN: Cortical Stack backups saved in arrays: {0} -->
+  <AC.BackedUpStacksInArray>Резервных копий в матрице: {0}</AC.BackedUpStacksInArray>
+  <!-- EN: Delete the saved backup irreversibly. -->
+  <AC.Erase>Необратимо удалить сохранённую резервную копию.</AC.Erase>
+
+  <!-- EN: Backups -->
+  <AC.Backups>Архив</AC.Backups>
+  <!-- EN: Backup now -->
+  <AC.BackupNow>Сделать резервную копию</AC.BackupNow>
+  <!-- EN: Cannot backup {0}: there's no such pawn! -->
+  <AC.CannotBackupNoSuchPawn>Нельзя сохранить {0}: поселенец отсутствует!</AC.CannotBackupNoSuchPawn>
+  <!-- EN: Cannot backup, {0} is on different location. -->
+  <AC.CannotBackupPawnOnAnotherLocation>Нельзя сохранить: {0} в другом месте.</AC.CannotBackupPawnOnAnotherLocation>
+  <!-- EN: Cannot backup {0}, the building is not powered. -->
+  <AC.CannotBackupNoPower>Нельзя сохранить {0}: нет электричества.</AC.CannotBackupNoPower>
+  <!-- EN: Enable automatic backup -->
+  <AC.EnableBackup>Вкл. авто резервное копирование</AC.EnableBackup>
+  <!-- EN: Allow the array to automatically make backups of all installed cortical stacks belonging to the player who are on the local map. -->
+  <AC.EnableBackupDesc>Разрешить квантовой матрице хранения автоматически создавать резервные копии всех поселенцев на карте с установленными кортикальными стэками.</AC.EnableBackupDesc>
+
+  <!-- EN: Emergency Backup -->
+  <AC.BackupAllStacks>Экстренное резервное копирование</AC.BackupAllStacks>
+  <!-- EN: Make an emergency backup of all currently active cortical stacks on the local map that belong to the colony. -->
+  <AC.BackupAllStacksDesc>Принудительно создать резервные копии всех поселенцев на карте с кортикальными стэками.</AC.BackupAllStacksDesc>
+  <!-- EN: (last backup: {0}) -->
+  <AC.TimeSinceLastBackup>(последнее резервное копирование: {0})</AC.TimeSinceLastBackup>
+
+  <!-- EN: Restore stack from backup (no empty stacks in stockpile.) -->
+  <AC.CannotRestoreBackupNoOtherEmptyStacks>Восстановить кортикальный стэк из резервной копии (на складах нет пустых стэков)</AC.CannotRestoreBackupNoOtherEmptyStacks>
+  <!-- EN: {PAWN_nameDef} successfully restored cortical stack from backup. -->
+  <AC.SuccessfullyRestoredStackFromBackup>{PAWN_nameDef} успешно {PAWN_gender ? восстановлен : восстановлена} из резервной копии.</AC.SuccessfullyRestoredStackFromBackup>
+  <!-- EN: Stack array: Backups Completed! {0} colonists were backed up! -->
+  <AC.BackupsCompleted>Квантовая матрица хранения: резервное копирование завершено! Было сохранено {0} поселенцев!</AC.BackupsCompleted>
+  <!-- EN: Toggle if this person should be restored to a new stack automatically when the current stack is destroyed. -->
+  <AC.RestoreToStackAutomatically>Включите, чтобы поселенец автоматически восстанавливался из резервной копии на новом стэке, если текущий был уничтожен.</AC.RestoreToStackAutomatically>
+  <!-- EN: Toggle automatic restoring -->
+  <AC.EnableAutoRestore>Вкл. автовосстановление</AC.EnableAutoRestore>
+  <!-- EN: Allow the array to automatically restore backups if a pawn with an installed cortical stacks dies. -->
+  <AC.EnableAutoRestoreDesc>Разрешить квантовой матрице хранения автоматически восстанавликать стэк из резервной копии, если поселенец с вживлённым кортикальным стэком умрёт.</AC.EnableAutoRestoreDesc>
+
+  <!-- EN: Duplicate Stack -->
+  <AC.DuplicateStack>Скопировать стэк</AC.DuplicateStack>
+  <!-- EN: Make a exact copy of an existing filled cortical stack that is currently stored in the stack array. -->
+  <AC.DuplicateStackDesc>Создать точную копию заполненного кортикального стэка, сохранённого в матрице.</AC.DuplicateStackDesc>
+  <!-- EN: Already set a stack to duplicate -->
+  <AC.AlreadySetToDuplicate>Уже выбран стэк для копирования</AC.AlreadySetToDuplicate>
+  <!-- EN: Not enough space for new stack -->
+  <AC.NoEnoughSpaceForNewStack>Недостаточно места для нового стэка.</AC.NoEnoughSpaceForNewStack>
+  <!-- EN: Eject this cortical stack from the array. -->
+  <AC.EjectStackTooltip>Извлечь этот стэк из матрицы.</AC.EjectStackTooltip>
+  <!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
+  <AC.EjectStackConfirmation>Вы действительно хотите извлечь {0}? Этот стэк будет немедленно извлечён и выложен на землю рядом.</AC.EjectStackConfirmation>
+  <!-- EN: There are no stored cortical stacks in the array to duplicate. -->
+  <AC.NoStoredStackToDuplicate>В матрице нет сохранённых кортикальных стэков для копирования.</AC.NoStoredStackToDuplicate>
+  <!-- EN: Cancel stack duplication -->
+  <AC.CancelStackDuplication>Отменить копирование стэка</AC.CancelStackDuplication>
+  <!-- EN: Cancel duplication of stored cortical stack. -->
+  <AC.CancelStackDuplicationDesc>Отменить копирование хранящегося кортикального стэка.</AC.CancelStackDuplicationDesc>
+  <!-- EN: {1_labelShort} is off the map or not in a sleeve. -->
+  <AC.MessageCantSelectOffMapPawn>{1_labelShort} отсутствует на карте или находится вне оболочки.</AC.MessageCantSelectOffMapPawn>
+
+  <!-- EN: Contents -->
+  <AC.StackStorage>Содержимое</AC.StackStorage>
+  <!-- EN: Cortical Stacks in array: ({0}/{1}) -->
+  <AC.CorticalStacksInArray>Стэков в матрице: ({0}/{1})</AC.CorticalStacksInArray>
+  <!-- EN: Cortical Stacks stored: {0}/{1} -->
+  <AC.CorticalStacksStored>Стэков хранится: {0}/{1}</AC.CorticalStacksStored>
+
+  <!-- EN: Last Backup: {0} -->
+  <AC.LastBackup>Последнее резервное копирование: {0}</AC.LastBackup>
+  <!-- EN: *Allow colonist cortical stacks -->
+  <AC.AllowColonistStacks>Разрешить стэки поселенцев</AC.AllowColonistStacks>
+  <!-- EN: *Allow stranger cortical stacks -->
+  <AC.AllowStrangerStacks>Разрешить стэки чужаков</AC.AllowStrangerStacks>
+  <!-- EN: *Allow hostile cortical stacks -->
+  <AC.AllowHostileStacks>Разрешить стэки врагов</AC.AllowHostileStacks>
+  <!-- EN: *Allow archo stacks -->
+  <AC.AllowArchoStacks>Разрешить архостэки</AC.AllowArchoStacks>
+  <!-- EN: {PAWN_nameDef} successfully duplicated cortical stack. -->
+  <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} удалось успешно скопировать кортикальный стэк.</AC.SuccessfullyDuplicatedStack>
+  <!-- EN: {PAWN_nameDef} failed to duplicate cortical stack. -->
+  <AC.FailedToDuplicatedStack>{PAWN_nameDef} не удалось скопировать кортикальный стэк.</AC.FailedToDuplicatedStack>
+
+  <!-- EN: Eject all -->
+  <AC.EjectAll>Извлечь все</AC.EjectAll>
+  <!-- EN: Drop all contained stacks onto the ground. -->
+  <AC.EjectAllDesc>Выложить все содержащиеся в матрице стэки на землю.</AC.EjectAllDesc>
+
+  <!-- EN: Separate gene -->
+  <AC.SeparateGene>Отделить ген</AC.SeparateGene>
+  <!-- EN: Select a genepack from which to separate a gene from. -->
+  <AC.SeparateGeneDesc>Выберите генный пакет, из которого будет отделён ген.</AC.SeparateGeneDesc>
+  <!-- EN: Separating Genes -->
+  <AC.SeparatingGenes>Разделение генов</AC.SeparatingGenes>
+  <!-- EN: Select gene -->
+  <AC.SelectGene>Выбрать ген</AC.SelectGene>
+  <!-- EN: The selected gene will be separated from the rest of the gene pack. -->
+  <AC.SelectGeneExplanation>Выбранный ген будет отделён от остального генного пакета.</AC.SelectGeneExplanation>
+  <!-- EN: After successful separation two genepacks will be spawned. One only with the selected gene, the other one with the rest. This process is not perfect and there is a small chance of one of the gene packs being destroyed. -->
+  <AC.SeparateGeneExplanation>После разделения будут созданы два генных пакета. Один с выбранным геном, другой с оставшимися. Этот процесс несовершенен, существует небольшая вероятность того, что один из них будет уничтожен.</AC.SeparateGeneExplanation>
+  <!-- EN: Start gene separating -->
+  <AC.StartSeparating>Начать разделение генов</AC.StartSeparating>
+  <!-- EN: Gene centrifuge finished separating genepacks! -->
+  <AC.FinishedSeparatingMessage>Генная центрифуга закончила разделение генов!</AC.FinishedSeparatingMessage>
+  <!-- EN: Gene centrifuge finished separating genepacks! {0} was destroyed during the process. -->
+  <AC.FinishedSeparatingDestroyedMessage>Генная центрифуга закончила разделение генов! В процессе {0} был уничтожен.</AC.FinishedSeparatingDestroyedMessage>
+  <!-- EN: Separating: {0} -->
+  <AC.SeparatingProgress>Отделяет ген: {0}</AC.SeparatingProgress>
+  <!-- EN: Gene centrifuge is working. -->
+  <AC.CentrigureWorking>Генная центрифуга работает.</AC.CentrigureWorking>
+  <!-- EN: Cancel gene separating -->
+  <AC.CancelGeneSeparating>Отменить разделение генов</AC.CancelGeneSeparating>
+  <!-- EN: Cancel separating genes. -->
+  <AC.CancelGeneSeparatingDesc>Отменить разделение генов.</AC.CancelGeneSeparatingDesc>
+  <!-- EN: Contains: {0} -->
+  <AC.ContainsGenepack>Содержит: {0}</AC.ContainsGenepack>
+  <!-- EN: Select a gene to separate. -->
+  <AC.SelectAGeneToSeparate>Выберите отделяемый ген.</AC.SelectAGeneToSeparate>
+
+  <!-- EN: Duplicate xenogerm -->
+  <AC.DuplicateXenogerm>Копировать ксеносемя</AC.DuplicateXenogerm>
+  <!-- EN: Select a xenogerm to duplicate. Xenogerms with archite genes require archite capsules to be loaded. -->
+  <AC.DuplicateXenogermDesc>Выберите ксеносемя для копирования. Ксеносемена с архитными генами требуют загрузки архитовых капсул.</AC.DuplicateXenogermDesc>
+  <!-- EN: Xenogerm duplicator is working -->
+  <AC.DuplicatorWorking>Репликатор ксеносемени работает.</AC.DuplicatorWorking>
+  <!-- EN: Cancel xenogerm duplication -->
+  <AC.CancelXenogermDuplication>Отменить копирование ксеносемени</AC.CancelXenogermDuplication>
+  <!-- EN: Cancel xenogerm duplication. -->
+  <AC.CancelXenogermDuplicationDesc>Отменить копирование ксеносемени.</AC.CancelXenogermDuplicationDesc>
+  <!-- EN: Duplicating: {0} -->
+  <AC.DuplicationProgress>Копирует: {0}</AC.DuplicationProgress>
+  <!-- EN: Contains: {0} -->
+  <AC.ContainsXenogerm>Содержит: {0}</AC.ContainsXenogerm>
+  <!-- EN: Xenogerm duplicator finished duplicating xenogerm! -->
+  <AC.FinishedXenogermDuplicationMessage>Репликатор ксеносемени закончил копирование ксеносемени!</AC.FinishedXenogermDuplicationMessage>
+  <!-- EN: Do you really want to duplicate the xenogerm? Not enough archite capsules are loaded to duplicate all any archite genes inside the xenogerm. -->
+  <AC.NotEnoughArchiteCapsulesLoaded>Вы действительно хотите скопировать это ксеносемя? Для копирования всех архитных генов, содержащихся в этом ксеносемени, не хватает архитовых капсул.</AC.NotEnoughArchiteCapsulesLoaded>
+
+  <!-- EN: Call psylink neuroformers -->
+  <AC.CommandCallsNeuroformers>Запрос нейроформеров пси-связи</AC.CommandCallsNeuroformers>
+  <!-- EN: Health -->
+  <AC.SleeveHealthPreview>Здоровье</AC.SleeveHealthPreview>
+  <!-- EN: Install body parts -->
+  <AC.SetBodyParts>Установить части тела</AC.SetBodyParts>
+  <!-- EN: You need to research at least one organ growing recipe. -->
+  <AC.OrganGrowingRecipesRequiresResearch>Необходимо исследовать хотя бы одну технологию выращивания органов.</AC.OrganGrowingRecipesRequiresResearch>
+  <!-- EN: No brain templates found -->
+  <AC.NoBrainTemplatesFound>Нет шаблонов мозга</AC.NoBrainTemplatesFound>
+  <!-- EN: Insert brain template -->
+  <AC.InsertBrainTemplate>Установить шаблон мозга</AC.InsertBrainTemplate>
+  <!-- EN: Insert a brain template into the incubator. -->
+  <AC.InsertBrainTemplateDesc>Установить шаблон мозга в инкубатор.</AC.InsertBrainTemplateDesc>
+  <!-- EN: Remove current brain template -->
+  <AC.RemoveCurrentBrainTemplate>Удалить текущий шаблон мозга</AC.RemoveCurrentBrainTemplate>
+  <!-- EN: {FACTION_name} demands stacks of their members back.\n\n{0} -->
+  <AC.FactionDemandsStacks>Фракция {FACTION_name} требует вернуть кортикальные стэки своих членов.\n\n{0}</AC.FactionDemandsStacks>
+  <!-- EN: Accept: (+{0} goodwill) -->
+  <AC.AppeptFactionDemand>Согласиться: (+{0} репутации)</AC.AppeptFactionDemand>
+  <!-- EN: Reject: ({0} goodwill) -->
+  <AC.RejectFactionDemand>Отказаться: ({0} репутации)</AC.RejectFactionDemand>
+  <!-- EN: None -->
+  <AC.None>Ничего</AC.None>
+  <!-- EN: Copy -->
+  <AC.Copy>Копия</AC.Copy>
+  <!-- EN: Original -->
+  <AC.Original>Оригинал</AC.Original>
+  <!-- EN: Name -->
+  <AC.Name>Имя</AC.Name>
+  <!-- EN: Search -->
+  <AC.Search>Поиск</AC.Search>
+  <!-- EN: Add filter -->
+  <AC.AddFilter>Добавить фильтр</AC.AddFilter>
+  <!-- EN: No filters -->
+  <AC.NoFilters>Нет фильтров</AC.NoFilters>
+  <!-- EN: Is empty sleeve -->
+  <AC.IsEmptySleeve>Пустая оболочка</AC.IsEmptySleeve>
+  <!-- EN: Original gender -->
+  <AC.OriginalGender>Первоначальный пол</AC.OriginalGender>
+
+  <!-- EN: Hack stack -->
+  <AC.HackStack>Взломать стэк</AC.HackStack>
+  <!-- EN: Convert a stack to the players faction. -->
+  <AC.HackStackDesc>Сменить фракцию личности на этом кортикальном стэке на вашу.</AC.HackStackDesc>
+  <!-- EN: Convert stack ideo -->
+  <AC.ConvertStack>Сменить идеолигию стэка</AC.ConvertStack>
+  <!-- EN: Convert a stack to the players ideology. -->
+  <AC.ConvertStackDesc>Сменить идеолигию личности на этом кортикальном стэке на вашу.</AC.ConvertStackDesc>
+
+  <!-- EN: Reset stack -->
+  <AC.WipeStack>Сбросить стэк</AC.WipeStack>
+  <!-- EN: Factory reset a filled cortical to be used on a new host. This process will deleted the pawn stored on it, effectively killing them. -->
+  <AC.WipeStackDesc>Сбросить до заводских настроек заполненный данными кортикальный стэк для его использования другим персонажем. В результате этого процесса информация о хранящейся личности будет удалена, что фактически приведет к её уничтожению.</AC.WipeStackDesc>
+
+  <!-- EN: This stack is set for hacking already on the decryption workbench. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToHackStack>Этот стэк уже выбран для взлома на столе дешифровщика. Удалите эту задачу, чтобы добавить новую операцию с этим стэком.</AC.AlreadyOrderedToHackStack>
+  <!-- EN: This stack is set for reseting already on a decryption workbench. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToWipeStack>Этот стэк уже выбран для сброса на столе дешифровщика. Удалите эту задачу, чтобы добавить новую операцию с этим стэком.</AC.AlreadyOrderedToWipeStack>
+
+  <!-- EN: This stack is set for rewriting already on a decryption workbench. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToRewriteStack>Этот стэк уже выбран для перезаписи на столе дешифровщика. Удалите эту задачу, чтобы добавить новую операцию с этим стэком.</AC.AlreadyOrderedToRewriteStack>
+  <!-- EN: Decrypt Ancient Stacks: Fixed the ancient cortical stack! -->
+  <AC.FixedAncientStack>Расшифровка древнего стэка: успех, древний кортикальный стэк восстановлен!</AC.FixedAncientStack>
+  <!-- EN: Decrypt Ancient Stacks: Unlocked new technology - {0}! -->
+  <AC.UnlockedNewTechnology>Расшифровка древнего стэка: получена технология — {0}!</AC.UnlockedNewTechnology>
+  <!-- EN: Decrypt Ancient Stacks: Gained progress to technology - {0}! -->
+  <AC.GainedProgressToTechnology>Расшифровка древнего стэка: получен прогресс в технологии — {0}!</AC.GainedProgressToTechnology>
+  <!-- EN: Decrypt Ancient Stacks: Gained empty cortical stack! -->
+  <AC.GainedEmptyCorticalStack>Расшифровка древнего стэка: получен пустой кортикальный стэк!</AC.GainedEmptyCorticalStack>
+  <!-- EN: Hacking biocoded equipment: Failed, {0} destroyed! -->
+  <AC.HackingBiocodedFailed>Взлом биокодированного снаряжения: провал, {0} {0_gender ? уничтожен : уничтожена : уничтожено}!</AC.HackingBiocodedFailed>
+  <!-- EN: Hacking biocoded equipment: Successful! {0} is unlocked. -->
+  <AC.HackingBiocodedSuccess>Взлом биокодированного снаряжения: успех, {0} {0_gender ? разблокирован : разблокирована : разблокировано}!</AC.HackingBiocodedSuccess>
+
+  <!-- EN: Rewrite stack -->
+  <AC.RewriteStack>Переписать стэк</AC.RewriteStack>
+  <!-- EN: Use exploits to edit the data stored on a filled cortical stack. -->
+  <AC.RewriteStackDesc>Использовать уязвимости в программном обеспечении, чтобы изменить данные, хранящиеся на кортикальном стэке.</AC.RewriteStackDesc>
+  <!-- EN: Rewrite Cortical Stack -->
+  <AC.RewriteCorticalStack>Переписать стэк</AC.RewriteCorticalStack>
+  <!-- EN: Cortical Stacks feature advanced encryption to prevent outside forces from messing with the stored consciousness. Known exploits allow for some data to be edited and rewritten at the cost of stack degradation. -->
+  <AC.CorticalStackEditExplanation>Кортикальные стэки защищены продвинутой системой шифрования, чтобы предотвратить постороннее вмешательство в хранящееся сознание. Однако известные уязвимости в программном обеспечении позволяют редактировать и переписывать некоторые данные ценой деградации стэка.</AC.CorticalStackEditExplanation>
+
+  <!-- EN: Backstories -->
+  <AC.Backstories>Биографии</AC.Backstories>
+  <!-- EN: No disabled work types -->
+  <AC.NoDisabledWorkTypes>Нет недоступных видов работ</AC.NoDisabledWorkTypes>
+  <!-- EN: No skill penalties -->
+  <AC.NoSkillPenalties>Нет штрафов к навыкам</AC.NoSkillPenalties>
+  <!-- EN: Faction allegiance -->
+  <AC.FactionAllegiance>Преданность фракции</AC.FactionAllegiance>
+  <!-- EN: Remove unwavering loyal trait: -->
+  <AC.RemoveUnwaveringLoyalTrait>Удалить черту «Невозможно завербовать»:</AC.RemoveUnwaveringLoyalTrait>
+  <!-- EN: Ideology -->
+  <AC.Ideology>Идеолигия</AC.Ideology>
+  <!-- EN: Belief -->
+  <AC.Belief>Убеждения</AC.Belief>
+  <!-- EN: Certainty -->
+  <AC.Certainty>Уверенность в убеждениях</AC.Certainty>
+  <!-- EN: Changing a pawn ideology will also remove any roles assosiated from them. -->
+  <AC.ChangingPawnIdeologyWarning>Смена идеолигии персонажа приведёт к потере назначенных ему ролей.</AC.ChangingPawnIdeologyWarning>
+  <!-- EN: Total time to rewrite: {0} -->
+  <AC.TotalTimeToRewrite>Необходимо времени на перезапись: {0}</AC.TotalTimeToRewrite>
+  <!-- EN: Expected stack degradation: {0} -->
+  <AC.TotalStackDegradation>Ожидаемая деградация стэка: {0}</AC.TotalStackDegradation>
+  <!-- EN: WARNING: The more you edit,the higher the stack degradation will be, causing the stored pawns personality to become more and more unstable. Stack degradation will go away over time after being installed in a body, but can take years. -->
+  <AC.Tutorial>Внимание: Чем больше вы редактируете, тем сильнее будет деградировать стэк, в результате чего личность хранимого на нём персонажа будет становиться всё более и более нестабильной. Деградация стэка пройдет со временем после установки в тело, но на это могут уйти годы.</AC.Tutorial>
+  <!-- EN: Reset all -->
+  <AC.ResetAll>Сбросить всё</AC.ResetAll>
+  <!-- EN: Stack degradation: {0} -->
+  <AC.StackDegradation>Деградация стэка: {0}</AC.StackDegradation>
+  <!-- EN: Start rewriting -->
+  <AC.StartRewriting>Начать перезапись</AC.StartRewriting>
+  <!-- EN: Cancel stack reset -->
+  <AC.CancelStackReset>Отменить сброс стэка</AC.CancelStackReset>
+  <!-- EN: Cancel reseting cortical stack. -->
+  <AC.CancelStackResetDesc>Отменить сброс кортикального стэка.</AC.CancelStackResetDesc>
+  <!-- EN: Cancel stack rewrite -->
+  <AC.CancelStackRewrite>Отменить перезапись стэка</AC.CancelStackRewrite>
+  <!-- EN: Cancel rewriting cortical stack. -->
+  <AC.CancelStackRewriteDesc>Отменить перезапись кортикального стэка.</AC.CancelStackRewriteDesc>
+  
+  <!-- ================================ Mod Settings ====================== -->
+  <!-- EN: General -->
+  <AC.General>Общее</AC.General>
+  <!--Enable Stack Spawning-->
+  <!-- EN: Enable Stack Spawning -->
+  <AC.EnableStackSpawning>Включить генерацию стэков</AC.EnableStackSpawning>
+  <!-- EN: If disabled, Cortical Stacks and Archostacks will NOT spawn on any pawns. You can still craft them, get them as rewards or trade for them. -->
+  <AC.EnableStackSpawningDesc>Если отключено, кортикальные стэки и архостэки не будут автоматически генерироваться на персонажах. Вы всё ещё сможете изготавливать, покупать или получать их в качества награды.</AC.EnableStackSpawningDesc>
+  <!-- EN: Enable techprint requirements in research projects -->
+  <AC.EnableTechprintRequirement>Включить необходимость чертежей для технологий в исследовательских проектах</AC.EnableTechprintRequirement>
+  <!-- EN: Only affects Royalty owners! -->
+  <AC.EnableTechprintRequirementDesc>Влияет только на владельцев DLC Royalty!</AC.EnableTechprintRequirementDesc>
+  <!-- EN: Sleeve Growing -->
+  <AC.SleeveGrowing>Выращивание оболочек</AC.SleeveGrowing>
+  <!-- EN: Time to grow sleeve multiplicator: -->
+  <AC.TimeToGrowSleeveMultiplier>Множитель времени выращивания оболочек:</AC.TimeToGrowSleeveMultiplier>
+  <!-- EN: Multiplicator of the overall time needed to grow a new sleeve. -->
+  <AC.TimeToGrowSleeveMultiplierDesc>Множитель количества времени, необходимого для выращивания новой оболочки.</AC.TimeToGrowSleeveMultiplierDesc>
+  <!-- EN: Cost to grow sleeve multiplicator: -->
+  <AC.CostToGrowSleeveMultiplier>Множитель стоимости выращивания оболочки:</AC.CostToGrowSleeveMultiplier>
+  <!-- EN: Multiplicator of the overall neutroamine cost needed to grow a new sleeve. -->
+  <AC.CostToGrowSleeveMultiplierDesc>Множитель количества нейтроамина, необходимого для выращивания новой оболочки.</AC.CostToGrowSleeveMultiplierDesc>
+  <!-- EN: Stack Rewriting -->
+  <AC.StackRewriting>Перезапись стэков</AC.StackRewriting>
+  <!-- EN: Enable Stack Degradation -->
+  <AC.EnableStackDegradation>Включить деградацию стэков</AC.EnableStackDegradation>
+  <!-- EN: If disabled, Cortical Stacks can be edited to your heart's content without having to worry about stack degradation. -->
+  <AC.EnableStackDegradationDesc>Если отключено, вы можете свободно редактировать содержимое кортикальных стэков, не беспокоясь о том, что они могут деградировать.</AC.EnableStackDegradationDesc>
+  <!-- EN: Stack editing time gain multiplier: -->
+  <AC.StackRewriteEditTimeValueMultiplier>Множитель времени редактирования стэка:</AC.StackRewriteEditTimeValueMultiplier>
+  <!-- EN: Multiplicator of the overall stack editing time. -->
+  <AC.StackRewriteEditTimeValueMultiplierDesc>Множитель количества времени, необходимого для редактирования кортикального стэка.</AC.StackRewriteEditTimeValueMultiplierDesc>
+  <!-- EN: Stack Degradation gain multiplier: -->
+  <AC.StackRewriteDegradationValueMultiplier>Множитель увеличения деградации стэка:</AC.StackRewriteDegradationValueMultiplier>
+  <!-- EN: Multiplies the overall stack degradation that is accumulated through editing. -->
+  <AC.StackRewriteDegradationValueMultiplierDesc>Множитель степени деградации стэка, которая накапливается при редактировании его содержимого.</AC.StackRewriteDegradationValueMultiplierDesc>
+  <!-- EN: Enable Archo Stack rewriting -->
+  <AC.EnableArchostackRewriting>Включить перезапись архостэков</AC.EnableArchostackRewriting>
+  <!-- EN: Allows you to edit the content of Archo Stacks. -->
+  <AC.EnableArchostackRewritingDesc>Позволяет редактировать содержимое архостэков.</AC.EnableArchostackRewritingDesc>
+</LanguageData>
