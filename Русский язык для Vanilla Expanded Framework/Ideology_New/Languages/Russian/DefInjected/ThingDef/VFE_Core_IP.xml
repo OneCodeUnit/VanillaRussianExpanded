@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: stone darkcampfire -->
+  <Stone_DarklightCampfire.label>тусклый костёр из камня</Stone_DarklightCampfire.label>
+  <!-- EN: Cooks meals, produces less heat but more light, burns out slower than the standard campfire. People who prefer darklight work best with this light source. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Stone_DarklightCampfire.description>Позволяет готовить еду. В отличии от обычного костра, даёт меньше тепла, больше света и горит дольше. Тусклый свет, излучаемый костром, нужен людям для работы и удобства передвижения. Как и любой источник тепла, должен быть расположен вне помещения, чтобы не перегреть его. Также в костёр можно подкидывать дрова и продлевать время горения.</Stone_DarklightCampfire.description>
+
+  <!-- EN: darklamp end table -->
+  <Table_DarkLightEndTable.label>прикроватный столик с тусклой лампой</Table_DarkLightEndTable.label>
+  <!-- EN: A small bedside table that has been adorned with a darklight, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <Table_DarkLightEndTable.description>Небольшой прикроватный столик, украшенный тусклой лампой. Добавляет удобства кроватям, если расположен непосредственно рядом с изголовьем. Второй прикроватный столик не принесёт положительного эффекта.</Table_DarkLightEndTable.description>
+
+  <!-- EN: outdoor lamp -->
+  <Light_OutdoorDarkLamp.label>тусклый фонарь</Light_OutdoorDarkLamp.label>
+  <!-- EN: A tall electrical darklamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+  <Light_OutdoorDarkLamp.description>Электрический фонарный столб, освещающий область вокруг себя тусклым светом. Его не требуется зажигать и он идеально подходит для освещения улиц по ночам.</Light_OutdoorDarkLamp.description>
+  <!-- EN: Off during daylight hours -->
+  <Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>Выключен в дневное время</Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>
+</LanguageData>
