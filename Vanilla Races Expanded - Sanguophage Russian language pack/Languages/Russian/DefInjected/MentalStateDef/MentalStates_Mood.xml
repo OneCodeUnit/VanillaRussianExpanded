@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- EN: hemohunter -->
-	<VRE_Hemohunter.label>hemohunter</VRE_Hemohunter.label>
+	<VRE_Hemohunter.label>неконтролируемая геможажда</VRE_Hemohunter.label>
 	<!-- EN: {0} has become a hemohunter! \n\n[PAWN_pronoun] will drain hemogen off of anyone [PAWN_pronoun] sees, until their hemogen rises to a safe level. -->
-	<VRE_Hemohunter.beginLetter>{0} has become a hemohunter! \n\n[PAWN_pronoun] will drain hemogen off of anyone [PAWN_pronoun] sees, until their hemogen rises to a safe level.</VRE_Hemohunter.beginLetter>
+	<VRE_Hemohunter.beginLetter>{0} испытывает непреодолимое желание восполнить запас гемогена!\n\n{PAWN_pronoun} будет пить гемоген из крови любого, кого увидит, до тех пор, пока {PAWN_possessive} уровень гемогена не повысится до безопасного значения.</VRE_Hemohunter.beginLetter>
 	<!-- EN: {0}'s hemohunter state has come to an end. -->
-	<VRE_Hemohunter.recoveryMessage>{0}'s hemohunter state has come to an end.</VRE_Hemohunter.recoveryMessage>
+	<VRE_Hemohunter.recoveryMessage>{0} успокаивается, неконтролируемая жажда гемогена проходит.</VRE_Hemohunter.recoveryMessage>
 	<!-- EN: Mental state: Hemohunter -->
-	<VRE_Hemohunter.baseInspectLine>Mental state: Hemohunter</VRE_Hemohunter.baseInspectLine>
+	<VRE_Hemohunter.baseInspectLine>Душевное состояние: неконтролируемая геможажда</VRE_Hemohunter.baseInspectLine>
 </LanguageData>

@@ -1,36 +1,37 @@
-﻿<LanguageData>
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
   <!-- EN: Animal-->
-  <VRE_Animal>Animal</VRE_Animal>
+  <VRE_Animal>Животное</VRE_Animal>
   <!-- EN: Corpse-->
-  <VRE_Corpse>Corpse</VRE_Corpse>
+  <VRE_Corpse>Труп</VRE_Corpse>
   <!-- EN: Sanguophage-->
-  <VRE_Sanguophage>Sanguophage</VRE_Sanguophage>
+  <VRE_Sanguophage>Гемофаг</VRE_Sanguophage>
   <!-- EN: Extract hemogen (animal) from {0}-->
-  <VRE_ExtractHemogenAnimal>Extract hemogen (animal) from {0}</VRE_ExtractHemogenAnimal>
+  <VRE_ExtractHemogenAnimal>Откачать гемоген животного из {0}</VRE_ExtractHemogenAnimal>
   <!-- EN: Extract hemogen (corpse) from {0}-->
-  <VRE_ExtractHemogenCorpse>Extract hemogen (corpse) from {0}</VRE_ExtractHemogenCorpse>
+  <VRE_ExtractHemogenCorpse>Откачать гемоген трупа из {0}</VRE_ExtractHemogenCorpse>
   <!-- EN: Extract hemogen (sanguophage) from {0}-->
-  <VRE_ExtractHemogenSanguophage>Extract hemogen (sanguophage) from {0}</VRE_ExtractHemogenSanguophage>
+  <VRE_ExtractHemogenSanguophage>Откачать гемоген гемофага из {0}</VRE_ExtractHemogenSanguophage>
   <!-- EN: The sanguofeed ability can only be used on hemogenic people-->
-  <VRE_MessageCantUseOnNonSanguophage>The sanguofeed ability can only be used on hemogenic people</VRE_MessageCantUseOnNonSanguophage>
+  <VRE_MessageCantUseOnNonSanguophage>Способность «укусить гемофага» можно использовать только на гемогеничных существ</VRE_MessageCantUseOnNonSanguophage>
   <!-- EN: Can only be used on targets with a heart-->
-  <VRE_NoHeart>Can only be used on targets with a heart</VRE_NoHeart>
+  <VRE_NoHeart>Можно использовать только на целях с сердцем</VRE_NoHeart>
   <!-- EN: Switches hemogen flow on/off.-->
-  <VRE_HemogenValve>Switches hemogen flow on/off.</VRE_HemogenValve>
+  <VRE_HemogenValve>Вкл./выкл. подачу гемогена.</VRE_HemogenValve>
   <!-- EN: Switches hemogen flow on/off. A pawn will come open/close the valve.-->
-  <VRE_HemogenValveDesc>Switches hemogen flow on/off. A pawn will come open/close the valve.</VRE_HemogenValveDesc>
+  <VRE_HemogenValveDesc>Дать команду включения или отключения подачи гемогена. Вскоре поселенец подойдёт и переключит выключатель.</VRE_HemogenValveDesc>
   <!-- EN: Ability: {0}-->
-  <VRE_Ability>Ability: {0}</VRE_Ability>
+  <VRE_Ability>Способность: {0}</VRE_Ability>
   <!-- EN: Choose ability-->
-  <VRE_DefaultAbility>Choose ability</VRE_DefaultAbility>
+  <VRE_DefaultAbility>Выбрать способность</VRE_DefaultAbility>
   <!-- EN: Carry {0} to draincasket-->
-  <VRE_CarryToDraincasket>Carry {0} to draincasket</VRE_CarryToDraincasket>
+  <VRE_CarryToDraincasket>Перенести {0} в гемосборный саркофаг</VRE_CarryToDraincasket>
   <!-- EN: Enter draincasket-->
-  <VRE_EnterDraincasket>Enter draincasket</VRE_EnterDraincasket>
+  <VRE_EnterDraincasket>Лечь в гемосборный саркофаг</VRE_EnterDraincasket>
   <!-- EN: Eject occupant-->
-  <VRE_CommandDraincasketEject>Eject occupant</VRE_CommandDraincasketEject>
+  <VRE_CommandDraincasketEject>Извлечь находящегося внутри</VRE_CommandDraincasketEject>
   <!-- EN: Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss.-->
-  <VRE_CommandDraincasketEjectDesc>Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss.</VRE_CommandDraincasketEjectDesc>
+  <VRE_CommandDraincasketEjectDesc>Извлечь персонажа, находящегося внутри гемосборного саркофага. Это прервёт выкачивание гемогена и вызовет головокружение из-за кровопотери.</VRE_CommandDraincasketEjectDesc>
   <!-- EN: Can't eject occupant, since draincasket is empty-->
-  <VRE_CommandDraincasketEjectFailEmpty>Can't eject occupant, since draincasket is empty</VRE_CommandDraincasketEjectFailEmpty>
+  <VRE_CommandDraincasketEjectFailEmpty>Невозможно извлечь, так как гемосборный саркофаг пуст.</VRE_CommandDraincasketEjectFailEmpty>
 </LanguageData>

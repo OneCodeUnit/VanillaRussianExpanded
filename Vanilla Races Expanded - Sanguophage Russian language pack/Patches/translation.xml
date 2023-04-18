@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/label</xpath>
+					<value>
+						<label>гемоген-пакет (трупа)</label>		
+					</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">			
+					<xpath>/Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/description</xpath>
+					<value>
+						<description>Испорченный, гниющий гемоген из трупа. Значительно ослабляет питающегося им, но существенно повышает фильтрацию крови.</description>		
+					</value>
+	</Operation>
+</Patch>
