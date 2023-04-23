@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Trading Expanded Russian Language Pack</name>
+	<author>OliveWizard</author>
+	<supportedVersions>
+	  <li>1.3</li>
+    <li>1.4</li>
+	</supportedVersions>
+  <packageId>OW.RU.Trading</packageId>
+  <description>Перевод на русский язык мода Vanilla Trading Expanded.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VanillaTradingExpanded</packageId>
+      <displayName>Vanilla Trading Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2785616901</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VanillaTradingExpanded</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>Am.Rus.VanillaTradingExpanded</li>
+  </incompatibleWith>
+</ModMetaData>
