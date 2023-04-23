@@ -1,12 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+  <!-- EN: Persona weapon for {PAWN_nameDef} -->
 	<VPWE.GainedPersonaWeaponTitle>Синхрооружие {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
+  <!-- EN: Because {PAWN_nameDef} has reached a rank of {1} with The Empire, they can now be granted an ultratech persona weapon bound to them.
+You can select the type of the weapon, as well as fully customize the look of it and the persona it comes with. Alternatively, you can close this notification and revisit it later.
+The weapon will arrive immediately via drop pod and will be bound to {PAWN_nameDef}. -->
 	<VPWE.GainedPersonaWeaponDesc>Получив титул {1} в Империи, {PAWN_nameDef} удостаивается личного синхрооружия.
 Можно выбрать тип этого оружия и полностью изменить его облик и встроенную ИИ-личность на свой вкус. Однако можно закрыть это уведомление и вернуться к нему позже.
 Выбранное оружие будет немедленно доставлено в транспортной капсуле и синхронизировано с {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+  <!-- EN: Claim a {0} -->
 	<VPWE.ClaimWeapon>Получить {0}</VPWE.ClaimWeapon>
+  <!-- EN: Postpone -->
 	<VPWE.Postpone>Отложить</VPWE.Postpone>
+  <!-- EN: Claim for {PAWN_nameDef} -->
 	<VPWE.ClaimFor>Получить для {PAWN_nameDef}</VPWE.ClaimFor>
+  <!-- EN: Persona:  -->
 	<VPWE.Persona>Личность: </VPWE.Persona>
+  <!-- EN: {PAWN_nameDef} is already bonded with {1}. Are you sure you want to claim a new persona weapon? -->
 	<VPWE.AlreadyBondedWarning>{PAWN_nameDef} уже имеет синхронизацию с {1}. Вы точно хотите получить новое синхрооружие?</VPWE.AlreadyBondedWarning>
+  <!-- EN: Cargo pods (Persona weapon) -->
+  <VPWE.ReceivedWeaponTitle>Грузовые контейнеры (синхрооружие)</VPWE.ReceivedWeaponTitle>
+  <!-- EN: {0} for {PAWN_nameDef} has arrived nearby. -->
+  <VPWE.ReceivedWeaponDesc>{0} для {PAWN_nameDef} прибыло.</VPWE.ReceivedWeaponDesc>
 </LanguageData>
