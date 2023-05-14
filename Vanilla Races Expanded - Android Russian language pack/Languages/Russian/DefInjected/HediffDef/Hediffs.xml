@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: neutro loss -->
+	<VREA_NeutroLoss.label>neutro loss</VREA_NeutroLoss.label>
+	<!-- EN: A reduction in the normal neutroamine volume. Minor neutro loss has relatively mild effects, but when neutro loss becomes severe, all subsystems become badly impaired and the android loses the ability to move. Extreme neutro loss will never lead to death.
+\nNeutro loss does not naturally recover over time. An android needs to be inserted into a neutrocasket and filled with neutroamine again. -->
+	<VREA_NeutroLoss.description>A reduction in the normal neutroamine volume. Minor neutro loss has relatively mild effects, but when neutro loss becomes severe, all subsystems become badly impaired and the android loses the ability to move. Extreme neutro loss will never lead to death.
+\nNeutro loss does not naturally recover over time. An android needs to be inserted into a neutrocasket and filled with neutroamine again.</VREA_NeutroLoss.description>
+	<!-- EN: minor -->
+	<VREA_NeutroLoss.stages.0.label>minor</VREA_NeutroLoss.stages.0.label>
+	<!-- EN: minor -->
+	<VREA_NeutroLoss.stages.1.label>minor</VREA_NeutroLoss.stages.1.label>
+	<!-- EN: moderate -->
+	<VREA_NeutroLoss.stages.2.label>moderate</VREA_NeutroLoss.stages.2.label>
+	<!-- EN: severe -->
+	<VREA_NeutroLoss.stages.3.label>severe</VREA_NeutroLoss.stages.3.label>
+	<!-- EN: extreme -->
+	<VREA_NeutroLoss.stages.4.label>extreme</VREA_NeutroLoss.stages.4.label>
+	<!-- EN: freezing -->
+	<VREA_Freezing.label>freezing</VREA_Freezing.label>
+	<!-- EN: Dangerously low core android temperature. Unless re-warmed, freezing will get worse and can result in critical biocomponent damage. Recovery is quick once the android is re-warmed. Avoid freezing by equipping warm clothes on your android in cold environments. -->
+	<VREA_Freezing.description>Dangerously low core android temperature. Unless re-warmed, freezing will get worse and can result in critical biocomponent damage. Recovery is quick once the android is re-warmed. Avoid freezing by equipping warm clothes on your android in cold environments.</VREA_Freezing.description>
+	<!-- EN: shivering -->
+	<VREA_Freezing.stages.0.label>shivering</VREA_Freezing.stages.0.label>
+	<!-- EN: shivering -->
+	<VREA_Freezing.stages.1.label>shivering</VREA_Freezing.stages.1.label>
+	<!-- EN: minor -->
+	<VREA_Freezing.stages.2.label>minor</VREA_Freezing.stages.2.label>
+	<!-- EN: serious -->
+	<VREA_Freezing.stages.3.label>serious</VREA_Freezing.stages.3.label>
+	<!-- EN: extreme -->
+	<VREA_Freezing.stages.4.label>extreme</VREA_Freezing.stages.4.label>
+	<!-- EN: {0} in the {1} -->
+	<VREA_Freeze.labelNounPretty>{0} in the {1}</VREA_Freeze.labelNounPretty>
+	<!-- EN: freeze -->
+	<VREA_Freeze.label>freeze</VREA_Freeze.label>
+	<!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
+	<VREA_Freeze.description>Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.</VREA_Freeze.description>
+	<!-- EN: Lost to freeze -->
+	<VREA_Freeze.injuryProps.destroyedLabel>Lost to freeze</VREA_Freeze.injuryProps.destroyedLabel>
+	<!-- EN: overheating -->
+	<VREA_Overheating.label>overheating</VREA_Overheating.label>
+	<!-- EN: A generalized disruption to android functioning caused by excessive exposure to heat and sun. The android memory becomes scrambled, leading to faster drain of memory space. Recovery is quick once in a cool area, but if heat exposure continues, android will continue to lose memory space which can result in frequent reformatting. -->
+	<VREA_Overheating.description>A generalized disruption to android functioning caused by excessive exposure to heat and sun. The android memory becomes scrambled, leading to faster drain of memory space. Recovery is quick once in a cool area, but if heat exposure continues, android will continue to lose memory space which can result in frequent reformatting.</VREA_Overheating.description>
+	<!-- EN: initial -->
+	<VREA_Overheating.stages.0.label>initial</VREA_Overheating.stages.0.label>
+	<!-- EN: minor -->
+	<VREA_Overheating.stages.1.label>minor</VREA_Overheating.stages.1.label>
+	<!-- EN: serious -->
+	<VREA_Overheating.stages.2.label>serious</VREA_Overheating.stages.2.label>
+	<!-- EN: extreme -->
+	<VREA_Overheating.stages.3.label>extreme</VREA_Overheating.stages.3.label>
+	<!-- EN: Scanning sickness -->
+	<VREA_ScanningSickness.label>Scanning sickness</VREA_ScanningSickness.label>
+	<!-- EN: This person was scanned by a softscanner to produce an android persona subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
+	<VREA_ScanningSickness.description>This person was scanned by a softscanner to produce an android persona subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage.</VREA_ScanningSickness.description>
+</LanguageData>

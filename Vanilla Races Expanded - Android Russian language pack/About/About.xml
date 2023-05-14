@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Races Expanded - Android Russian Language Pack</name>
+	<author>???</author>
+	<packageId>Mewn.RU.vanillaracesexpanded.android</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+      <packageId>vanillaracesexpanded.android</packageId>
+      <displayName>Vanilla Races Expanded - Android</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2975771801</steamWorkshopUrl>
+    </li>
+    </modDependencies>
+	<loadAfter>
+		<li>vanillaracesexpanded.android</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Vanilla Races Expanded - Android.</description>
+</ModMetaData>
