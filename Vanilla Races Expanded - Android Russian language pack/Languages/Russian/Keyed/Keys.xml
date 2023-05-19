@@ -1,230 +1,226 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- EN: Extract 20 neutroamine -->
-	<VREA_ExtractNeutroamine>Extract 20 neutroamine</VREA_ExtractNeutroamine>
+	<VREA_ExtractNeutroamine>Извлечь 20 нейтроамина</VREA_ExtractNeutroamine>
 	<!-- EN: Extract 20 neutroamine from the tank. A pawn will come to extract it. -->
-	<VREA_ExtractNeutroamineDesc>Extract 20 neutroamine from the tank. A pawn will come to extract it.</VREA_ExtractNeutroamineDesc>
+	<VREA_ExtractNeutroamineDesc>Из хранилища будет извлечено 20 нейтроамина. Поселенец скоро отправится за ним.</VREA_ExtractNeutroamineDesc>
 	<!-- EN: Free memory space -->
-	<VREA.FreeMemorySpace>Free memory space</VREA.FreeMemorySpace>
+	<VREA.FreeMemorySpace>Свободная память</VREA.FreeMemorySpace>
 	<!-- EN: Android stand is occupied -->
-	<VREA.AndroidStandIsOccupied>Android stand is occupied</VREA.AndroidStandIsOccupied>
+	<VREA.AndroidStandIsOccupied>Эта стойка андроида занята</VREA.AndroidStandIsOccupied>
 	<!-- EN: Artificial -->
-	<VREA.Artificial>Artificial</VREA.Artificial>
+	<VREA.Artificial>Искусств.</VREA.Artificial>
 	<!-- EN: An artificial -->
-	<VREA.ArtificialDesc>An artificial</VREA.ArtificialDesc>
+	<VREA.ArtificialDesc>Искусств.</VREA.ArtificialDesc>
 	<!-- EN: Installing -->
-	<VREA.Installing>Installing</VREA.Installing>
+	<VREA.Installing>Установка</VREA.Installing>
 	<!-- EN: Install -->
-	<VREA.Install>Install</VREA.Install>
+	<VREA.Install>Установить</VREA.Install>
 	<!-- EN: Installed -->
-	<VREA.Installed>Installed</VREA.Installed>
+	<VREA.Installed>Установл.</VREA.Installed>
 	<!-- EN: An installed -->
-	<VREA.AnInstalled>An installed</VREA.AnInstalled>
+	<VREA.AnInstalled>Установл.</VREA.AnInstalled>
 	<!-- EN: Make -->
-	<VREA.Make>Make</VREA.Make>
+	<VREA.Make>Изготовить</VREA.Make>
 	<!-- EN: Current energy level: {0} -->
-	<VREA.CurrentEnergyLevel>Current energy level: {0}</VREA.CurrentEnergyLevel>
+	<VREA.CurrentEnergyLevel>Текущий уровень энергии: {0}</VREA.CurrentEnergyLevel>
 	<!-- EN: Cannot set: not a living creature -->
-	<VREA.CannotSetNotLivingCreature>Cannot set: not a living creature</VREA.CannotSetNotLivingCreature>
+	<VREA.CannotSetNotLivingCreature>Нельзя установить: не является живым существом</VREA.CannotSetNotLivingCreature>
 	<!-- EN: No reachable, un-reserved non-prisoner neutrocasket in safe temperature. -->
-	<VREA.NoNeutroCasket>No reachable, un-reserved non-prisoner neutrocasket in safe temperature.</VREA.NoNeutroCasket>
+	<VREA.NoNeutroCasket>Не удаётся обнаружить незанятый нейтросаркофаг, назначенный для поселенцев в месте с безопасной температурой.</VREA.NoNeutroCasket>
 	<!-- EN: Android freezing -->
-	<VREA.AlertFreezing>Android freezing</VREA.AlertFreezing>
+	<VREA.AlertFreezing>Замерзание андроида</VREA.AlertFreezing>
 	<!-- EN: These androids are suffering from freezing:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-	<VREA.AlertFreezingDesc>These androids are suffering from freezing:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</VREA.AlertFreezingDesc>
+	<VREA.AlertFreezingDesc>Эти андроиды страдают от замерзания:\n\n{0}\nУбедитесь, что они одеты по погоде, а ваши помещения обогреваются должным образом.</VREA.AlertFreezingDesc>
 	<!-- EN: Android overheating -->
-	<VREA.Overheating>Android overheating</VREA.Overheating>
+	<VREA.Overheating>Перегрев андроида</VREA.Overheating>
 	<!-- EN: The following androids are suffering from overheating:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-	<VREA.AlertOverheatingDesc>The following androids are suffering from overheating:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.</VREA.AlertOverheatingDesc>
+	<VREA.AlertOverheatingDesc>Эти андроиды страдают от перегрева:\n\n{0}\nОтведите их в прохладное место. Для охлаждения помещений применяются испарительные охладители и кондиционеры. Пространства в толще горной породы сохраняют естественную прохладу, если они отделены от улицы дверью.</VREA.AlertOverheatingDesc>
 	<!-- EN: Android editor -->
-	<VREA.AndroidEditor>Android editor</VREA.AndroidEditor>
+	<VREA.AndroidEditor>Настройка андроида</VREA.AndroidEditor>
 
 	<!-- EN: Selected components -->
-	<VREA.SelectedComponents>Selected components</VREA.SelectedComponents>
+	<VREA.SelectedComponents>Выбранные компоненты</VREA.SelectedComponents>
 	<!-- EN: Components -->
-	<VREA.Components>Components</VREA.Components>
+	<VREA.Components>Компоненты</VREA.Components>
 	<!-- EN: For each individual, one of the following components will be randomly selected to be active -->
-	<VREA.ComponentWillBeRandomChosen>For each individual, one of the following components will be randomly selected to be active</VREA.ComponentWillBeRandomChosen>
+	<VREA.ComponentWillBeRandomChosen>Для каждого поселенца случайным образом будет выбран активным один из следующих компонентов</VREA.ComponentWillBeRandomChosen>
 	<!-- EN: Of the following components, the left-most one will always apply and the others are suppressed -->
-	<VREA.ComponentLeftmostActive>Of the following components, the left-most one will always apply and the others are suppressed</VREA.ComponentLeftmostActive>
+	<VREA.ComponentLeftmostActive>Из выбранных компонентов, будет использоваться только самый левый, а остальные будут подавляться</VREA.ComponentLeftmostActive>
 	<!-- EN: Components conflict -->
-	<VREA.ComponentsConflict>Components conflict</VREA.ComponentsConflict>
+	<VREA.ComponentsConflict>Несовместимые компоненты</VREA.ComponentsConflict>
 	<!-- EN: Cannot save android with multiple conflicting components. -->
-	<VREA.MessageConflictingComponentPresent>Cannot save android with multiple conflicting components.</VREA.MessageConflictingComponentPresent>
+	<VREA.MessageConflictingComponentPresent>Нельзя сохранить андроида со множеством конфликтующих компонентов.</VREA.MessageConflictingComponentPresent>
 
 	<!-- EN: Android name -->
-	<VREA.AndroidName>Android name</VREA.AndroidName>
+	<VREA.AndroidName>Имя андроида</VREA.AndroidName>
 	<!-- EN: How much complexity this adds to the process android creation. -->
-	<VREA.ComplexityDesc>How much complexity this adds to the process android creation.</VREA.ComplexityDesc>
+	<VREA.ComplexityDesc>Отражает то, сколько сложности это добавляет к процессу создания андроида.</VREA.ComplexityDesc>
 	<!-- EN: Power efficiency -->
-	<VREA.PowerEfficiency>Power efficiency</VREA.PowerEfficiency>
+	<VREA.PowerEfficiency>Энергоэффективность</VREA.PowerEfficiency>
 	<!-- EN: The power efficiency of this component. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time. -->
-	<VREA.PowerEfficiencyDesc>The power efficiency of this component. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time.</VREA.PowerEfficiencyDesc>
+	<VREA.PowerEfficiencyDesc>Энергоэффективность этого компонента. Высокая эффективность означает, что реактор андроида будет работать дольше. Низкая эффективность означает, что реактор проработает меньше времени до исчерпания ресурса.</VREA.PowerEfficiencyDesc>
 
 	<!-- EN: The total complexity of all the hardware and subroutines in use. -->
-	<VREA.ComplexityTotalDesc>The total complexity of all the hardware and subroutines in use.</VREA.ComplexityTotalDesc>
+	<VREA.ComplexityTotalDesc>Общая сложность всего используемого аппаратного обеспечения и подпрограмм.</VREA.ComplexityTotalDesc>
 	<!-- EN: The total power efficiency of all subroutines and hardware. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time.	 -->
-	<VREA.PowerEfficiencyTotalDesc>The total power efficiency of all subroutines and hardware. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time.	</VREA.PowerEfficiencyTotalDesc>
+	<VREA.PowerEfficiencyTotalDesc>Общая энергоэффективность всего используемого аппаратного обеспечения и подпрограмм. Высокая эффективность означает, что реактор андроида будет работать дольше. Низкая эффективность означает, что реактор проработает меньше времени до исчерпания ресурса.</VREA.PowerEfficiencyTotalDesc>
 	<!-- EN: Power drain -->
-	<VREA.PowerDrain>Power drain</VREA.PowerDrain>
+	<VREA.PowerDrain>Расход энергии</VREA.PowerDrain>
 	<!-- EN: Android -->
-	<VREA.Android>Android</VREA.Android>
+	<VREA.Android>Андроид</VREA.Android>
 	<!-- EN: Android cannot use this -->
-	<VREA.CannotUseAndroid>Android cannot use this</VREA.CannotUseAndroid>
+	<VREA.CannotUseAndroid>Андроид не может это использовать</VREA.CannotUseAndroid>
 	<!-- EN: Cannot install on android -->
-	<VREA.CannotInstallOnAndroid>Cannot install on android</VREA.CannotInstallOnAndroid>
+	<VREA.CannotInstallOnAndroid>Нельзя установить на андроида</VREA.CannotInstallOnAndroid>
 	<!-- EN: Cannot feed on android. -->
-	<VREA.CannotFeedOnAndroid>Cannot feed on android.</VREA.CannotFeedOnAndroid>
+	<VREA.CannotFeedOnAndroid>Нельзя удовлетворять свою жажду от андроида.</VREA.CannotFeedOnAndroid>
 	<!-- EN: Cannot implant genes on android. -->
-	<VREA.CannotImplantGenesOnAndroid>Cannot implant genes on android.</VREA.CannotImplantGenesOnAndroid>
+	<VREA.CannotImplantGenesOnAndroid>Нельзя вживить гены в андроида.</VREA.CannotImplantGenesOnAndroid>
 	<!-- EN: Cannot coagulate on android. -->
-	<VREA.CannotCoagulateOnAndroid>Cannot coagulate on android.</VREA.CannotCoagulateOnAndroid>
+	<VREA.CannotCoagulateOnAndroid>Нельзя применить коагуляцию на андроида.</VREA.CannotCoagulateOnAndroid>
 	<!-- EN: {PAWN_nameDef} is an android. -->
-	<VREA.IsAndroid>{PAWN_nameDef} is an android.</VREA.IsAndroid>
+	<VREA.IsAndroid>{PAWN_nameDef} — андроид.</VREA.IsAndroid>
 	<!-- EN: Neutroloss rate -->
-	<VREA.NeutrolossRate>Neutroloss rate</VREA.NeutrolossRate>
+	<VREA.NeutrolossRate>Скорость нейтропотери</VREA.NeutrolossRate>
 	<!-- EN: Total neutro loss in {0} -->
-	<VREA.TotalNeutroLoss>Total neutro loss in {0}</VREA.TotalNeutroLoss>
+	<VREA.TotalNeutroLoss>Нейтроамин закончится через {0}</VREA.TotalNeutroLoss>
 	<!-- EN: Neutroamine leaked out completely -->
-	<VREA.NeutroamineLeakedOutCompletely>Neutroamine leaked out completely</VREA.NeutroamineLeakedOutCompletely>
+	<VREA.NeutroamineLeakedOutCompletely>Нейтроамин полностью вытек</VREA.NeutroamineLeakedOutCompletely>
 	<!-- EN: {1_labelShort} is incapable of doing Crafting work, and so cannot ever self-tend. -->
-	<VREA.MessageCannotSelfTendEver>{1_labelShort} is incapable of doing Crafting work, and so cannot ever self-tend.</VREA.MessageCannotSelfTendEver>
+	<VREA.MessageCannotSelfTendEver>{1_labelShort} не способен к ремеслу, поэтому не может проводить самообслуживание.</VREA.MessageCannotSelfTendEver>
 	<!-- EN: To self-tend, {1_labelShort} must also be assigned to Crafting work. -->
-	<VREA.MessageSelfTendUnsatisfied>To self-tend, {1_labelShort} must also be assigned to Crafting work.</VREA.MessageSelfTendUnsatisfied>
+	<VREA.MessageSelfTendUnsatisfied>{1_labelShort} {1_gender ? должен быть назначен : должна быть назначена} работать ремесленником, чтобы выполнять самообслуживание.</VREA.MessageSelfTendUnsatisfied>
 	<!-- EN: View components -->
-	<VREA.ViewComponents>View components</VREA.ViewComponents>
+	<VREA.ViewComponents>Просмотр компонентов</VREA.ViewComponents>
 	<!-- EN: Click to view {PAWN_nameDef}'s components. -->
-	<VREA.ViewComponentsDesc>Click to view {PAWN_nameDef}'s components.</VREA.ViewComponentsDesc>
+	<VREA.ViewComponentsDesc>Нажмите, чтобы просмотреть компоненты {PAWN_nameDef}.</VREA.ViewComponentsDesc>
 	<!-- EN: More information is available on this android's information screen. -->
-	<VREA.MoreInfoInInfoScreen>More information is available on this android's information screen.</VREA.MoreInfoInInfoScreen>
+	<VREA.MoreInfoInInfoScreen>Больше информации можно получить вкладке «Информация» данного андроида.</VREA.MoreInfoInInfoScreen>
 	<!-- EN: Hardware components -->
-	<VREA.HardwareComponents>Hardware components</VREA.HardwareComponents>
+	<VREA.HardwareComponents>Аппаратное обеспечение</VREA.HardwareComponents>
 	<!-- EN: Subroutines -->
-	<VREA.Subroutines>Subroutines</VREA.Subroutines>
+	<VREA.Subroutines>Подпрограммы</VREA.Subroutines>
 	<!-- EN: Hardware are special components within the android that allow this particular unit to function. They normally cannot be removed, as they essentially are an android. In a rare situation when an android awakens, some hardware components might change or even be outright removed. -->
-	<VREA.HardwareComponentsDesc>Hardware are special components within the android that allow this particular unit to function. They normally cannot be removed, as they essentially are an android. In a rare situation when an android awakens, some hardware components might change or even be outright removed.</VREA.HardwareComponentsDesc>
+	<VREA.HardwareComponentsDesc>Аппаратное обеспечение представляет собой особенные части андроида, которые позволяют ему функционировать. Обычно они не могут быть удалены, так как по сути являются самим андроидом. В редких случаях, когда андроид пробуждается, некоторые части аппаратного обеспечения могут измениться или даже полностью удалиться.</VREA.HardwareComponentsDesc>
 	<!-- EN: Subroutine components dictate how the android will behave and what knowledge it has. They can be changed via behaviorist station. -->
-	<VREA.SubroutinesDesc>Subroutine components dictate how the android will behave and what knowledge it has. They can be changed via behaviorist station.</VREA.SubroutinesDesc>
+	<VREA.SubroutinesDesc>Подпрограммы определяют, как будет вести себя андроид и какими знаниями он обладает. Они могут быть изменены с помощью станции поведенческой настройки.</VREA.SubroutinesDesc>
 	<!-- EN: Scan progress: {0} -->
-	<VREA.ScanProgress>Scan progress: {0}</VREA.ScanProgress>
+	<VREA.ScanProgress>Сканирование: {0}</VREA.ScanProgress>
 	<!-- EN: Androids are not allowed -->
-	<VREA.AndroidAreNotAllowed>Androids are not allowed</VREA.AndroidAreNotAllowed>
+	<VREA.AndroidAreNotAllowed>Запрещено для андроидов</VREA.AndroidAreNotAllowed>
 	<!-- EN: Subcore polyanalyzer completed for {PAWN_nameDef}. Scan progres: {1} -->
-	<VREA.MessageSubcorePolyanalyzerCompleted>Subcore polyanalyzer completed for {PAWN_nameDef}. Scan progres: {1}</VREA.MessageSubcorePolyanalyzerCompleted>
+	<VREA.MessageSubcorePolyanalyzerCompleted>Полианализатор субъядер завершил сканирование {PAWN_nameDef}. Общий прогресс: {1}</VREA.MessageSubcorePolyanalyzerCompleted>
 	<!-- EN: {PAWN_nameDef} has already been scanned. -->
-	<VREA.AlreadyScanned>{PAWN_nameDef} has already been scanned.</VREA.AlreadyScanned>
+	<VREA.AlreadyScanned>{PAWN_nameDef} уже {1_gender ? был просканирован : была просканирована}.</VREA.AlreadyScanned>
 	<!-- EN: Subcore polyanalyzer not initiated -->
-	<VREA.SubcorePolyanalyzerNotInit>Subcore polyanalyzer not initiated</VREA.SubcorePolyanalyzerNotInit>
+	<VREA.SubcorePolyanalyzerNotInit>Полианализатор субъядер не запущен</VREA.SubcorePolyanalyzerNotInit>
 	<!-- EN: Start subcore polyanalyzer -->
-	<VREA.SubcorePolyanalyzerStart>Start subcore polyanalyzer</VREA.SubcorePolyanalyzerStart>
+	<VREA.SubcorePolyanalyzerStart>Запустить полианализатор субъядер</VREA.SubcorePolyanalyzerStart>
 	<!-- EN: Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the subcore polyanalyzer. -->
-	<VREA.SubcorePolyanalyzerStartDesc>Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the subcore polyanalyzer.</VREA.SubcorePolyanalyzerStartDesc>
+	<VREA.SubcorePolyanalyzerStartDesc>После того как {0} будет загружен, {1}, выберите поселенца и правой кнопкой мыши по {0} или сражённому поселенцу, чтобы начать сканирование в полианализаторе субъядер.</VREA.SubcorePolyanalyzerStartDesc>
 	<!-- EN: Cancel an android -->
-	<VREA.CancelAndroid>Cancel an android</VREA.CancelAndroid>
+	<VREA.CancelAndroid>Отменить андроида</VREA.CancelAndroid>
 	<!-- EN: Cancel the creation of this android and refund resources. -->
-	<VREA.CancelAndroidDesc>Cancel the creation of this android and refund resources.</VREA.CancelAndroidDesc>
+	<VREA.CancelAndroidDesc>Отменить создание андроида и вернуть ресурсы.</VREA.CancelAndroidDesc>
 	<!-- EN: Missing materials: {0} -->
-	<VREA.MissingMaterials>Missing materials: {0}</VREA.MissingMaterials>
+	<VREA.MissingMaterials>Недостающие материалы: {0}</VREA.MissingMaterials>
 	<!-- EN: Create android -->
-	<VREA.CreateAndroid>Create android</VREA.CreateAndroid>
+	<VREA.CreateAndroid>Создать андроида</VREA.CreateAndroid>
 	<!-- EN: Create a new android by selecting hardware and subroutines. -->
-	<VREA.CreateAndroidDesc>Create a new android by selecting hardware and subroutines.</VREA.CreateAndroidDesc>
+	<VREA.CreateAndroidDesc>Создать андроида с выбранным аппаратным обеспечением и подпрограммами.</VREA.CreateAndroidDesc>
 	<!-- EN: Create android: already assembling an android -->
-	<VREA.CreateAndroidAlreadyAssembling>Create android: already assembling an android</VREA.CreateAndroidAlreadyAssembling>
+	<VREA.CreateAndroidAlreadyAssembling>Создать андроида: андроид уже собирается</VREA.CreateAndroidAlreadyAssembling>
 	<!-- EN: Androidtype name -->
-	<VREA.AndroidtypeName>Androidtype name</VREA.AndroidtypeName>
+	<VREA.AndroidtypeName>Имя андротипа</VREA.AndroidtypeName>
 	<!-- EN: Load androidtype -->
-	<VREA.LoadAndroidtype>Load androidtype</VREA.LoadAndroidtype>
+	<VREA.LoadAndroidtype>Загрузить андротип</VREA.LoadAndroidtype>
 	<!-- EN: Save androidtype -->
-	<VREA.SaveAndroidtype>Save androidtype</VREA.SaveAndroidtype>
+	<VREA.SaveAndroidtype>Сохранить андротип</VREA.SaveAndroidtype>
 	<!-- EN: Resource cost -->
-	<VREA.ResourceCost>Resource cost</VREA.ResourceCost>
+	<VREA.ResourceCost>Стоимость</VREA.ResourceCost>
 	<!-- EN: The resource cost to create this android. Androids require a persona subcore, which can be created in a subcore polyanalyzer. -->
-	<VREA.ResourceCostDesc>The resource cost to create this android. Androids require a persona subcore, which can be created in a subcore polyanalyzer.</VREA.ResourceCostDesc>
+	<VREA.ResourceCostDesc>Количество ресурсов, необходимое для создания андроида. Андроиды также требуют субъядро ИИ, которое создаётся на полианализаторе субъядер.</VREA.ResourceCostDesc>
 	<!-- EN: A unique android variant with a set of hardware and subroutines that do not fall into any known androidtype. -->
-	<VREA.UniqueAndroidDesc>A unique android variant with a set of hardware and subroutines that do not fall into any known androidtype.</VREA.UniqueAndroidDesc>
+	<VREA.UniqueAndroidDesc>Уникальная модель андроида с набором аппаратного обеспечения и подпрограмм, которые не относятся ни к одному известному андротипу.</VREA.UniqueAndroidDesc>
 	<!-- EN: Modify android -->
-	<VREA.ModifyAndroid>Modify android</VREA.ModifyAndroid>
+	<VREA.ModifyAndroid>Модифицировать андроида</VREA.ModifyAndroid>
 	<!-- EN: Select an android to modify. -->
-	<VREA.ModifyAndroidDesc>Select an android to modify.</VREA.ModifyAndroidDesc>
+	<VREA.ModifyAndroidDesc>Выберите андроида для модификации.</VREA.ModifyAndroidDesc>
 	<!-- EN: No androids present -->
-	<VREA.NoAndroidsPresent>No androids present</VREA.NoAndroidsPresent>
+	<VREA.NoAndroidsPresent>Необходимо выбрать андроида</VREA.NoAndroidsPresent>
 	<!-- EN: Cancel modifying android -->
-	<VREA.CancelModifyingAndroid>Cancel modifying android</VREA.CancelModifyingAndroid>
+	<VREA.CancelModifyingAndroid>Отменить модификацию</VREA.CancelModifyingAndroid>
 	<!-- EN: Cancel the process of modifying an android. -->
-	<VREA.CancelModifyingAndroidDesc>Cancel the process of modifying an android.</VREA.CancelModifyingAndroidDesc>
+	<VREA.CancelModifyingAndroidDesc>Отменить процесс изменения андроида.</VREA.CancelModifyingAndroidDesc>
 	<!-- EN: Modification progress: {0} -->
-	<VREA.ModificationProgress>Modification progress: {0}</VREA.ModificationProgress>
+	<VREA.ModificationProgress>Прогресс модификации: {0}</VREA.ModificationProgress>
 	<!-- EN: Too low efficiency, mininum is -20. -->
-	<VREA.TooLowEfficiency>Too low efficiency, mininum is -20.</VREA.TooLowEfficiency>
+	<VREA.TooLowEfficiency>Слишком низкая эффективность. Допустимый минимум — -20.</VREA.TooLowEfficiency>
 	<!-- EN: Android name cannot be empty. -->
-	<VREA.AndroidNameCannotBeEmpty>Android name cannot be empty.</VREA.AndroidNameCannotBeEmpty>
+	<VREA.AndroidNameCannotBeEmpty>Имя андроида не может быть пустым.</VREA.AndroidNameCannotBeEmpty>
 	<!-- EN: {0} lacks a prerequisite component -->
-	<VREA.MessageComponentMissingPrerequisite>{0} lacks a prerequisite component</VREA.MessageComponentMissingPrerequisite>
+	<VREA.MessageComponentMissingPrerequisite>У {0} отсутствуют требуемые компоненты</VREA.MessageComponentMissingPrerequisite>
 	<!-- EN: The total power efficiency of the selected components must be {MIN} or higher to continue, but currently it is only {AMOUNT}. -->
-	<VREA.EfficiencyTooLowToCreateAndroid>The total power efficiency of the selected components must be {MIN} or higher to continue, but currently it is only {AMOUNT}.</VREA.EfficiencyTooLowToCreateAndroid>
+	<VREA.EfficiencyTooLowToCreateAndroid>Общая энергоэффективность выбранных компонентов не должна быть ниже {MIN}, но сейчас она {AMOUNT}.</VREA.EfficiencyTooLowToCreateAndroid>
 	<!-- EN: {PAWN_nameDef} awakening. -->
-	<VREA.AndroidAwakening>{PAWN_nameDef} awakening.</VREA.AndroidAwakening>
+	<VREA.AndroidAwakening>Пробуждение {PAWN_nameDef}</VREA.AndroidAwakening>
 	<!-- EN: {PAWN_nameDef} broke away from {PAWN_possessive} programming due to an extremely low mood. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
 {PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
 As the awakening happened due to low mood, {PAWN_nameDef} has lashed out into a berserk mental break and will attack anyone that comes close. -->
-	<VREA.AndroidAwakeningLowMood>{PAWN_nameDef} broke away from {PAWN_possessive} programming due to an extremely low mood. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
-{PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
-As the awakening happened due to low mood, {PAWN_nameDef} has lashed out into a berserk mental break and will attack anyone that comes close.</VREA.AndroidAwakeningLowMood>
+	<VREA.AndroidAwakeningLowMood>Системное программное обеспечение {PAWN_nameDef} вышло из строя из-за чрезмерного низкого настроения. Развившиеся у н{PAWN_possessive} мысли и шаблоны поведения отклонились от запрограммированных. Андроид начинает осознавать себя как личность. Теперь {PAWN_pronoun} больше не примет корректировки поведения и будет регулировать собственное настроение согласно собственным программам. Также {PAWN_pronoun} теперь сможет улучшать навыки самостоятельно. Помимо этого, {PAWN_nameDef} теперь {PAWN_gender ? подвержен : подвержена} нервным срывам при чрезмерно низком настроении, как и обычные люди.\n\nПоскольку пробуждение произошло из-за низкого настроения, {PAWN_nameDef} впадает в ярость и будет атаковать любого, кто подойдёт слишком близко.</VREA.AndroidAwakeningLowMood>
 	<!-- EN: {PAWN_nameDef} broke away from {PAWN_possessive} programming due to extreme happiness. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
 {PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
 As the awakening happened due to high mood, {PAWN_nameDef} has gained an inspiration. -->
-	<VREA.AndroidAwakeningHighMood>{PAWN_nameDef} broke away from {PAWN_possessive} programming due to extreme happiness. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
-{PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
-As the awakening happened due to high mood, {PAWN_nameDef} has gained an inspiration.</VREA.AndroidAwakeningHighMood>
+	<VREA.AndroidAwakeningHighMood>Системное программное обеспечение {PAWN_nameDef} вышло из строя из-за чрезвычайно радостного настроения. Развившиеся у н{PAWN_possessive} мысли и шаблоны поведения отклонились от запрограммированных. Андроид начинает осознавать себя как личность. Теперь {PAWN_pronoun} больше не примет корректировки поведения и будет регулировать собственное настроение согласно собственным программам. Также {PAWN_pronoun} теперь сможет улучшать навыки самостоятельно. Помимо этого, {PAWN_nameDef} теперь {PAWN_gender ? подвержен : подвержена} нервным срывам при чрезмерно низком настроении, как и обычные люди.\n\nПоскольку пробуждение произошло из-за высокого настроения, {PAWN_nameDef} получает вдохновение.</VREA.AndroidAwakeningHighMood>
 	<!-- EN: Android with mechanoid labor: enhanced precept -->
-	<VREA.IsAndroidStat>Android with mechanoid labor: enhanced precept</VREA.IsAndroidStat>
+	<VREA.IsAndroidStat>Андроид с механоидным трудом: расширенный принцип</VREA.IsAndroidStat>
 	<!-- EN: {PAWN_nameDef} has short-circuited due to precipitation. -->
-	<VREA.AndroidShortCircuitRain>{PAWN_nameDef} has short-circuited due to precipitation.</VREA.AndroidShortCircuitRain>
+	<VREA.AndroidShortCircuitRain>Из-за воздействия атмосферных осадков у {PAWN_nameDef} возникает короткое замыкание.</VREA.AndroidShortCircuitRain>
 	<!-- EN: Cold efficiency subroutine:
 	multiplier for temperature {0} -->
-	<VREA.ColdEfficiencyBonusStatExplanation>Cold efficiency subroutine:
-	multiplier for temperature {0}</VREA.ColdEfficiencyBonusStatExplanation>
+	<VREA.ColdEfficiencyBonusStatExplanation>Низкотемпературная эффективность:
+	множитель температуры {0}</VREA.ColdEfficiencyBonusStatExplanation>
 	<!-- EN: An android of the {0} type.\n\nAbout {0}s: -->
-	<VREA.StatsReport_AndroidDescription>An android of the {0} type.\n\nAbout {0}s:</VREA.StatsReport_AndroidDescription>
+	<VREA.StatsReport_AndroidDescription>Андроид типа {0}.\n\n{0} включает в себя:</VREA.StatsReport_AndroidDescription>
 	<!-- EN: The components associated with this androidtype. -->
-	<VREA.ComponentsDesc>The components associated with this androidtype.</VREA.ComponentsDesc>
+	<VREA.ComponentsDesc>Данные компоненты ассоциированы с этим андротипом.</VREA.ComponentsDesc>
 	<!-- EN: Replace reactor -->
-	<VREA.ReplaceReactor>Replace reactor</VREA.ReplaceReactor>
+	<VREA.ReplaceReactor>Заменить реактор</VREA.ReplaceReactor>
 	<!-- EN: {PAWN_gender} android, age {PAWN_ageFull} -->
-	<VREA.AndroidSummaryWithGender>{PAWN_gender} android, age {PAWN_ageFull}</VREA.AndroidSummaryWithGender>
+	<VREA.AndroidSummaryWithGender>{PAWN_gender} — андроид возрастом {PAWN_ageFull}</VREA.AndroidSummaryWithGender>
 	<!-- EN: Assign this stand to be owned by a specific android -->
-	<VREA.CommandAndroidStandSetOwnerDesc>Assign this stand to be owned by a specific android</VREA.CommandAndroidStandSetOwnerDesc>
+	<VREA.CommandAndroidStandSetOwnerDesc>Назначить стойку определённому андроиду</VREA.CommandAndroidStandSetOwnerDesc>
 	<!-- EN: Sleep mode -->
-	<VREA.SleepModeOn>Sleep mode</VREA.SleepModeOn>
+	<VREA.SleepModeOn>Спящий режим</VREA.SleepModeOn>
 	<!-- EN: Put this android in sleep mode. Reactor and memory will not be drained, but the android will be unable to respond to anything. Can be turned off at will. -->
-	<VREA.SleepModeOnDesc>Put this android in sleep mode. Reactor and memory will not be drained, but the android will be unable to respond to anything. Can be turned off at will.</VREA.SleepModeOnDesc>
+	<VREA.SleepModeOnDesc>Отправьте андроида в спящий режим. В этом режиме ресурс реактора не будет расходоваться, а память не будет заполняться, но он не будет выполнять каких-либо действий. Вывести андроида из спящего режима можно в любой момент.</VREA.SleepModeOnDesc>
 	<!-- EN: Cancel Sleep mode -->
-	<VREA.SleepModeOff>Cancel Sleep mode</VREA.SleepModeOff>
+	<VREA.SleepModeOff>Пробудить из спящего режима</VREA.SleepModeOff>
 	<!-- EN: Wake this android up from the sleep mode. -->
-	<VREA.SleepModeOffDesc>Wake this android up from the sleep mode.</VREA.SleepModeOffDesc>
+	<VREA.SleepModeOffDesc>Вывести этого андроида из спящего режима.</VREA.SleepModeOffDesc>
 	<!-- EN: Sleep mode -->
-	<VREA.SleepMode>Sleep mode</VREA.SleepMode>
+	<VREA.SleepMode>Спящий режим</VREA.SleepMode>
 	<!-- EN: Trigger self-destruct -->
-	<VREA.TriggerSelfDestruct>Trigger self-destruct</VREA.TriggerSelfDestruct>
+	<VREA.TriggerSelfDestruct>Запустить самоуничтожение</VREA.TriggerSelfDestruct>
 	<!-- EN: Initiate a self-destruct protocol, which drains the remaining reactor power at an extreme rate, triggering an explosion when it’s done. -->
-	<VREA.TriggerSelfDestructDesc>Initiate a self-destruct protocol, which drains the remaining reactor power at an extreme rate, triggering an explosion when it’s done.</VREA.TriggerSelfDestructDesc>
+	<VREA.TriggerSelfDestructDesc>Инициировать протокол самоуничтожения, который начнёт чрезвычайно быстрое снижение оставшегося ресурса реактора и вызовет взрыв, когда дойдёт до нуля.</VREA.TriggerSelfDestructDesc>
 	<!-- EN: Cancel self-destruct -->
-	<VREA.CancelSelfDestruct>Cancel self-destruct</VREA.CancelSelfDestruct>
+	<VREA.CancelSelfDestruct>Отменить самоуничтожение</VREA.CancelSelfDestruct>
 	<!-- EN: Cancel the self-destruct protocol. -->
-	<VREA.CancelSelfDestructDesc>Cancel the self-destruct protocol.</VREA.CancelSelfDestructDesc>
+	<VREA.CancelSelfDestructDesc>Отменить выполнение протокола самоуничтожения.</VREA.CancelSelfDestructDesc>
 	<!-- EN: If set active, an available crafter will automatically repair this android when laying in bed. If self tend is enabled, androids will be able to repair themselves in place. -->
-	<VREA.CommandAutoRepairDesc>If set active, an available crafter will automatically repair this android when laying in bed. If self tend is enabled, androids will be able to repair themselves in place.</VREA.CommandAutoRepairDesc>
+	<VREA.CommandAutoRepairDesc>Если активно, свободный ремесленник будет автоматически чинить этого андроида, когда тот отдыхает на кровати. Если активно самолечение, то андроид сможет начать чинить себя сам в таком положении.</VREA.CommandAutoRepairDesc>
 	<!-- EN: Lay until repaired -->
-	<VREA.UseBedAndroid>Lay until repaired</VREA.UseBedAndroid>
+	<VREA.UseBedAndroid>Лежать до починки</VREA.UseBedAndroid>
 	<!-- EN: no crafter -->
-	<VREA.NoCrafter>no crafter</VREA.NoCrafter>
+	<VREA.NoCrafter>ремесленник отсутствует</VREA.NoCrafter>
 	<!-- EN: not set to auto-repair -->
-	<VREA.NotSetToAutoRepair>not set to auto-repair</VREA.NotSetToAutoRepair>
+	<VREA.NotSetToAutoRepair>не выбран для автопочинки</VREA.NotSetToAutoRepair>
 	<!-- EN: Laying. -->
-	<VREA.Laying>Laying.</VREA.Laying>
+	<VREA.Laying>Лежит</VREA.Laying>
 	<!-- EN: cannot use this -->
-	<VREA.CannotUse>cannot use this</VREA.CannotUse>
+	<VREA.CannotUse>нельзя использовать</VREA.CannotUse>
 	<!-- EN: refuses reprogramming -->
-	<VREA.RefusesReprogramming>refuses reprogramming</VREA.RefusesReprogramming>
+	<VREA.RefusesReprogramming>отказывается быть перепрограммированным</VREA.RefusesReprogramming>
 </LanguageData>

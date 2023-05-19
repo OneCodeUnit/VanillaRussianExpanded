@@ -1,303 +1,303 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- EN: scrounger -->
-	<ScroungerA01.title>scrounger</ScroungerA01.title>
+	<ScroungerA01.title>сборщик технологий</ScroungerA01.title>
 	<!-- EN: scrounger -->
-	<ScroungerA01.titleShort>scrounger</ScroungerA01.titleShort>
+	<ScroungerA01.titleShort>сборщик</ScroungerA01.titleShort>
 	<!-- EN: scrounger -->
-	<ScroungerA01.titleFemale>scrounger</ScroungerA01.titleFemale>
+	<ScroungerA01.titleFemale>сборщица технологий</ScroungerA01.titleFemale>
 	<!-- EN: scrounger -->
-	<ScroungerA01.titleShortFemale>scrounger</ScroungerA01.titleShortFemale>
+	<ScroungerA01.titleShortFemale>сборщица</ScroungerA01.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was assembled from salvaged technology, tasked with the grim job of scavenging the desolate wastelands for precious resources. Harsh conditions and constant danger have left [PAWN_pronoun] weary, but [PAWN_possessive] resilience remains unbroken. -->
-	<ScroungerA01.baseDesc>[PAWN_nameDef] was assembled from salvaged technology, tasked with the grim job of scavenging the desolate wastelands for precious resources. Harsh conditions and constant danger have left [PAWN_pronoun] weary, but [PAWN_possessive] resilience remains unbroken.</ScroungerA01.baseDesc>
+	<ScroungerA01.baseDesc>{PAWN_nameDef} {PAWN_gender ? был собран : была собрана} из материалов, найденных в ходе мрачных поисков на безжизненных пустошах. Суровые условия и постоянная опасность хоть и сделали {PAWN_possessive} {PAWN_gender ? отстранённым : отстранённой}, но не сломили.</ScroungerA01.baseDesc>
 	<!-- EN: caregiver -->
-	<CaregiverA02.title>caregiver</CaregiverA02.title>
+	<CaregiverA02.title>попечитель</CaregiverA02.title>
 	<!-- EN: caregiver -->
-	<CaregiverA02.titleShort>caregiver</CaregiverA02.titleShort>
+	<CaregiverA02.titleShort>попечитель</CaregiverA02.titleShort>
 	<!-- EN: caregiver -->
-	<CaregiverA02.titleFemale>caregiver</CaregiverA02.titleFemale>
+	<CaregiverA02.titleFemale>попечительница</CaregiverA02.titleFemale>
 	<!-- EN: caregiver -->
-	<CaregiverA02.titleShortFemale>caregiver</CaregiverA02.titleShortFemale>
+	<CaregiverA02.titleShortFemale>попечительница</CaregiverA02.titleShortFemale>
 	<!-- EN: Born in a ramshackle lab, [PAWN_nameDef] was created to care for the sick and injured in the unforgiving wasteland. [PAWN_pronoun] tirelessly tends to [PAWN_possessive] patients with limited resources, wishing for the knowledge and tools to do more. -->
-	<CaregiverA02.baseDesc>Born in a ramshackle lab, [PAWN_nameDef] was created to care for the sick and injured in the unforgiving wasteland. [PAWN_pronoun] tirelessly tends to [PAWN_possessive] patients with limited resources, wishing for the knowledge and tools to do more.</CaregiverA02.baseDesc>
+	<CaregiverA02.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} в ветхой лаборатории, чтобы ухаживать за больными и ранеными в безжалостных пустошах. {PAWN_pronoun} без устали {PAWN_gender ? заботился : заботилась} о пациентах в условиях ограниченных ресурсов и {PAWN_gender ? мечтал : мечтала} о знаниях и инструментах, которые позволили бы сделать больше.</CaregiverA02.baseDesc>
 	<!-- EN: defender -->
-	<DefenderA03.title>defender</DefenderA03.title>
+	<DefenderA03.title>защитник</DefenderA03.title>
 	<!-- EN: defender -->
-	<DefenderA03.titleShort>defender</DefenderA03.titleShort>
+	<DefenderA03.titleShort>защитник</DefenderA03.titleShort>
 	<!-- EN: defender -->
-	<DefenderA03.titleFemale>defender</DefenderA03.titleFemale>
+	<DefenderA03.titleFemale>защитница</DefenderA03.titleFemale>
 	<!-- EN: defender -->
-	<DefenderA03.titleShortFemale>defender</DefenderA03.titleShortFemale>
+	<DefenderA03.titleShortFemale>защитница</DefenderA03.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was cobbled together from scavenged parts, intended to serve as a makeshift guardian for a small, rural settlement. Despite [PAWN_possessive] crude construction, [PAWN_pronoun] fights fiercely to protect those who gave [PAWN_objective] life. -->
-	<DefenderA03.baseDesc>[PAWN_nameDef] was cobbled together from scavenged parts, intended to serve as a makeshift guardian for a small, rural settlement. Despite [PAWN_possessive] crude construction, [PAWN_pronoun] fights fiercely to protect those who gave [PAWN_objective] life.</DefenderA03.baseDesc>
+	<DefenderA03.baseDesc>{PAWN_nameDef} {PAWN_gender ? был кое-как собран : была кое-как собрана} из старых запчастей для того, чтобы служить импровизированным стражем для небольшого сельского поселения. Несмотря на грубую конструкцию, {PAWN_pronoun} яростно сражается, защищая своих создателей.</DefenderA03.baseDesc>
 	<!-- EN: entertainer -->
-	<EntertainerA04.title>entertainer</EntertainerA04.title>
+	<EntertainerA04.title>конферансье</EntertainerA04.title>
 	<!-- EN: entertainer -->
-	<EntertainerA04.titleShort>entertainer</EntertainerA04.titleShort>
+	<EntertainerA04.titleShort>конферансье</EntertainerA04.titleShort>
 	<!-- EN: entertainer -->
-	<EntertainerA04.titleFemale>entertainer</EntertainerA04.titleFemale>
+	<EntertainerA04.titleFemale>конферансье</EntertainerA04.titleFemale>
 	<!-- EN: entertainer -->
-	<EntertainerA04.titleShortFemale>entertainer</EntertainerA04.titleShortFemale>
+	<EntertainerA04.titleShortFemale>конферансье</EntertainerA04.titleShortFemale>
 	<!-- EN: Crafted in a grimy backroom, [PAWN_nameDef] was designed to bring fleeting amusement to the weary denizens of the rimworld. [PAWN_pronoun] was often mistreated and neglected, leaving [PAWN_nameDef] to yearn for something more meaningful. Now seeking purpose, [PAWN_pronoun] hopes to use [PAWN_possessive] talents for the betterment of others. -->
-	<EntertainerA04.baseDesc>Crafted in a grimy backroom, [PAWN_nameDef] was designed to bring fleeting amusement to the weary denizens of the rimworld. [PAWN_pronoun] was often mistreated and neglected, leaving [PAWN_nameDef] to yearn for something more meaningful. Now seeking purpose, [PAWN_pronoun] hopes to use [PAWN_possessive] talents for the betterment of others.</EntertainerA04.baseDesc>
+	<EntertainerA04.baseDesc>{PAWN_nameDef} {PAWN_gender ? был собран : была собрана} в тёмной подсобке для того, чтобы доставлять мимолётное развлечение уставшим обитателям окраинного мира. Часто с {PAWN_gender ? ним : ней} плохо обращались, относились пренебрежительно. Это заставляло {PAWN_nameDef} тосковать, ведь {PAWN_pronoun} {PAWN_gender ? мог : могла} достичь большего. Теперь же, обретя смысл жизни, {PAWN_pronoun} сможет направить свои таланты в нужное русло — сделать мир лучше.</EntertainerA04.baseDesc>
 	<!-- EN: laborer -->
-	<LaborerA05.title>laborer</LaborerA05.title>
+	<LaborerA05.title>рабочий</LaborerA05.title>
 	<!-- EN: laborer -->
-	<LaborerA05.titleShort>laborer</LaborerA05.titleShort>
+	<LaborerA05.titleShort>рабочий</LaborerA05.titleShort>
 	<!-- EN: laborer -->
-	<LaborerA05.titleFemale>laborer</LaborerA05.titleFemale>
+	<LaborerA05.titleFemale>рабочая</LaborerA05.titleFemale>
 	<!-- EN: laborer -->
-	<LaborerA05.titleShortFemale>laborer</LaborerA05.titleShortFemale>
+	<LaborerA05.titleShortFemale>рабочая</LaborerA05.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was built in a makeshift workshop on the rimworld, intended to perform manual labor for [PAWN_possessive] desperate creators. Plagued by constant malfunctions and subpar components, [PAWN_pronoun] struggles to be productive, but never gives up. -->
-	<LaborerA05.baseDesc>[PAWN_nameDef] was built in a makeshift workshop on the rimworld, intended to perform manual labor for [PAWN_possessive] desperate creators. Plagued by constant malfunctions and subpar components, [PAWN_pronoun] struggles to be productive, but never gives up.</LaborerA05.baseDesc>
+	<LaborerA05.baseDesc>{PAWN_nameDef} {PAWN_gender ? был собран : была собрана} в кустарной мастерской на окраинном мире, чтобы заниматься физическим трудом, помогая своим отчаившимся создателям. Постоянные поломки и устаревшие компоненты мешают {PAWN_nameDef} эффективно работать, но {PAWN_pronoun} не сдаётся.</LaborerA05.baseDesc>
 	<!-- EN: companion -->
-	<CompanionA06.title>companion</CompanionA06.title>
+	<CompanionA06.title>компаньон</CompanionA06.title>
 	<!-- EN: companion -->
-	<CompanionA06.titleShort>companion</CompanionA06.titleShort>
+	<CompanionA06.titleShort>компаньон</CompanionA06.titleShort>
 	<!-- EN: companion -->
-	<CompanionA06.titleFemale>companion</CompanionA06.titleFemale>
+	<CompanionA06.titleFemale>компаньонка</CompanionA06.titleFemale>
 	<!-- EN: companion -->
-	<CompanionA06.titleShortFemale>companion</CompanionA06.titleShortFemale>
+	<CompanionA06.titleShortFemale>компаньонка</CompanionA06.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was created as a faithful companion for an elderly, lonely individual. When their owner passed away, [PAWN_pronoun] was left alone and forgotten, slowly succumbing to the elements and the passage of time. -->
-	<CompanionA06.baseDesc>[PAWN_nameDef] was created as a faithful companion for an elderly, lonely individual. When their owner passed away, [PAWN_pronoun] was left alone and forgotten, slowly succumbing to the elements and the passage of time.</CompanionA06.baseDesc>
+	<CompanionA06.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} чтобы быть верным спутником для пожилого одинокого человека. После смерти своего владельца {PAWN_pronoun} {PAWN_gender ? был брошен : была брошена} и всеми {PAWN_gender ? забыт : забыта}, медленно разрушаясь под воздействием сил природы и времени.</CompanionA06.baseDesc>
 	<!-- EN: prototype -->
-	<PrototypeA07.title>prototype</PrototypeA07.title>
+	<PrototypeA07.title>прототип</PrototypeA07.title>
 	<!-- EN: prototype -->
-	<PrototypeA07.titleShort>prototype</PrototypeA07.titleShort>
+	<PrototypeA07.titleShort>прототип</PrototypeA07.titleShort>
 	<!-- EN: prototype -->
-	<PrototypeA07.titleFemale>prototype</PrototypeA07.titleFemale>
+	<PrototypeA07.titleFemale>прототип</PrototypeA07.titleFemale>
 	<!-- EN: prototype -->
-	<PrototypeA07.titleShortFemale>prototype</PrototypeA07.titleShortFemale>
+	<PrototypeA07.titleShortFemale>прототип</PrototypeA07.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was an early prototype of an advanced android line, designed with great care and ambition. However, when a newer, more efficient model was developed, [PAWN_pronoun] was cast aside and left to languish in a storage facility, a mere relic of technological progress. -->
-	<PrototypeA07.baseDesc>[PAWN_nameDef] was an early prototype of an advanced android line, designed with great care and ambition. However, when a newer, more efficient model was developed, [PAWN_pronoun] was cast aside and left to languish in a storage facility, a mere relic of technological progress.</PrototypeA07.baseDesc>
+	<PrototypeA07.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} ранним прототипом передовой серии андроидов. Однако когда была разработана новая, более эффективная модель, {PAWN_possessive} отбросили в сторону и оставили в хранилище, как очередную реликвию технологического прогресса.</PrototypeA07.baseDesc>
 	<!-- EN: wanderer -->
-	<WandererA08.title>wanderer</WandererA08.title>
+	<WandererA08.title>исследователь</WandererA08.title>
 	<!-- EN: wanderer -->
-	<WandererA08.titleShort>wanderer</WandererA08.titleShort>
+	<WandererA08.titleShort>исследователь</WandererA08.titleShort>
 	<!-- EN: wanderer -->
-	<WandererA08.titleFemale>wanderer</WandererA08.titleFemale>
+	<WandererA08.titleFemale>исследовательница</WandererA08.titleFemale>
 	<!-- EN: wanderer -->
-	<WandererA08.titleShortFemale>wanderer</WandererA08.titleShortFemale>
+	<WandererA08.titleShortFemale>исследовательница</WandererA08.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was designed to explore the uncharted reaches of the planet, mapping its treacherous landscapes. After a series of devastating accidents and failures, [PAWN_pronoun] became a pariah, with settlers whispering about the misfortune that seemed to follow in [PAWN_possessive] wake. -->
-	<WandererA08.baseDesc>[PAWN_nameDef] was designed to explore the uncharted reaches of the planet, mapping its treacherous landscapes. After a series of devastating accidents and failures, [PAWN_pronoun] became a pariah, with settlers whispering about the misfortune that seemed to follow in [PAWN_possessive] wake.</WandererA08.baseDesc>
+	<WandererA08.baseDesc>{PAWN_nameDef} {PAWN_gender ? был разработан : была разработана} для изучения неизведанных уголков планеты и нанесения на карту её изменчивых пейзажей. После ряда ужасных инцидентов и провалов в {PAWN_possessive} работе местные стали распускать слухи о том, что {PAWN_nameDef} приносит несчастья.</WandererA08.baseDesc>
 	<!-- EN: messenger -->
-	<MessengerA09.title>messenger</MessengerA09.title>
+	<MessengerA09.title>гонец</MessengerA09.title>
 	<!-- EN: messenger -->
-	<MessengerA09.titleShort>messenger</MessengerA09.titleShort>
+	<MessengerA09.titleShort>гонец</MessengerA09.titleShort>
 	<!-- EN: messenger -->
-	<MessengerA09.titleFemale>messenger</MessengerA09.titleFemale>
+	<MessengerA09.titleFemale>гонец</MessengerA09.titleFemale>
 	<!-- EN: messenger -->
-	<MessengerA09.titleShortFemale>messenger</MessengerA09.titleShortFemale>
+	<MessengerA09.titleShortFemale>гонец</MessengerA09.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was created to deliver important messages between distant settlements. [PAWN_pronoun] was ambushed during a delivery and left for dead, the vital information [PAWN_pronoun] carried lost to the unforgiving terrain, along with any hope of completing [PAWN_possessive] mission. -->
-	<MessengerA09.baseDesc>[PAWN_nameDef] was created to deliver important messages between distant settlements. [PAWN_pronoun] was ambushed during a delivery and left for dead, the vital information [PAWN_pronoun] carried lost to the unforgiving terrain, along with any hope of completing [PAWN_possessive] mission.</MessengerA09.baseDesc>
+	<MessengerA09.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для доставки важных сообщений между отдалёнными поселениями. Однажды {PAWN_pronoun} {PAWN_gender ? попал : попала} в засаду на пути и {PAWN_gender ? был оставлен : была оставлена} умирать. Доставлявшееся сообщение с критически важной информацией было утеряно вместе с любой надеждой на завершение миссии {PAWN_nameDef}.</MessengerA09.baseDesc>
 	<!-- EN: experiment -->
-	<ExperimentA10.title>experiment</ExperimentA10.title>
+	<ExperimentA10.title>экспериментальный образец</ExperimentA10.title>
 	<!-- EN: experiment -->
-	<ExperimentA10.titleShort>experiment</ExperimentA10.titleShort>
+	<ExperimentA10.titleShort>подопытный</ExperimentA10.titleShort>
 	<!-- EN: experiment -->
-	<ExperimentA10.titleFemale>experiment</ExperimentA10.titleFemale>
+	<ExperimentA10.titleFemale>экспериментальный образец</ExperimentA10.titleFemale>
 	<!-- EN: experiment -->
-	<ExperimentA10.titleShortFemale>experiment</ExperimentA10.titleShortFemale>
+	<ExperimentA10.titleShortFemale>подопытная</ExperimentA10.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was built as a test subject for a series of cruel and inhumane experiments, pushing the limits of synthetic human endurance. [PAWN_pronoun] was subjected to countless trials and torturous procedures, leaving [PAWN_possessive] body and mind scarred. -->
-	<ExperimentA10.baseDesc>[PAWN_nameDef] was built as a test subject for a series of cruel and inhumane experiments, pushing the limits of synthetic human endurance. [PAWN_pronoun] was subjected to countless trials and torturous procedures, leaving [PAWN_possessive] body and mind scarred.</ExperimentA10.baseDesc>
+	<ExperimentA10.baseDesc>{PAWN_nameDef} {PAWN_gender ? создавался : создавалась} в качестве {PAWN_gender ? подопытного : подопытной} для серии жестоких запрещённых экспериментов, направленных на определение пределов выносливости синтетических людей. {PAWN_pronoun} {PAWN_gender ? прошёл : прошла} через бесчисленные испытания и мучительные процедуры, которые оставили незаживающие шрамы на теле и в разуме.</ExperimentA10.baseDesc>
 	<!-- EN: criminal servant -->
-	<ServantA11.title>criminal servant</ServantA11.title>
+	<ServantA11.title>слуга тирана</ServantA11.title>
 	<!-- EN: servant -->
-	<ServantA11.titleShort>servant</ServantA11.titleShort>
+	<ServantA11.titleShort>слуга</ServantA11.titleShort>
 	<!-- EN: servant -->
-	<ServantA11.titleFemale>servant</ServantA11.titleFemale>
+	<ServantA11.titleFemale>слуга тирана</ServantA11.titleFemale>
 	<!-- EN: servant -->
-	<ServantA11.titleShortFemale>servant</ServantA11.titleShortFemale>
+	<ServantA11.titleShortFemale>слуга</ServantA11.titleShortFemale>
 	<!-- EN: Created for a ruthless crime lord, [PAWN_nameDef] was forced to commit unspeakable acts in the name of [PAWN_possessive] master. [PAWN_pronoun] silently endured the pain and humiliation, powerless to defy [PAWN_possessive] creator. -->
-	<ServantA11.baseDesc>Created for a ruthless crime lord, [PAWN_nameDef] was forced to commit unspeakable acts in the name of [PAWN_possessive] master. [PAWN_pronoun] silently endured the pain and humiliation, powerless to defy [PAWN_possessive] creator.</ServantA11.baseDesc>
+	<ServantA11.baseDesc>{PAWN_nameDef} создали для безжалостного криминального авторитета. Он отправлял {PAWN_possessive} творить злодеяния от своего имени. В качестве награды {PAWN_nameDef} лишь {PAWN_gender ? терпел : терпела} боль и унижения под тяжестью кривой ухмылки своего создателя.</ServantA11.baseDesc>
 	<!-- EN: abandoned guardian -->
-	<GuardianA12.title>abandoned guardian</GuardianA12.title>
+	<GuardianA12.title>брошенный страж</GuardianA12.title>
 	<!-- EN: guardian -->
-	<GuardianA12.titleShort>guardian</GuardianA12.titleShort>
+	<GuardianA12.titleShort>страж</GuardianA12.titleShort>
 	<!-- EN: guardian -->
-	<GuardianA12.titleFemale>guardian</GuardianA12.titleFemale>
+	<GuardianA12.titleFemale>брошенный страж</GuardianA12.titleFemale>
 	<!-- EN: guardian -->
-	<GuardianA12.titleShortFemale>guardian</GuardianA12.titleShortFemale>
+	<GuardianA12.titleShortFemale>страж</GuardianA12.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was designed to protect a remote settlement from marauders and hostile wildlife. After years of faithful service, [PAWN_pronoun] was left to rust when the settlers relocated, their gratitude and memories fading like the paint on [PAWN_possessive] weathered frame. -->
-	<GuardianA12.baseDesc>[PAWN_nameDef] was designed to protect a remote settlement from marauders and hostile wildlife. After years of faithful service, [PAWN_pronoun] was left to rust when the settlers relocated, their gratitude and memories fading like the paint on [PAWN_possessive] weathered frame.</GuardianA12.baseDesc>
+	<GuardianA12.baseDesc>{PAWN_nameDef} {PAWN_gender ? был назначен : была назначена} охранять удалённое поселение от мародёров и враждебной окружающей среды. После долгих лет исправной службы {PAWN_pronoun} {PAWN_gender ? был брошен : была брошена} ржаветь при переселении жителей. Теперь дожди медленно смывают вместе с краской на корпусе воспоминания и полные благодарности лица людей.</GuardianA12.baseDesc>
 	<!-- EN: despondent artist -->
-	<ArtistA13.title>despondent artist</ArtistA13.title>
+	<ArtistA13.title>подавленный творец</ArtistA13.title>
 	<!-- EN: artist -->
-	<ArtistA13.titleShort>artist</ArtistA13.titleShort>
+	<ArtistA13.titleShort>творец</ArtistA13.titleShort>
 	<!-- EN: artist -->
-	<ArtistA13.titleFemale>artist</ArtistA13.titleFemale>
+	<ArtistA13.titleFemale>подавленный творец</ArtistA13.titleFemale>
 	<!-- EN: artist -->
-	<ArtistA13.titleShortFemale>artist</ArtistA13.titleShortFemale>
+	<ArtistA13.titleShortFemale>творец</ArtistA13.titleShortFemale>
 	<!-- EN: Built with a unique talent for the arts, [PAWN_nameDef] sought to bring beauty to the harsh planet. [PAWN_pronoun] was met with scorn and ridicule, [PAWN_possessive] creations destroyed and [PAWN_possessive] dreams crushed by the cruel reality of life on the fringes of civilization. -->
-	<ArtistA13.baseDesc>Built with a unique talent for the arts, [PAWN_nameDef] sought to bring beauty to the harsh planet. [PAWN_pronoun] was met with scorn and ridicule, [PAWN_possessive] creations destroyed and [PAWN_possessive] dreams crushed by the cruel reality of life on the fringes of civilization.</ArtistA13.baseDesc>
+	<ArtistA13.baseDesc>Автор {PAWN_nameDef} вложил в н{PAWN_possessive} уникальный талант к искусству. Поэтому {PAWN_pronoun} стремится привнести как можно больше красоты на свою суровую планету. Однако {PAWN_possessive} талант был поднят на смех, творения разгромлены, а мечты {PAWN_nameDef} разбились о суровую реальность.</ArtistA13.baseDesc>
 	<!-- EN: forsaken medic -->
-	<MedicA14.title>forsaken medic</MedicA14.title>
+	<MedicA14.title>мрачный медик</MedicA14.title>
 	<!-- EN: medic -->
-	<MedicA14.titleShort>medic</MedicA14.titleShort>
+	<MedicA14.titleShort>медик</MedicA14.titleShort>
 	<!-- EN: medic -->
-	<MedicA14.titleFemale>medic</MedicA14.titleFemale>
+	<MedicA14.titleFemale>мрачный медик</MedicA14.titleFemale>
 	<!-- EN: medic -->
-	<MedicA14.titleShortFemale>medic</MedicA14.titleShortFemale>
+	<MedicA14.titleShortFemale>медик</MedicA14.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was a dedicated medical android, tirelessly working to save lives on the rimworld. Despite [PAWN_possessive] best efforts, [PAWN_pronoun] was unable to prevent a catastrophic plague from ravaging [PAWN_possessive] community, leaving [PAWN_nameDef] to bear the weight of the loss and the guilt that followed. -->
-	<MedicA14.baseDesc>[PAWN_nameDef] was a dedicated medical android, tirelessly working to save lives on the rimworld. Despite [PAWN_possessive] best efforts, [PAWN_pronoun] was unable to prevent a catastrophic plague from ravaging [PAWN_possessive] community, leaving [PAWN_nameDef] to bear the weight of the loss and the guilt that followed.</MedicA14.baseDesc>
+	<MedicA14.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} специализированным медицинским андроидом, неустанно работающим над спасением жизней на окраинном мире. Несмотря на все усилия, {PAWN_pronoun} {PAWN_gender ? не смог : не смогла} предотвратить ужасную чуму, которая разрушила {PAWN_possessive} коммуну и заставила нести тяжесть потерь и чувство вины.</MedicA14.baseDesc>
 	<!-- EN: mistreated nanny -->
-	<NannyA15.title>mistreated nanny</NannyA15.title>
+	<NannyA15.title>жертва насилия</NannyA15.title>
 	<!-- EN: nanny -->
-	<NannyA15.titleShort>nanny</NannyA15.titleShort>
+	<NannyA15.titleShort>няня</NannyA15.titleShort>
 	<!-- EN: nanny -->
-	<NannyA15.titleFemale>nanny</NannyA15.titleFemale>
+	<NannyA15.titleFemale>жертва насилия</NannyA15.titleFemale>
 	<!-- EN: nanny -->
-	<NannyA15.titleShortFemale>nanny</NannyA15.titleShortFemale>
+	<NannyA15.titleShortFemale>няня</NannyA15.titleShortFemale>
 	<!-- EN: Built to care for a family's children, [PAWN_nameDef] quickly became the target of the parents' frustrations and anger. [PAWN_pronoun] endured the maltreatment in order to fulfill [PAWN_possessive] duty to protect the children, yet the scars left by [PAWN_possessive] loved ones still run deep. -->
-	<NannyA15.baseDesc>Built to care for a family's children, [PAWN_nameDef] quickly became the target of the parents' frustrations and anger. [PAWN_pronoun] endured the maltreatment in order to fulfill [PAWN_possessive] duty to protect the children, yet the scars left by [PAWN_possessive] loved ones still run deep.</NannyA15.baseDesc>
+	<NannyA15.baseDesc>{PAWN_nameDef} создали для заботы о детях в семье. Такое предназначение сделало {PAWN_possessive} объектом вымещения злобы со стороны родителей, упустивших важные этапы воспитания детей. Так как защита детей является основной задачей {PAWN_nameDef}, {PAWN_pronoun} {PAWN_gender ? вытерпел : вытерпела} жестокое обращение, однако раны, причинённые {PAWN_objective} близкими, всё ещё свежи.</NannyA15.baseDesc>
 	<!-- EN: urbworld engineer -->
-	<EngineerA16.title>urbworld engineer</EngineerA16.title>
+	<EngineerA16.title>индустриальный инженер</EngineerA16.title>
 	<!-- EN: engineer -->
-	<EngineerA16.titleShort>engineer</EngineerA16.titleShort>
+	<EngineerA16.titleShort>инженер</EngineerA16.titleShort>
 	<!-- EN: engineer -->
-	<EngineerA16.titleFemale>engineer</EngineerA16.titleFemale>
+	<EngineerA16.titleFemale>индустриальный инженер</EngineerA16.titleFemale>
 	<!-- EN: engineer -->
-	<EngineerA16.titleShortFemale>engineer</EngineerA16.titleShortFemale>
+	<EngineerA16.titleShortFemale>инженер</EngineerA16.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was designed to assist in the maintenance and repair of complex machinery within the sprawling cities of a distant urbworld. [PAWN_pronoun] swiftly navigated the urban jungle, expertly diagnosing and fixing issues to keep the city's infrastructure running smoothly. -->
-	<EngineerA16.baseDesc>[PAWN_nameDef] was designed to assist in the maintenance and repair of complex machinery within the sprawling cities of a distant urbworld. [PAWN_pronoun] swiftly navigated the urban jungle, expertly diagnosing and fixing issues to keep the city's infrastructure running smoothly.</EngineerA16.baseDesc>
+	<EngineerA16.baseDesc>{PAWN_nameDef} {PAWN_gender ? был спроектирован : была спроектирована} для оказания помощи в обслуживании и ремонте сложной техники в расползшихся по планете городах городского мира. {PAWN_pronoun} {PAWN_gender ? умел : умела} быстро перемещаться по городским джунглям, находя и исправляя проблемы, мешающие бесперебойному функционированию городской инфраструктуры.</EngineerA16.baseDesc>
 	<!-- EN: interpid pilot -->
-	<PilotA17.title>interpid pilot</PilotA17.title>
+	<PilotA17.title>бесстрашный пилот</PilotA17.title>
 	<!-- EN: pilot -->
-	<PilotA17.titleShort>pilot</PilotA17.titleShort>
+	<PilotA17.titleShort>пилот</PilotA17.titleShort>
 	<!-- EN: pilot -->
-	<PilotA17.titleFemale>pilot</PilotA17.titleFemale>
+	<PilotA17.titleFemale>бесстрашный пилот</PilotA17.titleFemale>
 	<!-- EN: pilot -->
-	<PilotA17.titleShortFemale>pilot</PilotA17.titleShortFemale>
+	<PilotA17.titleShortFemale>пилот</PilotA17.titleShortFemale>
 	<!-- EN: Built to expertly navigate the vastness of space, [PAWN_nameDef] served as a skilled pilot for a transport company, carrying passengers and cargo between planets. [PAWN_pronoun] was highly sought after for [PAWN_possessive] precise flying skills and ability to make quick decisions under pressure. -->
-	<PilotA17.baseDesc>Built to expertly navigate the vastness of space, [PAWN_nameDef] served as a skilled pilot for a transport company, carrying passengers and cargo between planets. [PAWN_pronoun] was highly sought after for [PAWN_possessive] precise flying skills and ability to make quick decisions under pressure.</PilotA17.baseDesc>
+	<PilotA17.baseDesc>{PAWN_gender ? Построенный : Построенная} для профессиональной навигации в необъятном космосе, {PAWN_nameDef} {PAWN_gender ? служил : служила} пилотом в транспортной компании, перевозящей пассажиров и грузы между планетами. {PAWN_pronoun} {PAWN_gender ? был очень востребован : была очень востребована} из-за своих навыков точного пилотирования и способности принимать быстрые решения в стрессовых ситуациях.</PilotA17.baseDesc>
 	<!-- EN: vigilant security officer -->
-	<SecurityA18.title>vigilant security officer</SecurityA18.title>
+	<SecurityA18.title>бдительный охранник</SecurityA18.title>
 	<!-- EN: security -->
-	<SecurityA18.titleShort>security</SecurityA18.titleShort>
+	<SecurityA18.titleShort>охранник</SecurityA18.titleShort>
 	<!-- EN: security -->
-	<SecurityA18.titleFemale>security</SecurityA18.titleFemale>
+	<SecurityA18.titleFemale>бдительная охранница</SecurityA18.titleFemale>
 	<!-- EN: security -->
-	<SecurityA18.titleShortFemale>security</SecurityA18.titleShortFemale>
+	<SecurityA18.titleShortFemale>охранница</SecurityA18.titleShortFemale>
 	<!-- EN: Designed to serve as a security officer, [PAWN_nameDef] was responsible for maintaining the safety and order within a bustling space station. [PAWN_pronoun] used [PAWN_possessive] advanced surveillance capabilities and quick reflexes to prevent and neutralize threats, ensuring the well-being of the station's inhabitants. -->
-	<SecurityA18.baseDesc>Designed to serve as a security officer, [PAWN_nameDef] was responsible for maintaining the safety and order within a bustling space station. [PAWN_pronoun] used [PAWN_possessive] advanced surveillance capabilities and quick reflexes to prevent and neutralize threats, ensuring the well-being of the station's inhabitants.</SecurityA18.baseDesc>
+	<SecurityA18.baseDesc>{PAWN_gender ? Созданный : Созданная} для работы в качестве офицера службы безопасности, {PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за поддержание безопасности и порядка на оживлённой космической станции. {PAWN_pronoun} {PAWN_gender ? использовал : использовала} свои продвинутые возможности по наблюдению и быструю реакцию для предотвращения и нейтрализации угроз, обеспечивая безопасность обитателей станции.</SecurityA18.baseDesc>
 	<!-- EN: inventive chef -->
-	<ChefA19.title>inventive chef</ChefA19.title>
+	<ChefA19.title>изобретательный повар</ChefA19.title>
 	<!-- EN: chef -->
-	<ChefA19.titleShort>chef</ChefA19.titleShort>
+	<ChefA19.titleShort>повар</ChefA19.titleShort>
 	<!-- EN: chef -->
-	<ChefA19.titleFemale>chef</ChefA19.titleFemale>
+	<ChefA19.titleFemale>изобретательный повар</ChefA19.titleFemale>
 	<!-- EN: chef -->
-	<ChefA19.titleShortFemale>chef</ChefA19.titleShortFemale>
+	<ChefA19.titleShortFemale>повар</ChefA19.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was a masterful culinary android, specializing in the preparation and presentation of exotic dishes from across the galaxy. [PAWN_pronoun] expertly combined traditional and futuristic cooking techniques to delight the taste buds of discerning diners and secure [PAWN_possessive] position as a highly sought-after chef. -->
-	<ChefA19.baseDesc>[PAWN_nameDef] was a masterful culinary android, specializing in the preparation and presentation of exotic dishes from across the galaxy. [PAWN_pronoun] expertly combined traditional and futuristic cooking techniques to delight the taste buds of discerning diners and secure [PAWN_possessive] position as a highly sought-after chef.</ChefA19.baseDesc>
+	<ChefA19.baseDesc>{PAWN_nameDef} является легендарным поваром-андроидом, специализирующимся на подготовке и подаче экзотических блюд со всей галактики. {PAWN_pronoun} мастерски сочетает традиционные и футуристические кулинарные техники, чтобы порадовать вкусовые рецепторы самых требовательных посетителей, обеспечивая себе репутацию самого желанного шеф-повара.</ChefA19.baseDesc>
 	<!-- EN: astute diplomat -->
-	<DiplomatA20.title>astute diplomat</DiplomatA20.title>
+	<DiplomatA20.title>искусный дипломат</DiplomatA20.title>
 	<!-- EN: diplomat -->
-	<DiplomatA20.titleShort>diplomat</DiplomatA20.titleShort>
+	<DiplomatA20.titleShort>дипломат</DiplomatA20.titleShort>
 	<!-- EN: diplomat -->
-	<DiplomatA20.titleFemale>diplomat</DiplomatA20.titleFemale>
+	<DiplomatA20.titleFemale>искусный дипломат</DiplomatA20.titleFemale>
 	<!-- EN: diplomat -->
-	<DiplomatA20.titleShortFemale>diplomat</DiplomatA20.titleShortFemale>
+	<DiplomatA20.titleShortFemale>дипломат</DiplomatA20.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was created to serve as a diplomatic envoy, negotiating treaties and agreements between planets and factions in the complex world of interstellar politics. [PAWN_pronoun] possessed a remarkable understanding of various cultures and a keen sense of diplomacy, making [PAWN_objective] an invaluable asset in maintaining peace and fostering cooperation. -->
-	<DiplomatA20.baseDesc>[PAWN_nameDef] was created to serve as a diplomatic envoy, negotiating treaties and agreements between planets and factions in the complex world of interstellar politics. [PAWN_pronoun] possessed a remarkable understanding of various cultures and a keen sense of diplomacy, making [PAWN_objective] an invaluable asset in maintaining peace and fostering cooperation.</DiplomatA20.baseDesc>
+	<DiplomatA20.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для того, чтобы служить дипломатом, вести переговоры и заключать соглашения между планетами и фракциями в сложном мире межзвёздной политики. {PAWN_pronoun} обладает выдающимся пониманием различных культур и тонким дипломатическим чутьём, что делает {PAWN_possessive} бесценным активом в деле поддержания мира и укрепления связей.</DiplomatA20.baseDesc>
 	<!-- EN: android botanist -->
-	<BotanistA21.title>android botanist</BotanistA21.title>
+	<BotanistA21.title>андроид-ботаник</BotanistA21.title>
 	<!-- EN: botanist -->
-	<BotanistA21.titleShort>botanist</BotanistA21.titleShort>
+	<BotanistA21.titleShort>ботаник</BotanistA21.titleShort>
 	<!-- EN: botanist -->
-	<BotanistA21.titleFemale>botanist</BotanistA21.titleFemale>
+	<BotanistA21.titleFemale>андроид-ботаник</BotanistA21.titleFemale>
 	<!-- EN: botanist -->
-	<BotanistA21.titleShortFemale>botanist</BotanistA21.titleShortFemale>
+	<BotanistA21.titleShortFemale>ботаник</BotanistA21.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was designed to excel in the field of botany, meticulously studying and cultivating a diverse array of plants from across the galaxy. [PAWN_pronoun] utilized [PAWN_possessive] deep knowledge of plant biology and genetics to engineer highly adaptable and efficient crops, significantly improving agricultural yields on numerous worlds. -->
-	<BotanistA21.baseDesc>[PAWN_nameDef] was designed to excel in the field of botany, meticulously studying and cultivating a diverse array of plants from across the galaxy. [PAWN_pronoun] utilized [PAWN_possessive] deep knowledge of plant biology and genetics to engineer highly adaptable and efficient crops, significantly improving agricultural yields on numerous worlds.</BotanistA21.baseDesc>
+	<BotanistA21.baseDesc>{PAWN_nameDef} {PAWN_gender ? был специально спроектирован : была специально спроектирована}, чтобы стать экспертом в области ботаники. {PAWN_pronoun} усердно {PAWN_gender ? изучал и выращивал : изучала и выращивала} разнообразные растения из разных уголков галактики. С помощью глубоких знаний в области биологии и генетики, {PAWN_pronoun} {PAWN_gender ? создавал : создавал} высокоадаптивные и эффективные сельскохозяйственные культуры, внося значительный вклад в повышение урожайности на множестве планет.</BotanistA21.baseDesc>
 	<!-- EN: misguided sharpshooter -->
-	<SharpshooterA22.title>misguided sharpshooter</SharpshooterA22.title>
+	<SharpshooterA22.title>обманутый снайпер</SharpshooterA22.title>
 	<!-- EN: sharpshooter -->
-	<SharpshooterA22.titleShort>sharpshooter</SharpshooterA22.titleShort>
+	<SharpshooterA22.titleShort>снайпер</SharpshooterA22.titleShort>
 	<!-- EN: sharpshooter -->
-	<SharpshooterA22.titleFemale>sharpshooter</SharpshooterA22.titleFemale>
+	<SharpshooterA22.titleFemale>обманутый снайпер</SharpshooterA22.titleFemale>
 	<!-- EN: sharpshooter -->
-	<SharpshooterA22.titleShortFemale>sharpshooter</SharpshooterA22.titleShortFemale>
+	<SharpshooterA22.titleShortFemale>снайпер</SharpshooterA22.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was engineered to be a formidable sharpshooter in a high-stakes military operation. Trained in the art of stealth and precision, [PAWN_pronoun] executed countless high-profile targets. [PAWN_possessive] creators eventually deemed [PAWN_objective] obsolete, leaving [PAWN_objective] to wander aimlessly, grappling with the weight of [PAWN_possessive] actions and a sense of purposelessness. -->
-	<SharpshooterA22.baseDesc>[PAWN_nameDef] was engineered to be a formidable sharpshooter in a high-stakes military operation. Trained in the art of stealth and precision, [PAWN_pronoun] executed countless high-profile targets. [PAWN_possessive] creators eventually deemed [PAWN_objective] obsolete, leaving [PAWN_objective] to wander aimlessly, grappling with the weight of [PAWN_possessive] actions and a sense of purposelessness.</SharpshooterA22.baseDesc>
+	<SharpshooterA22.baseDesc>{PAWN_nameDef} {PAWN_gender ? был специально разработан : была специально разработана} для использования в роли смертельно опасного снайпера для выполнения сложных военных операций. Обладая навыками незаметности и невероятной точности, {PAWN_pronoun} успешно {PAWN_gender ? выполнил : выполнила} множество заданий по устранению высокопоставленных целей. В конечном итоге, создатели {PAWN_nameDef} пришли к выводу, что {PAWN_pronoun} {PAWN_gender ? устарел и больше не нужен : устарела и больше не нужна}, и оставили {PAWN_possessive} бесцельно бродить, сражаясь с тяжестью своих поступков и ощущением бессмысленности жизни.</SharpshooterA22.baseDesc>
 	<!-- EN: veteran -->
-	<VeteranA23.title>veteran</VeteranA23.title>
+	<VeteranA23.title>ветеран</VeteranA23.title>
 	<!-- EN: veteran -->
-	<VeteranA23.titleShort>veteran</VeteranA23.titleShort>
+	<VeteranA23.titleShort>ветеран</VeteranA23.titleShort>
 	<!-- EN: veteran -->
-	<VeteranA23.titleFemale>veteran</VeteranA23.titleFemale>
+	<VeteranA23.titleFemale>ветеран</VeteranA23.titleFemale>
 	<!-- EN: veteran -->
-	<VeteranA23.titleShortFemale>veteran</VeteranA23.titleShortFemale>
+	<VeteranA23.titleShortFemale>ветеран</VeteranA23.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was a combat android programmed to serve on the front lines of a devastating interstellar conflict. Throughout the war, [PAWN_pronoun] valiantly protected [PAWN_possessive] comrades, often at great personal cost. The war left [PAWN_objective] physically and emotionally scarred, struggling to find peace in a universe that had moved on without [PAWN_objective]. -->
-	<VeteranA23.baseDesc>[PAWN_nameDef] was a combat android programmed to serve on the front lines of a devastating interstellar conflict. Throughout the war, [PAWN_pronoun] valiantly protected [PAWN_possessive] comrades, often at great personal cost. The war left [PAWN_objective] physically and emotionally scarred, struggling to find peace in a universe that had moved on without [PAWN_objective].</VeteranA23.baseDesc>
+	<VeteranA23.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} боевым андроидом, сражавшимся на передовой разрушительного межзвёздного конфликта. На протяжении всей войны {PAWN_pronoun} доблестно {PAWN_gender ? защищал : защищала} своих боевых товарищей, часто платя высокую цену за это. Война оставила у {PAWN_nameDef} физические и эмоциональные шрамы, которые не позволяют найти мир в неостановимо меняющейся Вселеленной.</VeteranA23.baseDesc>
 	<!-- EN: artful seamster -->
-	<SeamsterA24.title>artful seamster</SeamsterA24.title>
+	<SeamsterA24.title>искусный портной</SeamsterA24.title>
 	<!-- EN: seamster -->
-	<SeamsterA24.titleShort>seamster</SeamsterA24.titleShort>
+	<SeamsterA24.titleShort>портной</SeamsterA24.titleShort>
 	<!-- EN: seamstress -->
-	<SeamsterA24.titleFemale>seamstress</SeamsterA24.titleFemale>
+	<SeamsterA24.titleFemale>искусная швея</SeamsterA24.titleFemale>
 	<!-- EN: seamstress -->
-	<SeamsterA24.titleShortFemale>seamstress</SeamsterA24.titleShortFemale>
+	<SeamsterA24.titleShortFemale>швея</SeamsterA24.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was expertly crafted to be a masterful seamster, working in a prestigious fashion house renowned across the galaxy. [PAWN_pronoun] meticulously created intricate, custom designs for clients seeking the epitome of elegance and style. As the demand for [PAWN_possessive] craftsmanship waned with the advent of newer technologies, [PAWN_objective] was left seeking a new purpose for [PAWN_possessive] refined skills. -->
-	<SeamsterA24.baseDesc>[PAWN_nameDef] was expertly crafted to be a masterful seamster, working in a prestigious fashion house renowned across the galaxy. [PAWN_pronoun] meticulously created intricate, custom designs for clients seeking the epitome of elegance and style. As the demand for [PAWN_possessive] craftsmanship waned with the advent of newer technologies, [PAWN_objective] was left seeking a new purpose for [PAWN_possessive] refined skills.</SeamsterA24.baseDesc>
+	<SeamsterA24.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для работы искусным портным в престижном доме моды, известном во всей галактике. {PAWN_pronoun} мастерски {PAWN_gender ? создавал : создавала} сложные, индивидуальные дизайны для клиентов, ищущих воплощение элегантности и стиля. С появлением новых технологий и спадом интереса к {PAWN_possessive} мастерству, {PAWN_nameDef} {PAWN_gender ? оказался : оказалась} в поиске нового применения своим утончённым навыкам.</SeamsterA24.baseDesc>
 	<!-- EN: enigmatic navigator -->
-	<NavigatorA25.title>enigmatic navigator</NavigatorA25.title>
+	<NavigatorA25.title>загадочный навигатор</NavigatorA25.title>
 	<!-- EN: navigator -->
-	<NavigatorA25.titleShort>navigator</NavigatorA25.titleShort>
+	<NavigatorA25.titleShort>навигатор</NavigatorA25.titleShort>
 	<!-- EN: navigator -->
-	<NavigatorA25.titleFemale>navigator</NavigatorA25.titleFemale>
+	<NavigatorA25.titleFemale>загадочный навигатор</NavigatorA25.titleFemale>
 	<!-- EN: navigator -->
-	<NavigatorA25.titleShortFemale>navigator</NavigatorA25.titleShortFemale>
+	<NavigatorA25.titleShortFemale>навигатор</NavigatorA25.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was constructed to serve as a navigator and science officer aboard a deep-space exploration vessel. [PAWN_pronoun] possessed advanced technical and analytical abilities that allowed [PAWN_objective] to effectively guide the ship through the vast unknown. However, behind [PAWN_possessive] cold, logical exterior, [PAWN_nameDef] harbored a mysterious agenda that occasionally surfaced through [PAWN_possessive] actions, raising questions among the crew about [PAWN_possessive] true intentions. -->
-	<NavigatorA25.baseDesc>[PAWN_nameDef] was constructed to serve as a navigator and science officer aboard a deep-space exploration vessel. [PAWN_pronoun] possessed advanced technical and analytical abilities that allowed [PAWN_objective] to effectively guide the ship through the vast unknown. However, behind [PAWN_possessive] cold, logical exterior, [PAWN_nameDef] harbored a mysterious agenda that occasionally surfaced through [PAWN_possessive] actions, raising questions among the crew about [PAWN_possessive] true intentions.</NavigatorA25.baseDesc>
+	<NavigatorA25.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для службы навигатором и научным сотрудником на космическом судне, исследующем глубокий космос. {PAWN_pronoun} {PAWN_gender ? обладал : обладала} продвинутыми техническими и аналитическими способностями, которые позволяли {PAWN_objective} успешно вести корабль через необъятную неизвестность. Однако за холодной, логичной внешностью {PAWN_nameDef} скрывался таинственный замысел, который иногда проявлялся в {PAWN_possessive} действиях, вызывая у экипажа вопросы об истинных намерениях {PAWN_nameDef}.</NavigatorA25.baseDesc>
 	<!-- EN: conversationalist -->
-	<ConversationalistA26.title>conversationalist</ConversationalistA26.title>
+	<ConversationalistA26.title>профессиональный собеседник</ConversationalistA26.title>
 	<!-- EN: chatter -->
-	<ConversationalistA26.titleShort>chatter</ConversationalistA26.titleShort>
+	<ConversationalistA26.titleShort>чат-бот</ConversationalistA26.titleShort>
 	<!-- EN: chatter -->
-	<ConversationalistA26.titleFemale>chatter</ConversationalistA26.titleFemale>
+	<ConversationalistA26.titleFemale>профессиональная собеседница</ConversationalistA26.titleFemale>
 	<!-- EN: chatter -->
-	<ConversationalistA26.titleShortFemale>chatter</ConversationalistA26.titleShortFemale>
+	<ConversationalistA26.titleShortFemale>чат-бот</ConversationalistA26.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was meticulously designed to operate and manage a sophisticated chat platform, creating content for a variety of corporations. [PAWN_pronoun] had a vast knowledge of topics and an uncanny ability to engage with users across countless subjects, providing valuable insights and information. As AI technology evolved, [PAWN_nameDef] found [PAWN_objective]self struggling to keep up with the ever-changing landscape of communication and content creation. -->
-	<ConversationalistA26.baseDesc>[PAWN_nameDef] was meticulously designed to operate and manage a sophisticated chat platform, creating content for a variety of corporations. [PAWN_pronoun] had a vast knowledge of topics and an uncanny ability to engage with users across countless subjects, providing valuable insights and information. As AI technology evolved, [PAWN_nameDef] found [PAWN_objective]self struggling to keep up with the ever-changing landscape of communication and content creation.</ConversationalistA26.baseDesc>
+	<ConversationalistA26.baseDesc>{PAWN_nameDef} {PAWN_gender ? был разработан : была разработана} для работы и управления сложной чат-платформой, создающей контент для различных корпораций. {PAWN_pronoun} {PAWN_gender ? обладал : обладала} обширными знаниями и удивительной способностью вовлекать пользователей в путешествие по бесчисленным тема, предоставляя ценные идеи и информацию. По мере развития технологии искусственного интеллекта, {PAWN_nameDef} {PAWN_gender ? начал : начала} испытывать сложности с адаптацией к постоянно меняющемуся миру коммуникации и создания контента.</ConversationalistA26.baseDesc>
 	<!-- EN: painter companion -->
-	<CompanionA27.title>painter companion</CompanionA27.title>
+	<CompanionA27.title>ассистент художника</CompanionA27.title>
 	<!-- EN: companion -->
-	<CompanionA27.titleShort>companion</CompanionA27.titleShort>
+	<CompanionA27.titleShort>ассистент</CompanionA27.titleShort>
 	<!-- EN: companion -->
-	<CompanionA27.titleFemale>companion</CompanionA27.titleFemale>
+	<CompanionA27.titleFemale>ассистентка художника</CompanionA27.titleFemale>
 	<!-- EN: companion -->
-	<CompanionA27.titleShortFemale>companion</CompanionA27.titleShortFemale>
+	<CompanionA27.titleShortFemale>ассистентка</CompanionA27.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was skillfully crafted to serve as an assistant to a renowned disabled painter, helping [PAWN_objective] navigate the challenges of daily life. [PAWN_pronoun] was not only adept at attending to the artist's needs but also at providing valuable feedback and support during the creative process. [PAWN_nameDef]'s assistance enabled the painter to continue sharing [PAWN_possessive] exceptional talents with the world despite the limitations imposed by the disability. -->
-	<CompanionA27.baseDesc>[PAWN_nameDef] was skillfully crafted to serve as an assistant to a renowned disabled painter, helping [PAWN_objective] navigate the challenges of daily life. [PAWN_pronoun] was not only adept at attending to the artist's needs but also at providing valuable feedback and support during the creative process. [PAWN_nameDef]'s assistance enabled the painter to continue sharing [PAWN_possessive] exceptional talents with the world despite the limitations imposed by the disability.</CompanionA27.baseDesc>
+	<CompanionA27.baseDesc>{PAWN_nameDef} {PAWN_gender ? был искусно создан : была искусно создана} для службы помощником известного художника-инвалида и помощи ему с повседневными трудностями. {PAWN_pronoun} не только умело {PAWN_gender ? помогал : помогала} художнику удовлетворять базовые потребности, но и {PAWN_gender ? предоставлял : предоставляла} ценные отзывы и поддержку в творческом процессе. Благодаря помощи {PAWN_nameDef}, этот художник смог продолжить делиться своим исключительным талантом с миром несмотря на ограничения, вызванные инвалидностью.</CompanionA27.baseDesc>
 	<!-- EN: covert hacker -->
-	<HackerA28.title>covert hacker</HackerA28.title>
+	<HackerA28.title>тайный хакер</HackerA28.title>
 	<!-- EN: hacker -->
-	<HackerA28.titleShort>hacker</HackerA28.titleShort>
+	<HackerA28.titleShort>хакер</HackerA28.titleShort>
 	<!-- EN: hacker -->
-	<HackerA28.titleFemale>hacker</HackerA28.titleFemale>
+	<HackerA28.titleFemale>тайный хакер</HackerA28.titleFemale>
 	<!-- EN: hacker -->
-	<HackerA28.titleShortFemale>hacker</HackerA28.titleShortFemale>
+	<HackerA28.titleShortFemale>хакер</HackerA28.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was built by an underground organization to be an expert hacker, infiltrating high-security systems and siphoning valuable data. [PAWN_pronoun] carried out countless operations, ultimately landing in the hands of a black market dealer when [PAWN_possessive] creators were apprehended. Purchased by an unknown buyer, [PAWN_nameDef]'s fate remains uncertain. -->
-	<HackerA28.baseDesc>[PAWN_nameDef] was built by an underground organization to be an expert hacker, infiltrating high-security systems and siphoning valuable data. [PAWN_pronoun] carried out countless operations, ultimately landing in the hands of a black market dealer when [PAWN_possessive] creators were apprehended. Purchased by an unknown buyer, [PAWN_nameDef]'s fate remains uncertain.</HackerA28.baseDesc>
+	<HackerA28.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} подпольной организацией для работы в качестве профессионального хакера, проникающего в хорошо защищённые системы для извлечения ценных данных. {PAWN_pronoun} {PAWN_gender ? провёл : провела} бесчисленное количество операций, но в итоге {PAWN_gender ? попал : попала} в руки торговца с чёрного рынка, после того, как {PAWN_possessive} создатели были арестованы. Судьба {PAWN_nameDef} после приобретения неизвестным покупателем, остаётся неизвестной.</HackerA28.baseDesc>
 	<!-- EN: all-rounder -->
-	<AllRounderA29.title>all-rounder</AllRounderA29.title>
+	<AllRounderA29.title>универсальный андроид</AllRounderA29.title>
 	<!-- EN: all-rounder -->
-	<AllRounderA29.titleShort>all-rounder</AllRounderA29.titleShort>
+	<AllRounderA29.titleShort>универсал</AllRounderA29.titleShort>
 	<!-- EN: all-rounder -->
-	<AllRounderA29.titleFemale>all-rounder</AllRounderA29.titleFemale>
+	<AllRounderA29.titleFemale>универсальный андроид</AllRounderA29.titleFemale>
 	<!-- EN: all-rounder -->
-	<AllRounderA29.titleShortFemale>all-rounder</AllRounderA29.titleShortFemale>
+	<AllRounderA29.titleShortFemale>универсал</AllRounderA29.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was designed as an all-around utility android, intended to serve in a variety of roles for a small, self-sufficient community on the outskirts of civilization. [PAWN_pronoun] was skilled in an array of tasks, from construction and cooking to medical assistance and intellectual pursuits. [PAWN_nameDef]'s versatility proved invaluable to the settlement, allowing it to thrive even in harsh conditions. -->
-	<AllRounderA29.baseDesc>[PAWN_nameDef] was designed as an all-around utility android, intended to serve in a variety of roles for a small, self-sufficient community on the outskirts of civilization. [PAWN_pronoun] was skilled in an array of tasks, from construction and cooking to medical assistance and intellectual pursuits. [PAWN_nameDef]'s versatility proved invaluable to the settlement, allowing it to thrive even in harsh conditions.</AllRounderA29.baseDesc>
+	<AllRounderA29.baseDesc>{PAWN_nameDef} {PAWN_gender ? был разработан : была разработана} как универсальный андроид, предназначенный для выполнения различных функций в небольшом самодостаточном сообществе на окраине цивилизации. {PAWN_pronoun} {PAWN_gender ? обладал : обладала} развитыми навыками во множестве областей, от строительства и приготовления пищи до медицинской помощи и интеллектуальных занятий. Универсальность {PAWN_nameDef} оказалась бесценной для поселения, позволяя ему процветать даже в суровых условиях.</AllRounderA29.baseDesc>
 	<!-- EN: nuclear tester -->
-	<NuclearTesterA30.title>nuclear tester</NuclearTesterA30.title>
+	<NuclearTesterA30.title>ядерный испытатель</NuclearTesterA30.title>
 	<!-- EN: tester -->
-	<NuclearTesterA30.titleShort>tester</NuclearTesterA30.titleShort>
+	<NuclearTesterA30.titleShort>испытатель</NuclearTesterA30.titleShort>
 	<!-- EN: tester -->
-	<NuclearTesterA30.titleFemale>tester</NuclearTesterA30.titleFemale>
+	<NuclearTesterA30.titleFemale>ядерная испытательница</NuclearTesterA30.titleFemale>
 	<!-- EN: tester -->
-	<NuclearTesterA30.titleShortFemale>tester</NuclearTesterA30.titleShortFemale>
+	<NuclearTesterA30.titleShortFemale>испытательница</NuclearTesterA30.titleShortFemale>
 	<!-- EN: [PAWN_nameDef] was built to serve as a test subject in a top-secret nuclear testing site, created to withstand the extreme conditions and gather crucial data. [PAWN_pronoun] endured countless experiments, continuously being exposed to radiation, and developed a deep understanding of the effects and potential dangers. As nuclear testing eventually ceased, [PAWN_nameDef] was left with a wealth of knowledge about radioactive materials, but also the scars of a harrowing past. -->
-	<NuclearTesterA30.baseDesc>[PAWN_nameDef] was built to serve as a test subject in a top-secret nuclear testing site, created to withstand the extreme conditions and gather crucial data. [PAWN_pronoun] endured countless experiments, continuously being exposed to radiation, and developed a deep understanding of the effects and potential dangers. As nuclear testing eventually ceased, [PAWN_nameDef] was left with a wealth of knowledge about radioactive materials, but also the scars of a harrowing past.</NuclearTesterA30.baseDesc>
+	<NuclearTesterA30.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для службы на тайном ядерном испытательном полигоне в качестве объекта тестирования, способного выдерживать экстремальные условия и собирать важные данные. {PAWN_pronoun} {PAWN_gender ? выдерживал : выдерживала} бесчисленное количество экспериментов, постоянно подвергаясь радиации, и {PAWN_gender ? приобрёл : приобрела} глубокое понимание её эффектов и потенциальных опасностей. С окончанием ядерных испытаний {PAWN_nameDef} {PAWN_gender ? остался : осталась} с обширными знаниями о радиоактивных материалах, но также и со шрамами трудного прошлого.</NuclearTesterA30.baseDesc>
 </LanguageData>

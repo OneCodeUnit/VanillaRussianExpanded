@@ -1,57 +1,56 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- EN: neutro loss -->
-	<VREA_NeutroLoss.label>neutro loss</VREA_NeutroLoss.label>
+	<VREA_NeutroLoss.label>нейтропотеря</VREA_NeutroLoss.label>
 	<!-- EN: A reduction in the normal neutroamine volume. Minor neutro loss has relatively mild effects, but when neutro loss becomes severe, all subsystems become badly impaired and the android loses the ability to move. Extreme neutro loss will never lead to death.
 \nNeutro loss does not naturally recover over time. An android needs to be inserted into a neutrocasket and filled with neutroamine again. -->
-	<VREA_NeutroLoss.description>A reduction in the normal neutroamine volume. Minor neutro loss has relatively mild effects, but when neutro loss becomes severe, all subsystems become badly impaired and the android loses the ability to move. Extreme neutro loss will never lead to death.
-\nNeutro loss does not naturally recover over time. An android needs to be inserted into a neutrocasket and filled with neutroamine again.</VREA_NeutroLoss.description>
+	<VREA_NeutroLoss.description>Снижение объёма нейтроамина. Незначительные потеря нейтроамина имеет относительно слабые последствия, но при резкой потере они становятся тяжёлыми — нарушается работа всех подсистем и андроид теряет способность двигаться. Но даже экстремальная потеря нейтроамина не приведёт к смерти.\n\nНейтропотеря не восстанавливается сама по себе со временем. Андроид должен быть помещён нейтросаркофаг для восполнения уровня нейтроамина.</VREA_NeutroLoss.description>
 	<!-- EN: minor -->
-	<VREA_NeutroLoss.stages.0.label>minor</VREA_NeutroLoss.stages.0.label>
+	<VREA_NeutroLoss.stages.0.label>незначительная</VREA_NeutroLoss.stages.0.label>
 	<!-- EN: minor -->
-	<VREA_NeutroLoss.stages.1.label>minor</VREA_NeutroLoss.stages.1.label>
+	<VREA_NeutroLoss.stages.1.label>лёгкая</VREA_NeutroLoss.stages.1.label>
 	<!-- EN: moderate -->
-	<VREA_NeutroLoss.stages.2.label>moderate</VREA_NeutroLoss.stages.2.label>
+	<VREA_NeutroLoss.stages.2.label>средняя</VREA_NeutroLoss.stages.2.label>
 	<!-- EN: severe -->
-	<VREA_NeutroLoss.stages.3.label>severe</VREA_NeutroLoss.stages.3.label>
+	<VREA_NeutroLoss.stages.3.label>серьёзная</VREA_NeutroLoss.stages.3.label>
 	<!-- EN: extreme -->
-	<VREA_NeutroLoss.stages.4.label>extreme</VREA_NeutroLoss.stages.4.label>
+	<VREA_NeutroLoss.stages.4.label>экстремальная</VREA_NeutroLoss.stages.4.label>
 	<!-- EN: freezing -->
-	<VREA_Freezing.label>freezing</VREA_Freezing.label>
+	<VREA_Freezing.label>замерзание</VREA_Freezing.label>
 	<!-- EN: Dangerously low core android temperature. Unless re-warmed, freezing will get worse and can result in critical biocomponent damage. Recovery is quick once the android is re-warmed. Avoid freezing by equipping warm clothes on your android in cold environments. -->
-	<VREA_Freezing.description>Dangerously low core android temperature. Unless re-warmed, freezing will get worse and can result in critical biocomponent damage. Recovery is quick once the android is re-warmed. Avoid freezing by equipping warm clothes on your android in cold environments.</VREA_Freezing.description>
+	<VREA_Freezing.description>Критически низкая температура ядра андроида. Если не предпринимать меры, то замерзание усилится, что может привести к критическому повреждению биокомпонентов. Восстановление произойдёт быстро, как только андроид окажется в тепле. Избегайте замерзания, одевая андроидов в тёплую одежду, когда на улице холодно.</VREA_Freezing.description>
 	<!-- EN: shivering -->
-	<VREA_Freezing.stages.0.label>shivering</VREA_Freezing.stages.0.label>
+	<VREA_Freezing.stages.0.label>озноб</VREA_Freezing.stages.0.label>
 	<!-- EN: shivering -->
-	<VREA_Freezing.stages.1.label>shivering</VREA_Freezing.stages.1.label>
+	<VREA_Freezing.stages.1.label>озноб</VREA_Freezing.stages.1.label>
 	<!-- EN: minor -->
-	<VREA_Freezing.stages.2.label>minor</VREA_Freezing.stages.2.label>
+	<VREA_Freezing.stages.2.label>лёгкое</VREA_Freezing.stages.2.label>
 	<!-- EN: serious -->
-	<VREA_Freezing.stages.3.label>serious</VREA_Freezing.stages.3.label>
+	<VREA_Freezing.stages.3.label>серьёзное</VREA_Freezing.stages.3.label>
 	<!-- EN: extreme -->
-	<VREA_Freezing.stages.4.label>extreme</VREA_Freezing.stages.4.label>
+	<VREA_Freezing.stages.4.label>экстремальное</VREA_Freezing.stages.4.label>
 	<!-- EN: {0} in the {1} -->
-	<VREA_Freeze.labelNounPretty>{0} in the {1}</VREA_Freeze.labelNounPretty>
+	<VREA_Freeze.labelNounPretty>{0} {1}</VREA_Freeze.labelNounPretty>
 	<!-- EN: freeze -->
-	<VREA_Freeze.label>freeze</VREA_Freeze.label>
+	<VREA_Freeze.label>заморозка</VREA_Freeze.label>
 	<!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
-	<VREA_Freeze.description>Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.</VREA_Freeze.description>
+	<VREA_Freeze.description>Заморозка тканей, вызванная воздействием холода без надлежащей защиты. Обморожение очень болезненно, а обмороженные части тела могут быть утрачены.</VREA_Freeze.description>
 	<!-- EN: Lost to freeze -->
-	<VREA_Freeze.injuryProps.destroyedLabel>Lost to freeze</VREA_Freeze.injuryProps.destroyedLabel>
+	<VREA_Freeze.injuryProps.destroyedLabel>отморожено</VREA_Freeze.injuryProps.destroyedLabel>
 	<!-- EN: overheating -->
-	<VREA_Overheating.label>overheating</VREA_Overheating.label>
+	<VREA_Overheating.label>перегрев</VREA_Overheating.label>
 	<!-- EN: A generalized disruption to android functioning caused by excessive exposure to heat and sun. The android memory becomes scrambled, leading to faster drain of memory space. Recovery is quick once in a cool area, but if heat exposure continues, android will continue to lose memory space which can result in frequent reformatting. -->
-	<VREA_Overheating.description>A generalized disruption to android functioning caused by excessive exposure to heat and sun. The android memory becomes scrambled, leading to faster drain of memory space. Recovery is quick once in a cool area, but if heat exposure continues, android will continue to lose memory space which can result in frequent reformatting.</VREA_Overheating.description>
+	<VREA_Overheating.description>Общее нарушение функционирования андроида, вызванное чрезмерным воздействием тепла и солнца. Нарушается работа памяти андроида, что приводит к более быстрому заполнению доступного объёма. Восстановление произойдёт быстро, как только андроид окажется в прохладном месте. Однако если воздействие тепла продолжится, андроид будет быстро заполнять память, что может привести к частому переформатированию.</VREA_Overheating.description>
 	<!-- EN: initial -->
-	<VREA_Overheating.stages.0.label>initial</VREA_Overheating.stages.0.label>
+	<VREA_Overheating.stages.0.label>начальный</VREA_Overheating.stages.0.label>
 	<!-- EN: minor -->
-	<VREA_Overheating.stages.1.label>minor</VREA_Overheating.stages.1.label>
+	<VREA_Overheating.stages.1.label>незначительный</VREA_Overheating.stages.1.label>
 	<!-- EN: serious -->
-	<VREA_Overheating.stages.2.label>serious</VREA_Overheating.stages.2.label>
+	<VREA_Overheating.stages.2.label>серьёзный</VREA_Overheating.stages.2.label>
 	<!-- EN: extreme -->
-	<VREA_Overheating.stages.3.label>extreme</VREA_Overheating.stages.3.label>
+	<VREA_Overheating.stages.3.label>экстремальный</VREA_Overheating.stages.3.label>
 	<!-- EN: Scanning sickness -->
-	<VREA_ScanningSickness.label>Scanning sickness</VREA_ScanningSickness.label>
+	<VREA_ScanningSickness.label>недомогание от анализатора</VREA_ScanningSickness.label>
 	<!-- EN: This person was scanned by a softscanner to produce an android persona subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
-	<VREA_ScanningSickness.description>This person was scanned by a softscanner to produce an android persona subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage.</VREA_ScanningSickness.description>
+	<VREA_ScanningSickness.description>Временное недомогание, вызванное нахождением в церебральном анализаторе. Его работа вызывает нарушения биохимических процессов в мозге, которые со временем приходят в норму без долгосрочных последствий для здоровья.</VREA_ScanningSickness.description>
 </LanguageData>
