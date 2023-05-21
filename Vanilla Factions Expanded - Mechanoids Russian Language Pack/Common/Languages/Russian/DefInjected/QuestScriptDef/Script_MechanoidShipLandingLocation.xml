@@ -47,7 +47,11 @@
   <!-- EN: All landing beacons have been destroyed. -->
   <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>Все посадочные маяки были уничтожены</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest expired (failed to destroy beacons 1 ): [resolvedQuestName] -->
-  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.label.slateRef>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.label.slateRef>Время задания истекло (не удалось уничтожить 1 маяк): [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.label.slateRef>
   <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
-  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.text.slateRef>Механоиды высадились на поверхность. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.text.slateRef>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.text.slateRef>Механоиды высадились на поверхность. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-0.node.nodes.Letter.text.slateRef> 
+  <!-- EN: Quest expired (failed to destroy beacons 2): [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>Время задания истекло (не удалось уничтожить 2 маяка): [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>
+  <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>Механоиды высадились на поверхность. Время, отведённое для задания [resolvedQuestName], истекло.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>
 </LanguageData>
