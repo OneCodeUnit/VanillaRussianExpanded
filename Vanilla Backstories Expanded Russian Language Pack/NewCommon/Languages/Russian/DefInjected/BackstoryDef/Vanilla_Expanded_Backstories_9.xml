@@ -8,32 +8,37 @@
   <VBE_BloodKnight.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} имперским Рыцарем Крови. Этого титула могли удостоиться лишь те, кто пережил годы жесточайших и, порой, смертельно опасных тренировок. {PAWN_possessive} долгом и смыслом существования было огнём и мечом пресекать любую угрозу для Империи. {PAWN_nameDef} не знает жалости и сострадания и сделает всё, что в {PAWN_possessive} силах, чтобы как можно скорее отправить врага к праотцам.</VBE_BloodKnight.baseDesc>
 
   <!-- EN:Medieval orphan -->
-  <VBE_MedievalOrphan.title>Средневековый сирота</VBE_MedievalOrphan.title>
+  <VBE_MedievalOrphan.title>средневековый сирота</VBE_MedievalOrphan.title>
+  <VBE_MedievalOrphan.titleFemale>средневековая сирота</VBE_MedievalOrphan.titleFemale>
   <!-- EN:Orphan -->
-  <VBE_MedievalOrphan.titleShort>Сирота</VBE_MedievalOrphan.titleShort>
+  <VBE_MedievalOrphan.titleShort>сирота</VBE_MedievalOrphan.titleShort>
   <!-- EN:[PAWN_nameDef] grew up the child of a Medieval footsoldier. Early in [PAWN_possessive] adolescence, [PAWN_possessive] father died on campaign, leaving [PAWN_possessive] family to live on a meagre pension, managing with what little income [PAWN_nameDef] could make by selling simple textiles and growing vegetables. The years of barely scraping by left [PAWN_objective] tough and somewhat aloof. -->
   <VBE_MedievalOrphan.baseDesc>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в семье пехотинца на средневековом мире. Когда {PAWN_nameDef} {PAWN_gender ? был : была} совсем {PAWN_gender ? маленьким : маленькой}, {PAWN_possessive} отец погиб во время военного похода, из-за чего овдовевшая жена с ребёнком были вынуждены жить на скромную пенсию, едва сводя концы с концами, продавая домотканые вещи и выращенные собственными силами овощи. Долгие годы лишений и существования на грани бедности закалили {PAWN_possessive} характер и сделали {PAWN_possessive} несколько {PAWN_gender ? отстранённым : отстранённой}, когда дело касалось других людей.</VBE_MedievalOrphan.baseDesc>
 
   <!-- EN:Strange child -->
-  <VBE_StrangeChild.title>Странный ребёнок</VBE_StrangeChild.title>
+  <VBE_StrangeChild.title>странный ребёнок</VBE_StrangeChild.title>
   <!-- EN:Psychopath -->
-  <VBE_StrangeChild.titleShort>Психопат</VBE_StrangeChild.titleShort>
+  <VBE_StrangeChild.titleShort>психопат</VBE_StrangeChild.titleShort>
+  <VBE_StrangeChild.titleShortFemale>психопатка</VBE_StrangeChild.titleShortFemale>
   <!-- EN:[PAWN_nameDef] enjoyed torturing small animals, and as they got older, other people. This gave them a unique understanding of the body, but stunted their social skills considerably. -->
   <VBE_StrangeChild.baseDesc>{PAWN_nameDef} принадлежит к тем людям, которым нравится причинять боль другим. Ещё будучи ребёнком {PAWN_pronoun} {PAWN_gender ? любил : любила} мучить мелких животных, а, со временем, и людей. Это позволило {PAWN_objective} в деталях изучить строение многих организмов, но в значительной степени повлияло на социальные навыки.</VBE_StrangeChild.baseDesc>
 
   <!-- EN:Traveling locksmith -->
-  <VBE_TravelingLocksmith.title>Странствующий замочник</VBE_TravelingLocksmith.title>
+  <VBE_TravelingLocksmith.title>странствующий замочник</VBE_TravelingLocksmith.title>
+  <VBE_TravelingLocksmith.titleFemale>странствующая замочница</VBE_TravelingLocksmith.titleFemale>
   <!-- EN:Locksmith -->
-  <VBE_TravelingLocksmith.titleShort>Замочник</VBE_TravelingLocksmith.titleShort>
+  <VBE_TravelingLocksmith.titleShort>замочник</VBE_TravelingLocksmith.titleShort>
+  <VBE_TravelingLocksmith.titleShortFemale>замочница</VBE_TravelingLocksmith.titleShortFemale>
   <!-- EN:[PAWN_nameDef] spent most of [PAWN_possessive] days traveling between jobs in various towns and cities as a locksmith. [PAWN_possessive] work ranged from picking locks and installing doors to fixing intricate mechanisms and safecracking. [PAWN_nameDef] enjoyed spending [PAWN_possessive] leisure time making tools and taking in the scenery of life on the road. -->
   <VBE_TravelingLocksmith.baseDesc>{PAWN_nameDef} {PAWN_gender ? провёл : провела} большую часть своей жизни в дороге, от одного заказа к другому. Где-то приходилось устанавливать уже готовые замки, где-то мастерить уникальные и сложные запирающие механизмы, кому-то нужно было открыть дверь или сейф, или отремонтировать какой-либо ещё сложный механизм. {PAWN_nameDef} {PAWN_gender ? обожал : обожала} проводить свой отдых за созданием новых инструментов для работы и любованием пейзажами, которые встречались на {PAWN_objective} в пути.</VBE_TravelingLocksmith.baseDesc>
 
   <!-- EN:Pod child -->
-  <VBE_PodChild.title>Спасённый ребёнок</VBE_PodChild.title>
+  <VBE_PodChild.title>спасённый ребёнок</VBE_PodChild.title>
   <!-- EN:Escapee -->
-  <VBE_PodChild.titleShort>Беженец</VBE_PodChild.titleShort>
+  <VBE_PodChild.titleShort>беженец</VBE_PodChild.titleShort>
+  <VBE_PodChild.titleShortFemale>беженка</VBE_PodChild.titleShortFemale>
   <!-- EN:[PAWN_nameDef]'s home planet was rapidly escalating to nuclear war right after [PAWN_pronoun] was born. [PAWN_nameDef] loaded [PAWN_objective] into a cryptosleep shuttle, and launched [PAWN_objective] to relative safety. After cruising for decades in deep sleep [PAWN_pronoun] was found by an outlander community. [PAWN_nameDef] tries to keep up-beat about life due to the sheer luck that was in play for [PAWN_possessive] survival. -->
-  <VBE_PodChild.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} среди тех немногих, кому посчастливилось оказаться на борту космического челнока, покидавшего стремительно погружавшуюся в глобальную войну планету, начавшуюся вскоре после того, как {PAWN_nameDef} {PAWN_gender ? появился : появилась} на свет. Попав на борт корабля, {PAWN_nameDef} {PAWN_gender ? был погружён: была погружена} в криптосон и, спустя десятилетия скитаний меж звёзд, {PAWN_gender ? оказался : оказалась} в одном из поселений окраинного мира. {PAWN_nameDef} старается смотреть на вещи с долей оптимизма, благодаря судьбу за своё чудесное спасение с родного мира.</VBE_PodChild.baseDesc>
+  <VBE_PodChild.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} среди тех немногих, кому посчастливилось оказаться на борту космического челнока, покидавшего стремительно погружавшуюся в глобальную войну планету, начавшуюся вскоре после того, как {PAWN_nameDef} {PAWN_gender ? появился : появилась} на свет. Попав на борт корабля, {PAWN_nameDef} {PAWN_gender ? был погружён : была погружена} в криптосон и, спустя десятилетия скитаний меж звёзд, {PAWN_gender ? оказался : оказалась} в одном из поселений окраинного мира. {PAWN_nameDef} старается смотреть на вещи с долей оптимизма, благодаря судьбу за своё чудесное спасение с родного мира.</VBE_PodChild.baseDesc>
 
   <!-- EN:Child soldier -->
   <VBE_ChildSoldier.title>Несовершеннолетний солдат</VBE_ChildSoldier.title>
@@ -43,25 +48,31 @@
   <VBE_ChildSoldier.baseDesc>{PAWN_nameDef} {PAWN_gender ? оказался : оказалась} в армии в очень юном возрасте и {PAWN_objective} пришлось очень скоро приспособиться к ужасам войны. Будучи по-своему талантливым бойцом, {PAWN_pronoun} также {PAWN_gender ? смог : смогла} проявить себя в качестве превосходного полевого медика и разведчика, добывавшего сведения во вражеском тылу.</VBE_ChildSoldier.baseDesc>
 
   <!-- EN:Forsaken patriot -->
-  <VBE_ForsakenPatriot.title>Забытый патриот</VBE_ForsakenPatriot.title>
+  <VBE_ForsakenPatriot.title>забытый патриот</VBE_ForsakenPatriot.title>
+  <VBE_ForsakenPatriot.titleFemale>забытая патриотка</VBE_ForsakenPatriot.titleFemale>
   <!-- EN:Patriot -->
-  <VBE_ForsakenPatriot.titleShort>Патриот</VBE_ForsakenPatriot.titleShort>
+  <VBE_ForsakenPatriot.titleShort>патриот</VBE_ForsakenPatriot.titleShort>
+  <VBE_ForsakenPatriot.titleShortFemale>патриотка</VBE_ForsakenPatriot.titleShortFemale>
   <!-- EN:[PAWN_nameDef] served [PAWN_possessive] faction with dedication and conviction as a black operative. One particular operation went foul and [PAWN_pronoun] death was arranged to ease political tensions. However, [PAWN_possessive] loyalty was rewarded with a fake execution and exiled, on the condition [PAWN_pronoun] never return lest [PAWN_pronoun] jeopardise [PAWN_possessive] faction’s machinations. -->
-  <VBE_ForsakenPatriot.baseDesc>{PAWN_nameDef} {PAWN_gender ? был: была} специальным агентом правительственной службы безопасности. Одна из тайных операций обернулась полнейшим фиаско. И для того, чтобы избежать ещё больших проблем, правительство решило пожертвовать своим агентом. В благодарность за долгую и верную службу {PAWN_nameDef} {PAWN_gender ? получил : получила} редкую возможность: {PAWN_possessive} смерть была инсценировкой, а {PAWN_gender ? сам : сама} {PAWN_nameDef} {PAWN_gender ? оказался: оказалась} в изгнании и с жёстким условием — что {PAWN_pronoun} никогда не вернётся, дабы не подставлять своих бывших работодателей.</VBE_ForsakenPatriot.baseDesc>
+  <VBE_ForsakenPatriot.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} специальным агентом правительственной службы безопасности. Одна из тайных операций обернулась полнейшим фиаско. И для того, чтобы избежать ещё больших проблем, правительство решило пожертвовать своим агентом. В благодарность за долгую и верную службу {PAWN_nameDef} {PAWN_gender ? получил : получила} редкую возможность: {PAWN_possessive} смерть была инсценировкой, а {PAWN_gender ? сам : сама} {PAWN_nameDef} {PAWN_gender ? оказался: оказалась} в изгнании и с жёстким условием — что {PAWN_pronoun} никогда не вернётся, дабы не подставлять своих бывших работодателей.</VBE_ForsakenPatriot.baseDesc>
 
   <!-- EN:Bloodline founder -->
-  <VBE_BloodlineFounder.title>Основатель династии</VBE_BloodlineFounder.title>
+  <VBE_BloodlineFounder.title>основатель династии</VBE_BloodlineFounder.title>
+  <VBE_BloodlineFounder.titleFemale>основательница династии</VBE_BloodlineFounder.titleFemale>
   <!-- EN:Founder -->
-  <VBE_BloodlineFounder.titleShort>Основатель</VBE_BloodlineFounder.titleShort>
+  <VBE_BloodlineFounder.titleShort>основатель</VBE_BloodlineFounder.titleShort>
+  <VBE_BloodlineFounder.titleShortFemale>основательница</VBE_BloodlineFounder.titleShortFemale>
   <!-- EN:[PAWN_nameDef] had a very contested origin, with no one willing to admit their lineage to [PAWN_possessive] bloodline. Somehow though, [PAWN_pronoun] was of noble birth, having been raised by those uncaring of such matters. When [PAWN_possessive] rights to high royalty came to light, suddenly everyone wanted to have a slice of the cake. -->
-  <VBE_BloodlineFounder.baseDesc>Далеко не всё ясно с тем, к чьей семье действительно принадлежит {PAWN_nameDef}. Причём никто из {PAWN_possessive} родных не спешит признавать родство с {PAWN_gender ? ним: ней}. По странному стечению обстоятельств, {PAWN_nameDef} {PAWN_gender ? вырос : выросла} в семье, которую не волновало высокое происхождение их ребёнка. Когда же {PAWN_possessive} право на престол стало широко известным фактом, количество {PAWN_possessive} новоиспечённых друзей и родственников резко выросло.</VBE_BloodlineFounder.baseDesc>
+  <VBE_BloodlineFounder.baseDesc>Далеко не всё ясно с тем, к чьей семье действительно принадлежит {PAWN_nameDef}. Причём никто из {PAWN_possessive} родных не спешит признавать родство с {PAWN_gender ? ним : ней}. По странному стечению обстоятельств, {PAWN_nameDef} {PAWN_gender ? вырос : выросла} в семье, которую не волновало высокое происхождение их ребёнка. Когда же {PAWN_possessive} право на престол стало широко известным фактом, количество {PAWN_possessive} новоиспечённых друзей и родственников резко выросло.</VBE_BloodlineFounder.baseDesc>
 
   <!-- EN:Deposed royalty -->
-  <VBE_DeposedRoyalty.title>Дворянин в изгнании</VBE_DeposedRoyalty.title>
+  <VBE_DeposedRoyalty.title>дворянин в изгнании</VBE_DeposedRoyalty.title>
+  <VBE_DeposedRoyalty.titleFemale>дворянка в изгнании</VBE_DeposedRoyalty.titleFemale>
   <!-- EN:Royalty -->
-  <VBE_DeposedRoyalty.titleShort>Дворянин</VBE_DeposedRoyalty.titleShort>
+  <VBE_DeposedRoyalty.titleShort>дворянин</VBE_DeposedRoyalty.titleShort>
+  <VBE_DeposedRoyalty.titleShortFemale>дворянка</VBE_DeposedRoyalty.titleShortFemale>
   <!-- EN:[PAWN_nameDef] founded a region-spanning territory through bloody conflict, refusing to give up [PAWN_possessive] and [PAWN_possessive] people’s right to live without oppression for their gender and beliefs. Eventually, multiple factions joined together to wage war against [PAWN_possessive] nation, culminating in [PAWN_possessive] bodyguards forcing [PAWN_possessive] to flee. While [PAWN_pronoun] did everything [PAWN_pronoun] could to carve a future for [PAWN_possessive] people, [PAWN_possessive] failure to protect them has been [PAWN_possessive] greatest shame. -->
-  <VBE_DeposedRoyalty.baseDesc>{PAWN_nameDef} {PAWN_gender ? выковал: выковала} для своих людей свободу в горниле войны. Люди со всей провинции, во главе которых {PAWN_gender ? стоял : стояла} {PAWN_nameDef}, боролись за своё право жить без постоянного чувства страха и угнетения из-за своих убеждений. Со временем {PAWN_objective} пришлось вести войну на нескольких фронтах и вскоре у н{PAWN_possessive} остались лишь телохранители, которые и заставили {PAWN_possessive} сбежать. И, хотя {PAWN_nameDef} {PAWN_gender ? сделал : сделала} всё, что было в {PAWN_possessive} силах, чтобы обеспечить достойное будущее для своих людей, в народной памяти остался только позор их лидера.</VBE_DeposedRoyalty.baseDesc>
+  <VBE_DeposedRoyalty.baseDesc>{PAWN_nameDef} {PAWN_gender ? выковал : выковала} для своих людей свободу в горниле войны. Люди со всей провинции, во главе которых {PAWN_gender ? стоял : стояла} {PAWN_nameDef}, боролись за своё право жить без постоянного чувства страха и угнетения из-за своих убеждений. Со временем {PAWN_objective} пришлось вести войну на нескольких фронтах и вскоре у н{PAWN_possessive} остались лишь телохранители, которые и заставили {PAWN_possessive} сбежать. И, хотя {PAWN_nameDef} {PAWN_gender ? сделал : сделала} всё, что было в {PAWN_possessive} силах, чтобы обеспечить достойное будущее для своих людей, в народной памяти остался только позор их лидера.</VBE_DeposedRoyalty.baseDesc>
 
   <!-- EN:Bioweapon -->
   <VBE_Bioweapon.title>Биооружие</VBE_Bioweapon.title>
@@ -78,9 +89,11 @@
   <VBE_Catastrophe.baseDesc>Всюду, где бы ни {PAWN_gender ? появился : появилась} {PAWN_nameDef}, неудачи — большие и малые следуют за {PAWN_gender ? ним : ней} по пятам, стоит {PAWN_objective} надолго задержаться в одном месте. Налёты, землетрясения, рои инсектоидов, бомбардировки — всё это лишь малая часть тех ужасов, которые пришлось повидать людям вокруг {PAWN_possessive}. Пройдя через смерти и разрушения, {PAWN_nameDef} {PAWN_gender ? научился : научился} выживать даже там, где {PAWN_possessive} жизнь, казалось, висела на волоске.</VBE_Catastrophe.baseDesc>
 
   <!-- EN:Nature lover -->
-  <VBE_NatureLover.title>Любитель природы</VBE_NatureLover.title>
+  <VBE_NatureLover.title>любитель природы</VBE_NatureLover.title>
+  <VBE_NatureLover.titleFemale>любительница природы</VBE_NatureLover.titleFemale>
   <!-- EN:Naturist -->
-  <VBE_NatureLover.titleShort>Натуралист</VBE_NatureLover.titleShort>
+  <VBE_NatureLover.titleShort>натуралист</VBE_NatureLover.titleShort>
+  <VBE_NatureLover.titleShortFemale>натуралистка</VBE_NatureLover.titleShortFemale>
   <!-- EN:[PAWN_nameDef] has an inherent disdain for being told what [PAWN_pronoun] can and cannot do, and when [PAWN_pronoun] was a child [PAWN_pronoun] was told that [PAWN_pronoun] couldn’t just adopt a random rabbit. With almost righteous indignation, [PAWN_pronoun] took care of [PAWN_possessive] pet rabbit better than [PAWN_possessive] own well-being. -->
   <VBE_NatureLover.baseDesc>{PAWN_nameDef} категорически не приемлет, когда кто-то пытается указывать, что {PAWN_objective} делать. Когда {PAWN_nameDef} {PAWN_gender ? был : была} ребёнком, родители запретили {PAWN_objective} взять себе кролика. Тем не менее, {PAWN_gender ? ведомый : ведомая} теперь уже скорее праведным гневом, {PAWN_nameDef} всё-таки {PAWN_gender ? приютил : приютила} кролика и {PAWN_gender ? заботился : заботилась} о нём больше, чем даже о собственном благополучии.</VBE_NatureLover.baseDesc>
 
@@ -99,9 +112,11 @@
   <VBE_EnlistedTeen.baseDesc>В юном возрасте {PAWN_nameDef} {PAWN_gender ? подделал : подделала} документы, чтобы попасть в армию, желая сделать что-то значимое в жизни и изменить мир. На смену желанию быстро пришло разочарование, когда {PAWN_pronoun} {PAWN_gender ? увидел : увидела}, как {PAWN_possessive} товарищам приходится умирать ради тех, кто эти войны начинает, ради тех, кто наживается на таких людях, как {PAWN_gender ? сам : сама} {PAWN_nameDef}.</VBE_EnlistedTeen.baseDesc>
 
   <!-- EN:Rocker -->
-  <VBE_Rocker.title>Рокер</VBE_Rocker.title>
+  <VBE_Rocker.title>рокер</VBE_Rocker.title>
+  <VBE_Rocker.titleFemale>рокерша</VBE_Rocker.titleFemale>
   <!-- EN:Rocker -->
-  <VBE_Rocker.titleShort>Рокер</VBE_Rocker.titleShort>
+  <VBE_Rocker.titleShort>рокер</VBE_Rocker.titleShort>
+  <VBE_Rocker.titleShortFemale>рокерша</VBE_Rocker.titleShortFemale>
   <!-- EN:[PAWN_nameDef] became disillusioned with [PAWN_possessive] government and the controlling influence of megacorporations. So [PAWN_pronoun] decided to start [PAWN_possessive] own kind of protest by producing underground music. Sometimes these events were simply fronts in order to stage an attack on different locations of interest. -->
   <VBE_Rocker.baseDesc>{PAWN_nameDef} {PAWN_gender ? разочаровался : разочаровалась} в своём правительстве и в том, как мегакорпорации управляют жизнью людей. Так {PAWN_gender ? он начал : она начала} свой протест, создавая андерграундную музыку. Иногда {PAWN_possessive} выступления становились прикрытием для того, чтобы спровоцировать нападение на какой-либо представляющий интерес объект.</VBE_Rocker.baseDesc>
 </LanguageData>

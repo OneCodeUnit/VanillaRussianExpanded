@@ -2,8 +2,10 @@
 <LanguageData>
   <!-- EN:Criminal priest -->
   <VBE_CriminalPriest.title>Порочный священник</VBE_CriminalPriest.title>
+  <VBE_CriminalPriest.titleFemale>Порочная священница</VBE_CriminalPriest.titleFemale>
   <!-- EN:Priest -->
-  <VBE_CriminalPriest.titleShort>Священник</VBE_CriminalPriest.titleShort>
+  <VBE_CriminalPriest.titleShort>священник</VBE_CriminalPriest.titleShort>
+  <VBE_CriminalPriest.titleShortFemale>священница</VBE_CriminalPriest.titleShortFemale>
   <!-- EN:[PAWN_nameDef] somehow wormed their way into a comfortable position among the clergy in a small outlander town on a rimworld.  [PAWN_nameDef] would often exploit this position for personal gain whether it be by blackmailing those who had come to confess, or by directly stealing donations.\n\nDuring this time [PAWN_nameDef] relied heavily on their charisma to avoid conflict.-->
   <VBE_CriminalPriest.baseDesc>{PAWN_nameDef} каким-то образом {PAWN_gender ? занял : заняла} тёплое местечко священника в маленьком городке на одном из окраинных миров. {PAWN_nameDef} часто {PAWN_gender ? злоупотреблял : злоупотребляла} своей позицией для личных нужд, будь то шантаж исповедующихся прихожан или кража пожертвований.\n\nВ бытность служителем церкви {PAWN_nameDef} {PAWN_gender ? полагался : полагалась} на свою харизму, дабы избежать конфликтов.</VBE_CriminalPriest.baseDesc>
 
@@ -15,9 +17,10 @@
   <VBE_IndustrialSoldier.baseDesc>{PAWN_nameDef} {PAWN_gender ? был завербован : была завербована} в армию, принадлежащую одному из промышленных гигантов среднего мира. После окончания тренировки {PAWN_pronoun} {PAWN_gender ? был отправлен : была отправлена} на передовую, где почти сразу {PAWN_gender ? попал : попала} в невероятно жестокое и кровавое сражение, в котором погиб {PAWN_pronoun} взвод. Эти ужасающие события оставили лишь тень от того человека, кем {PAWN_nameDef} {PAWN_gender ? был : была} до этого.</VBE_IndustrialSoldier.baseDesc>
 
   <!-- EN:Landscape painter -->
-  <VBE_LandscapePainter.title>Художник-пейзажист</VBE_LandscapePainter.title>
+  <VBE_LandscapePainter.title>художник-пейзажист</VBE_LandscapePainter.title>
   <!-- EN: Painter -->
-  <VBE_LandscapePainter.titleShort>Художник</VBE_LandscapePainter.titleShort>
+  <VBE_LandscapePainter.titleShort>художник</VBE_LandscapePainter.titleShort>
+  <VBE_LandscapePainter.titleShortFemale>художница</VBE_LandscapePainter.titleShortFemale>
   <!-- EN: [PAWN_nameDef] has dedicated [PAWN_possessive] life to depicting beautiful landscapes. Though [PAWN_possessive] works didn't bring [PAWN_objective] much recognition, it helped to fund the costs of living at a cost of making [PAWN_objective] somewhat reclusive. -->
   <VBE_LandscapePainter.baseDesc>{PAWN_nameDef} {PAWN_gender ? посвятил : посвятила} свою жизнь созданию изображений красивых мест на своих картинах. И хотя {PAWN_possessive} работы не принесли автору ни особой славы, ни признания, они позволяли {PAWN_objective} обеспечивать себе, пусть и несколько отшельническую, жизнь.</VBE_LandscapePainter.baseDesc>
 
@@ -50,18 +53,22 @@
   <VBE_Chemist.baseDesc>{PAWN_nameDef} в совершенстве {PAWN_gender ? овладел : овладела} премудростями химической науки. Оказалось, что познания в химии применимы в очень многих вещах — от модели вулкана на научной выставке, до самодельной взрывчатки. Велика вероятность, что {PAWN_nameDef} знает, как сделать обе эти вещи и ещё что-то больше.</VBE_Chemist.baseDesc>
 
   <!-- EN:Tax collector -->
-  <VBE_TaxCollector.title>Сборщик налогов</VBE_TaxCollector.title>
+  <VBE_TaxCollector.title>сборщик налогов</VBE_TaxCollector.title>
+  <VBE_TaxCollector.titleFemale>сборщица налогов</VBE_TaxCollector.titleFemale>
   <!-- EN:Collector -->
-  <VBE_TaxCollector.titleShort>Сборщик</VBE_TaxCollector.titleShort>
+  <VBE_TaxCollector.titleShort>сборщик</VBE_TaxCollector.titleShort>
+  <VBE_TaxCollector.titleShortFemale>сборщица</VBE_TaxCollector.titleShortFemale>
   <!-- EN:[PAWN_nameDef] has been appointed with the duty of collecting taxes and other payments from various merchants of [PAWN_possessive] settlement. Due to nature of such job [PAWN_objective] was one of the most hated person in town, but the cut from the taxes [PAWN_pronoun] took made the job worth it. -->
-  <VBE_TaxCollector.baseDesc>{PAWN_nameDef} был назначен ответственным за сбор налогов и других платежей с торговцев своего поселения. Из-за специфики такой работы, {PAWN_pronoun} {PAWN_gender ? был : была} самым ненавистным человеком в округе. Впрочем, своя доля от собранных налогов позволяла смириться с этим.</VBE_TaxCollector.baseDesc>
+  <VBE_TaxCollector.baseDesc>{PAWN_nameDef} {PAWN_gender ? был назначен : была назначена} ответственным за сбор налогов и других платежей с торговцев своего поселения. Из-за специфики такой работы, {PAWN_pronoun} {PAWN_gender ? был : была} самым ненавистным человеком в округе. Впрочем, своя доля от собранных налогов позволяла смириться с этим.</VBE_TaxCollector.baseDesc>
 
   <!-- EN:Reluctant cadet -->
-  <VBE_ReluctantCadet.title>Нерадивый курсант</VBE_ReluctantCadet.title>
+  <VBE_ReluctantCadet.title>нерадивая курсант</VBE_ReluctantCadet.title>
+  <VBE_ReluctantCadet.titleFemale>нерадивая курсантка</VBE_ReluctantCadet.titleFemale>
   <!-- EN:Cadet -->
-  <VBE_ReluctantCadet.titleShort>Курсант</VBE_ReluctantCadet.titleShort>
+  <VBE_ReluctantCadet.titleShort>курсант</VBE_ReluctantCadet.titleShort>
+  <VBE_ReluctantCadet.titleShortFemale>курсантка</VBE_ReluctantCadet.titleShortFemale>
   <!-- EN:[PAWN_nameDef] was recruited into an Imperial youth training program. [PAWN_pronoun] lacked any enthusiasm and accordingly failed most of [PAWN_possessive] classes. However, refusing to participate left [PAWN_objective] with plenty of time to talk to [PAWN_possessive] friends and try out different hobbies. -->
-  <VBE_ReluctantCadet.baseDesc>{PAWN_nameDef} вступил в Имперскую патриотическую программу воспитания молодёжи. Но, увы, ввиду отсутствия мотивации успешно {PAWN_gender ? завалил : завалила} все экзамены. Впрочем, {PAWN_possessive} прогулы оставляли для н{PAWN_possessive} предостаточно возможностей для общения со сверстниками и возможность попробовать себя в различных хобби.</VBE_ReluctantCadet.baseDesc>
+  <VBE_ReluctantCadet.baseDesc>{PAWN_nameDef} {PAWN_gender ? вступил : вступила} в Имперскую патриотическую программу воспитания молодёжи. Но, увы, ввиду отсутствия мотивации успешно {PAWN_gender ? завалил : завалила} все экзамены. Впрочем, {PAWN_possessive} прогулы оставляли для н{PAWN_possessive} предостаточно возможностей для общения со сверстниками и возможность попробовать себя в различных хобби.</VBE_ReluctantCadet.baseDesc>
 
   <!-- EN:Orphan thief -->
   <VBE_OrphanThief.title>Вор-сирота</VBE_OrphanThief.title>
@@ -71,16 +78,19 @@
   <VBE_OrphanThief.baseDesc>Ещё до того, как {PAWN_nameDef} {PAWN_gender ? повзрослел : повзрослела}, {PAWN_possessive} родители попали в тюрьму за диссидентские высказывания, направленные против местной власти. Чтобы выжить, {PAWN_objective} приходилось красть еду и вскоре, {PAWN_pronoun} {PAWN_gender ? стал : стала} весьма способным вором. Подобный опыт приучил {PAWN_possessive} полагаться в первую очередь на себя.\n\nХобби {PAWN_nameDef} стало коллекционирование украденных у военной полиции шлемов.</VBE_OrphanThief.baseDesc>
 
   <!-- EN:Private contractor -->
-  <VBE_PrivateContractor.title>Член ЧВК</VBE_PrivateContractor.title>
+  <VBE_PrivateContractor.title>член ЧВК</VBE_PrivateContractor.title>
   <!-- EN:Bought -->
-  <VBE_PrivateContractor.titleShort>Наёмник</VBE_PrivateContractor.titleShort>
+  <VBE_PrivateContractor.titleShort>наёмник</VBE_PrivateContractor.titleShort>
+  <VBE_PrivateContractor.titleShortFemale>наёмница</VBE_PrivateContractor.titleShortFemale>
   <!-- EN:[PAWN_nameDef] always works for the highest bidder. [PAWN_possessive] background in the military made [PAWN_objective] a good shot. Due to being present when many shady deals were made, [PAWN_pronoun] also picked up on some negotiation skills. -->
   <VBE_PrivateContractor.baseDesc>{PAWN_nameDef} работает на того, кто больше платит. Армейское прошлое сделало {PAWN_possessive} первоклассным стрелком, все те сомнительные сделки, которые {PAWN_objective} удалось заключить, позволили {PAWN_objective} отточить свои навыки переговорщика.</VBE_PrivateContractor.baseDesc>
 
   <!-- EN:Mattress tester -->
-  <VBE_MattressTester.title>Испытатель матрасов</VBE_MattressTester.title>
+  <VBE_MattressTester.title>испытатель матрасов</VBE_MattressTester.title>
+  <VBE_MattressTester.titleFemale>испытательница матрасов</VBE_MattressTester.titleFemale>
   <!-- EN:Mattress -->
-  <VBE_MattressTester.titleShort>Испытатель</VBE_MattressTester.titleShort>
+  <VBE_MattressTester.titleShort>испытатель</VBE_MattressTester.titleShort>
+  <VBE_MattressTester.titleShortFemale>испытательница</VBE_MattressTester.titleShortFemale>
   <!-- EN:[PAWN_nameDef] rated various mattress, mostly in their softness and the quality of sleep they provide. Naps on the job were contracually enforced. Some called it "the best job in the world". -->
   <VBE_MattressTester.baseDesc>{PAWN_nameDef} {PAWN_gender ? занимался : занималась} испытанием и оценкой различных матрасов, в основном по критериям их мягкости и качества сна на них. Сон на {PAWN_possessive} работе не просто не осуждается, но является прописанной в контракте обязанностью. Кто-то может посчитать это «лучшей работой в мире».</VBE_MattressTester.baseDesc>
 
@@ -92,9 +102,10 @@
   <VBE_ExtranetTroll.baseDesc>{PAWN_nameDef} {PAWN_gender ? проводил все его : проводила все её} дни распространяя дезинформацию в экстранете по указке нанимателей. В какой-то момент {PAWN_gender ? он исчерпал : она исчерпала} свой ресурс и {PAWN_gender ? был уволен : была уволена}. Не имея иных востребованных навыков, {PAWN_objective} приходилось браться за неквалифицированную работу просто чтобы прокормить себя.</VBE_ExtranetTroll.baseDesc>
 
   <!-- EN:Pirate kid -->
-  <VBE_PirateKid.title>Ребёнок-пират</VBE_PirateKid.title>
+  <VBE_PirateKid.title>ребёнок-пират</VBE_PirateKid.title>
   <!-- EN:Pirate -->
-  <VBE_PirateKid.titleShort>Пират</VBE_PirateKid.titleShort>
+  <VBE_PirateKid.titleShort>пират</VBE_PirateKid.titleShort>
+  <VBE_PirateKid.titleShortFemale>пиратка</VBE_PirateKid.titleShortFemale>
   <!-- EN:[PAWN_nameDef] was kidnapped by pirates at a young age. [PAWN_possessive] small size allowed [PAWN_objective] to fit into tiny maintenance spaces on boarded ships to steal valuable electronic components. Coincidentally,  [PAWN_pronoun] also became quite adept at treating electrical burns. -->
   <VBE_PirateKid.baseDesc>{PAWN_nameDef} {PAWN_gender ? был похищен : была похищена} пиратами в очень юном возрасте. {PAWN_possessive} компактный размер позволял {PAWN_objective} пролезать в любые узкие пространства взятых на абордаж космических кораблей, чтобы украсть оттуда ценные компоненты. По странному совпадению {PAWN_gender ? он отлично научился : она отлично научилась} лечить электрические ожоги.</VBE_PirateKid.baseDesc>
 

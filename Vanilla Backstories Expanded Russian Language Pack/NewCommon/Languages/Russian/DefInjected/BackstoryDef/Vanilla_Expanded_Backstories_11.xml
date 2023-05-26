@@ -5,7 +5,7 @@
   <!-- EN: Survivor -->
   <VBE_OldWarSurvivor.titleShort>Ветеран</VBE_OldWarSurvivor.titleShort>
   <!-- EN: [PAWN_nameDef] has been in one too many conflicts which has taken a toll on [PAWN_possessive] mind, as [PAWN_pronoun] still believes that the war never ended. As such, [PAWN_pronoun] is on a very tight hair-trigger and suffers from intense PTSD. Very few people could go toe-to-toe with [PAWN_objective] and any potential allies would do well to stay out of [PAWN_possessive] way and let [PAWN_objective] do what [PAWN_pronoun] does best: eliminate all threats. -->
-  <VBE_OldWarSurvivor.baseDesc>{PAWN_nameDef} побывал в очень многих вооружённых конфликтах. Пожалуй, даже слишком многих. Это не прошло для н{PAWN_possessive} бесследно - для н{PAWN_possessive} война никогда не заканчивается... и никогда не меняется. {PAWN_nameDef} всегда на взводе и в состоянии борьбы с ПТСР. Большинству не стоит приближаться к н{PAWN_objective}. Условным союзникам лучше отойти в сторону и наблюдать, как {PAWN_pronoun} делает то, что у н{PAWN_possessive} получается лучше всего — убивать врагов.</VBE_OldWarSurvivor.baseDesc>
+  <VBE_OldWarSurvivor.baseDesc>{PAWN_nameDef} {PAWN_gender ? побывал : побывала} в очень многих вооружённых конфликтах. Пожалуй, даже слишком многих. Это не прошло для н{PAWN_possessive} бесследно — для н{PAWN_possessive} война никогда не заканчивается... и никогда не меняется. {PAWN_nameDef} всегда на взводе и в состоянии борьбы с ПТСР. Большинству не стоит приближаться к н{PAWN_objective}. Условным союзникам лучше отойти в сторону и наблюдать, как {PAWN_pronoun} делает то, что у н{PAWN_possessive} получается лучше всего — убивать врагов.</VBE_OldWarSurvivor.baseDesc>
 
   <!-- EN: Privateer captain -->
   <VBE_PrivateerCaptain.title>Капитан корсаров</VBE_PrivateerCaptain.title>
@@ -15,23 +15,28 @@
   <VBE_PrivateerCaptain.baseDesc>{PAWN_nameDef} никогда не {PAWN_gender ? бежал : бежала} от тяжёлой работы, особенно, если она связана с получением солидной прибыли от грабежа других людей. Такова пиратская натура {PAWN_nameDef}: если кто-то собрался кровью и, в том числе буквально, потом крупно заработать, то это будет, чёрт возьми, {PAWN_pronoun}! Зачем работать на дядю, когда его можно ограбить?</VBE_PrivateerCaptain.baseDesc>
 
   <!-- EN: Centurion's deputy -->
-  <VBE_CenturionsDeputy.title>Помощник центуриона</VBE_CenturionsDeputy.title>
+  <VBE_CenturionsDeputy.title>помощник центуриона</VBE_CenturionsDeputy.title>
+  <VBE_CenturionsDeputy.titleFemale>помощница центуриона</VBE_CenturionsDeputy.titleFemale>
   <!-- EN: Optio -->
-  <VBE_CenturionsDeputy.titleShort>Опцион</VBE_CenturionsDeputy.titleShort>
+  <VBE_CenturionsDeputy.titleShort>опцион</VBE_CenturionsDeputy.titleShort>
   <!-- EN: [PAWN_nameDef] served in [PAWN_possessive] government’s military with distinction, eventually rewarded with the rank of optio and would succeed in becoming a centurion once [PAWN_possessive] superior was promoted. In general, [PAWN_pronoun] was quite simple with these new responsibilities as the centurion ran a tight crew and rarely had to deal with insubordination, which resulted in [PAWN_nameDef] missing out on some key disciplinarian training. -->
   <VBE_CenturionsDeputy.baseDesc>{PAWN_nameDef} {PAWN_gender ? служил : служила} в республиканской армии и в какой-то момент {PAWN_gender ? получил : получила} титул опциона. Безупречная служба позволяет надеяться на повышение до центуриона в будущем, когда {PAWN_possessive} центурион оставит должность. Сказать по правде, исполнение обязанностей опциона было не таким сложным, каким могло бы быть из-за грамотного управления центуриона и сплочённости бойцов. Из-за этого {PAWN_nameDef} не {PAWN_gender ? получил : получила} должного опыта в установлении дисциплины.</VBE_CenturionsDeputy.baseDesc>
 
   <!-- EN: Android hunter -->
-  <VBE_AndroidHunter.title>Охотник на андроидов</VBE_AndroidHunter.title>
+  <VBE_AndroidHunter.title>охотник на андроидов</VBE_AndroidHunter.title>
+  <VBE_AndroidHunter.titleFemale>охотница на андроидов</VBE_AndroidHunter.titleFemale>
   <!-- EN: Hunter -->
-  <VBE_AndroidHunter.titleShort>Охотник</VBE_AndroidHunter.titleShort>
+  <VBE_AndroidHunter.titleShort>охотник</VBE_AndroidHunter.titleShort>
+  <VBE_AndroidHunter.titleShortFemale>охотница</VBE_AndroidHunter.titleShortFemale>
   <!-- EN: [PAWN_nameDef] has made quite a handsome living off of hunting the incognito androids, as well as catering to the ultra elite’s more exotic and eclectic tastes in blood sports. Completely supported by the enormous wealth, [PAWN_pronoun] is incredibly proficient at hunting and tracking dangerous prey. -->
   <VBE_AndroidHunter.baseDesc>{PAWN_nameDef} зарабатывает себе на красивую жизнь охотой на скрывающихся андроидов. Помимо этого, {PAWN_pronoun} выполняет особые заказы богатых и влиятельных, участвуя в кровавых видах спорта. {PAWN_pronoun} очень {PAWN_gender ? богат и профессионален : богата и профессиональна} в охоте и выслеживании опаснейшей добычи.</VBE_AndroidHunter.baseDesc>
 
   <!-- EN: Lifelong personal assistant -->
-  <VBE_LifelongPersonalAssistant.title>Персональный ассистент</VBE_LifelongPersonalAssistant.title>
+  <VBE_LifelongPersonalAssistant.title>персональный ассистент</VBE_LifelongPersonalAssistant.title>
+  <VBE_LifelongPersonalAssistant.titleFemale>персональная ассистентка</VBE_LifelongPersonalAssistant.titleFemale>
   <!-- EN: Assistant -->
-  <VBE_LifelongPersonalAssistant.titleShort>Ассистент</VBE_LifelongPersonalAssistant.titleShort>
+  <VBE_LifelongPersonalAssistant.titleShort>ассистент</VBE_LifelongPersonalAssistant.titleShort>
+  <VBE_LifelongPersonalAssistant.titleShortFemale>ассистентка</VBE_LifelongPersonalAssistant.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was formerly employed under a rather demanding clientele who demanded absolute and unwavering commitment. While [PAWN_pronoun] was incapable of disobeying, nevertheless [PAWN_pronoun] resented [PAWN_possessive] situation and indirectly caused [PAWN_possessive] master’s fall from grace. Rather than face [PAWN_possessive] fate in being “decommissioned”, [PAWN_pronoun] used any and all methods available to smuggle [PAWN_objective]self off-station. -->
   <VBE_LifelongPersonalAssistant.baseDesc>{PAWN_nameDef} {PAWN_gender ? работал : работала} на очень требовательного клиента, требовавшего абсолютного и беспрекословного подчинения. Не смотря на то, что {PAWN_pronoun} не {PAWN_gender ? мог : могла} не подчиниться, возникла ситуация, когда {PAWN_pronoun} {PAWN_gender ? воспротивился : воспротивилась} и {PAWN_gender ? навредил : навредила} своему хозяину. За это {PAWN_possessive} ждала «утилизация», но {PAWN_possessive} {PAWN_gender ? сделал : сделала} всё возможное, что организовать свой побег.</VBE_LifelongPersonalAssistant.baseDesc>
 
@@ -50,16 +55,19 @@
   <VBE_NoirDetective.baseDesc>{PAWN_nameDef} занимает специфичное место в местной системе правопорядка. {PAWN_pronoun} не является официальной её частью и не управляется полицией. У н{PAWN_possessive} есть свой собственный офис с неоновый вывеской, личная секретарша, которая не может дозвониться. {PAWN_nameDef} проводит всё своё время в расследованиях, которые находят {PAWN_possessive} повсюду. Из-за этого, а ещё из-за люблю совать свой нос в те дела, от которых все будут стараться держаться подальше, {PAWN_nameDef} часто влипает в неприятности.</VBE_NoirDetective.baseDesc>
 
   <!-- EN: Cosplay enthusiast -->
-  <VBE_CosplayEnthusiast.title>Косплей-энтузиаст</VBE_CosplayEnthusiast.title>
+  <VBE_CosplayEnthusiast.title>косплей-энтузиаст</VBE_CosplayEnthusiast.title>
+  <VBE_CosplayEnthusiast.titleFemale>косплей-энтузиастка</VBE_CosplayEnthusiast.titleFemale>
   <!-- EN: Cosplayer -->
-  <VBE_CosplayEnthusiast.titleShort>Косплеер</VBE_CosplayEnthusiast.titleShort>
+  <VBE_CosplayEnthusiast.titleShort>косплеер</VBE_CosplayEnthusiast.titleShort>
+  <VBE_CosplayEnthusiast.titleShortFemale>косплеерша</VBE_CosplayEnthusiast.titleShortFemale>
   <!-- EN: [PAWN_pronoun] has a particular joy in cosplaying. While that may sound simple enough, a lot of research goes into getting it just right. One can’t just throw anything together, but instead one has to carefully research the material and era- and culture-appropriate pieces that the outfit could be worn in. Particular care is taken into appropriate food, drink and mannerisms. At least, that’s what [PAWN_pronoun] says and it’s hard to argue with results, although that doesn’t stop some people from trying to kill [PAWN_objective] for making other enthusiasts look bad. -->
   <VBE_CosplayEnthusiast.baseDesc>Этот человек наслаждается примеркой на себя разных ролей. Кому-то со стороны это может показаться глупостью, но правильный косплей является результатом долгих и напряжённых исследований. Нельзя просто собрать кусочки образа вместе, надеясь, что он будет работать. Нужно тщательно изучить материал и соответствующие эпохе и культуре детали. Особое внимание стоит уделить соответствующей еде, напиткам и манерам. По крайней мере так утверждает {PAWN_nameDef}. И {PAWN_possessive} словам легко поверить, учитывая впечатляющий результат. Из-за этого иногда даже предпринимаются попытки {PAWN_possessive} убить, ведь на {PAWN_possessive} фоне даже лучшие из лучших порой выглядят дилетантами.</VBE_CosplayEnthusiast.baseDesc>
 
   <!-- EN: Military surplus supplier -->
-  <VBE_MilitarySurplusSupplier.title>Торговец снаряжением</VBE_MilitarySurplusSupplier.title>
+  <VBE_MilitarySurplusSupplier.title>торговец снаряжением</VBE_MilitarySurplusSupplier.title>
+  <VBE_MilitarySurplusSupplier.titleFemale>торговка снаряжением</VBE_MilitarySurplusSupplier.titleFemale>
   <!-- EN: Supplier -->
-  <VBE_MilitarySurplusSupplier.titleShort>Прапор</VBE_MilitarySurplusSupplier.titleShort>
+  <VBE_MilitarySurplusSupplier.titleShort>прапор</VBE_MilitarySurplusSupplier.titleShort>
   <!-- EN: [PAWN_nameDef] is a firm believer in the right to bear arms and the right to arm bears. As such, [PAWN_pronoun] has an established reputation as one of the most prolific exporters in military surplus hardware. Many complain that [PAWN_pronoun] is perpetuating the ever-increasing scale of conflict between pirates and government military. However [PAWN_possessive] counter-argument is that it’s simply good business practice and the military should properly dispose of their own ordinance instead of relying on people like [PAWN_objective]. -->
   <VBE_MilitarySurplusSupplier.baseDesc>{PAWN_nameDef} верит в право каждого владеть оружием, носить и даже одевать его. Это помогло {PAWN_objective} заработать репутацию лучшего поставщика военного снаряжения. Некоторые считают, что {PAWN_pronoun} просто ради денег подливает масла в огонь разгорающегося конфликта между правительством и пиратами. Однако {PAWN_nameDef} легко парирует это тем, что это просто бизнес, а военные могли бы и сами заниматься обеспечением собственных солдат, вместо того, чтобы прибегать к услугами торговцев.</VBE_MilitarySurplusSupplier.baseDesc>
 </LanguageData>

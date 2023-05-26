@@ -8,9 +8,11 @@
   <VBE_Sommelier.baseDesc>{PAWN_nameDef} — опытный винодел,{PAWN_gender ? который выращивал : которая выращивала} собственный виноград и {PAWN_gender ? вкладывал : вкладывала} душу в своё ремесло. Кроме этого, {PAWN_nameDef} гордится своей готовкой, ведь ничто так не подчёркивает хорошее вино, как это делает вкусная еда.</VBE_Sommelier.baseDesc>
 
   <!--EN:Desert survivor -->
-  <VBE_DesertSurvivor.title>Житель пустыни</VBE_DesertSurvivor.title>
+  <VBE_DesertSurvivor.title>житель пустыни</VBE_DesertSurvivor.title>
+  <VBE_DesertSurvivor.titleFemale>жительница пустыни</VBE_DesertSurvivor.titleFemale>
   <!--EN:Survivor -->
-  <VBE_DesertSurvivor.titleShort>Выживший</VBE_DesertSurvivor.titleShort>
+  <VBE_DesertSurvivor.titleShort>выживший</VBE_DesertSurvivor.titleShort>
+  <VBE_DesertSurvivor.titleShortFemale>выжившая</VBE_DesertSurvivor.titleShortFemale>
   <!--EN:[PAWN_nameDef]'s sworn enemies left [PAWN_objective] to die on a hostile desert planet. Despite all the odds, [PAWN_pronoun] survived in such an environment and adapted to it. Due to spending a lot of time living in the wastelands, [PAWN_nameDef] has no knowledge about plants. -->
   <VBE_DesertSurvivor.baseDesc>Когда-то заклятый враг оставил {PAWN_possessive} умирать на пустынной планете, отличавшейся враждебной средой. Несмотря на свои скромные шансы, {PAWN_nameDef}, не только {PAWN_gender ? смог : смогла} выжить, но ещё и {PAWN_gender ? приспособился : приспособилась} к жизни в песках. Что интересно, имея огромный опыт выживания, {PAWN_nameDef} совершенно не разбирается в растениях, так как на пустынных планетах их редко где можно было найти.</VBE_DesertSurvivor.baseDesc>
 
@@ -29,23 +31,29 @@
   <VBE_RodentRancher.baseDesc>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} большую часть своей жизни ухаживая за крысиной фермой, расположенной в одном из густонаселённых городов-ульев урбанизированного мира. Из-за того, что жителям города приходилось жить в условиях ограниченного пространства и сублимированных продуктов, {PAWN_possessive} бизнес-идея была неожиданно успешной, так как {PAWN_nameDef} {PAWN_gender ? предлагал : предлагала} людям то, чего им было трудно достать — натуральное мясо. Так продолжалось, пока {PAWN_possessive} бизнесом не заинтересовалась налоговая инспекция, из-за чего {PAWN_objective} пришлось спешно покинуть планету. Ну, по крайней мере, это было увлекательно.</VBE_RodentRancher.baseDesc>
 
   <!-- EN:Pathological liar -->
-  <VBE_PathologicalLiar.title>Патологический лжец</VBE_PathologicalLiar.title>
+  <VBE_PathologicalLiar.title>патологический лжец</VBE_PathologicalLiar.title>
+  <VBE_PathologicalLiar.titleFemale>патологическая лгунья</VBE_PathologicalLiar.titleFemale>
   <!-- EN:Liar -->
-  <VBE_PathologicalLiar.titleShort>Лжец</VBE_PathologicalLiar.titleShort>
+  <VBE_PathologicalLiar.titleShort>лжец</VBE_PathologicalLiar.titleShort>
+  <VBE_PathologicalLiar.titleShortFemale>лгунья</VBE_PathologicalLiar.titleShortFemale>
   <!-- EN:[PAWN_nameDef] loves to make stuff up and just can’t help [PAWN_objective]self. Particularly, [PAWN_pronoun] enjoys going to any place that serves alcohol and tells the biggest, boldest stories full of twists, turns and drama while being bought round after round. However, once [PAWN_pronoun] gets bored or has decided that [PAWN_pronoun] has drunk enough, almost every story ends on a completely random note with everyone dying in horrific fashion. -->
   <VBE_PathologicalLiar.baseDesc>{PAWN_nameDef} жить не может без того, чтобы не соврать, даже если дело касается мелочей. Больше всего {PAWN_pronoun} любит зайти куда-нибудь, где {PAWN_objective} могут налить выпивки и начать рассказывать залихватскую историю, полную неожиданных поворотов, под щедрое угощение. Ну а когда {PAWN_objective} это надоедает, или {PAWN_objective} кажется, что {PAWN_pronoun} {PAWN_gender ? выпил : выпила} достаточно, почти каждая история заканчивается самым внезапным образом. Как правило — тем, что все её герои погибли ужасной смертью.</VBE_PathologicalLiar.baseDesc>
 
   <!-- EN:Blackguard -->
-  <VBE_Blackguard.title>Меченый</VBE_Blackguard.title>
+  <VBE_Blackguard.title>меченый</VBE_Blackguard.title>
+  <VBE_Blackguard.titleFemale>меченая</VBE_Blackguard.titleFemale>
   <!-- EN:Blackguard -->
-  <VBE_Blackguard.titleShort>Меченый</VBE_Blackguard.titleShort>
+  <VBE_Blackguard.titleShort>меченый</VBE_Blackguard.titleShort>
+  <VBE_Blackguard.titleShortFemale>меченая</VBE_Blackguard.titleShortFemale>
   <!-- EN:[PAWN_nameDef] never really managed well wherever [PAWN_pronoun] went as a general air of misfortune seemingly hovers over [PAWN_possessive] head. As most people are extremely superstitious, every town [PAWN_pronoun] has visited has chased [PAWN_objective] away as disaster always seems to follow while [PAWN_pronoun] survives. So [PAWN_pronoun] got really good at fending for [PAWN_objective]self. -->
   <VBE_Blackguard.baseDesc>{PAWN_nameDef} — не тот человек, про которого можно сказать, что {PAWN_objective} повезло в жизни. Кажется, что где бы {PAWN_pronoun} ни {PAWN_gender ? появился : появилась}, всюду злой рок следует за {PAWN_gender ? ним : ней} по пятам. Ну а поскольку многие люди суеверны, то {PAWN_possessive} часто выгоняли из городов и сёл, зная о том, что {PAWN_nameDef} несёт за собой беду, которая не щадит никого вокруг, кроме н{PAWN_possessive} {PAWN_gender ? самого : самой}. Так, со временем, {PAWN_nameDef} {PAWN_gender ? научился : научилась} заботиться о себе без посторонней помощи.</VBE_Blackguard.baseDesc>
 
   <!-- EN:Bounty hunter -->
-  <VBE_BountyHunter.title>Охотник за головами</VBE_BountyHunter.title>
+  <VBE_BountyHunter.title>охотник за головами</VBE_BountyHunter.title>
+  <VBE_BountyHunter.titleFemale>охотница за головами</VBE_BountyHunter.titleFemale>
   <!-- EN:Hunter -->
-  <VBE_BountyHunter.titleShort>Охотник</VBE_BountyHunter.titleShort>
+  <VBE_BountyHunter.titleShort>охотник</VBE_BountyHunter.titleShort>
+  <VBE_BountyHunter.titleShortFemale>охотница</VBE_BountyHunter.titleShortFemale>
   <!-- EN:[PAWN_nameDef] takes a lot of pride in [PAWN_possessive] to find, capture and deliver individuals who have pissed off the wrong people, primarily if it involves a large cash influx in [PAWN_possessive] direction. It might not be the most glamorous job but it pays for a decent lifestyle and that’s all [PAWN_pronoun] has ever really wanted in life. Plus [PAWN_pronoun] gets to shoot people in the face, which can be surprisingly therapeutic. -->
   <VBE_BountyHunter.baseDesc>{PAWN_nameDef} гордится своим умением выслеживать, захватывать и доставлять тех, кто перешёл дорогу не тем людям. Особенно, когда речь идёт о больших суммах денег, попадающих в {PAWN_possessive} карман. Может работа и не самая приятная, но позволяет мало в чём себя ограничивать, а это всё, чего {PAWN_nameDef} когда-либо {PAWN_gender ? хотел : хотела} получить от жизни. Плюс, {PAWN_pronoun} всегда может выстрелить кому-нибудь в лицо, а это очень здорово помогает поднять настроение.</VBE_BountyHunter.baseDesc>
 
