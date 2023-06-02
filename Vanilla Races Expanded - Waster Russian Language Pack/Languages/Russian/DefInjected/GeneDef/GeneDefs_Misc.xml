@@ -4,6 +4,8 @@
 	<VRE_ToxAbsorption.label>поглощение токсинов</VRE_ToxAbsorption.label>
   <!-- EN: Carriers of this gene have the extraordinary ability to directly absorb toxic gases through their skin. This gene does not have any effect in itself, but it does increase the speed at which pollution is satisfied for various pollution-related genes. -->
 	<VRE_ToxAbsorption.description>Носители этого гена обладают необычайной способностью впитывать ядовитые газы через свою кожу. Сам по себе этот ген не оказывает никакого эффекта, но он увеличивает скорость, с которой удовлетворяются связанным с загрязнением потребности.</VRE_ToxAbsorption.description>
+  <!-- EN: Pawns with this gene benefit from inhaling tox gas. If the pawn is standing on a cell with tox gas, Every 60 ticks (1 sec), pawn with the gene will increase in stimulus severity of any Pollution genes by additional +2.22%. This is separate from the increase based on standing on polluted terrain when having the pollution stimulus mutation / gene. -->
+  <VRE_ToxAbsorption.customEffectDescriptions.0>Персонажи будут получать преимущества от вдыхания токсичного газа. Если персонаж стоит на клетке с таким газом, каждые 60 тиков (1 секунду) увеличат интенсивность эффектов генов загрязнения на +2.22%. Это увеличение не будет влиять на эффекты от нахождения на загрязнённой территории.</VRE_ToxAbsorption.customEffectDescriptions.0>
 
   <!-- EN: nominal cell instability -->
 	<VRE_Instability_Nominal.label>номинальная клеточная нестабильность</VRE_Instability_Nominal.label>
