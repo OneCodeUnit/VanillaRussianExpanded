@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Alpha Genes</li>
+		</mods>
+		<nomatch Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<GeneDef>
+							<defName>VRE_GauntBody</defName>
+							<label>gaunt body</label>
+							<labelShortAdj>gaunt</labelShortAdj>
+							<description>Carriers of this gene have a pinched, gaunt appearance in their body.</description>
+							<biostatCpx>0</biostatCpx>
+							<selectionWeight>0</selectionWeight>
+							<displayOrderInCategory>436</displayOrderInCategory>
+							<iconPath>UI/Icons/Genes/AG_GauntBodyIcon</iconPath>
+							<exclusionTags>
+								<li>AG_Bodies</li>
+								<li>Bodies</li>
+								<li>Body</li>
+							</exclusionTags>
+							<displayCategory>Miscellaneous</displayCategory>
+						
+							<symbolPack>
+								<prefixSymbols>
+									<li>
+										<symbol>gaunt</symbol>
+									</li>
+									<li>
+										<symbol>zomb</symbol>
+									</li>
+									<li>
+										<symbol>dead</symbol>
+									</li>
+									<li>
+										<symbol>bone</symbol>
+									</li>
+								</prefixSymbols>
+							</symbolPack>
+							<graphicData>
+								<fur>VRE_GauntBody</fur>
+								<drawLoc>Tailbone</drawLoc>
+							</graphicData>
+							<modExtensions>
+								<li Class="VanillaGenesExpanded.GeneExtension">
+									<useSkinColorForFur>true</useSkinColorForFur>
+									<furHidesBody>true</furHidesBody>
+								</li>
+							</modExtensions>
+						</GeneDef>
+						<FurDef>
+							<defName>VRE_GauntBody</defName>
+							<noGraphic>true</noGraphic>
+							<bodyTypeGraphicPaths>
+								<Male>Things/Pawn/Humanlike/Bodies/AG_GauntBody/AG_GauntBody_Male</Male>
+								<Female>Things/Pawn/Humanlike/Bodies/AG_GauntBody/AG_GauntBody_Female</Female>
+								<Hulk>Things/Pawn/Humanlike/Bodies/AG_GauntBody/AG_GauntBody_Hulk</Hulk>
+								<Fat>Things/Pawn/Humanlike/Bodies/AG_GauntBody/AG_GauntBody_Fat</Fat>
+								<Thin>Things/Pawn/Humanlike/Bodies/AG_GauntBody/AG_GauntBody_Thin</Thin>
+								<Child>Things/Pawn/Humanlike/Bodies/AG_GauntBody/AG_GauntBody_Thin</Child>
+								<Baby>Things/Pawn/Humanlike/Bodies/AG_GauntBody/AG_GauntBody_Thin</Baby>
+							</bodyTypeGraphicPaths>
+						</FurDef>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/XenotypeDef[defName="Waster"]/genes</xpath>
+					<value>
+						<li>VRE_GauntBody</li>
+					</value>
+				</li>
+			</operations>
+		</nomatch>
+	</Operation>
+</Patch>

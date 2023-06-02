@@ -1,0 +1,22 @@
+﻿<ModMetaData>
+	<name>Vanilla Races Expanded - Waster Russian Language Pack</name>
+	<author>OliveWizard и Amortem</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+  <packageId>OW.RU.Waster</packageId>
+  <description>Перевод на русский язык мода Vanilla Races Expanded - Waster.</description>
+	<modDependencies>
+		<li>
+			<packageId>vanillaracesexpanded.waster</packageId>
+			<displayName>Vanilla Races Expanded - Waster</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2983471725</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+  <loadAfter>
+		<li>vanillaracesexpanded.waster</li>
+	</loadAfter>
+  <incompatibleWith>
+    <li>jicenok.vanillaracesexpanded.waster</li>
+  </incompatibleWith>
+</ModMetaData>

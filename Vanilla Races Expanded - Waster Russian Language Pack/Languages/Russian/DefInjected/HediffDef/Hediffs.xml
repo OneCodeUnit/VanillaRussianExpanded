@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: tox absorption -->
+	<VRE_ToxAbsorption.label>поглощение токсинов</VRE_ToxAbsorption.label>
+  <!-- EN: Directly absorbing toxic gases through the skin, increasing the speed at which pollution is satisfied for various pollution-related genes. -->
+	<VRE_ToxAbsorption.description>Впитывание ядовитых газов через кожу. Увеличивает скорость, с которой удовлетворяются связанные с загрязнением потребности.</VRE_ToxAbsorption.description>
+
+  <!-- EN: pollution regeneration -->
+	<VRE_PollutionRegeneration.label>токсичная регенерация</VRE_PollutionRegeneration.label>
+  <!-- EN: Benefitting from accelerated natural healing in polluted environments. As pollution levels increase, regenerative abilities are boosted, recovering from injuries and restoring vitality more rapidly. -->
+	<VRE_PollutionRegeneration.description>Адаптация к загрязнённой среде, выраженная в усилении способностей организма к восстановлению. По мере увеличения уровня загрязнения окружающей среды, увеличивается скорость восстановления жизненных сил и заживления ран.</VRE_PollutionRegeneration.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionRegeneration.stages.0.label>неактивная</VRE_PollutionRegeneration.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionRegeneration.stages.1.label>слабая</VRE_PollutionRegeneration.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionRegeneration.stages.2.label>умеренная</VRE_PollutionRegeneration.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionRegeneration.stages.3.label>экстремальная</VRE_PollutionRegeneration.stages.3.label>
+
+  <!-- EN: pollution rage -->
+	<VRE_PollutionRage.label>токсичная ярость</VRE_PollutionRage.label>
+  <!-- EN: Experiencing amplified close-quarters damage output in polluted environments. As pollution levels escalate, ferocity and strength intensify, allowing to inflict greater harm on adversaries. -->
+	<VRE_PollutionRage.description>Адаптация к загрязнённой среде, выраженная в усилении способностей к ближнему бою. По мере увеличения уровня загрязнения окружающей среды, увеличивается агрессивность и сила, что позволяется наносить больше повреждений противникам.</VRE_PollutionRage.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionRage.stages.0.label>неактивная</VRE_PollutionRage.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionRage.stages.1.label>слабая</VRE_PollutionRage.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionRage.stages.2.label>умеренная</VRE_PollutionRage.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionRage.stages.3.label>экстремальная</VRE_PollutionRage.stages.3.label>
+
+  <!-- EN: pollution sustenance -->
+	<VRE_PollutionSustenance.label>токсичное питание</VRE_PollutionSustenance.label>
+  <!-- EN: Deriving nutrition from pollution, slowing down hunger rate. -->
+	<VRE_PollutionSustenance.description>Развившееся питание от загрязнения, снижающее аппетит.</VRE_PollutionSustenance.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionSustenance.stages.0.label>неактивное</VRE_PollutionSustenance.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionSustenance.stages.1.label>слабое</VRE_PollutionSustenance.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionSustenance.stages.2.label>умеренное</VRE_PollutionSustenance.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionSustenance.stages.3.label>экстремальное</VRE_PollutionSustenance.stages.3.label>
+
+  <!-- EN: pollution cognition -->
+	<VRE_PollutionCognition.label>токсичное обучение</VRE_PollutionCognition.label>
+  <!-- EN: Exhibiting enhanced focus and learning abilities in polluted environments. As pollution levels rise, capacity to acquire new skills and retain knowledge will expand. -->
+	<VRE_PollutionCognition.description>Адаптация к загрязнённой среде, выраженная в усилении способностей организма к обучению. По мере увеличения уровня загрязнения окружающей среды, улучшается способность изучать навыки и не терять накопленный опыт.</VRE_PollutionCognition.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionCognition.stages.0.label>неактивное</VRE_PollutionCognition.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionCognition.stages.1.label>слабое</VRE_PollutionCognition.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionCognition.stages.2.label>умеренное</VRE_PollutionCognition.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionCognition.stages.3.label>экстремальное</VRE_PollutionCognition.stages.3.label>
+
+  <!-- EN: pollution numbness -->
+	<VRE_PollutionNumbness.label>токсичное обезболивающее</VRE_PollutionNumbness.label>
+  <!-- EN: Exhibiting reduced pain sensations in polluted environments as pollution levels increase. -->
+	<VRE_PollutionNumbness.description>Снижение чувствительности к боли по мере роста уровня загрязнения.</VRE_PollutionNumbness.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionNumbness.stages.0.label>неактивное</VRE_PollutionNumbness.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionNumbness.stages.1.label>слабое</VRE_PollutionNumbness.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionNumbness.stages.2.label>умеренное</VRE_PollutionNumbness.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionNumbness.stages.3.label>экстремальное</VRE_PollutionNumbness.stages.3.label>
+
+  <!-- EN: pollution happiness -->
+	<VRE_PollutionHappiness.label>токсичное счастье</VRE_PollutionHappiness.label>
+  <!-- EN: Enjoying heightened levels of happiness in polluted environments, experiencing increased joy and contentment as pollution levels rise. -->
+	<VRE_PollutionHappiness.description>Адаптация к загрязнённой среде, выраженная в повышении настроения. По мере увеличения уровня загрязнения окружающей среды, усиливается эффект от развлечений и повышается удовлетворённость.</VRE_PollutionHappiness.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionHappiness.stages.0.label>неактивное</VRE_PollutionHappiness.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionHappiness.stages.1.label>слабое</VRE_PollutionHappiness.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionHappiness.stages.2.label>умеренное</VRE_PollutionHappiness.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionHappiness.stages.3.label>экстремальное</VRE_PollutionHappiness.stages.3.label>
+
+  <!-- EN: pollution productivity -->
+	<VRE_PollutionProductivity.label>токсичная продуктивность</VRE_PollutionProductivity.label>
+  <!-- EN: Having work speed significantly improved in polluted environments and completing tasks more efficiently and swiftly as pollution levels increase. -->
+	<VRE_PollutionProductivity.description>Адаптация к загрязнённой среде, выраженная в повышении скорости работы. По мере увеличения уровня загрязнения окружающей среды, дела делаются быстрее и эффективнее.</VRE_PollutionProductivity.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionProductivity.stages.0.label>неактивная</VRE_PollutionProductivity.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionProductivity.stages.1.label>слабая</VRE_PollutionProductivity.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionProductivity.stages.2.label>умеренная</VRE_PollutionProductivity.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionProductivity.stages.3.label>экстремальная</VRE_PollutionProductivity.stages.3.label>
+
+  <!-- EN: pollution psy-sensitivity -->
+	<VRE_PollutionPsySensitivity.label>токсичная психочувствительность</VRE_PollutionPsySensitivity.label>
+  <!-- EN: Experiencing amplified psychic sensitivity in polluted environments, leading to stronger intuition and telepathic skills as pollution levels increase. -->
+	<VRE_PollutionPsySensitivity.description>Адаптация к загрязнённой среде, выраженная в повышении психочувствительности. По мере увеличения уровня загрязнения окружающей среды, интуиция и телепатические навыки становятся сильнее.</VRE_PollutionPsySensitivity.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionPsySensitivity.stages.0.label>неактивная</VRE_PollutionPsySensitivity.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionPsySensitivity.stages.1.label>слабая</VRE_PollutionPsySensitivity.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionPsySensitivity.stages.2.label>умеренная</VRE_PollutionPsySensitivity.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionPsySensitivity.stages.3.label>экстремальная</VRE_PollutionPsySensitivity.stages.3.label>
+
+  <!-- EN: pollution fertility -->
+	<VRE_PollutionFertility.label>токсичная плодовитость</VRE_PollutionFertility.label>
+  <!-- EN: Experiencing a boost to fertility in polluted environments, allowing for increased offspring production and faster lineage expansion in hazardous conditions. -->
+	<VRE_PollutionFertility.description>Адаптация к загрязнённой среде, выраженная в повышении фертильности в опасных условиях. По мере увеличения уровня загрязнения окружающей среды, увеличивается производство потомства и ускоряется расширение родословной.</VRE_PollutionFertility.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionFertility.stages.0.label>неактивная</VRE_PollutionFertility.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionFertility.stages.1.label>слабая</VRE_PollutionFertility.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionFertility.stages.2.label>умеренная</VRE_PollutionFertility.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionFertility.stages.3.label>экстремальная</VRE_PollutionFertility.stages.3.label>
+
+  <!-- EN: pollution accuracy -->
+	<VRE_PollutionAccuracy.label>токсичная точность</VRE_PollutionAccuracy.label>
+  <!-- EN: Getting improved steadiness and precision in polluted environments. -->
+	<VRE_PollutionAccuracy.description>Повышенная устойчивость прицела и точность в загрязнённой местности.</VRE_PollutionAccuracy.description>
+  <!-- EN: inactive -->
+	<VRE_PollutionAccuracy.stages.0.label>неактивная</VRE_PollutionAccuracy.stages.0.label>
+  <!-- EN: minor -->
+	<VRE_PollutionAccuracy.stages.1.label>слабая</VRE_PollutionAccuracy.stages.1.label>
+  <!-- EN: moderate -->
+	<VRE_PollutionAccuracy.stages.2.label>умеренная</VRE_PollutionAccuracy.stages.2.label>
+  <!-- EN: extreme -->
+	<VRE_PollutionAccuracy.stages.3.label>экстремальная</VRE_PollutionAccuracy.stages.3.label>
+</LanguageData>
