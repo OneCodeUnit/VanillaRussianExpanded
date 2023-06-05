@@ -28,7 +28,18 @@
   <Meat_RG_Neutrolope.label>мясо нейтролопы</Meat_RG_Neutrolope.label>
   <Corpse_RG_Neutrolope.label>туша нейтролопы</Corpse_RG_Neutrolope.label>
 
-
+	<!-- EN: hemolope -->
+  <RG_Hemolope.label>гемолопа</RG_Hemolope.label>
+  <!-- EN: Engineered for hemogen production, the hemolope grows a large sac of pure hemogen on its back. Due to genetic instabilities, unlike a boomalope, it has a very short lifespan and is generally weaker. It has rarely been encountered in the wild, as it is only kept my more ethical sanguophages for corporations for hemogen production. It can be milked to produce hemogen. -->
+  <RG_Hemolope.description>Разработанная для производства гемогена, гемолопа отращивает на спине большой мешок с чистым гемогеном. Из-за нестабильности генома, в отличие от бумалопы, она имеет очень короткую продолжительность жизни и очень слаба. Натолкнуться на гемолопу в дикой природе практически невозможно, так как все эти животные хранятся на складах наиболее этичных гемофагов для корпораций, производящих гемоген. Гемолоп можно доить для получения гемогена.</RG_Hemolope.description>
+  <!-- EN: head -->
+  <RG_Hemolope.tools.0.label>голова</RG_Hemolope.tools.0.label>
+  <!-- EN: left hoof -->
+  <RG_Hemolope.tools.1.label>левое копыто</RG_Hemolope.tools.1.label>
+  <!-- EN: right hoof -->
+  <RG_Hemolope.tools.2.label>правое копыто</RG_Hemolope.tools.2.label>
+  <Meat_RG_Hemolope.label>мясо гемолопы</Meat_RG_Hemolope.label>
+  <Corpse_RG_Hemolope.label>туша гемолопы</Corpse_RG_Hemolope.label>
 
   <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>телёнок муффало</Muffalo.lifeStages.muffalo_calf.label>
@@ -40,5 +51,6 @@
   <!-- EN: boomalope calves -->
   <Boomalope.lifeStages.boomalope_calf.labelPlural>телята бумалопы</Boomalope.lifeStages.boomalope_calf.labelPlural>
 
+  <!-- EN: grizzly cub -->
   <Bear_Grizzly.lifeStages.grizzly_cub.label>медвежонок гризли</Bear_Grizzly.lifeStages.grizzly_cub.label>
 </LanguageData>
