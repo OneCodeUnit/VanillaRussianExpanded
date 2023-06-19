@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: blood focus -->
+	<VPEH_Bloodfocus.label>кровавая концентрация</VPEH_Bloodfocus.label>
+	<!-- EN: By forcibly manipulating the body’s stores of hemogen, the caster can enter a state of rapid meditation, regaining psyfocus at the cost of hemogen. -->
+	<VPEH_Bloodfocus.description>Путём принудительного манипулирования запасами гемогена в организме, войти в состояние быстрой медитации для восстановления пси-концентрации за счёт гемогена.</VPEH_Bloodfocus.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_Bloodfocus.jobReportString>Использует способность: {0}</VPEH_Bloodfocus.jobReportString>
+	<!-- EN: blood focus -->
+	<VPEH_Bloodfocus.verbProperties.label>кровавая концентрация</VPEH_Bloodfocus.verbProperties.label>
+	
+	<!-- EN: blood shard -->
+	<VPEH_BloodShard.label>осколок крови</VPEH_BloodShard.label>
+	<!-- EN: Launch a small amount of excess blood as a lethal projectile by forcibly expelling hemogen that has been solidified into a crystalline structure. -->
+	<VPEH_BloodShard.description>Запустить смертоносный снаряд, состоящий из гемогена, затвердевшего до состояния кристалла.</VPEH_BloodShard.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_BloodShard.jobReportString>Использует способность: {0}</VPEH_BloodShard.jobReportString>
+	<!-- EN: blood shard -->
+	<VPEH_BloodShard.verbProperties.label>осколок крови</VPEH_BloodShard.verbProperties.label>
+	
+	<!-- EN: blood spew -->
+	<VPEH_BloodSpew.label>плевок кровью</VPEH_BloodSpew.label>
+	<!-- EN: Spew forth a fine mist of hemogen towards the targets, coating them in sticky, nauseating blood. Those affected are overcome with intense vomiting. -->
+	<VPEH_BloodSpew.description>Распылить в сторону цели особые частицы, образующие кровавый туман, который покрывает всех липкой, тошнотворной кровью. Его воздействие вызывает сильную рвоту.</VPEH_BloodSpew.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_BloodSpew.jobReportString>Использует способность: {0}</VPEH_BloodSpew.jobReportString>
+	<!-- EN: blood spew -->
+	<VPEH_BloodSpew.verbProperties.label>плевок кровью</VPEH_BloodSpew.verbProperties.label>
+	
+	<!-- EN: close wounds -->
+	<VPEH_CloseWounds.label>закрывание ран</VPEH_CloseWounds.label>
+	<!-- EN: Forcibly move excess blood to stop any ongoing bleeding. However, it does not actually heal. -->
+	<VPEH_CloseWounds.description>Принудительно переместить излишки крови для прекращения кровотечения. Однако это не заживит сами раны.</VPEH_CloseWounds.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_CloseWounds.jobReportString>Использует способность: {0}</VPEH_CloseWounds.jobReportString>
+	<!-- EN: close wounds -->
+	<VPEH_CloseWounds.verbProperties.label>закрывание ран</VPEH_CloseWounds.verbProperties.label>
+	
+	<!-- EN: hemodrain -->
+	<VPEH_Hemodrain.label>вытягивание гемогена</VPEH_Hemodrain.label>
+	<!-- EN: Forcibly extracts the blood of the target at a distance and converts it to hemogen. Practical but inefficient. -->
+	<VPEH_Hemodrain.description>Принудительно извлечь кровь из цели на расстоянии и превратить её в гемоген. Удобно, но неэффективно.</VPEH_Hemodrain.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_Hemodrain.jobReportString>Использует способность: {0}</VPEH_Hemodrain.jobReportString>
+	<!-- EN: hemodrain -->
+	<VPEH_Hemodrain.verbProperties.label>вытягивание гемогена</VPEH_Hemodrain.verbProperties.label>
+	
+	<!-- EN: corpse explosion -->
+	<VPEH_CorpseExplosion.label>подрыв трупа</VPEH_CorpseExplosion.label>
+	<!-- EN: Uses the caster’s hemogen to overstimulate the blood of a corpse, causing an explosion which deals no damage, but covers everyone in thick bloodmist. Those affected are overcome with intense vomiting. -->
+	<VPEH_CorpseExplosion.description>Использовать гемоген псионика для стимуляции крови выбранного трупа. Это приводит к взрыву, который не наносит урона, но покрывает всех поблизости кровавым туманом. Его воздействие вызывает сильную рвоту.</VPEH_CorpseExplosion.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_CorpseExplosion.jobReportString>Использует способность: {0}</VPEH_CorpseExplosion.jobReportString>
+	<!-- EN: corpse explosion -->
+	<VPEH_CorpseExplosion.verbProperties.label>подрыв трупа</VPEH_CorpseExplosion.verbProperties.label>
+	
+	<!-- EN: word of offering -->
+	<VPEH_WordofOffering.label>слово подношения</VPEH_WordofOffering.label>
+	<!-- EN: Convinces the target to offer their blood to the caster. Can be used on visitors or even during combat. -->
+	<VPEH_WordofOffering.description>Убедить цель пожертвовать свою кровь псионику. Может быть использовано как на гостях, так и во время боя.</VPEH_WordofOffering.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_WordofOffering.jobReportString>Использует способность: {0}</VPEH_WordofOffering.jobReportString>
+	<!-- EN: word of offering -->
+	<VPEH_WordofOffering.verbProperties.label>слово подношения</VPEH_WordofOffering.verbProperties.label>
+	
+	<!-- EN: sanguine spear -->
+	<VPEH_SanguineSpear.label>гемокопьё</VPEH_SanguineSpear.label>
+	<!-- EN: Launches a pressurized spear of blood over to the target, damaging the target and creating a bloodmist explosion. Damage depends on the caster's hemogen level. -->
+	<VPEH_SanguineSpear.description>Запустить в цель кровавое копьё, состоящее из спрессованного гемогена. Гемокопьё не только наносит урон, но и вызывает взрыв, застилающий область кровавым туманом. Сила урона зависит от текущего уровня гемогена псионика.</VPEH_SanguineSpear.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_SanguineSpear.jobReportString>Использует способность: {0}</VPEH_SanguineSpear.jobReportString>
+	<!-- EN: sanguine spear -->
+	<VPEH_SanguineSpear.verbProperties.label>гемокопьё</VPEH_SanguineSpear.verbProperties.label>
+	
+	<!-- EN: blood rite -->
+	<VPEH_BloodRite.label>кровавый ритуал</VPEH_BloodRite.label>
+	<!-- EN: Creates a mote of hemogen that follows the caster, acting as an amplifier for psychic sensitivity based on the caster’s current hemogen level. -->
+	<VPEH_BloodRite.description>Создаёт частицу гемогена, следующую за псиоником и усиливающую его психочувствительность в зависимости от текущего уровня гемогена.</VPEH_BloodRite.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_BloodRite.jobReportString>Использует способность: {0}</VPEH_BloodRite.jobReportString>
+	<!-- EN: blood rite -->
+	<VPEH_BloodRite.verbProperties.label>кровавый ритуал</VPEH_BloodRite.verbProperties.label>
+	
+	<!-- EN: bloodstorm -->
+	<VPEH_Bloodstorm.label>кровавый ливень</VPEH_Bloodstorm.label>
+	<!-- EN: Creates a downpour of blood, inflicting non-hemogenic individuals with bloodmist, causing intense vomiting. Sanguophages instead regenerate hemogen, and don’t gain psychic heat when casting any psycasts under the effects of bloodstorm. -->
+	<VPEH_Bloodstorm.description>Вызывает сильный дождь из крови, который окутывает негемогеничных людей кровавым туманом, вызывая сильную рвоту. Гемофаги, в свою очередь, восстанавливают уровень гемогена и не накапливают нейроперегрев при использовании пси-способностей во время кровавого ливня.</VPEH_Bloodstorm.description>
+	<!-- EN: Using ability: {0} -->
+	<VPEH_Bloodstorm.jobReportString>Использует способность: {0}</VPEH_Bloodstorm.jobReportString>
+	<!-- EN: bloodstorm -->
+	<VPEH_Bloodstorm.verbProperties.label>кровавый ливень</VPEH_Bloodstorm.verbProperties.label>
+	
+	<!-- EN: If you use bloodstorm, everyone in this local area will be affected by it, and you will lose goodwill with every non-hostile faction that currently is visiting this place.\n\nBloodstorm takes 10 seconds to cast, and cannot be interrupted. When complete, the rain of blood will fall everywhere, affecting both normal people and sanguophages.\n\nEveryone on the map except Sanguophages will be affected by blood mist, causing intense vomiting. Sanguophages will not generate Psychic heat when casting psycasts of any kind.\n\nDo you really want to cast bloodstorm? -->
+	<VPEH_Bloodstorm.modExtensions.3.message>Если вы вызовете кровавый ливень, его воздействие затронет всех, кто находится в данной области. Кроме того, это приведёт к ухудшению репутации у каждой невраждебной фракции, представители которой сейчас находятся в этом месте.\n\nВызов кровавого ливня требует 10 секунд подготовительной медитации и не может быть прерван. После этого начнётся дождь из крови, который повлияет как на обычных людей, так и на гемофагов.\n\nВсе на карте, кроме гемофагов, подвергнутся воздействию кровавого тумана, вызывающего сильную рвоту. А гемофаги не будут накапливать нейроперегрев при использовании пси-способностей.\n\nВы действительно хотите вызвать кровавый ливень?</VPEH_Bloodstorm.modExtensions.3.message>
+</LanguageData>
