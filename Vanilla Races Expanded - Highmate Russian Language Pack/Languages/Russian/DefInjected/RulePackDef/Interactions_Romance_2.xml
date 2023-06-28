@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: 
+		sent->[RECIPIENT_nameDef] thanked [INITIATOR_nameDef].
+		sent->[RECIPIENT_nameDef] laughed playfully with [INITIATOR_nameDef].
+		sent->[RECIPIENT_nameDef] became aroused and thanked [INITIATOR_nameDef] for the compliment.
+	-->
+	<VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] благодарит [INITIATOR_nameDef].</li>
+		<li>sent->[RECIPIENT_nameDef] игриво смеётся вместе с [INITIATOR_nameDef].</li>
+		<li>sent->[RECIPIENT_nameDef] приходит от этого в восторг, и благодарит [INITIATOR_nameDef] за комплимент.</li>
+	</VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+	<!-- EN: 
+		sent->[RECIPIENT_nameDef] ignored the compliment.
+		sent->[RECIPIENT_nameDef] ignored the flirt.
+		sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.
+		sent->[RECIPIENT_nameDef] turned away.
+		sent->[RECIPIENT_nameDef] gave a minimal response.
+		sent->[RECIPIENT_nameDef] did not respond.
+		sent->[RECIPIENT_nameDef] scolded [INITIATOR_objective].
+	-->
+	<VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] игнорирует [INITIATOR_possessive] комплимент.</li>
+		<li>sent->[RECIPIENT_nameDef] игнорирует [INITIATOR_possessive] заигрывания.</li>
+		<li>sent->[RECIPIENT_nameDef] смотрит на н[INITIATOR_possessive], как на пустое место.</li>
+		<li>sent->[RECIPIENT_nameDef] демонстративно поворачивается к н[INITIATOR_objective] спиной.</li>
+		<li>sent->[RECIPIENT_nameDef] не реагирует.</li>
+		<li>sent->[RECIPIENT_nameDef] не отвечает [INITIATOR_objective] взаимностью.</li>
+		<li>sent->[RECIPIENT_nameDef] отшивает [INITIATOR_possessive].</li>
+	</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+</LanguageData>

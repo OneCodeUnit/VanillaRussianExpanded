@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Races Expanded - Highmate Russian Language Pack</name>
+	<author>Mewn Goddess</author>
+	<packageId>Mewn.RU.vanillaracesexpanded.highmate</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+      <packageId>vanillaracesexpanded.highmate</packageId>
+      <displayName>Vanilla Races Expanded - Highmate</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2995385834</steamWorkshopUrl>
+    </li>
+    </modDependencies>
+	<loadAfter>
+		<li>vanillaracesexpanded.highmate</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Vanilla Races Expanded - Highmate.</description>
+</ModMetaData>
