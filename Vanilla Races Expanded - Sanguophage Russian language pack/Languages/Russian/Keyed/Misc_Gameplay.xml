@@ -34,4 +34,10 @@
   <VRE_CommandDraincasketEjectDesc>Извлечь персонажа, находящегося внутри гемосборного саркофага. Это прервёт выкачивание гемогена и вызовет головокружение из-за кровопотери.</VRE_CommandDraincasketEjectDesc>
   <!-- EN: Can't eject occupant, since draincasket is empty-->
   <VRE_CommandDraincasketEjectFailEmpty>Невозможно извлечь, так как гемосборный саркофаг пуст.</VRE_CommandDraincasketEjectFailEmpty>
+  <!-- EN: Draincasket hemogen production (per day)-->
+  <VRE_DraincasketAmount>Количество гемогена, производимого гемосборным саркофагом в день</VRE_DraincasketAmount>
+  <!-- EN: Sets the amount of hemogen packs the draincaskets will produce per day. By default it is 2 hemogen packs per day.-->
+	<VRE_DraincasketAmountTooltip>Устанавливает количество пакетов гемогена, которое произведёт гемосборный саркофаг за день. По умолчанию оно равняется 2.</VRE_DraincasketAmountTooltip>
+  <!-- EN: Reset-->
+	<VRE_Reset>Сбросить</VRE_Reset>
 </LanguageData>
