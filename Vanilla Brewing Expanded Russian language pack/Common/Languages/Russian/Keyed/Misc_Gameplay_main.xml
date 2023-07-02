@@ -89,4 +89,20 @@
   <VBE_CiderCurrentlyRefrigerated>Этот неферментированный сидр охлаждён и не превратится в сидр так быстро, как мог бы (созреет через {0})</VBE_CiderCurrentlyRefrigerated>
   <!-- EN: This unfermented cider is maturing into cider correctly (matures in {0}) -->
   <VBE_CiderMaturingCorrectly>Этот неферментированный сидр превращается в сидр в подходящих условиях (созреет через {0})</VBE_CiderMaturingCorrectly>
+  
+	<!-- EN: Unforbid dropped fruit -->
+  <VBE_UnforbidDroppedFruit>Падение плодов на землю</VBE_UnforbidDroppedFruit>
+
+	<!-- EN: Never -->
+	<VBE_Never>Никогда</VBE_Never>  
+	<!-- EN: Never unforbid automatically dropped fruit -->
+	<VBE_NeverDesc>Плоды нигде сами не падают на землю</VBE_NeverDesc>  
+	<!-- EN: Home area -->
+	<VBE_HomeArea>Домашняя зона</VBE_HomeArea>  
+	<!-- EN: Only unforbid automatically dropped fruit if the tree is in the home area -->
+	<VBE_HomeAreaDesc>Плоды падают сами только с деревьев в домашней зоне.</VBE_HomeAreaDesc>  
+	<!-- EN: Always -->
+	<VBE_Always>Всегда</VBE_Always>  
+	<!-- EN: Always unforbid automatically dropped fruit -->
+	<VBE_AlwaysDesc>Плоды везде сами не падают на землю</VBE_AlwaysDesc>
 </LanguageData>
