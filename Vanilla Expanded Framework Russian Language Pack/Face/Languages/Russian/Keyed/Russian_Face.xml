@@ -56,4 +56,41 @@
   <NL_FA_Remove_Eye_Hediff_Graphic>Удалить всё, что перекрывает глаза</NL_FA_Remove_Eye_Hediff_Graphic>
   <!-- EN: When enabled, nothing will be displayed when blindness, eye sensors or Alcotech eyes are worn. -->
   <NL_FA_Remove_Eye_Hediff_Graphic_Hint>При включении, у персонажей не будут отображаться эффекты слепоты, зрительных сенсоров и архоглаз.</NL_FA_Remove_Eye_Hediff_Graphic_Hint>
+
+  <!-- EN: Fix beard misalignment issues (experimental) -->
+  <NL_FA_Ignore_beard_mesh_and_offset>Исправление проблем с положением бороды (экспериментальное)</NL_FA_Ignore_beard_mesh_and_offset>
+  <!-- EN: When enabled, ignore beard mesh size and offset params -->
+  <NL_FA_Ignore_beard_mesh_and_offset_Hint>Если включено, параметры размера сетки и смещения бороды игнорируются</NL_FA_Ignore_beard_mesh_and_offset_Hint>
+
+  <!-- EN: Fix hair misalignment issues (experimental) -->
+  <NL_FA_Ignore_hair_mesh>Исправление проблем с положением волос (экспериментальное)</NL_FA_Ignore_hair_mesh>
+  <!-- EN: When enabled, ignore hair mesh size params -->
+  <NL_FA_Ignore_hair_mesh_Hint>Если включено, параметры размера сетки волос игнорируются</NL_FA_Ignore_hair_mesh_Hint>
+
+  <!-- EN: Odd eye probability:{0} % -->
+  <NL_FA_Odd_Eye_Probability>Вероятность необычного цвета глаза:{0} %</NL_FA_Odd_Eye_Probability>
+  <!-- EN: Enable MainTab -->
+  <NL_FA_Enable_MainTab>Добавить вкладку</NL_FA_Enable_MainTab>
+  <!-- EN: If disabled, the UI on the main tab will be hidden -->
+  <NL_FA_Enable_MainTab_Hint>Если отключено, вкладка интерфейса будет спрятана</NL_FA_Enable_MainTab_Hint>
+
+  <!-- EN: Head -->
+  <NL_FA_UI_Head_Label>Голова</NL_FA_UI_Head_Label>
+  <!-- EN: Brow -->
+  <NL_FA_UI_Brow_Label>Брови</NL_FA_UI_Brow_Label>
+  <!-- EN: Lid -->
+  <NL_FA_UI_Lid_Label>Веки</NL_FA_UI_Lid_Label>
+  <!-- EN: Eye -->
+  <NL_FA_UI_Eyeball_Label>Глаза</NL_FA_UI_Eyeball_Label>
+  <!-- EN: Mouth -->
+  <NL_FA_UI_Mouth_Label>Рот</NL_FA_UI_Mouth_Label>
+  <!-- EN: Skin -->
+  <NL_FA_UI_Skin_Label>Кожа</NL_FA_UI_Skin_Label>
+
+  <!-- EN: Animation Control -->
+  <NL_FA_UI_AnimationController_Label>Управление анимациями</NL_FA_UI_AnimationController_Label>
+  <!-- EN: Supported-->
+  <NL_FA_UI_Support_Label>Поддерживается</NL_FA_UI_Support_Label>
+  <!-- EN: Not Supported -->
+  <NL_FA_UI_Not_Support_Label>Не поддерживается</NL_FA_UI_Not_Support_Label>
 </LanguageData>
