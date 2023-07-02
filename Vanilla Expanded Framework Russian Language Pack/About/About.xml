@@ -10,7 +10,7 @@
   <packageId>OW.RU.CORE</packageId>
   <description>Базовый перевод для модов серии Vanilla Expanded. Рекомендуется устанавливать при использовании моих переводов. Включает необходимые строки, используемые во многих модах. Помимо этого, включает в себя:
 перевод на русский язык библиотеки Vanilla Expanded Framework
-настроек из Vanilla Textures Expanded, Facial Animation, Better ground-penetrating scanner, Royalty и Ideology Patches
+настроек из Vanilla Textures Expanded, Facial Animation, Better ground-penetrating scanner, Colored deep resources, Royalty и Ideology Patches
 А также модов:
 Vanilla Backgrounds Expanded
 Vanilla Chemfuel Expanded
@@ -47,6 +47,7 @@ Vanilla Nutrient Paste Expanded.
 	  <li>VanillaExpanded.VNutrientE</li>
     <li>OW.RU.Brewing</li>
     <li>OW.RU.Cooking</li>
+    <li>kikohi.ColoredDeepResources</li>
   </loadAfter>
   <incompatibleWith>
     <li>Inoshishi3.VEF.RusPatch</li>
