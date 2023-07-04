@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Nephilim Xenotype Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.Nephilim</packageId>
+  <description>Перевод на русский язык мода Nephilim Xenotype</description>
+  <modDependencies>
+    <li>
+      <packageId>Sov.ElseudPathf</packageId>
+      <displayName>Nephilim Xenotype</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2997308585</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Sov.ElseudPathf</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>jicenok.Sov.ElseudPathf</li>
+  </incompatibleWith>
+</ModMetaData>
