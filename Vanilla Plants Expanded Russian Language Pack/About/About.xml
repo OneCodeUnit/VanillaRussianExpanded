@@ -8,7 +8,7 @@
     <li>1.4</li>
    </supportedVersions>
   <packageId>OW.RU.Plants</packageId>
-  <description>Перевод на русский язык мода Vanilla Plants Expanded, модулей Succulents и More Plants, а также модов Auto Plow Patch и Farmland.</description>
+  <description>Перевод на русский язык мода Vanilla Plants Expanded, модулей Succulents, More Plants и Mushrooms, а также модов Auto Plow Patch и Farmland.</description>
   <modDependencies>
     <li>
       <packageId>VanillaExpanded.VPlantsE</packageId>
@@ -26,5 +26,6 @@
     <li>VanillaExpanded.VCookE</li>
     <li>OskarPotocki.VFE.Vikings</li>
     <li>VanillaExpanded.VCookESushi</li>
+    <li>VanillaExpanded.VPlantsEMushrooms</li>
   </loadAfter>
 </ModMetaData>
