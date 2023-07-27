@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+  r_ideoName->Imperium of Man
+  r_ideoAdjective->Imperial
+  r_memberName->Imperial
+  -->
+  <NamerIdeoImperium.rulePack.rulesStrings>
+	<li>r_ideoName->Имперский Культ</li>
+	<li>r_ideoAdjective->имперский</li>
+	<li>r_memberName->лоялист</li>
+  </NamerIdeoImperium.rulePack.rulesStrings>
+
+  <!-- EN:
+  name->[start] [middle] [end]
+  start->Emperor
+  start->God Emperor
+  middle->of
+  end->Mankind
+  end->the Imperium
+  -->
+  <GodContent_Imperium.rulePack.rulesStrings>
+	<li>name->[start] [middle] [end]</li>
+	<li>start->Император</li>
+	<li>start->Бог-Император</li>
+	<li>middle-></li>
+	<li>end->Человечества</li>
+	<li>end-></li>
+  </GodContent_Imperium.rulePack.rulesStrings>
+  
+  <!-- EN: r_deityType->Emperor of the Imperium -->
+  <DeityTypeMakerImperium.rulePack.rulesStrings.0>r_deityType->Повелитель Человечества</DeityTypeMakerImperium.rulePack.rulesStrings.0>
+  <!-- EN: r_leaderTitle->Captain -->
+  <LeaderTitleMakerImperium.rulePack.rulesStrings.0>r_leaderTitle->Капитан</LeaderTitleMakerImperium.rulePack.rulesStrings.0>
+  <!-- EN: r_ritualName->Celebration of the Emperor -->
+  <NamerRitualFestivalImperium.rulePack.rulesStrings.0>r_ritualName->Чествование Императора</NamerRitualFestivalImperium.rulePack.rulesStrings.0>
+</LanguageData>

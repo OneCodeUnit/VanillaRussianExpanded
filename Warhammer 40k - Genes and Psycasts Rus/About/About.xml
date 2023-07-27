@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Warhammer 40k - Genes and Psycasts Rus</name>
+	<author>Mewn Goddess</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>Mewn.Rus.BiotechExpansionWarhammer40k</packageId>
+	<description>
+Русский язык для Warhammer 40k - Genes and Psycasts.
+
+Перевод описания мода:
+Мод для Biotech DLC по тематике вселенной Вархаммер 40000.
+	
+В игру добавлены все 19 имплантируемых органов для космодесантников, реализованных через новую механику - в виде генов. Также добавлены 3 гена космодесантников-примарис, гены, наделяющие способностями псайкера, парии, гены кустодия и примарха, метки богов Хаоса и гены демон-принца. Большинство этих генов сильны (и задуманы быть такими), однако, надеюсь, не имбалансны.
+	
+Кроме того, появилась новая фракция, состоящая из космодесантников, космодесантников-примарис и библиариев. А также скрытая фракция сил Хаоса, состоящая из космодесантников Хаоса и (редко) демон-принцев.
+    </description>
+	<modDependencies>
+        <li>
+			<packageId>Phonicmas.BiotechExpansionWarhammer40k</packageId>
+			<displayName>Warhammer 40k - Genes and Psycasts</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2880152795</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+    <loadAfter>
+		<li>Phonicmas.BiotechExpansionWarhammer40k</li>
+	</loadAfter>
+</ModMetaData>

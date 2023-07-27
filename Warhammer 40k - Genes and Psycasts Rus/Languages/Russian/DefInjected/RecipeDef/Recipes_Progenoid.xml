@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Make astartes genepack -->
+  <BEWH_AstartesPack.label>извлечь созревшее геносемя</BEWH_AstartesPack.label>
+  <!-- EN: Remove fully grown germ cells from progenoid glands to make all gene-seeds of an astartes. -->
+  <BEWH_AstartesPack.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени Астартес со всеми органами космодесантника.</BEWH_AstartesPack.description>
+  <!-- EN: creating gene-seed from progenoid glands -->
+  <BEWH_AstartesPack.jobString>Извлекает геносемя из прогеноидов</BEWH_AstartesPack.jobString>
+  <!-- EN: {0} has successfully created gene-seed from {1}'s progenoid glands. -->
+  <BEWH_AstartesPack.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_AstartesPack.successfullyRemovedHediffMessage>
+
+  <!-- EN: Make primaris genepack -->
+  <BEWH_PrimarisPack.label>извлечь созревшее геносемя примарис</BEWH_PrimarisPack.label>
+  <!-- EN: Remove fully grown germ cells from progenoid glands to make all gene-seeds of a primaris. -->
+  <BEWH_PrimarisPack.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени Примарис со всеми органами космодесантника-примарис.</BEWH_PrimarisPack.description>
+  <!-- EN: creating primaris gene-seed from progenoid glands -->
+  <BEWH_PrimarisPack.jobString>Извлекает геносемя из прогеноидов</BEWH_PrimarisPack.jobString>
+  <!-- EN: {0} has successfully created primaris gene-seed from {1}'s progenoid glands. -->
+  <BEWH_PrimarisPack.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя примарис из прогеноидов {1}.</BEWH_PrimarisPack.successfullyRemovedHediffMessage>
+  
+
+  <!-- EN: resurrect from stasis -->
+  <BEWH_StasisWake.label>пробудить из стазиса</BEWH_StasisWake.label>
+  <!-- EN: Ressurects pawn from self-induced stasis -->
+  <BEWH_StasisWake.description>Пробудить космодесантника из мембранного стазиса.</BEWH_StasisWake.description>
+  <!-- EN: resurrecting {0} from stasis -->
+  <BEWH_StasisWake.jobString>Пробуждает {0} из стазиса</BEWH_StasisWake.jobString>
+  <!-- EN: {0} has successfully awoken {1} from stasis. -->
+  <BEWH_StasisWake.successfullyRemovedHediffMessage>{0} успешно пробуждает {1} из стазиса.</BEWH_StasisWake.successfullyRemovedHediffMessage>
+</LanguageData>
