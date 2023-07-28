@@ -79,18 +79,20 @@
 	<VREA.CannotImplantGenesOnAndroid>Нельзя вживить гены в андроида.</VREA.CannotImplantGenesOnAndroid>
 	<!-- EN: Cannot coagulate on android. -->
 	<VREA.CannotCoagulateOnAndroid>Нельзя применить коагуляцию на андроида.</VREA.CannotCoagulateOnAndroid>
+	<!-- EN: Cannot cast on android. -->
+	<VREA.CannotCastOnAndroid>Нельзя применить на андроида.</VREA.CannotCastOnAndroid>
 	<!-- EN: {PAWN_nameDef} is an android. -->
 	<VREA.IsAndroid>{PAWN_nameDef} — андроид.</VREA.IsAndroid>
 	<!-- EN: Neutroloss rate -->
 	<VREA.NeutrolossRate>Скорость нейтропотери</VREA.NeutrolossRate>
 	<!-- EN: Total neutro loss in {0} -->
 	<VREA.TotalNeutroLoss>Нейтроамин закончится через {0}</VREA.TotalNeutroLoss>
+	<!-- EN: {1_labelShort} is incapable of doing Crafting work, and so cannot ever self-repair. -->
+	<VREA.MessageCannotSelfRepairEver>{1_labelShort} не способен к ремеслу, поэтому не может проводить самообслуживание.</VREA.MessageCannotSelfRepairEver>
+	<!-- EN: To self-repair, {1_labelShort} must also be assigned to Crafting work. -->
+	<VREA.MessageSelfRepairUnsatisfied>{1_labelShort} {1_gender ? должен быть назначен : должна быть назначена} работать ремесленником, чтобы выполнять самообслуживание.</VREA.MessageSelfRepairUnsatisfied>
 	<!-- EN: Neutroamine leaked out completely -->
 	<VREA.NeutroamineLeakedOutCompletely>Нейтроамин полностью вытек</VREA.NeutroamineLeakedOutCompletely>
-	<!-- EN: {1_labelShort} is incapable of doing Crafting work, and so cannot ever self-tend. -->
-	<VREA.MessageCannotSelfTendEver>{1_labelShort} не способен к ремеслу, поэтому не может проводить самообслуживание.</VREA.MessageCannotSelfTendEver>
-	<!-- EN: To self-tend, {1_labelShort} must also be assigned to Crafting work. -->
-	<VREA.MessageSelfTendUnsatisfied>{1_labelShort} {1_gender ? должен быть назначен : должна быть назначена} работать ремесленником, чтобы выполнять самообслуживание.</VREA.MessageSelfTendUnsatisfied>
 	<!-- EN: View components -->
 	<VREA.ViewComponents>Просмотр компонентов</VREA.ViewComponents>
 	<!-- EN: Click to view {PAWN_nameDef}'s components. -->
@@ -223,4 +225,21 @@ As the awakening happened due to high mood, {PAWN_nameDef} has gained an inspira
 	<VREA.CannotUse>нельзя использовать</VREA.CannotUse>
 	<!-- EN: refuses reprogramming -->
 	<VREA.RefusesReprogramming>отказывается быть перепрограммированным</VREA.RefusesReprogramming>
+	<!-- EN: Self-repair -->
+	<VREA.SelfRepair>Самообслуживание</VREA.SelfRepair>
+	<!-- EN: Androids with self-repair enabled will automatically repair themselves on the spot at {1} the normal efficiency. -->
+	<VREA.SelfRepairTip>Андроиды с включённым самообслуживанием будут автоматически ремонтировать себя на {lookup: {1}; Case; 5} с обычной скоростью.</VREA.SelfRepairTip>
+	<!-- EN: AnRefuel with neutroaminedroid -->
+	<VREA.RefuelWithNeutroamine>Заправить нейтроамином</VREA.RefuelWithNeutroamine>
+
+	<!-- EN: When an android awakens, you can pick passions and a trait for an android. You will no longer be able to enter the android behaviorist station with {PAWN_nameDef}, unless you arrest and force them. -->
+	<VREA.AndroidAwakenedChoices>Когда андроид пробудится, вы сможете выбрать ему черты характера и интересы. Вы больше не сможете направлять его на станцию поведенческой настройки. Разве что можно арестовать и сделать это принудительно.</VREA.AndroidAwakenedChoices>
+	<!-- EN: Androids low on power -->
+	<VREA.AndroidsLowOnPower>Низкий уровень энергии</VREA.AndroidsLowOnPower>
+	<!-- EN: These androids are running low on power. Consider crafting new reactors and schedule them for reactor replacement.
+
+Androids low on power:\n\n{0} -->
+	<VREA.AndroidsLowOnPowerDesc>Эти андроиды испытывают нехватку энергии. Вам стоит произвести новый реактор и распланировать его замену.
+
+Андроиды с низким уровнем энергии:\n\n{0}</VREA.AndroidsLowOnPowerDesc>
 </LanguageData>
