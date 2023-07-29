@@ -40,13 +40,13 @@
   </VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>
+  <VFEV_OpportunitySite_LegendaryGrave.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The site has been found and raided by others. The quest [resolvedQuestName] has expired. -->
-  <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>Это место было разграблено кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>
+  <VFEV_OpportunitySite_LegendaryGrave.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Это место было разграблено кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OpportunitySite_LegendaryGrave.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>
+  <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After being discovered, they woke up the heros, and transfered them somewhere else. The quest [resolvedQuestName] has ended. -->
-  <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>Будучи обнаруженными, стражи разбудили героев и переместились в другое место. Задание «[resolvedQuestName]» окончено.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>
+  <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Будучи обнаруженными, стражи разбудили героев и переместились в другое место. Задание «[resolvedQuestName]» окончено.</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest Succeed: [resolvedQuestName] -->
   <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>Задание выполнено: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
   <!-- EN: You successfully fought the guardians! The quest [resolvedQuestName] has ended. -->

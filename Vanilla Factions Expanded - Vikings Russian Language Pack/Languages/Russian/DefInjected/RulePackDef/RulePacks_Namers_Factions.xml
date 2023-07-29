@@ -94,15 +94,13 @@
     <li>r_name->[NorseNames] '[NorseNames]son' of [Animal] clan</li>
   -->
   <NamerPersonViking.rulePack.rulesStrings>
-    <li>r_name(p=2)->[NorseNamesC] сын [NorseNamesN]</li>
+    <li>r_name(p=2)->[NorseNamesC] [NorseNamesC]сон</li>
 		<li>r_name->[NorseNamesC] [NorseNamesC]берг</li>
-    <li>r_name->[NorseNamesC] [Slayer] [AnimalV] сын [NorseNamesN]</li>
-    <li>r_name->[NorseNamesC] [ColorS] [AnimalM] сын [NorseNamesN]</li>
-    <li>r_name->[NorseNamesC] сын [NorseNamesN]</li>
-		<li>r_name->[NorseNamesC] сын [NorseNamesN] из клана [AnimalV]</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]сон [Slayer] [AnimalV]</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]сон [ColorS] [AnimalM]</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]сон</li>
+		<li>r_name->[NorseNamesC] [NorseNamesC]сон из клана [AnimalV]</li>
 		<li>Slayer->убийца</li>
-		<li>Slayer->победитель</li>
-		<li>Slayer->истребитель</li>
 		<li>Slayer->гроза</li>
 		<li>Slayer->погибель</li>
   </NamerPersonViking.rulePack.rulesStrings>
