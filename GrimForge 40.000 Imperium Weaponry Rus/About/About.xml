@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>GrimForge 40.000: Imperium Weaponry Rus</name>
+	<author>Mewn Goddess, Grilled Cheese</author>
+	<packageId>Mewn.RUS.GF40K.Weaponry</packageId>
+	<supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  	<modDependencies>
+		<li>
+			<packageId>GF40K.IoM.Weaponry</packageId>
+			<displayName>GrimForge 40.000: Imperium Weaponry</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3012357076</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>GF40K.IoM.Weaponry</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода GrimForge 40.000: Imperium Weaponry.</description>
+</ModMetaData>

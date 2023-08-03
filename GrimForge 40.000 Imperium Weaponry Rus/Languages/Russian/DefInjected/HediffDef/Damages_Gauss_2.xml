@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: {0} in the {1} -->
+	<GF40K_GaussShot.labelNounPretty>{0} {1}</GF40K_GaussShot.labelNounPretty>
+	<!-- EN: Gauss shot -->
+	<GF40K_GaussShot.label>огнестрельное ранение</GF40K_GaussShot.label>
+	<!-- EN: a Gauss shot wound -->
+	<GF40K_GaussShot.labelNoun>огнестрельное ранение</GF40K_GaussShot.labelNoun>
+	<!-- EN: A wound caused by a Gauss round. -->
+	<GF40K_GaussShot.description>Огнестрельное ранение от гаусс-снаряда.</GF40K_GaussShot.description>
+	<!-- EN: bandaged -->
+	<GF40K_GaussShot.comps.HediffComp_TendDuration.labelTendedWell>перевязано</GF40K_GaussShot.comps.HediffComp_TendDuration.labelTendedWell>
+	<!-- EN: sutured -->
+	<GF40K_GaussShot.comps.HediffComp_TendDuration.labelTendedWellInner>зашито</GF40K_GaussShot.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<!-- EN: set -->
+	<GF40K_GaussShot.comps.HediffComp_TendDuration.labelSolidTendedWell>обработано</GF40K_GaussShot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<!-- EN: old Gauss shot -->
+	<GF40K_GaussShot.comps.HediffComp_GetsPermanent.permanentLabel>шрам от гаусс-снаряда</GF40K_GaussShot.comps.HediffComp_GetsPermanent.permanentLabel>
+	<!-- EN: permanent Gauss shot injury -->
+	<GF40K_GaussShot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>огнестрельное ранение</GF40K_GaussShot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+	<!-- EN: Shot off by Gauss bullet -->
+	<GF40K_GaussShot.injuryProps.destroyedLabel>отстрелено</GF40K_GaussShot.injuryProps.destroyedLabel>
+	<!-- EN: Shot out by Gauss bullet -->
+	<GF40K_GaussShot.injuryProps.destroyedOutLabel>прострелено</GF40K_GaussShot.injuryProps.destroyedOutLabel>
+</LanguageData>
