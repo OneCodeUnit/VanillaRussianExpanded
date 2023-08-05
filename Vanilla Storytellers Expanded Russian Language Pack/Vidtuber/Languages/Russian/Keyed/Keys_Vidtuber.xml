@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Wealth interval -->
+	<NN.WealthInterval>Интервал богатства</NN.WealthInterval>
+  <!-- EN: Queue size range -->
+	<NN.QueueSizeRange>Размер очереди событий</NN.QueueSizeRange>
+  <!-- EN: Max video limit -->
+	<NN.MaxVideoLimit>Максимум видео</NN.MaxVideoLimit>
+  <!-- EN: Set up a vidtube channel for {PAWN_nameDef} -->
+	<NN.SetupChannel>Создать канал для {PAWN_nameDef}</NN.SetupChannel>
+  <!-- EN: Open vidtube -->
+	<NN.OpenVidtube>Открыть VidTube</NN.OpenVidtube>
+  <!-- EN: Delete {PAWN_nameDef}'s channel -->
+	<NN.DeleteChannel>Удалить канал {PAWN_nameDef}</NN.DeleteChannel>
+  <!-- EN: Are you sure you want to permanently delete {PAWN_nameDef}'s vidtube channel? -->
+	<NN.DeleteChannelConfirmation>Вы уверены, что хотите навсегда удалить канал {PAWN_nameDef}?</NN.DeleteChannelConfirmation>
+  <!-- EN: {PAWN_nameDef}'s channel -->
+	<NN.DefaultChannelName>Канал {PAWN_nameDef}</NN.DefaultChannelName>
+  <!-- EN: Subscribers -->
+	<NN.Subscribers>Подписчики</NN.Subscribers>
+  <!-- EN: Total views -->
+	<NN.TotalViews>Просмотров</NN.TotalViews>
+  <!-- EN: Total revenue -->
+	<NN.TotalRevenue>Общий доход</NN.TotalRevenue>
+  <!-- EN: Videos -->
+	<NN.Videos>Видео</NN.Videos>
+  <!-- EN: Tags -->
+	<NN.Tags>Теги</NN.Tags>
+  <!-- EN: Views -->
+	<NN.Views>Просмотры</NN.Views>
+  <!-- EN: Revenue -->
+	<NN.Revenue>Доход</NN.Revenue>
+  <!-- EN: Publish date -->
+	<NN.PublishDate>Дата</NN.PublishDate>
+  <!-- EN: Record new video -->
+	<NN.RecordNewVideo>Записать новое видео</NN.RecordNewVideo>
+  <!-- EN: Create video -->
+	<NN.CreateVideo>Создать видео</NN.CreateVideo>
+  <!-- EN: Basic -->
+	<NN.Basic>Базовые</NN.Basic>
+  <!-- EN: Video title -->
+	<NN.VideoTitle>Название</NN.VideoTitle>
+  <!-- EN: Statistics -->
+	<NN.Statistics>Статистика</NN.Statistics>
+  <!-- EN: Views per day -->
+	<NN.ViewsPerDay>Просмотры в день</NN.ViewsPerDay>
+  <!-- EN: View revenue per day -->
+	<NN.ViewRevenuePerDay>Доход в день</NN.ViewRevenuePerDay>
+  <!-- EN: Subscriber chance -->
+	<NN.SubscriberChance>Вероятность подписки</NN.SubscriberChance>
+  <!-- EN: Work to make -->
+	<NN.WorkToMake>Объём работы</NN.WorkToMake>
+  <!-- EN: Add tag -->
+	<NN.AddTag>Добавить тег</NN.AddTag>
+  <!-- EN: Start recording -->
+	<NN.StartRecording>Начать запись</NN.StartRecording>
+  <!-- EN: Search -->
+	<NN.Search>Поиск</NN.Search>
+  <!-- EN: Delete tag -->
+	<NN.DeleteTag>Удалить тег</NN.DeleteTag>
+  <!-- EN: Cannot use: {PAWN_labelShort} is incapable of social. -->
+	<NN.CannotUseIncapableOfSocial>Невозможно использовать: {PAWN_labelShort} не имеет навыков общения.</NN.CannotUseIncapableOfSocial>
+  <!-- EN: {PAWN_nameDef}'s VidTube Summary -->
+	<NN.VidtubeSummaryTitle>Отчёт канала {PAWN_nameDef}</NN.VidtubeSummaryTitle>
+  <!-- EN: {PAWN_nameDef} has received {PAWN_possessive} VidTube summary, and {PAWN_possessive} revenue is arriving in cargo pods nearby. Below you can see the breakdown of how {PAWN_nameDef}’s VidTube channel is doing:\n\nVideos released total: {1}\nVideos released this quadrum: {2}\n\nViews total: {3}\nNew views this quadrum: {4}\nNew subscribers this quadrum: {5}\n\nRevenue generated this quadrum: {6}\nMost profitable video: {7} -->
+	<NN.VidtubeSummaryDesc>{PAWN_nameDef} получает отчёт о своём канале на VidTube, а грузовые контейнеры с доходом приземляются неподалёку. Из отчёта можно узнать статистику канала:\n\nВсего выпущено видео: {1}\nВидео в этом квартале: {2}\n\nВсего просмотров: {3}\nПросмотров за квартал: {4}\nНовых подписчиков за квартал: {5}\n\nДоход за квартал: {6}\nСамое прибыльное видео: {7}</NN.VidtubeSummaryDesc>
+  <!-- EN: Vidtube subscribers generate additional views on the vidtube channel of this colonist. Gain more subscriber by releasing more vidtube videos. -->
+	<NN.BiotabSummary>Подписчики на VidTube создают дополнительные просмотры на канале. Чтобы получить больше подписчиков выпускайте больше видео.</NN.BiotabSummary>
+</LanguageData>
