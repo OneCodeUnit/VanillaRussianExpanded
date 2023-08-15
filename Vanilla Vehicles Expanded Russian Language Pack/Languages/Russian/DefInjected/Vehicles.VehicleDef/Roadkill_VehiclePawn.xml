@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Roadkill -->
+  <VVE_Roadkill.label>«Жестянка»</VVE_Roadkill.label>
+  <!-- EN: Calling back to an age of this planet’s history when mass-produced armoured units were needed to bolster a dwindling infantry force, the Roadkill is extremely simple, reliable and easy to assemble. They are very loud and vulnerable at the rear, while also being ridiculously thirsty and suited for short-range engagements. Are they accurate? No. Are they fast? Also no. A chore to repair? Yes, as the idea is not to maintain it but to assemble it on-site and leave it once it’s served its purpose. -->
+  <VVE_Roadkill.description>Это транспортное средство отсылает к тому периоду истории этой планеты, когда массовые бронетанковые подразделения были необходимы для усиления сокращающихся пехотных сил. «Жестянки» очень просты, надёжны и легки в сборке. Они очень шумные и уязвимы для атак сзади, а также неимоверно прожорливы и потому лучше всего подходят для ведения боя на коротких дистанциях. Точны ли они? Нет. Быстры ли они? Тоже нет. Сложно ли их ремонтировать? Да, так как суть состоит не в том, чтобы обслуживать машину, а в том, чтобы собрать её на месте и бросить, как только она отслужит своё.\n\nВ отличие от других транспортных средств первого уровня, этот танк сжигает топливо с ужасающей скоростью и крайне медленно ремонтируется.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1\n&lt;color=#bb8f04&gt;Тип топлива:&lt;/color&gt; Химтопливо</VVE_Roadkill.description>
+  <!-- EN: Driver -->
+  <VVE_Roadkill.properties.roles.0.label>Водитель</VVE_Roadkill.properties.roles.0.label>
+
+  <!-- EN: Engine -->
+  <VVE_Roadkill.components.0.label>Двигатель</VVE_Roadkill.components.0.label>
+  <!-- EN: Left Track -->
+  <VVE_Roadkill.components.1.label>Левая гусеничная цепь</VVE_Roadkill.components.1.label>
+  <!-- EN: Right Track -->
+  <VVE_Roadkill.components.2.label>Правая гусеничная цепь</VVE_Roadkill.components.2.label>
+  <!-- EN: Front Left Drive Sprocket -->
+  <VVE_Roadkill.components.3.label>Левое направляющее колесо</VVE_Roadkill.components.3.label>
+  <!-- EN: Front Right Drive Sprocket -->
+  <VVE_Roadkill.components.4.label>Правое направляющее колесо</VVE_Roadkill.components.4.label>
+  <!-- EN: Back Left Drive Sprocket -->
+  <VVE_Roadkill.components.5.label>Левый ведущий каток</VVE_Roadkill.components.5.label>
+  <!-- EN: Back Right Drive Sprocket -->
+  <VVE_Roadkill.components.6.label>Правый ведущий каток</VVE_Roadkill.components.6.label>
+  <!-- EN: Gearbox -->
+  <VVE_Roadkill.components.7.label>Коробка передач</VVE_Roadkill.components.7.label>
+  <!-- EN: Left Armor Plating -->
+  <VVE_Roadkill.components.8.label>Левая бронепанель</VVE_Roadkill.components.8.label>
+  <!-- EN: Right Armor Plating -->
+  <VVE_Roadkill.components.9.label>Правая бронепанель</VVE_Roadkill.components.9.label>
+  <!-- EN: Front Armor Plating -->
+  <VVE_Roadkill.components.10.label>Передняя бронепанель</VVE_Roadkill.components.10.label>
+  <!-- EN: Chemtank -->
+  <VVE_Roadkill.components.11.label>Химтопливный бак</VVE_Roadkill.components.11.label>
+  <!-- EN: Dashboard -->
+  <VVE_Roadkill.components.12.label>Приборная панель</VVE_Roadkill.components.12.label>
+  <!-- EN: Steering Apparatus -->
+  <VVE_Roadkill.components.13.label>Рулевое устройство</VVE_Roadkill.components.13.label>
+  <!-- EN: Alternator -->
+  <VVE_Roadkill.components.14.label>Генератор переменного тока</VVE_Roadkill.components.14.label>
+  <!-- EN: Roof -->
+  <VVE_Roadkill.components.15.label>Крыша</VVE_Roadkill.components.15.label>
+  <!-- EN: Main Turret -->
+  <VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Пушка</VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+</LanguageData>

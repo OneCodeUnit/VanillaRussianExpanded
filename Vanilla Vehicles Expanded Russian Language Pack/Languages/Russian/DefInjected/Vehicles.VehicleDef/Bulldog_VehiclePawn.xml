@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Bulldog -->
+  <VVE_Bulldog.label>«Бульдог»</VVE_Bulldog.label>
+  <!-- EN: A general main battle tank, the Bulldog is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, which is still an improvement over the tier 1 tank. -->
+  <VVE_Bulldog.description>Стандартный танк общего назначения «Бульдог» представляет собой усовершенствованную бронемашину, которая отлично работает в любых боевых условиях. Наилучшим образом проявляет себя на бездорожье. «Бульдог», будучи бронированным со всех сторон, наиболее уязвим с тыльной стороны, рядом с двигателем, где слой брони наиболее тонкий.\n\nВ отличие от других транспортных средств второго уровня, привлекает много внимания в пути.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Стрелок x1\n&lt;color=#bb8f04&gt;Тип топлива:&lt;/color&gt; Химтопливо</VVE_Bulldog.description>
+  <!-- EN: Driver -->
+  <VVE_Bulldog.properties.roles.0.label>водитель</VVE_Bulldog.properties.roles.0.label>
+  <!-- EN: Gunner -->
+  <VVE_Bulldog.properties.roles.1.label>стрелок</VVE_Bulldog.properties.roles.1.label>
+  <!-- EN: Engine -->
+  <VVE_Bulldog.components.0.label>Двигатель</VVE_Bulldog.components.0.label>
+  <!-- EN: Left Track -->
+  <VVE_Bulldog.components.1.label>Левая гусеничная цепь</VVE_Bulldog.components.1.label>
+  <!-- EN: Right Track -->
+  <VVE_Bulldog.components.2.label>Правая гусеничная цепь</VVE_Bulldog.components.2.label>
+  <!-- EN: Front Left Drive Sprocket -->
+  <VVE_Bulldog.components.3.label>Левое направляющее колесо</VVE_Bulldog.components.3.label>
+  <!-- EN: Front Right Drive Sprocket -->
+  <VVE_Bulldog.components.4.label>Правое направляющее колесо</VVE_Bulldog.components.4.label>
+  <!-- EN: Back Left Drive Sprocket -->
+  <VVE_Bulldog.components.5.label>Левый ведущий каток</VVE_Bulldog.components.5.label>
+  <!-- EN: Back Right Drive Sprocket -->
+  <VVE_Bulldog.components.6.label>Правый ведущий каток</VVE_Bulldog.components.6.label>
+  <!-- EN: Gearbox -->
+  <VVE_Bulldog.components.7.label>Коробка передач</VVE_Bulldog.components.7.label>
+  <!-- EN: Front Armor Plating -->
+  <VVE_Bulldog.components.8.label>Передняя бронепанель</VVE_Bulldog.components.8.label>
+  <!-- EN: Left Armor Plating -->
+  <VVE_Bulldog.components.9.label>Левая бронепанель</VVE_Bulldog.components.9.label>
+  <!-- EN: Right Armor Plating -->
+  <VVE_Bulldog.components.10.label>Правая бронепанель</VVE_Bulldog.components.10.label>
+  <!-- EN: Rear Armor Plating -->
+  <VVE_Bulldog.components.11.label>Задняя бронепанель</VVE_Bulldog.components.11.label>
+  <!-- EN: Chemtank -->
+  <VVE_Bulldog.components.12.label>Химтопливный бак</VVE_Bulldog.components.12.label>
+  <!-- EN: Dashboard -->
+  <VVE_Bulldog.components.13.label>Приборная панель</VVE_Bulldog.components.13.label>
+  <!-- EN: Steering Apparatus -->
+  <VVE_Bulldog.components.14.label>Рулевое устройство</VVE_Bulldog.components.14.label>
+  <!-- EN: Alternator -->
+  <VVE_Bulldog.components.15.label>Генератор переменного тока</VVE_Bulldog.components.15.label>
+  <!-- EN: Roof -->
+  <VVE_Bulldog.components.16.label>Крыша</VVE_Bulldog.components.16.label>
+  <!-- EN: Main Turret -->
+  <VVE_Bulldog.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Пушка</VVE_Bulldog.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+</LanguageData>

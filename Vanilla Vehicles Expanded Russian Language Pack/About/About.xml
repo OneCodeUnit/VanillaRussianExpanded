@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Vehicles Expanded Russian Language Pack</name>
+	<author>Mewn Goddess, Grilled Cheese</author>
+	<packageId>Mewn.RUS.VanillaVehiclesExpanded</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+    </supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>OskarPotocki.VanillaVehiclesExpanded</packageId>
+			<displayName>Vanilla Vehicles Expanded</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3014906877</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaVehiclesExpanded</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Vanilla Vehicles Expanded.</description>
+</ModMetaData>
