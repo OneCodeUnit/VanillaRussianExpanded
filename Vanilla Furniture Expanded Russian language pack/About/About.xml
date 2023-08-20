@@ -7,13 +7,6 @@
   </supportedVersions>
   <packageId>OW.RU.Furniture</packageId>
   <description>Обновлённый и улучшенный перевод на русский язык мода Vanilla Furniture Expanded и всех модулей.</description>
-  <modDependencies>
-    <li>
-      <packageId>VanillaExpanded.VFECore</packageId>
-      <displayName>Vanilla Furniture Expanded</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1718190143</steamWorkshopUrl>
-    </li>
-  </modDependencies>
   <loadAfter>
     <li>VanillaExpanded.VFECore</li>
     <li>VanillaExpanded.VFEArchitect</li>
