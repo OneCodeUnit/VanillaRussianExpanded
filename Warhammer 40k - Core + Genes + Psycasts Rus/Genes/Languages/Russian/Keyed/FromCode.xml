@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Does not have required research: {0} -->
+	<ResearchNotCompleted>Не исследован необходимый проект: {0}</ResearchNotCompleted>
+	<!-- EN: {0} has been elevated to {1} -->
+	<GeneElevationComplete>{0} вознёсся и стал {lookup: {1}; Case; 4}.</GeneElevationComplete>
+	<!-- EN: {0} has moved one step close to being a {1} -->
+	<GeneElevationProgress>{0} на один шаг ближе к становлению {lookup: {1}; Case; 4}</GeneElevationProgress>
+	<!-- EN: {0} is being elavated to {1} -->
+	<CurrentlyElevatingTo>{0} возносится и становится {lookup: {1}; Case; 4}.</CurrentlyElevatingTo>
+	
+	<!-- EN: Building has no power, elevating has been paused -->
+	<ElevatingPausedNoPower>Вознесение приостановлено — нет электричества.</ElevatingPausedNoPower>
+	
+	<!-- EN: Building needs {0} amount of geneseed capsules to operate on {1} -->
+	<NotEnoughFuelPresent>Постройке необходимо {0} капсул с геносеменем для проведения операции над {1}.</NotEnoughFuelPresent>
+	<!-- EN: {0}'s genes cannot be elevated any more. -->
+	<GenesCannotBeElevated>{0} не может быть вознесён ещё выше.</GenesCannotBeElevated>
+	<!-- EN: Insert a person into the automated genetor. It will use genetic material from provided geneseed capsules to slowly elevate the pawns genes. -->
+	<InsertPersonGeneseedGenetorDesc>Поместить человека в автоматический генетор, который будет использовать капсулы с геносеменем и медленно менять гены, превращая обычного персонажа в космодесантника.</InsertPersonGeneseedGenetorDesc>
+</LanguageData>
