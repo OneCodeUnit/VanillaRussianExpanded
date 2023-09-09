@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: industrialism -->
+  <VME_HardcoreIndustrialism.label>индустриализм</VME_HardcoreIndustrialism.label>
+  <!-- EN: Work gives a man dignity. Only through hard work and being productive can a person really grow. -->
+  <VME_HardcoreIndustrialism.description>Труд даёт человеку достоинство. Только благодаря упорному и плодотворному труду человек может по-настоящему расти.</VME_HardcoreIndustrialism.description>
+
+  <!-- EN:
+    <li>memeAdjective->high-yielding</li>
+    <li>memeAdjective->productive</li>
+    <li>memeAdjective->fruitful</li>
+    <li>memeAdjective->constructive</li>
+    <li>memeAdjective->vigorous</li>
+    <li>memeConcept->production</li>
+    <li>memeLeaderNoun->industrialist</li>
+    <li>memeMoralist->foreman</li>
+  -->
+  <VME_HardcoreIndustrialism.generalRules.rulesStrings>
+    <li>memeAdjective->высокоурожайный</li>
+    <li>memeAdjective->производительный</li>
+    <li>memeAdjective->плодотворный</li>
+    <li>memeAdjective->созидательный</li>
+    <li>memeAdjective->энергичный</li>
+    <li>memeConcept->производства</li>
+    <li>memeLeaderNoun->индустриалист</li>
+    <li>memeMoralist->бригадир</li>
+  </VME_HardcoreIndustrialism.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] spurned [deity0_possessive] followers to work, for there is nothing holier than perseverance.</li>
+    <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] said to all the [memberNamePlural], "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</li>
+
+    <li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a magnificent centerpiece for the factories that churned out a myriad finished products.</li>
+    <li>conflict(tag=meme_HardcoreIndustrialis)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to sabotage our factory lines, but our resilience was unnending.</li>
+    <li>founderJoin(tag=meme_HardcoreIndustrialis)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] divine power, and he became the greatest industrialist ever known.</li>
+
+    <li>setup(tag=meme_HardcoreIndustrialis)           ->Our founder [founderName] was a genius. An industrialist and philanthropist like the Oil Barons of antiquity.</li>
+    <li>story(uses=1,tag=meme_HardcoreIndustrialis)    ->There were endless factories built by [founder_possessive] hand. A single motto hang in a sign over their entrance: "With hard work and effort, you can achieve anything."</li>
+
+    <li>lessonIntro(tag=meme_HardcoreIndustrialis)         ->A single vital lesson was ingrained in all of us:</li>
+    <li>lesson(tag=meme_HardcoreIndustrialis)              ->the moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity</li>
+    <li>lessonReinforcement(tag=meme_HardcoreIndustrialis) ->And that is why hard work always pays off, whatever you do.</li>
+
+    <li>archistBasis(tag=meme_HardcoreIndustrialis)    ->The archotechs are the pinnacle of technology, and only through hard work we may even beging to approach their prowess.</li>
+    <li>archistFact(tag=meme_HardcoreIndustrialis)     ->From our factories will pour a hundred thousand tons of plasteel and exochrome. The victory of industry over nature.</li>
+    <li>archistProphecy(tag=meme_HardcoreIndustrialis) ->[inTheEnd], we may be able to replicate the advanced technological secrets of the [relic0_name].</li>
+
+    <li>animistFact(tag=meme_HardcoreIndustrialis)     ->If there are spirits of nature, it stands to reason that there must also be spirits of machinery.</li>
+
+    <li>serketistProphecy(tag=meme_HardcoreIndustrialis)->[itIsSaid] we will acquire the resilience and productivity of our beloved insects.</li>
+
+    <li>chthonianProphecy(tag=meme_HardcoreIndustrialis)->Only through hard work we can be saved from these eldritch demons. Our perseverance will be their downfall.</li>
+
+    <li>esotericismProphecy(tag=meme_HardcoreIndustrialis)->Our machinery will be infused with occult magics, a powerful engine of creation that will usher in a new world of plenty.</li>
+
+    <li>eschatologismFact(tag=meme_HardcoreIndustrialis)->Our factories will bloat the sky and suffocate all life. Their skin will dissolve from their bones, and be consumed in the fires of industry.</li>
+
+    <li>introMemo(tag=meme_HardcoreIndustrialis)->It has come to my attention that our production quotas have fallen 4.56% compared to last quarter. This is unnaceptable, and I trust that you will labour harder than ever to increase our throughput to desireable levels.</li>
+
+    <li>alienistProphecy(tag=meme_HardcoreIndustrialis)->All these wondrous creatures show us what the ingenuity of humanity can do through hard work and careful experimentation.</li>
+  -->
+  <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] сподвигнул последователей [deity0_possessive] к работе, ибо нет ничего святее упорства.</li>
+    <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] сказал всем [memberNamePlural], «Секретов успеха не существует. Это результат подготовки, упорного труда и извлечения уроков из неудач.»</li>
+
+    <li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], великолепный центр для заводов, которые выпускали огромное количество готовой продукции.</li>
+    <li>conflict(tag=meme_HardcoreIndustrialis)        ->Трус [foeLeader], стремился отрицать нашу веру [deity0_name], пытались саботировать наши заводские линии, но наша стойкость была непоколебимой.</li>
+    <li>founderJoin(tag=meme_HardcoreIndustrialis)     ->[deity0_name] благословил [place_job] именуемое [founderName] с [foeLeader_possessive] божественной силой, сделавшая его величайшим мануфактором из когда-либо известных.</li>
+
+    <li>setup(tag=meme_HardcoreIndustrialis)           ->Наш глава [founderName] был гением. Промышленником и филантропом, которому были подобны нефтяные бароны древности.</li>
+    <li>story(uses=1,tag=meme_HardcoreIndustrialis)    ->Там были бесконечные фабрики, построенные руками [founder_possessive]. Над каждым входом висела вывеска с единственным девизом: «Упорным трудом и старанием можно добиться чего угодно.»</li>
+
+    <li>lessonIntro(tag=meme_HardcoreIndustrialis)         ->Все мы усвоили один жизненно важный урок:</li>
+    <li>lesson(tag=meme_HardcoreIndustrialis)              ->как только мы поверим, что успех определяется укоренившимся уровнем способностей, а не стойкостью и трудолюбием, мы станем хрупкими перед лицом трудностей</li>
+    <li>lessonReinforcement(tag=meme_HardcoreIndustrialis) ->И именно поэтому упорный труд всегда окупается, чем бы вы ни занимались.</li>
+
+    <li>archistBasis(tag=meme_HardcoreIndustrialis)    ->Архотеки - вершина технологии, и только благодаря упорной работе мы можем приблизиться к их совершенству.</li>
+    <li>archistFact(tag=meme_HardcoreIndustrialis)     ->С наших заводов польется сто тысяч тонн пластали. Победа промышленности над природой.</li>
+    <li>archistProphecy(tag=meme_HardcoreIndustrialis) ->[inTheEnd], мы в достаточно умны чтобы раскрыть секреты передовых технологий [relic0_name].</li>
+
+    <li>animistFact(tag=meme_HardcoreIndustrialis)     ->Если существуют духи природы, то логично предположить, что должны существовать и духи машин..</li>
+
+    <li>serketistProphecy(tag=meme_HardcoreIndustrialis)->[itIsSaid] Мы станем такими же устойчивыми и продуктивными как наши любимые насекомые.</li>
+
+    <li>chthonianProphecy(tag=meme_HardcoreIndustrialis)->Только упорным трудом мы можем спастись от этих жутких демонов. Наше упорство станет их гибелью.</li>
+
+    <li>esotericismProphecy(tag=meme_HardcoreIndustrialis)->Наши машины будут пронизаны оккультной магией, это будет мощный двигатель созидания, который откроет новый мир изобилия.</li>
+
+    <li>eschatologismFact(tag=meme_HardcoreIndustrialis)->Наши фабрики заполонят небо и задушат все живое. Их кожа отделится от костей и сгорит в огне промышленности..</li>
+
+    <li>introMemo(tag=meme_HardcoreIndustrialis)->До моего сведения дошло, что наши производственные квоты снизились на 4,56% по сравнению с прошлым кварталом. Это недопустимо, и я верю, что вы будете работать усерднее, чем когда-либо, чтобы увеличить нашу пропускную способность до желаемого уровня.</li>
+
+    <li>alienistProphecy(tag=meme_HardcoreIndustrialis)->Все эти удивительные существа показывают нам, чего может добиться изобретательность человечества благодаря упорному труду и тщательным экспериментам.</li>
+  </VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Industrialism -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.ideoName>Индустриализм</VME_HardcoreIndustrialism.symbolPacks.0.ideoName>
+  <!-- EN: Industrialism -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.theme>индустриализма</VME_HardcoreIndustrialism.symbolPacks.0.theme>
+  <!-- EN: productive -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.adjective>производительный</VME_HardcoreIndustrialism.symbolPacks.0.adjective>
+  <!-- EN: worker -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.member>рабочий</VME_HardcoreIndustrialism.symbolPacks.0.member>
+</LanguageData>

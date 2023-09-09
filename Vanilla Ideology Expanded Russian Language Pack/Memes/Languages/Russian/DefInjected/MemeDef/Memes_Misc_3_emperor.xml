@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: god emperor -->
+  <VME_GodEmperor.label>Бог-Император</VME_GodEmperor.label>
+  <!-- EN: Our leader must be worshipped as a living God, a physical manifestation of our ideals and precepts. -->
+  <VME_GodEmperor.description>Нашему лидеру следует поклоняться как живому Богу, физическому воплощению наших идеалов и заповедей.</VME_GodEmperor.description>
+
+  <!-- EN:
+    <li>memeAdjective->absolute</li>
+    <li>memeAdjective->divine</li>
+    <li>memeHyphenPrefix->godlike</li>
+    <li>memeConcept->imperial sovereignty</li>
+    <li>memeLeaderNoun->god emperor</li>
+    <li>memeMoralist->loyal servant</li>
+    <li>memeMoralist->seer</li>
+  -->
+  <VME_GodEmperor.generalRules.rulesStrings>
+    <li>memeAdjective->абсолютный</li>
+    <li>memeAdjective->божественный</li>
+    <li>memeHyphenPrefix->богоподобно</li>
+    <li>memeConcept->имперского самодержавия</li>
+    <li>memeLeaderNoun->Бог-Император</li>
+    <li>memeMoralist->верный слуга</li>
+    <li>memeMoralist->провидец</li>
+  </VME_GodEmperor.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_GodEmperor)        ->[deity0_name] annointed [deity0_possessive] Chosen One to lead us through this life, our God Emperor.</li>
+    <li>episode(uses=1,tag=meme_GodEmperor)  ->[deity0_name] said to all the [memberNamePlural], "For you shall follow my Chosen One, the God Emperor, and prostrate yourselves in humility, submission and adoration."</li>
+
+    <li>intro(tag=meme_GodEmperor)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a huge monument to their God Emperor.</li>
+    <li>conflict(tag=meme_GodEmperor)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to slay our God Emperor, finding only ruin.</li>
+    <li>founderJoin(tag=meme_GodEmperor)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] divine power, and this sacred place empowers our eternal God Emperor.</li>
+
+    <li>setup(tag=meme_GodEmperor)           ->Our founder [founderName] was the greatest of the disciples of our God Emperor, a true servant.</li>
+    <li>story(uses=1,tag=meme_GodEmperor)    ->The believers will spread the wisdom of unwavering loyalty to the decreeds of our God Emperor.</li>
+
+    <li>lessonIntro(tag=meme_GodEmperor)         ->In all my years serving our God Emperor, I learned one lesson that stands over all:</li>
+    <li>lesson(tag=meme_GodEmperor)              ->only through absolute subservience to our leader will we achieve our goals</li>
+    <li>lessonReinforcement(tag=meme_GodEmperor) ->It is only through the Divine Will of our God Emperor that we will uncover the secrets of the Cosmos.</li>
+
+    <li>archistBasis(tag=meme_GodEmperor)    ->The archotechs announce their presence from the sky, and in the mind, our God Emperor is their Chosen One.</li>
+    <li>archistFact(tag=meme_GodEmperor)     ->Archotechs are wise beyond all reason, it stands to logic that their paragon is also the epitome of wisdom.</li>
+    <li>archistProphecy(tag=meme_GodEmperor) ->[inTheEnd], the archotechs will voice their final wisdom to our God Emperor, holder of the [relic0_name].</li>
+
+    <li>animistFact(tag=meme_GodEmperor)     ->The spirits want to be known, and they manifest themselves in the body of our God Emperor.</li>
+
+    <li>serketistProphecy(tag=meme_GodEmperor)->[itIsSaid] our God Emperor will bathe in the blood of a thousand insects, annointed by their sacrifice.</li>
+
+    <li>chthonianProphecy(tag=meme_GodEmperor)->Our God Emperor is the guardian of madness, the one who keeps our minds safe from the cruel insanity of the Cosmos.</li>
+
+    <li>esotericismProphecy(tag=meme_GodEmperor)->Our God Emperor is wise beyond reckoning in the occult ways, and will guide us in devising new ways to use this hidden knowledge.</li>
+
+    <li>eschatologismFact(tag=meme_GodEmperor)->Our God Emperor will bring forth the End Times. In servitude, we will participate in this divine glory.</li>
+
+    <li>introMemo(tag=meme_GodEmperor)->Now, I know there have been rummors of the CEO of the Company being a God. Yes, a God Emperor, in fact. But that doesn't mean anything unless each and any of you acts PROACTIVELY. We need to leverage our assets!</li>
+
+    <li>alienistProphecy(tag=meme_GodEmperor)->All these wondrous animals will be a great trophy for our beloved God Emperor.</li>
+  -->
+  <VME_GodEmperor.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_GodEmperor)        ->[deity0_name] благословил Избранного [deity0_possessive], нашего Бога-Императора, который укажет наш путь в жизни.</li>
+    <li>episode(uses=1,tag=meme_GodEmperor)  ->[deity0_name] сказал всем [memberNamePlural], "Ибо вы должны следовать за моим Избранником, Богом-Императором, и преклоняться перед ним в смирении, покорности и обожании".</li>
+
+    <li>intro(tag=meme_GodEmperor)           ->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], огромный памятник  нашему богу-императору.</li>
+    <li>conflict(tag=meme_GodEmperor)        ->Трус [foeLeader], стремился отрицать нашу веру [deity0_name], tried to slay our God пытались убить нашего Бога-Императора, но нашли только смерть.</li>
+    <li>founderJoin(tag=meme_GodEmperor)     ->[deity0_name] благословил [place_job] именуемое [founderName] с [foeLeader_possessive] божественную силу, и это священное место наделяет силой нашего вечного Бога-Императора.</li>
+
+    <li>setup(tag=meme_GodEmperor)           ->Наш основатель [founderName] был величайшим из учеников нашего Бога-Императора, истинным слугой.</li>
+    <li>story(uses=1,tag=meme_GodEmperor)    ->Последователи распространяли мудрость непоколебимой верности постановлениям нашего Бога Императора.</li>
+
+    <li>lessonIntro(tag=meme_GodEmperor)         ->За все годы моего служения нашему Богу-Императору я усвоил один урок, очень важный урок:</li>
+    <li>lesson(tag=meme_GodEmperor)              ->только через абсолютное подчинение нашему лидеру мы достигнем наших целей</li>
+    <li>lessonReinforcement(tag=meme_GodEmperor) ->Только благодаря Божественной воле нашего Бога-Императора мы сможем раскрыть тайны Космоса.</li>
+
+    <li>archistBasis(tag=meme_GodEmperor)    ->Архотеки провозглашают присутствие своё в небе и разуме и Бога-Императора - Избранный их.</li>
+    <li>archistFact(tag=meme_GodEmperor)     ->Мудрость архотеков не знает предела. И ничего удивительного в том, что их проявления также являются воплощением мудрости.</li>
+    <li>archistProphecy(tag=meme_GodEmperor) ->[inTheEnd],Архотеки передадут свою последнюю мудрость нашему Богу-Императору, обладателю [relic0_name].</li>
+
+    <li>animistFact(tag=meme_GodEmperor)     ->Духи хотят чтобы о них знали, и они проявляют себя в теле нашего Бога Императора.</li>
+
+    <li>serketistProphecy(tag=meme_GodEmperor)->[itIsSaid] Наш Бог-Император будет окроплён кровью и ихором тысяч насекомых, благословлённый их общей жертвой.</li>
+
+    <li>chthonianProphecy(tag=meme_GodEmperor)->Наш Бог-Император - хранитель безумия, тот, кто оберегает наш разум от жестокого безумия Космоса.</li>
+
+    <li>esotericismProphecy(tag=meme_GodEmperor)->Мудрость нашего Бога-Императора открывает ему путь к неизведанному и он будет вести нас к этим тайным знаниям.</li>
+  
+    <li>eschatologismFact(tag=meme_GodEmperor)->Наш Бог-Император принесёт Конец Времён. И в служении ему мы прикоснёмся к его великой славе.</li>
+
+    <li>introMemo(tag=meme_GodEmperor)->Я знаю, что ходили слухи о том, что генеральный директор компании - Бог. Да, Бог-Император, на самом деле. Но это ничего не значит, если каждый из вас не будет работать ПРОДУКТИВНО!</li>
+
+    <li>alienistProphecy(tag=meme_GodEmperor)->Все эти экзотические животные станут большим трофеем для нашего любимого Бога Императора.</li>
+  </VME_GodEmperor.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: God Emperor -->
+  <VME_GodEmperor.symbolPacks.0.ideoName>Бог-Император</VME_GodEmperor.symbolPacks.0.ideoName>
+  <!-- EN:  -->
+  <VME_GodEmperor.symbolPacks.0.theme>Бога-Императора</VME_GodEmperor.symbolPacks.0.theme>
+  <!-- EN: divine -->
+  <VME_GodEmperor.symbolPacks.0.adjective>божественный</VME_GodEmperor.symbolPacks.0.adjective>
+  <!-- EN:  -->
+  <VME_GodEmperor.symbolPacks.0.member>слуга</VME_GodEmperor.symbolPacks.0.member>
+</LanguageData>
