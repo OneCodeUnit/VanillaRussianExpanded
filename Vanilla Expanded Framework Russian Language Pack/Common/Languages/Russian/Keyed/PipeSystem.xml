@@ -64,13 +64,16 @@
   <!-- EN: Buffer: {0} -->
   <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
   <!-- EN: Producing {0} {1}. Cycle progress: {2}. -->
-  <PipeSystem_Producing>Производит {0} ед. {lookup: {0}; Case; 1}. Прогресс: {2}.</PipeSystem_Producing>
+  <PipeSystem_Producing>Производит {0} ед. {lookup: {1}; Case; 1}. Прогресс: {2}.</PipeSystem_Producing>
   <!-- EN: Produce {0} {1} from {2} {3} -->
   <PipeSystem_Produce>Производит {0} {1} из {2} {3}</PipeSystem_Produce>
   <!-- EN: Choose result -->
   <PipeSystem_ChooseResult>Выбрать продукт</PipeSystem_ChooseResult>
   <!-- EN: Choose processor result. -->
   <PipeSystem_ChooseResultDesc>Выбрать производимый продукт.</PipeSystem_ChooseResultDesc>
+
+  <!-- EN: Produce {0} {1} using: -->
+  <PipeSystem_ProduceLabel>Производит {0} ед. {lookup: {1}; Case; 1} используя:</PipeSystem_ProduceLabel>
 
   <!-- EN: Transfer storage content -->
   <PipeSystem_TransferContent>Перенести из хранилища</PipeSystem_TransferContent>
@@ -102,4 +105,21 @@
   <PipeSystem_StorageContentRotted>Содержимое {0} сгнило из-за нехватки энергии.</PipeSystem_StorageContentRotted>
   <!-- EN: Content will rot in {0} due to a lack of power. -->
   <PipeSystem_ContentWillRot>Содержимое {0} сгниёт из-за нехватки энергии.</PipeSystem_ContentWillRot>
+  
+  <!-- EN: Nothing to pick-up -->
+  <PipeSystem_NothingToPickUp>Нечего собирать</PipeSystem_NothingToPickUp>  
+  <!-- EN: Make {0} -->
+  <PipeSystem_MakeProcess>Создать {0}</PipeSystem_MakeProcess>  
+  <!-- EN: Output to {0} net -->
+  <PipeSystem_OutputToNet>Вывод в {0} сеть</PipeSystem_OutputToNet>  
+  <!-- EN: or {0} net -->
+  <PipeSystem_OrNet>или в {0} сеть</PipeSystem_OrNet>  
+  <!-- EN: {0} from net -->
+  <PipeSystem_XFromNet>{0} из сети</PipeSystem_XFromNet>  
+  <!-- EN: Processes -->
+  <PipeSystem_Processes>Процессы</PipeSystem_Processes>  
+  <!-- EN: Add process -->
+  <PipeSystem_AddProcess>Добавить процесс</PipeSystem_AddProcess>  
+  <!-- EN: Cancel current process -->
+  <PipeSystem_CancelCurrentProcess>Отменить текущий процесс</PipeSystem_CancelCurrentProcess>
 </LanguageData>

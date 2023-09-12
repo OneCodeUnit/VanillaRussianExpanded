@@ -13,9 +13,11 @@
   <!-- EN: Developer Mode -->
   <MVCF.Settings.Debug>Режим разработчика</MVCF.Settings.Debug>
   <!-- EN: Log level: -->
-  <MVCF.Settings.LogLevel>Уровень логгирования:</MVCF.Settings.LogLevel>
+  <MVCF.Settings.LogLevel>Уровень логирования:</MVCF.Settings.LogLevel>
   <!-- EN: None -->
   <MVCF.Settings.LogLevel.None>Отсутствует</MVCF.Settings.LogLevel.None>
+  <!-- EN: Info -->
+  <MVCF.Settings.LogLevel.Info>Информация</MVCF.Settings.LogLevel.Info>
   <!-- EN: Important -->
   <MVCF.Settings.LogLevel.Important>Важное</MVCF.Settings.LogLevel.Important>
   <!-- EN: Verbose -->
@@ -24,4 +26,6 @@
   <MVCF.Settings.LogLevel.Silly>Избыточный</MVCF.Settings.LogLevel.Silly>
   <!-- EN: Tick -->
   <MVCF.Settings.LogLevel.Tick>Каждый тик</MVCF.Settings.LogLevel.Tick>
+  <!-- EN: Toggle automatic reloading while drafted -->
+  <MVCF.ToggleAutoReload>Включить автоматическую перезарядку в режиме призыва</MVCF.ToggleAutoReload>
 </LanguageData>
