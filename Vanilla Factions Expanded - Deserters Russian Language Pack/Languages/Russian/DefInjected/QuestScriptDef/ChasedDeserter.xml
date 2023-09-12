@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: questName->Chased deserter -->
+  <VFED_ChasedDeserter.questNameRules.rulesStrings>
+  <li>questName->преследуемый дезертир</li>
+  </VFED_ChasedDeserter.questNameRules.rulesStrings>
+  <!-- EN: questDescription->[asker_nameFull], [asker_titleIndef], is calling from nearby. [asker_pronoun] has deserted the army of [asker_factionName] and is being hunted by (*Threat)a loyalty squad(/Threat). [asker_pronoun] wishes to join you at [map_definite].\nBeware - If you accept [asker_nameDef], you will become an enemy of [asker_factionName]! The pursuing loyalty squad will attack immediately. It is composed of: \n\n[raid/raidPawnKinds]\nOnly accept if you wish to fight against [asker_factionName].\nPicking the side of the deserters will make the Empire permanently hostile, however it will also give you access to the Deserter network via the comms console. You will be able to gain intel on the Shattered Empire and trade this intel for powerful imperial gear, deserter inventions and new quests. At some point, you will be able to launch assassination missions on fanatic imperial figures in order to destabilize the empire.\nIf you have a titled nobility under your control, they will lose all their titles, and with them, requirements for their titles. They will however generate a lump sum of intel for you, and the amount of intel depends on their current rank with Shattered Empire. -->
+  <VFED_ChasedDeserter.questDescriptionRules.rulesStrings>
+  <li>questDescription->[asker_nameFull], [asker_titleIndef], бежит и зовёт на помощь! [asker_possessive] преследует (*Threat)отряд военной полиции(/Threat) [asker_factionName] за дезертирство. [asker_pronoun] хочет присоединиться к вашему поселению [map_definite].\nУчтите, если вы примете [asker_nameDef] в своё поселение, вы станете врагом [asker_factionName]! Следующий за дезертиром отряд военной полиции нападёт незамедлительно. Он состоит из: \n\n[raid/raidPawnKinds]\n\nПринимайте это задание только если вы собираетесь сражаться против [asker_factionName].\nЕсли вы выберете сторону дезертиров, Империя навсегда станет к вам враждебной, но при этом вы получите доступ к дезертирской сети через консоль связи. Это позволит получать разведданные о Раздробленной Империи и обменивать их на мощное имперское снаряжение, технологии дезертиров и новые задания. Через какое-то время вы сможете брать миссии на устранение фанатичных имперских деятелей с целью дестабилизации Империи.\nЕсли под вашим контролем есть представители титулованной знати, то они утратят свои титулы, а вместе с ними и связанные с ними требования. Однако при этом вы единоразово получите разведданные, количество которых зависит от текущего титула.</li>
+  </VFED_ChasedDeserter.questDescriptionRules.rulesStrings>
+
+  
+  <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], [asker_factionName] has become hostile.\n\nThe loyalty squad that is hunting [asker_objective] will arrive soon. -->
+  <VFED_ChasedDeserter.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nТак как вы приняли [asker_nameDef] в своё поселение, [asker_factionName] теперь относится к вам враждебно.\n\nОтряд военной полиции, преследующий [asker_objective], скоро прибудет.</VFED_ChasedDeserter.root.nodes.PawnsArrive.customLetterText.slateRef>
+  
+  <!-- EN: {BASELABEL}: Loyalty squad -->
+  <VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL}: Отряд военной полиции</VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+  
+  <!-- EN: {BASETEXT}\n\nThis is the loyalty squad that was hunting [../asker_nameFull]. -->
+  <VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n\nЭто отряд военной полиции, который преследовал [../asker_nameFull].\n</VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+</LanguageData>
