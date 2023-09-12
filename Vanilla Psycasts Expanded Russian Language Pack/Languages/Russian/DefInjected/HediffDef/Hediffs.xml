@@ -122,20 +122,26 @@
 
   <!-- EN: liferot -->
   <VPE_Liferot.label>гниение заживо</VPE_Liferot.label>
-  <!-- EN: Psychically-induced mass necrosis, causing living and healthy limbs and organs to rot on the victim.< -->
+  <!-- EN: Psychically-induced mass necrosis, causing living and healthy limbs and organs to rot on the victim. -->
   <VPE_Liferot.description>Психически вызванный массовый некроз, вызывающий гниение живых и здоровых конечностей и органов жертвы.</VPE_Liferot.description>
 
   <!-- EN: rot -->
   <VPE_Rot.label>гниение</VPE_Rot.label>
   <!-- EN: A rot. -->
   <VPE_Rot.description>Гниение.</VPE_Rot.description>
+  <!-- EN: bandaged -->
+	<VPE_Rot.comps.1.labelTendedWell>перевязано</VPE_Rot.comps.1.labelTendedWell>
+  <!-- EN: tended -->
+	<VPE_Rot.comps.1.labelTendedWellInner>обработано</VPE_Rot.comps.1.labelTendedWellInner>
+  <!-- EN: tended -->
+	<VPE_Rot.comps.1.labelSolidTendedWell>обработано</VPE_Rot.comps.1.labelSolidTendedWell>
   <!-- EN: Rotted away -->
   <VPE_Rot.injuryProps.destroyedLabel>сгнило</VPE_Rot.injuryProps.destroyedLabel>
   <!-- EN: Rotted away -->
   <VPE_Rot.injuryProps.destroyedOutLabel>сгнило</VPE_Rot.injuryProps.destroyedOutLabel>
   <!-- EN: a rot -->
   <VPE_Rot.labelNoun>гниение</VPE_Rot.labelNoun>
-  <VPE_Rot.labelNounPretty>{0} {1}</VPE_Rot.labelNounPretty >
+  <VPE_Rot.labelNounPretty>{0} {1}</VPE_Rot.labelNounPretty>
 
   <!-- EN: psychic vitality -->
   <VPE_GainedVitality.label>жизненная пси-сила</VPE_GainedVitality.label>
@@ -176,4 +182,9 @@
   <VPE_Shadowfocus.label>теневая концентрация</VPE_Shadowfocus.label>
   <!-- EN: Psychically-induced increase to psychic sensitivity based on the lack of light around the psycaster. -->
   <VPE_Shadowfocus.description>Психически призванное увеличение психочувствительности, зависящее от недостатка освещённости вокруг псионика.</VPE_Shadowfocus.description>
+
+  <!-- EN: sacrificed -->
+	<VPE_Sacrificed.label>sacrificed</VPE_Sacrificed.label>
+  <!-- EN: Psychically-induced limb removal caused by a powerful psycast. This body part will not regrow under any circumstances, even after using powerful healing artifacts. -->
+	<VPE_Sacrificed.description>Удаление конечности, вызванное мощной пси-способностью. Эта часть тела не отрастёт ни при каких условиях. Даже после использования мощных исцеляющих артефактов.</VPE_Sacrificed.description>
 </LanguageData>

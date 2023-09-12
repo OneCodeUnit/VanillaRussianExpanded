@@ -2,70 +2,70 @@
 <LanguageData>
   <!-- EN: bolt -->
   <VPE_Bolt.label>разряд</VPE_Bolt.label>
-  <!-- EN:Hurls a weak bolt of electricity to strike a small target, inflicting minor burns on direct hits and area EMP damage. -->
-  <VPE_Bolt.description>Отправляет относительно слабый разряд электричества, способный поразить небольшую цель, причиняя ожоги и накрывая зону воздействия ЭМИ-воздействием.</VPE_Bolt.description>
+  <!-- EN: Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage. -->
+  <VPE_Bolt.description>Отправляет относительно слабый разряд электричества, способный поразить небольшую зону, причиняя ожоги и накрывая её воздействием ЭМИ. Дальность действия способности зависит от психочувствительности псионика.</VPE_Bolt.description>
   <VPE_Bolt.jobReportString>Использует способность: {0}</VPE_Bolt.jobReportString>
   <VPE_Bolt.verbProperties.label>разряд</VPE_Bolt.verbProperties.label>
 
-  <!-- EN:chain bolt -->
+  <!-- EN: chain bolt -->
   <VPE_ChainBolt.label>цепной разряд</VPE_ChainBolt.label>
-  <!-- EN:Projects a living bolt of electricity to a target which can then follow up with 5 more nearby targets, inflicting small burns and EMP damage. -->
-  <VPE_ChainBolt.description>Выпускает в цель разряд электричества, который потом может поразить пять ближайших целей, причиняя им ожоги и повреждая электронику ЭМИ-воздействием.</VPE_ChainBolt.description>
+  <!-- EN: Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage. -->
+  <VPE_ChainBolt.description>Выпускает в цель разряд электричества, который потом может поразить несколько ближайших целей, причиняя им ожоги и повреждая электронику ЭМИ-воздействием. Количество дополнительных целей зависит от психочувствительности псионика.</VPE_ChainBolt.description>
   <VPE_ChainBolt.jobReportString>Использует способность: {0}</VPE_ChainBolt.jobReportString>
   <VPE_ChainBolt.verbProperties.label>цепной разряд</VPE_ChainBolt.verbProperties.label>
 
-  <!-- EN:thunderbolt -->
+  <!-- EN: thunderbolt -->
   <VPE_Thunderbolt.label>удар молнии</VPE_Thunderbolt.label>
-  <!-- EN:Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. -->
-  <VPE_Thunderbolt.description>Призывает удар молнии в указанное место, причиняя ожоги и ЭМИ-урон всем, кто окажется в зоне действия.</VPE_Thunderbolt.description>
+  <!-- EN: Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells. -->
+  <VPE_Thunderbolt.description>Призывает удар молнии в указанное место, причиняя ожоги и ЭМИ-урон всем, кто окажется в зоне действия. Радиус поражения зависит от психочувствительности псионика, но не может быть больше 12 клеток.</VPE_Thunderbolt.description>
   <VPE_Thunderbolt.jobReportString>Использует способность: {0}</VPE_Thunderbolt.jobReportString>
   <VPE_Thunderbolt.verbProperties.label>удар молнии</VPE_Thunderbolt.verbProperties.label>
 
-  <!-- EN:static aura -->
+  <!-- EN: static aura -->
   <VPE_StaticAura.label>статическая аура</VPE_StaticAura.label>
-  <!-- EN:The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects. -->
+  <!-- EN: The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects. -->
   <VPE_StaticAura.description>Псионик накапливает электрические заряды в определённом месте. Все чужие объекты, живые или нет, будут находиться под действием ЭМИ будучи в зоне действия.</VPE_StaticAura.description>
   <VPE_StaticAura.jobReportString>Использует способность: {0}</VPE_StaticAura.jobReportString>
   <VPE_StaticAura.verbProperties.label>статическая аура</VPE_StaticAura.verbProperties.label>
 
-  <!-- EN:recharge -->
+  <!-- EN: recharge -->
   <VPE_Recharge.label>зарядка</VPE_Recharge.label>
-  <!-- EN:Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity. -->
+  <!-- EN: Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity. -->
   <VPE_Recharge.description>Бережно и аккуратно направляет поток электричества в находящийся поблизости аккумулятор, заряжая его 100 кВт энергии или эквивалентом 100 Вт/с. Длительность периода зарядки зависит от психической чувствительности псионика.</VPE_Recharge.description>
   <VPE_Recharge.jobReportString>Использует способность: {0}</VPE_Recharge.jobReportString>
   <VPE_Recharge.verbProperties.label>зарядка</VPE_Recharge.verbProperties.label>
 
-  <!-- EN:ball lightning -->
+  <!-- EN: ball lightning -->
   <VPE_BallLightning.label>шаровая молния</VPE_BallLightning.label>
-  <!-- EN:The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity. -->
+  <!-- EN: The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity. -->
   <VPE_BallLightning.description>Псионик создаёт сжатый до предела шар концентрированного электричества, который потом начинает двигаться в указанное место. Спустя секунды после запуска, этот шар начнёт выпускать электрические разряды в пространство, поражая находящиеся вокруг объекты цепными разрядами электричества.</VPE_BallLightning.description>
   <VPE_BallLightning.jobReportString>Использует способность: {0}</VPE_BallLightning.jobReportString>
   <VPE_BallLightning.verbProperties.label>шаровая молния</VPE_BallLightning.verbProperties.label>
 
-  <!-- EN:static pulse -->
+  <!-- EN: static pulse -->
   <VPE_StaticPulse.label>статическая волна</VPE_StaticPulse.label>
-  <!-- EN:The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless. -->
+  <!-- EN: The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless. -->
   <VPE_StaticPulse.description>Псионик выпускает значительное количество энергии в пространство вокруг, создавая эффект ЭМИ-удара в значительном радиусе вокруг себя.</VPE_StaticPulse.description>
   <VPE_StaticPulse.jobReportString>Использует способность: {0}</VPE_StaticPulse.jobReportString>
   <VPE_StaticPulse.verbProperties.label>статическая волна</VPE_StaticPulse.verbProperties.label>
 
-  <!-- EN:vortex -->
+  <!-- EN: vortex -->
   <VPE_Vortex.label>вихрь</VPE_Vortex.label>
-  <!-- EN:Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center. -->
+  <!-- EN: Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center. -->
   <VPE_Vortex.description>Создаёт зияющий вихрь высоковольтного электричества, направленного с помощью прыжковых врат из штормов, бушующих в космических туманностях. Наносит значительный урон в указанной области. Серьёзно снижает возможность к передвижению и взаимодействию с объектами. Наиболее сильно эффект проявляется в центре вихря.</VPE_Vortex.description>
   <VPE_Vortex.jobReportString>Использует способность: {0}</VPE_Vortex.jobReportString>
   <VPE_Vortex.verbProperties.label>вихрь</VPE_Vortex.verbProperties.label>
 
-  <!-- EN:hurricane -->
+  <!-- EN: hurricane -->
   <VPE_Hurricane.label>ураган</VPE_Hurricane.label>
-  <!-- EN:The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop. -->
+  <!-- EN: The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop. -->
   <VPE_Hurricane.description>Используя некоторое количество прыжковых врат, направленных в области различного давления, псионик инициирует локальную смену погоды, которая выражается в ураганном ветре и осадках, которые держатся до тех пор, пока псионик способен поддерживать прыжковые врата открытыми. Те, кого внезапная непогода застанет на улице, будут испытывать на себе такие эффекты, как снижение восприятия и затруднённое движение, пока они наконец не будут вынуждены оставаться на месте, будучи лишёнными способности двигаться.</VPE_Hurricane.description>
   <VPE_Hurricane.jobReportString>Использует способность: {0}</VPE_Hurricane.jobReportString>
   <VPE_Hurricane.verbProperties.label>ураган</VPE_Hurricane.verbProperties.label>
 
-  <!-- EN:flashstorm -->
+  <!-- EN: flashstorm -->
   <VPE_Flashstorm.label>вызов грозового шторма</VPE_Flashstorm.label>
-  <!-- EN:Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
+  <!-- EN: Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
   <VPE_Flashstorm.description>Открывает прыжковые врата в атмосфере для создания разницы давления и вызова локализованного грозового шторма. Некоторое время по выбранной территории будет бить большое количество молний.</VPE_Flashstorm.description>
   <VPE_Flashstorm.jobReportString>Использует способность: {0}</VPE_Flashstorm.jobReportString>
   <VPE_Flashstorm.verbProperties.label>вызов грозового шторма</VPE_Flashstorm.verbProperties.label>

@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN:flameball -->
+  <!-- EN: flameball -->
   <VPE_Flameball.label>огненный шар</VPE_Flameball.label>
-  <!-- EN:Generate a small fragile pod of magma as the caster lobs the projectile away. Upon impact, the liquid bursts forth in a small radius. -->
-  <VPE_Flameball.description>Создать небольшой хрупкий шар из магмы, который псионик отправляет в сторону цели. При столкновении с препятствием жидкая часть снаряда разлетается в небольшом радиусе.</VPE_Flameball.description>
+  <!-- EN: Throw an orb of condensed flames, similar to a grenade, which explodes upon impact. The range scales with the caster’s psychic sensitivity. -->
+  <VPE_Flameball.description>Бросить сферу огня подобно гранате. Она взорвётся при столкновении, а радиус взрыва будет зависеть от психочувствительности псионика.</VPE_Flameball.description>
   <VPE_Flameball.jobReportString>Использует способность: {0}</VPE_Flameball.jobReportString>
   <VPE_Flameball.verbProperties.label>огненный шар</VPE_Flameball.verbProperties.label>
 
-  <!-- EN:self explosion -->
+  <!-- EN: self explosion -->
   <VPE_SelfExplosion.label>самоподрыв</VPE_SelfExplosion.label>
-  <!-- EN:Creates a brief-lived incendiary vortex skipgate around the caster that is connected to hidden reservoirs of pressurized flammable gas. As the gas escapes, it ignites and spreads rapidly, dealing little direct damage but will set almost everything it touches on fire. -->
-  <VPE_SelfExplosion.description>Создаёт краткосрочный вихреобразный портал, соединённый со скрытыми резервуарами горючего газа, находящегося под давлением. Покидая резервуар, газ воспламеняется и быстро распространяется, нанося урон и поджигая всё вокруг.</VPE_SelfExplosion.description>
+  <!-- EN: Expels pressurized, flammable gas from the caster which immediately ignites. High chance of igniting those in the blast site, but does little damage without harming the caster. -->
+  <VPE_SelfExplosion.description>Псионик выпускает сжиженный газ, который сразу же воспламеняется. С высокой вероятностью воспламеняет тех, кто находится в неподалёку, но сам взрыв газа наносит лишь небольшой урон, не затрагивая самого псионика.</VPE_SelfExplosion.description>
   <VPE_SelfExplosion.jobReportString>Использует способность: {0}</VPE_SelfExplosion.jobReportString>
   <VPE_SelfExplosion.verbProperties.label>самоподрыв</VPE_SelfExplosion.verbProperties.label>
 
-  <!-- EN:explosion -->
+  <!-- EN: explosion -->
   <VPE_Explosion.label>взрыв</VPE_Explosion.label>
-  <!-- EN:Generates a brief, micro skipgate within underground reservoirs of unrefined organic chemicals, along with a tiny spark at the designated location. Burning gas bursts forth in a large radius and elements of chemfuel spurt out uncontrollably. -->
-  <VPE_Explosion.description>Создаёт крохотные прыжковые врата внутрь подземного резервуара необработанных органических химикатов в указанной области. Горючий газ вырывается от искры в указанном месте, неконтролируемо разбрызгивая лужи химтоплива.</VPE_Explosion.description>
+  <!-- EN: Ignites a small amount of deepchem underneath the target area, which vents to the surface in an explosion. Burns the area and spills forth excess liquid. -->
+  <VPE_Explosion.description>Воспламеняет небольшое количество глубтоплива под выбранной областью, что приводит в выходу топлива на поверхность и взрыву. Поджигает область и разбрызгивает топливо вокруг.</VPE_Explosion.description>
   <VPE_Explosion.jobReportString>Использует способность: {0}</VPE_Explosion.jobReportString>
   <VPE_Explosion.verbProperties.label>взрыв</VPE_Explosion.verbProperties.label>
 
-  <!-- EN:fire shield -->
+  <!-- EN: fire shield -->
   <VPE_FireShield.label>огненный щит</VPE_FireShield.label>
-  <!-- EN:Creates a temporary incendiary vortex skipgate around a target that links to a nearby star that extends outward by a few inches. Anyone that attempts to attack the target in melee will be set ablaze, with the additional benefit of overpowering any other fire effects. -->
-  <VPE_FireShield.description>Создаёт вре́менные спиралеобразные прыжковые врата вокруг цели, расходящиеся вокруг и забирающие материю из ближайшей звезды. Любой, кто решит атаковать цель в ближнем бою, неизбежно вспыхнет. И это перекроет горение от других источников.</VPE_FireShield.description>
+  <!-- EN: Creates an aura of blazing flames around the target for a time, preventing them from immolation and igniting any who try to attack them in melee. Duration scales with the caster’s psychic sensitivity. -->
+  <VPE_FireShield.description>Создаёт ауру пылающего пламени вокруг цели на некоторое время, но не сжигая её. Любой, кто решит атаковать цель в ближнем бою, неизбежно вспыхнет. Продолжительность зависит от психочувствительности псионика</VPE_FireShield.description>
   <VPE_FireShield.jobReportString>Использует способность: {0}</VPE_FireShield.jobReportString>
   <VPE_FireShield.verbProperties.label>огненный щит</VPE_FireShield.verbProperties.label>
 
-  <!-- EN:breathe flame -->
+  <!-- EN: breathe flame -->
   <VPE_BreatheFlame.label>огненное дыхание</VPE_BreatheFlame.label>
-  <!-- EN:Generates a brief, unidirectional skipgate within underground reservoirs of unrefined organic chemicals, along with a tiny spark in front of the caster’s mouth. Jets of blazing, unrefined chemfuel streak forth setting everything on fire. -->
-  <VPE_BreatheFlame.description>Создаёт небольшие ненаправленные короткоживущие прыжковые врата перед лицом псионика, соединённые с резервуаром подземных химикатов. Малейшей искры достаточно, чтобы направить ревущий поток необработанного химтоплива вперёд, поджигая всё на своём пути.</VPE_BreatheFlame.description>
+  <!-- EN: Spews forth flammable liquid which immediately ignites, along with everything the flames touch. -->
+  <VPE_BreatheFlame.description>Псионик извергает из себя горючую жидкость, которая немедленно воспламеняется поджигая всё вокруг.</VPE_BreatheFlame.description>
   <VPE_BreatheFlame.jobReportString>Использует способность: {0}</VPE_BreatheFlame.jobReportString>
   <VPE_BreatheFlame.verbProperties.label>огненное дыхание</VPE_BreatheFlame.verbProperties.label>
 
-  <!-- EN:eye blast -->
+  <!-- EN: eye blast -->
   <VPE_EyeBlast.label>огненный взгляд</VPE_EyeBlast.label>
-  <!-- EN:Generates two micro, unidirectional skipgates in front of the caster’s eyes which link to a nearby white dwarf. Targeting a location to prevent overshooting, the blinding energy shoots forth and sets a small area ablaze. -->
-  <VPE_EyeBlast.description>Создаёт миниатюрные ненаправленные прыжковые врата перед глазами псионика. Эти врата соединены с ближайшим «белым карликом». Ослепительный поток энергии вырывается из прыжковых врат и поджигает небольшую зону, обозначенную как цель для применения способности.</VPE_EyeBlast.description>
+  <!-- EN: Emulating a star, the caster compresses highly energized gas which escapes in the desired direction, with damage scaling with psychic sensitivity. Ignites a small but distant area. -->
+  <VPE_EyeBlast.description>Имитируя звезду, псионик сжимает заряженный газ и выпускает его в выбранном направлении. Урон зависит от психочувствительности псионика. Поджигает небольшую область, но на большом расстоянии.</VPE_EyeBlast.description>
   <VPE_EyeBlast.jobReportString>Использует способность: {0}</VPE_EyeBlast.jobReportString>
   <VPE_EyeBlast.verbProperties.label>огненный взгляд</VPE_EyeBlast.verbProperties.label>
 
-  <!-- EN:extinguish flames -->
+  <!-- EN: extinguish flames -->
   <VPE_QuenchFlames.label>потушить пламя</VPE_QuenchFlames.label>
-  <!-- EN:Generates skipgates linked to passing nearby ships that “misplaces” the firefoam contained in the ship’s fire suppression system. As there is a lot to “borrow”, the radius is quite impressive. -->
-  <VPE_QuenchFlames.description>Создаёт прыжковые врата, связанные с пролетающим мимо кораблём, у которого оказалась «неправильно» размещена пожарная пена в системе пожаротушения. Поскольку «неправильно» размещённой пены обычно оказывается много, радиус пожаротушения впечатляет.</VPE_QuenchFlames.description>
+  <!-- EN: Converts a local deposit of deepchem into fire-retardant foam which sprays forth from the user in a large area. -->
+  <VPE_QuenchFlames.description>Преобразует глубтопливо из ближайших подземных залежей в противопожарную пену, которая распылится на большую территорию вокруг псионика.</VPE_QuenchFlames.description>
   <VPE_QuenchFlames.jobReportString>Использует способность: {0}</VPE_QuenchFlames.jobReportString>
   <VPE_QuenchFlames.verbProperties.label>потушить пламя</VPE_QuenchFlames.verbProperties.label>
 
-  <!-- EN:meteor shower -->
+  <!-- EN: meteor shower -->
   <VPE_MeteorShower.label>метеоритный дождь</VPE_MeteorShower.label>
-  <!-- EN:Introduces gravitational distortions in orbiting meteoroids and space debris to strike a location of the caster’s choosing. These come in groups of 4 to ensure optimal control and devastation.-->
-  <VPE_MeteorShower.description>Вызывает гравитационные искажения возле находящихся поблизости метеоритов и космического мусора, заставляя их упасть в выбранное псиоником место. Обычно падает по четыре метеорита, что даёт оптимальный контроль в сочетании с разрушительной силой.</VPE_MeteorShower.description>
+  <!-- EN: Skips and immolates orbiting meteoroids to strike a designated area. The number of impacts scales with psychic sensitivity. -->
+  <VPE_MeteorShower.description>Вызывает пространственные искажения возле находящихся на орбите метеоритов, заставляя их упасть в выбранное псиоником место. Количество метеоритов зависит от психочувствительности псионика.</VPE_MeteorShower.description>
   <VPE_MeteorShower.jobReportString>Использует способность: {0}</VPE_MeteorShower.jobReportString>
   <VPE_MeteorShower.verbProperties.label>метеоритный дождь</VPE_MeteorShower.verbProperties.label>
 
   <!-- EN: fire beam -->
   <VPE_FireBeam.label>огненный луч</VPE_FireBeam.label>
-  <!-- EN: Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. -->
-  <VPE_FireBeam.description>Попытка воссоздать силу звезды внутри столба кислорода, сжатого до состояния жидкости. Возникающий при этом выброс плазмы является настолько мощным, что только самые продвинутые оружейные системы способны сравниться с разрушительным эффектом.</VPE_FireBeam.description>
+  <!-- EN: Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. The long, intense concentration ends with the caster falling into a 6-hour coma. -->
+  <VPE_FireBeam.description>Попытка воссоздать силу звезды внутри столба кислорода, сжатого до состояния жидкости. Возникающий при этом выброс плазмы является настолько мощным, что только самые продвинутые оружейные системы способны сравниться с разрушительным эффектом. Такая длительная и напряжённая концентрация погрузит псионика в шестичасовую кому.</VPE_FireBeam.description>
   <VPE_FireBeam.jobReportString>Использует способность: {0}</VPE_FireBeam.jobReportString>
   <VPE_FireBeam.verbProperties.label>огненный луч</VPE_FireBeam.verbProperties.label>
 

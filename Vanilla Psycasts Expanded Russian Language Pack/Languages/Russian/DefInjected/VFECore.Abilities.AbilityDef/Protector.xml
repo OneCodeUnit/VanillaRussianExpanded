@@ -1,71 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN:painblock -->
+  <!-- EN: painblock -->
   <VPE_Painblock.label>блокировка боли</VPE_Painblock.label>
-  <!-- EN:Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
+  <!-- EN: Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
   <VPE_Painblock.description>На две минуты ограничить у цели проводимость центров мозга, отвечающих за чувство боли. Это позволит цели оставаться в сознании и на ногах даже после ранений, которые в обычных условиях свалили бы человека с ног.</VPE_Painblock.description>
   <VPE_Painblock.jobReportString>Использует способность: {0}</VPE_Painblock.jobReportString>
   <VPE_Painblock.verbProperties.label>блокировка боли</VPE_Painblock.verbProperties.label>
 
-  <!-- EN:word of healing -->
+  <!-- EN: word of healing -->
   <VPE_WordofHealing.label>слово исцеления</VPE_WordofHealing.label>
-  <!-- EN:Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days. -->
+  <!-- EN: Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days. -->
   <VPE_WordofHealing.description>Психически стимулирует естественные регенеративные способности цели, приводя их в сверхактивное состояние, что позволяет утроить естественный регенеративный потенциал на протяжении трёх дней.</VPE_WordofHealing.description>
   <VPE_WordofHealing.jobReportString>Использует способность: {0}</VPE_WordofHealing.jobReportString>
   <VPE_WordofHealing.verbProperties.label>слово исцеления</VPE_WordofHealing.verbProperties.label>
 
-  <!-- EN:stabilize -->
+  <!-- EN: stabilize -->
   <VPE_Stabilize.label>стабилизировать</VPE_Stabilize.label>
-  <!-- EN:Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for two minutes. -->
+  <!-- EN: Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for two minutes. -->
   <VPE_Stabilize.description>Временно погружает сердечно-сосудистую систему цели в стазис, что позволяет избежать смерти от кровопотери приблизительно на протяжении двух минут.</VPE_Stabilize.description>
   <VPE_Stabilize.jobReportString>Использует способность: {0}</VPE_Stabilize.jobReportString>
   <VPE_Stabilize.verbProperties.label>стабилизировать</VPE_Stabilize.verbProperties.label>
 
-  <!-- EN:word of immunity -->
+  <!-- EN: word of immunity -->
   <VPE_WordofImmunity.label>слово иммунитета</VPE_WordofImmunity.label>
-  <!-- EN:Psychically stimulates a person’s immune system into overdrive, effectively tripling their immunity gain speed for a few days. -->
-  <VPE_WordofImmunity.description>Психически стимулирует иммунную систему человека, приводя её в сверхактивное состояние, утраивая выработку иммунитета на протяжении нескольких ближайших дней.</VPE_WordofImmunity.description>
+  <!-- EN: Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days. -->
+  <VPE_WordofImmunity.description>Психически стимулирует иммунную систему человека, приводя её в сверхактивное состояние, удваивая выработку иммунитета на протяжении нескольких ближайших дней.</VPE_WordofImmunity.description>
   <VPE_WordofImmunity.jobReportString>Использует способность: {0}</VPE_WordofImmunity.jobReportString>
   <VPE_WordofImmunity.verbProperties.label>слово иммунитета</VPE_WordofImmunity.verbProperties.label>
 
-  <!-- EN:overshield -->
+  <!-- EN: overshield -->
   <VPE_Overshield.label>баллистический щит</VPE_Overshield.label>
-  <!-- EN:Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected. -->
+  <!-- EN: Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected. -->
   <VPE_Overshield.description>Окружает указанную цель сферическими прыжковыми вратами, которые отправляют все низколетящие снаряды направленные извне, в отдалённое место на планете. Длительность зависит от психической чувствительности цели. Люди и предметы под влияние способности не попадают.</VPE_Overshield.description>
   <VPE_Overshield.jobReportString>Использует способность: {0}</VPE_Overshield.jobReportString>
   <VPE_Overshield.verbProperties.label>баллистический щит</VPE_Overshield.verbProperties.label>
 
-  <!-- EN:focus -->
+  <!-- EN: focus -->
   <VPE_Focus.label>фокус</VPE_Focus.label>
-  <!-- EN:Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities. -->
+  <!-- EN: Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities. -->
   <VPE_Focus.description>Психически фокусирует разум цели на протяжении одной минуты, улучшая её зрение, слух и скорость движения.</VPE_Focus.description>
   <VPE_Focus.jobReportString>Использует способность: {0}</VPE_Focus.jobReportString>
   <VPE_Focus.verbProperties.label>фокус</VPE_Focus.verbProperties.label>
 
-  <!-- EN:skipshield -->
+  <!-- EN: skipshield -->
   <VPE_Skipshield.label>пси-щит</VPE_Skipshield.label>
-  <!-- EN:Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
-  <VPE_Skipshield.description>Окружает указанную цель сферическими прыжковыми вратами, которые отправляют все низколетящие снаряды направленные извне и изнутри, в отдалённое место на планете. Длительность зависит от психической чувствительности цели. Люди и предметы под влияние способности не попадают.</VPE_Skipshield.description>
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster. -->
+  <VPE_Skipshield.description>Окружает указанную цель сферическими прыжковыми вратами, которые отправляют все низколетящие снаряды направленные извне и изнутри, в отдалённое место на планете. Длительность зависит от психической чувствительности цели. Люди и предметы под влияние способности не попадают. Продолжительность зависит от психочувствительности псионика.</VPE_Skipshield.description>
   <VPE_Skipshield.jobReportString>Использует способность: {0}</VPE_Skipshield.jobReportString>
   <VPE_Skipshield.verbProperties.label>пси-щит</VPE_Skipshield.verbProperties.label>
 
-  <!-- EN:invisibility -->
+  <!-- EN: invisibility -->
   <VPE_Invisibility.label>невидимость</VPE_Invisibility.label>
-  <!-- EN:Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
+  <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
   <VPE_Invisibility.description>Психически влияет на зрительные центры всех вокруг, мешая им воспринимать конкретного индивидуума в течение короткого времени.</VPE_Invisibility.description>
   <VPE_Invisibility.jobReportString>Использует способность: {0}</VPE_Invisibility.jobReportString>
   <VPE_Invisibility.verbProperties.label>невидимость</VPE_Invisibility.verbProperties.label>
 
-  <!-- EN:regrow limbs -->
+  <!-- EN: regrow limbs -->
   <VPE_RegrowLimbs.label>отрастить конечность</VPE_RegrowLimbs.label>
-  <!-- EN:Induces a complex form of psychic rejuvenation that targets the subject’s limbs, namely those that are missing. The effect is gradual over a full day’s time and often described as “wildly uncomfortable” as it overstimulates their phantom limb syndrome. -->
-  <VPE_RegrowLimbs.description>Запускает сложный процесс психической регенерации, направленный на утраченные конечности субъекта. Эффект растянут во времени и длится около суток. Наиболее часто его описывают как «чрезвычайно дискомфортный», так как реакция на этот процесс больше всего похожа на синдром фантомной конечности.</VPE_RegrowLimbs.description>
+  <!-- EN: Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs. -->
+  <VPE_RegrowLimbs.description>Запускает сложный процесс психической регенерации, направленный на утраченные конечности субъекта. Эффект растянут во времени и длится около суток. Психическая энергия будет помогать цели медленно отращивать любые потерянные конечности.</VPE_RegrowLimbs.description>
   <VPE_RegrowLimbs.jobReportString>Использует способность: {0}</VPE_RegrowLimbs.jobReportString>
   <VPE_RegrowLimbs.verbProperties.label>отрастить конечность</VPE_RegrowLimbs.verbProperties.label>
 
-  <!-- EN:guardian skipbarrier -->
+  <!-- EN: guardian skipbarrier -->
   <VPE_GuardianSkipbarrier.label>пси-барьер защитника</VPE_GuardianSkipbarrier.label>
-  <!-- EN:Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps.-->
+  <!-- EN: Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps. -->
   <VPE_GuardianSkipbarrier.description>Окружает указанную цель сферическими прыжковыми вратами, которые отправляют все низколетящие снаряды направленные извне, в отдалённое место на планете. Эффект поддерживается до тех пор, пока уровень нейроперегрева не становится критическим. Люди и предметы под влияние способности не попадают. Данная способность требует титанической концентрации внимания и псионику нужно быть предельно осторожным.</VPE_GuardianSkipbarrier.description>
   <VPE_GuardianSkipbarrier.jobReportString>Использует способность: {0}</VPE_GuardianSkipbarrier.jobReportString>
   <VPE_GuardianSkipbarrier.verbProperties.label>пси-барьер защитника</VPE_GuardianSkipbarrier.verbProperties.label>

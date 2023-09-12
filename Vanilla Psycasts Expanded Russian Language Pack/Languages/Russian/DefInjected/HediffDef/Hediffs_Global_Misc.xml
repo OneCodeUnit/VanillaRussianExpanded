@@ -4,4 +4,11 @@
   <VPE_NoPain.label>отсутствие боли</VPE_NoPain.label>
   <!-- EN: This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
   <VPE_NoPain.description>У этого существа снижена чувствительность к боли, потребуется больше усилий, чтобы сразить его.</VPE_NoPain.description>
+
+  <!-- EN: psychic shock -->
+	<VPE_PsychicShock.label>психический шок</VPE_PsychicShock.label>
+  <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off. -->
+	<VPE_PsychicShock.description>Хаос в сознании, вызванный пси-атаками или критическим уровнем нейроперегрева. Такое состояние абсолютно выводит из строя — остаётся только ждать, пока оно пройдёт.</VPE_PsychicShock.description>
+  <!-- EN: a psychic shock -->
+	<VPE_PsychicShock.labelNoun>психический шок</VPE_PsychicShock.labelNoun>
 </LanguageData>
