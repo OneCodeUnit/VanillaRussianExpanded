@@ -6,7 +6,7 @@
     <li>1.4</li>
   </supportedVersions>
   <packageId>OW.RU.PSY</packageId>
-  <description>Перевод на русский язык модов Vanilla Psycasts Expanded и Vanilla Psycasts Expanded - Hemosage.</description>
+  <description>Перевод на русский язык мода Vanilla Psycasts Expanded и дополнений Hemosage и Puppeteer.</description>
   <modDependencies>
     <li>
       <packageId>VanillaExpanded.VPsycastsE</packageId>
@@ -17,6 +17,7 @@
   <loadAfter>
     <li>VanillaExpanded.VPsycastsE</li>
 	  <li>VanillaExpanded.VPE.Hemosage</li>
+    <li>VanillaExpanded.VPE.Puppeteer</li>
   </loadAfter>
   <incompatibleWith>
     <li>VanillaExpanded.VPsycastsE.LeveFUN.RU</li>

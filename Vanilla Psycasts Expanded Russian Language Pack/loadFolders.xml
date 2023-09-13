@@ -1,6 +1,10 @@
 <loadFolders>
+	<v1.3>
+    <li>Common</li>
+	</v1.3>
 	<v1.4>
-		<li>/</li>
+    <li>Common</li>
 		<li IfModActive="VanillaExpanded.VPE.Hemosage">Hemosage</li>
+		<li IfModActive="VanillaExpanded.VPE.Puppeteer">Puppeteer</li>
 	</v1.4>
 </loadFolders>

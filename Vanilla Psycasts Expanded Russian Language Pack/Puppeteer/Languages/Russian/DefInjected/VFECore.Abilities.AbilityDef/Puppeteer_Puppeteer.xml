@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: brain cut -->
+	<VPEP_BrainCut.label>мозговой разрез</VPEP_BrainCut.label>
+  <!-- EN: An intentional misuse of the reprogramming psycast which creates a permanent rift in the target’s brain. The damage scales with the target’s psychic sensitivity and always disorients for 2 seconds. -->
+	<VPEP_BrainCut.description>Целенаправленно вредоносное применение псионических способностей, изначально предназначенных для перепрограммирования мозга. Такое воздействие наносит непоправимый ущерб мозговым тканям цели. Урон зависит от психочувствительности цели и гарантированно дезориентирует её на 2 секунды.</VPEP_BrainCut.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_BrainCut.jobReportString>Использует способность: {0}</VPEP_BrainCut.jobReportString>
+
+  <!-- EN: brain leech -->
+	<VPEP_BrainLeech.label>мозговая пиявка</VPEP_BrainLeech.label>
+  <!-- EN: Creates a psionic link on a colleague or prisoner that redirects brain processing power to the leacher. The effect is inefficient and reaches its maximum after 2 days before fading into obscurity. Only a single leech can be maintained. -->
+	<VPEP_BrainLeech.description>Создаёт псионическую связь с другим поселенцем, либо же узником, которая перенаправляет когнитивные способности цели псионику. Изначально связь неэффективна и достигает своего полного потенциала лишь спустя 2 дня после применения, после чего ослабевает и исчезает. Одновременно связь может быть установлена только с одной целью.</VPEP_BrainLeech.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_BrainLeech.jobReportString>Использует способность: {0}</VPEP_BrainLeech.jobReportString>
+
+  <!-- EN: subjugation -->
+	<VPEP_Subjugation.label>подчинение</VPEP_Subjugation.label>
+  <!-- EN: Induces a form of indoctrination on a prisoner by altering neuron pathways so that thoughts of the target’s faction triggers negative reactions. The effects are quite nauseating and “convinces” them to switch sides after 7 days. -->
+	<VPEP_Subjugation.description>Форма псионической индоктринации, направленная на изменение нейронных связей узника таким образом, чтобы мысли о фракции узника вызывали негативный отклик в его разуме. Побочным эффектом такого воздействия является постоянное ощущение тошноты, а непосредственная «смена» стороны происходит лишь спустя 7 дней после применения способности.</VPEP_Subjugation.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_Subjugation.jobReportString>Использует способность: {0}</VPEP_Subjugation.jobReportString>
+
+  <!-- EN: degrade -->
+	<VPEP_Degrade.label>деградация</VPEP_Degrade.label>
+  <!-- EN: Reverts the humanoid target’s behavioral instincts to a considerably more primitive state, forcibly triggering the mental break “run wild”. -->
+	<VPEP_Degrade.description>Вызывает психологическую реакцию в человеке, которая возвращает цель в более примитивное состояние, по сути обращая её обратно в животное. Вызывает нервный срыв «одичание».</VPEP_Degrade.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_Degrade.jobReportString>Использует способность: {0}</VPEP_Degrade.jobReportString>
+
+  <!-- EN: puppet -->
+	<VPEP_Puppet.label>марионетка</VPEP_Puppet.label>
+  <!-- EN: Targeting a pawn affected by Brain Leech, this psycast permanently overwrites their personality with the caster’s own. Locks the short-term memory portion of the brain to synchronize with the caster, in turn putting them into a short coma. Number of puppets is initially limited to one. -->
+	<VPEP_Puppet.description>При применении этой способности на того поселенца, который уже находится под воздействием способности «мозговая пиявка», изначальная личность «перезаписывается» личностью псионика. В процессе переноса, кратковременная память синхронизируется с таковой у псионика, что в свою очередь вызывает у цели кратковременное состояние комы. Количество марионеток изначально ограниченно одной.</VPEP_Puppet.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_Puppet.jobReportString>Использует способность: {0}</VPEP_Puppet.jobReportString>
+
+  <!-- EN: summon puppet -->
+	<VPEP_SummonPuppet.label>призыв марионетки</VPEP_SummonPuppet.label>
+  <!-- EN: By causing an effect similar to an extreme case of “homesickness”, the caster can force the puppet to skip itself to them almost instantaneously and regardless of distance. -->
+	<VPEP_SummonPuppet.description>Эффект этой способности во многом схож с таковым у «тоски по дому». Псионик открывает прыжковые врата, через которые его марионетка переносится к псионику едва ли не мгновенно и вне зависимости от расстояния.</VPEP_SummonPuppet.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_SummonPuppet.jobReportString>Использует способность: {0}</VPEP_SummonPuppet.jobReportString>
+
+  <!-- EN: mind split -->
+	<VPEP_MindSplit.label>разделение разума</VPEP_MindSplit.label>
+  <!-- EN: By taking the psionic equivalent of a hammer and chisel to their own consciousness, the caster can permanently increase their limit of controllable puppets by one. Effectively painless as they knock themselves unconscious for a short duration from shattering their sense of self. -->
+	<VPEP_MindSplit.description>Псионик применяет к своему разуму некое подобие псионического молотка и зубила, увеличивая таким образом количество подконтрольных марионеток на 1. По большому счёту воспринимается безболезненно, если не считать того, что псионик теряет сознание на некоторое время, раскалывая своё «я».</VPEP_MindSplit.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_MindSplit.jobReportString>Использует способность: {0}</VPEP_MindSplit.jobReportString>
+
+  <!-- EN: puppet swarm -->
+	<VPEP_PuppetSwarm.label>орда марионеток</VPEP_PuppetSwarm.label>
+  <!-- EN: By causing an effect similar to an extreme case of “homesickness”, the caster can force all linked puppets to skip themselves to them almost instantaneously and regardless of distance. -->
+	<VPEP_PuppetSwarm.description>Эффект этой способности во многом схож с таковым у «тоски по дому». Псионик открывает прыжковые врата, через которые все его марионетки переносятся к псионику едва ли не мгновенно и вне зависимости от расстояния.</VPEP_PuppetSwarm.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_PuppetSwarm.jobReportString>Использует способность: {0}</VPEP_PuppetSwarm.jobReportString>
+
+  <!-- EN: ascension -->
+	<VPEP_Ascension.label>вознесение</VPEP_Ascension.label>
+  <!-- EN: Targets a controlled puppet and causes them to commit suicide through psychic overload, annihilating itself and the surrounding 5 tiles. The sum of the puppet’s learned skills is converted into psychic energy for the detonation, with a fraction absorbed by the caster as psycasting XP. -->
+	<VPEP_Ascension.description>При использовании этой способности на подконтрольную марионетку, та взрывается из-за псионической перегрузки, полностью уничтожая себя и окружающие пять клеток. Сумма имеющихся у цели навыков преобразуется в силу взрыва, часть которой поглощается псиоником в виде опыта.</VPEP_Ascension.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_Ascension.jobReportString>Использует способность: {0}</VPEP_Ascension.jobReportString>
+
+  <!-- EN: mind jump -->
+	<VPEP_MindJump.label>обмен телами</VPEP_MindJump.label>
+  <!-- EN: Permanently swaps the caster and the targeted puppet’s bodies, with the puppet becoming the master with all of their psycasting capabilities. The sudden change in consciousness and adaptation to a new vessel locks the new master into a scaled 48-hour psychic coma. -->
+	<VPEP_MindJump.description>Перманентно меняет местами сознания псионика и его марионетки, так марионетка становится псионикм, вместе со всеми его способностями. Внезапная перемена сознания погружает нового хозяина в 48-часовую кому.</VPEP_MindJump.description>
+  <!-- EN: Using ability: {0} -->
+	<VPEP_MindJump.jobReportString>Использует способность: {0}</VPEP_MindJump.jobReportString>
+</LanguageData>
