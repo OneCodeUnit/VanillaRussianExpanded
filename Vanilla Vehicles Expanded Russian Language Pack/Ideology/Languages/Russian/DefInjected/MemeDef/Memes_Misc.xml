@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: skyseekers -->
+	<VVE_Skyseekers.label>тяга в небо</VVE_Skyseekers.label>
+	<!-- EN: Elevation, both physical and spiritual, is achieved by soaring through the skies. -->
+	<VVE_Skyseekers.description>Истинное возвышение, как физическое, так и духовное, доступно лишь тем, кто парит в небесах.</VVE_Skyseekers.description>
+	<!-- EN: 
+		memeAdjective->flying
+		memeAdjective->soaring
+		memeAdjective->free
+		memeLeaderNoun->aviator
+		memeMoralist->skyseer
+		memeConcept->flying
+	-->
+	<VVE_Skyseekers.generalRules.rulesStrings>
+		<li>memeAdjective_masc->летающий</li>
+		<li>memeAdjective_masc->парящий</li>
+		<li>memeAdjective_masc->свободный</li>
+		
+		<li>memeAdjective_fem->летающая</li>
+		<li>memeAdjective_fem->парящая</li>
+		<li>memeAdjective_fem->свободная</li>
+		
+		<li>memeAdjective_neutral->летающее</li>
+		<li>memeAdjective_neutral->парящее</li>
+		<li>memeAdjective_neutral->свободное</li>
+		
+		<li>memeAdjective_plural->летающие</li>
+		<li>memeAdjective_plural->парящие</li>
+		<li>memeAdjective_plural->свободные</li>
+		
+		<li>memeLeaderNoun->авиатор</li>
+		<li>memeMoralist->смотрящий в небо</li>
+		<li>memeConcept->полёта</li>
+	</VVE_Skyseekers.generalRules.rulesStrings>
+	<!-- EN: 
+		creation(tag=meme_Skyseekers)        ->[deity0_name] made all of [deity0_possessive] followers look to the endless skies.
+		episode(uses=1,tag=meme_Skyseekers)  ->Speaking to the believers, [deity0_name] said: "Only by conquering the skies will you reach true enlightening".
+		intro(tag=meme_Skyseekers)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were besieged constantly by their foes, and this deeply saddened [deity0_name].
+		conflict(tag=meme_Skyseekers)        ->[deity0_name] witnessed the contant assaults of a terrible [foeLeader], a war leader, and [deity0_pronoun] decided to give winged vessels to [deity0_possessive] followers, so that they could soar the skies above their enemies.
+		founderJoin(tag=meme_Skyseekers)     ->[founderName], the greatest among our aviators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge squadron of fighters was ready and waiting for [foeLeader_objective].
+		victory(tag=meme_Skyseekers)         ->The [foeLeader] was swiftly bombarded from the sky, all in [deity0_name]'s name.
+		setup(tag=meme_Skyseekers)           ->[founderName] was a pilot, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life flying all kinds of aircraft, both civilian and military.
+		story(uses=1,tag=meme_Skyseekers)    ->[founderName] understood better than anyone else that true freedom lies in soaring the endless skies, far above any problems.
+		lessonIntro(tag=meme_Skyseekers)         ->The ancient aviators of Earth were absolutely right. They taught us that
+		lesson(tag=meme_Skyseekers)              ->the only true freedom lies in soaring the endless skies
+		lessonReinforcement(tag=meme_Skyseekers) ->We will come upon our enemies from the unreachable skies, like swift and divine justice.
+		archistBasis(tag=meme_Skyseekers)    ->Archotechs are pure minds, beings of the sky.
+		archistFact(tag=meme_Skyseekers)     ->By soaring the skies we get closer to the Archotechs.
+		archistProphecy(tag=meme_Skyseekers) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.
+		animistBasis(tag=meme_Skyseekers)    ->The spirits teach us that the endless skies hold the secret to a pure existence.
+		animistFact(tag=meme_Skyseekers)     ->Only by soaring the skies can we get closer to the spirits.
+		animistProphecy(tag=meme_Skyseekers) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.
+	-->
+	<VVE_Skyseekers.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Skyseekers)        ->[deity_showed] [deity0_name] своим последователям красоту небес и [deity_commanded] стремиться к ним.</li>
+		<li>deity_showed(deity0_gender==None)->показало</li>
+		<li>deity_showed(deity0_gender==Male)->показал</li>
+		<li>deity_showed(deity0_gender==Female)->показала</li>
+		<li>deity_commanded(deity0_gender==None)->велело</li>
+		<li>deity_commanded(deity0_gender==Male)->велел</li>
+		<li>deity_commanded(deity0_gender==Female)->велела</li>
+		<li>episode(uses=1,tag=meme_Skyseekers)  ->Обращаясь к верующим, [deity0_name] [deity_said]: «Только покорив небеса познаете вы истину».</li>
+		<li>deity_said(deity0_gender==None)->сказало</li>
+		<li>deity_said(deity0_gender==Male)->сказал</li>
+		<li>deity_said(deity0_gender==Female)->сказала</li>
+		<li>intro(tag=meme_Skyseekers)           ->[place_summary] [place_name] всегда раздирали конфликты. [memberNamePlural] постоянно осаждались многочисленными врагами, и это очень огорчало [deity0_name].</li>
+		<li>conflict(tag=meme_Skyseekers)        ->Долго наблюдала [deity0_name] за бесконечными нападками ужасного [foeLeader], a war leader, and [deity0_pronoun] decided to give winged vessels to [deity0_possessive] followers, so that they could soar the skies above their enemies.</li>
+		<li>founderJoin(tag=meme_Skyseekers)     ->[founderName], the greatest among our aviators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge squadron of fighters was ready and waiting for [foeLeader_objective].</li>
+		<li>victory(tag=meme_Skyseekers)         ->The [foeLeader] was swiftly bombarded from the sky, all in [deity0_name]'s name.</li>
+		<li>setup(tag=meme_Skyseekers)           ->[founderName] was a pilot, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life flying all kinds of aircraft, both civilian and military.</li>
+		<li>story(uses=1,tag=meme_Skyseekers)    ->[founderName] understood better than anyone else that true freedom lies in soaring the endless skies, far above any problems.</li>
+		<li>lessonIntro(tag=meme_Skyseekers)         ->The ancient aviators of Earth were absolutely right. They taught us that</li>
+		<li>lesson(tag=meme_Skyseekers)              ->the only true freedom lies in soaring the endless skies</li>
+		<li>lessonReinforcement(tag=meme_Skyseekers) ->We will come upon our enemies from the unreachable skies, like swift and divine justice.</li>
+		<li>archistBasis(tag=meme_Skyseekers)    ->Archotechs are pure minds, beings of the sky.</li>
+		<li>archistFact(tag=meme_Skyseekers)     ->By soaring the skies we get closer to the Archotechs.</li>
+		<li>archistProphecy(tag=meme_Skyseekers) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.</li>
+		<li>animistBasis(tag=meme_Skyseekers)    ->The spirits teach us that the endless skies hold the secret to a pure existence.</li>
+		<li>animistFact(tag=meme_Skyseekers)     ->Only by soaring the skies can we get closer to the spirits.</li>
+		<li>animistProphecy(tag=meme_Skyseekers) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.</li>
+	</VVE_Skyseekers.descriptionMaker.rules.rulesStrings>
+	<!-- EN: Skyseekers -->
+	<VVE_Skyseekers.symbolPacks.0.ideoName>аэронавтизм</VVE_Skyseekers.symbolPacks.0.ideoName>
+	<!-- EN: skyseekers -->
+	<VVE_Skyseekers.symbolPacks.0.theme>аэронавтизма</VVE_Skyseekers.symbolPacks.0.theme>
+	<!-- EN: skyseeker -->
+	<VVE_Skyseekers.symbolPacks.0.adjective>аэронавтический</VVE_Skyseekers.symbolPacks.0.adjective>
+    <!-- EN: pilot -->
+	<VVE_Skyseekers.symbolPacks.0.member>лётчик</VVE_Skyseekers.symbolPacks.0.member>
+	
+	
+    <!-- EN: nauticals -->
+	<VVE_Nauticals.label>мореходство</VVE_Nauticals.label>
+    <!-- EN: Embracing the vastness of the waters offers a deep connection to life's mysteries. -->
+	<VVE_Nauticals.description>Единение с великими водами дарует ответы на любые загадки жизни.</VVE_Nauticals.description>
+    <!-- EN: 
+		memeAdjective->sailing
+		memeAdjective->navigating
+		memeAdjective->seaworthy
+		memeLeaderNoun->navigator
+		memeMoralist->water seer
+		memeConcept->sailing
+	-->
+	<VVE_Nauticals.generalRules.rulesStrings>
+		<li>memeAdjective_masc->плывущий</li>
+		<li>memeAdjective_masc->водный</li>
+		<li>memeAdjective_masc->мореходный</li>
+		
+		<li>memeAdjective_fem->плывущая</li>
+		<li>memeAdjective_fem->водная</li>
+		<li>memeAdjective_fem->мореходная</li>
+		
+		<li>memeAdjective_neutral->плывущее</li>
+		<li>memeAdjective_neutral->водное</li>
+		<li>memeAdjective_neutral->мореходное</li>
+		
+		<li>memeAdjective_plural->плывущие</li>
+		<li>memeAdjective_plural->водные</li>
+		<li>memeAdjective_plural->мореходные</li>
+		
+		<li>memeLeaderNoun->навигатор</li>
+		<li>memeMoralist->водный провидец</li>
+		<li>memeConcept->плавания</li>
+	</VVE_Nauticals.generalRules.rulesStrings>
+    <!-- EN: 
+		creation(tag=meme_Nauticals)        ->[deity0_name] made all of [deity0_possessive] followers look to the endless seas.
+		episode(uses=1,tag=meme_Nauticals)  ->Speaking to the believers, [deity0_name] said: "Only by conquering the seas will you reach true enlightening".
+		intro(tag=meme_Nauticals)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were besieged constantly by their foes, and this deeply saddened [deity0_name].
+		conflict(tag=meme_Nauticals)        ->[deity0_name] witnessed the contant assaults of a terrible [foeLeader], a war leader, and [deity0_pronoun] decided to give sails to [deity0_possessive] followers, so that they could sail the seas to avoid and ambush their enemies.
+		founderJoin(tag=meme_Nauticals)     ->[founderName], the greatest among our navigators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge navy of enormous vessels was ready and waiting for [foeLeader_objective].
+		victory(tag=meme_Nauticals)         ->The [foeLeader] was swiftly attacked from the seas, all in [deity0_name]'s name.
+		setup(tag=meme_Nauticals)           ->[founderName] was a navigators, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life sailing in all kinds of vessels, both civilian and military.
+		story(uses=1,tag=meme_Nauticals)    ->[founderName] understood better than anyone else that true freedom lies in sailing the seas, for the waters may be capricious, but they are also fair.
+		lessonIntro(tag=meme_Nauticals)         ->The ancient navigators of Earth were absolutely right. They taught us that
+		lesson(tag=meme_Nauticals)              ->the only true freedom lies in sailing the endless seas
+		lessonReinforcement(tag=meme_Nauticals) ->We will come upon our enemies from the untamed waters, like swift and divine justice.
+		archistBasis(tag=meme_Nauticals)    ->The Archotechs' pure minds are fluid like water, beings of fickleness and changeability.
+		archistFact(tag=meme_Nauticals)     ->By sailing the seas we pay hommage to their unpredictable and capricious nature.
+		archistProphecy(tag=meme_Nauticals) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.
+		animistBasis(tag=meme_Nauticals)    ->The spirits teach us that the unpredictability of the seas holds the secret to a pure existence.
+		animistFact(tag=meme_Nauticals)     ->Only by sailing the seas can we get closer to the spirits.
+		animistProphecy(tag=meme_Nauticals) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.
+	-->
+	<VVE_Nauticals.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Nauticals)        ->[deity0_name] made all of [deity0_possessive] followers look to the endless seas.</li>
+		<li>episode(uses=1,tag=meme_Nauticals)  ->Speaking to the believers, [deity0_name] said: "Only by conquering the seas will you reach true enlightening".</li>
+		<li>intro(tag=meme_Nauticals)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were besieged constantly by their foes, and this deeply saddened [deity0_name].</li>
+		<li>conflict(tag=meme_Nauticals)        ->[deity0_name] witnessed the contant assaults of a terrible [foeLeader], a war leader, and [deity0_pronoun] decided to give sails to [deity0_possessive] followers, so that they could sail the seas to avoid and ambush their enemies.</li>
+		<li>founderJoin(tag=meme_Nauticals)     ->[founderName], the greatest among our navigators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge navy of enormous vessels was ready and waiting for [foeLeader_objective].</li>
+		<li>victory(tag=meme_Nauticals)         ->The [foeLeader] was swiftly attacked from the seas, all in [deity0_name]'s name.</li>
+		<li>setup(tag=meme_Nauticals)           ->[founderName] was a navigators, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life sailing in all kinds of vessels, both civilian and military.</li>
+		<li>story(uses=1,tag=meme_Nauticals)    ->[founderName] understood better than anyone else that true freedom lies in sailing the seas, for the waters may be capricious, but they are also fair.</li>
+		<li>lessonIntro(tag=meme_Nauticals)         ->The ancient navigators of Earth were absolutely right. They taught us that</li>
+		<li>lesson(tag=meme_Nauticals)              ->the only true freedom lies in sailing the endless seas</li>
+		<li>lessonReinforcement(tag=meme_Nauticals) ->We will come upon our enemies from the untamed waters, like swift and divine justice.</li>
+		<li>archistBasis(tag=meme_Nauticals)    ->The Archotechs' pure minds are fluid like water, beings of fickleness and changeability.</li>
+		<li>archistFact(tag=meme_Nauticals)     ->By sailing the seas we pay hommage to their unpredictable and capricious nature.</li>
+		<li>archistProphecy(tag=meme_Nauticals) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.</li>
+		<li>animistBasis(tag=meme_Nauticals)    ->The spirits teach us that the unpredictability of the seas holds the secret to a pure existence.</li>
+		<li>animistFact(tag=meme_Nauticals)     ->Only by sailing the seas can we get closer to the spirits.</li>
+		<li>animistProphecy(tag=meme_Nauticals) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.</li>
+	</VVE_Nauticals.descriptionMaker.rules.rulesStrings>
+    <!-- EN: Nauticals -->
+	<VVE_Nauticals.symbolPacks.0.ideoName>акванавтизм</VVE_Nauticals.symbolPacks.0.ideoName>
+    <!-- EN: nauticals -->
+	<VVE_Nauticals.symbolPacks.0.theme>акванавтизма</VVE_Nauticals.symbolPacks.0.theme>
+    <!-- EN: nautical -->
+	<VVE_Nauticals.symbolPacks.0.adjective>акванавтический</VVE_Nauticals.symbolPacks.0.adjective>
+    <!-- EN: seaman -->
+	<VVE_Nauticals.symbolPacks.0.member>мореход</VVE_Nauticals.symbolPacks.0.member>
+	
+	
+    <!-- EN: travelers -->
+	<VVE_Travelers.label>странничество</VVE_Travelers.label>
+    <!-- EN: The world is vast and meant to be explored in all its facets. -->
+	<VVE_Travelers.description>Мир огромен и создан для исследования во всех его проявлениях.</VVE_Travelers.description>
+    <!-- EN: 
+		memeAdjective->explorer
+		memeAdjective->travelling
+		memeAdjective->transient
+		memeConcept->travelling
+		memeLeaderNoun->explorer
+		memeLeaderNoun->traveler
+	-->
+	<VVE_Travelers.generalRules.rulesStrings>
+		<li>memeAdjective_masc->исследовательский</li>
+		<li>memeAdjective_masc->путеводный</li>
+		<li>memeAdjective_masc->переходный</li>
+		
+		<li>memeAdjective_fem->исследовательская</li>
+		<li>memeAdjective_fem->путеводная</li>
+		<li>memeAdjective_fem->переходная</li>
+		
+		<li>memeAdjective_neutral->исследовательское</li>
+		<li>memeAdjective_neutral->путеводное</li>
+		<li>memeAdjective_neutral->переходное</li>
+		
+		<li>memeAdjective_plural->исследовательские</li>
+		<li>memeAdjective_plural->путеводные</li>
+		<li>memeAdjective_plural->переходные</li>
+		
+		<li>memeConcept->путешествия</li>
+		<li>memeLeaderNoun->первопроходец</li>
+		<li>memeLeaderNoun->исследователь</li>
+	</VVE_Travelers.generalRules.rulesStrings>
+    <!-- EN: 
+		creation(tag=meme_Traveler)        ->[deity0_name] wrote [deity0_possessive] commandments in eleven plasteel tablets. The fifth commandment read: "I shall not refrain from exploring the world."
+		episode(uses=1,tag=meme_Traveler)  ->In accordance with [deity0_name]'s precepts, we happily traveled abroad, away from our settlements, to see all our world has to offer.
+		intro(tag=meme_Traveler)           ->The [memberNamePlural] were restless, for [deity0_name] had commanded them to explore the surrounding lands, and they were tired of roaming around living off the land.
+		conflict(tag=meme_Traveler)        ->One of the elders wanted to defy [deity0_name]'s commandments, and close the settlements for further exploration.
+		founderJoin(tag=meme_Traveler)     ->[founderName], the Great Explorer, grew tired of the insolence of the elder, and usurped his power. From that point on, the [memberNamePlural] would be the most skilled explorers in the land, venturing far away.
+		victory(tag=meme_Traveler)         ->It was thus that we became enamoured with wanderlust, and traveled the whole world exploring even its farther confines.
+		setup(tag=meme_Traveler)           ->[founderName] was a skilled explorer. [founder_pronoun] longed for discovery, travelling to the farther confiens of the world.
+		story(uses=1,tag=meme_Traveler)    ->Seeking the thrill of adventure, [founderName] assembled a small group of [founder_possessive] followers and chartered a ship to travel to the Rim. [founder_possessive] discoveries were the stuff of legend, mapping a plethora of strange new worlds and new civilizations, boldly going where... errr, sorry, got carried away a bit there.
+		lessonIntro(tag=meme_Traveler)         ->Humans fear the unknown, it's a fact. It is abundantly clear that
+		lesson(tag=meme_Traveler)              ->we need to explore our surroundings. Being unaware of what is around us is a recipe for disaster 
+		lessonReinforcement(tag=meme_Traveler) ->Only true explorers can never be caught unawares.
+		archistBasis(tag=meme_Traveler)    ->Archotechs are always aware of everything. Being unaware of your surroundings is almost obscene to them.
+		archistFact(tag=meme_Traveler)     ->The archotechs teach us that exploring and travelling are a path to transcendence.
+		archistProphecy(tag=meme_Traveler) ->[inTheEnd], those who spend their whole lives hiding won't transcend, while those who are infused by wanderlust will join the archotechs.
+		animistBasis(tag=meme_Traveler)    ->Spirits govern everything, from the most abstract concepts to concrete ones. Specifically, each place has its own spirit, and that's why discovering and traveling to all these places brings us closer to the spirits.
+		animistFact(tag=meme_Traveler)     ->The spirit of wanderlust is a powerful one, and instills one with a passion for freedom, for exploration: you never know what the road ahead may bring.
+		animistProphecy(tag=meme_Traveler) ->[itIsSaid] only those who are able to live without roots and roam free can truly appease the spirits.
+	-->
+	<VVE_Travelers.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Traveler)        ->[deity0_name] wrote [deity0_possessive] commandments in eleven plasteel tablets. The fifth commandment read: "I shall not refrain from exploring the world."</li>
+		<li>episode(uses=1,tag=meme_Traveler)  ->In accordance with [deity0_name]'s precepts, we happily traveled abroad, away from our settlements, to see all our world has to offer.</li>
+		<li>intro(tag=meme_Traveler)           ->The [memberNamePlural] were restless, for [deity0_name] had commanded them to explore the surrounding lands, and they were tired of roaming around living off the land.</li>
+		<li>conflict(tag=meme_Traveler)        ->One of the elders wanted to defy [deity0_name]'s commandments, and close the settlements for further exploration.</li>
+		<li>founderJoin(tag=meme_Traveler)     ->[founderName], the Great Explorer, grew tired of the insolence of the elder, and usurped his power. From that point on, the [memberNamePlural] would be the most skilled explorers in the land, venturing far away.</li>
+		<li>victory(tag=meme_Traveler)         ->It was thus that we became enamoured with wanderlust, and traveled the whole world exploring even its farther confines.</li>
+		<li>setup(tag=meme_Traveler)           ->[founderName] was a skilled explorer. [founder_pronoun] longed for discovery, travelling to the farther confiens of the world.</li>
+		<li>story(uses=1,tag=meme_Traveler)    ->Seeking the thrill of adventure, [founderName] assembled a small group of [founder_possessive] followers and chartered a ship to travel to the Rim. [founder_possessive] discoveries were the stuff of legend, mapping a plethora of strange new worlds and new civilizations, boldly going where... errr, sorry, got carried away a bit there.</li>
+		<li>lessonIntro(tag=meme_Traveler)         ->Humans fear the unknown, it's a fact. It is abundantly clear that</li>
+		<li>lesson(tag=meme_Traveler)              ->we need to explore our surroundings. Being unaware of what is around us is a recipe for disaster </li>
+		<li>lessonReinforcement(tag=meme_Traveler) ->Only true explorers can never be caught unawares.</li>
+		<li>archistBasis(tag=meme_Traveler)    ->Archotechs are always aware of everything. Being unaware of your surroundings is almost obscene to them.</li>
+		<li>archistFact(tag=meme_Traveler)     ->The archotechs teach us that exploring and travelling are a path to transcendence.</li>
+		<li>archistProphecy(tag=meme_Traveler) ->[inTheEnd], those who spend their whole lives hiding won't transcend, while those who are infused by wanderlust will join the archotechs.</li>
+		<li>animistBasis(tag=meme_Traveler)    ->Spirits govern everything, from the most abstract concepts to concrete ones. Specifically, each place has its own spirit, and that's why discovering and traveling to all these places brings us closer to the spirits.</li>
+		<li>animistFact(tag=meme_Traveler)     ->The spirit of wanderlust is a powerful one, and instills one with a passion for freedom, for exploration: you never know what the road ahead may bring.</li>
+		<li>animistProphecy(tag=meme_Traveler) ->[itIsSaid] only those who are able to live without roots and roam free can truly appease the spirits.</li>
+	</VVE_Travelers.descriptionMaker.rules.rulesStrings>
+    <!-- EN: Travelers -->
+	<VVE_Travelers.symbolPacks.0.ideoName>странничество</VVE_Travelers.symbolPacks.0.ideoName>
+    <!-- EN: travelling -->
+	<VVE_Travelers.symbolPacks.0.theme>странствий</VVE_Travelers.symbolPacks.0.theme>
+    <!-- EN: traveler -->
+	<VVE_Travelers.symbolPacks.0.adjective>путеводный</VVE_Travelers.symbolPacks.0.adjective>
+    <!-- EN: traveler -->
+	<VVE_Travelers.symbolPacks.0.member>странник</VVE_Travelers.symbolPacks.0.member>
+	
+	
+    <!-- EN: roadragers -->
+	<VVE_Roadragers.label>жажда скорости</VVE_Roadragers.label>
+    <!-- EN: For us, the road is sacred, and vehicular dominance is both a belief and a testament to our power. We view the roar of our engines and the rush of asphalt beneath our tires as sacred. -->
+	<VVE_Roadragers.description>Дорога для нас священна, а превосходство машин — это и наша главная догма, и доказательство нашей мощи и правоты. Рёв двигателей и проносящаяся под колёсами дорога - вот наши главные святыни.</VVE_Roadragers.description>
+    <!-- EN: 
+		memeAdjective->roadraging
+		memeAdjective->marauding
+		memeAdjective->mad maxing
+		memeLeaderNoun->warlord
+		memeMoralist->octane priest
+		memeConcept->cars
+	-->
+	<VVE_Roadragers.generalRules.rulesStrings>
+		<li>memeAdjective_masc->скоростной</li>
+		<li>memeAdjective_masc->безумный</li>
+		<li>memeAdjective_masc->яростный</li>
+		
+		<li>memeAdjective_fem->скоростная</li>
+		<li>memeAdjective_fem->безумная</li>
+		<li>memeAdjective_fem->яростная</li>
+		
+		<li>memeAdjective_neutral->скоростное</li>
+		<li>memeAdjective_neutral->безумное</li>
+		<li>memeAdjective_neutral->яростное</li>
+		
+		<li>memeAdjective_plural->скоростные</li>
+		<li>memeAdjective_plural->безумные</li>
+		<li>memeAdjective_plural->яростные</li>
+		
+		<li>memeLeaderNoun->военачальник</li>
+		<li>memeMoralist->октановый жрец</li>
+		<li>memeConcept->скорости</li>
+	</VVE_Roadragers.generalRules.rulesStrings>
+    <!-- EN: 
+		creation(tag=meme_Roadragers)        ->[deity0_name] cared only for the roar of the engines. [deity0_pronoun] ordered all the faithful to hit the road.
+		episode(uses=1,tag=meme_Roadragers)  ->Speaking to [deity0_possessive] believers, [deity0_name] said: "I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!".
+		intro(tag=meme_Roadragers)           ->[place_summary] [place_name] glistened with the fresh engine oil that had dripped from our sacred vehicles, a testament of [deity0_name]'s glory.
+		conflict(tag=meme_Roadragers)        ->A rabid [foeLeader], wanting to get [foeLeader_possessive] hands on our cars, tried to attack with the help of [foeLeader_possessive] many [foeSoldiers].
+		founderJoin(tag=meme_Roadragers)     ->[deity0_name] bestowed our founder, [founderName], with the [relic0_name], and [founder_pronoun] used it to annoint and augment the V8 engine of his custom-made Road Raging car, resisting the onslaught.
+		victory(tag=meme_Roadragers)         ->The massacre was sublime. [founderName] slaughtered countless enemies, and we celebrated by hitting the road mounted on all our vehicles.
+		setup(tag=meme_Roadragers)           ->[founderName] understood that the roar of an engine is the only true measure of power.
+		story(uses=1,tag=meme_Roadragers)    ->[founderName] always repeated the same lesson over and over again: "I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!".
+		lessonIntro(tag=meme_Roadragers)         ->It is only by the roar of our engines that one arrives at pleasure. You need to understand that
+		lesson(tag=meme_Roadragers)              ->I am your redeemer. It is by my hand you will rise from the ashes of this world
+		lessonReinforcement(tag=meme_Roadragers) ->I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!
+		archistBasis(tag=meme_Roadragers)    ->The Archotechs understand that power is not just a means to an end. Power is an end on itself.
+		archistFact(tag=meme_Roadragers)     ->The Archotechs will stand in awe of the powerful roar of our engines. It is by their hand we will rise from the ashes of this world.
+		archistProphecy(tag=meme_Roadragers) ->[inTheEnd], they will carry us through the gates of Valhalla. We shall ride eternal, shiny and chrome!
+		animistBasis(tag=meme_Roadragers)    ->The spirits understand that power is not just a means to an end. Power is an end on itself.
+		animistFact(tag=meme_Roadragers)     ->It is by their hand we will rise from the ashes of this world.
+		animistProphecy(tag=meme_Roadragers) ->[itIsSaid] only those who let the roar of their engines be heard above all else will be carried by the spirits through the gates of Valhalla. They shall ride eternal, shiny and chrome!
+	-->
+	<VVE_Roadragers.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Roadragers)        ->[deity0_name] cared only for the roar of the engines. [deity0_pronoun] ordered all the faithful to hit the road.</li>
+		<li>episode(uses=1,tag=meme_Roadragers)  ->Speaking to [deity0_possessive] believers, [deity0_name] said: "I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!".</li>
+		<li>intro(tag=meme_Roadragers)           ->[place_summary] [place_name] glistened with the fresh engine oil that had dripped from our sacred vehicles, a testament of [deity0_name]'s glory.</li>
+		<li>conflict(tag=meme_Roadragers)        ->A rabid [foeLeader], wanting to get [foeLeader_possessive] hands on our cars, tried to attack with the help of [foeLeader_possessive] many [foeSoldiers].</li>
+		<li>founderJoin(tag=meme_Roadragers)     ->[deity0_name] bestowed our founder, [founderName], with the [relic0_name], and [founder_pronoun] used it to annoint and augment the V8 engine of his custom-made Road Raging car, resisting the onslaught.</li>
+		<li>victory(tag=meme_Roadragers)         ->The massacre was sublime. [founderName] slaughtered countless enemies, and we celebrated by hitting the road mounted on all our vehicles.</li>
+		<li>setup(tag=meme_Roadragers)           ->[founderName] understood that the roar of an engine is the only true measure of power.</li>
+		<li>story(uses=1,tag=meme_Roadragers)    ->[founderName] always repeated the same lesson over and over again: "I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!".</li>
+		<li>lessonIntro(tag=meme_Roadragers)         ->It is only by the roar of our engines that one arrives at pleasure. You need to understand that</li>
+		<li>lesson(tag=meme_Roadragers)              ->I am your redeemer. It is by my hand you will rise from the ashes of this world</li>
+		<li>lessonReinforcement(tag=meme_Roadragers) ->I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!</li>
+		<li>archistBasis(tag=meme_Roadragers)    ->The Archotechs understand that power is not just a means to an end. Power is an end on itself.</li>
+		<li>archistFact(tag=meme_Roadragers)     ->The Archotechs will stand in awe of the powerful roar of our engines. It is by their hand we will rise from the ashes of this world.</li>
+		<li>archistProphecy(tag=meme_Roadragers) ->[inTheEnd], they will carry us through the gates of Valhalla. We shall ride eternal, shiny and chrome!</li>
+		<li>animistBasis(tag=meme_Roadragers)    ->The spirits understand that power is not just a means to an end. Power is an end on itself.</li>
+		<li>animistFact(tag=meme_Roadragers)     ->It is by their hand we will rise from the ashes of this world.</li>
+		<li>animistProphecy(tag=meme_Roadragers) ->[itIsSaid] only those who let the roar of their engines be heard above all else will be carried by the spirits through the gates of Valhalla. They shall ride eternal, shiny and chrome!</li>
+	</VVE_Roadragers.descriptionMaker.rules.rulesStrings>
+    <!-- EN: Roadragers -->
+	<VVE_Roadragers.symbolPacks.0.ideoName>жажда скорости</VVE_Roadragers.symbolPacks.0.ideoName>
+    <!-- EN: roadraging -->
+	<VVE_Roadragers.symbolPacks.0.theme>жажды скорости</VVE_Roadragers.symbolPacks.0.theme>
+    <!-- EN: roadraging -->
+	<VVE_Roadragers.symbolPacks.0.adjective>скоростной</VVE_Roadragers.symbolPacks.0.adjective>
+    <!-- EN: roadrager -->
+	<VVE_Roadragers.symbolPacks.0.member>лихач</VVE_Roadragers.symbolPacks.0.member>
+</LanguageData>

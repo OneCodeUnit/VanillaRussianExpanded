@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: drove a land vehicle -->
+	<VVE_Driving_Horrible.stages.0.label>{PAWN_gender ? Ехал : Ехала} в наземном ТС</VVE_Driving_Horrible.stages.0.label>
+	<!-- EN: I was in a land vehicle. It was horrible. -->
+	<VVE_Driving_Horrible.stages.0.description>Я {PAWN_gender ? ехал : ехала} в наземном транспортном средстве и это было ужасно!</VVE_Driving_Horrible.stages.0.description>
+	
+	<!-- EN: drove a land vehicle -->
+	<VVE_Driving_Approved.stages.0.label>{PAWN_gender ? Ехал : Ехала} в наземном ТС</VVE_Driving_Approved.stages.0.label>
+	<!-- EN: I was in a land vehicle. I loved it. -->
+	<VVE_Driving_Approved.stages.0.description>Я {PAWN_gender ? ехал : ехала} в наземном транспортном средстве и это было замечательно!</VVE_Driving_Approved.stages.0.description>
+	
+	<!-- EN: roadrage (more than 1 day) -->
+	<VVE_Driving_Required.stages.0.label>Ярость дороги (более 1 дня)</VVE_Driving_Required.stages.0.label>
+	<!-- EN: It has been a lil while since I've been at the wheel of a land vehicle. -->
+	<VVE_Driving_Required.stages.0.description>Давненько я не {PAWN_gender ? катался : каталась} на наземном транспорте.</VVE_Driving_Required.stages.0.description>
+	
+	<!-- EN: roadrage (more than 5 days) -->
+	<VVE_Driving_Required.stages.1.label>Ярость дороги (более 5 дней)</VVE_Driving_Required.stages.1.label>
+	<!-- EN: I need to drive, I'm getting very antsy. -->
+	<VVE_Driving_Required.stages.1.description>Мне просто необходимо прокатиться — без поездок я начинаю нервничать.</VVE_Driving_Required.stages.1.description>
+	
+	<!-- EN: roadrage (more than 10 days) -->
+	<VVE_Driving_Required.stages.2.label>Ярость дороги (более 10 дней)</VVE_Driving_Required.stages.2.label>
+	<!-- EN: Enough is enough, I'm feeling the call of the road! I want to drive! -->
+	<VVE_Driving_Required.stages.2.description>Сколько можно терпеть? Я чувствую зов дороги! Я хочу ездить!</VVE_Driving_Required.stages.2.description>
+	
+	<!-- EN: roadrage (more than 20 days) -->
+	<VVE_Driving_Required.stages.3.label>Ярость дороги (более 20 дней)</VVE_Driving_Required.stages.3.label>
+	<!-- EN: I AM THE ONE THAT RUNS FROM BOTH THE LIVING AND THE DEAD! GIVE ME MY CAR! -->
+	<VVE_Driving_Required.stages.3.description>Я {PAWN_gender ? ЕДИНСТВЕННЫЙ : ЕДИНСТВЕННАЯ}, КТО БЕЖИТ И ОТ ЖИВЫХ, И ОТ МЁРТВЫХ! ОТДАЙТЕ МНЕ МОЮ МАШИНУ!</VVE_Driving_Required.stages.3.description>
+</LanguageData>

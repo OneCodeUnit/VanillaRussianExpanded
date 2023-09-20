@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: standard -->
+	<VVE_FuelEfficiency_Standard.label>стандартная</VVE_FuelEfficiency_Standard.label>
+	<!-- EN: Our fuel consumption remains traditional. -->
+	<VVE_FuelEfficiency_Standard.description>Наши транспортные средства потребляют топливо в стандартных объёмах.</VVE_FuelEfficiency_Standard.description>
+	
+	<!-- EN: inefficient -->
+	<VVE_FuelEfficiency_Inefficient.label>низкая</VVE_FuelEfficiency_Inefficient.label>
+	<!-- EN: Our vehicles have a higher fuel appetite.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This precept increases FuelConsumptionRate (if present) on the vehicle by 50%. -->
+	<VVE_FuelEfficiency_Inefficient.description>Наш транспорт требует много топлива.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;\n- Расход топлива ТС (если он предусмотрен) увеличен на 50%</VVE_FuelEfficiency_Inefficient.description>
+	
+	<!-- EN: efficient -->
+	<VVE_FuelEfficiency_Efficient.label>высокая</VVE_FuelEfficiency_Efficient.label>
+	<!-- EN: Our vehicles are optimized for minimal fuel usage.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This precept decreases FuelConsumptionRate (if present) on the vehicle by 50%. -->
+	<VVE_FuelEfficiency_Efficient.description>Наш транспорт оптимизирован для минимального расхода топлива.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;\n- Расход топлива ТС (если он предусмотрен) уменьшен на 50%</VVE_FuelEfficiency_Efficient.description>
+</LanguageData>

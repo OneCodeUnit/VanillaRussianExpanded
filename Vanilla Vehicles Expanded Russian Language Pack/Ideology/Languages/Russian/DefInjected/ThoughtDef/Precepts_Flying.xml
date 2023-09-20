@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: boarded an air vehicle -->
+	<VVE_Flying_Horrible.stages.0.label>{PAWN_gender ? Путешествовал : Путешествовала} на воздушном ТС</VVE_Flying_Horrible.stages.0.label>
+	<!-- EN: I was in a flying vehicle. It was horrible. -->
+	<VVE_Flying_Horrible.stages.0.description>Я {PAWN_gender ? путешествовал : путешествовала} на воздушном транспорте и это было ужасно!</VVE_Flying_Horrible.stages.0.description>
+	
+	<!-- EN: boarded an air vehicle -->
+	<VVE_Flying_Approved.stages.0.label>{PAWN_gender ? Путешествовал : Путешествовала} на воздушном ТС</VVE_Flying_Approved.stages.0.label>
+	<!-- EN: I was in an air vehicle. I loved it. -->
+	<VVE_Flying_Approved.stages.0.description>Я {PAWN_gender ? путешествовал : путешествовала} на воздушном транспорте и это было замечательно!</VVE_Flying_Approved.stages.0.description>
+	
+	<!-- EN: aerophilia (more than 1 day) -->
+	<VVE_Flying_Required.stages.0.label>Аэрофилия (более 1 дня)</VVE_Flying_Required.stages.0.label>
+	<!-- EN: It has been a lil while since I've soared the skies. -->
+	<VVE_Flying_Required.stages.0.description>Давненько я не {PAWN_gender ? парил : парила} в небесах.</VVE_Flying_Required.stages.0.description>
+	
+	<!-- EN: aerophilia (more than 5 days) -->
+	<VVE_Flying_Required.stages.1.label>Аэрофилия (более 5 дней)</VVE_Flying_Required.stages.1.label>
+	<!-- EN: I need to fly, I'm getting very antsy. -->
+	<VVE_Flying_Required.stages.1.description>Мне просто необходимо подняться в воздух — без полётов я начинаю нервничать.</VVE_Flying_Required.stages.1.description>
+	
+	<!-- EN: aerophilia (more than 10 days) -->
+	<VVE_Flying_Required.stages.2.label>Аэрофилия (более 10 дней)</VVE_Flying_Required.stages.2.label>
+	<!-- EN: Enough is enough, I'm feeling the call of the open skies! I want to fly! -->
+	<VVE_Flying_Required.stages.2.description>Сколько можно терпеть? Я чувствую зов открытого неба! Я хочу летать!</VVE_Flying_Required.stages.2.description>
+	
+	<!-- EN: aerophilia (more than 20 days) -->
+	<VVE_Flying_Required.stages.3.label>Аэрофилия (более 20 дней)</VVE_Flying_Required.stages.3.label>
+	<!-- EN: ICARUS FLEW TOO CLOSE TO THE SUN, BUT I'M GONNA CATAPULT YOU THERE IF I CAN'T FLY SOON! -->
+	<VVE_Flying_Required.stages.3.description>ИКАРУС ПОДЛЕТЕЛ СЛИШКОМ БЛИЗКО К СОЛНЦУ, НО Я ТЕБЯ {PAWN_gender ? САМ : САМА} ТУДА КАТАПУЛЬТИРУЮ, ЕСЛИ И ДАЛЬШЕ НЕ СМОГУ ПОЛЕТАТЬ!</VVE_Flying_Required.stages.3.description>
+</LanguageData>

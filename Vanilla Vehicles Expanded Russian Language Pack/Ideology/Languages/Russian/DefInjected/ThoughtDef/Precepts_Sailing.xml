@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: sailed in a sea vessel -->
+	<VVE_Sailing_Horrible.stages.0.label>{PAWN_gender ? Путешествовал : Путешествовала} на водном ТС</VVE_Sailing_Horrible.stages.0.label>
+	<!-- EN: I was in a sailing vehicle. It was horrible -->
+	<VVE_Sailing_Horrible.stages.0.description>Я {PAWN_gender ? путешествовал : путешествовала} на водном транспорте и это было ужасно!</VVE_Sailing_Horrible.stages.0.description>
+	
+	<!-- EN: sailed in a sea vessel -->
+	<VVE_Sailing_Approved.stages.0.label>{PAWN_gender ? Путешествовал : Путешествовала} на водном ТС</VVE_Sailing_Approved.stages.0.label>
+	<!-- EN: I was in a sea vessel. I loved it. -->
+	<VVE_Sailing_Approved.stages.0.description>Я {PAWN_gender ? путешествовал : путешествовала} на водном транспорте и это было замечательно!</VVE_Sailing_Approved.stages.0.description>
+	
+	<!-- EN: sirens' call (more than 1 day) -->
+	<VVE_Sailing_Required.stages.0.label>Зов сирен (более 1 дня)</VVE_Sailing_Required.stages.0.label>
+	<!-- EN: It has been a lil while since I've ridden the waves. -->
+	<VVE_Sailing_Required.stages.0.description>Давненько я не {PAWN_gender ? катался : каталась} на волнах.</VVE_Sailing_Required.stages.0.description>
+	
+	<!-- EN: sirens' call (more than 5 days) -->
+	<VVE_Sailing_Required.stages.1.label>Зов сирен (более 5 дней)</VVE_Sailing_Required.stages.1.label>
+	<!-- EN: I need to sail, I'm getting very antsy. -->
+	<VVE_Sailing_Required.stages.1.description>Мне просто необходимо поплавать — без прогулок под парусом я начинаю нервничать.</VVE_Sailing_Required.stages.1.description>
+	
+	<!-- EN: sirens' call (more than 10 days) -->
+	<VVE_Sailing_Required.stages.2.label>Зов сирен (более 10 дней)</VVE_Sailing_Required.stages.2.label>
+	<!-- EN: Enough is enough, I'm feeling the call of the open seas! I want to sail! -->
+	<VVE_Sailing_Required.stages.2.description>Сколько можно терпеть? Я чувствую зов открытых морей! Я хочу плыть!</VVE_Sailing_Required.stages.2.description>
+	
+	<!-- EN: sirens' call (more than 20 days) -->
+	<VVE_Sailing_Required.stages.3.label>Зов сирен (более 20 дней)</VVE_Sailing_Required.stages.3.label>
+	<!-- EN: I AM THE MASTER OF MY FATE! I AM THE CAPTAIN OF MY SOUL! I MUST SAIL THE SEAS! -->
+	<VVE_Sailing_Required.stages.3.description>Я ВЛАСТЕЛИН СВОЕЙ СУДЬБЫ! Я КАПИТАН СВОЕЙ ДУШИ! Я {PAWN_gender ? ДОЛЖЕН : ДОЛЖНА} БОРОЗДИТЬ МОРЯ!</VVE_Sailing_Required.stages.3.description>
+</LanguageData>
