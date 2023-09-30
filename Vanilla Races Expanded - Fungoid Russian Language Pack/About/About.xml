@@ -1,0 +1,19 @@
+﻿<ModMetaData>
+	<name>Vanilla Races Expanded - Fungoid Russian Language Pack</name>
+	<author>OliveWizard</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+  <packageId>OW.RU.Fungoid</packageId>
+  <description>Перевод на русский язык мода Vanilla Races Expanded - Fungoid.</description>
+	<modDependencies>
+		<li>
+      <packageId>vanillaracesexpanded.fungoid</packageId>
+      <displayName>Vanilla Races Expanded - Fungoid </displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3042690053</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>vanillaracesexpanded.fungoid</li>
+	</loadAfter>
+</ModMetaData>

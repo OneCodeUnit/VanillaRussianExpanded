@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: mind coalescence -->
+	<VRE_MindCoalescence.label>слияние разумов</VRE_MindCoalescence.label>
+  <!-- EN: Carriers of this gene have a psychic connection to other carriers, allowing them to share some of the emotions with them. A portion of average happiness gets shared with mind coalescent individuals. Due to that, they also all share mental states and suffer them at the same time. -->
+	<VRE_MindCoalescence.description>Носители этого гена обладают устойчивой телепатической связью друг с другом, что позволяет им чувствовать эмоции других носителей, пускай и более приглушёнными. Это касается как положительных, так и негативных эмоций. Из-за этого нервные срывы также распространяются на всех носителей.</VRE_MindCoalescence.description>
+  <!-- EN: This effect is updated twice a day ingame, to avoid lag. -->
+  <VRE_MindCoalescence.customEffectDescriptions.0>Этот эффект обновляется дважды в день, чтобы избежать падения производительности.</VRE_MindCoalescence.customEffectDescriptions.0>
+  <!-- EN: coalescent -->
+  <VRE_MindCoalescence.labelShortAdj>коалесцента</VRE_MindCoalescence.labelShortAdj>
+
+  <!-- EN: gene infector -->
+	<VRE_GeneInfector.label>генная инфекция</VRE_GeneInfector.label>
+  <!-- EN: Carriers of this gene implant a copy of their xenogerm into another person through attacks with their claws or teeth. This in turn triggers a progressing infection in the victim, which if left untreated will apply the carrier’s xenogerm to them. -->
+	<VRE_GeneInfector.description>Носители этого гена внедряют копию их собственного генетического кода при укусе или атаке когтями. Рана становится источником распространения инфекции, и если её не лечить, — то ксенотип пострадавшего будет изменён на идентичный тому, кто нанёс рану.</VRE_GeneInfector.description>
+  <!-- EN: Won't affect anyone who already has this gene. -->
+  <VRE_GeneInfector.customEffectDescriptions.0>Не сработает на том, кто уже имеет этот ген.</VRE_GeneInfector.customEffectDescriptions.0>
+  <!-- EN: The gene infector will only transmit xenogenes. Endogenes will not be transmitted. -->
+  <VRE_GeneInfector.customEffectDescriptions.1>Через генную инфекцию передаются только ксеногены. Эндогены не передадутся.</VRE_GeneInfector.customEffectDescriptions.1>
+</LanguageData>
