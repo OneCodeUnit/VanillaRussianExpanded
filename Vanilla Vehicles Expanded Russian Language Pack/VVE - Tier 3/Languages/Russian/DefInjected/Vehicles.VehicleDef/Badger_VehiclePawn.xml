@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: Badger -->
+	<VVE_Badger.label>«Барсук»</VVE_Badger.label>
+    <!-- EN: A tracked, armoured fighting vehicle, the Badger is designed to transport scouts and infantry while providing covering fire to suppress enemy troops. Reinforced side armour plating, ability to deploy blindsmoke and a powerful anti-infantry automated gun make it a powerful vehicle in small combat engagement. It’s relatively vulnerable to attacks from behind, and the short range of the turret means it is outclassed by most designated tanks.\n\nCompared to previous generations, this IFV is designed to quickly drop infantry off at a desired location and provide light covering fire. Lack of armor piercing on fired projectiles make it weak against enemy tanks. -->
+	<VVE_Badger.description>«Барсук» представляет собой хорошо защищённую бронемашину пехоты на колёсно-гусеничном шасси. Основная задача «Барсука» — развёртывание разведывательных и пехотных подразделений и их огневая поддержка. Укреплённые бронепластины по бокам машины, наличие дымомётов и мощной автопушки, делают этот БМП серьёзным аргументом в столкновениях с вражеской пехотой. «Барсук» довольно уязвим к атакам с тыла, а сравнительно небольшая дистанция эффективной стрельбы автопушки не позволяет ему конкурировать с танками.\n\nРоль «Барсука» сводится к быстрому развёртыванию пехоты и оказанию огневой поддержки. Из-за отсутствия бронебойных боеприпасов, «Барсук» неспособен поражать тяжелобронированную технику противника.</VVE_Badger.description>
+
+    <!-- EN: Driver -->
+	<VVE_Badger.properties.roles.0.label>Водитель</VVE_Badger.properties.roles.0.label>
+    <!-- EN: Gunner -->
+	<VVE_Badger.properties.roles.1.label>Стрелок</VVE_Badger.properties.roles.1.label>
+    <!-- EN: Passenger -->
+	<VVE_Badger.properties.roles.2.label>Пассажир</VVE_Badger.properties.roles.2.label>
+    <!-- EN: Engine -->
+	<VVE_Badger.components.0.label>Двигатель</VVE_Badger.components.0.label>
+    <!-- EN: Left Track -->
+	<VVE_Badger.components.1.label>Левая гусеничная цепь</VVE_Badger.components.1.label>
+    <!-- EN: Right Track -->
+	<VVE_Badger.components.2.label>Правая гусеничная цепь</VVE_Badger.components.2.label>
+    <!-- EN: Front Left Drive Sprocket -->
+	<VVE_Badger.components.3.label>Левое направляющее колесо</VVE_Badger.components.3.label>
+    <!-- EN: Front Right Drive Sprocket -->
+	<VVE_Badger.components.4.label>Правое направляющее колесо</VVE_Badger.components.4.label>
+    <!-- EN: Back Left Drive Sprocket -->
+	<VVE_Badger.components.5.label>Левый ведущий каток</VVE_Badger.components.5.label>
+    <!-- EN: Back Right Drive Sprocket -->
+	<VVE_Badger.components.6.label>Правый ведущий каток</VVE_Badger.components.6.label>
+    <!-- EN: Gearbox -->
+	<VVE_Badger.components.7.label>Коробка передач</VVE_Badger.components.7.label>
+    <!-- EN: Left Armor Plating -->
+	<VVE_Badger.components.8.label>Левая бронепанель</VVE_Badger.components.8.label>
+    <!-- EN: Right Armor Plating -->
+	<VVE_Badger.components.9.label>Правая бронепанель</VVE_Badger.components.9.label>
+    <!-- EN: Front Armor Plating -->
+	<VVE_Badger.components.10.label>Передняя бронепанель</VVE_Badger.components.10.label>
+    <!-- EN: Rear Armor Plating -->
+	<VVE_Badger.components.11.label>Задняя бронепанель</VVE_Badger.components.11.label>
+    <!-- EN: Chemtank -->
+	<VVE_Badger.components.12.label>Химтопливный бак</VVE_Badger.components.12.label>
+    <!-- EN: Dashboard -->
+	<VVE_Badger.components.13.label>Приборная панель</VVE_Badger.components.13.label>
+    <!-- EN: Steering Apparatus -->
+	<VVE_Badger.components.14.label>Рулевое устройство</VVE_Badger.components.14.label>
+    <!-- EN: Alternator -->
+	<VVE_Badger.components.15.label>Генератор переменного тока</VVE_Badger.components.15.label>
+    <!-- EN: Roof -->
+	<VVE_Badger.components.16.label>Крыша</VVE_Badger.components.16.label>
+	
+    <!-- EN: Main Turret -->
+	<VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Турель</VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+    <!-- EN: pop smoke -->
+	<VVE_Badger.comps.CompReloadableWithVerbs.verbs.0.label>выпустить дым</VVE_Badger.comps.CompReloadableWithVerbs.verbs.0.label>
+    <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. -->
+	<VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>Пиротехнические устройства для постановки дымовых завес. При активации выпускают густое облако дыма, маскирующее носителя и препятствующее наведению турелей. Имеют три заряда, после использования которых требуется перезарядка химтопливом.</VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>
+	
+	<!-- EN: smokepop -->
+	<VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>пуск</VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>
+	<!-- EN: on cooldown -->
+	<VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>перезаряжается</VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>
+</LanguageData>

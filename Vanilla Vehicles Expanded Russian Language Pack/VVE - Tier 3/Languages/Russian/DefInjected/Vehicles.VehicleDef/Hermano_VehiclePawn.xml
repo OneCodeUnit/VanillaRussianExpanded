@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Hermano -->
+	<VVE_Hermano.label>«Германо»</VVE_Hermano.label>
+	<!-- EN: A dedicated refrigeration vehicle, the Hermano is a decent cargo transporter with a specific niche in ferrying perishable goods. Decent in long-range travel along roads, it performs terribly in off-road or winter conditions.\n\nWhile there are better cargo transporters even in lower tiers, this truck can transport cargo in a frozen state, preventing spoilage. Due to the extra machinery, performance suffers and it should stay away from conflict zones. -->
+	<VVE_Hermano.description>Авторефрижератор «Германо» занимает особую нишу, когда дело касается перевозки скоропортящихся грузов. Он обладает значительной грузоподъёмностью, неплохо справляется с дальними поездками по дорогам, но плохо показывает себя на бездорожьи или в зимних условиях.\n\nНесмотря на то, что существуют более эффективные грузовики даже более низких уровней, «Германо» выгодно отличается от них тем, что способен перевозить скоропортящиеся грузы замороженными. Наличие дополнительного оборудования плохо сказывается на эффективности этого грузовика, поэтому его следует держать подальше от горячих точек.</VVE_Hermano.description>
+
+	<!-- EN: Driver -->
+	<VVE_Hermano.properties.roles.0.label>Водитель</VVE_Hermano.properties.roles.0.label>
+	<!-- EN: Passenger -->
+	<VVE_Hermano.properties.roles.1.label>Пассажир</VVE_Hermano.properties.roles.1.label>
+	<!-- EN: Engine -->
+	<VVE_Hermano.components.0.label>Двигатель</VVE_Hermano.components.0.label>
+	<!-- EN: Front Left Wheel -->
+	<VVE_Hermano.components.1.label>Переднее левое колесо</VVE_Hermano.components.1.label>
+	<!-- EN: Front Right Wheel -->
+	<VVE_Hermano.components.2.label>Переднее правое колесо</VVE_Hermano.components.2.label>
+	<!-- EN: Back Left Wheel -->
+	<VVE_Hermano.components.3.label>Заднее левое колесо</VVE_Hermano.components.3.label>
+	<!-- EN: Back Right Wheel -->
+	<VVE_Hermano.components.4.label>Заднее правое колесо</VVE_Hermano.components.4.label>
+	<!-- EN: Front Left Suspension -->
+	<VVE_Hermano.components.5.label>Передняя левая подвеска</VVE_Hermano.components.5.label>
+	<!-- EN: Front Right Suspension -->
+	<VVE_Hermano.components.6.label>Передняя правая подвеска</VVE_Hermano.components.6.label>
+	<!-- EN: Back Left Suspension -->
+	<VVE_Hermano.components.7.label>Задняя левая подвеска</VVE_Hermano.components.7.label>
+	<!-- EN: Back Right Suspension -->
+	<VVE_Hermano.components.8.label>Задняя правая подвеска</VVE_Hermano.components.8.label>
+	<!-- EN: Gearbox -->
+	<VVE_Hermano.components.9.label>Коробка передач</VVE_Hermano.components.9.label>
+	<!-- EN: Left Side Panel -->
+	<VVE_Hermano.components.10.label>Левая боковая панель</VVE_Hermano.components.10.label>
+	<!-- EN: Right Side Panel -->
+	<VVE_Hermano.components.11.label>Правая боковая панель</VVE_Hermano.components.11.label>
+	<!-- EN: Left Chemtank -->
+	<VVE_Hermano.components.12.label>Левый химтопливный бак</VVE_Hermano.components.12.label>
+	<!-- EN: Front Bumper -->
+	<VVE_Hermano.components.13.label>Передний бампер</VVE_Hermano.components.13.label>
+	<!-- EN: Rear Bumper -->
+	<VVE_Hermano.components.14.label>Задний бампер</VVE_Hermano.components.14.label>
+	<!-- EN: Upholstery -->
+	<VVE_Hermano.components.15.label>Обивка</VVE_Hermano.components.15.label>
+	<!-- EN: Dashboard -->
+	<VVE_Hermano.components.16.label>Приборная панель</VVE_Hermano.components.16.label>
+	<!-- EN: Steering Wheel -->
+	<VVE_Hermano.components.17.label>Руль</VVE_Hermano.components.17.label>
+	<!-- EN: Alternator -->
+	<VVE_Hermano.components.18.label>Генератор переменного тока</VVE_Hermano.components.18.label>
+	<!-- EN: Grill -->
+	<VVE_Hermano.components.19.label>Радиаторная решётка</VVE_Hermano.components.19.label>
+	<!-- EN: Roof -->
+	<VVE_Hermano.components.20.label>Крыша</VVE_Hermano.components.20.label>
+	<!-- EN: Cargo refrigeration -->
+	<VVE_Hermano.comps.CompRefrigerator.label>охлаждение груза</VVE_Hermano.comps.CompRefrigerator.label>
+	<!-- EN: Enable or disable cargo refrigeration on this refrigerated truck. Refrigeration will stop items from spoiling, but will continuously use up fuel. -->
+	<VVE_Hermano.comps.CompRefrigerator.description>Включить или выключить охлаждение груза, находящегося в этом авторефрижераторе. Холодильное оборудование предотвратит порчу предметов, но при этом будет постоянно расходовать топливо.</VVE_Hermano.comps.CompRefrigerator.description>
+</LanguageData>
