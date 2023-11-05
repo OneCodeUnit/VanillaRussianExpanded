@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: sear -->
-	<VREA_Sear.label>sear</VREA_Sear.label>
+  <VREA_Sear.label>испепеление</VREA_Sear.label>
   <!-- EN: {0} has been seared to death. -->
-	<VREA_Sear.deathMessage>{0} has been seared to death.</VREA_Sear.deathMessage>
+  <VREA_Sear.deathMessage>{0} {0_gender ? испепелён : испепелена}.</VREA_Sear.deathMessage>
 
 
 
