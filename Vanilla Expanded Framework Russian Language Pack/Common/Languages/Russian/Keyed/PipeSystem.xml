@@ -33,7 +33,7 @@
   <!-- EN: Net excess/stored in network: {0} {2}/d / {1} {2} -->
   <PipeSystem_ExcessStored>Избыток/добывается {lookup: {0}; Case; 1}: {2} / {1}</PipeSystem_ExcessStored>
   <!-- EN: {0} stored in network: -->
-  <PipeSystem_Stored>{lookup: {0}; Case; 1} в сети:</PipeSystem_Stored>
+  <PipeSystem_Stored>Количество {lookup: {0}; Case; 1} в сети:</PipeSystem_Stored>
 
   <!-- EN: Valve closed. -->
   <PipeSystem_ValveClosed>Вентиль закрыт.</PipeSystem_ValveClosed>
