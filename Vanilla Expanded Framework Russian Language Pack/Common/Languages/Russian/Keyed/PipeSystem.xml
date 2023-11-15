@@ -26,12 +26,12 @@
   <PipeSystem_ResourceNeeded>{lookup: {0}; Case; 1} требуется:</PipeSystem_ResourceNeeded>
 
   <!-- EN: {0} stored: -->
-  <PipeSystem_ResourceStored>{lookup: {0}; Case; 1} хранится:</PipeSystem_ResourceStored>
+  <PipeSystem_ResourceStored>Хранится {lookup: {0}; Case; 1}:</PipeSystem_ResourceStored>
 
   <!-- EN: Not connected to {}. -->
   <PipeSystem_NotConnected>Не соединено с сетью {lookup: {0}; Case; 1}.</PipeSystem_NotConnected>
   <!-- EN: Net excess/stored in network: {0} {2}/d / {1} {2} -->
-  <PipeSystem_ExcessStored>Излишков/запасов в сети: {0} {replace: {2}; "l"-"л"}/день / {1} {replace: {2}; "l"-"л"}</PipeSystem_ExcessStored>
+  <PipeSystem_ExcessStored>Излишков/запасов {lookup: {0}; Case; 1}: {2}л/день / {1}</PipeSystem_ExcessStored>
   <!-- EN: {0} stored in network: -->
   <PipeSystem_Stored>{lookup: {0}; Case; 1} в сети:</PipeSystem_Stored>
 
@@ -78,9 +78,9 @@
   <!-- EN: Transfer storage content -->
   <PipeSystem_TransferContent>Перенести из хранилища</PipeSystem_TransferContent>
   <!-- EN: Transfer storage content to other available storages. -->
-  <PipeSystem_TransferContentDesc>Перенести наполнение хранилища в другое доступное хранилище.</PipeSystem_TransferContentDesc>
+  <PipeSystem_TransferContentDesc>Перенести содержимое хранилища в другое доступное хранилище.</PipeSystem_TransferContentDesc>
   <!-- EN: Transfering content to other available storages... -->
-  <PipeSystem_MarkedToTransferContent>Перенос наполнения хранилища в другое доступное хранилище...</PipeSystem_MarkedToTransferContent>
+  <PipeSystem_MarkedToTransferContent>Перенос содержимого хранилища в другое доступное хранилище...</PipeSystem_MarkedToTransferContent>
 
   <!-- EN: No thing to refill {0} -->
   <PipeSystem_NothingToRefill>Нет ресурсов, чтобы наполнить {0}</PipeSystem_NothingToRefill>
