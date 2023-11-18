@@ -25,6 +25,12 @@
 	<VU_WhiteRoseBite.stages.1.label>назойливые мысли</VU_WhiteRoseBite.stages.1.label>
   <!-- EN: obsessive thought-patterns -->
 	<VU_WhiteRoseBite.stages.2.label>навязчивые мыслительные паттерны</VU_WhiteRoseBite.stages.2.label>
+  <!-- EN: I've been feeling a bit strange. -->
+	<VU_WhiteRoseBite.stages.mindwandering.extraTooltip>Я чувствую себя немного странно.</VU_WhiteRoseBite.stages.mindwandering.extraTooltip>
+  <!-- EN: My thoughts keep drifting when I relax. -->
+	<VU_WhiteRoseBite.stages.intrusive_thoughts.extraTooltip>Мои мысли продолжают плыть по течению, когда я расслабляюсь.</VU_WhiteRoseBite.stages.intrusive_thoughts.extraTooltip>
+  <!-- EN: I keep losing my focus. -->
+	<VU_WhiteRoseBite.stages.obsessive_thoughtpatterns.extraTooltip>Я продолжаю терять концентрацию.</VU_WhiteRoseBite.stages.obsessive_thoughtpatterns.extraTooltip>
 
   <!-- EN: Servant of the Rose -->
 	<VU_WhiteRoseThrall.label>Слуга Розы</VU_WhiteRoseThrall.label>
@@ -36,6 +42,10 @@
 	<VU_WhiteRoseThrall.stages.1.label>слабеющая связь</VU_WhiteRoseThrall.stages.1.label>
   <!-- EN: strong bond -->
 	<VU_WhiteRoseThrall.stages.2.label>сильная связь</VU_WhiteRoseThrall.stages.2.label>
+  <!-- EN: I feel deflated. -->
+	<VU_WhiteRoseThrall.stages.weakening_bond.extraTooltip>Я чувствую опустошение.</VU_WhiteRoseThrall.stages.weakening_bond.extraTooltip>
+  <!-- EN: The bond is strong and I feel a strange drive and vigor. -->
+	<VU_WhiteRoseThrall.stages.strong_bond.extraTooltip>Моя связь сильна, и я чувствую странный прилив энергии.</VU_WhiteRoseThrall.stages.strong_bond.extraTooltip>
 
   <!-- EN: Vampirism -->
 	<VU_DraculVampirism.label>вампиризм</VU_DraculVampirism.label>
@@ -51,6 +61,16 @@
 	<VU_DraculVampirism.stages.3.label>заражение</VU_DraculVampirism.stages.3.label>
   <!-- EN: turning -->
 	<VU_DraculVampirism.stages.4.label>обращение</VU_DraculVampirism.stages.4.label>
+  <!-- EN: I feel a bit lethargic and unfocused. -->
+	<VU_DraculVampirism.stages.weakened.extraTooltip>Я чувствую себя немного вялым и рассеянным.</VU_DraculVampirism.stages.weakened.extraTooltip>
+  <!-- EN: I feel seriously ill. -->
+	<VU_DraculVampirism.stages.drained.extraTooltip>Я чувствую себя больным.</VU_DraculVampirism.stages.drained.extraTooltip>
+  <!-- EN: I feel a bit ill, but nothing that would hold me back. -->
+	<VU_DraculVampirism.stages.signs_of_infection.extraTooltip>Я чувствую себя немного нездоровым, но ничего серьёзного.</VU_DraculVampirism.stages.signs_of_infection.extraTooltip>
+  <!-- EN: Feels like I need to sleep a bit more than usual, but otherwise I'm okay. I feel quite energized actually. -->
+	<VU_DraculVampirism.stages.infected.extraTooltip>Такое чувство, что мне нужно поспать немного дольше обычного, но в остальном всё окей. Я даже чувствую бодрость.</VU_DraculVampirism.stages.infected.extraTooltip>
+  <!-- EN: Feels like I need to sleep a lot, but otherwise I'm okay. When I'm not resting I feel healthy and full of energy. -->
+	<VU_DraculVampirism.stages.turning.extraTooltip>Мне хочется спать всё дольше и дольше, но в остальном всё окей. После сна, я чувствую прилив энергии.</VU_DraculVampirism.stages.turning.extraTooltip>
 
   <!-- EN: Dracul Maturity -->
 	<VU_DraculAge.label>зрелый дракул</VU_DraculAge.label>
@@ -61,11 +81,15 @@
 	<VU_DraculAnimalVampirism.label>вампирическое воскрешение</VU_DraculAnimalVampirism.label>
   <!-- EN: This animal has risen from the dead to a semi-living state under the command of a vampire. -->
 	<VU_DraculAnimalVampirism.description>Это животное было поднято из мёртвых в качестве полуживого существа, подчиняющегося командам вампира.</VU_DraculAnimalVampirism.description>
+  <!-- EN: Greatly decreases bleeding rate. -->
+	<VU_DraculAnimalVampirism.extraTooltip>Значительно снижает скорость потери крови.</VU_DraculAnimalVampirism.extraTooltip>
 
   <!-- EN: Returned -->
 	<VU_AnimalReturned.label>Вернувшийся</VU_AnimalReturned.label>
   <!-- EN: This animal has risen from the dead as an undead anomality. -->
 	<VU_AnimalReturned.description>Это животное восстало из мёртвых как аномальная нежить.</VU_AnimalReturned.description>
+  <!-- EN: Prevents bleeding. -->
+	<VU_AnimalReturned.extraTooltip>Предотвращает кровотечение</VU_AnimalReturned.extraTooltip>
 
   <!-- EN: returning -->
 	<BS_ReturnedReanimation.label>возвращение</BS_ReturnedReanimation.label>
