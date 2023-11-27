@@ -7,55 +7,55 @@
   
   <!-- EN:
     <li>memeAdjective->cultured</li>
-		<li>memeAdjective->enlightened</li>
-		<li>memeAdjective->well educated</li>
-		<li>memeAdjective->erudite</li>
-		<li>memeAdjective->knowledgeable</li>
-		<li>memeConcept->book writing</li>
-		<li>memeConcept->reading</li>
-		<li>memeLeaderNoun->librarian</li>
-		<li>memeMoralist->scribe</li>
+  <li>memeAdjective->enlightened</li>
+  <li>memeAdjective->well educated</li>
+  <li>memeAdjective->erudite</li>
+  <li>memeAdjective->knowledgeable</li>
+  <li>memeConcept->book writing</li>
+  <li>memeConcept->reading</li>
+  <li>memeLeaderNoun->librarian</li>
+  <li>memeMoralist->scribe</li>
   -->
   <VME_Cultured.generalRules.rulesStrings>
-  	<li>memeAdjective->культурный</li>
+    <li>memeAdjective->культурный</li>
     <li>memeAdjective->интеллигентный</li>
-		<li>memeAdjective->образованный</li>
-		<li>memeAdjective->эрудированный</li>
-		<li>memeAdjective->обладающий знаниями</li>
-	  <li>memeConcept->писательства</li>
+  <li>memeAdjective->образованный</li>
+  <li>memeAdjective->эрудированный</li>
+  <li>memeAdjective->обладающий знаниями</li>
+    <li>memeConcept->писательства</li>
     <li>memeConcept->чтения</li>
     <li>memeConcept->издательства</li>
     <li>memeLeaderNoun->главный библиотекарь</li>
-		<li>memeMoralist->писарь</li>
+  <li>memeMoralist->писарь</li>
   </VME_Cultured.generalRules.rulesStrings>
 
   <!-- EN:
-		<li>creation(tag=meme_Cultured)        ->[deity0_name] taught all of [deity0_possessive] followers the secrets of writing: "Write all the words which I have spoken to you in a book."</li>
-		<li>episode(uses=1,tag=meme_Cultured)  ->[deity0_name] said to all the [memberNamePlural], "Every scribe who has become a disciple of the kingdom of heaven is like a head of a household, who brings out of his treasure things new and old."</li>
-	
-		<li>intro(tag=meme_Cultured)           ->[memberNamePlural] built a great library on the [place_summary] [place_name], and filled it with wondrous books and scrolls containing the wisdom of their ancestors.</li>
-		<li>conflict(tag=meme_Cultured)        ->A simpleton [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to burn all the knowledge to ashes, for [foeLeader_pronoun] was a raging anti-intellectual.</li>
-		<li>founderJoin(tag=meme_Cultured)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] infinite knowledge, and [founder_pronoun] transcribed all the knowledge of the [memberNamePlural] into nearly indestructuble data cores.</li>
-		<li>victory(tag=meme_Cultured)         ->The [foeSoldiers] succeeded in burning and destroying all the ancient books of the [memberNamePlural] but it didn't matter: the data was already safe thanks to the efforts of [founderName].</li>
-	
-		<li>setup(tag=meme_Cultured)           ->Our founder [founderName] was a writer, one of the greatest the galaxy has ever seen. [founderName_possessive] prose allowed you to visit far away worlds and lose yourself in intricate fantasies.</li>
-		<li>story(uses=1,tag=meme_Cultured)    ->[founderName] taught us that a society that doesn't value the written tradition is lost.</li>
-	
-		<li>lessonIntro(tag=meme_Cultured)         ->I have writing books for most of my life, and I have learned one main thing:</li>
-		<li>lesson(tag=meme_Cultured)              ->there is no greater agony than bearing an untold story inside you</li>
-		<li>lessonReinforcement(tag=meme_Cultured) ->If there's a book that you want to read, but it hasn't been written yet, then you must write it.</li>
-	
-		<li>archistBasis(tag=meme_Cultured)    ->The archotechs value knowledge above all things, and respect the written traditions of humanity.</li>
-		<li>archistFact(tag=meme_Cultured)     ->Archotechs wouldn't want us to be uneducated simpletons, moving through life like mindless automatons.</li>
-		<li>archistProphecy(tag=meme_Cultured) ->[inTheEnd], the archotechs will only choose for transcendence those who are cultured and educated enough.</li>
-		
-		<li>animistFact(tag=meme_Cultured)     ->The spirits want us to develop our intelligence, to be cultured and educated, for a simple mind is offensive to them.</li>
-		<li>serketistProphecy(tag=meme_Cultured)->[itIsSaid] we will set the insect's knowledge in tablets of obdisian, so their divine words can't be erased by the passage of time.</li>
-		<li>chthonianProphecy(tag=meme_Cultured)->A Black Tome of forbidden magic is said to contain insights to the madness of these transhuman intelligences. Perhaps our scribes will one day decipher its eldritch message.</li>
-		<li>esotericismProphecy(tag=meme_Cultured)->Only with careful study of the most obscure arcane texts can we hope to unlock these secrets.</li>
-		<li>eschatologismFact(tag=meme_Cultured)->Three scrolls written with the blood of our enemies in human skin parchment will be the testament of our victory, and upon seeing them our enemies will only know fear.</li>
-		
-		<li>introMemo(tag=meme_Cultured)->I'm so tired, SO tired of having to remind you this... PLEASE, for all that is holy, DOCUMENT YOUR CODE! Undocumented code is useless down the line, and I don't want to have to train the next developer into deciphering the vague code ramblings of the last person who "conveniently forgot" to do it! Come on, people!</li>
+  <li>creation(tag=meme_Cultured)        ->[deity0_name] taught all of [deity0_possessive] followers the secrets of writing: "Write all the words which I have spoken to you in a book."</li>
+  <li>episode(uses=1,tag=meme_Cultured)  ->[deity0_name] said to all the [memberNamePlural], "Every scribe who has become a disciple of the kingdom of heaven is like a head of a household, who brings out of his treasure things new and old."</li>
+  
+  <li>intro(tag=meme_Cultured)           ->[memberNamePlural] built a great library on the [place_summary] [place_name], and filled it with wondrous books and scrolls containing the wisdom of their ancestors.</li>
+  <li>conflict(tag=meme_Cultured)        ->A simpleton [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to burn all the knowledge to ashes, for [foeLeader_pronoun] was a raging anti-intellectual.</li>
+  <li>founderJoin(tag=meme_Cultured)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] infinite knowledge, and [founder_pronoun] transcribed all the knowledge of the [memberNamePlural] into nearly indestructuble data cores.</li>
+  <li>victory(tag=meme_Cultured)         ->The [foeSoldiers] succeeded in burning and destroying all the ancient books of the [memberNamePlural] but it didn't matter: the data was already safe thanks to the efforts of [founderName].</li>
+  
+  <li>setup(tag=meme_Cultured)           ->Our founder [founderName] was a writer, one of the greatest the galaxy has ever seen. [founderName_possessive] prose allowed you to visit far away worlds and lose yourself in intricate fantasies.</li>
+  <li>story(uses=1,tag=meme_Cultured)    ->[founderName] taught us that a society that doesn't value the written tradition is lost.</li>
+  
+  <li>lessonIntro(tag=meme_Cultured)         ->I have writing books for most of my life, and I have learned one main thing:</li>
+  <li>lesson(tag=meme_Cultured)              ->there is no greater agony than bearing an untold story inside you</li>
+  <li>lessonReinforcement(tag=meme_Cultured) ->If there's a book that you want to read, but it hasn't been written yet, then you must write it.</li>
+  
+  <li>archistBasis(tag=meme_Cultured)    ->The archotechs value knowledge above all things, and respect the written traditions of humanity.</li>
+  <li>archistFact(tag=meme_Cultured)     ->Archotechs wouldn't want us to be uneducated simpletons, moving through life like mindless automatons.</li>
+  <li>archistProphecy(tag=meme_Cultured) ->[inTheEnd], the archotechs will only choose for transcendence those who are cultured and educated enough.</li>
+  
+  <li>animistFact(tag=meme_Cultured)     ->The spirits want us to develop our intelligence, to be cultured and educated, for a simple mind is offensive to them.</li>
+  <li>serketistProphecy(tag=meme_Cultured)->[itIsSaid] we will set the insect's knowledge in tablets of obdisian, so their divine words can't be erased by the passage of time.</li>
+  <li>chthonianProphecy(tag=meme_Cultured)->A Black Tome of forbidden magic is said to contain insights to the madness of these transhuman intelligences. Perhaps our scribes will one day decipher its eldritch message.</li>
+  <li>esotericismProphecy(tag=meme_Cultured)->Only with careful study of the most obscure arcane texts can we hope to unlock these secrets.</li>
+  <li>eschatologismFact(tag=meme_Cultured)->Three scrolls written with the blood of our enemies in human skin parchment will be the testament of our victory, and upon seeing them our enemies will only know fear.</li>
+  
+  <li>introMemo(tag=meme_Cultured)->I'm so tired, SO tired of having to remind you this... PLEASE, for all that is holy, DOCUMENT YOUR CODE! Undocumented code is useless down the line, and I don't want to have to train the next developer into deciphering the vague code ramblings of the last person who "conveniently forgot" to do it! Come on, people!</li>
   -->
   <VME_Cultured.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Cultured)        ->Однажды [deity0_name] [deity_spoke] ко всем своим последователям и [deity_told] тайну письма: «Каждое произнесённое слово можно сохранить навсегда, записав его. Создайте первую книгу со словами моими».</li>
@@ -79,10 +79,10 @@
     
     <li>animistFact(tag=meme_Cultured)     ->Духи хотят, чтобы мы развивали наш интеллект, были культурными и образованными, ведь дремучесть оскорбительна для них.</li>
     <li>serketistProphecy(tag=meme_Cultured)   ->[itIsSaid], что знания насекомых будут помещены на таблички из обсидиана, который не позволит времени стереть их.</li>
-	  <li>chthonianProphecy(tag=meme_Cultured)   ->Чёрная книга содержит запретную магию, рождённую когда-то безумием множества разумов. Возможно, наши писари когда-нибудь смогут расшифровать её.</li>
-	  <li>esotericismProphecy(tag=meme_Cultured) ->Только прилежное изучение запутанных древних текстов позволит нам разгадать секреты.</li>
-	  <li>eschatologismFact(tag=meme_Cultured)   ->Слова, написанные кровью наших врагов на трёх свитках из человеческой кожи провозгласят нашу победу и посеют страх в сердца врагов.</li>
-	  
+    <li>chthonianProphecy(tag=meme_Cultured)   ->Чёрная книга содержит запретную магию, рождённую когда-то безумием множества разумов. Возможно, наши писари когда-нибудь смогут расшифровать её.</li>
+    <li>esotericismProphecy(tag=meme_Cultured) ->Только прилежное изучение запутанных древних текстов позволит нам разгадать секреты.</li>
+    <li>eschatologismFact(tag=meme_Cultured)   ->Слова, написанные кровью наших врагов на трёх свитках из человеческой кожи провозгласят нашу победу и посеют страх в сердца врагов.</li>
+    
     <li>introMemo(tag=meme_Cultured)           ->До чего же утомительно СНОВА просить не забывать... ДОКУМЕНТИРОВАТЬ СВОЙ (да простит меня Бог) КОД! Этот говнокод нечитаем от первой и до последней строки. А бюджета на найм специально обученного человека для чтения чужого «до заливки в прод поправим» кода нет. Нормально делай — нормально будет!</li>
     
     <li>deity_spoke(deity0_gender==None)->обратилось</li>

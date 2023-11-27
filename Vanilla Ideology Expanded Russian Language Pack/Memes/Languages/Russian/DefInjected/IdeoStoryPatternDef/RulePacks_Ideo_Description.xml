@@ -113,7 +113,7 @@
 
   <VME_HedonistDescription.rules.rulesFiles>
     <li>TerrainFeature_gen->Words/VME_TerrainFeatures_Genitive</li>
-	  <li>Community_Prep->Words/VME_Communities_Prepos</li>
+    <li>Community_Prep->Words/VME_Communities_Prepos</li>
   </VME_HedonistDescription.rules.rulesFiles>
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
@@ -150,7 +150,7 @@
     <li>lessonMain->pleasure is not a need, but an incentive</li>
     <li>lessonMain->the most responsible way of life right now is to enjoy ourselves while we can</li>
     <li>lessonMain->you can live to be a hundred if you give up all the things that make you want to live to be a hundred</li>
-	<li>lessonReinforcement->No one can argue with that.</li>
+  <li>lessonReinforcement->No one can argue with that.</li>
     <li>lessonReinforcement->Only fools think otherwise.</li>
     <li>lessonReinforcement->And as we now know, that was soon to become evident to everyone.</li>
     <li>lessonReinforcement->Everything that has happened since has reinforced that fact.</li>
@@ -194,7 +194,7 @@
     <li>lessonMain->удовольствие — не потребность, но мотивация</li>
     <li>lessonMain->надёжнее всего сейчас наслаждаться тем, что ты можешь себе дать</li>
     <li>lessonMain->вы можете дожить до старости, если откажетесь от всего, что заставляет вас желать дожить до старости</li>
-	  <li>lessonReinforcement->С этим никто не сможет поспорить.</li>
+    <li>lessonReinforcement->С этим никто не сможет поспорить.</li>
     <li>lessonReinforcement->Только дураки будут считать иначе.</li>
     <li>lessonReinforcement->И, как мы теперь знаем, это вскоре стало очевидным для всех.</li>
     <li>lessonReinforcement->Прошедшие события только подтверждают это.</li>
@@ -239,7 +239,7 @@
 
   <VME_AuthoritarianDescription.rules.rulesFiles>
     <li>TerrainFeature_gen->Words/VME_TerrainFeatures_Genitive</li>
-	  <li>Community_Prep->Words/VME_Communities_Prepos</li>
+    <li>Community_Prep->Words/VME_Communities_Prepos</li>
   </VME_AuthoritarianDescription.rules.rulesFiles>
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
@@ -281,24 +281,24 @@
     <li>r_pattern->«[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]»\n\n  - [lessonAttribution]</li>
     <li>lessonAttribution->[founder_nameFull], [speechadjective_female] [speech_female] около [TerrainFeature_gen]</li>
     <li>lessonAttribution->[founder_nameFull], [speechadjective_neuter] [speech_neuter] около [TerrainFeature_gen]</li>
-	  <li>lessonAttribution->[founder_nameFull], [speechadjective_female] [speech_female] в [Community_Prep]</li>
-	  <li>lessonAttribution->[founder_nameFull], [speechadjective_neuter] [speech_neuter] в [Community_Prep]</li>
+    <li>lessonAttribution->[founder_nameFull], [speechadjective_female] [speech_female] в [Community_Prep]</li>
+    <li>lessonAttribution->[founder_nameFull], [speechadjective_neuter] [speech_neuter] в [Community_Prep]</li>
     <li>speechadjective_female->зажигательная</li>
     <li>speechadjective_female->публичная</li>
     <li>speechadjective_female->широко известная</li>
     <li>speechadjective_female->политическая</li>
     <li>speechadjective_female->страстная</li>
     <li>speechadjective_female->пламенная</li>
-	  <li>speechadjective_female->скандальная</li>
+    <li>speechadjective_female->скандальная</li>
     <li>speechadjective_neuter->зажигательное</li>
     <li>speechadjective_neuter->публичное</li>
     <li>speechadjective_neuter->широко известное</li>
     <li>speechadjective_neuter->политическое</li>
     <li>speechadjective_neuter->страстное</li>
     <li>speechadjective_neuter->пламенное</li>
-	  <li>speechadjective_neuter->скандальное</li>
+    <li>speechadjective_neuter->скандальное</li>
     <li>speech_female->речь</li>
-	  <li>speech_female->проповедь</li>
+    <li>speech_female->проповедь</li>
     <li>speech_neuter->выступление</li>
     <li>speech_neuter->обращение</li>
     <li>lessonIntro->Вся борьба за выживание заключается в захвате средств к существованию.</li>
@@ -309,7 +309,7 @@
     <li>lessonIntro->Мои соотечественники: человек существует не в теориях и фразах, не в декларациях или теориях философов. Он существует тем, что может создать своим трудом на земле.</li>
     <li>lessonIntro->Наша победа была победой искреннего патриотизма и массового героизма граждан, победой справедливости и прогресса над несправедливостью и заторможенностью, победой будущего человечества над его врагами.</li>
     <li>lessonMain->Тем, кто меня слышит, я говорю: не отчаивайтесь</li>
-	  <li>lessonMain->Ни для кого не станет секретом, что теперь, после преодоления прошлого этапа, мы можем отшвырнуть всё и всех, кто хотел бы отвлечь нас от продвижения к осуществлению нашего движения</li>
+    <li>lessonMain->Ни для кого не станет секретом, что теперь, после преодоления прошлого этапа, мы можем отшвырнуть всё и всех, кто хотел бы отвлечь нас от продвижения к осуществлению нашего движения</li>
     <li>lessonMain->Мы — действующие лица новой эры, мы не застрянем в предрассудках прошлого</li>
     <li>lessonMain->Молодёжь шла, осознавая ответственность за будущее, к цели, которая лишь ощущалась, а не была чётко определена</li>
     <li>lessonMain->Сейчас мы сталкиваемся не только с территориальными и политическими проблемами, но и с важнейшими вопросами существования нашей веры, нашей цивилизации и нашей культуры, которые сейчас снова поставлены на карту</li>
@@ -350,7 +350,7 @@
     <li>setup->Мы избраны [founder_possessive] божественной волей. Мы сыновья и дочери [founderName] [founder_honorific], первого [leaderTitle].</li>
     <li>setup->Рассказывают, что первый [leaderTitle], [founderName] [founder_honorific] [founder_arose] вместе со Вселенной в момент её сотворения.</li>
     <li>setup->Среди ужасного хаоса, охватившего древних предков, [founder_arose] [founderName], первый [leaderTitle].</li>
-	  <li>setup->Имея совсем непримечательное происхождение, [founderName], первый [leaderTitle], [founder_raised] до самой вершины благодаря своей несгибаемой воле.</li>
+    <li>setup->Имея совсем непримечательное происхождение, [founderName], первый [leaderTitle], [founder_raised] до самой вершины благодаря своей несгибаемой воле.</li>
     
     <li>founder_honorific(founder_gender==Male)->[honorific_male]</li>
     <li>founder_honorific(founder_gender==Female)->[honorific_female]</li>
@@ -360,7 +360,7 @@
     <li>honorific_male->Ужасного</li>
     <li>honorific_male->Завоевателя</li>
     <li>honorific_male->Блистательного</li>
-	  <li>honorific_female->Великолепной</li>
+    <li>honorific_female->Великолепной</li>
     <li>honorific_female->Великой</li>
     <li>honorific_female->Святой</li>
     <li>honorific_female->Ужасной</li>
@@ -375,12 +375,12 @@
 
     <li>story(uses=1,priority=-10)->Первые [memberNamePlural] поклялись в верности [founderName] и [founder_possessive] потомкам, связав себя обетом служения.</li>
     <li>story(uses=1,priority=-10)->[founderName] [founder_inspired] многих вести праведную жизнь, получив за это нашу бесконечную преданность.</li>
-	  <li>story(uses=1,priority=-10)->Благодаря армии последователей, что [founder_gather] [founderName] под своим началом, [founder_possessive] династия продолжается в лице нынешнего [leaderTitle].</li>
+    <li>story(uses=1,priority=-10)->Благодаря армии последователей, что [founder_gather] [founderName] под своим началом, [founder_possessive] династия продолжается в лице нынешнего [leaderTitle].</li>
     <li>story(uses=1,priority=-10)->Наш любимый лидер, последний преемник [founderName], принесёт нам процветание, позволяя вести [memeAdjective] образ жизни.</li>
-	  
+    
     <li>founder_inspired(founder_gender==Male)->вдохновил</li>
     <li>founder_inspired(founder_gender==Female)->вдохновила</li>
-	  <li>founder_gather(founder_gender==Male)->собрал</li>
+    <li>founder_gather(founder_gender==Male)->собрал</li>
     <li>founder_gather(founder_gender==Female)->собрала</li>
   </VME_CultOfPersonalityDescription.rules.rulesStrings>
 
@@ -497,7 +497,7 @@
     <li>story(uses=1,priority=-10)->Произнесённая [founderName] во время ритуала [ritualName] речь вдохновила многих на то, чтобы вести [memeAdjective] образ жизни, свободный от магического мышления. А [founder_pronoun] навсегда остаётся известной как [honorific].</li>
     <li>story(uses=1,priority=-10)->[founderName] навечно останется в памяти нашего народа как [honorific]. [founder_pronoun] навсегда [founder_banished] магическое мышление из наших умов.</li>
 
-	  <li>founder_made(founder_gender==Male)->дал</li>
+    <li>founder_made(founder_gender==Male)->дал</li>
     <li>founder_made(founder_gender==Female)->дала</li>
     <li>founder_first(founder_gender==Male)->первым осознал</li>
     <li>founder_first(founder_gender==Female)->первой осознала</li>
@@ -518,7 +518,7 @@
 
   <VME_SecularSpiritualityDescription.rules.rulesFiles>
     <li>TerrainFeature_gen->Words/VME_TerrainFeatures_Genitive</li>
-	  <li>Community_Prep->Words/VME_Communities_Prepos</li>
+    <li>Community_Prep->Words/VME_Communities_Prepos</li>
   </VME_SecularSpiritualityDescription.rules.rulesFiles>
 
   <!-- EN:

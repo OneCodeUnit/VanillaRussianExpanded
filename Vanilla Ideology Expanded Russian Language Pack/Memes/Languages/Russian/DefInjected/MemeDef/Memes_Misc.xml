@@ -1042,40 +1042,40 @@
 
     <li>alienistProphecy(tag=meme_FireWorship)->Все эти непохожие создания, забытые творения человечества, послужат растопкой для пламени.</li>
 
-	<li>deity0_infused(deity0_gender==None)->вдохнулo</li>
+  <li>deity0_infused(deity0_gender==None)->вдохнулo</li>
     <li>deity0_infused(deity0_gender==Male)->вдохнул</li>
     <li>deity0_infused(deity0_gender==Female)->вдохнулa</li>
-	<li>deity0_gave(deity0_gender==None)->дало</li>
+  <li>deity0_gave(deity0_gender==None)->дало</li>
     <li>deity0_gave(deity0_gender==Male)->дал</li>
     <li>deity0_gave(deity0_gender==Female)->дала</li>
 
-	<li>deity0_god(deity0_gender==None)->божеству</li>
+  <li>deity0_god(deity0_gender==None)->божеству</li>
     <li>deity0_god(deity0_gender==Male)->богу</li>
     <li>deity0_god(deity0_gender==Female)->богине</li>
-	<li>foe_envious(foeLeader_gender==Male)->завистливый</li>
+  <li>foe_envious(foeLeader_gender==Male)->завистливый</li>
     <li>foe_envious(foeLeader_gender==Female)->завистливая</li>
     <li>foe_saw(foeLeader_gender==Male)->увидел</li>
     <li>foe_saw(foeLeader_gender==Female)->увидела</li>
     <li>foe_wanted(foeLeader_gender==Male)->захотел</li>
     <li>foe_wanted(foeLeader_gender==Female)->захотела</li>
 
-	<li>founder_acolyte(founder_gender==Male)->послушник</li>
+  <li>founder_acolyte(founder_gender==Male)->послушник</li>
     <li>founder_acolyte(founder_gender==Female)->послушница</li>
-	<li>deity0_god1(deity0_gender==None)->божества</li>
+  <li>deity0_god1(deity0_gender==None)->божества</li>
     <li>deity0_god1(deity0_gender==Male)->бога</li>
     <li>deity0_god1(deity0_gender==Female)->богини</li>
-	<li>founder_infiltrated(founder_gender==Male)->прокрался</li>
-    <li>founder_infiltrated(founder_gender==Female)->прокралась</li>	
-	<li>founder_ablaze(founder_gender==Male)->поджёг</li>
-    <li>founder_ablaze(founder_gender==Female)->подожгла</li>	
+  <li>founder_infiltrated(founder_gender==Male)->прокрался</li>
+    <li>founder_infiltrated(founder_gender==Female)->прокралась</li>  
+  <li>founder_ablaze(founder_gender==Male)->поджёг</li>
+    <li>founder_ablaze(founder_gender==Female)->подожгла</li>  
 
-	<li>founder_was1(founder_gender==Male)->был заключён</li>
+  <li>founder_was1(founder_gender==Male)->был заключён</li>
     <li>founder_was1(founder_gender==Female)->была заключена</li>
-	<li>founder_was(founder_gender==Male)->был</li>
+  <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	<li>founder_saw(founder_gender==Male)->увидел</li>
+  <li>founder_saw(founder_gender==Male)->увидел</li>
     <li>founder_saw(founder_gender==Female)->увидела</li>
-	<li>founder_formulated(founder_gender==Male)->сформулировал</li>
+  <li>founder_formulated(founder_gender==Male)->сформулировал</li>
     <li>founder_formulated(founder_gender==Female)->сформулировала</li>
   </VME_FireWorship.descriptionMaker.rules.rulesStrings>
 
@@ -1195,20 +1195,20 @@
     <li>deity0_open(deity0_gender==None)->открыло</li>
     <li>deity0_open(deity0_gender==Male)->открыл</li>
     <li>deity0_open(deity0_gender==Female)->открыла</li>
-	  <li>founder_gathered(founder_gender==Male)->собрал</li>
+    <li>founder_gathered(founder_gender==Male)->собрал</li>
     <li>founder_gathered(founder_gender==Female)->собрала</li>
-	  <li>founder_asked(founder_gender==Male)->попросил</li>
+    <li>founder_asked(founder_gender==Male)->попросил</li>
     <li>founder_asked(founder_gender==Female)->попросила</li>
-	  <li>founder_gained(founder_gender==Male)->получил</li>
+    <li>founder_gained(founder_gender==Male)->получил</li>
     <li>founder_gained(founder_gender==Female)->получила</li>
 
-	  <li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	  <li>founder_posited(founder_gender==Male)->утверждал</li>
+    <li>founder_posited(founder_gender==Male)->утверждал</li>
     <li>founder_posited(founder_gender==Female)->утверждала</li>
-	  <li>founder_assembled(founder_gender==Male)->собрал</li>
+    <li>founder_assembled(founder_gender==Male)->собрал</li>
     <li>founder_assembled(founder_gender==Female)->собрала</li>
-	  <li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+    <li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
     <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
   </VME_Bushido.descriptionMaker.rules.rulesStrings>
 
@@ -1347,7 +1347,7 @@
     <li>foe_wanted(foeLeader_gender==Male)->хотел</li>
     <li>foe_wanted(foeLeader_gender==Female)->хотела</li>
 
-	<li>founder_prophet(founder_gender==Male)->величайший пророк, молился</li>
+  <li>founder_prophet(founder_gender==Male)->величайший пророк, молился</li>
     <li>founder_prophet(founder_gender==Female)->величайшая пророчица, молилась</li>
     <li>deity0_made(deity0_gender==None)->создало</li>
     <li>deity0_made(deity0_gender==Male)->создал</li>
@@ -1358,13 +1358,13 @@
     <li>foe_humbled(foeLeader_gender==Male)->был унижен и бежал</li>
     <li>foe_humbled(foeLeader_gender==Female)->была унижена и бежала</li>
 
-	<li>founder_was(founder_gender==Male)->был</li>
+  <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	<li>founder_looked(founder_gender==Male)->посмотрел</li>
+  <li>founder_looked(founder_gender==Male)->посмотрел</li>
     <li>founder_looked(founder_gender==Female)->посмотрела</li>
-	<li>founder_understood(founder_gender==Male)->понял</li>
+  <li>founder_understood(founder_gender==Male)->понял</li>
     <li>founder_understood(founder_gender==Female)->поняла</li>
-	<li>founder_created(founder_gender==Male)->создал</li>
+  <li>founder_created(founder_gender==Male)->создал</li>
     <li>founder_created(founder_gender==Female)->создала</li>
   </VME_Light.descriptionMaker.rules.rulesStrings>
 
@@ -1490,22 +1490,22 @@
     <li>deity0_commanded(deity0_gender==None)->повелело</li>
     <li>deity0_commanded(deity0_gender==Male)->повелел</li>
     <li>deity0_commanded(deity0_gender==Female)->повелела</li>
-	<li>founder_Khan(founder_gender==Male)->Великий Хан, устал</li>
+  <li>founder_Khan(founder_gender==Male)->Великий Хан, устал</li>
     <li>founder_Khan(founder_gender==Female)->Великиая Ханша, устала</li>
-	<li>founder_hanged(founder_gender==Male)->повесил</li>
+  <li>founder_hanged(founder_gender==Male)->повесил</li>
     <li>founder_hanged(founder_gender==Female)->повесила</li>
 
-	<li>founder_was1(founder_gender==Male)->был опытным выживальщиком, уставшим</li>
+  <li>founder_was1(founder_gender==Male)->был опытным выживальщиком, уставшим</li>
     <li>founder_was1(founder_gender==Female)->была опытной выживальщицей, уставшей</li>
-	<li>founder_longed(founder_gender==Male)->стремился</li>
+  <li>founder_longed(founder_gender==Male)->стремился</li>
     <li>founder_longed(founder_gender==Female)->стремилась</li>
-	<li>founder_assembled(founder_gender==Male)->собрал</li>
+  <li>founder_assembled(founder_gender==Male)->собрал</li>
     <li>founder_assembled(founder_gender==Female)->собрала</li>
-	<li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+  <li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
     <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
     <li>founder_died(founder_gender==Male)->умер</li>
     <li>founder_died(founder_gender==Female)->умерла</li>
-	<li>founder_imagine(founder_gender==Male)->представлял</li>
+  <li>founder_imagine(founder_gender==Male)->представлял</li>
     <li>founder_imagine(founder_gender==Female)->представляла</li>
   </VME_Nomad.descriptionMaker.rules.rulesStrings>
 
@@ -1625,23 +1625,23 @@
     <li>deity0_god(deity0_gender==None)->божеству</li>
     <li>deity0_god(deity0_gender==Male)->богу</li>
     <li>deity0_god(deity0_gender==Female)->богине</li>
-	<li>founder_challenged(founder_gender==Male)->был вызван</li>
+  <li>founder_challenged(founder_gender==Male)->был вызван</li>
     <li>founder_challenged(founder_gender==Female)->была вызвана</li>
-	<li>founder_knew(founder_gender==Male)->знал</li>
+  <li>founder_knew(founder_gender==Male)->знал</li>
     <li>founder_knew(founder_gender==Female)->знала</li>
-	<li>deity0_whispered(deity0_gender==None)->нашептало</li>
+  <li>deity0_whispered(deity0_gender==None)->нашептало</li>
     <li>deity0_whispered(deity0_gender==Male)->нашептал</li>
     <li>deity0_whispered(deity0_gender==Female)->нашептала</li>
-	<li>founder_behead(founder_gender==Male)->обезглавил</li>
+  <li>founder_behead(founder_gender==Male)->обезглавил</li>
     <li>founder_behead(founder_gender==Female)->обезглавила</li>
-	<li>founder_consolidating(founder_gender==Male)->укрепил</li>
+  <li>founder_consolidating(founder_gender==Male)->укрепил</li>
     <li>founder_consolidating(founder_gender==Female)->укрепила</li>
 
-	<li>founder_was(founder_gender==Male)->был</li>
+  <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	<li>founder_fighting(founder_gender==Male)->сражался</li>
+  <li>founder_fighting(founder_gender==Male)->сражался</li>
     <li>founder_fighting(founder_gender==Female)->сражалась</li>
-	<li>founder_understood(founder_gender==Male)->понимал</li>
+  <li>founder_understood(founder_gender==Male)->понимал</li>
     <li>founder_understood(founder_gender==Female)->понимала</li>
   </VME_BloodCourt.descriptionMaker.rules.rulesStrings>
 
@@ -1765,9 +1765,9 @@
     <li>foe_assembled(foeLeader_gender==Male)->собрал</li>
     <li>foe_assembled(foeLeader_gender==Female)->собрала</li>
 
-	<li>founder_known(founder_gender==Male)->известный</li>
+  <li>founder_known(founder_gender==Male)->известный</li>
     <li>founder_known(founder_gender==Female)->известная</li>
-	<li>founder_laughed(founder_gender==Male)->посмеялся</li>
+  <li>founder_laughed(founder_gender==Male)->посмеялся</li>
     <li>founder_laughed(founder_gender==Female)->посмеялась</li>
     <li>foe_know(foeLeader_gender==Male)->знал</li>
     <li>foe_know(foeLeader_gender==Female)->знала</li>
@@ -1777,13 +1777,13 @@
     <li>foe_forced(foeLeader_gender==Male)->был вынужден</li>
     <li>foe_forced(foeLeader_gender==Female)->была вынуждена</li>
 
-	<li>founder_was(founder_gender==Male)->был</li>
+  <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	<li>founder_believed(founder_gender==Male)->полагал</li>
+  <li>founder_believed(founder_gender==Male)->полагал</li>
     <li>founder_believed(founder_gender==Female)->полагал</li>
-	<li>founder_proposed(founder_gender==Male)->запланировал</li>
+  <li>founder_proposed(founder_gender==Male)->запланировал</li>
     <li>founder_proposed(founder_gender==Female)->запланировала</li>
-	<li>founder_stayed(founder_gender==Male)->остался</li>
+  <li>founder_stayed(founder_gender==Male)->остался</li>
     <li>founder_stayed(founder_gender==Female)->осталась</li>
   </VME_CityBuilders.descriptionMaker.rules.rulesStrings>
 
@@ -1923,7 +1923,7 @@
     <li>foe_sought(foeLeader_gender==Male)->искал возможность</li>
     <li>foe_sought(foeLeader_gender==Female)->искала возможность</li>
 
-	<li>founder_prayed(founder_gender==Male)->молился</li>
+  <li>founder_prayed(founder_gender==Male)->молился</li>
     <li>founder_prayed(founder_gender==Female)->молилась</li>
     <li>deity0_summoned(deity0_gender==None)->вызвало</li>
     <li>deity0_summoned(deity0_gender==Male)->вызвал</li>
@@ -1934,11 +1934,11 @@
 
     <li>founder_spent(founder_gender==Male)->провёл</li>
     <li>founder_spent(founder_gender==Female)->провела</li>
-	<li>founder_came(founder_gender==Male)->пришёл</li>
+  <li>founder_came(founder_gender==Male)->пришёл</li>
     <li>founder_came(founder_gender==Female)->пришла</li>
-	<li>founder_assembled(founder_gender==Male)->собрал</li>
+  <li>founder_assembled(founder_gender==Male)->собрал</li>
     <li>founder_assembled(founder_gender==Female)->собрала</li>
-	<li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+  <li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
     <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
   </VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
 
@@ -1980,73 +1980,73 @@
   </VME_InsectoidSupremacy.generalRules.rulesStrings>
 
   <!-- EN:
-		<li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] visage is otherworldly: a moving mass of chitin-covered flesh, thousands of small insects constantly darting in and out of its armoured plates."</li>
-		<li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] commanded [deity0_possessive] followers: "respect and revere the insectoids, for they are my children and they were created in my own image".</li>
-		
+  <li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] visage is otherworldly: a moving mass of chitin-covered flesh, thousands of small insects constantly darting in and out of its armoured plates."</li>
+  <li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] commanded [deity0_possessive] followers: "respect and revere the insectoids, for they are my children and they were created in my own image".</li>
+  
     <li>intro(tag=meme_InsectoidSupremacy)           ->On the [place_summary] [place_name], the [memberNamePlural] built a great human hive, a testament to the glory of [deity0_name].</li>
-		<li>conflict(tag=meme_InsectoidSupremacy)        ->An evil [foeLeader] despised [foeLeader_possessive] neighbours, and wanted to return to the ancient times when men lived apart from each other, isolated.</li>
-		<li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], the Chosen of [deity0_name], heard of the apostasy of the [foeLeader], and sought to convince [foeLeader_objective] of the error of [foeLeader_possessive] isolationist ways.</li>
-		<li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] extorted the virtues of [deity0_name]'s swarm cities, and the [foeLeader] was convinced of the truth behind [founder_possessive] words.</li>
-					
+  <li>conflict(tag=meme_InsectoidSupremacy)        ->An evil [foeLeader] despised [foeLeader_possessive] neighbours, and wanted to return to the ancient times when men lived apart from each other, isolated.</li>
+  <li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], the Chosen of [deity0_name], heard of the apostasy of the [foeLeader], and sought to convince [foeLeader_objective] of the error of [foeLeader_possessive] isolationist ways.</li>
+  <li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] extorted the virtues of [deity0_name]'s swarm cities, and the [foeLeader] was convinced of the truth behind [founder_possessive] words.</li>
+  
     <li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] was a biologist in one of the Glitterworlds. [founder_pronoun] spent [founder_possessive] whole youth studying insectoids, and came to the conclusion that they are a perfect lifeform. Adaptive, strong and resilient.</li>
-		<li>story(uses=1,tag=meme_InsectoidSupremacy)    ->Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</li>
-					
+  <li>story(uses=1,tag=meme_InsectoidSupremacy)    ->Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</li>
+  
     <li>lessonIntro(tag=meme_InsectoidSupremacy)         ->My experiments with insectoids were extensive and thorough. After many years of toiling I came to the conclusion that</li>
-		<li>lesson(tag=meme_InsectoidSupremacy)              ->insectoids are the perfect lifeform, the next stage of evolution</li>
-		<li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Insectoids are adaptive, strong and resilient. They are simply superior to us humans in all respects.</li>
-					
+  <li>lesson(tag=meme_InsectoidSupremacy)              ->insectoids are the perfect lifeform, the next stage of evolution</li>
+  <li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Insectoids are adaptive, strong and resilient. They are simply superior to us humans in all respects.</li>
+  
     <li>archistBasis(tag=meme_InsectoidSupremacy)    ->In their infinite wisdom, the archotechs inspired humans to bio-engineer the perfect lifeform: insectoids.</li>
-		<li>archistFact(tag=meme_InsectoidSupremacy)     ->Insectoids show us that biological evolution is just another step on the path to transcendence.</li>
-		<li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], only those who properly revere the perfect forms of the insectoids will be chosen by the archotechs.</li>
+  <li>archistFact(tag=meme_InsectoidSupremacy)     ->Insectoids show us that biological evolution is just another step on the path to transcendence.</li>
+  <li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], only those who properly revere the perfect forms of the insectoids will be chosen by the archotechs.</li>
 
-		<li>animistBasis(tag=meme_InsectoidSupremacy)    ->Among the animal spirits, those who watch over the insectoids are the most powerful.</li>
-		<li>animistFact(tag=meme_InsectoidSupremacy)     ->Insectoids are perfect creatures. Adaptive, strong and resilient. They are simply superior to us humans in all respects, and the spirits that govern them reign supreme.</li>
-		<li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] only those who properly revere the perfect forms of the insectoids can truly appease the spirits.</li>
+  <li>animistBasis(tag=meme_InsectoidSupremacy)    ->Among the animal spirits, those who watch over the insectoids are the most powerful.</li>
+  <li>animistFact(tag=meme_InsectoidSupremacy)     ->Insectoids are perfect creatures. Adaptive, strong and resilient. They are simply superior to us humans in all respects, and the spirits that govern them reign supreme.</li>
+  <li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] only those who properly revere the perfect forms of the insectoids can truly appease the spirits.</li>
     
-		<li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] we will become like perfect, holy insects. I, for one, welcome our new insect overlords.</li>
-		<li>chthonianProphecy(tag=meme_InsectoidSupremacy)->We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful insectoids can we hope to stand a chance against them.</li>
-		<li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Such occult knowledge can be sought in the mysterious fractal patterns of an insectoid carapace. They are the perfect lifeform, the next stage of evolution.</li>
-		
+  <li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] we will become like perfect, holy insects. I, for one, welcome our new insect overlords.</li>
+  <li>chthonianProphecy(tag=meme_InsectoidSupremacy)->We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful insectoids can we hope to stand a chance against them.</li>
+  <li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Such occult knowledge can be sought in the mysterious fractal patterns of an insectoid carapace. They are the perfect lifeform, the next stage of evolution.</li>
+  
     <li>eschatologismFact(tag=meme_InsectoidSupremacy)->Like a devouring swarm of ravenous insects we will descend upon our enemies, and leave only their bones, devoid of flesh.</li>
-		<li>introMemo(tag=meme_InsectoidSupremacy)->Concerning the constant reports about cockroaches in the cafeteria, need I remind you that cockroaches are living creatures, as worthy of respect as you and I? I will not allow a single more furtive call to a pest control company!</li>
-		<li>alienistProphecy(tag=meme_InsectoidSupremacy)->Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</li> -->
+  <li>introMemo(tag=meme_InsectoidSupremacy)->Concerning the constant reports about cockroaches in the cafeteria, need I remind you that cockroaches are living creatures, as worthy of respect as you and I? I will not allow a single more furtive call to a pest control company!</li>
+  <li>alienistProphecy(tag=meme_InsectoidSupremacy)->Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</li> -->
 
   <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
-	<!-- theist myth -->
-	<li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] имеет загадочный облик: движущаяся масса покрытой хитином плоти, тысячи мелких насекомых, постоянно шныряющих внутри и снаружи ее бронированных пластин.</li>
-	<li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] [deity0_commanded] своим последователям: «Уважайте и почитайте инсектоидов, ибо они мои дети,созданые по моему образу и подобию».</li>
-	<!-- theist founder -->
-	<li>intro(tag=meme_InsectoidSupremacy)           ->В месте, что зовётся [place_summary] [place_name], [memberNamePlural] построили великий человеческий улей, свидетельство славы божества по имени [deity0_name].</li>
-	<li>conflict(tag=meme_InsectoidSupremacy)        ->[foe_evil] [foeLeader] [foe_despised] своих соседей и [foe_wanted] вернуться в древние времена, когда люди жили отдельно друг от друга, разрозненные.</li>
-	<li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], вскоре после того, как [deity0_name] [deity0_Chosen] [founder_Chosen] об отступничестве, которое [foe_committed] [foeLeader], и [founder_sought] убедить [foeLeader_possessive] в ошибочности изоляционизма.</li>
-	<li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] [founder_extorted] достоинства городов роя, которым [deity0_patronized] [deity0_name], и [foeLeader] [foe_convinced] в правдивости [founder_possessive] слов.</li>
-	<!-- ideological founder -->
-	<li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] [founder_was] биологом в одном из утопических миров. [founder_pronoun] [founder_spent] всю юность, изучая инсектоидов, и [founder_came] к выводу, что они являются идеальной формой жизни. Адаптивные, сильные и вынослиыве.</li>
-	<li>story(uses=1,tag=meme_InsectoidSupremacy)    ->В стремлении продолжить свои исследования [founderName] [founder_assembled] команду учёных и [founder_chartered] корабль для путешествия в окраинные миры, где [founder_possessive] эксперименты не вызывали бы страха и подозрений.</li>
-	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_InsectoidSupremacy)         ->Мои эксперименты с инсектоидами были обширны и тщательны. После многих лет труда я пришел к выводу, что</li>
-	<li>lesson(tag=meme_InsectoidSupremacy)              ->инсектоиды - идеальная форма жизни, следующий этап эволюции </li>
-	<li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Инсектоиды адаптивны, сильны и выносливы. Они просто превосходят нас, людей, во всех отношениях.</li>
-	<!-- archist -->
-	<li>archistBasis(tag=meme_InsectoidSupremacy)    ->В своей бесконечной мудрости архотеки вдохновили людей на биоинженерию идеальной формы жизни: инсектоидов.</li>
-	<li>archistFact(tag=meme_InsectoidSupremacy)     ->Насекомые показывают нам, что биологическая эволюция - это всего лишь еще один шаг на пути к трансцендентности.</li>
-	<li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], только те, кто должным образом чтит совершенные формы инсектоидов, будут выбраны архотеками.</li>
-	<!-- animist -->
-	<li>animistBasis(tag=meme_InsectoidSupremacy)    ->Среди духов животных самыми могущественными являются те, кто охраняет инсектоидов.</li>
-	<li>animistFact(tag=meme_InsectoidSupremacy)     ->Инсектоиды — совершенные существа. Адаптивные, сильные и вынослиые. Они превосходят нас, людей, во всех отношениях, и духи, которые правят ими, царят безраздельно.</li>
-	<li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] только те, кто должным образом чтит совершенные формы инсектоидов, могут по-настоящему умилостивить духов.</li>
-	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] мы станем подобны совершенным, святым инсектоидам. Я, за одно, поприветствую наших новых инсектоидов-повелителей.</li>
-	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_InsectoidSupremacy)->Мы — ничто перед этими жуткими сущностями, и только объединив наши тела с телами самых могущественных инсектоидов, мы можем надеяться противостоять им.</li>
-	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Такое оккультное знание можно найти в таинственных фрактальных узорах панцирей инсектоидов. Они являются совершенной формой жизни, следующей стадией эволюции.</li>
-	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_InsectoidSupremacy)->Подобно всепожирающему рою прожорливых инсектоидов, мы обрушимся на наших врагов и оставим от них только кости, лишённые плоти.</li>
-	<!-- corporate -->
-	<li>introMemo(tag=meme_InsectoidSupremacy)->Что касается постоянных сообщений о тараканах в кафетерии, нужно ли мне напоминать вам, что тараканы — это живые существа, так же достойные уважения, как вы и я? Я не допущу больше ни одного тайного звонка в компанию по борьбе с вредителями!</li>
-	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_InsectoidSupremacy)->Среди этих генетически модифицированных животных находится линия генов инсектоидов, которая была разработана в Сорне и принесла нам идеальную форму жизни.</li>
+  <!-- theist myth -->
+  <li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] имеет загадочный облик: движущаяся масса покрытой хитином плоти, тысячи мелких насекомых, постоянно шныряющих внутри и снаружи ее бронированных пластин.</li>
+  <li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] [deity0_commanded] своим последователям: «Уважайте и почитайте инсектоидов, ибо они мои дети,созданые по моему образу и подобию».</li>
+  <!-- theist founder -->
+  <li>intro(tag=meme_InsectoidSupremacy)           ->В месте, что зовётся [place_summary] [place_name], [memberNamePlural] построили великий человеческий улей, свидетельство славы божества по имени [deity0_name].</li>
+  <li>conflict(tag=meme_InsectoidSupremacy)        ->[foe_evil] [foeLeader] [foe_despised] своих соседей и [foe_wanted] вернуться в древние времена, когда люди жили отдельно друг от друга, разрозненные.</li>
+  <li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], вскоре после того, как [deity0_name] [deity0_Chosen] [founder_Chosen] об отступничестве, которое [foe_committed] [foeLeader], и [founder_sought] убедить [foeLeader_possessive] в ошибочности изоляционизма.</li>
+  <li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] [founder_extorted] достоинства городов роя, которым [deity0_patronized] [deity0_name], и [foeLeader] [foe_convinced] в правдивости [founder_possessive] слов.</li>
+  <!-- ideological founder -->
+  <li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] [founder_was] биологом в одном из утопических миров. [founder_pronoun] [founder_spent] всю юность, изучая инсектоидов, и [founder_came] к выводу, что они являются идеальной формой жизни. Адаптивные, сильные и вынослиыве.</li>
+  <li>story(uses=1,tag=meme_InsectoidSupremacy)    ->В стремлении продолжить свои исследования [founderName] [founder_assembled] команду учёных и [founder_chartered] корабль для путешествия в окраинные миры, где [founder_possessive] эксперименты не вызывали бы страха и подозрений.</li>
+  <!-- ideological lesson -->
+  <li>lessonIntro(tag=meme_InsectoidSupremacy)         ->Мои эксперименты с инсектоидами были обширны и тщательны. После многих лет труда я пришел к выводу, что</li>
+  <li>lesson(tag=meme_InsectoidSupremacy)              ->инсектоиды - идеальная форма жизни, следующий этап эволюции </li>
+  <li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Инсектоиды адаптивны, сильны и выносливы. Они просто превосходят нас, людей, во всех отношениях.</li>
+  <!-- archist -->
+  <li>archistBasis(tag=meme_InsectoidSupremacy)    ->В своей бесконечной мудрости архотеки вдохновили людей на биоинженерию идеальной формы жизни: инсектоидов.</li>
+  <li>archistFact(tag=meme_InsectoidSupremacy)     ->Насекомые показывают нам, что биологическая эволюция - это всего лишь еще один шаг на пути к трансцендентности.</li>
+  <li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], только те, кто должным образом чтит совершенные формы инсектоидов, будут выбраны архотеками.</li>
+  <!-- animist -->
+  <li>animistBasis(tag=meme_InsectoidSupremacy)    ->Среди духов животных самыми могущественными являются те, кто охраняет инсектоидов.</li>
+  <li>animistFact(tag=meme_InsectoidSupremacy)     ->Инсектоиды — совершенные существа. Адаптивные, сильные и вынослиые. Они превосходят нас, людей, во всех отношениях, и духи, которые правят ими, царят безраздельно.</li>
+  <li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] только те, кто должным образом чтит совершенные формы инсектоидов, могут по-настоящему умилостивить духов.</li>
+  <!-- serketist -->
+  <li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] мы станем подобны совершенным, святым инсектоидам. Я, за одно, поприветствую наших новых инсектоидов-повелителей.</li>
+  <!-- eldritch / chthonian -->
+  <li>chthonianProphecy(tag=meme_InsectoidSupremacy)->Мы — ничто перед этими жуткими сущностями, и только объединив наши тела с телами самых могущественных инсектоидов, мы можем надеяться противостоять им.</li>
+  <!-- esoteric -->
+  <li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Такое оккультное знание можно найти в таинственных фрактальных узорах панцирей инсектоидов. Они являются совершенной формой жизни, следующей стадией эволюции.</li>
+  <!-- eschatologism -->
+  <li>eschatologismFact(tag=meme_InsectoidSupremacy)->Подобно всепожирающему рою прожорливых инсектоидов, мы обрушимся на наших врагов и оставим от них только кости, лишённые плоти.</li>
+  <!-- corporate -->
+  <li>introMemo(tag=meme_InsectoidSupremacy)->Что касается постоянных сообщений о тараканах в кафетерии, нужно ли мне напоминать вам, что тараканы — это живые существа, так же достойные уважения, как вы и я? Я не допущу больше ни одного тайного звонка в компанию по борьбе с вредителями!</li>
+  <!-- alienist -->
+  <li>alienistProphecy(tag=meme_InsectoidSupremacy)->Среди этих генетически модифицированных животных находится линия генов инсектоидов, которая была разработана в Сорне и принесла нам идеальную форму жизни.</li>
 
     <li>deity0_commanded(deity0_gender==None)->повелело</li>
     <li>deity0_commanded(deity0_gender==Male)->повелел</li>
@@ -2062,14 +2062,14 @@
     <li>deity0_Chosen(deity0_gender==None)->назначило</li>
     <li>deity0_Chosen(deity0_gender==Male)->назначил</li>
     <li>deity0_Chosen(deity0_gender==Female)->назначила</li>
-	  <li>founder_Chosen(founder_gender==Male)->его Избранником, услышал</li>
+    <li>founder_Chosen(founder_gender==Male)->его Избранником, услышал</li>
     <li>founder_Chosen(founder_gender==Female)->её Избранницей, услышала</li>
     <li>foe_committed(foeLeader_gender==Male)->совершил</li>
     <li>foe_committed(foeLeader_gender==Female)->совершила</li>
-	  <li>founder_sought(founder_gender==Male)->попытался</li>
+    <li>founder_sought(founder_gender==Male)->попытался</li>
     <li>founder_sought(founder_gender==Female)->попыталась</li>
 
-	  <li>founder_extorted(founder_gender==Male)->превозносил</li>
+    <li>founder_extorted(founder_gender==Male)->превозносил</li>
     <li>founder_extorted(founder_gender==Female)->превозносила</li>
     <li>deity0_patronized(deity0_gender==None)->покровительствовало</li>
     <li>deity0_patronized(deity0_gender==Male)->покровительствовал</li>
@@ -2077,15 +2077,15 @@
     <li>foe_convinced(foeLeader_gender==Male)->был убеждён</li>
     <li>foe_convinced(foeLeader_gender==Female)->была убеждена</li>
 
-	  <li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	  <li>founder_spent(founder_gender==Male)->провёл</li>
+    <li>founder_spent(founder_gender==Male)->провёл</li>
     <li>founder_spent(founder_gender==Female)->провела</li>
-	  <li>founder_came(founder_gender==Male)->пришёл</li>
+    <li>founder_came(founder_gender==Male)->пришёл</li>
     <li>founder_came(founder_gender==Female)->пришла</li>
-	  <li>founder_assembled(founder_gender==Male)->собрал</li>
+    <li>founder_assembled(founder_gender==Male)->собрал</li>
     <li>founder_assembled(founder_gender==Female)->собрала</li>
-	  <li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+    <li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
     <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
   </VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
 
@@ -2158,7 +2158,7 @@
 
     <li>eschatologismFact(tag=meme_PartyLife)->The world will burn, and this is something that is better not to face sober.</li>
 
-    <li>introMemo(tag=meme_PartyLife)->It's our favourite time of the year already! The company's mandatory team-building exercise will be scheduled for this next Tuesday. Remember to bring your tennis paddles!</li>					
+    <li>introMemo(tag=meme_PartyLife)->It's our favourite time of the year already! The company's mandatory team-building exercise will be scheduled for this next Tuesday. Remember to bring your tennis paddles!</li>  
 
     <li>alienistProphecy(tag=meme_PartyLife)->I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</li>
   -->
@@ -2194,7 +2194,7 @@
 
     <li>eschatologismFact(tag=meme_PartyLife)->Мир будет гореть, и это то, с чем лучше не сталкиваться трезвым.</li>
 
-    <li>introMemo(tag=meme_PartyLife)->Наступило наше любимое время в году! Обязательное командообразовательное мероприятие компании запланировано на следующий вторник. Не забудьте взять с собой теннисные ракетки!</li>					
+    <li>introMemo(tag=meme_PartyLife)->Наступило наше любимое время в году! Обязательное командообразовательное мероприятие компании запланировано на следующий вторник. Не забудьте взять с собой теннисные ракетки!</li>  
 
     <li>alienistProphecy(tag=meme_PartyLife)->Я слышал, что существует какая-то странная ящерица, которая превращает растения в спирт. Оооо, парень, я мог бы обнять эту ящерицу прямо сейчас.</li>
 
@@ -2204,14 +2204,14 @@
     <li>deity0_god(deity0_gender==None)->божества</li>
     <li>deity0_god(deity0_gender==Male)->бога</li>
     <li>deity0_god(deity0_gender==Female)->богини</li>
-	<li>founder_Reveler(founder_gender==Male)->известный как Великий Гуляка, не принял</li>
+  <li>founder_Reveler(founder_gender==Male)->известный как Великий Гуляка, не принял</li>
     <li>founder_Reveler(founder_gender==Female)->известная как Великая Гуляка, не приняла</li>
 
-	<li>founder_was(founder_gender==Male)->был</li>
+  <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	<li>founder_posited(founder_gender==Male)->утверждал</li>
+  <li>founder_posited(founder_gender==Male)->утверждал</li>
     <li>founder_posited(founder_gender==Female)->утверждала</li>
-	<li>founder_dead(founder_gender==Male)->был найден мертвым</li>
+  <li>founder_dead(founder_gender==Male)->был найден мертвым</li>
     <li>founder_dead(founder_gender==Female)->была найдена мертвой</li>
   </VME_PartyLife.descriptionMaker.rules.rulesStrings>
 
@@ -2325,13 +2325,13 @@
 
     <li>alienistProphecy(tag=meme_Anonymity)->Животным нет дела до человека. Мы можем быть самими собой с ними, поскольку они не так склонны иметь мнение, как люди.</li>
 
-	<li>deity0_speak(deity0_gender==None)->разговаривало</li>
+  <li>deity0_speak(deity0_gender==None)->разговаривало</li>
     <li>deity0_speak(deity0_gender==Male)->разговаривал</li>
     <li>deity0_speak(deity0_gender==Female)->разговаривала</li>
-	<li>deity0_silence(deity0_gender==None)->соблюдало</li>
+  <li>deity0_silence(deity0_gender==None)->соблюдало</li>
     <li>deity0_silence(deity0_gender==Male)->соблюдал</li>
     <li>deity0_silence(deity0_gender==Female)->соблюдала</li>
-	<li>deity0_gave(deity0_gender==None)->дало</li>
+  <li>deity0_gave(deity0_gender==None)->дало</li>
     <li>deity0_gave(deity0_gender==Male)->дал</li>
     <li>deity0_gave(deity0_gender==Female)->дала</li>
 
@@ -2343,12 +2343,12 @@
     <li>foe_wanted2(foeLeader_gender==Female)->пожелала</li>
     <li>founder_want(founder_gender==Male)->пожелал</li>
     <li>founder_want(founder_gender==Female)->пожелала</li>
-	<li>founder_wanted(founder_gender==Male)->хотел</li>
+  <li>founder_wanted(founder_gender==Male)->хотел</li>
     <li>founder_wanted(founder_gender==Female)->хотела</li>
 
-	<li>founder_was(founder_gender==Male)->был</li>
+  <li>founder_was(founder_gender==Male)->был</li>
     <li>founder_was(founder_gender==Female)->была</li>
-	<li>founder_exist(founder_gender==Male)->существовал</li>
+  <li>founder_exist(founder_gender==Male)->существовал</li>
     <li>founder_exist(founder_gender==Female)->существовала</li>
   </VME_Anonymity.descriptionMaker.rules.rulesStrings>
 
@@ -2432,7 +2432,7 @@
 
     <li>intro(tag=meme_Emancipation)           ->[place_summary] [place_name], где до сих пор существует [altarRoomLabel] в честь нашего божества по имени [deity0_name] — там впервые рабы были освобождены и получили новый шанс в жизни.</li>
     <li>conflict(tag=meme_Emancipation)           ->Ханжа [foeLeader] [foe_looked] на это с презрением, ибо [foe_slaver], что [foeLeader_possessive] прибыли под угрозой.</li>
-	<li>founderJoin(tag=meme_Emancipation)        ->[deity0_name] [deity0_called] [founder_follower] по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь об освобождении и зле рабства.</li>
+  <li>founderJoin(tag=meme_Emancipation)        ->[deity0_name] [deity0_called] [founder_follower] по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь об освобождении и зле рабства.</li>
     <li>victory(tag=meme_Emancipation)            ->Разумеется, [foeLeader] не [foe_convinced] речью, которую [founder_said] [founderName], но все прочие присутствующие аплодировали стоя [founder_possessive] словам, и с тех пор считалось, что через н[founder_possessive] говорит [deity0_name].</li>
 
     <li>setup(tag=meme_Emancipation)           ->[founderName] [founder_born] в несправедливом городском мире, где рабство было обычным явлением. [founder_pronoun] [founder_grew], видя, как других людей используют в качестве собственности, и это вызывало у н[founder_possessive] глубокое отвращение.</li>
@@ -2462,10 +2462,10 @@
 
     <li>alienistProphecy(tag=meme_Emancipation)->Эти непохожие существа воплощают идею свободы, которую мы поддерживаем, и нам стоит поучиться у них.</li>
 
-	<li>deity0_showed(deity0_gender==None)->раскрыло</li>
+  <li>deity0_showed(deity0_gender==None)->раскрыло</li>
     <li>deity0_showed(deity0_gender==Male)->раскрыл</li>
     <li>deity0_showed(deity0_gender==Female)->раскрыла</li>
-	<li>deity0_said(deity0_gender==None)->сказало</li>
+  <li>deity0_said(deity0_gender==None)->сказало</li>
     <li>deity0_said(deity0_gender==Male)->сказал</li>
     <li>deity0_said(deity0_gender==Female)->сказала</li>
 
@@ -2477,16 +2477,16 @@
     <li>deity0_called(deity0_gender==None)->призвало</li>
     <li>deity0_called(deity0_gender==Male)->призвал</li>
     <li>deity0_called(deity0_gender==Female)->призвала</li>
-	<li>founder_follower(founder_gender==Male)->своего самого верного последователя</li>
+  <li>founder_follower(founder_gender==Male)->своего самого верного последователя</li>
     <li>founder_follower(founder_gender==Female)->свою самую верную последовательницу</li>
-	<li>founder_said(founder_gender==Male)->произнёс</li>
+  <li>founder_said(founder_gender==Male)->произнёс</li>
     <li>founder_said(founder_gender==Female)->произнесла</li>
     <li>foe_convinced(foeLeader_gender==Male)->был убеждён</li>
     <li>foe_convinced(foeLeader_gender==Female)->была убеждена</li>
 
-	<li>founder_born(founder_gender==Male)->был рождён</li>
+  <li>founder_born(founder_gender==Male)->был рождён</li>
     <li>founder_born(founder_gender==Female)->была рождена</li>
-	<li>founder_grew(founder_gender==Male)->рос</li>
+  <li>founder_grew(founder_gender==Male)->рос</li>
     <li>founder_grew(founder_gender==Female)->росла</li>
   </VME_Emancipation.descriptionMaker.rules.rulesStrings>
 
@@ -2626,10 +2626,10 @@
 
     <li>alienistProphecy(tag=meme_Nationalist)->Эти непохожие создания в нашей власти, чтобы делать то, что нам заблагорассудится.</li>
 
-	<li>deity0_showed(deity0_gender==None)->раскрыло</li>
+  <li>deity0_showed(deity0_gender==None)->раскрыло</li>
     <li>deity0_showed(deity0_gender==Male)->раскрыл</li>
     <li>deity0_showed(deity0_gender==Female)->раскрыла</li>
-	<li>deity0_shouted(deity0_gender==None)->прокричало</li>
+  <li>deity0_shouted(deity0_gender==None)->прокричало</li>
     <li>deity0_shouted(deity0_gender==Male)->прокричал</li>
     <li>deity0_shouted(deity0_gender==Female)->прокричала</li>
 
@@ -2642,9 +2642,9 @@
     <li>deity0_called(deity0_gender==None)->призвало</li>
     <li>deity0_called(deity0_gender==Male)->призвал</li>
     <li>deity0_called(deity0_gender==Female)->призвала</li>
-	<li>founder_patriot(founder_gender==Male)->своего самого верного последователя, настоящего патриота</li>
+  <li>founder_patriot(founder_gender==Male)->своего самого верного последователя, настоящего патриота</li>
     <li>founder_patriot(founder_gender==Female)->свою самую верную последовательницу, настоящую патриотку</li>
-	<li>founder_said(founder_gender==Male)->произнёс</li>
+  <li>founder_said(founder_gender==Male)->произнёс</li>
     <li>founder_said(founder_gender==Female)->произнесла</li>
     <li>foe_incarcerated(foeLeader_gender==Male)->обыл заключён</li>
     <li>foe_incarcerated(foeLeader_gender==Female)->была заключёна</li>
@@ -2653,7 +2653,7 @@
 
     <li>founder_hero(founder_gender==Male)->был народным героем, настоящим патриотом</li>
     <li>founder_hero(founder_gender==Female)->была народной героиней, настоящего патриоткой</li>
-	<li>founder_made(founder_gender==Male)->заставил</li>
+  <li>founder_made(founder_gender==Male)->заставил</li>
     <li>founder_made(founder_gender==Female)->заставила</li>
   </VME_Nationalist.descriptionMaker.rules.rulesStrings>
 
