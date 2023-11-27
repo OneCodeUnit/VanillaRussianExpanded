@@ -1,66 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: body size offset -->
-	<SM_BodySizeOffset.label>модификатор размера тела</SM_BodySizeOffset.label>
+  <SM_BodySizeOffset.label>модификатор размера тела</SM_BodySizeOffset.label>
   <!-- EN: Offsets the pawn's size by this amount. This affects a variety of mechanics. -->
-	<SM_BodySizeOffset.description>Модифицирует размер тела персонажа на это значение. Это повлияет на многие игровые механики.</SM_BodySizeOffset.description>
+  <SM_BodySizeOffset.description>Модифицирует размер тела персонажа на это значение. Это повлияет на многие игровые механики.</SM_BodySizeOffset.description>
 
   <!-- EN: body size cosmetic offset -->
-	<SM_Cosmetic_BodySizeOffset.label>косметический модификатор размера тела</SM_Cosmetic_BodySizeOffset.label>
+  <SM_Cosmetic_BodySizeOffset.label>косметический модификатор размера тела</SM_Cosmetic_BodySizeOffset.label>
 
   <!-- EN: body size multipler -->
-	<SM_BodySizeMultiplier.label>множитель размера тела</SM_BodySizeMultiplier.label>
+  <SM_BodySizeMultiplier.label>множитель размера тела</SM_BodySizeMultiplier.label>
   <!-- EN: Multiplies the pawn's size by this amount. This affects a variety of mechanics. -->
-	<SM_BodySizeMultiplier.description>Умножает размер тела персонажа на это значение. Это повлияет на многие игровые механики.</SM_BodySizeMultiplier.description>
+  <SM_BodySizeMultiplier.description>Умножает размер тела персонажа на это значение. Это повлияет на многие игровые механики.</SM_BodySizeMultiplier.description>
 
   <!-- EN: raid wealth multiplier -->
-	<SM_RaidWealthMultiplier.label>множитель стоимости для налёта</SM_RaidWealthMultiplier.label>
+  <SM_RaidWealthMultiplier.label>множитель стоимости для налёта</SM_RaidWealthMultiplier.label>
   <!-- EN: Multiplier how valuable the pawn is considered for the purpose of raids. -->
-	<SM_RaidWealthMultiplier.description>Умножает ценность персонажа, который будет достаточной, чтобы налёт мог сделать его своей целью.</SM_RaidWealthMultiplier.description>
+  <SM_RaidWealthMultiplier.description>Умножает ценность персонажа, который будет достаточной, чтобы налёт мог сделать его своей целью.</SM_RaidWealthMultiplier.description>
 
   <!-- EN: raid wealth -->
-	<SM_RaidWealthOffset.label>стоимость для налёта</SM_RaidWealthOffset.label>
+  <SM_RaidWealthOffset.label>стоимость для налёта</SM_RaidWealthOffset.label>
   <!-- EN: Changes to how valuable the pawn is considered for the purpose of raids. Applied AFTER the raid wealth multiplier. -->
-	<SM_RaidWealthOffset.description>Меняет ценность персонажа, который будет достаточной, чтобы налёт мог сделать его своей целью. Применяется ПОСЛЕ множителя стоимости для налёта.</SM_RaidWealthOffset.description>
+  <SM_RaidWealthOffset.description>Меняет ценность персонажа, который будет достаточной, чтобы налёт мог сделать его своей целью. Применяется ПОСЛЕ множителя стоимости для налёта.</SM_RaidWealthOffset.description>
 
   <!-- EN: head size multiplier -->
-	<SM_HeadSize_Cosmetic.label>множитель размера головы</SM_HeadSize_Cosmetic.label>
+  <SM_HeadSize_Cosmetic.label>множитель размера головы</SM_HeadSize_Cosmetic.label>
   <!-- EN: EVA Level Override -->
-	<SM_EVA_Level.label>переопределение EVA-уровня</SM_EVA_Level.label>
+  <SM_EVA_Level.label>переопределение EVA-уровня</SM_EVA_Level.label>
 
 
   <!-- EN: skill learning (no passion) -->
-	<SM_Minimum_Learning_Speed.label>изучение навыков (без интереса)</SM_Minimum_Learning_Speed.label>
+  <SM_Minimum_Learning_Speed.label>изучение навыков (без интереса)</SM_Minimum_Learning_Speed.label>
   <!-- EN: This is how fast the pawn learns when they don't have a passion in the skill. -->
-	<SM_Minimum_Learning_Speed.description>Влияет на то, как быстро будут изучаться навыки, к которым нет интереса.</SM_Minimum_Learning_Speed.description>
+  <SM_Minimum_Learning_Speed.description>Влияет на то, как быстро будут изучаться навыки, к которым нет интереса.</SM_Minimum_Learning_Speed.description>
 
   <!-- EN: Food Capacity Multiplier -->
-	<SM_Food_Need_Capacity.label>множитель вместимости желудка</SM_Food_Need_Capacity.label>
+  <SM_Food_Need_Capacity.label>множитель вместимости желудка</SM_Food_Need_Capacity.label>
   <!-- EN: How much food the pawn can save up. Let's them eat more rarely. -->
-	<SM_Food_Need_Capacity.description>Влияет на то, как много персонаж спрячет еды в себе. Даёт возможность есть реже.</SM_Food_Need_Capacity.description>
+  <SM_Food_Need_Capacity.description>Влияет на то, как много персонаж спрячет еды в себе. Даёт возможность есть реже.</SM_Food_Need_Capacity.description>
 
   <!-- EN: Attack Cooldown Time -->
-	<SM_AttackSpeed.label>время между атаками</SM_AttackSpeed.label>
+  <SM_AttackSpeed.label>время между атаками</SM_AttackSpeed.label>
   <!-- EN: Reduces time between melee attacks. -->
-	<SM_AttackSpeed.description>Сокращает время между атаками в ближнем бою.</SM_AttackSpeed.description>
+  <SM_AttackSpeed.description>Сокращает время между атаками в ближнем бою.</SM_AttackSpeed.description>
 
   <!-- EN: Piercing resistance multiplier -->
-	<SM_BulletDmgMult.label>множитель плотности кожи</SM_BulletDmgMult.label>
+  <SM_BulletDmgMult.label>множитель плотности кожи</SM_BulletDmgMult.label>
   <!-- EN: A multiplier to damage taken from bullets, also reduces damage from piercing attacks. -->
-	<SM_BulletDmgMult.description>Множитель урона наносимого пулями, также снижает урон от колющих атак.</SM_BulletDmgMult.description>
+  <SM_BulletDmgMult.description>Множитель урона наносимого пулями, также снижает урон от колющих атак.</SM_BulletDmgMult.description>
 
   <!-- EN: Concussive damage multiplier -->
-	<SM_ConcussiveDmgMult.label>множитель устойчивости к взрывам</SM_ConcussiveDmgMult.label>
+  <SM_ConcussiveDmgMult.label>множитель устойчивости к взрывам</SM_ConcussiveDmgMult.label>
   <!-- EN: A multiplier to damage taken from explosions, also reduces blunt attack damage by roughly half the amount. -->
-	<SM_ConcussiveDmgMult.description>Множитель урона от взрывов, также снижает урон от дробящих ударов примерно наполовину.</SM_ConcussiveDmgMult.description>
+  <SM_ConcussiveDmgMult.description>Множитель урона от взрывов, также снижает урон от дробящих ударов примерно наполовину.</SM_ConcussiveDmgMult.description>
 
   <!-- EN: Acid damage multiplier -->
-	<SM_AcidDmgMult.label>множитель устойчивости к кислоте</SM_AcidDmgMult.label>
+  <SM_AcidDmgMult.label>множитель устойчивости к кислоте</SM_AcidDmgMult.label>
   <!-- EN: A multiplier to damage taken from any type of acid, also reduces damage taken from venom or poison for about half the amount. Negative values count as immunity. -->
-	<SM_AcidDmgMult.description>Множитель урона от любых кислот, также снижает урон от ядов и отравлений примерно наполовину. Отрицательные значения дают иммунитет.</SM_AcidDmgMult.description>
+  <SM_AcidDmgMult.description>Множитель урона от любых кислот, также снижает урон от ядов и отравлений примерно наполовину. Отрицательные значения дают иммунитет.</SM_AcidDmgMult.description>
 
   <!-- EN: flirty chance -->
-	<SM_FlirtChance.label>вероятность флирта</SM_FlirtChance.label>
+  <SM_FlirtChance.label>вероятность флирта</SM_FlirtChance.label>
   <!-- EN: affects the chance that the character will flirt. -->
-	<SM_FlirtChance.description>Влияет на шанс того, что персонаж попробует флиртовать.</SM_FlirtChance.description>
+  <SM_FlirtChance.description>Влияет на шанс того, что персонаж попробует флиртовать.</SM_FlirtChance.description>
 </LanguageData>
