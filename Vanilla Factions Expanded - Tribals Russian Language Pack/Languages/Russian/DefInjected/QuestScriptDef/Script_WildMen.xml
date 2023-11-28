@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+  <li>questName->The [wildmen] [tribe]</li>
+  <li>questName->Nearby [wildmen] [tribe]</li>
+  <li>wildmen->Wild men</li>
+  <li>wildmen->Wildling</li>
+  <li>wildmen->Savage</li>
+  <li>wildmen->Wandering</li>
+  <li>wildmen->Rising</li>
+  <li>wildmen->New</li>
+  <li>tribe->Tribe</li>
+  <li>tribe->Gathering</li>
+  <li>tribe->Group</li>
+  <li>tribe->Circle</li>
+   -->
+  <VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+  <li>questName->[tribe] [wildmen]</li>
+  <li>wildmen->дикарей</li>
+  <li>wildmen->аборигенов</li>
+  <li>wildmen->диких людей</li>
+  <li>wildmen->первобытных людей</li>
+  <li>tribe->Племя</li>
+  <li>tribe->Кучка</li>
+  <li>tribe->Группа</li>
+  <li>tribe->Община</li>
+  </VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+  
+  <!-- EN: 
+  <li>questDescription-> [asker_nameFull] of [asker_faction_name], found out about an existence of a small tribe of wild men near [map_definite]. Wild men most likely mean us no harm, and are gathering together hoping to that the numbers will help them survive.\nWe may decide to venture to the gathering in order to crush the wild men. Alternatively, we may leave them be. In time, these wild men may find their way to us - depending on their numbers, they may choose to join us, or attack us instead. [asker_nameFull] has a feeling that the small tribe consists of [ListofPawns].</li>
+   -->
+  <VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+  <li>questDescription->[asker_nameFull] из фракции [asker_faction_name] узнаёт, что недалеко от [map_definite] расположено небольшое племя диких людей. Они, скорее всего, не желают нам зла и просто собираются вместе, надеясь, что так им будет легче выжить.\n\nМы можем отправиться к месту сборища, чтобы разгромить их, либо можем оставить их в покое. Со временем эти дикари могут найти дорогу к нам, и, в зависимости от их численности, решить присоединиться к нам, или наоборот — напасть. [asker_nameFull] считает, что небольшое племя дикарей состоит из: [ListofPawns].</li>
+  </VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+</LanguageData>

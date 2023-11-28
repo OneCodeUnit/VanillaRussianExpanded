@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Available cornerstone point -->
+  <VFET.AvailableCornerstonePoint>Доступно очко ключевого принципа</VFET.AvailableCornerstonePoint>
+  <!-- EN: Available cornerstone points: {0} -->
+  <VFET.AvailableCornerstonePoints>Доступные очки ключевых принципов: {0}</VFET.AvailableCornerstonePoints>
+  <!-- EN: You can spend a cornerstone point to gain a permanent, colony-wide buff that will help you shape your civilization. -->
+  <VFET.AvailableCornerstonePointDesc>Вы можете потратить очко ключевого принципа, чтобы получить постоянный, распространяющийся на всё поселение положительный эффект, который поможет вам определить облик вашей цивилизации.</VFET.AvailableCornerstonePointDesc>
+  <!-- EN: Cornerstones -->
+  <VFET.Cornerstones>Ключ. принципы</VFET.Cornerstones>
+  <!-- EN: Customize cornerstones -->
+  <VFET.CustomizeCornerstones>Выбор ключевых принципов</VFET.CustomizeCornerstones>
+  <!-- EN: Ethos -->
+  <VFET.Ethos>Основные постулаты</VFET.Ethos>
+  <!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate when you unlock a new cornerstone.
+
+Ethos lock is currently off. The ethos text can auto-regenerate. -->
+  <VFET.EthosUnlocked>Заблокировать или разблокировать основные постулаты вашей фракции. В заблокированном состоянии текст, описывающий основные постулаты, не будет автоматически регенерироваться при добавлении новых ключевых принципов.\n\nВ данный момент блокировка отключена. Текст описания будет автоматически обновляться.</VFET.EthosUnlocked>
+  <!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate when you unlock a new cornerstone.
+
+Ethos lock is currently on. The ethos text will not auto-regenerate. -->
+  <VFET.EthosLocked>Заблокировать или разблокировать основные постулаты вашей фракции. В заблокированном состоянии текст, описывающий основные постулаты, не будет автоматически регенерироваться при добавлении новых ключевых принципов.\n\nВ данный момент блокировка включена. Текст описания не будет автоматически обновляться.</VFET.EthosLocked>
+  <!-- EN: Gain cornerstone points by advancing to next tech levels -->
+  <VFET.CornerstonesExplanation>Получайте данные очки, переходя на следующие технич. уровни развития.</VFET.CornerstonesExplanation>
+  <!-- EN: The core ethos of your faction. This text has no gameplay impact, but associated cornerstones do. -->
+  <VFET.EthosTooltip>Основные постулаты вашей фракции — так называемый «этос». Этот текст не оказывает влияния на игровой процесс, в отличие от связанных с ним ключевых принципов.</VFET.EthosTooltip>
+  <!-- EN: Edit ethos -->
+  <VFET.EditEthos>Редактировать постулаты</VFET.EditEthos>
+  <!-- EN: Unlock cornerstone -->
+  <VFET.UnlockCornerstone>Разблокировать принцип</VFET.UnlockCornerstone>
+  <!-- EN: Relevant cornerstones -->
+  <VFET.StatsReport_Cornerstones>Соответствующие ключевые принципы</VFET.StatsReport_Cornerstones>
+  <!-- EN: Research {0} to unlock it -->
+  <VFET.WorkDisabledByMissingResearch>Исследуйте «{0}», чтобы разблокировать этот тип работы.</VFET.WorkDisabledByMissingResearch>
+  <!-- EN: Form ideology -->
+  <VFET.FormIdeology>Сформировать идеолигию</VFET.FormIdeology>
+  <!-- EN: What should your colonists believe? These beliefs affect gameplay and visuals. You will be able to recruit others to your beliefs, or take on their beliefs.\n\n
+Choosing classic will allow you to play without the ideology system. All Ideology expansion content remains active.\n\n
+Choosing fluid will allow you to start with a basic ideology and develop it over time.\n\n
+Choosing fixed allows you to customize the ideology and every aspect of it. This may take some time. -->
+  <VFET.FormIdeologyDesc>Во что должны верить ваши поселенцы? Их убеждения повлияют на игровой процесс и визуальное оформление. Эти убеждения вы сможете распространять среди других людей, или же принять чужие.\n\nВыбрав вариант «классическая игра», вы сможете играть без системы идеолигий. Весь остальной контент дополнения Ideology останется доступным.\n\nВыбрав вариант «изменчивая идеолигия», вы сможете начать игру с простой идеолигией и постепенно развивать её.\n\nВыбрав вариант «фиксированная идеолигия», вы сможете настроить идеолигию и все её аспекты. Это может занять какое-то время.</VFET.FormIdeologyDesc>
+  <!-- EN: Due to the small number of wild men, they have decided to join you. -->
+  <VFET.WildMenJoin>Из-за своей малочисленности, дикари решили присоединиться к вам.</VFET.WildMenJoin>
+  <!-- EN: Due to the uncertainty of being able to best you, wild men have decided to retreat. -->
+  <VFET.WildMenRetreat>Из-за неуверенности в своих силах, дикари решили отступить.</VFET.WildMenRetreat>
+  <!-- EN: Wild men ask to join -->
+  <VFET.WildMenJoinTitle>Дикари просят присоединиться</VFET.WildMenJoinTitle>
+  <!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they are requesting to join you. They believe that together, you stand a better chance against the elements.\n\nYou can refuse them, but they may retaliate as a result. -->
+  <VFET.WildMenJoinDesc>Дикие люди из соседнего племени нашли дорогу к {0}. Увидев численность поселения, они решили присоединиться к вам. Они считают, что вместе у вас будет больше шансов противостоять природным катаклизмам.\n\nВы можете отказать им, но в результате они могут принять ответные меры.</VFET.WildMenJoinDesc>
+  <!-- EN: Wild men raid -->
+  <VFET.WildMenRaid>Нападение дикарей</VFET.WildMenRaid>
+  <!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they have decided to raid you. You might be able to capture and recruit any survivors. -->
+  <VFET.WildMenRaidDesc>Дикие люди из соседнего племени нашли дорогу к {0}. Увидев численность поселения, они решили напасть на вас. Возможно, вам удастся захватить и завербовать тех, кто останется в живых.</VFET.WildMenRaidDesc>
+  <!-- EN: Reject -->
+  <VFET.Reject>Отказаться</VFET.Reject>
+  <!-- EN: {0} work type -->
+  <VFET.WorkTypeName>Вид работ — «{0}»</VFET.WorkTypeName>
+  <!-- EN: Wild man joins -->
+  <VFET_WildmanLetterLabel>Дикарь присоединяется</VFET_WildmanLetterLabel>
+  <!-- EN: A wild man wanders in and decides to join your colony -->
+  <VFET_WildmanLetter>В эту местность забрёл дикий человек и он решает присоединиться к вашему поселению.</VFET_WildmanLetter>
+  <!-- EN: Farm animals wander in -->
+  <VFET_AnimalsLetterLabel>Животные прибиваются к поселению</VFET_AnimalsLetterLabel>
+  <!-- EN: A group of farm animals has been attracted and will join the colony -->
+  <VFET_AnimalsLetter>К вам забрели привычные к людям животные, и они прибиваются к вашему поселению.</VFET_AnimalsLetter>
+  <!-- EN: Discovered {0}! -->
+  <VFET_DiscoveryLabel>Новое открытие: «{0}»!</VFET_DiscoveryLabel>
+  <!-- EN: A new research project has been discovered in a tribal gathering: {0}!\n\n{1} -->
+  <VFET_Discovery>В ходе племенного схода был открыт новый исследовательский проект: «{0}»!\n\n{1}</VFET_Discovery>
+  <!-- EN: Animal trap has sprung on {0} -->
+  <VFET.AnimalTrapSprung>{0} попадает в капкан</VFET.AnimalTrapSprung>
+  <!-- EN: Light large fire -->
+  <VFET.LightLargeFire>Разжечь большой костёр</VFET.LightLargeFire>
+  <!-- EN: Extinguish large fire -->
+  <VFET.ExtinguishLargeFire>Потушить большой костёр</VFET.ExtinguishLargeFire>
+  <!-- EN: When burning, large fire emits blindsmoke and has a chance to encourage wild men from the local area to wander in. It's very unstable and may set things around it on fire. -->
+  <VFET.LightLargeFireDesc>При горении большой костёр выделяет слепящий дым и может привлечь к себе диких людей, бродящих неподалёку от вашего поселения. Этот огонь очень нестабилен и может поджечь всё вокруг.</VFET.LightLargeFireDesc>
+  <!-- EN: Some Animal tech research must still be completed. -->
+  <VFET.ResearchLeft_Neolithic>Необходимо завершить некоторые исследования животного технического уровня.</VFET.ResearchLeft_Neolithic>
+
+  <!-- EN: optional -->
+  <Optional>необязательно</Optional>
+  <!-- EN: Any gathering spot, like a table -->
+  <RitualTargetGatherSpotInfo>Любое место сбора, например, стол</RitualTargetGatherSpotInfo>
+
+  <!-- EN: Must be placed on a floor or stony terrain. -->
+  <VFET.MustPlaceOnFloorOrStonyTerrain>Должен быть размещён на полу или каменной поверхности.</VFET.MustPlaceOnFloorOrStonyTerrain>
+  <!-- EN: Beauty multiplier for colony {0} tech level -->
+  <VFET.StatsReport_BeautyMultiplier>Множитель красоты для технического уровня поселения {0}.</VFET.StatsReport_BeautyMultiplier>
+  <!-- EN: Requirements not met: Not all research projects of the previous tech level have been researched. -->
+  <VFET.NotAllReseachProjectsResearched>требования не соблюдены: Не все исследования предыдущего технического уровня были завершены.</VFET.NotAllReseachProjectsResearched>
+  <!-- EN: Wild man in black -->
+  <VFET.ManInBlackLabelReplacement>Дикий незнакомец в чёрном</VFET.ManInBlackLabelReplacement>
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will receive between 2 and 12 research points per participant, divided between the available research projects at the moment. Animal technology level projects will be prioritized, and no points will be allocated to neolithic projects until all animal ones are finished.\n\nAdditionally, positive results have a chance for a wild man or farm animals to be attracted to the colony. -->
+  <VFET_TribalGathering_Outcome.description>В зависимости от успешности ритуала, его участники получат от 2 до 12 очков прогресса исследования, которые будут распределены между доступными исследовательскими проектами. Приоритет отдаётся проектам животного технического уровня, и пока все они не будут изучены, неолитическим исследовательским проектам очки прогресса начисляться не будут.\n\nКроме того, при положительном результате ритуала, есть шанс привлечь к поселению диких людей или сельскохозяйственных животных.</VFET_TribalGathering_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_TribalGathering_Outcome.comps.0.label>количество участников</VFET_TribalGathering_Outcome.comps.0.label>
+  <!-- EN: Total intellectual skill -->
+  <VFET_TribalGathering_Outcome.comps.1.label>Общий навык умственн. труда</VFET_TribalGathering_Outcome.comps.1.label>
+  <!-- EN: started at campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.label>начато у костра</VFET_TribalGathering_Outcome.comps.2.label>
+  <!-- EN: a campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>костёр</VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>
+  <!-- EN: Ineffective -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.label>неубедительно</VFET_TribalGathering_Outcome.outcomeChances.0.label>
+  <!-- EN: The {0} was ineffective! We tried to discuss some new developments in the tribe, but it devolved into petty bickering about food and shelter...\n\n2 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.description>Это было совсем не продуктивно! Мы пытались обсудить новые события в племени, но всё свелось к пустым спорам о еде и жилье...\n\nЗа каждого участника будет добавлено по 2 очка прогресса исследования, которые будут распределены между доступными исследовательскими проектами.</VFET_TribalGathering_Outcome.outcomeChances.0.description>
+  <!-- EN: Uninspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.label>скучно</VFET_TribalGathering_Outcome.outcomeChances.1.label>
+  <!-- EN: The {0} was uninspiring. There were some new ideas floating around, but not much of substance. At least it was kinda entertaining.\n\n4 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.description>Собрание прошло скучно. Было высказано несколько новых идей, но ничего существенного. По крайней мере, это было относительно интересно.\n\nЗа каждого участника будет добавлено по 4 очка прогресса исследования, которые будут распределены между доступными исследовательскими проектами.</VFET_TribalGathering_Outcome.outcomeChances.1.description>
+  <!-- EN: Encouraging -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.label>обнадёживающе</VFET_TribalGathering_Outcome.outcomeChances.2.label>
+  <!-- EN: The {0} was encouraging. Some of the ideas discussed were pretty great! We are probably unto something here.\n\n8 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.description>Это было довольно обнадёживающе. Некоторые из этих идей были просто замечательными! Мне кажется, что у нас что-то получится.\n\nЗа каждого участника будет добавлено по 8 очков прогресса исследования, которые будут распределены между доступными исследовательскими проектами.</VFET_TribalGathering_Outcome.outcomeChances.2.description>
+  <!-- EN: Inspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.label>вдохновляюще</VFET_TribalGathering_Outcome.outcomeChances.3.label>
+  <!-- EN: The {0} was inspiring! The tribe is close to a breakthrough!\n\n12 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.description>Это было так вдохновляюще! Мы близки к прорыву, я это чувствую!\n\nЗа каждого участника будет добавлено по 12 очков прогресса исследования, которые будут распределены между доступными исследовательскими проектами.</VFET_TribalGathering_Outcome.outcomeChances.3.description>
+
+  <!-- EN: Upon completing all pre-neolithic research projects, advance to neolithic tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToNeolithic_Outcome.description>После завершения всех исследований животного уровня, перейти к неолитическому техническому уровню. Это позволит выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_AdvanceToNeolithic_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToNeolithic_Outcome.comps.0.label>количество участников</VFET_AdvanceToNeolithic_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all neolithic research projects, advance to medieval tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToMedieval_Outcome.description>После завершения всех исследований неолитического уровня, перейти к средневековому техническому уровню. Это позволит выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_AdvanceToMedieval_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToMedieval_Outcome.comps.0.label>количество участников</VFET_AdvanceToMedieval_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all medieval research projects, advance to industrial tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToIndustrial_Outcome.description>После завершения всех исследований средневекового уровня, перейти к индустриальному техническому уровню. Это позволит выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_AdvanceToIndustrial_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToIndustrial_Outcome.comps.0.label>количество участников</VFET_AdvanceToIndustrial_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all industrial research projects, advance to spacer tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToSpacer_Outcome.description>После завершения всех исследований индустриального уровня, перейти к космическому техническому уровню. Это позволит выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_AdvanceToSpacer_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToSpacer_Outcome.comps.0.label>количество участников</VFET_AdvanceToSpacer_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all spacer research projects, advance to ultratech tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToUltra_Outcome.description>После завершения всех исследований космического уровня, перейти к ультратехнологичному техническому уровню. Это позволит выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_AdvanceToUltra_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToUltra_Outcome.comps.0.label>количество участников</VFET_AdvanceToUltra_Outcome.comps.0.label>
+</LanguageData>
