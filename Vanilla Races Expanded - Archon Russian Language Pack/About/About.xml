@@ -1,20 +1,20 @@
 ﻿<ModMetaData>
-	<name>Vanilla Races Expanded - Archon Russian Language Pack</name>
-	<author>OliveWizard, Amortem и Mewn Goddess</author>
-	<supportedVersions>
-		<li>1.4</li>
-	</supportedVersions>
+  <name>Vanilla Races Expanded - Archon Russian Language Pack</name>
+  <author>OliveWizard, Amortem и Mewn Goddess</author>
+  <supportedVersions>
+  <li>1.4</li>
+  </supportedVersions>
   <packageId>OW.RU.Archon</packageId>
   <description>Перевод на русский язык мода Vanilla Races Expanded - Archon.</description>
-	<modDependencies>
-		<li>
+  <modDependencies>
+  <li>
       <packageId>vanillaracesexpanded.archon</packageId>
       <displayName>Vanilla Races Expanded - Archon</displayName>
       <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3067715093</steamWorkshopUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-  	<li>VanillaExpanded.VPsycastsE</li>
-		<li>vanillaracesexpanded.archon</li>
-	</loadAfter>
+  </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VPsycastsE</li>
+  <li>vanillaracesexpanded.archon</li>
+  </loadAfter>
 </ModMetaData>
