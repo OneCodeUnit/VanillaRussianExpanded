@@ -12,6 +12,22 @@
   <VGE_StatsReport_Water>на воде</VGE_StatsReport_Water>
   <!-- EN: on dry land -->
   <VGE_StatsReport_NotWater>на суше</VGE_StatsReport_NotWater>
+  <!-- EN: outdoors -->
+	<VGE_StatsReport_Outside>на улице</VGE_StatsReport_Outside>
+  <!-- EN: indoors -->
+	<VGE_StatsReport_Inside>в помещении</VGE_StatsReport_Inside>
+  <!-- EN: above 50% lit -->
+	<VGE_StatsReport_InLight>освещённость выше 50%</VGE_StatsReport_InLight>
+  <!-- EN: below 50% lit -->
+	<VGE_StatsReport_InDarkness>освещённость ниже 50%</VGE_StatsReport_InDarkness>
+  <!-- EN: in pain -->
+	<VGE_StatsReport_InPain>под дождём</VGE_StatsReport_InPain>
+  <!-- EN: in polluted terrain -->
+	<VGE_StatsReport_InPollution>на загрязнённой почве</VGE_StatsReport_InPollution>
+  <!-- EN: on colony map -->
+	<VGE_StatsReport_ColonyMap>в поселении</VGE_StatsReport_ColonyMap>
+  <!-- EN: outside colony map -->
+	<VGE_StatsReport_OutsideColonyMap>за пределами поселения</VGE_StatsReport_OutsideColonyMap>
   
   <!-- EN: {0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid. -->
   <VGE_EggPregnancy>Яйца {0} оплодотворены! Кладка яиц продолжится и после оплодотворения яйца.</VGE_EggPregnancy>
@@ -30,4 +46,7 @@
   
   <!-- EN: Males don't lay eggs -->
   <VGE_Male_Egg>Мужские особи не могут откладывать яйца</VGE_Male_Egg>
+
+  <!-- EN: Pregnancy factor gene: {0} gestation speed -->
+  <VGE_PregnancyFactor>Влияние на беременность: {0} скорости гестации</VGE_PregnancyFactor>
 </LanguageData>
