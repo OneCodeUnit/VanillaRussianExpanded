@@ -1,0 +1,19 @@
+﻿<ModMetaData>
+  <name>Vanilla Races Expanded - Lycanthrope Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+  <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.Lycanthrope</packageId>
+  <description>Перевод на русский язык мода Vanilla Races Expanded - Lycanthrope.</description>
+  <modDependencies>
+  <li>
+      <packageId>vanillaracesexpanded.lycanthrope</packageId>
+      <displayName>Vanilla Races Expanded - Lycanthrope</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3114453100</steamWorkshopUrl>
+  </li>
+  </modDependencies>
+  <loadAfter>
+  <li>vanillaracesexpanded.lycanthrope</li>
+  </loadAfter>
+</ModMetaData>

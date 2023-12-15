@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: pack member {0} died -->
+  <PackMemberDied.stages.0.label>умер член стаи, {0}</PackMemberDied.stages.0.label>
+  <!-- EN: My pack member died. The pack is weaker. -->
+  <PackMemberDied.stages.0.description>Член моей стаи мёртв. Наша стая ослабла.</PackMemberDied.stages.0.description>
+
+  <!-- EN: pack member {0} lost -->
+  <LostPackMember.stages.0.label>пропал член стаи, {0}</LostPackMember.stages.0.label>
+  <!-- EN: We lost a valuable pack member. Can they survive without their pack? -->
+  <LostPackMember.stages.0.description>Мы потеряли ценного члена стаи. Сможет ли он выжить в одиночку?</LostPackMember.stages.0.description>
+
+  <!-- EN: killed pack member -->
+  <KilledPackMember.stages.0.label>{1_gender ? убил : убила} члена стаи</KilledPackMember.stages.0.label>
+
+  <!-- EN: pack member {0} sold -->
+  <SoldPackMember.stages.0.label>продан член стаи, {0}</SoldPackMember.stages.0.label>
+  <!-- EN: sold pack member -->
+  <SoldPackMember.stages.0.labelSocial>продали члена стаи</SoldPackMember.stages.0.labelSocial>
+  <!-- EN: We have just sold off a pack member. Can we really call ourselves a pack? -->
+  <SoldPackMember.stages.0.description>Мы продали члена нашей стаи. Действительно ли мы можем называть себя стаей после этого?</SoldPackMember.stages.0.description>
+
+  <!-- EN: pack mentality -->
+  <VRE_PackMentality.stages.0.label>разум стаи</VRE_PackMentality.stages.0.label>
+  <!-- EN: Our pack grows stronger. The bigger the pack, the more comfortable we will feel. -->
+  <VRE_PackMentality.stages.0.description>Наша стая становится сильнее. Чем больше стая, тем комфортнее мы будем себя чувствовать.</VRE_PackMentality.stages.0.description>
+</LanguageData>

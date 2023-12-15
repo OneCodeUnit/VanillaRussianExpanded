@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questName->[shipAdjective] [shipNoun]</li>
+    <li>shipAdjective->wolfmen</li>
+    <li>shipAdjective->wolf</li>
+    <li>shipAdjective->lycan</li>
+    <li>shipAdjective->werewolf</li>
+    <li>shipAdjective->nocturnal</li>
+    <li>shipAdjective->howling</li>
+    <li>shipAdjective->furry</li>
+    <li>shipAdjective->canine</li>
+    <li>shipNoun->ship</li>
+    <li>shipNoun->shuttle</li>
+    <li>shipNoun->craft</li>
+    <li>shipNoun->hulk</li>
+    <li>shipNoun->crash</li>
+    <li>shipNoun->wreck</li>
+  -->
+  <VRE_WolfmenTransport.questNameRules.rulesStrings>
+    <li>questName->[shipNoun] [shipAdjective]</li>
+    <li>shipAdjective->волколюдей</li>
+    <li>shipAdjective->волков</li>
+    <li>shipAdjective->ликанов</li>
+    <li>shipAdjective->вервольфов</li>
+    <li>shipAdjective->ночных</li>
+    <li>shipAdjective->вобщих</li>
+    <li>shipAdjective->шестяных</li>
+    <li>shipNoun->корабль</li>
+    <li>shipNoun->челнок</li>
+    <li>shipNoun->судно</li>
+    <li>shipNoun->ковчег</li>
+    <li>shipNoun->авария</li>
+    <li>shipNoun->крушение</li>
+  </VRE_WolfmenTransport.questNameRules.rulesStrings>
+
+  <!-- EN:
+    <li>questDescription->You have intercepted a distress signal! A shuttle carrying a group of wolfmen refugees is having trouble with staying airborne. Their leader, alongside [WolfmenCount] other refugees is begging you to allow them to crash near [map_definite]. \n\nOnce the ship has crashed, wolfmen will try to regroup and venture on. They offer to transform one of your colonists into a wolfman if you allow them to crash near you. You can also use this opportunity to fight or arrest them. If you can capture any of them, you can force them to turn one of your colonists into a wolfman.\n\n[wolfmenInfo]</li>
+
+    <li>wolfmenInfo->(*Gray)About wolfmen: Wolfmen have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others. Their lycan form, on the other hand, has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.(/Gray)</li>
+  -->
+  <VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+    <li>questDescription->Вы перехватили сигнал бедствия! У шаттла, на борту которого находятся беженцы-волколюди и их вожак имеются проблемы с удержанием в воздухе. Их вожак от лица всех [WolfmenCount] волколюдей умоляет вас позволить им разбиться рядом с [map_definite]. \n\nКак только корабль потерпит крушение, волколюди попытаются перегруппироваться и отправиться в путь. Они предлагают обратить одного из ваших поселенцев в волкочеловека, если вы позволите им упасть здесь. Так же это может стать отличной возможностью, чтобы сразиться с ними или захватить кого-нибудь. Если у вас получится захватить кого-нибудь, то вы сможете заставить его обратить одного из ваших поселенцев в волкочеловека.\n\n[wolfmenInfo]</li>
+
+    <li>wolfmenInfo->(*Gray)Волколюди беспрепятственно распространились по всему колонизированному космосу, сбиваясь в стаи или более крупные кланы и подминая под себя новые территории. Форма волкочеловека снижает способности ночного хищника, но даёт в качестве преимущества возможность делиться своим ксеносеменем с другими. Форма ликана дарует способности ночного хищника в виде усиленных способностей ближнего боя, сверхъестественной скорости и регенерации, а также воя, который заменяет речь и улучшается по мере расширения стаи.(/Gray)</li>
+  </VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+
+  <!-- EN:
+    <li>wolfmanShuttleCrashedLetterLabel->Crashed shuttle</li>
+    <li>wolfmanShuttleCrashedLetterText->A shuttle containing a wolfman leader and [WolfmenCount] wolfmen refugees has crashed nearby. They will exit the crashed craft and prepare to venture on.</li>
+
+    <li>reinforcementsArrivedLetterLabel->Wolfmen reinforcements</li>
+    <li>reinforcementsArrivedLetterText->Wolfmen are arriving in drop pods to reinforce the crashed refugees.</li>
+
+    <li>letterLabelBeggarsBetrayed->Betrayed refugees</li>
+    <li>letterTextBeggarsBetrayed->The wolfmen refugees are betrayed by your actions and will try to defend themselves.</li>
+  -->
+  <VRE_WolfmenTransport.questContentRules.rulesStrings>
+    <li>wolfmanShuttleCrashedLetterLabel->Разбившийся челнок</li>
+    <li>wolfmanShuttleCrashedLetterText->Неподалёку разбился челнок, в котором находилось [WolfmenCount] волколюдей и их вожак. В скором времени они покинут место крушения и отправятся в путь.</li>
+
+    <li>reinforcementsArrivedLetterLabel->Подкрепление волколюдей</li>
+    <li>reinforcementsArrivedLetterText->Для того, чтобы помочь потерпевшим крушение, прибывают волколюди в транспортных капсулах.</li>
+
+    <li>letterLabelBeggarsBetrayed->Предательство!</li>
+    <li>letterTextBeggarsBetrayed->Беженцы-волколюди получили нож в спину по вашей вине и теперь готовятся защищать себя.</li>
+  </VRE_WolfmenTransport.questContentRules.rulesStrings>
+</LanguageData>

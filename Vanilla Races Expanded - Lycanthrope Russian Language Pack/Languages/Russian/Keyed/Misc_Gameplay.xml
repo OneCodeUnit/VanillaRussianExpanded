@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Disable photophobia message -->
+  <VRE_DisablePhotophobiaMessage>Выключить сообщения о светобоязни</VRE_DisablePhotophobiaMessage>
+  <!-- EN: By default, every time a pawn with the photophobia gene fless from light the game will generate a letter informing the player. This may be a bit too much if you have many pawns fleeing often, so you can disable it with this toggle. Bear in mind the pawns will still flee, you'll just NOT get informed. -->
+  <VRE_DisablePhotophobiaMessage_Description>По умолчанию, каждый раз, когда кто-то начёт убегать в страхе из-за светобоязни, игра будет выводить сообщение, информирующее игрока. Это может быть чересчур назойливо, если у вас много таких персонажей и/или они часто испытывают такие приступы. Поэтому данное сообщение можно отключить. Имейте в виду, что персонажи всё равно будут испытывать этот нервный срыв, игра просто не будет уведомлять об этом.</VRE_DisablePhotophobiaMessage_Description>
+  <!-- EN: This quest can only be accepted during daytime -->
+  <VRE_OnlyOnDaytime>Это задание можно принять только в дневное время</VRE_OnlyOnDaytime>
+  <!-- EN: {0_labelShort} has no available endogenes to implant. -->
+  <VRE_MessagePawnHasNoGermline>{0_labelShort} не имеет наследуемых генов для извлечения.</VRE_MessagePawnHasNoGermline>
+  <!-- EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} germline before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
+  <VRE_WarningPawnWillDieFromReimplanting>Предупреждение: гены {PAWN_nameDef} ещё восстанавливаются. Если {PAWN_pronoun} вживит свои гены до того, как они восстановятся, это убьёт {PAWN_objective}.\n\nВы уверены, что хотите продолжить?</VRE_WarningPawnWillDieFromReimplanting>
+  <!-- EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} germline into {TARGET_nameDef}, passing all endogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in an endogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} germline again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
+  <VRE_LetterTextGenesImplanted>{CASTER_nameDef} вживил копию своих генов в {TARGET_nameDef}, перезаписав имевшиеся у того наследуемые гены.\n\nСейчас {TARGET_nameDef} находится в имплантационной коме. Это состояние будет продолжаться {COMADURATION}. За это время тело {TARGET_nameDef} примет изменения.\n\n{CASTER_nameDef} испытает генетический шок. Это состояние будет продолжаться {SHOCKDURATION}. В течении этого времени его гены будут восстанавливаться. Процесс небыстрый, но если {CASTER_nameDef} решил вживить свои гены снова, до истечения времени восстановления, то умрёт.</VRE_LetterTextGenesImplanted>
+  <!-- EN: Force germline implantation -->
+  <VRE_ForceGermlineImplantation>Принудительная инъекция наследуемых генов</VRE_ForceGermlineImplantation>
+  <!-- EN: Force this person to implant their germline into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a germline will overwrite the target's endogenes. Xenogenes will be unaffected. -->
+  <VRE_ForceGermlineImplantationDesc>Вживить свои наследуемые гены в другого человека при помощи специального органа-инъектора. Требуется согласие цели. Если гены владельца в данный момент восстанавливаются, то он умрёт.\n\nПри вживлении эти гены перезапишут наследуемые гены цели, однако на ксеногены это никак не повлияет.</VRE_ForceGermlineImplantationDesc>
+  <!-- EN: Absorbing {PAWN_nameDef}'s germline will anger {0}. -->
+  <VRE_MessageAbsorbingGermlineWillAngerFaction>Сбор генов у {PAWN_nameDef} разозлит фракцию {0}.</VRE_MessageAbsorbingGermlineWillAngerFaction>
+  <!-- EN: {PAWN_nameDef} suffering from endogene loss shock -->
+  <VRE_EndogeneLossShockPresent>{PAWN_nameDef} испытывает шок из-за извлечения наследуемых генов.</VRE_EndogeneLossShockPresent>
+  <!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} germline. -->
+  <VRE_MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} {PAWN_gender ? должен быть сражён : должна быть сражена} перед тем, как вы вживите свои гены.</VRE_MessageTargetMustBeDownedToForceReimplant>
+
+
+</LanguageData>
