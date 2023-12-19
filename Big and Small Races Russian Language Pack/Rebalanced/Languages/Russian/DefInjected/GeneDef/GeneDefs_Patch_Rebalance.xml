@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Carriers of this gene have hands that partially resemble pig trotters. This reduces their fine manipulation ability. -->
+  <Hands_Pig.description>Носители этого гена обладают руками с кистями, напоминающими свиные копыта. Ими неудобно обращаться с мелкими предметами.</Hands_Pig.description>
+
+  <!-- EN: Carriers of this gene heal from wounds 65% as fast as normal. -->
+  <WoundHealing_Slow.description>Скорость заживления ран у носителей этого гена составляет 65% от обычной обычной.</WoundHealing_Slow.description>
+
+  <!-- EN: Carriers of this gene move more slowly than normal. Base movement speed is reduced by 8%. -->
+  <MoveSpeed_Slow.description>Носители этого гена передвигаются медленнее остальных. Базовая скорость передвижения снижена на 8%.</MoveSpeed_Slow.description>
+
+  <!-- EN: Carriers of this gene move more quickly than normal. Base movement speed is increased by 10% -->
+  <MoveSpeed_Quick.description>Носители этого гена передвигаются быстрее остальных. Базовая скорость передвижения увеличена на 10%.</MoveSpeed_Quick.description>
+
+  <!-- EN: Carriers of this gene move more quickly than normal. Base movement speed is increased by 20% -->
+  <MoveSpeed_VeryQuick.description>Носители этого гена способны передвигаться необычайно быстро. Базовая скорость передвижения увеличена на 20%.</MoveSpeed_VeryQuick.description>
+
+  <!-- EN: Carriers of this gene are resistant to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain half the amount of toxic buildup compared to others.\n\nCellular filters in the lung and skin reduce the dose of toxins entering the bloodstream. -->
+  <ToxResist_Partial.description>Носители этого гена устойчивы к накоплению токсинов и ядов в организме. Особые клеточные фильтры в их коже и лёгких блокируют часть отравляющих веществ, поступающих извне, например от загрязнённой почвы, токсичных осадков, токсичного газа, ядовитых животных или оружия.\n\nНосители этого гена накапливают в своей крови только 20% опасных ядов и токсинов по сравнению с остальными.</ToxResist_Partial.description>
+
+  <!-- EN: Carriers are only 25% as likely to become addicted to {0}. -->
+  <AddictionResistant.description>Носители этого гена в четыре раза реже становятся зависимыми от {lookup: {0}; Case; 1}.</AddictionResistant.description>
+</LanguageData>
