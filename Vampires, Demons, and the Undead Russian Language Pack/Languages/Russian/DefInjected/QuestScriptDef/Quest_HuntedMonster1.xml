@@ -29,10 +29,10 @@
   <BS_Escaped_Monster.root.nodes.Delay.node.parms.customLetterText>
 </BS_Escaped_Monster.root.nodes.Delay.node.parms.customLetterText>
   <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], the hunting party soon due to arrive. -->
-  <BS_Escaped_Monster.LetterLabelAskerBecameHostile.slateRef>{BASETEXT}\n\nТак как вы приняли [asker_nameDef] в своё поселение, группа охотников, преследующая [asker_objective], скоро прибудет.</BS_Escaped_Monster.LetterLabelAskerBecameHostile.slateRef>
+  <BS_Escaped_Monster.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nТак как вы приняли [asker_nameDef] в своё поселение, группа охотников, преследующая [asker_objective], скоро прибудет.</BS_Escaped_Monster.root.nodes.PawnsArrive.customLetterText.slateRef>
   <!-- EN: {BASELABEL}: Hunting party -->
-  <BS_Escaped_Monster.LetterLabelLoyaltySquad.slateRef>{BASELABEL}: Группа охотников</BS_Escaped_Monster.LetterLabelLoyaltySquad.slateRef>
+  <BS_Escaped_Monster.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Группа охотников</BS_Escaped_Monster.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
   <!-- EN: {BASETEXT}\n\nThese are the hunting party targeting [../asker_nameFull].
                -->
-  <BS_Escaped_Monster.LetterTextLoyaltySquad.slateRef>{BASETEXT}\n\nЭто группа охотников, которая преследовала [../asker_nameFull].\n</BS_Escaped_Monster.LetterTextLoyaltySquad.slateRef>
+  <BS_Escaped_Monster.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nЭто группа охотников, которая преследовала [../asker_nameFull].\n</BS_Escaped_Monster.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
 </LanguageData>
