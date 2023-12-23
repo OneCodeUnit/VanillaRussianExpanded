@@ -1,19 +1,23 @@
 ﻿<ModMetaData>
-  <name>Big and Small Genes Russian Language Pack</name>
+  <name>Big and Small Genes (Russian Language Pack)</name>
   <author>OliveWizard</author>
-  <packageId>OW.RU.BAS.Core</packageId>
   <supportedVersions>
-	<li>1.4</li>
+    <li>1.4</li>
   </supportedVersions>
+  <packageId>OW.RU.BAS.Genes</packageId>
+  <description>Перевод на русский язык мода Big and Small Genes. Подробности на странице в мастерской.</description>
   <modDependencies>
-	<li>
-		<packageId>RedMattis.BigSmall.Core</packageId>
-		<displayName>Big and Small Genes</displayName>
-		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2920751126</steamWorkshopUrl>
-	</li>
+    <li>
+      <packageId>RedMattis.BigSmall.Core</packageId>
+      <displayName>Big and Small Genes</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2920751126</steamWorkshopUrl>
+    </li>
   </modDependencies>
   <loadAfter>
-	<li>RedMattis.BigSmall.Core</li>
+    <li>RedMattis.BigSmall.Core</li>
   </loadAfter>
-  <description>Перевод на русский язык мода Big and Small Genes.</description>
+  <incompatibleWith>
+    <li>Micharduio.BigSmall.Core</li>
+    <li>Novichok.RedMattis.BigSmall.Core</li>
+  </incompatibleWith>
 </ModMetaData>
