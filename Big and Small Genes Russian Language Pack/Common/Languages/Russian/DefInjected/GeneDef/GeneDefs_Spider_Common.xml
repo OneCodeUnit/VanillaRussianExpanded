@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Spider Abdomen (Synthread) -->
+  <BS_SpiderBody_Synthread.label>паучье брюшко (синткань)</BS_SpiderBody_Synthread.label>
+  <!-- EN: Carriers of this gene have their lower half replaced with the body of a spider. Has science gone too far?\n\nProduces 80 Synthread every 5 days.\n\nSpider body has skin-colour. -->
+  <BS_SpiderBody_Synthread.description>У носителей этого гена нижняя половина тела представляет собой брюхо паука. Не зашла ли наука слишком далеко?\n\nПроизводит 80 единиц синткани каждые 5 дней.\n\nПаучья часть тела имеет тот же цвет, что и основная кожа носителя гена.</BS_SpiderBody_Synthread.description>
+  <!-- EN: Switches the character's "Race" for another one. HAR required for this part of the gene. -->
+  <BS_SpiderBody_Synthread.customEffectDescriptions.0>Меняет «Расу» персонажа на другую. Для этого требуется мод HAR.</BS_SpiderBody_Synthread.customEffectDescriptions.0>
+  <!-- EN: Reduces the movement speed penalty when traversing difficult terrain -->
+  <BS_SpiderBody_Synthread.customEffectDescriptions.1>Уменьшает штраф к скорости передвижения при пересечении труднопроходимой местности</BS_SpiderBody_Synthread.customEffectDescriptions.1>
+  <!-- EN: Producing Synthread -->
+  <BS_SpiderBody_Synthread.modExtensions.2.progressName>Производится синткань</BS_SpiderBody_Synthread.modExtensions.2.progressName>
+
+  
+  <!-- EN: Spider Abdomen (Devilstrand) -->
+  <BS_SpiderBody_Devil.label>паучье брюшко (дьявлоткань)</BS_SpiderBody_Devil.label>
+  <!-- EN: Carriers of this gene have their lower half replaced with the body of a spider. Has science gone too far?\n\nProduces 25 Devilstrand every 5 days.\n\nSpider body has hair-colour -->
+  <BS_SpiderBody_Devil.description>У носителей этого гена нижняя половина тела представляет собой брюхо паука. Не зашла ли наука слишком далеко?\n\nПроизводит 25 единиц дьявлоткани каждые 5 дней.\n\nПаучья часть тела имеет тот же цвет, что и цвет волос носителя гена.</BS_SpiderBody_Devil.description>
+  <!-- EN: Producing Devilstrand -->
+  <BS_SpiderBody_Devil.modExtensions.2.progressName>Производится дьявлоткань</BS_SpiderBody_Devil.modExtensions.2.progressName>
+
+  <!-- EN: Switches the character's "Race" for another one. HAR required for this part of the gene. -->
+  <BS_SpiderBody_Devil.customEffectDescriptions.0>Меняет «Расу» персонажа на другую. Для этого требуется мод HAR.</BS_SpiderBody_Devil.customEffectDescriptions.0>
+  <!-- EN: Reduces the movement speed penalty when traversing difficult terrain -->
+  <BS_SpiderBody_Devil.customEffectDescriptions.1>Уменьшает штраф к скорости передвижения при пересечении труднопроходимой местности</BS_SpiderBody_Devil.customEffectDescriptions.1>
+
+  <!-- EN: Spider Abdomen (Back) -->
+  <BS_SpiderBodyBack.label>паучье брюшко (задняя часть)</BS_SpiderBodyBack.label> 
+  <!-- EN: Back graphic for spider abdomen. -->
+  <BS_SpiderBodyBack.description>Текстура задней части паучьего тела.</BS_SpiderBodyBack.description>
+  
+  <!-- EN: Spider Abdomen (Back, skin-color) -->
+  <BS_SpiderBodyBack_skin.label>паучье брюшко (задняя часть, цвет кожи)</BS_SpiderBodyBack_skin.label>
+  <!-- EN: Back graphic for spider abdomen. -->
+  <BS_SpiderBodyBack_skin.description>Текстура задней части паучьего тела.</BS_SpiderBodyBack_skin.description>
+</LanguageData>

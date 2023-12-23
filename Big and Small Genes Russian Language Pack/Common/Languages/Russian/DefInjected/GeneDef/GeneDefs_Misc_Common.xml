@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: very slow runner -->
+  <BS_Very_Slow.label>очень медленный бег</BS_Very_Slow.label>
+  <!-- EN: Carriers of this gene move at a very sluggish pace. -->
+  <BS_Very_Slow.description>Носители этого гена передвигаются в очень медленном темпе.</BS_Very_Slow.description>
+
+  <!-- EN: Vacuum Sealed -->
+  <BS_EVA_Gene.label>вакуумная герметизация</BS_EVA_Gene.label>
+  <!-- EN: Carriers of this gene can withstand the vacuum of space. This does nothing to help against the cold or slowness of movement in the void. -->
+  <BS_EVA_Gene.description>Носители этого гена могут противостоять космическому вакууму. Но это никак не спасёт от холода или замедленного передвижения в пустоте.</BS_EVA_Gene.description>
+
+  <!-- EN: no pain -->
+  <BS_Pain_None.label>без боли</BS_Pain_None.label>
+  <!-- EN: Carriers of this gene cannot feel pain. This can sometimes be advantagous but is oftentimes very dangerous to the individual -->
+  <BS_Pain_None.description>Носители этого гена не могут чувствовать боль. Иногда это может быть полезно, но часто очень опасно для носителя.</BS_Pain_None.description>
+  <!-- EN: pain-dull -->
+  <BS_Pain_None.labelShortAdj>притуплённая боль</BS_Pain_None.labelShortAdj>
+
+  <!-- EN: dull -->
+  <BS_Pain_None.symbolPack.prefixSymbols.0.symbol>стойко</BS_Pain_None.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: daze -->
+  <BS_Pain_None.symbolPack.prefixSymbols.1.symbol>крепко</BS_Pain_None.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tough -->
+  <BS_Pain_None.symbolPack.prefixSymbols.2.symbol>жёстко</BS_Pain_None.symbolPack.prefixSymbols.2.symbol>
+
+  <!-- EN: numb -->
+  <BS_PainNumb.label>онемение</BS_PainNumb.label>
+  <!-- EN: Carriers of this gene are completely numb. They have little or no sense of touch and cannot feel pain or comfort. This can sometimes be advantagous but is oftentimes very dangerous to the individual -->
+  <BS_PainNumb.description>Тело носителей этого гена ничего не ощущает из-за онемения. У них практически отсутствует осязание, они не могут чувствовать боль или комфорт. Иногда это может быть полезно, но часто очень опасно для носителя.</BS_PainNumb.description>
+  <!-- EN: pain-dull -->
+  <BS_PainNumb.labelShortAdj>притуплённая боль</BS_PainNumb.labelShortAdj>
+  <!-- EN: numb -->
+  <BS_PainNumb.symbolPack.prefixSymbols.0.symbol>онемение</BS_PainNumb.symbolPack.prefixSymbols.0.symbol>
+
+  <!-- EN: catastrophic cell instability -->
+  <BS_Instability_Catastrophic.label>катастрофическая репликация клеток</BS_Instability_Catastrophic.label>
+  <!-- EN: Carriers of this gene need much less metabolic energy to stay alive, at the cost of catastrophically-reduced stability in their cell-replication machinery. -->
+  <BS_Instability_Catastrophic.description>Носителям этого гена требуется намного меньше энергии для работы организма ценой катастрофических нарушений в механизме деления клеток.</BS_Instability_Catastrophic.description>
+
+  <!-- EN: small people toughness -->
+  <BS_TinyTough.label>стойкость малых</BS_TinyTough.label>
+  <!-- EN: Carriers of this gene are amazingly sturdy despite their tiny size. -->
+  <BS_TinyTough.description>Носители этого гена удивительно крепкие, несмотря на свои малые размеры.</BS_TinyTough.description>
+  <!-- EN: small toughness -->
+  <BS_TinyTough.labelShortAdj>стойкость малых</BS_TinyTough.labelShortAdj>
+
+  <!-- EN: dwarven grit -->
+  <BS_DvergrConstitution.label>дварфийское упорство</BS_DvergrConstitution.label>
+  <!-- EN: Carriers of this gene are deceptively strong and robust for their size -->
+  <BS_DvergrConstitution.description>Носители этого гена неожиданно сильны и выносливы для своего роста.</BS_DvergrConstitution.description>
+  <!-- EN: dwarven grit -->
+  <BS_DvergrConstitution.labelShortAdj>дварфийское упорство</BS_DvergrConstitution.labelShortAdj>
+
+  <!-- EN: Giant Weapon Wielder -->
+  <BS_GiantWeaponWielder.label>боец гигантским оружием</BS_GiantWeaponWielder.label>
+  <!-- EN: Carriers of this gene are capable of wielding giant weapons even if they would otherwise be too small. -->
+  <BS_GiantWeaponWielder.description>Носители этого гена способны владеть гигантским оружием, вне зависимости от размера своего тела.</BS_GiantWeaponWielder.description>
+
+  <!-- EN: Xenoreconstruction -->
+  <BS_Xenoreconstruction.label>ксенореконструкция</BS_Xenoreconstruction.label>
+  <!-- EN: Carriers of this gene can heal permanent injuries in themselves or others. -->
+  <BS_Xenoreconstruction.description>Носители этого гена могут заживлять неизлечимые травмы у себя или у других.</BS_Xenoreconstruction.description>
+
+  <!-- EN: Regeneration -->
+  <BS_Fast_TotalHealing.label>регенерация</BS_Fast_TotalHealing.label>
+  <!-- EN: Carriers of this gene can regenerate scars and missing limbs. -->
+  <BS_Fast_TotalHealing.description>Носители этого гена могут залечивать шрамы и отращивать потерянные конечности.</BS_Fast_TotalHealing.description>
+  <!-- EN: Every few days, one old wound, limb, or missing organ is healed. -->
+  <BS_Fast_TotalHealing.customEffectDescriptions.0>Каждые несколько дней исцеляется одна старая рана, отсутствующая конечность или орган.</BS_Fast_TotalHealing.customEffectDescriptions.0>
+  <!-- EN: scarless -->
+  <BS_Fast_TotalHealing.labelShortAdj>без шрамов</BS_Fast_TotalHealing.labelShortAdj>
+
+  <!-- EN: deterioration -->
+  <VU_UltraRapidAging.label>деградация тела</VU_UltraRapidAging.label>
+  <!-- EN: Carriers of this gene fall apart quickly over time. -->
+  <VU_UltraRapidAging.description>С течением времени тела носителей этого гена быстро разрушаются.</VU_UltraRapidAging.description>
+  
+  <!-- EN: fallen -->
+  <VU_UltraRapidAging.symbolPack.prefixSymbols.0.symbol>гнило</VU_UltraRapidAging.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: disintegrating -->
+  <VU_UltraRapidAging.symbolPack.prefixSymbols.1.symbol>тухло</VU_UltraRapidAging.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fading -->
+  <VU_UltraRapidAging.symbolPack.prefixSymbols.2.symbol>мертво</VU_UltraRapidAging.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: decaying -->
+  <VU_UltraRapidAging.symbolPack.wholeNameSymbols.0.symbol>гниломорд</VU_UltraRapidAging.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: deteriorating -->
+  <VU_UltraRapidAging.symbolPack.wholeNameSymbols.1.symbol>трупак</VU_UltraRapidAging.symbolPack.wholeNameSymbols.1.symbol>
+
+  <!-- EN: jotun metabolism -->
+  <BS_JotunArchiteMetabolism.label>метаболизм йотуна</BS_JotunArchiteMetabolism.label>
+  <!-- EN: Carriers of this gene have special archites in their cells that facilitate and optimize metabolism. This particular variant is tailored for costly archite-powered Jotun. -->
+  <BS_JotunArchiteMetabolism.description>В клетках носителей этого гена содержатся особые архиты, которые облегчают и оптимизируют обмен веществ. Этот конкретный вариант адаптирован для затратного усиленного архитами йотуна.</BS_JotunArchiteMetabolism.description>
+  <!-- EN: archite-metabolic -->
+  <BS_JotunArchiteMetabolism.labelShortAdj>архо-метаболизм</BS_JotunArchiteMetabolism.labelShortAdj>
+
+  <!-- EN: Undead Affinity -->
+  <BS_Deathlike.label>родство с нежитью</BS_Deathlike.label>
+  <!-- EN: Carriers of this gene have something deathlike about them that causes zombies and the like to ignore them.\n\nSome obviously undead creatures lack this property, while some living entities possess it. -->
+  <BS_Deathlike.description>В носителе этого гена есть что-то от мёртвых, что заставляет зомби и им подобных игнорировать его.\n\nНекоторые явно мёртвые существа лишены этого свойства, в то время как некоторые живые обладают им.</BS_Deathlike.description>
+
+  <!-- EN: Unarmed Combat Only -->
+  <BS_UnarmedOnly.label>только безоружный бой</BS_UnarmedOnly.label>
+  <!-- EN: Carriers of this gene will not wield weapons in melee combat. -->
+  <BS_UnarmedOnly.description>Носители этого гена не хотят или не могут использовать оружие в ближнем бою.</BS_UnarmedOnly.description>
+
+  <!-- EN: Cannot Wield Weapons -->
+  <BS_NoEquip.label>не носит оружие</BS_NoEquip.label>
+  <!-- EN: Carriers of this gene will not or cannot wield weapons or tools with their appendages. -->
+  <BS_NoEquip.description>Носители этого гена не хотят или не могут носить оружие или инструменты.</BS_NoEquip.description>
+
+  <!-- EN: Strong Unarmed -->
+  <BS_Unarmed_Strong.label>усиленный безоружный бой</BS_Unarmed_Strong.label>
+  <!-- EN: Carriers of this gene do more damage in close-quarters combat, but they are only able to use this power in unarmed combat. -->
+  <BS_Unarmed_Strong.description>Носители этого гена наносят больше урона в ближнем бою, но только тогда, когда сражаются без оружия.</BS_Unarmed_Strong.description>
+  <!-- EN: strong -->
+  <BS_Unarmed_Strong.labelShortAdj>сила</BS_Unarmed_Strong.labelShortAdj>
+
+  <!-- EN: Very Strong Unarmed -->
+  <BS_Unarmed_VeryStrong.label>мастерский безоружный бой</BS_Unarmed_VeryStrong.label>
+  <!-- EN: Carriers of this gene do significantly more damage in close-quarters combat, but they are only able to use this power in unarmed combat. -->
+  <BS_Unarmed_VeryStrong.description>Носители этого гена наносят заметно больше урона в ближнем бою, но только тогда, когда сражаются без оружия.</BS_Unarmed_VeryStrong.description>
+  <!-- EN: strong -->
+  <BS_Unarmed_VeryStrong.labelShortAdj>сила</BS_Unarmed_VeryStrong.labelShortAdj>
+
+  <!-- EN: pilotable -->
+  <BS_Pilotable.label>пилотируемость</BS_Pilotable.label>
+  <!-- EN: This being has been made to function as a simple extension of a pilot. It will not be able to function without a pilot. The skills and mental traits of the pilot will be used.\n\nNote that the pilot can be no larger than half the size of their vehicle, also they will not be able to socially interact with others normally while busy piloting. -->
+  <BS_Pilotable.description>Носитель этого гена был спроектирован в качестве управляемой пилотом машины. Он не сможет функционировать без пилота. При работе будут использоваться навыки и черты характера пилота.\n\nОбратите внимание, что пилот не может быть больше половины размера носителя, также он не сможет нормально социально взаимодействовать с другими, пока занят пилотированием.</BS_Pilotable.description>
+
+  <!-- EN: operator assistable -->
+  <BS_PilotAssistible.label>помощь оператора</BS_PilotAssistible.label>
+  <!-- EN: This being has been made to utilize an operator, and will be much more effective when one is available.\n\nNote that the operator can be no larger than half the size of the carrier. -->
+  <BS_PilotAssistible.description>Это существо было спроектировано для использования оператором и будет намного эффективнее с ним.\n\nОбратите внимание, что оператор не может быть больше половины размера носителя.</BS_PilotAssistible.description>
+
+  <!-- EN: operator required -->
+  <BS_PilotRequired.label>управление оператором</BS_PilotRequired.label>
+  <!-- EN: This being its own intelligence but has been unable to function without an operator. They will operate at great effectiveness when a pilot is present.\n\nNote that the operator can be no larger than half the size of the carrier. -->
+  <BS_PilotRequired.description>Носитель этого гена обладает собственным разумом, но не может функционировать без оператора. С ним он будет работать с большой эффективностью.\n\nОбратите внимание, что оператор не может быть больше половины размера носителя.</BS_PilotRequired.description>
+</LanguageData>

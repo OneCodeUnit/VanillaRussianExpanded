@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Shrink Ray Affliction -->
+  <BS_Affliction_ShrinkRay.label>уменьшающий луч</BS_Affliction_ShrinkRay.label>
+  <!-- EN: Subject has been shrunk by a shrink ray. -->
+  <BS_Affliction_ShrinkRay.description>Уменьшен в размере уменьшающим лучом.</BS_Affliction_ShrinkRay.description>
+
+  <!-- EN: Growth Ray Affliction -->
+  <BS_Affliction_GrowthRay.label>увеличивающий луч</BS_Affliction_GrowthRay.label>
+  <!-- EN: Unstable growth -->
+  <BS_Affliction_GrowthRay.description>Нестабильный рост.</BS_Affliction_GrowthRay.description>
+
+  <!-- EN: first signs -->
+  <BS_Affliction_GrowthRay.stages.0.label>первые признаки</BS_Affliction_GrowthRay.stages.0.label>
+
+  <!-- EN: getting bad -->
+  <BS_Affliction_GrowthRay.stages.1.label>всё хуже и хуже</BS_Affliction_GrowthRay.stages.1.label>
+  <!-- EN: early signs of structural issues -->
+  <BS_Affliction_GrowthRay.stages.getting_bad.extraTooltip>Первые признаки структурных дефектов.</BS_Affliction_GrowthRay.stages.getting_bad.extraTooltip>
+
+  <!-- EN: approaching critical -->
+  <BS_Affliction_GrowthRay.stages.2.label>близко к критическому</BS_Affliction_GrowthRay.stages.2.label>
+  <!-- EN: oh no. -->
+  <BS_Affliction_GrowthRay.stages.approaching_critical.extraTooltip>О, нет.</BS_Affliction_GrowthRay.stages.approaching_critical.extraTooltip>
+
+  <!-- EN: critical! -->
+  <BS_Affliction_GrowthRay.stages.3.label>критический уровень!</BS_Affliction_GrowthRay.stages.3.label>
+  <!-- EN: disintegration imminent! -->
+  <BS_Affliction_GrowthRay.stages.critical.extraTooltip>Дезинтеграция неизбежна!</BS_Affliction_GrowthRay.stages.critical.extraTooltip>
+
+  <!-- EN: flux energy overload -->
+  <BS_Affliction_GrowthRay.stages.4.label>перегрузка энергией роста</BS_Affliction_GrowthRay.stages.4.label>
+  <!-- EN: WARNING, excess energy at risk of explosive emission. -->
+  <BS_Affliction_GrowthRay.stages.flux_energy_overload.extraTooltip>ПРЕДУПРЕЖДЕНИЕ! Избыток энергии приводит к риску возникновения взрыва.</BS_Affliction_GrowthRay.stages.flux_energy_overload.extraTooltip>
+</LanguageData>

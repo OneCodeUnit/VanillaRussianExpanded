@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: unliving resilience -->
+  <BS_RoboticResilienceLesser.label>стойкость неживого</BS_RoboticResilienceLesser.label>
+  <!-- EN: Androids with this gene are built to handle getting holes punched through them without critical malfunction. They take 50% damage from bullets and arrows and 75% damage from stabbing attacks.\n\nIncludes vacuum sealing. -->
+  <BS_RoboticResilienceLesser.description>Андроиды с этим геном спроектированы так, чтобы продолжать работать без критических сбоев даже с пробитиями корпуса. Они получают 50% урона от пуль и стрел и 75% урона от колющих атак.\n\nВключает в себя вакуумную герметизацию.</BS_RoboticResilienceLesser.description>
+
+  <!-- EN: greater unliving resilience -->
+  <BS_RoboticResilience.label>сверхстойкость неживого</BS_RoboticResilience.label>
+  <!-- EN: Androids with this gene are built to handle much of their body getting turned into swiss cheese without critical malfunction. They take 35% damage from bullets and arrows and 67% damage from stabbing attacks.\n\nIncludes vacuum sealing. -->
+  <BS_RoboticResilience.description>Андроиды с этим геном спроектированы так, чтобы продолжать работать без критических сбоев даже с превращённым в швейцарский сыр корпусом. Они получают 35% урона от пуль и стрел и 67% урона от колющих атак.\n\nВключает в себя вакуумную герметизацию.</BS_RoboticResilience.description>
+
+  <!-- EN: Vacuum Sealed -->
+  <BS_AndroidEVA_Gene.label>вакуумная герметизация</BS_AndroidEVA_Gene.label>
+  <!-- EN: Androids with this modification can withstand the vacuum of space. This does nothing to help against the cold or slowness of movement in the void. -->
+  <BS_AndroidEVA_Gene.description>Андроиды с этой модификацией могут противостоять космическому вакууму. Но это никак не спасёт от холода или замедленного передвижения в пустоте.</BS_AndroidEVA_Gene.description>
+
+  <!-- EN: Unarmed Combat Only -->
+  <BS_UnarmedOnly_Android.label>только безоружный бой</BS_UnarmedOnly_Android.label>
+  <!-- EN: Androids with this modification cannot or will not wield weapons in melee combat. -->
+  <BS_UnarmedOnly_Android.description>Андроиды с этой модификацией не хотят или не могут использовать оружие в ближнем бою.</BS_UnarmedOnly_Android.description>
+
+  <!-- EN: Strong Unarmed -->
+  <BS_Unarmed_Strong_Android.label>усиленный безоружный бой</BS_Unarmed_Strong_Android.label>
+  <!-- EN: Carriers of this gene do more damage in close-quarters combat, but they are only able to use this power in unarmed combat. -->
+  <BS_Unarmed_Strong_Android.description>Андроиды с этой модификацией наносят больше урона в ближнем бою, но только тогда, когда сражаются без оружия.</BS_Unarmed_Strong_Android.description>
+  <!-- EN: strong -->
+  <BS_Unarmed_Strong_Android.labelShortAdj>сила</BS_Unarmed_Strong_Android.labelShortAdj>
+
+  <!-- EN: Very Strong Unarmed -->
+  <BS_Unarmed_VeryStrong_Android.label>мастерский безоружный бой</BS_Unarmed_VeryStrong_Android.label>
+  <!-- EN: Carriers of this gene do significently more damage in close-quarters combat, but they are only able to use this power in unarmed combat. -->
+  <BS_Unarmed_VeryStrong_Android.description>Андроиды с этой модификацией наносят заметно больше урона в ближнем бою, но только тогда, когда сражаются без оружия.</BS_Unarmed_VeryStrong_Android.description>
+  <!-- EN: strong -->
+  <BS_Unarmed_VeryStrong_Android.labelShortAdj>сила</BS_Unarmed_VeryStrong_Android.labelShortAdj>
+  
+  <!-- EN: pilotable -->
+  <BS_Pilotable_Android.label>пилотируемость</BS_Pilotable_Android.label>
+  <!-- EN: This android has been made to function as an extension of a pilot. It will not be able to function without a pilot. The skills and mental traits of the pilot will be used.\n\nNote that the pilot can be no larger than half the size of their vehicle, also they will not be able to socially interact with others normally while busy piloting.\n\nDeveloper's Note: Due to how Androids remove needs you might need to remove some of their 'genes' to get this behaving properly. I might get around to fixing this eventually. -->
+  <BS_Pilotable_Android.description>Этот андроид был спроектирован в качестве управляемой пилотом машины. Он не сможет функционировать без пилота. При работе будут использоваться навыки и черты характера пилота.\n\nОбратите внимание, что пилот не может быть больше половины размера андроида, также он не сможет нормально социально взаимодействовать с другими, пока занят пилотированием.\n\nПримечание разработчика: Из-за того, что андроиды не имеют некоторых потребностей, вам, возможно, потребуется удалить некоторые из их «генов», чтобы заставить систему работать должным образом. Возможно, со временем я смогу это исправить.</BS_Pilotable_Android.description>
+
+  <!-- EN: operator assistable -->
+  <BS_PilotAssistible_Android.label>помощь оператора</BS_PilotAssistible_Android.label>
+  <!-- EN: This android has been made to utilize an operator, and will be much more effective when one is available.\n\nNote that the operator can be no larger than half the size of the carrier. -->
+  <BS_PilotAssistible_Android.description>Этот андроид был спроектирован для использования оператором и будет намного эффективнее с ним.\n\nОбратите внимание, что оператор не может быть больше половины размера носителя.</BS_PilotAssistible_Android.description>
+</LanguageData>

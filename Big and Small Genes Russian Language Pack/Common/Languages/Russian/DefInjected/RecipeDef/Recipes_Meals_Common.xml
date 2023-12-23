@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: cook simple large meal -->
+  <BS_CookLargeMealSimple.label>приготовить большое простое блюдо</BS_CookLargeMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <BS_CookLargeMealSimple.description>Приготовить простое блюдо из ингредиентов растительного или животного происхождения.</BS_CookLargeMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <BS_CookLargeMealSimple.jobString>Готовит простое блюдо</BS_CookLargeMealSimple.jobString>
+
+  <!-- EN: cook simple large meal x4 -->
+  <BS_CookLargeMealSimpleBulk.label>приготовить большое простое блюдо x4</BS_CookLargeMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <BS_CookLargeMealSimpleBulk.description>Приготовить 4 простых блюда из ингредиентов растительного или животного происхождения.</BS_CookLargeMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <BS_CookLargeMealSimpleBulk.jobString>Готовит 4 простых блюда</BS_CookLargeMealSimpleBulk.jobString>
+
+  <!-- EN: cook fine large meal -->
+  <BS_CookLargeMealFine.label>приготовить большое вкусное блюдо</BS_CookLargeMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <BS_CookLargeMealFine.description>Приготовить вкусное сбалансированное блюдо из ингредиентов растительного и животного происхождения.</BS_CookLargeMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <BS_CookLargeMealFine.jobString>Готовит вкусное блюдо</BS_CookLargeMealFine.jobString>
+  <!-- EN: protein -->
+  <BS_CookLargeMealFine.ingredients.0.filter.customSummary>протеин</BS_CookLargeMealFine.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook vegetarian fine large meal -->
+  <BS_CookLargeMealFine_Veg.label>приготовить большое вкусное вегетарианское блюдо</BS_CookLargeMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <BS_CookLargeMealFine_Veg.description>Приготовить вкусное блюдо из ингредиентов растительного происхождения. Использование только растительных ингредиентов приведёт к дополнительному расходу продуктов.</BS_CookLargeMealFine_Veg.description>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <BS_CookLargeMealFine_Veg.jobString>Готовит вкусное вегетарианское блюдо</BS_CookLargeMealFine_Veg.jobString>
+  <!-- EN: vegetarian ingredients -->
+  <BS_CookLargeMealFine_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealFine_Veg.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook carnivore fine large meal -->
+  <BS_CookLargeMealFine_Meat.label>приготовить большое вкусное мясное блюдо</BS_CookLargeMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <BS_CookLargeMealFine_Meat.description>Приготовить вкусное блюдо из ингредиентов животного происхождения. Использование ингредиентов только животного происхождения приведёт к дополнительному расходу продуктов.</BS_CookLargeMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <BS_CookLargeMealFine_Meat.jobString>Готовит вкусное мясное блюдо</BS_CookLargeMealFine_Meat.jobString>
+
+  <!-- EN: cook fine large meal x4 -->
+  <BS_CookLargeMealFineBulk.label>приготовить большое вкусное блюдо x4</BS_CookLargeMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <BS_CookLargeMealFineBulk.description>Приготовить 4 вкусных блюда из ингредиентов растительного и животного происхождения.</BS_CookLargeMealFineBulk.description>
+  <!-- EN: Cooking 4 fine meals. -->
+  <BS_CookLargeMealFineBulk.jobString>Готовит 4 вкусных блюда</BS_CookLargeMealFineBulk.jobString>
+  <!-- EN: protein -->
+  <BS_CookLargeMealFineBulk.ingredients.0.filter.customSummary>протеин</BS_CookLargeMealFineBulk.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook carnivore fine large meal x4 -->
+  <BS_CookLargeMealFineBulk_Meat.label>приготовить большое вкусное мясное блюдо х4</BS_CookLargeMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <BS_CookLargeMealFineBulk_Meat.description>Приготовить 4 вкусных блюда из ингредиентов животного происхождения. Использование ингредиентов только животного происхождения приведёт к дополнительному расходу продуктов</BS_CookLargeMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <BS_CookLargeMealFineBulk_Meat.jobString>Готовит 4 вкусных мясных блюда</BS_CookLargeMealFineBulk_Meat.jobString>
+
+  <!-- EN: cook vegetarian fine large meal x4 -->
+  <BS_CookLargeMealFineBulk_Veg.label>приготовить большое вкусное вегетарианское блюдо х4</BS_CookLargeMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <BS_CookLargeMealFineBulk_Veg.description>Приготовить 4 вкусных блюда из ингредиентов растительного происхождения. Использование только растительных ингредиентов приведёт к дополнительному расходу продуктов.</BS_CookLargeMealFineBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <BS_CookLargeMealFineBulk_Veg.jobString>Готовит 4 вкусных вегетарианских блюда</BS_CookLargeMealFineBulk_Veg.jobString>
+  <!-- EN: vegetarian ingredients -->
+  <BS_CookLargeMealFineBulk_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealFineBulk_Veg.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook lavish large meal -->
+  <BS_CookLargeMealLavish.label>приготовить большое шикарное блюдо</BS_CookLargeMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <BS_CookLargeMealLavish.description>Приготовить сложное изысканное блюдо из ингредиентов растительного и животного происхождения. Значительная часть ингредиентов уйдёт впустую ради создания неповторимой палитры вкусов.</BS_CookLargeMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <BS_CookLargeMealLavish.jobString>Готовит шикарное блюдо</BS_CookLargeMealLavish.jobString>
+  <!-- EN: protein -->
+  <BS_CookLargeMealLavish.ingredients.0.filter.customSummary>протеин</BS_CookLargeMealLavish.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook carnivore lavish large meal -->
+  <BS_CookLargeMealLavish_Meat.label>приготовить большое шикарное мясное блюдо</BS_CookLargeMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <BS_CookLargeMealLavish_Meat.description>Приготовить сложное изысканное блюдо из ингредиентов животного происхождения. Значительная часть ингредиентов уйдёт впустую ради создания неповторимой палитры вкусов. Использование ингредиентов только животного происхождения приведёт к дополнительному расходу продуктов.</BS_CookLargeMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <BS_CookLargeMealLavish_Meat.jobString>Готовит шикарное мясное блюдо</BS_CookLargeMealLavish_Meat.jobString>
+
+  <!-- EN: cook vegetarian lavish large meal -->
+  <BS_CookLargeMealLavish_Veg.label>приготовить большое шикарное вегетарианское блюдо</BS_CookLargeMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <BS_CookLargeMealLavish_Veg.description>Приготовить сложное изысканное блюдо из ингредиентов растительного происхождения. Значительная часть ингредиентов уйдёт впустую ради создания неповторимой палитры вкусов. Использование только растительных ингредиентов приведёт к дополнительному расходу продуктов.</BS_CookLargeMealLavish_Veg.description>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <BS_CookLargeMealLavish_Veg.jobString>Готовит шикарное вегетарианское блюдо</BS_CookLargeMealLavish_Veg.jobString>
+  <!-- EN: vegetarian ingredients -->
+  <BS_CookLargeMealLavish_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealLavish_Veg.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook lavish large meal x4 -->
+  <BS_CookLargeMealLavishBulk.label>приготовить большое шикарное блюдо x4</BS_CookLargeMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <BS_CookLargeMealLavishBulk.description>Приготовить 4 сложных изысканных блюда из ингредиентов растительного и животного происхождения. Значительная часть ингредиентов уйдёт впустую ради создания неповторимой палитры вкусов.</BS_CookLargeMealLavishBulk.description>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <BS_CookLargeMealLavishBulk.jobString>Готовит 4 шикарных блюда</BS_CookLargeMealLavishBulk.jobString>
+  <!-- EN: protein -->
+  <BS_CookLargeMealLavishBulk.ingredients.0.filter.customSummary>протеин</BS_CookLargeMealLavishBulk.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook vegetarian lavish large meal x4 -->
+  <BS_CookLargeMealLavishBulk_Veg.label>приготовить большое шикарное вегетарианское блюдо х4</BS_CookLargeMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <BS_CookLargeMealLavishBulk_Veg.description>Приготовить 4 сложных изысканных блюда из ингредиентов растительного происхождения. Значительная часть ингредиентов уйдёт впустую ради создания неповторимой палитры вкусов. Использование только растительных ингредиентов приведёт к дополнительному расходу продуктов.</BS_CookLargeMealLavishBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <BS_CookLargeMealLavishBulk_Veg.jobString>Готовит 4 шикарных вегетарианских блюда</BS_CookLargeMealLavishBulk_Veg.jobString>
+  <!-- EN: vegetarian ingredients -->
+  <BS_CookLargeMealLavishBulk_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook carnivore lavish large meal x4 -->
+  <BS_CookLargeMealLavishBulk_Meat.label>приготовить большое шикарное мясное блюдо х4</BS_CookLargeMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <BS_CookLargeMealLavishBulk_Meat.description>Приготовить 4 сложных изысканных блюда из ингредиентов животного происхождения. Значительная часть ингредиентов уйдёт впустую ради создания неповторимой палитры вкусов. Использование ингредиентов только животного происхождения приведёт к дополнительному расходу продуктов.</BS_CookLargeMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <BS_CookLargeMealLavishBulk_Meat.jobString>Готовит 4 шикарных мясных блюда</BS_CookLargeMealLavishBulk_Meat.jobString>
+
+  <!-- EN: cook packaged survival large meal -->
+  <BS_CookLargeMealSurvival.label>приготовить большой сухпаёк</BS_CookLargeMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <BS_CookLargeMealSurvival.description>Приготовить запечатанный сухой паёк из ингредиентов растительного и животного происхождения. В процессе консервации часть ингредиентов уйдёт впустую.</BS_CookLargeMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
+  <BS_CookLargeMealSurvival.jobString>Готовит сухпаёк</BS_CookLargeMealSurvival.jobString>
+  <!-- EN: protein -->
+  <BS_CookLargeMealSurvival.ingredients.0.filter.customSummary>протеин</BS_CookLargeMealSurvival.ingredients.0.filter.customSummary>
+
+  <!-- EN: cook packaged survival meal x4 -->
+  <BS_CookLargeMealSurvivalBulk.label>приготовить большой сухпаёк x4</BS_CookLargeMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <BS_CookLargeMealSurvivalBulk.description>Приготовить 4 запечатанных сухих пайка из ингредиентов растительного и животного происхождения. В процессе консервации часть ингредиентов уйдёт впустую.</BS_CookLargeMealSurvivalBulk.description>
+  <!-- EN: Cooking 4 survival meals. -->
+  <BS_CookLargeMealSurvivalBulk.jobString>Готовит 4 сухпайка</BS_CookLargeMealSurvivalBulk.jobString>
+  <!-- EN: protein -->
+  <BS_CookLargeMealSurvivalBulk.ingredients.0.filter.customSummary>протеин</BS_CookLargeMealSurvivalBulk.ingredients.0.filter.customSummary>
+</LanguageData>

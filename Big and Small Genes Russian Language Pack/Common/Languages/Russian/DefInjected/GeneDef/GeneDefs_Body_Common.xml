@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: unliving resilience -->
+  <VU_Lesser_Unliving_Resilience.label>стойкость неживого</VU_Lesser_Unliving_Resilience.label>
+  <!-- EN: Carriers of this gene are less bothered by holes through their body than most.\n\nThey are also unffected by decompression or lack of oxygen in the vacuum of space. -->
+  <VU_Lesser_Unliving_Resilience.description>Носителей этого гена мало заботят проникающие ранения на своём теле.\n\nНа них также не влияет декомпрессия или отсутствие кислорода в космосе.</VU_Lesser_Unliving_Resilience.description>
+
+  <!-- EN: greater unliving resilience -->
+  <VU_Unliving_Resilience.label>сверхстойкость неживого</VU_Unliving_Resilience.label>
+  <!-- EN: Carriers of this gene are much less bothered by bullet holes than most. \n\nThey are also unffected by decompression or lack of oxygen in the vacuum of space. -->
+  <VU_Unliving_Resilience.description>Носителей этого гена практически не заботят проникающие ранения на своём теле.\n\nНа них также не влияет декомпрессия или отсутствие кислорода в космосе.</VU_Unliving_Resilience.description>
+
+  <!-- EN: no blood -->
+  <VU_NoBlood.label>нет крови</VU_NoBlood.label>
+  <!-- EN: Carriers of this gene don't bleed. -->
+  <VU_NoBlood.description>Носители этого гена не кровоточат.</VU_NoBlood.description>
+  <!-- EN: Does not bleed -->
+  <VU_NoBlood.customEffectDescriptions.0>Не бывает кровотечений.</VU_NoBlood.customEffectDescriptions.0>
+  
+
+  <!-- EN: slow bleeding -->
+  <BS_SlowBleeding.label>медленное кровотечение</BS_SlowBleeding.label>
+  <!-- EN: Carriers of this gene bleed out slower than usual. Perhaps their blod clots faster or flows slower than that of baseliners. -->
+  <BS_SlowBleeding.description>Носители этого гена истекают кровью медленнее, чем обычно. Вероятно, их кровь сворачивается быстрее или течёт медленнее, чем у первозданных людей.</BS_SlowBleeding.description>
+  <!-- EN: Bleed Rate x0.5 -->
+  <BS_SlowBleeding.customEffectDescriptions.0>Скорость кровотечения снижена в два раза.</BS_SlowBleeding.customEffectDescriptions.0>
+
+  <!-- EN: deathlike body -->
+  <VU_Unliving.label>неживое тело</VU_Unliving.label>
+  <!-- EN: Carriers of this gene have a non-living or death-like body. They never get some chronic age-related diseases like cancer, heart-attacks, asthma, or dementia. -->
+  <VU_Unliving.description>Тело носителей этого гена не живо в прямом смысле этого слова. Они не страдают возрастными заболеваниями, вроде сердечных приступов, астмы, деменции, у них также не развивается рак.</VU_Unliving.description>
+  <!-- EN: Immune to vampirism. -->
+  <VU_Unliving.customEffectDescriptions.0>Иммунитет к вампиризму.</VU_Unliving.customEffectDescriptions.0>
+  <!-- EN: Immune to zombification. -->
+  <VU_Unliving.customEffectDescriptions.1>Иммунитет к зомбификации.</VU_Unliving.customEffectDescriptions.1>
+
+  <!-- EN: Very slow wound healing -->
+  <WoundHealing_VerySlow.label>очень медленное заживление ран</WoundHealing_VerySlow.label>
+  <!-- EN: Carriers of this gene heal from wounds at a third of the normal speed. -->
+  <WoundHealing_VerySlow.description>У носителей этого гена раны заживают в три раза медленнее, чем обычно.</WoundHealing_VerySlow.description>
+  <!-- EN: slow-heal -->
+  <WoundHealing_VerySlow.labelShortAdj>медленное восстановление</WoundHealing_VerySlow.labelShortAdj>
+  <!-- EN: unhealing -->
+  <WoundHealing_VerySlow.symbolPack.prefixSymbols.0.symbol>болезне</WoundHealing_VerySlow.symbolPack.prefixSymbols.0.symbol>
+
+  <!-- EN: pallor -->
+  <VU_Pallor.label>трупная бледность</VU_Pallor.label>
+  <!-- EN: Carriers of this gene have a corpse-like pallor. -->
+  <VU_Pallor.description>Носители этого гена имеют бледную, как у трупа, кожу.</VU_Pallor.description>
+</LanguageData>

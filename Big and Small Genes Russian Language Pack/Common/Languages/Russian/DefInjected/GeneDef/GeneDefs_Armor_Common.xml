@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: cannot wear clothing or armor -->
+  <BS_CannotWearClothingOrArmor.label>не носит одежду или броню</BS_CannotWearClothingOrArmor.label>
+  <!-- EN: Carriers of this gene cannot or will not wear any type of armour or clothing. -->
+  <BS_CannotWearClothingOrArmor.description>Носители этого гена не могут или не хотят носить какую-либо одежду или броню.</BS_CannotWearClothingOrArmor.description>
+
+  <!-- EN: cannot wear clothes -->
+  <BS_CannotWearClothing.label>не носит одежду</BS_CannotWearClothing.label>
+  <!-- EN: Carriers of this gene cannot or will not wear regular clothing. They can still wear dedicated armor however. -->
+  <BS_CannotWearClothing.description>Носители этого гена не могут или не хотят носить какую-либо одежду. Однако всё ещё могут носить броню.</BS_CannotWearClothing.description>
+
+  <!-- EN: cannot wear armor -->
+  <BS_CannotWearArmor.label>не носит броню</BS_CannotWearArmor.label>
+  <!-- EN: Carriers of this gene cannot or will not wear most types of dedicated armor -->
+  <BS_CannotWearArmor.description>Носители этого гена не могут или не хотят носить большинство видов брони.</BS_CannotWearArmor.description>
+
+  <!-- EN: greater naked speed -->
+  <VeryNakedSpeed.label>увеличенная обнажённая скорость</VeryNakedSpeed.label>
+  <!-- EN: Carriers of this gene move much slower while clothed, and significantly faster while naked. -->
+  <VeryNakedSpeed.description>Носители этого гена двигаются намного медленнее в одежде и заметно быстрее без неё.</VeryNakedSpeed.description>
+
+  <!-- EN: Tough Skin -->
+  <BS_ToughSkin.label>прочная кожа</BS_ToughSkin.label>
+  <!-- EN: Carriers of this gene have naturally tough skin. This offers some resistance to blunt and cutting attacks. -->
+  <BS_ToughSkin.description>Носители этого гена имеют от природы прочную кожу. Она даёт небольшую защиту от дробящих и режущих атак.</BS_ToughSkin.description>
+  
+  <!-- EN: +40% sharp natural armour. -->
+  <BS_ToughSkin.customEffectDescriptions.0>Броня: Проникновение +25%</BS_ToughSkin.customEffectDescriptions.0>
+  <!-- EN: +25% blunt armour. -->
+  <BS_ToughSkin.customEffectDescriptions.1>Броня: Удар +15%</BS_ToughSkin.customEffectDescriptions.1>
+  <!-- EN: thick-skinned -->
+  <BS_ToughSkin.symbolPack.prefixSymbols.0.symbol>шкуро</BS_ToughSkin.symbolPack.prefixSymbols.0.symbol>
+
+  <!-- EN: Natural Armor -->
+  <BS_NaturalArmor.label>естественная броня</BS_NaturalArmor.label>
+  <!-- EN: Carriers of this gene shrug off attacks as though they were wearing padded armour. -->
+  <BS_NaturalArmor.description>Носители этого гена справляются с атаками так, как будто на них надет стёганый доспех.</BS_NaturalArmor.description>
+  
+  <!-- EN: +40% sharp natural armour. -->
+  <BS_NaturalArmor.customEffectDescriptions.0>Броня: Проникновение +40%</BS_NaturalArmor.customEffectDescriptions.0>
+  <!-- EN: +25% blunt armour. -->
+  <BS_NaturalArmor.customEffectDescriptions.1>Броня: Удар +25%</BS_NaturalArmor.customEffectDescriptions.1>
+  <!-- EN: sturdy -->
+  <BS_NaturalArmor.symbolPack.prefixSymbols.0.symbol>прочно</BS_NaturalArmor.symbolPack.prefixSymbols.0.symbol>
+
+  <!-- EN: Fortified Body -->
+  <BS_NaturalArmor_Great.label>укреплённое тело</BS_NaturalArmor_Great.label>
+  <!-- EN: Carriers of this gene shrug off attacks as though they were wearing heavily padded riot gear. -->
+  <BS_NaturalArmor_Great.description>Носители этого гена справляются с атаками так, как будто на них надета тяжёлая броня.</BS_NaturalArmor_Great.description>
+  
+  <!-- EN: +60% sharp natural armour. -->
+  <BS_NaturalArmor_Great.customEffectDescriptions.0>Броня: Проникновение +60%</BS_NaturalArmor_Great.customEffectDescriptions.0>
+  <!-- EN: +40% blunt armour. -->
+  <BS_NaturalArmor_Great.customEffectDescriptions.1>Броня: Удар +40%</BS_NaturalArmor_Great.customEffectDescriptions.1>
+  <!-- EN: impervious -->
+  <BS_NaturalArmor_Great.symbolPack.prefixSymbols.0.symbol>стойко</BS_NaturalArmor_Great.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: invulnerable -->
+  <BS_NaturalArmor_Great.symbolPack.prefixSymbols.1.symbol>крепко</BS_NaturalArmor_Great.symbolPack.prefixSymbols.1.symbol>
+
+  <!-- EN: concussive resistance -->
+  <BS_Concussive_Resistance.label>сопротивление оглушению</BS_Concussive_Resistance.label>
+  <!-- EN: Carriers of this gene are highly resistant to wide-area concussive damage such as that from explosions. -->
+  <BS_Concussive_Resistance.description>Носители этого гена имеют сопротивление распространяющемуся по площади оглушению, такому как взрывы.</BS_Concussive_Resistance.description>
+
+  <!-- EN: acid resistance -->
+  <BS_AcidResistanceMid.label>устойчивость к кислоте</BS_AcidResistanceMid.label>
+  <!-- EN: Carriers of this gene are highly resistant to acid. -->
+  <BS_AcidResistanceMid.description>Носители этого гена имеют высокую устойчивость к кислотам.</BS_AcidResistanceMid.description>
+
+  <!-- EN: acid immunity -->
+  <BS_AcidResistanceTotal.label>невосприимчивость к кислоте</BS_AcidResistanceTotal.label>
+  <!-- EN: Carriers of this gene are immune resistant to acid. They take no damage from acid of any source. -->
+  <BS_AcidResistanceTotal.description>Носители этого гена имеют полный иммунитет к воздействию кислот. Они не будут получать никакого урона от кислоты любого происхождения.</BS_AcidResistanceTotal.description>
+
+  <!-- EN: drunken might -->
+  <BS_DrunkenPower.label>пьяная сила</BS_DrunkenPower.label>
+  <!-- EN: Carriers of this gene are amazingly strong and durable, but only while intoxicated with alcohol. The effect is even greater if the carrier is properly drunk.\n\nThe carrier of the gene will have higher conciousness while drunk as well, but not to the degree that a non-inebriated individual would.\n\nThis gene DOES stack with robust and strong melee damage. Oh my. -->
+  <BS_DrunkenPower.description>Носители этого гена удивительно сильны и выносливы, но только в состоянии алкогольного опьянения. Чем сильнее носитель напьётся, тем сильнее эффект.\n\nНоситель этого гена также будет обладать более высоким уровнем сознания в состоянии опьянения, но всё равно ниже, чем у трезвого.\n\nЭтот ген СОВМЕСТИМ с генами «стойкость» и «мастерство в рукопашной». Боже, сохрани.</BS_DrunkenPower.description>
+  
+  <!-- EN: 5% to 30% damage reduction based on alcohol amount -->
+  <BS_DrunkenPower.customEffectDescriptions.0>Получаемый урон уменьшен от 5% до 30%, в зависимости от степени опьянения.</BS_DrunkenPower.customEffectDescriptions.0>
+  <!-- EN: 5% to 45% increased melee attack based on alcohol amount -->
+  <BS_DrunkenPower.customEffectDescriptions.1>Урон от атак ближнего боя увеличен от 5% до 45%, в зависимости от степени опьянения.</BS_DrunkenPower.customEffectDescriptions.1>
+  <!-- EN: Less penalties from being drunk. -->
+  <BS_DrunkenPower.customEffectDescriptions.2>Меньше дебаффов от алкогольного опьянения.</BS_DrunkenPower.customEffectDescriptions.2>
+  <!-- EN: drunken -->
+  <BS_DrunkenPower.symbolPack.prefixSymbols.0.symbol>пьяно</BS_DrunkenPower.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: chaotic -->
+  <BS_DrunkenPower.symbolPack.prefixSymbols.1.symbol>алко</BS_DrunkenPower.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: oni -->
+  <BS_DrunkenPower.symbolPack.prefixSymbols.2.symbol>хмеле</BS_DrunkenPower.symbolPack.prefixSymbols.2.symbol>
+</LanguageData>

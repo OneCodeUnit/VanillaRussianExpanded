@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Pilotable -->
+  <BS_Piloted.label>пилотируемость</BS_Piloted.label>
+  <!-- EN: This creature requires a pilot to function. -->
+  <BS_Piloted.description>Этому существу для функционирования требуется пилот.</BS_Piloted.description>
+  <!-- EN: pilot missing -->
+  <BS_Piloted.stages.0.label>пилот отсутствует</BS_Piloted.stages.0.label>
+  <!-- EN: pilot present -->
+  <BS_Piloted.stages.1.label>пилот присутствует</BS_Piloted.stages.1.label>
+  
+  <!-- EN: operator assisted -->
+  <BS_PilotAssisted.label>помощь оператора</BS_PilotAssisted.label>
+  <!-- EN: This creature requires an operator to function at optimal capacity. -->
+  <BS_PilotAssisted.description>Этому существу для оптимальной работы требуется оператор.</BS_PilotAssisted.description>
+  <!-- EN: pilot missing -->
+  <BS_PilotAssisted.stages.0.label>пилот отсутствует</BS_PilotAssisted.stages.0.label>
+  <!-- EN: pilot present -->
+  <BS_PilotAssisted.stages.1.label>пилот присутствует</BS_PilotAssisted.stages.1.label>
+  
+  <!-- EN: operator assisted -->
+  <BS_PilotRequired.label>помощь оператора</BS_PilotRequired.label>
+  <!-- EN: This creature has own intelligence, but will shut off without an operator. -->
+  <BS_PilotRequired.description>Это существо обладает собственным разумом, но не работает без оператора.</BS_PilotRequired.description>
+  <!-- EN: pilot missing -->
+  <BS_PilotRequired.stages.0.label>пилот отсутствует</BS_PilotRequired.stages.0.label>
+  <!-- EN: pilot present -->
+  <BS_PilotRequired.stages.1.label>пилот присутствует</BS_PilotRequired.stages.1.label>
+  
+  <!-- EN: Engulfed -->
+  <BS_Engulfed.label>поглощение</BS_Engulfed.label>
+  <!-- EN: This creature has temporarily engulfed something. -->
+  <BS_Engulfed.description>Это существо временно поглотило что-то.</BS_Engulfed.description>
+  <!-- EN: engulfed -->
+  <BS_Engulfed.stages.0.label>поглощён</BS_Engulfed.stages.0.label>
+  
+  <!-- EN: Enchumbered -->
+  <BS_EngulfedEnchumberance.label>отягощение</BS_EngulfedEnchumberance.label>
+  <!-- EN: This creature is enchumbered due to internal contents. -->
+  <BS_EngulfedEnchumberance.description>Это существо отягощено из-за его внутреннего содержимого.</BS_EngulfedEnchumberance.description>
+  <!-- EN: no enchumberance -->
+  <BS_EngulfedEnchumberance.stages.0.label>не отягощено</BS_EngulfedEnchumberance.stages.0.label>
+  <!-- EN: light enchumberance -->
+  <BS_EngulfedEnchumberance.stages.1.label>лёгкое отягощение</BS_EngulfedEnchumberance.stages.1.label>
+  <!-- EN: moderate enchumberance -->
+  <BS_EngulfedEnchumberance.stages.2.label>среднее отягощение</BS_EngulfedEnchumberance.stages.2.label>
+  <!-- EN: severe enchumberance -->
+  <BS_EngulfedEnchumberance.stages.3.label>серьёзное отягощение</BS_EngulfedEnchumberance.stages.3.label>
+  <!-- EN: over-encumbered -->
+  <BS_EngulfedEnchumberance.stages.4.label>перегруженность</BS_EngulfedEnchumberance.stages.4.label>
+  
+  <!-- EN: living furnace -->
+  <BS_HeatGenerator.label>живая печь</BS_HeatGenerator.label>
+  <!-- EN: This creature is generating a large amount of heat.\n\nComparable to two heaters at full power. Somewhat scales based on BodySize. -->
+  <BS_HeatGenerator.description>Это существо выделяет большое количество тепла.\n\nСравнимо с двумя обогревателями, работающими на полную мощность. Степень нагрева немного масштабируется в соответствии с размером тела.</BS_HeatGenerator.description>
+  
+  <!-- EN: cryo-generator -->
+  <BS_ColdGenerator.label>криогенератор</BS_ColdGenerator.label>
+  <!-- EN: This creature is greatly cooling down their surroundings.\n\nComparable to two coolers at full power. Somewhat scales based on BodySize. -->
+  <BS_ColdGenerator.description>Это существо сильно охлаждает окружающее пространство.\n\nСравнимо с двумя кондиционерами, работающими на полную мощность. Степень охлаждения немного масштабируется в соответствии с размером тела.</BS_ColdGenerator.description>
+</LanguageData>

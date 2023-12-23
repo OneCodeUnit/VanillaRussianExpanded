@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: pilotable robot -->
+  <BATR_Piloted.label>пилотируемый робот</BATR_Piloted.label>
+  <!-- EN: This robot has had its core-assitant overriden to make use of a pilot to function. -->
+  <BATR_Piloted.description>Слот помощника этого робота был деактивирован для того чтобы он управлялся пилотом.</BATR_Piloted.description>
+  <!-- EN: pilot missing -->
+  <BATR_Piloted.stages.0.label>пилот отсутствует</BATR_Piloted.stages.0.label>
+  <!-- EN: pilot present -->
+  <BATR_Piloted.stages.1.label>пилот присутствует</BATR_Piloted.stages.1.label>
+
+  <!-- EN: operator assisted -->
+  <BATR_OperatorAssisted.label>помощь оператора</BATR_OperatorAssisted.label>
+  <!-- EN: This robot has had its core-assitant overriden to make use of a operator to function better than normal. -->
+  <BATR_OperatorAssisted.description>Слот помощника этого робота был деактивирован для того чтобы он управлялся оператором, тем самым повысив его эффективность.</BATR_OperatorAssisted.description>
+  <!-- EN: pilot missing -->
+  <BATR_OperatorAssisted.stages.0.label>оператор отсутствует</BATR_OperatorAssisted.stages.0.label>
+  <!-- EN: pilot present -->
+  <BATR_OperatorAssisted.stages.1.label>оператор присутствует</BATR_OperatorAssisted.stages.1.label>
+</LanguageData>
