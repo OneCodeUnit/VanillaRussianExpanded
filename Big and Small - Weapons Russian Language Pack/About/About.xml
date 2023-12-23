@@ -1,0 +1,19 @@
+﻿<ModMetaData>
+  <name>Big and Small - Weapons Russian Language Pack</name>
+  <author>Olive Wizard</author>
+  <packageId>OW.RU.BigWeapons</packageId>
+  <supportedVersions>
+	<li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+	<li>
+		<packageId>RedMattis.BigWeapons</packageId>
+		<displayName>Big and Small - Weapons</displayName>
+		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3105907309</steamWorkshopUrl>
+	</li>
+  </modDependencies>
+  <loadAfter>
+	<li>RedMattis.BigWeapons</li>
+  </loadAfter>
+  <description>Перевод на русский язык мода Big and Small - Weapons.</description>
+</ModMetaData>
