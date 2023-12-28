@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Hwacha -->
+  <AV_Hwacha.label>хвачха</AV_Hwacha.label>
+  <!-- EN: A primitive type of artillery designed to fire multiple rocket-powered iron-tipped arrows at once. The Hwacha consists of a wooden frame with a series of iron tubes mounted on top, which can hold up to 200 arrows. When fired, the Hwacha creates a very inaccurate barrage of projectiles that can inflict significant damage to enemy fortifications and troops.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n\n&lt;color=#bb8f04&gt;Human-powered:&lt;/color&gt; Driver will get 50% more tired and hungry while driving this vehicle. -->
+  <AV_Hwacha.description>Примитивный вид артиллерии, предназначенный для одновременной стрельбы пучком стрел с железными наконечниками. Хвачха представляет собой деревянную конструкцию с рядом железных труб, вмещающих до 200 стрел. При выстреле создаётся мощный, но неточный, шквал стрел, способный нанести значительный урон вражеским укреплениям и войскам.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Оператор x1\n\n&lt;color=#bb8f04&gt;На человеческой тяге:&lt;/color&gt; Во время управления этим транспортом оператор будет уставать и испытывать голод на 50% быстрее.</AV_Hwacha.description>
+  <!-- EN: Arrow Barrage -->
+  <AV_Hwacha.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Пучок стрел</AV_Hwacha.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+
+  <!-- EN: Operator -->
+  <AV_Hwacha.properties.roles.0.label>Оператор</AV_Hwacha.properties.roles.0.label>
+
+  <!-- EN: Left Wheel -->
+  <AV_Hwacha.components.0.label>Левое колесо</AV_Hwacha.components.0.label>
+  <!-- EN: Right Wheel -->
+  <AV_Hwacha.components.1.label>Правое колесо</AV_Hwacha.components.1.label>
+  <!-- EN: Wooden Structure -->
+  <AV_Hwacha.components.2.label>Деревянный корпус</AV_Hwacha.components.2.label>
+  <!-- EN: Handles -->
+  <AV_Hwacha.components.3.label>Жерди</AV_Hwacha.components.3.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Balloon -->
+  <AV_Balloon.label>воздушный шар</AV_Balloon.label>
+  <!-- EN: A lighter-than-air aircraft consisting of a bag, called an envelope, which contains heated air. Suspended beneath is a wicker basket which carries passengers and a source of heat.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Wood\n\n&lt;color=#bb8f04&gt;Pedantry PSA:&lt;/color&gt; I know hot air balloons don't use ballast. I don't care, it looks cool. Plus this one uses hot Helixien gas instead of air, and since I made it up I make up the rules too! -->
+  <AV_Balloon.description>Летательный аппарат, использующий для полёта газ, более лёгкий, чем воздух. Состоит из заполненной газом оболочки и прикреплённой к ней корзины для горелки, пилота и пассажиров.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Оператор x1, Пассажир x1\n&lt;color=#bb8f04&gt;Тип топлива:&lt;/color&gt; Древесина</AV_Balloon.description>
+  <!-- EN: Operator -->
+  <AV_Balloon.properties.roles.0.label>Оператор</AV_Balloon.properties.roles.0.label>
+  <!-- EN: Passenger -->
+  <AV_Balloon.properties.roles.1.label>Пассажир</AV_Balloon.properties.roles.1.label>
+  <!-- EN: Envelope -->
+  <AV_Balloon.components.0.label>Оболочка</AV_Balloon.components.0.label>
+  <!-- EN: Gondola -->
+  <AV_Balloon.components.1.label>Гондола</AV_Balloon.components.1.label>
+</LanguageData>

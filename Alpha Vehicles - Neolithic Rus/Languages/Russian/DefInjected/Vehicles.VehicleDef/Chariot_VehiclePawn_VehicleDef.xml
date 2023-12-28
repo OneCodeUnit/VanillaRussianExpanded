@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Chariot -->
+  <AV_Chariot.label>колесница</AV_Chariot.label>
+  <!-- EN: A simple horse-driven cart that provides fast transportation. The chariot is outrageously bad for offroading, so you'll need some roads between your origin and your destination for it to be really effective.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Hay -->
+  <AV_Chariot.description>Простая повозка, запряжённая лошадью, обеспечивающая быстрое перемещение. Колесница крайне плохо приспособлена для езды по бездорожью, поэтому для максимальной эффективности потребуются дороги между местом отправления и назначения.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1\n&lt;color=#bb8f04&gt;Тип топлива:&lt;/color&gt; Сено</AV_Chariot.description>
+
+  <!-- EN: Driver -->
+  <AV_Chariot.properties.roles.0.label>Водитель</AV_Chariot.properties.roles.0.label>
+  <!-- EN: Left Wheel -->
+  <AV_Chariot.components.0.label>Левое колесо</AV_Chariot.components.0.label>
+  <!-- EN: Right Wheel -->
+  <AV_Chariot.components.1.label>Правое колесо</AV_Chariot.components.1.label>
+  <!-- EN: Wooden Structure -->
+  <AV_Chariot.components.2.label>Деревянный корпус</AV_Chariot.components.2.label>
+  <!-- EN: Horse -->
+  <AV_Chariot.components.3.label>Лошадь</AV_Chariot.components.3.label>
+</LanguageData>

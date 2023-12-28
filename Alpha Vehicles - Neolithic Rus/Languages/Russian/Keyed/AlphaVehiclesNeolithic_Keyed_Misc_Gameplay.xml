@@ -1,0 +1,72 @@
+﻿<LanguageData>
+  <!-- EN: Tier -->
+  <AV_VehicleTier>Уровень</AV_VehicleTier>
+  <!-- EN: Traction -->
+  <AV_Traction>Принцип работы</AV_Traction>
+  <!-- EN: Fuel consumption rate / capacity -->
+  <AV_FuelRate>Расход топлива / объём хранимого топлива</AV_FuelRate>
+  <!-- EN: Turret ammo -->
+  <AV_MainTurretAmmo>Боеприпасы</AV_MainTurretAmmo>
+
+
+  <!-- EN: Tier 0 -->
+  <AV_Tier0>Уровень 0</AV_Tier0>
+  <!-- EN: Tier 1 -->
+  <AV_Tier1>Уровень 1</AV_Tier1>
+  <!-- EN: Tier 2 -->
+  <AV_Tier2>Уровень 2</AV_Tier2>
+
+  <!-- EN: Human-powered -->
+  <AV_TractionHuman>На человеческой тяге</AV_TractionHuman>
+  <!-- EN: Animal-powered -->
+  <AV_TractionAnimal>Гужевой транспорт</AV_TractionAnimal>
+  <!-- EN: Combustion -->
+  <AV_TractionCombustion>Сгорание топлива</AV_TractionCombustion>
+
+  <!-- EN: 8 / 50 -->
+  <AV_Fuel8-50>8 / 50</AV_Fuel8-50>
+  <!-- EN: 5 / 100 -->
+  <AV_Fuel5-100>5 / 100</AV_Fuel5-100>
+  <!-- EN: 8 / 100 -->
+  <AV_Fuel8-100>8 / 100</AV_Fuel8-100>
+  <!-- EN: 10 / 250 -->
+  <AV_Fue10-250>10 / 250</AV_Fue10-250>
+  <!-- EN: 5 / 100 -->
+  <AV_Fue6-100>5 / 100</AV_Fue6-100>
+
+  <!-- EN: 75 wood -->
+  <AV_Wood75>75 ед. древесины</AV_Wood75>
+
+
+  <!-- EN: Tier 0 vehicles are the most basic and easiest to access. They don't require resources to be constructed, or research project to be researched, or both. -->
+  <AV_Tier0Desc>Транспортные средства нулевого уровня получить легче всего: для некоторых из них не нужны не только исследовательские проекты, но и даже ресурсы.</AV_Tier0Desc>
+  <!-- EN: Tier 1 vehicles require a basic research project and a low resource cost in order to be constructed. They are inefficient, not ideal, have a lot of drawbacks, but they are cheap and available early in the game. -->
+  <AV_Tier1Desc>Для строительства транспортных средств первого уровня необходим базовый исследовательский проект и немного простых материалов. Эти ТС неэффективны и имеют много недостатков, но зато дёшевы в производстве и доступны на ранних этапах игры.</AV_Tier1Desc>
+  <!-- EN: Tier 2 vehicles are locked behind more specialised research projects and require resources that are only available later in the game. Tier 2 is considered to be the 'baseline' of all vehicles. -->
+  <AV_Tier2Desc>Создание транспортных средств второго уровня требует исследования соответствующего проекта и наличия материалов, доступных на более поздних этапах игры. Этот уровень считается «стандартным» для всех ТС.</AV_Tier2Desc>
+
+  <!-- EN: Human-powered vehicles consume no fuel. There is however a price to pay: the driver of a human-powered vehicle will get 50% more tired and hungry while driving it. -->
+  <AV_TractionHumanDesc>Транспортные средства, приводимые в движение человеком, не потребляют топлива. Однако есть и недостаток: во время управления этим транспортом водитель или оператор будет уставать и испытывать голод на 50% быстрее.</AV_TractionHumanDesc>
+  <!-- EN: This vehicle is powered by animals. It will require no traditional fuel, but the animals need to be fed or they will refuse to move. The vehicle's animals will consume this food even when not in use. This is usually Hay or Kibble. Animals will not die if the "fuel" runs out because I'm not that cruel. -->
+  <AV_TractionAnimalDesc>Это транспортное средство приводится в движение животными. Оно не требует использования обычного топлива, однако запряжённых животных придётся кормить, иначе они не станут двигаться. Эти животные будут потреблять пищу, даже когда транспортное средство не используется. Как правило, в качестве пищи используется сено или комбикорм. Запряжённые животные в упряжи не умрут, если их «топливо» закончится, потому что автор этого мода не настолько жесток.</AV_TractionAnimalDesc>
+  <!-- EN: This vehicle is powered by the combustion of a flammable fuel, usually wood. -->
+  <AV_TractionCombustionDesc>Это транспортное средство приводится в движение за счёт сгорания легковоспламеняющегося топлива, как правило, древесины.</AV_TractionCombustionDesc>
+
+  <!-- EN: This vehicle can hold 50 units of wood, and its consumption rate is 8 -->
+  <AV_Fuel8-50Desc>Это транспортное средство вмещает 50 ед. древесины, а его расход равен 8.</AV_Fuel8-50Desc>
+  <!-- EN: This vehicle can hold 100 units of hay, and its consumption rate is 5. It consumes hay even when not in use. -->
+  <AV_Fuel5-100Desc>Это транспортное средство вмещает 100 ед. сена, а его расход равен 5. ТС потребляет сено, даже когда не используется.</AV_Fuel5-100Desc>
+  <!-- EN: This vehicle can hold 100 units of hay, and its consumption rate is 8. It consumes hay even when not in use. -->
+  <AV_Fuel8-100Desc>Это транспортное средство вмещает 100 ед. сена, а его расход равен 8. ТС потребляет сено, даже когда не используется.</AV_Fuel8-100Desc>
+  <!-- EN: This vehicle can hold 100 units of kibble, and its consumption rate is 5. It consumes kibble even when not in use. -->
+  <AV_Fuel5-100KibbleDesc>Это транспортное средство вмещает 100 ед. комбикорма, а его расход равен 5. ТС потребляет комбикорм, даже когда не используется.</AV_Fuel5-100KibbleDesc>
+  <!-- EN: This vehicle can hold 250 units of hay, and its consumption rate is 10. It consumes hay even when not in use. -->
+  <AV_Fue10-250Desc>Это транспортное средство вмещает 250 ед. сена, а его расход равен 10. ТС потребляет сено, даже когда не используется.</AV_Fue10-250Desc>
+  <!-- EN: This vehicle can hold 100 units of hay, and its consumption rate is 6. It consumes hay even when not in use. -->
+  <AV_Fue6-100Desc>Это транспортное средство вмещает 100 ед. сена, а его расход равен 6. ТС потребляет сено, даже когда не используется.</AV_Fue6-100Desc>
+
+  <!-- EN: This vehicle can carry 75 wood. Each salvo of explosive arrows uses 8 wood. -->
+  <AV_Wood75Desc>Это транспортное средство вмещает 75 ед. древесины. На каждый залп взрывными стрелами уходит 8 ед. древесины.</AV_Wood75Desc>
+  <!-- EN: This vehicle can carry 75 wood. Each arrow fired uses 1 wood. -->
+  <AV_Wood75SingleDesc>Это транспортное средство вмещает 75 ед. древесины. На каждую выпущенную стрелу уходит 1 ед. древесины.</AV_Wood75SingleDesc>
+</LanguageData>

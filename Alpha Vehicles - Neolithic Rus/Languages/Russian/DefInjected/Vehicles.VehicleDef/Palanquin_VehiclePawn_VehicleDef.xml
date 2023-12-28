@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Palanquin -->
+  <AV_Palanquin.label>паланкин</AV_Palanquin.label>
+  <!-- EN: A covered litter carried on poles on the shoulders of two bearers. A palanquin is not an efficient mode of transportation.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x2, Passenger x1\n\n&lt;color=#bb8f04&gt;Human-powered:&lt;/color&gt; Drivers will get 50% more tired and hungry while driving this vehicle. Passenger will be so much more comfortable that he'll get a bonus to his rest factor. -->
+  <AV_Palanquin.description>Крытая повозка на горизонтальных шестах, которую несут на плечах двое носильщиков. Паланкин не является эффективным средством передвижения.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Носильщик x2, Пассажир x1\n\n&lt;color=#bb8f04&gt;На человеческой тяге:&lt;/color&gt; Во время управления этим транспортом носильщики будут уставать и испытывать голод на 50% быстрее. Пассажиру же будет так комфортно, что он получит бонус к эффективности сна.</AV_Palanquin.description>
+
+  <!-- EN: Operator -->
+  <AV_Palanquin.properties.roles.0.label>Носильщик 1</AV_Palanquin.properties.roles.0.label>
+  <!-- EN: Operator -->
+  <AV_Palanquin.properties.roles.1.label>Носильщик 2</AV_Palanquin.properties.roles.1.label>
+  <!-- EN: Passenger -->
+  <AV_Palanquin.properties.roles.2.label>Пассажир</AV_Palanquin.properties.roles.2.label>
+  <!-- EN: Wooden Structure -->
+  <AV_Palanquin.components.0.label>Деревянный корпус</AV_Palanquin.components.0.label>
+  <!-- EN: Handles -->
+  <AV_Palanquin.components.1.label>Жерди</AV_Palanquin.components.1.label>
+</LanguageData>

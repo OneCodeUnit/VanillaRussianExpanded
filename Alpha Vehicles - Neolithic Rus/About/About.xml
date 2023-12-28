@@ -1,0 +1,19 @@
+﻿<ModMetaData>
+	<name>Alpha Vehicles - Neolithic Rus</name>
+	<author>Mewn Goddess</author>
+	<packageId>Mewn.Rus.alphavehiclesneolithic</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>sarg.alphavehiclesneolithic</packageId>
+			<displayName>Alpha Vehicles - Neolithic</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3028675048</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>sarg.alphavehiclesneolithic</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Alpha Vehicles - Neolithic.</description>
+</ModMetaData>

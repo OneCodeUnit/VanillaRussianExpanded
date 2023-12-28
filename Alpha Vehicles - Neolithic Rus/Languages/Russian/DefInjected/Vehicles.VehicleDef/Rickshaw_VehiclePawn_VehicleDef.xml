@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Rickshaw -->
+  <AV_Rickshaw.label>рикша</AV_Rickshaw.label>
+  <!-- EN: A mode of human-powered transport by which a runner draws a two-wheeled cart which seats another person. Not very comfortable, at least for one of them...\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n\n&lt;color=#bb8f04&gt;Human-powered:&lt;/color&gt; Driver will get 50% more tired and hungry while driving this vehicle. -->
+  <AV_Rickshaw.description>Рассчитанная на одного пассажира двухколёсная повозка, которую тянет за собой, взявшись за круглые жерди, человек. Не очень удобно, по крайней мере, для одного из них....\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Пассажир x1\n\n&lt;color=#bb8f04&gt;На человеческой тяге:&lt;/color&gt; Во время управления этим транспортом водитель будет уставать и испытывать голод на 50% быстрее.</AV_Rickshaw.description>
+
+  <!-- EN: Operator -->
+  <AV_Rickshaw.properties.roles.0.label>Оператор</AV_Rickshaw.properties.roles.0.label>
+  <!-- EN: Passenger -->
+  <AV_Rickshaw.properties.roles.1.label>Пассажир</AV_Rickshaw.properties.roles.1.label>
+  <!-- EN: Left Wheel -->
+  <AV_Rickshaw.components.0.label>Левое колесо</AV_Rickshaw.components.0.label>
+  <!-- EN: Right Wheel -->
+  <AV_Rickshaw.components.1.label>Правое колесо</AV_Rickshaw.components.1.label>
+  <!-- EN: Wooden Structure -->
+  <AV_Rickshaw.components.2.label>Деревянный корпус</AV_Rickshaw.components.2.label>
+  <!-- EN: Handles -->
+  <AV_Rickshaw.components.3.label>Жерди</AV_Rickshaw.components.3.label>
+</LanguageData>
