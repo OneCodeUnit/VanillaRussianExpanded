@@ -50,7 +50,7 @@
   <Outpost_Mercenary_Camp.label>лагерь наёмников</Outpost_Mercenary_Camp.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in providing mercenary services in exchange for silver. Once mission is over reward will be delivered at the outskirts of a faction's primary colony. -->
   <Outpost_Mercenary_Camp.description>Временный лагерь, управляемый автономно. Лагерь специализируется на предоставлении солдат за серебро. Когда поступит серебро за контракт, оно будет доставлено на край карты основного поселения.</Outpost_Mercenary_Camp.description>
-  <!-- EN: Risk lvl {0}-->
+  <!-- EN: Risk lvl {0} -->
   <Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>Уровень риска {0}</Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>
   <!-- EN: Choose risk lvl for next mission -->
   <Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>Выбрать уровень риска для следующего контракта</Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>
@@ -61,6 +61,25 @@
   <Outpost_Prison.description>Временный лагерь, управляемый автономно. Лагерь специализируется на содержании пленников и их перевоспитании. Может зарабатывать деньги за содержание пленников других фракций. Пленники из вашего поселения могут быть отправлены на принудительные работы, завербованы или обращены в рабство. Когда тюрьма соберёт достаточное количество серебра, оно будет доставлено на край карты основного поселения.</Outpost_Prison.description>
   <!-- EN: Choose what to do with prisoners -->
   <Outpost_Prison.modExtensions.0.ChooseDesc>Выбрать, что делать с пленниками</Outpost_Prison.modExtensions.0.ChooseDesc>
+
+  <!-- EN: ranch -->
+  <Outpost_Ranch.label>ранчо</Outpost_Ranch.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in livestock handling and gathering their products. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Ranch.description>Временный лагерь, управляемый автономно. Лагерь специализируется на животноводстве. Когда ранчо соберёт достаточное количество продуктов, они будут доставлены на край карты основного поселения.</Outpost_Ranch.description>
+  <!-- EN: Add animal -->
+  <Outpost_Ranch.modExtensions.0.ChooseLabel>Добавить животное</Outpost_Ranch.modExtensions.0.ChooseLabel>
+  <!-- EN: Transfer an animal to a ranch for permament handling -->
+  <Outpost_Ranch.modExtensions.0.ChooseDesc>Перенести животное на ранчо для постоянного содержания</Outpost_Ranch.modExtensions.0.ChooseDesc>
+
+  <!-- EN: educational center -->
+  <Outpost_Educational_Center.label>образовательный центр</Outpost_Educational_Center.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in student education. Requires teachers of different specialties. -->
+  <Outpost_Educational_Center.description>Временный лагерь, управляемый автономно. Лагерь специализируется на обучении. Требует учителей, владеющих различными навыками.</Outpost_Educational_Center.description>
+
+  <!-- EN: bank -->
+  <Outpost_Bank.label>банк</Outpost_Bank.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in providing customers with a convenient and safe environment for their financial transactions. Require initial deposit of silver or gold. Get payment in silver or gold for providing loans to other factions, transactions tax and safekeeping of their valuables. Once an ample amount of interest is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Bank.description>Временный лагерь, управляемый автономно. Лагерь специализируется на предоставление посетителям удобной и безопасной среды для их финансовых операций. Для начала работы требуется стартовый капитал в виде серебра или золота. Получайте оплату серебром или золотом за предоставление займов другим фракциям, процент на транзакции или хранение ценностей. Когда банк соберёт достаточное количество денег, они будут доставлены на край карты основного поселения.</Outpost_Bank.description>
 
   <!-- EN: church -->
   <Outpost_Church.label>церковь</Outpost_Church.label>
