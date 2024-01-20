@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Angel's Grace -->
-	<GS_Grace.label>Благоволение ангела</GS_Grace.label>
+  <!-- EN: Grace -->
+  <GracePack.label>Благодать</GracePack.label>
   <!-- EN: A small bottle containing the mist-like substance resultant from refining powderized hollilly. When ingested, it grants the user a brief state of absolute tranquility and heightened perception, making the world seem crystal clear, and any task effortless. -->
-	<GS_Grace.description>Бутылочка с густым туманом субстанции, полученной из очищенного порошка райской лилии. При вдыхании этой субстанции возникает кратковременное состояние абсолютного спокойствия, а все органы чувств обостряются, благодаря чему мир кажется совершенно понятным, а любые задачи простыми.</GS_Grace.description>
+  <!-- EN: A glitterworld substance synthesized through fusion of uranium and a mysterious organic compound. Pawns with a compatible genetic makeup can make use of grace as fuel for unique abilities utilizing its extroardinary properties. Most widely used by Glitterworld Megachurches to perform "miracles", Grace stands as the foundation of their power. -->
+  <GracePack.description>Вещество из утопического мира синтезированное путём слияния урана и таинственного органического соединения. Генетические совместимые существа могут использовать экстраординарные свойства этого вещества для своих мощных способностей. Благодать наиболее широко используется мегацерквями утопических миров для демонстрации религиозных «чудес».</GracePack.description>
   <!-- EN: Inhale {0} -->
-	<GS_Grace.ingestible.ingestCommandString>Вдыхать {lookup: {0}; Case; 3}</GS_Grace.ingestible.ingestCommandString>
+  <GracePack.ingestible.ingestCommandString>Вдыхать {lookup: {0}; Case; 3}</GracePack.ingestible.ingestCommandString>
   <!-- EN: Inhaling {0}. -->
-	<GS_Grace.ingestible.ingestReportString>Вдыхает {lookup: {0}; Case; 3}</GS_Grace.ingestible.ingestReportString>
+  <GracePack.ingestible.ingestReportString>Вдыхает {lookup: {0}; Case; 3}</GracePack.ingestible.ingestReportString>
 </LanguageData>

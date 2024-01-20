@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: grace -->
+  <Grace>благодать</Grace>
+  <!-- EN: Grace is the energy angelic beings use both to survive and use their abilities. -->
+  <GraceDesc>Благодать — это энергия, которую ангельские существа используют как для выживания, так и для использования своих способностей.</GraceDesc>
+
+  <!-- EN: Grace packs disabled by food restriction. -->
+  <NotAllowedGrace>Благодать запрещена диетой.</NotAllowedGrace>
+  <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest grace packs when {PAWN_possessive} grace is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
+  <AutoTakeGraceDesc>Настройка определяет будет ли {PAWN_nameDef} автоматически принимать благодать, её уровень будет ниже {MIN}.\n\nАвтоматический приём в данный момент {ONOFF}.</AutoTakeGraceDesc>
+  <!-- EN: Consume grace below -->
+  <ConsumeGraceBelow>Использовать благодать, когда она ниже</ConsumeGraceBelow>
+  <!-- EN: Never consume grace. -->
+  <NeverConsumeGrace>Никогда не использовать благодать.</NeverConsumeGrace>
+
+  <!-- EN: Low grace -->
+  <AlertLowGrace>Низкая благодать</AlertLowGrace>
+  <!-- EN: A colonist has low grace. -->
+  <AlertLowGraceDesc>У поселенца низкая благодать.</AlertLowGraceDesc>
+
+  <!-- EN: {0_labelShort} is not capable of using grace. -->
+  <AbilityDisabledNoGraceGene>{0_labelShort} не может использовать благодать.</AbilityDisabledNoGraceGene>
+  <!-- EN: {0_labelShort} does not have enough grace. -->
+  <AbilityDisabledNoGrace>{0_labelShort} не имеет достаточно благодати.</AbilityDisabledNoGrace>
+  <!-- EN: Grace cost -->
+  <AbilityGraceCost>Расход благодати</AbilityGraceCost>
+  <!-- EN: Base grace gain -->
+  <AbilityGraceGain>Базовая выработка благодати</AbilityGraceGain>
+</LanguageData>

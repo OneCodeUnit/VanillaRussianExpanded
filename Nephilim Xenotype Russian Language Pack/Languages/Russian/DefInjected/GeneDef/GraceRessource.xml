@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: grace -->
+  <Grace.label>благодатность</Grace.label>
+  <!-- EN: Carriers lose 2 divnity per day from biological entropy. -->
+  <Grace.description>Носители этого гена ежедневно теряют 2 единицы благодати из-за биологической нестабильности.</Grace.description>
+  <!-- EN: Gives grace supply. -->
+  <Grace.customEffectDescriptions.0>Имеет запас благодати.</Grace.customEffectDescriptions.0>
+  <!-- EN: A reserve of holy strength which can be gained and spent in a variety of ways.\n\nGrace is gained by performing nice actions like saving people. Or mean actions like killing people who have Grace packs. Your choice. -->
+  <Grace.resourceDescription>Запас божественной энергии, который можно восполнять разными путями и расходовать множеством способов.\n\nБлагодать можно получить совершая добрые дела, такие как спасение людей. Или просто убивая тех, у кого есть запас благодати в контейнерах. Выбор за вами.</Grace.resourceDescription>
+  <!-- EN: grace -->
+  <Grace.resourceLabel>благодать</Grace.resourceLabel>
+  <!-- EN: gra -->
+  <Grace.symbolPack.prefixSymbols.0.symbol>благо</Grace.symbolPack.prefixSymbols.0.symbol>
+
+  <!-- EN: grace drain -->
+  <GraceDrain.label>потеря благодати</GraceDrain.label>
+  <!-- EN: Carriers lose an additional 8 grace per day from biological entropy. -->
+  <GraceDrain.description>Носители этого гена ежедневно теряют дополнительные 8 единиц благодати из-за биологической нестабильности.</GraceDrain.description>
+  <!-- EN: draining -->
+  <GraceDrain.labelShortAdj>потеря</GraceDrain.labelShortAdj>
+  <!-- EN: grace -->
+  <GraceDrain.resourceLabel>благодать</GraceDrain.resourceLabel>
+
+  <!-- EN: grace regeneration -->
+  <GraceRegeneration.label>восстановление благодати</GraceRegeneration.label>
+  <!-- EN: Carriers gain 8 grace per day from biological entropy. -->
+  <GraceRegeneration.description>Носители этого гена ежедневно получают дополнительные 8 единиц благодати из-за биологической нестабильности.</GraceRegeneration.description>
+  <!-- EN: regenerating -->
+  <GraceRegeneration.labelShortAdj>восстановление</GraceRegeneration.labelShortAdj>
+  <!-- EN: grace -->
+  <GraceRegeneration.resourceLabel>благодать</GraceRegeneration.resourceLabel>
+</LanguageData>
