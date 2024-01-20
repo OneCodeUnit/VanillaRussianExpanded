@@ -28,6 +28,8 @@
 	<VGE_StatsReport_ColonyMap>в поселении</VGE_StatsReport_ColonyMap>
   <!-- EN: outside colony map -->
 	<VGE_StatsReport_OutsideColonyMap>за пределами поселения</VGE_StatsReport_OutsideColonyMap>
+  <!-- EN: light sensitivity -->
+  <VGE_StatsReport_AnyLightSensitivity>светочувствительность</VGE_StatsReport_AnyLightSensitivity>
   
   <!-- EN: {0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid. -->
   <VGE_EggPregnancy>Яйца {0} оплодотворены! Кладка яиц продолжится и после оплодотворения яйца.</VGE_EggPregnancy>
@@ -49,4 +51,7 @@
 
   <!-- EN: Pregnancy factor gene: {0} gestation speed -->
   <VGE_PregnancyFactor>Влияние на беременность: {0} скорости гестации</VGE_PregnancyFactor>
+
+  <!-- EN: {0} only gene. -->
+  <VGE_ForGenderOnly>Только ген «{0}».</VGE_ForGenderOnly>
 </LanguageData>
