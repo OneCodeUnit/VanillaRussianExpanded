@@ -5,6 +5,11 @@
   <!-- EN: A quantum computing array, designed to store cortical stacks and make backups of them that can be restored if needed. Cortical stacks can be duplicated, when placed inside the array. Backups are synced between arrays, allowing for multiple ones to be built. \n\nStack Arrays will make an automatic backup of any colony cortical stacks that are installed on the local map every 24 hours. Backups are restored to empty cortical stacks if the original stack is destroyed. -->
   <AC_StackArray.description>Квантоваяя матрица хранения специально разработана для хранения кортикальных стэков, их копирования и создания резервных копий, которые можно при необходимости восстановить. Резервные копии синхронизируются между несколькими матрицами, позволяя создавать неограниченное число копий.\n\nКаждые 24 часа квантовые матрицы хранения автоматически создают резервные копии всех кортикальных стэков поселенцев, находящихся на карте. Если оригинальный стэк был уничтожен, то резервная копия восстановится в пустой стэк.</AC_StackArray.description>
   
+  <!-- EN: decryption bench -->
+  <VFEU_DecryptionBench.label>стол дешифровщика</VFEU_DecryptionBench.label>
+  <!-- EN: A sophisticated workbench that allows the user to connect to cortical stacks in order to alter the contained information, such as changing allegiance, or even wipe them clean. Can also strip the biocoding from items.\n\nAs the process is quite aggressive, there is a risk of the decryption process destroying the item. -->
+  <VFEU_DecryptionBench.description>Стол с продвинутыми инструментами для взлома ультратехнологичных вещей, а также для подключения к кортикальному стэку с целью модификации хранящейся на нём информации, вплоть до полного стирания.\n\nПоскольку выполняемые на нём действия довольно агрессивны, существует риск того, что в процессе предмет может быть уничтожен.</VFEU_DecryptionBench.description>
+  
   <!-- EN: gene centrifuge -->
   <AC_GeneCentrifuge.label>генная центрифуга</AC_GeneCentrifuge.label>
   <!-- EN: A complex centrifugal system capable of separating desirable genetic elements by exploiting minute molecular differences. In effect, this building can separate a desired gene from the rest of a genepack. After the process, two gene packs will be spawned, with the selected gene in one and the remaining genes in the other. -->

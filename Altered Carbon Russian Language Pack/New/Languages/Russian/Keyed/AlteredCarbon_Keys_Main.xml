@@ -235,6 +235,8 @@
   <AC.CancelRepurposingCorpseDesc>Отменить преобразование трупа в пустую оболочку.</AC.CancelRepurposingCorpseDesc>
   <!-- EN: Cortical stack must be removed first. -->
   <AC.CorticalStackMustBeRemovedFirst>Сначала необходимо извлечь кортикальный стэк.</AC.CorticalStackMustBeRemovedFirst>
+  <!-- EN: Cannot repurpose corpse with missing head. -->
+  <AC.CannotRepurposeCorspeWithoutHead>Невозможно преобразовать труп без головы.</AC.CannotRepurposeCorspeWithoutHead>
   <!-- EN: Saved Sleeve Design could not be fully loaded. Missing required xenogerm! -->
   <AC.SleeveDesignCouldntBeFullyLoaded>Сохранённый дизайн оболочки не может быть полностью загружен. Отсутствует необходимое ксеносемя!</AC.SleeveDesignCouldntBeFullyLoaded>
   <!-- EN: A {PAWN_nameDef} body couldn't be copied fully. The following xenogenes were skipped: {1} -->
@@ -547,4 +549,31 @@
   <AC.EnableArchostackRewriting>Включить перезапись архостэков</AC.EnableArchostackRewriting>
   <!-- EN: Allows you to edit the content of Archo Stacks. -->
   <AC.EnableArchostackRewritingDesc>Позволяет редактировать содержимое архостэков.</AC.EnableArchostackRewritingDesc>
+  
+  <!-- EN: Colonist stack needs extracting. -->
+  <AC.ColonistStackNeedsExtracting>Необходимо извлечь стэк поселенца</AC.ColonistStackNeedsExtracting>
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <AC.ColonistStackNeedsExtractingDesc>Эти поселенцы сражены и лежат на земле:\n\n{0}\nПошлите другого поселенца, чтобы спасти их и оттащить в кровати.\n\n(Для спасения выберите другого поселенца, затем щёлкните правой кнопкой мыши на пострадавшем и выберите «Спасти».)</AC.ColonistStackNeedsExtractingDesc>
+  <!-- EN: Sleeve death doesn't cause gear to be tainted -->
+  <AC.SleeveDeathDoesNotCauseGearTainting>В случае смерти оболочки одежда не будет считаться «грязной»</AC.SleeveDeathDoesNotCauseGearTainting>
+  
+    <!-- ================================ Warnings ====================== -->
+  <!-- EN: Cannot install stacks into androids without a cortical module. -->
+  <AC.CannotInstallStackOnAndroidWithoutCorticalModule>Невозможно установить стэк в андроида без подпрограммы «кортикальный модуль».</AC.CannotInstallStackOnAndroidWithoutCorticalModule>
+  <!-- EN: Cannot install an empty stack into an empty sleeve. -->
+  <AC.CannotInstallEmptyStackInEmptySleeve>Невозможно установить пустой стэк в пустую оболочку.</AC.CannotInstallEmptyStackInEmptySleeve>
+  <!-- EN: Cannot install stacks into this race: {0}. -->
+  <AC.CannotInstallStackInBodyOfThisRace>Невозможно установить стэк в персонажа этой расы: {0}.</AC.CannotInstallStackInBodyOfThisRace>
+  <!-- EN: Cannot install stacks into non-humanlikes. -->
+  <AC.CannotInstallStackInNonHumanlikes>Невозможно установить стэк в не человекоподобного персонажа.</AC.CannotInstallStackInNonHumanlikes>
+  <!-- EN: Cannot install a filled stack into children. -->
+  <AC.CannotInstallFilledStackInChildren>Невозможно установить заполненный стэк в ребёнка.</AC.CannotInstallFilledStackInChildren>
+  <!-- EN: Cannot install stack: Already has a stack installed. -->
+  <AC.CannotInstallAlreadyHaveStack>Невозможно установить стэк: в этом теле уже есть стэк.</AC.CannotInstallAlreadyHaveStack>
+  <!-- EN: Detonate -->
+  <AC.Detonate>Взорвать</AC.Detonate>
+  <!-- EN: Trigger the installed cortex overseer to explode and kill the person it is installed in. -->
+  <AC.DetonateDesc>Дистанционно привести в действие взрывчатку, находящуюся в кортикальном надзирателе, для мгновенного убийства человека, в которого он установлен.</AC.DetonateDesc>
+  <!-- EN: deactivated -->
+  <AC.Deactivated>деактивирован</AC.Deactivated>
 </LanguageData>

@@ -34,4 +34,11 @@
   <AC_RewriteFilledCorticalStack.description>Переписать кортикальный стэк.</AC_RewriteFilledCorticalStack.description>
   <!-- EN: rewriting cortical stack. -->
   <AC_RewriteFilledCorticalStack.jobString>Переписывает стэк</AC_RewriteFilledCorticalStack.jobString>
+  
+  <!-- EN: hack biocoded things -->
+  <AC_HackBiocodedThings.label>взломать биокодированное снаряжение</AC_HackBiocodedThings.label>
+  <!-- EN: Attempt to hack and remove biocoding from weapons and equipment to make them usable. If unsuccessful, the item will break. -->
+  <AC_HackBiocodedThings.description>Попробовать удалить защиту биокодированием с оружия или снаряжения. Если не получится, оно будет уничтожено.</AC_HackBiocodedThings.description>
+  <!-- EN: hacking biocoded things. -->
+  <AC_HackBiocodedThings.jobString>Взламывает биокодированное снаряжение</AC_HackBiocodedThings.jobString>
 </LanguageData>
