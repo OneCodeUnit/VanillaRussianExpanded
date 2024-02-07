@@ -114,7 +114,7 @@
 	<!-- EN: Subcore polyanalyzer completed for {PAWN_nameDef}. Scan progres: {1} -->
 	<VREA.MessageSubcorePolyanalyzerCompleted>Полианализатор субъядер завершил сканирование {PAWN_nameDef}. Общий прогресс: {1}</VREA.MessageSubcorePolyanalyzerCompleted>
 	<!-- EN: {PAWN_nameDef} has already been scanned. -->
-	<VREA.AlreadyScanned>{PAWN_nameDef} уже {1_gender ? был просканирован : была просканирована}.</VREA.AlreadyScanned>
+	<VREA.AlreadyScanned>{PAWN_nameDef} уже {PAWN_gender ? был просканирован : была просканирована}.</VREA.AlreadyScanned>
 	<!-- EN: Subcore polyanalyzer not initiated -->
 	<VREA.SubcorePolyanalyzerNotInit>Полианализатор субъядер не запущен</VREA.SubcorePolyanalyzerNotInit>
 	<!-- EN: Start subcore polyanalyzer -->
