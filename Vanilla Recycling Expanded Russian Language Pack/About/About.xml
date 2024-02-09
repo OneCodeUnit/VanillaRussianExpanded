@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Recycling Expanded Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>OW.RU.Recycling</packageId>
+  <description>Перевод на русский язык мода Vanilla Recycling Expanded. Подробности на странице в мастерской.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.Recycling</packageId>
+      <displayName>Vanilla Recycling Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3155781848</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.Recycling</li>
+  </loadAfter>
+</ModMetaData>
