@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: extra meat -->
+  <VRE_ExtraMeat.label>много мяса</VRE_ExtraMeat.label>
+  <!-- EN: Carriers of this gene have much more dense meat and fat tissue, resulting in greater meat yield when butchered. -->
+  <VRE_ExtraMeat.description>Тело носителей этого гена отличается гораздо большим количеством мышечной и жировой ткани, что приводит к получению значительно большего количества мяса при разделке.</VRE_ExtraMeat.description>
+  
+  <!-- EN: low meat -->
+  <VRE_LowMeat.label>мало мяса</VRE_LowMeat.label>
+  <!-- EN: Carriers of this gene have very thin meat and fat tissue, resulting in much smaller meat yield when butchered. -->
+  <VRE_LowMeat.description>Тело носителей этого гена отличается крайне малым количеством мышечной и жировой ткани, что приводит к значительному уменьшению получаемого количества мяса при разделке.</VRE_LowMeat.description>
+  
+  <!-- EN: organ regeneration -->
+  <VRE_OrganRegeneration.label>регенерация органов</VRE_OrganRegeneration.label>
+  <!-- EN: A random organ wound is reduced by 1 severity every 6-15 days. If the organ has been destroyed it will be restored with 1 hit point. -->
+  <VRE_OrganRegeneration.customEffectDescriptions.0>Степень тяжести ранения случайного органа уменьшается на 1 стадию каждые 6-15 дней. Если орган был полностью уничтожен, то он будет восстановлен с 1 ед. здоровья.</VRE_OrganRegeneration.customEffectDescriptions.0>
+  <!-- EN: This will affect damage to the brain, stomach, kidneys, lungs, liver and heart. -->
+  <VRE_OrganRegeneration.customEffectDescriptions.1>Этот эффект влияет на повреждения мозга, желудка, почек, лёгких, печени и сердца.</VRE_OrganRegeneration.customEffectDescriptions.1>
+  <!-- EN: Carriers of this gene have improved regenerating factors in their DNA, allowing them to slowly regenerate organs that may even be completely missing. The process is slow, and will prioritize healing existing, but damaged, organs. -->
+  <VRE_OrganRegeneration.description>Носители этого гена отличаются способностью медленно восстанавливать внутренние органы или даже выращивать их заново при их полном уничтожении. Этот процесс идёт медленно, и в первую очередь восстанавливаются уже имеющиеся, но повреждённые органы.</VRE_OrganRegeneration.description>
+</LanguageData>
