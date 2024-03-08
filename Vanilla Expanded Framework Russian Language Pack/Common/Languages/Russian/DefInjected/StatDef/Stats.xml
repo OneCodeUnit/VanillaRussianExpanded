@@ -86,4 +86,37 @@
   <VEF_RangeAttackDamageFactor.label>множ. урона в дальнем</VEF_RangeAttackDamageFactor.label>
   <!-- EN: A multiplier on range attack damage. -->
   <VEF_RangeAttackDamageFactor.description>Множитель урона в дальнем бою.</VEF_RangeAttackDamageFactor.description>
+
+  <!-- EN: body food capacity multiplier -->
+  <VEF_FoodCapacityMultiplier.label>множ. вместимости желудка тела</VEF_FoodCapacityMultiplier.label>
+  <!-- EN: Increases the size of the pawn's hunger bar. This does not affect hunger. -->
+  <VEF_FoodCapacityMultiplier.description>Увеличивает размер желудка персонажа в зависимости от данного тела. Не влияет на голод.</VEF_FoodCapacityMultiplier.description>
+
+  <!-- EN: body size offset -->
+  <VEF_BodySize_Offset.label>сдвиг размера тела</VEF_BodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size. -->
+  <VEF_BodySize_Offset.description>Увеличивает размер тела персонажа относительно данного значения.</VEF_BodySize_Offset.description>
+
+  <!-- EN: body size multiplier -->
+  <VEF_BodySize_Multiplier.label>множ. размера тела</VEF_BodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size. -->
+  <VEF_BodySize_Multiplier.description>Увеличивает размер тела персонажа на данное значение.</VEF_BodySize_Multiplier.description>
+
+  <!-- EN: cosmetic body size offset -->
+  <VEF_CosmeticBodySize_Offset.label>сдвиг размера тела (косм.)</VEF_CosmeticBodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size. -->
+  <VEF_CosmeticBodySize_Offset.description>Увеличивает размер тела персонажа относительно данного значения.</VEF_CosmeticBodySize_Offset.description>
+
+  <!-- EN: cosmetic body size multiplier -->
+  <VEF_CosmeticBodySize_Multiplier.label>множ. размера тела (косм.)</VEF_CosmeticBodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size. -->
+  <VEF_CosmeticBodySize_Multiplier.description>Увеличивает размер тела персонажа на данное значение.</VEF_CosmeticBodySize_Multiplier.description>
+
+  <!-- EN: head size multiplier -->
+  <VEF_HeadSize_Cosmetic.label>множ. размера головы</VEF_HeadSize_Cosmetic.label>
+
+  <!-- EN: pawn render offset -->
+  <VEF_PawnRenderPosOffset.label>сдвиг отображения персонажей</VEF_PawnRenderPosOffset.label>
+  <!-- EN: Modifies the pawn's rendered position in y-axis. -->
+  <VEF_PawnRenderPosOffset.description>Изменяет позицию персонажа по оси y.</VEF_PawnRenderPosOffset.description>
 </LanguageData>
