@@ -67,7 +67,7 @@
     <li>alienistProphecy(tag=tag=meme_Aristocratic)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</li>
   -->
   <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Aristocratic)        ->[божество0_имя] увидело, что некоторые из [memberNamePlural] более пригодны для правления, чем другие, и обратилось к ним: "Почему вы относитесь ко всем одинаково? Некоторые из вас рождены быть правителями, а другие рождены, чтобы ими управляли".</li>
+    <li>creation(tag=meme_Aristocratic)        ->[deity0_name] увидело, что некоторые из [memberNamePlural] более пригодны для правления, чем другие, и обратилось к ним: "Почему вы относитесь ко всем одинаково? Некоторые из вас рождены быть правителями, а другие рождены, чтобы ими управляли".</li>
     <li>episode(uses=1,tag=meme_Aristocratic)  ->[deity0_name] сказал всем [memberNamePlural]: "Почитайте своих лидеров и обращайтесь с ними, как с моими посланниками в мире смертных, ибо они больше, чем простые люди".</li>
 
     <li>intro(tag=meme_Aristocratic)           ->[memberNamePlural] построили величественный [altarName] на [place_summary] [place_name], монумент, показывающий славу [deity0_name].</li>
