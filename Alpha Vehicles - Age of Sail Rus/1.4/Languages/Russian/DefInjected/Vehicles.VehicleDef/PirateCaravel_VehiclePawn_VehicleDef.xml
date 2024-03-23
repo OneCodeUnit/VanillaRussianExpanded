@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Pirate caravel -->
+  <AV_PirateCaravel.label>Пиратская каравелла</AV_PirateCaravel.label>
+  <!-- EN: A caravel is a small, fast, and versatile sailing ship known for its narrow hull, multiple masts, and combination of square and lateen sails. It was widely used for exploration, trade, and naval activities during the Age of Discovery. This caravel has been modified to act as a fast moving warship.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Helmsman x1, Gunner x1, Passenger x2 -->
+  <AV_PirateCaravel.description>Небольшое, лёгкое и быстроходное парусное судно с высокими бортами и несколькими мачтами с прямыми и косыми латинскими парусами. Отлично подходящее для длительных путешествий, это судно использовалось не только в военных целях, но так же и для торговли и исследовательских миссий.\nЭта каравелла была модифицирована для использования в качестве быстроходного военного корабля.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Рулевой x1, Канонир x1, Пассажир x2</AV_PirateCaravel.description>
+  <!-- EN: Helmsman -->
+  <AV_PirateCaravel.properties.roles.0.label>Рулевой</AV_PirateCaravel.properties.roles.0.label>
+  <!-- EN: Gunner -->
+  <AV_PirateCaravel.properties.roles.1.label>Канонир</AV_PirateCaravel.properties.roles.1.label>
+  <!-- EN: Passenger -->
+  <AV_PirateCaravel.properties.roles.2.label>Пассажир</AV_PirateCaravel.properties.roles.2.label>
+  <!-- EN: Mizzen -->
+  <AV_PirateCaravel.components.0.label>Бизань-мачта</AV_PirateCaravel.components.0.label>
+  <!-- EN: Main mast -->
+  <AV_PirateCaravel.components.1.label>Грот-мачта</AV_PirateCaravel.components.1.label>
+  <!-- EN: Foremast -->
+  <AV_PirateCaravel.components.2.label>Фок-мачта</AV_PirateCaravel.components.2.label>
+  <!-- EN: Castle -->
+  <AV_PirateCaravel.components.3.label>Ют</AV_PirateCaravel.components.3.label>
+  <!-- EN: Forecastle -->
+  <AV_PirateCaravel.components.4.label>Полубак</AV_PirateCaravel.components.4.label>
+  <!-- EN: Main wooden hull -->
+  <AV_PirateCaravel.components.5.label>Деревянный корпус</AV_PirateCaravel.components.5.label>
+  <!-- EN: Keel -->
+  <AV_PirateCaravel.components.6.label>Киль</AV_PirateCaravel.components.6.label>
+  <!-- EN: Rudder -->
+  <AV_PirateCaravel.components.7.label>Руль</AV_PirateCaravel.components.7.label>
+  
+  <!-- EN: Port Broadside -->
+  <AV_PirateCaravel.comps.1.turrets.0.gizmoLabel>Пушки левого борта</AV_PirateCaravel.comps.1.turrets.0.gizmoLabel>
+  <!-- EN: Starboard Broadside -->
+  <AV_PirateCaravel.comps.1.turrets.1.gizmoLabel>Пушки правого борта</AV_PirateCaravel.comps.1.turrets.1.gizmoLabel>
+</LanguageData>

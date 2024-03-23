@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Sloop -->
+  <AV_Sloop.label>Шлюп</AV_Sloop.label>
+  <!-- EN: A single-masted sailing vessel with a fore-and-aft rig, typically equipped with a mainsail and one or more headsails. Sleek and agile, sloops are versatile vessels used for various purposes such as racing, cruising, fishing, and coastal patrols.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Helmsman x1, Passenger x3 -->
+  <AV_Sloop.description>Одномачтовое судно с основным прямым и передними косыми парусами. Лёгкость и манёвренность делает суда такого рода универсальными в использовании. Шлюпы подходят как для круизов и регат, так и для рыболовства и патрулирования прибрежной линии.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Рулевой x1, Пассажир x3</AV_Sloop.description>
+  <!-- EN: Helmsman -->
+  <AV_Sloop.properties.roles.0.label>Рулевой</AV_Sloop.properties.roles.0.label>
+  <!-- EN: Passenger -->
+  <AV_Sloop.properties.roles.1.label>Пассажир</AV_Sloop.properties.roles.1.label>
+  <!-- EN: Main mast -->
+  <AV_Sloop.components.0.label>Грот-мачта</AV_Sloop.components.0.label>
+  <!-- EN: Fiberglass hull -->
+  <AV_Sloop.components.1.label>Деревянный корпус</AV_Sloop.components.1.label>
+  <!-- EN: Keel -->
+  <AV_Sloop.components.2.label>Киль</AV_Sloop.components.2.label>
+  <!-- EN: Rudder -->
+  <AV_Sloop.components.3.label>Руль</AV_Sloop.components.3.label>
+</LanguageData>

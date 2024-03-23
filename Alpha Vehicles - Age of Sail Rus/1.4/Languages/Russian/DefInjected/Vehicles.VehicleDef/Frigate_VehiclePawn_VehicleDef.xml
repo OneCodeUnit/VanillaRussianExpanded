@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Frigate -->
+  <AV_Frigate.label>Фрегат</AV_Frigate.label>
+  <!-- EN: A warship with a sleek design, fast and maneuverable, originally developed for escort and protection duties in the Age of Sail. Frigates usually feature a single continuous gun deck, carrying a mix of cannons and other armaments.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Helmsman x1, Boatswain x1, Gunner x1, Passenger x3 -->
+  <AV_Frigate.description>Быстрый и манёвренный военный корабль с изящным дизайном, изначально созданный для сопровождения конвоев и патрульной службы. Фрегаты обычно имеют одну сплошную орудийную палубу, на которой размещаются пушки и другое вооружение.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Рулевой x1, Боцман x1, Канонир x1, Пассажир x3</AV_Frigate.description>
+  <!-- EN: Helmsman -->
+  <AV_Frigate.properties.roles.0.label>Рулевой</AV_Frigate.properties.roles.0.label>
+  <!-- EN: Boatswain -->
+  <AV_Frigate.properties.roles.1.label>Боцман</AV_Frigate.properties.roles.1.label>
+  <!-- EN: Gunner -->
+  <AV_Frigate.properties.roles.2.label>Канонир</AV_Frigate.properties.roles.2.label>
+  <!-- EN: Passenger -->
+  <AV_Frigate.properties.roles.3.label>Пассажир</AV_Frigate.properties.roles.3.label>
+  <!-- EN: Mizzen -->
+  <AV_Frigate.components.0.label>Бизань-мачта</AV_Frigate.components.0.label>
+  <!-- EN: Main mast -->
+  <AV_Frigate.components.1.label>Грот-мачта</AV_Frigate.components.1.label>
+  <!-- EN: Foremast -->
+  <AV_Frigate.components.2.label>Фок-мачта</AV_Frigate.components.2.label>
+  <!-- EN: Castle -->
+  <AV_Frigate.components.3.label>Ют</AV_Frigate.components.3.label>
+  <!-- EN: Forecastle -->
+  <AV_Frigate.components.4.label>Полубак</AV_Frigate.components.4.label>
+  <!-- EN: Main wooden hull -->
+  <AV_Frigate.components.5.label>Деревянный корпус</AV_Frigate.components.5.label>
+  <!-- EN: Keel -->
+  <AV_Frigate.components.6.label>Киль</AV_Frigate.components.6.label>
+  <!-- EN: Rudder -->
+  <AV_Frigate.components.7.label>Руль</AV_Frigate.components.7.label>
+  
+  <!-- EN: Port Broadside -->
+  <AV_Frigate.comps.1.turrets.0.gizmoLabel>Пушки левого борта</AV_Frigate.comps.1.turrets.0.gizmoLabel>
+  <!-- EN: Starboard Broadside -->
+  <AV_Frigate.comps.1.turrets.1.gizmoLabel>Пушки правого борта</AV_Frigate.comps.1.turrets.1.gizmoLabel>
+</LanguageData>
