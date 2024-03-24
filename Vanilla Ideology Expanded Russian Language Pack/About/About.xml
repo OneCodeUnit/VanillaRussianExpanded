@@ -8,12 +8,13 @@
   </supportedVersions>
   <packageId>OW.RU.VIE</packageId>
   <description>Перевод на русский язык модулей серии Vanilla Ideology Expanded:
-  Relics and Artifacts
-  Hats and Rags
-  Splits and Schisms
-  Memes and Structures
-  Anima Theme
-  Dryads</description>
+  - Relics and Artifacts
+  - Hats and Rags
+  - Splits and Schisms
+  - Memes and Structures
+  - Anima Theme
+  - Dryads
+  - Sophian Style</description>
   <loadAfter>
     <li>VanillaExpanded.Ideo.RelicsAndArtifacts</li>
     <li>VanillaExpanded.VIEHAR</li>
@@ -25,5 +26,6 @@
     <li>VanillaExpanded.VCookE</li>
     <li>VanillaExpanded.VCEF</li>
     <li>VanillaExpanded.VBooksE</li>
+    <li>VanillaExpanded.Ideo.SophianStyle</li>
   </loadAfter>
 </ModMetaData>
