@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+   <!-- EN: ancient terminal -->
+  <VFEPD_AncientTerminal.label>древний терминал</VFEPD_AncientTerminal.label>
+  <!-- EN: An ancient computer terminal. -->
+  <VFEPD_AncientTerminal.description>Древний компьютерный терминал.</VFEPD_AncientTerminal.description>
+
+  <!-- EN: ancient enemy terminal -->
+  <VFEPD_AncientEnemyTerminal.label>древний вражеский терминал</VFEPD_AncientEnemyTerminal.label>
+  <!-- EN: An ancient computer terminal. -->
+  <VFEPD_AncientEnemyTerminal.description>Древний компьютерный терминал.</VFEPD_AncientEnemyTerminal.description>
+
+  <!-- EN: ancient hermetic crate -->
+  <VFEPD_AncientHermetic.label>древний герметичный контейнер</VFEPD_AncientHermetic.label>
+  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. Sealed shut. -->
+  <VFEPD_AncientHermetic.description>Герметичный контейнер с автономным источником питания для хранения ценных вещей. Предметы в таких контейнерах могут не ветшать долгое время. Закрыт.</VFEPD_AncientHermetic.description>
+
+  <!-- EN: ancient security crate -->
+  <VFEPD_AncientSecurityCrate.label>древний защищённый контейнер</VFEPD_AncientSecurityCrate.label>
+  <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. Sealed shut. -->
+  <VFEPD_AncientSecurityCrate.description>Большой герметичный контейнер с автономным источником питания и встроенной системой сигнализации. Предметы в таких контейнерах могут не ветшать долгое время. Закрыт.</VFEPD_AncientSecurityCrate.description>
+
+  <!-- EN: ancient comms console -->
+  <VFEPD_AncientCommsConsole.label>древняя консоль связи</VFEPD_AncientCommsConsole.label>
+  <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VFEPD_AncientCommsConsole.description>Древняя консоль с коммуникационной антенной. Ценные части отсутствуют, а всё остальное прогнило до бесполезного состояния.</VFEPD_AncientCommsConsole.description>
+
+  <!-- EN: ancient fuel node -->
+  <VFEPD_AncientFuelNode.label>древний топливный узел</VFEPD_AncientFuelNode.label>
+  <!-- EN: An ancient, depleted fuel node once used to charge machines with fuel. -->
+  <VFEPD_AncientFuelNode.description>Древний топливный узел, который когда-то использовался для заправки машин.</VFEPD_AncientFuelNode.description>
+
+  <!-- EN: ancient system rack -->
+  <VFEPD_AncientSystemRack.label>древняя серверная стойка</VFEPD_AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VFEPD_AncientSystemRack.description>Древний стеллаж, набитый непонятными устройствами. Ценные части отсутствуют, а всё остальное пришло в негодность.</VFEPD_AncientSystemRack.description>
+
+  <!-- EN: ancient equipment blocks -->
+  <VFEPD_AncientEquipmentBlocks.label>древние ящики с оборудованием</VFEPD_AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VFEPD_AncientEquipmentBlocks.description>Несколько древних ящиков с оборудованием неизвестного назначения. Ценные части отсутствуют, а всё остальное пришло в негодность.</VFEPD_AncientEquipmentBlocks.description>
+
+  <!-- EN: ancient machine -->
+  <VFEPD_AncientMachine.label>древняя машина</VFEPD_AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VFEPD_AncientMachine.description>Громоздкий корпус древней машины, заполненный непонятными механизмами. Ценные части отсутствуют, а всё остальное пришло в негодность.</VFEPD_AncientMachine.description>
+
+  <!-- EN: ancient storage cylinder -->
+  <VFEPD_AncientStorageCylinder.label>древний бак</VFEPD_AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VFEPD_AncientStorageCylinder.description>Древнее устройство, похожее на хранилище для какой-то жидкости. Ценные части отсутствуют, а всё остальное пришло в негодность.</VFEPD_AncientStorageCylinder.description>
+
+  <!-- EN: ancient bed -->
+  <VFEPD_AncientBed.label>древняя кровать</VFEPD_AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. -->
+  <VFEPD_AncientBed.description>Старый гнилой матрас на ржавой раме.</VFEPD_AncientBed.description>
+
+  <!-- EN: ancient display bank -->
+  <VFEPD_AncientDisplayBank.label>ряд древних дисплеев</VFEPD_AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VFEPD_AncientDisplayBank.description>Древняя система экранов. Ценные части отсутствуют, а всё остальное пришло в негодность.</VFEPD_AncientDisplayBank.description>
+
+  <!-- EN: ancient locker bank -->
+  <VFEPD_AncientLockerBank.label>ряд древних шкафов</VFEPD_AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <VFEPD_AncientLockerBank.description>Ряд древних проржавевших шкафчиков. Все они давно взломаны, ничего ценного внутри не осталось.</VFEPD_AncientLockerBank.description>
+
+  <!-- EN: ancient crate -->
+  <VFEPD_AncientCrate.label>древний ящик</VFEPD_AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <VFEPD_AncientCrate.description>Древний сломанный ящик. Всё ценное, что в нём было, пришло в негодность.</VFEPD_AncientCrate.description>
+
+  <!-- EN: ancient military crate -->
+  <VFEPD_AncientMilitaryCrate.label>древний военный ящик</VFEPD_AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <VFEPD_AncientMilitaryCrate.description>Древний ящик с армейскими отметками. Он давным-давно взломан, а всё ценное из него — растащено.</VFEPD_AncientMilitaryCrate.description>
+
+  <!-- EN: ancient spacer crate -->
+  <VFEPD_AncientSpacerCrate.label>древний космический ящик</VFEPD_AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <VFEPD_AncientSpacerCrate.description>Древний сломанный ящик. Все ценности, что в нём хранились, давно уже изъяты.</VFEPD_AncientSpacerCrate.description>
+
+  <!-- EN: ancient barrel -->
+  <VFEPD_AncientBarrel.label>древняя бочка</VFEPD_AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <VFEPD_AncientBarrel.description>Древняя дырявая бочка, выглядит, как будто в ней хранились какие-то отходы. Единственное, что в ней сейчас — это размазанная засохшая грязь.</VFEPD_AncientBarrel.description>
+
+  <!-- EN: ancient generator -->
+  <VFEPD_AncientGenerator.label>древний генератор</VFEPD_AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <VFEPD_AncientGenerator.description>Древний электрический генератор. Его пригодные для использования части давно изъяты или разбиты, а остальное — заржавело.</VFEPD_AncientGenerator.description>
+
+  <!-- EN: ancient operating table -->
+  <VFEPD_AncientOperatingTable.label>древний операционный стол</VFEPD_AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <VFEPD_AncientOperatingTable.description>Стол, когда-то использовавшийся для хирургических операций. Он уже давно пришёл в негодность.</VFEPD_AncientOperatingTable.description>
+
+  <!-- EN: ancient shopping cart -->
+  <VFEPD_AncientShoppingCart.label>древняя тележка для покупок</VFEPD_AncientShoppingCart.label>
+  <!-- EN: An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad. -->
+  <VFEPD_AncientShoppingCart.description>Древняя ржавая тележка для покупок. Как она попала сюда — загадка, но это история давняя и, возможно, весьма печальная.</VFEPD_AncientShoppingCart.description>
+
+  <!-- EN: ancient postbox -->
+  <VFEPD_AncientPostbox.label>древний почтовый ящик</VFEPD_AncientPostbox.label>
+  <!-- EN: An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason. -->
+  <VFEPD_AncientPostbox.description>Древний почтовый ящик, разбитый и пришедший в негодность. Судя по всему, его кто-то когда-то зачем-то сюда принёс.</VFEPD_AncientPostbox.description>
+
+  <!-- EN: ancient vending machine -->
+  <VFEPD_AncientVendingMachine.label>древний торговый автомат</VFEPD_AncientVendingMachine.label>
+  <!-- EN: An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery. -->
+  <VFEPD_AncientVendingMachine.description>Древний торговый автомат. Он был разбит много веков назад, и поколения мародёров растащили все полезные детали. Как он оказался здесь — остаётся загадкой.</VFEPD_AncientVendingMachine.description>
+
+  <!-- EN: ancient air conditioner -->
+  <VFEPD_AncientAirConditioner.label>древний кондиционер</VFEPD_AncientAirConditioner.label>
+  <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
+  <VFEPD_AncientAirConditioner.description>Древняя машина для охлаждения воздуха. Её внутренности были разбиты давным-давно, а то, что не растащили, с тех пор проржавело.</VFEPD_AncientAirConditioner.description>
+
+  <!-- EN: ancient kitchen sink -->
+  <VFEPD_AncientKitchenSink.label>древняя раковина</VFEPD_AncientKitchenSink.label>
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <VFEPD_AncientKitchenSink.description>Древняя кухонная раковина, сделанная из листов неметаллического волокна. Она совсем испорчена и не содержит ничего ценного.\n\nКак здесь оказалась раковина, — должно быть, интересная история.</VFEPD_AncientKitchenSink.description>
+
+  <!-- EN: ancient stove -->
+  <VFEPD_AncientStove.label>древняя кухонная плита</VFEPD_AncientStove.label>
+  <!-- EN: An ancient stove. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VFEPD_AncientStove.description>Древняя кухонная плита. Разбитая и заржавевшая, теперь совершенно бесполезна.\n\nКак она здесь оказалась — трудно сказать.</VFEPD_AncientStove.description>
+
+  <!-- EN: ancient oven -->
+  <VFEPD_AncientOven.label>древняя духовка</VFEPD_AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VFEPD_AncientOven.description>Древняя духовка. Разбитая и заржавевшая, теперь совершенно бесполезна.\n\nКак она здесь оказалась — трудно сказать.</VFEPD_AncientOven.description>
+
+  <!-- EN: ancient ATM -->
+  <VFEPD_AncientATM.label>древний банкомат</VFEPD_AncientATM.label>
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VFEPD_AncientATM.description>Древний банкомат. Разбитый и заржавевший, теперь совершенно бесполезен.\n\nКак он здесь оказался — трудно сказать.</VFEPD_AncientATM.description>
+
+  <!-- EN: ancient washing machine -->
+  <VFEPD_AncientWashingMachine.label>древняя стиральная машина</VFEPD_AncientWashingMachine.label>
+  <!-- EN: An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VFEPD_AncientWashingMachine.description>Древний бытовой прибор для стирки текстильных изделий. Разбитый и заржавевший, теперь он совершенно бесполезен.\n\nКак он здесь оказался — трудно сказать.</VFEPD_AncientWashingMachine.description>
+
+  <!-- EN: ancient hydrant -->
+  <VFEPD_AncientHydrant.label>древний гидрант</VFEPD_AncientHydrant.label>
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VFEPD_AncientHydrant.description>Древний гидрант. Сильно заржавевший, теперь он совершенно бесполезен.\n\nКак он здесь оказался — трудно сказать.</VFEPD_AncientHydrant.description>
+
+  <!-- EN: ancient microwave -->
+  <VFEPD_AncientMicrowave.label>древняя микроволновка</VFEPD_AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VFEPD_AncientMicrowave.description>Древнее устройство для разогрева пищи. Разбитое и заржавевшее, теперь оно совершенно бесполезно.\n\nКак оно здесь оказалось — трудно сказать.</VFEPD_AncientMicrowave.description>
+
+  <!-- EN: ancient toilet -->
+  <VFEPD_AncientToilet.label>древний унитаз</VFEPD_AncientToilet.label>
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VFEPD_AncientToilet.description>Древний унитаз. Давным-давно разбитый, теперь он совершенно бесполезен.\n\nКак он здесь оказался — трудно сказать.</VFEPD_AncientToilet.description>
+
+  <!-- EN: ancient refrigerator -->
+  <VFEPD_AncientRefrigerator.label>древний холодильник</VFEPD_AncientRefrigerator.label>
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <VFEPD_AncientRefrigerator.description>Древний холодильник. Из него давно выдраны все полезные части.</VFEPD_AncientRefrigerator.description>
+
+  <!-- EN: ancient small crate -->
+  <VFEPD_AncientSmallCrate.label>древний маленький ящик</VFEPD_AncientSmallCrate.label>
+  <!-- EN: A small, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <VFEPD_AncientSmallCrate.description>Маленький пустой ящик, брошенный давным-давно. Он слишком ржавый, чтобы что-то в нём хранить.</VFEPD_AncientSmallCrate.description>
+
+  <!-- EN: ancient long crate -->
+  <VFEPD_AncientLongCrate.label>древний длинный ящик</VFEPD_AncientLongCrate.label>
+  <!-- EN: A long, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <VFEPD_AncientLongCrate.description>Длинный пустой ящик, брошенный давным-давно. Он слишком ржавый, чтобы что-то в нём хранить.</VFEPD_AncientLongCrate.description>
+
+  <!-- EN: ancient large crate -->
+  <VFEPD_AncientLargeCrate.label>древний большой ящик</VFEPD_AncientLargeCrate.label>
+  <!-- EN: A large crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <VFEPD_AncientLargeCrate.description>Большой пустой ящик, брошенный давным-давно. Он слишком ржавый, чтобы что-то в нём хранить.</VFEPD_AncientLargeCrate.description>
+
+  <!-- EN: ancient wheel -->
+  <VFEPD_AncientWheel.label>древнее колесо</VFEPD_AncientWheel.label>
+  <!-- EN: An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted. -->
+  <VFEPD_AncientWheel.description>Древнее колесо от какого-то транспортного средства. Резина испорчена, а металл искорёжен и ржав.</VFEPD_AncientWheel.description>
+
+  <!-- EN: ancient giant wheel -->
+  <VFEPD_AncientGiantWheel.label>древнее гигантское колесо</VFEPD_AncientGiantWheel.label>
+  <!-- EN: A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted. -->
+  <VFEPD_AncientGiantWheel.description>Гигантское колесо, которое много веков назад отвалилось от какого-то крупного транспортного средства. Резина испорчена, а металл искорёжен и ржав.</VFEPD_AncientGiantWheel.description>
+
+  <!-- EN: ancient car -->
+  <VFEPD_AncientRustedCar.label>древний автомобиль</VFEPD_AncientRustedCar.label>
+  <!-- EN: An ancient, broken car. Everything that isn't rusted away was looted long ago. -->
+  <VFEPD_AncientRustedCar.description>Древний разбитый автомобиль. Всё, что не заржавело, давным-давно растащили.</VFEPD_AncientRustedCar.description>
+
+  <!-- EN: ancient truck -->
+  <VFEPD_AncientRustedTruck.label>древний грузовик</VFEPD_AncientRustedTruck.label>
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <VFEPD_AncientRustedTruck.description>Древний разбитый грузовик. Всё полезное либо заржавело, либо давно изъято.</VFEPD_AncientRustedTruck.description>
+
+  <!-- EN: ancient troop carrier -->
+  <VFEPD_AncientRustedJeep.label>древний бронеавтомобиль</VFEPD_AncientRustedJeep.label>
+  <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
+  <VFEPD_AncientRustedJeep.description>Древний разбитый бронеавтомобиль. Всё, что не заржавело, давным-давно растащили.</VFEPD_AncientRustedJeep.description>
+
+  <!-- EN: ancient car frame -->
+  <VFEPD_AncientRustedCarFrame.label>древняя рама автомобиля</VFEPD_AncientRustedCarFrame.label>
+  <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
+  <VFEPD_AncientRustedCarFrame.description>Древняя ржавая рама автомобиля, кузов которого уже давно проржавел и рассыпался в прах.</VFEPD_AncientRustedCarFrame.description>
+
+  <!-- EN: ancient warwalker torso -->
+  <VFEPD_AncientWarwalkerTorso.label>остов древнего боевого шагохода</VFEPD_AncientWarwalkerTorso.label>
+  <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
+  <VFEPD_AncientWarwalkerTorso.description>Остов боевого шагохода среднего размера, который упал здесь в древние времена. Ценные части давно растащили.</VFEPD_AncientWarwalkerTorso.description>
+
+  <!-- EN: ancient dropship -->
+  <VFEPD_AncientRustedDropship.label>древний челнок</VFEPD_AncientRustedDropship.label>
+  <!-- EN: The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness. -->
+  <VFEPD_AncientRustedDropship.description>Остатки древнего челнока. Ценные части были давно растащены, а остальное пришло в негодность.</VFEPD_AncientRustedDropship.description>
+
+  <!-- EN: ancient warwalker claw -->
+  <VFEPD_AncientWarwalkerClaw.label>коготь древнего шагохода</VFEPD_AncientWarwalkerClaw.label>
+  <!-- EN: The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago. -->
+  <VFEPD_AncientWarwalkerClaw.description>Штурмовой коготь древнего боевого шагохода среднего размера. Это оружие предназначалось для разрывания тяжёлой пласталевой брони на ближней дистанции. Его ценные части давно изъяты.</VFEPD_AncientWarwalkerClaw.description>
+
+  <!-- EN: ancient warwalker leg -->
+  <VFEPD_AncientWarwalkerLeg.label>нога древнего шагохода</VFEPD_AncientWarwalkerLeg.label>
+  <!-- EN: The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain. -->
+  <VFEPD_AncientWarwalkerLeg.description>Разрушенная нога боевого шагохода среднего размера, которая лежит здесь давным-давно. Она была обчищена мародёрами, никаких ценных частей не осталось.</VFEPD_AncientWarwalkerLeg.description>
+
+  <!-- EN: ancient warsprinter remains -->
+  <VFEPD_AncientMiniWarwalkerRemains.label>останки древнего спринтера</VFEPD_AncientMiniWarwalkerRemains.label>
+  <!-- EN: The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago. -->
+  <VFEPD_AncientMiniWarwalkerRemains.description>Разбитые останки древнего малого боевого спринтера. Все уцелевшие детали давным-давно растащили.</VFEPD_AncientMiniWarwalkerRemains.description>
+
+  <!-- EN: ancient warspider remains -->
+  <VFEPD_AncientWarspiderRemains.label>останки древнего паука</VFEPD_AncientWarspiderRemains.label>
+  <!-- EN: The ruined remains of an ancient mid-scale warspider. It has been picked over many times, and there is nothing valuable left to loot. -->
+  <VFEPD_AncientWarspiderRemains.description>Разрушенные останки древнего боевого паука среднего размера. Его обыскивали много раз и не оставили ничего ценного.</VFEPD_AncientWarspiderRemains.description>
+
+  <!-- EN: ancient pipeline section -->
+  <VFEPD_AncientPipelineSection.label>древний участок трубопровода</VFEPD_AncientPipelineSection.label>
+  <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
+  <VFEPD_AncientPipelineSection.description>Участок древнего трубопровода. Когда-то транспортировал ценную жидкость на большие расстояния. Теперь он разграблен и пришёл в негодность.</VFEPD_AncientPipelineSection.description>
+
+  <!-- EN: ancient warwalker foot -->
+  <VFEPD_AncientWarwalkerFoot.label>ступня древнего шагохода</VFEPD_AncientWarwalkerFoot.label>
+  <!-- EN: A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <VFEPD_AncientWarwalkerFoot.description>Массивная ступня древнего боевого шагохода. Похоже, её оторвало при попадании снаряда какого-то тяжёлого оружия. Все полезные части давно изъяты или пришли в негодность.</VFEPD_AncientWarwalkerFoot.description>
+
+  <!-- EN: ancient ruined tank -->
+  <VFEPD_AncientTank.label>древний разрушенный танк</VFEPD_AncientTank.label>
+  <!-- EN: The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <VFEPD_AncientTank.description>Остатки древнего танка, который был уничтожен каким-то тяжёлым оружием. Все полезные части давно изъяты или пришли в негодность.</VFEPD_AncientTank.description>
+
+  <!-- EN: ancient ruined APC -->
+  <VFEPD_AncientAPC.label>древняя разрушенная БМП</VFEPD_AncientAPC.label>
+  <!-- EN: The remains of an ancient armored troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <VFEPD_AncientAPC.description>Остатки древней БМП, которая была уничтожена каким-то тяжёлым оружием. Все полезные части давно изъяты или пришли в негодность.</VFEPD_AncientAPC.description>
+
+  <!-- EN: ancient warwalker shell -->
+  <VFEPD_AncientWarwalkerShell.label>древний корпус шагохода</VFEPD_AncientWarwalkerShell.label>
+  <!-- EN: Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated. -->
+  <VFEPD_AncientWarwalkerShell.description>Корпус древнего боевого шагохода. Похоже, его разорвало при попадании снаряда какого-то колоссального оружия. Все ценные части были изъяты, а остальное пришло в негодность.</VFEPD_AncientWarwalkerShell.description>
+
+  <!-- EN: ancient jet engine -->
+  <VFEPD_AncientJetEngine.label>древний реактивный двигатель</VFEPD_AncientJetEngine.label>
+  <!-- EN: An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <VFEPD_AncientJetEngine.description>Древний реактивный двигатель, вероятно, оторванный от большого самолёта. Его хрупкие внутренности заржавели, а ценные части давно изъяты.</VFEPD_AncientJetEngine.description>
+
+  <!-- EN: ancient dropship engine -->
+  <VFEPD_AncientDropshipEngine.label>древний двигатель челнока</VFEPD_AncientDropshipEngine.label>
+  <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <VFEPD_AncientDropshipEngine.description>Древний двигатель челнока. Вероятно, он отвалился от военного десантного корабля. Его хрупкие внутренности заржавели до бесполезности, а ценные части давно изъяты.</VFEPD_AncientDropshipEngine.description>
+
+  <!-- EN: ancient pod car -->
+  <VFEPD_AncientPodCar.label>древний автомобиль-капсула</VFEPD_AncientPodCar.label>
+  <!-- EN: An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated. -->
+  <VFEPD_AncientPodCar.description>Древний автомобиль-капсула, когда-то способный к автоматическому полёту. Его ценные части давно изъяты, а остальное пришло в негодность.</VFEPD_AncientPodCar.description>
+
+  <!-- EN: ancient tank trap -->
+  <VFEPD_AncientTankTrap.label>древний противотанковый ёж</VFEPD_AncientTankTrap.label>
+  <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
+  <VFEPD_AncientTankTrap.description>Оборонительное сооружение для остановки транспортных средств. Оно ветшало в течение многих лет.</VFEPD_AncientTankTrap.description>
+
+  <!-- EN: ancient macro-engine block -->
+  <VFEPD_AncientLargeRustedEngineBlock.label>древний макродвигатель</VFEPD_AncientLargeRustedEngineBlock.label>
+  <!-- EN: A large, ancient engine block from some giant vehicle or power source. It's rusted through, and all the useful components are gone. No repair could salvage this. -->
+  <VFEPD_AncientLargeRustedEngineBlock.description>Большой древний мотор от какого-то поистине гигантского транспортного средства или источника энергии. Он проржавел насквозь, а все полезные комплектующие пропали. Никакой ремонт тут уже не поможет.</VFEPD_AncientLargeRustedEngineBlock.description>
+
+  <!-- EN: ancient fence -->
+  <VFEPD_AncientFence.label>древний забор</VFEPD_AncientFence.label>
+  <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
+  <VFEPD_AncientFence.description>Древний забор из железобетонных столбов, соединённых бетонными панелями.</VFEPD_AncientFence.description>
+
+  <!-- EN: ancient razor wire -->
+  <VFEPD_AncientRazorWire.label>древняя колючая проволока</VFEPD_AncientRazorWire.label>
+  <!-- EN: A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger. -->
+  <VFEPD_AncientRazorWire.description>Кусок древней колючей проволоки. Она ветшала в течение многих лет и больше не представляет никакой опасности.</VFEPD_AncientRazorWire.description>
+
+  <!-- EN: ancient pipes -->
+  <VFEPD_AncientPipes.label>древние трубы</VFEPD_AncientPipes.label>
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <VFEPD_AncientPipes.description>Куча старых ржавых труб. Трудно сказать, как они здесь оказались.</VFEPD_AncientPipes.description>
+
+  <!-- EN: ancient mega-cannon platform -->
+  <VFEPD_AncientMegaCannonTripod.label>древняя платформа мега-пушки</VFEPD_AncientMegaCannonTripod.label>
+  <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
+  <VFEPD_AncientMegaCannonTripod.description>Платформа, на которой когда-то стояла большая пушка. Она была сломана много лет назад, а все полезные части давно изъяты.</VFEPD_AncientMegaCannonTripod.description>
+
+  <!-- EN: ancient mega-cannon barrel -->
+  <VFEPD_AncientMegaCannonBarrel.label>ствол древней мега-пушки</VFEPD_AncientMegaCannonBarrel.label>
+  <!-- EN: A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted. -->
+  <VFEPD_AncientMegaCannonBarrel.description>Ствол от дальнобойной пушки артиллерийского или противокорабельного назначения. Когда он был новым, то, должно быть, устрашал своей мощью. Теперь же он абсолютно не подлежит ремонту, ценных частей в нём тоже не осталось.</VFEPD_AncientMegaCannonBarrel.description>
+
+  <!-- EN: ancient container -->
+  <VFEPD_AncientContainer.label>древний контейнер</VFEPD_AncientContainer.label>
+  <!-- EN: A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorated into uselessness. -->
+  <VFEPD_AncientContainer.description>Большой контейнер для какого-то древнего грузового транспортного средства. Он уже давно разграблен и пришёл в негодность.</VFEPD_AncientContainer.description>
+
+  <!-- EN: mechanoid detritus -->
+  <VFEPD_AncientMechDetritus.label>останки механоида</VFEPD_AncientMechDetritus.label>
+  <!-- EN: The remains of a smashed mechanoid. All the useful components and materials are ruined or missing. -->
+  <VFEPD_AncientMechDetritus.description>Останки разбитого механоида. Все ценные части и материалы уничтожены или отсутствуют.</VFEPD_AncientMechDetritus.description>
+
+  <!-- EN: ancient mech drop beacon -->
+  <VFEPD_AncientMechDropBeacon.label>древний маяк механоидов</VFEPD_AncientMechDropBeacon.label>
+  <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
+  <VFEPD_AncientMechDropBeacon.description>Разбитый корпус десантного маяка механоидов. Ценные части в нём отсутствуют, а сам корпус испортился после долгих лет.</VFEPD_AncientMechDropBeacon.description>
+
+  <!-- EN: ancient security turret -->
+  <VFEPD_AncientSecurityTurret.label>древняя охранная турель</VFEPD_AncientSecurityTurret.label>
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <VFEPD_AncientSecurityTurret.description>Сломанная древняя охранная турель. Все ценные части изъяты или разбиты.</VFEPD_AncientSecurityTurret.description>
+
+  <!-- EN: ancient engine block -->
+  <VFEPD_AncientRustedEngineBlock.label>древний двигатель</VFEPD_AncientRustedEngineBlock.label>
+  <!-- EN: An ancient engine block that is rusted through. No repair could salvage this. -->
+  <VFEPD_AncientRustedEngineBlock.description>Древний двигатель, проржавевший насквозь. Никакой ремонт не спасёт его.</VFEPD_AncientRustedEngineBlock.description>
+
+  <!-- EN: ancient nav beacon -->
+  <VFEPD_AncientShipBeacon.label>древний маяк навигации</VFEPD_AncientShipBeacon.label>
+  <!-- EN: An ancient, broken ship navigation beacon. Every useful component was looted long ago. -->
+  <VFEPD_AncientShipBeacon.description>Сломанный древний корабельный навигационный маяк. Все полезные части давно изъяты.</VFEPD_AncientShipBeacon.description>
+
+  <!-- EN: hacking -->
+  <VFEPD_HackingEffect.label>взлом</VFEPD_HackingEffect.label>
+  <!-- EN: This is an effecter prop for "Hacking". Intrinsically laggy, use in moderation. -->
+  <VFEPD_HackingEffect.description>Анимация взлома компьютерного терминала. Может снижать производительность, используйте умеренно.</VFEPD_HackingEffect.description>
+
+  <!-- EN: hair cutting -->
+  <VFEPD_HairCuttingEffect.label>стрижка</VFEPD_HairCuttingEffect.label>
+  <!-- EN: This is an effecter prop for "Hair Cutting". Intrinsically laggy, use in moderation. -->
+  <VFEPD_HairCuttingEffect.description>Анимация стрижки волос. Может снижать производительность, используйте умеренно.</VFEPD_HairCuttingEffect.description>
+
+  <!-- EN: burnbong smoke -->
+  <VFEPD_BurnbongSmokeEffect.label>дым одноразового бонга</VFEPD_BurnbongSmokeEffect.label>
+  <!-- EN: This is an effecter prop for "Burnbong Smoke". Intrinsically laggy, use in moderation. -->
+  <VFEPD_BurnbongSmokeEffect.description>Анимация дыма от одноразового бонга. Может снижать производительность, используйте умеренно.</VFEPD_BurnbongSmokeEffect.description>
+
+  <!-- EN: making skylantern -->
+  <VFEPD_MakingSkylanternEffect.label>создание неб. фонарика</VFEPD_MakingSkylanternEffect.label>
+  <!-- EN: This is an effecter prop for "Making Skylantern". Intrinsically laggy, use in moderation. -->
+  <VFEPD_MakingSkylanternEffect.description>Анимация изготовления небесного фонарика. Может снижать производительность, используйте умеренно.</VFEPD_MakingSkylanternEffect.description>
+
+  <!-- EN: christmas twinkle -->
+  <VFEPD_ChristmasTreeTwinkleEffect.label>рождественские огоньки</VFEPD_ChristmasTreeTwinkleEffect.label>
+  <!-- EN: This is an effecter prop for "Christmas Tree Twinkle". Intrinsically laggy, use in moderation. -->
+  <VFEPD_ChristmasTreeTwinkleEffect.description>Анимация рождественских огоньков. Может снижать производительность, используйте умеренно.</VFEPD_ChristmasTreeTwinkleEffect.description>
+
+  <!-- EN: fire smoke -->
+  <VFEPD_FireSmokeEffect.label>дым от костра</VFEPD_FireSmokeEffect.label>
+  <!-- EN: This is an effecter prop for "Fire Smoke". Intrinsically laggy, use in moderation. -->
+  <VFEPD_FireSmokeEffect.description>Анимация дыма от погребального костра. Может снижать производительность, используйте умеренно.</VFEPD_FireSmokeEffect.description>
+
+  <!-- EN: sleep accelerator -->
+  <VFEPD_SleepAcceleratorActiveEffect.label>ускоритель сна</VFEPD_SleepAcceleratorActiveEffect.label>
+  <!-- EN: This is an effecter prop for "Sleep Accelerator Active". Intrinsically laggy, use in moderation. -->
+  <VFEPD_SleepAcceleratorActiveEffect.description>Анимация работы ускорителя сна. Может снижать производительность, используйте умеренно.</VFEPD_SleepAcceleratorActiveEffect.description>
+
+  <!-- EN: biosculpter pod -->
+  <VFEPD_BiosculpterPod_OperatingEffect.label>биоскульптор</VFEPD_BiosculpterPod_OperatingEffect.label>
+  <!-- EN: This is an effecter prop for "Biosculpter Pod Operating". Intrinsically laggy, use in moderation. -->
+  <VFEPD_BiosculpterPod_OperatingEffect.description>Анимация работы биоскульптора. Может снижать производительность, используйте умеренно.</VFEPD_BiosculpterPod_OperatingEffect.description>
+
+  <!-- EN: gauranlen debris -->
+  <VFEPD_GauranlenDebrisEffect.label>ветви Гауранлен</VFEPD_GauranlenDebrisEffect.label>
+  <!-- EN: This is an effecter prop for "Gauranlen Debris". Intrinsically laggy, use in moderation. -->
+  <VFEPD_GauranlenDebrisEffect.description>Анимация падающих ветвей древа Гауранлен. Может снижать производительность, используйте умеренно.</VFEPD_GauranlenDebrisEffect.description>
+
+  <!-- EN: gauranlen leaves -->
+  <VFEPD_GauranlenLeavesEffect.label>листья Гауранлен (много)</VFEPD_GauranlenLeavesEffect.label>
+  <!-- EN: This is an effecter prop for "Gauranlen Leaves". Intrinsically laggy, use in moderation. -->
+  <VFEPD_GauranlenLeavesEffect.description>Анимация падающих листьев древа Гауранлен. Может снижать производительность, используйте умеренно.</VFEPD_GauranlenLeavesEffect.description>
+
+  <!-- EN: gauranlen leaves, batch -->
+  <VFEPD_GauranlenLeavesBatchEffect.label>листья Гауранлен (мало)</VFEPD_GauranlenLeavesBatchEffect.label>
+  <!-- EN: This is an effecter prop for "Gauranlen Leaves, Batch". Intrinsically laggy, use in moderation. -->
+  <VFEPD_GauranlenLeavesBatchEffect.description>Анимация падающих листьев древа Гауранлен. Может снижать производительность, используйте умеренно.</VFEPD_GauranlenLeavesBatchEffect.description>
+
+  <!-- EN: christmas tree -->
+  <VFEPD_ChristmasTree.label>рождественское дерево</VFEPD_ChristmasTree.label>
+  <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. Made of plastic. -->
+  <VFEPD_ChristmasTree.description>Праздничное дерево, украшенное гирляндой и игрушками, традиционно изготовленными в рамках рождественских праздников.</VFEPD_ChristmasTree.description>
+
+  <!-- EN: fake gauranlen moss -->
+  <VFEPD_FakeGauranlenMoss.label>искусств. мох Гауранлен</VFEPD_FakeGauranlenMoss.label>
+  <!-- EN: Plastic grass painted in the same colour as gauranlen moss. Probably terrible for the environment. -->
+  <VFEPD_FakeGauranlenMoss.description>Пластиковая трава, покрашенная в тот же цвет, что и мох Гуаранлен. Пожалуй, совсем не полезно для окружающей среды.</VFEPD_FakeGauranlenMoss.description>
+
+  <!-- EN: fake gauranlen tree -->
+  <VFEPD_FakeGauranlenTree.label>искусств. древо Гауранлен</VFEPD_FakeGauranlenTree.label>
+  <!-- EN: Plastic tree imitating a gauranlen tree. No dryads here. -->
+  <VFEPD_FakeGauranlenTree.description>Пластиковая конструкция, имитирующее древо Гауранлен. Дриад тут точно не найти.</VFEPD_FakeGauranlenTree.description>
+
+  <!-- EN: nutrifungus -->
+  <VFEPD_Nutrifungus.label>нутригриб</VFEPD_Nutrifungus.label>
+  <!-- EN: A fake meaty bioengineered mushroom grown for its nutritious value. -->
+  <VFEPD_Nutrifungus.description>Мясистый гриб, который был генетически модифицирован для увеличения питательности.\nЭтот экземпляр искусственный.</VFEPD_Nutrifungus.description>
+
+  <!-- EN: fibercorn -->
+  <VFEPD_Fibercorn.label>волокноцвет</VFEPD_Fibercorn.label>
+  <!-- EN: A fake inedible, fibrous plant which usually produces a small amount of a wood-like substance. -->
+  <VFEPD_Fibercorn.description>Несъедобное волокнистое растение, в котором содержится небольшое количество древовидного материала.\nЭтот экземпляр искусственный.</VFEPD_Fibercorn.description>
+
+  <!-- EN: timbershroom -->
+  <VFEPD_Timbershroom.label>древогриб</VFEPD_Timbershroom.label>
+  <!-- EN: A fake tall brown mushroom with a long stem. -->
+  <VFEPD_Timbershroom.description>Крупный коричневый гриб на длинной ножке.\nЭтот экземпляр искусственный.</VFEPD_Timbershroom.description>
+
+  <!-- EN: bonsai tree -->
+  <VFEPD_TreeBonsai.label>бонсай</VFEPD_TreeBonsai.label>
+  <!-- EN: A fake tree, pruned and shaped to look visually pleasing. -->
+  <VFEPD_TreeBonsai.description>Карликовое дерево, которое ухожено и аккуратно подстрижено, чтобы радовать глаз.\nЭтот экземпляр искусственный.</VFEPD_TreeBonsai.description>
+
+  <!-- EN: archonexus core -->
+  <VFEPD_ArchonexusCore.label>ядро архонексуса</VFEPD_ArchonexusCore.label>
+  <!-- EN: A cardboard imitation of the central core of an archonexus. -->
+  <VFEPD_ArchonexusCore.description>Картонная имитация центрального ядра архонексуса.</VFEPD_ArchonexusCore.description>
+
+  <!-- EN: grand archotech structure -->
+  <VFEPD_GrandArchotechStructure.label>сооруж. архотеков 1</VFEPD_GrandArchotechStructure.label>
+  <!-- EN: A cardboard imitation of a grand archotech structure of towering height and impressive bulk. -->
+  <VFEPD_GrandArchotechStructure.description>Картонная имитация великого сооружения архотеков огромных высоты и размеров.</VFEPD_GrandArchotechStructure.description>
+
+  <!-- EN: major archotech structure -->
+  <VFEPD_MajorArchotechStructure.label>сооруж. архотеков 2</VFEPD_MajorArchotechStructure.label>
+  <!-- EN: A cardboard imitation of a large archotech structure. -->
+  <VFEPD_MajorArchotechStructure.description>Картонная имитация большого сооружения, созданного архотеками.</VFEPD_MajorArchotechStructure.description>
+
+  <!-- EN: archotech tower -->
+  <VFEPD_ArchotechTower.label>башня архотека</VFEPD_ArchotechTower.label>
+  <!-- EN: A cardboard imitation of a large archotech structure. -->
+  <VFEPD_ArchotechTower.description>Картонная имитация большого сооружения, созданного архотеками.</VFEPD_ArchotechTower.description>
+
+  <!-- EN: fake darkfire -->
+  <VFEPD_FalseBlueFire.label>искусств. тёмный огонь</VFEPD_FalseBlueFire.label>
+  <!-- EN: This is just smoke and mirrors. -->
+  <VFEPD_FalseBlueFire.description>Декоративный огонь. Красив и безопасен.</VFEPD_FalseBlueFire.description>
+
+  <!-- EN: space drone -->
+  <VFEPD_SpaceDrone.label>космический дрон</VFEPD_SpaceDrone.label>
+  <!-- EN: An ancient ultratech spacedrone. Deactivated. -->
+  <VFEPD_SpaceDrone.description>Древний высокотехнологичный космический дрон. Деактивирован.</VFEPD_SpaceDrone.description>
+
+  <!-- EN: dried blood -->
+  <VFEPD_DriedBlood.label>засохшая кровь</VFEPD_DriedBlood.label>
+  <!-- EN: Splatters of dried blood. Lovely! -->
+  <VFEPD_DriedBlood.description>Брызги засохшей крови. Какая прелесть!</VFEPD_DriedBlood.description>
+
+  <!-- EN: scattered documents -->
+  <VFEPD_ScatteredDocuments.label>разбросанные документы</VFEPD_ScatteredDocuments.label>
+  <!-- EN: Don't seem to contain any important information. -->
+  <VFEPD_ScatteredDocuments.description>Не содержат никакой важной информации.</VFEPD_ScatteredDocuments.description>
+
+  <!-- EN: ragged uniform -->
+  <VFEPD_MoldyUniform.label>рваная униформа</VFEPD_MoldyUniform.label>
+  <!-- EN: This is NOT the latest fashion. -->
+  <VFEPD_MoldyUniform.description>Точно не последний писк моды.</VFEPD_MoldyUniform.description>
+
+  <!-- EN: pod slime -->
+  <VFEPD_PodSlime.label>слизь из кокона</VFEPD_PodSlime.label>
+  <!-- EN: I picture it tasting like Tang. -->
+  <VFEPD_PodSlime.description>На вид как кисель, но такова ли на вкус?</VFEPD_PodSlime.description>
+
+  <!-- EN: oil smear -->
+  <VFEPD_OilSmear.label>масляное пятно</VFEPD_OilSmear.label>
+  <!-- EN: If these appear under your car, take it to a mechanic. -->
+  <VFEPD_OilSmear.description>Если заметили такие под машиной, пришло время толкать её на автосервис.</VFEPD_OilSmear.description>
+
+  <!-- EN: fake gibbet cage -->
+  <VFEPD_FakeGibbetCage.label>декор. висячая клетка</VFEPD_FakeGibbetCage.label>
+  <!-- EN: A fake gibbet cage with nothing inside. Sealed shut. -->
+  <VFEPD_FakeGibbetCage.description>Декоративная висячая клетка без содержимого. Заварена наглухо.</VFEPD_FakeGibbetCage.description>
+
+  <!-- EN: ritual glow rays -->
+  <VFEPD_Mote_RitualGlowRays.label>ритуальное свечение 1</VFEPD_Mote_RitualGlowRays.label>
+  <!-- EN: This is a mote prop for "Ritual Glow Rays". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_RitualGlowRays.description>Анимация свечения во время ритуала. Может снижать производительность, используйте умеренно.</VFEPD_Mote_RitualGlowRays.description>
+
+  <!-- EN: totem -->
+  <VFEPD_Mote_TotemOutline.label>тотем</VFEPD_Mote_TotemOutline.label>
+  <!-- EN: This is a mote prop for "Totem outline". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_TotemOutline.description>Анимация ритуального тотема. Может снижать производительность, используйте умеренно.</VFEPD_Mote_TotemOutline.description>
+
+  <!-- EN: role position -->
+  <VFEPD_Mote_RolePositionHighlight.label>подсветка места</VFEPD_Mote_RolePositionHighlight.label>
+  <!-- EN: This is a mote prop for "Role Position Highlight". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_RolePositionHighlight.description>Анимация подсветки ритуального места. Может снижать производительность, используйте умеренно.</VFEPD_Mote_RolePositionHighlight.description>
+
+  <!-- EN: role pawn highlight -->
+  <VFEPD_Mote_RolePawnHighlight.label>подсветка пешки</VFEPD_Mote_RolePawnHighlight.label>
+  <!-- EN: This is a mote prop for "Role Pawn Highlight". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_RolePawnHighlight.description>Анимация подсветки пешки для ритуала. Может снижать производительность, используйте умеренно.</VFEPD_Mote_RolePawnHighlight.description>
+
+  <!-- EN: spike pipe -->
+  <VFEPD_Mote_SpikePipe.label>труба с шипами</VFEPD_Mote_SpikePipe.label>
+  <!-- EN: This is a mote prop for "Spike Pipe". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_SpikePipe.description>Анимация шипастой трубы. Может снижать производительность, используйте умеренно.</VFEPD_Mote_SpikePipe.description>
+
+  <!-- EN: tech lines A -->
+  <VFEPD_Mote_RitualTechLineA.label>технологич. линии 1</VFEPD_Mote_RitualTechLineA.label>
+  <!-- EN: This is a mote prop for "Ritual Tech Line A". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_RitualTechLineA.description>Анимация узоров в технологическом стиле. Может снижать производительность, используйте умеренно.</VFEPD_Mote_RitualTechLineA.description>
+
+  <!-- EN: tech lines B -->
+  <VFEPD_Mote_RitualTechLineB.label>технологич. линии 2</VFEPD_Mote_RitualTechLineB.label>
+  <!-- EN: This is a mote prop for "Ritual Tech Line B". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_RitualTechLineB.description>Анимация узоров в технологическом стиле. Может снижать производительность, используйте умеренно.</VFEPD_Mote_RitualTechLineB.description>
+
+  <!-- EN: tech lines C -->
+  <VFEPD_Mote_RitualTechLineC.label>технологич. линии 3</VFEPD_Mote_RitualTechLineC.label>
+  <!-- EN: This is a mote prop for "Ritual Tech Line C". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_RitualTechLineC.description>Анимация узоров в технологическом стиле. Может снижать производительность, используйте умеренно.</VFEPD_Mote_RitualTechLineC.description>
+
+  <!-- EN: glow single ray -->
+  <VFEPD_Mote_RitualGlowSingleRay.label>ритуальное свечение 2</VFEPD_Mote_RitualGlowSingleRay.label>
+  <!-- EN: This is a mote prop for "Ritual Glow Single Ray". Intrinsically laggy, though less than effecter props. Use in moderation. -->
+  <VFEPD_Mote_RitualGlowSingleRay.description>Анимация свечения во время ритуала. Может снижать производительность, используйте умеренно.</VFEPD_Mote_RitualGlowSingleRay.description>
+  
+  <!-- EN: bonsai pot -->
+  <VFEPD_FakeBonsaiPot.label>горшок для бонсая</VFEPD_FakeBonsaiPot.label>
+  <!-- EN: This fake pot is similar to those used for planting bonsai trees. Colonists will not plant anything here, so you can put a fake flower on top. -->
+  <VFEPD_FakeBonsaiPot.description>Этот фальшивый горшок похож на те, что используются для посадки деревьев бонсай. Здесь поселенцы ничего не будут сажать, поэтому вы можете поместить сверху искусственный цветок.</VFEPD_FakeBonsaiPot.description>
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<ModMetaData>
+	<name>Vanilla Furniture Expanded - Props and Decor Russian Language Pack</name>
+	<author>Mewn Goddess, OliveWizard и Grim Cheese</author>
+	<packageId>Mewn.Rus.VFEPropsandDecor</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VFEPropsandDecor</packageId>
+			<displayName>Vanilla Furniture Expanded - Props and Decor</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=2102143149</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<incompatibleWith>
+		<li>am.rus.vfepropsanddecor</li>
+		<li>am.rus.vfecore</li>
+    </incompatibleWith>
+	<loadAfter>
+		<li>VanillaExpanded.VFEPropsandDecor</li>
+		<li>ow.ru.furniture</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Vanilla Furniture Expanded - Props and Decor.</description>
+</ModMetaData>

@@ -1,0 +1,34 @@
+﻿<LanguageData>
+  <!-- EN: Select prop category: -->
+  <VFE_ChoosePropCategory>Выбрать категорию декораций:</VFE_ChoosePropCategory>
+  <!-- EN: Go back -->
+  <VFE_GoBack>Назад</VFE_GoBack>
+  <!-- EN: Search -->
+  <VFE_PrefabSearch>Поиск</VFE_PrefabSearch>
+  <!-- EN: Not enough silver in stockpiles. You need to have at least {0} silver to build this prop -->
+  <VFE_NoSilver>Недостаточно серебра на складе. Для постройки этой декорации необходимо как минимум {0} единиц серебра.</VFE_NoSilver>
+  <!-- EN: Prop cost multiplier -->
+  <VFE_PropCostMultiplier>Множитель цены</VFE_PropCostMultiplier>
+  <!-- EN: Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs. -->
+  <VFE_PropCostMultiplierDesc>Стоимость декораций, покупаемых за серебро, рассчитывается в зависимости от их размера, очков здоровья и степени укрытия. С помощью этого ползунка вы можете изменить их стоимость. 0 делает постройку бесплатной.</VFE_PropCostMultiplierDesc>
+  <!-- EN: Silver return multiplier -->
+  <VFE_SilverReturnMultiplier>Множитель возврата серебра</VFE_SilverReturnMultiplier>
+  <!-- EN: When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting. -->
+  <VFE_SilverReturnMultiplierDesc>После разрушения декорации возвращают потраченное на их покупку серебро. По умолчанию возвращается 100% от стоимости, но этот процент можно уменьшить с помощью данной настройки.</VFE_SilverReturnMultiplierDesc>
+  <!-- EN: Reset -->
+  <VFE_Reset>Сбросить</VFE_Reset>
+  <!-- EN: Built -->
+  <VPE_NeedsMats>Построить</VPE_NeedsMats>
+  <!-- EN: This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves -->
+  <VPE_NeedsMatsDesc>Для постройки данной декорации нужны строительные материалы, а не серебро. Кроме того, поселенцы должны построить её сами.</VPE_NeedsMatsDesc>
+  <!-- EN: build props -->
+  <VFEPD_BuildProps>Построить декор</VFEPD_BuildProps>
+  <!-- EN: Open a menu to build props with a silver cost. -->
+  <VFEPD_BuildPropsDesc>Откройте меню для постройки декораций за серебро.</VFEPD_BuildPropsDesc>
+  <!-- EN: Can't be built until {0} has been researched by the colony -->
+  <VFEPD_ResearchNeeded>Невозможно построить, пока вашим поселением не будет исследован проект «{0}».</VFEPD_ResearchNeeded>
+  <!-- EN: Make copy -->
+  <VFEPD_MakeCopy>Построить копию</VFEPD_MakeCopy>
+  <!-- EN: Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles. -->
+  <VFEPD_MakeCopyDesc>Создать копию этой декоративной постройки. Для покупки копии необходимо иметь в запасах достаточное количество серебра.</VFEPD_MakeCopyDesc>
+</LanguageData>
