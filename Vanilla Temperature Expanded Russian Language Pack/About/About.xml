@@ -1,0 +1,19 @@
+<ModMetaData>
+	<name>Vanilla Temperature Expanded Russian Language Pack</name>
+	<author>Grim Cheese</author>
+	<packageId>VRE.GrimCheese.VanillaExpanded.Temperature</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.Temperature</packageId>
+			<displayName>Vanilla Temperature Expanded</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3202046258</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>VanillaExpanded.Temperature</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Vanilla Temperature Expanded.</description>
+</ModMetaData>

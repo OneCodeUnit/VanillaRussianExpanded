@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Enable proxy heat effect indoors -->
+  <PH.EnableProxyHeatEffectIndoors>Включить температурный эффект при приближении к источнику тепла/холода внутри помещений</PH.EnableProxyHeatEffectIndoors>
+  <!-- EN: Allow plant growth inside proxy heat effect radius -->
+  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Разрешить выращивание растений в радиусе действия локального температурного эффекта от источников тепла/холода.</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+  <!-- EN: The hot side of the heater must be exposed. -->
+  <VTE.MustPlaceHeaterWithFreeSpaces>Горячая сторона обогревателя должна быть открыта.</VTE.MustPlaceHeaterWithFreeSpaces>
+  <!-- EN: Must be placed under a roof. -->
+  <VTE.MustPlaceUnderRoof>Должен быть размещён под крышей.</VTE.MustPlaceUnderRoof>
+  <!-- EN: Cannot be placed next to ceiling fans. -->
+  <VTE.CannotPlaceAdjacentCeilingFan>Нельзя размещать рядом с потолочными вентиляторами.</VTE.CannotPlaceAdjacentCeilingFan>
+  <!-- EN: Network efficiency -->
+  <VTE.Efficiency>Эффективность сети</VTE.Efficiency>
+  <!-- EN: Network target temperature -->
+  <VTE.NetworkTargetTemp>Целевая температура сети</VTE.NetworkTargetTemp>
+  <!-- EN: Production -->
+  <VTE.Production>Выработка</VTE.Production>
+  <!-- EN: Consumption -->
+  <VTE.Consumption>Потребление</VTE.Consumption>
+  <!-- EN: Total production -->
+  <VTE.TotalProduction>Общая выработка</VTE.TotalProduction>
+  <!-- EN: Total consumption -->
+  <VTE.TotalConsumption>Общее потребление</VTE.TotalConsumption>
+  <!-- EN: Link temperature -->
+  <VTE.Relink>Связать с блоком управления</VTE.Relink>
+  <!-- EN: Unlink temperature -->
+  <VTE.Unlink>Отвязать от блока управления</VTE.Unlink>
+  <!-- EN: Link this AC unit with the system, inheriting the desired temperature. -->
+  <VTE.AcRelinkDescription>Свяжите этот блок кондиционера с системой, задавая значение температуры, выставленное в блоке управления кондиционерами.</VTE.AcRelinkDescription>
+  <!-- EN: Unlink this AC unit from inheriting desired temperature from the system. -->
+  <VTE.AcUnlinkDescription>Отвяжите этот блок кондиционера от системы, задавая индивидуальное значение температуры, выставляемое на самом блоке.</VTE.AcUnlinkDescription>
+  <!-- EN: Cannot work: Not enough compressors connected. -->
+  <VTE.MissingCompressors>Не может работать: Недостаточно подключённых компрессоров.</VTE.MissingCompressors>
+  <!-- EN: Cannot work: Missing AC control unit. -->
+  <VTE.MissingController>Не может работать: Отсутствует блок управления кондиционерами.</VTE.MissingController>
+  <!-- EN: Cannot work: Connected to more than one AC control unit. -->
+  <VTE.TooManyControllers>Не может работать: Подключено более одного блока управления кондиционерами.</VTE.TooManyControllers>
+  <!-- EN: Cannot work: Covered by roof. -->
+  <VTE.CompressorCovered>Не может работать: Под крышей.</VTE.CompressorCovered>
+  <!-- EN: Switches air flow on/off. -->
+  <VTE_VentValve>Вкл./выкл.</VTE_VentValve>
+  <!-- EN: Switches air flow on/off. A pawn will come open/close the valve. -->
+  <VTE_VentValveDesc>Дать команду включения или отключения подачи воздуха. Вскоре поселенец подойдёт и переключит вентиль.</VTE_VentValveDesc>
+</LanguageData>

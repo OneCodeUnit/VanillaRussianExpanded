@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: air duct -->
+  <VTE_AirDuct.label>воздуховод</VTE_AirDuct.label>
+  <!-- EN: An air duct used by the AC network to transport air between the AC units and compressors. -->
+  <VTE_AirDuct.description>Воздушный канал, используемый в системах кондиционирования для прокачки воздуха между блоками кондиционеров и компрессорами.</VTE_AirDuct.description>
+  
+  <!-- EN: air duct valve -->
+  <VTE_VentValve.label>вентиль воздуховода</VTE_VentValve.label>
+  <!-- EN: Switches air flow on/off. -->
+  <VTE_VentValve.description>Включает и выключает подачу воздуха.</VTE_VentValve.description>
+  
+  <!-- EN: subterranean air duct -->
+  <VTE_UndergroundAirDuct.label>подземный воздуховод</VTE_UndergroundAirDuct.label>
+  <!-- EN: A subterranean air duct used by the AC network to transport air between the AC units and compressors. -->
+  <VTE_UndergroundAirDuct.description>Подземный воздушный канал, используемый в системах кондиционирования для подачи воздуха между блоками кондиционеров и компрессорами.</VTE_UndergroundAirDuct.description>
+  
+  <!-- EN: AC control unit -->
+  <VTE_ACControlUnit.label>блок управления кондиционерами</VTE_ACControlUnit.label>
+  <!-- EN: A main air conditioning control unit. Connects to compressors to allow AC units to generate cool or hot air. Needs to be connected to compressors by air ducts. AC control unit dictates the desired temperature for all AC units in the same network. Installing too many AC units may decrease the efficiency of the network, increasing the power drain of all devices. Constructing additional compressors will improve the efficiency of the network. -->
+  <VTE_ACControlUnit.description>Основной блок управления системой кондиционирования. Подключается к компрессорам, позволяя кондиционерам охлаждать или нагревать воздух. Блок должен быть подключен к компрессорам с помощью воздуховодов. Это устройство задаёт желаемую температуру для всех кондиционеров в одной сети. Подключение слишком большого количества кондиционеров к одной сети может снизить её эффективность, увеличив потребление энергии всеми устройствами. Установка дополнительных компрессоров повысит эффективность сети.</VTE_ACControlUnit.description>
+  
+  <!-- EN: AC unit -->
+  <VTE_ACUnit.label>блок кондиционера</VTE_ACUnit.label>
+  <!-- EN: An air-conditioning machine that fits into a wall. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. -->
+  <VTE_ACUnit.description>Электрическое устройство, которое встраивается в стену. Подает холодный или тёплый воздух в одном направлении, в зависимости от текущей температуры в помещении. Оно будет стремиться к достижению температуры, указанной в блоке управления кондиционерами, если не отвязано от системы. Должно быть подключено к блоку управления кондиционерами с помощью воздуховодов.</VTE_ACUnit.description>
+  
+  <!-- EN: wall-mounted AC unit -->
+  <VTE_ACUnitWall.label>настенный блок кондиционера</VTE_ACUnitWall.label>
+  <!-- EN: A wall-mounted air-conditioning machine. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Can only be constructed on a wall. -->
+  <VTE_ACUnitWall.description>Электрическое устройство, которое крепится на стену, не разрушая её. Подаёт холодный или тёплый воздух в одном направлении, в зависимости от текущей температуры в помещении. Оно будет стремиться к достижению температуры, указанной в блоке управления кондиционерами, если не отвязано от системы. Должно быть подключено к блоку управления кондиционерами с помощью воздуховодов. Может быть установлено только на стенах.</VTE_ACUnitWall.description>
+  
+  <!-- EN: AC compressor -->
+  <VTE_ACCompressor.label>компрессор</VTE_ACCompressor.label>
+  <!-- EN: An air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate two additional AC devices without losing efficiency. -->
+  <VTE_ACCompressor.description>Компрессор, подключаемый к блоку управления кондиционерами через воздуховоды. Может быть размещён только на улице. Будучи подключённым к электросети, он позволяет добавить два дополнительных блока кондиционеров без потери эффективности сети.</VTE_ACCompressor.description>
+  
+  <!-- EN: large AC compressor -->
+  <VTE_LargeACCompressor.label>большой компрессор</VTE_LargeACCompressor.label>
+  <!-- EN: A large air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate six additional AC devices without losing efficiency. -->
+  <VTE_LargeACCompressor.description>Большой компрессор, подключаемый к блоку управления кондиционерами через воздуховоды. Может быть размещён только на улице. При наличии электроэнергии, он позволяет добавить шесть дополнительных блоков кондиционеров без потери эффективности сети.</VTE_LargeACCompressor.description>
+</LanguageData>
