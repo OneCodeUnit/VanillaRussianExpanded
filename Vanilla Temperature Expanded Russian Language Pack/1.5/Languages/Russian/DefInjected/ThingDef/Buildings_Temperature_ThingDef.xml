@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: industrial heater -->
+  <VTE_IndustrialHeater.label>промышленный обогреватель</VTE_IndustrialHeater.label>
+  <!-- EN: A large, industrial-type heater machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. It is capable of heating up the room to a much higher temperature than the standard heaters. -->
+  <VTE_IndustrialHeater.description>Большой промышленный нагревательный прибор, который встраивается в стену. Он преобразует электричество в тепло. Может автоматически включаться или выключаться для достижения определённой температуры. Способен нагревать помещения до гораздо более высоких температур, чем стандартные обогреватели.</VTE_IndustrialHeater.description>
+  
+  <!-- EN: industrial cooler -->
+  <VTE_IndustrialCooler.label>промышленный кондиционер</VTE_IndustrialCooler.label>
+  <!-- EN: A large, industrial-type air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. It’s capable of cooling the room to much lower temperature than the standard cooler. -->
+  <VTE_IndustrialCooler.description>Большой промышленный кондиционер, который встраивается в стену. Подаёт холодный воздух с одной стороны, в то время как с другой отводится горячий. Способен автоматически включаться или выключаться для достижения заданной температуры. Может использоваться для охлаждения помещения летом или для устройства морозильной камеры. Способен охлаждать помещения до гораздо более низких температур, чем стандартные кондиционеры.</VTE_IndustrialCooler.description>
+  
+  <!-- EN: wall heater -->
+  <VTE_WallHeater.label>встраиваемый обогреватель</VTE_WallHeater.label>
+  <!-- EN: A heating machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can be used to heat up rooms during winter. -->
+  <VTE_WallHeater.description>Встраиваемое в стену электрическое устройство, которое преобразует электричество в тепло. Автоматически включается и отключается для достижения заданной температуры. Может использоваться для обогрева помещений зимой.</VTE_WallHeater.description>
+  
+  <!-- EN: wall-mounted heater -->
+  <VTE_WallMountedHeater.label>настенный обогреватель</VTE_WallMountedHeater.label>
+  <!-- EN: A wall-mounted device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can only be constructed on a wall. -->
+  <VTE_WallMountedHeater.description>Электрическое устройство, которое крепится на стену, не разрушая её. Оно преобразует электричество в тепло. Автоматически включается и отключается для достижения заданной температуры. Может быть установлено только на стенах.</VTE_WallMountedHeater.description>
+  
+  <!-- EN: wall-mounted cooler -->
+  <VTE_WallMountedCooler.label>настенный кондиционер</VTE_WallMountedCooler.label>
+  <!-- EN: A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. Can only be constructed on a wall. -->
+  <VTE_WallMountedCooler.description>Электрическое устройство, которое крепится на стену, не разрушая её. Подаёт холодный воздух с одной стороны, в то время как с другой отводится горячий. Автоматически включается и отключается для достижения заданной температуры. Может использоваться для охлаждения помещения летом или для устройства морозильной камеры. Может быть установлено только на стенах.</VTE_WallMountedCooler.description>
+  
+  <!-- EN: wall-mounted vent -->
+  <VTE_WallMountedVent.label>настенная вентиляция</VTE_WallMountedVent.label>
+  <!-- EN: A simple, wall-mounted vent for equalizing the temperature between two rooms without allowing people to walk between them. Can only be constructed on a wall. -->
+  <VTE_WallMountedVent.description>Обычные вентиляционные трубы, которые можно установить на стену, не разрушая её. Позволяют воздуху циркулировать между двумя соседними помещениями.</VTE_WallMountedVent.description>
+
+  <!-- EN: standing cooler -->
+  <VTE_StandingCooler.label>стационарный кондиционер</VTE_StandingCooler.label>
+  <!-- EN: A free standing air-cooling machine. Cool air comes out of a fan and spreads over surrounding area. Can be used to cool down rooms during summer. Not efficient enough to refrigerate food. -->
+  <VTE_StandingCooler.description>Небольшое автономное электрическое устройство для охлаждения воздуха. Распространяет вокруг прохладный воздух с помощью вентилятора. Может использоваться для охлаждения помещения летом. Недостаточно эффективно для устройства морозильной камеры.</VTE_StandingCooler.description>
+  
+  <!-- EN: small ceiling fan -->
+  <VTE_SmallCeilingFan.label>маленький потолочный вентилятор</VTE_SmallCeilingFan.label>
+  <!-- EN: A ceiling-mounted fan. Can be used to slowly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C. -->
+  <VTE_SmallCeilingFan.description>Вентилятор, устанавливаемый на потолке. Может использоваться для медленного охлаждения помещений в летнее время. Недостаточно эффективен для устройства морозильной камеры. Целевая температура установлена на +17С.</VTE_SmallCeilingFan.description>
+  
+  <!-- EN: large ceiling fan -->
+  <VTE_LargeCeilingFan.label>большой потолочный вентилятор</VTE_LargeCeilingFan.label>
+  <!-- EN: A large, ceiling-mounted fan. Can be used to quickly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C. -->
+  <VTE_LargeCeilingFan.description>Вентилятор, устанавливаемый на потолке. Может использоваться для быстрого охлаждения помещений в летнее время. Недостаточно эффективен для устройства морозильной камеры. Целевая температура установлена на +17С.</VTE_LargeCeilingFan.description>
+</LanguageData>
