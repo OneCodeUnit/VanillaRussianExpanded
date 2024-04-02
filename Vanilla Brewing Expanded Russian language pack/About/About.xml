@@ -5,6 +5,7 @@
   <packageId>OW.RU.Brewing</packageId>
   <supportedVersions>
     <li>1.4</li>
+	<li>1.5</li>
   </supportedVersions>
   <description>Перевод на русский язык мода Vanilla Brewing Expanded и дополнения Coffees and Teas.</description>
   <modDependencies>
@@ -16,7 +17,7 @@
   </modDependencies>
 	<loadAfter>
 		<li>VanillaExpanded.VBrewE</li>
-    <li>VanillaExpanded.VBrewECandT</li>
+		<li>VanillaExpanded.VBrewECandT</li>
 	</loadAfter>
   <incompatibleWith>
     <li>Am.Rus.VBrewE</li>
