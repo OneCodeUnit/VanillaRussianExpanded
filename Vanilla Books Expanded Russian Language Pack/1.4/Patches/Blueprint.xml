@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+  <mods>
+  <li>Vanilla Books Expanded</li>
+  </mods>
+  <match Class="PatchOperationSequence">
+    <success>Always</success>
+  <operations>
+  <li Class="PatchOperationReplace"> 
+  <xpath>/Defs/ThingDef[defName="VBE_Blueprint"]/label</xpath>
+  <value>
+  <label>чертёж</label>  
+  </value>
+  </li>  
+  <li Class="PatchOperationReplace"> 
+  <xpath>/Defs/ThingDef[defName="VBE_Blueprint"]/description</xpath>
+  <value>
+  <description>Чертёж с «секретами» какой-то технологии. Он позволит вашему поселению полностью изучить эту технологию.\n\nОднако вы не сможете прочитать и понять чертёж со слишком сложными знаниями: нужно подготовить базу из предыдущих исследований.</description>  
+  </value>
+  </li>
+  </operations>
+  </match>
+  </Operation>
+</Patch>
