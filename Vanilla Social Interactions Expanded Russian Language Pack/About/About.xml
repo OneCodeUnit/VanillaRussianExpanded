@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Social Interactions Expanded Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>OW.RU.Social</packageId>
+  <description>Перевод на русский язык мода Vanilla Social Interactions Expanded. Подробности ищите на странице в мастерской..</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VanillaSocialInteractionsExpanded</packageId>
+      <displayName>Vanilla Social Interactions Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2439736083</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VanillaSocialInteractionsExpanded</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>Am.Rus.VanillaSocialInteractionsExpanded</li>
+  </incompatibleWith>
+</ModMetaData>

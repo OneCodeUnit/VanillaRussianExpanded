@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: inspiration satisfied -->
+  <VSIE_InspirationSatisfied.stages.0.label>воодушевление удовлетворено</VSIE_InspirationSatisfied.stages.0.label>
+  <!-- EN: I have completed my aspiration! -->
+  <VSIE_InspirationSatisfied.stages.0.description>Я {PAWN_gender ? выполнил : выполнила} своё стремление!</VSIE_InspirationSatisfied.stages.0.description>
+
+  <!-- EN: inspiration not satisfied -->
+  <VSIE_InspirationNotSatisfied.stages.0.label>воодушевление не удовлетворено</VSIE_InspirationNotSatisfied.stages.0.label>
+  <!-- EN: I have failed to complete my aspiration. -->
+  <VSIE_InspirationNotSatisfied.stages.0.description>Я {PAWN_gender ? провалил : провалила} своё стремление.</VSIE_InspirationNotSatisfied.stages.0.description>
+
+  <!-- EN: had a nice chat with a beer -->
+  <VSIE_HadNiceChatWithBeer.stages.0.label>отлично поболтали за пивом</VSIE_HadNiceChatWithBeer.stages.0.label>
+  <!-- EN: I enjoyed the little chit chat and a cold one in my hand. -->
+  <VSIE_HadNiceChatWithBeer.stages.0.description>Я {PAWN_gender ? насладился : насладилась} приятной беседой и бутылкой холодненького в руке.</VSIE_HadNiceChatWithBeer.stages.0.description>
+
+  <!-- EN: Attended binge party -->
+  <VSIE_AttendedBingeParty.stages.0.label>посещение попойки</VSIE_AttendedBingeParty.stages.0.label>
+  <!-- EN: I had a great time at the binge party. -->
+  <VSIE_AttendedBingeParty.stages.0.description>Я отлично {PAWN_gender ? напился : напилась}.</VSIE_AttendedBingeParty.stages.0.description>
+
+  <!-- EN: Attended outdoor party -->
+  <VSIE_AttendedOutdoorParty.stages.0.label>посещение вечеринки на воздухе</VSIE_AttendedOutdoorParty.stages.0.label>
+  <!-- EN: I had a great time outside! -->
+  <VSIE_AttendedOutdoorParty.stages.0.description>Я {PAWN_gender ? повеселился : повеселилась} на свежем воздухе!</VSIE_AttendedOutdoorParty.stages.0.description>
+
+  <!-- EN: Got some closure -->
+  <VSIE_GotSomeClosure.stages.0.label>окончательное расставание</VSIE_GotSomeClosure.stages.0.label>
+  <!-- EN: I will cherish every memory. -->
+  <VSIE_GotSomeClosure.stages.0.description>Я буду дорожить этими воспоминаниями.</VSIE_GotSomeClosure.stages.0.description>
+
+  <!-- EN: Attended birthday party -->
+  <VSIE_AttendedBirthdayParty.stages.0.label>посещение дня рождения</VSIE_AttendedBirthdayParty.stages.0.label>
+  <!-- EN: I had a great time at the birthday party. -->
+  <VSIE_AttendedBirthdayParty.stages.0.description>Я отлично {PAWN_gender ? провёл : провела} время на дне рождения.</VSIE_AttendedBirthdayParty.stages.0.description>
+
+  <!-- EN: Had a birthday party -->
+  <VSIE_HadBirthdayParty.stages.0.label>день рождения</VSIE_HadBirthdayParty.stages.0.label>
+  <!-- EN: They threw me a birthday party! -->
+  <VSIE_HadBirthdayParty.stages.0.description>Они все пришли, чтобы поздравить меня!</VSIE_HadBirthdayParty.stages.0.description>
+</LanguageData>
