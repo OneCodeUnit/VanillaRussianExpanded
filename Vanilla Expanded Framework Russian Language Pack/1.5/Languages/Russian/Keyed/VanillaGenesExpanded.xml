@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- EN: over 40ºC -->
+  <VGE_StatsReport_Over40>выше 40ºC</VGE_StatsReport_Over40>
+  <!-- EN: below 0ºC -->
+  <VGE_StatsReport_Below0>ниже 0ºC</VGE_StatsReport_Below0>
+  <!-- EN: armoured -->
+  <VGE_StatsReport_Armoured>укреплено</VGE_StatsReport_Armoured>
+  <!-- EN: no sunlight -->
+  <VGE_StatsReport_NoSunlight>без света</VGE_StatsReport_NoSunlight>
+  <!-- EN: on water -->
+  <VGE_StatsReport_Water>на воде</VGE_StatsReport_Water>
+  <!-- EN: on dry land -->
+  <VGE_StatsReport_NotWater>на суше</VGE_StatsReport_NotWater>
+  <!-- EN: outdoors -->
+	<VGE_StatsReport_Outside>на улице</VGE_StatsReport_Outside>
+  <!-- EN: indoors -->
+	<VGE_StatsReport_Inside>в помещении</VGE_StatsReport_Inside>
+  <!-- EN: above 50% lit -->
+	<VGE_StatsReport_InLight>освещённость выше 50%</VGE_StatsReport_InLight>
+  <!-- EN: below 50% lit -->
+	<VGE_StatsReport_InDarkness>освещённость ниже 50%</VGE_StatsReport_InDarkness>
+  <!-- EN: in pain -->
+	<VGE_StatsReport_InPain>под дождём</VGE_StatsReport_InPain>
+  <!-- EN: in polluted terrain -->
+	<VGE_StatsReport_InPollution>на загрязнённой почве</VGE_StatsReport_InPollution>
+  <!-- EN: on colony map -->
+	<VGE_StatsReport_ColonyMap>в поселении</VGE_StatsReport_ColonyMap>
+  <!-- EN: outside colony map -->
+	<VGE_StatsReport_OutsideColonyMap>за пределами поселения</VGE_StatsReport_OutsideColonyMap>
+  <!-- EN: light sensitivity -->
+  <VGE_StatsReport_AnyLightSensitivity>светочувствительность</VGE_StatsReport_AnyLightSensitivity>
+  
+  <!-- EN: {0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid. -->
+  <VGE_EggPregnancy>Яйца {0} оплодотворены! Кладка яиц продолжится и после оплодотворения яйца.</VGE_EggPregnancy>
+  <!-- EN: {0} fertilized! -->
+  <VGE_EggPregnancyLabel>{0} оплодотворено!</VGE_EggPregnancyLabel>
+  
+  <!-- EN: {0} has laid an egg! Keep it warm and protected. -->
+  <VGE_EggLaid>{0} {0_gender ? снёс : снесла} яйцо! Держите его в тепле и оберегайте.</VGE_EggLaid>
+  <!-- EN: {0} laid an egg! -->
+  <VGE_EggLaidLabel>{0} {0_gender ? снёс : снесла} яйцо!</VGE_EggLaidLabel>
+  
+  <!-- EN: {0} has hatched from an egg! -->
+  <VGE_EggHatched>{0} {0_gender ? вылупился : вылупилась} из яйца!</VGE_EggHatched>
+  <!-- EN: {0} hatched! -->
+  <VGE_EggHatchedLabel>{0} {0_gender ? вылупился : вылупилась}!</VGE_EggHatchedLabel>
+  
+  <!-- EN: Males don't lay eggs -->
+  <VGE_Male_Egg>Мужские особи не могут откладывать яйца</VGE_Male_Egg>
+
+  <!-- EN: Pregnancy factor gene: {0} gestation speed -->
+  <VGE_PregnancyFactor>Влияние на беременность: {0} скорости гестации</VGE_PregnancyFactor>
+
+  <!-- EN: {0} only gene. -->
+  <VGE_ForGenderOnly>Только ген «{0}».</VGE_ForGenderOnly>
+</LanguageData>

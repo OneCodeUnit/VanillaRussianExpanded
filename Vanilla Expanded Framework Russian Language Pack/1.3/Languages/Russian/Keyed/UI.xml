@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Hire {0} -->
+  <VEF.Hire>Нанять {replace: {0}; "Pirates"-"пиратов"; "Пираты"-"пиратов"; "Мусорщики"-"мусорщиков"; "Наёмники"-"наёмников"}</VEF.Hire>
+  <!-- EN: Hire some {0} to help around the colony, for example with defense. -->
+  <VEF.HireDesc>{0} могут помочь поселению, например, в обороне, если их нанять.</VEF.HireDesc>
+  <!-- EN: Available Silver: {0} -->
+  <VEF.AvailableSilver>Доступно серебра: {0}</VEF.AvailableSilver>
+  <!-- EN: Value -->
+  <VEF.Value>Стоимость</VEF.Value>
+  <!-- EN: How many of that unit do you want to have? -->
+  <VEF.ChooseNumberOfUnits>Сколько человек вы хотите взять?</VEF.ChooseNumberOfUnits>
+  <!-- EN: Breakdown -->
+  <VEF.Breakdown>Расчёты</VEF.Breakdown>
+  <!-- EN: Amount of Days -->
+  <VEF.DayAmount>Количество дней</VEF.DayAmount>
+  <!-- EN: Cost to hire -->
+  <VEF.Cost>Стоимость найма</VEF.Cost>
+  <!-- EN: Risk multiplier -->
+  <VEF.RiskMult>Плата за риск</VEF.RiskMult>
+  <!-- EN: Total Price -->
+  <VEF.TotalPrice>Итоговая цена</VEF.TotalPrice>
+  <!-- EN: You can hire {0} for any period of time.You can only have one contract active at a time, and you cannot mix and match the factions from which you hire.
+If hired {0} die on duty, you will incur an additional 5% increase to contract price per dead pirate on all future contracts for a full year. -->
+  <VEF.HiringDesc>Вы можете нанять {replace: {0}; "pirates"-"пиратов"} на столько, на сколько захотите, но можно иметь только один активный контракт и только с одной фракцией.
+Если нанятый {replace: {0}; "pirates"-"пират"} умрёт во время действия контракта, то стоимость всех контрактов в течение года будет увеличена на 5% за каждого умершего.</VEF.HiringDesc>
+  <!-- EN: Long term contracts are significantly more expensive -->
+  <VEF.LongTerm>Долгосрочные контракты значительно дороже</VEF.LongTerm>
+  <!-- EN: View contract with {0} -->
+  <VEF.ContractInfo>Посмотреть контракт с {replace: {0}; "Пираты"-"пиратами"; "Мусорщики"-"мусорщиками"; "Наёмники"-"наёмниками"}</VEF.ContractInfo>
+  <!-- EN: Contracted: -->
+  <VEF.PawnsList>Наняты:</VEF.PawnsList>
+  <!-- EN: Contract with {0} -->
+  <VEF.ContractTitle>Контракт с {replace: {0}; "Пираты"-"пиратами"; "Мусорщики"-"мусорщиками"; "Наёмники"-"наёмниками"}</VEF.ContractTitle>
+  <!-- EN: Silver spent: -->
+  <VEF.Spent>Стоимость:</VEF.Spent>
+  <!-- EN: Time remaining: -->
+  <VEF.TimeLeft>Оставшееся время:</VEF.TimeLeft>
+  <!-- EN: Cancel Contract -->
+  <VEF.CancelContract>Отменить контракт</VEF.CancelContract>
+  <!-- EN: Cancelling your contract will not refund the silver you spent on it. -->
+  <VEF.NoRefund>Отменив контракт, вы не получите потраченное серебро.</VEF.NoRefund>
+  <!-- EN: Customize {0} -->
+  <VEF.Customize>Изменить {0}</VEF.Customize>
+  <!-- EN: {0} Customization -->
+  <VEF.CustomizationTitle>Изменение {0}</VEF.CustomizationTitle>
+  <!-- EN: Name -->
+  <VEF.Name>Имя</VEF.Name>
+  <!-- EN: Cancel -->
+  <VEF.Cancel>Отменить</VEF.Cancel>
+  <!-- EN: Available contracts: {0} -->
+  <VEF.AvailableContracts>Доступные контракты: {0}</VEF.AvailableContracts>
+</LanguageData>

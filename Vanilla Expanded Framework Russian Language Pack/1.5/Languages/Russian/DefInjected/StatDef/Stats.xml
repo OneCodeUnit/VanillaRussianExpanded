@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ranged cooldown factor -->
+  <VEF_RangedCooldownFactor.label>время между выстрелами</VEF_RangedCooldownFactor.label>
+  <!-- EN: The cooldown on ranged weapons of the wearer is multiplied by this value. -->
+  <VEF_RangedCooldownFactor.description>Время, необходимое для перезарядки оружия умножается на это значение.</VEF_RangedCooldownFactor.description>
+
+  <!-- EN: verb range factor -->
+  <VEF_VerbRangeFactor.label>дальность стрельбы</VEF_VerbRangeFactor.label>
+  <!-- EN: verb range factor (people) -->
+  <VEF_VerbRangeFactor.labelForFullStatList>дальность стрельбы (люди)</VEF_VerbRangeFactor.labelForFullStatList>
+  <!-- EN: The range on weapons is multiplied by this value. -->
+  <VEF_VerbRangeFactor.description>Дальнобойность оружия владельца умножается на это значение.</VEF_VerbRangeFactor.description>
+
+  <!-- EN: verb cooldown factor -->
+  <VEF_VerbCooldownFactor.label>время между атаками</VEF_VerbCooldownFactor.label>
+  <!-- EN: verb cooldown factorr (people) -->
+  <VEF_VerbCooldownFactor.labelForFullStatList>время между атаками (люди)</VEF_VerbCooldownFactor.labelForFullStatList>
+  <!-- EN: The cooldown on weapons is multiplied by this value. -->
+  <VEF_VerbCooldownFactor.description>Время между атаками оружием умножается на это значение.</VEF_VerbCooldownFactor.description>
+
+  <!-- EN: Shield max energy offset -->
+  <VEF_EnergyShieldEnergyMaxOffset.label>сдвиг макс. заряда щита</VEF_EnergyShieldEnergyMaxOffset.label>
+  <!-- EN: Offset of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxOffset.description>Сдвиг максимума энергии щита, который можно увеличить различными путями.</VEF_EnergyShieldEnergyMaxOffset.description>
+
+  <!-- EN: Shield max energy factor -->
+  <VEF_EnergyShieldEnergyMaxFactor.label>множ. макс. заряда щита</VEF_EnergyShieldEnergyMaxFactor.label>
+  <!-- EN: Factor of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxFactor.description>Множитель максимума энергии щита, который можно увеличить различными путями.</VEF_EnergyShieldEnergyMaxFactor.description>
+
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxApparel.label>макс. заряд щита</VEF_EnergyShieldEnergyMaxApparel.label>
+  <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+  <VEF_EnergyShieldEnergyMaxApparel.description>Максимальное количество энергии, которое может быть у щита. Больше энергии — больше поглощённого урона.</VEF_EnergyShieldEnergyMaxApparel.description>
+
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRateApparel.label>скорость восстановления щита</VEF_EnergyShieldRechargeRateApparel.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRateApparel.description>Скорость с которой щит восстанавливает энергию, если он не сломан.</VEF_EnergyShieldRechargeRateApparel.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRateApparel.formatString>{0} с</VEF_EnergyShieldRechargeRateApparel.formatString>
+  
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusApparel.label>радиус действия щита</VEF_EnergyShieldRadiusApparel.label>
+  <!-- EN: The area covered when the energy shield is active. -->
+  <VEF_EnergyShieldRadiusApparel.description>Область, которую закрывает щит во время своей работы.</VEF_EnergyShieldRadiusApparel.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusApparel.formatString>{0} с</VEF_EnergyShieldRadiusApparel.formatString>
+
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxPawn.label>макс. заряд щита</VEF_EnergyShieldEnergyMaxPawn.label>
+  <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+  <VEF_EnergyShieldEnergyMaxPawn.description>Максимальное количество энергии, которое может быть в щите. Больше энергии — большее поглощённого урона.</VEF_EnergyShieldEnergyMaxPawn.description>
+
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRatePawn.label>скорость восстановления щита</VEF_EnergyShieldRechargeRatePawn.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRatePawn.description>Скорость с которой щит восстанавливает энергию, если он не сломан.</VEF_EnergyShieldRechargeRatePawn.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRatePawn.formatString>{0}/с</VEF_EnergyShieldRechargeRatePawn.formatString>
+
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusPawn.label>радиус действия щита</VEF_EnergyShieldRadiusPawn.label>
+  <!-- EN: The area covered when the energy shield is active. -->
+  <VEF_EnergyShieldRadiusPawn.description>Область, которую закрывает щит во время своей работы.</VEF_EnergyShieldRadiusPawn.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusPawn.formatString>{0} с</VEF_EnergyShieldRadiusPawn.formatString>
+
+  <!-- EN: melee attack speed factor -->
+  <VEF_MeleeAttackSpeedFactor.label>множ. скорости ближнего боя</VEF_MeleeAttackSpeedFactor.label>
+  <!-- EN: A multiplier on melee attack speed. -->
+  <VEF_MeleeAttackSpeedFactor.description>Множитель скорости атаки в ближнем бою.</VEF_MeleeAttackSpeedFactor.description>
+
+  <!-- EN: range attack speed factor -->
+  <VEF_RangeAttackSpeedFactor.label>множ. скорости дальнего боя</VEF_RangeAttackSpeedFactor.label>
+  <!-- EN: A multiplier on range attack speed. -->
+  <VEF_RangeAttackSpeedFactor.description>Множитель скорости атаки в дальнем бою.</VEF_RangeAttackSpeedFactor.description>
+
+  <!-- EN: melee attack damage factor -->
+  <VEF_MeleeAttackDamageFactor.label>множ. урона в ближнем</VEF_MeleeAttackDamageFactor.label>
+  <!-- EN: A multiplier on melee attack damage. -->
+  <VEF_MeleeAttackDamageFactor.description>Множитель урона в ближнем бою.</VEF_MeleeAttackDamageFactor.description>
+
+  <!-- EN: range attack damage factor -->
+  <VEF_RangeAttackDamageFactor.label>множ. урона в дальнем</VEF_RangeAttackDamageFactor.label>
+  <!-- EN: A multiplier on range attack damage. -->
+  <VEF_RangeAttackDamageFactor.description>Множитель урона в дальнем бою.</VEF_RangeAttackDamageFactor.description>
+
+  <!-- EN: body food capacity multiplier -->
+  <VEF_FoodCapacityMultiplier.label>множ. вместимости желудка тела</VEF_FoodCapacityMultiplier.label>
+  <!-- EN: Increases the size of the pawn's hunger bar. This does not affect hunger. -->
+  <VEF_FoodCapacityMultiplier.description>Увеличивает размер желудка персонажа в зависимости от данного тела. Не влияет на голод.</VEF_FoodCapacityMultiplier.description>
+
+  <!-- EN: growth point multiplier -->
+  <VEF_GrowthPointMultiplier.label>множ. очков роста</VEF_GrowthPointMultiplier.label>
+  <!-- EN: Increases the amount of growth points accumulated by children when learning -->
+  <VEF_GrowthPointMultiplier.description>Увеличивает число очков роста, получаемое детьми в процессе обучения.</VEF_GrowthPointMultiplier.description>
+
+  <!-- EN: body size offset -->
+  <VEF_BodySize_Offset.label>сдвиг размера тела</VEF_BodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size. -->
+  <VEF_BodySize_Offset.description>Увеличивает размер тела персонажа относительно данного значения.</VEF_BodySize_Offset.description>
+
+  <!-- EN: body size multiplier -->
+  <VEF_BodySize_Multiplier.label>множ. размера тела</VEF_BodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size. -->
+  <VEF_BodySize_Multiplier.description>Увеличивает размер тела персонажа на данное значение.</VEF_BodySize_Multiplier.description>
+
+  <!-- EN: cosmetic body size offset -->
+  <VEF_CosmeticBodySize_Offset.label>сдвиг размера тела (косм.)</VEF_CosmeticBodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size. -->
+  <VEF_CosmeticBodySize_Offset.description>Увеличивает размер тела персонажа относительно данного значения.</VEF_CosmeticBodySize_Offset.description>
+
+  <!-- EN: cosmetic body size multiplier -->
+  <VEF_CosmeticBodySize_Multiplier.label>множ. размера тела (косм.)</VEF_CosmeticBodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size. -->
+  <VEF_CosmeticBodySize_Multiplier.description>Увеличивает размер тела персонажа на данное значение.</VEF_CosmeticBodySize_Multiplier.description>
+
+  <!-- EN: head size multiplier -->
+  <VEF_HeadSize_Cosmetic.label>множ. размера головы</VEF_HeadSize_Cosmetic.label>
+
+  <!-- EN: pawn render offset -->
+  <VEF_PawnRenderPosOffset.label>сдвиг отображения персонажей</VEF_PawnRenderPosOffset.label>
+  <!-- EN: Modifies the pawn's rendered position in y-axis. -->
+  <VEF_PawnRenderPosOffset.description>Изменяет позицию персонажа по оси y.</VEF_PawnRenderPosOffset.description>
+
+  <!-- EN: Mass carry capacity-->
+  <VEF_MassCarryCapacity.label>Вес переносимого груза</VEF_MassCarryCapacity.label>
+  <!-- EN: Total mass carrying capacity of the pawn in caravans. -->
+  <VEF_MassCarryCapacity.description>Общий вес переносимого в караване груза персонажем.</VEF_MassCarryCapacity.description>
+  <!-- EN: {0} kg -->
+  <VEF_MassCarryCapacity.formatString>{0} кг</VEF_MassCarryCapacity.formatString>
+  <!-- EN: {0} kg -->
+  <VEF_MassCarryCapacity.formatStringUnfinalized>{0} кг</VEF_MassCarryCapacity.formatStringUnfinalized>
+</LanguageData>
