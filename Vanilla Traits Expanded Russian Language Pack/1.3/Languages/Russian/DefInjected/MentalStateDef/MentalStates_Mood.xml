@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VTE_TechnophobeTantrum.label>истерика технофоба</VTE_TechnophobeTantrum.label>
+  <VTE_TechnophobeTantrum.baseInspectLine>Душевное состояние: истерика технофоба</VTE_TechnophobeTantrum.baseInspectLine>
+  <VTE_TechnophobeTantrum.beginLetter>{0} бьётся в истерике.\n\n{PAWN_pronoun} собирается выместить свой гнев на технике.</VTE_TechnophobeTantrum.beginLetter>
+  <VTE_TechnophobeTantrum.beginLetterLabel>истерика технофоба</VTE_TechnophobeTantrum.beginLetterLabel>
+  <VTE_TechnophobeTantrum.recoveryMessage>{0} больше не бьётся в истерике.</VTE_TechnophobeTantrum.recoveryMessage>
+
+  <VTE_PanicFreezing.label>паническая атака</VTE_PanicFreezing.label>
+  <VTE_PanicFreezing.baseInspectLine>Душевное состояние: ступор</VTE_PanicFreezing.baseInspectLine>
+  <VTE_PanicFreezing.beginLetter>{0} {PAWN_gender ? впал : впала} в ступор от страха.</VTE_PanicFreezing.beginLetter>
+  <VTE_PanicFreezing.beginLetterLabel>паническая атака</VTE_PanicFreezing.beginLetterLabel>
+  <VTE_PanicFreezing.recoveryMessage>{0} может двигаться.</VTE_PanicFreezing.recoveryMessage>
+
+  <VTE_Kleptomaniac.label>клептомания</VTE_Kleptomaniac.label>
+  <VTE_Kleptomaniac.baseInspectLine>Душевное состояние: клептомания</VTE_Kleptomaniac.baseInspectLine>
+  <VTE_Kleptomaniac.beginLetter>{0} будет пытаться обокрасть гостей.</VTE_Kleptomaniac.beginLetter>
+  <VTE_Kleptomaniac.beginLetterLabel>клептомания</VTE_Kleptomaniac.beginLetterLabel>
+  <VTE_Kleptomaniac.recoveryMessage>{0} больше не будет пытаться обокрасть гостей.</VTE_Kleptomaniac.recoveryMessage>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <VTE.HasDestroyedItem>{PAWN_nameDef} {PAWN_gender ? уничтожил : уничтожила} результат своей работы из-за того, что он не был достаточно качественным</VTE.HasDestroyedItem>
+  <VTE.GotBruise>{PAWN_nameDef} {PAWN_gender ? получил : получила} ушиб из-за своей неуклюжести</VTE.GotBruise>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} слишком крепко спит.</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} {PAWN_gender ? прекратил : прекратила} {0} из-за перфекционизма</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>Жажда странствий позволяет путешествовать с увеличенной скоростью</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} {PAWN_gender ? украл : украла} имущество другой фракции. Это может нанести урон отношениям двух фракций</VTE.KleptomaniacStealsItemFrom>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} {PAWN_gender ? была поймана : был пойман} на краже имущества другой фракции. Это может нанести урон отношениям двух фракций</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} {PAWN_gender ? повредил : повредила} {0} из-за слишком большого веса или неправильного положения</VTE.PawnBreaksChairs>
+  <VTE.PawnStoleItem>{PAWN_nameDef} {PAWN_gender ? украл : украла} {0} у {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef} не {PAWN_gender ? смог : смогла} украсть {0} у {VICTIM_nameDef}. Это вскрылось и разозлило фракцию {VICTIM_nameDef}</VTE.PawnFailedToStealItem>
+  <VTE.PawnCowardlyFlees>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyFlees>
+  <VTE.PawnCowardlyExitMapHostile>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapAlly>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapNeutral>Трусость берёт вверх над {PAWN_nameDef} и {PAWN_pronoun} бежит как можно дальше от боя</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} {PAWN_gender ? решил : решила} проигнорировать приказы и прекратить работу</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} {PAWN_gender ? разоружил : разоружила} {VICTIM_nameDef} в рукопашной схватке</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>
