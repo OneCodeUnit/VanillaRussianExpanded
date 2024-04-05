@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: required -->
+  <VME_Hospital_Required.label>необходима</VME_Hospital_Required.label>
+  <!-- EN: A place of refuge and healing is essential for the long-term health of our community. It’s important to make sure we have open beds and plenty of medicine should the worst come to worst.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists gets mood penalties / bonuses depending on size of hospital rooms found in the map. Only hospital rooms with an impressiveness of "decent" or higher will count for this calculation. -->
+  <VME_Hospital_Required.description>Место для спасения пострадавших и лечения необходимо для здоровья нашего сообщества в долгосрочной перспективе. Важно убедиться, что у нас есть свободные медицинские кровати и много лекарств на случай худшего.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Поселенцы получают штрафы или бонусы к настроению в зависимости от размера больничных помещений. Будут учитываться только больницы, производящие впечатление уровня «неплохо» или выше.</VME_Hospital_Required.description>
+  <!-- EN: Need hospital -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>Нужна больница</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Dirty hospital -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Грязная больница</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Small hospital (less than 25 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Небольшая больница (менее 25 клеток)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Spacious hospital (less than 50 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Просторная больница (менее 50 клеток)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Huge hospital (more than 50 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>Огромная больница (более 50 клеток)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>
+</LanguageData>

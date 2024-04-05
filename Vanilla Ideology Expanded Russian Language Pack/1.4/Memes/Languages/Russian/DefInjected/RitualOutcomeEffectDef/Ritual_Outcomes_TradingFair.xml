@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality and as long as it is positive, between 1 and 6 trade caravans arrive from friendly factions. Also, depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nYou will need to have at least 200 silver near a valid trading beacon for the fair to work properly, or else participants will receive a "cheap trading fair" mood penalty. -->
+  <VME_TradingFairRitualOutcome.description>В зависимости от качества ритуала и до тех пор, пока он положительный, от 1 до 6 торговых караванов прибывают из дружественных фракций. Также, в зависимости от качества ритуала, настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.\n\nВам понадобится не менее 200 единиц серебра рядом с действующим торговым маяком, чтобы ярмарка работала должным образом. Иначе участники получат штраф к настроению «ярмарка для нищих».</VME_TradingFairRitualOutcome.description>
+  <!-- EN: trading fair organizer present -->
+  <VME_TradingFairRitualOutcome.comps.0.label>присутствует распорядитель ярмарки</VME_TradingFairRitualOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_TradingFairRitualOutcome.comps.1.label>количество участников</VME_TradingFairRitualOutcome.comps.1.label>
+
+  <!-- EN: Poorly Organized -->
+  <VME_TradingFairRitualOutcome.outcomeChances.0.label>неорганизованно</VME_TradingFairRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was very poorly organized! With such a low quality effort, no additional caravans will be attracted to our settlement... -->
+  <VME_TradingFairRitualOutcome.outcomeChances.0.description>{0} была очень плохо организована! Столь слабая попытка никакие караваны в наше поселение не привлечёт.</VME_TradingFairRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Unexciting -->
+  <VME_TradingFairRitualOutcome.outcomeChances.1.label>неинтересно</VME_TradingFairRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was unexciting. Some exciting transactions took place, but the majority of it was boring business talk. Luckily, it was interesting enough to attract a caravan to our settlement, which should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.1.description>{0} была неинтересна. Состоялось несколько интересных сделок, но в основном были скучные деловые разговоры. К счастью, это было достаточно интересно, чтобы привлечь в наше поселение караван, который должен скоро прибыть.</VME_TradingFairRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Well Organized -->
+  <VME_TradingFairRitualOutcome.outcomeChances.2.label>организовано</VME_TradingFairRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was very well organized. There was a lot of back and forth and networking. Luckily, at least three caravans will be attracted to our settlement, which should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.2.description>{0} была очень хорошо организована. Было много переговоров и отличных сделок. Если повезёт, в наше поселение скоро прибудет не меньше трёх караванов.</VME_TradingFairRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Wondrous -->
+  <VME_TradingFairRitualOutcome.outcomeChances.3.label>чудесно</VME_TradingFairRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was a wondrous event! We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. With such a display, at least six caravans will be attracted to our settlement, and they should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.3.description>{0} была чудесным событием! Мы обсудили вдохновляющие инновационные экономические схемы. Наше поселение можно теперь считать центром экономических наук. После такого, не менее шести караванов скоро прибудут в наше поселение.</VME_TradingFairRitualOutcome.outcomeChances.3.description>
+</LanguageData>

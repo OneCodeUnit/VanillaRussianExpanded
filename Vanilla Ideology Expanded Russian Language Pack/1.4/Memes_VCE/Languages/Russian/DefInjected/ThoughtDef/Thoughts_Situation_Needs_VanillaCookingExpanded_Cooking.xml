@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: craving dessert -->
+  <VME_NeedSweets.stages.0.label>требует десерт</VME_NeedSweets.stages.0.label>
+  <!-- EN: I'm craving some sweet food badly... I feel so tired... this is ridiculous, I’d do just about anything for a single sprinkle. -->
+  <VME_NeedSweets.stages.0.description>Моё тело требует сахара. Я чувствую слабость, едва на ногах держусь... Без шуток, знаешь, на что я сейчас {PAWN_gender ? готов : готова} за крошку торта?</VME_NeedSweets.stages.0.description>
+  <!-- EN: desiring dessert -->
+  <VME_NeedSweets.stages.1.label>просит десерт</VME_NeedSweets.stages.1.label>
+  <!-- EN: I haven't had a sweet treat in a while now. Is a chocolate bar or piece of cake too much to ask for? -->
+  <VME_NeedSweets.stages.1.description>Я так давно не {PAWN_gender ? видел : видела} сладостей. Неужели, я многого прошу? Всего лишь шоколадка или кусочек торта.</VME_NeedSweets.stages.1.description>
+  <!-- EN: wanting dessert -->
+  <VME_NeedSweets.stages.2.label>хочет десерт</VME_NeedSweets.stages.2.label>
+  <!-- EN: How about some dessert? It has been a while... -->
+  <VME_NeedSweets.stages.2.description>Что насчет ещё одного? Прошлый был та-а-а-ак давно...</VME_NeedSweets.stages.2.description>
+  <!-- EN: full -->
+  <VME_NeedSweets.stages.3.label>сытость</VME_NeedSweets.stages.3.label>
+  <!-- EN: I've recently eaten some dessert, it was amazing. -->
+  <VME_NeedSweets.stages.3.description>Я {PAWN_gender ? скушал : скушала} десерта, так хорошо.</VME_NeedSweets.stages.3.description>
+  <!-- EN: completely full -->
+  <VME_NeedSweets.stages.4.label>до отвала</VME_NeedSweets.stages.4.label>
+  <!-- EN: I'm in heaven. Sweet, greasy, delicious heaven. -->
+  <VME_NeedSweets.stages.4.description>Я в раю... Таком сладком, чуток приторном и очень вкусном.</VME_NeedSweets.stages.4.description>
+</LanguageData>

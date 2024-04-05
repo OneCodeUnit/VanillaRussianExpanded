@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: progressive -->
+  <VME_Progressive.label>Прогресс</VME_Progressive.label>
+  <!-- EN: Machines, factories, drones, a goal to any successful community should be optimizing these devices and shunning the idea of sentient beings performing tasks normally meant for them. -->
+  <VME_Progressive.description>Машины, фабрики, дроны; цель любого успешного общества — оптимизировать эти устройства, чтобы и в мыслях не допускалось выполнение их работы разумными существами.</VME_Progressive.description>
+
+  <!-- EN:
+    <li>memeAdjective->automated</li>
+    <li>memeAdjective->progressive</li>
+    <li>memeHyphenPrefix->auto</li>
+    <li>memeConcept->automation</li>
+    <li>memeLeaderNoun->great automancer</li>
+  -->
+  <VME_Progressive.generalRules.rulesStrings>
+    <li>memeAdjective->автоматический</li>
+    <li>memeAdjective->прогрессивный</li>
+    <li>memeHyphenPrefix->авто</li>
+    <li>memeConcept->автоматики</li>
+    <li>memeLeaderNoun->великий автомансер</li>
+  </VME_Progressive.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Progressive)        ->[deity0_name] saw the [memberNamePlural] struggling with their machines, and laughed good-naturedly at them: "Haven't I given you the tools to make the machines do the work for you? It's senseless to struggle".</li>
+    <li>episode(uses=1,tag=meme_Progressive)  ->[deity0_name] said to all the [memberNamePlural]: "Manual labour is not sacred to me. Indeed you are honouring me by freeing your time by automating your tasks".</li>
+
+    <li>intro(tag=meme_Progressive)           ->[memberNamePlural] used automated factories to craft a great [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.</li>
+    <li>conflict(tag=meme_Progressive)        ->A rampaging mechanoid hive, seeking to destroy the automated machines of [deity0_name], tried to destroy the creations of the [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Progressive)     ->[deity0_name] instructed [founderName] to repurpose the factories to create a holy relic, the [relic0_name], which allowed [founderName_objective] to repel the mechanoids' attack before it was too late.</li>
+    <li>victory(tag=meme_Progressive)         ->[founderName] crushed the ancient machines before him, and scavenged their army for parts to build the next improved factories.</li>
+
+    <li>setup(tag=meme_Progressive)           ->Our founder [founderName] was a great engineer, a renowned expert in the art of factory line automation. There was no process that couldn't be automated by [founder_possessive] hands.</li>
+    <li>story(uses=1,tag=meme_Progressive)    ->[founder_possessive] followers studied [founder_possessive] automation techniques for decades, scrutinizing [founder_possessive] insights and applying them to their own factories.</li>
+
+    <li>lessonIntro(tag=meme_Progressive)         ->In all my years optimizing the throughput of factory lines, I learned one lesson that stands over all:</li>
+    <li>lesson(tag=meme_Progressive)              ->the first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency</li>
+    <li>lessonReinforcement(tag=meme_Progressive) ->Automation is such an incredible idea that if we could continue to improve this capability, the applications are really quite boundless.</li>
+
+    <li>archistBasis(tag=meme_Progressive)    ->The archotechs are flawless. They have perfected ways to manipulate the Universe that are far beyond our understanding.</li>
+    <li>archistFact(tag=meme_Progressive)     ->Do you really think an archotech would create anything by hand?</li>
+    <li>archistProphecy(tag=meme_Progressive) ->[inTheEnd], the only way to approach their capabilities would be to achieve a level of automation that allows us to focus on ascension.</li>
+
+    <li>animistFact(tag=meme_Progressive)     ->The spirits are pure mind. Supreme intelligences that are far beyond the mundane and the physical. As such, they frown upon manual labour. Why create things by hand, when a soulless machine can do it for you?</li>
+
+    <li>serketistProphecy(tag=meme_Progressive)->[itIsSaid] a factory's production line is like a great insect, its multiple parts moving in a single coordinated melody, not unlike the teamwork present in an ant hive.</li>
+
+    <li>chthonianProphecy(tag=meme_Progressive)->We can't waste our precious lives toiling away in mindless manual labour. We shall design wondrous automated machines that will remove our need to work, and allow us to focus on the realities of the transmundane.</li>
+
+    <li>esotericismProphecy(tag=meme_Progressive)->By studying the mechanisms and processes of our automated factories we may uncover some of these ancient secrets, and perhaps gaze into the unknown.</li>
+
+    <li>eschatologismFact(tag=meme_Progressive)->We won't stop at a single world. Our automated orbital factories will fill the Cosmos with a myriad destructive machines. We shall bring the end of everything.</li>
+
+    <li>introMemo(tag=meme_Progressive)->We have received complaints from Steve in tech support concerning the reluctance of some of you to adopt the new process automation policies. Some people were overhead saying "I spent 30 hours automating a process that I could do in half an hour by hand!". This is SO SHORTSIGHTED!</li>
+
+    <li>alienistProphecy(tag=meme_Progressive)->All these wayward creations of humanity shows us what humanity can achieve through automated technology, wondrous genetic laboratories sampling the genome at breakneck speeds.</li>
+  -->
+  <VME_Progressive.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Progressive)        ->[deity0_name] увидел, как  [memberNamePlural] пытаются справиться со своими машинами и засмеялся без тени злобы: «Разве я не дал вам орудий, чтобы обуздать эти машины и  заставить их служить вам? Ваши старания тщетны.»</li>
+    <li>episode(uses=1,tag=meme_Progressive)  ->[deity0_name] сказал всем [memberNamePlural]: "Ручной труд не является для меня священным. Вы оказываете мне честь, освобождая свое время за счет автоматизации своих задач.".</li>
+
+    <li>intro(tag=meme_Progressive)           ->[memberNamePlural] использовали автоматические заводы чтобы создаст великолепный [altarName] на [place_summary] [place_name], монумент, показывающий славу [deity0_name].</li>
+    <li>conflict(tag=meme_Progressive)        ->Разбушевавшийся улей механоидов, стремился уничтожить автоматизированные машины [deity0_name], пытался уничтожить творения [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Progressive)     ->[deity0_name] поручил [founderName] изменили производство так, чтобы создать священную реликвию - [relic0_name], которая позволила [founderName_objective] отразить нападение механоидов, прежде чем было слишком поздно.</li>
+    <li>victory(tag=meme_Progressive)         ->[founderName] разгромил механоидов, и разобрал их армию на запчасти, чтобы построить новые усовершенствованные фабрики.</li>
+
+    <li>setup(tag=meme_Progressive)           ->Наш основатель [founderName] был великим инженером, признанным экспертом в искусстве автоматизации заводских линий. Не существовало процесса, который нельзя было бы автоматизировать с помощью [founder_possessive] hands.</li>
+    <li>story(uses=1,tag=meme_Progressive)    ->Последователи [founder_possessive] десятилетиями изучали методы автоматизации [founder_possessive], тщательно анализируя идеи [founder_possessive] и применяя их на собственных заводах.</li>
+
+    <li>lessonIntro(tag=meme_Progressive)         ->За все годы работы по оптимизации пропускной способности заводских линий я усвоил один урок, самый ценный из всех:</li>
+    <li>lesson(tag=meme_Progressive)              ->первое правило для любой технологии, используемой в бизнесе - автоматизация всегда будет в разы увеличивать эффективность.</li>
+    <li>lessonReinforcement(tag=meme_Progressive) ->Автоматизация - это поистине великолепная идея. Если мы будем продолжать развивать это направление, то возможности для её применения - поистине безграничны.</li>
+
+    <li>archistBasis(tag=meme_Progressive)    ->Архотеки безупречны. Они достигли таких пределов совершенства в том, что касается изменения Вселенной, что вышли далеко за пределы доступные нашему пониманию. И вы правда думаете, что архотеки</li>
+    <li>archistFact(tag=meme_Progressive)     ->будут создавать что-либо простым ручным трудом?</li>
+    <li>archistProphecy(tag=meme_Progressive) ->[inTheEnd],  это единственный возможный путь приблизиться к их возможностям, создавая такой уровень автоматизации труда, который бы позволил нам выйти на новую ступень эволюции.</li>
+
+    <li>animistFact(tag=meme_Progressive)     ->Духи - это чистый разум. Высший разум, который находится далеко за пределами обыденного и физического. Поэтому они не одобряют ручной труд. Зачем создавать вещи вручную, если бездушная машина может сделать это за вас?</li>
+
+    <li>serketistProphecy(tag=meme_Progressive)->[itIsSaid], что  производственная линия завода похожа на большое насекомое, ее многочисленные части движутся в единой согласованной мелодии, не похожей на командную работу, присутствующую в муравьином улье.</li>
+
+    <li>chthonianProphecy(tag=meme_Progressive)->Мы не можем позволить себе растрачивать наши жизни в муках бездумного ручного труда. Мы создадим великолепные, полностью автономные механизмы, которые избавят нас от необходимости работать и позволят нам сосредоточиться на том, что выходит за пределы мирской жизни.</li>
+
+    <li>esotericismProphecy(tag=meme_Progressive)->Изучая механизмы и процессы наших автоматизированных фабрик, мы можем раскрыть некоторые из этих древних секретов и, возможно, заглянуть в неведомое..</li>
+
+    <li>eschatologismFact(tag=meme_Progressive)->Мы не остановимся ни на одном мире. Наши автоматизированные орбитальные фабрики заполнят Космос мириадами разрушительных машин. Мы принесем конец всему.</li>
+
+    <li>introMemo(tag=meme_Progressive)->Мы получили жалобы от Стива из техподдержки по поводу нежелания некоторых из вас принять новые правила автоматизации процессов. Некоторые люди говорили: "Я потратил 30 часов на автоматизацию процесса, который я мог бы сделать за полчаса вручную!". ЭТО ТАК НЕДАЛЬНОВИДНО!</li>
+
+    <li>alienistProphecy(tag=meme_Progressive)->Все эти заблудшие творения человечества показывают нам, чего может достичь человечество с помощью автоматизированных технологий, чудесных генетических лабораторий, берущих пробы генома с бешеной скоростью.</li>
+  </VME_Progressive.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Automation -->
+  <VME_Progressive.symbolPacks.0.ideoName>Автоматизм</VME_Progressive.symbolPacks.0.ideoName>
+  <!-- EN: automation -->
+  <VME_Progressive.symbolPacks.0.theme>автоматики</VME_Progressive.symbolPacks.0.theme>
+  <!-- EN: automatic -->
+  <VME_Progressive.symbolPacks.0.adjective>автоматический</VME_Progressive.symbolPacks.0.adjective>
+  <!-- EN: automation engineer -->
+  <VME_Progressive.symbolPacks.0.member>инженер</VME_Progressive.symbolPacks.0.member>
+</LanguageData>

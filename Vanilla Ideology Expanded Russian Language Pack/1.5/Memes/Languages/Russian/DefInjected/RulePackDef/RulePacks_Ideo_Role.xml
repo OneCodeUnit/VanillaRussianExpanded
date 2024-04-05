@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: r_roleName->second triumvir -->
+  <VME_NamerSecondTriumvir.rulePack.rulesStrings.0>r_roleName->второй триумвир</VME_NamerSecondTriumvir.rulePack.rulesStrings.0>
+  <!-- EN: r_roleName->third triumvir -->
+  <VME_NamerThirdTriumvir.rulePack.rulesStrings.0>r_roleName->третий триумвир</VME_NamerThirdTriumvir.rulePack.rulesStrings.0>
+
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->firekeeper</li>
+    <li>r_roleName->flamekeeper</li>
+    <li>firstPart->flame</li>
+    <li>firstPart->ash</li>
+    <li>firstPart->fire</li>
+    <li>firstPart->warmth</li>
+    <li>firstPart->bright</li>
+    <li>firstPart->light</li>
+    <li>firstPart->kiln</li>
+    <li>firstPart->forge</li>
+    <li>secondPart(p=4)->touched</li>
+    <li>secondPart(p=4)->warden</li>
+    <li>secondPart(p=4)->herald</li>
+    <li>secondPart(p=4)->protector</li>
+    <li>secondPart(p=4)->defender</li>
+    <li>secondPart(p=4)->seeker</li>
+    <li>secondPart(p=4)->whisperer</li>
+    <li>secondPart(p=4)->keeper</li>
+  -->
+  <VME_RoleFireKeeper.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[secondPart] [firstPart]</li>
+    <li>r_roleName->хранитель огня</li>
+    <li>r_roleName->хранитель пламени</li>
+    <li>firstPart->пламени</li>
+    <li>firstPart->пепла</li>
+    <li>firstPart->огня</li>
+    <li>firstPart->жара</li>
+    <li>firstPart->блеска</li>
+    <li>firstPart->света</li>
+    <li>firstPart->печи</li>
+    <li>firstPart->искр</li>
+    <li>secondPart(p=4)->касающийся</li>
+    <li>secondPart(p=4)->смотритель</li>
+    <li>secondPart(p=4)->вестник</li>
+    <li>secondPart(p=4)->защитник</li>
+    <li>secondPart(p=4)->заступник</li>
+    <li>secondPart(p=4)->ловец</li>
+    <li>secondPart(p=4)->шепчущий</li>
+    <li>secondPart(p=4)->хранитель</li>
+  </VME_RoleFireKeeper.rulePack.rulesStrings>
+
+  <!-- EN:  
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Mechacker</li>
+    <li>firstPart->Engine </li>
+    <li>firstPart->Mechanoid </li>
+    <li>firstPart->Bionic </li>
+    <li>firstPart->Technological </li>
+    <li>firstPart->Electronic </li>
+    <li>firstPart->Artificial </li>
+    <li>firstPart->Scientific </li>
+    <li>firstPart->Brilliant </li>
+    <li>secondPart(p=4)->Engineseer</li>
+    <li>secondPart(p=4)->Artificer</li>
+    <li>secondPart(p=4)->Machinist</li>
+    <li>secondPart(p=4)->Soothesayer</li>
+    <li>secondPart(p=4)->Designer</li>
+    <li>secondPart(p=4)->Hackmaster</li>
+    <li>secondPart(p=4)->Mastermind</li>
+    <li>secondPart(p=4)->Inventor</li>
+  -->
+  <VME_Mechacker.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[secondPart] [firstPart]</li>
+    <li>r_roleName->Мехакер</li>
+    <li>firstPart->двигателей</li>
+    <li>firstPart->механоидов</li>
+    <li>firstPart->бионики</li>
+    <li>firstPart->техники</li>
+    <li>firstPart->электрики</li>
+    <li>firstPart->роботов</li>
+    <li>firstPart->новинок</li>
+    <li>firstPart->диодов</li>
+    <li>secondPart(p=4)->инженер</li>
+    <li>secondPart(p=4)->конструктор</li>
+    <li>secondPart(p=4)->разработчик</li>
+    <li>secondPart(p=4)->евангелист</li>
+    <li>secondPart(p=4)->проектировщик</li>
+    <li>secondPart(p=4)->взломщик</li>
+    <li>secondPart(p=4)->гений</li>
+    <li>secondPart(p=4)->изобретатель</li>
+  </VME_Mechacker.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->party host</li>
+    <li>r_roleName->party animal</li>
+    <li>firstPart->exciting </li>
+    <li>firstPart->comedic </li>
+    <li>firstPart->esteemed </li>
+    <li>firstPart->hilarious </li>
+    <li>firstPart->crazed </li>
+    <li>firstPart->wild </li>
+    <li>firstPart->jubilant </li>
+    <li>firstPart->joyous </li>
+    <li>secondPart(p=4)->genius</li>
+    <li>secondPart(p=4)->entertainer</li>
+    <li>secondPart(p=4)->host</li>
+    <li>secondPart(p=4)->jester</li>
+    <li>secondPart(p=4)->joker</li>
+    <li>secondPart(p=4)->animal</li>
+    <li>secondPart(p=4)->performer</li>
+    <li>secondPart(p=4)->comedian</li>
+  -->
+  <VME_PartyHost.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart] [secondPart]</li>
+    <li>r_roleName->ведущий</li>
+    <li>r_roleName->тусовщик</li>
+    <li>firstPart->потрясающий</li>
+    <li>firstPart->комичный</li>
+    <li>firstPart->заслуженный</li>
+    <li>firstPart->весёлый</li>
+    <li>firstPart->чокнутый</li>
+    <li>firstPart->буйный</li>
+    <li>firstPart->ликующий</li>
+    <li>firstPart->весёлый</li>
+    <li>secondPart(p=4)->гений</li>
+    <li>secondPart(p=4)->конферансье</li>
+    <li>secondPart(p=4)->шоумен</li>
+    <li>secondPart(p=4)->шут</li>
+    <li>secondPart(p=4)->джокер</li>
+    <li>secondPart(p=4)->скоморох</li>
+    <li>secondPart(p=4)->актёр</li>
+    <li>secondPart(p=4)->комик</li>
+  </VME_PartyHost.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Insectoid Herder</li>
+    <li>firstPart->Spider </li>
+    <li>firstPart->Maggot </li>
+    <li>firstPart->Scarab </li>
+    <li>firstPart->Cricket </li>
+    <li>firstPart->Tick </li>
+    <li>firstPart->Larva </li>
+    <li>firstPart->Beetle </li>
+    <li>firstPart->Locust </li>
+    <li>secondPart(p=4)->Harvester</li>
+    <li>secondPart(p=4)->Handler</li>
+    <li>secondPart(p=4)->Brood-sibling</li>
+    <li>secondPart(p=4)->Devotee</li>
+    <li>secondPart(p=4)->Hive-Psyker</li>
+    <li>secondPart(p=4)->Hive-Commander</li>
+    <li>secondPart(p=4)->Hive-brood</li>
+    <li>secondPart(p=4)->Hive-slave</li>
+  -->
+  <VME_InsectoidHerder.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart] [secondPart]</li>
+    <li>r_roleName->пастух инсектоидов</li>
+    <li>firstPart->паучий</li>
+    <li>firstPart->личинковый</li>
+    <li>firstPart->скарабейный</li>
+    <li>firstPart->сверчковый</li>
+    <li>firstPart->клещёвый</li>
+    <li>firstPart->гусеничный</li>
+    <li>firstPart->жучий</li>
+    <li>firstPart->саранчовый</li>
+    <li>secondPart(p=4)->сборщик</li>
+    <li>secondPart(p=4)->укротитель</li>
+    <li>secondPart(p=4)->друг</li>
+    <li>secondPart(p=4)->фанат</li>
+    <li>secondPart(p=4)->псайкер</li>
+    <li>secondPart(p=4)->командир</li>
+    <li>secondPart(p=4)->родитель</li>
+    <li>secondPart(p=4)->раб</li>
+  </VME_InsectoidHerder.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Trader</li>
+    <li>firstPart->Bountiful </li>
+    <li>firstPart->Itinerant </li>
+    <li>firstPart->Unscrupulous </li>
+    <li>firstPart->Respectable </li>
+    <li>firstPart->Affluent </li>
+    <li>firstPart->Prosperous </li>
+    <li>firstPart->Opulent </li>
+    <li>firstPart->Rich </li>
+    <li>secondPart(p=4)->Merchant</li>
+    <li>secondPart(p=4)->Operator</li>
+    <li>secondPart(p=4)->Seller</li>
+    <li>secondPart(p=4)->Shopkeeper</li>
+    <li>secondPart(p=4)->Vendor</li>
+    <li>secondPart(p=4)->Broker</li>
+    <li>secondPart(p=4)->Wholesaler</li>
+    <li>secondPart(p=4)->Salesperson</li>
+  -->
+  <VME_Trader.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart] [secondPart]</li>
+    <li>r_roleName->торговец</li>
+    <li>firstPart->щедрый</li>
+    <li>firstPart->странствующий</li>
+    <li>firstPart->изворотливый</li>
+    <li>firstPart->уважаемый</li>
+    <li>firstPart->зажиточный</li>
+    <li>firstPart->процветающий</li>
+    <li>firstPart->изобильный</li>
+    <li>firstPart->богатый</li>
+    <li>secondPart(p=4)->торговец</li>
+    <li>secondPart(p=4)->делец</li>
+    <li>secondPart(p=4)->продавец</li>
+    <li>secondPart(p=4)->лавочник</li>
+    <li>secondPart(p=4)->купец</li>
+    <li>secondPart(p=4)->посредник</li>
+    <li>secondPart(p=4)->оптовик</li>
+    <li>secondPart(p=4)->коммерсант</li>
+  </VME_Trader.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Patissier</li>
+    <li>firstPart->Deft-handed </li>
+    <li>firstPart->Accomplished </li>
+    <li>firstPart->Talented </li>
+    <li>firstPart->Exquisite </li>
+    <li>firstPart->Seasoned </li>
+    <li>firstPart->Masterful </li>
+    <li>secondPart(p=4)->Culinarian</li>
+    <li>secondPart(p=4)->Epicurian</li>
+    <li>secondPart(p=4)->Baker</li>
+    <li>secondPart(p=4)->Patissier</li>
+    <li>secondPart(p=4)->Banqueter</li>
+    <li>secondPart(p=4)->Glacier</li>
+    <li>secondPart(p=4)->Confectioner</li>
+  -->
+  <VME_Patissier.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->кондитер</li>
+    <li>firstPart->ловкий</li>
+    <li>firstPart->идеальный</li>
+    <li>firstPart->талантливый</li>
+    <li>firstPart->изящный</li>
+    <li>firstPart->опытный</li>
+    <li>firstPart->искусный</li>
+    <li>secondPart(p=4)->Кулинар</li>
+    <li>secondPart(p=4)->Эпикуреец</li>
+    <li>secondPart(p=4)->Пекарь</li>
+    <li>secondPart(p=4)->Кондитер</li>
+    <li>secondPart(p=4)->Лакомщик</li>
+    <li>secondPart(p=4)->Карамельщик</li>
+    <li>secondPart(p=4)->Конфетчик</li>
+  </VME_Patissier.rulePack.rulesStrings>
+
+  <!-- EN: r_roleName->Commissar -->
+  <VME_Commissar.rulePack.rulesStrings>
+  <li>r_roleName(p=7)->[firstPart] [secondPart]</li>
+  <li>r_roleName->комиссар</li>
+  <li>firstPart->честный</li>
+  <li>firstPart->жестокий</li>
+  <li>firstPart->фанатичный</li>
+  <li>firstPart->яростный</li>
+  <li>firstPart->благородный</li>
+  <li>firstPart->строгий</li>
+  <li>secondPart->командир</li>
+  <li>secondPart->комиссар</li>
+  <li>secondPart->командующий</li>
+  <li>secondPart->политрук</li>
+  </VME_Commissar.rulePack.rulesStrings>
+
+  <!-- EN: r_roleName->Fleshcrafter -->
+  <VME_Fleshcrafter.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart] [secondPart]</li>
+    <li>r_roleName->мастер плоти</li>
+    <li>firstPart->мастер</li>
+    <li>firstPart->художник</li>
+    <li>firstPart->кузнец</li>
+    <li>secondPart->плоти</li>
+    <li>secondPart->тел</li>
+    <li>secondPart->органов</li>
+    <li>secondPart->потрохов</li>
+  </VME_Fleshcrafter.rulePack.rulesStrings>
+
+  <!-- EN: r_roleName->Nurse -->
+  <VME_Nurse.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart] [secondPart]</li>
+    <li>r_roleName->медик</li>
+    <li>firstPart->бесстрашный</li>
+    <li>firstPart->трудолюбивый</li>
+    <li>firstPart->ответственный</li>
+    <li>secondPart->медик</li>
+    <li>secondPart->санитар</li>
+    <li>secondPart->хирург</li>
+  </VME_Nurse.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: holy diseases -->
+  <VME_HolyDiseases.label>священные болезни</VME_HolyDiseases.label>
+  <!-- EN: To be touched by pestilence is a boon to be coveted. As diseases spread, so too shall our influence. -->
+  <VME_HolyDiseases.description>Прикосновение эпидемии — желанное благо. С распространением болезни будет расти и наше влияние.</VME_HolyDiseases.description>
+
+  <!-- EN:
+    <li>memeAdjective->diseased</li>
+    <li>memeAdjective->infirm</li>
+    <li>memeAdjective->sick</li>
+    <li>memeAdjective->ailing</li>
+    <li>memeAdjective->ill</li>
+    <li>memeHyphenPrefix->sick</li>
+    <li>memeConcept->disease</li>
+    <li>memeConcept->sickness</li>
+    <li>memeLeaderNoun->purulent one</li>
+    <li>memeLeaderNoun->herald of Aesculapius</li>
+    <li>memeLeaderNoun->plaguebriger</li>
+    <li>memeMoralist->plague doctor</li>
+  -->
+  <VME_HolyDiseases.generalRules.rulesStrings>
+    <li>memeAdjective->больной</li>
+    <li>memeAdjective->нездоровый</li>
+    <li>memeAdjective->недужный</li>
+    <li>memeAdjective->хворый</li>
+    <li>memeAdjective->немочный</li>
+    <li>memeHyphenPrefix->недуго</li>
+    <li>memeConcept->болезни</li>
+    <li>memeConcept->немочи</li>
+    <li>memeLeaderNoun->гнойник</li>
+    <li>memeLeaderNoun->глашатай Эскулапа</li>
+    <li>memeLeaderNoun->чумоносец</li>
+    <li>memeMoralist->чумной доктор</li>
+  </VME_HolyDiseases.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_HolyDiseases)        ->[deity0_name] filled the Universe with all kinds of viruses and bacteria, diminutive organisms that are the bearers of [deity0_possessive] gifts.</li>
+    <li>episode(uses=1,tag=meme_HolyDiseases)  ->We accepted [deity0_name]'s bounty, offering our bodies as vessels for [deity0_possessive] myriad diseases, which pleased [deity0_objective].</li>
+
+    <li>intro(tag=meme_HolyDiseases)           ->On the [place_summary] [place_name], the [memberNamePlural] found a sealed tomb with a huge holy symbol of [deity0_name].</li>
+    <li>conflict(tag=meme_HolyDiseases)        ->An archeologist directed the [memberNamePlural] to open the ancient tomb, and within it were found the microbiological archives of a long lost civilization: a panoply of contagious diseases as the world hadn't seen in millenia.</li>
+    <li>founderJoin(tag=meme_HolyDiseases)     ->A most revered priest named [founderName] infected himself with one of the diseases from the archive, showing the [memberNamePlural] that they were actually a gift from [deity0_name].</li>
+    <li>victory(tag=meme_HolyDiseases)         ->[founderName] received [deity0_name]'s blessing, and to this day we offer our bodies as vessels for [deity0_possessive] myriad diseases.</li>
+
+    <li>setup(tag=meme_HolyDiseases)           ->[founderName] was a bio-scientist in the early days of human planetary colonization. Seeing the soft, complacent behavior of the colonies, [founder_pronoun] took a small ship to found [founder_possessive] own movement.</li>
+    <li>story(uses=1,tag=meme_HolyDiseases)    ->[founderName] assembled a team of great geneticists to modify the human body, making it more resistant to diseases by gradually inflicting healthy bodies with them.</li>
+
+    <li>lessonIntro(tag=meme_HolyDiseases)         ->The oldest doctor in my hospital taught me the history of disease, how humanity had always feared sickness and death. He was really leading me to understand that</li>
+    <li>lesson(tag=meme_HolyDiseases)              ->microorganisms are also part of nature, and by not embracing disease we are only making ourselves weaker to it</li>
+    <li>lessonReinforcement(tag=meme_HolyDiseases) ->Only by accepting disease as an integral part of life may we truly realize our potential.</li>
+
+    <li>archistBasis(tag=meme_HolyDiseases)    ->As we are like insignificant microbes to the archotechs, we need to ask ourselves: do we want to be handled as microbes usually are?</li>
+    <li>archistFact(tag=meme_HolyDiseases)     ->If the archotechs treated us as we treat the creatures that seem insignificant to us, they'd have wiped us from existance a long time ago.</li>
+    <li>archistProphecy(tag=meme_HolyDiseases) ->Therefore, it stands to reason to treat diseases as we'd like to be treated by entities who are so far above us in the evolutionary scale as we are to microorganisms.</li>
+
+    <li>animistBasis(tag=meme_HolyDiseases)    ->In the world of spirits, everything has a corresponding entity that guards it and protects it.</li>
+    <li>animistFact(tag=meme_HolyDiseases)     ->It stands to reason that even the most insignificant and smallest of beings have a corresponding spirit, too.</li>
+    <li>animistProphecy(tag=meme_HolyDiseases) ->By offering our mortal bodies as vessels for the spirits of disease, we will ensure to always be on their good graces.</li>
+
+    <li>serketistProphecy(tag=meme_HolyDiseases)->[itIsSaid] the greatest plagues will descend upon us brought by fearsome insects, and we will embrace them with glee, for their touch will be holy and reign supreme.</li>
+
+    <li>chthonianProphecy(tag=meme_HolyDiseases)->Only by subjecting our mortal bodies to the most dangerous of diseases will we strengthen our minds to resist the onslaught of these absolutely insane extra-normal entities.</li>
+
+    <li>esotericismProphecy(tag=meme_HolyDiseases)->We believe that through the suffering brought on by flesh corrupting diseases we will focus our minds into deciphering the greatest of secrets.</li>
+
+    <li>eschatologismFact(tag=meme_HolyDiseases)->There will be four signs of the impending Apocalypse: Disease, Famine, War and Death, and we shall embrace the first horseman with glee.</li>
+
+    <li>introMemo(tag=meme_HolyDiseases)->Regarding the issue of paid sick leave, the company is OK with it, as long as you work from home, and work harder. A few degrees of fever never killed anyone! And if they did, it was in service to the company, so everything worked out in hindsight! Think proactively!</li>
+
+    <li>alienistProphecy(tag=meme_HolyDiseases)->All these wayward creations of humanity provide us with an infinite reservoir of holy diseases, a cornucopia of plagues.</li>
+  -->
+  <VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HolyDiseases)        ->[deity0_name] наполнил Вселенную всевозможными вирусами и бактериями, миниатюрными организмами, которые являются носителями даров [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_HolyDiseases)  ->Мы принимали щедрость [deity0_name], предлагая свои тела в качестве сосудов для [deity0_possessive] миллиардов болезней, что радовало [deity0_objective].</li>
+
+    <li>intro(tag=meme_HolyDiseases)           ->На [place_summary] [place_name], [memberNamePlural] нашли запечатанную гробницу с огромным священным символом, изображающим [deity0_name].</li>
+    <li>conflict(tag=meme_HolyDiseases)        ->Археолог поручил [memberNamePlural] и открыть древнюю гробницу, внутри которой мы нашли архивы, содержащие информацию о микробиологических исследованиях давно забытой цивилизации: целый ряд крайне опасных заболеваний, с которыми мир не сталкивался на протяжении столетий.</li>
+
+    <li>founderJoin(tag=meme_HolyDiseases)     ->Самый почитаемый священник по имени [founderName] заразил себя одной из болезней из архива, показав, что [memberNamePlural] что на самом деле они были подарком от [deity0_name].</li>
+    <li>victory(tag=meme_HolyDiseases)         ->[founderName] получил от [deity0_name] благословил, и по сей день мы предлагаем наши тела как сосуды для [deity0_possessive] множество заболеваний.</li>
+
+    <li>setup(tag=meme_HolyDiseases)           ->[founderName] Был био-ученым во время, когда люди начинали колонизировать планеты. Видя деликатное и дружелюбное поведение других колоний [founder_pronoun] взял небольшой корабль, чтобы основать [founder_possessive] собственное движение.</li>
+    <li>story(uses=1,tag=meme_HolyDiseases)    ->[founderName] Собрал команду специалистов в области генетических исследований, чтобы раскрыть потенциал человеческого организма, подвергая тела испытуемых различным болезням, добиваясь стойкого иммунитета к ним.</li>
+
+    <li>lessonIntro(tag=meme_HolyDiseases)         ->Самый старый врач в моей больнице рассказывал мне об истории болезней, о том, как человечество всегда боялось болезней и смерти. Он действительно подводил меня к пониманию того, что</li>
+    <li>lesson(tag=meme_HolyDiseases)              ->микроорганизмы также являются частью природы, и, не принимая болезни, мы только делаем себя слабее для них</li>
+    <li>lessonReinforcement(tag=meme_HolyDiseases) ->Только принимая болезнь как неотъемлемую часть жизни, мы можем по-настоящему реализовать свой потенциал.</li>
+
+    <li>archistBasis(tag=meme_HolyDiseases)    ->Поскольку для архотеков мы подобны незначительным микробам, мы должны спросить себя: хотим ли мы, чтобы с нами обращались так, как обычно обращаются с микробами?</li>
+    <li>archistFact(tag=meme_HolyDiseases)     ->Если бы архотеки относились к нам так, как мы относимся к существам, которые кажутся нам незначительными, они бы давно стерли нас с лица земли.</li>
+    <li>archistProphecy(tag=meme_HolyDiseases) ->Поэтому вполне разумно относиться к болезням так, как мы хотели бы, чтобы относились к существам, которые настолько выше нас в эволюционной шкале, насколько мы выше микроорганизмов.</li>
+
+    <li>animistBasis(tag=meme_HolyDiseases)    ->В мире духов у всего есть свой защитник, духовный страж, охраняющий и оберегающий живое и неживое.</li>
+    <li>animistFact(tag=meme_HolyDiseases)     ->Логично предположить, что даже самые незначительные и мелкие существа имеют соответствующий дух.</li>
+    <li>animistProphecy(tag=meme_HolyDiseases) ->Предлагая свои бренные тела в качестве сосудов для духов болезней, мы обеспечим себе возможность всегда быть на их благосклонности.</li>
+
+    <li>serketistProphecy(tag=meme_HolyDiseases)->[itIsSaid] Великие хвори падут на нас, принесённые на крыльях ужасающих насекомых, но мы примем их с радостью, ведь их прикосновение есть свято и несёт в себе величие.</li>
+
+    <li>chthonianProphecy(tag=meme_HolyDiseases)->Лишь подвергая наши смертные тела самым опасным из болезней, мы укрепим свои умы, чтобы они выстояли под натиском безумных и неназываемых ужасов, живущих за гранью нормального.</li>
+
+    <li>esotericismProphecy(tag=meme_HolyDiseases)->Мы верим, что через страдания, причинённые нам искажающими плоть болезнями, мы сможем отточить свой разум в достаточной мере, чтобы открыть величайшие из секретов.</li>
+
+    <li>eschatologismFact(tag=meme_HolyDiseases)->Есть четыре знака грядущего Апокалипсиса: Болезнь, Голод, Война и Смерть, и мы примем первого всадника с подобающей радостью.</li>
+
+    <li>introMemo(tag=meme_HolyDiseases)->Относительно больничных: компания готова их оплачивать, до тех пор, пока вы продолжаете работать из дома, причём работать усерднее, чем обычно. Небольшое повышение температуры ещё никого не убивало, а если даже убивало - то это было на благо компании, так что всё в любом случае заканчивалось хорошо! Мыслите проактивно!</li>
+
+    <li>alienistProphecy(tag=meme_HolyDiseases)->Все эти заблудшие творения рук людских - есть неиссякаемый сосуд благословлённых болезней, рог изобилия, изрыгающий чуму, гной и струпья.</li>
+  </VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Plaguebringing -->
+  <VME_HolyDiseases.symbolPacks.0.ideoName>Чумонизм</VME_HolyDiseases.symbolPacks.0.ideoName>
+  <!-- EN: plaguebringing -->
+  <VME_HolyDiseases.symbolPacks.0.theme>чумоносительства</VME_HolyDiseases.symbolPacks.0.theme>
+  <!-- EN: plaguebringer -->
+  <VME_HolyDiseases.symbolPacks.0.adjective>чумноносный</VME_HolyDiseases.symbolPacks.0.adjective>
+  <!-- EN: acolyte -->
+  <VME_HolyDiseases.symbolPacks.0.member>послушник</VME_HolyDiseases.symbolPacks.0.member>
+
+  <!-- EN: Disease -->
+  <VME_HolyDiseases.symbolPacks.1.ideoName>Болезнизм</VME_HolyDiseases.symbolPacks.1.ideoName>
+  <!-- EN: disease -->
+  <VME_HolyDiseases.symbolPacks.1.theme>болезни</VME_HolyDiseases.symbolPacks.1.theme>
+  <!-- EN: diseased -->
+  <VME_HolyDiseases.symbolPacks.1.adjective>болезненный</VME_HolyDiseases.symbolPacks.1.adjective>
+  <!-- EN: diseased one -->
+  <VME_HolyDiseases.symbolPacks.1.member>болеющий</VME_HolyDiseases.symbolPacks.1.member>
+</LanguageData>

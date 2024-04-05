@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: sick -->
+  <VME_Illness_Exalted.stages.0.label>болею</VME_Illness_Exalted.stages.0.label>
+  <!-- EN: A holy virus and the godlike bacteria shall breed in my veins. -->
+  <VME_Illness_Exalted.stages.0.description>Святой вирус и благословлённые бактерии размножатся во мне.</VME_Illness_Exalted.stages.0.description>
+  
+  <!-- EN: wants to be sick -->
+  <VME_Illness_Exalted_TooHealthy.stages.0.label>хочу заболеть</VME_Illness_Exalted_TooHealthy.stages.0.label>
+  <!-- EN: What I would give for the illness to bind me in pain once more. -->
+  <VME_Illness_Exalted_TooHealthy.stages.0.description>Я бы многое {PAWN_gender ? отдал : отдала}, чтобы слова ощутить болезненность от болезни.</VME_Illness_Exalted_TooHealthy.stages.0.description>
+
+  <!-- EN: sick -->
+  <VME_Illness_Preferred.stages.0.label>болею</VME_Illness_Preferred.stages.0.label>
+  <!-- EN: I am sick. A perfect excuse to lie down. -->
+  <VME_Illness_Preferred.stages.0.description>Я {PAWN_gender ? болен : больна}. Прекрасный повод прилечь отдохнуть.</VME_Illness_Preferred.stages.0.description>
+</LanguageData>

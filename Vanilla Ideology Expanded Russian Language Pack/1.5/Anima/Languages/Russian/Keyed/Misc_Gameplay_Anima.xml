@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: An unconnected Anima Nexus tree. -->
+  <RitualTargetUnconnectedGaruanlenTreeInfo>Несвязанное узловое древо души.</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <!-- EN: The {0} has induced an Anima Nexus pod to sprout nearby. -->
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0} пробуждает росток с семенной коробкой узлового древа души.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+
+  <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Anima Nexus tree. {ANIMAL_possessive} master cannot be changed. -->
+  <DryadCannotChangeMaster>{ANIMAL_nameDef} {ANIMAL_gender ? связан : связана : связано} с {MASTER_nameDef} через своё узловое древо души. {ANIMAL_possessive} хозяин не может быть изменён.</DryadCannotChangeMaster>
+  <!-- EN: Connection strength too low to create Anima Nexus pod. -->
+  <ConnectionStrengthTooWeakForGaumakerPod>Связь слишком слаба для создания ростка узлового древа души.</ConnectionStrengthTooWeakForGaumakerPod>
+</LanguageData>

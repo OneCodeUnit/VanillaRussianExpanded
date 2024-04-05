@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Violent conversion has a 50% chance of either completely converting the participant to your ideoligion or just being executed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_ViolentConversionRitualOutcome.description>Принудительное обращение с вероятностью в 50% полностью обращает участника в вашу идеолигию или подвергает его казни. В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</VME_ViolentConversionRitualOutcome.description>
+  <!-- EN: participant count -->
+  <VME_ViolentConversionRitualOutcome.comps.0.label>количество участников</VME_ViolentConversionRitualOutcome.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_ViolentConversionRitualOutcome.comps.1.label>социальное влияние {PAWN_labelShort}</VME_ViolentConversionRitualOutcome.comps.1.label>
+  <!-- EN: speaker's social impact -->
+  <VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>социальное влияние оратора</VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>
+  <!-- EN: started at altar or ideogram -->
+  <VME_ViolentConversionRitualOutcome.comps.2.label>начато у алтаря или идеограммы</VME_ViolentConversionRitualOutcome.comps.2.label>
+  <!-- EN: an altar or an ideogram -->
+  <VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>алтарь или идеограмма</VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>
+
+  <!-- EN: Awkward -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.label>неуклюже</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was awkward. The speech dragged on and it was a fruitless back-and-forth argument. The words were vague and unconvincing. -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>{0} было неуклюжим. Речь затянулась и представляла собой какое-то переливание из пустого в порожнее. Слова были расплывчатыми и неубедительными.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Satisfying -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.label>удовлетворительно</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was satisfying. The speech was stirring and enjoyable to listen to. -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>{0} было удовлетворительным. Речь была увлекательной и приятной.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Spectacular -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.label>изумительно</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was spectacular! Surely our beliefs will prevail over any others! -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.description>{0} было изумительно! Несомненно, наши убеждения возобладают над любыми другими!</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
+</LanguageData>

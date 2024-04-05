@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Every participant will get a "got some lovin'" memory, but the negative effects of a bad quality orgy will be much more severe than usual. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\nNote that all participants must be consenting adults. If the moral guide is not an adult the ritual will appear as blocked. -->
+  <VME_OrgyRitualOutcome.description>Каждый участник получит бонус от «близости», но негативные эффекты от неудачной оргии будут серьёзными. В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.\nОбратите внимание, что участники должны быть совершеннолетними. Если духовный лидер не является совершеннолетними, ритуал будет заблокированным.</VME_OrgyRitualOutcome.description>
+  <!-- EN: orgy organizer present -->
+  <VME_OrgyRitualOutcome.comps.0.label>присутствует вдохновитель оргии</VME_OrgyRitualOutcome.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <VME_OrgyRitualOutcome.comps.1.label>впечатление от помещения</VME_OrgyRitualOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_OrgyRitualOutcome.comps.2.label>социальное влияние {PAWN_labelShort}</VME_OrgyRitualOutcome.comps.2.label>
+  <!-- EN: organizer's social impact -->
+  <VME_OrgyRitualOutcome.comps.2.labelAbstract>социальное влияние организатора</VME_OrgyRitualOutcome.comps.2.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_OrgyRitualOutcome.comps.3.label>количество участников</VME_OrgyRitualOutcome.comps.3.label>
+
+  <!-- EN: Grotesque -->
+  <VME_OrgyRitualOutcome.outcomeChances.0.label>нелепо</VME_OrgyRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was grotesque! When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away. -->
+  <VME_OrgyRitualOutcome.outcomeChances.0.description>{0} была нелепа! Когда вы думаете об оргии, вы мечтаете увидеть привлекательных людей. В этот же раз... очень хотелось развидеть их. Потребуется время, чтобы забыть увиденное.</VME_OrgyRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Awkward -->
+  <VME_OrgyRitualOutcome.outcomeChances.1.label>неловко</VME_OrgyRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was awkward. Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing. -->
+  <VME_OrgyRitualOutcome.outcomeChances.1.description>На {0} было неловко. Все тупили не зная, что делать, просто лежали голыми на полу. Ра-зо-ча-ро-ва-ние!</VME_OrgyRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Sexy -->
+  <VME_OrgyRitualOutcome.outcomeChances.2.label>эротично</VME_OrgyRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was very sexy. We gave ourselves to each other in a communal expression of our deepest passions. -->
+  <VME_OrgyRitualOutcome.outcomeChances.2.description>{0} была эротичной. Мы отдавались друг другу в выражении наших глубочайших страстей.</VME_OrgyRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Exhilarating -->
+  <VME_OrgyRitualOutcome.outcomeChances.3.label>возбуждающе</VME_OrgyRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was exhilarating! We all donned our high-society masquerade masks and uncovered our bodies. A barrage of ecstasy unlike no other made our bodies tremble with barely concealed excitement. -->
+  <VME_OrgyRitualOutcome.outcomeChances.3.description>{0} была возбуждающей! Скрывая лица элегантными масками, мы обнажили наши тела. Чувство непрекращающегося экстаза, не похожее ни на что другое, заставило наши тела дрожать от уже едва скрываемого возбуждения.</VME_OrgyRitualOutcome.outcomeChances.3.description>
+</LanguageData>

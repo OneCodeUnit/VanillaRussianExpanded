@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: craft culture -->
+  <VME_CraftCulture.label>культура ремесла</VME_CraftCulture.label>
+  <!-- EN: One should aspire to feel the ache in their fingers after a long day of craft. A talented blacksmith or tailor is to be dignified. -->
+  <VME_CraftCulture.description>Следует стремиться к чувству боли в пальцах после долгого рабочего дня. Быть талантливым кузнецом или портным — достойное занятие.</VME_CraftCulture.description>
+
+  <!-- EN:
+    <li>memeAdjective->artificing</li>
+    <li>memeAdjective->crafting</li>
+    <li>memeAdjective->smithing</li>
+    <li>memeAdjective->making</li>
+    <li>memeHyphenPrefix->craft</li>
+    <li>memeConcept->crafting</li>
+    <li>memeLeaderNoun->grand artificer</li>
+    <li>memeMoralist->tinkerer</li>
+    <li>memeMoralist->crafter</li>
+  -->
+  <VME_CraftCulture.generalRules.rulesStrings>
+    <li>memeAdjective->искусный</li>
+    <li>memeAdjective->ремесленный</li>
+    <li>memeAdjective->кузнечный</li>
+    <li>memeAdjective->изготавливающий</li>
+    <li>memeHyphenPrefix->ремесленно</li>
+    <li>memeConcept->ремесла</li>
+    <li>memeLeaderNoun->великий искусник</li>
+    <li>memeMoralist->кустарь</li>
+    <li>memeMoralist->крафтер</li>
+  </VME_CraftCulture.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_CraftCulture)        ->[deity0_name] is the Great Artificer, [deity0_pronoun] created the Universe and crafted the first humans from the primordial clay.</li>
+    <li>episode(uses=1,tag=meme_CraftCulture)  ->[deity0_name] said to all the [memberNamePlural]: "There is no greater gift than Making, for you are following my footsteps."</li>
+
+    <li>intro(tag=meme_CraftCulture)           ->[memberNamePlural] crafted a great [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory and a testament to the ability of our crafters.</li>
+    <li>conflict(tag=meme_CraftCulture)        ->A coward [foeLeader], seeking to deny the crafting of [deity0_name], tried to destroy the creations of the [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_CraftCulture)     ->[deity0_name] blessed [founderName] with a wondrous crafting relic, the [relic0_name], which allowed [founderName_objective] to repair and mend the damage created by [foeLeader] before it could be undone.</li>
+    <li>victory(tag=meme_CraftCulture)         ->[founderName] looked at the exhausted [foeLeader] before him, with a smirk in [founderName_possessive] face: "Fool, you can't destroy the creations of [deity0_name]'s followers, for we are blessed by [deity0_possessive] prowess, and so are therefore our inventions".</li>
+
+    <li>setup(tag=meme_CraftCulture)           ->Our founder [founderName] was a great crafter, there was no art or machine beyond the capabilities of [founder_possessive] hands.</li>
+    <li>story(uses=1,tag=meme_CraftCulture)    ->[founder_possessive] followers came to love and cherish [founder_possessive] techniques and [founder_possessive] exquisite creations.</li>
+
+    <li>lessonIntro(tag=meme_CraftCulture)         ->In all my years crafting wondrous inventions, I learned one lesson that stands over all:</li>
+    <li>lesson(tag=meme_CraftCulture)              ->it is only by creating that we can impress our souls upon this uncaring Universe</li>
+    <li>lessonReinforcement(tag=meme_CraftCulture) ->No one will care about you when you are dead, but you will be kept alive as long as someone can look upon what you created and rejoice.</li>
+
+    <li>archistBasis(tag=meme_CraftCulture)    ->The archotechs are not a natural phenomena of the Universe. They were created, they were crafted. And it was by human hands.</li>
+    <li>archistFact(tag=meme_CraftCulture)     ->Archotechs are wise beyond all reason, and their wisdom must have been seeded from the very moment of their creation.</li>
+    <li>archistProphecy(tag=meme_CraftCulture) ->[inTheEnd], by crafting and perfecting such wondrous creations as the mighty [relic0_name], we will be as skilled as the forgotten makers who uncovered the secrets of archotechnology.</li>
+
+    <li>animistFact(tag=meme_CraftCulture)     ->The spirits need a vessel to manifest in the mundane world, and by creating wondrous inventions we will be able to provide them with a suitable recipient.</li>
+
+    <li>serketistProphecy(tag=meme_CraftCulture)->[itIsSaid] by emulating the industriousness of the insects we will craft and create thousands of might wondrous inventions.</li>
+
+    <li>chthonianProphecy(tag=meme_CraftCulture)->Only an arcane invention of unearthly provenance may perhaps shield us from such insanity. We shall craft our way to salvation.</li>
+
+    <li>esotericismProphecy(tag=meme_CraftCulture)->By studying the mechanisms of wondrous creations we may uncover some of these ancient secrets, and perhaps gaze into the unknown.</li>
+
+    <li>eschatologismFact(tag=meme_CraftCulture)->Mark my words: the world will end, and we shall be the crafters of its demise.</li>
+
+    <li>introMemo(tag=meme_CraftCulture)->Starting next Tuesday, we are introducing production quotas on each crafting station. Bear in mind that straying too far from these quotas might result in immediate admonishment from Upper Management. Guys, this is not a charity, we are here to PRODUCE.</li>
+
+    <li>alienistProphecy(tag=meme_CraftCulture)->All these wayward creations of humanity provide us with infinite inspiration for our own creations.</li>
+  -->
+  <VME_CraftCulture.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CraftCulture)        ->[deity0_name] Великий Ремесник, [deity0_pronoun] создал Вселенную и создал первых людей из первобытной глины.</li>
+    <li>episode(uses=1,tag=meme_CraftCulture)  ->[deity0_name] сказал всем [memberNamePlural]: "Нет более ценного дара, чем сотворение, ведь так вы следуете шагами моими."</li>
+
+    <li>intro(tag=meme_CraftCulture)           ->[memberNamePlural] построили [altarName] на [place_summary] [place_name], возвели монумент [deity0_name] славе и воплощений умений наших ремеслиников.</li>
+    <li>conflict(tag=meme_CraftCulture)        ->Трус по имени [foeLeader], стремясь посрамить детище  [deity0_name], пытался уничтожить сотворённое [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_CraftCulture)     ->[deity0_name] благословил [founderName] рукотворным чудом, [relic0_name], который позволил [founderName_objective] восстановить урон, который нанёс  [foeLeader], прежде чем он будет утрачен навсегда.</li>
+    <li>victory(tag=meme_CraftCulture)         ->[founderName] взглянул на измождённого [foeLeader], распростёршегося перед ним, и на лице [founderName_possessive]  появилась ухмылка: "Глупец, ты не можешь навредить творениям последователей [deity0_name], ведь мы благословлены созидательной мощью [deity0_possessive], как и наши изобретения.".</li>
+
+    <li>setup(tag=meme_CraftCulture)           ->Наш основатель, [founderName] был великим ремесленником и не существовало такой машины, или предмета, которые были бы неподвластны рукам [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_CraftCulture)    ->Последователи [founder_possessive] пришли к нему, чтобы вознести ему хвалу за его непревзойдённые творения.</li>
+
+    <li>lessonIntro(tag=meme_CraftCulture)         ->За все мои годы, пока я создавал эти чудесные вещи, я усвоил один урок, который стоит превыше остальных:</li>
+    <li>lesson(tag=meme_CraftCulture)              ->Только создавая, мы можем вселить вдохновение в наши души, находящиеся посреди этой безразличной к нам Вселенной.</li>
+    <li>lessonReinforcement(tag=meme_CraftCulture) ->Мёртвые не получают заботы, но пока кто-то может радоваться тому, что ты сотворил - ты будешь жить.</li>
+
+    <li>archistBasis(tag=meme_CraftCulture)    ->Архотеки - не часть природы Вселенной. Они были созданы. Они рукотворны. И сотворили их люди.</li>
+    <li>archistFact(tag=meme_CraftCulture)     ->Мудрость архотеков превосходит любые границы и мудрость их должна распространяться по Вселенной так же, как распространяется жизнь, с самого момента её рождения.</li>
+    <li>archistProphecy(tag=meme_CraftCulture) ->[inTheEnd], создавая и совершенствуя такие рукотворные чудеса, как великая [relic0_name], мы в своём мастерстве приблизимся к забытым творцам, которые когда-то открыли секреты архотехнологии.</li>
+
+    <li>animistFact(tag=meme_CraftCulture)     ->Духи нуждаются в сосудах, которые позволят им проявить себя в нашем мире. И создавая чудесные изобретения, мы даём им такой сосуд.</li>
+
+    <li>serketistProphecy(tag=meme_CraftCulture)->[itIsSaid] подражая трудолюбию насекомых, мы создаём сотни и тысячи поистине чудесных творений.</li>
+
+    <li>chthonianProphecy(tag=meme_CraftCulture)->Только пронизанные тайными, нечеловеческими знаниями изобретения смогут дать нам хотя бы призрачную защиту от безумия. Созидая, мы проложим себе путь к спасению.</li>
+
+    <li>esotericismProphecy(tag=meme_CraftCulture)->Изучая то, как работают причудливые изобретения, мы сможем раскрыть секреты древних и даже заглянуть за грань того, что доступно человеческому пониманию.</li>
+
+    <li>eschatologismFact(tag=meme_CraftCulture)->Помяните моё слово: мир рухнет и мы будем создателями его конца.</li>
+
+    <li>introMemo(tag=meme_CraftCulture)->Начиная со следующего вторника, будут утверждены новые производственные нормы на каждой из станций. Имейте в виду, что любые отклонения от установленных норм влекут за собой немедленные дисциплинарные меры, регулируемые Руководством. Коллеги, это не богадельня, мы здесь для того, чтобы ПРОИЗВОДИТЬ.</li>
+
+    <li>alienistProphecy(tag=meme_CraftCulture)->Все эти заблудшие творения рук людских - есть неиссякаемый сосуд вдохновения для наших собственных изобретений.</li>
+  </VME_CraftCulture.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Crafting -->
+  <VME_CraftCulture.symbolPacks.0.ideoName>Ремесло</VME_CraftCulture.symbolPacks.0.ideoName>
+  <!-- EN: crafting -->
+  <VME_CraftCulture.symbolPacks.0.theme>ремесла</VME_CraftCulture.symbolPacks.0.theme>
+  <!-- EN: crafting -->
+  <VME_CraftCulture.symbolPacks.0.adjective>ремесленный</VME_CraftCulture.symbolPacks.0.adjective>
+  <!-- EN: crafter -->
+  <VME_CraftCulture.symbolPacks.0.member>ремесленник</VME_CraftCulture.symbolPacks.0.member>
+
+  <!-- EN: Making -->
+  <VME_CraftCulture.symbolPacks.1.ideoName>Изготовление</VME_CraftCulture.symbolPacks.1.ideoName>
+  <!-- EN: making -->
+  <VME_CraftCulture.symbolPacks.1.theme>изготовления</VME_CraftCulture.symbolPacks.1.theme>
+  <!-- EN: making -->
+  <VME_CraftCulture.symbolPacks.1.adjective>изготавливающий</VME_CraftCulture.symbolPacks.1.adjective>
+  <!-- EN: maker -->
+  <VME_CraftCulture.symbolPacks.1.member>изготовитель</VME_CraftCulture.symbolPacks.1.member>
+
+  <!-- EN: Artificing -->
+  <VME_CraftCulture.symbolPacks.2.ideoName>Искусность</VME_CraftCulture.symbolPacks.2.ideoName>
+  <!-- EN: artificing -->
+  <VME_CraftCulture.symbolPacks.2.theme>искусный</VME_CraftCulture.symbolPacks.2.theme>
+  <!-- EN: artificial -->
+  <VME_CraftCulture.symbolPacks.2.adjective>искусности</VME_CraftCulture.symbolPacks.2.adjective>
+  <!-- EN: artificer -->
+  <VME_CraftCulture.symbolPacks.2.member>искусник</VME_CraftCulture.symbolPacks.2.member>
+
+  <!-- EN: Tinkering -->
+  <VME_CraftCulture.symbolPacks.3.ideoName>Рукоделие</VME_CraftCulture.symbolPacks.3.ideoName>
+  <!-- EN: tinkering -->
+  <VME_CraftCulture.symbolPacks.3.theme>рукоделия</VME_CraftCulture.symbolPacks.3.theme>
+  <!-- EN: tinkering -->
+  <VME_CraftCulture.symbolPacks.3.adjective>рукодельный</VME_CraftCulture.symbolPacks.3.adjective>
+  <!-- EN: tinkerer -->
+  <VME_CraftCulture.symbolPacks.3.member>рукодел</VME_CraftCulture.symbolPacks.3.member>
+</LanguageData>

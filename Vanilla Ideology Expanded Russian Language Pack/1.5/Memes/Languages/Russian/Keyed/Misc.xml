@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Automation efficiency: increased precept -->
+  <VME_Automation>Эффективность автоматизации: повышена принципом</VME_Automation>
+  <!-- EN: Automation efficiency: decreased precept -->
+  <VME_AutomationDecreased>Эффективность автоматизации: понижена принципом</VME_AutomationDecreased>
+  <!-- EN: Crafting speed: slower for manual precept -->
+  <VME_AutomationManual>Скорость изготовления: замедлена принципом</VME_AutomationManual>
+  <!-- EN: Meditation: exquisite precept -->
+  <VME_MeditationSpotExtra>Медитация: совершенна от принципа</VME_MeditationSpotExtra>
+  <!-- EN: Recreation: loved precept -->
+  <VME_ExtraJoyGain>Развлечения: любимы от принципа</VME_ExtraJoyGain>
+  <!-- EN: Pâtissier role -->
+  <VME_ExtraPatissierCooking>Кондитер</VME_ExtraPatissierCooking>
+  <!-- EN: Eldritch Corruption too low -->
+  <VME_ExtraCertaintyLoss>Осквернение слишком мало</VME_ExtraCertaintyLoss>
+  <!-- EN: Eldritch Corruption -->
+  <VME_NullCertaintyLoss>Жутьностистское осквернение</VME_NullCertaintyLoss>
+  <!-- EN: {0} is not harbouring suicidal thoughts! -->
+  <VME_PawnMustBeSuicidal>{0} не думает о самоубийстве!</VME_PawnMustBeSuicidal>
+  <!-- EN: {0} must be the best melee fighter in the colony! -->
+  <VME_PawnMustBeBestMelee>{0} не является лучшим бойцом ближнего боя в поселении!</VME_PawnMustBeBestMelee>
+  <!-- EN: An unroofed ritual spot at night. Spot must be unroofed with at least 25 unroofed cells in the area. -->
+  <VME_RitualTargetDivineTheStarsInfo>Место для ночного ритуала не под крышей. Необходимо убрать крышу хотя бы в 25 клетках от зоны.</VME_RitualTargetDivineTheStarsInfo>
+  <!-- EN: A built wicker man. -->
+  <VME_WickerManInfo>Место постройки плетёного человека.</VME_WickerManInfo>
+  <!-- EN: You need a prisoner to start the wicker man ritual. -->
+  <VME_CantStartWickerManRitual>Необходим заключённый для сожжения плетёного человека.</VME_CantStartWickerManRitual>
+  <!-- EN: Participant must be a slave. -->
+  <VME_MessageRitualRoleMustBeSlave>Участник должен быть рабом.</VME_MessageRitualRoleMustBeSlave>
+  <!-- EN: Organizer and participants must be consenting adults. -->
+  <VME_NeedsAdults>Вдохновитель и участники должны быть совершеннолетними.</VME_NeedsAdults>
+
+  <!-- EN: No reachable wicker man. -->
+  <VME_AbilityDisabledNoWickerMan>Плетёный человек недоступен.</VME_AbilityDisabledNoWickerMan>
+  <!-- EN: This ability needs to target a turret or mechanoid. -->
+  <VME_AbilityNeedsATurret>Цель способности должна быть турелью или механоидом.</VME_AbilityNeedsATurret>
+  <!-- EN: This ability needs to target a wild or hostile insectoid. -->
+  <VME_AbilityNeedsInsect>Цель способности должна быть диким или враждебным инсектоидом.</VME_AbilityNeedsInsect>
+  <!-- EN: This ability needs to target an empty spot under mountain roof. -->
+  <VME_AbilityNeedsRoof>Для способности требуется свободное пространство под горой.</VME_AbilityNeedsRoof>
+  <!-- EN: This ability needs to target an empty spot. -->
+  <VME_AbilityNeedsSpotEmpty>Для способности требуется свободное пространство.</VME_AbilityNeedsSpotEmpty>
+  <!-- EN: This ability needs to target food categorized as a meal. -->
+  <VME_AbilityNeedsMeal>Цель способности должна быть блюдом.</VME_AbilityNeedsMeal>
+  <!-- EN: A trader caravan has been attracted to your settlement and will arrive in approximately a day. -->
+  <VME_AbilityCaravanWillArrive>Торговый караван был привлечён и прибудет в поселение в течение дня.</VME_AbilityCaravanWillArrive>
+  <!-- EN: Meal is already a dessert. This ability needs to target a meal that isn't a dessert. -->
+  <VME_AbilityAlreadyADessert>Это блюдо уже является десертом, выберите другое блюдо.</VME_AbilityAlreadyADessert>
+  <!-- EN: This ability needs to target a free colonist. -->
+  <VME_AbilityNeedsAColonist>Цель способности должна свободным поселенцем.</VME_AbilityNeedsAColonist>
+  <!-- EN: This ability needs to target a fresh humanoid corpse. -->
+  <VME_AbilityNeedsCorpse>Цель способности должна свежим трупом гуманоида.</VME_AbilityNeedsCorpse>
+
+  <!-- EN: Uninstall building -->
+  <VME_DeconstructBuildingLabel>Демонтировать</VME_DeconstructBuildingLabel>
+  <!-- EN: Uninstall junk building to be able to move and reintall it. These can be caravaned out of a map, making "junk expeditions" possible -->
+  <VME_DeconstructBuildingDesc>Демонтировать древний хлам, чтобы установить его в другом месте. Его можно транспортировать караваном, что делает возможным целые экспедиции за хламом.</VME_DeconstructBuildingDesc>
+  <!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingLabel>Отменить демонтаж</VME_CancelDeconstructBuildingLabel>
+  <!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingDesc>Отменить демонтаж.</VME_CancelDeconstructBuildingDesc>
+  <!-- EN: Last straw: cosmic horror -->
+  <VME_BreakCorruption>Последняя капля: космический ужас</VME_BreakCorruption>
+  <!-- EN: Must be built on passable water. -->
+  <VME_NeedsWater>Должно быть расположено на мелководье.</VME_NeedsWater>
+  <!-- EN: Fish traps must be built at least 10 tiles apart from each other. -->
+  <VME_NeedsDistance>Ловушка для рыба должна быть построена дальше 10 клеток от других ловушек.</VME_NeedsDistance>
+  <!-- EN: This fish trap can catch small fish: -->
+  <VME_SmallFishTrapDescriptionInspect>Эта ловушка ловит маленькую рыбу:</VME_SmallFishTrapDescriptionInspect>
+  <!-- EN: Next small fish caught in -->
+  <VME_SmallFishCaughtIn>Следующая маленькая рыба будет поймана через</VME_SmallFishCaughtIn>
+  <!-- EN: This fish trap can catch medium fish: -->
+  <VME_MediumFishTrapDescriptionInspect>Эта ловушка ловит среднюю рыбу:</VME_MediumFishTrapDescriptionInspect>
+  <!-- EN: Next medium fish caught in -->
+  <VME_MediumFishCaughtIn>Следующая средняя рыба будет поймана через</VME_MediumFishCaughtIn>
+  <!-- EN: This fish trap can catch large fish: -->
+  <VME_LargeFishTrapDescriptionInspect>Эта ловушка ловит большую рыбу:</VME_LargeFishTrapDescriptionInspect>
+  <!-- EN: Next large fish caught in -->
+  <VME_LargeFishCaughtIn>Следующая большая рыба будет поймана через</VME_LargeFishCaughtIn>
+  <!-- EN: Catches until breaking: {0} -->
+  <VME_UsesLeftUntilItBreaks>Уловов до разрушения: {0}</VME_UsesLeftUntilItBreaks>
+  <!-- EN: Only adults can participate in this ritual -->
+  <VME_PawnMustBeAnAdult>Только совершеннолетние могут участвовать в этом ритуале</VME_PawnMustBeAnAdult>
+  <!-- EN: Insect nest maintenance: {0}% -->
+  <VME_Maintenance>Обслуживание гнезда: {0}%</VME_Maintenance>
+  <!-- EN: Maintenance needed. If it reaches 0% the nest will be destroyed. -->
+  <VME_MaintenanceNeeded>ТРебуется обслуживание. Если оно достигнет 0%, гнездо разрушится.</VME_MaintenanceNeeded>
+  <!-- EN: The Queen snorts at you: "No, I don't think I will" -->
+  <VME_NotTheQueen>Королева фыркает: «Я так не думаю»</VME_NotTheQueen>
+  <!-- EN: Could not find any valid party spot or organizer was unavailable. -->
+  <VME_NoValidPartySpot>Не удаётся найти место для вечеринки или организатор недоступен.</VME_NoValidPartySpot>
+  <!-- EN: You need a reasonably healthy prisoner to start the ritual -->
+  <VME_CantStartRitualNoConvertee>Требуется достаточно здоровый пленник для ритуала</VME_CantStartRitualNoConvertee>
+  <!-- EN: Unfortunately, {0} refused to see our reasonable ways and was sacrificed. -->
+  <VME_ViolentOutcome>К сожалению, пленник {0} не внял голосу разума и был принесён в жертву.</VME_ViolentOutcome>
+  <!-- EN: {0} saw our reasonable ways and was converted to our ideoligion. -->
+  <VME_NonViolentOutcome>Пленник {0} прислушался к голосу разума и обратился в нашу идеолигию.</VME_NonViolentOutcome>
+  <!-- EN: Ritual needs to be done at night, or under any condition that lowers light below 50% globally (eclipses don't count). -->
+  <VME_RitualNeedsNightOrDarkness>Ритуал должен проводиться ночью или при любых других условиях, когда глобальная освещённость ниже 50% (но не при затмениях).</VME_RitualNeedsNightOrDarkness>
+  <!-- EN: Ritual needs to be done at night, and with clear weather. -->
+  <VME_RitualNeedsClearWeather>Ритуал должен проводиться ночью и на прозрачной воде.</VME_RitualNeedsClearWeather>
+  <!-- EN: Bonfire at {0}% strength -->
+  <VME_BonfireDyingIn>Сила ритуального костра: {0}%</VME_BonfireDyingIn>
+  <!-- EN: High corruption -->
+  <VEM_HighCorruption>Сильное осквернение</VEM_HighCorruption>
+  <!-- EN: These people have a too high corruption need (more than 90%). If they reach 100% corruption they will get an extreme level mental break:\n\n{0} -->
+  <VEM_HighCorruptionDesc>Следующие люди имеют слишком высокий уровень осквернения (выше 90%). Когда он достигнет 100%, они получат сильнейший нервный срыв:\n\n{0}</VEM_HighCorruptionDesc>
+  <!-- EN: Low corruption -->
+  <VEM_LowCorruption>Слабое осквернение</VEM_LowCorruption>
+  <!-- EN: These people have a too low corruption need (less than 10%). If they reach 0% corruption they will be easily swayed to a different ideoligion. Build obelisks to maintain their corruption need or perform Incantation rituals to increase it by 10%:\n\n{0} -->
+  <VEM_LowCorruptionDesc>Следующие люди имеют слишком низкий уровень осквернения (ниже 10%). Когда он достигнет 0%, осквернение можно будет заменить любой другой идеолигией. Стройте обелиски, чтобы поддерживать уровень осквернения или проводите ритуалы камлания для поднятия его на 10%:\n\n{0}</VEM_LowCorruptionDesc>
+  <!-- EN: Chunks of ancient space junk have impacted nearby. You can uninstall and move them to build your junkyard.\n\nThis event happens if you have any colonists with an ideo using the Scrapper meme. -->
+  <VME_MessageJunkChunkDrop>Куски древнего космического мусора упали неподалёку. Их можно демонтировать и перенести в другое место — на вашу свалку.\n\nЭто событие произошло из-за того, что у вас живёт поселенец с идеолигией, имеющей черту «Сбор лома».</VME_MessageJunkChunkDrop>
+  <!-- EN: Colonist must be capable of Talking -->
+  <VME_MessageRitualRoleMustBeCapableOfSocial>Поселенец должен иметь возможность говорить</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <!-- EN: Ritual needs the Exalted Priesthood meme -->
+  <VME_NeedsExaltedPriesthood>Ритуал требует черту «верховный жрец»</VME_NeedsExaltedPriesthood>
+  <!-- EN: Heir changed -->
+  <VME_HeirChange>Наследник изменён</VME_HeirChange>
+  <!-- EN: Due to royal inheritance, {1} has been automatically designated as the heir of {0} -->
+  <VME_HeirChangeDesc>Благодаря системе наследования титулов, {1} автоматически назначен наследником {0}</VME_HeirChangeDesc>
+  
+  <!-- EN: Reset -->
+  <VME_Reset>Сброс</VME_Reset>
+  <!-- EN: max memes -->
+  <VME_Meme>максимум черт</VME_Meme>
+  <!-- EN: max rituals -->
+  <VME_Ritual>максимум ритуалов</VME_Ritual>
+  <!-- EN: max styles -->
+  <VME_Styles>максимум стилей</VME_Styles>
+  <!-- EN: max relics -->
+  <VME_Relics>максимум реликвий</VME_Relics>
+  <!-- EN: max buildings -->
+  <VME_Buildings>максимум сооружений</VME_Buildings>
+  <!-- EN: Max number of memes allowed (default is 4) -->
+  <VME_MemeAmount>Максимум доступных черт (по умолчанию 4)</VME_MemeAmount>
+  <!-- EN: Max number of memes allowed. Note that this only applies to player ideoligions. -->
+  <VME_MemeAmountTooltip>Максимум доступных черт. Влияет только на идеолигию игрока.</VME_MemeAmountTooltip>
+  <!-- EN: Max number non-meme specific rituals allowed (default is 6) (requires game reload) -->
+  <VME_RitualAmount>Максимум доступных ритуалов, не связанных с чертами (по умолчанию 6, требуется перезагрузка)</VME_RitualAmount>
+  <!-- EN: Max number non-meme specific rituals allowed. Rituals that are forced by a meme USUALLY don't count towards this limit, though there can be exceptions (requires game reload). -->
+  <VME_RitualAmountTooltip>Максимум доступных ритуалов, не связанных с чертами. Ритуалы, принудительно добавленные чертами ОБЫЧНО не должны считаться, но бывают исключения (требуется перезагрузка).</VME_RitualAmountTooltip>
+  <!-- EN: Max number of ideo visual styles allowed (default is 3) (requires game reload) -->
+  <VME_StylesAmount>Максимум доступных стилей для идеолигии (по умолчанию 3, требуется перезагрузка)</VME_StylesAmount>
+  <!-- EN: Max number of ideo visual styles allowed. Note that we set this to start in the mod as 5 by default, up from base game's 3, because we add quite a lot of them (requires game reload). -->
+  <VME_StylesAmountTooltip>Максимум доступных стилей для идеолигии. По умолчанию в моде он установлен на 5, против 3 в основной игре из-за большого числа добавленных новых (требуется перезагрузка).</VME_StylesAmountTooltip>
+  <!-- EN: Max number of ideo relics allowed (default is 3) -->
+  <VME_RelicsAmount>Максимум доступных реликвий (по умолчанию 3)</VME_RelicsAmount>
+  <!-- EN: Max number of ideo relics allowed -->
+  <VME_RelicsAmountTooltip>Максимум доступных реликвий.</VME_RelicsAmountTooltip>
+  <!-- EN: Max number of ideo buildings allowed (default is 2) -->
+  <VME_BuildingsAmount>Максимум доступных сооружений (по умолчанию 2)</VME_BuildingsAmount>
+  <!-- EN: Max number of ideo buildings allowed. This includes altars, pictograms and such, but not buildings added through memes. -->
+  <VME_BuildingsAmountTooltip>Максимум доступных сооружений. Он включает в себя алтари, пиктограммы и т.п., но не включает сооружения, добавленные чертами.</VME_BuildingsAmountTooltip>
+</LanguageData>
