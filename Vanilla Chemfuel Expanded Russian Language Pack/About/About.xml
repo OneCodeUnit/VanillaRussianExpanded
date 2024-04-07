@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Chemfuel Expanded Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>OW.RU.Chemfuel</packageId>
+  <description>Перевод на русский язык мода Vanilla Chemfuel Expanded. Подробности ищите на странице в мастерской.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VChemfuelE</packageId>
+      <displayName>Vanilla Chemfuel Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2792917473</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VChemfuelE</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>Am.Rus.VChemfuelE</li>
+    <li>VanillaExpanded.VChemfuelERu</li>
+  </incompatibleWith>
+</ModMetaData>

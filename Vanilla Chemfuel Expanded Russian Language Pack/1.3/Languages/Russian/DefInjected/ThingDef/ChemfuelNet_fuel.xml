@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: chemfuel pipe -->
+  <VCHE_ChemfuelPipe.label>химтопливная труба</VCHE_ChemfuelPipe.label>
+  <!-- EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_ChemfuelPipe.description>Стальная труба, предназначенная для транспортировки химического топлива от глубтопливного переработчика до цистерн или для автоматической заправки построек-потребителей.</VCHE_ChemfuelPipe.description>
+  <!-- EN: chemfuel pipe (blueprint) -->
+  <VCHE_ChemfuelPipe_Blueprint.label>химтопливная труба (проект)</VCHE_ChemfuelPipe_Blueprint.label>
+  <!-- EN: chemfuel pipe (building) -->
+  <VCHE_ChemfuelPipe_Frame.label>химтопливная труба (в процессе сборки)</VCHE_ChemfuelPipe_Frame.label>
+  <!-- EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_ChemfuelPipe_Frame.description>Стальная труба, предназначенная для транспортировки химического топлива от глубтопливного переработчика до цистерн или для автоматической заправки построек-потребителей.</VCHE_ChemfuelPipe_Frame.description>
+
+  <!-- EN: subterranean chemfuel pipe -->
+  <VCHE_UndergroundChemfuelPipe.label>подземная химтопливная труба</VCHE_UndergroundChemfuelPipe.label>
+  <!-- EN: Subterranean steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_UndergroundChemfuelPipe.description>Подземная стальная труба, предназначенная для транспортировки химического топлива от глубтопливного переработчика до цистерн или для автоматической заправки построек-потребителей.</VCHE_UndergroundChemfuelPipe.description>
+  <!-- EN: subterranean chemfuel pipe (blueprint) -->
+  <VCHE_UndergroundChemfuelPipe_Blueprint.label>подземная химтопливная труба (проект)</VCHE_UndergroundChemfuelPipe_Blueprint.label>
+  <!-- EN: subterranean chemfuel pipe (building) -->
+  <VCHE_UndergroundChemfuelPipe_Frame.label>подземная химтопливная труба (в процессе сборки)</VCHE_UndergroundChemfuelPipe_Frame.label>
+  <!-- EN: Subterranean steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_UndergroundChemfuelPipe_Frame.description>Подземная стальная труба, предназначенная для транспортировки химического топлива от глубтопливного переработчика до цистерн или для автоматической заправки построек-потребителей.</VCHE_UndergroundChemfuelPipe_Frame.description>
+
+  <!-- EN: chemfuel tank -->
+  <PS_ChemfuelTank.label>цистерна химтоплива</PS_ChemfuelTank.label>
+  <!-- EN: An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.< -->
+  <PS_ChemfuelTank.description>Тяжёлая ёмкость промышленного уровня для хранения химического топлива. Топливо из цистерн будет поступать по мере необходимости. Будьте осторожны: даже самое лёгкое повреждение может вызвать огненный взрыв, размер которого будет зависеть от количества хранимого топлива</PS_ChemfuelTank.description>
+
+  <!-- EN: chemfuel tap -->
+  <VCHE_ChemfuelTap.label>клапан химтоплива</VCHE_ChemfuelTap.label>
+  <!-- EN: A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later. -->
+  <VCHE_ChemfuelTap.description>Резервуар, похожий на воронку. Предназначен для периодического отвода химтоплива из цистерн для последующего использования.</VCHE_ChemfuelTap.description>
+  <!-- EN: chemfuel drain -->
+  <VCHE_ChemfuelDrain.label>слив химтоплива</VCHE_ChemfuelDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks. -->
+  <VCHE_ChemfuelDrain.description>Резервуар, похожий на воронку. Предназначен для заливки химтоплива трубопровод и наполнения подсоединённых цистерн.</VCHE_ChemfuelDrain.description>
+
+  <!-- EN: chemfuel valve -->
+  <VCHE_ChemfuelValve.label>вентиль химтоплива</VCHE_ChemfuelValve.label>
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemfuelValve.description>Открывает или перекрывает поток топлива.</VCHE_ChemfuelValve.description>
+</LanguageData>
