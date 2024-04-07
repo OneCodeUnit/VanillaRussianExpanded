@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Interested in it -->
+  <VSE.Expertise0>заинтересованный</VSE.Expertise0>
+  <!-- EN: Hobbyist -->
+  <VSE.Expertise1>любитель</VSE.Expertise1>
+  <!-- EN: Aspiring Apprentice -->
+  <VSE.Expertise2>начинающий</VSE.Expertise2>
+  <!-- EN: Apprentice -->
+  <VSE.Expertise3>стажёр</VSE.Expertise3>
+  <!-- EN: Excellent Apprentice -->
+  <VSE.Expertise4>умелый стажёр</VSE.Expertise4>
+  <!-- EN: Weak Professional -->
+  <VSE.Expertise5>слабый профессионал</VSE.Expertise5>
+  <!-- EN: Professional -->
+  <VSE.Expertise6>почти профессионал</VSE.Expertise6>
+  <!-- EN: Employable Professional -->
+  <VSE.Expertise7>профессионал</VSE.Expertise7>
+  <!-- EN: Solid Professional -->
+  <VSE.Expertise8>уверенный профессионал</VSE.Expertise8>
+  <!-- EN: Skilled Professional -->
+  <VSE.Expertise9>опытный профессионал</VSE.Expertise9>
+  <!-- EN: Very Skilled Professional -->
+  <VSE.Expertise10>ведущий профессионал</VSE.Expertise10>
+  <!-- EN: Almost Expert -->
+  <VSE.Expertise11>почти эксперт</VSE.Expertise11>
+  <!-- EN: Self-Proclaimed Expert -->
+  <VSE.Expertise12>самопровозглашённый эксперт</VSE.Expertise12>
+  <!-- EN: Expert -->
+  <VSE.Expertise13>эксперт</VSE.Expertise13>
+  <!-- EN: Strong Expert -->
+  <VSE.Expertise14>ведущий эксперт</VSE.Expertise14>
+  <!-- EN: Very Strong Expert -->
+  <VSE.Expertise15>мастер</VSE.Expertise15>
+  <!-- EN: Colony-Known Expert -->
+  <VSE.Expertise16>заслуженный мастер</VSE.Expertise16>
+  <!-- EN: Region-Known Expert -->
+  <VSE.Expertise17>мастер континентального масштаба</VSE.Expertise17>
+  <!-- EN: Region-Leading Expert -->
+  <VSE.Expertise18>ведущий континентальный мастер</VSE.Expertise18>
+  <!-- EN: Planet-Known Expert -->
+  <VSE.Expertise19>мастер планетарного масштаба</VSE.Expertise19>
+  <!-- EN: Legendary Expert -->
+  <VSE.Expertise20>легендарный мастер</VSE.Expertise20>
+  <!-- EN: Colonist can gain expertise -->
+  <VSE.ExpertiseAvailable>Поселенец может получить мастерство</VSE.ExpertiseAvailable>
+  <!-- EN: Colonists can gain expertise -->
+  <VSE.ExpertiseAvailableMultiple>Поселенцы могут получить мастерство</VSE.ExpertiseAvailableMultiple>
+  <!-- EN: Select expertise -->
+  <VSE.SelectExpertise>Выбрать</VSE.SelectExpertise>
+  <!-- EN: Selecting an expertise will unlock a new skill that your pawn will level up, granting them powerful, but very specific bonuses.\nYou can only select {0} expertise, and only in skills your pawns is passionate about. -->
+  <VSE.ExpertiseDesc>Мастерство позволит получить новый навык, который даст поселенцу мощные, но специализированные бонусы.\nВы можете выбрать {0_numCase ? навык : навыков : навыков} мастерства, но только в для тех навыков, к которым у поселенца есть интерес.</VSE.ExpertiseDesc>
+  <!-- EN: Your colonist has reached high enough level in a skill they are passionate about that they can gain expertise.\n\nConsider picking an expertise for them to gain new bonuses to the work type they are good at.\n\nColonists that can get expertise:\n\n -->
+  <VSE.ExpertiseAvailableDesc>Ваш поселенец достиг достаточно высокого уровня навыка, к которому испытывает интерес, и может получить мастерство.\n\nМастерство позволит получить новые бонусы для той деятельности, в которой поселенец должен быть хорош.\n\nМожет получить мастерство:\n\n</VSE.ExpertiseAvailableDesc>
+  <!-- EN: \n   - Learns {0}\n   - Forgets {1} -->
+  <VSE.LearnsForgets>\n   - скорость обучения — {0}\n   - скорость потери опыта — {1}</VSE.LearnsForgets>
+  <!-- EN: \n   - Learns Others {0} -->
+  <VSE.LearnOther>\n   - скорость обучения других — {0}</VSE.LearnOther>
+  <!-- EN: No passion -->
+  <VSE.NoPassion>Нет интереса</VSE.NoPassion>
+  <!-- EN: Insufficient skill -->
+  <VSE.SkillTooLow>Низкий уровень</VSE.SkillTooLow>
+  <!-- EN: At max expertise -->
+  <VSE.AtMaxExpertise>Максимум</VSE.AtMaxExpertise>
+  <!-- EN: Vanilla Skills Expanded -->
+  <VSE>Vanilla Skills Expanded</VSE>
+  <!-- EN: Maximum expertise per colonist: -->
+  <VSE.MaxExpertise>Количества мастерства поселенца:</VSE.MaxExpertise>
+  <!-- EN: Allow multiple critical passions -->
+  <VVE.AllowMultiCritical>Разрешить несколько критических интересов</VVE.AllowMultiCritical>
+  <!-- EN: If false, will ensure that only one Critical passion will generate per pawn, to avoid them overlapping and causing them both to be useless. -->
+  <VVE.AllowMultiCritical.Desc>Если выключено, убедитесь, что у каждого персонажа только один критический интерес. Иначе они перекроют друг друга и станут бесполезными.</VVE.AllowMultiCritical.Desc>
+  <!-- EN: Critical effects passions -->
+  <VVE.CriticalEffectPassions>Эффекты критических интересов</VVE.CriticalEffectPassions>
+  <!-- EN: If false, the learn rate factor debuff on other skills from Critical will not effect other skills the pawn is passionate about. -->
+  <VVE.CriticalEffectPassions.Desc>Если выключено, отрицательные бонусы к скорости изучения других навыков без критического интереса не будут применяться.</VVE.CriticalEffectPassions.Desc>
+  <!-- EN: Edit passion commonalities, groups are separate -->
+  <VVE.Commonalities>Редактировать бонусы от интересов.</VVE.Commonalities>
+  <!-- EN: Reset to default -->
+  <VVE.Reset>Сбросить</VVE.Reset>
+  <!-- EN: Bad: -->
+  <VVE.Bad>Отрицательные:</VVE.Bad>
+  <!-- EN: Good: -->
+  <VVE.Good>Положительные:</VVE.Good>
+  <!-- EN: Re-enable skill loss -->
+  <VSE.EnableSkillLoss>Вернуть потерю опыта</VSE.EnableSkillLoss>
+  <!-- EN: By default, Ducks' Insane Skills disables all skill loss. By selecting this option, this mod will override Ducks and enable it again. Use this if you still want to be able to take advantage of the forget speed changes in the new passions. -->
+  <VSE.EnableSkillsLoss.Desc>По умолчанию мод «Ducks' Insane Skills» отключает потерю опыта в навыках. Включив эту настройку, можно вернуть потерю обратно. Включите, если хотите использовать все преимущества и недостатки новых видов интереса.</VSE.EnableSkillsLoss.Desc>
+</LanguageData>
