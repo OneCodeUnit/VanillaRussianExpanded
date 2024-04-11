@@ -12,11 +12,15 @@
   Скачать переводы в обход мастерской можно на странице проекта на GitHub https://github.com/OneCodeUnit/VanillaRussianExpanded
   Присоединяйтесь к русскоязычному сообществу RimWorld команды VRE по ссылке https://discord.gg/fmW7hMB7Et
   Сообщать об ошибках и предлагать исправления лучше там.
+  
+  Перевод содержит текст для Vanilla Textures Expanded.
 </description>
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    <li>VanillaExpanded.VTEXE</li>
   </loadAfter>
   <incompatibleWith>
     <li>Am.Rus.VEFCore</li>
+    <li>Am.Rus.VTEXE</li>
   </incompatibleWith>
 </ModMetaData>
