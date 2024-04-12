@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Toad -->
+  <VVE_Toad.label>«Жаба»</VVE_Toad.label>
+  <!-- EN: A squad and mortar deployment pod, the Toad is a somewhat expensive vehicle to quickly mount a siege on a nearby locale without exposing your gunners to danger. With more armour than a tank and a design made to be deployed from orbit, it makes for a semi-disposable assault vehicle.\n\nFuel efficiency is not the design of this vehicle, consider only deploying on short distances with enough fuel to make it back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Operator x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel -->
+  <VVE_Toad.description>«Жаба» представляет собой бронированную транспортную капсулу с миномётом. Эта довольно дорогостоящая машина позволяет быстро организовать осаду близлежащего поселения, не подвергая опасности своих бойцов. Обладая более мощной бронёй, чем у танка, «Жаба» спроектирована для заброса с орбиты и представляет собой своего рода одноразовую штурмовую машину.\n\nЭта транспортная капсула очень неэффективно потребляет топливо, поэтому нуждается в дозаправке после каждого пуска, что необходимо учитывать при составлении маршрута.\n\nБудучи летательным аппаратом, она очень заметна в движении.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Оператор x1, Пассажир x3\n&lt;color=#bb8f04&gt;Тип топлива:&lt;/color&gt; Химтопливо</VVE_Toad.description>
+
+  <!-- EN: Operator -->
+  <VVE_Toad.properties.roles.0.label>Оператор</VVE_Toad.properties.roles.0.label>
+  <!-- EN: Passenger -->
+  <VVE_Toad.properties.roles.1.label>Пассажир</VVE_Toad.properties.roles.1.label>
+  <!-- EN: Engine -->
+  <VVE_Toad.components.0.label>Двигатель</VVE_Toad.components.0.label>
+  <!-- EN: First Thruster -->
+  <VVE_Toad.components.1.label>Первый ускоритель</VVE_Toad.components.1.label>
+  <!-- EN: Second Thruster -->
+  <VVE_Toad.components.2.label>Второй ускоритель</VVE_Toad.components.2.label>
+  <!-- EN: Third Thruster -->
+  <VVE_Toad.components.3.label>Третий ускоритель</VVE_Toad.components.3.label>
+  <!-- EN: Fourth Thruster -->
+  <VVE_Toad.components.4.label>Четвёртый ускоритель</VVE_Toad.components.4.label>
+  <!-- EN: Chemtank -->
+  <VVE_Toad.components.5.label>Химтопливный бак</VVE_Toad.components.5.label>
+  <!-- EN: Hull -->
+  <VVE_Toad.components.6.label>Обшивка</VVE_Toad.components.6.label>
+  <!-- EN: Main Turret -->
+  <VVE_Toad.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Миномёт</VVE_Toad.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+</LanguageData>

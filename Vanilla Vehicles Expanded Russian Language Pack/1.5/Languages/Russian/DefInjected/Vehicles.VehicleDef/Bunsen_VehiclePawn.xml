@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Bunsen -->
+	<VVE_Bunsen.label>«Бунзен»</VVE_Bunsen.label>
+	<!-- EN: A basic light tank, the Bunsen is a modified armoured vehicle suited for taking on enemy fortifications and exposed infantry. Special light plating to prevent self-immolation, combined with its main weapon drawing directly from its enlarged fuel tanks, leave it a very precarious model to field.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+	<VVE_Bunsen.description>Базовый лёгкий танк «Бунзен» — это модифицированная боевая машина, предназначенная для борьбы с вражескими укреплениями и пехотой. Эксплуатация этой модели связана с определёнными рисками, так как основное орудие питается из уязвимых для атак массивных химтопливных баков, а специальную бронепанель, предотвращающую самовоспламенение, довольно легко пробить.\n\nКак и другие транспортные средства первого уровня, этот транспорт потребляет много топлива и лучше всего подходит для преодоления средних расстояний. При перемещении по карте мира, потребляет ещё больше топлива.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Стрелок x1\n&lt;color=#bb8f04&gt;Тип топлива:&lt;/color&gt; Химтопливо</VVE_Bunsen.description>
+
+	<!-- EN: Driver -->
+	<VVE_Bunsen.properties.roles.0.label>Водитель</VVE_Bunsen.properties.roles.0.label>
+	<!-- EN: Gunner -->
+	<VVE_Bunsen.properties.roles.1.label>Стрелок</VVE_Bunsen.properties.roles.1.label>
+	<!-- EN: Engine -->
+	<VVE_Bunsen.components.0.label>Двигатель</VVE_Bunsen.components.0.label>
+	<!-- EN: Left Track -->
+	<VVE_Bunsen.components.1.label>Левая гусеничная цепь</VVE_Bunsen.components.1.label>
+	<!-- EN: Right Track -->
+	<VVE_Bunsen.components.2.label>Правая гусеничная цепь</VVE_Bunsen.components.2.label>
+	<!-- EN: Front Left Drive Sprocket -->
+	<VVE_Bunsen.components.3.label>Левое направляющее колесо</VVE_Bunsen.components.3.label>
+	<!-- EN: Front Right Drive Sprocket -->
+	<VVE_Bunsen.components.4.label>Правое направляющее колесо</VVE_Bunsen.components.4.label>
+	<!-- EN: Back Left Drive Sprocket -->
+	<VVE_Bunsen.components.5.label>Левый ведущий каток</VVE_Bunsen.components.5.label>
+	<!-- EN: Back Right Drive Sprocket -->
+	<VVE_Bunsen.components.6.label>Правый ведущий каток</VVE_Bunsen.components.6.label>
+	<!-- EN: Gearbox -->
+	<VVE_Bunsen.components.7.label>Коробка передач</VVE_Bunsen.components.7.label>
+	<!-- EN: Left Armor Plating -->
+	<VVE_Bunsen.components.8.label>Левая бронепанель</VVE_Bunsen.components.8.label>
+	<!-- EN: Right Armor Plating -->
+	<VVE_Bunsen.components.9.label>Правая бронепанель</VVE_Bunsen.components.9.label>
+	<!-- EN: Front Armor Plating -->
+	<VVE_Bunsen.components.10.label>Передняя бронепанель</VVE_Bunsen.components.10.label>
+	<!-- EN: Back Armor Plating -->
+	<VVE_Bunsen.components.11.label>Задняя бронепанель</VVE_Bunsen.components.11.label>
+	<!-- EN: Chemtank -->
+	<VVE_Bunsen.components.12.label>Химтопливный бак</VVE_Bunsen.components.12.label>
+	<!-- EN: Dashboard -->
+	<VVE_Bunsen.components.13.label>Приборная панель</VVE_Bunsen.components.13.label>
+	<!-- EN: Steering Apparatus -->
+	<VVE_Bunsen.components.14.label>Рулевое устройство</VVE_Bunsen.components.14.label>
+	<!-- EN: Alternator -->
+	<VVE_Bunsen.components.15.label>Генератор переменного тока</VVE_Bunsen.components.15.label>
+	<!-- EN: Roof -->
+	<VVE_Bunsen.components.16.label>Крыша</VVE_Bunsen.components.16.label>
+	<!-- EN: Main Turret -->
+	<VVE_Bunsen.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Орудие</VVE_Bunsen.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+</LanguageData>
