@@ -199,7 +199,7 @@
   <VTE.ContractCompletedMessage>Караван прибудет к вам и в течение 3 дней будет ожидать товаров по контракту. Убедитесь, что они будут в наличии, когда караван прибудет. Платёж будет проведён, когда караван покинет ваше поселение.</VTE.ContractCompletedMessage>
   <!-- EN: Due to the fact that your location has become dangerous, the caravan that arrived for the contracted items left the map. They will return for the items when it is safe. Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
   <VTE.CaravanContractWillReturnMessage>Из-за того, что в вашем поселении стало небезопасно, караван, прибывший за товарами, покинул местность. Он вернётся за товарами, когда у вас станет безопасно.
-	
+  
 Убедитесь, что у вас будет достаточно товаров, когда караван вернётся. Оплата придёт сразу после того, как он покинет территорию поселения с товарами.</VTE.CaravanContractWillReturnMessage>
   <!-- EN: A caravan from {0} is approaching. They are collecting contracted items. -->
   <VTE.LetterTraderCaravanArrival>Прибывает караван из {0}. Они пришли по контракту за товарами.</VTE.LetterTraderCaravanArrival>
@@ -244,16 +244,18 @@ Cargo pods are arriving containing: -->
   <VTE.ResetPriceChanges>Сбросить колебания цен</VTE.ResetPriceChanges>
   <!-- EN: You can only take this loan again on {0}. -->
   <VTE.YouCanTakeThisLoanOn>Вы можете повторно взять только этот кредит в банке {0}.</VTE.YouCanTakeThisLoanOn>
+  <!-- EN: Blacklist collectibles (Eggs, Meat, Leather and Wool) for contracts -->
+  <VTE.ContractBlackListCollectibles>Внести в чёрный список для контрактов собираемое (яйца, мясо, кожу и шерсть)</VTE.ContractBlackListCollectibles>
   <!-- EN: Caravan-less contract item pickup -->
   <VTE.CaravanLessContractItemPickup>Отправка товаров без каравана</VTE.CaravanLessContractItemPickup>
   <!-- EN: Maximum value of NPC contracts in silver: -->
-	<VTE.MaximumMarketValueOfItemsInContracts>Максимальная стоимость контрактов у НИП в серебре:</VTE.MaximumMarketValueOfItemsInContracts>
+  <VTE.MaximumMarketValueOfItemsInContracts>Максимальная стоимость контрактов у НИП в серебре:</VTE.MaximumMarketValueOfItemsInContracts>
   <!-- EN: Maximum value of NPC contracts in percentage of wealth: -->
-	<VTE.MaximumMarketValueOfItemsPerPlayerWealth>Максимальная стоимость контрактов у НИП в % от богат.:</VTE.MaximumMarketValueOfItemsPerPlayerWealth>
+  <VTE.MaximumMarketValueOfItemsPerPlayerWealth>Максимальная стоимость контрактов у НИП в % от богат.:</VTE.MaximumMarketValueOfItemsPerPlayerWealth>
   <!-- EN: Price fluctuation limitations -->
-	<VTE.MaximumPriceFluctuations>Ограничение изменения цен</VTE.MaximumPriceFluctuations>
+  <VTE.MaximumPriceFluctuations>Ограничение изменения цен</VTE.MaximumPriceFluctuations>
   <!-- EN: Negative change: {0} -->
-	<VTE.MinimumOfMarketValue>Низ: {0}</VTE.MinimumOfMarketValue>
+  <VTE.MinimumOfMarketValue>Низ: {0}</VTE.MinimumOfMarketValue>
   <!-- EN: Positive change: {0} -->
-	<VTE.MaximumOfMarketValue>Верх: {0}</VTE.MaximumOfMarketValue>
+  <VTE.MaximumOfMarketValue>Верх: {0}</VTE.MaximumOfMarketValue>
 </LanguageData>
