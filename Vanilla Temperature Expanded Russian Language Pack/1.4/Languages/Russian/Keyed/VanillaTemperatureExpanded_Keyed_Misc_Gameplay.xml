@@ -4,6 +4,24 @@
   <PH.EnableProxyHeatEffectIndoors>Включить температурный эффект при приближении к источнику тепла/холода внутри помещений</PH.EnableProxyHeatEffectIndoors>
   <!-- EN: Allow plant growth inside proxy heat effect radius -->
   <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Разрешить выращивание растений в радиусе действия локального температурного эффекта от источников тепла/холода.</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+  
+  <!-- EN: Proxy heat building settings: -->
+  <PH.ProxyHeatBuildings>Настройки температурного эффекта:</PH.ProxyHeatBuildings>
+  <!-- EN: Proxy heat radius -->
+  <PH.ProxyHeatRadius>Радиус температурного эффекта</PH.ProxyHeatRadius>
+  <!-- EN: Minimum temperature threshold -->
+  <PH.MinTemperature>Порог минимальной температуры</PH.MinTemperature>
+  <!-- EN: Maximum temperature threshold -->
+  <PH.MaxTemperature>Порог максимальной температуры</PH.MaxTemperature>
+  <!-- EN:  (not set) -->
+  <PN.NotSet> (не установлен)</PN.NotSet>
+  <!-- EN: Temperature output -->
+  <PH.TemperatureOutput>Тепловыделение</PH.TemperatureOutput>
+  <!-- EN: Search:  -->
+  <PH.Search>Поиск: </PH.Search>
+  <!-- EN: Building has own temperature target control -->
+  <PH.BuildingHasTemperatureControl>Имеет собственный контроль целевой температуры</PH.BuildingHasTemperatureControl>
+  
   <!-- EN: The hot side of the heater must be exposed. -->
   <VTE.MustPlaceHeaterWithFreeSpaces>Горячая сторона обогревателя должна быть открыта.</VTE.MustPlaceHeaterWithFreeSpaces>
   <!-- EN: Must be placed under a roof. -->
