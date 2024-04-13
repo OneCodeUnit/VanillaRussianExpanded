@@ -4,4 +4,14 @@
   <VFEA_Mending.label>Починка</VFEA_Mending.label>
   <!-- EN: Use mending stations to repair apparel and weapons. -->
   <VFEA_Mending.description>Починка одежды и оружия на станциях починки.</VFEA_Mending.description>
+  <!-- EN:     
+    <li>subject->craft of renewal</li>
+    <li>subject_story->created mending stations to fix up worn clothes and weapons, making them good as new</li>
+    <li>subject_gerund->turning old back into valuable again with smart repairs</li>
+  -->
+  <VFEA_Mending.generalRules.rulesStrings>
+    <li>subject->продление срока</li>
+    <li>subject_story->созданная станция починки делает изношенные и сломанные хорошими как новые</li>
+    <li>subject_gerund->обращает старое обратно в ценное при помощи нехитрых манипуляций</li>
+  </VFEA_Mending.generalRules.rulesStrings>
 </LanguageData>
