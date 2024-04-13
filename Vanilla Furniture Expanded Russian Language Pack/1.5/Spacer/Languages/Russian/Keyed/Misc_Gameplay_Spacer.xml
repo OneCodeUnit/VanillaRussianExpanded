@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Current light radius -->
+  <TargetLightRadius>Текущий радиус освещения</TargetLightRadius>
+  <!-- EN: Current intensity -->
+  <CurrentLightOpacity>Текущая яркость</CurrentLightOpacity>
+
+  <!-- EN: Increase the current radius. -->
+  <CommandRaiseLightRDesc>Увеличить радиус.</CommandRaiseLightRDesc>
+  <!-- EN: Decrease the current radius. -->
+  <CommandLowerLightRDesc>Уменьшить радиус.</CommandLowerLightRDesc>
+
+  <!-- EN: Increase the current intensity. -->
+  <CommandRaiseLightIntDesc>Увеличить яркость.</CommandRaiseLightIntDesc>
+  <!-- EN: Lower the current intensity. -->
+  <CommandLowerLightIntDesc>Уменьшить яркость.</CommandLowerLightIntDesc>
+
+  <!-- EN: % Intensity. -->
+  <LightIntensityPercent>% яркости.</LightIntensityPercent>
+  <!-- EN:  Cell radius. -->
+  <LightRadiusCells> клеток (радиус).</LightRadiusCells>
+
+  <!-- EN: Switch light colour to  -->
+  <SwitchedColourDesc>Переключить цвет на </SwitchedColourDesc>
+  <!-- EN: Red -->
+  <LightColourRed>красный</LightColourRed>
+  <!-- EN: Green -->
+  <LightColourGreen>зелёный</LightColourGreen>
+  <!-- EN: Blue -->
+  <LightColourBlue>синий</LightColourBlue>
+  <!-- EN: White -->
+  <LightColourWhite>белый</LightColourWhite>
+
+  <!-- EN: Enable auto-forbid -->
+  <EnableAutoForbid>включить автозапрещение</EnableAutoForbid>
+  <!-- EN: Weapons and apparel stored here will be automatically forbidden until they reach their full HP -->
+  <EnableAutoForbidExplanation>Оружие и одежда, хранящиеся здесь, будут автоматически запрещены для взаимодействия до тех пор, пока полностью не восстановятся.</EnableAutoForbidExplanation>
+</LanguageData>

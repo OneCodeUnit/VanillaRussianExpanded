@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: charge complex -->
+  <VFES_Turret_ChargeComplex.label>стационарное энергоорудие</VFES_Turret_ChargeComplex.label>
+  <!-- EN: A stationary charge cannon mounted on a metal barrier. Capable of sustaining fire until the barrel needs changing. -->
+  <VFES_Turret_ChargeComplex.description>Стационарное энергоорудие на металлической баррикаде. Способно вести огонь до тех пор, пока не потребуется замена ствола.</VFES_Turret_ChargeComplex.description>
+  <!-- EN: Shots remaining -->
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>Осталось выстрелов</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until battery replacement -->
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>Выстрелов до замены аккумулятора</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new battery -->
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>требуется замена аккумулятора</VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: charge gun emplacement -->
+  <VFES_Gun_ChargeComplex.label>энергоорудие</VFES_Gun_ChargeComplex.label>
+  <!-- EN: A charge gun made to be mounted on a turret. -->
+  <VFES_Gun_ChargeComplex.description>Энергоорудие, предназначенное для крепления к турельной установке.</VFES_Gun_ChargeComplex.description>
+  <!-- EN: charge gun emplacement -->
+  <VFES_Gun_ChargeComplex.verbs.Verb_Shoot.label>энергоорудие</VFES_Gun_ChargeComplex.verbs.Verb_Shoot.label>
+
+  <!-- EN: charge shot -->
+  <VFES_Bullet_ChargeComplex.label>выстрел из энергоорудия</VFES_Bullet_ChargeComplex.label>
+</LanguageData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: military turret -->
+  <VFES_Turret_MilitaryTurret.label>военная турель</VFES_Turret_MilitaryTurret.label>
+  <!-- EN: A military-grade double barreled automatic turret. Requires steel to refurbish its barrels after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_MilitaryTurret.description>Двуствольная автоматическая турель военного класса. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_MilitaryTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrels -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>требуется замена ствола</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: military turret doublegun -->
+  <VFES_Gun_MilitaryTurret.label>сдвоенная пушка военной турели</VFES_Gun_MilitaryTurret.label>
+  <!-- EN: Two simple automatic guns made to be mounted on a turret. -->
+  <VFES_Gun_MilitaryTurret.description>Сдвоенная лёгкая автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_MilitaryTurret.description>
+  <!-- EN: military turret doublegun -->
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>сдвоенная пушка военной турели</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+
+
+  <!-- EN: searchlight -->
+  <VFES_Turret_Searchlight.label>прожектор</VFES_Turret_Searchlight.label>
+  <!-- EN: An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets. -->
+  <VFES_Turret_Searchlight.description>Аппарат, сочетающий в себе чрезвычайно яркую лампу и зеркальный параболический отражатель, полезный подсветки и ослепления целей.</VFES_Turret_Searchlight.description>
+
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.label>прожектор</VFES_Gun_Searchlight.label>
+  <!-- EN: A searchlight for a turret. -->
+  <VFES_Gun_Searchlight.description>Прожектор, предназначенный для крепления к турельной установке.</VFES_Gun_Searchlight.description>
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>прожектор</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+
+
+  <!-- EN: flame turret -->
+  <VFES_Turret_Flame.label>огнемётная турель</VFES_Turret_Flame.label>
+  <!-- EN: A portable flamethrower turret. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_Flame.description>Небольшая переносимая огнемётная турель. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_Flame.description>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Осталось топлива</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Осталось топлива</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs chemfuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>необходимо химтопливо</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.label>пушка огнемётной турели</VFES_Gun_FlameTurret.label>
+  <!-- EN: A flamethrower made to be mounted on a turret. -->
+  <VFES_Gun_FlameTurret.description>Огнемёт, предназначенный для крепления к турельной установке.</VFES_Gun_FlameTurret.description>
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>пушка огнемётной турели</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+  <!-- EN: flamethrower shot -->
+  <VFES_Bullet_FlameTurret.label>залп огнемёта</VFES_Bullet_FlameTurret.label>
+
+
+  <!-- EN: sentry gun -->
+  <VFES_Turret_SentryGun.label>сторожевая турель</VFES_Turret_SentryGun.label>
+  <!-- EN: A self-powered turret with a small gatling gun mounted on top. Light enough to be carried and deployed wherever. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_SentryGun.description>Автономная турель с небольшим пулемётом. Достаточно лёгкая, чтобы переноситься и размещаться где угодно. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_SentryGun.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>требуется замена ствола</VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: sentry turret gun -->
+  <VFES_Gun_SentryTurret.label>пушка сторожевой турели</VFES_Gun_SentryTurret.label>
+  <!-- EN: A fully automatic gatling gun made to be mounted on a turret. -->
+  <VFES_Gun_SentryTurret.description>Полностью автоматический пулемёт, предназначенный для крепления к турельной установке.</VFES_Gun_SentryTurret.description>
+  <!-- EN: sentry turret gun -->
+  <VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>пушка сторожевой турели</VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: submerged -->
+  <VFESecurity.Submerged>спрятан</VFESecurity.Submerged>
+
+  <!-- EN: World tile range -->
+  <VFESecurity.WorldTileRange>Радиус действия</VFESecurity.WorldTileRange>
+
+  <!-- EN: Target world tile -->
+  <VFESecurity.TargetWorldTile>Выбрать клетку на карте мира</VFESecurity.TargetWorldTile>
+  <!-- EN: Select a world tile for this {0} to fire at. -->
+  <VFESecurity.TargetWorldTile_Description>Выбрать клетку на карте мира, по которой будет стрелять {0}.</VFESecurity.TargetWorldTile_Description>
+  <!-- EN: Select a world tile to fire at. -->
+  <VFESecurity.TargetWorldTile_DescriptionShort>Выбрать клетку на карте мира для стрельбы.</VFESecurity.TargetWorldTile_DescriptionShort>
+  <!-- EN: This {0} does not have any suitable artillery. -->
+  <VFESecurity.CommandTargetTileFailNoArtillery>{0} не имеет подходящей для стрельбы артиллерии.</VFESecurity.CommandTargetTileFailNoArtillery>
+
+  <!-- EN: Tile is out of range. -->
+  <VFESecurity.TargetWorldTileOutOfRange>Клетка вне радиуса.</VFESecurity.TargetWorldTileOutOfRange>
+  <!-- EN: Target map -->
+  <VFESecurity.TargetMap>Выбрать территорию</VFESecurity.TargetMap>
+  <!-- EN: Target peace talks -->
+  <VFESecurity.TargetPeaceTalks>Выбрать мирные переговоры</VFESecurity.TargetPeaceTalks>
+  <!-- EN: Target settlement -->
+  <VFESecurity.TargetSettlement>Выбрать поселение</VFESecurity.TargetSettlement>
+  <!-- EN: Target outpost -->
+  <VFESecurity.TargetOutpost>Выбрать аванпост</VFESecurity.TargetOutpost>
+  <!-- EN: Target site -->
+  <VFESecurity.TargetSite>Выбрать лагерь</VFESecurity.TargetSite>
+  <!-- EN: Target area (will have no effect) -->
+  <VFESecurity.TargetWorldTileEmpty>Выбрать территорию (не произведёт эффекта)</VFESecurity.TargetWorldTileEmpty>
+  <!-- EN: Cannot target flying objects. -->
+  <VFESecurity.TargetWorldFlyingObject>Нельзя выбрать летящие объекты.</VFESecurity.TargetWorldFlyingObject>
+  <!-- EN: Cannot target the same tile. -->
+  <VFESecurity.TargetWorldTileSameTile>Нельзя выбрать ту же клетку.</VFESecurity.TargetWorldTileSameTile>
+
+  <!-- EN: Targeted area is invalid. -->
+  <VFESecurity.MessageTargetWorldTileInvalid>Выбранная территория некорректна.</VFESecurity.MessageTargetWorldTileInvalid>
+  <!-- EN: settlement -->
+  <VFESecurity.Settlement>поселение</VFESecurity.Settlement>
+  <!-- EN: Targeted area is out of the {0}'s range. -->
+  <VFESecurity.MessageTargetWorldTileOutOfRange>Выбранная территория за пределами радиуса поражения {lookup: {0}; Case; 1}.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+  <!-- EN: attacked by artillery -->
+  <VFESecurity.GoodwillChangedReason_ArtilleryStrike>атакован артиллерией</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+  <!-- EN: {0} from {1} have stopped bombarding your settlements. -->
+  <VFESecurity.Message_ArtilleryBombardmentEnded>{0} из фракции {1} прекращает обстрел вашего поселения.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+  <!-- EN: Provoked {0} -->
+  <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>{0} спровоцированы</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+  <!-- EN: By sending an artillery strike at their peace talks negotiation party, relations between you and {0} have soured. They may send a raiding party in retaliation. -->
+  <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Нанеся артиллерийский удар по участникам мирных переговоров, отношения между вами и фракцией {0} испортились. Она может отправить налёт на ваше поселение в отместку.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+  <!-- EN: Artillery retaliation -->
+  <VFESecurity.ArtilleryStrikeSettlement_Letter>Артиллерийский ответный удар</VFESecurity.ArtilleryStrikeSettlement_Letter>
+  <!-- EN: Due to your provocation via artillery strike, the {0} at {1} have decided to return fire at your settlements using their own artillery!\n\nThis bombardment will go on for a few days, or until you destroy the settlement. -->
+  <VFESecurity.ArtilleryStrikeSettlement_LetterText>{0} из {1} решает ответить на вашу артиллерийскую провокацию огнём собственной артиллерии по вашим поселениям!\n\nБомбардировка продлится несколько дней, если вы не уничтожите их поселение раньше.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+  <!-- EN: The enemy base {0} has been destroyed. -->
+  <VFESecurity.LetterFactionBaseDefeatedStrike>База вражеской фракции — {0} — была уничтожена.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+  <!-- EN: Psychic pylon exposure -->
+  <VFESecurity.PsychicPylonExposure>Влияние пси-пилона</VFESecurity.PsychicPylonExposure>
+
+  <!-- EN: Ammo crate -->
+  <VFESecurity.AmmoCrate>Боеприпасы</VFESecurity.AmmoCrate>
+
+  <!-- EN: Armed -->
+  <VFESecurity.Armed>Заряжено</VFESecurity.Armed>
+  <!-- EN: Needs rearming -->
+  <VFESecurity.NeedsRearming>Необходима перезарядка</VFESecurity.NeedsRearming>
+  <!-- EN: Rearm -->
+  <VFESecurity.DesignatorRearmTraps>Перезарядить</VFESecurity.DesignatorRearmTraps>
+  <!-- EN: Mark unarmed rearmable traps to be rearmed by your colonists. -->
+  <VFESecurity.DesignatorRearmTraps_Description>Отметить незаряженные перезаряжаемые ловушки для перезарядки поселенцами.</VFESecurity.DesignatorRearmTraps_Description>
+  <!-- EN: Must designate unarmed rearmable traps. -->
+  <VFESecurity.MessageMustDesignateRearmables>Необходимо выбрать незаряженные перезаряжаемые ловушки.</VFESecurity.MessageMustDesignateRearmables>
+  
+  <!-- EN: Artillery shell has hit the {0} location. ({1} destruction). -->
+  <VFESecurity.ArtileryHitMessage>Артиллерийский снаряд попал по {0}. (Уничтожено {1}).</VFESecurity.ArtileryHitMessage>
+  <!-- EN: {0} destruction from artillery -->
+  <VFESecurity.ArtileryDestruction>Уничтожено артиллерийским обстрелом на {0}</VFESecurity.ArtileryDestruction>
+  <!-- EN: Artillery shell has destroyed the {0} location. -->
+  <VFESecurity.ArtileryHitDestroyedMessage>Артиллерийский удар уничтожил {0}.</VFESecurity.ArtileryHitDestroyedMessage>
+</LanguageData>
