@@ -4,11 +4,29 @@
   <VREH_Dutiful.label>послушность</VREH_Dutiful.label>
   <!-- EN: Carriers of this gene have a greatly increased sense of duty and will never break down when drafted. -->
   <VREH_Dutiful.description>Носители этого гена обладают усиленным чувством долга и никогда не испытывают нервные срывы в боевом режиме.</VREH_Dutiful.description>
+  <!-- EN: obedient -->
+  <VREH_Dutiful.symbolPack.prefixSymbols.0.symbol>покорно</VREH_Dutiful.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: loyal -->
+  <VREH_Dutiful.symbolPack.prefixSymbols.1.symbol>лояльно</VREH_Dutiful.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: dutiful -->
+  <VREH_Dutiful.symbolPack.prefixSymbols.2.symbol>послушно</VREH_Dutiful.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: steadfast -->
+  <VREH_Dutiful.symbolPack.prefixSymbols.3.symbol>неуклонно</VREH_Dutiful.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: steady -->
+  <VREH_Dutiful.symbolPack.prefixSymbols.4.symbol>стабильно</VREH_Dutiful.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: composed -->
+  <VREH_Dutiful.symbolPack.prefixSymbols.5.symbol>собрано</VREH_Dutiful.symbolPack.prefixSymbols.5.symbol>
 
   <!-- EN: bulletproof skin -->
   <VREH_BulletproofSkin.label>пуленепробиваемая кожа</VREH_BulletproofSkin.label>
   <!-- EN: Carriers of this gene have their skin reinforced by organic kevlar-like strands, allowing them to deflect smaller calliber bullets and only end up with bruises. -->
   <VREH_BulletproofSkin.description>Носители этого гена обладают кожей, укреплённой органическими как-будто-кевларовыми пластинами, которые защищают от мелкого калибра, оставляя лишь синяки.</VREH_BulletproofSkin.description>
+  <!-- EN: kevlar -->
+  <VREH_BulletproofSkin.symbolPack.prefixSymbols.0.symbol>кевларо</VREH_BulletproofSkin.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: resistant -->
+  <VREH_BulletproofSkin.symbolPack.suffixSymbols.0.symbol>устойчивость</VREH_BulletproofSkin.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: bulletproof -->
+  <VREH_BulletproofSkin.symbolPack.wholeNameSymbols.0.symbol>пуленепробиваемый</VREH_BulletproofSkin.symbolPack.wholeNameSymbols.0.symbol>
 
   <!-- EN: giant -->
   <VREH_Giant.label>рослость</VREH_Giant.label>
@@ -19,11 +37,27 @@
   <VREH_Toughness.label>стойкость</VREH_Toughness.label>
   <!-- EN: Carriers of this gene have thick skin, dense flesh, and durable bones, and take much less damage than other people from the same blows. -->
   <VREH_Toughness.description>Носители этого гена имеют толстую кожу, плотную плоть, крепкие кости и получают меньше повреждений.</VREH_Toughness.description>
+  <!-- EN: hard -->
+  <VREH_Toughness.symbolPack.prefixSymbols.0.symbol>твёрдо</VREH_Toughness.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tough -->
+  <VREH_Toughness.symbolPack.prefixSymbols.1.symbol>стойко</VREH_Toughness.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: heavy -->
+  <VREH_Toughness.symbolPack.prefixSymbols.2.symbol>тяжело</VREH_Toughness.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: strong -->
+  <VREH_Toughness.symbolPack.prefixSymbols.3.symbol>сильно</VREH_Toughness.symbolPack.prefixSymbols.3.symbol>
 
   <!-- EN: arrogant -->
   <VREH_Arrogant.label>прямолинейность</VREH_Arrogant.label>
   <!-- EN: Carriers of this gene do not have a filter and always say what’s on their mind, even if it rubs the others the wrong way. -->
   <VREH_Arrogant.description>Носители этого гена не следят за свой речью и говорят, что думают, даже если это кого-то заденет.</VREH_Arrogant.description>
+  <!-- EN: rude -->
+  <VREH_Arrogant.symbolPack.prefixSymbols.0.symbol>грубо</VREH_Arrogant.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: evil -->
+  <VREH_Arrogant.symbolPack.prefixSymbols.1.symbol>зло</VREH_Arrogant.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: mean -->
+  <VREH_Arrogant.symbolPack.prefixSymbols.2.symbol>прямо</VREH_Arrogant.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: arrogant -->
+  <VREH_Arrogant.symbolPack.wholeNameSymbols.0.symbol>прямой</VREH_Arrogant.symbolPack.wholeNameSymbols.0.symbol>
 
   <!-- EN: unconstrained -->
   <VREH_Unconstrained.label>непринуждённость</VREH_Unconstrained.label>
@@ -34,6 +68,14 @@
   <VREH_ChemicalDependency_Luciferium.label>зависимость от люциферия</VREH_ChemicalDependency_Luciferium.label>
   <!-- EN: Carriers of this gene need to ingest Luciferium on a regular basis to survive. After 10 days without luciferium, carriers will suffer from luciferium deficiency. After 20 days, they will fall into a coma. After 30 days, they will die. -->
   <VREH_ChemicalDependency_Luciferium.description>Носители этого гена должны регулярно употреблять люциферий, чтобы жить. Через 10 дней без люциферия носители начнут страдать от его нехватки, через 20 дней они впадут в кому, через 30 дней умрут.</VREH_ChemicalDependency_Luciferium.description>
+  <!-- EN: luciferium-dependent -->
+  <Beard_BushyOnly.labelShortAdj>люциферий-зависимый</Beard_BushyOnly.labelShortAdj>
+  <!-- EN: luci -->
+  <Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>люци</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ferium -->
+  <Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>ферий</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: devil -->
+  <Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>дьявол</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
 
   <!-- EN: glidewings -->
   <VREH_Glidewings.label>лёгкие крылья</VREH_Glidewings.label>
