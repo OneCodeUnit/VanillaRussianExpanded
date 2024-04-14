@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Psycasts -->
+  <VPE.Psycasts>Псионика</VPE.Psycasts>
+  <!-- EN: Psycaster Level: {0} -->
+  <VPE.PsyLevel>Уровень псионика: {0}</VPE.PsyLevel>
+  <!-- EN: Earn psycaster experience by meditating. -->
+  <VPE.EarnXP>Опыт псионика даётся во время медитации.</VPE.EarnXP>
+  <!-- EN: Available points to spend: {0} -->
+  <VPE.Points>Доступно очков: {0}</VPE.Points>
+  <!-- EN: Spend points on unlocking new paths, unlocking psycasts, unlocking meditation foci, improving stats, etc. -->
+  <VPE.SpendPoints>Очки можно потратить на открытие новых путей, пси-способностей, типов медитации, улучшение характеристик и многое другое.</VPE.SpendPoints>
+  <!-- EN: Psycaster stats -->
+  <VPE.PsycasterStats>Характеристики псионика</VPE.PsycasterStats>
+  <!-- EN: Upgrade -->
+  <VPE.Upgrade>Улучшить</VPE.Upgrade>
+  <!-- EN: Focus types: -->
+  <VPE.FocusTypes>Виды медитации:</VPE.FocusTypes>
+  <!-- EN: Customize Psysets -->
+  <VPE.PsysetCustomize>Изменить набор</VPE.PsysetCustomize>
+  <!-- EN: Drag and drop learnt psycasts into psysets that you can cycle between ingame. -->
+  <VPE.PsysetDesc>Перетащите изученные пси-способности в наборы, чтобы переключаться между ними в игре.</VPE.PsysetDesc>
+  <!-- EN: Create Psyset -->
+  <VPE.CreatePsyset>Создать набор</VPE.CreatePsyset>
+  <!-- EN: Unlock -->
+  <VPE.Unlock>Открыть</VPE.Unlock>
+  <!-- EN: Click to Unlock -->
+  <VPE.ClickToUnlock>Нажмите, чтобы открыть</VPE.ClickToUnlock>
+  <!-- EN: Use alternative backgrounds -->
+  <VPE.UseAltBackground>Использовать альтернативный фон</VPE.UseAltBackground>
+  <!-- EN: Destroy -->
+  <VPE.DestroySkipdoor>Уничтожить</VPE.DestroySkipdoor>
+  <!-- EN: Destroy this skipdoor. It will no longer be usable, but will no longer impact the max heat of {0}. -->
+  <VPE.DestroySkipdoor.Desc>Уничтожить эту дверь измерений. Её больше нельзя будет использовать, но она больше не будет влиять на нейроперегрев у {0}.</VPE.DestroySkipdoor.Desc>
+  <!-- EN: Rename -->
+  <VPE.RenameSkipdoor>Переименовать</VPE.RenameSkipdoor>
+  <!-- EN: Rename this skipdoor -->
+  <VPE.RenameSkipdoor.Desc>Переименовать дверь измерений.</VPE.RenameSkipdoor.Desc>
+  <!-- EN: Teleport to {0} -->
+  <VPE.TeleportTo>Телепортироваться в {0}</VPE.TeleportTo>
+  <!-- EN: Cancel Skipbarrier -->
+  <VPE.CancelSkipbarrier>Снять пси-барьер</VPE.CancelSkipbarrier>
+  <!-- EN: Click to cancel Skipbarrier on the caster. -->
+  <VPE.CancelSkipbarrierDesc>Нажмите, чтобы снять барьер измерений с псионика.</VPE.CancelSkipbarrierDesc>
+  <!-- EN: Edit -->
+  <VPE.Edit>Изменить</VPE.Edit>
+  <!-- EN: Rename -->
+  <VPE.Rename>Переименовать</VPE.Rename>
+  <!-- EN: Untitled -->
+  <VPE.Untitled>Без названия</VPE.Untitled>
+  <!-- EN: Remove -->
+  <VPE.Remove>Удалить</VPE.Remove>
+  <!-- EN: Contents: -->
+  <VPE.Contents>Содержит:</VPE.Contents>
+  <!-- EN: Click to Remove -->
+  <VPE.ClickRemove>Нажмите, чтобы удалить</VPE.ClickRemove>
+  <!-- EN: Selling Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future. -->
+  <VPE.SellingEltexWarning>Продажа эльтекса запрещена имперскими законами. Это может повлиять на ваши отношения с Империей.</VPE.SellingEltexWarning>
+  <!-- EN: Gifting Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future. -->
+  <VPE.GiftingEltexWarning>Дарение эльтекса запрещена имперскими законами. Это может повлиять на ваши отношения с Империей.</VPE.GiftingEltexWarning>
+  <!-- EN: Empire angered -->
+  <VPE.EmpireAngeredTitle>Империя разозлилась</VPE.EmpireAngeredTitle>
+  <!-- EN: Empire caught wind that you have been {0} Eltex behind their back. They consider it to be against Imperial law, and your relations have degraded. -->
+  <VPE.EmpireAngeredDesc>В Империи стало известно, что вы {0} эльтекс за из спиной. Это является нарушением закона, что ухудшило ваши отношения.</VPE.EmpireAngeredDesc>
+  <!-- EN: gifting -->
+  <VPE.Gifting>дарили</VPE.Gifting>
+  <!-- EN: trading -->
+  <VPE.Trading>продавали</VPE.Trading>
+  <!-- EN: Goodwill with {FACTION_name} is now {1}. (Reduced by {2}) -->
+  <VPE.FactionRelationReducedInfo>Отношения с фракцией {FACTION_name} теперь {1}. (Снизились на {2})</VPE.FactionRelationReducedInfo>
+  <!-- EN: Choose Psycast: -->
+  <VPE.CreatePsyringTitle>Выбрать пси-способность:</VPE.CreatePsyringTitle>
+  <!-- EN: Create Psyring -->
+  <VPE.CreatePsyringButton>Создать пси-кольцо</VPE.CreatePsyringButton>
+  <!-- EN: Locked -->
+  <VPE.Locked>Только для</VPE.Locked>
+  <!-- EN: Bodies consumed: +{0} -->
+  <VPE.StatsReport_BodiesConsumed>Тело поглощено: +{0}</VPE.StatsReport_BodiesConsumed>
+  <!-- EN: Developer mode -->
+  <VPE.DevMode>Режим разработчика</VPE.DevMode>
+  <!-- EN: Not enough points available -->
+  <VPE.NotEnoughPoints>Нет доступных очков</VPE.NotEnoughPoints>
+  <!-- EN: LocPsycasts included:ked -->
+  <VPE.AbilitiesList>Содержит способности:</VPE.AbilitiesList>
+  <!-- EN: hover -->
+  <VPE.Hover>неопределившийся</VPE.Hover>
+  <!-- EN: Edit -->
+  <VPE.Edit>Изменить</VPE.Edit>
+  <!-- EN: {0}
+
+Capturing psycasters is a viable strategy and can be considered beneficial. -->
+  <VPE.PsycasterRaidDescription>{0}
+
+Захват псиоников жизнеспособная и, как считается, выгодная стратегия.</VPE.PsycasterRaidDescription>
+</LanguageData>

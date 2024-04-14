@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: darkvision -->
+  <VPE_Darkvision.label>теневое зрение</VPE_Darkvision.label>
+  <!-- EN: Gives the targeted pawn a nictitating membrane that allows them to see equally well in darkness and daytime. Duration scales with the target's psychic sensitivity. -->
+  <VPE_Darkvision.description>Наделяет цель особой моргательной мембраной, которая позволяет ей видеть в темноте так же хорошо, как и при свете дня. Длительность зависит от психической чувствительности цели.</VPE_Darkvision.description>
+  <VPE_Darkvision.jobReportString>Использует способность: {0}</VPE_Darkvision.jobReportString>
+  <VPE_Darkvision.verbProperties.label>теневое зрение</VPE_Darkvision.verbProperties.label>
+
+  <!-- EN: darkness -->
+  <VPE_Darkness.label>тьма</VPE_Darkness.label>
+  <!-- EN: Select a target area to generate an orb of completely obfuscating darkness, the duration scaling with the caster’s psychic sensitivity. All vision is blocked and any attacks within or passing through will miss entirely. -->
+  <VPE_Darkness.description>Создать в указанном месте сферу полностью непроницаемой тьмы. Длительность зависит от психической чувствительности псионика. Сфера полностью блокирует поле зрения и снаряды, проходящие через эту область, не смогут попасть в цель.</VPE_Darkness.description>
+  <VPE_Darkness.jobReportString>Использует способность: {0}</VPE_Darkness.jobReportString>
+  <VPE_Darkness.verbProperties.label>тьма</VPE_Darkness.verbProperties.label>
+
+  <!-- EN: obscure -->
+  <VPE_Obscure.label>скрыть</VPE_Obscure.label>
+  <!-- EN: Creates a field of optical disharmony around the caster, causing affected allies standing in darkness to be completely invisible. Attacking breaks the illusion. -->
+  <VPE_Obscure.description>Окружить псионика областью оптической дисгармонии, которая делает полностью невидимыми находящихся поблизости союзников. Любая атака развеивает иллюзию.</VPE_Obscure.description>
+  <VPE_Obscure.jobReportString>Использует способность: {0}</VPE_Obscure.jobReportString>
+  <VPE_Obscure.verbProperties.label>скрыть</VPE_Obscure.verbProperties.label>
+
+  <!-- EN: eclipse -->
+  <VPE_Eclipse.label>затмение</VPE_Eclipse.label>
+  <!-- EN: By strategically placing an orb of obfuscating darkness high in the sky, the caster can effectively cause a spontaneous eclipse. -->
+  <VPE_Eclipse.description>Стратегически размещая сферу концентрированной тьмы в небе, псионик способен создать внезапное затмение местного светила.</VPE_Eclipse.description>
+  <VPE_Eclipse.jobReportString>Использует способность: {0}</VPE_Eclipse.jobReportString>
+  <VPE_Eclipse.verbProperties.label>затмение</VPE_Eclipse.verbProperties.label>
+
+  <!-- EN: shadowskip -->
+  <VPE_Shadowskip.label>дверь теней</VPE_Shadowskip.label>
+  <!-- EN: Linking the caster with their own shadow allows them to teleport themselves to an area of darkness, even if they can’t see the location. -->
+  <VPE_Shadowskip.description>Псионик устанавливает соединение с собственной тенью, что позволяет ему перемещаться в любое скрытое тьмой место, даже если оно не находится в прямой видимости.</VPE_Shadowskip.description>
+  <VPE_Shadowskip.jobReportString>Использует способность: {0}</VPE_Shadowskip.jobReportString>
+  <VPE_Shadowskip.verbProperties.label>дверь теней</VPE_Shadowskip.verbProperties.label>
+
+  <!-- EN: decoy -->
+  <VPE_Decoy.label>приманка</VPE_Decoy.label>
+  <!-- EN: Creates a localized field of optical disharmony to travel and remain in a desired location, with a duration scaling with psychic sensitivity. The illusion will draw the ire of all enemies. -->
+  <VPE_Decoy.description>Псионик создаёт локализованное явление оптической дисгармонии, привязанное к указанному месту. Длительность зависит от психической чувствительности самого псионика. Наведённая иллюзия привлекает внимание и вызывает чувство ярости у врагов.</VPE_Decoy.description>
+  <VPE_Decoy.jobReportString>Использует способность: {0}</VPE_Decoy.jobReportString>
+  <VPE_Decoy.verbProperties.label>приманка</VPE_Decoy.verbProperties.label>
+
+  <!-- EN: shadowfocus -->
+  <VPE_ShadowFocus.label>теневая фокусировка</VPE_ShadowFocus.label>
+  <!-- EN: Emitting particles of absorptive darkness allows the caster to augment their psychic sensitivity, which scales inversely with the local light level. -->
+  <VPE_ShadowFocus.description>Создавая облако абсорбирующих частиц, псионик усиливает свои способности обратно пропорционально тому, насколько освещена местность вокруг.</VPE_ShadowFocus.description>
+  <VPE_ShadowFocus.jobReportString>Использует способность: {0}</VPE_ShadowFocus.jobReportString>
+  <VPE_ShadowFocus.verbProperties.label>теневая фокусировка</VPE_ShadowFocus.verbProperties.label>
+
+  <!-- EN: intensify shadows -->
+  <VPE_IntensifyShadows.label>густой мрак</VPE_IntensifyShadows.label>
+  <!-- EN: Links the caster’s shadow with the shade and infuses it with obfuscating darkness, plummeting all areas on the map with less than 50% light levels into pitch darkness. Duration scales with the caster’s psychic sensitivity. -->
+  <VPE_IntensifyShadows.description>Связывает тень псионика с остальными тенями и усиливает её, погружая в кромешную тьму все зоны на карте, освещённость которых менее 50%. Длительность зависит от психической чувствительности псионика.</VPE_IntensifyShadows.description>
+  <VPE_IntensifyShadows.jobReportString>Использует способность: {0}</VPE_IntensifyShadows.jobReportString>
+  <VPE_IntensifyShadows.verbProperties.label>густой мрак</VPE_IntensifyShadows.verbProperties.label>
+
+  <!-- EN: assassinate -->
+  <VPE_Assassinate.label>убийца</VPE_Assassinate.label>
+  <!-- EN: Links the caster’s shadow to a target in dark areas, allowing them to skip back and forth multiple times to attack in melee. The amount of hits depends on the caster’s psychic sensitivity. -->
+  <VPE_Assassinate.description>Связывает тень псионика с указанной точкой в неосвещённом месте, что позволяет псионику быстро перемещаться вперёд и назад, нанося удары в ближнем бою. Количество ударов зависит от психической чувствительности псионика.</VPE_Assassinate.description>
+  <VPE_Assassinate.jobReportString>Использует способность: {0}</VPE_Assassinate.jobReportString>
+  <VPE_Assassinate.verbProperties.label>убийца</VPE_Assassinate.verbProperties.label>
+
+  <!-- EN: nightstep -->
+  <VPE_Nightstep.label>ночной шаг</VPE_Nightstep.label>
+  <!-- EN: Briefly links nearby allies to a distant colonist’s shadow to instantly teleport them, even across the planet as long as they are not overburdened. Can only be cast at night and temporarily stuns the caster. -->
+  <VPE_Nightstep.description>Временно связывает находящихся поблизости союзников с тенью поселенца, находящегося в другом месте, позволяя быстро перемещаться даже на другой конец планеты, при условии, что перемещаемые поселенцы не перегружены. Способность может быть использована только ночью и временно оглушает псионика.</VPE_Nightstep.description>
+  <VPE_Nightstep.jobReportString>Использует способность: {0}</VPE_Nightstep.jobReportString>
+  <VPE_Nightstep.verbProperties.label>ночной шаг</VPE_Nightstep.verbProperties.label>
+</LanguageData>

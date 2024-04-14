@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questName->Eltex Meteor</li>
+  -->
+  <VPE_EltexMeteor.questNameRules.rulesStrings>
+    <li>questName->Метеор с эльтексом</li>
+  </VPE_EltexMeteor.questNameRules.rulesStrings>
+
+  <!-- EN:
+    <li>questDescription->A large meteorite has struck ground nearby. It has left behind a lump of eltex. Eltex can be used to create\n\npsyfocus-enhancing gear, or sold to the Empire to gain honor.\n\nYou can send a mining party to retrieve it, but chances are if you wait long enough, someone else will lay claim to it.</li>
+  -->
+
+  <VPE_EltexMeteor.questDescriptionRules.rulesStrings>
+    <li>questDescription->Крупный метеорит упал неподалёку. В месте падения можно найти залежи эльтекса. Эльтекс можно использовать для создания снаряжения, усиливающего пси-концентрацию, или продать Империи за милость короны.\n\nВам стоит отправить туда отряд шахтёров, чтобы добыть эльтекс. Если прождать слишком долго, кто-нибудь другой обязательно заберёт его себе.</li>
+  </VPE_EltexMeteor.questDescriptionRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Others have mined the Eltex meteor. The quest [resolvedQuestName] has expired. -->
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Кто-то другой добыл ресурсы из метеора. Время, отведённое для задания [resolvedQuestName], истекло.</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

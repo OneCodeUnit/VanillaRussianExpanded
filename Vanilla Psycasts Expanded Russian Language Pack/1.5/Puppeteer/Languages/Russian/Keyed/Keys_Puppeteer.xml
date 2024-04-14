@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Target cannot be colonist. -->
+  <VPEP.TargetCannotBeSameFactionAsCaster>Цель не может быть поселенцем.</VPEP.TargetCannotBeSameFactionAsCaster>
+  <!-- EN: Target must be prisoner or colonist. -->
+  <VPEP.TargetMustBeSameFactionAsCaster>Цель должна быть пленником или поселенцем.</VPEP.TargetMustBeSameFactionAsCaster>
+  <!-- EN: Target must be prisoner or slave. -->
+  <VPEP.TargetMustBePrisonerOrSlave>Цель должна быть пленником или рабом.</VPEP.TargetMustBePrisonerOrSlave>
+  <!-- EN: It was caused by the Degrade psycast. -->
+  <VPEP.DegradePsycast>Это произошло из-за использования способности «деградация».</VPEP.DegradePsycast>
+  <!-- EN: Target must have brain leech from the caster. -->
+  <VPEP.TargetMustHaveBrainLeech>Цель должна иметь мозговую пиявку этого кукловода.</VPEP.TargetMustHaveBrainLeech>
+  <!-- EN: Target is a puppet already. -->
+  <VPEP.TargetIsPuppetAlready>Цель уже марионетка.</VPEP.TargetIsPuppetAlready>
+  <!-- EN: Cannot have more puppets due to the puppet limit. -->
+  <VPEP.CannotHaveMorePuppets>Нельзя иметь марионеток больше, чем позволяет лимит.</VPEP.CannotHaveMorePuppets>
+  <!-- EN: Puppets -->
+  <VPEP.Puppets>Марионетки</VPEP.Puppets>
+  <!-- EN: A puppeteer can only sustain a puppet if there is enough psychic capacity to do so. Gain more psychic capacity to sustain more puppets by casting mind split, however bear in mind it will send the puppeteer and all their puppets into a 24 hour coma.\n\nPsychic capacity: {0} -->
+  <VPEP.PuppetsGizmoTip>Кукловод может контролировать марионетку только тогда, когда у него хватает на это псионического объёма. Объём можно увеличить применяя «разделение разума», но каждое использование этой способности будет отправлять псионика и всей его марионеток в 24-часовую кому.\n\nПсионический объём: {0}</VPEP.PuppetsGizmoTip>
+  <!-- EN: Current puppets: -->
+  <VPEP.PuppetsUsage>Текущие марионетки:</VPEP.PuppetsUsage>
+  <!-- EN: Target must be a puppet of the caster. -->
+  <VPEP.TargetMustBePuppetOfCaster>Цель должна быть марионеткой этого кукловода.</VPEP.TargetMustBePuppetOfCaster>
+  <!-- EN: No puppets. -->
+  <VPEP.NoPuppets>Нет марионеток.</VPEP.NoPuppets>
+  <!-- EN: Mind jump -->
+  <VPEP.MindJumpTitle>обмен телами</VPEP.MindJumpTitle>
+  <!-- EN: {Puppeteer_nameDef} has died. Before {Puppeteer_pronoun} died, {Puppeteer_pronoun} used the mind jump ability on {NewPuppeteer_nameDef}. Now {NewPuppeteer_nameDef} is a new puppeteer. -->
+  <VPEP.MindJumpText>{Puppeteer_nameDef} умирает. Но перед этим {Puppeteer_pronoun} успевает использовать способность «обмен телами» на {NewPuppeteer_nameDef}. Теперь {NewPuppeteer_nameDef} — новый кукловод.</VPEP.MindJumpText>
+</LanguageData>
