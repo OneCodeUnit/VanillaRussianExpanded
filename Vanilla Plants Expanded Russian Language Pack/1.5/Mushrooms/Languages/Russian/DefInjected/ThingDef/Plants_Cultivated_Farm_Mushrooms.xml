@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: timbercap -->
+  <VPE_Plant_Timbercap.label>древянка</VPE_Plant_Timbercap.label>
+  <!-- EN: A short, brown mushroom with a hard stem. When harvested, it yields a small amount of wood-like substance. -->
+  <VPE_Plant_Timbercap.description>Небольшой гриб коричневого цвета с жёстким стеблем, который может быть использован в качестве заменителя древесины.</VPE_Plant_Timbercap.description>
+
+  <!-- EN: healtruffle -->
+  <VPE_Plant_Healtruffle.label>целебный трюфель</VPE_Plant_Healtruffle.label>
+  <!-- EN: Healtruffle is a mushroom that grows slowly by using nutrients from rotstink - it requires a supply of rotstink gas around it in order to grow. Harvesting it gives you herbal medicine. However, it takes a lot of work to plant and collect because it's very delicate. It's been grown for a long time by settlers for its medicinal properties. -->
+  <VPE_Plant_Healtruffle.description>Целебный трюфель — это медленно растущий гриб, который получает питательные вещества из разлагающейся биомассы, в частности — трупов. Он требует наличия рядом гниющих тел для того, чтобы расти. При сборе урожая, он даёт некоторое количество целебных растений. Однако, для его выращивания требуется длительное время из-за того, что он очень карпизный. Этот гриб хорошо известен поселенцам из-за своих целебных свойств.</VPE_Plant_Healtruffle.description>
+
+  <!-- EN: stinker -->
+  <VPE_Plant_Stinker.label>гриб-вонючка</VPE_Plant_Stinker.label>
+  <!-- EN: A small, fast-growing mushroom that forms large patches. It produces rotstink through a chemical process. Despite its unpleasant odor, it can be harvested for edible fungus. It can grow anywhere, however exposure to sunlight will kill it.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other mushrooms, stinkers can handle light source up to 50% luminosity, such as torches. -->
+  <VPE_Plant_Stinker.description>Небольшой быстрорастущий гриб, который образует большие колонии, выделяющие газ, по своему составу схожий с продуктами разложения. Несмотря на неприятный запах, он съедобен. Может расти везде, но быстро погибает будучи подвергнутым воздействию солнечного света.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; В отличие от других грибов, вонючки могут выдерживать свет интенсивностью до 50%, что делает возможным его выращивание в местах, освещаемых факелами.</VPE_Plant_Stinker.description>
+
+  <!-- EN: blisscap -->
+  <VPE_Plant_Blisscap.label>неволнушка</VPE_Plant_Blisscap.label>
+  <!-- EN: A long, light-blue mushroom that offers more than just sustenance. Eating it induces a state of blissful happiness, making the consumer exceptionally content, yet notably drowsy. It is known to greatly enhance the psychic sensitivity of whoever eats it, and is often consumed by hippie communities on various core planets, allowing them to ‘see into the future’.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, blisscap ignores light levels for growth. Sunlight won't destroy it. It will still rest during the night period. -->
+  <VPE_Plant_Blisscap.description>Вытянутый светло-голубой гриб, который может предоставить нечто большее, нежели просто насыщение. Его поедание вызывает состояние спокойной радости и удовлетворения, вместе с сонливостью. Также этот гриб повышает психическую чувствительность и часто его можно найти в коммунах хиппи на разных планетах. По их собственным словам этот гриб позволяет им «заглянуть в будущее».\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; В отличие от других растений, игнорирует требование к необходимому уровню к освещённости для роста. Солнечный свет не вредит грибу, но он будет спать в ночное время.</VPE_Plant_Blisscap.description>
+
+  <!-- EN: lullabloom -->
+  <VPE_Plant_Lullabloom.label>колыбельник</VPE_Plant_Lullabloom.label>
+  <!-- EN: A special kind of mushroom that emits calming spores, ideal for planting next to a bed. Needs to be planted in a flower pot. Its presence soothes the sleeping individual, creating a more restful slumber and promoting overall comfort. Its gentle, sleep-inducing properties make it a favorite among colonists seeking a peaceful night's rest.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, blisscap ignores light levels for growth. Sunlight won't destroy it. It will still rest during the night period.\n\nNullifies the "disturbed sleep" thought.\n\nWill link to vanilla and Vanilla Furniture Expanded beds. -->
+  <VPE_Plant_Lullabloom.description>Особый вид гриба, споры которого обладают седативным эффектом. Идеален для того, чтобы размещать его рядом с кроватью в цветочном горшке. Его присутствие успокаивает того, кто спит рядом, что позитивно влияет на качество сна и уровень комфорта. Та степень ненавязчивого влияния на сон, которой обладает колыбельник, делает его отличным выбором для поселенцев, которые хотят как следует выспаться.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; В отличие от других растений, игнорирует требование к необходимому уровню к освещённости для роста. Солнечный свет не вредит грибу, но он будет спать в ночное время.\n\nСводит на нет эффект от мысли «плохо спал».\n\nПривязывается к кроватям из основной игры и серии модов Vanilla Furniture Expanded</VPE_Plant_Lullabloom.description>
+
+  <!-- EN: bileceps -->
+  <VPE_Plant_Bileceps.label>желчеглавка</VPE_Plant_Bileceps.label>
+  <!-- EN: Bileceps is a peculiar, coral-like mushroom that thrives on the bile of decaying bodies. Despite its unappetizing source, it possesses a meaty flavor and offers a protein-rich harvest. Its distinctive, cancerous appearance does little to deter colonists from utilizing it as an alternate source of meat.\n\n<color=#E5E54C>Gameplay effect:</color> Requires corpse bile on its tile to grow properly. Time to get a Helixien slug! -->
+  <VPE_Plant_Bileceps.description>Желчеглавка — это выделяющийся своим внешним видом гриб, внешне напоминающий коралл и она растёт особенно хорошо в биологических жидкостях разлагающихся тел. Несмотря на свой неаппетитный вид, он обладает характерным мясным вкусом и богат белком. Специфический внешний вид, имеющий сходство с раковой опухолью, слегка удерживает поселенцев от употребления его в пищу в качестве замены мясу.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Требует наличия трупной жидкости для нормально роста. Пора заводить хеликсиновых слизней!</VPE_Plant_Bileceps.description>
+
+  <!-- EN: glowcap -->
+  <VPE_Plant_Glowcap.label>световик</VPE_Plant_Glowcap.label>
+  <!-- EN: A small blue mushroom typically found in caves. The smell it emits is absolutely repulsive - but it tastes surprisingly good when cooked. It lights up the area around it, but the light is not strong enough to grow crops. -->
+  <VPE_Plant_Glowcap.description>Небольшой гриб синего цвета. Чаще всего встречается в пещерах. Обладает чрезвычайно отвратительным запахом, но удивительно хорош на вкус, будучи приготовленным. Обладает биолюминесцентными свойствами, т.е. освещает пространство вокруг, но не так сильно, чтобы можно было выращивать другие растения.</VPE_Plant_Glowcap.description>
+
+  <!-- EN: redcap -->
+  <VPE_Plant_Redcap.label>красноголовик</VPE_Plant_Redcap.label>
+  <!-- EN: A cultivated mushroom with a beautiful red cap and a somewhat short lifespan. Recaps are beautiful, but may need to be replanted often. -->
+  <VPE_Plant_Redcap.description>Культурный гриб, отличающийся красивой красной шляпкой и довольно короткой продолжительностью жизни. Красноголовики красивы, но их нужно часто высаживать заново.</VPE_Plant_Redcap.description>
+
+  <!-- EN: zapcap -->
+  <VPE_Plant_Zapcap.label>вольтовик</VPE_Plant_Zapcap.label>
+  <!-- EN: A large, bulbous, beige mushroom that is known to produce small amounts of electricity as it grows. Needs to be placed on power conduits in order to use the newly produced energy. In case of an electrical short, zapcaps amplify the released energy, causing significantly more damage. -->
+  <VPE_Plant_Zapcap.description>Крупный бежевый гриб с округлой шляпкой, который за счёт химических процессов выделяет некоторое количество электроэнергии. Должен располагаться на кабель, чтобы эту энергию можно было использовать. В случае короткого замыкания вольтовики усиливают выпускаемый заряд, что приводит к ещё большему урону.</VPE_Plant_Zapcap.description>
+
+  <!-- EN: zapcap -->
+  <VPE_Building_Zapcap.label>вольтовик</VPE_Building_Zapcap.label>
+  <!-- EN: A large, bulbous, beige mushroom that is known to produce small amounts of electricity as it grows. Needs to be placed on power conduits in order to use the newly produced energy. In case of an electrical short, zapcaps amplify the released energy, causing significantly more damage. -->
+  <VPE_Building_Zapcap.description>Крупный, бежевый гриб с округлой шляпкой, за счёт химических процессов выделяет некоторое количество электроэнергии. Должен располагаться на проводах, чтобы это имело эффект. В случае короткого замыкания, вольтовики усиливают выпускаемый заряд, что приводит к ещё большим разрушениям.</VPE_Building_Zapcap.description>
+
+  <!-- EN: thermoregulus -->
+  <VPE_Plant_Thermoregulus.label>термостатник</VPE_Plant_Thermoregulus.label>
+  <!-- EN: A rare, large mushroom that needs to be grown in flower pots. Once mature, thermoregulus emits varying temperature depending on the ambient temperature around it. At all times it will aim to bring the temperature of the room it’s in to 16C. \n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other mushroom, sunlight won't destroy it. -->
+  <VPE_Plant_Thermoregulus.description>Крупный и редкий гриб, который чаще всего выращивается в цветочных горшках. Когда термостатник созревает, он начинает регулировать температуру в помещении, приводя её к отметке в 16°C. \n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; В отличие от других грибов, термостатник не погибает на солнце.</VPE_Plant_Thermoregulus.description>
+
+  <!-- EN: foampuffer -->
+  <VPE_Plant_Foampuffer.label>пенный гриб</VPE_Plant_Foampuffer.label>
+  <!-- EN: An ugly, thick mushroom with a cap that smells of muffalo fecal matter. It needs to be grown in flower pots. If it comes into contact with fire once matured, it explodes, ejecting a spray of firefoam over a short distance. -->
+  <VPE_Plant_Foampuffer.description>Неприятно выглядящий гриб с толстой шляпкой, имеющей запах навоза муффало. Растёт в цветочных горшках и после созревания, будучи подвергнутым воздействию открытого пламени, лопается, разбрасывая вокруг вещество, по химическому составу идентичное пожарной пене.</VPE_Plant_Foampuffer.description>
+
+  <!-- EN: mycothread mushroom -->
+  <VPE_Plant_MycothreadMushroom.label>волокница</VPE_Plant_MycothreadMushroom.label>
+  <!-- EN: This mushroom has been cultivated for ages by tunneler mining colonies, as it produces a thick but flexible cotton-like fabric which can be used to craft ropes, clothing and furniture. While it takes an incredibly long time to grow, and dies when exposed to any sort of light, for some colonies it is the only reliable way of obtaining good quality textiles. -->
+  <VPE_Plant_MycothreadMushroom.description>Веками этот гриб выращивался в туннелях на шахтёрских поселениях из-за волокна, которое можно из него получить. Плотное, но при этом достаточно гибкое, чтобы заменить собой хлопок, это волокно использовалось в производстве верёвок, одежды и мебели. И хотя волокница погибает на солнечном свету, а на выращивание требуется значительное время, для некоторых поселений это по-прежнему единственный способ получить качественный текстиль.</VPE_Plant_MycothreadMushroom.description>
+</LanguageData>

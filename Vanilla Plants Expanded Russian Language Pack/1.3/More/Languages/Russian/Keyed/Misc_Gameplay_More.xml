@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_AquaticGrowingZone>Посадки на воде</VCE_AquaticGrowingZone>
+  <VCE_AquaticGrowingZoneDesc>Создать область, где ваши поселенцы будут выращивать растения на воде. Растения в этой области игнорируют требования к плодородности почвы, но на их посев и сбор уходит больше времени.\n\nЭти области не могут быть размещены на морской (солёной) воде.</VCE_AquaticGrowingZoneDesc>
+
+  <VCE_SandyGrowingZone>Посадки на песке</VCE_SandyGrowingZone>
+  <VCE_SandyGrowingZoneDesc>Создать область, где ваши поселенцы будут выращивать растения на на песке. Растения в этой области игнорируют требования к плодородности почвы, но на их посев и сбор уходит больше времени.</VCE_SandyGrowingZoneDesc>
+
+  <VCE_NotInEquator>Растение не в экваториальной зоне (на этой планете ниже {0} широты). Скорость роста — обычная.</VCE_NotInEquator>
+  <VCE_InEquator>Растение в экваториальной зоне. Скорость роста: +30%.</VCE_InEquator>
+
+  <VCE_NeedsShade>Растение должно располагаться в тени. Снаружи, но под крышей.</VCE_NeedsShade>
+
+  <VCE_Pollinated>Улей обнаружен</VCE_Pollinated>
+  <VCE_NotPollinated>В радиусе 6 клеток отсутствуют ульи (рассчитывается при посеве)</VCE_NotPollinated>
+
+  <VCE_CarrotsNearby>Моркови поблизости: {0}/100</VCE_CarrotsNearby>
+  <VCE_BeansNearby>Зелёной фасоли поблизости: {0}/100</VCE_BeansNearby>
+
+  <VCE_StuntedGrowthFertility>Скорость роста уменьшена из-за некаменистой почвы</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>Рост невозможен из-за чрезмерно плодородной почвы</VCE_StoppedGrowthFertility>
+
+  <VCE_WaterNearby>Поблизости обнаружен водоём, мешающий росту растения.</VCE_WaterNearby>
+  <VCE_NoWaterNearby>Отсутствие водоёма поблизости не даёт растению расти.</VCE_NoWaterNearby>
+
+  <VCE_NoSeaTilesNearby>Растение не получает бонуса к скорости роста, так как находится слишком далеко от моря.</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>Поблизости находится {0} клеток моря, что даёт {0}% бонус к скорости роста.</VCE_SeaTilesNearby>
+</LanguageData>

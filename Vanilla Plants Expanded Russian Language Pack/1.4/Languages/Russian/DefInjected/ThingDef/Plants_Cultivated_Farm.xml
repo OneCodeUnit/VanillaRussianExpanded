@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Grass -->
+  <VCE_Grass.label>трава</VCE_Grass.label>
+  <!-- EN: Cultivated grass. Grows anywhere there is a little light and minimally fertile ground.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Grass can be used to feed cattle, similar to haygrass. It isn't affected by blight, but can't be harvested and stored as hay can. -->
+  <VCE_Grass.description>Выращенная трава. Растёт везде, где есть хоть немного света и минимально плодородная почва.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Травой, как и сенотравой, можно кормить скот. Она устойчива к болезням, но её нельзя собирать и хранить.</VCE_Grass.description>
+
+  <!-- EN: tall grass -->
+  <VCE_TallGrass.label>высокая трава</VCE_TallGrass.label>
+  <!-- EN: Cultivated tall grass. Grows anywhere there is a little light and minimally fertile ground. Slows down anyone moving over it.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Grass can be used to feed cattle, similar to haygrass. It isn't affected by blight, but can't be harvested and stored as hay can. -->
+  <VCE_TallGrass.description>Выращенная высокая трава. Растёт везде, где есть хоть немного света и минимально плодородная почва. Замедляет любого, кто движется по ней.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Травой, как и сенотравой, можно кормить скот. Она устойчива к болезням, но её нельзя собирать и хранить.</VCE_TallGrass.description>
+
+  <!-- EN: onion plant -->
+  <VCE_Onion.label>лук</VCE_Onion.label>
+  <!-- EN: An edible bulb of pungent, savory taste and smell with almost as many varieties as cooking applications.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Onion isn't affected by blight. -->
+  <VCE_Onion.description>Съедобная луковица с резким, пикантным вкусом и запахом. Имеет почти столько же разновидностей, как и способов приготовления. Не получает вреда от загрязнённой почвы.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Лук устойчив к болезням.</VCE_Onion.description>
+
+  <!-- EN: pumpkin plant -->
+  <VCE_Pumpkin.label>тыква</VCE_Pumpkin.label>
+  <!-- EN: Technically a giant berry, pumpkins are renowned for being trivial to both sow and harvest. However, their durability means added weight and mass - Too cumbersome for hydroponics basins.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Pumpkin harvests will always suceed, independently of the colonist's plants skill. -->
+  <VCE_Pumpkin.description>Технически это гигантская ягода. Тыква известна тем, что проста для посева и для сбора урожая. Её размер даёт о себе знать: слишком большая и тяжёлая для гидропоники.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Тыква имеет 100% шанс сбора, который не зависит от навыка поселенца.</VCE_Pumpkin.description>
+
+  <!-- EN: pepper plant -->
+  <VCE_Pepper.label>перец</VCE_Pepper.label>
+  <!-- EN: Tiny, spicy, crimson pods often used in sauces, relishes, or powders. While the flavor itself is mild the capsaicin contained inside means humans find them oddly addicting, if painful when consumed in mass. Animals are known to avoid eating them entirely.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Animals won't eat the pepper plant, having an effective nutrition of zero. Note however that they will eat the harvested produce normally. -->
+  <VCE_Pepper.description>Маленькие острые алые стручки, часто использующиеся в соусах, приправах или порошках. В то время как сам вкус неострый, капсаицин, содержащийся внутри, странным образом вызывает привыкание у людей, не смотря на то, что он вызывает боль при употреблении в больших количествах. Животные полностью избегают употребления этого растения в пищу.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Животные не будут есть растущий перец, так как его питательность равна нулю. Однако они всё ещё могут есть собранные перцы.</VCE_Pepper.description>
+
+  <!-- EN: pea plant -->
+  <VCE_Peas.label>горох</VCE_Peas.label>
+  <!-- EN: Spherical green seeds tucked safely away in a fleshy pod. Pea plants are known to be quite thirsty, and will benefit greatly from rainfall. Peas are also notable for having potentially long shelf-lives when dried properly.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Normally less efficient than corn, rice or potatoes, peas will however receive a huge 50% growth boost if it is raining. -->
+  <VCE_Peas.description>Круглые зелёные семена, надёжно спрятанные в толстом стручке. Требует много воды, поэтому хорошо растут в регионах с частыми дождями. Горох отличается длительным сроком хранения, если правильно высушен.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Обычно растёт медленнее остальных культур (кукуруза, рис, картофель), но получает огромный бонус в 50% к скорости роста во время дождя.</VCE_Peas.description>
+
+  <!-- EN: eggplant -->
+  <VCE_Eggplant.label>баклажан</VCE_Eggplant.label>
+  <!-- EN: A bulbous purple fruit of the nightshade family. Eggplant is rarely served as a side, generally filling the role of the main component of the dish. Flourishes in warm weather.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Eggplants will grow 30% faster if temperature is between 37 and 60 ºC. -->
+  <VCE_Eggplant.description>Луковичный пурпурный плод семейства паслёновых. Баклажаны редко подают в качестве гарнира, обычно они выступают в роли основного компонента блюда. Любит тёплую погоду.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Баклажан растёт на 30% быстрее, когда температура находится между 37 и 60 ºC.</VCE_Eggplant.description>
+
+  <!-- EN: cabbage plant -->
+  <VCE_Cabbage.label>капуста</VCE_Cabbage.label>
+  <!-- EN: A somewhat hardy, leafy green vegetable, often chopped and then fermented or stewed. This particular strain seems highly resistant to airborne toxin and radiation. \n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Cabbages are unaffected by toxic fallout and, contrary to other plants, won't die from it. -->
+  <VCE_Cabbage.description>Довольно выносливый, покрытый листьями зелёный овощ. Его часто нарезают для последующего квашения или тушения. Данный сорт имеет высокую устойчивость к болезням и радиации.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Капуста устойчива к токсичным осадкам и, в отличии от остальных растений, не умирает от них.</VCE_Cabbage.description>
+
+  <!-- EN: beet plant -->
+  <VCE_Beet.label>свёкла</VCE_Beet.label>
+  <!-- EN: An herb-like vegetable widely cultivated for humans and livestock alike, notably nutritious and historically used in dye making.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; While beets do require rich soil they are quite hearty, and will continue to grow at 10% speed through winter. They need to be planted during growing season, though. -->
+  <VCE_Beet.description>Травянистый овощ, широко культивируемый для людей и домашнего скота, особо питательный и с давних пор используемый в производстве красителей.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;Свёкла нуждается в плодородной почве, но зато может медленно расти в течении зимы. Однако сажать свёклу всё равно нужно в сезон роста.</VCE_Beet.description>
+
+  <!-- EN: tomato plant -->
+  <VCE_Tomato.label>томат</VCE_Tomato.label>
+  <!-- EN: A series of juicy, glossy red fruits attached by vine, used commonly as a vegetable. Strong stewing releases natural sugars and mellows out acids contained within. Tomatoes are easily removed from the vine without having to uproot the plant.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Tomatoes won't be destroyed on harvest, similar to fruit trees. -->
+  <VCE_Tomato.description>Ряд сочных, гладких красных плодов, прикреплённых к лозе, обычно используемых в качестве овощной культуры. Сильное тушение высвобождает природные сахара и смягчает содержащиеся в них кислоты. Помидоры легко снимаются с лозы без необходимости выкапывать растение.\n\n&lt;color=#E5E54C&gt;Игровая механика:&lt;/color&gt;При сборе томаты не уничтожают растение. Они собираются подобно фруктам с деревьев.</VCE_Tomato.description>
+
+  <!-- EN: agave -->
+  <VCE_Agave.label>агава</VCE_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <VCE_Agave.description>Крупнолистное пустынное растение со съедобными цветами и стеблями.</VCE_Agave.description>
+</LanguageData>
