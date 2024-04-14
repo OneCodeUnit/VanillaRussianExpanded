@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Vanilla Races Expanded - Android Russian Language Pack</name>
-	<author>OliveWizard и MewnGoddess</author>
-	<supportedVersions>
-		<li>1.4</li>
-	</supportedVersions>
+  <name>Vanilla Races Expanded - Android Russian Language Pack</name>
+  <author>OliveWizard и MewnGoddess</author>
+  <supportedVersions>
+  <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
   <packageId>OW.RU.Android</packageId>
-  <description>Перевод на русский язык мода Vanilla Races Expanded - Android.</description>
-	<modDependencies>
+  <description>Перевод на русский язык мода Vanilla Races Expanded - Android. Подробности ищите на странице в мастерской.</description>
+  <modDependencies>
     <li>
       <packageId>vanillaracesexpanded.android</packageId>
       <displayName>Vanilla Races Expanded - Android</displayName>
@@ -15,6 +16,6 @@
     </li>
     </modDependencies>
   <loadAfter>
-		<li>vanillaracesexpanded.android</li>
-	</loadAfter>
+    <li>vanillaracesexpanded.android</li>
+  </loadAfter>
 </ModMetaData>
