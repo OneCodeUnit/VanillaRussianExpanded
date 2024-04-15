@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Community doctor -->
+	<VBE_CommunityDoctor.title>врач общины</VBE_CommunityDoctor.title>
+  <!-- EN: Doctor -->
+	<VBE_CommunityDoctor.titleShort>врач</VBE_CommunityDoctor.titleShort>
+  <!-- EN: [PAWN_nameDef] served as the community's primary healthcare provider, treating everything from minor cuts to major diseases. While [PAWN_pronoun] was an expert in medical practices, [PAWN_pronoun] had little patience for negotiating or handling animals, preferring to focus on [PAWN_possessive] patients' well-being. -->
+	<VBE_CommunityDoctor.baseDesc>{PAWN_nameDef} {PAWN_gender ? выполнял : выполняла} функции главного врача общины, занимаясь лечением всего — от мелких порезов до серьёзных заболеваний. Хотя {PAWN_pronoun} {PAWN_gender ? был : была} экспертом в области медицины, {PAWN_objective} недоставало терпения для ведения переговоров или ухода за животными — поэтому {PAWN_nameDef} {PAWN_gender ? предпочитал : предпочитала} полностью сосредоточиться на здоровье своих пациентов.</VBE_CommunityDoctor.baseDesc>
+
+  <!-- EN: Retired soldier -->
+	<VBE_RetiredSoldier.title>отставной солдат</VBE_RetiredSoldier.title>
+  <!-- EN: Soldier -->
+	<VBE_RetiredSoldier.titleShort>солдат</VBE_RetiredSoldier.titleShort>
+  <!-- EN: After years of military service, [PAWN_nameDef] retired to the colony seeking peace. Despite [PAWN_possessive] efforts to integrate, [PAWN_pronoun] struggled with non-violent tasks, finding solace only in routine and physical labor. [PAWN_pronounCap]'s experience made [PAWN_pronoun] a valuable asset during conflicts, but [PAWN_pronoun] never quite adapted to civilian life. -->
+	<VBE_RetiredSoldier.baseDesc>После долгих лет военной службы, {PAWN_nameDef} {PAWN_gender ? решил : решила} жить в поселении, стремясь найти покой. Несмотря на все {PAWN_possessive} старания влиться в общество, {PAWN_pronoun} с трудом {PAWN_gender ? справлялся : справлялась} с возложенными на н{PAWN_possessive} мирными обязанностями, находя утешение лишь в рутинной и физической работе. Боевой опыт {PAWN_nameDef} сделал {PAWN_pronoun} ценным помощником во время вооружённых столкновений, но {PAWN_pronoun} так и не {PAWN_gender ? смог : смогла} приспособиться к гражданской жизни.</VBE_RetiredSoldier.baseDesc>
+
+  <!-- EN: Field technician -->
+	<VBE_FieldTechnician.title>полевой техник</VBE_FieldTechnician.title>
+  <!-- EN: Technician -->
+	<VBE_FieldTechnician.titleShort>техник</VBE_FieldTechnician.titleShort>
+  <!-- EN: [PAWN_nameDef] worked as a field technician, maintaining and repairing equipment in remote locations. Adept at solving complex technical problems, [PAWN_pronoun] preferred the company of machines over people, leading to [PAWN_possessive] underdeveloped social skills. -->
+	<VBE_FieldTechnician.baseDesc>{PAWN_nameDef} {PAWN_gender ? работал : работала} полевым техником, обслуживая и ремонтируя оборудование в удалённых местах. Будучи умелым специалистом в решении сложных технических проблем, {PAWN_pronoun} {PAWN_gender ? предпочитал : предпочитала} компанию машин, а не людей, что стало причиной {PAWN_possessive} слаборазвитых социальных навыков.</VBE_FieldTechnician.baseDesc>
+
+  <!-- EN: Garden curator -->
+	<VBE_GardenCurator.title>смотритель сада</VBE_GardenCurator.title>
+  <!-- EN: Curator -->
+	<VBE_GardenCurator.titleShort>смотритель</VBE_GardenCurator.titleShort>
+  <VBE_GardenCurator.titleShortFemale>смотрительница</VBE_GardenCurator.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] oversaw a large botanical garden, specializing in the cultivation of rare plants and educating the public. [PAWN_pronounCap]'s green thumb was unparalleled, yet [PAWN_pronoun] lacked the physical capabilities for demanding labor or combat. -->
+	<VBE_GardenCurator.baseDesc>{PAWN_nameDef} {PAWN_gender ? заведовал : заведовала} большим ботаническим садом, специализируясь на выращивании редких растений и просвещении публики. {PAWN_possessive} талант к садоводству был непревзойдённым, однако {PAWN_nameDef} не хватало физических возможностей для сражений или выполнения тяжёлой работы.</VBE_GardenCurator.baseDesc>
+
+  <!-- EN: Supply coordinator -->
+	<VBE_SupplyCoordinator.title>снабженец</VBE_SupplyCoordinator.title>
+  <!-- EN: Coordinator -->
+	<VBE_SupplyCoordinator.titleShort>снабженец</VBE_SupplyCoordinator.titleShort>
+  <!-- EN: [PAWN_nameDef] was essential in managing the colony's logistics and supply chains, ensuring the efficient flow of goods and materials. Highly organized but not particularly hands-on, [PAWN_pronoun] steered clear of direct care roles and skilled manual work. -->
+	<VBE_SupplyCoordinator.baseDesc>{PAWN_nameDef} {PAWN_gender ? был незаменим : была незаменима} в управлении логистикой и цепочками поставок в поселении, обеспечивая бесперебойное снабжение сырьём и товарами. Будучи высоко {PAWN_gender ? организованным : организованной}, но не особо {PAWN_gender ? инициативным : инициативной}, {PAWN_pronoun} {PAWN_gender ? избегал : избегала} обязанностей по уходу и квалифицированной работы.</VBE_SupplyCoordinator.baseDesc>
+
+  <!-- EN: Ship's navigator -->
+	<VBE_ShipsNavigator.title>корабельный штурман</VBE_ShipsNavigator.title>
+  <!-- EN: Navigator -->
+	<VBE_ShipsNavigator.titleShort>штурман</VBE_ShipsNavigator.titleShort>
+  <!-- EN: [PAWN_nameDef] charted the stars as the primary navigator aboard a spacefaring vessel. [PAWN_pronounCap] had an uncanny ability to find the safest and quickest routes through the cosmos, though [PAWN_pronoun] struggled with mechanical tasks and often left those to others. -->
+	<VBE_ShipsNavigator.baseDesc>Будучи главным навигатором на борту космического судна, {PAWN_nameDef} {PAWN_gender ? занимался : занималась} составлением звёздных карт. {PAWN_pronoun} {PAWN_gender ? обладал : обладала} удивительной способностью находить самые безопасные и быстрые маршруты в космическом пространстве, но {PAWN_objective} тяжело давалась работа с механизмами, потому {PAWN_nameDef} часто {PAWN_gender ? поручал : поручала} её другим.</VBE_ShipsNavigator.baseDesc>
+
+  <!-- EN: Engine room tech -->
+	<VBE_EngineRoomTech.title>техник машинного отделения</VBE_EngineRoomTech.title>
+  <!-- EN: Technician -->
+	<VBE_EngineRoomTech.titleShort>техник</VBE_EngineRoomTech.titleShort>
+  <!-- EN: As an engine room technician, [PAWN_nameDef] kept the heart of the spaceship running. [PAWN_pronoun] could fix almost anything with the right tools, but [PAWN_pronoun] lacked finesse in social interactions and avoided any tasks that required a gentle touch. -->
+	<VBE_EngineRoomTech.baseDesc>Будучи техником машинного отделения, {PAWN_nameDef} {PAWN_gender ? обслуживал : обслуживала} «сердце» космического корабля. {PAWN_pronoun} {PAWN_gender ? мог : могла} починить практически всё, если у н{PAWN_possessive} были нужные инструменты, но {PAWN_nameDef} не хватало сноровки в общении и {PAWN_pronoun} {PAWN_gender ? избегал : избегала} любых задач, требующих деликатного подхода.</VBE_EngineRoomTech.baseDesc>
+
+  <!-- EN: Galactic medic -->
+	<VBE_GalacticMedic.title>космический медик</VBE_GalacticMedic.title>
+  <!-- EN: Medic -->
+	<VBE_GalacticMedic.titleShort>медик</VBE_GalacticMedic.titleShort>
+  <!-- EN: [PAWN_nameDef] served as the medic on a spaceship, treating everything from space sickness to injuries from asteroid impacts. [PAWN_pronounCap]'s knowledge of medicine was unparalleled, but [PAWN_pronoun] had no head for research or complex theories. -->
+	<VBE_GalacticMedic.baseDesc>{PAWN_nameDef} {PAWN_gender ? служил : служила} медиком на космическом корабле и {PAWN_gender ? лечил : лечила} всё — от космической болезни до травм, полученных при столкновениях с астероидами. {PAWN_possessive} познания в области медицины были непревзойдёнными, но {PAWN_nameDef} не {PAWN_gender ? тяготел : тяготела} к исследованиям и постижению сложных теорий.</VBE_GalacticMedic.baseDesc>
+
+  <!-- EN: Cargo handler -->
+	<VBE_CargoHandler.title>кладовщик</VBE_CargoHandler.title>
+  <!-- EN: Handler -->
+	<VBE_CargoHandler.titleShort>кладовщик</VBE_CargoHandler.titleShort>
+  <VBE_CargoHandler.titleShortFemale>кладовщица</VBE_CargoHandler.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was responsible for managing the cargo bay of a space vessel, ensuring supplies were securely stowed and inventory was accurately tracked. [PAWN_pronounCap] was physically strong and highly organized, but [PAWN_pronoun] had little patience for detailed documentation or scholarly pursuits. -->
+	<VBE_CargoHandler.baseDesc>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за управление грузовым отсеком космического корабля, обеспечивая надёжную укладку припасов и точный учёт инвентаря. {PAWN_pronoun} {PAWN_gender ? был : была} физически {PAWN_gender ? сильным и высокоорганизованным : сильной и высокоорганизованной}, но {PAWN_nameDef} не хватало терпения на составление подробной документации или на занятие научными изысканиями.</VBE_CargoHandler.baseDesc>
+</LanguageData>

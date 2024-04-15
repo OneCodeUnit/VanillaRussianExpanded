@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Galley chef -->
+	<VBE_GalleyChef.title>корабельный повар</VBE_GalleyChef.title>
+  <!-- EN: Chef -->
+	<VBE_GalleyChef.titleShort>кок</VBE_GalleyChef.titleShort>
+  <!-- EN: [PAWN_nameDef] ran the galley on a mid-sized spacecraft, providing hearty and nutritious meals for the crew. Cooking in zero gravity presented unique challenges, yet [PAWN_pronoun] mastered the art. However, [PAWN_pronoun] never took well to the mechanics of the ship, preferring pans over plasma engines. -->
+	<VBE_GalleyChef.baseDesc>{PAWN_nameDef} {PAWN_gender ? заведовал : заведовала} камбузом на средних размеров космическом корабле, обеспечивая экипаж сытными и питательными блюдами. Приготовление пищи в условиях невесомости представляло собой уникальную задачу, но {PAWN_pronoun} в совершенстве {PAWN_gender ? овладел : овладела} этим искусством. В то же время {PAWN_nameDef} никогда не {PAWN_gender ? любил : любила} разбираться в устройстве корабля, предпочитая кастрюли плазменным двигателям.</VBE_GalleyChef.baseDesc>
+
+  <!-- EN: Colony auditor -->
+	<VBE_ColonyAuditor.title>аудитор поселения</VBE_ColonyAuditor.title>
+  <!-- EN: Auditor -->
+	<VBE_ColonyAuditor.titleShort>аудитор</VBE_ColonyAuditor.titleShort>
+  <!-- EN: [PAWN_nameDef] kept the colony's finances in check, ensuring resources were used efficiently and planning for future needs. While [PAWN_pronoun] excelled in numbers and was pivotal in resource allocation, [PAWN_pronoun] found hands-on tasks tedious and lacked the patience for caregiving. -->
+	<VBE_ColonyAuditor.baseDesc>{PAWN_nameDef} {PAWN_gender ? следил : следила} за финансами поселения, обеспечивая эффективное использование ресурсов и планируя будущие потребности. Хотя {PAWN_pronoun} прекрасно {PAWN_gender ? разбирался : разбиралась} в цифрах и {PAWN_gender ? играл : играла} ключевую роль в управлении ресурсами, {PAWN_nameDef} {PAWN_gender ? находил : находила} практическую работу утомительной, и {PAWN_objective} не хватало терпения для ухода за больными.</VBE_ColonyAuditor.baseDesc>
+
+  <!-- EN: Corporate financier -->
+	<VBE_CorporateFinancier.title>корпоративный финансист</VBE_CorporateFinancier.title>
+  <!-- EN: Financier -->
+	<VBE_CorporateFinancier.titleShort>финансист</VBE_CorporateFinancier.titleShort>
+  <!-- EN: [PAWN_nameDef] navigated the complex world of corporate finance, managing investments and financial strategies for a major spacefaring conglomerate. [PAWN_pronoun]'s sharp mind for numbers did not translate well to the physical demands of colony life or the nuances of personal interaction. -->
+	<VBE_CorporateFinancier.baseDesc>{PAWN_nameDef} хорошо {PAWN_gender ? ориентировался : ориентировалась} в сложном мире корпоративных финансов, управляя инвестициями и финансовыми стратегиями крупного космического конгломерата. {PAWN_possessive} выдающаяся способность работать с цифрами плохо сочеталась с физическими нагрузками, сопряжёнными с жизнью в поселении, и не сильно помогала в общении с другими людьми.</VBE_CorporateFinancier.baseDesc>
+
+  <!-- EN: Starship scamp -->
+	<VBE_StarshipScamp.title>звёздный проныра</VBE_StarshipScamp.title>
+  <!-- EN: Scamp -->
+	<VBE_StarshipScamp.titleShort>проныра</VBE_StarshipScamp.titleShort>
+  <!-- EN: As a child born aboard the interstellar vessel 'Endeavor', [PAWN_nameDef] grew up navigating the narrow corridors and vast cargo holds of the ship. [PAWN_pronoun] learned to fix small mechanical issues from watching the crew, but [PAWN_pronoun]'s education in other areas was patchy at best, relying on shipboard terminals and any data slates [PAWN_pronoun] could get [PAWN_possessive] hands on. -->
+	<VBE_StarshipScamp.baseDesc>{PAWN_nameDef} {PAWN_gender ? провёл : провела} детство, плутая по узким коридорам и огромным грузовым трюмам корабля «Эндевор», на котором и {PAWN_gender ? родился : родилась}. Наблюдая за командой, {PAWN_pronoun} {PAWN_gender ? научился : научилась} устранять мелкие механические неполадки, но {PAWN_possessive} познания в других областях были в лучшем случае обрывочными. Потому {PAWN_nameDef} {PAWN_gender ? полагался : полагалась} на любые корабельные терминалы и таблички с данными, которые только {PAWN_gender ? мог : могла} заполучить.</VBE_StarshipScamp.baseDesc>
+
+  <!-- EN: Young astronomer -->
+	<VBE_YoungAstronomer.title>молодой астроном</VBE_YoungAstronomer.title>
+  <!-- EN: Astronomer -->
+	<VBE_YoungAstronomer.titleShort>астроном</VBE_YoungAstronomer.titleShort>
+  <!-- EN: [PAWN_pronoun] was fascinated by the stars from a very young age. Living on a spacecraft gave [PAWN_pronoun] a unique perspective on the cosmos. [PAWN_pronoun] spent nights charting star maps and dreaming of distant galaxies. However, this obsession left little room for practical skills or socializing. -->
+	<VBE_YoungAstronomer.baseDesc>{PAWN_nameDef} {PAWN_gender ? был очарован : была очарована} звёздами с самого раннего возраста. Жизнь на космическом корабле сформировала в {PAWN_gender ? нём : ней} уникальный взгляд на космос. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} ночи за составлением звёздных карт и мечтах о далёких галактиках. Однако эта одержимость не оставляла места для практических навыков и общения.</VBE_YoungAstronomer.baseDesc>
+
+  <!-- EN: Engine helper -->
+	<VBE_EngineHelper.title>подручный моториста</VBE_EngineHelper.title>
+  <!-- EN: Helper -->
+	<VBE_EngineHelper.titleShort>подручный</VBE_EngineHelper.titleShort>
+  <!-- EN: Even as a child, [PAWN_pronoun] was obsessed with the ship's engine room. Under the watchful eye of the engineers, [PAWN_pronoun] learned how to maintain and repair the engines that kept their world alive. This early start gave [PAWN_pronoun] a good head start in mechanical skills but meant [PAWN_pronoun] was often too busy to make friends or study other subjects. -->
+	<VBE_EngineHelper.baseDesc>Ещё в детстве {PAWN_nameDef} {PAWN_gender ? был одержим : была одержима} моторным отсеком корабля. Под присмотром инженеров {PAWN_pronoun} {PAWN_gender ? научился : научилась} обслуживать и ремонтировать двигатели, которые обеспечивали жизнь всего, что их окружало. Такое раннее начало дало {PAWN_nameDef} хороший старт в освоении навыков механики, но это привело к тому, что {PAWN_pronoun} всегда {PAWN_gender ? был чересчур занят : была чересчур занята}, чтобы заводить друзей или изучать другие предметы.</VBE_EngineHelper.baseDesc>
+
+  <!-- EN: Refugee runner -->
+	<VBE_RefugeeRunner.title>беженец-беглец</VBE_RefugeeRunner.title>
+  <VBE_RefugeeRunner.titleFemale>беженка-беглянка</VBE_RefugeeRunner.titleFemale>
+  <!-- EN: Runner -->
+	<VBE_RefugeeRunner.titleShort>беглец</VBE_RefugeeRunner.titleShort>
+  <VBE_RefugeeRunner.titleShortFemale>беглянка</VBE_RefugeeRunner.titleShortFemale>
+  <!-- EN: Escaping from conflict zones was a constant part of [PAWN_nameDef]'s childhood. [PAWN_pronoun] learned to navigate dangerous landscapes and to trust [PAWN_possessive] instincts above all. These harrowing experiences honed [PAWN_possessive] survival skills but left little room for education or social niceties. -->
+	<VBE_RefugeeRunner.baseDesc>Побеги из зон боевых действий были постоянной частью детства {PAWN_nameDef}. {PAWN_pronoun} {PAWN_gender ? учился : училась} ориентироваться на опасной местности и доверять инстинктам превыше всего. Этот тяжёлый опыт оттачивал навыки выживания, но не оставлял места для образования и социальных тонкостей.</VBE_RefugeeRunner.baseDesc>
+
+  <!-- EN: War orphan -->
+	<VBE_WarOrphan.title>сирота войны</VBE_WarOrphan.title>
+  <!-- EN: Orphan -->
+	<VBE_WarOrphan.titleShort>сирота</VBE_WarOrphan.titleShort>
+  <!-- EN: War took everything from [PAWN_nameDef]: family, home, and innocence. In the aftermath, [PAWN_pronoun] found solace in the pages of books, learning about the world from the safety of a refugee camp's library. While [PAWN_pronoun] developed a keen intellect, [PAWN_pronoun] struggled with physical tasks and social interaction. -->
+	<VBE_WarOrphan.baseDesc>Война отняла у {PAWN_nameDef} всё: семью, дом и невинность. После этого {PAWN_pronoun} {PAWN_gender ? нашёл : нашла} утешение на страницах книг, познавая мир в безопасной обстановке библиотеки лагеря беженцев. Хотя у н{PAWN_possessive} развился острый интеллект, {PAWN_pronoun} с трудом {PAWN_gender ? справлялся : справлялась} с физическими задачами и социальным взаимодействием.</VBE_WarOrphan.baseDesc>
+
+  <!-- EN: Militia recruit -->
+	<VBE_MilitiaRecruit.title>новобранец ополчения</VBE_MilitiaRecruit.title>
+  <!-- EN: Recruit -->
+	<VBE_MilitiaRecruit.titleShort>новобранец</VBE_MilitiaRecruit.titleShort>
+  <!-- EN: In a land torn by conflict, [PAWN_nameDef] was recruited into a local militia at a young age. [PAWN_pronoun] learned the harsh realities of war, becoming proficient with weapons and tactics. Yet, the focus on survival and combat left [PAWN_pronoun] with gaps in [PAWN_possessive] formal education and a wary attitude towards strangers. -->
+	<VBE_MilitiaRecruit.baseDesc>В стране раздираемой конфликтами, {PAWN_nameDef} в юном возрасте {PAWN_gender ? был завербован : была завербована} в местное ополчение. Там {PAWN_pronoun} {PAWN_gender ? познал : познала} суровые реалии войны, {PAWN_gender ? научился : научилась} тактике и владению оружием. Однако упор на выживание и сражения оставил у {PAWN_nameDef} пробелы в образовании и сформировал у н{PAWN_possessive} настороженное отношение к чужакам.</VBE_MilitiaRecruit.baseDesc>
+
+  <!-- EN: Jungle scout -->
+	<VBE_JungleScout.title>разведчик в джунглях</VBE_JungleScout.title>
+  <!-- EN: Scout -->
+	<VBE_JungleScout.titleShort>разведчик</VBE_JungleScout.titleShort>
+  <VBE_JungleScout.titleShortFemale>разведчица</VBE_JungleScout.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was born into a tribe that lived in the dense jungles of their homeworld. From a young age, [PAWN_pronoun] learned how to move silently through the underbrush and identify the myriad of plants and animals. While [PAWN_pronoun] became adept at tracking and foraging, the isolation from advanced technology left [PAWN_pronoun] with little understanding of the outside world. -->
+	<VBE_JungleScout.baseDesc>{PAWN_nameDef} {PAWN_gender ? родился : родилась} в племени, жившем в густых джунглях их родной планеты. С раннего возраста {PAWN_pronoun} {PAWN_gender ? научился : научилась} бесшумно передвигаться в зарослях и различать мириады растений и животных. Хотя {PAWN_nameDef} {PAWN_gender ? стал искусным : стала искусной} в выслеживании и добыче пищи, изоляция от передовых не позволила {PAWN_objective} составить представление о внешнем мире.</VBE_JungleScout.baseDesc>
+
+  <!-- EN: Storyteller's kin -->
+	<VBE_StorytellersKin.title>родня сказителя</VBE_StorytellersKin.title>
+  <!-- EN: Kin -->
+	<VBE_StorytellersKin.titleShort>потомок</VBE_StorytellersKin.titleShort>
+  <!-- EN: As the kin to the tribe's storyteller, [PAWN_nameDef] learned the ancient tales and legends by heart, understanding the moral and lessons within each story. [PAWN_pronoun] could captivate any audience with [PAWN_possessive] words, but [PAWN_pronoun] struggled with the practical skills of hunting and crafting, finding more comfort in tales than tools. -->
+	<VBE_StorytellersKin.baseDesc>Будучи потомком сказителя племени, {PAWN_nameDef} {PAWN_gender ? выучил : выучила} древние сказки и легенды наизусть, понимая мораль и уроки каждой истории. {PAWN_pronoun} {PAWN_gender ? мог : могла} увлечь любую аудиторию словами, но при этом {PAWN_nameDef} с трудом {PAWN_gender ? осваивал : осваивала} практические навыки охоты и ремесла, находя больший покой в рассказах, нежели в инструментах.</VBE_StorytellersKin.baseDesc>
+
+  <!-- EN: Herbal kin -->
+	<VBE_HerbalKin.title>потомок травника</VBE_HerbalKin.title>
+  <!-- EN: Kin -->
+	<VBE_HerbalKin.titleShort>потомок</VBE_HerbalKin.titleShort>
+  <!-- EN: [PAWN_nameDef] was raised by the tribe's herbal healer, learning the properties of each plant and how to use them to cure ailments. This early exposure to natural medicine made [PAWN_pronoun] proficient in healing practices, though [PAWN_pronoun] never took to the more violent aspects of tribal life, such as hunting or defending the tribe. -->
+	<VBE_HerbalKin.baseDesc>{PAWN_nameDef} {PAWN_gender ? воспитывался : воспитывалась} целителем-травником племени, изучая свойства каждого растения и способы их использования для лечения болезней. Такое раннее знакомство с природной медициной сделало {PAWN_possessive} {PAWN_gender ? сведущим : сведущей} в целительских практиках. При этом {PAWN_pronoun} никогда не {PAWN_gender ? увлекался : увлекалась} более опасными аспектами жизни племени, такими как охота или защита поселения.</VBE_HerbalKin.baseDesc>
+</LanguageData>
