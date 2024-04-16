@@ -8,18 +8,18 @@
   <VREA.FreeMemorySpace>Свободная память</VREA.FreeMemorySpace>
   <!-- EN: Android stand is occupied -->
   <VREA.AndroidStandIsOccupied>Эта стойка андроида занята</VREA.AndroidStandIsOccupied>
-  <!-- EN: Artificial -->
-  <VREA.Artificial>Искусств</VREA.Artificial>
-  <!-- EN: An artificial -->
-  <VREA.ArtificialDesc>Искусств</VREA.ArtificialDesc>
-  <!-- EN: Installing -->
-  <VREA.Installing>Установка</VREA.Installing>
-  <!-- EN: Install -->
-  <VREA.Install>Установить</VREA.Install>
-  <!-- EN: Installed -->
-  <VREA.Installed>Установл.</VREA.Installed>
-  <!-- EN: An installed -->
-  <VREA.AnInstalled>Установл.</VREA.AnInstalled>
+  <!-- EN: Artificial {0} -->
+  <VREA.Artificial>Искусств {0}</VREA.Artificial>
+  <!-- EN: An artificial {0} -->
+  <VREA.ArtificialDesc>Искусств {0}</VREA.ArtificialDesc>
+  <!-- EN: Installing {0} -->
+  <VREA.Installing>Установка {lookup: {0}; Case; 1}</VREA.Installing>
+  <!-- EN: Install {0} -->
+  <VREA.Install>Установить {0}</VREA.Install>
+  <!-- EN: Installed {0} -->
+  <VREA.Installed>Установл. {0}</VREA.Installed>
+  <!-- EN: An installed {0} -->
+  <VREA.AnInstalled>Установл. {0}</VREA.AnInstalled>
   <!-- EN: Make -->
   <VREA.Make>Изготовить</VREA.Make>
   <!-- EN: Current energy level: {0} -->
