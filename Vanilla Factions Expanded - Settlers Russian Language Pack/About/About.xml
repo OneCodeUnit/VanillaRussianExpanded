@@ -3,10 +3,12 @@
   <name>Vanilla Factions Expanded - Settlers Russian Language Pack</name>
   <author>OliveWizard, Mewn Goddess</author>
   <supportedVersions>
-	  <li>1.4</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <packageId>OW.RU.Settlers</packageId>
-  <description>Обновлённый перевод на русский язык мода Vanilla Factions Expanded - Settlers.</description>
+  <description>Обновлённый перевод на русский язык мода Vanilla Factions Expanded - Settlers. Подробности ищите на странице в мастерской.</description>
   <modDependencies>
     <li>
       <packageId>OskarPotocki.VanillaFactionsExpanded.SettlersModule</packageId>
@@ -18,7 +20,7 @@
     <li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
   </loadAfter>
   <incompatibleWith>
-		<li>Inoshishi3.VFE.SettlersModuleRusPatch</li>
+    <li>Inoshishi3.VFE.SettlersModuleRusPatch</li>
     <li>Am.Rus.SettlersModule</li>
-	</incompatibleWith>
+  </incompatibleWith>
 </ModMetaData>
