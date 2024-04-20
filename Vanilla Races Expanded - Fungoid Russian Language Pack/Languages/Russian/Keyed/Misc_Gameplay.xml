@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Gene infection ({0}), {1} -->
-	<VRE_InfectionLabel>Генная инфекция ({0}), {1}</VRE_InfectionLabel>
+  <VRE_InfectionLabel>Генная инфекция ({0}), {1}</VRE_InfectionLabel>
   <!-- EN: Infection caused by the contact with a {0}. Upon reaching 100%, colonist will turn into a {0} -->
-	<VRE_InfectionDescription>Инфекция была вызвана контактом с {0}. Когда она достигнет 100%, поселенец обратится в {lookup: {0}; Case; 1}</VRE_InfectionDescription>
+  <VRE_InfectionDescription>Инфекция была вызвана контактом с {0}. Когда она достигнет 100%, поселенец обратится в {lookup: {0}; Case; 1}</VRE_InfectionDescription>
   <!-- EN: Gene infected ({0} days) -->
-	<VRE_InfectedLabel>Генная инфекция ({0_numCase ? день : дня : дней})</VRE_InfectedLabel>
+  <VRE_InfectedLabel>Генная инфекция ({0_numCase ? день : дня : дней})</VRE_InfectedLabel>
   <!-- EN: Gene infection chance -->
-	<VRE_InfectionChance>Вероятность генной инфекции</VRE_InfectionChance>
+  <VRE_InfectionChance>Вероятность генной инфекции</VRE_InfectionChance>
   <!-- EN: Chance of the gene infection to infect the target. By default it is 20%. Bear in mind this only applies to claw and teeth attacks, if the person with a gene infector gene carries melee weapons this will reduce infection chances. -->
-	<VRE_InfectionChanceDesc>Вероятность заражения цели генной инфекцией. По умолчанию она равна 20%. Имейте в виду, что вероятность относится только к атакам когтями и зубами. Если персонаж с геном «генная инфекция» будет атаковать оружием ближнего боя, это уменьшит вероятность заражения.</VRE_InfectionChanceDesc>
+  <VRE_InfectionChanceDesc>Вероятность заражения цели генной инфекцией. По умолчанию она равна 20%. Имейте в виду, что вероятность относится только к атакам когтями и зубами. Если персонаж с геном «генная инфекция» будет атаковать оружием ближнего боя, это уменьшит вероятность заражения.</VRE_InfectionChanceDesc>
   <!-- EN: Reset -->
-	<VRE_Reset>Сброс</VRE_Reset>
+  <VRE_Reset>Сброс</VRE_Reset>
 </LanguageData>

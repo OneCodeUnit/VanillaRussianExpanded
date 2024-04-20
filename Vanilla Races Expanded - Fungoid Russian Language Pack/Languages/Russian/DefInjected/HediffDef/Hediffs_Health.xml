@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: gene infection -->
-	<VRE_GeneInfection.label>генная инфекция</VRE_GeneInfection.label>
+  <VRE_GeneInfection.label>генная инфекция</VRE_GeneInfection.label>
   <!-- EN: This person was implanted a copy of a xenogerm through a melee attack. This has triggered a progressing infection which, if left untreated will apply this xenogerm to them. -->
-	<VRE_GeneInfection.description>Заражение ксеносеменем через открытую рану. Из-за этого начала стремительно развиваться инфекция, которая, если её не лечить, превратит это существо в носителя этого ксеносемени.</VRE_GeneInfection.description>
+  <VRE_GeneInfection.description>Заражение ксеносеменем через открытую рану. Из-за этого начала стремительно развиваться инфекция, которая, если её не лечить, превратит это существо в носителя этого ксеносемени.</VRE_GeneInfection.description>
   <!-- EN: {0} has been afflicted with a gene infection! If the infection is not treated successfully, they'll be painfully converted into the xenotype of the person who infected them. -->
-	<VRE_GeneInfection.comps.2.discoverLetterText>{0} {0_gender ? заразился : заразилась} генной инфекцией! Если заражение не остановить, {0_possessive} ждёт болезненная трансформация ксенотип заразившего.</VRE_GeneInfection.comps.2.discoverLetterText>
+  <VRE_GeneInfection.comps.2.discoverLetterText>{0} {0_gender ? заразился : заразилась} генной инфекцией! Если заражение не остановить, {0_possessive} ждёт болезненная трансформация ксенотип заразившего.</VRE_GeneInfection.comps.2.discoverLetterText>
   <!-- EN: minor -->
-	<VRE_GeneInfection.stages.0.label>начальная</VRE_GeneInfection.stages.0.label>
+  <VRE_GeneInfection.stages.0.label>начальная</VRE_GeneInfection.stages.0.label>
   <!-- EN: major -->
-	<VRE_GeneInfection.stages.1.label>умеренная</VRE_GeneInfection.stages.1.label>
+  <VRE_GeneInfection.stages.1.label>умеренная</VRE_GeneInfection.stages.1.label>
   <!-- EN: extreme -->
-	<VRE_GeneInfection.stages.2.label>сильная</VRE_GeneInfection.stages.2.label>
+  <VRE_GeneInfection.stages.2.label>сильная</VRE_GeneInfection.stages.2.label>
   <!-- EN: extreme -->
-	<VRE_GeneInfection.stages.3.label>экстремальная</VRE_GeneInfection.stages.3.label>
+  <VRE_GeneInfection.stages.3.label>экстремальная</VRE_GeneInfection.stages.3.label>
   <!-- EN: a gene infection -->
-	<VRE_GeneInfection.labelNoun>генная инфекция</VRE_GeneInfection.labelNoun>
+  <VRE_GeneInfection.labelNoun>генная инфекция</VRE_GeneInfection.labelNoun>
 
   <!-- EN: gene infected -->
-	<VRE_GeneInfected.label>инфицированные гены</VRE_GeneInfected.label>
+  <VRE_GeneInfected.label>инфицированные гены</VRE_GeneInfected.label>
   <!-- EN: This person was the victim of a gene infection that altered their xenotype. This can't be cured. -->
-	<VRE_GeneInfected.description>Жертва генной инфекции, изменившей её ксенотип. Неизлечимо.</VRE_GeneInfected.description>
+  <VRE_GeneInfected.description>Жертва генной инфекции, изменившей её ксенотип. Неизлечимо.</VRE_GeneInfected.description>
 </LanguageData>
