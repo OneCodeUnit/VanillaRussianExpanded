@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Archon adulthood backstories -->
+
+  <!-- EN: void strider -->
+  <VREA_VoidStrider.title>пустотный странник</VREA_VoidStrider.title>
+  <!-- EN: strider -->
+  <VREA_VoidStrider.titleShort>странник</VREA_VoidStrider.titleShort>
+  <!-- EN: [PAWN_nameDef] wandered the depths of the dimensionless void, harnessing the energies within. As one of the first to be reshaped by the archotech, [PAWN_pronoun] quickly mastered the art of capturing souls. -->
+  <VREA_VoidStrider.description>{PAWN_nameDef} {PAWN_gender ? бродил : бродила} в пустоте вне измерений, стремясь обуздать энергии, которыми наполнено место вне всяких мест. Будучи {PAWN_gender ? одним : одной} из первых, кого изменили архотеки, {PAWN_pronoun} быстро {PAWN_gender ? постиг : постигла} искусство захвата душ.</VREA_VoidStrider.description>
+
+  <!-- EN: dimensional smith -->
+  <VREA_DimensionalSmith.title>пространственный кузнец</VREA_DimensionalSmith.title>
+  <!-- EN: smith -->
+  <VREA_DimensionalSmith.titleShort>кузнец</VREA_DimensionalSmith.titleShort>
+  <!-- EN: [PAWN_nameDef] crafted weapons using the energies of the void. Forged from the very fabric of their dimension, [PAWN_pronoun] became a master of crafting the most lethal weapons for the Archons. -->
+  <VREA_DimensionalSmith.description>{PAWN_nameDef} {PAWN_gender ? создавал : создавала} оружие из энергии пустоты, используя саму ткань мироздания. Так со временем {PAWN_pronoun} {PAWN_gender ? стал : стала} мастером своего дела, создавая самое смертоносное оружие архонтов.</VREA_DimensionalSmith.description>
+
+  <!-- EN: void whisperer -->
+  <VREA_VoidWhisperer.title>шепчущий в пустоте</VREA_VoidWhisperer.title>
+  <!-- EN: whisperer -->
+  <VREA_VoidWhisperer.titleShort>шепчущий</VREA_VoidWhisperer.titleShort>
+  <!-- EN: [PAWN_nameDef] communicated with the archotech, channelling its intentions and translating them to the Archons. These communions took a toll, leaving [PAWN_objective] detached from the physical realm. -->
+  <VREA_VoidWhisperer.description>{PAWN_nameDef} {PAWN_gender ? общался : общалась} с архотеком, передавая его волю другим архонтам. {PAWN_objective} пришлось заплатить за это свою цену, пожертвовав частью связи с материальным миром.</VREA_VoidWhisperer.description>
+
+  <!-- EN: nexus guard -->
+  <VREA_NexusGuard.title>страж узла</VREA_NexusGuard.title>
+  <!-- EN: guard -->
+  <VREA_NexusGuard.titleShort>страж</VREA_NexusGuard.titleShort>
+  <!-- EN: Tasked with guarding the portals linking dimensions, [PAWN_nameDef] stood watch, ensuring no intruders threatened their realm and mastering both blade and bullet. -->
+  <VREA_NexusGuard.description>{PAWN_gender ? Ответственный : Ответственная} за охрану порталов между измерениями, {PAWN_nameDef} {PAWN_gender ? нёс : несла} службу, обеспечивая безопасность своего царства и оттачивая мастерство владения всеми видами оружия.</VREA_NexusGuard.description>
+
+  <!-- EN: astral hunter -->
+  <VREA_AstralHunter.title>астральный охотник</VREA_AstralHunter.title>
+  <!-- EN: hunter -->
+  <VREA_AstralHunter.titleShort>охотник</VREA_AstralHunter.titleShort>
+  <!-- EN: [PAWN_nameDef] prowled the stars, kidnapping beings from various planets. Skilled in stealth and surprise, [PAWN_pronoun] was the embodiment of fear for many civilizations. -->
+  <VREA_AstralHunter.description>{PAWN_nameDef} {PAWN_gender ? бродил : бродила} меж звёзд, похищая живых существ с самых разных миров. Умело используя элемент неожиданности и действуя скрытно, когда это требуется, {PAWN_pronoun} {PAWN_gender ? был : была} воплощением ужаса для многих цивилизаций.</VREA_AstralHunter.description>
+
+  <!-- EN: void philosopher -->
+  <VREA_VoidPhilosopher.title>пустотный философ</VREA_VoidPhilosopher.title>
+  <!-- EN: philosopher -->
+  <VREA_VoidPhilosopher.titleShort>философ</VREA_VoidPhilosopher.titleShort>
+  <!-- EN: Seeking answers within the endless void, [PAWN_nameDef] became a seeker of truths. Delving deep into existential questions, [PAWN_pronoun] sought to understand the Archons' place in the universe. -->
+  <VREA_VoidPhilosopher.description>В поисках ответов на экзистенциальные вопросы, {PAWN_nameDef} {PAWN_gender ? встал : встала} на путь искателя истины, став тем, кто задаёт вопросы бездне. Каждый день {PAWN_pronoun} {PAWN_gender ? посвящал : посвящала} тому, чтобы найти место архонтов во вселенной.</VREA_VoidPhilosopher.description>
+
+  <!-- EN: stellar agriculturist -->
+  <VREA_StellarAgriculturist.title>звёздный агротехник</VREA_StellarAgriculturist.title>
+  <!-- EN: agriculturist -->
+  <VREA_StellarAgriculturist.titleShort>агротехник</VREA_StellarAgriculturist.titleShort>
+  <!-- EN: [PAWN_nameDef] nurtured strange crops, born from the void's energies. With [PAWN_possessive] knowledge, Archon colonies thrived, drawing sustenance from the very fabric of their dimension. -->
+  <VREA_StellarAgriculturist.description>{PAWN_nameDef} {PAWN_gender ? выращивал : выращивала} причудливые растения, порождённые энергией бездны. Благодаря {PAWN_possessive} знаниям и навыкам, колонии архонтов процветали, получая пищу из самой ткани их измерения.</VREA_StellarAgriculturist.description>
+
+  <!-- EN: harmonic tuner -->
+  <VREA_HarmonicTuner.title>тональный архитектор</VREA_HarmonicTuner.title>
+  <!-- EN: tuner -->
+  <VREA_HarmonicTuner.titleShort>архитектор</VREA_HarmonicTuner.titleShort>
+  <!-- EN: [PAWN_nameDef] worked to maintain the balance of the Archons' dimension. Using unique instruments, [PAWN_pronoun] harmonized the energies, ensuring stability in their otherwise chaotic realm. -->
+  <VREA_HarmonicTuner.description>Используя особые инструменты и тайные практики, {PAWN_nameDef} {PAWN_gender ? поддерживал : поддерживала} гармонию и стабильность в своём неспокойном родном измерении.</VREA_HarmonicTuner.description>
+
+  <!-- EN: stellar cartographer -->
+  <VREA_StellarCartographer.title>звёздный картограф</VREA_StellarCartographer.title>
+  <!-- EN: cartographer -->
+  <VREA_StellarCartographer.titleShort>картограф</VREA_StellarCartographer.titleShort>
+  <!-- EN: In the vast expanses of the alternate dimension, [PAWN_nameDef] mapped the unseen energies and pathways. Every pulsar, every black hole, every nebula, [PAWN_pronoun] documented, ensuring the Archons never lost their way. -->
+  <VREA_StellarCartographer.description>{PAWN_nameDef} {PAWN_gender ? составлял : составляла} карту незримых путей и энергий, пронизывавших бескрайние просторы других измерений. Каждый пульсар, каждая чёрная дыра и туманность — всё это нужно было задокументировать, чтобы архонты никогда не сбивались с пути.</VREA_StellarCartographer.description>
+
+  <!-- EN: void harmonizer -->
+  <VREA_VoidHarmonizer.title>гармонизатор бездны</VREA_VoidHarmonizer.title>
+  <!-- EN: harmonizer -->
+  <VREA_VoidHarmonizer.titleShort>гармонизатор</VREA_VoidHarmonizer.titleShort>
+  <!-- EN: [PAWN_nameDef] was an artist of the ethereal, composing symphonies that resonated with the very fabric of the void. [PAWN_pronoun] brought solace and introspection to the Archons, connecting them to their lost past. -->
+  <VREA_VoidHarmonizer.description>{PAWN_nameDef} {PAWN_gender ? был : была} художником эфира, {PAWN_pronoun} {PAWN_gender ? создавал : создавала} симфонии, которые резонировали с самой тканью измерений. Так {PAWN_pronoun} {PAWN_gender ? приносил : приносила} успокоение и {PAWN_gender ? давал : давала} другим архонтам возможность заглянуть внутрь себя и прикоснуться к их утерянному прошлому.</VREA_VoidHarmonizer.description>
+
+  <!-- EN: ethereal agriculturist -->
+  <VREA_EtherealAgriculturist.title>эфирный аграрий</VREA_EtherealAgriculturist.title>
+  <!-- EN: agriculturist -->
+  <VREA_EtherealAgriculturist.titleShort>аграрий</VREA_EtherealAgriculturist.titleShort>
+  <!-- EN: On the spectral planes of their realm, [PAWN_nameDef] cultivated crops imbued with the energies of the void. [PAWN_pronoun] nourished the Archons, ensuring they had sustenance both physical and ethereal. -->
+  <VREA_EtherealAgriculturist.description>{PAWN_nameDef} {PAWN_gender ? выращивал : выращивала} сельхозкультуры на спектральных полях своего родного измерения. Эти растения, будучи напитанными энергией бездны, питали архонтов физически и ментально.</VREA_EtherealAgriculturist.description>
+
+  <!-- EN: dimensional philosopher -->
+  <VREA_DimensionalPhilosopher.title>философ измерений</VREA_DimensionalPhilosopher.title>
+  <!-- EN: philosopher -->
+  <VREA_DimensionalPhilosopher.titleShort>философ</VREA_DimensionalPhilosopher.titleShort>
+  <!-- EN: [PAWN_nameDef] pondered the existence of the Archons and the nature of their captivity. Through introspection and debate, [PAWN_pronoun] sought to uncover the purpose and meaning behind their existence. -->
+  <VREA_DimensionalPhilosopher.description>{PAWN_nameDef} {PAWN_gender ? раздумывал : раздумывала} над сложной природой архонтов и значением их существования. Путём дискуссий и самопознания {PAWN_pronoun} {PAWN_gender ? хотел : хотела} постичь их предназначение в жизни.</VREA_DimensionalPhilosopher.description>
+
+  <!-- EN: void mediator -->
+  <VREA_VoidMediator.title>посредник бездны</VREA_VoidMediator.title>
+  <!-- EN: mediator -->
+  <VREA_VoidMediator.titleShort>посредник</VREA_VoidMediator.titleShort>
+  <!-- EN: In a society of warriors and mystics, disputes were inevitable. [PAWN_nameDef] served as a mediator, employing deep understanding of Archon customs and the intricate dance of dimensional politics. -->
+  <VREA_VoidMediator.description>В обществе мистиков и воинов неизбежны конфликты. {PAWN_nameDef} {PAWN_gender ? выступал : выступала} посредником в таких конфликтах, используя своё понимание обычаев и премудростей политики общества, живущего за пределами измерений.</VREA_VoidMediator.description>
+
+  <!-- EN: void vanguard -->
+  <VREA_VoidVanguard.title>разведчик бездны</VREA_VoidVanguard.title>
+  <!-- EN: vanguard -->
+  <VREA_VoidVanguard.titleShort>разведчик</VREA_VoidVanguard.titleShort>
+  <!-- EN: [PAWN_nameDef] was among the first to breach portals into unknown dimensions. Leading the charge, [PAWN_pronoun] scouted hostile realms, ensuring a foothold for Archon forces that followed. -->
+  <VREA_VoidVanguard.description>{PAWN_nameDef} всегда {PAWN_gender ? был : была} в числе первых, кто выходил через порталы, ведущие в неизведанные измерения. Ступая во главе, {PAWN_pronoun} {PAWN_gender ? вёл : вела} разведку в чужих и враждебных землях, обеспечивая плацдарм для основных сил архонтов.</VREA_VoidVanguard.description>
+
+  <!-- EN: ethereal assassin -->
+  <VREA_EtherealAssassin.title>эфирный убийца</VREA_EtherealAssassin.title>
+  <!-- EN: assassin -->
+  <VREA_EtherealAssassin.titleShort>убийца</VREA_EtherealAssassin.titleShort>
+  <!-- EN: Moving silently through the void's shadows, [PAWN_nameDef] was an unseen threat. Trained to eliminate high-profile targets, [PAWN_pronoun] struck fear into the hearts of those who defied the Archons. -->
+  <VREA_EtherealAssassin.description>Бесшумно передвигаясь под покровом бездны, {PAWN_nameDef} {PAWN_gender ? был : была} незримой угрозой. Будучи {PAWN_gender ? натренированным : натренированной} на ликвидацию приоритетных целей, {PAWN_pronoun} {PAWN_gender ? вселял : вселяла} ужас в сердца тех, кто осмеливался не подчиниться архонтам.</VREA_EtherealAssassin.description>
+
+  <!-- EN: dimensional strategist -->
+  <VREA_DimensionalStrategist.title>пустотный стратег</VREA_DimensionalStrategist.title>
+  <!-- EN: strategist -->
+  <VREA_DimensionalStrategist.titleShort>стратег</VREA_DimensionalStrategist.titleShort>
+  <!-- EN: [PAWN_nameDef] excelled in the art of multi-dimensional warfare. Tasked with orchestrating vast invasions, [PAWN_pronoun] turned the tide of battles across countless realities. -->
+  <VREA_DimensionalStrategist.description>{PAWN_nameDef} {PAWN_gender ? возвысил : возвысила} военную науку до искусства, благодаря своему опыту ведения военных кампаний между различными измерениями. Планируя слаженные операции {PAWN_pronoun} {PAWN_gender ? поворачивал : поворачивала} ход битвы на бесчисленных полях сражений во множестве миров и реальностей.</VREA_DimensionalStrategist.description>
+
+  <!-- EN: warp bladesman -->
+  <VREA_WarpBladesman.title>мастер искажающего клинка</VREA_WarpBladesman.title>
+  <!-- EN: bladesman -->
+  <VREA_WarpBladesman.titleShort>мастер клинка</VREA_WarpBladesman.titleShort>
+  <!-- EN: [PAWN_nameDef] was a master of the warp blade, a weapon that cuts through dimensions. Honed by relentless training, [PAWN_pronoun] was unmatched in close-quarters combat. -->
+  <VREA_WarpBladesman.description>{PAWN_nameDef} в совершенстве {PAWN_gender ? освоил : освоила} навык владения искажающим клинком — оружием, которое при ударе рассекает саму ткань реальности. Оттачивая свои навыки в упорных тренировках, {PAWN_nameDef} {PAWN_gender ? достиг : достигла} непревзойдённого мастерства в ближнем бою.</VREA_WarpBladesman.description>
+
+  <!-- EN: voidshield guardian -->
+  <VREA_VoidshieldGuardian.title>страж пустоты</VREA_VoidshieldGuardian.title>
+  <!-- EN: guardian -->
+  <VREA_VoidshieldGuardian.titleShort>страж</VREA_VoidshieldGuardian.titleShort>
+  <!-- EN: Tasked with defending Archon strongholds, [PAWN_nameDef] wielded shields that absorbed the very energies of the void. Under [PAWN_possessive] watch, no enemy ever breached [PAWN_possessive] post. -->
+  <VREA_VoidshieldGuardian.description>{PAWN_gender ? Призванный : Призванная} защищать крепости архонтов, {PAWN_nameDef} {PAWN_gender ? носил : носила} щит, который поглощал саму сущность бездны. Под {PAWN_possessive} чутким оком ни один враг не мог пройти незамеченным.</VREA_VoidshieldGuardian.description>
+
+  <!-- EN: archohaven architect -->
+  <VREA_ArchohavenArchitect.title>архитектор архоприбежищ</VREA_ArchohavenArchitect.title>
+  <!-- EN: architect -->
+  <VREA_ArchohavenArchitect.titleShort>архитектор</VREA_ArchohavenArchitect.titleShort>
+  <!-- EN: Whispered legends tell of [PAWN_nameDef], a builder of the elusive archohavens. Using knowledge lost to most, [PAWN_pronoun] shaped gateways to realms unfathomable, cloaked in secrets even other Archons could scarcely grasp. -->
+  <VREA_ArchohavenArchitect.description>{PAWN_nameDef} — это имя, которое иногда встречается в легендах архонтов, оно всегда звучит в историях о неведомых архоприбежищах. Используя знания, потерянные для большинства, {PAWN_pronoun} {PAWN_gender ? создавал : создавала} проходы в непостижимые места, покрытые мраком тайны, непроницаемые даже для большинства других архонтов.</VREA_ArchohavenArchitect.description>
+
+  <!-- EN: dimensional warden -->
+  <VREA_DimensionalWarden.title>пространственный смотритель</VREA_DimensionalWarden.title>
+  <!-- EN: warden -->
+  <VREA_DimensionalWarden.titleShort>смотритель</VREA_DimensionalWarden.titleShort>
+  <!-- EN: Within the shimmering veils of the archohavens, [PAWN_nameDef] stood guard. Tasked with keeping the sanctity of these mysterious realms, [PAWN_pronoun] navigated the thin line between reality and the unimaginable, ensuring no unwanted entity could intrude. -->
+  <VREA_DimensionalWarden.description>Внутри сияющих покровов архоприбежищ несли службу пространственные смотрители, такие как {PAWN_nameDef}. Их задачей была охрана священного покоя этих таинственных мест. {PAWN_nameDef} {PAWN_gender ? перемещался : перемещалась} по тонкой грани между реальным и невообразимым, следя за тем, чтобы ни один незваный гость не проник в архоприбежище.</VREA_DimensionalWarden.description>
+
+  <!-- EN: void harmonizer -->
+  <VREA_VoidHarmonizer2.title>пустотный гармонизатор</VREA_VoidHarmonizer2.title>
+  <!-- EN: harmonizer -->
+  <VREA_VoidHarmonizer2.titleShort>гармонизатор</VREA_VoidHarmonizer2.titleShort>
+  <!-- EN: With a touch as light as a whisper, [PAWN_nameDef] maintained the delicate balance of the archohavens. [PAWN_pronoun] sang to the energies of the void, ensuring the portals remained stable and hidden, their locations a secret even to the stars themselves. -->
+  <VREA_VoidHarmonizer2.description>Невесомыми, словно перо, прикосновениями, {PAWN_nameDef} {PAWN_gender ? поддерживал : поддерживала} хрупкое равновесие архоприбежищ. {PAWN_possessive} пение направляло ветры энергий бездны, дабы порталы в другие миры оставались открытыми и стабильными, а их расположение было тайной для самих звёзд.</VREA_VoidHarmonizer2.description>
+
+  <!-- EN: eclipsed general -->
+  <VREA_EclipsedGeneral.title>генерал затмений</VREA_EclipsedGeneral.title>
+  <!-- EN: general -->
+  <VREA_EclipsedGeneral.titleShort>генерал</VREA_EclipsedGeneral.titleShort>
+  <!-- EN: From the void's darkest corner, [PAWN_nameDef] emerged, an unmatched tactician. [PAWN_pronoun] led legions of Archons in their most pivotal campaigns, always a shadowy figure on the battlefield, directing the dance of war with inscrutable brilliance. -->
+  <VREA_EclipsedGeneral.description>{PAWN_nameDef} {PAWN_gender ? вёл : вела} легионы архонтов от победы к победе, будучи непревзойдённым тактиком. Оставаясь незримой фигурой на поле боя, {PAWN_pronoun} с непревзойдённым мастерством {PAWN_gender ? направлял : направляла} свои армии к победе в самых важных битвах на десятках миров.</VREA_EclipsedGeneral.description>
+
+  <!-- EN: astral vanguard -->
+  <VREA_AstralVanguard.title>астральный передовик</VREA_AstralVanguard.title>
+  <!-- EN: vanguard -->
+  <VREA_AstralVanguard.titleShort>передовик</VREA_AstralVanguard.titleShort>
+  <!-- EN: [PAWN_nameDef] was the first into the fray and the last to retreat. As the leader of the Archon's elite vanguard, [PAWN_pronoun] carved paths through dimensions, leading the charge against insurmountable odds with unwavering resolve. -->
+  <VREA_AstralVanguard.description>{PAWN_nameDef} всегда {PAWN_gender ? был первым : была первой}, кто оказывался в гуще сражения и {PAWN_gender ? последним : последней}, кто оттуда уходил. Принадлежа к военной элите архонтов, {PAWN_pronoun} {PAWN_gender ? прокладывал : прокладывала} свой путь через измерения, возглавляя атаки против превосходящих сил противника с несгибаемой решимостью.</VREA_AstralVanguard.description>
+
+  <!-- EN: celestial strategist -->
+  <VREA_CelestialStrategist.title>небесный стратег</VREA_CelestialStrategist.title>
+  <!-- EN: strategist -->
+  <VREA_CelestialStrategist.titleShort>стратег</VREA_CelestialStrategist.titleShort>
+  <!-- EN: Wielding knowledge from countless realms, [PAWN_nameDef] masterminded the Archons' grandest schemes. [PAWN_possessive] strategies were as intricate as constellations, leaving foes in awe and despair in equal measure. -->
+  <VREA_CelestialStrategist.description>Обладая багажом знаний, полученным из бесчисленного множества миров, {PAWN_nameDef} {PAWN_gender ? выстраивал : выстраивала} самые грандиозные планы архонтов. {PAWN_possessive} схемы и интриги были так же замысловаты, как танец самих созвездий, оставляя врагов в отчаянии и растерянности.</VREA_CelestialStrategist.description>
+
+  <!-- EN: void marauder -->
+  <VREA_VoidMarauder.title>пустотный мародёр</VREA_VoidMarauder.title>
+  <!-- EN: marauder -->
+  <VREA_VoidMarauder.titleShort>мародёр</VREA_VoidMarauder.titleShort>
+  <!-- EN: Leading from the front lines, [PAWN_nameDef] was a force of chaos amidst the Archon hierarchy. With a penchant for audacious assaults and a thirst for the thrill of battle, [PAWN_pronoun] spearheaded invasions that struck fear into the heart of galaxies. -->
+  <VREA_VoidMarauder.description>Подавая пример своим бойцам на передовой, {PAWN_nameDef} {PAWN_gender ? был : была} настоящим воплощением хаоса в иерархии архонтов. Обладая страстью к безбашенным вылазкам и жаждой битвы, {PAWN_gender ? он возглавлял : она возглавляла} вторжения, которые внушали ужас целым галактикам.</VREA_VoidMarauder.description>
+
+  <!-- EN: dimensional nomad -->
+  <VREA_DimensionalNomad.title>пространственный странник</VREA_DimensionalNomad.title>
+  <!-- EN: nomad -->
+  <VREA_DimensionalNomad.titleShort>странник</VREA_DimensionalNomad.titleShort>
+  <!-- EN: [PAWN_nameDef] wandered through dimensions, always seeking, always exploring. This endless journey instilled in [PAWN_objective] a keen sense of survival, a sharp mind, and unparalleled adaptability. -->
+  <VREA_DimensionalNomad.description>{PAWN_nameDef} {PAWN_gender ? скитался : скиталась} меж измерений, всегда находясь в поисках, всегда исследуя. Бесконечное путешествие выработало у н{PAWN_possessive} инстинкт выживальщика, острый ум и непревзойдённую способность приспосабливаться.</VREA_DimensionalNomad.description>
+
+  <!-- EN: harmonic artisan -->
+  <VREA_HarmonicArtisan.title>гармонический ремесленник</VREA_HarmonicArtisan.title>
+  <!-- EN: artisan -->
+  <VREA_HarmonicArtisan.titleShort>ремесленник</VREA_HarmonicArtisan.titleShort>
+  <!-- EN: With a deep connection to the cosmic energies, [PAWN_nameDef] crafted artifacts of otherworldly beauty. [PAWN_possessive] works resonated with the essence of dimensions, requiring both artistry and intellect. -->
+  <VREA_HarmonicArtisan.description>Используя прочную связь с энергиями космоса, {PAWN_nameDef} {PAWN_gender ? создавал : создавала} предметы неземной красоты. {PAWN_possessive} работы резонировали с самой тканью мироздания, и требовали для создания сочетания из художественного видения и глубокого интеллекта.</VREA_HarmonicArtisan.description>
+
+  <!-- EN: omnipotent gardener -->
+  <VREA_OmnipotentGardener.title>всемогущий садовник</VREA_OmnipotentGardener.title>
+  <!-- EN: gardener -->
+  <VREA_OmnipotentGardener.titleShort>садовник</VREA_OmnipotentGardener.titleShort>
+  <!-- EN: [PAWN_nameDef] had a touch that could make even the most barren dimension bloom. [PAWN_possessive] knowledge of botany was unparalleled, as [PAWN_pronoun] cultivated plants that melded realities. -->
+  <VREA_OmnipotentGardener.description>{PAWN_nameDef} обладает талантом, который способен заставить цвести даже самое безжизненное измерение. {PAWN_possessive} познания в ботанике не имеют равных и {PAWN_pronoun} {PAWN_gender ? способен : способна} выращивать растения, которые связывают между собой разные миры.</VREA_OmnipotentGardener.description>
+
+  <!-- EN: celestial diplomat -->
+  <VREA_CelestialDiplomat.title>небесный дипломат</VREA_CelestialDiplomat.title>
+  <!-- EN: diplomat -->
+  <VREA_CelestialDiplomat.titleShort>дипломат</VREA_CelestialDiplomat.titleShort>
+  <!-- EN: [PAWN_nameDef] acted as the Archon's voice, negotiating with interdimensional beings. With every conversation, [PAWN_pronoun] masterfully balanced the scales between peace and power, securing the Archon's place in the cosmic order. -->
+  <VREA_CelestialDiplomat.description>{PAWN_nameDef} {PAWN_gender ? служил : служила} голосом для общества архонтов, ведя переговоры с существами из самых разных измерений. Каждый раз {PAWN_pronoun} мастерски {PAWN_gender ? выдерживал : выдерживала} баланс между силой и добродетелью, словом и делом защищая место архонтов в космосе.</VREA_CelestialDiplomat.description>
+
+  <!-- EN: void farmer -->
+  <VREA_VoidFarmer.title>пустотный фермер</VREA_VoidFarmer.title>
+  <!-- EN: farmer -->
+  <VREA_VoidFarmer.titleShort>фермер</VREA_VoidFarmer.titleShort>
+  <!-- EN: On the fringes of the Archon realm, [PAWN_nameDef] cultivated crops in the emptiness of the void. Harnessing the energies of the cosmos, [PAWN_pronoun] nourished and grew otherworldly flora with [PAWN_possessive] unique techniques. -->
+  <VREA_VoidFarmer.description>На окраинах владений архонтов, {PAWN_nameDef} {PAWN_gender ? выращивал : выращивала} растения в бездне. Обладая уникальными навыками, {PAWN_pronoun} {PAWN_gender ? обуздал : обуздала} вихри космической энергии, дабы выращивать и питать внеземную флору.</VREA_VoidFarmer.description>
+
+  <!-- EN: star whisperer -->
+  <VREA_StarWhisperer.title>шепчущий звёздам</VREA_StarWhisperer.title>
+  <!-- EN: whisperer -->
+  <VREA_StarWhisperer.titleShort>шепчущий</VREA_StarWhisperer.titleShort>
+  <!-- EN: Bound to the cosmos, [PAWN_nameDef] had a unique affinity for understanding celestial bodies. [PAWN_pronoun] communicated with stars, gleaning knowledge about the universe and its mysterious workings. -->
+  <VREA_StarWhisperer.description>Имея связь с космосом, {PAWN_nameDef} {PAWN_gender ? обладал : обладала} уникальной способностью к пониманию небесных тел. {PAWN_pronoun} {PAWN_gender ? общался : общалась} со звёздами, по крупицам собирая знания о вселенной и её скрытых механизмах.</VREA_StarWhisperer.description>
+
+  <!-- EN: dimensional artisan -->
+  <VREA_DimensionalArtisan.title>пространственный ремесленник</VREA_DimensionalArtisan.title>
+  <!-- EN: artisan -->
+  <VREA_DimensionalArtisan.titleShort>ремесленник</VREA_DimensionalArtisan.titleShort>
+  <!-- EN: [PAWN_nameDef] was revered as an architect of the abstract, bending the very fabric of dimensions to [PAWN_possessive] will. [PAWN_pronoun] constructed monuments that defied comprehension, merging beauty with function in unimaginable ways. -->
+  <VREA_DimensionalArtisan.description>{PAWN_nameDef} {PAWN_gender ? имел : имела} репутацию архитектора абстракций, сгибая саму ткань реальностей и подчиняя её своей воле. {PAWN_pronoun} {PAWN_gender ? создавал : создавала} непостижимые памятники архитектуры, сливая воедино функциональность и красоту самыми непредсказуемыми способами.</VREA_DimensionalArtisan.description>
+
+  <!-- EN: eltex scholar -->
+  <VREA_EltexScholar.title>ученый-эльтексовед</VREA_EltexScholar.title>
+  <!-- EN: scholar -->
+  <VREA_EltexScholar.titleShort>учёный</VREA_EltexScholar.titleShort>
+  <!-- EN: From a young age, [PAWN_nameDef] was obsessed with the mysteries of eltex. [PAWN_pronoun] dedicated [PAWN_possessive] life to studying its properties and potential applications, becoming one of the foremost experts in its psychic-enhancing capabilities. -->
+  <VREA_EltexScholar.description>С юных лет {PAWN_nameDef} {PAWN_gender ? был одержим : была одержима} тайной эльтекса. {PAWN_pronoun} {PAWN_gender ? посвятил : посвятила} свою жизнь изучению свойств этого материала и его применению, став одним из ведущих экспертов в этом вопросе.</VREA_EltexScholar.description>
+
+  <!-- EN: eltex alchemist -->
+  <VREA_EltexAlchemist.title>эльтексный алхимик</VREA_EltexAlchemist.title>
+  <!-- EN: alchemist -->
+  <VREA_EltexAlchemist.titleShort>алхимик</VREA_EltexAlchemist.titleShort>
+  <!-- EN: Using advanced techniques, [PAWN_nameDef] learned to harness and refine eltex into potent concoctions. These brews could amplify psychic abilities or be used as valuable trade items, making [PAWN_nameDef] sought after in various dimensions. -->
+  <VREA_EltexAlchemist.description>Используя продвинутые методы, {PAWN_nameDef} {PAWN_gender ? смог : смогла} использовать псионический потенциал эльтекса для создания сильнодействующих препаратов. Эти зелья способны усиливать пси-способности, из-за чего они пользуются спросом на любом рынке, так что {PAWN_possessive} услуги всегда востребованы.</VREA_EltexAlchemist.description>
+
+  <!-- EN: eltex hunter -->
+  <VREA_EltexHunter.title>охотник на эльтекс</VREA_EltexHunter.title>
+  <!-- EN: hunter -->
+  <VREA_EltexHunter.titleShort>охотник</VREA_EltexHunter.titleShort>
+  <!-- EN: [PAWN_nameDef] had a rare gift - the innate ability to sense eltex across dimensions. As an eltex hunter, [PAWN_pronoun] journeyed through unstable realities, braving unimaginable dangers to retrieve this invaluable resource for the Archons. -->
+  <VREA_EltexHunter.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась} с редким даром — способностью ощущать эльтекс в других измерениях. {PAWN_pronoun} {PAWN_gender ? охотился : охотилась} за этим бесценным материалом, путешествуя по нестабильным реальностям, подвергаясь невообразимым опасностям, чтобы обеспечить им других архонтов.</VREA_EltexHunter.description>
+
+  <!-- EN: psy-lord -->
+  <VREA_ArchonPsyLord.title>пси-лорд</VREA_ArchonPsyLord.title>
+  <!-- EN: psy-lord -->
+  <VREA_ArchonPsyLord.titleShort>пси-лорд</VREA_ArchonPsyLord.titleShort>
+  <!-- EN: As a Psy-Lord, [PAWN_nameDef] wielded an unparalleled mastery over psychic energies. [PAWN_pronoun] trained legions of Archons in the ancient arts, and with a mere thought, [PAWN_pronoun] could reshape realities or bend minds to [PAWN_possessive] will. -->
+  <VREA_ArchonPsyLord.description>Будучи пси-лордом, {PAWN_nameDef} {PAWN_gender ? достиг : достигла} непревзойдённого мастерства в искусстве управления психическими энергиями. {PAWN_pronoun} {PAWN_gender ? обучал : обучала} легионы архонтов древним и тайным знаниям, и {PAWN_gender ? способен : способна} перекраивать реальность и подчинять себе умы других людей усилием воли.</VREA_ArchonPsyLord.description>
+
+  <!-- EN: mindweaver -->
+  <VREA_ArchonMindweaver.title>ткач разума</VREA_ArchonMindweaver.title>
+  <!-- EN: mindweaver -->
+  <VREA_ArchonMindweaver.titleShort>ткач разума</VREA_ArchonMindweaver.titleShort>
+  <!-- EN: [PAWN_nameDef] delved deep into the intricacies of the psyche. As a Mindweaver, [PAWN_pronoun] had the unique ability to weave thoughts, memories, and emotions, creating intricate tapestries of perception that could enthrall or terrify. -->
+  <VREA_ArchonMindweaver.description>{PAWN_nameDef} {PAWN_gender ? погрузился : погрузилась} в премудрости разума. Будучи ткачом разума, {PAWN_pronoun} обладает уникальной способностью к тому, чтобы вплетать в полотно восприятия новые нити воспоминаний, мыслей и эмоций, подчиняя себе других, или внушая им ужас.</VREA_ArchonMindweaver.description>
+
+  <!-- EN: dreamseer -->
+  <VREA_ArchonDreamseer.title>сновидец</VREA_ArchonDreamseer.title>
+  <!-- EN: dreamseer -->
+  <VREA_ArchonDreamseer.titleShort>сновидец</VREA_ArchonDreamseer.titleShort>
+  <!-- EN: [PAWN_nameDef] was a Dreamseer, an elite psycaster who ventured into the dreamscape. Navigating the ephemeral realms of dream and thought, [PAWN_pronoun] could uncover secrets, deliver messages, or implant suggestions deep within the subconscious mind. -->
+  <VREA_ArchonDreamseer.description>{PAWN_nameDef} принадлежит к Сновидцам — элите псиоников, которые путешествуют по плану снов. Проделывая путь по эфемерным просторам мыслей и снов, {PAWN_pronoun} {PAWN_gender ? мог : могла} раскрывать секреты, доставлять сообщения и внедрять идеи глубоко в подсознание дремлющего разума.</VREA_ArchonDreamseer.description>
+
+
+  <!-- Archon childhood backstories -->
+
+  <!-- EN: dreamchild -->
+  <VREA_ArchonDreamchild.title>дитя снов</VREA_ArchonDreamchild.title>
+  <!-- EN: dreamchild -->
+  <VREA_ArchonDreamchild.titleShort>дитя снов</VREA_ArchonDreamchild.titleShort>
+  <!-- EN: From a young age, [PAWN_nameDef] displayed an innate ability to navigate the ethereal realms of dreams. Elders nurtured [PAWN_possessive] gift, teaching [PAWN_objective] to interpret omens and converse with spirits in the dreamscape. -->
+  <VREA_ArchonDreamchild.description>С самого юного возраста {PAWN_nameDef} {PAWN_gender ? демонстрировал : демонстрировала} способность к путешествиям по эфемерным владениям грёз. Старейшины помогали {PAWN_objective} взрастить {PAWN_possessive} дар, обучая правильному толкованию знамений и тому, как общаться с духами в мире снов.</VREA_ArchonDreamchild.description>
+
+  <!-- EN: voidwalker initiate -->
+  <VREA_ArchonVoidwalker.title>бездноход-неофит</VREA_ArchonVoidwalker.title>
+  <!-- EN: initiate -->
+  <VREA_ArchonVoidwalker.titleShort>неофит</VREA_ArchonVoidwalker.titleShort>
+  <!-- EN: Exhibiting an uncanny attraction to the void, [PAWN_nameDef] would often wander off to remote, void-touched places. These early experiences imbued [PAWN_objective] with a profound connection to the vast unknown. -->
+  <VREA_ArchonVoidwalker.description>Обладая пугающей тягой к бездне, {PAWN_nameDef} часто {PAWN_gender ? уходил : уходила} в отдалённые места, затронутые бездной. Так, {PAWN_pronoun} {PAWN_gender ? обрёл : обрела} устойчивую связь с неведомым и непостижимым.</VREA_ArchonVoidwalker.description>
+
+  <!-- EN: nexusborn -->
+  <VREA_ArchonNexusborn.title>связанный</VREA_ArchonNexusborn.title>
+  <!-- EN: nexusborn -->
+  <VREA_ArchonNexusborn.titleShort>связанный</VREA_ArchonNexusborn.titleShort>
+  <!-- EN: Birthed near a powerful Archon nexus, [PAWN_nameDef]'s form resonated with psychic energies. [PAWN_possessive] childhood was marked by heightened sensitivities and precognitive events, making [PAWN_objective] a prodigy among peers. -->
+  <VREA_ArchonNexusborn.description>Будучи {PAWN_gender ? рождённым : рождённой} вблизи от одного из псионических узлов архонтов, {PAWN_nameDef} с самого рождения {PAWN_gender ? находился : находилась} в резонансе с психическими энергиями окружавшими {PAWN_possessive}. Так, с самого детства {PAWN_pronoun} {PAWN_gender ? выделялся : выделялась} среди своих сверстников повышенной чувствительностью и способностями к предсказанию.</VREA_ArchonNexusborn.description>
+
+  <!-- EN: starwhisperer -->
+  <VREA_ArchonStarwhisperer.title>слышащий звёзды</VREA_ArchonStarwhisperer.title>
+  <!-- EN: starwhisperer -->
+  <VREA_ArchonStarwhisperer.titleShort>слышащий звёзды</VREA_ArchonStarwhisperer.titleShort>
+  <!-- EN: [PAWN_nameDef] grew up under the guidance of the Archon elders, who taught [PAWN_objective] to decipher the whispers of distant stars. [PAWN_pronoun] developed an astute sense of direction and an understanding of cosmic rhythms. -->
+  <VREA_ArchonStarwhisperer.description>{PAWN_nameDef} {PAWN_gender ? был воспитан : была воспитана} архонтами-старейшинами, которые научили {PAWN_possessive} слышать и понимать шёпот далёких звёзд. В дальнейшем у н{PAWN_possessive} развилось тонкое чувство направления и понимание космических ритмов.</VREA_ArchonStarwhisperer.description>
+
+  <!-- EN: novice caster -->
+  <VREA_ArchonNoviceCasterChild.title>начинающий псионик</VREA_ArchonNoviceCasterChild.title>
+  <!-- EN: novice -->
+  <VREA_ArchonNoviceCasterChild.titleShort>новичок</VREA_ArchonNoviceCasterChild.titleShort>
+  <!-- EN: [PAWN_nameDef] grew up in a secluded enclave of Archon psycasters. While [PAWN_pronoun] was not yet a master, [PAWN_pronoun] practiced regularly, showing promise in manipulating basic psychic forces. Games with peers often involved bending spoons or levitating objects. -->
+  <VREA_ArchonNoviceCasterChild.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в изолированным анклаве архонтов-псиоников. {PAWN_pronoun} регулярно {PAWN_gender ? тренировался : тренировалась}, демонстрируя значительные успехи в манипулировании основными психическими силами. {PAWN_nameDef} часто {PAWN_gender ? развлекался : развлекалась} со своими сверстниками, сгибая ложки или поднимая в воздух разнообразные предметы.</VREA_ArchonNoviceCasterChild.description>
+
+  <!-- EN: dimensional explorer -->
+  <VREA_ArchonChildExplorer.title>исследователь измерений</VREA_ArchonChildExplorer.title>
+  <!-- EN: explorer -->
+  <VREA_ArchonChildExplorer.titleShort>исследователь</VREA_ArchonChildExplorer.titleShort>
+  <!-- EN: From a young age, [PAWN_nameDef] was curious about the dimensional rifts surrounding Archon habitats. With friends, [PAWN_pronoun] would explore these pockets of reality, learning to navigate the unpredictable terrains and studying the unique flora and fauna. -->
+  <VREA_ArchonChildExplorer.description>С самых ранних лет своей жизни {PAWN_nameDef} {PAWN_gender ? интересовался : интересовалась} пространственными разломами, встречавшимися в местах проживания архонтов. Вместе со своими друзьями {PAWN_pronoun} исследовала эти участки реальности, в процессе изучая уникальную флору и фауну этих странных мест и осваивая навык ориентирования в непредсказуемых ландшафтах.</VREA_ArchonChildExplorer.description>
+
+  <!-- EN: star-child -->
+  <VREA_ArchonStarChild.title>звёздное дитя</VREA_ArchonStarChild.title>
+  <!-- EN: child -->
+  <VREA_ArchonStarChild.titleShort>дитя</VREA_ArchonStarChild.titleShort>
+  <!-- EN: Born amidst the swirling energies of a nebula, [PAWN_nameDef] was attuned to the cosmos from a young age. While other Archon children played in temporal realms, [PAWN_pronoun] gazed at stars, dreaming of distant galaxies and cosmic adventures. -->
+  <VREA_ArchonStarChild.description>Будучи {PAWN_gender ? рождённым : рождённой} среди завихрений туманности, {PAWN_nameDef} {PAWN_gender ? был настроен : была настроена} на космос с самого юного возраста. Когда другие архонты играли в местах, где время шло своим чередом, {PAWN_nameDef} {PAWN_gender ? проводил : проводила} время обратив взор к звёздам, мечтая о далёких галактиках и космических приключениях.</VREA_ArchonStarChild.description>
+
+  <!-- EN: voidrunner -->
+  <VREA_ArchonVoidrunner.title>бегущий в пустоте</VREA_ArchonVoidrunner.title>
+  <!-- EN: runner -->
+  <VREA_ArchonVoidrunner.titleShort>бегун</VREA_ArchonVoidrunner.titleShort>
+  <!-- EN: [PAWN_nameDef]'s early years were spent racing through the gaps between dimensions. A mischievous child, [PAWN_pronoun] would often slip through cracks in reality, leading [PAWN_possessive] peers on wild chases through time and space. -->
+  <VREA_ArchonVoidrunner.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} своё детство, развлекаясь межпространственными прыжками. Будучи шаловливым ребёнком, {PAWN_pronoun} часто {PAWN_gender ? перемещался : перемещалась} через разрывы в ткани реальности, увлекая своих сверстников в захватывающие приключения во времени и пространстве.</VREA_ArchonVoidrunner.description>
+
+  <!-- EN: nexus scholar -->
+  <VREA_ArchonNexusScholar.title>исследователь ядра</VREA_ArchonNexusScholar.title>
+  <!-- EN: scholar -->
+  <VREA_ArchonNexusScholar.titleShort>исследователь</VREA_ArchonNexusScholar.titleShort>
+  <!-- EN: As a nexus scholar, [PAWN_nameDef] spent [PAWN_possessive] formative years studying the ancient connections between dimensions. While [PAWN_possessive] curiosity often led [PAWN_objective] into trouble, it also forged a deep understanding of the Archon's cosmic realm. -->
+  <VREA_ArchonNexusScholar.description>Будучи исследователем ядра, {PAWN_nameDef} {PAWN_gender ? провёл : провела} ранние годы, изучая древние связи между измерениями. Хотя {PAWN_possessive} любопытство часто приводило {PAWN_possessive} к неприятностям, оно также способствовало развитию глубокого понимания космического царства архонтов.</VREA_ArchonNexusScholar.description>
+
+  <!-- EN: luminary's apprentice -->
+  <VREA_ArchonLuminaryApprentice.title>ученик светила</VREA_ArchonLuminaryApprentice.title>
+  <!-- EN: apprentice -->
+  <VREA_ArchonLuminaryApprentice.titleShort>ученик</VREA_ArchonLuminaryApprentice.titleShort>
+  <!-- EN: [PAWN_nameDef] was an apprentice to a luminary, helping with basic tasks in the luminary's workshop. [PAWN_pronoun] spent most days sorting crystals, cleaning tools, and occasionally assisting in simple experiments. -->
+  <VREA_ArchonLuminaryApprentice.description>{PAWN_nameDef} {PAWN_gender ? был : была} учеником у светила науки, помогая с простой работой в лаборатории. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} большую часть времени сортируя кристаллы, ухаживая за инструментами и изредка помогая в простых экспериментах.</VREA_ArchonLuminaryApprentice.description>
+
+  <!-- EN: dimensional farmer -->
+  <VREA_ArchonDimensionalFarmer.title>межпространственный фермер</VREA_ArchonDimensionalFarmer.title>
+  <!-- EN: farmer -->
+  <VREA_ArchonDimensionalFarmer.titleShort>фермер</VREA_ArchonDimensionalFarmer.titleShort>
+  <!-- EN: [PAWN_nameDef] grew up on a farm that produced trans-dimensional crops. [PAWN_pronoun] spent [PAWN_possessive] days tending to the crops and learning about the seasonal shifts in various dimensions. -->
+  <VREA_ArchonDimensionalFarmer.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} на ферме по выращиванию межпространственных сельскохозяйственных культур. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} время, ухаживая за посевами и изучая сезонные изменения в различных измерениях.</VREA_ArchonDimensionalFarmer.description>
+
+  <!-- EN: crystal carver -->
+  <VREA_ArchonCrystalCarver.title>резчик по кристаллам</VREA_ArchonCrystalCarver.title>
+  <!-- EN: carver -->
+  <VREA_ArchonCrystalCarver.titleShort>резчик</VREA_ArchonCrystalCarver.titleShort>
+  <!-- EN: From a young age, [PAWN_nameDef] learned the delicate art of carving intricate patterns into various crystals. The crystals were used in daily Archon life for both practical and decorative purposes. -->
+  <VREA_ArchonCrystalCarver.description>Ещё в юном возрасте {PAWN_nameDef} {PAWN_gender ? овладел : овладела} тонким искусством вырезания замысловатых узоров на различных кристаллах. Подобные кристаллы использовались в повседневной жизни архонтов как в практических, так и в декоративных целях.</VREA_ArchonCrystalCarver.description>
+
+  <!-- EN: strategy prodigy -->
+  <VREA_ArchonStrategyProdigy.title>стратегический гений</VREA_ArchonStrategyProdigy.title>
+  <!-- EN: prodigy -->
+  <VREA_ArchonStrategyProdigy.titleShort>стратег</VREA_ArchonStrategyProdigy.titleShort>
+  <!-- EN: [PAWN_nameDef]'s knack for tactics and strategy was evident from an early age. Admitted to a prestigious Archon military academy, [PAWN_pronoun] often played advanced war simulations against [PAWN_possessive] instructors. -->
+  <VREA_ArchonStrategyProdigy.description>Выдающиеся тактические и стратегические таланты {PAWN_nameDef} проявились с ранних лет. Попав в престижную военную академию, {PAWN_pronoun} часто {PAWN_gender ? тренировался : тренировалась} в военных симуляторах, сражаясь на равных с инструкторами.</VREA_ArchonStrategyProdigy.description>
+
+  <!-- EN: academy cadet -->
+  <VREA_ArchonCadet.title>курсант академии</VREA_ArchonCadet.title>
+  <!-- EN: cadet -->
+  <VREA_ArchonCadet.titleShort>курсант</VREA_ArchonCadet.titleShort>
+  <!-- EN: Even as a child, [PAWN_nameDef] was enrolled in one of the Archon's elite military academies. [PAWN_pronoun] learned discipline, basic combat techniques, and the importance of loyalty to the Archon cause. -->
+  <VREA_ArchonCadet.description>Ещё в детстве {PAWN_nameDef} {PAWN_gender ? был принят : была принята} в одну из элитных военных академий архонтов. Там {PAWN_pronoun} {PAWN_gender ? выработал : выработала} навык дисциплины и {PAWN_gender ? проникся : прониклась} преданностью целям архонтов.</VREA_ArchonCadet.description>
+</LanguageData>
