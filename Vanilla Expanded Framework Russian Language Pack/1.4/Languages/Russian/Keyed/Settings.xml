@@ -16,9 +16,9 @@
   <XPatchFound>Найдено {0} исправлений</XPatchFound>
 
   <!-- EN: >Weather damages -->
-	<VEF.WeatherDamages>Урон от погоды</VEF.WeatherDamages>
+  <VEF.WeatherDamages>Урон от погоды</VEF.WeatherDamages>
   <!-- EN: {0} -->
-	<VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
+  <VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
 
   <!-- EN: Faction Discovery -->
   <FDTitle>Обнаружение фракций</FDTitle>
@@ -37,38 +37,38 @@
   <!-- EN: Search:  -->
   <VEF.Shields.Search>Поиск: </VEF.Shields.Search>  
   <!-- EN: Reset mod settings to default -->
-	<VEF.Shields.ResetModSettingsToDefault>Сбросить настройки мода</VEF.Shields.ResetModSettingsToDefault>  
+  <VEF.Shields.ResetModSettingsToDefault>Сбросить настройки мода</VEF.Shields.ResetModSettingsToDefault>  
   <!-- EN: Set weapons to be usable or not usable with shields. -->
-	<VEF.Shields.ExplanationTitle>Отметить оружие доступным со щитами.</VEF.Shields.ExplanationTitle>  
+  <VEF.Shields.ExplanationTitle>Отметить оружие доступным со щитами.</VEF.Shields.ExplanationTitle>  
   <!-- EN: Show melee weapons -->
-	<VEF.Shields.ShowMeleeWeapons>Оружие ближнего боя</VEF.Shields.ShowMeleeWeapons>  
+  <VEF.Shields.ShowMeleeWeapons>Оружие ближнего боя</VEF.Shields.ShowMeleeWeapons>  
   <!-- EN: Show range weapons -->
-	<VEF.Shields.ShowRangeWeapons>Оружие дальнего боя</VEF.Shields.ShowRangeWeapons>
+  <VEF.Shields.ShowRangeWeapons>Оружие дальнего боя</VEF.Shields.ShowRangeWeapons>
 
   <!-- EN: Disable Texture Caching -->
   <VEF_DisableTextureCaching>Отключить кеширование текстур</VEF_DisableTextureCaching>
   <!-- EN: Enable PipeSystem no storage alert -->
-	<VEF_EnablePipeSystemNoStorageAlert>Включить сообщение PipeSystem об отсутствующем хранилище</VEF_EnablePipeSystemNoStorageAlert>
+  <VEF_EnablePipeSystemNoStorageAlert>Включить сообщение PipeSystem об отсутствующем хранилище</VEF_EnablePipeSystemNoStorageAlert>
   <!-- EN: Faction Discovery -->
-	<VEF_FactionDiscovery>Faction Discovery</VEF_FactionDiscovery>
+  <VEF_FactionDiscovery>Faction Discovery</VEF_FactionDiscovery>
   <!-- EN: Custom Structure Generation: -->
-	<VEF_CustomStructureGeneration>Генерация пользовательских структур:</VEF_CustomStructureGeneration>
+  <VEF_CustomStructureGeneration>Генерация пользовательских структур:</VEF_CustomStructureGeneration>
   <!-- EN: Texture Variations: -->
-	<VEF_TextureVariations>Варианты текстур:</VEF_TextureVariations>
+  <VEF_TextureVariations>Варианты текстур:</VEF_TextureVariations>
   <!-- EN: Verbose logging -->
-	<VEF_VerboseLogging>Подробный журнал</VEF_VerboseLogging>
+  <VEF_VerboseLogging>Подробный журнал</VEF_VerboseLogging>
   <!-- EN: Unforbid mined ores -->
-	<VEF_UnforbidMinedOres>Разрешать добытые руды</VEF_UnforbidMinedOres>
+  <VEF_UnforbidMinedOres>Разрешать добытые руды</VEF_UnforbidMinedOres>
   <!-- EN: Never -->
-	<VEF_Never>Нигде</VEF_Never>
+  <VEF_Never>Нигде</VEF_Never>
   <!-- EN: Home Area -->
-	<VEF_HomeArea>Домашняя область</VEF_HomeArea>
+  <VEF_HomeArea>Домашняя область</VEF_HomeArea>
   <!-- EN: Always -->
-	<VEF_Always>Везде</VEF_Always>
+  <VEF_Always>Везде</VEF_Always>
   <!-- EN: Never unforbid mined ores (this is how the base game works for non-human pawns, such as animals and mechs) -->
-	<VEF_NeverDesc>Нигде не разрешать добытую руду (так работает базовая игра для поселенцев не-людей, таких как животные и механоиды)</VEF_NeverDesc>
+  <VEF_NeverDesc>Нигде не разрешать добытую руду (так работает базовая игра для поселенцев не-людей, таких как животные и механоиды)</VEF_NeverDesc>
   <!-- EN: Ores mined by pawns are only unforbidden if mined in the home area -->
-	<VEF_HomeAreaDesc>Руда, добытая поселенцами, разрешена только если добыта в домашней области</VEF_HomeAreaDesc>
+  <VEF_HomeAreaDesc>Руда, добытая поселенцами, разрешена только если добыта в домашней области</VEF_HomeAreaDesc>
   <!-- EN: Ores mined by pawns are always unforbidden -->
-	<VEF_AlwaysDesc>Руда, добытая поселенцами, всегда разрешена</VEF_AlwaysDesc>
+  <VEF_AlwaysDesc>Руда, добытая поселенцами, всегда разрешена</VEF_AlwaysDesc>
 </LanguageData>

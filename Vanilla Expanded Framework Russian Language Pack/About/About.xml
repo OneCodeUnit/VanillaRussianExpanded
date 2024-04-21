@@ -13,14 +13,26 @@
   Присоединяйтесь к русскоязычному сообществу RimWorld команды VRE по ссылке https://discord.gg/fmW7hMB7Et
   Сообщать об ошибках и предлагать исправления лучше там.
   
-  Перевод содержит текст для Vanilla Textures Expanded.
+  Перевод содержит текст для Vanilla Textures Expanded и следующих модов:
+  - Sometimes Raids Go Wrong
+  - [NL] Facial Animation - WIP
+  - Colored deep resources
+  - Better ground-penetrating scanner
 </description>
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>VanillaExpanded.VTEXE</li>
+    <li>Nals.FacialAnimation</li>
+    <li>kikohi.BetterGroundPenetratingScanner</li>
+    <li>marvinkosh.sometimesraidsgowrong</li>
+    <li>kikohi.ColoredDeepResources</li>
   </loadAfter>
   <incompatibleWith>
     <li>Am.Rus.VEFCore</li>
     <li>Am.Rus.VTEXE</li>
+    <li>crtdgd.rutrans.ColoredDeepResources</li>
+    <li>RU.kikohi.BetterGroundPenetratingScanner</li>
+    <li>crtdgd.rutrans.FacialAnimation</li>
+    <li>Am.Rus.FacialAnimation</li>
   </incompatibleWith>
 </ModMetaData>
