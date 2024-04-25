@@ -1,0 +1,62 @@
+<LanguageData>
+  <!-- EN: Enable autumn leaf filth spawning. -->
+  <RG.SpawnAutumnLeaves>Появление осенних листьев</RG.SpawnAutumnLeaves>
+  <!-- EN: Enable aspen leaf spawning. -->
+  <RG.SpawnLeaves>Появление осиновых листьев</RG.SpawnLeaves>
+  <!-- EN: Cold fog -->
+  <RG.ColdFog>Холодный туман</RG.ColdFog>
+  <!-- EN: Ice layer -->
+  <RG.IceLayer>Ледяная корка</RG.IceLayer>
+  <!-- EN: Rain water puddles -->
+  <RG.RainWaterPuddles>Лужи дождевой воды</RG.RainWaterPuddles>
+  <!-- EN: Clean water puddles -->
+  <RG.RainCleanWaterPuddles>Убрать лужи</RG.RainCleanWaterPuddles>
+  <!-- EN: Fog velocity -->
+  <RG.FogVelocity>Скорость движения тумана</RG.FogVelocity>
+  <!-- EN: Fog temperature -->
+  <RG.FogTemp>Температура тумана</RG.FogTemp>
+  <!-- EN: Puddle spawn chance -->
+  <RG.PuddleChance>Вероятность появления луж</RG.PuddleChance>
+  <!-- EN: Spawn fogs on hot springs -->
+  <RG.SpawnFogOnHotSprings>Туман у горячих источников</RG.SpawnFogOnHotSprings>
+  <!-- EN: The dust devil has left the map. -->
+  <RG.SandDevilLeftTheMap>Песчаный вихрь покинул территорию.</RG.SandDevilLeftTheMap>
+  <!-- EN: The dust devil has dissipated. -->
+  <RG.SandDevilDissipated>Песчаный вихрь рассеялся.</RG.SandDevilDissipated>
+  <!-- EN: Disable hail damage -->
+  <RG.DisableHailDamage>Отключить урон от града</RG.DisableHailDamage>
+  <!-- EN: Bathing zone -->
+  <RG.BatheZone>Зона для купания</RG.BatheZone>
+  <!-- EN: Create a zone where your colonists are allowed to bathe in water. -->
+  <RG.DesignatorBatheZoneDesc>Определите место, где ваши поселенцы смогут принимать водные процедуры.</RG.DesignatorBatheZoneDesc>
+  <!-- EN: {PAWN_nameDef} stopped bathing. Reason: {1}. -->
+  <RG.StoppedBathingMessage>{PAWN_nameDef} больше не купается. Причина: {1}.</RG.StoppedBathingMessage>
+  <!-- EN: Temperature too low. -->
+  <RG.TooCold>Температура слишком низкая.</RG.TooCold>
+  <!-- EN: Temperature too high. -->
+  <RG.TooHot>Температура слишком высокая.</RG.TooHot>
+  <!-- EN: Bathing is not possible: {0} -->
+  <RG.BathingIsNotPossible>Купание невозможно: {0}</RG.BathingIsNotPossible>
+  <!-- EN: Bathing season is here! -->
+  <RG.BathingSeasonIsHere>Купальный сезон открыт!</RG.BathingSeasonIsHere>
+  <!-- EN: Bathing zone is removed. -->
+  <RG.BathingZoneRemoved>Зона для купания удалена.</RG.BathingZoneRemoved>
+  <!-- EN: Bathing period: {0}/{1} days ({2} - {3}) -->
+  <RG.BathingPeriod>Купальный сезон: {0}/{1} ({2} - {3}) дней</RG.BathingPeriod>
+  <!-- EN: {0} has died because of heat. -->
+  <RG.MessagePlantDiedOfHeat>Смерть {0} из-за высокой температуры.</RG.MessagePlantDiedOfHeat>
+  <!-- EN: Any items checked here will be altered. -->
+  <PerspectiveOres.Settings.Header>Все элементы, отмеченные здесь, будут изменены.</PerspectiveOres.Settings.Header>
+  <!-- EN: Enable the "Make Camp" feature -->
+  <RG.EnableMakeCamp>Включить функцию «Разбить лагерь»</RG.EnableMakeCamp>
+  <!-- EN: Toggle it to allow player caravans to set up temporary camps on the world map. -->
+  <RG.EnableMakeCampDesc>Включите эту опцию, чтобы разрешить караванам игрока разбивать временные лагеря на карте мира.</RG.EnableMakeCampDesc>
+  <!-- EN: Make camp -->
+  <RG.MakeCamp>Разбить лагерь</RG.MakeCamp>
+  <!-- EN: Make a temporary camp in this area. Your colonists will enter this area and you can forage, build simple structures, stage an attack or plan your next move. -->
+  <RG.MakeCampDesc>Организовать временный лагерь в этой зоне. Ваши поселенцы войдут в эту зону, и вы сможете добывать пищу, строить простые сооружения, организовывать нападение или планировать свои дальнейшие действия.</RG.MakeCampDesc>
+  <!-- EN: Camp map preservation period -->
+  <RG.PreserveSavedCamps>Период сохранения карты лагеря</RG.PreserveSavedCamps>
+  <!-- EN: After leaving your camp, the local map is saved for some time. This allows you to return if you forgot something, as well as prevents cheating. Adjust the preserve period after which the saved maps should be generated anew. -->
+  <RG.PreserveSavedCampsDesc>После выхода из лагеря его зона сохраняется на некоторое время. Это позволяет вернуться, если вы что-то забыли, а также предотвращает жульничество. Регулирует период сохранения, по истечении которого местность бывшего лагеря будет генерироваться заново.</RG.PreserveSavedCampsDesc>
+</LanguageData>
