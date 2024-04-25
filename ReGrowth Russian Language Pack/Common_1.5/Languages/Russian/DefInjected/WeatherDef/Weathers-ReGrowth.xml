@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--           EN: overcast -->
+  <RG_Overcast.label>пасмурно</RG_Overcast.label>
+  <!--                 EN: Clouds cover the skies, casting various shadows. -->
+  <RG_Overcast.description>Облака закрывают всё небо, но дождь не собирается.</RG_Overcast.description>
+  
+  <!--        EN: Breezy  -->
+  <RG_Windy.label>ветрено</RG_Windy.label>
+  <!--              EN: Consistent wind that reduces ranged weapon accuracy. -->
+  <RG_Windy.description>Постоянный ветер снижает точность стрельбы оружия.</RG_Windy.description>
+  
+  <!--          EN: drizzle -->
+  <RG_Drizzle.label>моросящий дождь</RG_Drizzle.label>
+  <!--                EN: Very light but prominent rain which slightly reduces ranged weapon accuracy and movement speed. -->
+  <RG_Drizzle.description>Очень слабый, но постоянный дождь, который немного снижает точность дальнобойного оружия и скорость передвижения.</RG_Drizzle.description>
+  
+  <!--          EN: monsoon -->
+  <RG_Monsoon.label>муссон</RG_Monsoon.label>
+  <!--                EN: Intense rainfall and strong winds, extinguishes fires and severely reduces ranged weapon accuracy and movement speed. -->
+  <RG_Monsoon.description>Комбинация из интенсивного дождя с сильным ветром, тушащая пожары, но сильно снижающая точность стрельбы и скорость передвижения.</RG_Monsoon.description>
+  <!--                                EN: Monsoon -->
+  <RG_Monsoon.modExtensions.0.letterTitle>Муссон</RG_Monsoon.modExtensions.0.letterTitle>
+  <!--                               EN: A seasonal prevailing wind bringing intense amounts of rainfall, severely affecting ranged weapon accuracy and movement speed, as well as extinguishing fires. -->
+  <RG_Monsoon.modExtensions.0.letterText>Сезонный сильный ветер, приносящий большое количество осадков, сильно влияя на точность стрельбы и скорость передвижения, но также с лёгкостью тушащий пожары.</RG_Monsoon.modExtensions.0.letterText>
+  
+  <!--           EN: fog storm -->
+  <RG_FogStorm.label>туманная буря</RG_FogStorm.label>
+  <!--                 EN: Rolling fog and heavy wind reduces the accuracy of ranged weapons. -->
+  <RG_FogStorm.description>Клубящийся туман и сильный ветер снижают точность стрельбы.</RG_FogStorm.description>
+  
+  <!--            EN: foggy snow -->
+  <RG_FoggySnow.label>туманный снегопад</RG_FoggySnow.label>
+  <!--                  EN: Heavy snow with fog that reduces ranged weapon accuracy, extinguishes fires and reduces movement speed. -->
+  <RG_FoggySnow.description>Сильный снег с туманом, который снижает точность дальнобойного оружия, тушит пожары и снижает скорость передвижения.</RG_FoggySnow.description>
+  
+  <!--           EN: blizzard -->
+  <RG_Blizzard.label>метель</RG_Blizzard.label>
+  <!--                 EN: Severe snowstorm with high winds, reduces ranged weapon accuracy and movement speed. -->
+  <RG_Blizzard.description>Комбинация из снежной метели с сильным ветром, снижает точность дальнобойного оружия и скорость передвижения.</RG_Blizzard.description>
+  <!--                                 EN: Blizzard -->
+  <RG_Blizzard.modExtensions.0.letterTitle>Метель</RG_Blizzard.modExtensions.0.letterTitle>
+  <!--                                EN: A severe snowstorm combined with high winds can be deadly to those without proper clothing, heavily affecting both ranged weapon accuracy and movement speed. -->
+  <RG_Blizzard.modExtensions.0.letterText>Сильная метель в сочетании с сильным ветром может быть смертельно опасна для тех, кто не имеет подходящей одежды, сильно влияя на точность стрельбы и скорость передвижения.</RG_Blizzard.modExtensions.0.letterText>
+  
+  <!--                 EN: foggy sandstorm -->
+  <RG_FoggySandstorm.label>туманная песчаная буря</RG_FoggySandstorm.label>
+  <!--                       EN: Winds carrying clouds of sand and fog, reducing movement speed and limiting ranged weapon accuracy. -->
+  <RG_FoggySandstorm.description>Ветер поднимает и разносит песок в тумане, создавая плотную завесу, мешающую стрельбе.</RG_FoggySandstorm.description>
+  
+  <!--            EN: sandstorm -->
+  <RG_SandStorm.label>песчаная буря</RG_SandStorm.label>
+  <!--                  EN: Strong winds carrying clouds of sand, reduces ranged weapon accuracy and movement speed. -->
+  <RG_SandStorm.description>Сильный ветер, несущий клубы песка, снижает точность дальнобойного оружия и скорость передвижения.</RG_SandStorm.description>
+  
+  <!--                EN: hard sandstorm -->
+  <RG_FogStorm.label>туманный шторм</RG_FogStorm.label>
+  <!--                      EN: Harsh gales carrying clouds of sand, limits ranged weapon accuracy and movement speed. -->
+  <RG_SandStormHard.description>Суровые шквалы ветра, несущие клубы песка, ограничивают точность дальнобойного оружия и скорость передвижения.</RG_SandStormHard.description>
+</LanguageData>

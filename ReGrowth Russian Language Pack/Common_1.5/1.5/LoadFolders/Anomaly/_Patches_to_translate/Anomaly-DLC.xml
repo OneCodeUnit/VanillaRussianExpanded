@@ -1,0 +1,14 @@
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/EntityCodexEntryDef[defName="HarbingerTree"]/label</xpath>
+				<value>
+					<label>предвестники</label>
+				</value>
+			</li>
+
+		</operations>
+	</Operation>
+</Patch>

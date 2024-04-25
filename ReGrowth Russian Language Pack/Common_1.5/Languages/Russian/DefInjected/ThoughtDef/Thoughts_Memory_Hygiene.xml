@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--                        EN: bathed in marsh -->
+  <RG_BathingMarsh.stages.0.label>купание в марше</RG_BathingMarsh.stages.0.label>
+  <!--                              EN: I took a relaxing bath in a marsh. -->
+  <RG_BathingMarsh.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в марше.</RG_BathingMarsh.stages.0.description>
+  
+  <!--                        EN: bathed in water -->
+  <RG_BathingWater.stages.0.label>купание в воде</RG_BathingWater.stages.0.label>
+  <!--                              EN: I took a relaxing bath, that always lifts the spirits. -->
+  <RG_BathingWater.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись. Это всегда поднимает настроение.</RG_BathingWater.stages.0.description>
+  
+  <!--                        EN: bathed in ocean -->
+  <RG_BathingOcean.stages.0.label>купание в море</RG_BathingOcean.stages.0.label>
+  <!--                              EN: I took a relaxing bath in the ocean. Really helps to forget all the troubles of the day for a bit. -->
+  <RG_BathingOcean.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в море. Это действительно помогает ненадолго забыть обо всех проблемах.</RG_BathingOcean.stages.0.description>
+  
+  <!--                            EN: bathed in hot spring -->
+  <RG_HotSpringBathing.stages.0.label>купание в горячем источнике</RG_HotSpringBathing.stages.0.label>
+  <!--                                  EN: I took a relaxing bath in a warm hot spring. There is nothing quite like it. -->
+  <RG_HotSpringBathing.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в горячем источнике. Это ни с чем не сравнимое удовольствие.</RG_HotSpringBathing.stages.0.description>
+  
+  <!--                        EN: bathed in toxic waste -->
+  <RG_WasteBathing.stages.0.label>купание в луже с химикатами</RG_WasteBathing.stages.0.label>
+  <!--                              EN: I took a bath in toxic waste. Absolutely disgusting, I feel dirty. -->
+  <RG_WasteBathing.stages.0.description>Я {PAWN_gender ? отдохнул : отдохнула}, искупавшись в токсичных отходах. Отвратительный опыт.</RG_WasteBathing.stages.0.description>
+</LanguageData>

@@ -1,0 +1,24 @@
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>RimJobWorld</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="HumpShroom"]/label</xpath>
+					<value>
+						<label>хампокус</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="PlantHumpShroom"]/label</xpath>
+					<value>
+						<label>хампокус</label>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--                      EN: mushroom cultivation -->
+  <RG_MushroomCultivation.label>выращивание грибов</RG_MushroomCultivation.label>
+  <!--                            EN: Cultivate and grow mushrooms. -->
+  <RG_MushroomCultivation.description>Методы культивации и выращивания диких грибов.</RG_MushroomCultivation.description>
+  <!-- EN: 
+		<li>subject->mushroom cultivation</li>
+		<li>subject_story->harnessed the forest's hidden bounty, elevating their tribe's nutrition and medicine</li>
+		<li>subject_story->mastered the art of the spore, leading to a revolution in sustainable food sources</li>
+		<li>subject_story->explored the mystical properties of fungi, intertwining their culture with the sacred mycelium</li>
+		<li>subject_gerund->cultivating mushrooms</li>
+		<li>subject_gerund->growing your mushroom</li>
+   -->
+  <RG_MushroomCultivation.generalRules.rulesStrings>
+		<li>subject->выращивание грибов</li>
+		<li>subject_story->{PAWN gender ? освоил : освоила} скрытые богатства леса, расширив возможности племени в вопросах питания и медицины</li>
+		<li>subject_story->{PAWN gender ? овладел : овладела} мастерством спорообразования, что привело к революции в области экологически стабильных источников пищи</li>
+		<li>subject_story->{PAWN gender ? исследовал : исследовала} мистические свойства грибов, связав свою культуру со священным мицелием</li>
+		<li>subject_gerund->культивирует грибы</li>
+		<li>subject_gerund->выращивает грибы</li>
+  </RG_MushroomCultivation.generalRules.rulesStrings>
+  
+  <!--                   EN: berry cultivation -->
+  <RG_BerryCultivation.label>выращивание ягод</RG_BerryCultivation.label>
+  <!--                         EN: Cultivate and grow berry bushes. -->
+  <RG_BerryCultivation.description>Методы культивации и выращивания кустов с дикими ягодами.</RG_BerryCultivation.description>
+  <!-- EN: 
+		<li>subject->agriculture</li>
+		<li>subject_story->uncovered the secrets of wild berry bushes, fostering the community's first steps towards agriculture</li>
+		<li>subject_story->led the tribe from nomadic wanderers to settled cultivators, revered for their lush berry groves</li>
+		<li>subject_story->brokered peace through the shared cultivation and exchange of berries, uniting neighboring tribes</li>
+		<li>subject_gerund->growing berries</li>
+   -->
+  <RG_BerryCultivation.generalRules.rulesStrings>
+		<li>subject->агрономия</li>
+		<li>subject_story->{PAWN gender ? раскрыл : раскрыла} секреты диких ягодных кустов, дав толчок первым шагам общины к развитию сельского хозяйства</li>
+		<li>subject_story->{PAWN gender ? привел : привела} колонию от кочевых странников к оседлым земледельцам, почитаемым за их пышные ягодные рощи</li>
+		<li>subject_story->{PAWN gender ? установил : установила} мир благодаря совместному выращиванию и обмену ягодами, объединив соседские племена</li>
+		<li>subject_gerund->выращивает ягоды</li>
+  </RG_BerryCultivation.generalRules.rulesStrings>
+</LanguageData>

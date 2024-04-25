@@ -1,0 +1,700 @@
+<Patch>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>True</defaultValue>
+		<label>Increase vanilla plant density</label>
+		<tooltip>Делает все биомы более густонасыщенными растениями. Влияет на производительность только на слабых устройствах. Все моды «ReGrowth» построены с учетом того, что эта опция включена.</tooltip>
+		<id>RG_IncreaseVanillaPlantDensity</id>
+		<category>RG_Core</category>
+		<order>0</order>
+		<operations>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "BorealForest"]/plantDensity</xpath>
+				<value>
+					<plantDensity>1.0</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "Tundra"]/plantDensity</xpath>
+				<value>
+					<plantDensity>0.6</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "ColdBog"]/plantDensity</xpath>
+				<value>
+					<plantDensity>0.6</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "AridShrubland"]/plantDensity</xpath>
+				<value>
+					<plantDensity>0.72</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "Desert"]/plantDensity</xpath>
+				<value>
+					<plantDensity>0.45</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "ExtremeDesert"]/plantDensity</xpath>
+				<value>
+					<plantDensity>0.008</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "TropicalRainforest"]/plantDensity</xpath>
+				<value>
+					<plantDensity>1.85</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "TropicalSwamp"]/plantDensity</xpath>
+				<value>
+					<plantDensity>1.90</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "TemperateForest"]/plantDensity</xpath>
+				<value>
+					<plantDensity>0.9</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "RG_TemperateGrassland"]/plantDensity</xpath>
+				<value>
+					<plantDensity>1.5</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/BiomeDef[defName = "TemperateSwamp"]/plantDensity</xpath>
+				<value>
+					<plantDensity>1.8</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace" MayRequire="ReGrowth.BOTR.AspenForest">
+				<xpath>/Defs/BiomeDef[defName = "RG_AspenForest"]/plantDensity</xpath>
+				<value>
+					<plantDensity>1.0</plantDensity>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace" MayRequire="ReGrowth.BOTR.BoilingForest">
+				<xpath>/Defs/BiomeDef[defName = "RG_BoilingForest"]/plantDensity</xpath>
+				<value>
+					<plantDensity>1.2</plantDensity>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>True</defaultValue>
+		<label>Включить появление осенних листьев</label>
+		<tooltip>Включает появление осенних листьев на деревьях.</tooltip>
+		<id>RG_EnableAutumnLeavesSpawners</id>
+		<category>RG_Core</category>
+		<order>10</order>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName = "Plant_TreeOak"]</xpath>
+				<value>
+					<comps>
+						<li Class="CompProperties_Spawner">
+							<compClass>ReGrowthCore.CompAutumnLeavesSpawner</compClass>
+							<thingToSpawn>RG_Filth_LeavesTreeOak</thingToSpawn>
+							<spawnCount>1</spawnCount>
+							<spawnIntervalRange>3000~8000</spawnIntervalRange>
+							<spawnMaxAdjacent>3</spawnMaxAdjacent>
+							<saveKeysPrefix>leaves</saveKeysPrefix>
+						</li>
+					</comps>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName = "Plant_TreePoplar"]</xpath>
+				<value>
+					<comps>
+						<li Class="CompProperties_Spawner">
+							<compClass>ReGrowthCore.CompAutumnLeavesSpawner</compClass>
+							<thingToSpawn>RG_Filth_LeavesTreePopolar</thingToSpawn>
+							<spawnCount>1</spawnCount>
+							<spawnIntervalRange>3000~8000</spawnIntervalRange>
+							<spawnMaxAdjacent>3</spawnMaxAdjacent>
+							<saveKeysPrefix>leaves</saveKeysPrefix>
+						</li>
+					</comps>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName = "Plant_TreeBirch"]</xpath>
+				<value>
+					<comps>
+						<li Class="CompProperties_Spawner">
+							<compClass>ReGrowthCore.CompAutumnLeavesSpawner</compClass>
+							<thingToSpawn>RG_Filth_LeavesTreeBirch</thingToSpawn>
+							<spawnCount>1</spawnCount>
+							<spawnIntervalRange>3000~8000</spawnIntervalRange>
+							<spawnMaxAdjacent>3</spawnMaxAdjacent>
+							<saveKeysPrefix>leaves</saveKeysPrefix>
+						</li>
+					</comps>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName = "Plant_TreeMaple"]</xpath>
+				<value>
+					<comps>
+						<li Class="CompProperties_Spawner">
+							<compClass>ReGrowthCore.CompAutumnLeavesSpawner</compClass>
+							<thingToSpawn>RG_Filth_LeavesTreeOak</thingToSpawn>
+							<spawnCount>1</spawnCount>
+							<spawnIntervalRange>3000~8000</spawnIntervalRange>
+							<spawnMaxAdjacent>3</spawnMaxAdjacent>
+							<saveKeysPrefix>leaves</saveKeysPrefix>
+						</li>
+					</comps>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>True</defaultValue>
+		<label>Включить изменённую перспективу деревьев</label>
+		<tooltip>Включает изменённую отрисовку слоя деревьев, чтобы предметы/обломки/персонажи отображались за ними. Работает с большинством модов, добавляющих деревья. Повторяет мод  «Perspective: Trees» от Owlchemist.</tooltip>
+		<id>RG_DisablePerspectiveTrees</id>
+		<category>RG_Core</category>
+		<order>15</order>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[@Name="TreeBase"]/altitudeLayer</xpath>
+				<value>
+					<altitudeLayer>Pawn</altitudeLayer>
+				</value>
+			</li>
+			<li MayRequire="ludeon.rimworld.ideology" Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName="Plant_TreeGauranlen"]/comps/li[@Class="CompProperties_TreeConnection"]/spawningPodOffset</xpath>
+				<value>
+					
+					<spawningPodOffset>(-0.15, 3.2, -0.55)</spawningPodOffset>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Отключить тумана от горячих источников</label>
+		<tooltip>Отключает появление клубов тумана от горячих источниках.</tooltip>
+		<id>RG_DisableHotspringMotes</id>
+		<category>RG_Core</category>
+		<order>20</order>
+		<operations>
+			<li Class="PatchOperationRemove">
+				<xpath>/Defs/VFECore.ActiveTerrainDef[defName = "RG_HotSpring" or defName="RG_HotSpringDeep"]/terrainComps/li[@Class="VFECore.TerrainCompProperties_MoteSpawner"]</xpath>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Отключить свечение и нагрев от лавы</label>
+		<tooltip>Отключает свечение и нагревание лавового рельефа.</tooltip>
+		<id>RG_DisableLavaFeatures</id>
+		<category>RG_Core</category>
+		<order>30</order>
+		<operations>
+			<li Class="PatchOperationRemove">
+				<xpath>/Defs/VFECore.ActiveTerrainDef[defName = "RG_Lava"]/terrainComps/li[@Class="VFECore.TerrainCompProperties_HeatPush"]</xpath>
+			</li>
+			<li Class="PatchOperationRemove">
+				<xpath>/Defs/VFECore.ActiveTerrainDef[defName = "RG_Lava"]/terrainComps/li[@Class="VFECore.TerrainCompProperties_Glower"]</xpath>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>True</defaultValue>
+		<label>Включить реалистичное размещение фракций</label>
+		<tooltip>Запретить фракциям размещаться в экстремальных биомах, таких как ледники или пустыни, если для этого нет логичного обоснования. Это может привести к проблемам на маленьких картах мира.</tooltip>
+		<id>RG_RealisticFactionPlacement</id>
+		<category>RG_Core</category>
+		<order>40</order>
+		<operations>
+			<li Class="PatchOperationAddModExtension">
+				<xpath>Defs/FactionDef[defName="OutlanderCivil" or defName="OutlanderRough"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAddModExtension">
+				<xpath>Defs/FactionDef[defName="TribeCivil" or defName="TribeRough" or defName="TribeSavage"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAddModExtension">
+				<xpath>Defs/FactionDef[defName="Pirate"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Royalty">
+				<xpath>Defs/FactionDef[defName="Empire"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Biotech">
+				<xpath>Defs/FactionDef[defName="OutlanderRoughPig"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Biotech">
+				<xpath>Defs/FactionDef[defName="TribeRoughNeanderthal"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>TropicalRainforest</li>
+							<li>TropicalSwamp</li>
+							<li>Desert</li>
+							<li>ExtremeDesert</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Biotech">
+				<xpath>Defs/FactionDef[defName="TribeSavageImpid"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>BorealForest</li>
+							<li>Tundra</li>
+							<li>ColdBog</li>
+							<li MayRequire="ReGrowth.BOTR.AspenForest">RG_AspenForest</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Biotech">
+				<xpath>Defs/FactionDef[defName="PirateWaster"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension" MayRequire="ReGrowth.BOTR.Wastelands">
+						<allowedBiomes>
+							<li>RG_TemperateWasteland</li>
+							<li>RG_FrigidWasteland</li>
+							<li>RG_AridWasteland</li>
+						</allowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAttributeAdd" MayRequire="Ludeon.RimWorld.Biotech">
+				<xpath>Defs/FactionDef[defName="PirateWaster"]/modExtensions</xpath>
+				<attribute>Inherit</attribute>
+				<value>False</value>
+			</li>
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Biotech">
+				<xpath>Defs/FactionDef[defName="PirateYttakin"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>Desert</li>
+							<li>AridShrubland</li>
+							<li>ExtremeDesert</li>
+							<li>TropicalRainforest</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Ideology">
+				<xpath>Defs/FactionDef[defName="NudistTribe"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>BorealForest</li>
+							<li>Tundra</li>
+							<li>ColdBog</li>
+							<li MayRequire="ReGrowth.BOTR.AspenForest">RG_AspenForest</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAddModExtension" MayRequire="Ludeon.RimWorld.Ideology">
+				<xpath>Defs/FactionDef[defName="TribeCannibal"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="OskarPotocki.VanillaFactionsExpanded.SettlersModule">
+				<xpath>Defs/FactionDef[@Name="SettlerFactionBase"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="OskarPotocki.VFE.Pirates">
+				<xpath>Defs/FactionDef[defName="VFEP_Junkers"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li>TemperateSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAddModExtension" MayRequire="OskarPotocki.VFE.Pirates">
+				<xpath>Defs/FactionDef[defName="VFEP_Mercenaries"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="RimEffect.Core">
+				<xpath>Defs/FactionDef[@Name="RE_AllianceFactionBase"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li>TemperateSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="RimEffect.AsariReapers">
+				<xpath>Defs/FactionDef[@Name="RE_AsariFactionBase"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li>TemperateSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Neronix17.OuterRim.GalacticRepublic">
+				<xpath>Defs/FactionDef[defName="OuterRim_GalacticRepublic"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Neronix17.OuterRim.OldRepublic">
+				<xpath>Defs/FactionDef[defName="OuterRim_OldRepublic" or defName="OuterRim_SithEmpire"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Neronix17.OuterRim.Mandalore">
+				<xpath>Defs/FactionDef[defName="OuterRim_DeathWatch"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Neronix17.OuterRim.Csilla">
+				<xpath>Defs/FactionDef[defName="OuterRim_ChissAscendancy"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Neronix17.OuterRim.RebelAlliance">
+				<xpath>Defs/FactionDef[defName="OuterRim_RebelAlliance"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAddModExtension" MayRequire="Neronix17.OuterRim.GalacticEmpire">
+				<xpath>Defs/FactionDef[defName="OuterRim_GalacticEmpire"]</xpath>
+				<value>
+					<li Class="VFECore.FactionDefExtension">
+						<disallowedBiomes>
+							<li>IceSheet</li>
+							<li>SeaIce</li>
+							<li>ExtremeDesert</li>
+							<li>ColdBog</li>
+							<li>TropicalSwamp</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_TemperateWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_FrigidWasteland</li>
+							<li MayRequire="ReGrowth.BOTR.Wastelands">RG_AridWasteland</li>
+						</disallowedBiomes>
+					</li>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Сделать древо души пригодным для пересадки</label>
+		<tooltip>Позволяет пересаживать древо души. Может привести к ошибкам, если используется с другим модом, который делает то же самое.</tooltip>
+		<id>RG_AnimaTreeReplant</id>
+		<category>RG_Core</category>
+		<order>50</order>
+		<mods>
+			<li>Royalty</li>
+		</mods>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="Plant_TreeAnima"]/minifiedDef</xpath>
+				<value>
+					<minifiedDef>MinifiedTree</minifiedDef>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Сделать древо Гауранлен пригодным для пересадки</label>
+		<tooltip>Позволяет пересаживать древо Гауранлен. Может привести к ошибкам, если используется с другим модом, который делает то же самое.</tooltip>
+		<id>RG_GauranlenTreeReplant</id>
+		<category>RG_Core</category>
+		<order>60</order>
+		<mods>
+			<li>Ideology</li>
+		</mods>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="Plant_TreeGauranlen"]/minifiedDef</xpath>
+				<value>
+					<minifiedDef>MinifiedTree</minifiedDef>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Сделать древо Поллукса пригодным для пересадки</label>
+		<tooltip>Позволяет пересаживать древо Поллукса. Может привести к ошибкам, если используется с другим модом, который делает то же самое.</tooltip>
+		<id>RG_PoluxTreeReplant</id>
+		<category>RG_Core</category>
+		<order>61</order>
+		<mods>
+			<li>Biotech</li>
+		</mods>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="Plant_TreePolux"]/minifiedDef</xpath>
+				<value>
+					<minifiedDef>MinifiedTree</minifiedDef>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Сделать древо-предвестник пригодным для пересадки</label>
+		<tooltip>Позволяет пересаживать древо-предвестник. Может привести к ошибкам, если используется с другим модом, который делает то же самое.</tooltip>
+		<id>RG_HarbingerTreeReplant</id>
+		<category>RG_Core</category>
+		<order>62</order>
+		<mods>
+			<li>Anomaly</li>
+		</mods>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="Plant_TreeHarbinger"]/minifiedDef</xpath>
+				<value>
+					<minifiedDef>MinifiedTree</minifiedDef>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>
