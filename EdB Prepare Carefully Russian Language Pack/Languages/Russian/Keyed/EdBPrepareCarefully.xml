@@ -246,6 +246,8 @@
 	<EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>Стоимость: {0}</EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>
   <!-- EN: Default -->
 	<EdB.PC.Equipment.AvailableEquipment.DefaultSpawnTypeOption>По умолчанию</EdB.PC.Equipment.AvailableEquipment.DefaultSpawnTypeOption>
+  <!-- EN: Default -->
+  <EdB.PC.Equipment.AvailableEquipment.DefaultStyleOption>По умолчанию</EdB.PC.Equipment.AvailableEquipment.DefaultStyleOption>
   <!-- EN: Gender: -->
 	<EdB.PC.Equipment.AvailableEquipment.GenderLabel>Пол:</EdB.PC.Equipment.AvailableEquipment.GenderLabel>
   <!-- EN: Hit Points: -->
@@ -258,6 +260,8 @@
 	<EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>Случайный питомец</EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>
   <!-- EN: Spawn Type: -->
 	<EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>Тип появления:</EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>
+  <!-- EN: Style: -->
+  <EdB.PC.Equipment.AvailableEquipment.StyleLabel>Стиль:</EdB.PC.Equipment.AvailableEquipment.StyleLabel>
 
   <!-- EN: You've spent too many points. -->
   <EdB.PC.Error.NotEnoughPoints>Вы потратили слишком много очков.</EdB.PC.Error.NotEnoughPoints>
@@ -421,6 +425,9 @@ Disable point limits to prepare your starting colonists with no limitations.
   <EdB.PC.Panel.Age.Biological>Биологический возраст</EdB.PC.Panel.Age.Biological>
   <!-- EN: Chronological Age -->
   <EdB.PC.Panel.Age.Chronological>Хронологический возраст</EdB.PC.Panel.Age.Chronological>
+
+  <!-- EN: This character is restricted from wearing apparel -->
+  <EdB.PC.Panel.Apparel.ApparelLocked>Этот персонаж не может носить одежду</EdB.PC.Panel.Apparel.ApparelLocked>
 
   <!-- EN: Cannot wear the selected {0} with the following apparel: -->
   <EdB.PC.Panel.Appearance.ApparelConflict.Description>Нельзя надеть {0} с этой одеждой:</EdB.PC.Panel.Appearance.ApparelConflict.Description>
