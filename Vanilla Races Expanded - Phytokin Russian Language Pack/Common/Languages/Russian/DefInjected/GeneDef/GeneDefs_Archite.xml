@@ -4,6 +4,13 @@
   <VRE_Photosynthesis.label>фотосинтез</VRE_Photosynthesis.label>
   <!-- EN: Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight. -->
   <VRE_Photosynthesis.description>Носители этого гена способны преобразовывать энергию света в химическую энергию благодаря особой генетической структуре их кожи. Их степень голода не меняется, пока они находятся под солнечными лучами.</VRE_Photosynthesis.description>
+
+  <!-- EN: photo -->
+  <VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>фото</VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: synthesis -->
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>синтетик</VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: plant -->
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>древ</VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>
   
   
   <!-- EN: saplingbirth -->
@@ -15,8 +22,15 @@
 	
 	Planting a saplingchild makes the pawn temporarily infertile.
   -->
-  <VRE_SaplingBirth.customEffectDescriptions.0>Посадка саженецев-потомоков вместо беременности и живорождения.</VRE_SaplingBirth.customEffectDescriptions.0>
-  <VRE_SaplingBirth.customEffectDescriptions.1>Посадка саженца-потомока делает персонажа временно бесплодным.</VRE_SaplingBirth.customEffectDescriptions.1>
+  <VRE_SaplingBirth.customEffectDescriptions.0>Посадка саженецев-потомков вместо беременности и живорождения.</VRE_SaplingBirth.customEffectDescriptions.0>
+  <VRE_SaplingBirth.customEffectDescriptions.1>Посадка саженца-потомка делает персонажа временно бесплодным.</VRE_SaplingBirth.customEffectDescriptions.1>
+  
+  <!-- EN: sapling -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>саженце</VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: spawn -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>росто</VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: seed -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>зелено</VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>
   
   
   <!-- EN: polux affinity -->
@@ -31,4 +45,9 @@
   <VRE_PoluxAffinity.resourceLabel>отходы</VRE_PoluxAffinity.resourceLabel>
   <!-- EN: A need by {PAWN_nameDef} to consume wastepacks -->
   <VRE_PoluxAffinity.resourceDescription>У {PAWN_nameDef} есть потребность поглощать отходы</VRE_PoluxAffinity.resourceDescription>
+  
+  <!-- EN: pol -->
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>поллуксо</VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: polux -->
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>поллукс</VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>
 </LanguageData>
