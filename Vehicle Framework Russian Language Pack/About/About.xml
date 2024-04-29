@@ -1,0 +1,20 @@
+<ModMetaData>
+	<name>Vehicle Framework Russian Language Pack</name>
+	<author>Mewn Goddess, Grim Cheese</author>
+	<packageId>Mewn.Rus.VehicleFramework</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>SmashPhil.VehicleFramework</packageId>
+			<displayName>Vehicle Framework</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3014915404</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>SmashPhil.VehicleFramework</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Vehicle Framework. Подробности ищите на странице в мастерской.</description>
+</ModMetaData>
