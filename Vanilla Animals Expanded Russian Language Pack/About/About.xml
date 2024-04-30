@@ -4,15 +4,16 @@
   <author>Mewn Goddess</author>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <packageId>Mewn.RU.ANIMALS</packageId>
-  <description>Перевод на русский язык всех модулей серии Vanilla Animals Expanded.</description>
+  <description>Перевод на русский язык всех модулей серии Vanilla Animals Expanded. Подробности ищите на странице в мастерской.</description>
   <loadAfter>
     <li>VanillaExpanded.VAERoy</li>
     <li>VanillaExpanded.VAECaves</li>
     <li>VanillaExpanded.VAEEndAndExt</li>
     <li>VanillaExpanded.VanillaAnimalsExpanded</li>
-	<li>VanillaExpanded.VAEWaste</li>
+    <li>VanillaExpanded.VAEWaste</li>
   </loadAfter>
   <incompatibleWith>
     <li>Inoshishi3.VAE.RusPatch</li>
