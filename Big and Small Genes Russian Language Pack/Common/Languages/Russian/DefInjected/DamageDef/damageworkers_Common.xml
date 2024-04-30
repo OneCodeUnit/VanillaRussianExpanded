@@ -14,4 +14,9 @@
   <BS_AcidBuildUpDmg.label>кислота</BS_AcidBuildUpDmg.label>
   <!-- EN: {0} has melted to death. -->
   <BS_AcidBuildUpDmg.deathMessage>{PAWN_nameDef} {PAWN_gender ? сгорел : сгорела} заживо.</BS_AcidBuildUpDmg.deathMessage>
+
+  <!-- EN: bite -->
+  <BS_AcidBuildUpDmg.label>укус</BS_AcidBuildUpDmg.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <BS_AcidBuildUpDmg.deathMessage>{PAWN_nameDef} {PAWN_gender ? растерзан : растерзана}.</BS_AcidBuildUpDmg.deathMessage>
 </LanguageData>

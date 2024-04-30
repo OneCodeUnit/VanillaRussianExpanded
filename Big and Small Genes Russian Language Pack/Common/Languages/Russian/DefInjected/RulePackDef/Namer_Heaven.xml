@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>r_name->[firstName] [lastName]</li>
+  -->
+  <BS_HeavenNamer.rulePack.rulesStrings>
+    <li>r_name->[firstName] [lastName]</li>
+  </BS_HeavenNamer.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>firstName->[firstNamePrefix][firstNameSuffix]</li>
+
+    <li>firstNamePrefix->mich</li>
+    <li>firstNamePrefix->gab</li>
+    <li>firstNamePrefix->raph</li>
+    <li>firstNamePrefix->zad</li>
+    <li>firstNamePrefix->ar</li>
+    <li>firstNamePrefix->val</li>
+    <li>firstNamePrefix->zel</li>
+    <li>firstNamePrefix->syl</li>
+    <li>firstNamePrefix->fen</li>
+    <li>firstNamePrefix->nix</li>
+    <li>firstNamePrefix->ver</li>
+    <li>firstNamePrefix->jere</li>
+    <li>firstNamePrefix->ra</li>
+    <li>firstNamePrefix->ang</li>
+    <li>firstNamePrefix->az</li>
+    <li>firstNamePrefix->natha</li>
+    <li>firstNamePrefix->luc</li>
+    <li>firstNamePrefix->jes</li>
+  
+    <li>firstNameSuffix->ael</li>
+    <li>firstNameSuffix->riel</li>
+    <li>firstNameSuffix->iel</li>
+    <li>firstNameSuffix->ion</li>
+    <li>firstNameSuffix->us</li>
+    <li>firstNameSuffix->ius</li>
+    <li>firstNameSuffix->elius</li>
+    <li>firstNameSuffix->eon</li>
+    <li>firstNameSuffix->aris</li>
+    <li>firstNameSuffix->ius</li>
+    <li>firstNameSuffix->anis</li>
+    <li>firstNameSuffix->miel</li>
+    <li>firstNameSuffix->hael</li>
+  -->
+
+  <BS_HeavenFirstName.rulePack.rulesStrings>
+    <li>firstName->[firstNamePrefix][firstNameSuffix]</li>
+
+    <li>firstNamePrefix->мих</li>
+    <li>firstNamePrefix->габ</li>
+    <li>firstNamePrefix->раф</li>
+    <li>firstNamePrefix->зад</li>
+    <li>firstNamePrefix->ар</li>
+    <li>firstNamePrefix->вал</li>
+    <li>firstNamePrefix->яель</li>
+    <li>firstNamePrefix->силь</li>
+    <li>firstNamePrefix->фен</li>
+    <li>firstNamePrefix->никс</li>
+    <li>firstNamePrefix->вер</li>
+    <li>firstNamePrefix->джере</li>
+    <li>firstNamePrefix->ра</li>
+    <li>firstNamePrefix->анг</li>
+    <li>firstNamePrefix->аз</li>
+    <li>firstNamePrefix->нафа</li>
+    <li>firstNamePrefix->лук</li>
+    <li>firstNamePrefix->джез</li>
+  
+    <li>firstNameSuffix->аэль</li>
+    <li>firstNameSuffix->риэль</li>
+    <li>firstNameSuffix->эль</li>
+    <li>firstNameSuffix->ион</li>
+    <li>firstNameSuffix->ас</li>
+    <li>firstNameSuffix->юс</li>
+    <li>firstNameSuffix->эус</li>
+    <li>firstNameSuffix->ион</li>
+    <li>firstNameSuffix->арис</li>
+    <li>firstNameSuffix->иус</li>
+    <li>firstNameSuffix->анрис</li>
+    <li>firstNameSuffix->миль</li>
+    <li>firstNameSuffix->хэль</li>
+  </BS_HeavenFirstName.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>lastName->[lastNamePrefix][lastNameSuffix]</li>
+    <li>lastName->[lastNameFull]</li>
+
+    <li>lastNamePrefix->god-</li>
+    <li>lastNamePrefix->holy-</li>
+    <li>lastNamePrefix->morning</li>
+    <li>lastNamePrefix->dawn</li>
+    <li>lastNamePrefix->pure</li>
+    <li>lastNamePrefix->zeal</li>
+    <li>lastNamePrefix->light</li>
+    <li>lastNamePrefix->bright</li>
+    <li>lastNamePrefix->end</li>
+    <li>lastNamePrefix->hearth</li>
+
+    <li>lastNameSuffix->star</li>
+    <li>lastNameSuffix->sun</li>
+    <li>lastNameSuffix->sword</li>
+    <li>lastNameSuffix->radience</li>
+    <li>lastNameSuffix->heart</li>
+    <li>lastNameSuffix->borne</li>
+    <li>lastNameSuffix->wing</li>
+    <li>lastNameSuffix->faith</li>
+    <li>lastNameSuffix->maker</li>
+    <li>lastNameSuffix->bringer</li>
+    <li>lastNameSuffix->smiter</li>
+    <li>lastNameSuffix->glory</li>
+    <li>lastNameSuffix->war</li>
+    <li>lastNameSuffix->voice</li>
+    <li>lastNameSuffix->speaker</li>
+    <li>lastNameSuffix->bestower</li>
+    <li>lastNameSuffix->lord</li>
+    <li>lastNameSuffix->hallow</li>
+
+    <li>lastNameFull->glory</li>
+    <li>lastNameFull->salvation</li>
+    <li>lastNameFull->light</li>
+    <li>lastNameFull->radience</li>
+    <li>lastNameFull->celestine</li>
+    <li>lastNameFull->elysian</li>
+    <li>lastNameFull->bliss</li>
+    <li>lastNameFull->lumines</li>
+    <li>lastNameFull->ethereal</li>
+    <li>lastNameFull->justice</li>
+    <li>lastNameFull->judgement</li>
+    <li>lastNameFull->law</li>
+    <li>lastNameFull->absolute</li>
+    <li>lastNameFull->fortitude</li>
+    <li>lastNameFull->charity</li>
+    <li>lastNameFull->faith</li>
+    <li>lastNameFull->conviction</li>
+    <li>lastNameFull->diligence</li>
+    <li>lastNameFull->temperance</li>
+    <li>lastNameFull->soberiety</li>
+    <li>lastNameFull->chastity</li>
+    <li>lastNameFull->jihad</li>
+    <li>lastNameFull->concord</li>
+    <li>lastNameFull->patience</li>
+    <li>lastNameFull->humility</li>
+    <li>lastNameFull->pride</li>
+    <li>lastNameFull->gloria</li>
+    <li>lastNameFull->purity</li>
+    <li>lastNameFull->crusade</li>
+    <li>lastNameFull->martyr</li>
+    <li>lastNameFull->lightbringer</li>
+    <li>lastNameFull->salvation</li>
+    <li>lastNameFull->prosperity</li>
+    <li>lastNameFull->enlightment</li>
+    <li>lastNameFull->kadosh</li>
+    <li>lastNameFull->solemn</li>
+  -->
+
+  <BS_HeavenLastName.rulePack.rulesStrings>
+    <li>lastName->[lastNamePrefix][lastNameSuffix]</li>
+    <li>lastName->[lastNameFull]</li>
+
+    <li>lastNamePrefix->бого</li>
+    <li>lastNamePrefix->свято</li>
+    <li>lastNamePrefix->утро</li>
+    <li>lastNamePrefix->рассветно</li>
+    <li>lastNamePrefix->чисто</li>
+    <li>lastNamePrefix->усердно</li>
+    <li>lastNamePrefix->свето</li>
+    <li>lastNamePrefix->светло</li>
+    <li>lastNamePrefix->конечно</li>
+    <li>lastNamePrefix->сердечно</li>
+
+    <li>lastNameSuffix->звезда</li>
+    <li>lastNameSuffix->солнце</li>
+    <li>lastNameSuffix->меч</li>
+    <li>lastNameSuffix->сияние</li>
+    <li>lastNameSuffix->сердце</li>
+    <li>lastNameSuffix->рождение</li>
+    <li>lastNameSuffix->крыло</li>
+    <li>lastNameSuffix->вера</li>
+    <li>lastNameSuffix->создатель</li>
+    <li>lastNameSuffix->сиятель</li>
+    <li>lastNameSuffix->сминатель</li>
+    <li>lastNameSuffix->слава</li>
+    <li>lastNameSuffix->война</li>
+    <li>lastNameSuffix->глас</li>
+    <li>lastNameSuffix->глашатай</li>
+    <li>lastNameSuffix->даритель</li>
+    <li>lastNameSuffix->лорд</li>
+    <li>lastNameSuffix->святитель</li>
+
+    <li>lastNameFull->славный</li>
+    <li>lastNameFull->светлый</li>
+    <li>lastNameFull->сияющий</li>
+    <li>lastNameFull->божественный</li>
+    <li>lastNameFull->райский</li>
+    <li>lastNameFull->блаженный</li>
+    <li>lastNameFull->светлый</li>
+    <li>lastNameFull->неземной</li>
+    <li>lastNameFull->справедливость</li>
+    <li>lastNameFull->судия</li>
+    <li>lastNameFull->закон</li>
+    <li>lastNameFull->абсолют</li>
+    <li>lastNameFull->мужество</li>
+    <li>lastNameFull->благотворительность</li>
+    <li>lastNameFull->вера</li>
+    <li>lastNameFull->убеждение</li>
+    <li>lastNameFull->усердие</li>
+    <li>lastNameFull->умеренность</li>
+    <li>lastNameFull->трезвость</li>
+    <li>lastNameFull->целомудрие</li>
+    <li>lastNameFull->джихад</li>
+    <li>lastNameFull->согласие</li>
+    <li>lastNameFull->спокойствие</li>
+    <li>lastNameFull->смирение</li>
+    <li>lastNameFull->гордость</li>
+    <li>lastNameFull->глория</li>
+    <li>lastNameFull->чистота</li>
+    <li>lastNameFull->крестоносец</li>
+    <li>lastNameFull->мученик</li>
+    <li>lastNameFull->светоносец</li>
+    <li>lastNameFull->спасение</li>
+    <li>lastNameFull->процветание</li>
+    <li>lastNameFull->просветитель</li>
+    <li>lastNameFull->кадош</li>
+    <li>lastNameFull->салем</li>
+  </BS_HeavenLastName.rulePack.rulesStrings>
+</LanguageData>
