@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+		questName->Grandball delayed reward
+  -->
+  <VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
+		<li>questName->Отсроченная награда за большой бал</li>
+  </VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
+  <!-- EN: 
+		questDescription->a delayed reward for grand ball quest
+  -->
+  <VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
+		<li>questDescription->отсроченная награда за задание с проведением большого бала</li>
+  </VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN: 
+		rewardLetterLabel->Noble's Gift
+		rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] grand ball for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]
+  -->
+  <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
+		<li>rewardLetterLabel->Подарок дворянина</li>
+		<li>rewardLetterText->[rewardGiver_nameDef] связывается с вами. [rewardDelayTicks_duration] назад вы организовали для н[rewardGiver_possessive] большой бал.\n\nПосле безопасного возвращения домой, [rewardGiver_pronoun] желает вознаградить вас. [rewardGiver_pronoun] отправляет вам капсулу со следующим содержимым:\n\n[listOfRewards]</li>
+  </VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
+  <!-- EN: 
+		questName->Art Exhibit delayed reward
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
+		<li>questName->Отсроченная награда за выставку</li>
+  </VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
+  <!-- EN: 
+		questDescription->a delayed reward for art exhibit quest
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
+		<li>questDescription->отсроченная награда за задание с проведением выставки</li>
+  </VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN: 
+		rewardLetterLabel->Noble's Gift
+		rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] art exhibit for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
+		<li>rewardLetterLabel->Подарок дворянина</li>
+		<li>rewardLetterText->[rewardGiver_nameDef] связывается с вами. [rewardDelayTicks_duration] назад вы организовали для н[rewardGiver_possessive] художественную выставку.\n\nПосле безопасного возвращения домой, [rewardGiver_pronoun] желает вознаградить вас. [rewardGiver_pronoun] отправляет вам капсулу со следующим содержимым:\n\n[listOfRewards]</li>
+  </VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
+</LanguageData>

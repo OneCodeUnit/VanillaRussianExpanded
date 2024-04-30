@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: aperitif -->
+  <VFEE_Aperitif.label>аперитив</VFEE_Aperitif.label>
+  <!-- EN: A non-alcoholic, pleasantly light, citrusy and slightly bitter aperitif that owes its flavors and aromas to sweet and bitter oranges, rhubarb, and imperial craftsmanship. Drinking it induces heavy but painless vomiting, completely clearing the stomach and taste buds. Aperitif recipe is kept secret by the Hospitality guilds of the Empire, and noone was quite able to recreate this fine delicacy on the rimworld surface.\n\nImperial nobility loves aperitif for its ability to clear out food from the digestive system, allowing them to consume even more of the finest imperial food. -->
+  <VFEE_Aperitif.description>Приятно лёгкий, безалкогольный аперитив. Создаётся по имперским технологиям из сладких апельсинов и ревеня, благодаря чему имеет цитрусовый и слегка горьковатый вкус и аромат. Его употребление вызывает сильную, но безболезненную рвоту, полностью очищая желудок и вкусовые рецепторы. Рецепт аперитива держится в секрете имперскими мастерами, и никто не смог воссоздать этот уникальный напиток на окраинных мирах.\n\nИмперская знать любит аперитив за его способность очищать пищеварительную систему от пищи, позволяя употреблять ещё больше изысканных деликатесов и лучших имперских блюд.</VFEE_Aperitif.description>
+  <!-- EN: Drink {0} -->
+  <VFEE_Aperitif.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VFEE_Aperitif.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VFEE_Aperitif.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEE_Aperitif.ingestible.ingestReportString>
+</LanguageData>

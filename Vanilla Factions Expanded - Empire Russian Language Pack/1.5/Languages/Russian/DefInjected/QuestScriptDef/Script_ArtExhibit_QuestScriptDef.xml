@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+		questName->[lodgerIndef] desires an Art Exhibit
+		lodgerIndef->a royal
+		lodgerIndef->a noble
+  -->
+  <VFEE_ArtExhibit.questNameRules.rulesStrings>
+		<li>questName->[lodgerIndef] желает проведения выставки</li>
+		<li>lodgerIndef->дворянин</li>
+		<li>lodgerIndef->аристократ</li>
+  </VFEE_ArtExhibit.questNameRules.rulesStrings>
+  <!-- EN: 
+		lodgersLabel->noble
+		lodgersLabelPlural->nobles
+		lodgersDef(nobleCount==1)->[lodgers0_nameDef]
+		lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]
+		joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]
+		theirHisHer(nobleCount==1)->[lodgers0_possessive]
+		theirHisHer(nobleCount>=2)->their
+		lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]
+		lodgersPronoun(nobleCount>=2)->they
+		lodgersWasWere(nobleCount==1)->was
+		lodgersWasWere(nobleCount>=2)->were
+		appreciateAppreciates(nobleCount==1)->appreciates
+		appreciateAppreciates(nobleCount>=2)->appreciate
+		questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to come over with a few other noble people and gaze upon the works of art in your gallery. [asker_pronoun] requests [colonyHost_nameFull] hosts the occasion. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a gallery present in your colony. If at any point the gallery is destroyed, the art exhibition will be called off.\n[asker_nameFull] has forwarded you a list of nobility that was invited to the exhibit and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the exhibition. If anything happens to any of the guests, the art exhibition will be cancelled.\nDeserters might use this opportunity to launch an assassination attempt.		
+  -->
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings>
+		<li>lodgersLabel->представитель знати</li>
+		<li>lodgersLabelPlural->представители знати</li>
+		<li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+		<li>lodgersDef(nobleCount>=2)->[lodgersLabelPlural]</li>
+		<li>joinerEnding->Вы сможете управлять [lodgersDef] так же, как и своими поселенцами.[specialNeedsExplanation]</li>
+		<li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+		<li>theirHisHer(nobleCount>=2)->их</li>
+		<li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+		<li>lodgersPronoun(nobleCount>=2)->они</li>
+		<li>lodgersWasWere(nobleCount==1)->был</li>
+		<li>lodgersWasWere(nobleCount>=2)->были</li>
+		<li>appreciateAppreciates(nobleCount==1)->ценит</li>
+		<li>appreciateAppreciates(nobleCount>=2)->ценят</li>
+		<li>questDescription->[asker_nameFull], [asker_royalTitleInCurrentFaction] фракции [asker_faction_name] и ещё несколько представителей знати желают посетить ваши владения, чтобы посмотреть на предметы искусства, представленные в вашей художественной галерее. [asker_nameFull] хочет, чтобы вы организовали для них выставку. Это хорошая возможность посплетничать и наладить отношения с другими представителями имперской знати.\nВ вашем поселении должна быть художественная галерея. Если в какой-то момент она будет разрушена, выставка будет отменена.\n[asker_nameFull] передаёт вам список приглашённых гостей, которые прибудут на челноке:\n[noblesDetailList]\n\nВы должны обеспечить гостям комфорт и безопасность. Если с одним из них что-либо произойдёт, выставка будет отменена.\nДезертиры могут воспользоваться этой возможностью, чтобы предпринять попытку убийства присутствующих представителей знати.</li>
+  </VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN: 
+		decidedToLeave->Are leaving immediately, and will not remember this event fondly!
+		oneOfThe->one of the nobles you invited to the art exhibit
+		questOver->The quest '[resolvedQuestName]' is over.
+		CeremonyFailedLetterLabel->Art Exhibit failed
+		CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable exhibit. [asker_pronoun] is leaving with [asker_possessive] guests
+		CeremonyTimeoutLetterLabel->Art Exhibit failed
+		CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the exhibit. [asker_pronoun] is leaving with [asker_possessive] guests.
+		letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].
+		lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested
+		lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]
+		letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.
+		lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure
+		lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]
+		letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.
+		lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure
+		lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]
+		letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.
+		lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure
+		lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]
+		letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.
+		lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure
+		lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]
+		ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed
+		ShuttleDestroyedLabel->Shuttle destroyed: Art Exhibt Cancelled
+		ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]
+		raidArrivedLetterLabel->Deserter assasination attempt
+		raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the art exhibit and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the exhibit continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".
+		ArtExhibitSuccessLetterLabel->Exhibit Success
+		ArtExhibitSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.
+  -->
+  <VFEE_ArtExhibit.questContentRules.rulesStrings>
+		<li>decidedToLeave->Гости немедленно уходят. Они очень недовольны произошедшим!</li>
+		<li>oneOfThe->один из гостей, которых вы пригласили на выставку</li>
+		<li>questOver->Задание «[resolvedQuestName]» завершено.</li>
+		<li>CeremonyFailedLetterLabel->Выставка не удалась</li>
+		<li>CeremonyFailedLetterText->[asker_nameFull] заявляет, что вы разочаровали [asker_possessive] неспособностью организовать достойную выставку. [asker_pronoun] и [asker_possessive] гости уходят.</li>
+		<li>CeremonyTimeoutLetterLabel->Выставка не удалась</li>
+		<li>CeremonyTimeoutLetterText->[asker_nameFull] надоело ждать, пока вы начнёте выставку. [asker_pronoun] и [asker_possessive] гости уходят.</li>
+		<li>letterIntroArrested->Вы арестовали {SUBJECT_definite}, {SUBJECT_gender ? одного : одну} из гостей, которых вы пригласили на выставку.</li>
+		<li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] арестован</li>
+		<li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+		<li>letterIntroDeath->{SUBJECT_definite}, {SUBJECT_gender ? один: одна} из гостей, которых вы пригласили на выставку, {SUBJECT_gender ? погиб : погибла}.</li>
+		<li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] погиб(ли): уход</li>
+		<li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+		<li>letterIntroViolated->{SUBJECT_definite}, {SUBJECT_gender ? один : одна} из гостей, которых вы пригласили на выставку, {SUBJECT_gender ? был подвергнут : была подвергнута} несогласованному, надругательскому хирургическому вмешательству.</li>
+		<li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] подвергся недопустимой операции: уход</li>
+		<li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+		<li>letterIntroKidnapped->{SUBJECT_definite}, {SUBJECT_gender ? один: одна} из гостей, которых вы пригласили на выставку, {SUBJECT_gender ? был похищен : была похищена}.</li>
+		<li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] был похищен: уход</li>
+		<li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+		<li>letterIntroBanished->{SUBJECT_definite}, {SUBJECT_gender ? один: одна} из гостей, которых вы пригласили на выставку, {SUBJECT_gender ? был изгнан : была изгнана}.</li>
+		<li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] был изгнан: уход</li>
+		<li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+		<li>ShuttleDestroyedIntro->{SUBJECT_definite} был разрушен.</li>
+		<li>ShuttleDestroyedLabel->Челнок разрушен: выставка отменена</li>
+		<li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+		<li>raidArrivedLetterLabel->Попытка убийства</li>
+		<li>raidArrivedLetterText->Враждебные дезертиры прибыли, чтобы попытаться сорвать выставку и убить присутствующих представителей знати.\n\n[asker_nameFull] безразлична эта угроза — [asker_pronoun] требует продолжения выставки! [asker_pronoun] хочет, чтобы вы защитили [asker_possessive] и разобрались с этими «простолюдинами».</li>
+		<li>ArtExhibitSuccessLetterLabel->Выставка удалась</li>
+		<li>ArtExhibitSuccessLetterText->Челнок с [asker_nameFull] и [asker_possessive] гостями отбыл. В целом, мероприятие прошло успешно, и его участники благополучно вернулись домой.</li>
+  </VFEE_ArtExhibit.questContentRules.rulesStrings>
+</LanguageData>

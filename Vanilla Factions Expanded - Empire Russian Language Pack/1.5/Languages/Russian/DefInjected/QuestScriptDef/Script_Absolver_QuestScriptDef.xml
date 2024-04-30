@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+		questName->Absolver
+		questDescription->
+  -->
+  <VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings>
+		<li>questName->Избавитель</li>
+		<li>questDescription-></li>
+  </VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings>
+  
+  <!-- EN: absolver arrived -->
+  <VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>Избавитель прибыл</VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>
+  <!-- EN: The absolver from [permitFaction_name] have arrived. A shuttle will come to collect them in [absolverDurationDays] days. -->
+  <VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>Прибыл избавитель из фракции [permitFaction_name]. Челнок заберёт его через [absolverDurationDays] дней.</VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>
+  <!-- EN: Should depart on shuttle -->
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Должен отбыть на челноке</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <!-- EN: Shuttle arrived -->
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Челнок прибыл</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <!-- EN: A shuttle has arrived to collect the absolver from [permitFaction_name]. -->
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Челнок прибыл, чтобы забрать избавителя из фракции [permitFaction_name].</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <!-- EN: Absolver died: {SUBJECT_definite} -->
+  <VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>Избавитель погиб: {SUBJECT_definite}</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: An absolver sent to you by [permitFaction_name] has died. A replacement has been issued -->
+  <VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>Избавитель, которого прислала вам фракция [permitFaction_name], погиб. На замену выслан новый избавитель.</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: striker turret -->
+  <VFEE_Turret_StrikerTurret.label>ударная турель</VFEE_Turret_StrikerTurret.label>
+  <!-- EN: A redesigned cargo pod designed to bury stabilizing legs upon impact and deploy a powerful turret. Has a limited battery and ammunition pool, and will self-destruct if either run out or it is sufficiently damaged. -->
+  <VFEE_Turret_StrikerTurret.description>Переоборудованная транспортная капсула, предназначенная для выпуска стабилизирующих опор при приземлении и последующего развертывания мощной турели. Имеет ограниченный запас боеприпасов и заряда аккумуляторов. Самоуничтожается, если этот запас исчерпан или при получении значительных повреждений.</VFEE_Turret_StrikerTurret.description>
+  <!-- EN: Shots left -->
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>Осталось выстрелов</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Ammo -->
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>Боеприпасы</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Cannot shoot: Out of shots -->
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>требуются боеприпасы</VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: deactivates after: -->
+  <VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>Самоуничтожится через:</VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>
+  <!-- EN: striker gun -->
+  <VFEE_Gun_StrikerTurret.label>пушка ударной турели</VFEE_Gun_StrikerTurret.label>
+  <!-- EN: A powerful turret mounted on the striker drop pod. -->
+  <VFEE_Gun_StrikerTurret.description>Мощная турель, предназначенная для установки на ударную транспортную капсулу.</VFEE_Gun_StrikerTurret.description>
+  <!-- EN: striker gun -->
+  <VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>пушка ударной турели</VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>
+</LanguageData>

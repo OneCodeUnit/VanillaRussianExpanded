@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: First of {OTHERPAWN_possessive} Name -->
+  <VFEE_FirstOfName.stages.0.label>{OTHERPAWN_gender ? Первый : Первая} своего имени</VFEE_FirstOfName.stages.0.label>
+  <!-- EN: {OTHERPAWN_name} is the first of {OTHERPAWN_possessive} name. -->
+  <VFEE_FirstOfName.stages.0.description>{OTHERPAWN_name}, {OTHERPAWN_gender ? первый : первая} своего имени.</VFEE_FirstOfName.stages.0.description>
+  <!-- EN: Great honor -->
+  <VFEE_TheGreat.stages.0.label>Великая честь</VFEE_TheGreat.stages.0.label>
+  <!-- EN: I am the recipient of the Great honor. -->
+  <VFEE_TheGreat.stages.0.description>Я {PAWN_gender ? удостоен : удостоена} великой чести.</VFEE_TheGreat.stages.0.description>
+  <!-- EN: Chosen -->
+  <VFEE_Chosen.stages.0.label>{PAWN_gender ? Избранный : Избранная}</VFEE_Chosen.stages.0.label>
+</LanguageData>

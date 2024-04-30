@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: See also: -->
+  <VFEE.SeeAlso>Смотрите также:</VFEE.SeeAlso>
+  <!-- EN: Change character -->
+  <VFEE.ChangeCharacter>Сменить персонажа</VFEE.ChangeCharacter>
+  <!-- EN: Current title: {0} -->
+  <VFEE.CurrentTitle>Имеющийся титул: {0}</VFEE.CurrentTitle>
+  <!-- EN: Honor: {0} -->
+  <VFEE.CurrentHonor>Милость короны: {0} ед.</VFEE.CurrentHonor>
+  <!-- EN: Unused permit points: {0} -->
+  <VFEE.PermitPoints>Очки привилегий: {0}</VFEE.PermitPoints>
+  <!-- EN: Developer mode -->
+  <VFEE.DevMode>Режим разработчика</VFEE.DevMode>
+  <!-- EN: Unused vassalage points: {0} -->
+  <VFEE.VassalPoints>Очки вассалитета: {0}</VFEE.VassalPoints>
+  <!-- EN: Release all vassals -->
+  <VFEE.ReleaseAllVassals>Распустить вассалов</VFEE.ReleaseAllVassals>
+  <!-- EN: Releasing vassals will causes resources stored to be lost. Are you sure? -->
+  <VFEE.ReleaseAllVassals.Confirm>Роспуск вассалов приведёт к потере хранящихся у них ресурсов. Вы уверены?</VFEE.ReleaseAllVassals.Confirm>
+  <!-- EN: Vassals of {0}, {1} -->
+  <VFEE.VassalsOf>Вассалы {0}, {1}</VFEE.VassalsOf>
+  <!-- EN: Tithes will be delivered via drop-pods after designated time has elapsed. ПОЛНЫЙ ПЕРЕВОД НЕ ПОМЕЩАЕТСЯ -->
+  <VFEE.TitheDesc>Десятина будет доставлена транспортными капсулами.</VFEE.TitheDesc>
+  <!-- EN: Deliver -->
+  <VFEE.Deliver>Доставлять</VFEE.Deliver>
+  <!-- EN: Every 7 days -->
+  <VFEE.Deliver.EveryWeek>Каждые 7 дней</VFEE.Deliver.EveryWeek>
+  <!-- EN: Every 15 days -->
+  <VFEE.Deliver.EveryQuadrum>Каждые 15 дней</VFEE.Deliver.EveryQuadrum>
+  <!-- EN: Once a year -->
+  <VFEE.Deliver.EveryYear>Раз в год</VFEE.Deliver.EveryYear>
+  <!-- EN: Never (pause) -->
+  <VFEE.Deliver.Never>Никогда (приостановить)</VFEE.Deliver.Never>
+  <!-- EN: {0} {1} created every day. -->
+  <VFEE.Created>{0} {lookup: {1}; Case; 1} создаётся каждый день.</VFEE.Created>
+  <!-- EN: {0} {1} created every {2} days. -->
+  <VFEE.CreatedSpecial>{0} {lookup: {1}; Case; 1} создаётся каждые {2_numCase ? день : дня : дней}.</VFEE.CreatedSpecial>
+  <!-- EN: {0} in stockpile: {1} -->
+  <VFEE.InStockpile>{lookup: {0}; Case; 1} в наличии: {1}</VFEE.InStockpile>
+  <!-- EN: You can only vassalize bases that are less than 100 tiles away from you or your vassals\nVassalize more towns to increase the reach and unlock more potential vassal subjects -->
+  <VFEE.VassalDesc>Вы можете вассализировать только те поселения, которые расположены не более чем в 100 клетках от ваших вассалов.\nВассализируйте больше поселений, чтобы увеличить количество потенциальных вассалов.</VFEE.VassalDesc>
+  <!-- EN: Can't vassalize: Too far away -->
+  <VFEE.NoVassalize>Нельзя сделать вассалом: слишком далеко</VFEE.NoVassalize>
+  <!-- EN: Vassalize -->
+  <VFEE.Vassalize>Вассализация</VFEE.Vassalize>
+  <!-- EN: dance space for all instruments -->
+  <VFEE.RoomRequirementInstrumentSpace>танцевальное место для всех инструментов</VFEE.RoomRequirementInstrumentSpace>
+  <!-- EN: {0} of the {1} -->
+  <VFEE.OfThe>{0} фракции {1}</VFEE.OfThe>
+  <!-- EN: Invite as visitor -->
+  <VFEE.Invite>Пригласить в гости</VFEE.Invite>
+  <!-- EN: Invite as {0} (Cost: {1} honor) -->
+  <VFEE.InviteAs>Пригласить от имени {0} (цена: {1} ед. милости короны)</VFEE.InviteAs>
+  <!-- EN: Skip to previous title -->
+  <VFEE.Skip.Title.Previous>Перейти к предыдущему титулу</VFEE.Skip.Title.Previous>
+  <!-- EN: Skip to next title -->
+  <VFEE.Skip.Title.Next>Перейти к следующему титулу</VFEE.Skip.Title.Next>
+  <!-- EN: Skip to previous Colonist -->
+  <VFEE.Skip.Colonist.Previous>Перейти к предыдущему поселенцу</VFEE.Skip.Colonist.Previous>
+  <!-- EN: Skip to next Colonist -->
+  <VFEE.Skip.Colonist.Next>Перейти к следующему поселенцу</VFEE.Skip.Colonist.Next>
+  <!-- EN: Remove all honors -->
+  <VFEE.Honors.RemoveAll>Удалить все почётные титулы</VFEE.Honors.RemoveAll>
+  <!-- EN: These honors are active on your noble. Drag them to the right to remove them from this character. -->
+  <VFEE.Honors.Active>Эти почётные титулы сейчас применены к вашему знатному персонажу. Чтобы деактивировать, перетащите их вправо.</VFEE.Honors.Active>
+  <!-- EN: These honors are available to be equipped on your nobles. Drag them to the left to activate them on the chosen noble. -->
+  <VFEE.Honors.Available>Эти почётные титулы доступны для применения к вашим знатным персонажам. Чтобы применить их к выбранному сейчас персонажу, перетащите их влево.</VFEE.Honors.Available>
+  <!-- EN: Honors of {0}, {1} -->
+  <VFEE.HonorsOf>Почётные титулы {0}, {1}</VFEE.HonorsOf>
+  <!-- EN: you will gain the honor {0} to assign to a colonist -->
+  <VFEE.Honors.Reward>вы получите почётный титул {0}, который можно будет применить к поселенцу</VFEE.Honors.Reward>
+  <!-- EN: Honors -->
+  <VFEE.Honors>Почётные титулы</VFEE.Honors>
+  <!-- EN: Must be lord of {0} -->
+  <VFEE.MustBeLordOf>Должен быть правителем {0}</VFEE.MustBeLordOf>
+  <!-- EN: Must wield {0} -->
+  <VFEE.MustWield>Должен владеть {0}</VFEE.MustWield>
+  <!-- EN: Must have a parent -->
+  <VFEE.MustHaveParent>Должен иметь родителя</VFEE.MustHaveParent>
+  <!-- EN: This must be bestowed in a ceremony before it will become active. -->
+  <VFEE.Honor.Pending>Чтобы применить этот титул, нужно провести церемонию дарования почётного титула персонажу.</VFEE.Honor.Pending>
+  <!-- EN: Bestow Honor -->
+  <VFEE.Honor.Bestow>Дарование почётного титула</VFEE.Honor.Bestow>
+  <!-- EN: Bestow Honors -->
+  <VFEE.Honor.BestowPlural>Дарование почётных титулов</VFEE.Honor.BestowPlural>
+  <!-- EN: Bestow pending honors for this noble. Will give the following honors:\n{0} -->
+  <VFEE.Honor.Bestow.Desc>Даровать следующие почётные титулы этому персонажу:\n{0}</VFEE.Honor.Bestow.Desc>
+  <!-- EN: Successful -->
+  <VFEE.Successful>успешно</VFEE.Successful>
+  <!-- EN: {0} has been bestowed with their pending honors. They have gained:\n{0} -->
+  <VFEE.Honor.Bestow.Success>В ходе церемонии дарования почётного титула {0} получает следующие титулы:\n{0}</VFEE.Honor.Bestow.Success>
+  <!-- EN: Must have pending honors to bestow. -->
+  <VFEE.Honor.NoHonors>Должны быть выбраны почётные титулы, которые необходимо даровать персонажу.</VFEE.Honor.NoHonors>
+</LanguageData>

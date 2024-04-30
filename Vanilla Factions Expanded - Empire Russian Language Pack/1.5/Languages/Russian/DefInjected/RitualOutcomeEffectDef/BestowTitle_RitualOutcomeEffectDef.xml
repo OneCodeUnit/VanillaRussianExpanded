@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VFEE_BestowTitle_Outcome.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</VFEE_BestowTitle_Outcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VFEE_BestowTitle_Outcome.comps.0.label>Социальное влияние {PAWN_labelShort}</VFEE_BestowTitle_Outcome.comps.0.label>
+  <!-- EN: recipient's social impact -->
+  <VFEE_BestowTitle_Outcome.comps.0.labelAbstract>социальное влияние получателя</VFEE_BestowTitle_Outcome.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <VFEE_BestowTitle_Outcome.comps.1.label>количество участников</VFEE_BestowTitle_Outcome.comps.1.label>
+  <!-- EN: avaliable throne -->
+  <VFEE_BestowTitle_Outcome.comps.2.label>трон доступен</VFEE_BestowTitle_Outcome.comps.2.label>
+  <!-- EN: Awkward -->
+  <VFEE_BestowTitle_Outcome.outcomeChances.0.label>неловко</VFEE_BestowTitle_Outcome.outcomeChances.0.label>
+  <!-- EN: Good -->
+  <VFEE_BestowTitle_Outcome.outcomeChances.1.label>хорошо</VFEE_BestowTitle_Outcome.outcomeChances.1.label>
+  <!-- EN: Amazing -->
+  <VFEE_BestowTitle_Outcome.outcomeChances.2.label>незабываемо</VFEE_BestowTitle_Outcome.outcomeChances.2.label>
+</LanguageData>
