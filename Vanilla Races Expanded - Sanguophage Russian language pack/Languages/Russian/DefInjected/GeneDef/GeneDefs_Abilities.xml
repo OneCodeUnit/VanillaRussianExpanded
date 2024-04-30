@@ -1,48 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- EN: ecstasy -->
-	<VRE_Ecstasy.label>экстаз</VRE_Ecstasy.label>
-	<!-- EN: ecstator -->
-	<VRE_Ecstasy.labelShortAdj>экстатор</VRE_Ecstasy.labelShortAdj>
-	<!-- EN: Carriers of this gene can psychically connect with the target briefly, granting them a sense of ecstasy and making them fall in love with the caster. -->
-	<VRE_Ecstasy.description>Носители этого гена могут создавать краткосрочную пси-связь с целью, даруя ей экстатическое ощущение и влюбляя в себя.</VRE_Ecstasy.description>
-	
-	<!-- EN: filter infection -->
-	<VRE_FilterInfection.label>фильтрация инфекций</VRE_FilterInfection.label>
-	<!-- EN: filtrator -->
-	<VRE_FilterInfection.labelShortAdj>фильтратор</VRE_FilterInfection.labelShortAdj>
-	<!-- EN: Carriers of this gene have special glands in their mouths that allow them to filter infected blood from the clean blood. -->
-	<VRE_FilterInfection.description>Носители этого гена способны отфильтровывать инфекцию из крови с помощью секрета особых желёз в ротовой полости.</VRE_FilterInfection.description>
-	
-	<!-- EN: hemosmosis -->
-	<VRE_Hemosmosis.label>гемоосмос</VRE_Hemosmosis.label>
-	<!-- EN: hemosmoser -->
-	<VRE_Hemosmosis.labelShortAdj>впитывающий кровь</VRE_Hemosmosis.labelShortAdj>
-	<!-- EN: Carriers of this gene are able to drain blood from their environment, provided there is blood to be drained there. -->
-	<VRE_Hemosmosis.description>Носители этого гена могут втягивать кровь из окружающей среды, если неподалёку она присутствует.</VRE_Hemosmosis.description>
-	
-	<!-- EN: toxic cloud -->
-	<VRE_ToxicCloud.label>токсичное облако</VRE_ToxicCloud.label>
-	<!-- EN: toxspewer -->
-	<VRE_ToxicCloud.labelShortAdj>токсичный</VRE_ToxicCloud.labelShortAdj>
-	<!-- EN: Carriers of this gene are able to excrete a thick toxic smoke from special organic reservoirs in their lungs. Tox gas is deadly to almost every creature. -->
-	<VRE_ToxicCloud.description>Носители этого гена способны выделять густой токсичный дым из специальных органических резервуаров в своих лёгких. Токсичный газ смертельно опасен практически для любого живого существа.</VRE_ToxicCloud.description>
-	
-	<!-- EN: heart crush -->
-	<VRE_HeartCrush.label>крушитель сердец</VRE_HeartCrush.label>
-	<!-- EN: heartcrusher -->
-	<VRE_HeartCrush.labelShortAdj>крушитель сердец</VRE_HeartCrush.labelShortAdj>
-	<!-- EN: Carriers of this gene have special adrenaline glands that allow them to find the beating heart of the opponent and rip it out in a mad fury. -->
-	<VRE_HeartCrush.description>Носители этого гена имеют особые адреналиновые железы, которые позволяют им найти бьющееся сердце врага и вырвать его в безумной ярости.</VRE_HeartCrush.description>
-	
-	<!-- EN: viscuous goo -->
-	<VRE_ViscuousGoo.label>вязкая слизь</VRE_ViscuousGoo.label>
-	<!-- EN: goospitter -->
-	<VRE_ViscuousGoo.labelShortAdj>склизкий</VRE_ViscuousGoo.labelShortAdj>
-	<!-- EN: Carriers grow glands in the neck that generate and store a thick goo. They can spit it over long distances and cover several people in a viscous goo that will slow them down. -->
-	<VRE_ViscuousGoo.description>Носители этого гена способны плеваться вязкой слизью с помощью специальных желёз в шее, которые производят и хранят её. Слизь прилипает к целям в области поражения и замедляет их.</VRE_ViscuousGoo.description>
-	<!-- EN: resurrect -->
-	<VRE_Resurrect.label>воскрешение</VRE_Resurrect.label>
-	<!-- EN: Carriers have a reserve of unique resurrector archites which can infuse a corpse, rebuild degenerated tissue and kickstart the vital processes. This brings the dead back to life - though possibly with health issues. This can only be done very rarely, and comes at a steep hemogen cost. -->
-	<VRE_Resurrect.description>Носители этого гена имеют запас воскрешающих архитов, которые они могут быть введены в труп для восстановления разложившихся тканей и запуска жизненно важных процессов. Это оживляет мёртвых, хотя и ценой возможных проблем со здоровьем. Эта способность может быть применена очень редко и требует значительных трат гемогена.</VRE_Resurrect.description>
+  <!-- EN: ecstasy -->
+  <VRE_Ecstasy.label>экстаз</VRE_Ecstasy.label>
+  <!-- EN: ecstator -->
+  <VRE_Ecstasy.labelShortAdj>экстатор</VRE_Ecstasy.labelShortAdj>
+  <!-- EN: Carriers of this gene can psychically connect with the target briefly, granting them a sense of ecstasy and making them fall in love with the caster. -->
+  <VRE_Ecstasy.description>Носители этого гена могут создавать краткосрочную пси-связь с целью, даруя ей экстатическое ощущение и влюбляя в себя.</VRE_Ecstasy.description>
+  <!-- EN: ecsta -->
+  <VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>экстато</VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sedu -->
+  <VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>соблазно</VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sexy -->
+  <VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>усладо</VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: seducer -->
+  <VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>соблазнитель</VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: ecstator -->
+  <VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>экстатор</VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: pleasurer -->
+  <VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>экзальт</VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: filter infection -->
+  <VRE_FilterInfection.label>фильтрация инфекций</VRE_FilterInfection.label>
+  <!-- EN: filtrator -->
+  <VRE_FilterInfection.labelShortAdj>фильтратор</VRE_FilterInfection.labelShortAdj>
+  <!-- EN: Carriers of this gene have special glands in their mouths that allow them to filter infected blood from the clean blood. -->
+  <VRE_FilterInfection.description>Носители этого гена способны отфильтровывать инфекцию из крови с помощью секрета особых желёз в ротовой полости.</VRE_FilterInfection.description>
+  <!-- EN: clean -->
+  <VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>чисто</VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sterile -->
+  <VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>стерильно</VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: dialys -->
+  <VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>фильтро</VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: filtrator -->
+  <VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>фильтратор</VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: cleaner -->
+  <VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>чист</VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: hemosmosis -->
+  <VRE_Hemosmosis.label>гемоосмос</VRE_Hemosmosis.label>
+  <!-- EN: hemosmoser -->
+  <VRE_Hemosmosis.labelShortAdj>впитывающий кровь</VRE_Hemosmosis.labelShortAdj>
+  <!-- EN: Carriers of this gene are able to drain blood from their environment, provided there is blood to be drained there. -->
+  <VRE_Hemosmosis.description>Носители этого гена могут втягивать кровь из окружающей среды, если неподалёку она присутствует.</VRE_Hemosmosis.description>
+  <!-- EN: sucker -->
+  <VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>впито</VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sucker -->
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>тяго</VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: drainer -->
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>сос</VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: osmoser -->
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>тяг</VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: toxic cloud -->
+  <VRE_ToxicCloud.label>токсичное облако</VRE_ToxicCloud.label>
+  <!-- EN: toxspewer -->
+  <VRE_ToxicCloud.labelShortAdj>токсичный</VRE_ToxicCloud.labelShortAdj>
+  <!-- EN: Carriers of this gene are able to excrete a thick toxic smoke from special organic reservoirs in their lungs. Tox gas is deadly to almost every creature. -->
+  <VRE_ToxicCloud.description>Носители этого гена способны выделять густой токсичный дым из специальных органических резервуаров в своих лёгких. Токсичный газ смертельно опасен практически для любого живого существа.</VRE_ToxicCloud.description>
+  <!-- EN: gasser -->
+  <VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>газо</VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tox -->
+  <VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>токсо</VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: spewer -->
+  <VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>плюй</VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: excretor -->
+  <VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>плёв</VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: heart crush -->
+  <VRE_HeartCrush.label>крушитель сердец</VRE_HeartCrush.label>
+  <!-- EN: heartcrusher -->
+  <VRE_HeartCrush.labelShortAdj>крушитель сердец</VRE_HeartCrush.labelShortAdj>
+  <!-- EN: Carriers of this gene have special adrenaline glands that allow them to find the beating heart of the opponent and rip it out in a mad fury. -->
+  <VRE_HeartCrush.description>Носители этого гена имеют особые адреналиновые железы, которые позволяют им найти бьющееся сердце врага и вырвать его в безумной ярости.</VRE_HeartCrush.description>
+  <!-- EN: Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged. -->
+  <VRE_HeartCrush.customEffectDescriptions.0>Летально действует только на существ с размером тела 2 или меньше. Более крупные существа получат сильный урон.</VRE_HeartCrush.customEffectDescriptions.0>
+  <!-- EN: ripper -->
+  <VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>когте</VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: heart -->
+  <VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>сердце</VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: bane -->
+  <VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>раздиро</VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: ripper -->
+  <VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>хват</VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: crusher -->
+  <VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>рватель</VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: viscuous goo -->
+  <VRE_ViscuousGoo.label>вязкая слизь</VRE_ViscuousGoo.label>
+  <!-- EN: goospitter -->
+  <VRE_ViscuousGoo.labelShortAdj>склизкий</VRE_ViscuousGoo.labelShortAdj>
+  <!-- EN: Carriers grow glands in the neck that generate and store a thick goo. They can spit it over long distances and cover several people in a viscous goo that will slow them down. -->
+  <VRE_ViscuousGoo.description>Носители этого гена способны плеваться вязкой слизью с помощью специальных желёз в шее, которые производят и хранят её. Слизь прилипает к целям в области поражения и замедляет их.</VRE_ViscuousGoo.description>
+  <!-- EN: spit -->
+  <VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>плево</VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: goo -->
+  <VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>слизе</VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: spitter -->
+  <VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>плюй</VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: resurrect -->
+  <VRE_Resurrect.label>воскрешение</VRE_Resurrect.label>
+  <!-- EN: Carriers have a reserve of unique resurrector archites which can infuse a corpse, rebuild degenerated tissue and kickstart the vital processes. This brings the dead back to life - though possibly with health issues. This can only be done very rarely, and comes at a steep hemogen cost. -->
+  <VRE_Resurrect.description>Носители этого гена имеют запас воскрешающих архитов, которые они могут быть введены в труп для восстановления разложившихся тканей и запуска жизненно важных процессов. Это оживляет мёртвых, хотя и ценой возможных проблем со здоровьем. Эта способность может быть применена очень редко и требует значительных трат гемогена.</VRE_Resurrect.description>
+  <!-- EN: resurrector -->
+  <VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>воскрешатель</VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: life -->
+  <VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>жизне</VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>
 </LanguageData>
