@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+  operationName->Operation [AdjectiveAny] [NounAny]
+  NounAny->[ConceptAny]
+  NounAny->[ColorAny]
+  NounAny->[Vegetable]
+  NounAny->[Game]
+  NounAny->[AnimalAny]
+  NounAny->[Weapon]
+  NounAny->[TerrainFeature]
+  NounAny->[NaturalObject]
+  NounAny->[TreeType]
+  NounAny->[Enemy]
+  NounAny->[Apparel]
+  NounAny->[Gore]
+  NounAny->[BodyPart]
+  ColorAny->[Color]
+  ColorAny->[ColorBadass]
+  AnimalAny->[Animal]
+  AnimalAny->[AnimalBadass]   
+    -->
+  <VFED_OperationName.rulePack.rulesStrings>
+  <li>operationName->Операция [AdjectiveAny] [NounAny]</li>
+  <li>operationName->Операция [Color] [NounAny]</li>
+  
+  <li>operationName->Операция [AdjectiveAny_female] [NounAny_female]</li>
+  <li>operationName->Операция [Color_fem] [NounAny_female]</li>
+  
+  <li>operationName->Операция [AdjectiveAny_neutral] [NounAny_neutral]</li>
+  <li>operationName->Операция [Color_neutral] [NounAny_neutral]</li>
+  
+  <li>operationName->Операция [AdjectiveAny_plural] [NounAny_plural]</li>
+  <li>operationName->Операция [Color_plural] [NounAny_plural]</li>
+  
+  <li>NounAny->[Animal_masc]</li>
+  <li>NounAny->[AnimalBadass_masc]</li>
+  <li>NounAny->[Weapon_masc]</li>
+  <li>NounAny->[TerrainFeature_masc]</li>
+  <li>NounAny->[TreeType_masc]</li>
+  
+  <li>NounAny_female->[Animal_fem]</li>
+  <li>NounAny_female->[AnimalBadass_fem]</li>
+  <li>NounAny_female->[Weapon_fem]</li>
+  <li>NounAny_female->[TerrainFeature_fem]</li>
+  <li>NounAny_female->[TreeType_fem]</li>
+
+  <li>NounAny_neutral->[Weapon_neutral]</li>
+  <li>NounAny_neutral->[TerrainFeature_neutral]</li>
+  
+  <li>NounAny_plural->[AnimalBadass_plural]</li>
+  </VFED_OperationName.rulePack.rulesStrings>
+  <!-- EN: 
+  plotName(nobleTitle==Knight)->Kindless knight
+  plotName(nobleTitle==Praetor)->Petty praetor
+  plotName(nobleTitle==Baron)->Bigoted baron
+  plotName(nobleTitle==Count)->Crooked count
+  plotName(nobleTitle==VFEE_Archcount)->Abusive archcount
+  plotName(nobleTitle==VFEE_Marquess)->Militant marquess
+  plotName(nobleTitle==Duke)->Depraved duke
+  plotName(nobleTitle==VFEE_Archduke)->Arrogant archduke
+  plotName(nobleTitle==Consul)->Corrupted consul
+  plotName(nobleTitle==VFEE_Magister)->Malevolent magister
+  plotName(nobleTitle==VFEE_Despot)->Deranged despot
+  plotName(nobleTitle==Stellarch)->Sickening stellarch
+  plotName(nobleTitle==VFEE_HighStellarch)->Heinous high stellarch
+  plotName(nobleTitle==Emperor)->Egocentric emperor
+ -->
+  <VFED_PlotName.rulePack.rulesStrings>
+  <li>plotName(nobleTitle==Knight)->Ревностный Рыцарь</li>
+  <li>plotName(nobleTitle==Praetor)->Подлый Претор</li>
+  <li>plotName(nobleTitle==Baron)->Брезгливый Барон</li>
+  <li>plotName(nobleTitle==Count)->Горделивый Граф</li>
+  <li>plotName(nobleTitle==VFEE_Archcount)->Эксцентричный Эрцграф</li>
+  <li>plotName(nobleTitle==VFEE_Marquess)->Милитаристский Маркиз</li>
+  <li>plotName(nobleTitle==Duke)->Гедонистичный Герцог</li>
+  <li>plotName(nobleTitle==VFEE_Archduke)->Эгоистичный Эрцгерцог</li>
+  <li>plotName(nobleTitle==Consul)->Коррумпированный Консул</li>
+  <li>plotName(nobleTitle==VFEE_Magister)->Мстительный Магистр</li>
+  <li>plotName(nobleTitle==VFEE_Despot)->Душевнобольной Деспот</li>
+  <li>plotName(nobleTitle==Stellarch)->Социопатический Стелларх</li>
+  <li>plotName(nobleTitle==VFEE_HighStellarch)->Властолюбивый Высший Стелларх</li>
+  <li>plotName(nobleTitle==Emperor)->Инфантильный Император</li>
+  </VFED_PlotName.rulePack.rulesStrings>
+</LanguageData>

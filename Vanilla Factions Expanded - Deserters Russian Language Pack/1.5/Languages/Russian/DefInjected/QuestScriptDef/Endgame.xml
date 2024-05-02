@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: questName->Egocentric emperor -->
+  <VFED_DeserterEndgame.questNameRules.rulesStrings>
+  <li>questName->Инфантильный Император</li>
+  </VFED_DeserterEndgame.questNameRules.rulesStrings>
+  <!-- EN: questDescription->[noble_nameFull] is the Emperor of the [empire_name]. An egocentric ruler who values tradition over the lives of [noble_possessive] people, [noble_pronoun] has to be stopped at all costs. [noble_pronoun] refuses to adapt to the new reality post-Sophiamunda Shattering, and instead insists on maintaining old ways, leading to the wasteful loss of countless lives.\n\nDespite the warnings we have given [noble_objective] and the obvious signs of impending doom, [noble_pronoun] remains obstinate in [noble_possessive] ways, driving the Empire towards certain destruction. The only hope for the deserters is to take out the Imperial flagship in orbit, which gives the Emperor an overwhelming military advantage.\n\nIn order to do that, we have to take control of three Zeus cannons located in various places on the planet. This mission needs to be executed on all fronts simultaneously, as we will only have a limited window of opportunity once the first Zeus cannon is taken. Activating all three of them at the same time will ensure the total obliteration of the Imperial flagship, after which the Empire will have no choice but to dissolve. -->
+  <VFED_DeserterEndgame.questDescriptionRules.rulesStrings>
+  <li>questDescription->[noble_nameFull] — {noble_gender ? Император : Императрица} [empire_name], чьё правление не отличается мудростью. [noble_possessive] поступки скорее выдают в {noble_gender ? нём : ней} незрелую, инфантильную личность. Будучи эгоистичным, чрезмерно эмоциональным и неспособным принимать взвешенные решения человеком, [noble_pronoun] ставит традиции выше жизней своих подданных, поэтому нам необходимо сделать всё возможное, чтобы остановить [noble_possessive]. [noble_nameFull] упорно отказывается приспосабливаться к новой реальности после раскола софийского общества и бездумно настаивает на сохранении устаревших методов управления, что только приводит к бесполезным потерям множества жизней.\n\nВопреки нашим предупреждениям и очевидным признакам надвигающегося поражения, [noble_pronoun] настойчиво продолжает вести свою политику, ведя Империю к верной гибели. Единственная надежда для дезертиров — уничтожение имперского флагмана, который находится на орбите планеты и даёт {noble_gender ? Императору: Императрице} значительное военное преимущество.\n\nДля выполнения этой задачи требуется взять под контроль три электропушки, размещённые в разных частях планеты. Захват должен происходить одновременно, так как после взятия первой электропушки, Империя заметит нашу активность, и у нас будет очень мало времени. Синхронная активация всех трёх орудий приведёт к полному уничтожению имперского флагмана, после чего у Империи не останется шансов на сопротивление и она неизбежно распадётся.</li>
+  </VFED_DeserterEndgame.questDescriptionRules.rulesStrings>
+  
+  <!-- EN: shuttleLetterText->All deserter cells on the planet have been informed about what is going to occur now. Everyone knows that now is the only time to strike.
+\n\nA deserter shuttle has landed in your area. It is tasked with delivering a deserter strike force, including whoever you choose to send on this mission, into a Zeus cannon installation. Your soldiers will be assisted by deserter reinforcements.\n\nThe installation is heavily defended. Furthermore, Imperial reinforcements will be dispatched almost immediately upon landing. You can expect the Empire to bring their best and most powerful weapons to try and stop you.\n\nYour objective is to capture the control room of the Zeus cannon batteries. As long as you are within the range of the main control station, Zeus cannons will continuously fire at the imperial flagship. The target is heavily armored, and bringing it down will require a lot of firepower.\n\nThe installation is defended by an imperial mega high-shield, which should keep you safe from aerodrone bombardments and slicer beams as long as you maintain a constant power supply to it.
+ -->
+  <VFED_DeserterEndgame.questContentRules.rulesStrings>
+  <li>shuttleLetterText->Все ячейки дезертиров на планете были проинформированы о том, что должно произойти в ближайшее время. Они знают, что пришло время нанести решающий удар.\n\nВ вашем поселении приземлился дезертирский челнок. Ему поручено доставить ударную группу дезертиров, включая тех, кого вы решите послать на это задание, к имперскому артиллерийскому комплексу с электропушками. Вашим солдатам будет помогать дезертирский отряд.\n\nКомплекс хорошо защищён. Для проникновения внутрь вам потребуется значительная огневая мощь. Кроме того, почти сразу после прибытия на место, к вам будут отправлены имперские подкрепления, которые будут использовать самое лучшее и мощное оружие, чтобы попытаться остановить вас.\n\nЦель миссии — захватить станцию управления электропушками. Пока вы будете находиться в зоне её действия, электропушки будут атаковать имперский флагман, находящийся на орбите планеты.\n\nВесь комплекс защищён имперским купольным проектором, который укроет вас от бомбардировок аэродронов и режущих лучей, при условии поддержания постоянного электропитания.</li>
+  </VFED_DeserterEndgame.questContentRules.rulesStrings>
+  
+  <!-- EN: Shuttle arrived -->
+  <VFED_DeserterEndgame.root.nodes.Letter.label.slateRef>Челнок прибыл</VFED_DeserterEndgame.root.nodes.Letter.label.slateRef>
+  
+  <!-- EN: [shuttleLetterText] -->
+  <VFED_DeserterEndgame.root.nodes.Letter.text.slateRef>[shuttleLetterText]</VFED_DeserterEndgame.root.nodes.Letter.text.slateRef>
+  
+  <!-- EN: Shuttle destroyed -->
+  <VFED_DeserterEndgame.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>Челнок уничтожен</VFED_DeserterEndgame.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>
+  
+  <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
+  <VFED_DeserterEndgame.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>Челнок, отправленный забрать поселенцев, был уничтожен.</VFED_DeserterEndgame.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Destroyed -->  
+  <VFED_DeserterEndgame.root.nodes.MarkObjectives.objectiveCompleteSignal.slateRef>Уничтожен</VFED_DeserterEndgame.root.nodes.MarkObjectives.objectiveCompleteSignal.slateRef>
+
+  <!-- EN: Control station destroyed -->
+  <VFED_DeserterEndgame.root.nodes.objectivesComplete.node.nodes.Letter.label.slateRef>Станция управления уничтожена</VFED_DeserterEndgame.root.nodes.objectivesComplete.node.nodes.Letter.label.slateRef>
+  
+  <!-- EN: The zeus cannon control station has been destroyed. -->
+  <VFED_DeserterEndgame.root.nodes.objectivesComplete.node.nodes.Letter.text.slateRef>Станция управления электропушками была уничтожена.</VFED_DeserterEndgame.root.nodes.objectivesComplete.node.nodes.Letter.text.slateRef>
+</LanguageData>

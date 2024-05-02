@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: biodecoder -->
+  <VFED_Biodecoder.label>биодекодер</VFED_Biodecoder.label>
+  <!-- EN: A biodecoder is a single-use ultratech device that is designed to strip biocoding off any item. It uses a complex process to unlatch the biocoding from the original item, which transfers the biocoding onto the biodecoder, breaking it in the process. Biodecoder can also be used on biosecured crate to open them. This device is often used in sensitive operations where the presence of biocoding could compromise the mission. -->
+  <VFED_Biodecoder.description>Одноразовое ультратехнологичное устройство, предназначенное для снятия биокодирования, путём его переноса на биодекодер, в результате чего биологическая привязка разрушается. Таким образом можно не только снимать привязку с предметов, но и вскрывать биокодированные ящики. Это устройство часто используется в секретных операциях, где наличие биокодирования может поставить под угрозу выполнение миссии.</VFED_Biodecoder.description>
+  <!-- EN: Use {0_label} -->
+  <VFED_Biodecoder.comps.CompUsable.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFED_Biodecoder.comps.CompUsable.useLabel>
+  
+  <!-- EN: psychic amplifier -->
+  <VFED_PsychicAmplifier.label>нейроусилитель</VFED_PsychicAmplifier.label>
+  <!-- EN: Decommissioned Imperial technology since the invention of psylink neuroformers, psychic amplifier upgrades a psylink in the user's mind. It cannot form a psylink by itself, and can only be used by colonists with already present psylink. The user presses the device over the eyes, where it links to the brain directly and restructures part of it. Afterwards, the device disintegrates into worthless ash. -->
+  <VFED_PsychicAmplifier.description>Имперская технология, снятая с производства после изобретения нейроформеров. Это устройство не может сформировать пси-связь, его функция заключается только в улучшении уже имеющейся пси-связи у пользователя. Для этого необходимо прижать нейроусилитель к глазам, после чего устройство напрямую связывается с мозгом и частично изменяет его ткани. После использования устройство превращается в пыль.</VFED_PsychicAmplifier.description>
+  <!-- EN: Use {0_label} -->
+  <VFED_PsychicAmplifier.comps.CompUsable.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFED_PsychicAmplifier.comps.CompUsable.useLabel>
+</LanguageData>

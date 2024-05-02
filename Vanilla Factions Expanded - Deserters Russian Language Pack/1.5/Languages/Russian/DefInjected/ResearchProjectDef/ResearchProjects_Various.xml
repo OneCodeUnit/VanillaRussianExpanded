@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: imperial defenses -->
+  <VFED_ImperialDefenses.label>имперские турели</VFED_ImperialDefenses.label>
+  <!-- EN: Create imperial megaturrets: Kontarion, Onager and Palintone, as well as their ammunition. -->
+  <VFED_ImperialDefenses.description>Создание таких имперских мегатурелей, как «Контарион», «Онагр» и «Палинтон», а также боеприпасов к ним.</VFED_ImperialDefenses.description>
+  <!-- EN: 
+		<li>subject->fortress engineering</li>
+		<li>subject_story->engineered the mightiest defenses, deterring would-be conquerors with mere rumors of their power</li>
+		<li>subject_story->crafted turrets that combined ancient design principles with futuristic weaponry</li>
+		<li>subject_story->ensured the empire's borders were impregnable, standing as a testament to imperial ingenuity</li>
+		<li>subject_gerund->redefining the art of defense</li>
+  -->
+  <VFED_ImperialDefenses.generalRules.rulesStrings>
+		<li>subject->оборонительная инженерия</li>
+		<li>subject_story->создал(а) самые надёжные оборонительные сооружения, устрашающие потенциальных завоевателей одними лишь слухами об их мощи</li>
+		<li>subject_story->смастерил(а) турели, сочетающие древние принципы дизайна с передовым вооружением</li>
+		<li>subject_story->обеспечил(а) неприступность границ Империи, став свидетельством искусности имперских мастеров</li>
+		<li>subject_gerund->переосмысление искусства обороны</li>
+  </VFED_ImperialDefenses.generalRules.rulesStrings>
+  
+  <!-- EN: imperial war solutions -->
+  <VFED_ImperialWarSolutions.label>имперские боеприпасы</VFED_ImperialWarSolutions.label>
+  <!-- EN: Craft powerful imperial mortar shells, such as shrapnel, armor piercing and cluster. -->
+  <VFED_ImperialWarSolutions.description>Изготовление мощных шрапнельных, кластерных и бронебойных минометных снарядов.</VFED_ImperialWarSolutions.description>
+  <!-- EN: 
+		<li>subject->advanced ordnance</li>
+		<li>subject_story->innovated artillery ammunition that turned battlefields to their advantage with a single salvo</li>
+		<li>subject_story->developed shells that could pierce the toughest armors or scatter enemies with relentless shrapnel</li>
+		<li>subject_story->transformed the empire's artillery into a force capable of dictating the terms of engagement</li>
+		<li>subject_gerund->mastering the science of destruction</li>
+  -->
+  <VFED_ImperialWarSolutions.generalRules.rulesStrings>
+		<li>subject->передовые боеприпасы</li>
+		<li>subject_story->изобрёл(а) артиллерийские боеприпасы, которые одним залпом меняли ход сражений в свою пользу</li>
+		<li>subject_story->разработал(а) снаряды, способные пробивать прочнейшую броню или поражать врагов безжалостной шрапнелью</li>
+		<li>subject_story->превратил(а) имперскую артиллерию в силу, способную диктовать свои условия ведения боевых действий</li>
+		<li>subject_gerund->освоение науки разрушения</li>
+  </VFED_ImperialWarSolutions.generalRules.rulesStrings>
+  
+  <!-- EN: imperial war solutions -->
+  <VFED_RemoteDemolition.label>дистанционные взрыватели</VFED_RemoteDemolition.label>
+  <!-- EN: Build advanced explosive traps with remote detonation mechanism. -->
+  <VFED_RemoteDemolition.description>Изготовление продвинутых взрывных ловушек с механизмом дистанционной детонации.</VFED_RemoteDemolition.description>
+  <!-- EN: 
+		<li>subject->tactical demolitions</li>
+		<li>subject_story->pioneered the use of remotely controlled explosives, changing the dynamics of siege warfare</li>
+		<li>subject_story->crafted traps that could be detonated at the perfect moment, creating chaos among enemy ranks</li>
+		<li>subject_story->turned the battlefield into a meticulously controlled environment, where every step could be the last</li>
+		<li>subject_gerund->elevating the element of surprise to an art form</li>
+  -->
+  <VFED_RemoteDemolition.generalRules.rulesStrings>
+		<li>subject->тактический подрыв</li>
+		<li>subject_story->стал(а) первопроходцем в использовании дистанционно управляемых взрывчатых веществ, изменив динамику осадной войны</li>
+		<li>subject_story->изобрёл(а) ловушки, которые можно было взорвать в самый подходящий момент, создавая хаос в рядах противника</li>
+		<li>subject_story->превратил(а) поле боя в тщательно контролируемую среду, где каждый шаг врага мог стать последним</li>
+		<li>subject_gerund->возведение элемента неожиданности в ранг искусства</li>
+  </VFED_RemoteDemolition.generalRules.rulesStrings>
+</LanguageData>
