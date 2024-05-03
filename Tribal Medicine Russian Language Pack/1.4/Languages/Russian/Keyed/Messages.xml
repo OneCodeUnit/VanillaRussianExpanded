@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: {0} got successfully cleansed of {1}! -->
+  <TM_MessageHediffCleansed>{0} успешно {0_gender ? очистился : очистилась} от {1}!</TM_MessageHediffCleansed>
+  <!-- EN: {0} failed while making {1}, most of the ingredients were wasted. -->
+  <TM_MessageProductBotched>{0} {0_gender ? совершил : совершила} ошибку при изготовлении {lookup: {0}; Case; 1}. Большинство ингредиентов пропало впустую.</TM_MessageProductBotched>
+  <!-- EN: {0} has ruined away in storage. -->
+  <TM_MessageRuinedInStorage>{0} {0_gender ? испортился : испортилась : испортилось} на складе и {0_gender ? обратился : обратилась : обратилось} в пыль.</TM_MessageRuinedInStorage>
+  <!-- EN: {PAWN} was cured Broot poisoning! -->
+  <TM_BrootPoisoningCured>{PAWN} {PAWN_gender ? излечился : излечилась} от отравления белым лишайником!</TM_BrootPoisoningCured>
+  
+  
+  <!-- EN: Ruining in {0} -->
+  <TM_InspectStringRuining>Испортится через {0}</TM_InspectStringRuining>
+  
+  <!-- EN: Tribal Medicine -->
+  <TM_SettingsCategory>Tribal Medicine</TM_SettingsCategory>
+  <!-- EN: Alternative tea names enabled -->
+  <TM_Setting_EnableAltNames>Включены альтернативные названия чаёв</TM_Setting_EnableAltNames>
+  <!-- EN: Alternative tea names -->
+  <TM_SettingText_EnableAltNames>Альтернативные названия чаёв (не могут быть переведены на русский)</TM_SettingText_EnableAltNames>
+</LanguageData>

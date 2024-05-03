@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: psychic tea -->
+  <TM_AnimaTea.label>психоактивный чай</TM_AnimaTea.label>
+  <!-- EN: A light, sweet-ish tea made by combining grounded psychite leaves and shrooms. This beverage enhances the psychic capacities of anyone that consumes it, turning it into a widely useful product for psycasters. The only downside is that by enhancing the sensitivity of neurons and nerves the user is also rendered extremely sensitive to physical pain and temperature.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Like water, sugar, cinnamon, cabbage, grass and a small addition of human tears. -->
+  <TM_AnimaTea.description>Лёгкий, сладковатый чай, приготовленный из измельчённых психолистьев и психогрибов. Этот напиток улучшает пси-способности, и поэтому особо популярен среди псиоников. Единственным его недостатком является то, что повышение чувствительности нейронов делает человека чрезвычайно чувствительным к физической боли и температуре.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; как вода, сахар, корица, капуста, трава и человеческие слёзы.</TM_AnimaTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_AnimaTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_AnimaTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_AnimaTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_AnimaTea.ingestible.ingestCommandString>
+</LanguageData>

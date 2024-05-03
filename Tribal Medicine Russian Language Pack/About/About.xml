@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Tribal Medicine Russian Language Pack</name>
+	<author>Mewn Goddess</author>
+	<packageId>Mewn.Rus.TribalMedicineRemake</packageId>
+	<supportedVersions>
+	  <li>1.4</li>
+	  <li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+	  <li>
+		<packageId>Argon.TribalMedicineRemake</packageId>
+		<displayName>Tribal Medicine</displayName>
+		<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2950258180</steamWorkshopUrl>
+	  </li>
+	</modDependencies>
+	<loadAfter>
+	  <li>Argon.TribalMedicineRemake</li>
+	</loadAfter>
+	<description>Перевод на русский язык мода Tribal Medicine (а также мини-дополнения для него от другого автора - Psylink Tea). Подробности ищите на странице в мастерской.</description>
+</ModMetaData>
