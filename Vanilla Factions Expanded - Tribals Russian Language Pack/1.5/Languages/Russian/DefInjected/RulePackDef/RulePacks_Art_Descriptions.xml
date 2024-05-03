@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+  <li>r_art_description->[physical_description_root] [context_sentence]</li>
+  <li>circumstance_group->[circumstance_phrase]</li>
+  <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+  <li>context_sentence->This [depiction] refers to [tale_noun] on [DATE].</li>
+  <li>context_sentence->This [depiction] relates to [tale_noun] on [DATE].</li>
+  <li>context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].</li>
+  <li>physical_description_root->This [painting] [depicts] [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->This [painting] bears a [depiction] of [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->On this [painting] is a [depiction] of [image]. [desc_sentence_group]</li>
+  <li>painting->painting</li>
+  <li>painting->work</li>
+  <li>painting->piece</li>
+  -->
+  <ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+  <li>r_art_description->[physical_description_rootTwo] [context_sentence]</li>
+  <li>desc_sentence_groupTwo->[desc_sentence] [style_groupTwo]</li>
+  <li>context_sentence->Эта работа отсылает к тому, [tale_noun] [DATE].</li>
+  <li>context_sentence->Эта работа относится к тому, [tale_noun] [DATE].</li>
+  <li>context_sentence->Эта работа рассказывает историю о том, [tale_noun] [DATE].</li>
+  <li>physical_description_rootTwo->[on_this_art] [author] [depicted][image]. [desc_sentence_groupTwo]</li>
+  <li>physical_description_rootTwo->[this_art] [depicts][image]. [desc_sentence_groupTwo]</li>
+  <li>on_this_art->на этом произведении искусства</li>
+  <li>on_this_art->на этом предмете</li>
+  <li>on_this_art->на этом творении</li>
+
+  <li>this_art_sculpture->эта скульптура</li>
+  <li>this_art_sculpture->эта резная фигура</li>
+  <li>this_art_sculpture->это изваяние</li>
+
+  <li>author->мастер</li>
+  <li>author->автор</li>
+
+  <li>depicted->изобразил</li>
+  <li>depicted->показал</li>
+  <li>depicts->изображает</li>
+  <li>depicts->показывает</li>
+  </ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+
+  <!-- EN: 
+  <li>r_art_description->[physical_description_root]</li>
+  <li>desc_sentence_group->[style_group]</li>
+   -->
+  <ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+  <li>r_art_description->[physical_description_root]</li>
+  <li>desc_sentence_group->[style_group]</li>
+  </ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+
+  <!-- EN: 
+  <li>style_group->[artextra_clause]. [style_clause].</li>
+  <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+  <li>style_group->[style_clause].</li>
+  <li>style_group->[artextra_clause].</li>
+  <li>style_group-></li>
+  <li>artconjunction(p=6)-></li>
+  <li>artconjunction->intriguingly,</li>
+  <li>artconjunction->adding depth to the painting,</li>
+  <li>artconjunction->furthermore,</li>
+  <li>artconjunction->strikingly,</li>
+  <li>artconjunction->evocatively,</li>
+  <li>artconjunction->mirroring ancient narratives,</li>
+  <li>artconjunction->connecting to ancestral roots,</li>
+  <li>artextra_clause->the painting showcases [subimageplural] engaged in [activity]</li>
+  <li>artextra_clause->depicting [subimagesingle] [side_position]</li>
+  <li>artextra_clause->displaying a vivid scene of [Community]</li>
+  <li>artextra_clause->a group of [subimageplural] gathered near a [TerrainFeature]</li>
+  <li>artextra_clause->[Quantity_adjphrase] [subimagesingle]s illustrating a story from ancient times</li>
+  <li>artextra_clause->an intricate pattern of [subimageplural] dominates the foreground</li>
+  <li>artextra_clause->centered around a [subimagesingle], telling a tale of [ConceptAny]</li>
+  <li>subimageany->[subimagesingle]</li>
+  <li>subimageany->[subimageplural]</li>
+  <li>subimagesingle(p=6)->an ancient human figure</li>
+  <li>subimagesingle->a primitive dwelling</li>
+  <li>subimagesingle->a native tree</li>
+  <li>subimagesingle->a representation of the sun or moon</li>
+  <li>subimagesingle->a mystical symbol</li>
+  <li>subimagesingle->a celestial body</li>
+  <li>subimagesingle->a prehistoric beast</li>
+  <li>subimagesingle->a hand-print pattern</li>
+  <li>subimageplural(p=5)->stylized animals</li>
+  <li>subimageplural->primitive geometric shapes</li>
+  <li>subimageplural->nature motifs</li>
+  <li>subimageplural->handprint patterns</li>
+  <li>subimageplural->spiritual symbols</li>
+  <li>subimageplural->celestial bodies</li>
+  <li>side_position->at the center</li>
+  <li>side_position->in the upper portion</li>
+  <li>side_position->occupying the lower half</li>
+  <li>side_position->to the right, forming a natural flow</li>
+  <li>side_position->to the left, drawing attention to the main theme</li>
+  <li>side_position->spread uniformly across the canvas</li>
+  <li>side_position->scattered in a harmonious pattern</li>
+  <li>style_clause(p=4)->the artwork [symbolizes] [ConceptAny]</li>
+  <li>style_clause->using [artstyle_adj] strokes to depict [ConceptAny]</li>
+  <li>style_clause->reflecting the essence of [ConceptAny] through [artstyle_adj] patterns</li>
+  <li>style_clause->embodying a rich history with its [artstyle_adj] representation of [ConceptAny]</li>
+  <li>style_clause->the painting exhibits a [artstyle_adj] approach to [ConceptAny]</li>
+  <li>symbolizes->symbolizes</li>
+  <li>symbolizes->represents</li>
+  <li>symbolizes->echoes</li>
+  <li>symbolizes->resonates with</li>
+  <li>symbolizes->reflects</li>
+  <li>symbolizes->embodies</li>
+  <li>symbolizes->symbolizes</li>
+  <li>symbolizes->seems to symbolize</li>
+  <li>symbolizes->represents</li>
+  <li>symbolizes->seems to represent</li>
+  <li>symbolizes->seems to express</li>
+  <li>symbolizes->reminds the viewer of</li>
+  <li>symbolizes->conveys the emotions of</li>
+  <li>symbolizes->makes the viewer think of</li>
+  <li>symbolizes->represents the artist's</li>
+  <li>symbolizes->suggests the concept of</li>
+  <li>artstyle_adj->earthy and organic</li>
+  <li>artstyle_adj->primitive</li>
+  <li>artstyle_adj->raw and natural</li>
+  <li>artstyle_adj->geometric</li>
+  <li>artstyle_adj->richly textured</li>
+  <li>artstyle_adj->simple yet profound</li>
+  <li>artstyle_adj->intricate and detailed</li>
+  <li>artstyle_adj->filled with swirling patterns</li>
+  <li>artstyle_adj->abstract and symbolic</li>
+  <li>artstyle_adj->vibrant and lively</li>
+  <li>artstyle_adj->subtle and serene</li>
+  <li>artstyle_adj->gritty and earthy</li>
+  <li>artstyle_adj->bold and dynamic</li>
+  <li>artstyle_adj->harmonious and balanced</li>
+  <li>artstyle_adj->textured and tactile</li>
+  <li>artstyle_adj->spiritually resonant</li>
+  <li>ConceptAny->the cycle of life and death</li>
+  <li>ConceptAny->communion with nature</li>
+  <li>ConceptAny->the spiritual connection between man and the cosmos</li>
+  <li>ConceptAny->the harmony of the natural world</li>
+  <li>ConceptAny->ancient rituals and ceremonies</li>
+  <li>ConceptAny->mythical narratives</li>
+  <li>ConceptAny->the complexities of human existence</li>
+  <li>ConceptAny->the mysticism of ancient civilizations</li>
+  <li>ConceptAny->the mysteries of the cosmos</li>
+  <li>ConceptAny->the interconnectedness of life</li>
+  <li>ConceptAny->the cycle of seasons</li>
+  <li>ConceptAny->ancient storytelling</li>
+  <li>ConceptAny->the wonders of nature</li>
+  <li>ConceptAny->sacred geometry</li>
+  <li>ConceptAny->spiritual awakening</li>
+  <li>activity->a ritual dance</li>
+  <li>activity->a hunting scene</li>
+  <li>activity->a gathering or celebration</li>
+  <li>activity->agricultural activities</li>
+  <li>activity->an ancestral ceremony</li>
+  <li>activity->a storytelling session</li>
+  <li>activity->a spiritual ceremony</li>
+  <li>activity->a scene of barter or trade</li>
+  <li>activity->a moment of community bonding</li>
+  <li>activity->a group engaged in artistic creation</li>
+  <li>Community->a Neolithic village</li>
+  <li>Community->an ancient gathering space</li>
+  <li>Community->a primitive settlement</li>
+  <li>Community->a bustling marketplace</li>
+  <li>Community->a sacred ritual site</li>
+  <li>Community->a fertile agricultural land</li>
+  <li>Community->a vibrant gathering of tribes</li>
+  <li>TerrainFeature->a water body</li>
+  <li>TerrainFeature->a mountainous backdrop</li>
+  <li>TerrainFeature->a dense forest</li>
+  <li>TerrainFeature->a field with wild flora</li>
+  <li>TerrainFeature->a sprawling plain</li>
+  <li>TerrainFeature->a serene riverbank</li>
+  <li>TerrainFeature->a vibrant oasis</li>
+  <li>TerrainFeature->a sacred grove</li>
+  <li>Quantity_adjphrase->a plethora of</li>
+  <li>Quantity_adjphrase->a few scattered</li>
+  <li>Quantity_adjphrase->numerous intertwined</li>
+  <li>Quantity_adjphrase->an array of</li>
+  <li>Quantity_adjphrase->a harmonious array of</li>
+  <li>Quantity_adjphrase->a vibrant collection of</li>
+  <li>Quantity_adjphrase->a detailed depiction of several</li>
+  <li>Quantity_adjphrase->an abstract representation of many</li>
+   -->
+  <VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+  <li>style_groupTwo->[artextra_clauseTwo]. [style_clauseTwo].</li>
+  <li>style_groupTwo->[style_clauseTwo], что [artconjunctionTwo].</li>
+  <li>style_groupTwo->[style_clauseTwo].</li>
+  <li>style_groupTwo->[artextra_clauseTwo]. Всё это [artconjunctionTwo].</li>
+  <li>style_groupTwo->[artextra_clauseTwo].</li>
+
+  <li>artconjunctionTwo->притягивает взгляд зрителя</li>
+  <li>artconjunctionTwo->добавляет глубины произведению искусства</li>
+  <li>artconjunctionTwo->надолго запоминается своими яркими образами</li>
+  <li>artconjunctionTwo->отражает жизнь примитивных племён</li>
+  <li>artconjunctionTwo->показывает связь древней культуры и современности</li>
+  
+  <li>artextra_clauseTwo->Эта работа изображает [subimagepluralOne], которые [activityTwo]</li>
+  <li>artextra_clauseTwo->[side_positionTwo] изображён примитивный образ [subimagesingleOne]</li>
+  <li>artextra_clauseTwo->Изображение показывает запоминающуюся сцену из жизни [CommunityTwo]</li>
+  <li>artextra_clauseTwo->Группа [subimagepluralTwo] изображена в виде неровного круга. Недалеко от них виднеется [TerrainFeatureTwo]</li>
+  <li>artextra_clauseTwo->[Quantity_adjphraseTwo] [subimagepluralTwo] рассказывают историю древних времён</li>
+  <li>artextra_clauseTwo->На переднем плане угадываются племенные мотивы, изображающие [subimagepluralOne]</li>
+  <li>artextra_clauseTwo->Примитивно исполненные образы [subimagesingleOne] и [subimagepluralTwo], по видимому, передают содержание одной из древних легенд</li>
+
+  <li>subimagesingleOne(p=6)->древнего человека</li>
+  <li>subimagesingleOne->незамысловатого жилища</li>
+  <li>subimagesingleOne->старого дерева</li>
+  <li>subimagesingleOne->солнца и луны</li>
+  <li>subimagesingleOne->мистического символа</li>
+  <li>subimagesingleOne->небесного тела</li>
+  <li>subimagesingleOne->доисторического животного</li>
+  <li>subimagesingleOne->узора из отпечатков ладоней</li>
+  
+  <li>subimagesingleTwo(p=6)->древнего человека</li>
+  <li>subimagesingleTwo->незамысловатого жилища</li>
+  <li>subimagesingleTwo->старого дерева</li>
+  <li>subimagesingleTwo->солнца и луны</li>
+  <li>subimagesingleTwo->мистического символа</li>
+  <li>subimagesingleTwo->небесного тела</li>
+  <li>subimagesingleTwo->доисторического животного</li>
+  <li>subimagesingleTwo->узора из отпечатков ладоней</li>
+  
+  <li>subimagepluralOne(p=5)->стилизованных животных</li>
+  <li>subimagepluralOne->примитивные геометрические фигуры</li>
+  <li>subimagepluralOne->природные узоры</li>
+  <li>subimagepluralOne->отпечатки рук</li>
+  <li>subimagepluralOne->религиозные символы</li>
+  <li>subimagepluralOne->небесные тела</li>
+  
+  <li>subimagepluralTwo(p=5)->стилизованных животных</li>
+  <li>subimagepluralTwo->примитивных геометрических фигур</li>
+  <li>subimagepluralTwo->природных узоров</li>
+  <li>subimagepluralTwo->отпечатков рук</li>
+  <li>subimagepluralTwo->религиозных символов</li>
+  <li>subimagepluralTwo->небесных тел</li>
+  
+  <li>side_positionTwo->В центре работы</li>
+  <li>side_positionTwo->В верхней части работы</li>
+  <li>side_positionTwo->В нижней части работы</li>
+  <li>side_positionTwo->У нижнего края предмета, образуя естественное обрамление,</li>
+  <li>side_positionTwo->В центре работы, привлекая внимание,</li>
+  <li>side_positionTwo->У нижнего края предмета, образуя гармоничный узор,</li>
+  
+  <li>style_clauseTwo(p=4)->Изображение, по всей видимости, выражает идею [ConceptAnyTwo]</li>
+  <li>style_clauseTwo->Работа наполнена идеей [ConceptAnyTwo] и имеет [artstyle_adjTwo] стиль</li>
+  <li>style_clauseTwo->Работа раскрывает тему [ConceptAnyTwo]</li>
+  <li>style_clauseTwo->Изображение отражает связь [ConceptAnyTwo] и [ConceptAnyTwo]</li>
+  <li>style_clauseTwo->Работа содержит [Color] и [Color] цвета, и их гармоничные сочетания, образующие уникальный [artstyle_adjTwo] стиль</li>
+  <li>style_clauseTwo->Изображение имеет [artstyle_adjTwo] стиль и его структура довольно [composition]</li>
+  
+  <li>composition->динамичная</li>
+  <li>composition->статичная</li>
+  <li>composition->хорошо сбалансированная</li>
+  <li>composition->несбалансированная</li>
+  <li>composition->квадратная</li>
+  <li>composition->прямоугольная</li>
+  <li>composition->треугольная</li>
+
+  <li>artstyle_adjTwo->приземлённый, природный</li>
+  <li>artstyle_adjTwo->примитивный</li>
+  <li>artstyle_adjTwo->натуральный, грубый</li>
+  <li>artstyle_adjTwo->геометрический</li>
+  <li>artstyle_adjTwo->простой, но запоминающийся</li>
+  <li>artstyle_adjTwo->детально проработанный</li>
+  <li>artstyle_adjTwo->наполненный закрученными узорами</li>
+  <li>artstyle_adjTwo->абстрактный и символический</li>
+  <li>artstyle_adjTwo->яркий, живой</li>
+  <li>artstyle_adjTwo->утонченный и безмятежный</li>
+  <li>artstyle_adjTwo->грубый и приземлённый</li>
+  <li>artstyle_adjTwo->смелый и динамичный</li>
+  <li>artstyle_adjTwo->гармоничный, сбалансированный</li>
+  <li>artstyle_adjTwo->фактурный и тактильный</li>
+  <li>artstyle_adjTwo->духовно резонирующий</li>
+  <li>ConceptAnyTwo->цикла жизни и смерти</li>
+  <li>ConceptAnyTwo->единения с природой</li>
+  <li>ConceptAnyTwo->духовной связи человека с космосом</li>
+  <li>ConceptAnyTwo->природной гармонии</li>
+  <li>ConceptAnyTwo->древних ритуалов и церемоний</li>
+  <li>ConceptAnyTwo->мифических повествований</li>
+  <li>ConceptAnyTwo->сложности человеческого существования</li>
+  <li>ConceptAnyTwo->мистицизма древних цивилизаций</li>
+  <li>ConceptAnyTwo->загадок космоса</li>
+  <li>ConceptAnyTwo->взаимосвязанности жизни</li>
+  <li>ConceptAnyTwo->смены времён года</li>
+  <li>ConceptAnyTwo->древних сказаний</li>
+  <li>ConceptAnyTwo->чудес природы</li>
+  <li>ConceptAnyTwo->непостижимых загадок жизни</li>
+  <li>ConceptAnyTwo->духовного пробуждения</li>
+  <li>activityTwo->исполняют ритуальный танец</li>
+  <li>activityTwo->участвуют в охоте</li>
+  <li>activityTwo->собираются на общий праздник</li>
+  <li>activityTwo->занимаются сбором урожая</li>
+  <li>activityTwo->принимают участие в древней церемонии</li>
+  <li>activityTwo->рассказывают древнюю легенду</li>
+  <li>activityTwo->проводят духовную церемонию</li>
+  <li>activityTwo->участвуют в </li>
+  <li>activityTwo->символизируют благополучие</li>
+  <li>activityTwo->символизируют природное равновесие</li>
+  <li>CommunityTwo->первобытной общины</li>
+  <li>CommunityTwo->древнего святилища</li>
+  <li>CommunityTwo->примитивного поселения</li>
+  <li>CommunityTwo->давно забытой цивилизации</li>
+  <li>CommunityTwo->местных племён диких людей</li>
+  <li>TerrainFeatureTwo->небольшое озеро</li>
+  <li>TerrainFeatureTwo->горный пейзаж</li>
+  <li>TerrainFeatureTwo->мрачный, густой лес</li>
+  <li>TerrainFeatureTwo->поле, усыпанное цветами</li>
+  <li>TerrainFeatureTwo->просторная равнина</li>
+  <li>TerrainFeatureTwo->безмятежно журчащая река</li>
+  <li>TerrainFeatureTwo->живительный оазис</li>
+  <li>TerrainFeatureTwo->священная роща</li>
+  <li>Quantity_adjphraseTwo->Множество нарисованных</li>
+  <li>Quantity_adjphraseTwo->Несколько нарисованных</li>
+  <li>Quantity_adjphraseTwo->Множество переплетённых между собой</li>
+  <li>Quantity_adjphraseTwo->Целый ряд изображённых</li>
+  <li>Quantity_adjphraseTwo->Гармоничный узор из</li>
+  <li>Quantity_adjphraseTwo->Детальное изображение нескольких</li>
+  <li>Quantity_adjphraseTwo->Абстрактное изображение множества</li>
+  </VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+</LanguageData>
