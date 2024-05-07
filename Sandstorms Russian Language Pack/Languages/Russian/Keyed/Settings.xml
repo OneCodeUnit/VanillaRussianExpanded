@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Sandstorms -->
+  <NCSS_Settings_SettingsCategory>Sandstorms</NCSS_Settings_SettingsCategory>
+  <!-- EN: Reset settings -->
+  <NCSS_Settings_Reset>Сбросить настройки</NCSS_Settings_Reset>
+
+  <!-- EN: Sand piles up -->
+  <NCSS_Settings_EnableLeftOverSand>Песок накапливается в кучи</NCSS_Settings_EnableLeftOverSand>
+  <!-- EN: During sandstorms sand will slowly accumulate on the map and will need to be cleared by the user. -->
+  <NCSS_Settings_EnableLeftOverSand_Tip>Во время песчаной бури на карте будет медленно накапливаться песок, который надо будет убирать.</NCSS_Settings_EnableLeftOverSand_Tip>
+
+  <!-- EN: Sandstorms break down buildings -->
+  <NCSS_Settings_EnableBreakdowns>Песчаные бури ломают сооружения</NCSS_Settings_EnableBreakdowns>
+  <!-- EN: During sandstorms buildings that are not indoors will randomly break. -->
+  <NCSS_Settings_EnableBreakdowns_Tip>Во время песчаной бури конструкции, находящиеся не в помещениях, могут быть поломаны.</NCSS_Settings_EnableBreakdowns_Tip>
+
+  <!-- EN: Use different sand texture -->
+  <NCSS_Settings_UseAlternativeSandTexture>Использовать альтернативную текстуру песка</NCSS_Settings_UseAlternativeSandTexture>
+
+  <!-- EN: By default the terrain sand texture will be re-used for fallen sand. Enabling this will swap the texture out for a different looking one.\n\n(Requires restart to take effect) -->
+  <NCSS_Settings_UseAlternativeSandTexture_Tip>По умолчанию для принесённого бурей песка используется такая же текстура, как и для обычной песчаной поверхности. Включение этой настройки поменяет текстуру песчаных дюн на другую.\n\n(Требуется перезапуск игры)</NCSS_Settings_UseAlternativeSandTexture_Tip>
+  
+  <!-- EN: Require nearby sandstorm biome -->
+  <NCSS_Settings_RequireSandstormBiomeNearby>Песчаные бури только рядом с пустынями</NCSS_Settings_RequireSandstormBiomeNearby>
+  <!-- EN: If turned off, any map can have sandstorms, even if there is no desert nearby. -->
+  <NCSS_Settings_RequireSandstormBiomeNearby_Tip>Если отключить эту функцию, песчаные бури будут возникать на любой карте, даже если поблизости нет пустыни.</NCSS_Settings_RequireSandstormBiomeNearby_Tip>
+  
+  <!-- EN: Distance to sandstorm biome: {0} tiles -->
+  <NCSS_Settings_DistanceToSearchForSandstormBiome>Минимальное расстояние до ближайшей пустыни: {0_numCase ? клетка : клетки : клеток}</NCSS_Settings_DistanceToSearchForSandstormBiome>
+  
+  <!-- EN: Chance to break down electronics: {0} -->
+  <NCSS_Settings_ChanceToBreakDown>Шанс вывести из строя электронику: {0}</NCSS_Settings_ChanceToBreakDown>
+  <!-- EN: The chance to break down electronics is used every {AVERAGEINTERVAL} during a sandstorm. -->
+  <NCSS_Settings_ChanceToBreakDown_Tip>Шанс вывести из строя электронику во время песчаной бури раз в {AVERAGEINTERVAL}.</NCSS_Settings_ChanceToBreakDown_Tip>
+  
+  <!-- EN: Clear sand during sandstorms -->
+  <NCSS_Settings_ClearSandDuringSandstorms>Расчистка песка во время песчаной бури</NCSS_Settings_ClearSandDuringSandstorms>
+  <!-- EN: Turning this on will trigger the cleaning job on fallen sand even while a sandstorm is going on. -->
+  <NCSS_Settings_ClearSandDuringSandstorms_Tip>Если включить эту функцию, то уборка принесённого ветром песка будет производиться даже во время песчаной бури.</NCSS_Settings_ClearSandDuringSandstorms_Tip>
+  
+  <!-- EN: Allow fallen sand on sand terrain -->
+  <NCSS_Settings_CanFallenSandBeOnSandTerrain>Разрешить засыпать песком песчаную местность</NCSS_Settings_CanFallenSandBeOnSandTerrain>
+  <!-- EN: Will allow sandstorms to put fallen sand on natural sand cells.\n\nUsing this setting will prevent odd behaviour where pawns prefer to walk over pure sand rather than sand covered concrete, asphalt, etc.\n\nThis may elevate existing performance issues on maps with a lot of sand cells. -->
+  <NCSS_Settings_CanFallenSandBeOnSandTerrain_Tip>Позволяет бурям засыпать песком природную песчаную местность.\n\nИспользование этой настройки позволит избежать странного поведения, когда пешки предпочитают ходить по чистому песку, а не по покрытому песком бетону, асфальту и т.д.\n\nЭто может снизить производительность на картах с большим количеством песчаных клеток местности.</NCSS_Settings_CanFallenSandBeOnSandTerrain_Tip>
+  
+  <!-- EN: Natural sand build-up multiplier: {MULTIPLIER} -->
+  <NCSS_Settings_NaturalSandBuildupMultiplier>Множитель накопления песка: {MULTIPLIER}</NCSS_Settings_NaturalSandBuildupMultiplier>
+  <!-- EN: How quickly sand will build up during sandstorms. -->
+  <NCSS_Settings_NaturalSandBuildupMultiplier_Tip>Как быстро будет накапливаться песок во время песчаных бурь.</NCSS_Settings_NaturalSandBuildupMultiplier_Tip>
+  
+  <!-- EN: Natural sand removal multiplier: {MULTIPLIER} -->
+  <NCSS_Settings_NaturalSandRemovalMultiplier>Множитель развеивания песка: {MULTIPLIER}</NCSS_Settings_NaturalSandRemovalMultiplier>
+  <!-- EN: How quickly sand will dissipate naturally due to wind while there is no sandstorm ongoing. Can be set to 0 to prevent sand from being removed naturally. -->
+  <NCSS_Settings_NaturalSandRemovalMultiplier_Tip>Скорость развеивания песка ветром при отсутствии песчаной бури. Можно установить значение 0, чтобы песок не исчезал естественным путем.</NCSS_Settings_NaturalSandRemovalMultiplier_Tip>
+
+</LanguageData>
