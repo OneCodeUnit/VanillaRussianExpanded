@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Achievements Expanded -->
+  <VAE>Vanilla Achievements Expanded</VAE>
+  <!-- EN: Enable DebugWriter -->
+  <DebugWriter>Включить отладку</DebugWriter>
+  <!-- EN: Are you sure you want to enable the DebugWriter? This will significantly decrease performance in return for Achievement related data. This should only be enabled to track valuable information for debugging. -->
+  <DebugWriterConfirmation>Вы уверены, что хотите включить режим отладки? Он значительно снизит производительность, но позволит получать техническую информацию о достижениях. Это оправдано только для отладки модификаций.</DebugWriterConfirmation>
+  
+  <!-- EN: Write to File -->
+  <GenerateLogInfo>Записать в файл</GenerateLogInfo>
+  <!-- EN: Push achievement related logs to file. For debugging purposes only. -->
+  <GenerateLogInfoTooltip>Записать в файл информацию о достижениях. Исключительно для отладки.</GenerateLogInfoTooltip>
+  <!-- EN: Successfully pushed achievement logs to AchievementLog.txt -->
+  <SuccessfulWriteToFile>Информация о достижениях успешно записана в «AchievementLog.txt»</SuccessfulWriteToFile>
+  
+  <!-- EN: Unlock achievements and earn Storyteller points which you can redeem for various events. -->
+  <SideBarInfo>Открывайте достижения, получайте очки рассказчика и тратьте их на разнообразные события.</SideBarInfo>
+  <!-- EN: Unlock achievements and earn Storyteller points to gauge your performance. -->
+  <VAE_SideBarInfoNoRedeem>Unlock achievements and earn Storyteller points to gauge your performance.</VAE_SideBarInfoNoRedeem>
+  
+  <!-- EN: Storyteller Points -->
+  <StorytellerPoints>Очки рассказчика</StorytellerPoints>
+  
+  <!-- EN: Redeem Points -->
+  <PointsRedeem>Потратить очки на:</PointsRedeem>
+  <!-- EN: Available: {0} -->
+  <PointsAvailable>Доступно: {0}</PointsAvailable>
+  <!-- EN: Total earnt: {0} -->
+  <PointsEarned>Получено: {0}</PointsEarned>
+  
+  <!-- EN: Unlocked with DevMode -->
+  <UnlockedDevMode>Получено в реж. разраб.</UnlockedDevMode>
+  <!-- EN: Locked -->
+  <AchievementLocked>Не получено</AchievementLocked>
+  
+  <!-- EN: Achievements Unlocked: {0} -->
+  <AchievementsUnlocked>Достижений открыто: {0}</AchievementsUnlocked>
+  <!-- EN: Total Achievements Unlocked: {0} -->
+  <AchievementsTotalUnlocked>Всего достижений открыто: {0}</AchievementsTotalUnlocked>
+  <!-- EN: Achievement Unlocked! -->
+  <AchievementUnlocked>Открыто достижение!</AchievementUnlocked>
+  
+  <!-- EN: Failed to redeem reward {0} -->
+  <FailedRewardEvent>Не удалось получить награду {0}</FailedRewardEvent>
+  <!-- EN: Must have map loaded or IncidentTarget object selected on World Map -->
+  <FailedTargetFinder>Должна быть загружена карта или выбрана IncidentTarget на карте мира.</FailedTargetFinder>
+  <!-- EN: Must be purchased with PlayerHome map in view. -->
+  <NoValidMap>Можно получить только во время просмотра территории поселения.</NoValidMap>
+  <!-- EN: Incident not available right now. -->
+  <IncidentNotAvailable>Событие недоступно в данный момент.</IncidentNotAvailable>
+  <!-- EN: Not Enough Points -->
+  <NotEnoughPoints>Недостаточно очков</NotEnoughPoints>
+  
+  <!-- EN: Quest Item -->
+  <RandomQuestRewardItemLetter>Награда за задание</RandomQuestRewardItemLetter>
+  <!-- EN: Random quest item dropped! -->
+  <RandomQuestRewardItem>Прибыл контейнер со случайной наградой за задание!</RandomQuestRewardItem>
+	
+  <!-- EN: Use achievement points reward system -->
+  <VAE_UsePointsSystem>Use achievement points reward system</VAE_UsePointsSystem>	
+  <!-- EN: By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count. -->
+	<VAE_UsePointsSystemDesc>By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count.</VAE_UsePointsSystemDesc>
+	
+  <!-- EN: Collate mod tabs -->
+	<VAE_CollateModTabs>Collate mod tabs</VAE_CollateModTabs>	
+  <!-- EN: By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs -->
+	<VAE_CollateModTabsDesc>By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs</VAE_CollateModTabsDesc>
+		
+  <!-- EN: Hidden until monolith level {0} -->
+	<VAE_AchievementHidden>Hidden until monolith level {0}</VAE_AchievementHidden>
+</LanguageData>
