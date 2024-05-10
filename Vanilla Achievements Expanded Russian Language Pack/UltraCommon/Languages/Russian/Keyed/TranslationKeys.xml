@@ -17,7 +17,7 @@
   <!-- EN: Unlock achievements and earn Storyteller points which you can redeem for various events. -->
   <SideBarInfo>Открывайте достижения, получайте очки рассказчика и тратьте их на разнообразные события.</SideBarInfo>
   <!-- EN: Unlock achievements and earn Storyteller points to gauge your performance. -->
-  <VAE_SideBarInfoNoRedeem>Unlock achievements and earn Storyteller points to gauge your performance.</VAE_SideBarInfoNoRedeem>
+  <VAE_SideBarInfoNoRedeem>Открывайте достижения, получайте очки рассказчика и гордитесь своим прогрессом.</VAE_SideBarInfoNoRedeem>
   
   <!-- EN: Storyteller Points -->
   <StorytellerPoints>Очки рассказчика</StorytellerPoints>
@@ -56,17 +56,17 @@
   <RandomQuestRewardItemLetter>Награда за задание</RandomQuestRewardItemLetter>
   <!-- EN: Random quest item dropped! -->
   <RandomQuestRewardItem>Прибыл контейнер со случайной наградой за задание!</RandomQuestRewardItem>
-	
+  
   <!-- EN: Use achievement points reward system -->
-  <VAE_UsePointsSystem>Use achievement points reward system</VAE_UsePointsSystem>	
+  <VAE_UsePointsSystem>Включить систему наград за достижения</VAE_UsePointsSystem>  
   <!-- EN: By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count. -->
-	<VAE_UsePointsSystemDesc>By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count.</VAE_UsePointsSystemDesc>
-	
+  <VAE_UsePointsSystemDesc>По умолчанию за получение достижений игрок получает очки, которые можно обменять на торговые караваны, события, налёты и т.д. При включении этого параметра данная система отключается и очки начисляются просто для красоты.</VAE_UsePointsSystemDesc>
+  
   <!-- EN: Collate mod tabs -->
-	<VAE_CollateModTabs>Collate mod tabs</VAE_CollateModTabs>	
+  <VAE_CollateModTabs>Сортировка вкладок модов</VAE_CollateModTabs>  
   <!-- EN: By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs -->
-	<VAE_CollateModTabsDesc>By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs</VAE_CollateModTabsDesc>
-		
+  <VAE_CollateModTabsDesc>Выбрав это, все достижения из всех модов будут объединены в одну вкладку «Из модов». Используйте эту настройку, если у вас много модов с достижениями, из-за чего ваше окно достижений выглядит как ряд бесконечных малых вкладок</VAE_CollateModTabsDesc>
+  
   <!-- EN: Hidden until monolith level {0} -->
-	<VAE_AchievementHidden>Hidden until monolith level {0}</VAE_AchievementHidden>
+  <VAE_AchievementHidden>Скрыто до достижения монолитом уровня {0}</VAE_AchievementHidden>
 </LanguageData>
