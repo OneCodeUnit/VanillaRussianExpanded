@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ArchoGacha -->
+  <ArchoGachaCategory>ArchoGacha</ArchoGachaCategory>
+  <!-- EN: View Active ArchoGacha Banners -->
+  <ArchoGacha_CallLabel>Открыть баннеры ArchoGacha</ArchoGacha_CallLabel>
+  <!-- EN: ArchoGacha -->
+  <GetInfoText>ArchoGacha</GetInfoText>
+  <!-- EN: Banners -->
+  <ArchoGacha_GachaBanners>Баннеры</ArchoGacha_GachaBanners>
+  <!-- EN: Pity reserve: {0} silver -->
+  <ArchoGacha_Pity>Резерв гаранта: {0} серебра</ArchoGacha_Pity>
+  <!-- EN: Pity count: {0} -->
+  <ArchoGacha_PityCount>Число гаранта: {0}</ArchoGacha_PityCount>
+  <!-- EN: Featured Ultra-Rare reward ({0}): -->
+  <ArchoGacha_JackpotPrizes>Ультраредкая награда события ({0}):</ArchoGacha_JackpotPrizes>
+  <!-- EN: Featured Rare rewards ({0}): -->
+  <ArchoGacha_ConsolationPrizes>Редкие награды события ({0}):</ArchoGacha_ConsolationPrizes>
+  <!-- EN: Please select a banner from the list on the left. -->
+  <ArchoGacha_PleaseSelectBanner>Пожалуйста, выберите баннер из списка слева.</ArchoGacha_PleaseSelectBanner>
+  
+  <!-- EN: {0} remaining -->
+  <ArchoGacha_TimeRemaining>Осталось {0}</ArchoGacha_TimeRemaining>
+  <!-- EN: ArchoGacha Banners have been refreshed -->
+  <ArchoGacha_BannersRefreshedMessage>Баннеры ArchoGacha были обновлены</ArchoGacha_BannersRefreshedMessage>
+  <!-- EN: ArchoGacha Banners Refreshed -->
+  <ArchoGacha_BannersRefreshedLabel>Обновление баннеров ArchoGacha</ArchoGacha_BannersRefreshedLabel>
+  <!-- EN: Dear creature,\n\nA new series of ArchoGacha Banners has become available.\n\nPlease got to a commms console to find out more! -->
+  <ArchoGacha_BannersRefreshed>Уважаемое %существоИмя%!\n\nВ ArchoGacha стал доступен новый набор баннеров.\n\nСкорее подключитесь к консоли связи, чтобы узнать подробности!</ArchoGacha_BannersRefreshed>
+  <!-- EN: Ultra-Rare Prize -->
+  <ArchoGacha_JackpotLetterLabel>Ультраредкий приз</ArchoGacha_JackpotLetterLabel>
+  <!-- EN: Congratulations creature, the ultra-Rare prize '{0}' is now yours! -->
+  <ArchoGacha_JackpotLetter>Уважаемое %существоИмя%, ультраредкий приз «{0}» теперь ваш!</ArchoGacha_JackpotLetter>
+  <!-- EN: Rare prize: {0} -->
+  <ArchoGacha_Consolation>Редкий приз: {0}</ArchoGacha_Consolation>
+  <!-- EN: A randomly generated prize -->
+  <ArchoGacha_ReplacedByRandom>Случайно сгенерированный приз</ArchoGacha_ReplacedByRandom>
+  <!-- EN: Prizes in this tier have already been claimed or failed to generate and will instead be replaced by a random prize following the same rules. -->
+  <ArchoGacha_ReplacedByRandomDesc>Вы уже получили призы на этом уровне или их не удалось создать, поэтому они были заменены аналогичными случайными призами.</ArchoGacha_ReplacedByRandomDesc>
+  
+  <!-- EN: Probability Breakdown: -->
+  <ArchoGacha_Instructions_ProbBreakdown>Раскрытие шансов:</ArchoGacha_Instructions_ProbBreakdown>
+  <!-- EN: - The base chance to obtain an ultra rare reward is {0}. -->
+  <ArchoGacha_Instructions_ProbJackpot>- Базовый шанс получить ультраредкую награду — {0}.</ArchoGacha_Instructions_ProbJackpot>
+  <!-- EN:      You are guaranteed to obtain an ultra rare reward should your pity reserve exceed {0}. -->
+  <ArchoGacha_Instructions_ProbPity>     Вы гарантировано получите ультраредкую награду, если ваш резерв гаранта превысит {0}.</ArchoGacha_Instructions_ProbPity>
+  <!-- EN:      You are guaranteed to obtain an ultra rare reward should your pity reserve exceed the market value of the featured ultra rare reward. -->
+  <ArchoGacha_Instructions_ProbPityUncalculated>     Вы гарантировано получите ультраредкую награду, если ваш резерв гаранта превысит рыночную стоимость ультраредкой награды события.</ArchoGacha_Instructions_ProbPityUncalculated>
+  <!-- EN: - The base chance to obtain a rare reward is {0}. -->
+  <ArchoGacha_Instructions_ProbConsolation>- Базовый шанс получить редкую награду — {0}.</ArchoGacha_Instructions_ProbConsolation>
+  <!-- EN: \nBoosted Rates: -->
+  <ArchoGacha_Instructions_Rates>\nГарантированные вероятности:</ArchoGacha_Instructions_Rates>
+  <!-- EN: - The first time an ultra rare reward is obtained, there is a {0} chance to obtain the featured reward. -->
+  <ArchoGacha_Instructions_RatesJackpot>- В первый раз, когда выпадает ультраредкая награда, есть {0} шанс, что это будет награда события.</ArchoGacha_Instructions_RatesJackpot>
+  <!-- EN:      If the ultra rare reward you obtain is not the featured reward, then the next ultra rare reward you obtain is guaranteed to be the featured ultra rare reward. -->
+  <ArchoGacha_Instructions_RatesJackpotLoss>     Если вы получили не ультраредкую награду события, то следующая ультраредкая награда, гарантированно будет являться наградой события.</ArchoGacha_Instructions_RatesJackpotLoss>
+  <!-- EN: - When a rare reward is obtained, there is a {0} chance to obtain a featured rare reward. -->
+  <ArchoGacha_Instructions_RatesConsolation>- При получении редкой награды есть {0} шанс, что это будет редкая награда события.</ArchoGacha_Instructions_RatesConsolation>
+  <!-- EN: - Featured rewards can only be obtained once per banner. -->
+  <ArchoGacha_Instructions_FeatureSingleton>- Награда события может быть получена только один раз за баннер.</ArchoGacha_Instructions_FeatureSingleton>
+  <!-- EN: - Pity reserves and feature guarantees are shared between banners and carry over between banner refreshes. -->
+  <ArchoGacha_Instructions_PityTransfer>- Резервы гаранта и гарант события переносятся между баннерами и сохраняются при обновлении баннера.</ArchoGacha_Instructions_PityTransfer>
+
+  <!-- EN: Banner duration (days) -->
+  <ArchoGacha_bannerDurationDays>Продолжительность баннера (в днях)</ArchoGacha_bannerDurationDays>
+  <!-- EN: How long active Banners last for\n\nDefault: 4 -->
+  <ArchoGacha_bannerDurationDaysTooltip>Как долго длится активный баннер\n\nПо умолчанию: 4</ArchoGacha_bannerDurationDaysTooltip>
+  <!-- EN: Send Letter notifying of Banner Refreshes -->
+  <ArchoGacha_letterOnBannerRefresh>Отправлять сообщение, уведомляющее об обновлении баннеров</ArchoGacha_letterOnBannerRefresh>
+  <!-- EN: Minimum Ultra-Rare prize value -->
+  <ArchoGacha_minJackpotOffset>Минимальная ценность ультраредкой награды</ArchoGacha_minJackpotOffset>
+  <!-- EN: The absolute minimum value Ultra-Rare prizes will try to generate to.\nOverriden by individual banners if their specified minimum prize value is higher.\n\nDefault: 500 -->
+  <ArchoGacha_minJackpotOffsetTooltip>Абсолютный минимум ценности генерируемых ультраредких призов.\nПереопределяется отдельными баннерами, если их минимальная ценность приза выше.\n\nПо умолчанию: 500</ArchoGacha_minJackpotOffsetTooltip>
+<!--  <ArchoGacha_useGlobalConsolationOffset></ArchoGacha_useGlobalConsolationOffset>-->
+<!--  <ArchoGacha_minConsolationOffset></ArchoGacha_minConsolationOffset>-->
+  <!-- EN: Use active banner limit -->
+  <ArchoGacha_limitBanners>Ограничить количество активных баннеров</ArchoGacha_limitBanners>
+  <!-- EN: Active banner limit -->
+  <ArchoGacha_bannerLimit>Лимит активных баннеров</ArchoGacha_bannerLimit>
+  <!-- EN: The amount of banners that will generate after the current banners end\n\nDefault: 4 -->
+  <ArchoGacha_bannerLimitTooltip>Количество баннеров, которые будут созданы после завершения текущих\n\nПо умолчанию: 4</ArchoGacha_bannerLimitTooltip>
+  <!-- EN: Ultra-rare chance -->
+  <ArchoGacha_jackpotChance>Шанс ультраредкой награды</ArchoGacha_jackpotChance>
+  <!-- EN: The chance of pulling an ultra-rare reward\n\nDefault: 0.006 -->
+  <ArchoGacha_jackpotChanceTooltip>Шанс вытянуть ультраредкую награду\n\nПо умолчанию: 0.006</ArchoGacha_jackpotChanceTooltip>
+  <!-- EN: ArchoGacha profit margin -->
+  <ArchoGacha_pullPriceFactor>Маржинальность наград ArchoGacha</ArchoGacha_pullPriceFactor>
+  <!-- EN: The price multiplier to the cost of pulling on banners compared to the real cost of the item. Higher is more realistic.\n\nDefault: 1.25 -->
+  <ArchoGacha_pullPriceFactorTooltip>Множитель стоимости выбивания из баннеров к реальной стоимости товара. Высокие значения более реалистичны.\n\nПо умолчанию: 1.25</ArchoGacha_pullPriceFactorTooltip>
+  <!-- EN: Ultra-rare featured chance -->
+  <ArchoGacha_getFeatured>Шанс ультраредкой награды события</ArchoGacha_getFeatured>
+  <!-- EN: When pulling an ultra-rare reward, the chance that you will pull the featured reward\n\nDefault: 0.5 -->
+  <ArchoGacha_getFeaturedTooltip>Шанс получения именно ультраредкого предмета события при крутках\n\nПо умолчанию: 0.5</ArchoGacha_getFeaturedTooltip>
+  <!-- EN: Consolation featured chance -->
+  <ArchoGacha_getConsolationFeatured>Шанс утешительной награды события</ArchoGacha_getConsolationFeatured>
+  <!-- EN: When pulling a consolation reward, the chance that you will pull a featured reward\n\nDefault: 0.75 -->
+  <ArchoGacha_getConsolationFeaturedTooltip>Шанс того, что утешительная награда будет наградой события\n\nПо умолчанию: 0.75</ArchoGacha_getConsolationFeaturedTooltip>
+  <!-- EN: DEBUG: Always pullable -->
+  <ArchoGacha_debugAlwaysPullable>ОТЛАДКА: баннеры всегда крутибельны</ArchoGacha_debugAlwaysPullable>
+</LanguageData>
