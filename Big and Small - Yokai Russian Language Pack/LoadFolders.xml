@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.4>
+    <li>Common</li>
+    <li IfModNotActive="RedMattis.Undead">Undead</li>
+  </v1.4>
+  <v1.5>
+    <li>Common</li>
+    <li IfModNotActive="RedMattis.Undead">Undead</li>
+    <li IfModActive="Ludeon.Rimworld.Anomaly">Anomaly</li>
+  </v1.5>
+</loadFolders>
