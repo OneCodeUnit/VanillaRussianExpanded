@@ -1,4 +1,158 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- CHANGE NOTES -->
+
+<!-- v1.5.8 -->
+<!-- ADDED: EdB.PC.Dialog.Implant.InstallImplantLabel -->
+<!-- ADDED: EdB.PC.Dialog.Implant.LevelLabel -->
+<!-- ADDED: EdB.PC.Dialog.Implant.RequiredImplantMessage -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.RandomMechLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel -->
+<!-- ADDED: EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel -->
+<!-- ADDED: EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech -->
+<!-- ADDED: EdB.PC.Equipment.Type.Mechs -->
+
+<!-- v1.5.3 -->
+<!-- ADDED: EdB.PC.Panel.Apparel.ApparelLocked -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.DefaultStyleOption -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.StyleLabel -->
+<!-- ADDED: EdB.PC.AddRelationship.Compatibility -->
+<!-- ADDED: EdB.PC.AddRelationship.UnknownCompatibility -->
+
+<!-- v1.5.1 -->
+<!-- ADDED: EdB.PC.Dialog.ManageApparel.AllLayers -->
+<!-- ADDED: EdB.PC.Dialog.ManageApparel.AddApparelButton -->
+<!-- ADDED: EdB.PC.Dialog.ManageApparel.UpdateApparelButton -->
+<!-- ADDED: EdB.PC.Dialog.Abilties.PsycastLevelLabel -->
+<!-- ADDED: EdB.PC.Dialog.Preset.Error.FailedToLoad -->
+<!-- ADDED: EdB.PC.Panel.AvailableEquipment.AddButtonLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.DefaultSpawnTypeOption -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.GenderLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.HitPointsLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.MaterialLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.QualityLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel -->
+<!-- ADDED: EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel -->
+<!-- ADDED: EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal -->
+<!-- ADDED: EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession -->
+<!-- ADDED: EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear -->
+<!-- ADDED: EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith -->
+<!-- ADDED: EdB.PC.Equipment.DefaultOption -->
+<!-- ADDED: EdB.PC.Page.Points.CostSummary.Possessions -->
+<!-- ADDED: EdB.PC.Panel.Backstory.FavoriteColorLabel -->
+
+<!-- v1.4.1 -->
+<!-- ADDED: EdB.PC.Page.Points.DisablePoints -->
+<!-- ADDED: EdB.PC.Panel.Randomize.Tip.DevelopmentalStage -->
+<!-- ADDED: EdB.PC.Panel.Randomize.Tip.Xenotype -->
+<!-- ADDED: EdB.PC.Panel.Age.Label.BiologicalAge -->
+<!-- ADDED: EdB.PC.Panel.Age.Label.ChronologicalAge -->
+<!-- ADDED: EdB.PC.Panel.Age.Label.Years -->
+<!-- ADDED: EdB.PC.Panel.Age.Label.Days -->
+
+<!-- v1.3.9 -->
+<!-- ADDED: EdB.PC.Dialog.Abilities.Header -->
+<!-- ADDED: EdB.PC.Dialog.Titles.Header -->
+<!-- ADDED: EdB.PC.Panel.Abilities.None -->
+<!-- ADDED: EdB.PC.Panel.Titles.None -->
+<!-- ADDED: EdB.PC.Panel.Header.None -->
+
+<!-- v1.3.6 -->
+<!-- REMOVED: EdB.PC.Panel.Traits.Warning.TooManyTraits -->
+
+<!-- CHANGE NOTES -->
+<!-- v1.3.1 -->
+<!-- NEW: EdB.PC.Dialog.FavoriteColor.Header -->
+<!-- NEW: EdB.PC.Panel.PawnList.Add -->
+<!-- NEW: EdB.PC.Panel.PawnList.Load -->
+<!-- NEW: EdB.PC.Pawn.PawnLayer.Beard -->
+<!-- NEW: EdB.PC.Pawn.PawnLayer.EyeCovering -->
+<!-- NEW: EdB.PC.Pawn.PawnLayer.FaceTattoo -->
+<!-- NEW: EdB.PC.Pawn.PawnLayer.BodyTattoo -->
+
+<!-- v1.1.1 -->
+<!-- UPDATED: EdB.PC.Error.Initialization -->
+
+<!-- v1.0.12 -->
+<!-- NEW: EdB.PC.Pawn.BodyType.Oval -->
+<!-- NEW: EdB.PC.Equipment.LoadingProgress.Initializing -->
+<!-- NEW: EdB.PC.Equipment.LoadingProgress.StuffDefs -->
+<!-- NEW: EdB.PC.Equipment.LoadingProgress.ThingDefs -->
+<!-- NEW: EdB.PC.Equipment.LoadingProgress.Finished -->
+<!-- REMOVED: EdB.PC.Panel.Health.PartWithInjury -->
+  
+<!-- v1.0.10 -->
+<!-- NEW: EdB.PC.Equipment.AnimalLabel -->
+
+<!-- v0.19.9 -->
+<!-- NEW: EdB.PC.Dialog.Backstory.Filter.MatchesFaction -->
+
+<!-- v0.19.8 -->
+<!-- UPDATED: EdB.PC.Panel.Incapable.Warning -->
+
+<!-- v0.19.6 -->
+<!-- NEW: EdB.PC.Dialog.Backstory.Filter.SkillBonusFull -->
+<!-- NEW: EdB.PC.Error.Initialization -->
+<!-- UPDATED: EdB.PC.Dialog.Backstory.Filter.SkillBonus -->
+<!-- REMOVED: EdB.PC.Dialog.Backstory.Filter.SkillPenalty -->
+
+<!-- v0.19.5 -->
+<!-- NEW: EdB.PC.AddParentChild.Header.CreateTemporaryPawn -->
+<!-- NEW: EdB.PC.AddParentChild.Header.SelectWorldPawn -->
+<!-- NEW: EdB.PC.Common.Select -->
+<!-- NEW: EdB.PC.Dialog.Faction.ChooseFaction -->
+<!-- NEW: EdB.PC.Dialog.Faction.LeaderFaction -->
+<!-- NEW: EdB.PC.Dialog.Faction.NumberedFaction -->
+<!-- NEW: EdB.PC.Dialog.Faction.Random -->
+<!-- NEW: EdB.PC.Dialog.Faction.RandomFaction -->
+<!-- NEW: EdB.PC.Dialog.Faction.SelectRandomFaction -->
+<!-- NEW: EdB.PC.Dialog.Faction.SelectSpecificFaction -->
+<!-- NEW: EdB.PC.Panel.Appearance.WorldPawnAlert -->
+<!-- NEW: EdB.PC.Panel.ColonyPawnList.Title -->
+<!-- NEW: EdB.PC.Panel.Health.PartWithInjury -->
+<!-- NEW: EdB.PC.Panel.PawnList.PawnCount -->
+<!-- NEW: EdB.PC.Panel.WorldPawnList.Title -->
+<!-- NEW: EdB.PC.Pawn.HiddenPawnNameFull -->
+<!-- NEW: EdB.PC.Pawn.HiddenPawnNameShort -->
+<!-- NEW: EdB.PC.Pawn.TemporaryPawnNameFull -->
+<!-- NEW: EdB.PC.Pawn.TemporaryPawnNameShort -->
+<!-- NEW: EdB.PC.Dialog.Backstory.Filter.Add -->
+<!-- NEW: EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes -->
+<!-- NEW: EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties -->
+<!-- NEW: EdB.PC.Dialog.Backstory.Filter.SkillBonus -->
+<!-- NEW: EdB.PC.Dialog.Backstory.Filter.SkillPenalty -->
+<!-- UPDATED: EdB.PC.Panel.PawnList.SelectFaction -->
+<!-- REMOVED: EdB.PC.AddParentChild.AddHiddenPawn -->
+<!-- REMOVED: EdB.PC.AddParentChild.Header.SelectHidden -->
+<!-- REMOVED: EdB.PC.Pawn.HiddenPawnName -->
+
+<!-- v0.17.1.6 -->
+<!-- NEW: EdB.PC.Dialog.Implant.Alert -->
+<!-- NEW: EdB.PC.Dialog.Implant.Alert.Item -->
+<!-- NEW: EdB.PC.Dialog.Implant.Button.Confirm -->
+<!-- NEW: EdB.PC.Dialog.Implant.Conflict -->
+<!-- NEW: EdB.PC.Panel.Traits.Tip.Conflict -->
+<!-- NEW: EdB.PC.Panel.Traits.Tip.Conflict.List.1 -->
+<!-- NEW: EdB.PC.Panel.Traits.Tip.Conflict.List.2 -->
+<!-- NEW: EdB.PC.Panel.Traits.Tip.Conflict.List.Many -->
+<!-- NEW: EdB.PC.Panel.Traits.Tip.Conflict.List.Last -->
+<!-- UPDATED: EdB.PC.Dialog.Implant.Header -->
+<!-- UPDATED: EdB.PC.Panel.Health.HediffTypeImplant -->
+<!-- REMOVED: EdB.PC.Dialog.Implant.Error.Required -->
+<!-- REMOVED: EdB.PC.Panel.Health.SelectImplant -->
+
+<!-- v0.17.1.4 -->
+<!-- NEW: EdB.PC.Common.Default -->
+<!-- NEW: EdB.PC.Common.NoOptionAvailable -->
+<!-- NEW: EdB.PC.Dialog.Preset.Error.NoCharacter -->
+
+<!-- v0.17.1.3 -->
+<!-- NEW: EdB.PC.Dialog.Preset.Error.EquipmentFailed -->
+<!-- NEW: EdB.PC.Dialog.Preset.Error.PartialSaveFailure -->
+<!-- NEW: EdB.PC.Dialog.Preset.Error.SaveFailed -->
+<!-- UPDATED: EdB.PC.Panel.RelationshipsParentChild.Title -->
+
 <LanguageData>
   <!-- EN: Add a Parent -->
   <EdB.PC.AddParentChild.Header.AddParent>Добавить родителя</EdB.PC.AddParentChild.Header.AddParent>
@@ -120,6 +274,12 @@
   <EdB.PC.Dialog.Implant.Conflict>Этот имплант не может быть установлен, поскольку он конфликтует с:\n\n- {0}, {1}</EdB.PC.Dialog.Implant.Conflict>
   <!-- EN: Select Implants and Bionics -->
   <EdB.PC.Dialog.Implant.Header>Выберите протезы и импланты</EdB.PC.Dialog.Implant.Header>
+  <!-- EN: Implant {0} -->
+	<EdB.PC.Dialog.Implant.InstallImplantLabel>Имплант «{0}»</EdB.PC.Dialog.Implant.InstallImplantLabel>
+  <!-- EN: This implant must be added because it is required by one of the other implants that you selected -->
+	<EdB.PC.Dialog.Implant.RequiredImplantMessage>Необходимо добавить этот имплант, потому что он требуется для другого выбранного вами импланта</EdB.PC.Dialog.Implant.RequiredImplantMessage>
+  <!-- EN: {0}: -->
+	<EdB.PC.Dialog.Implant.LevelLabel>{0}:</EdB.PC.Dialog.Implant.LevelLabel>
 
   <!-- EN: Select a condition -->
   <EdB.PC.Dialog.Injury.Header>Выберите состояние</EdB.PC.Dialog.Injury.Header>
@@ -220,6 +380,8 @@
   <EdB.PC.Equipment.Type.Buildings>Мебель</EdB.PC.Equipment.Type.Buildings>
   <!-- EN: Food -->
   <EdB.PC.Equipment.Type.Food>Еда</EdB.PC.Equipment.Type.Food>
+  <!-- EN: Mechanoids -->
+	<EdB.PC.Equipment.Type.Mechs>Механоиды</EdB.PC.Equipment.Type.Mechs>
   <!-- EN: Medical -->
   <EdB.PC.Equipment.Type.Medical>Медикаменты</EdB.PC.Equipment.Type.Medical>
   <!-- EN: Resources -->
@@ -234,14 +396,18 @@
   <EdB.PC.Equipment.LoadingProgress.ThingDefs>Обработка предметов...</EdB.PC.Equipment.LoadingProgress.ThingDefs>
   <!-- EN: Finished -->
   <EdB.PC.Equipment.LoadingProgress.Finished>Завершено</EdB.PC.Equipment.LoadingProgress.Finished>
-  <!-- EN: Spawn With Colonists -->
+  <!-- EN: {0}: {1}% -->
+	<EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>{0}: {1}%</EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>
+  <!-- EN: Start With -->
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>Появится с поселенцами</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>
-  <!-- EN: Spawn Near Colonists -->
+  <!-- EN: Start Near -->
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>Появится неподалёку</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>
   <!-- EN: Possessions - {0} -->
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>Имущество - {0}</EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>
   <!-- EN: Animals -->
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>Животные</EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>
+  <!-- EN: Mechanoids -->
+	<EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>Механоиды</EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>
   <!-- EN: All Categories -->
   <EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>Все категории</EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>
   <!-- EN: All Mods -->
@@ -258,10 +424,16 @@
   <EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>Прочность:</EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>
   <!-- EN: Material: -->
   <EdB.PC.Equipment.AvailableEquipment.MaterialLabel>Материал:</EdB.PC.Equipment.AvailableEquipment.MaterialLabel>
+  <!-- EN: Mechanoids -->
+	<EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>Механоиды</EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>
   <!-- EN: Quality: -->
   <EdB.PC.Equipment.AvailableEquipment.QualityLabel>Качество:</EdB.PC.Equipment.AvailableEquipment.QualityLabel>
+  <!-- EN: {0}: -->
+	<EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>{0}:</EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>
   <!-- EN: Random Pet -->
   <EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>Случайный питомец</EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>
+  <!-- EN: Random Mechanoid -->
+	<EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>Случайный механоид</EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>
   <!-- EN: Spawn Type: -->
   <EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>Тип появления:</EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>
   <!-- EN: Style: -->
@@ -571,4 +743,8 @@ Click the randomize button to generate a colonist with this xenotype -->
 
   <!-- EN: World -->
   <EdB.PC.Panel.WorldPawnList.Title>Мир</EdB.PC.Panel.WorldPawnList.Title>
+
+
+
+
 </LanguageData>
