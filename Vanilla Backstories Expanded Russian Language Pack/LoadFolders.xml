@@ -10,5 +10,7 @@
   </v1.4>
   <v1.5>
     <li>SuperNewCommon</li>
+    <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">BackVTE15</li>
+    <li IfModNotActive="VanillaExpanded.VanillaTraitsExpanded">BackNoVTE15</li>
   </v1.5>
 </loadFolders>

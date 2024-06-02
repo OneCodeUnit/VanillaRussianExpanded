@@ -1,0 +1,196 @@
+﻿<Defs>
+  <BackstoryDef>
+    <slot>Adulthood</slot>
+    <title>Пустынный доктор</title>
+    <defName>OWB_DesertDoctor</defName>
+    <titleShort>Пустынный</titleShort>
+    <titleShortFemale>Пустынная</titleShortFemale>
+    <baseDesc>Из-за обвинений в убийстве, {PAWN_nameDef} {PAWN_gender ? был вынужден : была вынуждена} сбежать в пустыню, где {PAWN_possessive} никто не стал бы искать. Вот только пустыня оказалась очень недружелюбным местом. Едва {PAWN_gender ? живой : живая}, спустя целую вечность блужданий по пустыне, {PAWN_pronoun} {PAWN_gender ? вышел : вышла} к странной хижине. В ней жил старик, который спас {PAWN_nameDef}, принял {PAWN_possessive} как {PAWN_gender ? родного : родную} и взял на обучение. Он обучил {PAWN_nameDef} алхимии, анатомии и кровавым ритуалам. Однажды старик, или «дедушка», как его называет {PAWN_nameDef}, умер и {PAWN_gender ? ученику : ученице} пришлось отправиться путешествовать по городам этого мира в качестве странствующего доктора. {PAWN_pronoun} не {PAWN_gender ? задерживался : задерживалась} в них надолго из-за начинавших появляться слухах о серийном убийце.</baseDesc>
+    <spawnCategories>
+      <li>Offworld</li>
+      <li>Outlander</li>
+      <li>Outsider</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>7</Medicine>
+      <Intellectual>2</Intellectual>
+      <Melee>1</Melee>
+      <Social>-5</Social>
+    </skillGains>
+    <disallowedTraits>
+      <VTE_Clumsy />
+      <VTE_HeavySleeper />
+      <VTE_Dunce />
+      <Wimp />
+    </disallowedTraits>
+    <forcedTraits>
+      <Psychopath />
+      <VTE_MadSurgeon />
+    </forcedTraits>
+    <bodyTypeMale>Thin</bodyTypeMale>
+    <bodyTypeFemale>Thin</bodyTypeFemale>
+    <shuffleable>true</shuffleable>
+    <possessions>
+      <MedicineUltratech>2</MedicineUltratech>
+    </possessions>
+  </BackstoryDef>
+
+  <BackstoryDef>
+    <slot>Adulthood</slot>
+    <title>Послушник технокульта</title>
+    <titleFemale>Послушница технокульта</titleFemale>
+    <defName>OWB_TechPriest</defName>
+    <titleShort>Шестерёнка</titleShort>
+    <baseDesc>Большую часть своей взрослой жизни {PAWN_nameDef} {PAWN_gender ? провёл : провела} в рядах технокульта на урбанизированном мире, подконтрольном Империи.  В основном {PAWN_possessive} работа была больше похожа на набор ритуалов по обслуживанию машин, без реального понимания того, как они работают. Всё потому, что культ ревностно хранил свои тайны и не спешил делиться знаниями даже с последователями, вместо этого воспитывая в них почтительное отношение к любой технике.\n\nДо некоторого времени Империя закрывала глаза на этот и несколько других культов. Так продолжалось, пока не произошла техногенная катастрофа, в которой Империя подозрительно быстро обвинила технокульт, членам которого пришлось в спешке покидать планету.</baseDesc>
+    <spawnCategories>
+      <li>Offworld</li>
+      <li>Outlander</li>
+      <li>Outsider</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>4</Intellectual>
+      <Crafting>-2</Crafting>
+      <Construction>-2</Construction>
+    </skillGains>
+    <disallowedTraits>
+      <BodyPurist />
+    </disallowedTraits>
+    <forcedTraits>
+      <Transhumanist />
+      <Ascetic />
+      <Undergrounder />
+      <SlowLearner />
+    </forcedTraits>
+    <bodyTypeMale>Thin</bodyTypeMale>
+    <bodyTypeFemale>Thin</bodyTypeFemale>
+    <shuffleable>true</shuffleable>
+  </BackstoryDef>
+
+  <BackstoryDef>
+    <slot>Adulthood</slot>
+    <title>Фермер утопического мира</title>
+    <defName>OWB_GlitterFarm</defName>
+    <titleShort>Фермер</titleShort>
+    <baseDesc>{PAWN_nameDef} держит на орбите утопического мира одну из автоматических станций-ферм, где ведёт тихую жизнь, выращивая агрокультуры и разводя животных. {PAWN_nameDef} отлично разбирается в биологии, агрономии и ботанике, однако {PAWN_possessive} работа сводится в основном к слежению за показателями искусственной среды и контролю работы механоидов, почти без какого-либо участия.</baseDesc>
+    <spawnCategories>
+      <li>AncientSoldier</li>
+      <li>SpaceRefugee</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>5</Plants>
+      <Animals>3</Animals>
+      <Intellectual>2</Intellectual>
+      <Melee>-5</Melee>
+      <Shooting>-3</Shooting>
+    </skillGains>
+    <disallowedTraits>
+      <Brawler />
+      <Tough />
+      <ShootingAccuracy />
+      <VTE_Technophobe />
+      <Undergrounder />
+    </disallowedTraits>
+    <forcedTraits>
+      <FastLearner />
+      <Kind />
+    </forcedTraits>
+    <shuffleable>true</shuffleable>
+  </BackstoryDef>
+
+  <BackstoryDef>
+    <slot>Adulthood</slot>
+    <title>Невезучий актер</title>
+    <titleFemale>Невезучая актриса</titleFemale>
+    <defName>OWB_Nicolas</defName>
+    <titleShort>Кейдж</titleShort>
+    <baseDesc>После череды неудачных событий, {PAWN_nameDef} {PAWN_gender ? оказался : оказалась} в ситуации, когда {PAWN_possessive} актёрская карьера пошла под откос и {PAWN_objective} теперь приходится сниматься в низкопробных фильмах, просто чтобы прокормить себя. Однако даже такое бедственное положение не мешает {PAWN_nameDef} ожидать от окружающих, что они будут относиться к н{PAWN_objective} как к звезде.</baseDesc>
+    <spawnCategories>
+      <li>AncientSoldier</li>
+      <li>SpaceRefugee</li>
+      <li>ImperialCommon</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>-4</Crafting>
+      <Artistic>2</Artistic>
+      <Cooking>1</Cooking>
+      <Social>5</Social>
+      <Medicine>-2</Medicine>
+      <Melee>-2</Melee>
+    </skillGains>
+    <workDisables>
+      <li>Intellectual</li>
+      <li>Animals</li>
+    </workDisables>
+    <disallowedTraits>
+      <Ascetic />
+      <NightOwl />
+    </disallowedTraits>
+    <forcedTraits>
+      <Greedy />
+      <Jealous />
+      <Abrasive />
+      <Brawler />
+    </forcedTraits>
+    <shuffleable>true</shuffleable>
+  </BackstoryDef>
+
+  <BackstoryDef>
+    <slot>Adulthood</slot>
+    <title>Оставленный поселенец</title>
+    <titleFemale>Оставленная поселенная</titleFemale>
+    <defName>OWB_LeftBehind</defName>
+    <titleShort>Оставленный</titleShort>
+    <titleShortFemale>Оставленная</titleShortFemale>
+    <baseDesc>{PAWN_nameDef} {PAWN_gender ? жил : жила} в крупном поселении пограничного мира. {PAWN_possessive} фракция строила космический корабль, чтобы покинуть эту планету. Когда корабль был построен, а реактор запущен, началась большая осада поселения. {PAWN_pronoun} {PAWN_gender ? держал : держала} оборону в первых рядах, а в перерывах {PAWN_gender ? занимался : занималась} обслуживанием турелей. К сожалению, на 14 день {PAWN_nameDef} получает тяжёлое ранение и попадает в госпиталь. Все считают, что {PAWN_objective} не выжить, поэтому улетают без н{PAWN_possessive}. Но {PAWN_nameDef} {PAWN_gender ? выжил : выжила}.</baseDesc>
+    <spawnCategories>
+      <li>Offworld</li>
+      <li>Outlander</li>
+      <li>Outsider</li>
+      <li>Pirate</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>4</Shooting>
+      <Construction>2</Construction>
+      <Melee>2</Melee>
+    </skillGains>
+    <forcedTraits>
+      <Tough />
+    </forcedTraits>
+    <shuffleable>true</shuffleable>
+  </BackstoryDef>
+
+  <BackstoryDef>
+    <slot>Adulthood</slot>
+    <title>Упавший со стула</title>
+    <titleFemale>Упавшая со стула</titleFemale>
+    <defName>OWB_FallenKitchen</defName>
+    <titleShort>Упавший</titleShort>
+    <titleShortFemale>Упавшая</titleShortFemale>
+    <baseDesc>Накрытый стол. Много вкусной еды. Идеальный обед для {PAWN_nameDef}? А может идеальная катастрофа?\n\nЕдва {PAWN_nameDef} {PAWN_gender ? наклонился : наклонилась} за новой порцией еды на плите, как ножка стула отломилась и {PAWN_nameDef} с грохотом {PAWN_gender ? упал : упала} на пол прямо на торчащий оттуда винт. {PAWN_possessive} было очень больно.\nКакие были сделаны выводы? «Ноги моей больше не будет на кухне!»</baseDesc>
+    <spawnCategories>
+      <li>Offworld</li>
+      <li>Outlander</li>
+      <li>Outsider</li>
+      <li>Pirate</li>
+      <li>Tribal</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>2</Medicine>
+    </skillGains>
+    <workDisables>
+      <li>Cooking</li>
+    </workDisables>
+    <forcedTraits>
+      <VTE_BigBoned />
+    </forcedTraits>
+    <disallowedTraits>
+      <VTE_Clumsy />
+      <VTE_HeavySleeper />
+      <Tough />
+      <Masochist />
+    </disallowedTraits>
+    <bodyTypeMale>Fat</bodyTypeMale>
+    <bodyTypeFemale>Fat</bodyTypeFemale>
+    <shuffleable>true</shuffleable>
+  </BackstoryDef>
+</Defs>
