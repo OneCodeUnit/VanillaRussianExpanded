@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: heatshock -->
+  <VRE_HeatshockHediff.label>тепловой шок</VRE_HeatshockHediff.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim can produce heat shock proteins in response to high temperatures, which will prevent them from dying but will make them require more nutrition. Recovery is quick once in a cool area. -->
+  <VRE_HeatshockHediff.description>Общее нарушение работы организма, вызванное чрезмерным воздействием тепла и солнца. В ответ на высокую температуру организм персонажа начинает вырабатывать особые белки, которые не дают ему умереть, но требуют большего количества питательных веществ. Восстановление происходит быстро, когда персонаж оказывается в прохладном помещении.</VRE_HeatshockHediff.description>
+  <!-- EN: initial -->
+  <VRE_HeatshockHediff.stages.0.label>начальный</VRE_HeatshockHediff.stages.0.label>
+  <!-- EN: initial -->
+  <VRE_HeatshockHediff.stages.1.label>начальный</VRE_HeatshockHediff.stages.1.label>
+  <!-- EN: minor -->
+  <VRE_HeatshockHediff.stages.2.label>лёгкий</VRE_HeatshockHediff.stages.2.label>
+  <!-- EN: serious -->
+  <VRE_HeatshockHediff.stages.3.label>серьёзный</VRE_HeatshockHediff.stages.3.label>
+  <!-- EN: extreme -->
+  <VRE_HeatshockHediff.stages.4.label>сильнейший</VRE_HeatshockHediff.stages.4.label>
+  
+  <!-- EN: hypothermic hibernation -->
+  <VRE_HypothermicHibernationHediff.label>гибернация</VRE_HypothermicHibernationHediff.label>
+  <!-- EN: This person will enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything. -->
+  <VRE_HypothermicHibernationHediff.description>Этот персонаж впадёт в спячку, если температура его тела опустится ниже определённой отметки на слишком длинный период времени. У него быстро нарушатся функции организма, и он войдёт в состояние гибернации, предотвращающее любые повреждения от обморожения, но при этом лишающее возможности что-либо делать.</VRE_HypothermicHibernationHediff.description>
+  <!-- EN: shivering -->
+  <VRE_HypothermicHibernationHediff.stages.0.label>озноб</VRE_HypothermicHibernationHediff.stages.0.label>
+  <!-- EN: initial -->
+  <VRE_HypothermicHibernationHediff.stages.1.label>начальная</VRE_HypothermicHibernationHediff.stages.1.label>
+  <!-- EN: drowsy -->
+  <VRE_HypothermicHibernationHediff.stages.2.label>усталость</VRE_HypothermicHibernationHediff.stages.2.label>
+  <!-- EN: sleep -->
+  <VRE_HypothermicHibernationHediff.stages.3.label>сон</VRE_HypothermicHibernationHediff.stages.3.label>
+  <!-- EN: deep sleep -->
+  <VRE_HypothermicHibernationHediff.stages.4.label>глубокий сон</VRE_HypothermicHibernationHediff.stages.4.label>
+  
+  <!-- EN: heatstress -->
+  <VRE_HeatstressHediff.label>тепловой стресс</VRE_HeatstressHediff.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. Celular damage and denaturation of proteins will cause burn damage and will very quickly cause loss of consciousness. -->
+  <VRE_HeatstressHediff.description>Общее нарушение работы организма, вызванное чрезмерным воздействием тепла и солнца. Повреждение клеток и денатурация белков вызывают ожоги и очень быстро приводят к потере сознания.</VRE_HeatstressHediff.description>
+  <!-- EN: initial -->
+  <VRE_HeatstressHediff.stages.0.label>начальный</VRE_HeatstressHediff.stages.0.label>
+  <!-- EN: initial -->
+  <VRE_HeatstressHediff.stages.1.label>начальный</VRE_HeatstressHediff.stages.1.label>
+  <!-- EN: minor -->
+  <VRE_HeatstressHediff.stages.2.label>лёгкий</VRE_HeatstressHediff.stages.2.label>
+  <!-- EN: serious -->
+  <VRE_HeatstressHediff.stages.3.label>серьёзный</VRE_HeatstressHediff.stages.3.label>
+  <!-- EN: extreme -->
+  <VRE_HeatstressHediff.stages.4.label>сильнейший</VRE_HeatstressHediff.stages.4.label>
+  
+</LanguageData>

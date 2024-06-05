@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Manage genelines -->
+  <VRE_ManageGenelines>Управление геномом</VRE_ManageGenelines>
+  <!-- EN: Change the currently selected geneline or create new genelines. -->
+  <VRE_ManageGenelinesDesc>Изменить выбранный геном или создать новый.</VRE_ManageGenelinesDesc>
+  <!-- EN: Edit geneline -->
+  <VRE_EditGeneline>Редактировать</VRE_EditGeneline>
+  <!-- EN: Geneline {0} -->
+  <VRE_GenelineName>Геном {0}</VRE_GenelineName>
+  <!-- EN: Delete this geneline. Removing it will result in all insectors with this geneline immediately entering the metapod stage and turning into baseline insectors. -->
+  <VRE_DeleteThisGeneline>Удалить этот геном. Это приведёт к тому, что все инсекторы с данным геномом немедленно войдут в стадию метапода и превратятся в обыкновенных инсекторов.</VRE_DeleteThisGeneline>
+  <!-- EN: Create a new geneline -->
+  <VRE_CreateGeneline>Создать новый геном</VRE_CreateGeneline>
+  <!-- EN: You can edit existing genelines or create a brand new geneline. Remember that changing a geneline will require your insectors to enter a metapod stage which will last 24 hours. -->
+  <VRE_CreateGenelineExplanation>Вы можете редактировать существующие геномы или создать совершенно новый. Помните, что при изменении генома ваши инсекторы перейдут в стадию метапода, которая продлится 24 часа.</VRE_CreateGenelineExplanation>
+  <!-- EN: Geneline name cannot be empty. -->
+  <VRE_GenelineNameCannotBeEmpty>Название генома не может быть пустым.</VRE_GenelineNameCannotBeEmpty>
+  <!-- EN: Cannot save geneline with multiple conflicting genes. -->
+  <VRE_MessageConflictingGenesPresent>Невозможно сохранить геном с несколькими конфликтующими генами.</VRE_MessageConflictingGenesPresent>
+  <!-- EN: Evolutions -->
+  <VRE_Evolutions>Эволюции</VRE_Evolutions>
+  <!-- EN: Evolutions -->
+  <VRE_EvolutionsDesc>Эволюции</VRE_EvolutionsDesc>
+  <!-- EN: Degrades -->
+  <VRE_Degrades>Деградации</VRE_Degrades>
+  <!-- EN: text.todo -->
+  <VRE_DegradesDesc>Деградации</VRE_DegradesDesc>
+  <!-- EN: Save geneline -->
+  <VRE_SaveGeneline>Сохранить геном</VRE_SaveGeneline>
+  <!-- EN: Needs equal amount of evolutions and degrades. -->
+  <VRE_NeedEqualAmount>Требуется равное количество эволюций и деградаций.</VRE_NeedEqualAmount>
+  <!-- EN: Changing the genes of a geneline will cause all insectors that are a part of that geneline to enter the metapod stage. The metapod stage will last 24 hours, during which the insectors will be unavailable. -->
+  <VRE_ChangingGenelineExplanation>При изменении генома все инсекторы с данных геномом перейдут в стадию метаморфоза в метаподе. Она продлится 24 часа, в течение которых инсекторы будут недоступны.</VRE_ChangingGenelineExplanation>
+  <!-- EN: Cannot save: {0} -->
+  <VRE_CannotSave>Невозможно сохранить: {0}</VRE_CannotSave>
+  <!-- EN: Change to: {0} -->
+  <VRE_ChangeTo>Сменить на: {0}</VRE_ChangeTo>
+  <!-- EN: You are about to remove a geneline that’s used by some of your colonists. Removing it will result in these insectors immediately entering the metapod stage and turning into baseline insectors.
+Insector colonists that will be affected:
+
+{0}
+ -->
+  <VRE_DeleteGenelineConfirmation>Вы собираетесь удалить геном, используемый некоторыми из ваших поселенцев. Его удаление приведёт к тому, что эти инсекторы немедленно перейдут в стадию метаморфоза в метаподе и превратятся в обыкновенных инсекторов. Поселенцы, которых это затронет:
+
+{0}</VRE_DeleteGenelineConfirmation>
+  <!-- EN: Genelines -->
+  <VRE_Genelines>Геномы</VRE_Genelines>
+  <!-- EN: text.todo -->
+  <VRE_GenelinesDesc>Геномы</VRE_GenelinesDesc>
+  <!-- EN: Time until {PAWN_nameDef} emerges: {1}\nInsert insect jelly into the metapod to speed up the process significantly. -->
+  <VRE_MetapodTimer>Время до появления {PAWN_nameDef}: {1}\nПоместите желе насекомых в метапод, чтобы значительно ускорить процесс.</VRE_MetapodTimer>
+  <!-- EN: Cannot change genelines due to metapod sickness. -->
+  <VRE_MetapodSicknessCannotChangeGeneline>Невозможно изменить геном из-за слабости после метаморфоза.</VRE_MetapodSicknessCannotChangeGeneline>
+
+  <!-- EN: Chestburst pregnancy -->
+  <VRE_ChestburstPregnancyReady>Паразитическая беременность</VRE_ChestburstPregnancyReady>
+  <!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+  <VRE_ChestburstPregnancyReadyDesc>Когда поселенец с геном паразитического размножения беременеет, ему необходимо выбрать желающую или не желающую того жертву в качестве носителя. Когда зародыш созреет, он вырвется из грудной клетки жертвы, убив её в процессе. Если не вживить личинку до начала второго триместра (6 дней), беременность прервётся.</VRE_ChestburstPregnancyReadyDesc>
+
+  <!-- EN: Chestburst implantation needed -->
+  <VRE_ChestburstImplantationNeeded>Требуется имплантация личинки-грудолома</VRE_ChestburstImplantationNeeded>
+  <!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to implant a fetus:\n\n{0} -->
+  <VRE_ChestburstImplantationNeededDesc>Когда поселенец с геном паразитического размножения беременеет, ему необходимо выбрать желающую или не желающую того жертву в качестве носителя. Когда зародыш созреет, он вырвется из грудной клетки жертвы, убив её в процессе. Если не вживить личинку до начала второго триместра (6 дней), беременность прервётся. Этим поселенцам необходимо вживить зародыш в носителя:\n\n{0}</VRE_ChestburstImplantationNeededDesc>
+
+  <!-- EN: Inject chestburst fetus -->
+  <VRE_InjectChestburstFetus>Вживить личинку-грудолома</VRE_InjectChestburstFetus>
+  <!-- EN:  Inject the victim with the fetus, which will burst out of the victim’s chest when mature, killing the host. -->
+  <VRE_InjectChestburstFetusDesc>Вживить в жертву зародыш, который после созревания вырвется из груди и убьёт носителя.</VRE_InjectChestburstFetusDesc>
+
+  <!-- EN: Needs to be injected on a humanoid target or adult animal with body size higher than 1 -->
+  <VRE_NeedsHumanoidOrAnimal>Можно вживить только в гуманоидную цель или взрослое животное с размером тела больше 1</VRE_NeedsHumanoidOrAnimal>
+
+  <!-- EN: Chestburst birth -->
+  <VRE_ChestburstBirthLabel>Рождение грудолома</VRE_ChestburstBirthLabel>
+  <!-- EN: A newborn, {0}, has hatched from a host, killing it in the process -->
+  <VRE_ChestburstBirth>{0} успешно вылупляется, убив в процессе своего носителя</VRE_ChestburstBirth>
+  <!-- EN: Chestburst birth! -->
+  <VRE_ChestburstBirthHiddenLabel>Рождение грудолома!</VRE_ChestburstBirthHiddenLabel>
+  <!-- EN: {0} was unknowingly carrying a chestburst pregnancy! A newborn Insector, {1}, has hatched from the host, killing it in the process! -->
+  <VRE_ChestburstBirthHidden>{0} {0_gender ? вынашивал : вынашивала} личинку-грудолома, не подозревая того! Новорождённый инсектор {1} успешно вылупляется, убив в процессе своего носителя!</VRE_ChestburstBirthHidden>
+
+  <!-- EN: Self-impregnate -->
+  <VRE_SelfImpregnate>Самооплодотворение</VRE_SelfImpregnate>
+  <!-- EN: Female individual self-impregnates, creating a fetus that’s a perfect copy of the parent. -->
+  <VRE_SelfImpregnateDesc>Персонаж женского пола самостоятельно оплодотворяет себя, создавая зародыш, который является абсолютной копией своего родителя.</VRE_SelfImpregnateDesc>
+  <!-- EN: Only available for females -->
+  <VRE_PawnIsMale>Доступно только для персонажей женского пола</VRE_PawnIsMale>
+  <!-- EN: Parthenogenesis can only be targeted on self -->
+  <VRE_OnlyOnSelf>Самооплодотворение может быть использовано только на себе</VRE_OnlyOnSelf>
+  <!-- EN: Individual is already pregnant -->
+  <VRE_AlreadyPregnant>Цель уже беременна</VRE_AlreadyPregnant>
+  <!-- EN: {0} has self-impregnated! -->
+  <VRE_GotPregnant>{0} успешно самооплодотворяется!</VRE_GotPregnant>
+
+</LanguageData>

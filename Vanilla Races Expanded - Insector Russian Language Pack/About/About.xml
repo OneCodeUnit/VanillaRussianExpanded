@@ -1,0 +1,22 @@
+﻿<ModMetaData>
+  <name>Vanilla Races Expanded - Insector Russian Language Pack</name>
+  <author>Grim Cheese и Mewn Goddess</author>
+  <packageId>VRE.GrimCheese.vanillaracesexpanded.insector</packageId>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>vanillaracesexpanded.insector</packageId>
+      <displayName>Vanilla Races Expanded - Insector</displayName>
+      <steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3260509684</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaracesexpanded.insector</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>durex.vanillaracesexpanded.insector</li>
+  </incompatibleWith>
+  <description>Перевод на русский язык мода Vanilla Races Expanded - Insector. Подробности ищите на странице в мастерской.</description>
+</ModMetaData>
