@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Aspirations Expanded Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>OW.RU.Aspirations</packageId>
+  <description>Перевод на русский язык мода Vanilla Aspirations Expanded. Подробности ищите на странице в мастерской.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VanillaAspirationsExpanded</packageId>
+      <displayName>Vanilla Aspirations Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3268401022</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VanillaAspirationsExpanded</li>
+  </loadAfter>
+</ModMetaData>
