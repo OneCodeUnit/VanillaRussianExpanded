@@ -1,46 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: expert shooter -->
   <ShootingAccuracy.degreeDatas.expert_shooter.label>опытный стрелок</ShootingAccuracy.degreeDatas.expert_shooter.label>
+  <!-- EN: {PAWN_nameDef} has had proper training with ranged weapons. {PAWN_pronoun} shoots accurately and quickly. -->
   <ShootingAccuracy.degreeDatas.expert_shooter.description>{PAWN_nameDef} {PAWN_gender ? прошёл : прошла} стрелковую подготовку. {PAWN_pronoun} {PAWN_gender ? способен : способна} стрелять быстро и точно.</ShootingAccuracy.degreeDatas.expert_shooter.description>
 
-  <DrugDesire.stages.chemical_fascination.label>увлечение «химией»</DrugDesire.stages.chemical_fascination.label>
-  <DrugDesire.stages.chemical_fascination.description>У {PAWN_nameDef} сильное влечение к химическим источникам удовольствия. {PAWN_pronoun} будет потреблять их гораздо больше и, если не имеет зависимости от какого-либо наркотика, иногда, при плохом настроении, будет впадать в тяжёлые наркотические срывы. {PAWN_pronoun} будет игнорировать политику приёма наркотиков. С другой стороны, наркотики будут вызывать вдохновение.</DrugDesire.stages.chemical_fascination.description>
+  <!-- EN: chemical fascination -->
+  <DrugDesire.degreeDatas.chemical_fascination.label>увлечение «химией»</DrugDesire.degreeDatas.chemical_fascination.label>
+  <!-- EN: {PAWN_nameDef} has an intense fascination with chemical sources of enjoyment. {PAWN_pronoun} will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. {PAWN_pronoun} will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs. -->
+  <DrugDesire.degreeDatas.chemical_fascination.description>У {PAWN_nameDef} сильное влечение к химическим источникам удовольствия. {PAWN_pronoun} будет потреблять их гораздо больше и, если не имеет зависимости от какого-либо наркотика, иногда, при плохом настроении, будет впадать в тяжёлые наркотические срывы. {PAWN_pronoun} будет игнорировать политику приёма наркотиков. С другой стороны, наркотики будут вызывать вдохновение.</DrugDesire.degreeDatas.chemical_fascination.description>
   
-	<DrugDesire.stages.chemical_interest.label>интерес к «химии»</DrugDesire.stages.chemical_interest.label>
-  <DrugDesire.stages.chemical_interest.description>У {PAWN_nameDef} нездоровый интерес к химическим источникам удовольствия. {PAWN_pronoun} будет потреблять их гораздо больше и, если не имеет зависимости от какого-либо наркотика, иногда, при плохом настроении, будет впадать в тяжёлые наркотические срывы. {PAWN_pronoun} будет игнорировать политику приёма наркотиков. С другой стороны, наркотики будут вызывать вдохновение.</DrugDesire.stages.chemical_interest.description>
+  <!-- EN: chemical interest -->
+	<DrugDesire.degreeDatas.chemical_interest.label>интерес к «химии»</DrugDesire.degreeDatas.chemical_interest.label>
+  <!-- EN: {PAWN_nameDef} has an unusual interest in chemical sources of enjoyment. {PAWN_pronoun} will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. {PAWN_pronoun} will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs. -->
+  <DrugDesire.degreeDatas.chemical_interest.description>У {PAWN_nameDef} нездоровый интерес к химическим источникам удовольствия. {PAWN_pronoun} будет потреблять их гораздо больше и, если не имеет зависимости от какого-либо наркотика, иногда, при плохом настроении, будет впадать в тяжёлые наркотические срывы. {PAWN_pronoun} будет игнорировать политику приёма наркотиков. С другой стороны, наркотики будут вызывать вдохновение.</DrugDesire.degreeDatas.chemical_interest.description>
 
-	<DrugDesire.stages.teetotaler.label>трезвенник</DrugDesire.stages.teetotaler.label>
-  <DrugDesire.stages.teetotaler.description>{PAWN_nameDef} не приемлет идею получения удовольствия от «химии» и держится подальше от алкоголя и наркотиков. {PAWN_nameDef} — трудолюбивый человек.</DrugDesire.stages.teetotaler.description>
+  <!-- EN: teetotaler -->
+	<DrugDesire.degreeDatas.teetotaler.label>трезвенник</DrugDesire.degreeDatas.teetotaler.label>
+  <!-- EN: {PAWN_nameDef} abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. {PAWN_pronoun} is a hard working individual. -->
+  <DrugDesire.degreeDatas.teetotaler.description>{PAWN_nameDef} не приемлет идею получения удовольствия от «химии» и держится подальше от алкоголя и наркотиков. {PAWN_nameDef} — трудолюбивый человек.</DrugDesire.degreeDatas.teetotaler.description>
 
 
+  <!-- EN: {PAWN_nameDef} is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if {PAWN_possessive} face has a scar or two. -->
   <Beauty.degreeDatas.ugly.description>{PAWN_nameDef} имеет непривлекательную, отталкивающую внешность. Зато даже парочка шрамов никак не испортит лицо.</Beauty.degreeDatas.ugly.description>
+  <!-- EN: {PAWN_nameDef} is staggeringly ugly. {PAWN_possessive} face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at {PAWN_objective} while conversing. If there is an upside to this than that no one minds if {PAWN_possessive} face has a scar or two... or ten. -->
   <Beauty.degreeDatas.staggeringly_ugly.description>{PAWN_nameDef} обладает поистине безобразной внешностью. {PAWN_possessive} лицо — что-то среднее между рисунком бездарного ребёнка, заспиртованным в банке уродцем и произведением современного искусства. Людям приходится прикладывать усилие, чтобы просто смотреть {PAWN_objective} в лицо при разговоре. Зато даже парочка... десятков шрамов никак не испортят лицо.</Beauty.degreeDatas.staggeringly_ugly.description>
   
+  <!-- EN: {PAWN_nameDef} is perenially unhappy. {PAWN_pronoun} has trouble sustaining a good mood even when everything is fine. {PAWN_possessive} only way to deal with it is hiding in {PAWN_possessive} room or wandering around in sadness. -->
   <NaturalMood.degreeDatas.depressive.description>{PAWN_nameDef} всегда в плохом настроении. И оно редко улучшается, даже когда всё хорошо. Справится с ним можно лишь запершись в комнате или побродив по округе.</NaturalMood.degreeDatas.depressive.description>
 
+  <!-- EN: {PAWN_nameDef} is on a hair-trigger all the time. {PAWN_pronoun} is the first to break in any tough situation. If that happens {PAWN_pronoun} will find something to smash.< -->
   <Nerves.degreeDatas.volatile.description>{PAWN_nameDef} всегда на взводе. Малейшее эмоциональное напряжение может закончиться нервным срывом. Но можно что-нибудь сломать, чтобы выпустить пар.</Nerves.degreeDatas.volatile.description>
 
+  <!-- EN: {PAWN_nameDef} likes to have things squared away. {PAWN_pronoun} will work harder than most to attain this state of affairs, but {PAWN_possessive} random mood swings can get the better of {PAWN_objective}. -->
   <Neurotic.degreeDatas.neurotic.description>{PAWN_nameDef} любит всё делать правильно, отчего работает больше и усерднее остальных. Такое напряжение иногда приводит к внезапным перепадам настроения.</Neurotic.degreeDatas.neurotic.description>
+  <!-- EN: {PAWN_nameDef} feels constantly nervous about everything that has to get done. {PAWN_pronoun} will work extremely hard to attain this state of affairs, but {PAWN_possessive} random mood swings can easily get the better of {PAWN_objective}. -->
   <Neurotic.degreeDatas.very_neurotic.description>{PAWN_nameDef} постоянно переживает обо всём, чем занимается. {PAWN_pronoun} заставляет себя работать с невероятным усердием, что плохо сказывается на {PAWN_possessive} нервах, вызывая внезапные перепады настроения.</Neurotic.degreeDatas.very_neurotic.description>
   
 
+  <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. At least {PAWN_pronoun} doesn't mind being insulted or slighted either. -->
 	<Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} всегда говорит в точности то, что думает, особенно, если это {PAWN_possessive} раздражает. Обычно это влияет на окружающих не в лучшую сторону. Но и {PAWN_possessive} {PAWN_gender ? самого : саму} сложно задеть.</Abrasive.degreeDatas.abrasive.description>
 
+  <!-- EN: gourmand -->
   <Gourmand.degreeDatas.gourmand.label>обжора</Gourmand.degreeDatas.gourmand.label>
+  <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly but also eats faster, cooks faster and knows his ingredients, barely ever causing food poisoning. -->
   <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef} обожает вкусно поесть, еда стала чуть ли не смыслом {PAWN_possessive} жизни. Хоть {PAWN_pronoun} и имеет непомерный аппетит, {PAWN_nameDef} быстро ест, быстро готовит и прекрасно разбирается ингредиентах, сводя риск пищевых отравлений к минимуму.</Gourmand.degreeDatas.gourmand.description>
 
 
+  <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. At least {PAWN_pronoun} isn't as affected by prisoners or colonists dying and {PAWN_pronoun} doesn't mind wearing a dead person's clothing. -->
   <Jealous.degreeDatas.jealous.description>К тем, чья комната лучше, чем {PAWN_possessive}, {PAWN_nameDef} испытывает сильную зависть, отражающуюся на {PAWN_possessive} настроении. Зато {PAWN_pronoun} почти не страдает из-за смерти заключённых или поселенцев. Да и хорошую одежду с трупов не против носить.</Jealous.degreeDatas.jealous.description>
 
+  <!-- EN: {PAWN_nameDef} has never learned how to learn. The motivation and talent is there, {PAWN_pronoun} just needs time and patience. \n\n    Each skill point increases global learning factor by 2% -->
   <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} так и не {PAWN_gender ? научился : научилась} учиться. У н{PAWN_possessive} есть мотивация и талант. Просто нужно время и терпение.\n\n    Каждый уровень навыка увеличивает эффективность обучения на 2%</SlowLearner.degreeDatas.slow_learner.description>
 
+  <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. At least {PAWN_pronoun} is really good at running and for whatever reason seems to be nearly immune to toxic substances. -->
   <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} имеет слабый характер и низкий болевой порог. Даже лёгкая боль способна вывести {PAWN_possessive} из строя. Зато {PAWN_pronoun} действительно хорошо бегает и по какой-то причине почти {PAWN_gender ? невосприимчив : невосприимчива} к токсичным веществам.</Wimp.degreeDatas.wimp.description>
 
+  <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} stands solid like a rock, and equally unmovable. -->
   <Tough.degreeDatas.tough.description>{PAWN_nameDef} обладает толстой кожей, крепкими мышцами и прочными костями. По сравнению с обычным человеком {PAWN_pronoun} получает гораздо меньше урона от тех же атак. И {PAWN_possessive} не так-то просто сдвинуть с места.</Tough.degreeDatas.tough.description>
 
+  <!-- EN: pyromaniac -->
   <Pyromaniac.degreeDatas.pyromaniac.label>пироман</Pyromaniac.degreeDatas.pyromaniac.label>
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low. Somehow this fascination with fire leads to a lot more inspiration. -->
   <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} обожает огонь и никогда не будет тушить пожары. Иногда, чтобы снять напряжение, {PAWN_pronoun} начинает поджигать всё, до чего дотянется. Чем хуже {PAWN_possessive} настроение, тем чаще {PAWN_pronoun} будет это делать. Зато каким-то образом увлечение огнём приводит к более частым вдохновениям.</Pyromaniac.degreeDatas.pyromaniac.description>
 
+  <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>зазнайка</TooSmart.degreeDatas.too_smart.label>
+  <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
   <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} {PAWN_gender ? умён : умна} для местных. {PAWN_pronoun} учится быстрее кого-либо, но получаемые знания не делают общение с {PAWN_gender ? ним : ней} приятнее.</TooSmart.degreeDatas.too_smart.description>
 </LanguageData>
