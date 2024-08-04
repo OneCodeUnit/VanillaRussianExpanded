@@ -30,7 +30,7 @@
 		<li>memeAdjective_plural->свободные</li>
 		
 		<li>memeLeaderNoun->авиатор</li>
-		<li>memeMoralist->смотрящий в небо</li>
+		<li>memeMoralist->небесный провидец</li>
 		<li>memeConcept->полёта</li>
 	</VVE_Skyseekers.generalRules.rulesStrings>
 	<!-- EN: 
@@ -57,28 +57,54 @@
 		<li>deity_showed(deity0_gender==None)->показало</li>
 		<li>deity_showed(deity0_gender==Male)->показал</li>
 		<li>deity_showed(deity0_gender==Female)->показала</li>
+		
 		<li>deity_commanded(deity0_gender==None)->велело</li>
 		<li>deity_commanded(deity0_gender==Male)->велел</li>
 		<li>deity_commanded(deity0_gender==Female)->велела</li>
+		
 		<li>episode(uses=1,tag=meme_Skyseekers)  ->Обращаясь к верующим, [deity0_name] [deity_said]: «Только покорив небеса познаете вы истину».</li>
 		<li>deity_said(deity0_gender==None)->сказало</li>
 		<li>deity_said(deity0_gender==Male)->сказал</li>
 		<li>deity_said(deity0_gender==Female)->сказала</li>
+		
 		<li>intro(tag=meme_Skyseekers)           ->[place_summary] [place_name] всегда раздирали конфликты. [memberNamePlural] постоянно осаждались многочисленными врагами, и это очень огорчало [deity0_name].</li>
-		<li>conflict(tag=meme_Skyseekers)        ->Долго наблюдала [deity0_name] за бесконечными нападками ужасного [foeLeader], a war leader, and [deity0_pronoun] decided to give winged vessels to [deity0_possessive] followers, so that they could soar the skies above their enemies.</li>
-		<li>founderJoin(tag=meme_Skyseekers)     ->[founderName], the greatest among our aviators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge squadron of fighters was ready and waiting for [foeLeader_objective].</li>
-		<li>victory(tag=meme_Skyseekers)         ->The [foeLeader] was swiftly bombarded from the sky, all in [deity0_name]'s name.</li>
-		<li>setup(tag=meme_Skyseekers)           ->[founderName] was a pilot, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life flying all kinds of aircraft, both civilian and military.</li>
-		<li>story(uses=1,tag=meme_Skyseekers)    ->[founderName] understood better than anyone else that true freedom lies in soaring the endless skies, far above any problems.</li>
-		<li>lessonIntro(tag=meme_Skyseekers)         ->The ancient aviators of Earth were absolutely right. They taught us that</li>
-		<li>lesson(tag=meme_Skyseekers)              ->the only true freedom lies in soaring the endless skies</li>
-		<li>lessonReinforcement(tag=meme_Skyseekers) ->We will come upon our enemies from the unreachable skies, like swift and divine justice.</li>
-		<li>archistBasis(tag=meme_Skyseekers)    ->Archotechs are pure minds, beings of the sky.</li>
-		<li>archistFact(tag=meme_Skyseekers)     ->By soaring the skies we get closer to the Archotechs.</li>
-		<li>archistProphecy(tag=meme_Skyseekers) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.</li>
-		<li>animistBasis(tag=meme_Skyseekers)    ->The spirits teach us that the endless skies hold the secret to a pure existence.</li>
-		<li>animistFact(tag=meme_Skyseekers)     ->Only by soaring the skies can we get closer to the spirits.</li>
-		<li>animistProphecy(tag=meme_Skyseekers) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.</li>
+		<li>conflict(tag=meme_Skyseekers)        ->Долго [deity_watched] [deity0_name] за бесконечными нападками ужасного военачальника [foeLeader], и [deity_decided] дать своим последователям крылатые корабли, чтобы они могли парить в небесах над своими врагами.</li>
+		<li>deity_watched(deity0_gender==None)->наблюдало</li>
+		<li>deity_watched(deity0_gender==Male)->наблюдал</li>
+		<li>deity_watched(deity0_gender==Female)->наблюдала</li>
+		
+		<li>deity_decided(deity0_gender==None)->решило</li>
+		<li>deity_decided(deity0_gender==Male)->решил</li>
+		<li>deity_decided(deity0_gender==Female)->решила</li>
+		
+		<li>founderJoin(tag=meme_Skyseekers)     ->[founderName], [founder_greatest] среди всех авиаторов, [founder_knewAbout] о планах [foeLeader] от [deity0_name], и когда [foeLeader_that], огромная эскадрилья истребителей уже была готова отразить [foeLeader_possessive] удар.</li>
+		<li>founder_greatest(founder_gender==Male)->величайший</li>
+		<li>founder_greatest(founder_gender==Female)->величайшая</li>
+		<li>founder_knewAbout(founder_gender==Male)->узнал</li>
+		<li>founder_knewAbout(founder_gender==Female)->узнала</li>
+		<li>foeLeader_that(foeLeader_gender==Male)->тот напал</li>
+		<li>foeLeader_that(foeLeader_gender==Female)->та напала</li>
+		
+		<li>victory(tag=meme_Skyseekers)         ->Шквал огня обрушился на [foeLeader] с небес, и всё это было во имя [deity0_name].</li>
+		<li>setup(tag=meme_Skyseekers)           ->[founderName] [founder_wasSkilled] опытным пилотом, лучшим в своём роде. [founder_pronoun] [founder_spentYears] не одно десятилетие своей жизни, летая на всевозможных видах самолётов, как гражданских, так и военных.</li>
+		<li>founder_wasSkilled(founder_gender==Male)->был</li>
+		<li>founder_wasSkilled(founder_gender==Female)->была</li>
+		<li>founder_spentYears(founder_gender==Male)->провёл</li>
+		<li>founder_spentYears(founder_gender==Female)->провела</li>
+		
+		<li>story(uses=1,tag=meme_Skyseekers)    ->[founderName] как никто другой [founder_understoodFreedom], что истинная свобода заключается в том, чтобы парить в бескрайних небесах, возвышаясь над любыми проблемами.</li>
+		<li>founder_understoodFreedom(founder_gender==Male)->понимал</li>
+		<li>founder_understoodFreedom(founder_gender==Female)->понимала</li>
+		
+		<li>lessonIntro(tag=meme_Skyseekers)         ->Древние авиаторы Земли были абсолютно правы. Они учили нас, что</li>
+		<li>lesson(tag=meme_Skyseekers)              ->единственная истинная свобода — полёт в бескрайних небесах</li>
+		<li>lessonReinforcement(tag=meme_Skyseekers) ->Мы обрушимся на наших врагов с недосягаемых небес, неся молниеносное божественное правосудие.</li>
+		<li>archistBasis(tag=meme_Skyseekers)    ->Архотеки — носители чистого разума, существа с небес.</li>
+		<li>archistFact(tag=meme_Skyseekers)     ->Паря в небе, мы становимся ближе к Архотекам.</li>
+		<li>archistProphecy(tag=meme_Skyseekers) ->[inTheEnd], только те, кто преодолеет земные ограничения, смогут выйти за пределы своего физического тела.</li>
+		<li>animistBasis(tag=meme_Skyseekers)    ->Духи учат нас, что бескрайние небеса хранят секрет безупречного существования.</li>
+		<li>animistFact(tag=meme_Skyseekers)     ->Только поднявшись в небо, мы можем приблизиться к духам.</li>
+		<li>animistProphecy(tag=meme_Skyseekers) ->[itIsSaid], что только те, кто преодолевает земные пределы, могут общаться с духовным миром.</li>
 	</VVE_Skyseekers.descriptionMaker.rules.rulesStrings>
 	<!-- EN: Skyseekers -->
 	<VVE_Skyseekers.symbolPacks.0.ideoName>аэронавтизм</VVE_Skyseekers.symbolPacks.0.ideoName>
@@ -143,23 +169,23 @@
 		animistProphecy(tag=meme_Nauticals) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.
 	-->
 	<VVE_Nauticals.descriptionMaker.rules.rulesStrings>
-		<li>creation(tag=meme_Nauticals)        ->[deity0_name] made all of [deity0_possessive] followers look to the endless seas.</li>
-		<li>episode(uses=1,tag=meme_Nauticals)  ->Speaking to the believers, [deity0_name] said: "Only by conquering the seas will you reach true enlightening".</li>
-		<li>intro(tag=meme_Nauticals)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were besieged constantly by their foes, and this deeply saddened [deity0_name].</li>
-		<li>conflict(tag=meme_Nauticals)        ->[deity0_name] witnessed the contant assaults of a terrible [foeLeader], a war leader, and [deity0_pronoun] decided to give sails to [deity0_possessive] followers, so that they could sail the seas to avoid and ambush their enemies.</li>
-		<li>founderJoin(tag=meme_Nauticals)     ->[founderName], the greatest among our navigators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge navy of enormous vessels was ready and waiting for [foeLeader_objective].</li>
-		<li>victory(tag=meme_Nauticals)         ->The [foeLeader] was swiftly attacked from the seas, all in [deity0_name]'s name.</li>
-		<li>setup(tag=meme_Nauticals)           ->[founderName] was a navigators, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life sailing in all kinds of vessels, both civilian and military.</li>
-		<li>story(uses=1,tag=meme_Nauticals)    ->[founderName] understood better than anyone else that true freedom lies in sailing the seas, for the waters may be capricious, but they are also fair.</li>
-		<li>lessonIntro(tag=meme_Nauticals)         ->The ancient navigators of Earth were absolutely right. They taught us that</li>
-		<li>lesson(tag=meme_Nauticals)              ->the only true freedom lies in sailing the endless seas</li>
-		<li>lessonReinforcement(tag=meme_Nauticals) ->We will come upon our enemies from the untamed waters, like swift and divine justice.</li>
-		<li>archistBasis(tag=meme_Nauticals)    ->The Archotechs' pure minds are fluid like water, beings of fickleness and changeability.</li>
-		<li>archistFact(tag=meme_Nauticals)     ->By sailing the seas we pay hommage to their unpredictable and capricious nature.</li>
-		<li>archistProphecy(tag=meme_Nauticals) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.</li>
-		<li>animistBasis(tag=meme_Nauticals)    ->The spirits teach us that the unpredictability of the seas holds the secret to a pure existence.</li>
-		<li>animistFact(tag=meme_Nauticals)     ->Only by sailing the seas can we get closer to the spirits.</li>
-		<li>animistProphecy(tag=meme_Nauticals) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.</li>
+		<li>creation(tag=meme_Nauticals)        ->[deity_showed] [deity0_name] своим последователям красоту морей и [deity_commanded] стремиться к ним.</li>
+		<li>episode(uses=1,tag=meme_Nauticals)  ->Обращаясь к верующим, [deity0_name] [deity_said]: «Только покорив моря познаете вы истину».</li>
+		<li>intro(tag=meme_Nauticals)           ->[place_summary] [place_name] всегда раздирали конфликты. [memberNamePlural] постоянно осаждались многочисленными врагами, и это очень огорчало [deity0_name].</li>
+		<li>conflict(tag=meme_Nauticals)        ->Долго [deity_watched] [deity0_name] за бесконечными нападками ужасного военачальника [foeLeader], и [deity_decided] дать своим последователям корабли, чтобы они могли плавать по морям, избегая врагов и устраивая на них засады.</li>
+		<li>founderJoin(tag=meme_Nauticals)     ->[founderName], [founder_greatest] среди всех мореплавателей, [founder_knewAbout] о планах [foeLeader] от [deity0_name], и когда [foeLeader_that], огромный флот из гигантских кораблей уже был готов отразить [foeLeader_possessive] удар.</li>
+		<li>victory(tag=meme_Nauticals)         ->Шквал огня обрушился на [foeLeader] с морей, и всё это было во имя [deity0_name].</li>
+		<li>setup(tag=meme_Nauticals)           ->[founderName] [founder_wasSkilled] опытным мореплавателем, лучшим в своём роде. [founder_pronoun] [founder_spentYears] не одно десятилетие своей жизни, плавая на всевозможных видах кораблей, как гражданских, так и военных.</li>
+		<li>story(uses=1,tag=meme_Nauticals)    ->[founderName] как никто другой [founder_understoodFreedom], что истинная свобода заключается в плавании по морям, ибо воды хоть и капризны, но справедливы.</li>
+		<li>lessonIntro(tag=meme_Nauticals)         ->Древние мореплаватели Земли были абсолютно правы. Они учили нас, что</li>
+		<li>lesson(tag=meme_Nauticals)              ->единственная истинная свобода заключается в плавании по бескрайним морям</li>
+		<li>lessonReinforcement(tag=meme_Nauticals) ->Мы бросимся на наших врагов из необъятных вод, неся молниеносное божественное правосудие.</li>
+		<li>archistBasis(tag=meme_Nauticals)    ->Чистые умы Архотеков текучи, как вода. Они — существа непостоянные и изменчивые.</li>
+		<li>archistFact(tag=meme_Nauticals)     ->Плаванием по морям, мы отдаём дань уважения их непредсказуемой и капризной природе.</li>
+		<li>archistProphecy(tag=meme_Nauticals) ->[inTheEnd], только те, кто преодолеет земные ограничения, смогут выйти за пределы своего физического тела.</li>
+		<li>animistBasis(tag=meme_Nauticals)    ->Духи учат нас, что в непредсказуемости морей кроется секрет чистого существования.</li>
+		<li>animistFact(tag=meme_Nauticals)     ->Только путешествуя по морям мы можем приблизиться к духам.</li>
+		<li>animistProphecy(tag=meme_Nauticals) ->[itIsSaid], что только те, кто преодолевает земные пределы, могут общаться с духовным миром.</li>
 	</VVE_Nauticals.descriptionMaker.rules.rulesStrings>
     <!-- EN: Nauticals -->
 	<VVE_Nauticals.symbolPacks.0.ideoName>акванавтизм</VVE_Nauticals.symbolPacks.0.ideoName>
@@ -229,18 +255,24 @@
 		<li>intro(tag=meme_Traveler)           ->The [memberNamePlural] were restless, for [deity0_name] had commanded them to explore the surrounding lands, and they were tired of roaming around living off the land.</li>
 		<li>conflict(tag=meme_Traveler)        ->One of the elders wanted to defy [deity0_name]'s commandments, and close the settlements for further exploration.</li>
 		<li>founderJoin(tag=meme_Traveler)     ->[founderName], the Great Explorer, grew tired of the insolence of the elder, and usurped his power. From that point on, the [memberNamePlural] would be the most skilled explorers in the land, venturing far away.</li>
-		<li>victory(tag=meme_Traveler)         ->It was thus that we became enamoured with wanderlust, and traveled the whole world exploring even its farther confines.</li>
+		<li>victory(tag=meme_Traveler)         ->Именно тогда мы увлеклись странствиями и объездили весь мир, исследуя все его уголки, даже самые отдалённые.</li>
 		<li>setup(tag=meme_Traveler)           ->[founderName] was a skilled explorer. [founder_pronoun] longed for discovery, travelling to the farther confiens of the world.</li>
-		<li>story(uses=1,tag=meme_Traveler)    ->Seeking the thrill of adventure, [founderName] assembled a small group of [founder_possessive] followers and chartered a ship to travel to the Rim. [founder_possessive] discoveries were the stuff of legend, mapping a plethora of strange new worlds and new civilizations, boldly going where... errr, sorry, got carried away a bit there.</li>
-		<li>lessonIntro(tag=meme_Traveler)         ->Humans fear the unknown, it's a fact. It is abundantly clear that</li>
-		<li>lesson(tag=meme_Traveler)              ->we need to explore our surroundings. Being unaware of what is around us is a recipe for disaster </li>
-		<li>lessonReinforcement(tag=meme_Traveler) ->Only true explorers can never be caught unawares.</li>
-		<li>archistBasis(tag=meme_Traveler)    ->Archotechs are always aware of everything. Being unaware of your surroundings is almost obscene to them.</li>
-		<li>archistFact(tag=meme_Traveler)     ->The archotechs teach us that exploring and travelling are a path to transcendence.</li>
-		<li>archistProphecy(tag=meme_Traveler) ->[inTheEnd], those who spend their whole lives hiding won't transcend, while those who are infused by wanderlust will join the archotechs.</li>
-		<li>animistBasis(tag=meme_Traveler)    ->Spirits govern everything, from the most abstract concepts to concrete ones. Specifically, each place has its own spirit, and that's why discovering and traveling to all these places brings us closer to the spirits.</li>
-		<li>animistFact(tag=meme_Traveler)     ->The spirit of wanderlust is a powerful one, and instills one with a passion for freedom, for exploration: you never know what the road ahead may bring.</li>
-		<li>animistProphecy(tag=meme_Traveler) ->[itIsSaid] only those who are able to live without roots and roam free can truly appease the spirits.</li>
+		<li>story(uses=1,tag=meme_Traveler)    ->В поисках приключений [founderName] [founder_gathered] небольшую группу последователей и [founder_chartered] корабль, чтобы отправиться на один из окраинных миров.</li>
+		
+		<li>founder_gathered(founder_gender==Male)->собрал</li>
+		<li>founder_gathered(founder_gender==Female)->собрала</li>
+		<li>founder_chartered(founder_gender==Male)->снарядил</li>
+		<li>founder_chartered(founder_gender==Female)->снарядила</li>
+		
+		<li>lessonIntro(tag=meme_Traveler)         ->Люди боятся неизвестности, это факт. Совершенно очевидно, что</li>
+		<li>lesson(tag=meme_Traveler)              ->нам нужно исследовать окружающую среду. Не знать, что нас окружает, — верный путь к катастрофе </li>
+		<li>lessonReinforcement(tag=meme_Traveler) ->Только настоящие исследователи не могут быть застигнуты врасплох.</li>
+		<li>archistBasis(tag=meme_Traveler)    ->Архотеки всегда и обо всём знают. Не осознавать, что тебя окружает, для них немыслимо.</li>
+		<li>archistFact(tag=meme_Traveler)     ->Архотеки учат нас, что исследования и путешествия — это путь к трансцендентности.</li>
+		<li>archistProphecy(tag=meme_Traveler) ->[inTheEnd], люди, что всю жизнь прячутся на одном месте, не смогут выйти за рамки своего физического тела. Лишь те, кого обуревает жажда странствий, присоединятся к Архотекам.</li>
+		<li>animistBasis(tag=meme_Traveler)    ->Всеми вещами, от самых абстрактных понятий до конкретных, управляют духи. Каждое местность имеет свой собственный дух, и именно поэтому путешествия по таким местам сближают нас с духами.</li>
+		<li>animistFact(tag=meme_Traveler)     ->Дух странствий очень силён, он вселяет в человека страсть к свободе, к исследованиям. Никогда не знаешь, что может преподнести дальнейший путь.</li>
+		<li>animistProphecy(tag=meme_Traveler) ->[itIsSaid], что только те, кто готов жить без привязанности к месту, и свободно бродить по миру, могут по-настоящему умиротворить духов.</li>
 	</VVE_Travelers.descriptionMaker.rules.rulesStrings>
     <!-- EN: Travelers -->
 	<VVE_Travelers.symbolPacks.0.ideoName>странничество</VVE_Travelers.symbolPacks.0.ideoName>
