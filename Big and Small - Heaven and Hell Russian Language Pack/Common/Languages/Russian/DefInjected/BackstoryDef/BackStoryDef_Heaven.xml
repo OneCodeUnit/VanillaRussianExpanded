@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: unnatural -->
+  <BS_Unnatural.title>неестественный</BS_Unnatural.title>
+  <!-- EN: unnatural -->
+  <BS_Unnatural.titleShort>неестественный</BS_Unnatural.titleShort>
+  <!-- EN: [PAWN_nameDef] was created by mysterious forces. -->
+  <BS_Unnatural.baseDesc>{PAWN_nameDef} {PAWN_gender ? был сотворён : была сотворена} таинственными силами.</BS_Unnatural.baseDesc>
+  <!-- EN: [PAWN_nameDef] was created by mysterious forces. -->
+  <BS_Unnatural.description>{PAWN_nameDef} {PAWN_gender ? был сотворён : была сотворена} таинственными силами.</BS_Unnatural.description>
+
+  <!-- EN: heavenly servitor -->
+  <BS_HeavenServitor.title>слуга небес</BS_HeavenServitor.title>
+  <!-- EN: servitor -->
+  <BS_HeavenServitor.titleShort>слуга</BS_HeavenServitor.titleShort>
+  <!-- EN: [PAWN_nameDef] was doing middle-management within the divine hierarchy, with a side of smiting. -->
+  <BS_HeavenServitor.baseDesc>{PAWN_nameDef} {PAWN_gender ? выполнял : выполняла} обязанности управленца средней руки в небесной канцелярии и в каком-то смысле {PAWN_gender ? потерпел : потерпела} поражение.</BS_HeavenServitor.baseDesc>
+  <!-- EN: [PAWN_nameDef] was doing middle-management within the divine hierarchy, with a side of smiting. -->
+  <BS_HeavenServitor.description>{PAWN_nameDef} {PAWN_gender ? выполнял : выполняла} обязанности управленца средней руки в небесной канцелярии и в каком-то смысле {PAWN_gender ? потерпел : потерпела} поражение.</BS_HeavenServitor.description>
+
+  <!-- EN: heavenly warrior -->
+  <BS_HeavenWarrior.title>божественный воин</BS_HeavenWarrior.title>
+  <!-- EN: warrior -->
+  <BS_HeavenWarrior.titleShort>воин</BS_HeavenWarrior.titleShort>
+  <!-- EN: [PAWN_nameDef]'s main duty was that of a heavenly warrior. -->
+  <BS_HeavenWarrior.baseDesc>Основная обязанность {PAWN_nameDef} заключалась в службе в небесном воинстве.</BS_HeavenWarrior.baseDesc>
+  <!-- EN: [PAWN_nameDef]'s main duty was that of a heavenly warrior. -->
+  <BS_HeavenWarrior.description>Основная обязанность {PAWN_nameDef} заключалась в службе в небесном воинстве.</BS_HeavenWarrior.description>
+
+  <!-- EN: adversary -->
+  <BS_Satan.title>враг</BS_Satan.title>
+  <!-- EN: adversary -->
+  <BS_Satan.titleShort>враг</BS_Satan.titleShort>
+  <!-- EN: [PAWN_nameDef]'s main duty was to test the faithful and judge the guilty. -->
+  <BS_Satan.baseDesc>Цель и задача жизни для {PAWN_nameDef} - испытывать праведных и судить виновных.</BS_Satan.baseDesc>
+  <!-- EN: [PAWN_nameDef]'s main duty was to test the faithful and judge the guilty. -->
+  <BS_Satan.description>Цель и задача жизни для {PAWN_nameDef} - испытывать праведных и судить виновных.</BS_Satan.description>
+</LanguageData>
