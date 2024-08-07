@@ -1,23 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Vampires, Demons, and the Undead Rus</name>
+  <name>Big and Small - Vampires and the Undead Russian Language Pack</name>
   <author>Mewn Goddess</author>
   <packageId>Mewn.RUS.Undead</packageId>
   <supportedVersions>
-  <li>1.4</li>
+    <li>1.4</li>
+	<li>1.5</li>
   </supportedVersions>
   <modDependencies>
-  <li>
-  <packageId>RedMattis.Undead</packageId>
-  <displayName>Vampires, Demons, and the Undead</displayName>
-  <steamWorkshopUrl>steam://url/CommunityFilePage/2926556467</steamWorkshopUrl>
+   <li>
+	<packageId>RedMattis.Undead</packageId>
+	<displayName>Big and Small - Vampires and the Undead</displayName>
+	<steamWorkshopUrl>steam://url/CommunityFilePage/2926556467</steamWorkshopUrl>
   </li>
   </modDependencies>
   <loadAfter>
-  <li>RedMattis.Undead</li>
+    <li>RedMattis.Undead</li>
   </loadAfter>
-    <incompatibleWith>
+  <incompatibleWith>
     <li>Nevelian.RedMattis.Undead</li>
   </incompatibleWith>
-  <description>Перевод на русский язык мода Vampires, Demons, and the Undead.</description>
+  <description>Перевод на русский язык мода Big and Small - Vampires and the Undead. Подробности ищите на странице в мастерской.</description>
 </ModMetaData>
