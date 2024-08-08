@@ -92,5 +92,8 @@ Insector colonists that will be affected:
   <VRE_AlreadyPregnant>Цель уже беременна</VRE_AlreadyPregnant>
   <!-- EN: {0} has self-impregnated! -->
   <VRE_GotPregnant>{0} успешно самооплодотворяется!</VRE_GotPregnant>
-
+  <!-- EN: {0} is too young! -->
+	<VRE_PawnIsTooYoung>{0} слишком {0_gender ? молод : молода}!</VRE_PawnIsTooYoung>
+  <!-- EN: {0} is still suffering from implantation fatigue -->
+	<VRE_TempSterile>{0} всё ещё страдает от усталости после вживления</VRE_TempSterile>
 </LanguageData>
