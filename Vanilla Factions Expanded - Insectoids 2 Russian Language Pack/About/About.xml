@@ -1,0 +1,24 @@
+<ModMetaData>
+	<name>Vanilla Factions Expanded - Insectoids 2 Russian Language Pack</name>
+	<author>Grim Cheese, Mewn Goddess, Amortem и OliveWizard</author>
+	<packageId>VRE.GrimCheese.Insectoid2</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>OskarPotocki.VFE.Insectoid2</packageId>
+			<displayName>Vanilla Factions Expanded - Insectoids 2</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3309003431</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VFE.Insectoid2</li>
+		<li>OW.RU.CORE</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>durex.OskarPotocki.VFE.Insectoid2</li>
+	</incompatibleWith>
+	
+	<description>Перевод на русский язык мода Vanilla Factions Expanded - Insectoids 2. Подробности ищите на странице в мастерской.</description>
+</ModMetaData>

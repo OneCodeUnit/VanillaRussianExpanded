@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: toxic buildup -->
+  <VFEI2_ToxicBuildup.label>отравление токсинами</VFEI2_ToxicBuildup.label>
+  <!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+  <VFEI2_ToxicBuildup.description>Токсин в крови. Может попасть в организм через окружающую среду, укусы ядовитых существ или рану от отравленного оружия.\n\nДаже в небольших дозах вещество обладает канцерогенным действием, а при больших — смертельно.\n\nВ отличие от отравления токсинами в ванильной игре, если существо погибло от данного отравления, то его всё ещё можно безопасно употреблять в пищу.</VFEI2_ToxicBuildup.description>
+  <!-- EN: initial -->
+  <VFEI2_ToxicBuildup.stages.0.label>незаметное</VFEI2_ToxicBuildup.stages.0.label>
+  <!-- EN: initial -->
+  <VFEI2_ToxicBuildup.stages.1.label>начальное</VFEI2_ToxicBuildup.stages.1.label>
+  <!-- EN: minor -->
+  <VFEI2_ToxicBuildup.stages.2.label>лёгкое</VFEI2_ToxicBuildup.stages.2.label>
+  <!-- EN: moderate -->
+  <VFEI2_ToxicBuildup.stages.3.label>среднее</VFEI2_ToxicBuildup.stages.3.label>
+  <!-- EN: serious -->
+  <VFEI2_ToxicBuildup.stages.4.label>серьёзное</VFEI2_ToxicBuildup.stages.4.label>
+  <!-- EN: extreme -->
+  <VFEI2_ToxicBuildup.stages.5.label>экстремальное</VFEI2_ToxicBuildup.stages.5.label>
+
+  <!-- EN: armor degradation -->
+  <VFEI2_ArmorDegradation.label>деградация брони</VFEI2_ArmorDegradation.label>
+  <!-- EN: The armor of this insectoid has been cracked and lost part of its efficiency. -->
+  <VFEI2_ArmorDegradation.description>Броня этого инсектоида треснула и потеряла часть своей эффективности.</VFEI2_ArmorDegradation.description>
+
+  <!-- EN: recently stunned -->
+  <VFEI2_TeramantisStun.label>недавно оглушен</VFEI2_TeramantisStun.label>
+  <!-- EN: This creature has recently been stunned from a surprise attack. -->
+  <VFEI2_TeramantisStun.description>Это существо недавно было оглушено внезапной атакой.</VFEI2_TeramantisStun.description>
+  
+    <!-- EN: Insectoids from the Kemia geneline are immune to acid. -->
+  <VFEI2_AcidImmunity.description>Инсектоиды генома Кемия невосприимчивы к кислоте.</VFEI2_AcidImmunity.description>
+  <!-- EN: acid immunity -->
+  <VFEI2_AcidImmunity.label>невосприимчивость к кислоте</VFEI2_AcidImmunity.label>
+
+  <!-- EN: worker type -->
+  <VFEI_WorkerInsectType.label>рабочий</VFEI_WorkerInsectType.label>
+  <!-- EN: An insectoid type. -->
+  <VFEI_WorkerInsectType.description>Тип инсектоида.</VFEI_WorkerInsectType.description>
+
+  <!-- EN: hunter type -->
+  <VFEI_HunterInsectType.label>охотник</VFEI_HunterInsectType.label>
+  <!-- EN: An insectoid type. -->
+  <VFEI_HunterInsectType.description>Тип инсектоида.</VFEI_HunterInsectType.description>
+
+  <!-- EN: defender type -->
+  <VFEI_DefenderInsectType.label>солдат</VFEI_DefenderInsectType.label>
+  <!-- EN: An insectoid type. -->
+  <VFEI_DefenderInsectType.description>Тип инсектоида.</VFEI_DefenderInsectType.description>
+  
+    <!-- EN: to be cocooned -->
+  <VFEI_ToBeCocooned.label>укрывается в кокон</VFEI_ToBeCocooned.label>
+  <!-- EN: To be cocooned. -->
+  <VFEI_ToBeCocooned.description>Укрывается в кокон.</VFEI_ToBeCocooned.description>
+  
+</LanguageData>
