@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: microsized -->
+  <VRE_Microsized.label>миниатюрность</VRE_Microsized.label>
+  <!-- EN: Carriers of this gene exhibit a microsized stature, significantly smaller than their counterparts. Their reduced size results in increased stagger duration, lower meat and leather yield, and a smaller yet more efficient hunger requirement. -->
+  <VRE_Microsized.description>Носители этого гена отличаются миниатюрными размерами. Небольшой рост приводит к более длительному замедлению при получении урона, а также снижению количества мяса и кожи при разделке. Они имеют пониженный прирост голода, но и меньший объём желудка.</VRE_Microsized.description>
+  <!-- EN: small -->
+  <VRE_Microsized.symbolPack.prefixSymbols.0.symbol>мало</VRE_Microsized.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tiny -->
+  <VRE_Microsized.symbolPack.prefixSymbols.1.symbol>микро</VRE_Microsized.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: mini -->
+  <VRE_Microsized.symbolPack.prefixSymbols.2.symbol>мини</VRE_Microsized.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: colossal -->
+  <VRE_Colossal.label>гигантизм</VRE_Colossal.label>
+  <!-- EN: Carriers of this gene grow to colossal proportions, towering over their peers. Their immense size increases meat and leather yield and hunger needs, while reducing movement speed and melee dodge chance. If equipped with the right enhancements, they can carry the heaviest of weapons and warcasket armaments. -->
+  <VRE_Colossal.description>Носители этого гена вырастают до колоссальных размеров. Такие габариты снижают скорость их движения и шанс уворота в ближнем бою, при этом увеличивая потребность в пище. При их разделке добывается большее количество кожи и мяса. При наличии соответствующих усилений они могут использовать самое тяжёлое вооружение и орудия, устанавливаемые на броню мертвеца.</VRE_Colossal.description>
+  <!-- EN: large -->
+  <VRE_Colossal.symbolPack.prefixSymbols.0.symbol>крупно</VRE_Colossal.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: big -->
+  <VRE_Colossal.symbolPack.prefixSymbols.1.symbol>больше</VRE_Colossal.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: magni -->
+  <VRE_Colossal.symbolPack.prefixSymbols.2.symbol>гиганто</VRE_Colossal.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: chemfuel sacks -->
+  <VRE_ChemfuelSacks.label>химтопливные мешочки</VRE_ChemfuelSacks.label>
+  <!-- EN: Carriers of this gene develop chemfuel sacks resembling a tail, drastically increasing their susceptibility to flame damage. If engulfed in large enough flames or upon death, they erupt in a fiery explosion. Additionally, they can be "milked" periodically to yield chemfuel. -->
+  <VRE_ChemfuelSacks.description>Носители этого гена обладают напоминающими хвост мешочками с химтопливом, что резко повышает их восприимчивость к урону огнём. Попав в достаточно сильное пламя или погибнув, они вызывают огненный взрыв. Кроме того, их можно периодически «доить», чтобы получить химическое топливо.</VRE_ChemfuelSacks.description>
+  <!-- EN: Time running in panic when set on fire doubled. -->
+  <VRE_ChemfuelSacks.customEffectDescriptions.0>Будучи подожжённым, бегает в панике вдвое дольше обычного.</VRE_ChemfuelSacks.customEffectDescriptions.0>
+  <!-- EN: Produces 30 chemfuel every 10 days. -->
+  <VRE_ChemfuelSacks.customEffectDescriptions.1>Производит 30 ед. химтоплива каждые 10 дней.</VRE_ChemfuelSacks.customEffectDescriptions.1>
+  <!-- EN: If set on fire, and the fire is at least 35 in size, they explode in a fire explosion. Upon fire explosion, they will not explode again for 24 hours. -->
+  <VRE_ChemfuelSacks.customEffectDescriptions.2>Если персонажа поджечь, и огонь будет размером не менее 35, произойдёт огненный взрыв. После этого он не будет взрываться в течение 24 часов.</VRE_ChemfuelSacks.customEffectDescriptions.2>
+  <!-- EN: fuel -->
+  <VRE_ChemfuelSacks.symbolPack.prefixSymbols.0.symbol>топливо</VRE_ChemfuelSacks.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: chem -->
+  <VRE_ChemfuelSacks.symbolPack.prefixSymbols.1.symbol>взрыво</VRE_ChemfuelSacks.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: petrol -->
+  <VRE_ChemfuelSacks.symbolPack.prefixSymbols.2.symbol>бензо</VRE_ChemfuelSacks.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: pyrophilic -->
+  <VRE_Pyrophiliac.label>пирофилия</VRE_Pyrophiliac.label>
+  <!-- EN: Carriers of this gene possess a pyrophilic nature, exhibiting a fascination and love for fire. They are drawn to flames and find comfort and joy in their presence. -->
+  <VRE_Pyrophiliac.description>Носители этого гена обладают врождённым восхищением и любовью к огню. Их привлекает пламя, и они находят в нём спокойствие и радость.</VRE_Pyrophiliac.description>
+  <!-- EN: fire -->
+  <VRE_Pyrophiliac.symbolPack.prefixSymbols.0.symbol>огне</VRE_Pyrophiliac.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: flame -->
+  <VRE_Pyrophiliac.symbolPack.prefixSymbols.1.symbol>пламя</VRE_Pyrophiliac.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: pyro -->
+  <VRE_Pyrophiliac.symbolPack.prefixSymbols.2.symbol>пиро</VRE_Pyrophiliac.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: volatile -->
+  <VRE_InsectVolatile.label>вспыльчивость</VRE_InsectVolatile.label>
+  <!-- EN: Carriers of this gene exhibit volatile behavior, drastically increasing their likelihood of initiating social fights and ensuring their mental breaks are always violent when possible. They have a heightened tendency to attempt prison breaks and will use weapons in social confrontations. -->
+  <VRE_InsectVolatile.description>Носители этого гена отличаются вспыльчивым характером и переменчивым настроением, из-за чего они крайне часто становятся инициаторами драк, а их нервные срывы всегда сопровождаются применением насилия. Они имеют повышенную склонность к совершению побегов и будут использовать оружие в бытовых конфликтах.</VRE_InsectVolatile.description>
+  <!-- EN: Will use weapons in social fights. -->
+  <VRE_InsectVolatile.customEffectDescriptions.0>Будет использовать оружие в драках с другими поселенцами.</VRE_InsectVolatile.customEffectDescriptions.0>
+  <!-- EN: aggro -->
+  <VRE_InsectVolatile.symbolPack.prefixSymbols.0.symbol>агро</VRE_InsectVolatile.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: savage -->
+  <VRE_InsectVolatile.symbolPack.prefixSymbols.1.symbol>яростно</VRE_InsectVolatile.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: vola -->
+  <VRE_InsectVolatile.symbolPack.prefixSymbols.2.symbol>буйно</VRE_InsectVolatile.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: ecdysone overdrive -->
+  <VRE_EcdysoneOverdrive.label>переизбыток экдизона</VRE_EcdysoneOverdrive.label>
+  <!-- EN: Carriers of this gene experience an ecdysone overdrive, creating a constant need for kill satiety. Prolonged periods without melee kills inflict increasing mood penalties, driving them towards violent confrontations to maintain their mental balance. -->
+  <VRE_EcdysoneOverdrive.description>Носители этого гена испытывают переизбыток экдизона, что создает у них постоянную потребность убивать. Длительные периоды без убийств в ближнем бою вызывают всё большее ухудшение настроения, заставляя их вступать в кровопролитные стычки, чтобы сохранить душевное равновесие.</VRE_EcdysoneOverdrive.description>
+  <!-- EN: aggro -->
+  <VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.0.symbol>агро</VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: killer -->
+  <VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.1.symbol>убийце</VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: acid burstsack -->
+  <VRE_AcidBurstSack.label>взрывной кислотный мешочек</VRE_AcidBurstSack.label>
+  <!-- EN: Carriers of this gene possess an acid burstsack, which triggers an explosive release of corrosive acid when they take a severe hit. This explosion affects everything within a wide radius, causing ongoing damage to those caught in the blast. -->
+  <VRE_AcidBurstSack.description>Носители этого гена обладают кислотным мешочком, который вызывает взрывной выброс едкой кислоты, когда они получают сильный удар. Этот взрыв поражает всё в большом радиусе, нанося постоянный урон всем, кто попал под удар.</VRE_AcidBurstSack.description>
+  
+  <!-- EN: solid grey matter -->
+  <VRE_SolidGreyMatter.label>затвердевшее серое вещество</VRE_SolidGreyMatter.label>
+  <!-- EN: Carriers of this gene have solidified grey matter, resulting in a complete inability to learn new skills. They experience accelerated skill loss, which affects them even at lower skill levels. -->
+  <VRE_SolidGreyMatter.description>У носителей этого гена затвердевает серое вещество, что приводит к полной неспособности осваивать новые навыки. Они быстро теряют квалификацию даже на низких уровнях навыка.</VRE_SolidGreyMatter.description>
+  <!-- EN: Global skill loss multiplier: x2. -->
+  <VRE_SolidGreyMatter.customEffectDescriptions.0>Множитель скорости потери навыков: x2.</VRE_SolidGreyMatter.customEffectDescriptions.0>
+  <!-- EN: Skill loss applies even below level 10. -->
+  <VRE_SolidGreyMatter.customEffectDescriptions.1>Потеря навыка происходит даже для навыков ниже 10-го уровня.</VRE_SolidGreyMatter.customEffectDescriptions.1>
+  <!-- EN: thag -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.0.symbol>глупо</VRE_SolidGreyMatter.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: grunt -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.1.symbol>дубо</VRE_SolidGreyMatter.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: stupid -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.2.symbol>тупо</VRE_SolidGreyMatter.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: dull -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.3.symbol>медленно</VRE_SolidGreyMatter.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: dumb -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.4.symbol>тормозо</VRE_SolidGreyMatter.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: hard-locked joints -->
+  <VRE_HardLockedJoints.label>закостеневшие суставы</VRE_HardLockedJoints.label>
+  <!-- EN: Carriers of this gene have hardlocked joints, significantly slowing their movements. Their inflexible joints make bending and swift actions extremely difficult. -->
+  <VRE_HardLockedJoints.description>Носители этого гена обладают негибкими, малоподвижными суставами, что значительно сковывает их движения и делает выполнение быстрых действий крайне затруднительным.</VRE_HardLockedJoints.description>
+  <!-- EN: slow -->
+  <VRE_HardLockedJoints.symbolPack.prefixSymbols.0.symbol>медленно</VRE_HardLockedJoints.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: lock -->
+  <VRE_HardLockedJoints.symbolPack.prefixSymbols.1.symbol>вяло</VRE_HardLockedJoints.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: passive -->
+  <VRE_PassiveInsect.label>пассивность</VRE_PassiveInsect.label>
+  <!-- EN: Carriers of this gene are inherently passive, showing no interest in and being unable to participate in combat. Their nature compels them to avoid violent confrontations entirely. -->
+  <VRE_PassiveInsect.description>Носители этого гена по своей природе пассивны — они не проявляют интереса к бою и не могут в нём участвовать. Их характер предполагает полное избегание насильственных столкновений.</VRE_PassiveInsect.description>
+  
+</LanguageData>

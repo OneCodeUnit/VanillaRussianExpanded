@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: swarm synapse -->
+  <VRE_SwarmSynapse.label>синапс роя</VRE_SwarmSynapse.label>
+  <!-- EN: Carriers of this gene form a synaptic swarm, allowing their minds to link and accelerate learning when together. Like a hive of insects, their collective intelligence and speed of knowledge absorption increase with each additional member. -->
+  <VRE_SwarmSynapse.description>Носители этого гена образуют синаптический рой, объединяющий их сознания в единую сеть. Это позволяет значительно ускорить процесс обучения, когда носители находятся рядом друг с другом. Подобно улью насекомых, их коллективный интеллект и скорость усвоения знаний возрастают с каждым новым участником роя.</VRE_SwarmSynapse.description>
+  <!-- EN: Provides a stacking +5% Global Work Speed boost for each pawn in the colony with Swarm Synapse gene. -->
+  <VRE_SwarmSynapse.customEffectDescriptions.0>Даёт суммируемое увеличение скорости работы на +5% за каждого персонажа в поселении с геном «Синапс роя».</VRE_SwarmSynapse.customEffectDescriptions.0>
+  <!-- EN: The amount of pawns having the gene refreshes every 10000 ticks (4 ingame hours) to avoid lag. -->
+  <VRE_SwarmSynapse.customEffectDescriptions.1>Количество персонажей, имеющих этот ген, обновляется каждые 10000 тиков (4 игровых часа), чтобы избежать просадок в производительности.</VRE_SwarmSynapse.customEffectDescriptions.1>
+  
+  <!-- EN: royal jelly injector -->
+  <VRE_RoyalJellyInjector.label>инъектор королевского желе</VRE_RoyalJellyInjector.label>
+  <!-- EN: Carriers of this gene develop a specialized injector mouth, enabling them to administer royal jelly to others. This injection provides the recipient with an immunity boost and improved mood, though it leaves a tiny wound and can only be performed every six hours. -->
+  <VRE_RoyalJellyInjector.description>У носителей этого гена формируется специальный хоботок, позволяющий им вводить королевское желе другим персонажам. Эта инъекция повышает иммунитет и улучшает настроение, при этом оставляя крошечную ранку. Может быть сделана только раз в шесть часов.</VRE_RoyalJellyInjector.description>
+  
+  <!-- EN: pyro-resistant chitin -->
+  <VRE_PyroResistantChitin.label>огнеупорный хитин</VRE_PyroResistantChitin.label>
+  <!-- EN: Carriers of this gene develop pyro-resistant chitin, drastically reducing their flammability and flame damage taken. They remain composed in fiery situations, never succumbing to panic when on fire. -->
+  <VRE_PyroResistantChitin.description>Носители этого гена отращивают огнеупорный хитин, резко снижающий их воспламеняемость и получаемый урон от пламени. Они сохраняют самообладание, будучи окружёнными пламенем, и не паникуют даже когда горят.</VRE_PyroResistantChitin.description>
+  <!-- EN: Won't run in panic when set on fire. -->
+  <VRE_PyroResistantChitin.customEffectDescriptions.0>Персонаж не будет бежать в панике, когда его подожгут.</VRE_PyroResistantChitin.customEffectDescriptions.0>
+  <!-- EN: fuel -->
+  <VRE_PyroResistantChitin.symbolPack.prefixSymbols.0.symbol>топливо</VRE_PyroResistantChitin.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: chem -->
+  <VRE_PyroResistantChitin.symbolPack.prefixSymbols.1.symbol>хим</VRE_PyroResistantChitin.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: petrol -->
+  <VRE_PyroResistantChitin.symbolPack.prefixSymbols.2.symbol>бензо</VRE_PyroResistantChitin.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: flame glands -->
+  <VRE_FlameGlands.label>огненные железы</VRE_FlameGlands.label>
+  <!-- EN: Carriers of this gene possess flame glands, granting them the ability to spew combustible fluid from their mouths. This fluid ignites on contact, setting targets or surfaces ablaze, thanks to a special gland and sac that produce and store the fiery substance. -->
+  <VRE_FlameGlands.description>Носители этого гена обладают огненными железами, дающими способность извергать изо рта горючую жидкость. Эта субстанция воспламеняется при контакте, поджигая цели и поверхности.</VRE_FlameGlands.description>
+
+  <!-- EN: fire -->
+  <VRE_FlameGlands.symbolPack.prefixSymbols.0.symbol>огне</VRE_FlameGlands.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: flame -->
+  <VRE_FlameGlands.symbolPack.prefixSymbols.1.symbol>пламе</VRE_FlameGlands.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: burn -->
+  <VRE_FlameGlands.symbolPack.prefixSymbols.2.symbol>жаро</VRE_FlameGlands.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: locust wings -->
+  <VRE_LocustWings.label>крылья саранчи</VRE_LocustWings.label>
+  <!-- EN: Carriers of this gene develop locust wings, granting them the special ability to perform a locust leap. This allows them to fly short distances, emulating the powerful and agile leaps of a locust. -->
+  <VRE_LocustWings.description>Носители этого гена отращивают специальные крылья, дающие способность «Прыжок саранчи». Это позволяет им мощными и быстрыми прыжками преодолевать короткие расстояния, подобно саранче.</VRE_LocustWings.description>
+
+  <!-- EN: fly -->
+  <VRE_LocustWings.symbolPack.prefixSymbols.0.symbol>дально</VRE_LocustWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: jump -->
+  <VRE_LocustWings.symbolPack.prefixSymbols.1.symbol>прыго</VRE_LocustWings.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: runner -->
+  <VRE_LocustWings.symbolPack.suffixSymbols.0.symbol>бегун</VRE_LocustWings.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: jumper -->
+  <VRE_LocustWings.symbolPack.suffixSymbols.1.symbol>прыг</VRE_LocustWings.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: flier -->
+  <VRE_LocustWings.symbolPack.suffixSymbols.2.symbol>летун</VRE_LocustWings.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: fly -->
+  <VRE_LocustWings.symbolPack.suffixSymbols.3.symbol>прыгун</VRE_LocustWings.symbolPack.suffixSymbols.3.symbol>
+  
+  <!-- EN: insect rostrum -->
+  <VRE_InsectRostrum.label>рострум насекомого</VRE_InsectRostrum.label>
+  <!-- EN: mandibled -->
+  <VRE_InsectRostrum.labelShortAdj>рострум</VRE_InsectRostrum.labelShortAdj>
+  <!-- EN: Carriers of this gene possess an insect rostrum, a large, sharp beak-like structure akin to that of bees. This adaptation quadruples their eating speed and grants them a powerful melee bite attack, dealing significant stab damage with a quick cooldown. -->
+  <VRE_InsectRostrum.description>Носители этого гена обладают рострумом — ротовым аппаратом, напоминающим острый клюв. Этот орган в четыре раза увеличивает скорость поедания пищи и даёт мощную атаку ближнего боя — укус, наносящий значительный колющий урон.</VRE_InsectRostrum.description>
+
+  <!-- EN: insect -->
+  <VRE_InsectRostrum.symbolPack.prefixSymbols.0.symbol>инсекто</VRE_InsectRostrum.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: mandible -->
+  <VRE_InsectRostrum.symbolPack.prefixSymbols.1.symbol>жвало</VRE_InsectRostrum.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: acid glands -->
+  <VRE_AcidGlands.label>кислотные железы</VRE_AcidGlands.label>
+  <!-- EN: Carriers of this gene develop acid glands, enabling them to spew acid from their neck, damaging buildings, people and items in a targeted area. -->
+  <VRE_AcidGlands.description>Носители этого гена способны плеваться кислотой с помощью специального органа в шее, нанося урон постройкам, персонажам и предметам в зоне поражения.</VRE_AcidGlands.description>
+  <!-- EN: acid -->
+  <VRE_AcidGlands.symbolPack.prefixSymbols.0.symbol>кисло</VRE_AcidGlands.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: veno -->
+  <VRE_AcidGlands.symbolPack.prefixSymbols.1.symbol>ядо</VRE_AcidGlands.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: infrared sensors -->
+  <VRE_InfraredSensors.label>инфракрасные рецепторы</VRE_InfraredSensors.label>
+  <!-- EN: Carriers of this gene possess infrared sensors, allowing them to see clearly in the dark. They suffer no penalties to work speed or movement in darkness, and gain improved accuracy over long range. -->
+  <VRE_InfraredSensors.description>Носители этого гена обладают инфракрасными рецепторами, позволяющими им хорошо видеть в темноте. В условиях низкой освещённости они не получают штрафов к скорости работы и передвижения, а также имеют повышенную меткость на дальних дистанциях.</VRE_InfraredSensors.description>
+  
+  <!-- EN: mineral-rich insectskin -->
+  <VRE_MineralRichInsectskin.label>каменная кожа насекомого</VRE_MineralRichInsectskin.label>
+  <!-- EN: Carriers of this gene develop mineral-rich insectskin, forming thick, protective plating on their skin. This natural armor provides significant protection until enough damage is sustained to break it. -->
+  <VRE_MineralRichInsectskin.description>Носители этого гена обладают особой насыщенной минералами кожей насекомых, образующей толстую защитную оболочку. Эта естественная броня обеспечивает надёжную защиту до тех пор, пока не будет получен достаточный урон, чтобы пробить её.</VRE_MineralRichInsectskin.description>
+
+  
+  <!-- EN: charger claws -->
+  <VRE_ChargerClaws.label>клешни чешуйника</VRE_ChargerClaws.label>
+  <!-- EN: Carriers of this gene develop large charger claws, granting them the ability to perform a charge towards a target, dealing significant damage to anything in their path and easily destroying defenses, with the ability to perform this action periodically and over a considerable distance. -->
+  <VRE_ChargerClaws.description>Носители этого гена обладают большими клешнями как у чешуйника. Эти клешни позволяют им совершать рывок к цели, нанося существенный урон всему на своём пути и легко разрушая защитные сооружения. Эта способность может быть применена неоднократно и на значительном расстоянии.</VRE_ChargerClaws.description>
+  
+</LanguageData>

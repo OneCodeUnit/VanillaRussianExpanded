@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: chemfuel sacks -->
+  <VRE_ChemfuelSacks.label>химтопливные мешочки</VRE_ChemfuelSacks.label>
+  <!-- EN: Chemfuel sacks make this person very volatile. If set on fire, and the fire is at least 35 in size, they explode in a fire explosion. Upon fire explosion, they will not explode again for 24 hours.\n\nWill produce 30 chemfuel every 10 days. -->
+  <VRE_ChemfuelSacks.description>Мешочки с химтопливом на теле этого персонажа делают его очень взрывоопасным. Если его поджечь, и огонь будет размером не менее 35, произойдёт огненный взрыв. После этого он не будет взрываться в течение 24 часов.\n\nПроизводит 30 ед. химтоплива каждые 10 дней.</VRE_ChemfuelSacks.description>
+  
+  <!-- EN: acid burstsack -->
+  <VRE_AcidBurstSack.label>взрывной кислотный мешочек</VRE_AcidBurstSack.label>
+  <!-- EN: Upon taking large amounts of damage in a single instance, this person will undergo an acid explosion, covering everything and everyone in 4.9 tile radius in corrosive acid, damaging them over time. -->
+  <VRE_AcidBurstSack.description>Получив единоразовый большой урон, этот персонаж взрывается, покрывая едкой кислотой всё и всех в радиусе 4,9 клетки, нанося урон с течением времени.</VRE_AcidBurstSack.description>
+  
+  <!-- EN: mineral-rich insectskin -->
+  <VRE_MineralRichInsectskin.label>каменная кожа насекомого</VRE_MineralRichInsectskin.label>
+  <!-- EN: Mineral-rich insectskin forming thick, protective plating. This natural armor provides significant protection until enough damage is sustained to break it. -->
+  <VRE_MineralRichInsectskin.description>Кожа насекомых, богатая минеральными веществами, образует толстую защитную оболочку. Эта естественная броня обеспечивает надёжную защиту до тех пор, пока не будет получен достаточный урон, чтобы пробить её.</VRE_MineralRichInsectskin.description>
+  
+</LanguageData>

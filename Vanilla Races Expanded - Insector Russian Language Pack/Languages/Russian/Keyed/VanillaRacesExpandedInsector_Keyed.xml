@@ -70,6 +70,8 @@ Insector colonists that will be affected:
 
   <!-- EN: Needs to be injected on a humanoid target or adult animal with body size higher than 1 -->
   <VRE_NeedsHumanoidOrAnimal>Можно вживить только в гуманоидную цель или взрослое животное с размером тела больше 1</VRE_NeedsHumanoidOrAnimal>
+  <!-- EN: Can't be injected on ghouls -->
+  <VRE_CantImplantOnGhoul>Нельзя вживить в упыря</VRE_CantImplantOnGhoul>
 
   <!-- EN: Chestburst birth -->
   <VRE_ChestburstBirthLabel>Рождение грудолома</VRE_ChestburstBirthLabel>
@@ -93,7 +95,16 @@ Insector colonists that will be affected:
   <!-- EN: {0} has self-impregnated! -->
   <VRE_GotPregnant>{0} успешно самооплодотворяется!</VRE_GotPregnant>
   <!-- EN: {0} is too young! -->
-	<VRE_PawnIsTooYoung>{0} слишком {0_gender ? молод : молода}!</VRE_PawnIsTooYoung>
+  <VRE_PawnIsTooYoung>{0} слишком {0_gender ? молод : молода}!</VRE_PawnIsTooYoung>
   <!-- EN: {0} is still suffering from implantation fatigue -->
-	<VRE_TempSterile>{0} всё ещё страдает от усталости после вживления</VRE_TempSterile>
+  <VRE_TempSterile>{0} всё ещё страдает от усталости после вживления</VRE_TempSterile>
+  <!-- EN: Swarm synapse gene -->
+  <VRE_SwarmSynapseOffset>Ген «Синапс роя»</VRE_SwarmSynapseOffset>
+  <!-- EN: Consume {0} to unlock a new mutation / evolution -->
+  <VRE_IngestPherocore>Поглотить {0}, чтобы получить новую эволюцию или деградацию</VRE_IngestPherocore>
+  <!-- EN: Consuming {0} has unlocked the {1} {2} for all carriers of the geneline evolution gene -->
+  <VRE_PherocoreConsumed>Поглощение {lookup: {0}; Case; 1} разблокировало {1} {2} для всех носителей гена «Эволюция генома»</VRE_PherocoreConsumed>
+  <!-- EN: No more genes can be unlocked with the {0} -->
+  <VRE_NoUnlockableGenes>Поглощение {lookup: {0}; Case; 1} больше не разблокирует никаких генов</VRE_NoUnlockableGenes>
+  
 </LanguageData>
