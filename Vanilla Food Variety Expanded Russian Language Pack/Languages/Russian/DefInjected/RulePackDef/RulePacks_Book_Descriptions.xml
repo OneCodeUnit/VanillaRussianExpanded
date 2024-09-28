@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+  <li>desc->This [writingQualityAdjective] [bookType] [follows] a [chef] as [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nOnce read, this book will provide a new favourite ingredient or meal to the reader, and then it will be destroyed.</li>
+  <li>follows->covers the recipes from</li>
+  <li>follows->lists the recipes from</li>
+  <li>protagHe->he</li>
+  <li>protagHis->his</li>
+  <li>protagHim->him</li>
+  <li>storyStruggles->tries to give some insight into new, exciting ingredients</li>
+  <li>storyStruggles->aims to explore the world of bold, innovative ingredients</li>
+  <li>storyStruggles->delves into the discovery of fresh and thrilling flavours</li>
+  <li>storyStruggles->seeks to uncover the secrets of unique and exotic ingredients</li>
+  <li>storyStruggles->offers a peek into the realm of vibrant, unfamiliar ingredients</li>
+  <li>storyStruggles->takes a deep dive into discovering exciting, novel ingredients</li>
+  <li>storyStruggles->strives to illuminate the potential of new and adventurous ingredients</li>
+  <li>storyStruggles->embarks on a journey to reveal the magic of undiscovered culinary gems</li>
+  <li>storyStruggles->provides a fresh perspective on using innovative and tantalizing ingredients</li>
+  <li>storyStruggles->ventures into the uncharted territory of intriguing, new ingredients</li>
+  <li>storyStruggles->showcases the allure and versatility of bold, underexplored ingredients</li>
+  <li>chef->chef</li>
+  <li>chef->culinary artist</li>
+  <li>chef->gastronomer</li>
+  <li>chef->head cook</li>
+  <li>chef->kitchen maestro</li>
+  <li>chef->cuisine expert</li>
+  <li>chef->pastry chef</li>
+  <li>chef->sous chef</li>
+  <li>chef->food specialist</li>
+  <li>chef->gourmet chef</li>
+  <li>writingQualityAdjective(quality==6)->remarkably well-written</li>
+  <li>writingQualityAdjective(quality==5)->smart and insightful</li>
+  <li>writingQualityAdjective(quality==4)->thoughtful and eloquent</li>
+  <li>writingQualityAdjective(quality==3)->well-written</li>
+  <li>writingQualityAdjective(quality==2)->mediocre</li>
+  <li>writingQualityAdjective(quality==1)->poorly-written</li>
+  <li>writingQualityAdjective(quality==0)->nearly-incoherent</li>
+  <li>writingQualitySentence(quality[greater_than]4)->It is [excellentDesc] [excellentExtra]</li>
+  <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->It is [decentDesc] [decentExtra]</li>
+  <li>writingQualitySentence(quality[less_than]2)->It is [awfulDesc] [awfulExtra]</li>
+  <li>excellentDesc->a thoughtful exploration of the culinary spirit</li>
+  <li>excellentDesc->deeply insightful about the complexity of cooking</li>
+  <li>excellentDesc->tightly-written and rich with exotic creations</li>
+  <li>excellentDesc->creative and original</li>
+  <li>excellentDesc->wildly original and remarkably well-crafted</li>
+  <li>excellentDesc->filled with relatable humorous kitchen anecdotes</li>
+  <li>excellentExtra->. Each recipe's description flows naturally into the next</li>
+  <li>excellentExtra->. It is a page-turner and very hard to put down, each recipe better than the previous one</li>
+  <li>excellentExtra->. Its recipes constantly blow the reader's mind</li>
+  <li>decentDesc->a decent dish collection</li>
+  <li>decentDesc->interesting and engaging, with neat culinary ideas</li>
+  <li>decentDesc->focused on one interesting culinary technique</li>
+  <li>decentDesc->somewhat humorous from time to time</li>
+  <li>decentDesc->appealing to a certain type of cook</li>
+  <li>decentExtra-> but has some awful cooking omissions</li>
+  <li>decentExtra-> but its recipes are often hard to follow</li>
+  <li>decentExtra-> but is riddled with cooking errors</li>
+  <li>decentExtra-> but lacks any deep complexity to its recipes</li>
+  <li>decentExtra-> but the recipes are trite and simplistic</li>
+  <li>decentExtra-> but the author constantly uses words inappropriately in an attempt to sound smart</li>
+  <li>decentExtra-> but there is a huge text wall detailing the author's inane travel experiences before each recipe. Just give us the recipe!</li>
+  <li>decentExtra-> but the writing is excessively flowery</li>
+  <li>decentExtra-> but many of the ingredients on its recipes are unnecessary and add nothing to their flavours</li>
+  <li>awfulDesc->very poorly written, as if created by an amateur chef,</li>
+  <li>awfulDesc->written by someone who should never work in a kitchen</li>
+  <li>awfulDesc->full of irrelevant anecdotes that add nothing to the dish being described</li>
+  <li>awfulDesc->hard to follow</li>
+  <li>awfulDesc->lacking in engaging dishes</li>
+  <li>awfulDesc->presenting very bizarre dishes, yet unoriginal</li>
+  <li>awfulDesc->far, far too long, filled with redundant recipes</li>
+  <li>awfulExtra-> and the recipes are borderline incoherent</li>
+  <li>awfulExtra-> and the recipes are extremely hard to follow</li>
+  <li>awfulExtra-> and some of the recipes sound like they would outright kill you</li>
+  <li>awfulExtra-> and the recipes lack any sense of theme or meaning</li>
+  <li>awfulExtra-> and its recipes don't present any interesting ideas at all</li>
+  <li>awfulExtra-> and its recipes are bland and tasteless</li>
+  <li>awfulExtra-> and by the looks of it it's basically a guide to getting food poisoning</li>
+  <li>awfulExtra-> and it tends to substitute ingredients for lower-quality alternatives</li>
+  <li>maybe_date-></li>
+  <li>maybe_date->The book was published [date_form].</li>
+  <li>maybe_date->The text was first printed [date_form].</li>
+  <li>maybe_date->It's unclear exactly when the book was written.</li>
+  <li>date_form->recently</li>
+  <li>date_form->many centuries ago</li>
+  <li>date_form->on the [date]</li>
+  <li>date_form->in [date_season]</li>
+  <li>bookType(p=4)->cookbook</li>
+  <li>bookType(p=2)->recipe book</li>
+  <li>bookType->culinary guide</li>
+  <li>bookType->recipe handbook</li>
+  <li>bookType->kitchen guide</li>
+  <li>bookType->cuisine guide</li>
+  <li>bookType->cooking reference</li>
+   -->
+  <VCEV_CookingBook_Description.rulePack.rulesStrings>
+  <li>desc->[writingQualityAndAdjectiveBookType] [follows] [chef], который [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nПосле прочтения у читателя появится новый любимый ингредиент или блюдо, а сама книга будет уничтожена.</li>
+  
+  <li>writingQualityAndAdjectiveBookType->Этот [writingQualityAdjective_masc] [bookType_masc]</li>
+  <li>writingQualityAndAdjectiveBookType->Эта [writingQualityAdjective_fem] [bookType_fem]</li>
+  
+  <li>writingQualityAdjective_masc(quality==6)->необычайно захватывающий</li>
+  <li>writingQualityAdjective_masc(quality==5)->изящный и содержательный</li>
+  <li>writingQualityAdjective_masc(quality==4)->продуманный и выразительный</li>
+  <li>writingQualityAdjective_masc(quality==3)->необычный</li>
+  <li>writingQualityAdjective_masc(quality==2)->посредственный</li>
+  <li>writingQualityAdjective_masc(quality==1)->неумело написанный</li>
+  <li>writingQualityAdjective_masc(quality==0)->почти бессвязный</li>
+  
+  <li>writingQualityAdjective_fem(quality==6)->необычайно захватывающая</li>
+  <li>writingQualityAdjective_fem(quality==5)->изящная и содержательная</li>
+  <li>writingQualityAdjective_fem(quality==4)->продуманная и выразительная</li>
+  <li>writingQualityAdjective_fem(quality==3)->необычная</li>
+  <li>writingQualityAdjective_fem(quality==2)->посредственная</li>
+  <li>writingQualityAdjective_fem(quality==1)->неумело написанная</li>
+  <li>writingQualityAdjective_fem(quality==0)->почти бессвязная</li>
+  
+  <li>bookType_masc(p=4)->кулинарный справочник</li>
+  <li>bookType_masc(p=2)->сборник рецептов</li>
+  <li>bookType_masc->справочник рецептов</li>
+  <li>bookType_masc->каталог рецептов</li>
+  <li>bookType_masc->справочник по кулинарии</li>
+  
+  <li>bookType_fem(p=2)->кулинарная книга</li>
+  <li>bookType_fem->поваренная книга</li>
+  <li>bookType_fem->кулинарная энциклопедия</li>
+  <li>bookType_fem->книга рецептов</li>
+  
+  <li>follows->включает в себя рецепты от</li>
+  <li>follows->содержит рецепты от</li>
+  
+  <li>storyStruggles->предлагает читателю заглянуть в царство ярких, незнакомых ингредиентов</li>
+  <li>storyStruggles->стремится исследовать мир смелых, оригинальных ингредиентов</li>
+  <li>storyStruggles->открывает для читателя новые и необычные вкусы</li>
+  <li>storyStruggles->стремится раскрыть секреты уникальных и экзотических ингредиентов</li>
+  <li>storyStruggles->делится своими впечатлениями о новых, интересных ингредиентах</li>
+  <li>storyStruggles->стремится раскрыть потенциал новых и оригинальных ингредиентов</li>
+  <li>storyStruggles->отправляется в кулинарное путешествие, чтобы раскрыть магию неизведанных вкусов</li>
+  <li>storyStruggles->предлагает свежий взгляд на использование необычных и пикантных ингредиентов</li>
+  <li>storyStruggles->демонстрирует читателю потенциал малоисследованных ингредиентов</li>
+  
+  <li>chef->шеф-повара</li>
+  <li>chef->выдающегося кулинара</li>
+  <li>chef->известного гастронома</li>
+  <li>chef->повара-самоучки</li>
+  <li>chef->эксперта в области кулинарии</li>
+  <li>chef->повара-кондитера</li>
+  <li>chef->су шефа</li>
+  <li>chef->повара-технолога</li>
+  
+  <li>writingQualitySentence(quality[greater_than]4)->[excellentDesc] [excellentExtra]</li>
+  <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->[decentDesc] [decentExtra]</li>
+  <li>writingQualitySentence(quality[less_than]2)->[awfulDesc] [awfulExtra]</li>
+  
+  <li>excellentDesc->Это вдумчивое исследование кулинарного мира не оставляет равнодушным</li>
+  <li>excellentDesc->Автор отлично доносит всю многогранность кулинарного искусства</li>
+  <li>excellentDesc->[story_with_ending] отличается креативностью и оригинальностью</li>
+  <li>excellentDesc->[story_with_ending] крайне оригинальное и удивительно проработанное</li>
+  <li>excellentDesc->[story_with_ending] сочетает обилие полезной информации со смешными кухонными историями</li>
+
+  <li>excellentExtra->. Каждый рецепт поражает воображение читателя</li>
+  <li>excellentExtra->. От чтения практически невозможно оторваться</li>
+  <li>excellentExtra->. Предлагаемые рецепты описаны невероятно доходчиво и последовательно</li>
+  
+  <li>story_with_ending->повествование</li>
+  <li>story_with_ending->произведение</li>
+  <li>story_with_ending->изложение</li>
+  
+  <li>decentDesc->[story_with_ending] описывает достойную коллекцию блюд</li>
+  <li>decentDesc->[story_with_ending] интересное и увлекательное, с интересными кулинарными идеями</li>
+  <li>decentDesc->[story_with_ending] посвящено одной интересной кулинарной технике</li>
+  <li>decentDesc->[story_with_ending] в некоторых местах увлекательное</li>
+  <li>decentDesc->[story_with_ending] привлекательное для определённого типа читателей</li>
+  
+  <li>decentExtra->, но имеет несколько вопиющих кулинарных ошибок</li>
+  <li>decentExtra->, но описанные рецепты зачастую трудно повторить</li>
+  <li>decentExtra->, но изобилует кулинарными ошибками</li>
+  <li>decentExtra->, но описанные рецепты довольно однообразны</li>
+  <li>decentExtra->, но описанные рецепты не всегда оригинальны</li>
+  <li>decentExtra->, но автор постоянно использует неподходящие слова в попытке казаться умным</li>
+  <li>decentExtra->, но стиль написания чрезмерно витиеват</li>
+  <li>decentExtra->, но описанные рецепты содержат много лишних ингредиентов, которые ничего не добавляют ко вкусу предлагаемых блюд</li>
+  
+  <li>awfulDesc->[story_with_ending] написано очень неудачно, как будто автор никогда не видел ножа и разделочную доску, а</li>
+  <li>awfulDesc->[story_with_ending] написано человеком, который никогда не должен работать на кухне, причём</li>
+  <li>awfulDesc->[story_with_ending] полно неуместных анекдотов, которые абсолютно не относятся к описываемому блюду, да и</li>
+  <li>awfulDesc->[story_with_ending] читается с трудом, да и</li>
+  <li>awfulDesc->[story_with_ending] почти не содержит интересных блюд, причём</li>
+  <li>awfulDesc->[story_with_ending] описывает весьма странные и не вызывающие аппетита блюда, к тому же</li>
+  <li>awfulDesc->[story_with_ending] слишком затянутое, изобилующее повторяющимися блюдами, да и</li>
+  
+  <li>awfulExtra-> в рецептах постоянно используются одни и те же ингредиенты</li>
+  <li>awfulExtra-> описанные рецепты практически невозможно повторить</li>
+  <li>awfulExtra-> описание некоторых рецептов выглядит так, будто полученное блюдо убьёт вас</li>
+  <li>awfulExtra-> способы приготовления описаны путано и без последовательности</li>
+  <li>awfulExtra-> в рецептах даже не указаны точные пропорции ингредиентов</li>
+  <li>awfulExtra-> инструкции по времени приготовления не соответствуют реальности</li>
+  <li>awfulExtra-> названия блюд не соответствуют их содержимому</li>
+  <li>awfulExtra-> описанные рецепты больше похожи на инструкцию по получению пищевого отравления</li>
+  
+  <li>maybe_date-></li>
+  <li>maybe_date->\n\nКнига была опубликована [date_form].</li>
+  <li>maybe_date->\n\nТекст был впервые напечатан [date_form].</li>
+  <li>maybe_date->\n\nО времени написания этой книги совершенно ничего не известно.</li>
+  
+  <li>date_form->совсем недавно</li>
+  <li>date_form->много столетий назад</li>
+  <li>date_form->[date]</li>
+  </VCEV_CookingBook_Description.rulePack.rulesStrings>
+  
+</LanguageData>

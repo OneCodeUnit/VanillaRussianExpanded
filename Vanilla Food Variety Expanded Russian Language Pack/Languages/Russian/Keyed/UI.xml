@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Favourite meal or ingredient: -->
+  <VCE_FavouriteFoodTextOnly>Любимое блюдо или ингредиент:</VCE_FavouriteFoodTextOnly>
+  <!-- EN: Favourite meal or ingredient: {0} -->
+  <VCE_FavouriteFood>Любимое блюдо или ингредиент: {0}</VCE_FavouriteFood>
+  <!-- EN: Last eaten meals: {0} -->
+  <VCE_LastFoods>Последние съеденные блюда: {0}</VCE_LastFoods>
+  <!-- EN: Last eaten meals: -->
+  <VCE_LastFoodsTextOnly>Последние съеденные блюда:</VCE_LastFoodsTextOnly>
+  <!-- EN: Last eaten ingredients: {0} -->
+  <VCE_LastIngredients>Последние съеденные ингредиенты: {0}</VCE_LastIngredients>
+  <!-- EN: Last eaten ingredients: -->
+  <VCE_LastIngredientsTextOnly>Последние съеденные ингредиенты:</VCE_LastIngredientsTextOnly>
+  <!-- EN: Go back -->
+  <VCEV_GoBack>Назад</VCEV_GoBack>
+  <!-- EN: Consuming this meal or ingredient will give a +2 bonus to variety -->
+  <VCE_FavouriteFoodEffects>Употребление этого блюда или ингредиента даст бонус +2 к разнообразию</VCE_FavouriteFoodEffects>
+  <!-- EN: Not eaten yet -->
+  <VCE_NotEatenYet>Ещё не съедено</VCE_NotEatenYet>
+
+  <!-- EN: Meal Variety: {0}/{1} -->
+  <VCE_MealVariety>Разнообр. блюд: {0}/{1}</VCE_MealVariety>
+  <!-- EN: Ingredient Variety: {0}/{1} -->
+  <VCE_IngredientVariety>Разнообр. ингред.: {0}/{1}</VCE_IngredientVariety>
+  <!-- EN: Average Total: {0}% -->
+  <VCE_TotalVariety>Средн. значение: {0}%</VCE_TotalVariety>
+
+  <!-- EN: Since {0}'s favourite food has been consumed, variety in this category will get a +2 bonus per favourite! -->
+  <VCE_MealsHasFavourites>Так как {0} {0_gender ? съел : съела} своё любимое блюдо, разнообразие в этой категории получит бонус +2 за каждое любимое блюдо!</VCE_MealsHasFavourites>
+  <!-- EN: Since {0}'s favourite ingredient has been consumed, variety in this category will get a +2 bonus per favourite! -->
+  <VCE_IngredientsHasFavourites>Так как {0} {0_gender ? съел : съела} свой любимый ингредиент, разнообразие в этой категории получит бонус +2 за каждый любимый ингредиент!</VCE_IngredientsHasFavourites>
+
+  <!-- EN: {0} already has two favourite foods. The recipe book won't provide further insights -->
+  <VCEV_NoMoreFavourites>{0} уже имеет два любимых вида еды. Кулинарная книга больше не даст новых открытий.</VCEV_NoMoreFavourites>
+  <!-- EN: {0} has decided that {1} is now their favourite food too! -->
+  <VCEV_NewFavouriteGained>Теперь {0} считает {lookup: {1}; Case; 3} любимой едой!</VCEV_NewFavouriteGained>
+  <!-- EN: {1} is already {0}'s favourite food! The recipe book won't provide further insights -->
+  <VCEV_AlreadyFavourite>{0} уже считает {lookup: {1}; Case; 3} любимой едой! Кулинарная книга больше не даст новых открытий.</VCEV_AlreadyFavourite>
+
+  <!-- EN: This is {PAWN_nameDef}'s favourite meal, and counts as two meals for the purpose of food variety. -->
+  <VCEV_ThisIsFavourite>Это любимое блюдо {PAWN_nameDef}, потому оно считается за два блюда при подсчёте разнообразия еды.</VCEV_ThisIsFavourite>
+  <!-- EN: This is {PAWN_nameDef}'s favourite ingredient, and counts as two ingredients for the purpose of food variety. -->
+  <VCEV_ThisIsFavouriteIng>Это любимый ингредиент {PAWN_nameDef}, потому он считается за два ингредиента при подсчёте разнообразия еды.</VCEV_ThisIsFavouriteIng>
+  <!-- Mod options -->
+
+  <!-- EN: Mood offset -->
+  <VCEV_MoodMultiplier>Множитель настроения</VCEV_MoodMultiplier>
+  <!-- EN: Both negative and positive moods produced by low and high Food Variety need will be multiplied by this number. +/- 5 by default. -->
+  <VCEV_MoodMultiplierDesc>И негативные, и положительные бонусы к настроению от разнообразия еды будут умножены на это значение. По умолчанию +/- 5.</VCEV_MoodMultiplierDesc>
+  <!-- EN: Reset -->
+  <VCEV_Reset>Сбросить</VCEV_Reset>
+
+  <!-- EN: Low Food Variety Threshold -->
+  <VCEV_LowVarietyThreshold>Порог низкого разнообразия</VCEV_LowVarietyThreshold>
+  <!-- EN: Colonists with lower food variety than this will get negative mood effects. 30% by default. -->
+  <VCEV_LowVarietyThresholdDesc>Поселенцы с показателем разнообразия еды ниже этого значения будут получать штрафы к настроению. По умолчанию — 30%.</VCEV_LowVarietyThresholdDesc>
+
+  <!-- EN: High Food Variety Threshold -->
+  <VCEV_HighVarietyThreshold>Порог высокого разнообразия</VCEV_HighVarietyThreshold>
+  <!-- EN: Colonists with higher food variety than this will get positive mood effects. 60% by default. -->
+  <VCEV_HighVarietyThresholdDesc>Поселенцы с показателем разнообразия еды выше этого значения будут получать бонусы к настроению. По умолчанию — 60%.</VCEV_HighVarietyThresholdDesc>
+
+  <!-- EN: Number of latest meals to count -->
+  <VCEV_NumberOfMeals>Число последних блюд</VCEV_NumberOfMeals>
+  <!-- EN: The food variety need level will be calculated by counting among this number of meals consumed. Default is 7 latest meals. -->
+  <VCEV_NumberOfMealsDesc>Уровень разнообразия еды будет рассчитываться на основе этого количества съеденных блюд. По умолчанию — 7.</VCEV_NumberOfMealsDesc>
+
+  <!-- EN: Number of latest ingredients to count -->
+  <VCEV_NumberOfIngredients>Число последних ингредиентов</VCEV_NumberOfIngredients>
+  <!-- EN: The food variety need level will be calculated by counting among this number of ingredients consumed. Default is 7 latest ingredients. -->
+  <VCEV_NumberOfIngredientsDesc>Уровень разнообразия еды будет рассчитываться на основе этого количества съеденных ингредиентов. По умолчанию — 7.</VCEV_NumberOfIngredientsDesc>
+  
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: 
+  <li>title->[titleBasic]</li>
+  <li>title(p=2)->[titleAuthoredNoSubject]</li>
+  <li>titleBasic(p=6)->[randAdjective] [subject_primary]</li>
+  <li>titleBasic(p=6)->[randNoun] and [subject_primary]</li>
+  <li>titleBasic->The Flavours of [subject_primary]</li>
+  <li>titleBasic->Savoury [subject_primary]</li>
+  <li>titleBasic->Global Gourmet [subject_primary]</li>
+  <li>titleBasic->Fresh from [subject_primary]</li>
+  <li>titleBasic->Spice Odyssey on [subject_primary]</li>
+  <li>titleBasic->Quick and Easy Weeknight Meals of [subject_primary]</li>
+  <li>titleBasic->Grandma's Kitchen in [subject_primary]</li>
+  <li>titleBasic->The Healthy Plate of [subject_primary]</li>
+  <li>titleBasic->The Ultimate Vegan Cookbook in [subject_primary]</li>
+  <li>titleBasic->Culinary Classics of [subject_primary]</li>
+  <li>titleBasic->Cooking with Love in [subject_primary]</li>
+  <li>titleBasic->Fire and Smoke: A Griller's Guide to [subject_primary]</li>
+  <li>titleBasic->Bake It Easy: [subject_primary]</li>
+  <li>titleBasic->Fusion Feast: [subject_primary]</li>
+  <li>titleBasic->Soulful Southern Cooking: [subject_primary]</li>
+  <li>titleBasic->The One-Pot Wonder: [subject_primary]</li>
+  <li>titleBasic->The Lazy Cook's Handbook of [subject_primary]</li>
+  <li>titleBasic->Perfect Pasta Every Time: [subject_primary]</li>
+  <li>titleBasic->Wholesome Meals for the Family: [subject_primary]</li>
+  <li>titleBasic->Tips, Tricks, and Recipes of [subject_primary]</li>
+  <li>titleBasic->Desserts to Die For: [subject_primary]</li>
+  <li>titleBasic->The Chocolate Lover's Cookbook of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cookbook of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s [randAdjective] Recipes of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Recipes of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Culinary Guide of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Recipe Collection of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Kitchen Manual of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cookery Book of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Gastronomy Guide of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Food Guide of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Chef’s Handbook of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cooking Compendium of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cook’s Companion of [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Gastronomic Bible of [subject_primary]</li>
+  -->
+  <VCEV_CookingBook_Namer.rulePack.rulesStrings>
+  <li>title(p=4)->«[titleBasic]»</li>
+  <li>title(p=2)->[titleAuthoredNoSubject]</li>
+  
+  <li>titleBasic(p=6)->[randAdjective] [subject_primary]</li>
+  <li>titleBasic(p=6)->[subj] и [rand_noun]</li>
+  <li>titleBasic(p=0.5)->[subj] или [rand_noun]</li>
+  <li>titleBasic->[subj] [extra]</li>
+  
+  <li>titleBasic->Как [subject_primary] меняет мир к лучшему</li>
+  <li>titleBasic->[subject_primary]: Рецепты опытного шеф-повара</li>
+  <li>titleBasic->[subject_primary] и главные ошибки начинающих</li>
+  <li>titleBasic->Карательная кулинария. [subject_primary]</li>
+  <li>titleBasic->Бабулины рецепты: [subject_primary]</li>
+  <li>titleBasic->[subject_primary] — полная тарелка пользы</li>
+  <li>titleBasic->Кулинарная классика. [subject_primary]</li>
+  <li>titleBasic->[subject_primary]: Руководство по приготовлению</li>
+  <li>titleBasic->Залог сытного завтрака — [subject_primary]</li>
+  <li>titleBasic->[subject_primary] как пища для выживания</li>
+  <li>titleBasic->[subject_primary] — не просто питательный продукт</li>
+  <li>titleBasic->[subject_primary] и секретная кулинарная комната</li>
+  <li>titleBasic->[subject_primary] как главная часть обеда</li>
+  <li>titleBasic->Секрет идеального ужина — [subject_primary]</li>
+  <li>titleBasic->[subject_primary] и чудеса кулинарии</li>
+  <li>titleBasic->[subject_primary]: Советы, хитрости и рецепты</li>
+  <li>titleBasic->Десерты на любой вкус: [subject_primary]</li>
+  <li>titleBasic->[subject_primary]: Рецепты на все случаи жизни</li>
+  
+  <li>titleAuthoredNoSubject->[subject_primary]: Советы от [ANYPAWN_nameIndef]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameFull]: [subject_primary] как вкус счастья</li>
+  <li>titleAuthoredNoSubject->Кулинарная книга [ANYPAWN_nameFull]. [subject_primary]</li>
+  <li>titleAuthoredNoSubject->Вкусные истории от [ANYPAWN_nameFull]: [subject_primary]</li>
+  <li>titleAuthoredNoSubject->Душевные рецепты [ANYPAWN_nameFull] — [subject_primary]</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameFull]: [subject_primary] — залог удачного дня</li>
+  <li>titleAuthoredNoSubject->Секреты [ANYPAWN_nameFull]. [subject_primary] и кулинарное мастерство</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameFull]. [subject_primary] и ментальное здоровье</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameFull]. [subject_primary]: мифы и реальность</li>
+  <li>titleAuthoredNoSubject->[ANYPAWN_nameFull]: Почему [subject_primary] это искусство</li>
+  </VCEV_CookingBook_Namer.rulePack.rulesStrings>
+  
+</LanguageData>
