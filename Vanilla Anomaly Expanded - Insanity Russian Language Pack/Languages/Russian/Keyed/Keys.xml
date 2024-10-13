@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Sanity -->
+	<VAEI_Sanity>Рассудок</VAEI_Sanity>
+  <!-- EN: {PAWN_nameDef}’s sanity has been tested by recent events. The sanity level of your colonists can now be seen on the Needs tab. -->
+	<VAEI_SanityLetterDesc>Рассудок {PAWN_nameDef} был испытан на прочность недавними событиями. Шкала рассудка ваших поселенцев теперь доступна во вкладке «Нужды».</VAEI_SanityLetterDesc>
+  <!-- EN: {PAWN_nameDef} has lost sanity due to {0}. {PAWN_nameDef}’s sanity is now {1} -->
+	<VAEI_SanityLossMessage>{PAWN_nameDef} {PAWN_gender ? потерял : потеряла} рассудок из-за {0}. Теперь {PAWN_possessive} рассудок опустился до {1}</VAEI_SanityLossMessage>
+  <!-- EN: {PAWN_nameDef} has gained sanity due to {0}. {PAWN_nameDef}’s sanity is now {1} -->
+	<VAEI_SanityGainMessage>{PAWN_nameDef} {PAWN_gender ? укрепил : укрепила} рассудок из-за {0}. Теперь {PAWN_possessive} рассудок поднялся до {1}</VAEI_SanityGainMessage>
+  <!-- EN: Passive effects: -->
+	<VAEI_PassiveEffects>Пассивные эффекты:</VAEI_PassiveEffects>
+  <!-- EN: Most recent effects: -->
+	<VAEI_MostRecentEvents>Недавние события:</VAEI_MostRecentEvents>
+  <!-- EN: Passive sanity gain: {0} - {1} -->
+	<VAEI_PassiveSanityGain>Пассивный прирост рассудка: {0} - {1}</VAEI_PassiveSanityGain>
+  <!-- EN: Studying {0} -->
+	<VEAI_AnomalyStudy>Изучение {0}</VEAI_AnomalyStudy>
+  <!-- EN: Eating twisted meat -->
+	<VEAI_EatingTwistedMeat>Съедено жуткое мясо</VEAI_EatingTwistedMeat>
+  <!-- EN: Eating twisted meat as food ingredient -->
+	<VEAI_EatingTwistedMeatAsIngredient>Съедена пища, имеющая в своём составе жуткое мясо</VEAI_EatingTwistedMeatAsIngredient>
+  <!-- EN: Suppressing {0} -->
+	<VAEI_SuppressingEntity>Подавление {0}</VAEI_SuppressingEntity>
+  <!-- EN: Occult teaching by {PAWN_nameDef} -->
+	<VAEI_OccultTeaching>Оккультные учения от {PAWN_nameDef}</VAEI_OccultTeaching>
+  <!-- EN: {0} ago: {1}: {2} -->
+	<VAEI_SanityRecord>{0} прошло: {1}: {2}</VAEI_SanityRecord>
+  <!-- EN: Disturbing {0} from {PAWN_nameDef} -->
+	<VAEI_DisturbingInteraction>{PAWN_nameDef} вселяет тревогу в {0}</VAEI_DisturbingInteraction>
+  <!-- EN: {0} from {PAWN_nameDef} -->
+	<VAEI_Interaction>{0} от {PAWN_nameDef}</VAEI_Interaction>
+  <!-- EN: Sanity gain per day: {0} -->
+	<VAEI_StatsReport_SanityGainPerDay>Рассудок за день: {0}</VAEI_StatsReport_SanityGainPerDay>
+  <!-- EN: Low sanity -->
+	<VAEI_LowSanity>Низкий рассудок</VAEI_LowSanity>
+  <!-- EN: High sanity -->
+	<VAEI_HighSanity>Крепкий рассудок</VAEI_HighSanity>
+  <!-- EN: Anomalous body part ({0}) -->
+	<VAEI_AnomalyBodypart>Аномальные части тела ({0})</VAEI_AnomalyBodypart>
+  <!-- EN: Being in labyrinth -->
+	<VAEI_BeingInLabyrinth>Нахождение в лабиринте</VAEI_BeingInLabyrinth>
+  <!-- EN: Being in the darkness -->
+	<VAEI_BeingInUnnaturalDarkness>Нахождение во тьме</VAEI_BeingInUnnaturalDarkness>
+  <!-- EN: Unnatural corpse -->
+	<VAEI_UnnaturalCorpse>Странный мертвец</VAEI_UnnaturalCorpse>
+  <!-- EN: {0} ritual invocation -->
+	<VAEI_InvokerEffect>Заклинатель ритуала {lookup: {0}; Case; 1}</VAEI_InvokerEffect>
+  <!-- EN: Targeted by {0} ritual -->
+	<VAEI_TargetEffect>Цель ритуала {lookup: {0}; Case; 1}</VAEI_TargetEffect>
+  <!-- EN: Chanting during {0} ritual -->
+	<VAEI_ChanterEffect>Чтение во время ритуала {lookup: {0}; Case; 1}</VAEI_ChanterEffect>
+  <!-- EN: Being duplicated -->
+	<VAEI_BeingDuplicated>Быть скопированным</VAEI_BeingDuplicated>
+  <!-- EN: Using {0} -->
+	<VAEI_UsingThing>Использование {0}</VAEI_UsingThing>
+  <!-- EN: Killing {0} -->
+	<VAEI_KillingThing>Убийство {0}</VAEI_KillingThing>
+  <!-- EN: Reading tome -->
+	<VAEI_ReadingTome>Чтение тома</VAEI_ReadingTome>
+  <!-- EN: the Nociosphere being killed -->
+	<VAEI_WeKilledNociosphere>Убийство ноциосферы</VAEI_WeKilledNociosphere>
+  <!-- EN: the pit gate collapsing -->
+	<VAEI_PitgateCollapsed>Закрытие хтонических врат</VAEI_PitgateCollapsed>
+  <!-- EN: Attending {0} -->
+	<VAEI_Attending>Посещение {lookup: {0}; Case; 1}</VAEI_Attending>
+  <!-- EN: Meditating -->
+	<VAEI_Meditating>Медитация</VAEI_Meditating>
+  <!-- EN: the Void closing -->
+	<VAEI_VoidClosing>Приближение пустоты</VAEI_VoidClosing>
+  <!-- EN: It occurred due to sanity loss to 0%. -->
+	<VAEI_SanityLoss>Это произошло из-за снижения рассудка до 0%.</VAEI_SanityLoss>
+  <!-- EN: Inhumanized: {PAWN_nameDef} -->
+	<VAEI_Inhumanized>Обесчеловечивание: {PAWN_nameDef}</VAEI_Inhumanized>
+  <!-- EN: {PAWN_nameDef}’s connection to humanity is broken. {PAWN_possessive} transformation has left {PAWN_objective} detached from human sensibilities, no longer swayed by pain or social interactions, and indifferent to the aesthetics of beauty and the outdoors. {PAWN_possessive} mind, now attuned to the void, disregards most emotions, finding solace in void meditation and a mysterious, unyielding joy that permeates {PAWN_possessive} existence.\n\n{PAWN_pronoun} has gained the inhumanized trait.\n\nThough drastically altered, {PAWN_nameDef} is still part of your faction, just disconnected from the typical human experiences. -->
+	<VAEI_InhumanizedDesc>Трансформация сознания, которую  {PAWN_gender ? пережил : пережила} {PAWN_nameDef}, разорвала связь с остатками {PAWN_possessive} человечности. Теперь {PAWN_possessive} не заботят такие мелочи, как красота мира и другие люди вокруг. {PAWN_possessive} разум настроен на восприятие пустоты и в нём нет места эмоциям. Вместо них {PAWN_possessive} существование пронизано непостижимой радостью от способности прикоснуться к пустоте.\n\n{PAWN_nameDef} теперь обладает чертой «обесчеловеченный»\n\n Но даже изменившись, {PAWN_nameDef} всё ещё часть вашей фракции, даже будучи {PAWN_gender ? лишённым : лишённой} значительной части ощущений от жизни, доступных простым людям.</VAEI_InhumanizedDesc>
+  <!-- EN: Recovered: {PAWN_nameDef} -->
+	<VAEI_Recovered>Восстановление: {PAWN_nameDef}</VAEI_Recovered>
+  <!-- EN: {PAWN_nameDef} has emerged from the depths of madness, experiencing a catharsis that has restored a measure of sanity to {PAWN_possessive} mind. The suffocating grip of the void that once dominated {PAWN_possessive} thoughts has loosened, granting {PAWN_possessive} a fragile peace. Though the journey back to full sanity will be lengthy, {PAWN_pronoun} has regained crucial aspects of {PAWN_possessive} mental clarity.\n\n{PAWN_pronoun} has begun the slow process of recovery, and did not become inhumanized on this occasion. -->
+	<VAEI_RecoveredDesc>{PAWN_nameDef} {PAWN_gender ? смог : смогла} вытащить себя из глубин безумия, пережив катарсис, который частично вернул {PAWN_objective} рассудок. Удушающая хватка пустоты, которая до этого грозила уничтожить само {PAWN_possessive} естество, ослабла и {PAWN_pronoun} {PAWN_gender ? смог : смогла} ощутить слабое подобие мира в душе. И хотя путь к полному восстановлению будет долог и тернист, первый шаг уже сделан — {PAWN_pronoun} {PAWN_gender ? удержал : удержала} те крохи рассудка, которые не дали {PAWN_objective} утратить себя.\n\n{PAWN_nameDef} {PAWN_gender ? начал : начала} долгий процесс восстановления и не {PAWN_gender ? лишился : лишилась} своей человечности. В этот раз.</VAEI_RecoveredDesc>
+  <!-- EN: Recovering from madness -->
+	<VEAI_RecoveringFromMadness>Восстановление после безумия</VEAI_RecoveringFromMadness>
+  <!-- EN: Sacrificial: {PAWN_nameDef} -->
+	<VAEI_Sacrificial>Самопожертвование: {PAWN_nameDef}</VAEI_Sacrificial>
+  <!-- EN: {PAWN_nameDef}'s connection to humanity is broken. {PAWN_possessive} transformation has left {PAWN_objective} detached from human sensibilities, no longer swayed by pain or social interactions, and indifferent to the aesthetics of beauty and the outdoors. {PAWN_possessive} mind, now attuned to the void, disregards most emotions, finding solace in void meditation and a mysterious, unyielding joy that permeates {PAWN_possessive} existence. Compelled by the dark calling, {PAWN_possessive} is now driven to end {PAWN_possessive} existence in a final act of sacrifice to the void.\n\n{PAWN_pronoun} has gained the inhumanized trait.\n\n{PAWN_nameDef} is now set on a path of self-destruction and will attempt to end {PAWN_possessive} existence, however {PAWN_pronoun} can still be restrained and stopped if you arrest them in time. -->
+	<VAEI_SacrificialDesc>{PAWN_nameDef} {PAWN_gender ? утратил : утратила} связь со всем, что делало {PAWN_possessive} человеком. {PAWN_pronoun} больше не {PAWN_gender ? скован : скована} человеческими эмоциями или идеями красоты и радости. {PAWN_possessive} разум занят лишь пустотой. Слыша её зов, {PAWN_nameDef} готовит себя для финального акта самопожертвования, чтобы слиться с пустотой.\n\n{PAWN_nameDef} теперь обладает чертой «обесчеловеченный»\n\n{PAWN_nameDef} находится на пути к саморазрушению и попытается покончить с собой, если {PAWN_possessive} вовремя не арестовать.</VAEI_SacrificialDesc>
+  <!-- EN: Enable self-harm content (sacrificial mental state, self harm interaction) -->
+	<VAEI_EnableSelfHarmContent>Включить контент, связанный с членовредительством</VAEI_EnableSelfHarmContent>
+  <!-- EN: VAE - Insanity -->
+	<VAEI_ModSettingsName>VAE - Insanity</VAEI_ModSettingsName>
+  <!-- EN: Sanity ({0}): {1} -->
+	<VAEI_SanityFactorExplanation>Рассудок ({0}): {1}</VAEI_SanityFactorExplanation>
+  <!-- EN: Sanity ({0}): {1} -->
+	<VAEI_SanityOffsetExplanation>Рассудок ({0}): {1}</VAEI_SanityOffsetExplanation>
+  <!-- EN: Observing void drawings -->
+	<VAEI_ObservingVoidDrawings>Наблюдение за рисунками пустоты</VAEI_ObservingVoidDrawings>
+  <!-- EN: Wearing {0} -->
+	<VAEI_Wearing>Ношение {0}</VAEI_Wearing>
+  <!-- EN: Rehumanized: {PAWN_nameDef} -->
+	<VAEI_Rehumanized>Человечность восстановлена: {PAWN_nameDef}</VAEI_Rehumanized>
+  <!-- EN: Because {PAWN_nameDef} regained {PAWN_objective} sanity, {PAWN_pronoun} became rehumanized. {PAWN_objective} Inhumanized trait has been replaced with {0}.\n\n{1}\n\n{PAWN_nameDef} will unfortunately remain forever prone to losing {PAWN_possessive} mind once again, even more so than others. Any negative effects on sanity will be doubled, which might cause {PAWN_nameDef} to become inhumanized again. -->
+	<VAEI_RehumanizedDesc>Поскольку {PAWN_nameDef} {PAWN_gender ? смог : смогла} вернуть свой рассудок, {PAWN_possessive} черта «обесчеловеченный» была заменена чертой {0}.\n\n{1}\n\n{PAWN_nameDef}, к сожалению, будет всегда обладать куда большим риском потерять рассудок, нежели другие. Любые негативные эффекты на {PAWN_possessive} разуме будут вдвое сильнее, что снова может привести к {PAWN_possessive} обесчеловечиванию.</VAEI_RehumanizedDesc>
+  <!-- EN: Sanity loss/gain effects: -->
+	<VAEI_SanityLossEffects>Эффекты изменения рассудка:</VAEI_SanityLossEffects>
+  <!-- EN: Suppressing entities (sanity per day): -->
+	<VAEI_SuppressingEntities>Подавление тварей (рассудок за день):</VAEI_SuppressingEntities>
+  <!-- EN: Studying entities: -->
+	<VAEI_StudyingEntities>Изучение тварей:</VAEI_StudyingEntities>
+  <!-- EN: Killing entities: -->
+	<VAEI_KillingEntities>Убийство тварей:</VAEI_KillingEntities>
+  <!-- EN: Disturbing initiator interactions: -->
+	<VAEI_DisturbingInitiatorEffects>Взаимодействия с беспокойными людьми:</VAEI_DisturbingInitiatorEffects>
+  <!-- EN: Interactions: -->
+	<VAEI_InteractionEffects>Взаимодействия:</VAEI_InteractionEffects>
+  <!-- EN: Non-disturbing initiator interactions: -->
+	<VAEI_NonDisturbingInitiatorEffects>Взаимодействия со спокойными людьми:</VAEI_NonDisturbingInitiatorEffects>
+  <!-- EN: Having health conditions (sanity per day): -->
+	<VAEI_HediffEffects>Состояния здоровья (рассудок за день):</VAEI_HediffEffects>
+  <!-- EN: Using things: -->
+	<VAEI_UsedThingsEffects>Использование предметов:</VAEI_UsedThingsEffects>
+  <!-- EN: Participating in rituals: -->
+	<VAEI_RitualEffects>Участие в ритуалах:</VAEI_RitualEffects>
+  <!-- EN: Psychic ritual (invoker): -->
+	<VAEI_InvokerEffects>Псионический ритуал (заклинатель):</VAEI_InvokerEffects>
+  <!-- EN: Psychic ritual (target): -->
+	<VAEI_TargetEffects>Псионический ритуал (цель):</VAEI_TargetEffects>
+  <!-- EN: Psychic ritual (chanter): -->
+	<VAEI_ChanterEffects>Псионический ритуал (чтец):</VAEI_ChanterEffects>
+  <!-- EN: Marriage ceremony -->
+	<VAEI_MarriageCeremony>Свадебная церемония</VAEI_MarriageCeremony>
+  <!-- EN: Partying -->
+	<VAEI_Party>Вечеринки</VAEI_Party>
+  <!-- EN: General -->
+	<VAEI_General>Основные</VAEI_General>
+  <!-- EN: Shambler -->
+	<VAEI_KillingShambler>Шамблер</VAEI_KillingShambler>
+  <!-- EN: Nociosphere -->
+	<VAEI_KillingNociosphere>Ноциосфера</VAEI_KillingNociosphere>
+  <!-- EN: Performing jobs (sanity per day): -->
+	<VAEI_PerformingJobs>Выполнение работ (рассудок за день):</VAEI_PerformingJobs>
+  <!-- EN: Pit gate collapsing -->
+	<VAEI_PitGateCollapsing>Хтонические врата осыпаются</VAEI_PitGateCollapsing>
+  <!-- EN: Recovering from madness -->
+	<VAEI_RecoveringFromMadness>Восстановление после безумия</VAEI_RecoveringFromMadness>
+  <!-- EN: Passive effects (sanity per day): -->
+	<VAEI_PassiveEffectsPerDay>Пассивные эффекты (рассудок за день):</VAEI_PassiveEffectsPerDay>
+</LanguageData>

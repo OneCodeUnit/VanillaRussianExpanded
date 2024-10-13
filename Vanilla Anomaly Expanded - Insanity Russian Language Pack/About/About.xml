@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Anomaly Expanded - Insanity Russian Language Pack</name>
+  <author>OliveWizard, Amortem</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>OW.RU.Insanity</packageId>
+  <description>Перевод на русский язык мода Vanilla Anomaly Expanded - Insanity. Подробности ищите на странице в мастерской.</description>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VAnomalyEInsanity</packageId>
+      <displayName>Vanilla Anomaly Expanded - Insanity</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3342412435</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VAnomalyEInsanity</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>viva.VAnomalyEInsanityRussian</li>
+  </incompatibleWith>
+</ModMetaData>

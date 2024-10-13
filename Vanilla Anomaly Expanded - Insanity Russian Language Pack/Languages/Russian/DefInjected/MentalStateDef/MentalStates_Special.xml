@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Madness -->
+	<VAEI_Madness.label>Безумие</VAEI_Madness.label>
+  <!-- EN: {PAWN_nameDef} has lost the last connection to {PAWN_possessive} former self. {PAWN_possessive} regard for health, family, friendship, and love has been shattered by continuous exposure to the dark, corrupting psychic forces of the void.\n\n{PAWN_pronoun} will now enter a severe period of madness for several days as {PAWN_pronoun} struggles with {PAWN_possessive} altered mental state and the grim realization of the deepening nightmare. While there's a chance {PAWN_pronoun} might overcome this crisis and restore {PAWN_possessive} sanity, it's far more likely that {PAWN_pronoun} will be completely inhumanized. -->
+	<VAEI_Madness.beginLetter>{PAWN_nameDef} {PAWN_gender ? утратил : утратила} связь со своим «я». {PAWN_possessive} больше не заботит {PAWN_possessive} семья, собственное здоровье и друзья. Всё это поглотила тёмная и гибельная энергия пустоты. \n\n{PAWN_pronoun} погрузится в тяжёлый период безумия, который продлится несколько дней, борясь с непрекращающимся кошмаром. И хотя для н{PAWN_possessive} есть шанс выкарабкаться и восстановить свой рассудок, скорее всего {PAWN_nameDef} останется полностью {PAWN_gender ? обесчеловеченным : обесчеловеченной}.</VAEI_Madness.beginLetter>
+  <!-- EN: Mental state: Madness -->
+	<VAEI_Madness.baseInspectLine>Душевное состояние: безумие</VAEI_Madness.baseInspectLine>
+
+  <!-- EN: sacrificial -->
+	<VAEI_Sacrificial.label>жертвенность</VAEI_Sacrificial.label>
+  <!-- EN: Mental state: Sacrificial -->
+	<VAEI_Sacrificial.baseInspectLine>Душевное состояние: жертвенность</VAEI_Sacrificial.baseInspectLine>
+
+  <!-- EN: void drawing -->
+	<VAEI_VoidDrawing.label>Рисунки пустоты</VAEI_VoidDrawing.label>
+  <!-- EN: Mental state: Void Drawing -->
+	<VAEI_VoidDrawing.baseInspectLine>Душевное состояние: рисунки пустоты</VAEI_VoidDrawing.baseInspectLine>
+
+  <!-- EN: mockery spree -->
+	<VAEI_ViciousMockery.label>мания издевательств</VAEI_ViciousMockery.label>
+  <!-- EN: {0} is on an mockery spree.\n\n[PAWN_pronoun] will wander around, randomly mocking others. -->
+	<VAEI_ViciousMockery.beginLetter>{0} насмехается над всеми.\n\n{PAWN_pronoun} будет бродить вокруг, случайным образом выбирая жертву для того, чтобы издеваться над ней.</VAEI_ViciousMockery.beginLetter>
+  <!-- EN: {0} is no longer on an mockery spree. -->
+	<VAEI_ViciousMockery.recoveryMessage>{0} больше не насмехается над другими.</VAEI_ViciousMockery.recoveryMessage>
+  <!-- EN: Mental state: Mockery spree -->
+	<VAEI_ViciousMockery.baseInspectLine>Душевное состояние: мания издевательств</VAEI_ViciousMockery.baseInspectLine>
+
+  <!-- EN: joining the cult -->
+	<VAEI_JoinCult.label>присоединение к культу</VAEI_JoinCult.label>
+  <!-- EN: {0} has succumbed to the void influence.\n\n[PAWN_pronoun] has decided to leave and join the cult of the void. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] next time the cultists decide to attack you. -->
+	<VAEI_JoinCult.beginLetter>{0} {PAWN_gender ? подчинился : подчинилась} влиянию пустоты.\n\n{PAWN_pronoun} {PAWN_gender ? решил : решила} уйти, чтобы присоединиться к культу пустоты. Вы можете арестовать {PAWN_possessive}. В противном случае, {PAWN_pronoun} может появиться снова во время следующего нападения культистов.</VAEI_JoinCult.beginLetter>
+  <!-- EN: joining the cult -->
+	<VAEI_JoinCult.beginLetterLabel>присоединяется к культу</VAEI_JoinCult.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+	<VAEI_JoinCult.recoveryMessage>{0} меняет своё мнение и возвращается в поселение.</VAEI_JoinCult.recoveryMessage>
+  <!-- EN: Mental state: Joining the cult -->
+	<VAEI_JoinCult.baseInspectLine>Душевное состояние: присоединение к культу</VAEI_JoinCult.baseInspectLine>
+</LanguageData>
