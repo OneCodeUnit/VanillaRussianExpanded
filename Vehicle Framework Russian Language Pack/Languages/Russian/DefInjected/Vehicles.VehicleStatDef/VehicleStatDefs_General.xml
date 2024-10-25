@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- EN: Move Speed -->
   <MoveSpeed.label>скорость</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
@@ -32,4 +33,5 @@
   <BodyIntegrity.label>целостность корпуса</BodyIntegrity.label>
   <!-- EN: The average of all vehicle parts' health. If the integrity of the vehicle reaches 0, it will disintegrate into a fraction of its build cost. -->
   <BodyIntegrity.description>Среднее значение показателей «здоровья» всех частей транспортного средства. Если целостность транспортного средства достигнет 0, оно распадётся на части, вернув небольшое количество материалов, из которого было построено.</BodyIntegrity.description>
+  
 </LanguageData>

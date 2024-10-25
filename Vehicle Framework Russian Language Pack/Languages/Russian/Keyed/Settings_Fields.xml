@@ -1,70 +1,164 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <VF_VehicleEnabled>Включен</VF_VehicleEnabled>
-  <VF_VehicleDisabled>Отключен</VF_VehicleDisabled>
-  <VF_VehiclePlayerOnly>Только для игрока</VF_VehiclePlayerOnly>
-  <VF_VehicleRaiderOnly>Только для НИП</VF_VehicleRaiderOnly>
-  <VF_EnableButtonTooltip>Если отключено, то это транспортное средство не будет доступно в игре. Применяется как к игроку, так и к другим фракциям.</VF_EnableButtonTooltip>
-  <VF_MovementPermissions>Управление</VF_MovementPermissions>
-  <VF_NavigationType>Навигация</VF_NavigationType>
-  <VF_NavigationTypeTooltip>Тип навигации определяет, когда транспорт может двигаться по карте мира: Вручную — караван едет только днём, пока персонажи бодрствуют; Адаптивная — едет пока персонажи бодрствуют, но если до цели осталось немного, то караван доедет, даже если настала ночь; Авто — 24/7, не зависимо от того, бодрствуют персонажи в караване, или спят.</VF_NavigationTypeTooltip>
-  <VF_Nameable>Можно назначить имя</VF_Nameable>
-  <VF_NameableTooltip>Разрешить присвоение имени данному транспортному средству. Оно будет отображаться над ТС вместо его стандартного названия.</VF_NameableTooltip>
-  <VF_CombatPower>Боевые очки</VF_CombatPower>
-  <VF_CombatPowerTooltip>Боевые очки — «ценность» этого ТС, влияющая на генерацию событий.</VF_CombatPowerTooltip>
-  <VF_CanCaravan>Караван</VF_CanCaravan>
-  <VF_CanCaravanTooltip>Данное ТС можно использовать для путешествий по карте мира в составе каравана.</VF_CanCaravanTooltip>
-  <VF_SaveableFieldDisabledConditionTooltip>Отключено. {0}</VF_SaveableFieldDisabledConditionTooltip>
-  <VF_DisabledSingleModDependencyTooltip>Отключено. Совместимый мод отсутствует в списке активных модов: {0}</VF_DisabledSingleModDependencyTooltip>
-  <VF_DisabledMultipleModsDependencyTooltip>Отключено. Совместимые моды отсутствуют в списке активных модов: {0}</VF_DisabledMultipleModsDependencyTooltip>
-  <VF_SaveableFieldDisabledTooltip>Отключено для данного типа ТС.</VF_SaveableFieldDisabledTooltip>
-  <VF_SaveableFieldLockedTooltip>Эта настройка заблокирована для данного ТС.</VF_SaveableFieldLockedTooltip>
-  <VF_DebugDisabledTooltip>На данный момент отключено для всех ТС.</VF_DebugDisabledTooltip>
-  <VF_GizmoDisabledTooltip>Отключено в настройках мода.</VF_GizmoDisabledTooltip>
-  <VF_OpportunisticTicking>Оптимизированный просчёт</VF_OpportunisticTicking>
-  <VF_OpportunisticTickingTooltip>Компоненты транспортного средства работают только при необходимости, что уменьшает нагрузку на производительность, пока ТС простаивает.</VF_OpportunisticTickingTooltip>
-  <VF_CollisionMultiplier>Урон персонажам</VF_CollisionMultiplier>
-  <VF_CollisionMultiplierTooltip>Множитель урона, наносимого персонажу, при наезде на него транспорта.</VF_CollisionMultiplierTooltip>
-  <VF_CollisionVehicleMultiplier>Урон транспорту</VF_CollisionVehicleMultiplier>
-  <VF_CollisionVehicleMultiplierTooltip>Множитель урона, наносимого транспорту, при наезде на персонажа.</VF_CollisionVehicleMultiplierTooltip>
-  <VF_ManhunterTargetsVehicle>Нападение животных</VF_ManhunterTargetsVehicle>
-  <VF_ManhunterTargetsVehicleTooltip>Животные в состоянии агрессии будут нападать на это ТС.</VF_ManhunterTargetsVehicleTooltip>
-  <VF_FishingEnabled>Доступна рыбалка</VF_FishingEnabled>
-  <VF_FishingEnabledTooltip>Позволяет вести ловлю рыбы, если ТС находится на воде в неподвижном состоянии.</VF_FishingEnabledTooltip>
-  <VF_JobLimitations>Работы с транспортом</VF_JobLimitations>
-  <VF_MaxWorkers>Максимум рабочих</VF_MaxWorkers>
-  <VF_WinterSpeedMultiplier>Скорость зимой</VF_WinterSpeedMultiplier>
-  <VF_WinterSpeedMultiplierTooltip>Затруднение движения во время передвижения в зимний период.</VF_WinterSpeedMultiplierTooltip>
-  <VF_WorldSpeedMultiplier>Скор. на карте мира</VF_WorldSpeedMultiplier>
-  <VF_WorldSpeedMultiplierTooltip>Множитель скорости движения (MoveSpeed), когда это ТС движется по карте мира в составе каравана.</VF_WorldSpeedMultiplierTooltip>
-  <VF_DischargePerTick>Скорость разряда</VF_DischargePerTick>
-  <VF_TicksPerCharge>Скорость зарядки</VF_TicksPerCharge>
-  <VF_FuelConsumptionRate>Расход топлива</VF_FuelConsumptionRate>
-  <VF_FuelConsumptionRateTooltip>Расход топлива в день.</VF_FuelConsumptionRateTooltip>
-  <VF_FuelConsumptionRateWorldMultiplier>Расход на карте мира</VF_FuelConsumptionRateWorldMultiplier>
-  <VF_FuelConsumptionRateWorldMultiplierTooltip>Множитель расхода топлива в на карте мира.</VF_FuelConsumptionRateWorldMultiplierTooltip>
-  <VF_FuelCapacity>Объём бака</VF_FuelCapacity>
-  <VF_FuelCapacityTooltip>Количество топлива, которое помещается в топливном баке ТС.</VF_FuelCapacityTooltip>
-  <VF_AutoRefuelPercent>Автозаправка %</VF_AutoRefuelPercent>
-  <VF_AutoRefuelPercentTooltip>Поселенцы будут заправлять это ТС, когда уровень топлива опустится ниже этого процента.</VF_AutoRefuelPercentTooltip>
-  <VF_FuelConsumptionWorld>Расход топлива %</VF_FuelConsumptionWorld>
-  <VF_FuelConsumptionWorldTooltip>Множитель потребления топлива на карте мира.</VF_FuelConsumptionWorldTooltip>
-  <VF_LaunchFixedMaxDistance>Макс. дальность</VF_LaunchFixedMaxDistance>
-  <VF_LaunchFixedMaxDistanceTooltip>Установить фиксированное максимальное расстояние, которое может пролететь данный летательный аппарат, независимо от уровня топлива.</VF_LaunchFixedMaxDistanceTooltip>
-  <VF_LaunchFixedMaxDistanceDisabled>Нет</VF_LaunchFixedMaxDistanceDisabled>
-  <VF_ReconDistance>Дальность разведки</VF_ReconDistance>
-  <VF_ReconDistanceTooltip>Расстояние в клетках мира, на котором воздушное ТС сможет произвести разведку лагеря или поселения.</VF_ReconDistanceTooltip>
-  <VF_ControlInFlight>Управление полётом</VF_ControlInFlight>
-  <VF_ControlInFlightTooltip>Контроль воздушного ТС во время полёта. Позволяет менять маршрут в процесса полёта, выбирать место приземления после загрузки карты и осуществлять обстрел карт, которые ещё не были загружены.</VF_ControlInFlightTooltip>
-  <VF_SpaceFlight>Космические полёты</VF_SpaceFlight>
-  <VF_SpaceFlightTooltip>Позволить летательному аппарату осуществлять запуск к космическим объектам и взлёт с них.</VF_SpaceFlightTooltip>
-  <VF_RateOfClimb>Скорость набора высоты</VF_RateOfClimb>
-  <VF_RateOfClimbTooltip>На какую высоту это ТС поднимается за каждый такт (tick).</VF_RateOfClimbTooltip>
-  <VF_MaxAltitude>Максимальная высота</VF_MaxAltitude>
-  <VF_MaxAltitudeTooltip>Максимальная высота, которую может достичь данный летательный аппарат в полёте.</VF_MaxAltitudeTooltip>
-  <VF_MaxFallRate>Макс. скорость падения</VF_MaxFallRate>
-  <VF_MaxFallRateTooltip>Максимальная скорость, на которой будет падать это ТС, если его сбили или у него закончится топливо.</VF_MaxFallRateTooltip>
-  <VF_Instant>Мгновенно</VF_Instant>
-  <VF_DeployTime>Скорость развёртывания</VF_DeployTime>
-</LanguageData>
 
+  <!-- (VehicleDef)-->
+  <!-- EN: Enabled -->
+  <VF_VehicleEnabled>Включено</VF_VehicleEnabled>
+  <!-- EN: Disabled -->
+  <VF_VehicleDisabled>Отключено</VF_VehicleDisabled>
+  <!-- EN: Player Only -->
+  <VF_VehiclePlayerOnly>Только для игрока</VF_VehiclePlayerOnly>
+  <!-- EN: NPC Only -->
+  <VF_VehicleRaiderOnly>Только для НИП</VF_VehicleRaiderOnly>
+
+  <!-- EN: If disabled this vehicle will not be available in-game. Applies to both the player and NPC factions. -->
+  <VF_EnableButtonTooltip>Если отключено, то это транспортное средство не будет доступно в игре. Применяется как к игроку, так и к другим фракциям.</VF_EnableButtonTooltip>
+
+  <!-- EN: Control Type -->
+  <VF_MovementPermissions>Управление</VF_MovementPermissions>
+  <!-- EN: Navigation -->
+  <VF_NavigationType>Навигация</VF_NavigationType>
+  <!-- EN: Navigation category for the World Map. Dictates when the Vehicle may move on the World Map. -->
+  <VF_NavigationTypeTooltip>Тип навигации определяет, когда транспорт может двигаться по карте мира: Вручную — караван едет только днём, пока персонажи бодрствуют; Адаптивная — едет пока персонажи бодрствуют, но если до цели осталось немного, то караван доедет, даже если настала ночь; Авто — 24/7, не зависимо от того, бодрствуют персонажи в караване, или спят.</VF_NavigationTypeTooltip>
+
+  <!-- EN: Can Assign Name -->
+  <VF_Nameable>Можно назначить имя</VF_Nameable>
+  <!-- EN: Allow naming of this vehicle. Name will appear over the vehicle and will replace the displayed label. -->
+  <VF_NameableTooltip>Разрешить присвоение имени данному транспортному средству. Оно будет отображаться над ТС вместо его стандартного названия.</VF_NameableTooltip>
+
+  <!-- EN: Combat Power -->
+  <VF_CombatPower>Боевые очки</VF_CombatPower>
+  <!-- EN: Combat points vehicle costs in order to generate in an event. -->
+  <VF_CombatPowerTooltip>Боевые очки — «ценность» этого ТС, влияющая на генерацию событий.</VF_CombatPowerTooltip>
+
+  <!-- EN: Caravan -->
+  <VF_CanCaravan>Караван</VF_CanCaravan>
+  <!-- EN: Vehicle is able to be taken on caravans. -->
+  <VF_CanCaravanTooltip>Данное ТС можно использовать для путешествий по карте мира в составе каравана.</VF_CanCaravanTooltip>
+
+  <!-- Disabled Tooltip -->
+  <!-- EN: Disabled. {0} -->
+  <VF_SaveableFieldDisabledConditionTooltip>Отключено. {0}</VF_SaveableFieldDisabledConditionTooltip>
+  <!-- EN: Disabled. Compatible mod not in active mod list: {0} -->
+  <VF_DisabledSingleModDependencyTooltip>Отключено. Совместимый мод отсутствует в списке активных модов: {0}</VF_DisabledSingleModDependencyTooltip>
+  <!-- EN: Disabled. Compatible mods not in active mod list: {0} -->
+  <VF_DisabledMultipleModsDependencyTooltip>Отключено. Совместимые моды отсутствуют в списке активных модов: {0}</VF_DisabledMultipleModsDependencyTooltip>
+  <!-- EN: Disabled for this Vehicle Type. -->
+  <VF_SaveableFieldDisabledTooltip>Отключено для данного типа ТС.</VF_SaveableFieldDisabledTooltip>
+  <!-- EN: Setting is locked for this Vehicle. -->
+  <VF_SaveableFieldLockedTooltip>Эта настройка заблокирована для данного ТС.</VF_SaveableFieldLockedTooltip>
+  <!-- EN: Disabled for all Vehicles at this time. -->
+  <VF_DebugDisabledTooltip>На данный момент отключено для всех ТС.</VF_DebugDisabledTooltip>
+  <!-- EN: Disabled in the mod settings. -->
+  <VF_GizmoDisabledTooltip>Отключено в настройках мода.</VF_GizmoDisabledTooltip>
+
+  <!-- Performance -->
+  <!-- EN: Opportunistic Ticking -->
+  <VF_OpportunisticTicking>Оптимизированный просчёт</VF_OpportunisticTicking>
+  <!-- EN: Vehicle components only tick when necessary, reducing impact on performance when idle. -->
+  <VF_OpportunisticTickingTooltip>Компоненты транспортного средства работают только при необходимости, что уменьшает нагрузку на производительность, пока ТС простаивает.</VF_OpportunisticTickingTooltip>
+
+  <!-- (Properties) -->
+  <!-- EN: Pawn Damage -->
+  <VF_CollisionMultiplier>Урон персонажам</VF_CollisionMultiplier>
+  <!-- EN: Multiplier for damage applied to pawns being run over by vehicles. -->
+  <VF_CollisionMultiplierTooltip>Множитель урона, наносимого персонажу, при наезде на него транспорта.</VF_CollisionMultiplierTooltip>
+  <!-- EN: Vehicle Damage -->
+  <VF_CollisionVehicleMultiplier>Урон транспорту</VF_CollisionVehicleMultiplier>
+  <!-- EN: Multiplier for damage applied to the vehicle when running over a pawn. -->
+  <VF_CollisionVehicleMultiplierTooltip>Множитель урона, наносимого транспорту, при наезде на персонажа.</VF_CollisionVehicleMultiplierTooltip>
+
+  <!-- EN: Manhunter Targets -->
+  <VF_ManhunterTargetsVehicle>Нападение животных</VF_ManhunterTargetsVehicle>
+  <!-- EN: Manhunter animals will target this vehicle. -->
+  <VF_ManhunterTargetsVehicleTooltip>Животные в состоянии агрессии будут нападать на это ТС.</VF_ManhunterTargetsVehicleTooltip>
+  <!-- EN: Can Fish -->
+  <VF_FishingEnabled>Доступна рыбалка</VF_FishingEnabled>
+  <!-- EN: Enables fishing when stationary over water. -->
+  <VF_FishingEnabledTooltip>Позволяет вести ловлю рыбы, если ТС находится на воде в неподвижном состоянии.</VF_FishingEnabledTooltip>
+
+  <!-- EN: Vehicle Jobs -->
+  <VF_JobLimitations>Работы с транспортом</VF_JobLimitations>
+  <!-- EN: Max Workers -->
+  <VF_MaxWorkers>Максимум рабочих</VF_MaxWorkers>
+
+  <!-- EN: Off Road Multiplier -->
+  <VF_OffRoadMultiplier>Скор. по бездорожью</VF_OffRoadMultiplier>
+  <!-- EN: PathCost multiplier for traveling on roads. -->
+  <VF_OffRoadMultiplierTooltip>Затруднение движения во время передвижения по бездорожью.</VF_OffRoadMultiplierTooltip>
+  <!-- EN: Winter Speed Multiplier -->
+  <VF_WinterSpeedMultiplier>Скорость зимой</VF_WinterSpeedMultiplier>
+  <!-- EN: PathCost multiplier for traveling during winter. -->
+  <VF_WinterSpeedMultiplierTooltip>Затруднение движения во время передвижения в зимний период.</VF_WinterSpeedMultiplierTooltip>
+  <!-- EN: World Speed Multiplier -->
+  <VF_WorldSpeedMultiplier>Скор. на карте мира</VF_WorldSpeedMultiplier>
+  <!-- EN: Multiplier to MoveSpeed when on the world map in a caravan. -->
+  <VF_WorldSpeedMultiplierTooltip>Множитель скорости движения (MoveSpeed), когда это ТС движется по карте мира в составе каравана.</VF_WorldSpeedMultiplierTooltip>
+
+  <!-- EN: Discharge Rate -->
+  <VF_DischargePerTick>Скорость разряда</VF_DischargePerTick>
+  <!-- EN: Charge Rate -->
+  <VF_TicksPerCharge>Скорость зарядки</VF_TicksPerCharge>
+  <!-- EN: Fuel Rate -->
+  <VF_FuelConsumptionRate>Расход топлива</VF_FuelConsumptionRate>
+  <!-- EN: Fuel consumed per day -->
+  <VF_FuelConsumptionRateTooltip>Расход топлива в день.</VF_FuelConsumptionRateTooltip>
+  <!-- EN: Fuel World % -->
+  <VF_FuelConsumptionRateWorldMultiplier>Расход на карте мира %</VF_FuelConsumptionRateWorldMultiplier>
+  <!-- EN: Fuel consumption multiplier on the world map -->
+  <VF_FuelConsumptionRateWorldMultiplierTooltip>Множитель расхода топлива в на карте мира.</VF_FuelConsumptionRateWorldMultiplierTooltip>
+  <!-- EN: Fuel Capacity -->
+  <VF_FuelCapacity>Объём бака</VF_FuelCapacity>
+  <!-- EN: Amount of fuel that can be stored -->
+  <VF_FuelCapacityTooltip>Количество топлива, которое помещается в топливном баке ТС.</VF_FuelCapacityTooltip>
+  <!-- EN: Auto Refuel % -->
+  <VF_AutoRefuelPercent>Автозаправка %</VF_AutoRefuelPercent>
+  <!-- EN: Colonists will attempt to refuel the vehicle when fuel gets below this percent. -->
+  <VF_AutoRefuelPercentTooltip>Поселенцы будут заправлять это ТС, когда уровень топлива опустится ниже этого процента.</VF_AutoRefuelPercentTooltip>
+
+  <!-- EN: Fuel Rate % -->
+  <VF_FuelConsumptionWorld>Расход топлива %</VF_FuelConsumptionWorld>
+  <!-- EN: Fuel consumption multiplier on the world map. -->
+  <VF_FuelConsumptionWorldTooltip>Множитель потребления топлива на карте мира.</VF_FuelConsumptionWorldTooltip>
+  <!-- EN: Fixed Max Distance -->
+  <VF_LaunchFixedMaxDistance>Макс. дальность</VF_LaunchFixedMaxDistance>
+  <!-- EN: Set a fixed max distance this vehicle can fly regardless of fuel level. -->
+  <VF_LaunchFixedMaxDistanceTooltip>Установить фиксированное максимальное расстояние, которое может пролететь данный летательный аппарат, независимо от уровня топлива.</VF_LaunchFixedMaxDistanceTooltip>
+  <!-- EN: None -->
+  <VF_LaunchFixedMaxDistanceDisabled>Нет</VF_LaunchFixedMaxDistanceDisabled>
+  <!-- EN: Recon Distance -->
+  <VF_ReconDistance>Дальность разведки</VF_ReconDistance>
+  <!-- EN: Distance in tiles the shuttle will be able to perform recon of a site or settlement. -->
+  <VF_ReconDistanceTooltip>Расстояние в клетках мира, на котором воздушное ТС сможет произвести разведку лагеря или поселения.</VF_ReconDistanceTooltip>
+  <!-- EN: Control in Flight -->
+  <VF_ControlInFlight>Управление полётом</VF_ControlInFlight>
+  <!-- EN: Control the aerial vehicle while it is in flight. Allows for changing of flight paths midflight, choosing your landing after loading a map, and strafing maps that have not yet been loaded. -->
+  <VF_ControlInFlightTooltip>Контроль воздушного ТС во время полёта. Позволяет менять маршрут в процесса полёта, выбирать место приземления после загрузки карты и осуществлять обстрел карт, которые ещё не были загружены.</VF_ControlInFlightTooltip>
+  <!-- EN: Can Roof Punch -->
+  <VF_CanRoofPunch>Пробивание крыш</VF_CanRoofPunch>
+  <!-- EN: Vehicle can punch through roofs when landing. -->
+  <VF_CanRoofPunchTooltip>Позволить ТС пробивать крыши при приземлении.</VF_CanRoofPunchTooltip>
+  <!-- EN: Space Faring -->
+  <VF_SpaceFlight>Космические полёты</VF_SpaceFlight>
+  <!-- EN: Vehicle is capable of launching to and taking off from space objects. -->
+  <VF_SpaceFlightTooltip>Позволить летательному аппарату осуществлять запуск к космическим объектам и взлёт с них.</VF_SpaceFlightTooltip>
+
+  <!-- EN: Rate of Climb -->
+  <VF_RateOfClimb>Скорость набора высоты</VF_RateOfClimb>
+  <!-- EN: Amount the vehicle ascends per tick. -->
+  <VF_RateOfClimbTooltip>На какую высоту это ТС поднимается за каждый такт (tick).</VF_RateOfClimbTooltip>
+  <!-- EN: Max Altitude -->
+  <VF_MaxAltitude>Максимальная высота</VF_MaxAltitude>
+  <!-- EN: Maximum altitude this vehicle can achieve when in flight. -->
+  <VF_MaxAltitudeTooltip>Максимальная высота, которую может достичь данный летательный аппарат в полёте.</VF_MaxAltitudeTooltip>
+  <!-- EN: Max Fall Rate -->
+  <VF_MaxFallRate>Макс. скорость падения</VF_MaxFallRate>
+  <!-- EN: Max amount this vehicle will descend when shot down or out of fuel. -->
+  <VF_MaxFallRateTooltip>Максимальная скорость, на которой будет падать это ТС, если его сбили или у него закончится топливо.</VF_MaxFallRateTooltip>
+
+  <!-- EN: Instant -->
+  <VF_Instant>Мгновенно</VF_Instant>
+  <!-- EN: Deploy Time -->
+  <VF_DeployTime>Скорость развёртывания</VF_DeployTime>
+  
+</LanguageData>

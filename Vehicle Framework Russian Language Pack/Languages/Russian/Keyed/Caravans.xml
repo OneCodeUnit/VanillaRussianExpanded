@@ -1,33 +1,76 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <VF_Caravan_Dismounted>Пешком</VF_Caravan_Dismounted>
-  <VF_Sailing>В плавании</VF_Sailing>
-  <VF_DockToCaravan>Выбрать предметы для погрузки</VF_DockToCaravan>
-  <VF_ImpassableBiome>Этот биом непроходим для данного ТС.</VF_ImpassableBiome>
-  <VF_CaravanDisabled>Этот ТС не может быть использован для путешествий в составе каравана.</VF_CaravanDisabled>
-  <VF_CaravanCantMove>Не может двигаться.</VF_CaravanCantMove>
-  <VF_CantMergeAerialVehicle>Невозможно объединить воздушные ТС.</VF_CantMergeAerialVehicle>
-  <VF_CommandDisembark>Оставить ТС</VF_CommandDisembark>
-  <VF_CommandDisembarkDesc>Оставить весь транспорт и продолжить путешествие пешком. ТС будут оставаться на карте мира до 20-30 дней.</VF_CommandDisembarkDesc>
-  <VF_ToggleRepairVehicle>Ремонтировать ТС</VF_ToggleRepairVehicle>
-  <VF_ToggleRepairVehicleDesc>Приостановить движение каравана и отремонтировать транспорт.</VF_ToggleRepairVehicleDesc>
-  <VF_CommandDisembarkImpassableBiome>Невозможно высадиться: эта клетка непроходима.</VF_CommandDisembarkImpassableBiome>
-  <VF_CommandDockShip>Причалить</VF_CommandDockShip>
-  <VF_CommandDockShipDesc>Высадить всех пассажиров и начать торговлю с поселением {0}.</VF_CommandDockShipDesc>
-  <VF_CommandDockShipDisembark>Швартовка и высадка</VF_CommandDockShipDisembark>
-  <VF_CommandDockShipObjectDesc>Пришвартовать судно и отправиться дальше пешком.</VF_CommandDockShipObjectDesc>
-  <VF_CommandUndockShip>Погрузиться на борт</VF_CommandUndockShip>
-  <VF_CommandUndockShipDesc>Загрузить всех персонажей и предметы на судно.</VF_CommandUndockShipDesc>
-  <VF_CommandAttackDockDisable>Нельзя атаковать {0} во время стоянки в их поселении.</VF_CommandAttackDockDisable>
-  <VF_CommandTradeDockDisable>Нельзя торговать с {0}. Сначала необходимо пришвартовать судно.</VF_CommandTradeDockDisable>
-  <VF_CaravanMustHaveEnoughSpaceOnShip>Недостаточно места на судне, чтобы разместить всех персонажей.</VF_CaravanMustHaveEnoughSpaceOnShip>
-  <VF_CaravanMustHaveEnoughPawnsToOperate>Не хватает персонажей для отплытия. Необходимо {0}</VF_CaravanMustHaveEnoughPawnsToOperate>
-  <VF_CaravanMustHaveAtLeastOneVehicle>Для прокладывания маршрута необходимо выбрать как минимум одно ТС.</VF_CaravanMustHaveAtLeastOneVehicle>
-  <VF_CommandFormVehicleCaravan>Снарядить караван с транспортом</VF_CommandFormVehicleCaravan>
-  <VF_CommandFormVehicleCaravanDesc>Снарядить караван для путешествия с транспортными средствами.</VF_CommandFormVehicleCaravanDesc>
-  <VF_CommandReformVehicleCaravan>Продолжить путь</VF_CommandReformVehicleCaravan>
-  <VF_CommandReformVehicleCaravanDesc>Продолжить путь с выбранными транспортными средствами.</VF_CommandReformVehicleCaravanDesc>
-  <VF_RoutePlannerToggleVehicleDefs>VehicleDefs</VF_RoutePlannerToggleVehicleDefs>
-  <VF_RoutePlannerToggleVehicles>Транспортные средства</VF_RoutePlannerToggleVehicles>
-</LanguageData>
 
+  <!-- EN: Dismounted -->
+  <VF_Caravan_Dismounted>Пешком</VF_Caravan_Dismounted>
+
+  <!-- EN: Sailing -->
+  <VF_Sailing>В плавании</VF_Sailing>
+
+  <!-- EN: Items to Take -->
+  <VF_DockToCaravan>Выбрать предметы для погрузки</VF_DockToCaravan>
+
+  <!-- EN: Biome impassable for this vehicle. -->
+  <VF_ImpassableBiome>Этот биом непроходим для данного ТС.</VF_ImpassableBiome>
+  <!-- EN: Caravaning Disabled. -->
+  <VF_CaravanDisabled>Этот ТС не может быть использован для путешествий в составе каравана.</VF_CaravanDisabled>
+  <!-- EN: Unable to move. -->
+  <VF_CaravanCantMove>Не может двигаться.</VF_CaravanCantMove>
+  <!-- EN: Can't merge aerial vehicles. -->
+  <VF_CantMergeAerialVehicle>Невозможно объединить воздушные ТС.</VF_CantMergeAerialVehicle>
+
+  <!-- EN: Dock -->
+  <VF_CommandDockShip>Причалить</VF_CommandDockShip>
+  <!-- EN: Unload all passengers and enable trade with the Settlement of {0}. -->
+  <VF_CommandDockShipDesc>Высадить всех пассажиров и начать торговлю с поселением {0}.</VF_CommandDockShipDesc>
+
+  <!-- EN: Stash Vehicles -->
+  <VF_CommandDisembark>Оставить ТС</VF_CommandDisembark>
+  <!-- EN: Leave all vehicles behind and go on foot.  Vehicles will remain on the world map for up to 20-30 days. -->
+  <VF_CommandDisembarkDesc>Оставить весь транспорт и продолжить путешествие пешком. ТС будут оставаться на карте мира до 20-30 дней.</VF_CommandDisembarkDesc>
+  <!-- EN: Cannot disembark, tile is impassable for colonists. -->
+  <VF_CommandDisembarkImpassableBiome>Невозможно высадиться: эта клетка непроходима.</VF_CommandDisembarkImpassableBiome>
+
+  <!-- EN: Repair Vehicles -->
+  <VF_ToggleRepairVehicle>Ремонтировать ТС</VF_ToggleRepairVehicle>
+  <!-- EN: Rest and perform repairs on vehicles inside the caravan -->
+  <VF_ToggleRepairVehicleDesc>Приостановить движение каравана для отдыха и ремонта транспорта.</VF_ToggleRepairVehicleDesc>
+
+		<!-- Obsolete -->
+  <!-- EN: Dock and Disembark -->
+  <VF_CommandDockShipDisembark>Швартовка и высадка</VF_CommandDockShipDisembark>
+  <!-- EN: Dock Boats and go on foot -->
+  <VF_CommandDockShipObjectDesc>Пришвартовать судно и отправиться дальше пешком.</VF_CommandDockShipObjectDesc>
+
+  <!-- EN: Fetch vehicle. -->
+  <VF_CommandUndockShip>Погрузиться на борт</VF_CommandUndockShip>
+  <!-- EN: Load all pawns and items into vehicle. -->
+  <VF_CommandUndockShipDesc>Загрузить всех персонажей и предметы на судно.</VF_CommandUndockShipDesc>
+  <!-- EN: Cannot attack {0} while docked at their Settlement -->
+  <VF_CommandAttackDockDisable>Нельзя атаковать {0} во время стоянки в их поселении.</VF_CommandAttackDockDisable>
+  <!-- EN: Cannot trade with {0}. Must dock boat first -->
+  <VF_CommandTradeDockDisable>Нельзя торговать с {0}. Сначала необходимо пришвартовать судно.</VF_CommandTradeDockDisable>
+
+  <!-- EN: Not enough space on ships to house all pawns. -->
+  <VF_CaravanMustHaveEnoughSpaceOnShip>Недостаточно места на судне, чтобы разместить всех персонажей.</VF_CaravanMustHaveEnoughSpaceOnShip>
+  <!-- EN: Not enough Pawns selected to set sail. Need {0} -->
+  <VF_CaravanMustHaveEnoughPawnsToOperate>Не хватает персонажей для отплытия. Необходимо {0}.</VF_CaravanMustHaveEnoughPawnsToOperate>
+
+  <!-- EN: Must have at least 1 vehicle selected in order to choose a route. -->
+  <VF_CaravanMustHaveAtLeastOneVehicle>Для прокладывания маршрута необходимо выбрать как минимум одно ТС.</VF_CaravanMustHaveAtLeastOneVehicle>
+  <!-- EN: Form Vehicle Caravan -->
+  <VF_CommandFormVehicleCaravan>Снарядить караван с транспортом</VF_CommandFormVehicleCaravan>
+  <!-- EN: Form caravan with vehicles included. -->
+  <VF_CommandFormVehicleCaravanDesc>Снарядить караван для путешествия с транспортными средствами.</VF_CommandFormVehicleCaravanDesc>
+
+  <!-- EN: Reform Vehicle Caravan -->
+  <VF_CommandReformVehicleCaravan>Продолжить путь</VF_CommandReformVehicleCaravan>
+  <!-- EN: Reform vehicle caravan with vehicles selected. -->
+  <VF_CommandReformVehicleCaravanDesc>Продолжить путь с выбранными транспортными средствами.</VF_CommandReformVehicleCaravanDesc>
+
+  <!-- EN: VehicleDefs -->
+  <VF_RoutePlannerToggleVehicleDefs>VehicleDefs</VF_RoutePlannerToggleVehicleDefs>
+  <!-- EN: Vehicles -->
+  <VF_RoutePlannerToggleVehicles>Транспортные средства</VF_RoutePlannerToggleVehicles>
+  
+</LanguageData>
