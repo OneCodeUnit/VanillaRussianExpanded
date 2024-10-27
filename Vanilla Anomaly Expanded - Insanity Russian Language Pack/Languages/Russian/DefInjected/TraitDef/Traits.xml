@@ -2,13 +2,13 @@
 <LanguageData>
   <!-- EN: inhumanized -->
   <VAEI_Inhumanized.degreeDatas.0.label>обесчеловеченный</VAEI_Inhumanized.degreeDatas.0.label>
-  <!-- EN: {PAWN_nameDef} text.todo 
-  <VAEI_Inhumanized.degreeDatas.0.description>{PAWN_nameDef} text.todo</VAEI_Inhumanized.degreeDatas.0.description>-->
+  <!-- EN: {PAWN_nameDef}'s mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence. -->
+  <VAEI_Inhumanized.degreeDatas.0.description>Разум {PAWN_nameDef} заполнила пустота. Она выместила привычные человеческие ценности — семью, дружбу и любовь. Теперь {PAWN_pronoun} смотрит на окружающую реальность как из-за пыльного стекла и подчиняется пси-воздействию тёмного сверхразума.</VAEI_Inhumanized.degreeDatas.0.description>
 
   <!-- EN: void touched -->
-  <VAEI_VoidTouched.degreeDatas.0.label>прикосновение бездны</VAEI_VoidTouched.degreeDatas.0.label>
-  <!-- EN: {PAWN_nameDef} text.todo 
-  <VAEI_VoidTouched.degreeDatas.0.description>{PAWN_nameDef} text.todo</VAEI_VoidTouched.degreeDatas.0.description>-->
+  <VAEI_VoidTouched.degreeDatas.0.label>прикосновение пустоты</VAEI_VoidTouched.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef} {PAWN_nameDef} has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them. -->
+  <VAEI_VoidTouched.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? узрел : узрела} глубины пустоты и {PAWN_gender ? вкусил : вкусила} её сущность. Она и сейчас внутри н{PAWN_possessive}, управляет {PAWN_possessive} действиями и искажает плоть. Волосы {PAWN_possessive} истончились и побелели. {PAWN_objective} больше не нужно есть и спать. Теперь {PAWN_possessive} питает пустота.</VAEI_VoidTouched.degreeDatas.0.description>
 
   <!-- EN: germaphobe -->
   <VAEI_Germaphobe.label>мизофоб</VAEI_Germaphobe.label>
