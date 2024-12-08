@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: eggnog -->
+  <VCE_Eggnog.label>эгг-ног</VCE_Eggnog.label>
+  <!-- EN: A rich, creamy holiday drink made from milk, eggs, and sugar, often spiced with nutmeg. Eggnog is sweet and comforting, but its festive charm is enhanced when spiked with alcohol, leading to warmth—and potential overindulgence. -->
+  <VCE_Eggnog.description>Праздничный напиток с насыщенным сливочным вкусом, приготовленный из молока, яиц и сахара. Часто его посыпают мускатным орехом. Напиток сам по себе сладкий и приятный, но его праздничное очарование усиливается, когда к нему добавляется алкоголь. При злоупотреблении алкогольной версией легко напиться.</VCE_Eggnog.description>
+  <!-- EN: Drink {0} -->
+  <VCE_Eggnog.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VCE_Eggnog.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VCE_Eggnog.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VCE_Eggnog.ingestible.ingestReportString>
+</LanguageData>
