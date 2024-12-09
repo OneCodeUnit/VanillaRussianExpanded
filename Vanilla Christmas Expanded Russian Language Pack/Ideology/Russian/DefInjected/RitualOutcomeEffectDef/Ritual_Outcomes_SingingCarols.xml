@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VCE_SingingCarolsOutcome.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</VCE_SingingCarolsOutcome.description>
+  <!-- EN: leader present -->
+  <VCE_SingingCarolsOutcome.comps.0.label>присутствует ведущий певец</VCE_SingingCarolsOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VCE_SingingCarolsOutcome.comps.1.label>количество участников</VCE_SingingCarolsOutcome.comps.1.label>
+  <!-- EN: during Decembary -->
+  <VCE_SingingCarolsOutcome.comps.3.label>в декаврале</VCE_SingingCarolsOutcome.comps.3.label>
+  <!-- EN: not during Decembary-->
+  <VCE_SingingCarolsOutcome.comps.3.labelNotMet>не в декаврале</VCE_SingingCarolsOutcome.comps.3.labelNotMet>
+  <!-- EN: Terrible -->
+  <VCE_SingingCarolsOutcome.outcomeChances.0.label>ужасно</VCE_SingingCarolsOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible. The leader displayed a lack of passion and the festive feeling just wasn't there. -->
+  <VCE_SingingCarolsOutcome.outcomeChances.0.description>Это было ужасно! Ведущий продемонстрировал отсутствие энтузиазма, и праздничного настроения просто не было.</VCE_SingingCarolsOutcome.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <VCE_SingingCarolsOutcome.outcomeChances.1.label>скучно</VCE_SingingCarolsOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The leader treated us like children, wanting so desperately to hear something to lift their spirits. -->
+  <VCE_SingingCarolsOutcome.outcomeChances.1.description>Пение песен было скучным. Ведущий обращался с нами как с малыми детьми, от чего хотелось услышать хоть что-нибудь, чтобы было не так скучно.</VCE_SingingCarolsOutcome.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <VCE_SingingCarolsOutcome.outcomeChances.2.label>весело</VCE_SingingCarolsOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was super fun. The leader lifted our spirits and made us feel a festive spirit that will only make us stronger. -->
+  <VCE_SingingCarolsOutcome.outcomeChances.2.description>Пение песен было весёлым. Ведущий поднял нам настроение и заставил почувствовать праздничное настроение, которое сделало нас сильнее.</VCE_SingingCarolsOutcome.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <VCE_SingingCarolsOutcome.outcomeChances.3.label>незабываемо</VCE_SingingCarolsOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! We can still hear the mesmerizing words of the carols, as they reminded us of the importance of our shared beliefs. We can just feel our sadness vanish away. -->
+  <VCE_SingingCarolsOutcome.outcomeChances.3.description>Пение песен было незабываемо! В голове всё ещё раздаются завораживающие слова праздничных песен, напоминающие о всём хорошем, что нас объединяет. Наших печалей как будто и не было.</VCE_SingingCarolsOutcome.outcomeChances.3.description>
+</LanguageData>
