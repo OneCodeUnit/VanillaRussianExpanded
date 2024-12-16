@@ -24,4 +24,18 @@
   <VCE_DeactivateSnowSpewer>Остановить генератор снега</VCE_DeactivateSnowSpewer>
   <!-- EN: Stop the snow spewing process. -->
   <VCE_DeactivateSnowSpewerDesc>Остановить процесс распространения снега.</VCE_DeactivateSnowSpewerDesc>
+  <!-- EN: Aerodrone self-destructs in {0} -->
+  <VCE_AerodroneSelfDestructsIn>Летающий дрон самоуничтожится через {0}</VCE_AerodroneSelfDestructsIn>
+  <!-- EN: Aerodrone incoming -->
+  <VCE_LetterLabelAerodroneIncoming>Приближается летающий дрон</VCE_LetterLabelAerodroneIncoming>
+  <!-- EN: An aerodrone is landing nearby. -->
+  <VCE_LetterTextAerodroneIncoming>Летающий дрон приземляется поблизости.</VCE_LetterTextAerodroneIncoming>
+  <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
+  <VCE_LetterTextRaidSpacedrone>Налётчики из фракции {0} прибыли, чтобы уничтожить {lookup: {1}; Case; 3}, приземлившийся неподалёку.</VCE_LetterTextRaidSpacedrone>
+  <!-- EN: Raids arriving in {0} -->
+  <VCE_QuestPartRaidsDelay>Налёты начнутся через {0}</VCE_QuestPartRaidsDelay>
+  <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the aerodrone and attempt to destroy it. -->
+  <VCE_QuestPartRaidsDelayDesc>Налёты начнутся через {0}.\n\nНалётчики будут пытаться уничтожить летающий дрон.</VCE_QuestPartRaidsDelayDesc>
+  <!-- EN: Snow spread radius: {0} -->
+  <VCE_SnowSpreadRadius>Радиус распространения снега: {0}</VCE_SnowSpreadRadius>
 </LanguageData>
