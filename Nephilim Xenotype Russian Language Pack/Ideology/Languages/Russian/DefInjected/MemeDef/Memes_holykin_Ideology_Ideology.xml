@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: grace-touched -->
+  <GS_Gracetouched.label>касание благодати</GS_Gracetouched.label>
+  <!-- EN: Grace is sacred. Those blessed by it should be worshipped. -->
+  <GS_Gracetouched.description>Благодать священна. Тем, кто благословлён ею, следует поклоняться.</GS_Gracetouched.description>
+  <!-- EN:
+    <li>creation(tag=meme_Grace)        ->In the beginning, [deity0_name] created Grace so that it might guide all of [deity0_possessive] creations.</li>
+
+    <li>episode(uses=1,tag=meme_Grace)  ->The [deity0_type] [deity0_name] gave to [deity0_possessive] chosen followers the gift of communion with Grace, ascending them beyond their mortal kin.</li>
+
+    <li>intro(tag=meme_Grace)     ->On the [place_summary] [place_name], there was a human named [deity0_name]. One day, as [deity0_name] was tending to the holily fields, [deity0_possessive] heard the Grace's call, and followed into its embrace.</li>
+    <li>intro(tag=meme_Grace)     ->On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] resplendant in Grace. The sight of [deity0_name] turned [deity0_possessive] [memberNamePlural] blind, but at last allowed them to truly see.</li> 
+    <li>conflict(tag=meme_Grace)        ->A [foeLeader] declared that all who communed with Grace were abominations, and sent [foeSoldiers] to persecute the [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Grace)     ->A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] smote [foeLeader_objective] with Grace-given fire, gaining [deity0_name]'s blessing.</li>
+    <li>victory(tag=meme_Grace)         ->[founderName] led a group of [memberNamePlural] into the [place_powerCenter], and purge the land of [foeLeader]'s heretic followers and and cleanse [foeLeader] in holy flames. [deity0_name] made [founderName] into the new [foeLeader], for [founderName] had proved his devotion.</li>
+
+    <li>setup(tag=meme_Grace)     ->On a distant glitterworld, [founderName] was chosen by one of its megachurches to shepard their believers. [founderName] accepted, and [founder_pronoun] communed with Grace, which transformed [founder_pronoun].</li>
+    <li>story(uses=1,tag=meme_Grace)    ->[founderName] gave to [founder_possessive] followers the gift of Grace, so that they may shepard the mortals.</li>
+
+    <li>lessonIntro(tag=meme_Grace)     ->When I first smelled the holy incense and communed with Grace, it became clear. I saw that</li>
+    <li>lesson(tag=meme_Grace)    ->those unguided by Grace were lost, and those who were knew the way forward.</li>
+    <li>lessonReinforcement(tag=meme_Grace) ->Those who were touched by Grace are ascendants, and their destiny is to guide the lesser mortals.</li>
+  -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_Grace)        ->В начале была Благодать, созданная [deity0_name]. Она должна была направлять всех [deity0_possessive] творений.</li>
+    <li>episode(uses=1,tag=meme_Grace)  ->Избранным последователям [deity0_type] [deity0_name] был дан дар Благодати, возвышавший их над обычными смертными.</li>
+    <!-- theist founder -->
+    <li>intro(tag=meme_Grace)           ->Когда-то в месте, что зовётся «[place_summary] [place_name]», жил человек по имени [deity0_name]. Однажды, когда он работал в поле райских лилий, раздался зов Благодати и человек последовал в её объятия.</li>
+    <li>intro(tag=meme_Grace)           ->Во время ритуала [ritualName] [place_summary_prepon] [place_summary_pre] [place_name] [deity0_name] [deity_came] в [altarRoomLabel] сияя Благодатью. [deity0_possessive] вид ослепил присутствовавших [memberNamePlural], но дал им возможность узреть величие по-настоящему.</li>
+    <li>conflict(tag=meme_Grace)        ->[butOrAnd] [once] [vile_adj] [foeLeader] объявил всех, кто принял благодать ужасными чудовищами и послал [foeSoldiers_genacc] преследовать [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Grace)     ->[soonerOrLater] и [founder_was_attacked] [founder_place_job] [founderName] нападению [foeSoldiers_genacc] [foeLeader], да [founderName] [founder_killed] нападавших огнём, дарованным Благодатью, что явилось благословением [deity0_name].</li>
+    <li>victory(tag=meme_Grace)         ->[soonerOrLater] [founderName] [founder_led] [memberNamePlural] [place_powerCenter_acc_to] и [founder_purge] земли от еретических последователей [foeLeader] и самого [foeLeader] священным огнём. [deity0_name] [deity_made] [founderName] [founder_new] убитого [foeLeader_gen] за доказанную преданность.</li>
+    <!-- ideological founder -->
+    <li>setup(tag=meme_Grace)           ->На далёком мире-утопии, [founderName] [founder_chosen] одной из ее мегацерквей для защиты своих верующих. [founderName] [founder_accepted] к Благодати, которая преобразила [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_Grace)    ->[founderName] [founder_gave] своим последователям Благодать в качестве дата, который позволит им вести смертных за собой.</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_Grace)     ->Когда я впервые [founder_smelled] порошок райской лиллии и приобщился к Благодати, мне всё стало ясно. Я [founder_saw], что</li>
+    <li>lesson(tag=meme_Grace)          ->те, кто не был ведом Благодатью, блуждают в потёмках, а те, кто был, знают путь вперёд.</li>
+    <li>lessonReinforcement(tag=meme_Grace) ->Те, кто прикоснулся к Благодати, возвысились над смертными и теперь их предназначение — вести смертных за собой.</li>
+    <li>deity_came(deity0_gender==None)->спустилось</li>
+    <li>deity_came(deity0_gender==Male)->спустился</li>
+    <li>deity_came(deity0_gender==Female)->спустилась</li>
+    <li>founder_was_attacked(founder_gender==Male)->подвергся</li>
+    <li>founder_was_attacked(founder_gender==Female)->подверглась</li>
+    <li>founder_killed(founder_gender==Male)->сразил</li>
+    <li>founder_killed(founder_gender==Female)->сразила</li>
+    <li>founder_led(founder_gender==Male)->привёл</li>
+    <li>founder_led(founder_gender==Female)->привела</li>
+    <li>founder_purge(founder_gender==Male)->очистил</li>
+    <li>founder_purge(founder_gender==Female)->очистила</li>
+    <li>founder_new(founder_gender==Male)->новым</li>
+    <li>founder_new(founder_gender==Female)->новой</li>
+    <li>founder_chosen(founder_gender==Male)->был выбран</li>
+    <li>founder_chosen(founder_gender==Female)->была выбрана</li>
+    <li>founder_accepted(founder_gender==Male)->был принят и приобщён</li>
+    <li>founder_accepted(founder_gender==Female)->была принята и приобщена</li>
+    <li>founder_gave(founder_gender==Male)->приподнёс</li>
+    <li>founder_gave(founder_gender==Female)->приподнесла</li>
+    <li>founder_smelled(founder_gender==Male)->втянул</li>
+    <li>founder_smelled(founder_gender==Female)->втянула</li>
+    <li>founder_saw(founder_gender==Male)->увидел</li>
+    <li>founder_saw(founder_gender==Female)->увидела</li>
+  </GS_Gracetouched.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->grace</li>
+    <li>memeAdjective->grace-blessed</li>
+    <li>memeCreed->sanctuary</li>
+    <li>memeCreed->church</li>
+    <li>memeCreed->temple</li>
+    <li>memeHyphenPrefix->sanct</li>
+    <li>memeConcept->grace</li>
+    <li>memeConcept->blessing</li>
+    <li>memeLeaderNoun->shepard</li>
+    <li>memeLeaderNoun->paladin</li>
+    <li>memeLeaderNoun->ascendant</li>
+    <li>memeMoralist->apostle</li>
+    <li>memeMoralist->templar</li>
+    <li>memeMoralist->zealot</li>
+  -->
+  <GS_Gracetouched.generalRules.rulesStrings>
+    <li>memeAdjective_masc->благодатный</li>
+    <li>memeAdjective_masc->благословлённый</li>
+    <li>memeAdjective_fem->благодатная</li>
+    <li>memeAdjective_fem->благословлённая</li>
+    <li>memeAdjective_neutral->благодатное</li>
+    <li>memeAdjective_neutral->благословлённое</li>
+    <li>memeAdjective_plural->благодатные</li>
+    <li>memeAdjective_plural->благословлённые</li>
+    <li>memeCreed->святилище</li>
+    <li>memeCreed->церковь</li>
+    <li>memeCreed->храм</li>
+    <li>memeHyphenPrefix->священно</li>
+    <li>memeConcept->благодати</li>
+    <li>memeConcept->благословения</li>
+    <li>memeLeaderNoun->наставник</li>
+    <li>memeLeaderNoun->паладин</li>
+    <li>memeLeaderNoun->возвышенный</li>
+    <li>memeMoralist->апостол</li>
+    <li>memeMoralist->храмовник</li>
+    <li>memeMoralist->фанатик</li>
+  </GS_Gracetouched.generalRules.rulesStrings>
+</LanguageData>
