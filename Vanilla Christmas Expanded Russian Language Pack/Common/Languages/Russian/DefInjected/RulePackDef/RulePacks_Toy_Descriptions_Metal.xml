@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>desc->[toy_description_group]</li>
+    
+    <li>toy_description_group->[metaltoy_clause]. [play_description_group]</li>
+    <li>toy_description_group->[metaltoy_clause] [toy_conjunction]. [metaltoy_extra_clause].</li>
+    <li>toy_description_group->[metaltoy_clause] [toy_conjunction].</li>
+    <li>toy_description_group->[metaltoy_extra_clause]. [play_description_group]</li>
+
+    <li>toy_conjunction(p=6)-></li>
+    <li>toy_conjunction->reflecting a sense of nostalgia</li>
+    <li>toy_conjunction->gleaming with precision</li>
+    <li>toy_conjunction->with a sturdy craftsmanship</li>
+    <li>toy_conjunction->highlighting its timeless appeal</li>
+    <li>toy_conjunction->hinting at journeys untold</li>
+    <li>toy_conjunction->with a playful elegance</li>
+    <li>toy_conjunction->inviting exploration</li>
+    <li>toy_conjunction->evoking a sense of wonder</li>
+
+    <li>metaltoy_clause->the surface of this toy is [metal_texture] and [metal_markings]</li>
+    <li>metaltoy_clause->its edges are [edge_quality], blending into [form_quality]</li>
+    <li>metaltoy_clause->the metal finish on this toy is [finish_quality], giving it [visual_tone]</li>
+    <li>metaltoy_clause->tiny [imperfections] in the metal make this toy feel [emotive_descriptor]</li>
+    <li>metaltoy_clause->the toy's balance feels [balance_descriptor], encouraging [action_descriptor]</li>
+    <li>metaltoy_clause->[sound_effect] echoes when this toy moves, adding to its charm</li>
+    <li>metaltoy_clause->the design of this toy is both [design_quality] and [emotional_tone]</li>
+
+    <li>metaltoy_extra_clause->subtle [use_quality] marks its surface</li>
+    <li>metaltoy_extra_clause->the edges are polished by [time_effect]</li>
+    <li>metaltoy_extra_clause->the shape hints at [vague_inspiration]</li>
+    <li>metaltoy_extra_clause->a faint [color_descriptor] sheen reflects light</li>
+    <li>metaltoy_extra_clause->its precision carries a sense of [abstract_concept]</li>
+    <li>metaltoy_extra_clause->the toy radiates [emotive_descriptor] energy</li>
+    <li>metaltoy_extra_clause->small dents tell a story of [implied_history]</li>
+
+    <li>metal_texture->smooth and cold</li>
+    <li>metal_texture->slightly rough</li>
+    <li>metal_texture->polished to a shine</li>
+    <li>metal_texture->worn and matte</li>
+    <li>metal_texture->smooth like glass, with faint ripples</li>
+    <li>metal_texture->ridged with delicate grooves</li>
+    <li>metal_texture->faintly pockmarked with imperfections</li>
+    <li>metal_texture->polished to a mirror-like shine</li>
+    <li>metal_texture->etched with sharp, intricate patterns</li>
+    <li>metal_texture->adorned with uneven wear from countless hands</li>
+    <li>metal_texture->peppered with tiny spots of discoloration</li>
+    <li>metal_texture->marred by subtle lines from years of motion</li>
+    <li>metal_markings->etched with fine details</li>
+    <li>metal_markings->streaked with scratches</li>
+    <li>metal_markings->scuffed from play</li>
+    <li>metal_markings->showing signs of age</li>
+
+    <li>edge_quality->crisp and defined</li>
+    <li>edge_quality->slightly rounded</li>
+    <li>edge_quality->smooth and precise</li>
+    <li>edge_quality->sharp and finely tapered</li>
+    <li>edge_quality->rounded but precisely angled</li>
+    <li>edge_quality->softly curved and fluid</li>
+    <li>edge_quality->heavily reinforced with thick edges</li>
+    <li>edge_quality->sculpted into a dynamic and bold form</li>
+    <li>edge_quality->geometrically perfect, with sharp intersections</li>
+    <li>edge_quality->balanced and symmetrical, almost architectural</li>
+    <li>edge_quality->a hybrid of soft curves and hard lines</li>
+    <li>form_quality->sleek and streamlined</li>
+    <li>form_quality->geometric and angular</li>
+    <li>form_quality->compact and balanced</li>
+
+    <li>finish_quality->shiny and reflective</li>
+    <li>finish_quality->brushed and subtle</li>
+    <li>finish_quality->weathered and dull</li>
+    <li>finish_quality->pristine and flawless</li>
+    <li>finish_quality->brilliantly polished, catching every glint of light</li>
+    <li>finish_quality->muted and matte, giving it a mysterious allure</li>
+    <li>finish_quality->softly glowing with a subtle sheen</li>
+    <li>finish_quality->worn to a gentle luster over time</li>
+    <li>finish_quality->gleaming with a radiant metallic hue</li>
+    <li>finish_quality->frosted with a brushed finish</li>
+    <li>finish_quality->darkened with a smoky patina</li>
+    <li>finish_quality->vibrant with a polished brass warmth</li>
+    <li>visual_tone->a metallic gleam</li>
+    <li>visual_tone->a muted glow</li>
+    <li>visual_tone->a striking sheen</li>
+    <li>visual_tone->a subtle patina</li>
+
+    <li>imperfections->tiny nicks</li>
+    <li>imperfections->minute dents</li>
+    <li>imperfections->slight discolorations</li>
+    <li>imperfections->fine scratches</li>
+    <li>imperfections->tiny scratches that tell a story of play</li>
+    <li>imperfections->minute dents suggesting a history of tumbles</li>
+    <li>imperfections->faint abrasions along its surface, giving it character</li>
+    <li>imperfections->speckles of oxidation hinting at age</li>
+    <li>imperfections->a barely perceptible wobble in its form</li>
+    <li>imperfections->slightly warped, as if softened by heat long ago</li>
+    <li>imperfections->soft edges from repeated handling</li>
+    <li>imperfections->uneven coloring that adds depth and intrigue</li>
+    <li>emotive_descriptor->charming</li>
+    <li>emotive_descriptor->nostalgic</li>
+    <li>emotive_descriptor->robust</li>
+    <li>emotive_descriptor->timeless</li>
+
+    <li>balance_descriptor->precisely weighted</li>
+    <li>balance_descriptor->slightly off-kilter</li>
+    <li>balance_descriptor->unexpectedly stable</li>
+    <li>action_descriptor->careful handling</li>
+    <li>action_descriptor->playful rolling</li>
+    <li>action_descriptor->curious examination</li>
+
+    <li>sound_effect->a faint clink</li>
+    <li>sound_effect->a metallic ping</li>
+    <li>sound_effect->a soft rattle</li>
+    <li>design_quality->minimalist</li>
+    <li>design_quality->industrial</li>
+    <li>design_quality->intricate</li>
+    <li>emotional_tone->playful</li>
+    <li>emotional_tone->imaginative</li>
+    <li>emotional_tone->futuristic</li>
+
+    <li>use_quality->gentle wear</li>
+    <li>use_quality->frequent play</li>
+    <li>use_quality->careful preservation</li>
+    <li>time_effect->decades of enjoyment</li>
+    <li>time_effect->years of use</li>
+    <li>time_effect->countless adventures</li>
+    <li>vague_inspiration->dreams of flight</li>
+    <li>vague_inspiration->mechanical precision</li>
+    <li>vague_inspiration->distant futures</li>
+
+    <li>color_descriptor->silver</li>
+    <li>color_descriptor->golden</li>
+    <li>color_descriptor->bronze</li>
+    <li>color_descriptor->steel-gray</li>
+    <li>abstract_concept->imagination</li>
+    <li>abstract_concept->exploration</li>
+    <li>abstract_concept->ingenuity</li>
+    <li>abstract_concept->progress</li>
+
+    <li>implied_history->adventurous journeys</li>
+    <li>implied_history->quiet hours of play</li>
+    <li>implied_history->forgotten dreams</li>
+    <li>implied_history->careful hands of a craftsman</li>
+
+    <li>play_description_group->[metaltoy_play_clause].</li>
+    <li>play_description_group->[metaltoy_play_clause] [play_conjunction] [metaltoy_play_extra_clause].</li>
+    <li>play_description_group->[metaltoy_play_clause] [play_conjunction].</li>
+    <li>play_description_group->[metaltoy_play_extra_clause].</li>
+    <li>play_description_group-></li>
+
+    <li>metaltoy_play_clause->it can be rolled along its [surface_feature], creating [motion_effect]</li>
+    <li>metaltoy_play_clause->balancing it feels [balance_descriptor] and [action_tone]</li>
+    <li>metaltoy_play_clause->the moving parts click together with [sound_effect]</li>
+    <li>metaltoy_play_clause->it invites [action_type], encouraging [play_style]</li>
+    <li>metaltoy_play_clause->its compact design is ideal for [imaginative_theme]</li>
+    <li>metaltoy_play_clause->it makes [sound_effect] when turned, adding [play_quality]</li>
+
+    <li>metaltoy_play_extra_clause->its durability allows for [unexpected_use]</li>
+    <li>metaltoy_play_extra_clause->the toy can withstand [action_setting], enhancing play</li>
+    <li>metaltoy_play_extra_clause->its precise construction feels [tactile_quality]</li>
+    <li>metaltoy_play_extra_clause->the way it moves hints at [vague_inspiration]</li>
+    <li>metaltoy_play_extra_clause->it encourages [skill_testing], rewarding creativity</li>
+    <li>metaltoy_play_extra_clause->the sound it makes during play is [sound_quality]</li>
+  -->
+  <VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings>
+    <li>desc->[toy_description_group]</li>
+    
+    <!-- General Description -->
+    <li>toy_description_group->[metaltoy_clause]. [play_description_group]</li>
+    <li>toy_description_group->[metaltoy_clause] [toy_conjunction]. [metaltoy_extra_clause].</li>
+    <li>toy_description_group->[metaltoy_clause] [toy_conjunction].</li>
+    <li>toy_description_group->[metaltoy_extra_clause]. [play_description_group]</li>
+
+    <!-- Conjunctions -->
+    <li>toy_conjunction(p=6)-></li>
+    <li>toy_conjunction->отражая чувство ностальгии</li>
+    <li>toy_conjunction->сияя точностью</li>
+    <li>toy_conjunction->с прочным мастерством</li>
+    <li>toy_conjunction->подчеркивая его вечную привлекательность</li>
+    <li>toy_conjunction->намекает на нерассказанные путешествия</li>
+    <li>toy_conjunction->с игривой элегантностью</li>
+    <li>toy_conjunction->приглашая к исследованию</li>
+    <li>toy_conjunction->вызывая чувство удивления</li>
+
+    <!-- Metal Toy Clauses -->
+    <li>metaltoy_clause->поверхность этой игрушки [metal_texture] и [metal_markings]</li>
+    <li>metaltoy_clause->ее края [edge_quality], переходя в [form_quality]</li>
+    <li>metaltoy_clause->металлическая отделка этой игрушки [finish_quality], придавая ей [visual_tone]</li>
+    <li>metaltoy_clause->маленькие [imperfections] на металле делают эту игрушку [emotive_descriptor]</li>
+    <li>metaltoy_clause->баланс игрушки ощущается [balance_descriptor], побуждая [action_descriptor]</li>
+    <li>metaltoy_clause->[sound_effect] раздается, когда эта игрушка движется, добавляя ей очарования</li>
+    <li>metaltoy_clause->дизайн этой игрушки одновременно [design_quality] и [emotional_tone]</li>
+
+    <!-- Extra Clauses -->
+    <li>metaltoy_extra_clause->тонкие [use_quality] метки на ее поверхности</li>
+    <li>metaltoy_extra_clause->края отполированы [time_effect]</li>
+    <li>metaltoy_extra_clause->форма намекает на [vague_inspiration]</li>
+    <li>metaltoy_extra_clause->слабый [color_descriptor] блеск отражает свет</li>
+    <li>metaltoy_extra_clause->ее точность несет в себе чувство [abstract_concept]</li>
+    <li>metaltoy_extra_clause->игрушка излучает [emotive_descriptor] энергию</li>
+    <li>metaltoy_extra_clause->маленькие вмятины рассказывают историю [implied_history]</li>
+
+    <!-- Texture and Markings -->
+    <li>metal_texture->гладкая и холодная</li>
+    <li>metal_texture->слегка шероховатая</li>
+    <li>metal_texture->отполирована до блеска</li>
+    <li>metal_texture->изношенная и матовая</li>
+    <li>metal_texture->гладкая как стекло, с легкими рябями</li>
+    <li>metal_texture->ребристая с тонкими канавками</li>
+    <li>metal_texture->слегка покрытая пятнами</li>
+    <li>metal_texture->отполирована до зеркального блеска</li>
+    <li>metal_texture->гравирована острыми, сложными узорами</li>
+    <li>metal_texture->украшена неравномерным износом от бесчисленных рук</li>
+    <li>metal_texture->усыпана мелкими пятнами обесцвечивания</li>
+    <li>metal_texture->покрыта тонкими линиями от многолетнего движения</li>
+    <li>metal_markings->гравирована тонкими деталями</li>
+    <li>metal_markings->покрыта царапинами</li>
+    <li>metal_markings->потерта от игры</li>
+    <li>metal_markings->показывает признаки старения</li>
+
+    <!-- Edge and Form Quality -->
+    <li>edge_quality->четкие и определенные</li>
+    <li>edge_quality->слегка закругленные</li>
+    <li>edge_quality->гладкие и точные</li>
+    <li>edge_quality->острые и тонко заостренные</li>
+    <li>edge_quality->закругленные, но точно угловатые</li>
+    <li>edge_quality->мягко изогнутые и плавные</li>
+    <li>edge_quality->сильно укрепленные толстыми краями</li>
+    <li>edge_quality->скульптурные в динамичной и смелой форме</li>
+    <li>edge_quality->геометрически идеальные, с острыми пересечениями</li>
+    <li>edge_quality->сбалансированные и симметричные, почти архитектурные</li>
+    <li>edge_quality->гибрид мягких изгибов и жестких линий</li>
+    <li>form_quality->гладкая и обтекаемая</li>
+    <li>form_quality->геометрическая и угловатая</li>
+    <li>form_quality->компактная и сбалансированная</li>
+
+    <!-- Finish and Tone -->
+    <li>finish_quality->блестящая и отражающая</li>
+    <li>finish_quality->матовая и сдержанная</li>
+    <li>finish_quality->потертая и тусклая</li>
+    <li>finish_quality->безупречная и без изъянов</li>
+    <li>finish_quality->блестяще отполированная, ловящая каждый отблеск света</li>
+    <li>finish_quality->приглушенная и матовая, придавая ей таинственную привлекательность</li>
+    <li>finish_quality->мягко светящаяся с тонким блеском</li>
+    <li>finish_quality->изношенная до мягкого блеска со временем</li>
+    <li>finish_quality->сияющая с ярким металлическим оттенком</li>
+    <li>finish_quality->матовая с матовой отделкой</li>
+    <li>finish_quality->потемневшая с дымчатой патиной</li>
+    <li>finish_quality->яркая с полированной латунной теплотой</li>
+    <li>visual_tone->металлический блеск</li>
+    <li>visual_tone->приглушенное свечение</li>
+    <li>visual_tone->поразительный блеск</li>
+    <li>visual_tone->тонкая патина</li>
+
+    <!-- Imperfections and Feel -->
+    <li>imperfections->маленькие зазубрины</li>
+    <li>imperfections->мелкие вмятины</li>
+    <li>imperfections->незначительные обесцвечивания</li>
+    <li>imperfections->тонкие царапины</li>
+    <li>imperfections->маленькие царапины, рассказывающие историю игры</li>
+    <li>imperfections->мелкие вмятины, предполагающие историю падений</li>
+    <li>imperfections->слабые потертости на поверхности, придающие ей характер</li>
+    <li>imperfections->пятна окисления, намекающие на возраст</li>
+    <li>imperfections->едва заметное колебание в форме</li>
+    <li>imperfections->слегка деформированная, как будто размягченная от тепла давно</li>
+    <li>imperfections->мягкие края от многократного использования</li>
+    <li>imperfections->неравномерное окрашивание, добавляющее глубину и интригу</li>
+    <li>emotive_descriptor->очаровательная</li>
+    <li>emotive_descriptor->ностальгическая</li>
+    <li>emotive_descriptor->прочная</li>
+    <li>emotive_descriptor->вечная</li>
+
+    <!-- Balance and Action -->
+    <li>balance_descriptor->точно взвешенная</li>
+    <li>balance_descriptor->слегка неустойчивая</li>
+    <li>balance_descriptor->неожиданно стабильная</li>
+    <li>action_descriptor->осторожное обращение</li>
+    <li>action_descriptor->игривое катание</li>
+    <li>action_descriptor->любопытное исследование</li>
+
+    <!-- Sound and Design -->
+    <li>sound_effect->тихий звон</li>
+    <li>sound_effect->металлический звон</li>
+    <li>sound_effect->мягкий грохот</li>
+    <li>design_quality->минималистичный</li>
+    <li>design_quality->индустриальный</li>
+    <li>design_quality->замысловатый</li>
+    <li>emotional_tone->игривый</li>
+    <li>emotional_tone->воображаемый</li>
+    <li>emotional_tone->футуристический</li>
+
+    <!-- Use and History -->
+    <li>use_quality->легкий износ</li>
+    <li>use_quality->частая игра</li>
+    <li>use_quality->бережное хранение</li>
+    <li>time_effect->десятилетия удовольствия</li>
+    <li>time_effect->годы использования</li>
+    <li>time_effect->бесчисленные приключения</li>
+    <li>vague_inspiration->мечты о полете</li>
+    <li>vague_inspiration->механическая точность</li>
+    <li>vague_inspiration->далекие будущие</li>
+
+    <!-- Color and Concept -->
+    <li>color_descriptor->серебряный</li>
+    <li>color_descriptor->золотой</li>
+    <li>color_descriptor->бронзовый</li>
+    <li>color_descriptor->стально-серый</li>
+    <li>abstract_concept->воображение</li>
+    <li>abstract_concept->исследование</li>
+    <li>abstract_concept->изобретательность</li>
+    <li>abstract_concept->прогресс</li>
+
+    <!-- Implied History -->
+    <li>implied_history->приключенческие путешествия</li>
+    <li>implied_history->тихие часы игры</li>
+    <li>implied_history->забытые мечты</li>
+    <li>implied_history->бережные руки мастера</li>
+    
+    <!-- General Description -->
+    <li>play_description_group->[metaltoy_play_clause].</li>
+    <li>play_description_group->[metaltoy_play_clause] [play_conjunction] [metaltoy_play_extra_clause].</li>
+    <li>play_description_group->[metaltoy_play_clause] [play_conjunction].</li>
+    <li>play_description_group->[metaltoy_play_extra_clause].</li>
+    <li>play_description_group-></li>
+
+    <!-- Play Clauses -->
+    <li>metaltoy_play_clause->ее можно катать по [surface_feature], создавая [motion_effect]</li>
+    <li>metaltoy_play_clause->балансировка ощущается [balance_descriptor] и [action_tone]</li>
+    <li>metaltoy_play_clause->движущиеся части щелкают с [sound_effect]</li>
+    <li>metaltoy_play_clause->она приглашает к [action_type], побуждая [play_style]</li>
+    <li>metaltoy_play_clause->ее компактный дизайн идеально подходит для [imaginative_theme]</li>
+    <li>metaltoy_play_clause->она издает [sound_effect] при повороте, добавляя [play_quality]</li>
+
+    <!-- Extra Clauses -->
+    <li>metaltoy_play_extra_clause->ее прочность позволяет [unexpected_use]</li>
+    <li>metaltoy_play_extra_clause->игрушка может выдержать [action_setting], улучшая игру</li>
+    <li>metaltoy_play_extra_clause->ее точная конструкция ощущается [tactile_quality]</li>
+    <li>metaltoy_play_extra_clause->способ ее движения намекает на [vague_inspiration]</li>
+    <li>metaltoy_play_extra_clause->она побуждает [skill_testing], вознаграждая креативность</li>
+    <li>metaltoy_play_extra_clause->звук, который она издает во время игры, [sound_quality]</li>
+  </VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings>
+</LanguageData>

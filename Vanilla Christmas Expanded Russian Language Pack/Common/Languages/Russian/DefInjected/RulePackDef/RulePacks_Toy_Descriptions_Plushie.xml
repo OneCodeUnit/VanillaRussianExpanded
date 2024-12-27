@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>desc->[plushie_description_group]</li>
+
+    <li>plushie_description_group->[plushie_clause]. [play_description_group]</li>
+    <li>plushie_description_group->[plushie_clause] [toy_conjunction]. [plushie_extra_clause].</li>
+    <li>plushie_description_group->[plushie_clause] [toy_conjunction].</li>
+    <li>plushie_description_group->[plushie_extra_clause]. [play_description_group]</li>
+
+    <li>toy_conjunction(p=6)-></li>
+    <li>toy_conjunction->bringing a sense of comfort</li>
+    <li>toy_conjunction->with an irresistible charm</li>
+    <li>toy_conjunction->inviting endless cuddles</li>
+    <li>toy_conjunction->with a softness that soothes</li>
+    <li>toy_conjunction->bringing back childhood memories</li>
+    <li>toy_conjunction->carrying a touch of whimsy</li>
+    <li>toy_conjunction->with a playful warmth</li>
+    <li>toy_conjunction->sparkling a sense of imagination</li>
+
+    <li>plushie_clause->the surface of the toy is [plush_texture] and [plush_markings]</li>
+    <li>plushie_clause->the seams of this toy are [seam_quality], holding together [stuffing_quality]</li>
+    <li>plushie_clause->the fabric of this toy feels [fabric_quality], giving it [visual_tone]</li>
+    <li>plushie_clause->small [imperfections] add to its [emotive_descriptor] character</li>
+    <li>plushie_clause->this toy’s weighted just enough to feel [balance_descriptor]</li>
+    <li>plushie_clause->[scent_descriptor] lingers, enhancing its charm</li>
+    <li>plushie_clause->the design of this toy is both [design_quality] and [emotional_tone]</li>
+
+    <li>plushie_extra_clause->subtle [use_quality] marks its fabric</li>
+    <li>plushie_extra_clause->the edges are slightly worn from [time_effect]</li>
+    <li>plushie_extra_clause->the shape hints at [vague_inspiration]</li>
+    <li>plushie_extra_clause->a faint [color_descriptor] hue softens its appearance</li>
+    <li>plushie_extra_clause->it radiates a sense of [abstract_concept]</li>
+    <li>plushie_extra_clause->tiny stitches tell a story of [implied_history]</li>
+    <li>plushie_extra_clause->the softness carries an energy of [emotive_descriptor]</li>
+
+    <li>plush_texture->velvety soft</li>
+    <li>plush_texture->slightly worn</li>
+    <li>plush_texture->smooth and fluffy</li>
+    <li>plush_texture->patchy and uneven</li>
+    <li>plush_markings->patterned with gentle stripes</li>
+    <li>plush_markings->dotted with playful spots</li>
+    <li>plush_markings->faded in places from hugs</li>
+    <li>plush_markings->bearing faint scuffs of play</li>
+    <li>plush_texture->silky smooth, with a gentle sheen</li>
+    <li>plush_texture->delicately fuzzy, like a warm cloud</li>
+    <li>plush_texture->patchy, with signs of love and care</li>
+    <li>plush_texture->soft as freshly spun cotton</li>
+    <li>plush_texture->lightly matted from countless hugs</li>
+    <li>plush_markings->speckled with faint patterns</li>
+    <li>plush_markings->marked by tiny frays along the edges</li>
+    <li>plush_markings->adorned with faded embroidery</li>
+    <li>plush_markings->showing small, irregular spots of wear</li>
+    <li>plush_markings->decorated with whimsical stitching</li>
+
+    <li>seam_quality->neatly stitched</li>
+    <li>seam_quality->slightly frayed</li>
+    <li>seam_quality->reinforced for durability</li>
+    <li>seam_quality->delicately hand-sewn</li>
+    <li>stuffing_quality->light and airy</li>
+    <li>stuffing_quality->firm but soft</li>
+    <li>stuffing_quality->slightly uneven</li>
+    <li>stuffing_quality->plush and dense</li>
+    <li>seam_quality->stitched with playful, colorful thread</li>
+    <li>seam_quality->hidden neatly within the fabric</li>
+    <li>seam_quality->reinforced with overlapping layers</li>
+    <li>seam_quality->loosely aligned, but sturdy</li>
+    <li>stuffing_quality->light and bouncy, perfect for cuddling</li>
+    <li>stuffing_quality->plush and slightly squishy</li>
+    <li>stuffing_quality->dense and firmly packed</li>
+    <li>stuffing_quality->soft with a slight spring to it</li>
+    <li>stuffing_quality->uneven but endearing</li>
+
+    <li>fabric_quality->soft and comforting</li>
+    <li>fabric_quality->smooth with a gentle sheen</li>
+    <li>fabric_quality->delicate and inviting</li>
+    <li>fabric_quality->slightly coarse but endearing</li>
+    <li>visual_tone->a warm, pastel glow</li>
+    <li>visual_tone->a vibrant burst of color</li>
+    <li>visual_tone->a muted, cozy hue</li>
+    <li>visual_tone->a cheerful pattern</li>
+    <li>fabric_quality->warm and fuzzy to the touch</li>
+    <li>fabric_quality->slightly coarse but cozy</li>
+    <li>fabric_quality->smooth with playful ridges</li>
+    <li>fabric_quality->delicate, with a gentle texture</li>
+    <li>visual_tone->a calming pastel glow</li>
+    <li>visual_tone->a playful, vibrant palette</li>
+    <li>visual_tone->a gentle, earthy tone</li>
+    <li>visual_tone->a mix of cheerful and soothing colors</li>
+    <li>visual_tone->a patchwork of bright, contrasting hues</li>
+
+    <li>imperfections->tiny loose threads</li>
+    <li>imperfections->faded patches</li>
+    <li>imperfections->minor mismatched seams</li>
+    <li>imperfections->slightly uneven shape</li>
+    <li>emotive_descriptor->adorable</li>
+    <li>emotive_descriptor->huggable</li>
+    <li>emotive_descriptor->playful</li>
+    <li>emotive_descriptor->nostalgic</li>
+    <li>imperfections->loose threads trailing along the seams</li>
+    <li>imperfections->slightly flattened sections from frequent use</li>
+    <li>imperfections->tiny worn patches revealing the stuffing</li>
+    <li>imperfections->mismatched stitching that adds personality</li>
+    <li>imperfections->crooked seam that gives it character</li>
+    <li>emotive_descriptor->heartwarming</li>
+    <li>emotive_descriptor->endearing</li>
+    <li>emotive_descriptor->snuggly</li>
+    <li>emotive_descriptor->innocent</li>
+    <li>emotive_descriptor->delightful</li>
+
+    <li>scent_descriptor->lavender fragrance</li>
+    <li>scent_descriptor->cottony smell</li>
+    <li>scent_descriptor->whiff of fabric softener</li>
+    <li>scent_descriptor->gentle, sweet aroma</li>
+    <li>balance_descriptor->perfectly comforting</li>
+    <li>balance_descriptor->softly weighted</li>
+    <li>balance_descriptor->light yet steady</li>
+    <li>balance_descriptor->delicately balanced</li>
+    <li>scent_descriptor->whiff of chamomile</li>
+    <li>scent_descriptor->trace of baby powder</li>
+    <li>scent_descriptor->of freshly cleaned linen</li>
+    <li>scent_descriptor->warm vanilla aroma</li>
+    <li>balance_descriptor->light enough to carry everywhere</li>
+    <li>balance_descriptor->weighted slightly in the center</li>
+    <li>balance_descriptor->perfectly balanced for cuddling</li>
+    <li>balance_descriptor->just heavy enough to stay in place</li>
+
+    <li>design_quality->simple and inviting</li>
+    <li>design_quality->charming and intricate</li>
+    <li>design_quality->whimsical and creative</li>
+    <li>design_quality->childlike and pure</li>
+    <li>use_quality->gentle wear from countless hugs</li>
+    <li>use_quality->faint marks from small adventures</li>
+    <li>use_quality->signs of love and care</li>
+    <li>use_quality->subtle traces of long ownership</li>
+    <li>design_quality->crafted with intricate details</li>
+    <li>design_quality->designed to be simple yet appealing</li>
+    <li>design_quality->playfully asymmetrical, adding charm</li>
+    <li>design_quality->sewn with thoughtful care</li>
+    <li>use_quality->softened by years of gentle hugs</li>
+    <li>use_quality->marked with faint traces of small adventures</li>
+    <li>use_quality->faintly worn from countless playful squeezes</li>
+    <li>use_quality->showing signs of being a constant companion</li>
+
+    <li>time_effect->years of cherished play</li>
+    <li>time_effect->generations of love</li>
+    <li>time_effect->countless quiet moments</li>
+    <li>vague_inspiration->innocent dreams</li>
+    <li>vague_inspiration->playful imagination</li>
+    <li>vague_inspiration->comfort in the small things</li>
+    <li>color_descriptor->a rosy pink colour</li>
+    <li>color_descriptor->a soft cream colour</li>
+    <li>color_descriptor->a light pastel blue colour</li>
+    <li>color_descriptor->a gentle lavender colour</li>
+    <li>abstract_concept->comfort</li>
+    <li>abstract_concept->security</li>
+    <li>abstract_concept->playfulness</li>
+    <li>abstract_concept->love</li>
+    <li>time_effect->days spent as a comforting presence</li>
+    <li>time_effect->years of treasured companionship</li>
+    <li>time_effect->memories held in every thread</li>
+    <li>time_effect->endless nights of peaceful sleep</li>
+    <li>vague_inspiration->gentle care and safety</li>
+    <li>vague_inspiration->dreams of adventures in a magical world</li>
+    <li>vague_inspiration->imaginative tales told by small hands</li>
+    <li>color_descriptor->a warm golden beige</li>
+    <li>color_descriptor->a playful mint green</li>
+    <li>color_descriptor->a vibrant sunshine yellow</li>
+    <li>color_descriptor->a soft lilac tint</li>
+    <li>abstract_concept->companionship</li>
+    <li>abstract_concept->innocence</li>
+    <li>abstract_concept->joy</li>
+    <li>abstract_concept->warmth</li>
+
+    <li>implied_history->a child’s treasured friend</li>
+    <li>implied_history->endless bedtime stories</li>
+    <li>implied_history->small hands that clutched it tightly</li>
+    <li>implied_history->quiet naps in the afternoon</li>
+    <li>implied_history->a source of comfort on rainy days</li>
+    <li>implied_history->a quiet witness to countless bedtime stories</li>
+    <li>implied_history->a steadfast friend during lonely moments</li>
+    <li>implied_history->a constant companion on many adventures</li>
+
+    <li>play_description_group->[plushie_play_clause].</li>
+    <li>play_description_group->[plushie_play_clause] [play_conjunction] [plushie_play_extra_clause].</li>
+    <li>play_description_group->[plushie_play_clause] [play_conjunction].</li>
+    <li>play_description_group->[plushie_play_extra_clause].</li>
+    <li>play_description_group-></li>
+    
+    <li>plushie_play_clause->it invites endless cuddling, feeling [tactile_quality]</li>
+    <li>plushie_play_clause->its soft weight is perfect for [pretend_play]</li>
+    <li>plushie_play_clause->hugging it feels [hug_quality]</li>
+    <li>plushie_play_clause->its floppy limbs inspire [imaginative_theme]</li>
+    <li>plushie_play_clause->its shape is ideal for [interactive_action]</li>
+    <li>plushie_play_clause->its fabric responds to touch with [fabric_reaction]</li>
+    <li>plushie_play_clause->its floppy arms are perfect for dramatic gestures</li>
+    <li>plushie_play_clause->its soft weight makes it ideal for tea parties</li>
+    <li>plushie_play_clause->squeezing it provides a delightful, squishy sensation</li>
+    <li>plushie_play_clause->its form inspires wild tales and playful scenarios</li>
+    <li>plushie_play_clause->it’s perfectly sized for carrying everywhere</li>
+    <li>plushie_play_clause->its texture invites endless tactile exploration</li>
+
+    <li>plushie_play_extra_clause->its comforting presence encourages [collaborative_play]</li>
+    <li>plushie_play_extra_clause->its softness rewards [skill_testing]</li>
+    <li>plushie_play_extra_clause->it feels warm and welcoming when [play_interaction]</li>
+    <li>plushie_play_extra_clause->its design sparks [creative_play]</li>
+    <li>plushie_play_extra_clause->it fosters a sense of [playful_emotion]</li>
+    <li>plushie_play_extra_clause->its stitching hints at [implied_story]</li>
+    <li>plushie_play_extra_clause->it shines during group storytelling sessions</li>
+    <li>plushie_play_extra_clause->it becomes a hero in pretend rescue missions</li>
+    <li>plushie_play_extra_clause->its presence inspires creative play with friends</li>
+    <li>plushie_play_extra_clause->its well-loved nature makes it a central figure in games</li>
+    <li>plushie_play_extra_clause->its softness helps calm and soothe during playtime</li>
+    <li>plushie_play_extra_clause->its design suggests endless imaginative uses</li>
+  -->
+  <VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings>
+    <li>desc->[plushie_description_group]</li>
+
+    <!-- General Description -->
+    <li>plushie_description_group->[plushie_clause]. [play_description_group]</li>
+    <li>plushie_description_group->[plushie_clause] [toy_conjunction]. [plushie_extra_clause].</li>
+    <li>plushie_description_group->[plushie_clause] [toy_conjunction].</li>
+    <li>plushie_description_group->[plushie_extra_clause]. [play_description_group]</li>
+
+    <!-- Conjunctions -->
+    <li>toy_conjunction(p=6)-></li>
+    <li>toy_conjunction->принося чувство комфорта</li>
+    <li>toy_conjunction->с неотразимым очарованием</li>
+    <li>toy_conjunction->приглашая к бесконечным объятиям</li>
+    <li>toy_conjunction->с мягкостью, которая успокаивает</li>
+    <li>toy_conjunction->возвращая воспоминания детства</li>
+    <li>toy_conjunction->несущий нотку прихоти</li>
+    <li>toy_conjunction->с игривым теплом</li>
+    <li>toy_conjunction->искря чувство воображения</li>
+
+    <!-- Plushie Toy Clauses -->
+    <li>plushie_clause->поверхность игрушки [plush_texture] и [plush_markings]</li>
+    <li>plushie_clause->швы этой игрушки [seam_quality], удерживая [stuffing_quality]</li>
+    <li>plushie_clause->ткань этой игрушки ощущается [fabric_quality], придавая ей [visual_tone]</li>
+    <li>plushie_clause->маленькие [imperfections] добавляют ей [emotive_descriptor] характера</li>
+    <li>plushie_clause->эта игрушка имеет достаточный вес, чтобы ощущаться [balance_descriptor]</li>
+    <li>plushie_clause->[scent_descriptor] остается, усиливая ее очарование</li>
+    <li>plushie_clause->дизайн этой игрушки одновременно [design_quality] и [emotional_tone]</li>
+
+    <!-- Extra Clauses -->
+    <li>plushie_extra_clause->тонкие [use_quality] отмечают ее ткань</li>
+    <li>plushie_extra_clause->края слегка изношены от [time_effect]</li>
+    <li>plushie_extra_clause->форма намекает на [vague_inspiration]</li>
+    <li>plushie_extra_clause->слабый [color_descriptor] оттенок смягчает ее внешний вид</li>
+    <li>plushie_extra_clause->она излучает чувство [abstract_concept]</li>
+    <li>plushie_extra_clause->маленькие стежки рассказывают историю [implied_history]</li>
+    <li>plushie_extra_clause->мягкость несет энергию [emotive_descriptor]</li>
+
+    <!-- Plushie Texture and Markings -->
+    <li>plush_texture->бархатисто мягкая</li>
+    <li>plush_texture->слегка изношенная</li>
+    <li>plush_texture->гладкая и пушистая</li>
+    <li>plush_texture->пятнистая и неровная</li>
+    <li>plush_markings->украшена нежными полосками</li>
+    <li>plush_markings->в крапинку с игривыми пятнами</li>
+    <li>plush_markings->выцветшая в местах от объятий</li>
+    <li>plush_markings->с легкими следами игры</li>
+    <li>plush_texture->шелковисто гладкая, с легким блеском</li>
+    <li>plush_texture->нежно пушистая, как теплое облако</li>
+    <li>plush_texture->пятнистая, с признаками любви и заботы</li>
+    <li>plush_texture->мягкая, как свежеспряденный хлопок</li>
+    <li>plush_texture->слегка спутанная от бесчисленных объятий</li>
+    <li>plush_markings->в крапинку с легкими узорами</li>
+    <li>plush_markings->с маленькими потертостями по краям</li>
+    <li>plush_markings->украшена выцветшей вышивкой</li>
+    <li>plush_markings->с небольшими, нерегулярными пятнами износа</li>
+    <li>plush_markings->украшена причудливой строчкой</li>
+
+    <!-- Seam and Stuffing Quality -->
+    <li>seam_quality->аккуратно прошитые</li>
+    <li>seam_quality->слегка потрепанные</li>
+    <li>seam_quality->усиленные для долговечности</li>
+    <li>seam_quality->деликатно сшитые вручную</li>
+    <li>stuffing_quality->легкий и воздушный</li>
+    <li>stuffing_quality->плотный, но мягкий</li>
+    <li>stuffing_quality->слегка неровный</li>
+    <li>stuffing_quality->плюшевый и плотный</li>
+    <li>seam_quality->прошитые игривой, цветной нитью</li>
+    <li>seam_quality->аккуратно скрытые в ткани</li>
+    <li>seam_quality->усиленные перекрывающимися слоями</li>
+    <li>seam_quality->свободно выровненные, но прочные</li>
+    <li>stuffing_quality->легкий и упругий, идеально подходит для объятий</li>
+    <li>stuffing_quality->плюшевый и слегка мягкий</li>
+    <li>stuffing_quality->плотный и плотно упакованный</li>
+    <li>stuffing_quality->мягкий с легкой упругостью</li>
+    <li>stuffing_quality->неровный, но милый</li>
+
+    <!-- Fabric and Visual Tone -->
+    <li>fabric_quality->мягкая и успокаивающая</li>
+    <li>fabric_quality->гладкая с легким блеском</li>
+    <li>fabric_quality->нежная и привлекательная</li>
+    <li>fabric_quality->слегка грубая, но милая</li>
+    <li>visual_tone->теплый, пастельный свет</li>
+    <li>visual_tone->яркий всплеск цвета</li>
+    <li>visual_tone->приглушенный, уютный оттенок</li>
+    <li>visual_tone->веселый узор</li>
+    <li>fabric_quality->теплая и пушистая на ощупь</li>
+    <li>fabric_quality->слегка грубая, но уютная</li>
+    <li>fabric_quality->гладкая с игривыми гребнями</li>
+    <li>fabric_quality->нежная, с мягкой текстурой</li>
+    <li>visual_tone->успокаивающий пастельный свет</li>
+    <li>visual_tone->игривый, яркий палитра</li>
+    <li>visual_tone->нежный, земляной тон</li>
+    <li>visual_tone->сочетание веселых и успокаивающих цветов</li>
+    <li>visual_tone->лоскутное одеяло из ярких, контрастных оттенков</li>
+
+    <!-- Imperfections and Feel -->
+    <li>imperfections->маленькие свободные нити</li>
+    <li>imperfections->выцветшие пятна</li>
+    <li>imperfections->незначительные несовпадающие швы</li>
+    <li>imperfections->слегка неровная форма</li>
+    <li>emotive_descriptor->милый</li>
+    <li>emotive_descriptor->обнимаемый</li>
+    <li>emotive_descriptor->игривый</li>
+    <li>emotive_descriptor->ностальгический</li>
+    <li>imperfections->свободные нити, тянущиеся вдоль швов</li>
+    <li>imperfections->слегка сплющенные участки от частого использования</li>
+    <li>imperfections->маленькие изношенные пятна, обнажающие набивку</li>
+    <li>imperfections->несовпадающие швы, добавляющие индивидуальности</li>
+    <li>imperfections->кривой шов, придающий характер</li>
+    <li>emotive_descriptor->трогательный</li>
+    <li>emotive_descriptor->умилительный</li>
+    <li>emotive_descriptor->уютный</li>
+    <li>emotive_descriptor->невинный</li>
+    <li>emotive_descriptor->восхитительный</li>
+
+    <!-- Scent and Balance -->
+    <li>scent_descriptor->аромат лаванды</li>
+    <li>scent_descriptor->хлопковый запах</li>
+    <li>scent_descriptor->запах кондиционера для белья</li>
+    <li>scent_descriptor->нежный, сладкий аромат</li>
+    <li>balance_descriptor->идеально успокаивающий</li>
+    <li>balance_descriptor->мягко взвешенный</li>
+    <li>balance_descriptor->легкий, но устойчивый</li>
+    <li>balance_descriptor->деликатно сбалансированный</li>
+    <li>scent_descriptor->аромат ромашки</li>
+    <li>scent_descriptor->след детской присыпки</li>
+    <li>scent_descriptor->запах свежевыстиранного белья</li>
+    <li>scent_descriptor->теплый аромат ванили</li>
+    <li>balance_descriptor->достаточно легкий, чтобы носить его повсюду</li>
+    <li>balance_descriptor->слегка взвешенный в центре</li>
+    <li>balance_descriptor->идеально сбалансированный для объятий</li>
+    <li>balance_descriptor->достаточно тяжелый, чтобы оставаться на месте</li>
+
+    <!-- Design and Use Quality -->
+    <li>design_quality->простой и привлекательный</li>
+    <li>design_quality->очаровательный и замысловатый</li>
+    <li>design_quality->причудливый и креативный</li>
+    <li>design_quality->детский и чистый</li>
+    <li>use_quality->нежный износ от бесчисленных объятий</li>
+    <li>use_quality->слабые следы от маленьких приключений</li>
+    <li>use_quality->признаки любви и заботы</li>
+    <li>use_quality->тонкие следы долгого владения</li>
+    <li>design_quality->сделан с замысловатыми деталями</li>
+    <li>design_quality->спроектирован быть простым, но привлекательным</li>
+    <li>design_quality->игриво асимметричный, добавляющий очарование</li>
+    <li>design_quality->сшит с заботой</li>
+    <li>use_quality->смягченный годами нежных объятий</li>
+    <li>use_quality->отмеченный слабыми следами маленьких приключений</li>
+    <li>use_quality->слегка изношенный от бесчисленных игривых сжиманий</li>
+    <li>use_quality->показывающий признаки постоянного спутника</li>
+
+    <!-- Time, Color, and Concept -->
+    <li>time_effect->годы любимой игры</li>
+    <li>time_effect->поколения любви</li>
+    <li>time_effect->бесчисленные тихие моменты</li>
+    <li>vague_inspiration->невинные мечты</li>
+    <li>vague_inspiration->игривое воображение</li>
+    <li>vague_inspiration->утешение в мелочах</li>
+    <li>color_descriptor->розовый цвет</li>
+    <li>color_descriptor->мягкий кремовый цвет</li>
+    <li>color_descriptor->светло-голубой пастельный цвет</li>
+    <li>color_descriptor->нежный лавандовый цвет</li>
+    <li>abstract_concept->комфорт</li>
+    <li>abstract_concept->безопасность</li>
+    <li>abstract_concept->игривость</li>
+    <li>abstract_concept->любовь</li>
+    <li>time_effect->дни, проведенные в утешительном присутствии</li>
+    <li>time_effect->годы драгоценного товарищества</li>
+    <li>time_effect->воспоминания, хранящиеся в каждой нити</li>
+    <li>time_effect->бесконечные ночи мирного сна</li>
+    <li>vague_inspiration->нежная забота и безопасность</li>
+    <li>vague_inspiration->мечты о приключениях в волшебном мире</li>
+    <li>vague_inspiration->воображаемые истории, рассказанные маленькими руками</li>
+    <li>color_descriptor->теплый золотисто-бежевый цвет</li>
+    <li>color_descriptor->игривый мятно-зеленый цвет</li>
+    <li>color_descriptor->яркий солнечно-желтый цвет</li>
+    <li>color_descriptor->нежный сиреневый оттенок</li>
+    <li>abstract_concept->дружба</li>
+    <li>abstract_concept->невинность</li>
+    <li>abstract_concept->радость</li>
+    <li>abstract_concept->тепло</li>
+
+    <!-- Implied History -->
+    <li>implied_history->драгоценный друг ребенка</li>
+    <li>implied_history->бесконечные сказки на ночь</li>
+    <li>implied_history->маленькие руки, крепко держащие его</li>
+    <li>implied_history->тихие дневные сны</li>
+    <li>implied_history->источник утешения в дождливые дни</li>
+    <li>implied_history->тихий свидетель бесчисленных сказок на ночь</li>
+    <li>implied_history->верный друг в одиночные моменты</li>
+    <li>implied_history->постоянный спутник на многих приключениях</li>
+
+    <!-- Play Description -->
+    <li>play_description_group->[plushie_play_clause].</li>
+    <li>play_description_group->[plushie_play_clause] [play_conjunction] [plushie_play_extra_clause].</li>
+    <li>play_description_group->[plushie_play_clause] [play_conjunction].</li>
+    <li>play_description_group->[plushie_play_extra_clause].</li>
+    <li>play_description_group-></li>
+    
+    <!-- Play Clauses -->
+    <li>plushie_play_clause->он приглашает к бесконечным объятиям, ощущаясь [tactile_quality]</li>
+    <li>plushie_play_clause->его мягкий вес идеально подходит для [pretend_play]</li>
+    <li>plushie_play_clause->обнимать его ощущается как [hug_quality]</li>
+    <li>plushie_play_clause->его гибкие конечности вдохновляют на [imaginative_theme]</li>
+    <li>plushie_play_clause->его форма идеальна для [interactive_action]</li>
+    <li>plushie_play_clause->его ткань реагирует на прикосновение [fabric_reaction]</li>
+    <li>plushie_play_clause->его гибкие руки идеально подходят для драматических жестов</li>
+    <li>plushie_play_clause->его мягкий вес делает его идеальным для чаепитий</li>
+    <li>plushie_play_clause->сжимание его приносит приятное, мягкое ощущение</li>
+    <li>plushie_play_clause->его форма вдохновляет на дикие истории и игровые сценарии</li>
+    <li>plushie_play_clause->он идеально подходит для ношения повсюду</li>
+    <li>plushie_play_clause->его текстура приглашает к бесконечным тактильным исследованиям</li>
+
+    <!-- Extra Clauses -->
+    <li>plushie_play_extra_clause->его утешительное присутствие поощряет [collaborative_play]</li>
+    <li>plushie_play_extra_clause->его мягкость вознаграждает [skill_testing]</li>
+    <li>plushie_play_extra_clause->он ощущается теплым и приветливым при [play_interaction]</li>
+    <li>plushie_play_extra_clause->его дизайн вдохновляет на [creative_play]</li>
+    <li>plushie_play_extra_clause->он способствует чувству [playful_emotion]</li>
+    <li>plushie_play_extra_clause->его швы намекают на [implied_story]</li>
+    <li>plushie_play_extra_clause->он сияет во время групповых сеансов рассказывания историй</li>
+    <li>plushie_play_extra_clause->он становится героем в притворных спасательных миссиях</li>
+    <li>plushie_play_extra_clause->его присутствие вдохновляет на творческую игру с друзьями</li>
+    <li>plushie_play_extra_clause->его хорошо любимая природа делает его центральной фигурой в играх</li>
+    <li>plushie_play_extra_clause->его мягкость помогает успокоиться и расслабиться во время игры</li>
+    <li>plushie_play_extra_clause->его дизайн предполагает бесконечные творческие использования</li>
+  </VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings>
+</LanguageData>

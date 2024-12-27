@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: snowthrower -->
+  <VCE_Turret_Snowthrower.label>снегомёт</VCE_Turret_Snowthrower.label>
+  <!-- EN: A portable automatic snowball propelling turret. Requires snow to be delivered to it after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VCE_Turret_Snowthrower.description>Небольшая переносимая автоматическая турель, метающая снежки. После интенсивного использования требует «подзарядки» снегом. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VCE_Turret_Snowthrower.description>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowthrower.comps.CompRefuelable.fuelGizmoLabel>Снежки</VCE_Turret_Snowthrower.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowthrower.comps.CompRefuelable.fuelLabel>Снежков</VCE_Turret_Snowthrower.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Out of snowballs -->
+  <VCE_Turret_Snowthrower.comps.CompRefuelable.outOfFuelMessage>Закончились снежки</VCE_Turret_Snowthrower.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: snowball -->
+  <VCE_Bullet_Snowthrower.label>снежок</VCE_Bullet_Snowthrower.label>
+
+  <!-- EN: snowthrower -->
+  <VCE_GunTurret_Snowthrower.label>снегомёт</VCE_GunTurret_Snowthrower.label>
+  <!-- EN: A portable automatic snowball propelling turret. Requires snow to be delivered to it after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VCE_GunTurret_Snowthrower.description>Небольшая переносимая автоматическая турель, метающая снежки. После интенсивного использования требует «подзарядки» снегом. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VCE_GunTurret_Snowthrower.description>
+  <!-- EN: snowthrower -->
+  <VCE_GunTurret_Snowthrower.verbs.Verb_Shoot.label>снегомёт</VCE_GunTurret_Snowthrower.verbs.Verb_Shoot.label>
+
+  <!-- EN: Snowcannon -->
+  <VCE_Turret_Snowcannon.label>снежная пушка</VCE_Turret_Snowcannon.label>
+  <!-- EN: A heavy automatic snowball-firing cannon. The sheer amount of snowballs fired will cover a small area in devastating white volley, but it needs to be regularly reloaded with snow to continue firing. It cannot fire at close-up targets, and may explode when damaged. -->
+  <VCE_Turret_Snowcannon.description>Тяжёлая дальнобойная автоматическая турель, метающая снежки. Огромное количество выпущенных снежков покрывает небольшую площадь разрушительным белым залпом, но такая стрельба требует частой перезарядки снегом. Не стреляет вблизи. При повреждении может взорваться.</VCE_Turret_Snowcannon.description>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowcannon.comps.CompRefuelable.fuelGizmoLabel>Снежки</VCE_Turret_Snowcannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowcannon.comps.CompRefuelable.fuelLabel>Снежков</VCE_Turret_Snowcannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Out of snowballs -->
+  <VCE_Turret_Snowcannon.comps.CompRefuelable.outOfFuelMessage>Закончились снежки</VCE_Turret_Snowcannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: snowcannon -->
+  <VCE_Gun_SnowcannonTurret.label>снежная пушка</VCE_Gun_SnowcannonTurret.label>
+  <!-- EN: A heavy automatic snowball-firing cannon. The sheer amount of snowballs fired will cover a small area in devastating white volley, but it needs to be regularly reloaded with snow to continue firing. It cannot fire at close-up targets, and may explode when damaged. -->
+  <VCE_Gun_SnowcannonTurret.description>Тяжёлая дальнобойная автоматическая турель, метающая снежки. Огромное количество выпущенных снежков покрывает небольшую площадь разрушительным белым залпом, но такая стрельба требует частой перезарядки снегом. Не стреляет вблизи. При повреждении может взорваться.</VCE_Gun_SnowcannonTurret.description>
+  <!-- EN: snowcannon -->
+  <VCE_Gun_SnowcannonTurret.verbs.Verb_Shoot.label>снежная пушка</VCE_Gun_SnowcannonTurret.verbs.Verb_Shoot.label>
+</LanguageData>

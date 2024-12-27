@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the festive feast is fun or unforgettable, varying festive favor amounts will be given for each participant. -->
+  <VCE_FestiveFeastOutcome.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}. Если праздничное застолье окажется весёлым или незабываемым, за каждого участника будет получено произвольное количество праздничного настроения.</VCE_FestiveFeastOutcome.description>
+  <!-- EN: leader present -->
+  <VCE_FestiveFeastOutcome.comps.0.label>присутствует лидер</VCE_FestiveFeastOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VCE_FestiveFeastOutcome.comps.1.label>количество участников</VCE_FestiveFeastOutcome.comps.1.label>
+  <!-- EN: during Decembary -->
+  <VCE_FestiveFeastOutcome.comps.2.label>в декаврале</VCE_FestiveFeastOutcome.comps.2.label>
+  <!-- EN: not during Decembary-->
+  <VCE_FestiveFeastOutcome.comps.2.labelNotMet>не в декаврале</VCE_FestiveFeastOutcome.comps.2.labelNotMet>
+
+  <!-- EN: Terrible -->
+  <VCE_FestiveFeastOutcome.outcomeChances.0.label>ужасно</VCE_FestiveFeastOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible. The food was disgusting and we just quarreled and bickered through all of it. -->
+  <VCE_FestiveFeastOutcome.outcomeChances.0.description>Это было ужасно! Еда была отвратительной, что приводило к постоянным спорам и ссорам.</VCE_FestiveFeastOutcome.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <VCE_FestiveFeastOutcome.outcomeChances.1.label>скучно</VCE_FestiveFeastOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. We just went throught he motions, without putting much heart into it. The food was a bit bland. -->
+  <VCE_FestiveFeastOutcome.outcomeChances.1.description>Застолье было скучным. Мы просто соблюдали правила, не вкладывая в это особого энтузиазма. Еда была немного пресной.</VCE_FestiveFeastOutcome.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <VCE_FestiveFeastOutcome.outcomeChances.2.label>весело</VCE_FestiveFeastOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was super fun. Gathering together to share a festive feast really enhances the spirit of the season. -->
+  <VCE_FestiveFeastOutcome.outcomeChances.2.description>Застолье было весёлым. Мы собрались вместе, чтобы разделить праздничное застолье и действительно смогли прочувствовать атмосферу праздничного сезона.</VCE_FestiveFeastOutcome.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <VCE_FestiveFeastOutcome.outcomeChances.3.label>незабываемо</VCE_FestiveFeastOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! We truly felt like a big family and the food was just simply amazing! -->
+  <VCE_FestiveFeastOutcome.outcomeChances.3.description>Застолье было незабываемым! Мы действительно чувствовали себя большой семь`й, а еда была просто восхитительной!</VCE_FestiveFeastOutcome.outcomeChances.3.description>
+</LanguageData>

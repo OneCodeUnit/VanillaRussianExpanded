@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+     <li>desc->[toy_description_group]</li>
+    
+    <li>toy_description_group->[woodtoy_clause]. [play_description_group]</li>
+    <li>toy_description_group->[woodtoy_clause] [toy_conjunction]. [woodtoy_extra_clause].</li>
+    <li>toy_description_group->[woodtoy_clause] [toy_conjunction].</li>
+    <li>toy_description_group->[woodtoy_extra_clause]. [play_description_group]</li>
+
+    <li>toy_conjunction(p=6)-></li>
+    <li>toy_conjunction->adding a touch of nostalgia</li>
+    <li>toy_conjunction->highlighting the craftsmanship</li>
+    <li>toy_conjunction->with a sense of simplicity</li>
+    <li>toy_conjunction->giving it a rustic charm</li>
+    <li>toy_conjunction->revealing a story untold</li>
+    <li>toy_conjunction->hinting at the passage of time</li>
+    <li>toy_conjunction->while sparking the imagination</li>
+    <li>toy_conjunction->with an air of timelessness</li>
+    <li>toy_conjunction->evoking a sense of wonder</li>
+
+    <li>woodtoy_clause->the surface of this toy is [surface_texture] and [surface_markings]</li>
+    <li>woodtoy_clause->its edges are [edge_quality], blending into [form_quality]</li>
+    <li>woodtoy_clause->the grain of the wood runs [grain_quality], giving this toy [visual_tone]</li>
+    <li>woodtoy_clause->small [imperfections] in the wood make this toy feel [emotive_descriptor]</li>
+    <li>woodtoy_clause->the toy's balance feels [balance_descriptor], inviting [action_descriptor]</li>
+    <li>woodtoy_clause->[smell_descriptor] lingers on the wood, adding to its charm</li>
+    <li>woodtoy_clause->the design of this toy is both [design_quality] and [emotional_tone]</li>
+
+    <li>woodtoy_extra_clause->subtle traces of [use_quality] mark its surface</li>
+    <li>woodtoy_extra_clause->the edges are smoothed by [time_effect]</li>
+    <li>woodtoy_extra_clause->the shape hints at [vague_inspiration]</li>
+    <li>woodtoy_extra_clause->a faint [color_descriptor] hue can be seen in the grain</li>
+    <li>woodtoy_extra_clause->the simplicity of the form carries a sense of [abstract_concept]</li>
+    <li>woodtoy_extra_clause->the toy radiates [emotive_descriptor] energy</li>
+    <li>woodtoy_extra_clause->the faint markings tell a story of [implied_history]</li>
+
+    <li>surface_texture->smooth</li>
+    <li>surface_texture->rough</li>
+    <li>surface_texture->polished</li>
+    <li>surface_texture->slightly uneven</li>
+    <li>surface_markings->covered in faint scratches</li>
+    <li>surface_markings->etched with subtle lines</li>
+    <li>surface_markings->showing gentle wear</li>
+    <li>surface_markings->streaked with tiny imperfections</li>
+
+    <li>edge_quality->soft and rounded</li>
+    <li>edge_quality->slightly uneven</li>
+    <li>edge_quality->carefully defined</li>
+    <li>form_quality->organic and flowing</li>
+    <li>form_quality->precise and angular</li>
+    <li>form_quality->simple yet elegant</li>
+
+    <li>grain_quality->straight and uniform</li>
+    <li>grain_quality->twisted and intricate</li>
+    <li>grain_quality->subtle and faint</li>
+    <li>grain_quality->bold and pronounced</li>
+    <li>visual_tone->a warm glow</li>
+    <li>visual_tone->a cool undertone</li>
+    <li>visual_tone->a sense of depth</li>
+    <li>visual_tone->a natural simplicity</li>
+
+    <li>imperfections->knots</li>
+    <li>imperfections->cracks</li>
+    <li>imperfections->dents</li>
+    <li>emotive_descriptor->charming</li>
+    <li>emotive_descriptor->humble</li>
+    <li>emotive_descriptor->lived-in</li>
+    <li>emotive_descriptor->authentic</li>
+
+    <li>balance_descriptor->perfectly even</li>
+    <li>balance_descriptor->slightly off-center</li>
+    <li>balance_descriptor->unexpectedly steady</li>
+    <li>action_descriptor->gentle play</li>
+    <li>action_descriptor->curious exploration</li>
+    <li>action_descriptor->careful handling</li>
+
+    <li>smell_descriptor->a woody scent</li>
+    <li>smell_descriptor->an earthy scent</li>
+    <li>smell_descriptor->a slightly sweet smell</li>
+    <li>design_quality->minimalist</li>
+    <li>design_quality->intuitive</li>
+    <li>design_quality->balanced</li>
+    <li>emotional_tone->playful</li>
+    <li>emotional_tone->nostalgic</li>
+    <li>emotional_tone->thoughtful</li>
+
+    <li>use_quality->gentle handling</li>
+    <li>use_quality->frequent play</li>
+    <li>use_quality->loving care</li>
+    <li>time_effect->time-worn hands</li>
+    <li>time_effect->years of enjoyment</li>
+    <li>time_effect->countless memories</li>
+    <li>vague_inspiration->childhood dreams</li>
+    <li>vague_inspiration->nature’s simplicity</li>
+    <li>vague_inspiration->imagination’s reach</li>
+
+    <li>color_descriptor->golden</li>
+    <li>color_descriptor->honey-like</li>
+    <li>color_descriptor->reddish</li>
+    <li>color_descriptor->ash-gray</li>
+    <li>abstract_concept->joy</li>
+    <li>abstract_concept->innocence</li>
+    <li>abstract_concept->wonder</li>
+    <li>abstract_concept->comfort</li>
+
+    <li>implied_history->generations past</li>
+    <li>implied_history->quiet evenings</li>
+    <li>implied_history->long-forgotten days</li>
+    <li>implied_history->playful adventures</li>
+
+    <li>play_description_group->[woodtoy_play_clause].</li>
+    <li>play_description_group->[woodtoy_play_clause] [play_conjunction] [woodtoy_play_extra_clause].</li>
+    <li>play_description_group->[woodtoy_play_clause] [play_conjunction].</li>
+    <li>play_description_group->[woodtoy_play_extra_clause].</li>
+    <li>play_description_group-></li>
+
+    <li>play_conjunction(p=6)-></li>
+    <li>play_conjunction->sparking a new idea,</li>
+    <li>play_conjunction->with endless possibilities,</li>
+    <li>play_conjunction->leading to more imaginative play,</li>
+    <li>play_conjunction->revealing hidden uses,</li>
+    <li>play_conjunction->with surprising simplicity,</li>
+    <li>play_conjunction->adding a sense of discovery,</li>
+    <li>play_conjunction->making every moment special,</li>
+    <li>play_conjunction->bringing joy in unexpected ways,</li>
+    <li>play_conjunction->delighting in small victories,</li>
+
+    <li>woodtoy_play_clause->it can be spun on its [surface_feature], creating [spin_effect]</li>
+    <li>woodtoy_play_clause->stacking its parts feels [stacking_descriptor] and [action_tone]</li>
+    <li>woodtoy_play_clause->rolling it across the floor creates [rolling_effect]</li>
+    <li>woodtoy_play_clause->it invites [action_type], encouraging [play_style]</li>
+    <li>woodtoy_play_clause->it can be balanced [balance_location], showcasing [skill_descriptor]</li>
+    <li>woodtoy_play_clause->the pieces interlock in a way that feels [connection_quality]</li>
+    <li>woodtoy_play_clause->its moving parts allow for [movement_style]</li>
+    <li>woodtoy_play_clause->it’s perfect for [pretend_play], inspiring [imaginative_theme]</li>
+    <li>woodtoy_play_clause->it makes a satisfying [sound_effect] when [sound_trigger]</li>
+    <li>woodtoy_play_clause->its simple design encourages [creative_use]</li>
+
+    <li>woodtoy_play_extra_clause->its flexibility allows for [unexpected_use]</li>
+    <li>woodtoy_play_extra_clause->the toy works perfectly as [alternative_use]</li>
+    <li>woodtoy_play_extra_clause->it’s fun to [interactive_action] with it, especially [action_setting]</li>
+    <li>woodtoy_play_extra_clause->the tactile sensation of [material_quality] adds to the play</li>
+    <li>woodtoy_play_extra_clause->the way it responds to [play_interaction] is endlessly fascinating</li>
+    <li>woodtoy_play_extra_clause->it invites [collaborative_play], strengthening bonds</li>
+    <li>woodtoy_play_extra_clause->every piece feels like it was made for [specific_action]</li>
+    <li>woodtoy_play_extra_clause->the toy rewards [skill_testing], creating a sense of accomplishment</li>
+
+    <li>surface_feature->smooth base</li>
+    <li>surface_feature->rounded bottom</li>
+    <li>surface_feature->flat side</li>
+    <li>surface_feature->curved edge</li>
+    <li>spin_effect->a mesmerizing whirl</li>
+    <li>spin_effect->an uneven wobble</li>
+    <li>spin_effect->a rhythmic dance</li>
+
+    <li>stacking_descriptor->steady</li>
+    <li>stacking_descriptor->challenging</li>
+    <li>stacking_descriptor->exciting</li>
+    <li>action_tone->calm</li>
+    <li>action_tone->energetic</li>
+    <li>rolling_effect->a satisfying rattle</li>
+    <li>rolling_effect->a smooth glide</li>
+    <li>rolling_effect->a gentle thump</li>
+
+    <li>action_type->small movements</li>
+    <li>action_type->careful precision</li>
+    <li>action_type->quick motions</li>
+    <li>play_style->focused attention</li>
+    <li>play_style->spontaneous fun</li>
+    <li>play_style->group play</li>
+
+    <li>balance_location->on one edge</li>
+    <li>balance_location->on its center point</li>
+    <li>balance_location->at a precarious angle</li>
+    <li>skill_descriptor->delicate control</li>
+    <li>skill_descriptor->playful experimentation</li>
+    <li>connection_quality->seamless</li>
+    <li>connection_quality->secure yet flexible</li>
+    <li>connection_quality->loose but creative</li>
+
+    <li>movement_style->gentle motion</li>
+    <li>movement_style->smooth rotation</li>
+    <li>movement_style->satisfying clicks</li>
+    <li>pretend_play->a miniature adventure</li>
+    <li>pretend_play->a playful competition</li>
+    <li>pretend_play->an imaginary journey</li>
+    <li>imaginative_theme->endless exploration</li>
+    <li>imaginative_theme->wild storytelling</li>
+    <li>sound_effect->clack</li>
+    <li>sound_effect->thud</li>
+    <li>sound_effect->tap</li>
+    <li>sound_trigger->tapped together</li>
+    <li>sound_trigger->rolled along</li>
+    <li>sound_trigger->snapped into place</li>
+
+    <li>creative_use->new ways of playing</li>
+    <li>creative_use->endless improvisation</li>
+    <li>unexpected_use->a balancing act</li>
+    <li>unexpected_use->a tiny building block</li>
+    <li>unexpected_use->a rhythm instrument</li>
+    <li>alternative_use->a simple puzzle</li>
+    <li>alternative_use->a display piece</li>
+    <li>interactive_action->tap</li>
+    <li>interactive_action->roll</li>
+    <li>interactive_action->spin</li>
+    <li>interactive_action->stack</li>
+    <li>action_setting->on a tabletop</li>
+    <li>action_setting->on a smooth floor</li>
+    <li>action_setting->in the sandbox</li>
+
+    <li>material_quality->smooth wood</li>
+    <li>material_quality->textured grain</li>
+    <li>play_interaction->gentle nudges</li>
+    <li>play_interaction->forceful rolls</li>
+    <li>play_interaction->careful stacking</li>
+    <li>collaborative_play->shared creativity</li>
+    <li>collaborative_play->friendly competition</li>
+    <li>specific_action->perfect balancing</li>
+    <li>specific_action->intricate stacking</li>
+    <li>skill_testing->dexterity</li>
+    <li>skill_testing->focus</li>
+    <li>skill_testing->imagination</li>
+  -->
+  <VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings>
+    <li>desc->[toy_description_group]</li>
+    
+    <!-- General Description -->
+    <li>toy_description_group->[woodtoy_clause]. [play_description_group]</li>
+    <li>toy_description_group->[woodtoy_clause] [toy_conjunction]. [woodtoy_extra_clause].</li>
+    <li>toy_description_group->[woodtoy_clause] [toy_conjunction].</li>
+    <li>toy_description_group->[woodtoy_extra_clause]. [play_description_group]</li>
+
+    <!-- Conjunctions -->
+    <li>toy_conjunction(p=6)-></li>
+    <li>toy_conjunction->добавляя нотку ностальгии</li>
+    <li>toy_conjunction->подчеркивая мастерство</li>
+    <li>toy_conjunction->с чувством простоты</li>
+    <li>toy_conjunction->придавая деревенский шарм</li>
+    <li>toy_conjunction->раскрывая нерассказанную историю</li>
+    <li>toy_conjunction->намекает на течение времени</li>
+    <li>toy_conjunction->разжигая воображение</li>
+    <li>toy_conjunction->с атмосферой вечности</li>
+    <li>toy_conjunction->вызывая чувство удивления</li>
+
+    <!-- Wood Toy Clauses -->
+    <li>woodtoy_clause->поверхность этой игрушки [surface_texture] и [surface_markings]</li>
+    <li>woodtoy_clause->ее края [edge_quality], переходящие в [form_quality]</li>
+    <li>woodtoy_clause->зерно дерева идет [grain_quality], придавая этой игрушке [visual_tone]</li>
+    <li>woodtoy_clause->маленькие [imperfections] в дереве делают эту игрушку [emotive_descriptor]</li>
+    <li>woodtoy_clause->баланс игрушки ощущается [balance_descriptor], приглашая к [action_descriptor]</li>
+    <li>woodtoy_clause->[smell_descriptor] остается на дереве, добавляя ему шарма</li>
+    <li>woodtoy_clause->дизайн этой игрушки одновременно [design_quality] и [emotional_tone]</li>
+
+    <!-- Extra Clauses -->
+    <li>woodtoy_extra_clause->тонкие следы [use_quality] отмечают ее поверхность</li>
+    <li>woodtoy_extra_clause->края сглажены [time_effect]</li>
+    <li>woodtoy_extra_clause->форма намекает на [vague_inspiration]</li>
+    <li>woodtoy_extra_clause->в зерне можно увидеть слабый оттенок [color_descriptor]</li>
+    <li>woodtoy_extra_clause->простота формы несет в себе чувство [abstract_concept]</li>
+    <li>woodtoy_extra_clause->игрушка излучает [emotive_descriptor] энергию</li>
+    <li>woodtoy_extra_clause->слабые отметины рассказывают историю [implied_history]</li>
+
+    <!-- Texture and Markings -->
+    <li>surface_texture->гладкая</li>
+    <li>surface_texture->шероховатая</li>
+    <li>surface_texture->полированная</li>
+    <li>surface_texture->слегка неровная</li>
+    <li>surface_markings->покрыта слабыми царапинами</li>
+    <li>surface_markings->гравирована тонкими линиями</li>
+    <li>surface_markings->показывает легкий износ</li>
+    <li>surface_markings->покрыта мелкими несовершенствами</li>
+
+    <!-- Edge and Form Quality -->
+    <li>edge_quality->мягкие и закругленные</li>
+    <li>edge_quality->слегка неровные</li>
+    <li>edge_quality->аккуратно очерченные</li>
+    <li>form_quality->органичные и плавные</li>
+    <li>form_quality->точные и угловатые</li>
+    <li>form_quality->простые, но элегантные</li>
+
+    <!-- Grain and Tone -->
+    <li>grain_quality->прямые и однородные</li>
+    <li>grain_quality->извилистые и сложные</li>
+    <li>grain_quality->тонкие и слабые</li>
+    <li>grain_quality->смелые и выразительные</li>
+    <li>visual_tone->теплое свечение</li>
+    <li>visual_tone->холодный оттенок</li>
+    <li>visual_tone->ощущение глубины</li>
+    <li>visual_tone->естественная простота</li>
+
+    <!-- Imperfections and Feel -->
+    <li>imperfections->узлы</li>
+    <li>imperfections->трещины</li>
+    <li>imperfections->вмятины</li>
+    <li>emotive_descriptor->очаровательная</li>
+    <li>emotive_descriptor->скромная</li>
+    <li>emotive_descriptor->обжитая</li>
+    <li>emotive_descriptor->аутентичная</li>
+
+    <!-- Balance and Action -->
+    <li>balance_descriptor->идеально ровная</li>
+    <li>balance_descriptor->слегка смещенная</li>
+    <li>balance_descriptor->неожиданно устойчивая</li>
+    <li>action_descriptor->нежная игра</li>
+    <li>action_descriptor->любопытное исследование</li>
+    <li>action_descriptor->осторожное обращение</li>
+
+    <!-- Smell and Design -->
+    <li>smell_descriptor->древесный аромат</li>
+    <li>smell_descriptor->землистый аромат</li>
+    <li>smell_descriptor->слегка сладкий запах</li>
+    <li>design_quality->минималистичный</li>
+    <li>design_quality->интуитивный</li>
+    <li>design_quality->сбалансированный</li>
+    <li>emotional_tone->игривый</li>
+    <li>emotional_tone->ностальгический</li>
+    <li>emotional_tone->задумчивый</li>
+
+    <!-- Use and History -->
+    <li>use_quality->бережное обращение</li>
+    <li>use_quality->частая игра</li>
+    <li>use_quality->любовный уход</li>
+    <li>time_effect->руки, изношенные временем</li>
+    <li>time_effect->годы наслаждения</li>
+    <li>time_effect->бесчисленные воспоминания</li>
+    <li>vague_inspiration->детские мечты</li>
+    <li>vague_inspiration->простота природы</li>
+    <li>vague_inspiration->пределы воображения</li>
+
+    <!-- Color and Concept -->
+    <li>color_descriptor->золотистый</li>
+    <li>color_descriptor->медовый</li>
+    <li>color_descriptor->красноватый</li>
+    <li>color_descriptor->пепельно-серый</li>
+    <li>abstract_concept->радость</li>
+    <li>abstract_concept->невинность</li>
+    <li>abstract_concept->удивление</li>
+    <li>abstract_concept->комфорт</li>
+
+    <!-- Implied History -->
+    <li>implied_history->прошлые поколения</li>
+    <li>implied_history->тихие вечера</li>
+    <li>implied_history->давно забытые дни</li>
+    <li>implied_history->игривые приключения</li>
+    
+    <!-- General Description -->
+    <li>play_description_group->[woodtoy_play_clause].</li>
+    <li>play_description_group->[woodtoy_play_clause] [play_conjunction] [woodtoy_play_extra_clause].</li>
+    <li>play_description_group->[woodtoy_play_clause] [play_conjunction].</li>
+    <li>play_description_group->[woodtoy_play_extra_clause].</li>
+    <li>play_description_group-></li>
+
+    <!-- Conjunctions -->
+    <li>play_conjunction(p=6)-></li>
+    <li>play_conjunction->зарождая новую идею,</li>
+    <li>play_conjunction->с бесконечными возможностями,</li>
+    <li>play_conjunction->ведя к более творческой игре,</li>
+    <li>play_conjunction->раскрывая скрытые возможности,</li>
+    <li>play_conjunction->с удивительной простотой,</li>
+    <li>play_conjunction->добавляя чувство открытия,</li>
+    <li>play_conjunction->делая каждый момент особенным,</li>
+    <li>play_conjunction->принося радость неожиданными способами,</li>
+    <li>play_conjunction->наслаждаясь маленькими победами,</li>
+
+    <!-- Play Clauses -->
+    <li>woodtoy_play_clause->его можно крутить на [surface_feature], создавая [spin_effect]</li>
+    <li>woodtoy_play_clause->складывание его частей ощущается [stacking_descriptor] и [action_tone]</li>
+    <li>woodtoy_play_clause->катание его по полу создает [rolling_effect]</li>
+    <li>woodtoy_play_clause->он приглашает к [action_type], поощряя [play_style]</li>
+    <li>woodtoy_play_clause->его можно балансировать на [balance_location], демонстрируя [skill_descriptor]</li>
+    <li>woodtoy_play_clause->части соединяются так, что ощущается [connection_quality]</li>
+    <li>woodtoy_play_clause->его подвижные части позволяют [movement_style]</li>
+    <li>woodtoy_play_clause->он идеально подходит для [pretend_play], вдохновляя на [imaginative_theme]</li>
+    <li>woodtoy_play_clause->он издает удовлетворительный [sound_effect], когда [sound_trigger]</li>
+    <li>woodtoy_play_clause->его простой дизайн поощряет [creative_use]</li>
+
+    <!-- Extra Clauses -->
+    <li>woodtoy_play_extra_clause->его гибкость позволяет использовать [unexpected_use]</li>
+    <li>woodtoy_play_extra_clause->игрушка идеально подходит как [alternative_use]</li>
+    <li>woodtoy_play_extra_clause->с ним весело [interactive_action], особенно [action_setting]</li>
+    <li>woodtoy_play_extra_clause->тактильное ощущение [material_quality] добавляет удовольствия от игры</li>
+    <li>woodtoy_play_extra_clause->то, как он реагирует на [play_interaction], бесконечно увлекательно</li>
+    <li>woodtoy_play_extra_clause->он приглашает к [collaborative_play], укрепляя связи</li>
+    <li>woodtoy_play_extra_clause->кажется, что каждая деталь создана для [specific_action]</li>
+    <li>woodtoy_play_extra_clause->игрушка вознаграждает [skill_testing], создавая чувство достижения</li>
+
+    <!-- Surface and Features -->
+    <li>surface_feature->гладкое основание</li>
+    <li>surface_feature->закругленное дно</li>
+    <li>surface_feature->плоская сторона</li>
+    <li>surface_feature->изогнутый край</li>
+    <li>spin_effect->завораживающее вращение</li>
+    <li>spin_effect->неровное покачивание</li>
+    <li>spin_effect->ритмичный танец</li>
+
+    <!-- Stacking and Rolling -->
+    <li>stacking_descriptor->устойчивый</li>
+    <li>stacking_descriptor->сложный</li>
+    <li>stacking_descriptor->захватывающий</li>
+    <li>action_tone->спокойный</li>
+    <li>action_tone->энергичный</li>
+    <li>rolling_effect->удовлетворительный грохот</li>
+    <li>rolling_effect->плавное скольжение</li>
+    <li>rolling_effect->мягкий стук</li>
+
+    <!-- Actions and Play Styles -->
+    <li>action_type->мелкие движения</li>
+    <li>action_type->точные манипуляции</li>
+    <li>action_type->быстрые движения</li>
+    <li>play_style->сосредоточенное внимание</li>
+    <li>play_style->спонтанное веселье</li>
+    <li>play_style->групповая игра</li>
+
+    <!-- Balance and Connections -->
+    <li>balance_location->на одном краю</li>
+    <li>balance_location->на центральной точке</li>
+    <li>balance_location->под углом</li>
+    <li>skill_descriptor->точный контроль</li>
+    <li>skill_descriptor->игривые эксперименты</li>
+    <li>connection_quality->плавное соединение</li>
+    <li>connection_quality->надежное, но гибкое</li>
+    <li>connection_quality->свободное, но креативное</li>
+
+    <!-- Movement and Sound -->
+    <li>movement_style->нежное движение</li>
+    <li>movement_style->плавное вращение</li>
+    <li>movement_style->удовлетворительные щелчки</li>
+    <li>pretend_play->миниатюрное приключение</li>
+    <li>pretend_play->игривая конкуренция</li>
+    <li>pretend_play->воображаемое путешествие</li>
+    <li>imaginative_theme->бесконечное исследование</li>
+    <li>imaginative_theme->дикие рассказы</li>
+    <li>sound_effect->щелчок</li>
+    <li>sound_effect->глухой удар</li>
+    <li>sound_effect->стук</li>
+    <li>sound_trigger->постукивание друг о друга</li>
+    <li>sound_trigger->катание</li>
+    <li>sound_trigger->щелчок на место</li>
+
+    <!-- Creativity and Interaction -->
+    <li>creative_use->новые способы игры</li>
+    <li>creative_use->бесконечная импровизация</li>
+    <li>unexpected_use->балансировка</li>
+    <li>unexpected_use->маленький строительный блок</li>
+    <li>unexpected_use->ритмический инструмент</li>
+    <li>alternative_use->простой пазл</li>
+    <li>alternative_use->декоративный элемент</li>
+    <li>interactive_action->постукивание</li>
+    <li>interactive_action->катание</li>
+    <li>interactive_action->вращение</li>
+    <li>interactive_action->складывание</li>
+    <li>action_setting->на столе</li>
+    <li>action_setting->на гладком полу</li>
+    <li>action_setting->в песочнице</li>
+
+    <!-- Tactile and Bonds -->
+    <li>material_quality->гладкое дерево</li>
+    <li>material_quality->текстурированное зерно</li>
+    <li>play_interaction->мягкие толчки</li>
+    <li>play_interaction->быстрые движения</li>
+    <li>play_interaction->точные манипуляции</li>
+    <li>play_interaction->игривые эксперименты</li>
+    <li>collaborative_play->совместная игра</li>
+    <li>collaborative_play->командная работа</li>
+    <li>specific_action->конструирование</li>
+    <li>specific_action->балансировка</li>
+    <li>specific_action->создание узоров</li>
+    <li>skill_testing->проверка навыков</li>
+    <li>skill_testing->развитие координации</li>
+    <li>skill_testing->улучшение моторики</li>
+  </VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings>
+</LanguageData>
