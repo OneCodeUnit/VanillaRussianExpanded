@@ -51,6 +51,8 @@
   <VME_AbilityNeedsAColonist>Цель способности должна свободным поселенцем.</VME_AbilityNeedsAColonist>
   <!-- EN: This ability needs to target a fresh humanoid corpse. -->
   <VME_AbilityNeedsCorpse>Цель способности должна свежим трупом гуманоида.</VME_AbilityNeedsCorpse>
+  <!-- EN: {0}'s ideo lacks the Organ use: post mortem precept. Ability can't be used without it -->
+  <VME_AbilityNeedsOrganPostMortemPrecept>Идеолигия {0} не имеет принципа «использование органов: посмертно». Способность не получится использовать без него</VME_AbilityNeedsOrganPostMortemPrecept>
 
   <!-- EN: Uninstall building -->
   <VME_DeconstructBuildingLabel>Демонтировать</VME_DeconstructBuildingLabel>
@@ -153,4 +155,8 @@
   <VME_BuildingsAmount>Максимум доступных сооружений (по умолчанию 2)</VME_BuildingsAmount>
   <!-- EN: Max number of ideo buildings allowed. This includes altars, pictograms and such, but not buildings added through memes. -->
   <VME_BuildingsAmountTooltip>Максимум доступных сооружений. Он включает в себя алтари, пиктограммы и т.п., но не включает сооружения, добавленные чертами.</VME_BuildingsAmountTooltip>
+  <!-- EN: Allow high impact memes for fluid ideos -->
+  <VME_AllowHighImpactMemesForFluidIdeos>Разрешить черты с сильным влиянием для изменчивых идеолигий</VME_AllowHighImpactMemesForFluidIdeos>
+  <!-- EN: By default, fluid ideos only let you choose one meme with impact 1 or 2, blocking impact 3 memes from being chosen. With this option toggle you can make it so impact 3 memes are available too. -->
+  <VME_AllowHighImpactMemesForFluidIdeos_Tooltip>По умолчанию изменчивые идеолигии позволяют выбирать черты со слабым (1) и средним (2) уровнем влияния, а черты с сильным слиянием (3) будут недоступны. Эта настройка позволит разблокировать их для выбора.</VME_AllowHighImpactMemesForFluidIdeos_Tooltip>
 </LanguageData>
