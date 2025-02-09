@@ -102,4 +102,18 @@
   <VSE.EnableAlert>Включить предупреждения о наложении мастерства</VSE.EnableAlert>
   <!-- EN: By default, Ducks' Insane Skills disables all skill loss. By selecting this option, this mod will override Ducks and enable it again. Use this if you still want to be able to take advantage of the forget speed changes in the new passions. -->
   <VSE.EnableSkillsLoss.Desc>По умолчанию мод «Ducks' Insane Skills» отключает потерю опыта в навыках. Включив эту настройку, можно вернуть потерю обратно. Включите, если хотите использовать все преимущества и недостатки новых видов интереса.</VSE.EnableSkillsLoss.Desc>
+  <!-- EN: Minimum skill to get an expertise -->
+  <VSE.MinSkillForExpertise>Минимальный уровень навыка для мастерства</VSE.MinSkillForExpertise>
+  <!-- EN: The colonist will need to reach this skill level before being offered an expertise. -->
+	<VSE.MinSkillForExpertiseDesc>Поселенцу потребуется достичь указанного уровня навыка, чтобы получить мастерство.</VSE.MinSkillForExpertiseDesc>
+  <!-- EN: Expertise stat factor / offset multiplier -->
+	<VSE.StatMultiplier>Множитель силы мастерства</VSE.StatMultiplier>
+  <!-- EN: Is our balance too easy? Too hard? Go bitch on Reddit! Errrr... I mean, change it with this slider! The effects expertise have on stats will be multiplied by this number, so 0.1 will make expertise super weak, while 5 will make them incredibly overpowered. -->
+	<VSE.StatMultiplierDesc>Мод кажется слишком казуальным? Или хардкорным? Иди поплачься на DTF! Эммм... Я хотел сказать, ты можешь изменить его этим ползунком! Бонусы от мастерства будут умножаться на это значение. То есть, 0.1 сделает эффекты мастерства супер слабыми, а 5 чрезмерно сильными.</VSE.StatMultiplierDesc>
+  <!-- EN: Random passion chance in growth moments -->
+	<VSE.GrowthMomentRandomPassions>Случайный интерес при развитии личности</VSE.GrowthMomentRandomPassions>
+  <!-- EN: By default, 5% of the time a growth moment will select one of the skills that have no passions and assign either a Natural or an Apathy passion. -->
+	<VSE.GrowthMomentRandomPassionsDesc>По умолчанию в 5% процентах случаев в момент личностного развития выбирается один из не имеющих интереса навыков и к нему добавляется естественный интерес или апатия.</VSE.GrowthMomentRandomPassionsDesc>
+  <!-- EN: Passion: {0} -->
+	<VSE_Passion>Интерес: {0}</VSE_Passion>
 </LanguageData>
