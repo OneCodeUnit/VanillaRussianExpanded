@@ -3,6 +3,7 @@
   <VWE_Bow_Crossbow.label>арбалет</VWE_Bow_Crossbow.label>
   <VWE_Bow_Crossbow.description>Арбалет это тип оружия дальнего боя, похожий по принципу действия на лук, состоящий из похожего на лук узла, установленного горизонтально на главной раме, которая держится в руках, как ружьё.\n\nЭта ранняя попытка человечества создать что-то дальнобойное для пробития брони.</VWE_Bow_Crossbow.description>
   <VWE_Bow_Crossbow.tools.0.label>плечо</VWE_Bow_Crossbow.tools.0.label>
+  <VWE_Bow_Crossbow.verbs.Verb_Shoot.label>арбалет</VWE_Bow_Crossbow.verbs.Verb_Shoot.label>
 
   <VWE_Arrow_Bolt.label>арбалетный болт</VWE_Arrow_Bolt.label>
 
@@ -11,6 +12,7 @@
   <VWE_Gun_Musket.description>Старинный узорчатый мушкет. Будучи один из первых в своём роде, он имеет низкую дальность и скорострельность.</VWE_Gun_Musket.description>
   <VWE_Gun_Musket.tools.0.label>приклад</VWE_Gun_Musket.tools.0.label>
   <VWE_Gun_Musket.tools.1.label>ствол</VWE_Gun_Musket.tools.1.label>
+  <VWE_Gun_Musket.verbs.Verb_ShootWithSmoke.label>мушкет</VWE_Gun_Musket.verbs.Verb_ShootWithSmoke.label>
 
   <Bullet_Leadball.label>свинцовый шар</Bullet_Leadball.label>
 
@@ -19,12 +21,14 @@
   <VWE_Gun_Flintlock.description>Этот пистолет имеет гладкий ствол и длинную деревянную рукоять с набалдашником на конце. Как следует из названия, в основе кремневого пистолета стоит ударно-кремнёвый замок.</VWE_Gun_Flintlock.description>
   <VWE_Gun_Flintlock.tools.0.label>приклад</VWE_Gun_Flintlock.tools.0.label>
   <VWE_Gun_Flintlock.tools.1.label>ствол</VWE_Gun_Flintlock.tools.1.label>
+  <VWE_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>кремневый пистолет</VWE_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>
 
   <VWE_Throwing_Knives.label>метательные ножи</VWE_Throwing_Knives.label>
   <VWE_Throwing_Knives.description>Набор сбалансированных ножей предназначенных для метания.</VWE_Throwing_Knives.description>
   <VWE_Throwing_Knives.tools.0.label>рукоять</VWE_Throwing_Knives.tools.0.label>
   <VWE_Throwing_Knives.tools.1.label>лезвие</VWE_Throwing_Knives.tools.1.label>
   <VWE_Throwing_Knives.tools.2.label>острие</VWE_Throwing_Knives.tools.2.label>
+  <VWE_Throwing_Knives.verbs.Verb_Shoot.label>метательные ножи</VWE_Throwing_Knives.verbs.Verb_Shoot.label>
 
   <VWE_FlyingBlade.label>метательный нож</VWE_FlyingBlade.label>
 

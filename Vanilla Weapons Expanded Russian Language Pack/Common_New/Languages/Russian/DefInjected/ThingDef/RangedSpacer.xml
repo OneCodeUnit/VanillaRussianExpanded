@@ -5,24 +5,28 @@
   <VWE_Gun_ChargePistol.label>энергопистолет</VWE_Gun_ChargePistol.label>
   <VWE_Gun_ChargePistol.description>Пистолет для стрельбы энергетическими зарядами. Благодаря технологии импульсно-заряженных снарядов, каждый выстрел заряжается нестабильной энергией, когда покидает ствол. Высвобождённая при ударе энергия значительно увеличивает наносимый урон.\n\nЭтот трёхзарядный пистолет является очень эффективным оружием, применяемым во всех полках имперских коммандос.</VWE_Gun_ChargePistol.description>
   <VWE_Gun_ChargePistol.tools.0.label>ствол</VWE_Gun_ChargePistol.tools.0.label>
+  <VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>энергопистолет</VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>
 
   <VWE_Bullet_ChargeShotgun.label>выстрел энергодробовика</VWE_Bullet_ChargeShotgun.label>
 
   <VWE_Gun_ChargeShotgun.label>энергодробовик</VWE_Gun_ChargeShotgun.label>
   <VWE_Gun_ChargeShotgun.description>Дробовик для стрельбы энергетическими снарядами. Благодаря технологии импульсно-заряженных снарядов, каждый выстрел заряжается нестабильной энергией, когда покидает ствол. Высвобождённая при ударе заряженная энергия значительно увеличивает наносимый урон.\n\nСмертоносный на близком расстоянии, этот дробовик был запрещён имперскими военными за причиняемую им неизмеримую боль.</VWE_Gun_ChargeShotgun.description>
   <VWE_Gun_ChargeShotgun.tools.0.label>ствол</VWE_Gun_ChargeShotgun.tools.0.label>
+  <VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>энергодробовик</VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>
 
   <VWE_Bullet_ChargeSMG.label>быстрый энерговыстрел</VWE_Bullet_ChargeSMG.label>
 
   <VWE_Gun_ChargeSMG.label>энергетический ПП</VWE_Gun_ChargeSMG.label>
   <VWE_Gun_ChargeSMG.description>Пистолет-пулемёт для стрельбы энергетическими зарядами. Благодаря технологии импульсно-заряженных снарядов, каждый выстрел заряжается нестабильной энергией, когда покидает ствол. Высвобождённая при ударе заряженная энергия значительно увеличивает наносимый урон.\n\nСтреляет быстро, но требует короткой дистанции до цели.</VWE_Gun_ChargeSMG.description>
   <VWE_Gun_ChargeSMG.tools.0.label>ствол</VWE_Gun_ChargeSMG.tools.0.label>
+  <VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>энергетический ПП</VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>
 
   <VWE_Bullet_ChargeLMG.label>выстрел энергопулемёта</VWE_Bullet_ChargeLMG.label>
 
   <VWE_Gun_ChargeLMG.label>энергопулемёт</VWE_Gun_ChargeLMG.label>
   <VWE_Gun_ChargeLMG.description>Пулемёт для стрельбы энергетическими зарядами. Благодаря технологии импульсно-заряженных снарядов, каждый выстрел заряжается нестабильной энергией, когда покидает ствол. Высвобождённая при ударе заряженная энергия значительно увеличивает наносимый урон.\n\nЭнергетический лёгкий пулемёт выпускает залп снарядов с экстремально высокой скоростью, что делает его идеальным для подавления.</VWE_Gun_ChargeLMG.description>
   <VWE_Gun_ChargeLMG.tools.0.label>ствол</VWE_Gun_ChargeLMG.tools.0.label>
+  <VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>энергопулемёт</VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>
 
   <VWE_Bullet_ChargeSniperRifle.label>выстрел энерговинтовки</VWE_Bullet_ChargeSniperRifle.label>
 
@@ -30,6 +34,7 @@
   <VWE_Gun_ChargeSniperRifle.description>Трёхствольная снайперская винтовка для стрельбы энергетическими зарядами. Благодаря технологии импульсно-заряженных снарядов, каждый выстрел заряжается нестабильной энергией, когда покидает ствол. Высвобождённая при ударе заряженная энергия значительно увеличивает наносимый урон.\n\nИз-за одновременного выстрела из трёх стволов, мощность оружия и скорострельность снижены.</VWE_Gun_ChargeSniperRifle.description>
   <VWE_Gun_ChargeSniperRifle.tools.0.label>приклад</VWE_Gun_ChargeSniperRifle.tools.0.label>
   <VWE_Gun_ChargeSniperRifle.tools.1.label>ствол</VWE_Gun_ChargeSniperRifle.tools.1.label>
+  <VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>снайперская энерговинтовка</VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>
 
   <VWE_Bullet_ChargeMinigun.label>выстрел минигана</VWE_Bullet_ChargeMinigun.label>
 
@@ -37,4 +42,5 @@
   <VWE_Gun_ChargeMinigun.description>Миниган для стрельбы энергетическими зарядами. Благодаря технологии импульсно-заряженных снарядов, каждый выстрел заряжается нестабильной энергией, когда покидает ствол. Высвобождённая при ударе заряженная энергия значительно увеличивает наносимый урон.\n\nБлагодаря способности накрыть целую область залпом бронебойных снарядов, миниган часто используется наёмниками из утопических миров во время их, имеющих дурную репутацию, налётов.</VWE_Gun_ChargeMinigun.description>
   <VWE_Gun_ChargeMinigun.tools.0.label>приклад</VWE_Gun_ChargeMinigun.tools.0.label>
   <VWE_Gun_ChargeMinigun.tools.1.label>ствол</VWE_Gun_ChargeMinigun.tools.1.label>
+  <VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>энергетический миниган</VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>
 </LanguageData>

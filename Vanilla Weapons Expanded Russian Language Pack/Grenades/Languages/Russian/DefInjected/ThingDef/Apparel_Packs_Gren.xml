@@ -3,41 +3,42 @@
   <VWE_Apparel_GrenadeEMPBelt.label>связка ЭМИ-гранат</VWE_Apparel_GrenadeEMPBelt.label>
   <VWE_Apparel_GrenadeEMPBelt.description>Связка электромагнитных гранат, наносящие урон электронному оборудованию, закреплённая на поясе. Их можно метнуть на небольшое расстояние и, когда они взорвутся, выключат всю электронику вокруг. Связку можно пополнять ЭМИ-гранатами.</VWE_Apparel_GrenadeEMPBelt.description>
   <VWE_Apparel_GrenadeEMPBelt.verbs.0.label>метнуть ЭМИ-гранату</VWE_Apparel_GrenadeEMPBelt.verbs.0.label>
-  <VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>ЭМИ</VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>
-  
+  <VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.chargeNoun>ЭМИ</VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.cooldownGerund>перезаряжается</VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.cooldownGerund>
 
   <VWE_Apparel_GrenadeFragBelt.label>связка осколочных гранат</VWE_Apparel_GrenadeFragBelt.label>
   <VWE_Apparel_GrenadeFragBelt.description>Связка старых добрых осколочные гранат, закреплённая на поясе. Их можно метнуть на небольшое расстояние и, когда они взорвутся, повредят всех и всё вокруг. Связку можно пополнять осколочными гранатами.</VWE_Apparel_GrenadeFragBelt.description>
   <VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>метнуть осколочную гранату</VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>
-  <VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>осколочных</VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>
-
+  <VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.chargeNoun>осколочных</VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.cooldownGerund>перезаряжается</VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.cooldownGerund>
 
   <VWE_Apparel_GrenadeMolotovBelt.label>связка коктейлей Молотова</VWE_Apparel_GrenadeMolotovBelt.label>
   <VWE_Apparel_GrenadeMolotovBelt.description>Связка стеклянных бутылок с легковоспламеняющейся жидкостью внутри и куском ткани в горлышке, закреплённая на поясе. Любимое оружие хулиганов и отчаянных бойцов. Их можно метнуть на небольшое расстояние и, когда они взорвутся, подожгут всех и всё вокруг. Связку можно пополнять коктейлями Молотова.</VWE_Apparel_GrenadeMolotovBelt.description>
   <VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>метнуть коктейль Молотова</VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>
-  <VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>Молотовых</VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>
-
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.chargeNoun>Молотовых</VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.cooldownGerund>перезаряжается</VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.cooldownGerund>
 
   <VWE_Apparel_GrenadeSmokeBelt.label>связка дымовых гранат</VWE_Apparel_GrenadeSmokeBelt.label>
   <VWE_Apparel_GrenadeSmokeBelt.description>Связка старомодных ёмкостей со сжатым дымом, закреплённая на поясе, которая взрывается при ударе и создаёт стену дыма. Связку можно пополнять дымовыми гранатами.</VWE_Apparel_GrenadeSmokeBelt.description>
   <VWE_Apparel_GrenadeSmokeBelt.verbs.0.label>метнуть дымовую гранату</VWE_Apparel_GrenadeSmokeBelt.verbs.0.label>
-  <VWE_Apparel_GrenadeSmokeBelt.comps.CompReloadable.chargeNoun>дымовых</VWE_Apparel_GrenadeSmokeBelt.comps.CompReloadable.chargeNoun>
-
+  <VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>дымовых</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>перезаряжается</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>
 
   <VWE_Apparel_GrenadeToxicBelt.label>связка отравляющих гранат</VWE_Apparel_GrenadeToxicBelt.label>
   <VWE_Apparel_GrenadeToxicBelt.description>Связка заполненных смертоносным газом ёмкостей, закреплённая на поясе, вызывающим сильную интоксикацию за очень короткий промежуток времени. Связку можно пополнять отравляющими гранатами.</VWE_Apparel_GrenadeToxicBelt.description>
   <VWE_Apparel_GrenadeToxicBelt.verbs.0.label>метнуть отравляющую гранату</VWE_Apparel_GrenadeToxicBelt.verbs.0.label>
-  <VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.chargeNoun>отравляющих</VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.chargeNoun>
-
+  <VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>отравляющих</VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.cooldownGerund>перезаряжается</VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.cooldownGerund>
 
   <VWE_Apparel_GrenadeFlashBelt.label>связка светошумовых гранат</VWE_Apparel_GrenadeFlashBelt.label>
   <VWE_Apparel_GrenadeFlashBelt.description>Связка светошумовых гранат, закреплённая на поясе. Временно оглушает органических противников, позволяя сократить дистанцию. Связку можно пополнять светошумовыми гранатами.</VWE_Apparel_GrenadeFlashBelt.description>
   <VWE_Apparel_GrenadeFlashBelt.verbs.0.label>метнуть светошумовую гранату</VWE_Apparel_GrenadeFlashBelt.verbs.0.label>
-  <VWE_Apparel_GrenadeFlashBelt.comps.CompReloadable.chargeNoun>оглушающих</VWE_Apparel_GrenadeFlashBelt.comps.CompReloadable.chargeNoun>
-
+  <VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>оглушающих</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>перезаряжается</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>
 
   <VWE_Apparel_GrenadeTearGasBelt.label>связка слезоточивых гранат</VWE_Apparel_GrenadeTearGasBelt.label>
   <VWE_Apparel_GrenadeTearGasBelt.description>Связка ёмкостей современного образца со специальным соединением, называемым на большинстве миров слезоточивым газом. Временно ослепляет цели. Связку можно пополнять гранатами со слезоточивым газом.</VWE_Apparel_GrenadeTearGasBelt.description>
   <VWE_Apparel_GrenadeTearGasBelt.verbs.0.label>метнуть гранату с газом</VWE_Apparel_GrenadeTearGasBelt.verbs.0.label>
-  <VWE_Apparel_GrenadeTearGasBelt.comps.CompReloadable.chargeNoun>слезоточивых</VWE_Apparel_GrenadeTearGasBelt.comps.CompReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeTearGasBelt.comps.CompApparelReloadable.chargeNoun>слезоточивых</VWE_Apparel_GrenadeTearGasBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeTearGasBelt.comps.CompApparelReloadable.cooldownGerund>перезаряжается</VWE_Apparel_GrenadeTearGasBelt.comps.CompApparelReloadable.cooldownGerund>
 </LanguageData>
