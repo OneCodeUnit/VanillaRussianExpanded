@@ -125,6 +125,11 @@
   <!-- EN: Modifies the pawn's rendered position in y-axis. -->
   <VEF_PawnRenderPosOffset.description>Изменяет позицию персонажа по оси y.</VEF_PawnRenderPosOffset.description>
 
+  <!-- EN: MTB Lovin Factor -->
+  <VEF_MTBLovinFactor.label>частота поиска близости</VEF_MTBLovinFactor.label>
+  <!-- EN: A factor of the mean time between (MTB) this person looking for some lovin'. -->
+  <VEF_MTBLovinFactor.description>Фактор, определяющий среднее время до того, как скоро этот персонаж начнёт искать близость.</VEF_MTBLovinFactor.description>
+
   <!-- EN: Mass carry capacity-->
   <VEF_MassCarryCapacity.label>Вес переносимого груза</VEF_MassCarryCapacity.label>
   <!-- EN: Total mass carrying capacity of the pawn in caravans. -->

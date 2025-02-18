@@ -70,4 +70,11 @@ If hired {0} die on duty, you will incur an additional 5% increase to contract p
   <VEF.DoorLockStateDesc>Нажмите, чтобы сменить текущую политику блокировки дверей.</VEF.DoorLockStateDesc>
   <!-- EN: Power is off. Impossible to change door lock policy. -->
   <VEF.DoorLockStatePowerOff>Отсутствует электроэнергия. Невозможно сменить политику блокировки дверей.</VEF.DoorLockStatePowerOff>
+
+  <!-- EN: Hunt-->
+  <VEF.DraftHuntLabel>Охота</VEF.DraftHuntLabel>
+  <!-- EN: While this is on characters will automatically move to engage nearby targets.\n\nYou can right-click this button to toggle autofire for ALL abilities on the selected pawn.-->
+  <VEF.HuntDescription>Пока этот режим включён, персонажи будут автоматически перемещаться, чтобы атаковать ближайшие цели.\n\nВы можете щёлкнуть правой кнопкой мыши по этой кнопке, чтобы переключить автоматический огонь для ВСЕХ способностей на выбранном персонаже.</VEF.HuntDescription>
+  <!-- EN: This quest is a part of a quest chain. Completing it may trigger continuation quests.\n\n{0}\n\n{1}-->
+  <VEF.QuestChainTooltip>Это задание является частью цепочки заданий. Его завершение запустит последующие задания.\n\n{0}\n\n{1}</VEF.QuestChainTooltip>
 </LanguageData>
