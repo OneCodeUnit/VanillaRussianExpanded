@@ -1,10 +1,12 @@
-﻿<loadFolders>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
   <v1.4>
-    <li>Main</li>  
+    <li>Main</li>
     <li IfModActive="cedaro.hwar">Remake</li>  
   </v1.4>
   <v1.5>
-    <li>Main</li>  
+    <li>Main</li>
+    <li>NewSettings</li>
     <li IfModActive="cedaro.hwar">Remake</li>  
   </v1.5>
 </loadFolders>
