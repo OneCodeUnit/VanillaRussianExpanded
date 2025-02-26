@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Apiary -->
+  <!-- EN: The apiary needs to be tended to -->
+  <VFEM2_NeedTend>The apiary needs to be tended to</VFEM2_NeedTend>
+  <!-- EN: The apiary is resting because the ambient temperature is below 10°C -->
+  <VFEM2_Resting>The apiary is resting because the ambient temperature is below 10°C</VFEM2_Resting>
+  <!-- EN: Honey ready -->
+  <VFEM2_Ready>Можно собирать мёд</VFEM2_Ready>
+  <!-- EN: The apiary needs {0} more flowers around it for bees to forage around. -->
+  <VFEM2_NeedFlower>The apiary needs {0} more flowers around it for bees to forage around.</VFEM2_NeedFlower>
+  <!-- EN: The apiary needs tending in {0} -->
+  <VFEM2_NeedTIn>The apiary needs tending in {0}</VFEM2_NeedTIn>
+  <!-- EN: The apiary needs to be one cell away from any other apiaries -->
+  <VFEM2_PlaceWorker>The apiary needs to be one cell away from any other apiaries</VFEM2_PlaceWorker>
+  <!-- EN: The apiary can't be built under a roof -->
+  <VFEM2_PlaceWorkerNoRoof>The apiary can't be built under a roof</VFEM2_PlaceWorkerNoRoof>
+
+  <!-- Mead barrel -->
+  <!-- EN: This mead fermenting barrel is not working at the moment -->
+  <VFEM2_MeadFermentingBarrelNotWorking>This mead fermenting barrel is not working at the moment</VFEM2_MeadFermentingBarrelNotWorking>
+
+  <!-- Wine barrel -->
+  <!-- EN: This wine fermenting barrel is not working at the moment -->
+  <VFEM2_WineBarrelNotWorking>This wine fermenting barrel is not working at the moment</VFEM2_WineBarrelNotWorking>
+
+  <!-- Leather boil pot -->
+  <!-- EN: This boil pot is not working at the moment -->
+  <VFEM2_BoilPotNotWorking>This boil pot is not working at the moment</VFEM2_BoilPotNotWorking>
+
+  <!-- Misc -->
+  <!-- EN: Timbered wall: +50% -->
+  <VFEM2_StatsReport_Flammability>Timbered wall: +50%</VFEM2_StatsReport_Flammability>
+  <!-- EN: {0} has been improved to {1} quality level due to the smithing anvil. -->
+  <VFEM2_ItemImproved_Anvil>{0} has been improved to {1} quality level due to the smithing anvil.</VFEM2_ItemImproved_Anvil>
+  <!-- EN: {0} has been improved to {1} quality level due to the stone polisher. -->
+  <VFEM2_ItemImproved_Polisher>{0} has been improved to {1} quality level due to the stone polisher.</VFEM2_ItemImproved_Polisher>
+  <!-- EN: Merchant caravan spawn count (scalable with world polulation size) -->
+  <VFEM2_MerchantCaravanSpawnCount>Merchant caravan spawn count (scalable with world polulation size)</VFEM2_MerchantCaravanSpawnCount>
+  <!-- EN: Merchant's Guild will pack and move in: {0} -->
+  <VFEM2_MerchantCaravanStayPeriod>Merchant's Guild will pack and move in: {0}</VFEM2_MerchantCaravanStayPeriod>
+  <!-- EN: Barter with {0} -->
+  <VFEM2_BarterWith>Barter with {0}</VFEM2_BarterWith>
+  <!-- EN: Barter fairness -->
+  <VFEM2_BarterFairness>Barter fairness</VFEM2_BarterFairness>
+  <!-- EN: In order to strike a deal with the Merchant's Guild, you need to provide them with enough goods for the deal to become fair. Value of every item is skewed in random direction slightly. Higher negotiation ability will increase the value of your items. -->
+  <VFEM2_BarterExplanation>In order to strike a deal with the Merchant's Guild, you need to provide them with enough goods for the deal to become fair. Value of every item is skewed in random direction slightly. Higher negotiation ability will increase the value of your items.</VFEM2_BarterExplanation>
+
+
+</LanguageData>
