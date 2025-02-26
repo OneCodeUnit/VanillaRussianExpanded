@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_NamerFactionMedieval.rulePack.rulesFiles>
+    <li>union_med->Words/Med_PoliticalUnions_Medieval</li>
+  </VFEM_NamerFactionMedieval.rulePack.rulesFiles>
+
+  <!-- EN:
+    r_name(p=0.35)->[PlaceOutlander]
+    r_name->the [political_union_medieval] of [PlaceOutlander]
+    r_name->[PlaceOutlander] [political_union_medieval] 
+  -->
+  <VFEM_NamerFactionMedieval.rulePack.rulesStrings>
+    <li>r_name(p=0.35)->[PlaceOutlander]</li>
+    <li>r_name->[union_med] [PlaceOutlander]</li>
+  </VFEM_NamerFactionMedieval.rulePack.rulesStrings>
+
+  <VFEM_NamerSettlementMedieval.rulePack.rulesFiles>
+    <li>SettlementMed->Words/Med_PlaceEnd_Medieval</li>
+    <li>TerrainMed->Words/Med_TerrainFeatures_Prepos</li>
+    <li>AnimalMed->Words/Med_Animals_Badass_Genitive</li>
+  </VFEM_NamerSettlementMedieval.rulePack.rulesFiles>
+
+  <!-- EN:
+    r_name(p=4)->[PlaceOutlander] [medievalSettlementEnd] 
+    r_name->[AnimalBadass]'s [medievalSettlementEnd]-on-the-[TerrainFeature]
+    r_name->[AnimalBadass]'s [medievalSettlementEnd]-by-the-[TerrainFeature]
+  -->
+  <VFEM_NamerSettlementMedieval.rulePack.rulesStrings>
+    <li>r_name(p=4)->[SettlementMed] [PlaceOutlander]</li>
+    <li>r_name->[SettlementMed] [AnimalMed] на [TerrainMed]</li>
+    <li>r_name->[SettlementMed] [AnimalMed]</li>
+  </VFEM_NamerSettlementMedieval.rulePack.rulesStrings>
+
+  <VFEM_NamerPersonMedieval.rulePack.rulesFiles>
+    <li>Name_First_Male->Words/Med_First_Male</li>
+    <li>Name_Last->Words/Med_Last</li>
+  </VFEM_NamerPersonMedieval.rulePack.rulesFiles>
+  <!-- EN: r_name(p=2)->[Medieval_First_Male] [Medieval_Last] -->
+  <VFEM_NamerPersonMedieval.rulePack.rulesStrings.0>r_name(p=2)->[Name_First_Male] [Name_Last]</VFEM_NamerPersonMedieval.rulePack.rulesStrings.0>
+
+  <VFEM_NamerPersonMedievalFemale.rulePack.rulesFiles>
+    <li>Name_First_Female->Words/Med_First_Female</li>
+    <li>Name_Last->Words/Med_Last</li>
+  </VFEM_NamerPersonMedievalFemale.rulePack.rulesFiles>
+  <!-- EN: r_name(p=2)->[Medieval_First_Female] [Medieval_Last] -->
+  <VFEM_NamerPersonMedievalFemale.rulePack.rulesStrings.0>r_name(p=2)->[Name_First_Female] [Name_Last]</VFEM_NamerPersonMedievalFemale.rulePack.rulesStrings.0>
+</LanguageData>

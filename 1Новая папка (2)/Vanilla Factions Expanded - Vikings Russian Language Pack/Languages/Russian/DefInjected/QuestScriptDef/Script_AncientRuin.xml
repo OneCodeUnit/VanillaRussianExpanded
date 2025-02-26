@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [ancient] [ruins]</li>
+    <li>questName->[ancient] [ruins]</li>
+    <li>ancient->Ancient</li>
+    <li>ancient->Legendary</li>
+    <li>ancient->Long forgotten</li>
+    <li>ancient->Old</li>
+    <li>ruins->Ruins</li>
+    <li>ruins->Ruin Complex</li>
+    <li>ruins->Danger</li>
+    <li>ruins->Stash</li>
+    <li>ruins->Tomb</li>
+  -->
+  <VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+    <li>questName->[ancient] [ruins]</li>
+    <li>questName->[ancient] [ruins] [asker_nameDef]</li>
+
+  <li>questName->[ancientP] [ruinsP]</li>
+    <li>questName->[ancientP] [ruinsP] [asker_nameDef]</li>
+
+    <li>ancient->древняя</li>
+    <li>ancient->легендарная</li>
+    <li>ancient->старая</li>
+    <li>ancient->заброшенная</li>
+    <li>ancient->давно забытая</li>
+    <li>ruins->копь</li>
+    <li>ruins->гробница</li>
+    <li>ruins->могила</li>
+    <li>ruins->старая постройка</li>
+
+  <li>ancientP->древние</li>
+    <li>ancientP->легендарные</li>
+    <li>ancientP->старые</li>
+    <li>ancientP->заброшенные</li>
+    <li>ancientP->давно забытые</li>
+    <li>ruinsP->руины</li>
+    <li>ruinsP->копи</li>
+  <li>ruinsP->гробницы</li>
+  </VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about the location of an old ruin complex near [map_definite]. These ruins can contain anything, from cryptosleep caskets and archotech artifacts to rare weapons and armor.\n\nBe careful, as these ancient ruins are certainly defended by a number of threats. We should be prepared for anything.</li>
+
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] informed us about the location of an old ruin complex near [map_definite]. These ruins can contain anything, from cryptosleep caskets and archotech artifacts to rare weapons and armor.\n\nBe careful, as these ancient ruins are certainly defended by a number of threats. We should be prepared for anything.</li>
+  -->
+  <VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+  <li>questDescription(askerIsNull==true)->Мы перехватили сообщение с местонахождением древнего комплекса руин недалеко от [map_definite]. Там может храниться что угодно: от саркофагов криптосна и архоартефактов до редкого оружия и брони.\n\nБудьте осторожны, в этих руинах вас будут подстерегать различные опасности. Нужно быть готовыми ко всему.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name] рассказывает нам о местонахождении древнего комплекса руин недалеко от [map_definite]. Там может храниться что угодно: от саркофагов криптосна и архоартефактов до редкого оружия и брони.\n\nБудьте осторожны, в этих руинах вас будут подстерегать различные опасности. Нужно быть готовыми ко всему.</li>
+  </VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The ancient ruins have been found by others. The quest [resolvedQuestName] has expired. -->
+  <VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Древние руины были найдены кем-то другим. Время, отведённое для задания [resolvedQuestName], истекло.</VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>
