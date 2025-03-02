@@ -1,111 +1,135 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: beekeeping -->
-  <VFEM2_Beekeeping.label>beekeeping</VFEM2_Beekeeping.label>
+  <VFEM2_Beekeeping.label>пчеловодство</VFEM2_Beekeeping.label>
   <!-- EN: Learn how to keep bees to produce honey from nearby plants. Honey can be used in creation of sweetrolls and mead. -->
-  <VFEM2_Beekeeping.description>Learn how to keep bees to produce honey from nearby plants. Honey can be used in creation of sweetrolls and mead.</VFEM2_Beekeeping.description>
-  <!-- EN: subject->apiculture -->
-  <VFEM2_Beekeeping.generalRules.rulesStrings.0>subject-&gt;apiculture</VFEM2_Beekeeping.generalRules.rulesStrings.0>
-  <!-- EN: subject_story->studied the intricate social structures of bees -->
-  <VFEM2_Beekeeping.generalRules.rulesStrings.1>subject_story-&gt;studied the intricate social structures of bees</VFEM2_Beekeeping.generalRules.rulesStrings.1>
-  <!-- EN: subject_story->cultivated vast apiaries, supplying nobles with the finest honey -->
-  <VFEM2_Beekeeping.generalRules.rulesStrings.2>subject_story-&gt;cultivated vast apiaries, supplying nobles with the finest honey</VFEM2_Beekeeping.generalRules.rulesStrings.2>
-  <!-- EN: subject_story->perfected the art of mead-making, becoming a renowned brewer -->
-  <VFEM2_Beekeeping.generalRules.rulesStrings.3>subject_story-&gt;perfected the art of mead-making, becoming a renowned brewer</VFEM2_Beekeeping.generalRules.rulesStrings.3>
-  <!-- EN: subject_gerund->tending to beehives -->
-  <VFEM2_Beekeeping.generalRules.rulesStrings.4>subject_gerund-&gt;tending to beehives</VFEM2_Beekeeping.generalRules.rulesStrings.4>
+  <VFEM2_Beekeeping.description>Пчеловодство позволит производить мёд из растений. Сам мёд можно использовать для изготовления сладких рулетов и напитков.</VFEM2_Beekeeping.description>
+  <!-- EN:
+    <li>subject->apiculture</li>
+    <li>subject_story->studied the intricate social structures of bees</li>
+    <li>subject_story->cultivated vast apiaries, supplying nobles with the finest honey</li>
+    <li>subject_story->perfected the art of mead-making, becoming a renowned brewer</li>
+    <li>subject_gerund->tending to beehives</li>
+  -->
+  <VFEM2_Beekeeping.generalRules.rulesStrings>
+    <li>subject->пчеловодство</li>
+    <li>subject_story->{PAWN gender ? изучал : изучала} сложные социальные структуры пчёл</li>
+    <li>subject_story->{PAWN gender ? создавал : создавала} обширные пасеки, снабжая знать лучшим мёдом</li>
+    <li>subject_story->{PAWN gender ? усовершенствовал : усовершенствовала} искусство приготовления мёда, став известным медоваром</li>
+    <li>subject_gerund->обслуживает ульи</li>
+  </VFEM2_Beekeeping.generalRules.rulesStrings>
 
   <!-- EN: wine -->
-  <VFEM2_Wine.label>вино</VFEM2_Wine.label>
+  <VFEM2_Wine.label>виноделие</VFEM2_Wine.label>
   <!-- EN: Plant grapes which can then be used to create wine must and eventually, high quality wine. -->
-  <VFEM2_Wine.description>Plant grapes which can then be used to create wine must and eventually, high quality wine.</VFEM2_Wine.description>
-  <!-- EN: subject->viniculture -->
-  <VFEM2_Wine.generalRules.rulesStrings.0>subject-&gt;viniculture</VFEM2_Wine.generalRules.rulesStrings.0>
-  <!-- EN: subject_story->established a flourishing vineyard on the sun-kissed slopes -->
-  <VFEM2_Wine.generalRules.rulesStrings.1>subject_story-&gt;established a flourishing vineyard on the sun-kissed slopes</VFEM2_Wine.generalRules.rulesStrings.1>
-  <!-- EN: subject_story->experimented with fermentation techniques, crafting exquisite vintages -->
-  <VFEM2_Wine.generalRules.rulesStrings.2>subject_story-&gt;experimented with fermentation techniques, crafting exquisite vintages</VFEM2_Wine.generalRules.rulesStrings.2>
-  <!-- EN: subject_story->became infamous for a revelry-fueled dynasty of wine merchants -->
-  <VFEM2_Wine.generalRules.rulesStrings.3>subject_story-&gt;became infamous for a revelry-fueled dynasty of wine merchants</VFEM2_Wine.generalRules.rulesStrings.3>
-  <!-- EN: subject_gerund->cultivating grapes and fermenting wine -->
-  <VFEM2_Wine.generalRules.rulesStrings.4>subject_gerund-&gt;cultivating grapes and fermenting wine</VFEM2_Wine.generalRules.rulesStrings.4>
+  <VFEM2_Wine.description>Выращивание винограда, который можно использовать для создания сусла, а со временем — высококачественного вина.</VFEM2_Wine.description>
+  <!-- EN:
+    <li>subject->viniculture</li>
+    <li>subject_story->founded a thriving vineyard on sunny slopes</li>
+    <li>subject_story->experimented with fermentation methods, creating exquisite wines</li>
+    <li>subject_story->became renowned for a winemaking dynasty steeped in merriment</li>
+    <li>subject_gerund->growing grapes and fermenting wine</li>
+  -->
+  <VFEM2_Wine.generalRules.rulesStrings>
+    <li>subject->виноделие</li>
+    <li>subject_story->{PAWN gender ? основал : основала} процветающий виноградник на солнечных склонах</li>
+    <li>subject_story->{PAWN gender ? экспериментировал : экспериментировала} с методами ферментации, создавая изысканные вина</li>
+    <li>subject_story->{PAWN gender ? стал : стала} известным благодаря праздной династии виноделов</li>
+    <li>subject_gerund->выращивает виноград и ферментирует вино</li>
+  </VFEM2_Wine.generalRules.rulesStrings>
 
   <!-- EN: alchemy -->
-  <VFEM2_Alchemy.label>alchemy</VFEM2_Alchemy.label>
+  <VFEM2_Alchemy.label>алхимия</VFEM2_Alchemy.label>
   <!-- EN: Learn to plant various alchemical ingredients and combining them into different draughts at an alchemy lab. -->
-  <VFEM2_Alchemy.description>Learn to plant various alchemical ingredients and combining them into different draughts at an alchemy lab.</VFEM2_Alchemy.description>
-  <!-- EN: subject->alchemical studies -->
-  <VFEM2_Alchemy.generalRules.rulesStrings.0>subject-&gt;alchemical studies</VFEM2_Alchemy.generalRules.rulesStrings.0>
-  <!-- EN: subject_story->unlocked the mysteries of transmutation and concocted potent elixirs -->
-  <VFEM2_Alchemy.generalRules.rulesStrings.1>subject_story-&gt;unlocked the mysteries of transmutation and concocted potent elixirs</VFEM2_Alchemy.generalRules.rulesStrings.1>
-  <!-- EN: subject_story->discovered a rare herb, rumored to grant eternal youth -->
-  <VFEM2_Alchemy.generalRules.rulesStrings.2>subject_story-&gt;discovered a rare herb, rumored to grant eternal youth</VFEM2_Alchemy.generalRules.rulesStrings.2>
-  <!-- EN: subject_story->became a feared poisoner, selling deadly brews to the highest bidder -->
-  <VFEM2_Alchemy.generalRules.rulesStrings.3>subject_story-&gt;became a feared poisoner, selling deadly brews to the highest bidder</VFEM2_Alchemy.generalRules.rulesStrings.3>
-  <!-- EN: subject_gerund->brewing alchemical draughts -->
-  <VFEM2_Alchemy.generalRules.rulesStrings.4>subject_gerund-&gt;brewing alchemical draughts</VFEM2_Alchemy.generalRules.rulesStrings.4>
+  <VFEM2_Alchemy.description>Выращивание различных алхимических ингредиентов и смешивание их в настойки в алхимической лаборатории.</VFEM2_Alchemy.description>
+  <!-- EN:
+    <li>subject->alchemical studies</li>
+    <li>subject_story->unlocked the mysteries of transmutation and concocted potent elixirs</li>
+    <li>subject_story->discovered a rare herb, rumored to grant eternal youth</li>
+    <li>subject_story->became a feared poisoner, selling deadly brews to the highest bidder</li>
+    <li>subject_gerund->brewing alchemical draughts</li>
+  -->
+  <VFEM2_Alchemy.generalRules.rulesStrings>
+    <li>subject->алхимические исследования</li>
+    <li>subject_story->{PAWN gender ? раскрыл : раскрыла} тайны трансмутации и создал мощные эликсиры</li>
+    <li>subject_story->{PAWN gender ? обнаружил : обнаружила} редкую траву, по слухам дарующую вечную молодость</li>
+    <li>subject_story->{PAWN gender ? стал : стала} известным отравителем, продавая смертельные зелья тому, кто больше заплатит</li>
+    <li>subject_gerund->варит алхимические зелья</li>
+  </VFEM2_Alchemy.generalRules.rulesStrings>
 
   <!-- EN: medieval architecture -->
-  <VFEM2_MedievalArchitecture.label>medieval architecture</VFEM2_MedievalArchitecture.label>
+  <VFEM2_MedievalArchitecture.label>средневековая архитектура</VFEM2_MedievalArchitecture.label>
   <!-- EN: Learn to construct various medieval structures, including cloth walls. -->
-  <VFEM2_MedievalArchitecture.description>Learn to construct various medieval structures, including cloth walls.</VFEM2_MedievalArchitecture.description>
-  <!-- EN: subject->medieval construction -->
-  <VFEM2_MedievalArchitecture.generalRules.rulesStrings.0>subject-&gt;medieval construction</VFEM2_MedievalArchitecture.generalRules.rulesStrings.0>
-  <!-- EN: subject_story->oversaw the construction of towering castles and bustling townships -->
-  <VFEM2_MedievalArchitecture.generalRules.rulesStrings.1>subject_story-&gt;oversaw the construction of towering castles and bustling townships</VFEM2_MedievalArchitecture.generalRules.rulesStrings.1>
-  <!-- EN: subject_story->engineered grand cathedrals, marvels of medieval craftsmanship -->
-  <VFEM2_MedievalArchitecture.generalRules.rulesStrings.2>subject_story-&gt;engineered grand cathedrals, marvels of medieval craftsmanship</VFEM2_MedievalArchitecture.generalRules.rulesStrings.2>
-  <!-- EN: subject_story->developed secret passages and fortifications for clandestine schemes -->
-  <VFEM2_MedievalArchitecture.generalRules.rulesStrings.3>subject_story-&gt;developed secret passages and fortifications for clandestine schemes</VFEM2_MedievalArchitecture.generalRules.rulesStrings.3>
-  <!-- EN: subject_gerund->designing medieval structures -->
-  <VFEM2_MedievalArchitecture.generalRules.rulesStrings.4>subject_gerund-&gt;designing medieval structures</VFEM2_MedievalArchitecture.generalRules.rulesStrings.4>
+  <VFEM2_MedievalArchitecture.description>Строительство различных средневековых сооружений, включая тканевые стены.</VFEM2_MedievalArchitecture.description>
+  <!-- EN:
+    <li>subject->medieval construction</li>
+    <li>subject_story->oversaw the construction of towering castles and bustling townships</li>
+    <li>subject_story->engineered grand cathedrals, marvels of medieval craftsmanship</li>
+    <li>subject_story->developed secret passages and fortifications for clandestine schemes</li>
+    <li>subject_gerund->designing medieval structures</li>
+  -->
+  <VFEM2_MedievalArchitecture.generalRules.rulesStrings>
+    <li>subject->средневековое строительство</li>
+    <li>subject_story->{PAWN gender ? руководил : руководила} строительством высоких замков и оживленных городков</li>
+    <li>subject_story->{PAWN gender ? спроектировал : спроектировала} грандиозные соборы, чудеса средневекового мастерства</li>
+    <li>subject_story->{PAWN gender ? разработал : разработала} секретные проходы и укрепления для тайных замыслов</li>
+    <li>subject_gerund->проектирует средневековые сооружения</li>
+  </VFEM2_MedievalArchitecture.generalRules.rulesStrings>
 
   <!-- EN: complex workshops -->
-  <VFEM2_ComplexWorkshops.label>complex workshops</VFEM2_ComplexWorkshops.label>
+  <VFEM2_ComplexWorkshops.label>продвинутые мастерские</VFEM2_ComplexWorkshops.label>
   <!-- EN: Learn to build various tools and devices to enhance the productivity of the workbenches. -->
-  <VFEM2_ComplexWorkshops.description>Learn to build various tools and devices to enhance the productivity of the workbenches.</VFEM2_ComplexWorkshops.description>
-  <!-- EN: subject->advanced craftsmanship -->
-  <VFEM2_ComplexWorkshops.generalRules.rulesStrings.0>subject-&gt;advanced craftsmanship</VFEM2_ComplexWorkshops.generalRules.rulesStrings.0>
-  <!-- EN: subject_story->refined blacksmithing techniques, crafting tools of unmatched quality -->
-  <VFEM2_ComplexWorkshops.generalRules.rulesStrings.1>subject_story-&gt;refined blacksmithing techniques, crafting tools of unmatched quality</VFEM2_ComplexWorkshops.generalRules.rulesStrings.1>
-  <!-- EN: subject_story->introduced mechanical innovations that revolutionized production -->
-  <VFEM2_ComplexWorkshops.generalRules.rulesStrings.2>subject_story-&gt;introduced mechanical innovations that revolutionized production</VFEM2_ComplexWorkshops.generalRules.rulesStrings.2>
-  <!-- EN: subject_story->formed a powerful guild, controlling the flow of masterwork goods -->
-  <VFEM2_ComplexWorkshops.generalRules.rulesStrings.3>subject_story-&gt;formed a powerful guild, controlling the flow of masterwork goods</VFEM2_ComplexWorkshops.generalRules.rulesStrings.3>
-  <!-- EN: subject_gerund->improving workshop efficiency -->
-  <VFEM2_ComplexWorkshops.generalRules.rulesStrings.4>subject_gerund-&gt;improving workshop efficiency</VFEM2_ComplexWorkshops.generalRules.rulesStrings.4>
+  <VFEM2_ComplexWorkshops.description>Создание различных инструментов и устройств для повышения производительности верстаков.</VFEM2_ComplexWorkshops.description>
+  <!-- EN:
+    <li>subject->advanced craftsmanship</li>
+    <li>subject_story->refined blacksmithing techniques, crafting tools of unmatched quality</li>
+    <li>subject_story->introduced mechanical innovations that revolutionized production</li>
+    <li>subject_story->formed a powerful guild, controlling the flow of masterwork goods</li>
+    <li>subject_gerund->improving workshop efficiency</li>
+  -->
+  <VFEM2_ComplexWorkshops.generalRules.rulesStrings>
+    <li>subject->продвинутое ремесленничество</li>
+    <li>subject_story->{PAWN gender ? усовершенствовал : усовершенствовала} кузнечные техники, создавая инструменты непревзойдённого качества</li>
+    <li>subject_story->{PAWN gender ? внедрил : внедрила} механические инновации, которые произвели революцию в производстве</li>
+    <li>subject_story->{PAWN gender ? создал : создала} могущественную гильдию, контролирующую поток мастерских изделий</li>
+    <li>subject_gerund->улучшает эффективность мастерских</li>
+  </VFEM2_ComplexWorkshops.generalRules.rulesStrings>
 
   <!-- EN: matchlocks -->
-  <VFEM2_Matchlocks.label>matchlocks</VFEM2_Matchlocks.label>
+  <VFEM2_Matchlocks.label>фитильные замки</VFEM2_Matchlocks.label>
   <!-- EN: Craft ancient, chempowder operated ranged weapons that utilise the matchlock mechanics, such as arquebuses and hand cannons. -->
-  <VFEM2_Matchlocks.description>Craft ancient, chempowder operated ranged weapons that utilise the matchlock mechanics, such as arquebuses and hand cannons.</VFEM2_Matchlocks.description>
-  <!-- EN: subject->early firearms -->
-  <VFEM2_Matchlocks.generalRules.rulesStrings.0>subject-&gt;early firearms</VFEM2_Matchlocks.generalRules.rulesStrings.0>
-  <!-- EN: subject_story->perfected the art of matchlock guns, bringing an age of gunpowder warfare -->
-  <VFEM2_Matchlocks.generalRules.rulesStrings.1>subject_story-&gt;perfected the art of matchlock guns, bringing an age of gunpowder warfare</VFEM2_Matchlocks.generalRules.rulesStrings.1>
-  <!-- EN: subject_story->supplied mercenaries with devastating ranged weaponry -->
-  <VFEM2_Matchlocks.generalRules.rulesStrings.2>subject_story-&gt;supplied mercenaries with devastating ranged weaponry</VFEM2_Matchlocks.generalRules.rulesStrings.2>
-  <!-- EN: subject_story->unleashed fire and thunder on the battlefield, changing warfare forever -->
-  <VFEM2_Matchlocks.generalRules.rulesStrings.3>subject_story-&gt;unleashed fire and thunder on the battlefield, changing warfare forever</VFEM2_Matchlocks.generalRules.rulesStrings.3>
-  <!-- EN: subject_gerund->crafting matchlock firearms -->
-  <VFEM2_Matchlocks.generalRules.rulesStrings.4>subject_gerund-&gt;crafting matchlock firearms</VFEM2_Matchlocks.generalRules.rulesStrings.4>
+  <VFEM2_Matchlocks.description>Изготовление древнего дальнобойного оружия, работающего на химпорохе и использующего фитильный механизм, такого как аркебузы и ручные пушки.</VFEM2_Matchlocks.description>
+  <!-- EN:
+    <li>subject->early firearms</li>
+    <li>subject_story->perfected the art of matchlock guns, bringing an age of gunpowder warfare</li>
+    <li>subject_story->supplied mercenaries with devastating ranged weaponry</li>
+    <li>subject_story->unleashed fire and thunder on the battlefield, changing warfare forever</li>
+    <li>subject_gerund->crafting matchlock firearms</li>
+  -->
+  <VFEM2_Matchlocks.generalRules.rulesStrings>
+    <li>subject->ранее огнестрельное оружие</li>
+    <li>subject_story->{PAWN gender ? усовершенствовал : усовершенствовала} искусство создания фитильных ружей, положив начало эпохе пороховых сражений</li>
+    <li>subject_story->{PAWN gender ? снабжал : снабжала} наёмников разрушительным дальнобойным оружием</li>
+    <li>subject_story->{PAWN gender ? развязал : развязала} огонь и гром на поле боя, изменив военное дело навсегда</li>
+    <li>subject_gerund->изготавливает фитильное оружие</li>
+  </VFEM2_Matchlocks.generalRules.rulesStrings>
 
   <!-- EN: heraldry -->
-  <VFEM2_Heraldry.label>heraldry</VFEM2_Heraldry.label>
+  <VFEM2_Heraldry.label>геральдика</VFEM2_Heraldry.label>
   <!-- EN: Adorn the colors of your faction and construct decorative banners and heraldic rugs. -->
-  <VFEM2_Heraldry.description>Adorn the colors of your faction and construct decorative banners and heraldic rugs.</VFEM2_Heraldry.description>
-  <!-- EN: subject->heraldic traditions -->
-  <VFEM2_Heraldry.generalRules.rulesStrings.0>subject-&gt;heraldic traditions</VFEM2_Heraldry.generalRules.rulesStrings.0>
-  <!-- EN: subject_story->designed banners that struck fear or awe into the hearts of foes -->
-  <VFEM2_Heraldry.generalRules.rulesStrings.1>subject_story-&gt;designed banners that struck fear or awe into the hearts of foes</VFEM2_Heraldry.generalRules.rulesStrings.1>
-  <!-- EN: subject_story->crafted family crests, immortalizing legacies in fabric and stone -->
-  <VFEM2_Heraldry.generalRules.rulesStrings.2>subject_story-&gt;crafted family crests, immortalizing legacies in fabric and stone</VFEM2_Heraldry.generalRules.rulesStrings.2>
-  <!-- EN: subject_story->led the creation of a grand hall adorned with noble insignia -->
-  <VFEM2_Heraldry.generalRules.rulesStrings.3>subject_story-&gt;led the creation of a grand hall adorned with noble insignia</VFEM2_Heraldry.generalRules.rulesStrings.3>
-  <!-- EN: subject_gerund->designing heraldic symbols -->
-  <VFEM2_Heraldry.generalRules.rulesStrings.4>subject_gerund-&gt;designing heraldic symbols</VFEM2_Heraldry.generalRules.rulesStrings.4>
-
-
-
+  <VFEM2_Heraldry.description>Возможность украсить своё поселение цветами фракции и создание декоративных знамён и геральдических ковров.</VFEM2_Heraldry.description>
+  <!-- EN:
+    <li>subject->heraldic traditions</li>
+    <li>subject_story->designed banners that struck fear or awe into the hearts of foes</li>
+    <li>subject_story->crafted family crests, immortalizing legacies in fabric and stone</li>
+    <li>subject_story->led the creation of a grand hall adorned with noble insignia</li>
+    <li>subject_gerund->designing heraldic symbols</li>
+  -->
+  <VFEM2_Heraldry.generalRules.rulesStrings>
+    <li>subject->гербовые традиции</li>
+    <li>subject_story>{PAWN gender ? создавал : создавала} знамена, внушающие страх или благоговение врагам</li>
+    <li>subject_story>{PAWN gender ? создавал : создавала} семейные гербы, увековечивая наследие в ткани и камне</li>
+    <li>subject_story>{PAWN gender ? руководил : руководила} созданием большого зала, украшенного дворянскими знаками</li>
+    <li>subject_gerund>разрабатывает гербовые символы</li>
+  </VFEM2_Heraldry.generalRules.rulesStrings>
 </LanguageData>
