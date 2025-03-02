@@ -48,84 +48,81 @@
   <!-- EN: torturer draught -->
   <VFEM2_TorturerDraught.label>пыточная настойка</VFEM2_TorturerDraught.label>
   <!-- EN: A draught is causing severe pain to the user, making them unable to even move. If they are a prisoner, they will rapidly lose their resistance, and if they are a slave, they will be fully suppressed. -->
-  <VFEM2_TorturerDraught.description>Настойка вызывает сильную боль у пользователя, делая его неподвижным. Если это заключённый, его сопротивление быстро падает, а если раб — он полностью подавлен.</VFEM2_TorturerDraught.description>
+  <VFEM2_TorturerDraught.description>Настойка вызывает сильную боль и обездвиживает. Если это пленник, его психологическое сопротивление начнет быстро снижаться, а если раб — он будет полностью подавлен.</VFEM2_TorturerDraught.description>
   <!-- EN: fading -->
   <VFEM2_TorturerDraught.stages.0.label>ослабевает</VFEM2_TorturerDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_TorturerDraught.stages.1.label>в полную силу</VFEM2_TorturerDraught.stages.1.label>
 
   <!-- EN: focus draught -->
-  <VFEM2_FocusDraught.label>focus draught</VFEM2_FocusDraught.label>
+  <VFEM2_FocusDraught.label>настойка концентрации</VFEM2_FocusDraught.label>
   <!-- EN: A draught is increasing the capability of the user to learn, allowing them to gain more knowledge, eat faster, rest quicker and gain more psyfocus while potent. The effects are reversed when the draught is fading. -->
-  <VFEM2_FocusDraught.description>Настойка повышает способность пользователя к обучению, позволяя получать больше знаний, быстрее есть, отдыхать и накапливать пси-концентрацию, пока действует. Когда эффект ослабевает, действие обращается вспять.</VFEM2_FocusDraught.description>
+  <VFEM2_FocusDraught.description>Настойка повышает способность к обучению, позволяя получать больше знаний, быстрее есть, отдыхать и восстанавливать пси-концентрацию. Когда эффект настойки ослабевает, эффекты становятся обратными.</VFEM2_FocusDraught.description>
   <!-- EN: fading -->
   <VFEM2_FocusDraught.stages.0.label>ослабевает</VFEM2_FocusDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_FocusDraught.stages.1.label>в полную силу</VFEM2_FocusDraught.stages.1.label>
 
   <!-- EN: fertility draught -->
-  <VFEM2_FertilityDraught.label>fertility draught</VFEM2_FertilityDraught.label>
+  <VFEM2_FertilityDraught.label>настойка фертильности</VFEM2_FertilityDraught.label>
   <!-- EN: A draught is artificially increasing the fertility of the user. The slight boost to fertility will allow even infertile people to have a chance to become parents. -->
-  <VFEM2_FertilityDraught.description>Настойка искусственно повышает плодовитость пользователя. Небольшое увеличение плодовитости даёт даже бесплодным людям шанс стать родителями.</VFEM2_FertilityDraught.description>
+  <VFEM2_FertilityDraught.description>Настойка искусственно повышает фертильность. Хоть увеличении не слишком велико, его достаточно, чтобы дать бесплодным людям шанс стать родителями.</VFEM2_FertilityDraught.description>
   <!-- EN: fading -->
   <VFEM2_FertilityDraught.stages.0.label>ослабевает</VFEM2_FertilityDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_FertilityDraught.stages.1.label>в полную силу</VFEM2_FertilityDraught.stages.1.label>
 
   <!-- EN: inspiration draught -->
-  <VFEM2_InspirationDraught.label>inspiration draught</VFEM2_InspirationDraught.label>
+  <VFEM2_InspirationDraught.label>настойка озарения</VFEM2_InspirationDraught.label>
   <!-- EN: A draught is providing the user with mental clarity, allowing them to focus on gaining new knowledge in skills they are passionate about at the cost of diminished combat capabilities. -->
-  <VFEM2_InspirationDraught.description>Настойка обеспечивает ментальную ясность пользователя, позволяя сосредоточиться на получении новых знаний в интересующих его навыках, но ценой снижения боевых способностей.</VFEM2_InspirationDraught.description>
+  <VFEM2_InspirationDraught.description>Настойка очищает разум, позволяя сосредоточиться на получении новых знаний в навыках, к которым есть интерес. Но ценой снижения боевых способностей.</VFEM2_InspirationDraught.description>
   <!-- EN: fading -->
   <VFEM2_InspirationDraught.stages.0.label>ослабевает</VFEM2_InspirationDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_InspirationDraught.stages.1.label>в полную силу</VFEM2_InspirationDraught.stages.1.label>
 
   <!-- EN: stoneskin draught -->
-  <VFEM2_StoneskinDraught.label>stoneskin draught</VFEM2_StoneskinDraught.label>
+  <VFEM2_StoneskinDraught.label>настойка каменной кожи</VFEM2_StoneskinDraught.label>
   <!-- EN: A draught is transforming the user's skin into a built-in suit of armor. The whole epidermis thickens and hardens to resist burns, while jointed exterior keratin plates form everywhere they can - including the head and face. While it's very difficult to physically hurt someone under the effects of this draught, the plates and hard skin significantly reduces the user's physical attractiveness. -->
-  <VFEM2_StoneskinDraught.description>Настойка превращает кожу пользователя во встроенную броню. Весь эпидермис утолщается и затвердевает для защиты от ожогов, а суставчатые кератиновые пластины формируются везде, где возможно, включая голову и лицо. Хотя физически навредить человеку под действием этой настойки очень сложно, пластины и твёрдая кожа значительно снижают его физическую привлекательность.</VFEM2_StoneskinDraught.description>
+  <VFEM2_StoneskinDraught.description>Настойка превращает кожу выпившего в естественную броню. Весь внешний слой кожи утолщается и затвердевает для защиты от ожогов, а соединённые кератиновые пластины формируются везде, где возможно, включая голову и лицо. Хотя физически навредить человеку под действием этой настойки очень сложно, пластины и твёрдая кожа значительно снижают его физическую привлекательность.</VFEM2_StoneskinDraught.description>
   <!-- EN: fading -->
   <VFEM2_StoneskinDraught.stages.0.label>ослабевает</VFEM2_StoneskinDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_StoneskinDraught.stages.1.label>в полную силу</VFEM2_StoneskinDraught.stages.1.label>
 
   <!-- EN: amnesia draught -->
-  <VFEM2_AmnesiaDraught.label>amnesia draught</VFEM2_AmnesiaDraught.label>
+  <VFEM2_AmnesiaDraught.label>настойка беспамятства</VFEM2_AmnesiaDraught.label>
   <!-- EN: A draught is causing the user to quickly lose memory, resulting in both negative and positive memories lasting significantly shorter. -->
-  <VFEM2_AmnesiaDraught.description>Настойка вызывает у пользователя быструю потерю памяти, в результате чего как негативные, так и позитивные воспоминания длятся значительно меньше.</VFEM2_AmnesiaDraught.description>
+  <VFEM2_AmnesiaDraught.description>Настойка вызывает быструю потерю памяти, в результате чего как негативные, так и позитивные воспоминания длятся значительно меньше.</VFEM2_AmnesiaDraught.description>
   <!-- EN: fading -->
   <VFEM2_AmnesiaDraught.stages.0.label>ослабевает</VFEM2_AmnesiaDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_AmnesiaDraught.stages.1.label>в полную силу</VFEM2_AmnesiaDraught.stages.1.label>
 
   <!-- EN: coma draught -->
-  <VFEM2_ComaDraught.label>coma draught</VFEM2_ComaDraught.label>
+  <VFEM2_ComaDraught.label>настойка комы</VFEM2_ComaDraught.label>
   <!-- EN: A draught is putting the user in a chemically induced coma that slows down their metabolism greatly. -->
-  <VFEM2_ComaDraught.description>Настойка погружает пользователя в химически вызванную кому, которая значительно замедляет его метаболизм.</VFEM2_ComaDraught.description>
+  <VFEM2_ComaDraught.description>Настойка погружает выпившего в химически вызванную кому, которая значительно замедляет его метаболизм.</VFEM2_ComaDraught.description>
   <!-- EN: fading -->
   <VFEM2_ComaDraught.stages.0.label>ослабевает</VFEM2_ComaDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_ComaDraught.stages.1.label>в полную силу</VFEM2_ComaDraught.stages.1.label>
 
   <!-- EN: poison draught -->
-  <VFEM2_PoisonDraught.label>poison draught</VFEM2_PoisonDraught.label>
+  <VFEM2_PoisonDraught.label>ядовитая настойка</VFEM2_PoisonDraught.label>
   <!-- EN: A draught is shutting down the user, reducing their consciousness into a state of chemically inducing coma that causes organ decay and will inevitably lead to death. -->
-  <VFEM2_PoisonDraught.description>Настойка отключает организм пользователя, снижая его сознание до состояния химически вызванной комы, которая приводит к разрушению органов и неизбежно ведёт к смерти.</VFEM2_PoisonDraught.description>
+  <VFEM2_PoisonDraught.description>Настойка отключает организм выпившего, снижая его сознание до состояния химически вызванной комы, которая приводит к распаду органов и неизбежно ведёт к смерти.</VFEM2_PoisonDraught.description>
   <!-- EN: potent -->
   <VFEM2_PoisonDraught.stages.0.label>в полную силу</VFEM2_PoisonDraught.stages.0.label>
   <!-- EN: final -->
   <VFEM2_PoisonDraught.stages.1.label>конец</VFEM2_PoisonDraught.stages.1.label>
 
   <!-- EN: antitox draught -->
-  <VFEM2_AntitoxDraught.label>antitox draught</VFEM2_AntitoxDraught.label>
+  <VFEM2_AntitoxDraught.label>настойка-противоядие</VFEM2_AntitoxDraught.label>
   <!-- EN: A draught is improving the toxic resistance of the user. -->
-  <VFEM2_AntitoxDraught.description>Настойка повышает сопротивляемость пользователя к токсинам.</VFEM2_AntitoxDraught.description>
+  <VFEM2_AntitoxDraught.description>Настойка повышает сопротивляемость к токсинам.</VFEM2_AntitoxDraught.description>
   <!-- EN: fading -->
   <VFEM2_AntitoxDraught.stages.0.label>ослабевает</VFEM2_AntitoxDraught.stages.0.label>
   <!-- EN: potent -->
   <VFEM2_AntitoxDraught.stages.1.label>в полную силу</VFEM2_AntitoxDraught.stages.1.label>
-
-
-
 </LanguageData>
