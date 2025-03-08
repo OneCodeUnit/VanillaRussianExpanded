@@ -1,76 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: smithing anvil -->
-  <VFEM2_SmithingAnvil.label>smithing anvil</VFEM2_SmithingAnvil.label>
+  <VFEM2_SmithingAnvil.label>кузнечная наковальня</VFEM2_SmithingAnvil.label>
   <!-- EN: A heavy steel anvil used to shape metalwork with greater precision. Increases work speed when placed near a smithy. Items of awful and poor quality crafted on the linked workbench have a chance of being upgraded by one quality level. One workbench can only use one anvil. -->
-  <VFEM2_SmithingAnvil.description>A heavy steel anvil used to shape metalwork with greater precision. Increases work speed when placed near a smithy. Items of awful and poor quality crafted on the linked workbench have a chance of being upgraded by one quality level. One workbench can only use one anvil.</VFEM2_SmithingAnvil.description>
+  <VFEM2_SmithingAnvil.description>Тяжёлая стальная наковальня, используемая для более точной обработки металла. Увеличивает скорость работы при размещении рядом с кузней. Предметы ужасного и плохого качества, изготовленные на связанном верстаке, имеют шанс повыситься на один уровень качества. К одному верстаку можно подключить только одну наковальню.</VFEM2_SmithingAnvil.description>
 
   <!-- EN: forge bellows -->
-  <VFEM2_ForgeBellows.label>forge bellows</VFEM2_ForgeBellows.label>
+  <VFEM2_ForgeBellows.label>кузнечные мехи</VFEM2_ForgeBellows.label>
   <!-- EN: A manually operated bellows that boosts airflow to the smithy. Increases work speed when placed near a smithy. Bellows reduce the fuel consumption of the linked workbench by 20%. One workbench can only use one bellows. -->
-  <VFEM2_ForgeBellows.description>A manually operated bellows that boosts airflow to the smithy. Increases work speed when placed near a smithy. Bellows reduce the fuel consumption of the linked workbench by 20%. One workbench can only use one bellows.</VFEM2_ForgeBellows.description>
+  <VFEM2_ForgeBellows.description>Ручные мехи, которые усиливают поток воздуха к кузне. Увеличивают скорость работы при размещении рядом с кузней. Мехи уменьшают потребление топлива связанного верстака на 20%. К одному верстаку можно подключить только одни мехи.</VFEM2_ForgeBellows.description>
 
   <!-- EN: tailoring loom -->
-  <VFEM2_TailoringLoom.label>tailoring loom</VFEM2_TailoringLoom.label>
+  <VFEM2_TailoringLoom.label>ткацкий станок</VFEM2_TailoringLoom.label>
   <!-- EN: A small loom for weaving thread. Increases work speed when placed near a tailoring bench. One workbench can only use one tailoring loom. -->
-  <VFEM2_TailoringLoom.description>A small loom for weaving thread. Increases work speed when placed near a tailoring bench. One workbench can only use one tailoring loom.</VFEM2_TailoringLoom.description>
+  <VFEM2_TailoringLoom.description>Небольшой станок для плетения нитей. Увеличивает скорость работы при размещении рядом со столом портного или швейной машинкой. К одному верстаку можно подключить только один ткацкий станок.</VFEM2_TailoringLoom.description>
 
   <!-- EN: mannequin stand -->
-  <VFEM2_MannequinStand.label>mannequin stand</VFEM2_MannequinStand.label>
+  <VFEM2_MannequinStand.label>манекен</VFEM2_MannequinStand.label>
   <!-- EN: A basic mannequin used to measure and shape garments for more refined results. Increases work speed when placed near a tailoring bench. Mannequin stand allows for more precise measurements, reducing the cost of crafting apparel by 10%. One workbench can only use one mannequin. -->
-  <VFEM2_MannequinStand.description>A basic mannequin used to measure and shape garments for more refined results. Increases work speed when placed near a tailoring bench. Mannequin stand allows for more precise measurements, reducing the cost of crafting apparel by 10%. One workbench can only use one mannequin.</VFEM2_MannequinStand.description>
+  <VFEM2_MannequinStand.description>Простой манекен, используемый для измерения и формирования одежды для более качественных результатов. Увеличивает скорость работы при размещении рядом со швейным столом. Манекен позволяет делать более точные замеры, уменьшая стоимость изготовления одежды на 10%. К одному верстаку можно подключить только один манекен.</VFEM2_MannequinStand.description>
 
   <!-- EN: chisel rack -->
-  <VFEM2_ChiselRack.label>chisel rack</VFEM2_ChiselRack.label>
-  <!-- EN: A small rack filled with various chisels. Increases work speed when placed near a stonecutter’s table. One workbench can only use one chisel rack. -->
-  <VFEM2_ChiselRack.description>A small rack filled with various chisels. Increases work speed when placed near a stonecutter’s table. One workbench can only use one chisel rack.</VFEM2_ChiselRack.description>
+  <VFEM2_ChiselRack.label>стойка для резцов</VFEM2_ChiselRack.label>
+  <!-- EN: A small rack filled with various chisels. Increases work speed when placed near a stonecutter's table. One workbench can only use one chisel rack. -->
+  <VFEM2_ChiselRack.description>Небольшая стойка с различными резцами. Увеличивает скорость работы при размещении рядом с камнерезным столом. К одному верстаку можно подключить только одну стойку для резцов.</VFEM2_ChiselRack.description>
 
   <!-- EN: stone clamp -->
-  <VFEM2_StoneClamp.label>stone clamp</VFEM2_StoneClamp.label>
-  <!-- EN: A simple clamp for holding large stones in place. Increases work speed when placed near a stonecutter’s table. The clamp allows higher productivity, increasing resource yield from all recipes by 10%. One workbench can only use one stone clamp. -->
-  <VFEM2_StoneClamp.description>A simple clamp for holding large stones in place. Increases work speed when placed near a stonecutter’s table. The clamp allows higher productivity, increasing resource yield from all recipes by 10%. One workbench can only use one stone clamp.</VFEM2_StoneClamp.description>
+  <VFEM2_StoneClamp.label>каменные тиски</VFEM2_StoneClamp.label>
+  <!-- EN: A simple clamp for holding large stones in place. Increases work speed when placed near a stonecutter's table. The clamp allows higher productivity, increasing resource yield from all recipes by 10%. One workbench can only use one stone clamp. -->
+  <VFEM2_StoneClamp.description>Простые тиски для удержания больших камней на месте. Увеличивает скорость работы при размещении рядом со столом для резки камня. Тиски повышают производительность, увеличивая выход ресурсов из всех рецептов на 10%. К одному верстаку можно подключить только одни тиски.</VFEM2_StoneClamp.description>
 
   <!-- EN: cleaver rack -->
-  <VFEM2_CleaverRack.label>cleaver rack</VFEM2_CleaverRack.label>
+  <VFEM2_CleaverRack.label>стойка для тесаков</VFEM2_CleaverRack.label>
   <!-- EN: A sturdy rack holding sharp cleavers and knives. Increases work speed when placed near a butchering table. One workbench can only use one cleaver rack. -->
-  <VFEM2_CleaverRack.description>A sturdy rack holding sharp cleavers and knives. Increases work speed when placed near a butchering table. One workbench can only use one cleaver rack.</VFEM2_CleaverRack.description>
+  <VFEM2_CleaverRack.description>Прочная стойка с острыми тесаками и ножами. Увеличивает скорость работы при размещении рядом с разделочным столом. К одному верстаку можно подключить только одну стойку для тесаков.</VFEM2_CleaverRack.description>
 
   <!-- EN: carving board -->
-  <VFEM2_CarvingBoard.label>carving board</VFEM2_CarvingBoard.label>
+  <VFEM2_CarvingBoard.label>разделочная доска</VFEM2_CarvingBoard.label>
   <!-- EN: A thick, well-worn wooden board that allows for precision cuts. Increases work speed when placed near a butchering table. The sharp blades allow the butcher to extract 10% more meat and leather from any butchered creature. One workbench can only use one carving board. -->
-  <VFEM2_CarvingBoard.description>A thick, well-worn wooden board that allows for precision cuts. Increases work speed when placed near a butchering table. The sharp blades allow the butcher to extract 10% more meat and leather from any butchered creature. One workbench can only use one carving board.</VFEM2_CarvingBoard.description>
+  <VFEM2_CarvingBoard.description>Толстая, изношенная деревянная доска, позволяющая делать точные разрезы. Увеличивает скорость работы при размещении рядом с разделочным столом. Острые лезвия позволяют мяснику извлекать на 10% больше мяса и кожи из любого разделываемого существа. К одному верстаку можно подключить только одну разделочную доску.</VFEM2_CarvingBoard.description>
 
   <!-- EN: stone polisher -->
-  <VFEM2_StonePolisher.label>stone polisher</VFEM2_StonePolisher.label>
+  <VFEM2_StonePolisher.label>полировщик камня</VFEM2_StonePolisher.label>
   <!-- EN: A polishing wheel that ensures sculptures have a smooth and refined finish. Increases work speed when placed near an art bench. Stone sculptures of awful and poor quality crafted on the linked art bench have a high chance of being upgraded by one quality level  One workbench can only use one stone polisher. -->
-  <VFEM2_StonePolisher.description>A polishing wheel that ensures sculptures have a smooth and refined finish. Increases work speed when placed near an art bench. Stone sculptures of awful and poor quality crafted on the linked art bench have a high chance of being upgraded by one quality level  One workbench can only use one stone polisher.</VFEM2_StonePolisher.description>
+  <VFEM2_StonePolisher.description>Полировальный круг, обеспечивающий гладкую и изысканную отделку скульптур. Увеличивает скорость работы при размещении рядом с мастерской художника. Каменные скульптуры ужасного и плохого качества, изготовленные на связанной мастерской художника, имеют высокий шанс повыситься на один уровень качества. К одному верстаку можно подключить только один полировщик камня.</VFEM2_StonePolisher.description>
 
   <!-- EN: art tool stand -->
-  <VFEM2_ArtToolStand.label>art tool stand</VFEM2_ArtToolStand.label>
+  <VFEM2_ArtToolStand.label>стойка для инструментов художника</VFEM2_ArtToolStand.label>
   <!-- EN: A rack with chisels, hammers, and other carving tools. Increases work speed when placed near an art bench. One workbench can only use one tool stand. -->
-  <VFEM2_ArtToolStand.description>A rack with chisels, hammers, and other carving tools. Increases work speed when placed near an art bench. One workbench can only use one tool stand.</VFEM2_ArtToolStand.description>
+  <VFEM2_ArtToolStand.description>Стойка с резцами, молотками и другими инструментами для резьбы. Увеличивает скорость работы при размещении рядом с мастерской художника. К одному верстаку можно подключить только одну стойку для инструментов.</VFEM2_ArtToolStand.description>
 
   <!-- EN: notes stack -->
-  <VFEM2_NotesStack.label>notes stack</VFEM2_NotesStack.label>
+  <VFEM2_NotesStack.label>стопка заметок</VFEM2_NotesStack.label>
   <!-- EN: A small desk stocked with numerous notes and pieces of paper. Increases work speed when placed near a research bench. One workbench can only use one notes stack. -->
-  <VFEM2_NotesStack.description>A small desk stocked with numerous notes and pieces of paper. Increases work speed when placed near a research bench. One workbench can only use one notes stack.</VFEM2_NotesStack.description>
+  <VFEM2_NotesStack.description>Небольшой стол с множеством заметок и листов бумаги. Увеличивает скорость работы при размещении рядом с исследовательским столом. К одному верстаку можно подключить только одну стопку заметок.</VFEM2_NotesStack.description>
 
   <!-- EN: research board -->
-  <VFEM2_ResearchBoard.label>research board</VFEM2_ResearchBoard.label>
+  <VFEM2_ResearchBoard.label>исследовательская доска</VFEM2_ResearchBoard.label>
   <!-- EN: A slate or chalkboard for sketching diagrams and sharing ideas. Increases work speed when placed near a research bench. Up to two research benches can be linked to one chalkboard. -->
-  <VFEM2_ResearchBoard.description>A slate or chalkboard for sketching diagrams and sharing ideas. Increases work speed when placed near a research bench. Up to two research benches can be linked to one chalkboard.</VFEM2_ResearchBoard.description>
+  <VFEM2_ResearchBoard.description>Грифельная или меловая доска для рисования диаграмм и обмена идеями. Увеличивает скорость работы при размещении рядом со столом для исследований. К одной доске можно подключить до двух столов для исследований.</VFEM2_ResearchBoard.description>
 
   <!-- EN: surgical tools -->
-  <VFEM2_SurgicalTools.label>surgical tools</VFEM2_SurgicalTools.label>
+  <VFEM2_SurgicalTools.label>хирургические инструменты</VFEM2_SurgicalTools.label>
   <!-- EN: A small stand holding scalpels, clamps, and bone saws. Increases work speed when placed near a bed of any kind, including sleeping spots and hospital beds. One bed can only use one set of surgical tools. -->
-  <VFEM2_SurgicalTools.description>A small stand holding scalpels, clamps, and bone saws. Increases work speed when placed near a bed of any kind, including sleeping spots and hospital beds. One bed can only use one set of surgical tools.</VFEM2_SurgicalTools.description>
+  <VFEM2_SurgicalTools.description>Небольшая стойка с скальпелями, зажимами и костными пилами. Увеличивает скорость работы при размещении рядом с любой кроватью, включая спальные места и больничные кровати. К одной кровати можно подключить только один набор хирургических инструментов.</VFEM2_SurgicalTools.description>
 
   <!-- EN: ailment's shelf -->
-  <VFEM2_AilmentsShelf.label>ailment's shelf</VFEM2_AilmentsShelf.label>
+  <VFEM2_AilmentsShelf.label>полка для лекарств</VFEM2_AilmentsShelf.label>
   <!-- EN: A small wooden cabinet that can be stocked with herbal remedies, tinctures, and basic medicinal tools. Items stored inside will never deteriorate and don't affect the beauty of their surroundings. -->
-  <VFEM2_AilmentsShelf.description>A small wooden cabinet that can be stocked with herbal remedies, tinctures, and basic medicinal tools. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.</VFEM2_AilmentsShelf.description>
-
-
-
+  <VFEM2_AilmentsShelf.description>Небольшой деревянный шкафчик, который можно заполнить травяными средствами, настойками и базовыми медицинскими инструментами. Предметы, хранящиеся внутри, никогда не портятся и не влияют на красоту окружения.</VFEM2_AilmentsShelf.description>
 </LanguageData>
