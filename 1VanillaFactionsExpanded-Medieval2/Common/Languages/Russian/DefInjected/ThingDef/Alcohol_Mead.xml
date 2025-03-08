@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: mead -->
   <VFEM2_Mead.label>мёд</VFEM2_Mead.label>
   <!-- EN: A drink akin to wine, made of fermented honey and water, aged in a simple barrel. This sweet, crisp drink is known be nursed over time and has a reputation of being particularly comforting. Consuming mead lowers psychic sensitivity. -->
-  <VFEM2_Mead.description>A drink akin to wine, made of fermented honey and water, aged in a simple barrel. This sweet, crisp drink is known be nursed over time and has a reputation of being particularly comforting. Consuming mead lowers psychic sensitivity.</VFEM2_Mead.description>
+  <VFEM2_Mead.description>Похожий на вино напиток, приготовленный из перебродившего мёда и воды, выдержанный в бочке. Он сладкий и бодрящий. Имеет репутацию особенно приятного и успокаивающего напитка. Употребление мёда снижает психочувствительность.</VFEM2_Mead.description>
+  <!-- EN: bottle -->
+  <VFEM2_Mead.tools.bottle.label>бутылка</VFEM2_Mead.tools.bottle.label>
+  <!-- EN: neck -->
+  <VFEM2_Mead.tools.neck.label>горлышко</VFEM2_Mead.tools.neck.label>
   <!-- EN: Drink {0} -->
-  <VFEM2_Mead.ingestible.ingestCommandString>Drink {0}</VFEM2_Mead.ingestible.ingestCommandString>
+  <VFEM2_Mead.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VFEM2_Mead.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VFEM2_Mead.ingestible.ingestReportString>Drinking {0}.</VFEM2_Mead.ingestible.ingestReportString>
-
-
-
+  <VFEM2_Mead.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_Mead.ingestible.ingestReportString>
 </LanguageData>
