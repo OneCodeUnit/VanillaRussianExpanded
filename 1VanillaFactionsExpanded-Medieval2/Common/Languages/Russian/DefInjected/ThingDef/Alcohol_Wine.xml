@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: wine -->
   <VFEM2_Wine.label>вино</VFEM2_Wine.label>
   <!-- EN: A large bottle of a strong alcoholic beverage that is made from fermented grapes. Excessive consumption can lead to alcohol blackouts and, over time, addiction. Consuming wine increases psychic sensitivity. -->
-  <VFEM2_Wine.description>A large bottle of a strong alcoholic beverage that is made from fermented grapes. Excessive consumption can lead to alcohol blackouts and, over time, addiction. Consuming wine increases psychic sensitivity.</VFEM2_Wine.description>
+  <VFEM2_Wine.description>Большая бутылка крепкого алкогольного напитка из перебродившего винограда. Чрезмерное потребление может привести к алкоголизму. Употребление вина увеличивает психочувствительность.</VFEM2_Wine.description>
+  <!-- EN: bottle -->
+  <VFEM2_Wine.tools.0.label>бутылка</VFEM2_Wine.tools.0.label>
+  <!-- EN: neck -->
+  <VFEM2_Wine.tools.1.label>горлышко</VFEM2_Wine.tools.1.label>
   <!-- EN: Drink {0} -->
-  <VFEM2_Wine.ingestible.ingestCommandString>Drink {0}</VFEM2_Wine.ingestible.ingestCommandString>
+  <VFEM2_Wine.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VFEM2_Wine.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VFEM2_Wine.ingestible.ingestReportString>Drinking {0}.</VFEM2_Wine.ingestible.ingestReportString>
-
-
-
+  <VFEM2_Wine.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_Wine.ingestible.ingestReportString>
 </LanguageData>
