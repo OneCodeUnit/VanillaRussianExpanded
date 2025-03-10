@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: alcohol warmth -->
   <VFEM2_Inebriated.stages.0.label>навеселе</VFEM2_Inebriated.stages.0.label>
   <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
-  <VFEM2_Inebriated.stages.0.description>I just feel a bit more relaxed after that drink. That's good.</VFEM2_Inebriated.stages.0.description>
+  <VFEM2_Inebriated.stages.0.description> чувствую себя чуточку легче после этого стаканчика. Это хорошо.</VFEM2_Inebriated.stages.0.description>
   <!-- EN: quite inebriated -->
-  <VFEM2_Inebriated.stages.1.label>опьянение</VFEM2_Inebriated.stages.1.label>
+  <VFEM2_Inebriated.stages.1.label>в подпитии</VFEM2_Inebriated.stages.1.label>
   <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
-  <VFEM2_Inebriated.stages.1.description>I'm a bit wobbly! And this is quite enjoyable.</VFEM2_Inebriated.stages.1.description>
+  <VFEM2_Inebriated.stages.1.description>Меня немного пошатывает! И это весьма приятно.</VFEM2_Inebriated.stages.1.description>
   <!-- EN: drunk -->
-  <VFEM2_Inebriated.stages.2.label>под градусом</VFEM2_Inebriated.stages.2.label>
+  <VFEM2_Inebriated.stages.2.label>{PAWN_gender ? Пьян : Пьяна}</VFEM2_Inebriated.stages.2.label>
   <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
-  <VFEM2_Inebriated.stages.2.description>I feel so uninhibited and unafraid! This is a great time!</VFEM2_Inebriated.stages.2.description>
+  <VFEM2_Inebriated.stages.2.description>Я ничего не стесняюсь и ничего не боюсь! Как же здорово!</VFEM2_Inebriated.stages.2.description>
   <!-- EN: hammered -->
-  <VFEM2_Inebriated.stages.3.label>в стельку</VFEM2_Inebriated.stages.3.label>
+  <VFEM2_Inebriated.stages.3.label>{PAWN_gender ? Пьян : Пьяна} в стельку</VFEM2_Inebriated.stages.3.label>
   <!-- EN: Wooo! What's going on? -->
-  <VFEM2_Inebriated.stages.3.description>Wooo! What's going on?</VFEM2_Inebriated.stages.3.description>
-
-
-
+  <VFEM2_Inebriated.stages.3.description>Э-хей! Что происходит?!</VFEM2_Inebriated.stages.3.description>
 </LanguageData>
