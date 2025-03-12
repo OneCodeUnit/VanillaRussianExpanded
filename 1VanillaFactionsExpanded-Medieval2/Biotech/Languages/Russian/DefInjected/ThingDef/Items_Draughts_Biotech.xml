@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: hemogen draught -->
-  <VFEM2_HemogenDraught.label>hemogen draught</VFEM2_HemogenDraught.label>
+  <VFEM2_HemogenDraught.label>гемогеновая настойка</VFEM2_HemogenDraught.label>
   <!-- EN: A rich, crimson liquid crafted from concentrated hemogen packs. When the user drinks it, it enhances all traits and abilities tied to their hemogenic nature, boosting physical and mental capacities. Additionally, this draught replenishes the user's hemogen supply over time, maintaining their vitality and enhancing their overall function. -->
-  <VFEM2_HemogenDraught.description>A rich, crimson liquid crafted from concentrated hemogen packs. When the user drinks it, it enhances all traits and abilities tied to their hemogenic nature, boosting physical and mental capacities. Additionally, this draught replenishes the user's hemogen supply over time, maintaining their vitality and enhancing their overall function.</VFEM2_HemogenDraught.description>
-
-
-
+  <VFEM2_HemogenDraught.description>Насыщенная алая жидкость, изготовленная из концентрированных гемоген-пакетов. Она усиливает все гемогенные черты и способности, повышает физические и умственные возможности. Кроме того, эта настойка со временем пополняет запас гемогена, поддерживая жизненные силы и улучшая общее функционирование организма.</VFEM2_HemogenDraught.description>
+  <!-- EN: Use {0_label} -->
+  <VFEM2_HemogenDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_HemogenDraught.comps.1.useLabel>
+  <!-- EN: Ingest {0} -->
+  <VFEM2_HemogenDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_HemogenDraught.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <VFEM2_HemogenDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_HemogenDraught.ingestible.ingestReportString>
 </LanguageData>
