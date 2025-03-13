@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned nuclear ARC husk site. The camp is currently under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the nuclear ARC husk and recover valuable ARC components. [asker_label] also mentions that [sitePart0_description]. [sitePart1_description]</li>
+
+    <li>questDescription(askerIsNull==true)->We have received intelligence that an abandoned nuclear ARC husk site has been overtaken by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the nuclear ARC husk for any remaining research data and salvageable ARC components. Be prepared for resistance, as the bandits have likely set up significant defenses. Additionally, [sitePart0_description]. [sitePart1_description]</li>
+
+    <li>sitePart0_description->the nuclear ARC husk is surrounded by overgrowth, with much of its structure showing signs of decay</li>
+    <li>sitePart0_description->the bandits have heavily fortified the area with makeshift barriers and traps</li>
+    <li>sitePart0_description->the husk appears partially intact, holding the promise of valuable salvage</li>
+    <li>sitePart0_description->the site is a mix of ancient industrial ruins and ramshackle bandit encampments</li>
+    <li>sitePart0_description->hostile patrols have been spotted guarding the perimeter</li>
+    <li>sitePart0_description->the bandits are using the ARC husk to power their crude machinery and weapons</li>
+
+    <li>sitePart1_description->The entire area is blanketed in toxic fallout, making prolonged exposure dangerous without proper equipment</li>
+    <li>sitePart1_description->A thick layer of toxic fallout lingers over the site, creating an additional hazard for anyone attempting to approach</li>
+    <li>sitePart1_description->Toxic fallout from the ARC husk’s old reactor has poisoned the area, presenting a significant environmental danger</li>
+    <li>sitePart1_description->The site is covered in toxic fallout, making survival without protective gear extremely difficult</li>
+    <li>sitePart1_description->Hazardous fallout clouds the area, a grim reminder of the ARC’s unstable nuclear past</li>
+  -->
+  <VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+    <!-- quest description -->
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] из фракции [asker_faction_name], передаёт нам сообщение. [siteFaction_pawnsPlural] захватили заброшенный лагерь с остовом ядерного АРК. Лагерь находится под контролем фракции [siteFaction_name].\n\n[asker_nameDef] просит нас зачистить территорию, уничтожив всех врагов и защитные сооружения. Как только место будет зачищено, у нас появится возможность изучить остов ядерного АРК и извлечь ценные АРК-компоненты. [asker_label] также отмечает, что [sitePart0_description]. [sitePart1_description].</li>
+
+    <!-- alternative discovery -->
+    <li>questDescription(askerIsNull==true)->Мы получили информацию о том, что [siteFaction_pawnsPlural] из фракции [siteFaction_name] захватили заброшенный комплекс с ядерным АРК. Бандиты укрепили свои позиции и используют это место как убежище.\n\nВзяв под контроль этот объект мы сможем изучить остов ядерного АРК и извлечь оттуда ценные компоненты. Будьте готовы к тому, что бандиты могут оказать сопротивление, так как они, скорее всего, организовали серьёзную оборону. Кроме того, [sitePart0_description]. [sitePart1_description]</li>
+
+    <!-- site descriptions -->
+    <li>sitePart0_description->остов ядерного АРК окружён разросшейся растительностью, а большая часть его конструкции имеет признаки серьёзных повреждений</li>
+    <li>sitePart0_description->бандиты возвели здесь оборонительные сооружения и установили ловушки</li>
+    <li>sitePart0_description->остов кажется частично целым, что свидетельствует о возможности добыть здесь ценные материалы</li>
+    <li>sitePart0_description->это место представляет собой сочетание древних промышленных руин и наскоро сколоченных бандитских хибар</li>
+    <li>sitePart0_description->в этом районе замечены враждебные патрули, охраняющие периметр</li>
+    <li>sitePart0_description->бандиты используют остов АРК для питания своих самодельных механизмов и оружия</li>
+    <!-- fallout descriptions -->
+    <li>sitePart1_description->Вся территория покрыта токсичными осадками, и длительное пребывание там опасно без соответствующего снаряжения</li>
+    <li>sitePart1_description->Над этим местом сохраняется плотный слой токсичных осадков, создавая дополнительную опасность для всех, кто пытается проникнуть сюда</li>
+    <li>sitePart1_description->Токсичные осадки из старого АРК реактора отравляют местность, создавая серьёзную экологическую опасность</li>
+    <li>sitePart1_description->Эта область покрыта токсичными осадками, что делает выживание без защитного снаряжения крайне сложным</li>
+    <li>sitePart1_description->Опасные осадки покрывают область, служа печальным напоминанием о мрачном ядерном прошлом этого АРК</li>
+  </VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[adj] [nuclearArcName]</li>
+
+    <li>adj->abandoned</li>
+    <li>adj->ruined</li>
+    <li>adj->bandit-occupied</li>
+    <li>adj->forgotten</li>
+    <li>adj->derelict</li>
+    <li>adj->ancient</li>
+    <li>adj->overrun</li>
+    <li>adj->desecrated</li>
+    <li>adj->dangerous</li>
+    <li>adj->hidden</li>
+
+    <li>nuclearArcName->Nuclear ARC Site</li>
+    <li>nuclearArcName->ARC Husk</li>
+    <li>nuclearArcName->Reactor Remains</li>
+    <li>nuclearArcName->ARC Ruins</li>
+    <li>nuclearArcName->Generator Relic</li>
+    <li>nuclearArcName->Reactor Core</li>
+    <li>nuclearArcName->Power Husk</li>
+    <li>nuclearArcName->Energy Vault</li>
+    <li>nuclearArcName->Forsaken Reactor</li>
+    <li>nuclearArcName->Generator Site</li>
+  -->
+  <VQE_NuclearArcSite.questNameRules.rulesStrings>
+    <!-- quest name -->
+    <li>questName->[adj] [nuclearArcName]</li>
+
+    <!-- Adjectives -->
+    <li>adj->покинутый</li>
+    <li>adj->разрушенный</li>
+    <li>adj->занятый бандитами</li>
+    <li>adj->забытый</li>
+    <li>adj->полуразрушенный</li>
+    <li>adj->древний</li>
+    <li>adj->разорённый</li>
+    <li>adj->осквернённый</li>
+    <li>adj->опасный</li>
+    <li>adj->скрытый</li>
+
+    <!-- Nuclear ARC Names -->
+    <li>nuclearArcName->ядерный АРК объект</li>
+    <li>nuclearArcName->остов АРК</li>
+    <li>nuclearArcName->остов реактора</li>
+    <li>nuclearArcName->обломок АРК</li>
+    <li>nuclearArcName->реликт</li>
+    <li>nuclearArcName->реакторный сердечник</li>
+    <li>nuclearArcName->силовой каркас</li>
+    <li>nuclearArcName->силовой контур</li>
+    <li>nuclearArcName->угасший реактор</li>
+    <li>nuclearArcName->генераторный комплекс</li>
+  </VQE_NuclearArcSite.questNameRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Бандиты свернули лагерь и отправились в другое место. Время, отведённое для задания [resolvedQuestName], истекло.</VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Поняв, что их местонахождение известно, бандиты свернули лагерь и отправились в другое место. Задание «[resolvedQuestName]» окончено.</VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>Оплата прибыла</VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>Вы уничтожили бандитский лагерь!\n\nПрибыла оплата от фракции [asker_faction_name].</VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
+
+</LanguageData>

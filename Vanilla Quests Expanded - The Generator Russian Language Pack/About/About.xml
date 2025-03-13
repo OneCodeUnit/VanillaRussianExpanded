@@ -1,0 +1,22 @@
+﻿<ModMetaData>
+	<name>Vanilla Quests Expanded - The Generator Russian Language Pack</name>
+	<author>Grim Cheese, Mewn Goddess и OliveWizard</author>
+	<packageId>VRE.GrimCheese.vanillaquestsexpanded.generator</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>vanillaquestsexpanded.generator</packageId>
+			<displayName>Vanilla Quests Expanded - The Generator</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3411401573</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>vanillaquestsexpanded.generator</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>vanillaquestsexpanded.generator.RU</li>
+	</incompatibleWith>
+	<description>Перевод на русский язык мода Vanilla Quests Expanded - The Generator. Подробности ищите на странице в мастерской.</description>
+</ModMetaData>

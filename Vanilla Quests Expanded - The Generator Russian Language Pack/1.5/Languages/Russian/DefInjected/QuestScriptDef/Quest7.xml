@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned geothermal ARC site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Securing the site will allow us to study the geothermal ARC and recover valuable components for future use. Additionally, [sitePart0_description].</li>
+
+    <li>questDescription(askerIsNull==true)->We have received information that an old geothermal ARC site has been occupied by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the site to control the surrounding area.\n\nSecuring the site will give us access to study the geothermal ARC and extract useful components. The site is likely well-defended, so prepare for resistance. Additionally, [sitePart0_description].</li>
+
+    <li>sitePart0_description->the site is partially overgrown, with remnants of its original machinery scattered around</li>
+    <li>sitePart0_description->the bandits have reinforced the area with crude barricades and guard posts</li>
+    <li>sitePart0_description->the geothermal ARC appears heavily worn but intact enough to salvage parts</li>
+    <li>sitePart0_description->the facility's infrastructure is still standing, though it shows signs of significant wear</li>
+    <li>sitePart0_description->hostile patrols have been spotted in the area, ensuring no one approaches unchallenged</li>
+    <li>sitePart0_description->the bandits seem to be utilizing the ARC to power their operations</li>
+  -->
+  <VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] из [asker_faction_name], передаёт нам сообщение. [siteFaction_pawnsPlural] захватили заброшенный лагерь с геотермальным АРК. Лагерь находится под контролем фракции [siteFaction_name].\n\n[asker_nameDef] просит нас зачистить территорию, уничтожив всех врагов и защитные сооружения. Взяв под контроль это место, мы сможем изучить геотермальный АРК и извлечь ценные компоненты для дальнейшего использования. Кроме того, [sitePart0_description].</li>
+
+    <li>questDescription(askerIsNull==true)->Мы получили информацию о том, что [siteFaction_pawnsPlural] из [siteFaction_name] захватили старый геотермальный АРК. Бандиты укрепили свои позиции и используют это место для того, чтобы контролировать окрестности.\n\nВзяв под контроль этот объект, мы сможем изучить геотермальный АРК и извлечь отсюда ценные компоненты. Участок, скорее всего, хорошо обороняется, так что приготовьтесь к активному сопротивлению. Кроме того, [sitePart0_description].</li>
+
+    <!-- site descriptions -->
+    <li>sitePart0_description->местность частично заросла, а вокруг разбросаны остатки старых механизмов</li>
+    <li>sitePart0_description->бандиты укрепили район грубыми баррикадами и сторожевыми постами</li>
+    <li>sitePart0_description->геотермальный АРК выглядит сильно изношенным, но достаточно целым, чтобы использовать его детали</li>
+    <li>sitePart0_description->инфраструктура объекта всё ещё на месте, хотя и имеет признаки значительного износа</li>
+    <li>sitePart0_description->в этом районе замечены враждебные патрули, которые следят за тем, чтобы никто не подошёл незамеченным</li>
+    <li>sitePart0_description->похоже, что бандиты используют АРК для снабжения своей базы энергией</li>
+  </VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[adj] [arcType] [siteType]</li>
+
+    <li>adj->seized</li>
+    <li>adj->abandoned</li>
+    <li>adj->guarded</li>
+    <li>adj->ancient</li>
+    <li>adj->overrun</li>
+    <li>adj->occupied</li>
+    <li>adj->contested</li>
+    <li>adj->ruined</li>
+    <li>adj->forgotten</li>
+    <li>adj->hidden</li>
+
+    <li>arcType->geothermal ARC</li>
+    <li>arcType->ARC generator</li>
+    <li>arcType->geothermal core</li>
+    <li>arcType->ARC station</li>
+    <li>arcType->energy core</li>
+    <li>arcType->power source</li>
+    <li>arcType->geothermal plant</li>
+
+    <li>siteType->site</li>
+    <li>siteType->facility</li>
+    <li>siteType->outpost</li>
+    <li>siteType->complex</li>
+    <li>siteType->camp</li>
+    <li>siteType->station</li>
+  -->
+  <VQE_GeothermalArcSite.questNameRules.rulesStrings>
+    <!-- quest name -->
+    <li>questName->[adj] [siteType] с [arcType]</li>
+
+    <!-- adjectives -->
+    <li>adj->захваченный</li>
+    <li>adj->заброшенный</li>
+    <li>adj->охраняемый</li>
+    <li>adj->древний</li>
+    <li>adj->разграбленный</li>
+    <li>adj->оккупированный</li>
+    <li>adj->занятый</li>
+    <li>adj->разрушенный</li>
+    <li>adj->забытый</li>
+    <li>adj->скрытый</li>
+
+    <!-- ARC types -->
+    <li>arcType->геотермальным АРК</li>
+    <li>arcType->АРК генератором</li>
+    <li>arcType->геотермальным ядром</li>
+    <li>arcType->АРК станцией</li>
+    <li>arcType->энергетическим ядром</li>
+    <li>arcType->источником энергии</li>
+    <li>arcType->геотермальной установкой</li>
+
+    <!-- site types -->
+    <li>siteType->полигон</li>
+    <li>siteType->объект</li>
+    <li>siteType->аванпост</li>
+    <li>siteType->комплекс</li>
+    <li>siteType->лагерь</li>
+    <li>siteType->участок</li>
+  </VQE_GeothermalArcSite.questNameRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Бандиты свернули лагерь и отправились в другое место. Время, отведённое для задания [resolvedQuestName], истекло.</VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Поняв, что их местонахождение известно, бандиты свернули лагерь и отправились в другое место. Задание «[resolvedQuestName]» окончено.</VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>Оплата прибыла</VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>Вы уничтожили бандитский лагерь!\n\nПрибыла оплата от фракции [asker_faction_name].</VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
+  
+</LanguageData>

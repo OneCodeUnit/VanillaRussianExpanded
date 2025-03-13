@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->[dataDiscovery] revealed the location of a [adj] underground [structureType] where [inventor_nameFull] rests in cryptosleep. The journey will be grueling, as the site is afflicted by a[coldSnapDesc], bringing the region into unnaturally low temperatures. \n\nInside the bunker, a few [turretDefense] still guard the interior, powered by an ancient [arcName]. The ARC cannot be studied but can be deconstructed for [arcComponents]. Your primary task, however, is to reach the casket and release the inventor. Prepare carefully for the extreme cold or risk severe [hypothermiaDanger].</li>
+  
+    <li>questDescription->Recovered data points us to a [adj] bunker buried deep beneath a region suffering from a[coldSnapDesc]. It is here that [inventor_nameFull], the legendary mind behind the ARC project, lies sealed in cryptosleep. \n\nThe area’s temperatures are falling to dangerous lows, creating an immediate risk of [hypothermiaDanger] during your approach. Inside, [turretDefense] remain active, powered by an overgrown [arcName]. The ARC can be deconstructed for [arcComponents], but the real prize is freeing the inventor and bringing them back to your colony.</li>
+  
+    <li>questDescription->We’ve identified the location of a [adj] [structureType] where [inventor_nameFull] has been preserved in a cryptosleep casket. The area surrounding the site is cursed with a[coldSnapDesc], plummeting temperatures to deadly extremes. \n\nThe bunker itself houses a few [turretDefense], powered by an overgrown [arcName]. While the ARC cannot be studied, it can be salvaged for [arcComponents]. Be ready for freezing conditions and hypothermia as you attempt to retrieve the legendary inventor.</li>
+
+    <li>dataDiscovery->Ancient schematics</li>
+    <li>dataDiscovery->Decoded transmissions</li>
+    <li>dataDiscovery->Recovered coordinates</li>
+    <li>dataDiscovery->Archived data logs</li>
+
+    <li>adj->forgotten</li>
+    <li>adj->ancient</li>
+    <li>adj->hidden</li>
+    <li>adj->sealed</li>
+    <li>adj->abandoned</li>
+    <li>adj->overgrown</li>
+    <li>adj->mysterious</li>
+    <li>adj->remote</li>
+
+    <li>structureType->bunker</li>
+    <li>structureType->vault</li>
+    <li>structureType->sanctuary</li>
+    <li>structureType->chamber</li>
+    <li>structureType->crypt</li>
+    <li>structureType->facility</li>
+
+    <li>coldSnapDesc->n unnatural coldsnap</li>
+    <li>coldSnapDesc-> bizarre freezing anomaly</li>
+    <li>coldSnapDesc->n unexplainable cold front</li>
+    <li>coldSnapDesc-> mysterious deep freeze</li>
+    <li>coldSnapDesc-> sudden extreme temperature drop</li>
+    <li>coldSnapDesc-> deadly frost anomaly</li>
+
+    <li>turretDefense->inactive turrets that occasionally sputter to life</li>
+    <li>turretDefense->a handful of aging security turrets</li>
+    <li>turretDefense->old but still lethal automated turrets</li>
+    <li>turretDefense->sporadically functional defense systems</li>
+    <li>turretDefense->a few crumbling yet operational turrets</li>
+
+    <li>arcComponents->rare ARC components</li>
+    <li>arcComponents->valuable technological salvage</li>
+    <li>arcComponents->essential ARC salvage parts</li>
+    <li>arcComponents->advanced generator fragments</li>
+
+    <li>hypothermiaDanger->frostbite and hypothermia</li>
+    <li>hypothermiaDanger->rapid onset hypothermia</li>
+    <li>hypothermiaDanger->life-threatening cold exposure</li>
+    <li>hypothermiaDanger->freezing injuries and exhaustion</li>
+    <li>hypothermiaDanger->severe frostbite or death</li>
+    
+    <li>arcName->ARC generator</li>
+  -->
+  <VQE_InventorShelter.questDescriptionRules.rulesStrings>
+    <!-- quest description -->
+    <li>questDescription->[dataDiscovery] указывают на местонахождение [adj] подземного [structureType], где [inventor_nameFull] пребывает в криптосне. Путешествие будет изнурительным, так как место находится под воздействием [coldSnapDesc], из-за чего температура в этом районе неестественно низкая.\n\nВнутри бункера есть несколько [turretDefense], всё ещё питаемые древним [arcName]. Этот АРК нельзя изучить, но его можно разобрать, чтобы получить [arcComponents]. Впрочем, ваша главная задача - добраться до капсулы и освободить учёного. Тщательно подготовьтесь к экстремальным погодным условиям, иначе рискуете получить [hypothermiaDanger].</li>
+  
+    <li>questDescription->Обнаруженные данные раскрывают координаты расположенного глубоко под землёй [adj] бункера, в регионе, находящемся под воздействием [coldSnapDesc]. Именно здесь в криптосне лежит [inventor_nameFull] — легендарный учёный, стоящий за проектом АРК.\n\nТемпература в этом районе опускается до опасного минимума, что создаёт непосредственный риск получить [hypothermiaDanger] при походе туда. Внутри можно наткнуться на [turretDefense], которые питает покрытый зарослями [arcName]. Его можно разобрать и получить [arcComponents], но реальная награда — освобождение изобретателя и сопровождение его в ваше поселение.</li>
+  
+    <li>questDescription->Мы обнаружили местоположение [adj] [structureType], где в криптосне содержится [inventor_nameFull]. Территория, окружающая это место, находится под влиянием [ColdSnapDesc], что понижает температуру до смертельно опасных пределов.\n\nВ самом бункере можно обнаружить [turretDefense], которые питает покрытый зарослями [arcName]. Этот генератор нельзя изучить, но его можно разобрать, чтобы получить [arcComponents]. Будьте готовы к морозам и переохлаждению, если попытаетесь заполучить легендарного изобретателя.</li>
+  
+    <!-- data discovery -->
+    <li>dataDiscovery->Древние чертежи указывают</li>
+    <li>dataDiscovery->Расшифрованная передача указывает</li>
+    <li>dataDiscovery->Восстановленные координаты указывают</li>
+    <li>dataDiscovery->Архивные журналы данных указывают</li>
+  
+    <!-- adjectives -->
+    <li>adj->забытого</li>
+    <li>adj->древнего</li>
+    <li>adj->скрытого</li>
+    <li>adj->запечатанного</li>
+    <li>adj->забытого</li>
+    <li>adj->покрытого зарослями</li>
+    <li>adj->загадочного</li>
+    <li>adj->отдалённого</li>
+  
+    <!-- structure type -->
+    <li>structureType->бункера</li>
+    <li>structureType->убежища</li>
+    <li>structureType->святилища</li>
+    <li>structureType->хранилища</li>
+    <li>structureType->захоронения</li>
+    <li>structureType->комплекса</li>
+  
+    <!-- coldsnap descriptions -->
+    <li>coldSnapDesc->аномального холодного фронта</li>
+    <li>coldSnapDesc->странной ледяной аномалии</li>
+    <li>coldSnapDesc->необъяснимого похолодания</li>
+    <li>coldSnapDesc->странного всепоглощающего холода</li>
+    <li>coldSnapDesc->внезапного экстремального похолодания</li>
+    <li>coldSnapDesc->смертоносной ледяной аномалии</li>
+  
+    <!-- turret defense -->
+    <li>turretDefense->время от времени включающиеся турели</li>
+    <li>turretDefense->несколько ветхих охранных турелей</li>
+    <li>turretDefense->старые, но смертельно опасные турели</li>
+    <li>turretDefense->несколько периодически включающихся защитных систем</li>
+    <li>turretDefense->несколько разваливающихся, но работающих турелей</li>
+  
+    <!-- ARC components -->
+    <li>arcComponents->редкие АРК-компоненты</li>
+    <li>arcComponents->ценные технические детали</li>
+    <li>arcComponents->запчасти для АРК</li>
+    <li>arcComponents->продвинутые фрагменты генератора</li>
+  
+    <!-- hypothermia danger -->
+    <li>hypothermiaDanger->обморожение и гипотермию</li>
+    <li>hypothermiaDanger->быстро наступающее переохлаждение</li>
+    <li>hypothermiaDanger->опасное для жизни переохлаждение</li>
+    <li>hypothermiaDanger->обморожение и резкий упадок сил</li>
+    <li>hypothermiaDanger->потенциально летальное обморожение</li>
+    
+    <li>arcName->АРК генератор</li>
+  </VQE_InventorShelter.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[Inventor_LastName]’s [adj] [structureType]</li>
+  
+    <li>adj->forgotten</li>
+    <li>adj->ancient</li>
+    <li>adj->hidden</li>
+    <li>adj->abandoned</li>
+    <li>adj->sealed</li>
+    <li>adj->mysterious</li>
+    <li>adj->remote</li>
+    <li>adj->lost</li>
+    <li>adj->secret</li>
+    <li>adj->forsaken</li>
+
+    <li>structureType->bunker</li>
+    <li>structureType->vault</li>
+    <li>structureType->crypt</li>
+    <li>structureType->tomb</li>
+    <li>structureType->chamber</li>
+    <li>structureType->sanctuary</li>
+    <li>structureType->facility</li>
+    <li>structureType->shelter</li>
+  -->
+  <VQE_InventorShelter.questNameRules.rulesStrings>
+    <!-- quest name -->
+    <li>questName->[adj] [structureType] [Inventor_LastName]</li>
+  
+    <!-- adjectives -->
+    <li>adj->забытый</li>
+    <li>adj->древний</li>
+    <li>adj->скрытый</li>
+    <li>adj->покинутый</li>
+    <li>adj->запечатанный</li>
+    <li>adj->загадочный</li>
+    <li>adj->отдалённый</li>
+    <li>adj->потерянный</li>
+    <li>adj->секретный</li>
+    <li>adj->заброшенный</li>
+  
+    <!-- structure type -->
+    <li>structureType->бункер</li>
+    <li>structureType->курган</li>
+    <li>structureType->склеп</li>
+    <li>structureType->зал</li>
+    <li>structureType->последний приют</li>
+    <li>structureType->комплекс</li>
+    <li>structureType->схрон</li>
+  </VQE_InventorShelter.questNameRules.rulesStrings>
+  
+</LanguageData>
