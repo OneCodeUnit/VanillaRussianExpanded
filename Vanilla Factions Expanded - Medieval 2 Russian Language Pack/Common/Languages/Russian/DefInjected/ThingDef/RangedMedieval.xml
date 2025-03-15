@@ -8,7 +8,8 @@
   <VFEM2_ThrowingAxe.tools.0.label>рукоять</VFEM2_ThrowingAxe.tools.0.label>
   <!-- EN: blade -->
   <VFEM2_ThrowingAxe.tools.1.label>лезвие</VFEM2_ThrowingAxe.tools.1.label>
-
+  <!-- EN: throwing axe -->
+  <VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>метательный топор</VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>
   <!-- EN: thrown axe -->
   <VFEM2V_ThrowingAxe_Thrown.label>топор (брошенный)</VFEM2V_ThrowingAxe_Thrown.label>
 
@@ -20,6 +21,8 @@
   <VFEM2_Gun_Arquebus.tools.0.label>приклад</VFEM2_Gun_Arquebus.tools.0.label>
   <!-- EN: barrel -->
   <VFEM2_Gun_Arquebus.tools.1.label>ствол</VFEM2_Gun_Arquebus.tools.1.label>
+  <!-- EN: arquebus -->
+  <VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>аркебуза</VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>
 
   <!-- EN: arquebus grapeshot -->
   <VFEM2_Bullet_Arquebus.label>картечь аркебузы</VFEM2_Bullet_Arquebus.label>
@@ -32,6 +35,8 @@
   <VFEM2_Gun_HandCannon.tools.0.label>приклад</VFEM2_Gun_HandCannon.tools.0.label>
   <!-- EN: barrel -->
   <VFEM2_Gun_HandCannon.tools.1.label>ствол</VFEM2_Gun_HandCannon.tools.1.label>
+  <!-- EN: hand cannon -->
+  <VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>ручная пушка</VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>
 
   <!-- EN: handcannon grapeshot -->
   <VFEM2_Bullet_HandCannon.label>картечь ручной пушки</VFEM2_Bullet_HandCannon.label>
@@ -42,6 +47,8 @@
   <VFEM2_Arbalest.description>Мощный арбалет. Стреляет тяжёлыми болтами на большие расстояния, но для его взведения требуется много времени из-за медленного натяжного механизма.</VFEM2_Arbalest.description>
   <!-- EN: limb -->
   <VFEM2_Arbalest.tools.0.label>плечо</VFEM2_Arbalest.tools.0.label>
+  <!-- EN: arbalest -->
+  <VFEM2_Arbalest.verbs.Verb_Shoot.label>арбалет</VFEM2_Arbalest.verbs.Verb_Shoot.label>
 
   <!-- EN: arbalest bolt -->
   <VFEM2_Bolt_Arbalest.label>болт арбалета</VFEM2_Bolt_Arbalest.label>
@@ -52,6 +59,8 @@
   <VFEM2_Warbow.description>Более мощный и массивный вариант длинного лука. Хотя он не особо хорош против ближних целей, стрелы, выпущенные из боевого лука, летят по дуге над стенами и могут поражать цели, находящиеся вне поля зрения.</VFEM2_Warbow.description>
   <!-- EN: limb -->
   <VFEM2_Warbow.tools.0.label>плечо</VFEM2_Warbow.tools.0.label>
+  <!-- EN: warbow -->
+  <VFEM2_Warbow.verbs.Verb_Shoot.label>боевой лук</VFEM2_Warbow.verbs.Verb_Shoot.label>
 
   <!-- EN: warbow arrow -->
   <VFEM2_Arrow_Warbow.label>стрела боевого лука</VFEM2_Arrow_Warbow.label>
