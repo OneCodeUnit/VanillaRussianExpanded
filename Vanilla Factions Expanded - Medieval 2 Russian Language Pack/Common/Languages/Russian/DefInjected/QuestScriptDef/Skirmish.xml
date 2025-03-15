@@ -39,15 +39,22 @@
   </VFEM2_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
   
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VFEM2_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>Время задания истекло: [resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: The allied faction was defeated in the skirmish. The quest [resolvedQuestName] has expired. -->
-  <VFEM2_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>Союзная фракция потерпела поражение в схватке. Время, отведённое для задания [resolvedQuestName], истекло.</VFEM2_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Союзная фракция потерпела поражение в схватке. Время, отведённое для задания [resolvedQuestName], истекло.</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <VFEM2_OpportunitySite_Skirmish.root.nodes.14.node.nodes.0.label>Задание провалено: «[resolvedQuestName]»</VFEM2_OpportunitySite_Skirmish.root.nodes.14.node.nodes.0.label>
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: After leaving the site, the battle resolved itself without your help. The quest [resolvedQuestName] has ended. -->
-  <VFEM2_OpportunitySite_Skirmish.root.nodes.14.node.nodes.0.text>После того как вы покинули место схватки, битва завершилась без вашей помощи. Задание «[resolvedQuestName]» окончено.</VFEM2_OpportunitySite_Skirmish.root.nodes.14.node.nodes.0.text>
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После того как вы покинули место схватки, битва завершилась без вашей помощи. Задание «[resolvedQuestName]» окончено.</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+
+  <!-- EN: Payment arrived -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>Оплата прибыла</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the enemy forces!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>Вы уничтожили врагов!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>
+
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <VFEM2_OpportunitySite_Skirmish.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</VFEM2_OpportunitySite_Skirmish.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.label>
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEM2_OpportunitySite_Skirmish.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. {lookup: [asker_faction_royalFavorLabel]; Case; 1}.</VFEM2_OpportunitySite_Skirmish.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text>
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в успешном завершении задания [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. {lookup: [asker_faction_royalFavorLabel]; Case; 1}.</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
 </LanguageData>
