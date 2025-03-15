@@ -1,105 +1,129 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: norse -->
   <VFEM2_Structure_Norse.label>нордическая</VFEM2_Structure_Norse.label>
   <!-- EN: This ideoligion is a descendant of Germanic paganism, also known as Asatru. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <VFEM2_Structure_Norse.description>This ideoligion is a descendant of Germanic paganism, also known as Asatru. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</VFEM2_Structure_Norse.description>
-  <!-- EN: memeAdjective->norse -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.0>memeAdjective-&gt;norse</VFEM2_Structure_Norse.generalRules.rulesStrings.0>
-  <!-- EN: memeAdjective->heathen -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.1>memeAdjective-&gt;heathen</VFEM2_Structure_Norse.generalRules.rulesStrings.1>
-  <!-- EN: memeAdjective->pagan -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.2>memeAdjective-&gt;pagan</VFEM2_Structure_Norse.generalRules.rulesStrings.2>
-  <!-- EN: memeAdjective->ancestral -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.3>memeAdjective-&gt;ancestral</VFEM2_Structure_Norse.generalRules.rulesStrings.3>
-  <!-- EN: memeAdjective->traditional -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.4>memeAdjective-&gt;traditional</VFEM2_Structure_Norse.generalRules.rulesStrings.4>
-  <!-- EN: memeAdjective->old-faith -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.5>memeAdjective-&gt;old-faith</VFEM2_Structure_Norse.generalRules.rulesStrings.5>
-  <!-- EN: memeLeaderNoun->godi -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.6>memeLeaderNoun-&gt;godi</VFEM2_Structure_Norse.generalRules.rulesStrings.6>
-  <!-- EN: memeLeaderNoun->volva -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.7>memeLeaderNoun-&gt;volva</VFEM2_Structure_Norse.generalRules.rulesStrings.7>
-  <!-- EN: memeLeaderAdjective->sacred -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;sacred</VFEM2_Structure_Norse.generalRules.rulesStrings.8>
-  <!-- EN: memeLeaderAdjective->runic -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;runic</VFEM2_Structure_Norse.generalRules.rulesStrings.9>
-  <!-- EN: memeMoralist->skald -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.10>memeMoralist-&gt;skald</VFEM2_Structure_Norse.generalRules.rulesStrings.10>
-  <!-- EN: memeMoralist->seer -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.11>memeMoralist-&gt;seer</VFEM2_Structure_Norse.generalRules.rulesStrings.11>
-  <!-- EN: memeMoralist->wise one -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.12>memeMoralist-&gt;wise one</VFEM2_Structure_Norse.generalRules.rulesStrings.12>
-  <!-- EN: memeMoralist->sage -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.13>memeMoralist-&gt;sage</VFEM2_Structure_Norse.generalRules.rulesStrings.13>
-  <!-- EN: memeMoralist->keeper of lore -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.14>memeMoralist-&gt;keeper of lore</VFEM2_Structure_Norse.generalRules.rulesStrings.14>
-  <!-- EN: memeMoralist->rune master -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.15>memeMoralist-&gt;rune master</VFEM2_Structure_Norse.generalRules.rulesStrings.15>
-  <!-- EN: memeMoralist->spiritual guide -->
-  <VFEM2_Structure_Norse.generalRules.rulesStrings.16>memeMoralist-&gt;spiritual guide</VFEM2_Structure_Norse.generalRules.rulesStrings.16>
+  <VFEM2_Structure_Norse.description>Эта идеология является потомком германского язычества, также известного как Асатру. Она может сильно отличаться от той, что существовала тысячи лет назад, но её символы схожи.</VFEM2_Structure_Norse.description>
+  <!-- EN:
+    <li>memeAdjective->norse</li>
+    <li>memeAdjective->heathen</li>
+    <li>memeAdjective->pagan</li>
+    <li>memeAdjective->ancestral</li>
+    <li>memeAdjective->traditional</li>
+    <li>memeAdjective->old-faith</li>
+    <li>memeLeaderNoun->godi</li>
+    <li>memeLeaderNoun->volva</li>
+    <li>memeLeaderAdjective->sacred</li>
+    <li>memeLeaderAdjective->runic</li>
+    <li>memeMoralist->skald</li>
+    <li>memeMoralist->seer</li>
+    <li>memeMoralist->wise one</li>
+    <li>memeMoralist->sage</li>
+    <li>memeMoralist->keeper of lore</li>
+    <li>memeMoralist->rune master</li>
+    <li>memeMoralist->spiritual guide</li>
+  -->
+  <VFEM2_Structure_Norse.generalRules.rulesStrings>
+    <li>memeAdjective->нордическая</li>
+    <li>memeAdjective->языческая</li>
+    <li>memeAdjective->исконная</li>
+    <li>memeAdjective->родовая</li>
+    <li>memeAdjective->традиционная</li>
+    <li>memeAdjective->староверская</li>
+    <li>memeAdjective_masc->нордический</li>
+    <li>memeAdjective_masc->языческий</li>
+    <li>memeAdjective_masc->исконный</li>
+    <li>memeAdjective_masc->родовой</li>
+    <li>memeAdjective_masc->традиционный</li>
+    <li>memeAdjective_masc->староверский</li>    
+    <li>memeAdjective_fem->нордическая</li>
+    <li>memeAdjective_fem->языческая</li>
+    <li>memeAdjective_fem->исконная</li>
+    <li>memeAdjective_fem->родовая</li>
+    <li>memeAdjective_fem->традиционная</li>
+    <li>memeAdjective_fem->староверская</li>
+    <li>memeAdjective_neutral->нордическое</li>
+    <li>memeAdjective_neutral->языческое</li>
+    <li>memeAdjective_neutral->исконное</li>
+    <li>memeAdjective_neutral->родовое</li>
+    <li>memeAdjective_neutral->традиционное</li>
+    <li>memeAdjective_neutral->староверское</li>
+    <li>memeAdjective_plural->нордические</li>
+    <li>memeAdjective_plural->языческие</li>
+    <li>memeAdjective_plural->исконные</li>
+    <li>memeAdjective_plural->родовые</li>
+    <li>memeAdjective_plural->традиционные</li>
+    <li>memeAdjective_plural->староверские</li>
+    <li>memeLeaderNoun->годи</li>
+    <li>memeLeaderNoun->вёльва</li>
+    <li>memeLeaderAdjective->священная</li>
+    <li>memeLeaderAdjective->руническая</li>
+    <li>memeMoralist->скальд</li>
+    <li>memeMoralist->провидец</li>
+    <li>memeMoralist->мудрец</li>
+    <li>memeMoralist->мудрый</li>
+    <li>memeMoralist->хранитель преданий</li>
+    <li>memeMoralist->мастер рун</li>
+    <li>memeMoralist->духовный проводник</li>
+  </VFEM2_Structure_Norse.generalRules.rulesStrings>
   <!-- EN: norse -->
   <VFEM2_Structure_Norse.symbolPacks.0.adjective>нордическая</VFEM2_Structure_Norse.symbolPacks.0.adjective>
   <!-- EN: Odin -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.0.name>Odin</VFEM2_Structure_Norse.fixedDeityNameTypes.0.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.0.name>Один</VFEM2_Structure_Norse.fixedDeityNameTypes.0.name>
   <!-- EN: Thor -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.1.name>Thor</VFEM2_Structure_Norse.fixedDeityNameTypes.1.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.1.name>Тор</VFEM2_Structure_Norse.fixedDeityNameTypes.1.name>
   <!-- EN: Frigg -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.2.name>Frigg</VFEM2_Structure_Norse.fixedDeityNameTypes.2.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.2.name>Фригг</VFEM2_Structure_Norse.fixedDeityNameTypes.2.name>
   <!-- EN: Loki -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.3.name>Loki</VFEM2_Structure_Norse.fixedDeityNameTypes.3.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.3.name>Локи</VFEM2_Structure_Norse.fixedDeityNameTypes.3.name>
   <!-- EN: Baldr -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.4.name>Baldr</VFEM2_Structure_Norse.fixedDeityNameTypes.4.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.4.name>Бальдр</VFEM2_Structure_Norse.fixedDeityNameTypes.4.name>
   <!-- EN: Tyr -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.5.name>Tyr</VFEM2_Structure_Norse.fixedDeityNameTypes.5.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.5.name>Тюр</VFEM2_Structure_Norse.fixedDeityNameTypes.5.name>
   <!-- EN: Freya -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.6.name>Freya</VFEM2_Structure_Norse.fixedDeityNameTypes.6.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.6.name>Фрейя</VFEM2_Structure_Norse.fixedDeityNameTypes.6.name>
   <!-- EN: Freyr -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.7.name>Freyr</VFEM2_Structure_Norse.fixedDeityNameTypes.7.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.7.name>Фрейр</VFEM2_Structure_Norse.fixedDeityNameTypes.7.name>
   <!-- EN: Njord -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.8.name>Njord</VFEM2_Structure_Norse.fixedDeityNameTypes.8.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.8.name>Ньёрд</VFEM2_Structure_Norse.fixedDeityNameTypes.8.name>
   <!-- EN: Skadi -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.9.name>Skadi</VFEM2_Structure_Norse.fixedDeityNameTypes.9.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.9.name>Скади</VFEM2_Structure_Norse.fixedDeityNameTypes.9.name>
   <!-- EN: Heimdall -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.10.name>Heimdall</VFEM2_Structure_Norse.fixedDeityNameTypes.10.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.10.name>Хеймдалль</VFEM2_Structure_Norse.fixedDeityNameTypes.10.name>
   <!-- EN: Hel -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.11.name>Hel</VFEM2_Structure_Norse.fixedDeityNameTypes.11.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.11.name>Хель</VFEM2_Structure_Norse.fixedDeityNameTypes.11.name>
   <!-- EN: Fenrir -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.12.name>Fenrir</VFEM2_Structure_Norse.fixedDeityNameTypes.12.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.12.name>Фенрир</VFEM2_Structure_Norse.fixedDeityNameTypes.12.name>
   <!-- EN: Jörmungandr -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.13.name>Jörmungandr</VFEM2_Structure_Norse.fixedDeityNameTypes.13.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.13.name>Ёрмунганд</VFEM2_Structure_Norse.fixedDeityNameTypes.13.name>
   <!-- EN: Idunn -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.14.name>Idunn</VFEM2_Structure_Norse.fixedDeityNameTypes.14.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.14.name>Идунн</VFEM2_Structure_Norse.fixedDeityNameTypes.14.name>
   <!-- EN: Bragi -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.15.name>Bragi</VFEM2_Structure_Norse.fixedDeityNameTypes.15.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.15.name>Браги</VFEM2_Structure_Norse.fixedDeityNameTypes.15.name>
   <!-- EN: Sigyn -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.16.name>Sigyn</VFEM2_Structure_Norse.fixedDeityNameTypes.16.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.16.name>Сигюн</VFEM2_Structure_Norse.fixedDeityNameTypes.16.name>
   <!-- EN: Vidar -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.17.name>Vidar</VFEM2_Structure_Norse.fixedDeityNameTypes.17.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.17.name>Видар</VFEM2_Structure_Norse.fixedDeityNameTypes.17.name>
   <!-- EN: Vali -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.18.name>Vali</VFEM2_Structure_Norse.fixedDeityNameTypes.18.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.18.name>Вали</VFEM2_Structure_Norse.fixedDeityNameTypes.18.name>
   <!-- EN: Magni -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.19.name>Magni</VFEM2_Structure_Norse.fixedDeityNameTypes.19.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.19.name>Магни</VFEM2_Structure_Norse.fixedDeityNameTypes.19.name>
   <!-- EN: Modi -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.20.name>Modi</VFEM2_Structure_Norse.fixedDeityNameTypes.20.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.20.name>Моди</VFEM2_Structure_Norse.fixedDeityNameTypes.20.name>
   <!-- EN: Surt -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.21.name>Surt</VFEM2_Structure_Norse.fixedDeityNameTypes.21.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.21.name>Сурт</VFEM2_Structure_Norse.fixedDeityNameTypes.21.name>
   <!-- EN: Ymir -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.22.name>Ymir</VFEM2_Structure_Norse.fixedDeityNameTypes.22.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.22.name>Имир</VFEM2_Structure_Norse.fixedDeityNameTypes.22.name>
   <!-- EN: Mimir -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.23.name>Mimir</VFEM2_Structure_Norse.fixedDeityNameTypes.23.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.23.name>Мимир</VFEM2_Structure_Norse.fixedDeityNameTypes.23.name>
   <!-- EN: Ran -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.24.name>Ran</VFEM2_Structure_Norse.fixedDeityNameTypes.24.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.24.name>Ран</VFEM2_Structure_Norse.fixedDeityNameTypes.24.name>
   <!-- EN: Aegir -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.25.name>Aegir</VFEM2_Structure_Norse.fixedDeityNameTypes.25.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.25.name>Эгир</VFEM2_Structure_Norse.fixedDeityNameTypes.25.name>
   <!-- EN: Nidhogg -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.26.name>Nidhogg</VFEM2_Structure_Norse.fixedDeityNameTypes.26.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.26.name>Нидхёгг</VFEM2_Structure_Norse.fixedDeityNameTypes.26.name>
   <!-- EN: Gullveig -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.27.name>Gullveig</VFEM2_Structure_Norse.fixedDeityNameTypes.27.name>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.27.name>Гуллвейг</VFEM2_Structure_Norse.fixedDeityNameTypes.27.name>
   <!-- EN: Kvasir -->
-  <VFEM2_Structure_Norse.fixedDeityNameTypes.28.name>Kvasir</VFEM2_Structure_Norse.fixedDeityNameTypes.28.name>
-
-
-
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.28.name>Квасир</VFEM2_Structure_Norse.fixedDeityNameTypes.28.name>
 </LanguageData>
