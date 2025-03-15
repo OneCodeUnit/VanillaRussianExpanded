@@ -50,6 +50,12 @@
   <VFEM2_MeleeWeapon_Standard.tools.0.label>древко</VFEM2_MeleeWeapon_Standard.tools.0.label>
   <!-- EN: shaft -->
   <VFEM2_MeleeWeapon_Standard.tools.1.label>древко</VFEM2_MeleeWeapon_Standard.tools.1.label>
+  <!-- EN: Can’t use Rally: No enemies on the map. -->
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>Нельзя использовать воодушевление: нет врагов на карте</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>
+  <!-- EN: Already using Rally. -->
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>Воодушевление уже используется</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>
+  <!-- EN: Create an aura that rallies everyone nearby, stopping their mental breaks and preventing them from breaking again. The effect lasts 12 hours and remains attached to the standard-bearer for the duration. -->
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>Создать ауру, которая воодушевляет всех находящихся поблизости, останавливая текущие нервные срывы и предотвращая новые. Эффект длится 12 часов и остаётся привязанным к знаменосцу на всё время действия.</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>
 
   <!-- EN: pike -->
   <VFEM2_MeleeWeapon_Pike.label>пика</VFEM2_MeleeWeapon_Pike.label>
