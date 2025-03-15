@@ -5,7 +5,7 @@
   <!-- EN: A light blue liquid that’s sparkling with a subtle effervescence. When the user drinks it, it restores some of their psychic focus and enhances their psychic sensitivity, allowing for clearer mental processing and heightened awareness. However, this increased mental activity significantly raises the user's hunger rate, making them need to eat more often. Additionally, the relentless mental buzz from the draught leads to a noticeable drop in mood due to the overwhelming flow of thoughts. -->
   <VFEM2_ClarityDraught.description>Светло-голубая жидкость, искрящаяся с лёгким шипением. Она восстанавливает часть пси-концентрации и увеличивает психочувствительность, обеспечивая более ясность мыслей и повышенное восприятие. Однако эта повышенная умственная активность значительно увеличивает скорость прироста голода, заставляя есть чаще. Кроме того, непрекращающийся ментальный гул от настойки приводит к заметному ухудшению настроения из-за давящего потока мыслей.</VFEM2_ClarityDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_ClarityDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_ClarityDraught.comps.1.useLabel>
+  <VFEM2_ClarityDraught.comps.CompUsable.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_ClarityDraught.comps.CompUsable.useLabel>
   <!-- EN: Ingest {0} -->
   <VFEM2_ClarityDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_ClarityDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
