@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Factions Expanded - Medieval 2 Russian Language Pack</name>
+  <author>OliveWizard</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>OW.RU.Medieval2</packageId>
+  <description>Перевод на русский язык мода Vanilla Factions Expanded - Medieval 2. Подробности ищите на странице в мастерской.</description>
+  <modDependencies>
+    <li>
+      <packageId>OskarPotocki.VFE.Medieval2</packageId>
+      <displayName>Vanilla Factions Expanded - Medieval 2</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3444347874</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>OskarPotocki.VFE.Medieval2</li>
+  </loadAfter>
+</ModMetaData>

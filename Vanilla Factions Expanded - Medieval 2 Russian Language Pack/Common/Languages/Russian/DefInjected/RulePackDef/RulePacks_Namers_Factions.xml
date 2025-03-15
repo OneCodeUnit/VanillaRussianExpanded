@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM2_NamerFactionMedieval.rulePack.rulesFiles>
+    <li>union_med->Words/Med_PoliticalUnions_Medieval</li>
+  </VFEM2_NamerFactionMedieval.rulePack.rulesFiles>
+  <!-- EN:
+    <li>r_name(p=0.35)->[PlaceOutlander]</li>
+    <li>r_name->the [political_union_medieval] of [PlaceOutlander]</li>
+    <li>r_name->[PlaceOutlander] [political_union_medieval]</li>
+  -->
+  <VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+    <li>r_name(p=0.35)->[PlaceOutlander]</li>
+    <li>r_name->[union_med] [PlaceOutlander]</li>
+  </VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+
+  <VFEM2_NamerSettlementMedieval.rulePack.rulesFiles>
+    <li>SettlementMed->Words/Med_PlaceEnd_Medieval</li>
+    <li>TerrainMed->Words/Med_TerrainFeatures_Prepos</li>
+    <li>AnimalMed->Words/Med_Animals_Badass_Genitive</li>
+  </VFEM2_NamerSettlementMedieval.rulePack.rulesFiles>
+  <!-- EN:
+    <li>r_name(p=4)->[PlaceOutlander] [medievalSettlementEnd]</li>
+    <li>r_name->[AnimalBadass]'s [medievalSettlementEnd]-on-the-[TerrainFeature]</li>
+    <li>r_name->[AnimalBadass]'s [medievalSettlementEnd]-by-the-[TerrainFeature]</li>
+  -->
+  <VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+    <li>r_name(p=4)->[SettlementMed] [PlaceOutlander]</li>
+    <li>r_name->[SettlementMed] [AnimalMed] на [TerrainMed]</li>
+    <li>r_name->[SettlementMed] [AnimalMed]</li>
+  </VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+
+  <VFEM2_NamerPersonMedieval.rulePack.rulesFiles>
+    <li>Name_First_Male->Words/Med_First_Male</li>
+    <li>Name_Last->Words/Med_Last</li>
+  </VFEM2_NamerPersonMedieval.rulePack.rulesFiles>
+  <!-- EN:
+    <li>r_name(p=2)->[Medieval_First_Male] [Medieval_Last]</li>
+  -->
+  <VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Name_First_Male] [Name_Last]</li>
+  </VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+
+  <VFEM2_NamerPersonMedievalFemale.rulePack.rulesFiles>
+    <li>Name_First_Female->Words/Med_First_Female</li>
+    <li>Name_Last->Words/Med_Last</li>
+  </VFEM2_NamerPersonMedievalFemale.rulePack.rulesFiles>
+  <!-- EN:
+    <li>r_name(p=2)->[Medieval_First_Female] [Medieval_Last]</li>
+  -->
+  <VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Name_First_Female] [Name_Last]</li>
+  </VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+
+
+
+
+  <VFEM2_NamerFactionViking.rulePack.rulesFiles>
+    <li>NorseNamesN->Words/RuNamesN</li>
+    <li>ColorS->Words/ColorsS</li>
+    <li>ANordic->Words/AnimalsNordicN</li>
+  </VFEM2_NamerFactionViking.rulePack.rulesFiles>
+  <!-- EN:
+    <li>r_name->The [AnimalNordic] Clan</li>
+    <li>r_name->The [Color] [AnimalNordic] Clan</li>
+    <li>r_name->[NorseNames]'s Clan</li>
+  -->
+  <VFEM2_NamerFactionViking.rulePack.rulesStrings>
+    <li>r_name->Клан [ANordic]</li>
+    <li>r_name->[ColorS] клан [ANordic]</li>
+    <li>r_name->Клан [NorseNamesN]</li>
+  </VFEM2_NamerFactionViking.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vast</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->vix</li>
+    <li>townendevil->tor</li>
+    <li>townendevil->tear</li>
+    <li>townendevil->cut</li>
+    <li>townendevil->lop</li>
+    <li>townendevil->oze</li>
+    <li>townendevil->ozzle</li>
+    <li>townendevil->latch</li>
+    <li>townendevil->lock</li>
+    <li>townendevil->burn</li>
+    <li>townendevil->sear</li>
+    <li>townendevil->shank</li>
+    <li>townendevil->hurt</li>
+    <li>townendevil->vash</li>
+    <li>townendevil->warg</li>
+    <li>townendevil->wug</li>
+    <li>townendevil->thot</li>
+    <li>townendevil->thard</li>
+    <li>townendevil->thad</li>
+  -->
+  <VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->васт</li>
+    <li>townendevil->варг</li>
+    <li>townendevil->викс</li>
+    <li>townendevil->тор</li>
+    <li>townendevil->тир</li>
+    <li>townendevil->кат</li>
+    <li>townendevil->лоп</li>
+    <li>townendevil->оз</li>
+    <li>townendevil->озле</li>
+    <li>townendevil->лач</li>
+    <li>townendevil->лок</li>
+    <li>townendevil->бёрн</li>
+    <li>townendevil->сир</li>
+    <li>townendevil->шенк</li>
+    <li>townendevil->хурт</li>
+    <li>townendevil->ваш</li>
+    <li>townendevil->ванг</li>
+    <li>townendevil->вюг</li>
+    <li>townendevil->тот</li>
+    <li>townendevil->фард</li>
+    <li>townendevil->фэд</li>
+  </VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+
+  <VFEM2_NamerPersonViking.rulePack.rulesFiles>
+    <li>NorseNamesC->Words/RuNames</li>
+    <li>NorseNamesN->Words/RuNamesN</li>
+    <li>AnimalV->Words/Animals_Badass_Genitive</li>
+    <li>AnimalV->Words/Animals_Badass_Genitive_Plural</li>
+    <li>ColorS->Words/ColorsS</li>
+    <li>AnimalM->Words/Animals_Badass_Masc</li>
+  </VFEM2_NamerPersonViking.rulePack.rulesFiles>
+  <!-- EN:
+    <li>r_name(p=2)->[NorseNames] [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]berg</li>
+    <li>r_name->[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</li>
+    <li>r_name->[NorseNames] '[Color] [Animal]' [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]-son</li>
+    <li>r_name->[NorseNames] '[NorseNames]son' of [Animal] clan</li>
+  -->
+  <VFEM2_NamerPersonViking.rulePack.rulesStrings>
+    <li>r_name(p=2)->[NorseNamesC] [NorseNamesC]сон</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]берг</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]сон [Slayer] [AnimalV]</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]сон [ColorS] [AnimalM]</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]сон</li>
+    <li>r_name->[NorseNamesC] [NorseNamesC]сон из клана [AnimalV]</li>
+    <li>Slayer->убийца</li>
+    <li>Slayer->гроза</li>
+    <li>Slayer->погибель</li>
+  </VFEM2_NamerPersonViking.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->king</li>
+  -->
+  <VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->король</li>
+  </VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->jarl</li>
+  -->
+  <VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->ярл</li>
+  </VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->guildmaster</li>
+  -->
+  <VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->глава гильдии</li>
+  </VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+</LanguageData>

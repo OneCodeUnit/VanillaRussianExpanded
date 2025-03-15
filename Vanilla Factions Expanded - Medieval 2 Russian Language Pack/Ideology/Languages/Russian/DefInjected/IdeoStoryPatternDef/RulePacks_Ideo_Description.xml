@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>lesson(priority=-1)->things happen</li>
+    <li>r_pattern->"[r_asatruLessonIntro] [r_lesson]. [r_lessonReinforcement] [r_asatruLessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->fragment of a [edited] [saga] found [museum]</li>
+    <li>edited->damaged</li>
+    <li>edited->misinterpreted</li>
+    <li>edited->ancient</li>
+    <li>edited->forgotten</li>
+    <li>edited->preserved</li>
+    <li>saga->Edda</li>
+    <li>saga->rune stone inscription</li>
+    <li>saga->skaldic verse</li>
+    <li>saga->ancient saga</li>
+    <li>museum->in the archive of Yggdrasil Station</li>
+    <li>museum->on a distant star colony named Himinbjörg</li>
+    <li>museum->in the Imperial Hall of Ancient Relics</li>
+    <li>museum->in the ruins of Jotunheim Prime</li>
+    <li>museum->in the vaults of the Keepers of Memory</li>
+    <li>asatruLessonIntro->Hear the words of Odin, All-Father, who whispers from the Well of Urd:</li>
+    <li>asatruLessonIntro->Lo, the verses of the Völuspá proclaim to all who would listen:</li>
+    <li>asatruLessonIntro->Take heed of Thor's hammer as it strikes, for it teaches:</li>
+    <li>asatruLessonIntro->Hark, the ravens Huginn and Muninn circle and cry their truth:</li>
+    <li>asatruLessonIntro->Under the shade of Yggdrasil, the gods did gather and declare:</li>
+    <li>asatruLessonIntro->By the light of Baldr's blessing, know this:</li>
+    <li>asatruLessonIntro->On the fjords of the Nine Worlds, wisdom echoes, saying:</li>
+    <li>asatruLessonIntro->The runes carved deep into the stones of Midgard teach us thus:</li>
+    <li>asatruLessonReinforcement->May your deeds echo in the halls of Valhalla.</li>
+    <li>asatruLessonReinforcement->The Norns weave your destiny with threads of honor.</li>
+    <li>asatruLessonReinforcement->Stand firm, for the gods reward courage and resolve.</li>
+    <li>asatruLessonReinforcement->Hail, for your actions shall inspire skalds to song.</li>
+    <li>asatruLessonReinforcement->The hammer of Thor blesses those who uphold truth and strength.</li>
+    <li>asatruLessonReinforcement->The All-Father watches those who honor the old ways.</li>
+    <li>asatruLessonReinforcement->May you find victory in the sacred bonds of kinship.</li>
+    <li>lessonReinforcement->And so the tale will live on.</li>
+  -->
+  <VFEM2_Structure_Norse_Description.rules.rulesStrings>
+    <li>lesson(priority=-1)->события происходят</li>
+    <li>r_pattern->«[r_asatruLessonIntro] [r_lesson]. [r_lessonReinforcement] [r_asatruLessonReinforcement]»\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->фрагмент [edited] [saga], найденный [museum]</li>
+    <li>edited->повреждённой</li>
+    <li>edited->неверно интерпретированной</li>
+    <li>edited->древней</li>
+    <li>edited->забытой</li>
+    <li>edited->сохранившейся</li>
+    <li>saga->Эдды</li>
+    <li>saga->рунической надписи</li>
+    <li>saga->скальдического стиха</li>
+    <li>saga->древней саги</li>
+    <li>museum->в архиве станции Иггдрасиль</li>
+    <li>museum->в далёкой звёздной колонии под названием Химинбьёрг</li>
+    <li>museum->в Имперском Зале Древних Реликвий</li>
+    <li>museum->в руинах Йотунхейма-Прайм</li>
+    <li>museum->в хранилищах Хранителей Памяти</li>
+    <li>asatruLessonIntro->Услышь слова Одина, Всеотца, что шепчет из колодца Урд:</li>
+    <li>asatruLessonIntro->Внимайте, стихи Вёльвы провозглашают всем, кто готов слушать:</li>
+    <li>asatruLessonIntro->Внимай удару молота Тора, ибо он учит:</li>
+    <li>asatruLessonIntro->Слушай, вороны Хугин и Мунин кружат и возвещают истину:</li>
+    <li>asatruLessonIntro->Под сенью Иггдрасиля боги собрались и провозгласили:</li>
+    <li>asatruLessonIntro->При свете благословения Бальдра, знай это:</li>
+    <li>asatruLessonIntro->По фьордам Девяти Миров эхом разносится мудрость, гласящая:</li>
+    <li>asatruLessonIntro->Руны, глубоко вырезанные на камнях Мидгарда, учат нас так:</li>
+    <li>asatruLessonReinforcement->Пусть ваши деяния эхом разносятся в залах Вальгаллы.</li>
+    <li>asatruLessonReinforcement->Норны плетут твою судьбу нитями чести.</li>
+    <li>asatruLessonReinforcement->Стойте твёрдо, ибо боги вознаграждают мужество и решимость.</li>
+    <li>asatruLessonReinforcement->Славься, ибо твои деяния вдохновят скальдов на песни.</li>
+    <li>asatruLessonReinforcement->Молот Тора благословляет тех, кто поддерживает правду и силу.</li>
+    <li>asatruLessonReinforcement->Всеотец наблюдает за теми, кто чтит старые пути.</li>
+    <li>asatruLessonReinforcement->Пусть обретёшь победу в священных узах родства.</li>
+    <li>lessonReinforcement->И так эта история будет жить дальше.</li>
+  </VFEM2_Structure_Norse_Description.rules.rulesStrings>
+</LanguageData>

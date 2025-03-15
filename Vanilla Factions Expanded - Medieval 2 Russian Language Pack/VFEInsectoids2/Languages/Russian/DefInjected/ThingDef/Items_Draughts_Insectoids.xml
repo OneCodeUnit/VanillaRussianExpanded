@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: royal jelly draught -->
+  <VFEM2_RoyalJellyDraught.label>настойка из королевского желе</VFEM2_RoyalJellyDraught.label>
+  <!-- EN: A shimmering golden liquid. When the user drinks it, it significantly improves their immunity gain speed, enhancing their body's natural defenses against diseases and infections. Additionally, this draught boosts the user's consciousness and movement speed, sharpening their mental alertness and enhancing their physical agility. Upon consumption, it also lowers the progress of any ongoing infections by 5%. -->
+  <VFEM2_RoyalJellyDraught.description>Мерцающая золотистая жидкость. Значительно улучшает скорость выработки иммунитета, усиливая естественную защиту организма от болезней и инфекций. Кроме того, эта настойка повышает сознание и скорость передвижения, обостряя умственную бдительность и физическую подвижность. При употреблении также снижает прогресс любых протекающих инфекций на 5%.</VFEM2_RoyalJellyDraught.description>
+  <!-- EN: Use {0_label} -->
+  <VFEM2_RoyalJellyDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_RoyalJellyDraught.comps.1.useLabel>
+  <!-- EN: Ingest {0} -->
+  <VFEM2_RoyalJellyDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_RoyalJellyDraught.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <VFEM2_RoyalJellyDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_RoyalJellyDraught.ingestible.ingestReportString>
+</LanguageData>
