@@ -4,6 +4,12 @@
   <VFEM2_Turret_WallMountedArbalest.label>стационарный арбалет</VFEM2_Turret_WallMountedArbalest.label>
   <!-- EN: A stationary heavy arbalest mounted on a low castle wall to grant cover. While reload speed leaves a lot to be desired, arbalest has an extremely long range, provided there is line of sight on the target. -->
   <VFEM2_Turret_WallMountedArbalest.description>Стационарный тяжёлый арбалет, установленный на низкой крепостной стене для обеспечения укрытия. Хотя скорость перезарядки оставляет желать лучшего, арбалет обладает чрезвычайно большой дальностью стрельбы при условии прямой видимости цели.</VFEM2_Turret_WallMountedArbalest.description>
+  <!-- EN: Arbalest bolts -->
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>Арбалетные болты</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Arbalest bolts loaded -->
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>Болтов заряжено</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs reloading -->
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется перезарядка</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: arbalest bolt -->
   <VFEM2_Bolt_ArbalestTurret.label>болт арбалета</VFEM2_Bolt_ArbalestTurret.label>
@@ -12,14 +18,24 @@
   <VFEM2_Gun_ArbalestTurret.label>арбалет</VFEM2_Gun_ArbalestTurret.label>
   <!-- EN: A stationary heavy arbalest mounted on a low castle wall to grant cover. While reload speed leaves a lot to be desired, arbalest has an extremely long range, provided there is line of sight on the target. -->
   <VFEM2_Gun_ArbalestTurret.description>Стационарный тяжёлый арбалет, установленный на низкой крепостной стене для обеспечения укрытия. Хотя скорость перезарядки оставляет желать лучшего, арбалет обладает чрезвычайно большой дальностью стрельбы при условии прямой видимости цели.</VFEM2_Gun_ArbalestTurret.description>
+  <!-- EN: arbalest -->
+  <VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>арбалет</VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>
 
   <!-- EN: wall-mounted arquebus -->
   <VFEM2_Turret_WallMountedArquebus.label>стационарная аркебуза</VFEM2_Turret_WallMountedArquebus.label>
   <!-- EN: A stationary arquebus mounted on a low castle wall to grant cover. Because of the added stability, the wall-mounted arquebus can fire much further than normal. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
   <VFEM2_Turret_WallMountedArquebus.description>Стационарная аркебуза, установленная на низкой крепостной стене для обеспечения укрытия. Благодаря дополнительной устойчивости она аркебуза может стрелять намного дальше, чем обычная. Но свинцовые шары с расстоянием начинают терять скорость и урон и крайне неэффективны против брони. Из-за использования химпороха выстреле из аркебузы выходят клубы слепящего дыма.</VFEM2_Turret_WallMountedArquebus.description>
+  <!-- EN: Barrel durability -->
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>требуется замена ствола</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: arquebus -->
   <VFEM2_Gun_ArquebusTurret.label>аркебуза</VFEM2_Gun_ArquebusTurret.label>
   <!-- EN: A stationary arquebus mounted on a low castle wall to grant cover. Because of the added stability, the wall-mounted arquebus can fire much further than normal. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
   <VFEM2_Gun_ArquebusTurret.description>Стационарная аркебуза, установленная на низкой крепостной стене для обеспечения укрытия. Благодаря дополнительной устойчивости она аркебуза может стрелять намного дальше, чем обычная. Но свинцовые шары с расстоянием начинают терять скорость и урон и крайне неэффективны против брони. Из-за использования химпороха выстреле из аркебузы выходят клубы слепящего дыма.</VFEM2_Gun_ArquebusTurret.description>
+  <!-- EN: arquebus -->
+  <VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>аркебуза</VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>
 </LanguageData>
