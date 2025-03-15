@@ -1,160 +1,156 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: immunization draught -->
-  <VFEM2_ImmunizationDraught.label>immunization draught</VFEM2_ImmunizationDraught.label>
+  <VFEM2_ImmunizationDraught.label>настойка иммунитета</VFEM2_ImmunizationDraught.label>
   <!-- EN: An amber-colored drink with tiny particles floating in it that bolsters the immune system of anyone that drinks it. While it helps them fight off sickness better, the downside is that it makes the user feel much more tired after drinking it, as well as overall makes the user get sleepy much faster than usual. The effects of the draught are strongest immediately after consumption, and then slowly fade away over the following days. -->
-  <VFEM2_ImmunizationDraught.description>An amber-colored drink with tiny particles floating in it that bolsters the immune system of anyone that drinks it. While it helps them fight off sickness better, the downside is that it makes the user feel much more tired after drinking it, as well as overall makes the user get sleepy much faster than usual. The effects of the draught are strongest immediately after consumption, and then slowly fade away over the following days.</VFEM2_ImmunizationDraught.description>
+  <VFEM2_ImmunizationDraught.description>Напиток янтарного цвета с плавающими в нём мелкими частицами, который укрепляет иммунную систему выпившего. Хотя это помогает лучше бороться с болезнями, обратной стороной является то, что выпивший чувствует сильную усталость после приёма, а также в целом становится сонливым гораздо быстрее обычного. Эффекты настойки наиболее сильны сразу после употребления, а затем медленно угасают в течение следующих дней.</VFEM2_ImmunizationDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_ImmunizationDraught.comps.1.useLabel>Use {0_label}</VFEM2_ImmunizationDraught.comps.1.useLabel>
+  <VFEM2_ImmunizationDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_ImmunizationDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_ImmunizationDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_ImmunizationDraught.ingestible.ingestCommandString>
+  <VFEM2_ImmunizationDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_ImmunizationDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_ImmunizationDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_ImmunizationDraught.ingestible.ingestReportString>
+  <VFEM2_ImmunizationDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_ImmunizationDraught.ingestible.ingestReportString>
 
   <!-- EN: healing draught -->
-  <VFEM2_HealingDraught.label>healing draught</VFEM2_HealingDraught.label>
-  <!-- EN: A vibrant red liquid. When the user drinks it, it greatly enhances their injury healing rate, speeding up the process of wound closure and tissue repair. This potion works by boosting the body’s natural healing mechanisms, making recovery from injuries much quicker. -->
-  <VFEM2_HealingDraught.description>A vibrant red liquid. When the user drinks it, it greatly enhances their injury healing rate, speeding up the process of wound closure and tissue repair. This potion works by boosting the body’s natural healing mechanisms, making recovery from injuries much quicker.</VFEM2_HealingDraught.description>
+  <VFEM2_HealingDraught.label>лечебная настойка</VFEM2_HealingDraught.label>
+  <!-- EN: A vibrant red liquid. When the user drinks it, it greatly enhances their injury healing rate, speeding up the process of wound closure and tissue repair. This potion works by boosting the body's natural healing mechanisms, making recovery from injuries much quicker. -->
+  <VFEM2_HealingDraught.description>Ярко-красная жидкость. Значительно повышает скорость лечения, ускоряя процесс закрытия ран и восстановления тканей. Это зелье действует за счёт усиления естественных механизмов восстановления организма, позволяя быстрее восстанавливаться.</VFEM2_HealingDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_HealingDraught.comps.1.useLabel>Use {0_label}</VFEM2_HealingDraught.comps.1.useLabel>
+  <VFEM2_HealingDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_HealingDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_HealingDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_HealingDraught.ingestible.ingestCommandString>
+  <VFEM2_HealingDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_HealingDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_HealingDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_HealingDraught.ingestible.ingestReportString>
+  <VFEM2_HealingDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_HealingDraught.ingestible.ingestReportString>
 
   <!-- EN: strength draught -->
-  <VFEM2_StrengthDraught.label>strength draught</VFEM2_StrengthDraught.label>
+  <VFEM2_StrengthDraught.label>настойка силы</VFEM2_StrengthDraught.label>
   <!-- EN: A bold, deep red liquid. When the user drinks it, it significantly increases their physical strength, giving them the power to perform feats they normally couldn't. However, the potion also raises the user's mental break threshold, making them more prone to psychological stress. Additionally, the intense surge of strength increases the likelihood of conflicts, leading to a higher chance of social fights. -->
-  <VFEM2_StrengthDraught.description>A bold, deep red liquid. When the user drinks it, it significantly increases their physical strength, giving them the power to perform feats they normally couldn't. However, the potion also raises the user's mental break threshold, making them more prone to psychological stress. Additionally, the intense surge of strength increases the likelihood of conflicts, leading to a higher chance of social fights.</VFEM2_StrengthDraught.description>
+  <VFEM2_StrengthDraught.description>Насыщенная, тёмно-красная жидкость. Значительно повышает физическую силу, позволяя совершать подвиги, на которые в обычном состоянии человек не способен. Однако зелье также повышает порог нервного срыва, делая выпившего более склонным к психологическому стрессу. Кроме того, интенсивный прилив сил увеличивает вероятность конфликтов, повышая шанс потасовок.</VFEM2_StrengthDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_StrengthDraught.comps.1.useLabel>Use {0_label}</VFEM2_StrengthDraught.comps.1.useLabel>
+  <VFEM2_StrengthDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_StrengthDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_StrengthDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_StrengthDraught.ingestible.ingestCommandString>
+  <VFEM2_StrengthDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_StrengthDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_StrengthDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_StrengthDraught.ingestible.ingestReportString>
+  <VFEM2_StrengthDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_StrengthDraught.ingestible.ingestReportString>
 
   <!-- EN: efficiency draught -->
-  <VFEM2_EfficiencyDraught.label>efficiency draught</VFEM2_EfficiencyDraught.label>
-  <!-- EN: A slate-gray liquid that when drunk, enhances the user’s global work speed and reduces their energy depletion, allowing them to work faster and longer without feeling tired. However, the intense boost in productivity comes at a significant risk, increasing the chance of a heart attack due to the strain on the body. After the potion's effects diminish, the user experiences a sharp increase in the rate at which they become sleepy, necessitating immediate rest to recover. -->
-  <VFEM2_EfficiencyDraught.description>A slate-gray liquid that when drunk, enhances the user’s global work speed and reduces their energy depletion, allowing them to work faster and longer without feeling tired. However, the intense boost in productivity comes at a significant risk, increasing the chance of a heart attack due to the strain on the body. After the potion's effects diminish, the user experiences a sharp increase in the rate at which they become sleepy, necessitating immediate rest to recover.</VFEM2_EfficiencyDraught.description>
+  <VFEM2_EfficiencyDraught.label>настойка эффективности</VFEM2_EfficiencyDraught.label>
+  <!-- EN: A slate-gray liquid that when drunk, enhances the user's global work speed and reduces their energy depletion, allowing them to work faster and longer without feeling tired. However, the intense boost in productivity comes at a significant risk, increasing the chance of a heart attack due to the strain on the body. After the potion's effects diminish, the user experiences a sharp increase in the rate at which they become sleepy, necessitating immediate rest to recover. -->
+  <VFEM2_EfficiencyDraught.description>Серая, как шифер, жидкость, которая при употреблении повышает общую скорость работы и уменьшает энергозатраты, позволяя работать быстрее и дольше без чувства усталости. Однако интенсивное повышение производительности несет значительный риск, увеличивая вероятность сердечного приступа из-за нагрузки на организм. После окончания действия эффектов настойки человек испытывает резкое увеличение скорости утомляемости, требующее немедленного отдыха для восстановления.</VFEM2_EfficiencyDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_EfficiencyDraught.comps.1.useLabel>Use {0_label}</VFEM2_EfficiencyDraught.comps.1.useLabel>
+  <VFEM2_EfficiencyDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_EfficiencyDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_EfficiencyDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_EfficiencyDraught.ingestible.ingestCommandString>
+  <VFEM2_EfficiencyDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_EfficiencyDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_EfficiencyDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_EfficiencyDraught.ingestible.ingestReportString>
+  <VFEM2_EfficiencyDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_EfficiencyDraught.ingestible.ingestReportString>
 
   <!-- EN: painkiller draught -->
-  <VFEM2_PainkillerDraught.label>painkiller draught</VFEM2_PainkillerDraught.label>
+  <VFEM2_PainkillerDraught.label>обезболивающая настойка</VFEM2_PainkillerDraught.label>
   <!-- EN: A pale blue liquid known as Painkiller Draught. When the user drinks it, it effectively reduces their sensation of pain, providing relief from discomfort and injuries. However, the sedative components of the draught also diminish the user's productivity and focus, making it harder to concentrate and complete tasks efficiently. This makes it suitable for recovery periods but less ideal when active mental or physical effort is required. -->
-  <VFEM2_PainkillerDraught.description>A pale blue liquid known as Painkiller Draught. When the user drinks it, it effectively reduces their sensation of pain, providing relief from discomfort and injuries. However, the sedative components of the draught also diminish the user's productivity and focus, making it harder to concentrate and complete tasks efficiently. This makes it suitable for recovery periods but less ideal when active mental or physical effort is required.</VFEM2_PainkillerDraught.description>
+  <VFEM2_PainkillerDraught.description>Бледно-голубая жидкость, известная как обезболивающая настойка. Когда человек выпивает её, она эффективно снижает его чувствительность к боли, облегчая дискомфорт от травм. Однако седативные компоненты настойки также уменьшают продуктивность и концентрацию, затрудняя сосредоточение и эффективное выполнение задач. Это делает её подходящей для периодов восстановления, но менее идеальной, когда требуется активное умственное или физическое усилие.</VFEM2_PainkillerDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_PainkillerDraught.comps.1.useLabel>Use {0_label}</VFEM2_PainkillerDraught.comps.1.useLabel>
+  <VFEM2_PainkillerDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_PainkillerDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_PainkillerDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_PainkillerDraught.ingestible.ingestCommandString>
+  <VFEM2_PainkillerDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_PainkillerDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_PainkillerDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_PainkillerDraught.ingestible.ingestReportString>
+  <VFEM2_PainkillerDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_PainkillerDraught.ingestible.ingestReportString>
 
   <!-- EN: torturer draught -->
-  <VFEM2_TorturerDraught.label>torturer draught</VFEM2_TorturerDraught.label>
+  <VFEM2_TorturerDraught.label>пыточная настойка</VFEM2_TorturerDraught.label>
   <!-- EN: A dark, foreboding purple liquid. When the user drinks it, it induces severe pain, incapacitating them to the point where movement becomes impossible. For prisoners, this intense agony causes a rapid decline in their will to resist, breaking down any mental barriers they may have. In the case of slaves, the draught completely suppresses their spirit, leaving them entirely subdued. This potion is used with caution due to its extreme effects. -->
-  <VFEM2_TorturerDraught.description>A dark, foreboding purple liquid. When the user drinks it, it induces severe pain, incapacitating them to the point where movement becomes impossible. For prisoners, this intense agony causes a rapid decline in their will to resist, breaking down any mental barriers they may have. In the case of slaves, the draught completely suppresses their spirit, leaving them entirely subdued. This potion is used with caution due to its extreme effects.</VFEM2_TorturerDraught.description>
+  <VFEM2_TorturerDraught.description>Тёмная, зловещая фиолетовая жидкость. Когда человек выпивает её, она вызывает сильную боль, обездвиживая его до такой степени, что движение становится невозможным. Для пленников эта интенсивная агония вызывает быстрое снижение их воли к сопротивлению, разрушая любые психические барьеры, которые у них могут быть. В случае рабов настойка полностью подавляет их волю, делая их полностью покорными. Это зелье используют с осторожностью из-за его экстремальных эффектов.</VFEM2_TorturerDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_TorturerDraught.comps.1.useLabel>Use {0_label}</VFEM2_TorturerDraught.comps.1.useLabel>
+  <VFEM2_TorturerDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_TorturerDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_TorturerDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_TorturerDraught.ingestible.ingestCommandString>
+  <VFEM2_TorturerDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_TorturerDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_TorturerDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_TorturerDraught.ingestible.ingestReportString>
+  <VFEM2_TorturerDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_TorturerDraught.ingestible.ingestReportString>
 
   <!-- EN: focus draught -->
-  <VFEM2_FocusDraught.label>focus draught</VFEM2_FocusDraught.label>
+  <VFEM2_FocusDraught.label>настойка концентрации</VFEM2_FocusDraught.label>
   <!-- EN: A crisp, energizing turquoise liquid that when drank, significantly enhances learning abilities of the user, enabling them to absorb and retain more information rapidly. Additionally, the draught increases the efficiency of eating and resting, allowing quicker nourishment and recovery. It also boosts the accumulation of psyfocus, enhancing mental clarity and psychic abilities. However, once the effects of the draught begin to fade, these enhancements reverse, leading to decreased learning capacity, slower eating and resting rates, and diminished psyfocus. -->
-  <VFEM2_FocusDraught.description>A crisp, energizing turquoise liquid that when drank, significantly enhances learning abilities of the user, enabling them to absorb and retain more information rapidly. Additionally, the draught increases the efficiency of eating and resting, allowing quicker nourishment and recovery. It also boosts the accumulation of psyfocus, enhancing mental clarity and psychic abilities. However, once the effects of the draught begin to fade, these enhancements reverse, leading to decreased learning capacity, slower eating and resting rates, and diminished psyfocus.</VFEM2_FocusDraught.description>
+  <VFEM2_FocusDraught.description>Свежая, бодрящая бирюзовая жидкость, которая при употреблении значительно улучшает способности к обучению, позволяя быстрее усваивать и запоминать информацию. Кроме того, настойка повышает эффективность приема пищи и отдыха, обеспечивая более быстрое насыщение и восстановление. Она также способствует накоплению пси-концентрации, улучшая ясность ума и психические способности. Однако, когда эффекты настойки начинают ослабевать, эти улучшения обращаются вспять, приводя к снижению способности к обучению, замедлению темпов питания и отдыха, а также к уменьшению пси-концентрации.</VFEM2_FocusDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_FocusDraught.comps.1.useLabel>Use {0_label}</VFEM2_FocusDraught.comps.1.useLabel>
+  <VFEM2_FocusDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_FocusDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_FocusDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_FocusDraught.ingestible.ingestCommandString>
+  <VFEM2_FocusDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_FocusDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_FocusDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_FocusDraught.ingestible.ingestReportString>
+  <VFEM2_FocusDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_FocusDraught.ingestible.ingestReportString>
 
   <!-- EN: fertility draught -->
-  <VFEM2_FertilityDraught.label>fertility draught</VFEM2_FertilityDraught.label>
+  <VFEM2_FertilityDraught.label>настойка фертильности</VFEM2_FertilityDraught.label>
   <!-- EN: A gentle, rose-pink liquid. When the user drinks it, it artificially boosts their fertility, giving even those who are infertile a chance to conceive. This slight increase in fertility opens the possibility for individuals or couples struggling with infertility to become parents, focusing on enhancing natural reproductive processes. -->
-  <VFEM2_FertilityDraught.description>A gentle, rose-pink liquid. When the user drinks it, it artificially boosts their fertility, giving even those who are infertile a chance to conceive. This slight increase in fertility opens the possibility for individuals or couples struggling with infertility to become parents, focusing on enhancing natural reproductive processes.</VFEM2_FertilityDraught.description>
+  <VFEM2_FertilityDraught.description>Нежная, розово-розовая жидкость. Когда человек выпивает её, она искусственно повышает его фертильность, давая шанс зачать ребенка даже тем, кто бесплоден. Это небольшое увеличение фертильности открывает возможность людям или парам, страдающим от бесплодия, стать родителями, воздействуя на естественные репродуктивные процессы.</VFEM2_FertilityDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_FertilityDraught.comps.1.useLabel>Use {0_label}</VFEM2_FertilityDraught.comps.1.useLabel>
+  <VFEM2_FertilityDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_FertilityDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_FertilityDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_FertilityDraught.ingestible.ingestCommandString>
+  <VFEM2_FertilityDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_FertilityDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_FertilityDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_FertilityDraught.ingestible.ingestReportString>
+  <VFEM2_FertilityDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_FertilityDraught.ingestible.ingestReportString>
 
   <!-- EN: inspiration  draught -->
-  <VFEM2_InspirationDraught.label>inspiration  draught</VFEM2_InspirationDraught.label>
+  <VFEM2_InspirationDraught.label>настойка озарения</VFEM2_InspirationDraught.label>
   <!-- EN: A radiant, golden-colored liquid. When the user drinks it, it provides them with mental clarity, sharpening their focus specifically on acquiring new knowledge in areas they are passionate about. However, the draught comes at the cost of diminished combat capabilities, as the user's attention is diverted away from physical prowess and towards intellectual pursuits. -->
-  <VFEM2_InspirationDraught.description>A radiant, golden-colored liquid. When the user drinks it, it provides them with mental clarity, sharpening their focus specifically on acquiring new knowledge in areas they are passionate about. However, the draught comes at the cost of diminished combat capabilities, as the user's attention is diverted away from physical prowess and towards intellectual pursuits.</VFEM2_InspirationDraught.description>
+  <VFEM2_InspirationDraught.description>Сияющая, золотистая жидкость. Когда человек выпивает её, она обеспечивает ясность ума, обостряя его сосредоточенность на получении новых знаний в областях, которые его увлекают. Однако настойка снижает боевые способности, поскольку внимание пьющего отвлекается от физического мастерства в пользу интеллектуальных занятий.</VFEM2_InspirationDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_InspirationDraught.comps.1.useLabel>Use {0_label}</VFEM2_InspirationDraught.comps.1.useLabel>
+  <VFEM2_InspirationDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_InspirationDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_InspirationDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_InspirationDraught.ingestible.ingestCommandString>
+  <VFEM2_InspirationDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_InspirationDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_InspirationDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_InspirationDraught.ingestible.ingestReportString>
+  <VFEM2_InspirationDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_InspirationDraught.ingestible.ingestReportString>
 
   <!-- EN: stoneskin draught -->
-  <VFEM2_StoneskinDraught.label>stoneskin draught</VFEM2_StoneskinDraught.label>
+  <VFEM2_StoneskinDraught.label>настойка каменной кожи</VFEM2_StoneskinDraught.label>
   <!-- EN: A deep, slate-gray liquid. When the user drinks it, their skin undergoes a dramatic transformation, thickening and hardening to resemble a built-in suit of armor. The entire epidermis becomes tough enough to resist burns, while jointed exterior keratin plates form over the body, including the head and face, providing additional protection. This formidable physical shield makes it extremely difficult to inflict physical harm on the user. However, the appearance of the plates and hardened skin significantly reduces the user's physical attractiveness, impacting their social interactions. -->
-  <VFEM2_StoneskinDraught.description>A deep, slate-gray liquid. When the user drinks it, their skin undergoes a dramatic transformation, thickening and hardening to resemble a built-in suit of armor. The entire epidermis becomes tough enough to resist burns, while jointed exterior keratin plates form over the body, including the head and face, providing additional protection. This formidable physical shield makes it extremely difficult to inflict physical harm on the user. However, the appearance of the plates and hardened skin significantly reduces the user's physical attractiveness, impacting their social interactions.</VFEM2_StoneskinDraught.description>
+  <VFEM2_StoneskinDraught.description>Глубокая, серая как сланец жидкость. Когда человек выпивает её, его кожа претерпевает драматическую трансформацию, утолщаясь и затвердевая, становясь похожей на встроенный доспех. Весь эпидермис становится достаточно прочным, чтобы противостоять ожогам, а по всему телу, включая голову и лицо, формируются подвижные внешние кератиновые пластины, обеспечивающие дополнительную защиту. Эта грозная физическая защита делает чрезвычайно сложным нанесение физического вреда пользователю. Однако внешний вид пластин и затвердевшей кожи значительно снижает физическую привлекательность человека, влияя на его социальные взаимодействия.</VFEM2_StoneskinDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_StoneskinDraught.comps.1.useLabel>Use {0_label}</VFEM2_StoneskinDraught.comps.1.useLabel>
+  <VFEM2_StoneskinDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_StoneskinDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_StoneskinDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_StoneskinDraught.ingestible.ingestCommandString>
+  <VFEM2_StoneskinDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_StoneskinDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_StoneskinDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_StoneskinDraught.ingestible.ingestReportString>
+  <VFEM2_StoneskinDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_StoneskinDraught.ingestible.ingestReportString>
 
   <!-- EN: amnesia draught -->
-  <VFEM2_AmnesiaDraught.label>amnesia draught</VFEM2_AmnesiaDraught.label>
+  <VFEM2_AmnesiaDraught.label>настойка беспамятства</VFEM2_AmnesiaDraught.label>
   <!-- EN: A crystal-clear, white liquid. When the user drinks it, it causes them to rapidly lose their memory. This effect makes both negative and positive memories fade much quicker than normal, leading to a transient experience of life's events. While this can alleviate the burden of painful memories, it also diminishes the joy and learning gained from positive experiences. -->
-  <VFEM2_AmnesiaDraught.description>A crystal-clear, white liquid. When the user drinks it, it causes them to rapidly lose their memory. This effect makes both negative and positive memories fade much quicker than normal, leading to a transient experience of life's events. While this can alleviate the burden of painful memories, it also diminishes the joy and learning gained from positive experiences.</VFEM2_AmnesiaDraught.description>
+  <VFEM2_AmnesiaDraught.description>Кристально чистая, белая жидкость. Когда человек выпивает её, она вызывает у него быструю потерю памяти. Этот эффект заставляет как отрицательные, так и положительные воспоминания угасать гораздо быстрее обычного, приводя к мимолётному переживанию жизненных событий. Хотя это может облегчить бремя болезненных воспоминаний, оно также уменьшает радость и обучение, полученные от положительного опыта.</VFEM2_AmnesiaDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_AmnesiaDraught.comps.1.useLabel>Use {0_label}</VFEM2_AmnesiaDraught.comps.1.useLabel>
+  <VFEM2_AmnesiaDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_AmnesiaDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_AmnesiaDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_AmnesiaDraught.ingestible.ingestCommandString>
+  <VFEM2_AmnesiaDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_AmnesiaDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_AmnesiaDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_AmnesiaDraught.ingestible.ingestReportString>
+  <VFEM2_AmnesiaDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_AmnesiaDraught.ingestible.ingestReportString>
 
   <!-- EN: coma draught -->
-  <VFEM2_ComaDraught.label>coma draught</VFEM2_ComaDraught.label>
+  <VFEM2_ComaDraught.label>настойка комы</VFEM2_ComaDraught.label>
   <!-- EN: A deep indigo liquid. When the user drinks it, it induces a chemically controlled coma, significantly slowing down their metabolism. This state allows the body to conserve energy and potentially aid in healing processes under controlled conditions. -->
-  <VFEM2_ComaDraught.description>A deep indigo liquid. When the user drinks it, it induces a chemically controlled coma, significantly slowing down their metabolism. This state allows the body to conserve energy and potentially aid in healing processes under controlled conditions.</VFEM2_ComaDraught.description>
+  <VFEM2_ComaDraught.description>Глубокая индиго-синяя жидкость. Когда человек выпивает её, она вызывает химически контролируемую кому, значительно замедляя его метаболизм. Это состояние позволяет телу сохранять энергию и потенциально помогает процессам заживления в контролируемых условиях.</VFEM2_ComaDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_ComaDraught.comps.1.useLabel>Use {0_label}</VFEM2_ComaDraught.comps.1.useLabel>
+  <VFEM2_ComaDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_ComaDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_ComaDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_ComaDraught.ingestible.ingestCommandString>
+  <VFEM2_ComaDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_ComаDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_ComaDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_ComaDraught.ingestible.ingestReportString>
+  <VFEM2_ComаDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_ComаDraught.ingestible.ingestReportString>
 
   <!-- EN: poison draught -->
-  <VFEM2_PoisonDraught.label>poison draught</VFEM2_PoisonDraught.label>
+  <VFEM2_PoisonDraught.label>ядовитая настойка</VFEM2_PoisonDraught.label>
   <!-- EN: A dark, ominous green liquid. When consumed, it drastically reduces the user's consciousness, inducing a chemically forced coma. This state not only incapacitates the individual but also initiates a rapid decay of their organs. The effects of this draught are severe and irreversible, leading inevitably to death. -->
-  <VFEM2_PoisonDraught.description>A dark, ominous green liquid. When consumed, it drastically reduces the user's consciousness, inducing a chemically forced coma. This state not only incapacitates the individual but also initiates a rapid decay of their organs. The effects of this draught are severe and irreversible, leading inevitably to death.</VFEM2_PoisonDraught.description>
+  <VFEM2_PoisonDraught.description>Тёмная, зловещая зелёная жидкость. При употреблении она резко снижает сознание выпившего, вызывая химически вынужденную кому. Это состояние не только делает человека недееспособным, но также запускает быстрый распад его органов. Эффекты этой настойки серьёзны и необратимы, неизбежно ведущие к смерти.</VFEM2_PoisonDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_PoisonDraught.comps.1.useLabel>Use {0_label}</VFEM2_PoisonDraught.comps.1.useLabel>
+  <VFEM2_PoisonDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_PoisonDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_PoisonDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_PoisonDraught.ingestible.ingestCommandString>
+  <VFEM2_PoisonDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_PoisonDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_PoisonDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_PoisonDraught.ingestible.ingestReportString>
+  <VFEM2_PoisonDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_PoisonDraught.ingestible.ingestReportString>
 
   <!-- EN: antitox draught -->
-  <VFEM2_AntitoxDraught.label>antitox draught</VFEM2_AntitoxDraught.label>
-  <!-- EN: A clear, vibrant teal liquid. When the user drinks it, it enhances their resistance to toxins, fortifying their body against harmful substances. Additionally, this draught actively works to remove any existing toxic buildup within the user’s system, purifying their body and preventing the detrimental effects of toxins. -->
-  <VFEM2_AntitoxDraught.description>A clear, vibrant teal liquid. When the user drinks it, it enhances their resistance to toxins, fortifying their body against harmful substances. Additionally, this draught actively works to remove any existing toxic buildup within the user’s system, purifying their body and preventing the detrimental effects of toxins.</VFEM2_AntitoxDraught.description>
+  <VFEM2_AntitoxDraught.label>настойка-противоядие</VFEM2_AntitoxDraught.label>
+  <!-- EN: A clear, vibrant teal liquid. When the user drinks it, it enhances their resistance to toxins, fortifying their body against harmful substances. Additionally, this draught actively works to remove any existing toxic buildup within the user's system, purifying their body and preventing the detrimental effects of toxins. -->
+  <VFEM2_AntitoxDraught.description>Прозрачная, яркая бирюзовая жидкость. Когда человек выпивает её, она повышает его сопротивляемость к токсинам, укрепляя организм против вредных веществ. Кроме того, эта настойка активно работает над удалением любых существующих токсичных накоплений в системе пользователя, очищая его тело и предотвращая вредные эффекты токсинов.</VFEM2_AntitoxDraught.description>
   <!-- EN: Use {0_label} -->
-  <VFEM2_AntitoxDraught.comps.1.useLabel>Use {0_label}</VFEM2_AntitoxDraught.comps.1.useLabel>
+  <VFEM2_AntitoxDraught.comps.1.useLabel>Использовать {lookup: {0_label}; Case; 3}</VFEM2_AntitoxDraught.comps.1.useLabel>
   <!-- EN: Ingest {0} -->
-  <VFEM2_AntitoxDraught.ingestible.ingestCommandString>Ingest {0}</VFEM2_AntitoxDraught.ingestible.ingestCommandString>
+  <VFEM2_AntitoxDraught.ingestible.ingestCommandString>Выпить {lookup: {0}; Case; 3}</VFEM2_AntitoxDraught.ingestible.ingestCommandString>
   <!-- EN: Ingesting {0}. -->
-  <VFEM2_AntitoxDraught.ingestible.ingestReportString>Ingesting {0}.</VFEM2_AntitoxDraught.ingestible.ingestReportString>
-
-
-
+  <VFEM2_AntitoxDraught.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VFEM2_AntitoxDraught.ingestible.ingestReportString>
 </LanguageData>
