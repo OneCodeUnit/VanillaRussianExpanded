@@ -154,4 +154,37 @@
     <li>Slayer->гроза</li>
     <li>Slayer->погибель</li>
   </VFEM2_NamerPersonViking.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->king</li>
+  -->
+  <VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->король</li>
+  </VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->jarl</li>
+  -->
+  <VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->ярл</li>
+  </VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->guildmaster</li>
+  -->
+  <VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->глава гильдии</li>
+  </VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
 </LanguageData>
