@@ -66,6 +66,19 @@
     <li>memeMoralist->мастер рун</li>
     <li>memeMoralist->духовный проводник</li>
   </VFEM2_Structure_Norse.generalRules.rulesStrings>
+
+  <!-- EN: viking -->
+  <VFEM2_Structure_Norse.symbolPacks.0.ideoName>викинги</VFEM2_Structure_Norse.symbolPacks.0.ideoName>
+  <!-- EN: vikings -->
+  <VFEM2_Structure_Norse.symbolPacks.0.theme>викингов</VFEM2_Structure_Norse.symbolPacks.0.theme>
+  <!-- EN: viking -->
+  <VFEM2_Structure_Norse.symbolPacks.0.adjective>викинговый</VFEM2_Structure_Norse.symbolPacks.0.adjective>
+  <!-- EN: viking -->
+  <VFEM2_Structure_Norse.symbolPacks.0.member>викинг</VFEM2_Structure_Norse.symbolPacks.0.member>
+
+  <!-- EN: great hall -->
+  <VFEM2_Structure_Norse.worshipRoomLabel>великий зал</VFEM2_Structure_Norse.worshipRoomLabel>
+
   <!-- EN: norse -->
   <VFEM2_Structure_Norse.symbolPacks.0.adjective>нордическая</VFEM2_Structure_Norse.symbolPacks.0.adjective>
   <!-- EN: Odin -->
@@ -126,4 +139,63 @@
   <VFEM2_Structure_Norse.fixedDeityNameTypes.27.name>Гуллвейг</VFEM2_Structure_Norse.fixedDeityNameTypes.27.name>
   <!-- EN: Kvasir -->
   <VFEM2_Structure_Norse.fixedDeityNameTypes.28.name>Квасир</VFEM2_Structure_Norse.fixedDeityNameTypes.28.name>
+
+  <!-- EN: Allfather and God of Wisdom -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.0.type>Всеотец и бог мудрости</VFEM2_Structure_Norse.fixedDeityNameTypes.0.type>
+  <!-- EN: God of Thunder and Strength -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.1.type>Бог грома и силы</VFEM2_Structure_Norse.fixedDeityNameTypes.1.type>
+  <!-- EN: Goddess of Marriage and Prophecy -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.2.type>Богиня браков и пророчеств</VFEM2_Structure_Norse.fixedDeityNameTypes.2.type>
+  <!-- EN: God of Mischief and Trickery -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.3.type>Бог озорства и обмана</VFEM2_Structure_Norse.fixedDeityNameTypes.3.type>
+  <!-- EN: God of Beauty and Light -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.4.type>Бог красоты и света</VFEM2_Structure_Norse.fixedDeityNameTypes.4.type>
+  <!-- EN: God of War and Justice -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.5.type>Бог войны и правосудия</VFEM2_Structure_Norse.fixedDeityNameTypes.5.type>
+  <!-- EN: Goddess of Love and Fertility -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.6.type>Богиня любви и плодородия</VFEM2_Structure_Norse.fixedDeityNameTypes.6.type>
+  <!-- EN: God of Fertility and Peace -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.7.type>Бог плодородия и мира</VFEM2_Structure_Norse.fixedDeityNameTypes.7.type>
+  <!-- EN: God of the Sea and Wealth -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.8.type>Бог моря и богатства</VFEM2_Structure_Norse.fixedDeityNameTypes.8.type>
+  <!-- EN: Goddess of Winter and Hunting -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.9.type>Богиня зимы и охоты</VFEM2_Structure_Norse.fixedDeityNameTypes.9.type>
+  <!-- EN: Guardian of the Bifrost -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.10.type>Страж Биврёста</VFEM2_Structure_Norse.fixedDeityNameTypes.10.type>
+  <!-- EN: Goddess of the Underworld -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.11.type>Богиня подземного мира</VFEM2_Structure_Norse.fixedDeityNameTypes.11.type>
+  <!-- EN: Wolf of Chaos -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.12.type>Волк Хаоса</VFEM2_Structure_Norse.fixedDeityNameTypes.12.type>
+  <!-- EN: World Serpent -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.13.type>Мировой змей</VFEM2_Structure_Norse.fixedDeityNameTypes.13.type>
+  <!-- EN: Goddess of Eternal Youth -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.14.type>Богиня вечной молодости</VFEM2_Structure_Norse.fixedDeityNameTypes.14.type>
+  <!-- EN: God of Poetry and Eloquence -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.15.type>Бог поэзии и красноречия</VFEM2_Structure_Norse.fixedDeityNameTypes.15.type>
+  <!-- EN: Goddess of Fidelity -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.16.type>Богиня верности</VFEM2_Structure_Norse.fixedDeityNameTypes.16.type>
+  <!-- EN: God of Vengeance and Silence -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.17.type>Бог мести и тишины</VFEM2_Structure_Norse.fixedDeityNameTypes.17.type>
+  <!-- EN: God of Revenge -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.18.type>Бог возмездия</VFEM2_Structure_Norse.fixedDeityNameTypes.18.type>
+  <!-- EN: God of Strength -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.19.type>Бог силы</VFEM2_Structure_Norse.fixedDeityNameTypes.19.type>
+  <!-- EN: God of Courage -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.20.type>Бог храбрости</VFEM2_Structure_Norse.fixedDeityNameTypes.20.type>
+  <!-- EN: Fire Giant and Harbinger of Ragnarok -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.21.type>Огненный великан и предвестник Рагнарёка</VFEM2_Structure_Norse.fixedDeityNameTypes.21.type>
+  <!-- EN: Primordial Giant -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.22.type>Изначальный великан</VFEM2_Structure_Norse.fixedDeityNameTypes.22.type>
+  <!-- EN: Keeper of Wisdom -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.23.type>Хранитель мудрости</VFEM2_Structure_Norse.fixedDeityNameTypes.23.type>
+  <!-- EN: Goddess of the Sea -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.24.type>Богиня моря</VFEM2_Structure_Norse.fixedDeityNameTypes.24.type>
+  <!-- EN: God of the Ocean -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.25.type>Бог океана</VFEM2_Structure_Norse.fixedDeityNameTypes.25.type>
+  <!-- EN: Dragon of Yggdrasil's Roots -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.26.type>Дракон корней Иггдрасиля</VFEM2_Structure_Norse.fixedDeityNameTypes.26.type>
+  <!-- EN: Goddess of Sorcery -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.27.type>Богиня колдовства</VFEM2_Structure_Norse.fixedDeityNameTypes.27.type>
+  <!-- EN: God of Inspiration -->
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.28.type>Бог вдохновения</VFEM2_Structure_Norse.fixedDeityNameTypes.28.type>
 </LanguageData>
