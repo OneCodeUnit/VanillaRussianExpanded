@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- Apiary -->
   <!-- EN: The apiary needs to be tended to -->
   <VFEM2_NeedTend>Улей требует обслуживания</VFEM2_NeedTend>
   <!-- EN: The apiary is resting because the ambient temperature is below 10°C -->
@@ -15,20 +14,31 @@
   <VFEM2_PlaceWorker>Улей должен находиться на расстоянии как минимум одной клетки от других ульев</VFEM2_PlaceWorker>
   <!-- EN: The apiary can't be built under a roof -->
   <VFEM2_PlaceWorkerNoRoof>Улей не может быть построен под крышей</VFEM2_PlaceWorkerNoRoof>
+  <!-- EN: Animal skill too low, needs 5 -->
+  <VFEM2_BelowAnimalSkill>Навык животноводства должен быть выше 5</VFEM2_BelowAnimalSkill>
 
-  <!-- Mead barrel -->
   <!-- EN: This mead fermenting barrel is not working at the moment -->
   <VFEM2_MeadFermentingBarrelNotWorking>Эта бочка для брожения мёда в данный момент не работает</VFEM2_MeadFermentingBarrelNotWorking>
 
-  <!-- Wine barrel -->
   <!-- EN: This wine fermenting barrel is not working at the moment -->
   <VFEM2_WineBarrelNotWorking>Эта бочка для брожения вина в данный момент не работает</VFEM2_WineBarrelNotWorking>
 
-  <!-- Leather boil pot -->
   <!-- EN: This boil pot is not working at the moment -->
   <VFEM2_BoilPotNotWorking>Этот котёл для варки кожи в данный момент не работает</VFEM2_BoilPotNotWorking>
 
-  <!-- Misc -->
+  <!-- EN: Edit Heraldry -->
+  <VFEM2_StyleHeraldics>Изменить герб</VFEM2_StyleHeraldics>
+  <!-- EN: Pattern -->
+  <VFEM2_SetPattern>Узор</VFEM2_SetPattern>
+  <!-- EN: Symbol -->
+  <VFEM2_SetSymbol>Символ</VFEM2_SetSymbol>
+  <!-- EN: Edit Faction -->
+  <VFEM2_EditFactionHeraldry>Изменить фракцию</VFEM2_EditFactionHeraldry>
+  <!-- EN: Edit Target -->
+  <VFEM2_EditThingHeraldry>Изменить цель</VFEM2_EditThingHeraldry>
+  <!-- EN: Reset -->
+  <VFEM2_ResetToFaction>Сбросить</VFEM2_ResetToFaction>
+
   <!-- EN: Timbered wall: +50% -->
   <VFEM2_StatsReport_Flammability>Бревенчатая стена: +50%</VFEM2_StatsReport_Flammability>
   <!-- EN: {0} has been improved to {1} quality level due to the smithing anvil. -->
@@ -45,4 +55,19 @@
   <VFEM2_BarterFairness>Справедливость бартера</VFEM2_BarterFairness>
   <!-- EN: In order to strike a deal with the Merchant's Guild, you need to provide them with enough goods for the deal to become fair. Value of every item is skewed in random direction slightly. Higher negotiation ability will increase the value of your items. -->
   <VFEM2_BarterExplanation>Чтобы заключить сделку с Гильдией купцов, вам нужно предоставить им достаточно товаров для того, чтобы сделка стала справедливой. Стоимость каждого предмета немного искажается в случайном направлении. Более высокий уровень способности к переговорам увеличит стоимость ваших предметов.</VFEM2_BarterExplanation>
+  <!-- EN: Barter -->
+  <VFEM2_CommandBarter>Бартер</VFEM2_CommandBarter>
+  <!-- EN: Barter with this merchant guild. -->
+  <VFEM2_CommandBarterDesc>Произвести бартер с гильдией купцов.</VFEM2_CommandBarterDesc>
+
+  <!-- EN: Merchant's guild camp destroyed -->
+  <VFEM2_LetterLabelFactionBaseDefeated>Лагерь гильдии купцов уничтожен</VFEM2_LetterLabelFactionBaseDefeated>
+  <!-- EN: The merchant's guild camp has been destroyed. -->
+  <VFEM2_LetterFactionBaseDefeated>Лагерь гильдии купцов был уничтожен.</VFEM2_LetterFactionBaseDefeated>
+  <!-- EN: Since this was their last camp, {0} has been defeated. -->
+  <VFEM2_LetterFactionBaseDefeated_FactionDestroyed>Since this was their last camp, {0} has been defeated.</VFEM2_LetterFactionBaseDefeated_FactionDestroyed>
+  <!-- EN: Due to the amount of completed research projects, the research  cost is increased to: {0} -->
+  <VFEM_MaynardMedievalResearchModifier>Due to the amount of completed research projects, the research  cost is increased to: {0}</VFEM_MaynardMedievalResearchModifier>
+  <!-- EN: A group of vikings from {0} have arrived nearby.\nThey will attempt to burn your colony down, stealing whatever they can before they leave.\nPrepare a defense or attack them preemptively. -->
+  <VFEM_PillageRaidDesc>A group of vikings from {0} have arrived nearby.\nThey will attempt to burn your colony down, stealing whatever they can before they leave.\nPrepare a defense or attack them preemptively.</VFEM_PillageRaidDesc>
 </LanguageData>
