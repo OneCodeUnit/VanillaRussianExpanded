@@ -4,29 +4,113 @@
   <VCE_CondimentsResearch.label>приправы</VCE_CondimentsResearch.label>
   <!-- EN: A condiment is a spice, sauce, or preparation that is added to food, either after or during cooking, to impart a specific flavor, to enhance the flavor, or to complement the dish. All condiments are created at the condiment prep table. -->
   <VCE_CondimentsResearch.description>Приправами считаются соусы и специи, которые добавляют в блюдо в процессе готовки, либо после неё, чтобы придать блюду определённые вкусовые качества, усилить имеющийся вкус или дополнить блюдо каким-либо ещё образом. Все приправы создаются на соответствующем столе.</VCE_CondimentsResearch.description>
+  <!-- EN:
+    <li>subject->flavors of distinction</li>
+    <li>subject_story->unlocked the secrets of enhancing flavor through the creation of diverse condiments</li>
+    <li>subject_story->pioneered the use of herbs, spices, and sauces to transform simple meals into culinary experiences</li>
+    <li>subject_story->cultivated a rich culture of taste, encouraging culinary experimentation and innovation</li>
+    <li>subject_gerund->elevating the art of flavor through condiment mastery</li>
+  -->
+  <VCE_CondimentsResearch.generalRules.rulesStrings>
+    <li>subject->неповторимые ароматы</li>
+    <li>subject_story->{PAWN gender ? раскрыл : раскрыла} секреты улучшения вкуса через создание разнообразных приправ</li>
+    <li>subject_story->{PAWN gender ? стал пионером : стала пионером} в использовании трав, специй и соусов для превращения простых блюд в кулинарные шедевры</li>
+    <li>subject_story->{PAWN gender ? развил : развила} богатую культуру вкуса, поощряя кулинарные эксперименты и инновации</li>
+    <li>subject_gerund->совершенствует искусство вкуса через мастерство приправ</li>
+  </VCE_CondimentsResearch.generalRules.rulesStrings>
 
   <!-- EN: soup cooking -->
   <VCE_SoupCooking.label>варка супов</VCE_SoupCooking.label>
   <!-- EN: Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted. This research also gives access to the electric pot necessary to cook soups. -->
   <VCE_SoupCooking.description>Приготовление жидкой пищи из различных сочетаний продуктов как растительного, так и животного происхождения, которые помещаются в бульон, либо в воду. Гуща горячих супов отваривается в жидкой основе для того, чтобы придать будущему блюду самый лучший вкус.</VCE_SoupCooking.description>
+  <!-- EN:
+    <li>subject->the essence of nourishment</li>
+    <li>subject_story->mastered the delicate balance of ingredients to create soups that comfort and heal</li>
+    <li>subject_story->introduced the electric pot, revolutionizing soup preparation with efficiency and precision</li>
+    <li>subject_story->expanded the culinary repertoire, exploring the depths of flavor achievable in liquid form</li>
+    <li>subject_gerund->crafting the soul of cuisine in every pot of soup</li>
+  -->
+  <VCE_SoupCooking.generalRules.rulesStrings>
+    <li>subject->суть питания</li>
+    <li>subject_story->{PAWN gender ? освоил : освоила} тонкий баланс ингредиентов для создания супов, которые утешают и исцеляют</li>
+    <li>subject_story->{PAWN gender ? представил : представила} электрическую кастрюлю, революционизировав приготовление супов с эффективностью и точностью</li>
+    <li>subject_story->{PAWN gender ? расширил : расширила} кулинарный репертуар, исследуя глубины вкуса, достижимые в жидкой форме</li>
+    <li>subject_gerund->создаёт душу кухни в каждой кастрюле супа</li>
+  </VCE_SoupCooking.generalRules.rulesStrings>
 
   <!-- EN: grilling -->
   <VCE_Grilling.label>жарка на гриле</VCE_Grilling.label>
   <!-- EN: Grilling is a form of cooking that involves dry heat applied to the surface of food, commonly from above, below or from the side. Grilling usually involves a significant amount of direct, radiant heat, and tends to be used for cooking meat and vegetables quickly. This research gives access to the grill. -->
   <VCE_Grilling.description>Приготовление еды на гриле представляет собой поверхностную термическую обработку еды снизу, сбоку или сверху. При помощи значительного количества тепла можно быстро приготовить мясо или овощи.</VCE_Grilling.description>
+  <!-- EN:
+    <li>subject->the primal art of fire</li>
+    <li>subject_story->embraced the primal connection between fire and food, perfecting the technique of grilling</li>
+    <li>subject_story->transformed the act of cooking into a celebration of flavor, texture, and aroma</li>
+    <li>subject_story->innovated with designs for grills that enhance the natural qualities of meats and vegetables</li>
+    <li>subject_gerund->searing perfection into every meal with the mastery of grilling</li>
+  -->
+  <VCE_Grilling.generalRules.rulesStrings>
+    <li>subject->первобытное искусство огня</li>
+    <li>subject_story->{PAWN gender ? принял : приняла} первобытную связь между огнем и пищей, совершенствуя технику жарки на гриле</li>
+    <li>subject_stor-y>{PAWN gender ? превратил : превратила} процесс приготовления пищи в праздник вкуса, текстуры и аромата</li>
+    <li>subject_story->{PAWN gender ? создал : создала} инновационные конструкции грилей, которые подчеркивают естественные качества мяса и овощей</li>
+    <li>subject_gerund->доводит до совершенства каждое блюдо, мастерски используя гриль</li>
+  </VCE_Grilling.generalRules.rulesStrings>
 
   <!-- EN: deep frying -->
   <VCE_DeepFrying.label>глубокая прожарка</VCE_DeepFrying.label>
   <!-- EN: Deep frying (also referred to as deep fat frying) is a cooking method in which food is submerged in hot fat, most commonly oil, as opposed to the shallow oil used in conventional frying done in a frying pan. This research gives access to the deep fryer. -->
   <VCE_DeepFrying.description>Фритюр открывает способ приготовления пищи, при котором продукт погружается в кипящее масло или жир, в отличие от обычной жарки с маслом на сковороде.</VCE_DeepFrying.description>
+  <!-- EN:
+    <li>subject->the golden crunch</li>
+    <li>subject_story->discovered the transformative effect of deep frying, enveloping foods in a crispy, golden exterior</li>
+    <li>subject_story->engineered the deep fryer, a marvel of culinary technology, to achieve consistent and perfect results</li>
+    <li>subject_story->elevated the simple act of frying into a culinary craft, celebrated across cultures</li>
+    <li>subject_gerund->delving into the depths of flavor with the magic of deep frying</li>
+  -->
+  <VCE_DeepFrying.generalRules.rulesStrings>
+    <li>subject->золотистая корочка</li>
+    <li>subject_story->{PAWN gender ? открыл : открыла} преобразующий эффект фритюра, окутывающий продукты хрустящей золотистой оболочкой</li>
+    <li>subject_story->{PAWN gender ? сконструировал : сконструировала} фритюрницу, чудо кулинарной технологии, для достижения стабильных и идеальных результатов</li>
+    <li>subject_story->{PAWN gender ? превратил : превратила} простой процесс жарки в кулинарное искусство, прославленное разными культурами</li>
+    <li>subject_gerund->погружается в глубины вкуса с помощью магии фритюра</li>
+  </VCE_DeepFrying.generalRules.rulesStrings>
 
   <!-- EN: canning -->
   <VCE_Canning.label>консервирование</VCE_Canning.label>
   <!-- EN: Canning is a method of preserving food in which the food contents are processed and sealed in an airtight container (jars like Mason jars, and steel and tin cans). Canning provides a shelf life of several years. A freeze-dried canned product, such as canned dried lentils, could last as long as 30 years in an edible state. This research gives access to the canning machine. -->
   <VCE_Canning.description>Метод сохранения пищи, при котором продукт обрабатывается и запечатывается в герметичный контейнер (консервные банки). Консервирование обеспечивает срок годности в несколько лет, например, консервированная сушёная чечевица может храниться до 30 лет в съедобном состоянии.</VCE_Canning.description>
+  <!-- EN:
+    <li>subject->the vaults of flavor</li>
+    <li>subject_story->revolutionized food preservation through canning, extending the bounty of the harvest</li>
+    <li>subject_story->mastered the science of sealing freshness and taste, ensuring nourishment year-round</li>
+    <li>subject_story->introduced the canning machine, a key to unlocking the potential of prolonged food storage</li>
+    <li>subject_gerund->preserving the essence of the seasons within every jar and can</li>
+  -->
+  <VCE_Canning.generalRules.rulesStrings>
+    <li>subject->хранилища вкуса</li>
+    <li>subject_story->{PAWN gender ? произвёл революцию : произвела революцию} в сохранении пищи с помощью консервирования, продлевая дары урожая</li>
+    <li>subject_story->{PAWN gender ? овладел : овладела} наукой о сохранении свежести и вкуса, обеспечивая питание круглый год</li>
+    <li>subject_story->{PAWN gender ? внедрил : внедрила} консервный аппарат, ключ к раскрытию потенциала длительного хранения пищи</li>
+    <li>subject_gerund->сохраняет суть сезонов в каждой банке</li>
+  </VCE_Canning.generalRules.rulesStrings>
 
   <!-- EN: cheese making -->
   <VCE_CheeseMaking.label>сыроделие</VCE_CheeseMaking.label>
   <!-- EN: Cheesemaking (or caseiculture) is the craft of making cheese. The production of cheese, like many other food preservation processes, allows the nutritional and economic value of milk to be preserved in concentrated form. Cheesemaking allows the production of the cheese with diverse flavors and consistencies. This research gives access to the cheese press. -->
   <VCE_CheeseMaking.description>Производство сыра, как и многие другие процессы сохранения пищевых продуктов, позволяет сохранить питательную и экономическую ценность молока в сконцентрированной форме. Можно производить сыр с различными вкусами и консистенцией.</VCE_CheeseMaking.description>
+  <!-- EN:
+    <li>subject->alchemy of milk</li>
+    <li>subject_story->transformed the humble origins of milk into the rich complexity of cheese</li>
+    <li>subject_story->cultivated an array of cheeses, each a testament to the craft and culture of cheesemaking</li>
+    <li>subject_story->designed the cheese press, squeezing out new traditions and tastes from an ancient practice</li>
+    <li>subject_gerund->crafting cultures and flavors in the artful creation of cheese</li>
+  -->
+  <VCE_CheeseMaking.generalRules.rulesStrings>
+    <li>subject->алхимия молока</li>
+    <li>subject_story->{PAWN gender ? превратил : превратила} скромное происхождение молока в богатую сложность сыра</li>
+    <li>subject_story->{PAWN gender ? создал : создала} множество сыров, каждый из которых свидетельствует о мастерстве и культуре сыроделия</li>
+    <li>subject_story->{PAWN gender ? разработал : разработала} сырный пресс, выжимая новые традиции и вкусы из древней практики</li>
+    <li>subject_gerund->создаёт культуры и вкусы в искусном творении сыра</li>
+  </VCE_CheeseMaking.generalRules.rulesStrings>
 </LanguageData>
