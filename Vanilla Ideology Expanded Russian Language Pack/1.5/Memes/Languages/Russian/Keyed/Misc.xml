@@ -121,8 +121,10 @@
   <!-- EN: Heir changed -->
   <VME_HeirChange>Наследник изменён</VME_HeirChange>
   <!-- EN: Due to royal inheritance, {1} has been automatically designated as the heir of {0} -->
-  <VME_HeirChangeDesc>Благодаря системе наследования титулов, {1} автоматически назначен наследником {0}</VME_HeirChangeDesc>
-  
+  <VME_HeirChangeDesc>Благодаря системе наследования титулов, {1} автоматически назначен наследником {0}</VME_HeirChangeDesc> 
+  <!-- EN: 200 silver needs to be found in stockpiles near a trading beacon for the fair to bot be considered "cheap" -->
+  <VME_CheapTradingFair>Чтобы при организации ярмарки нас не посчитали скупыми, на складах в радиусе торгового маяка должно быть не меньше 200 единиц серебра</VME_CheapTradingFair>
+
   <!-- EN: Reset -->
   <VME_Reset>Сброс</VME_Reset>
   <!-- EN: max memes -->
