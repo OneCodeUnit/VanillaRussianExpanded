@@ -8,7 +8,7 @@
     <li>1.5</li>
   </supportedVersions>
   <packageId>OW.RU.Cooking</packageId>
-  <description>Обновлённый и улучшенный перевод на русский язык мода Vanilla Cooking Expanded и дополнений Stews и Sushi. Подробности ищите на странице в мастерской.</description>
+  <description>Обновлённый и улучшенный перевод на русский язык мода Vanilla Cooking Expanded и дополнений Stews, Sushi и Haute. Подробности ищите на странице в мастерской.</description>
   <modDependencies>
     <li>
       <packageId>VanillaExpanded.VCookE</packageId>
@@ -25,6 +25,7 @@
     <li>OskarPotocki.VFE.Insectoid</li>
     <li>VanillaExpanded.VGeneticsE</li>
     <li>vanillaexpanded.achievements</li>
+    <li>VanillaExpanded.VCookEHaute</li>
   </loadAfter>
   <incompatibleWith>
     <li>Am.Rus.VCookE</li>

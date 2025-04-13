@@ -4,4 +4,18 @@
   <VCE_StewCooking.label>приготовление рагу</VCE_StewCooking.label>
   <!-- EN:Stew is a form of a very nourishing meal, cooked in bulk over fire. This research also gives access to the wood-fired pot necessary to cook stews. -->
   <VCE_StewCooking.description>Рагу представляет собой особый вид очень сытных, готовящихся партиями на открытом огне блюд. Это исследование также открывает доступ к особой кастрюле, необходимой для того, чтобы готовить рагу.</VCE_StewCooking.description>
+  <!-- EN: 
+    <li>subject->hearth and heart</li>
+    <li>subject_story->embraced the tradition of stew cooking, bringing together community and cuisine over the warmth of a shared pot</li>
+    <li>subject_story->cultivated techniques to craft stews that are not only nourishing but carry the flavors of cultural heritage and togetherness</li>
+    <li>subject_story->introduced the wood-fired pot, an essential tool for preparing these hearty meals in the traditional way</li>
+    <li>subject_gerund->nurturing bodies and souls with the communal art of stew making</li>
+  -->
+  <VCE_StewCooking.generalRules.rulesStrings>
+    <li>subject->очаг и сердце</li>
+    <li>subject_story->{PAWN gender ? принял : приняла} традицию приготовления рагу, объединяя сообщество и кулинарию вокруг тепла общего котла</li>
+    <li>subject_story->{PAWN gender ? совершенствовал : совершенствовала} методы создания рагу, которые не только питательны, но и несут в себе вкусы культурного наследия и единения</li>
+    <li>subject_story->{PAWN gender ? представил : представила} дровяную кастрюлю, незаменимый инструмент для приготовления этих сытных блюд традиционным способом</li>
+    <li>subject_gerund->питая тела и души коллективным искусством приготовления рагу</li>
+  </VCE_StewCooking.generalRules.rulesStrings>
 </LanguageData>
