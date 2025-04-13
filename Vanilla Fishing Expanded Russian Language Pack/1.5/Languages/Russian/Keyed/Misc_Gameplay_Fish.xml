@@ -22,8 +22,8 @@
   <!-- EN: Allow fishing to take place in this fishing zone -->
   <VCEF_CommandAllowFishingDesc>Разрешить ловить рыбу в этой зоне</VCEF_CommandAllowFishingDesc>
 
-  <!-- EN: This zone is set to catch fish of size -->
-  <VCEF_ZoneSetTo>Эта область предназначена для ловли рыбы размера</VCEF_ZoneSetTo>
+  <!-- EN: This zone of size {0} is set to catch fish of size -->
+  <VCEF_ZoneSetTo>Эта область размером {0} клеток предназначена для ловли рыбы размера</VCEF_ZoneSetTo>
   <!-- EN: Fish in this zone:  -->
   <VCEF_FishesInThisZone>Можно поймать: </VCEF_FishesInThisZone>
   <!-- EN: Oceanic fishing zone:  -->
@@ -32,14 +32,14 @@
   <VCEF_Yes>Да</VCEF_Yes>
   <!-- EN: No -->
   <VCEF_No>Нет</VCEF_No>
-  <!-- EN: This zone is too small. Fishing zones need to be at least {0} tiles to be valid (this calculation is made every few seconds: unpause to update). -->
-  <VCEF_ZoneTooSmall>Это область слишком мала. Область для рыбалки должна быть, как минимум, {0} клеток (проверка производится раз в несколько секунд. Снимите игру с паузы и подождите).</VCEF_ZoneTooSmall>
+  <!-- EN: This zone is too small (size {0}). Fishing zones need to be at least {1} tiles to be valid (this calculation is made every few seconds: unpause to update). -->
+  <VCEF_ZoneTooSmall>Это область слишком мала (размер {0} клеток). Область для рыбалки должна быть, как минимум, {1} клеток (проверка производится раз в несколько секунд. Снимите игру с паузы и подождите).</VCEF_ZoneTooSmall>
 
   <!-- EN: No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome) -->
   <VCEF_NoFish>В этом климате отсутствует рыба для ловли (это может произойти, если климат не поддерживается данным модом или просто безжизненный)</VCEF_NoFish>
 
   <!-- EN: While fishing, {0} has caught something special: {1} -->
-  <VCEF_CaughtSpecial>Во время рыбалки был пойман особый предмет: {1}</VCEF_CaughtSpecial>
+  <VCEF_CaughtSpecial>Во время рыбалки {0} был пойман особый предмет: {1}</VCEF_CaughtSpecial>
 
   <!-- EN: Minimum Fishing Zone size -->
   <VCEF_minimumZoneSize>Минимальный размер зоны для рыбалки</VCEF_minimumZoneSize>
