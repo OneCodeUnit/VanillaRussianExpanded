@@ -1,352 +1,399 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: knight -->
-  <VFEM_Knight51.title>knight</VFEM_Knight51.title>
+  <VFEM_Knight51.title>рыцарь</VFEM_Knight51.title>
   <!-- EN: knight -->
-  <VFEM_Knight51.titleShort>knight</VFEM_Knight51.titleShort>
+  <VFEM_Knight51.titleShort>рыцарь</VFEM_Knight51.titleShort>
   <!-- EN: [PAWN_nameDef] rose from the ranks of squires to earn [PAWN_possessive] title as a knight through courage and dedication. [PAWN_pronoun] became a master of swordplay and horseback combat, leading troops and protecting the realm with honor. While skilled in warfare, [PAWN_pronoun] considered manual labor beneath [PAWN_objective] and rarely engaged in menial tasks. -->
-  <VFEM_Knight51.description>[PAWN_nameDef] rose from the ranks of squires to earn [PAWN_possessive] title as a knight through courage and dedication. [PAWN_pronoun] became a master of swordplay and horseback combat, leading troops and protecting the realm with honor. While skilled in warfare, [PAWN_pronoun] considered manual labor beneath [PAWN_objective] and rarely engaged in menial tasks.</VFEM_Knight51.description>
+  <VFEM_Knight51.description>{PAWN_nameDef} {PAWN_gender ? вышел : вышла} из оруженосцев, {PAWN_gender ? заслужив : заслужив} титул рыцаря своим мужеством и преданностью. {PAWN_pronoun} {PAWN_gender ? стал : стала} мастером фехтования и конного боя, {PAWN_gender ? возглавлял : возглавляла} отряды воинов и {PAWN_gender ? защищал : защищала} королевство с честью. Хотя {PAWN_pronoun} {PAWN_gender ? был искусен : была искусна} в военном деле, но {PAWN_gender ? считал : считала} ручной труд ниже своего достоинства и {PAWN_gender ? оставлял : оставляла} её на прислугу.</VFEM_Knight51.description>
 
   <!-- EN: merchant -->
-  <VFEM_Merchant52.title>merchant</VFEM_Merchant52.title>
+  <VFEM_Merchant52.title>торговец</VFEM_Merchant52.title>
+  <VFEM_Merchant52.titleFemale>торговка</VFEM_Merchant52.titleFemale>
   <!-- EN: merchant -->
-  <VFEM_Merchant52.titleShort>merchant</VFEM_Merchant52.titleShort>
+  <VFEM_Merchant52.titleShort>торговец</VFEM_Merchant52.titleShort>
+  <VFEM_Merchant52.titleShortFemale>торговка</VFEM_Merchant52.titleShortFemale>
   <!-- EN: [PAWN_nameDef] built [PAWN_possessive] wealth through savvy trade, traveling across regions to barter exotic goods and secure lucrative deals. [PAWN_pronoun] became highly skilled in negotiation and logistics, ensuring the success of [PAWN_possessive] ventures. Though financially successful, [PAWN_pronoun] relied on others for physical labor and practical skills. -->
-  <VFEM_Merchant52.description>[PAWN_nameDef] built [PAWN_possessive] wealth through savvy trade, traveling across regions to barter exotic goods and secure lucrative deals. [PAWN_pronoun] became highly skilled in negotiation and logistics, ensuring the success of [PAWN_possessive] ventures. Though financially successful, [PAWN_pronoun] relied on others for physical labor and practical skills.</VFEM_Merchant52.description>
+  <VFEM_Merchant52.description>{PAWN_nameDef} {PAWN_gender ? смог : смогла} накопить солидное состояние благодаря своему уму во время путешествий. {PAWN_objective} с лёгкостью удавалось заключать выгодные сделки и обменивать экзотическими товарами. {PAWN_pronoun} {PAWN_gender ? стал : стала} профи в переговорах и логистике, чем {PAWN_gender ? обеспечивал : обеспечивала} успех своих предприятий. Финансовая успешность позволила {PAWN_objective} оставлять на других физическую работу и быт.</VFEM_Merchant52.description>
 
   <!-- EN: noble heir -->
-  <VFEM_NobleHeir53.title>noble heir</VFEM_NobleHeir53.title>
+  <VFEM_NobleHeir53.title>знатный отпрыск</VFEM_NobleHeir53.title>
   <!-- EN: noble -->
-  <VFEM_NobleHeir53.titleShort>noble</VFEM_NobleHeir53.titleShort>
+  <VFEM_NobleHeir53.titleShort>дворянин</VFEM_NobleHeir53.titleShort>
+  <VFEM_NobleHeir53.titleShortFemale>дворянка</VFEM_NobleHeir53.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up surrounded by wealth and privilege, trained from a young age to govern lands and lead people. [PAWN_pronoun] mastered the art of diplomacy and honed [PAWN_possessive] skills in archery and strategy to prepare for [PAWN_possessive] future responsibilities. However, [PAWN_pronoun] considered manual work beneath [PAWN_objective] and delegated such tasks to servants. -->
-  <VFEM_NobleHeir53.description>[PAWN_nameDef] grew up surrounded by wealth and privilege, trained from a young age to govern lands and lead people. [PAWN_pronoun] mastered the art of diplomacy and honed [PAWN_possessive] skills in archery and strategy to prepare for [PAWN_possessive] future responsibilities. However, [PAWN_pronoun] considered manual work beneath [PAWN_objective] and delegated such tasks to servants.</VFEM_NobleHeir53.description>
+  <VFEM_NobleHeir53.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в окружении богатства и власти, с юных лет {PAWN_gender ? обучался : обучалась} управлять землями и руководить людьми. {PAWN_pronoun} {PAWN_gender ? овладел : овладела} искусством дипломатии и {PAWN_gender ? отточил : отточила} свои навыки в стрельбе из лука и военном деле, готовясь к будущим обязанностям. Ручной труд {PAWN_pronoun} {PAWN_gender ? считал : считала} ниже своего достоинства и {PAWN_gender ? поручал : поручала} его своим слугам.</VFEM_NobleHeir53.description>
 
   <!-- EN: court bard -->
-  <VFEM_CourtBard54.title>court bard</VFEM_CourtBard54.title>
+  <VFEM_CourtBard54.title>придворный бард</VFEM_CourtBard54.title>
   <!-- EN: bard -->
-  <VFEM_CourtBard54.titleShort>bard</VFEM_CourtBard54.titleShort>
+  <VFEM_CourtBard54.titleShort>бард</VFEM_CourtBard54.titleShort>
   <!-- EN: [PAWN_nameDef] entertained the courts of lords and kings with poetic tales, music, and sharp wit. [PAWN_pronoun] became a master of performance and an expert in reading the social dynamics of the nobility. Though praised for [PAWN_possessive] artistic brilliance, [PAWN_pronoun] avoided manual labor and relied on [PAWN_possessive] charm to navigate life. -->
-  <VFEM_CourtBard54.description>[PAWN_nameDef] entertained the courts of lords and kings with poetic tales, music, and sharp wit. [PAWN_pronoun] became a master of performance and an expert in reading the social dynamics of the nobility. Though praised for [PAWN_possessive] artistic brilliance, [PAWN_pronoun] avoided manual labor and relied on [PAWN_possessive] charm to navigate life.</VFEM_CourtBard54.description>
+  <VFEM_CourtBard54.description>{PAWN_nameDef} {PAWN_gender ? развлекал : развлекала} придворных и королей балладами, музыкой и своим остроумием. {PAWN_pronoun} {PAWN_gender ? стал : стала} мастером выступлений и экспертом в понимании жизни знати. Пока {PAWN_possessive} {PAWN_gender ? хвалили : хвалили} за таланты в области искусств, {PAWN_nameDef} {PAWN_gender ? избегал : избегала} физического труда и в жизни {PAWN_gender ? полагался : полагалась} на своё обаяние.</VFEM_CourtBard54.description>
 
   <!-- EN: steward -->
-  <VFEM_Steward55.title>steward</VFEM_Steward55.title>
+  <VFEM_Steward55.title>стюард</VFEM_Steward55.title>
   <!-- EN: steward -->
-  <VFEM_Steward55.titleShort>steward</VFEM_Steward55.titleShort>
+  <VFEM_Steward55.titleShort>стюард</VFEM_Steward55.titleShort>
   <!-- EN: [PAWN_nameDef] managed the estates of a noble, overseeing finances, organizing events, and ensuring the smooth operation of the household. [PAWN_pronoun] excelled in administration and diplomacy, becoming indispensable to the lord [PAWN_pronoun] served. Though proficient in intellectual and social skills, [PAWN_pronoun] saw physical labor as beneath [PAWN_objective]. -->
-  <VFEM_Steward55.description>[PAWN_nameDef] managed the estates of a noble, overseeing finances, organizing events, and ensuring the smooth operation of the household. [PAWN_pronoun] excelled in administration and diplomacy, becoming indispensable to the lord [PAWN_pronoun] served. Though proficient in intellectual and social skills, [PAWN_pronoun] saw physical labor as beneath [PAWN_objective].</VFEM_Steward55.description>
+  <VFEM_Steward55.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла} поместьями знатной особы, {PAWN_gender ? следил : следила} за финансами, {PAWN_gender ? организовывал : организовывал} мероприятия и {PAWN_gender ? обеспечивал : обеспечивала} бесперебойную работу дома. {PAWN_pronoun} {PAWN_gender ? преуспел : преуспела} в управлении и дипломатии, став {PAWN_gender ? незаменимым : незаменимой} для лорда, которому {PAWN_pronoun} {PAWN_gender ? служил : служила}. Хотя {PAWN_nameDef} {PAWN_gender ? владел : владела} интеллектуальными и социальными навыками, {PAWN_pronoun} {PAWN_gender ? считал : считала} физический труд ниже своего достоинства.</VFEM_Steward55.description>
 
   <!-- EN: castellan -->
-  <VFEM_Castellan56.title>castellan</VFEM_Castellan56.title>
+  <VFEM_Castellan56.title>кастелян</VFEM_Castellan56.title>
   <!-- EN: castellan -->
-  <VFEM_Castellan56.titleShort>castellan</VFEM_Castellan56.titleShort>
+  <VFEM_Castellan56.titleShort>кастелян</VFEM_Castellan56.titleShort>
   <!-- EN: [PAWN_nameDef] was entrusted with the management of a noble's castle, ensuring its defenses were maintained and its residents well-cared for. [PAWN_pronoun] became an expert in logistics and leadership, coordinating repairs and overseeing the garrison. While skilled in administration and strategy, [PAWN_pronoun] left manual tasks to the servants. -->
-  <VFEM_Castellan56.description>[PAWN_nameDef] was entrusted with the management of a noble's castle, ensuring its defenses were maintained and its residents well-cared for. [PAWN_pronoun] became an expert in logistics and leadership, coordinating repairs and overseeing the garrison. While skilled in administration and strategy, [PAWN_pronoun] left manual tasks to the servants.</VFEM_Castellan56.description>
+  <VFEM_Castellan56.description>{PAWN_nameDef} доверили управление замком знатной особы, надзор за состоянием его обороны и уход за его обитателями. {PAWN_pronoun} {PAWN_gender ? стал : стала} экспертом в логистике и управлении, координируя ремонтные работы и наблюдая за гарнизоном. Хотя {PAWN_pronoun} {PAWN_gender ? был искусен : была искусна} в управлении и стратегии, ручную работу {PAWN_gender ? оставлял : оставляла} слугам.</VFEM_Castellan56.description>
 
   <!-- EN: armorer -->
-  <VFEM_Armorer57.title>armorer</VFEM_Armorer57.title>
+  <VFEM_Armorer57.title>оружейник</VFEM_Armorer57.title>
   <!-- EN: armorer -->
-  <VFEM_Armorer57.titleShort>armorer</VFEM_Armorer57.titleShort>
+  <VFEM_Armorer57.titleShort>оружейник</VFEM_Armorer57.titleShort>
   <!-- EN: [PAWN_nameDef] crafted fine weapons and armor for knights and nobles, perfecting [PAWN_possessive] trade in the forge. [PAWN_pronoun] developed an unmatched skill in shaping steel into works of art and tools of war. Though a master artisan, [PAWN_pronoun] often neglected other aspects of life, focusing solely on [PAWN_possessive] craft. -->
-  <VFEM_Armorer57.description>[PAWN_nameDef] crafted fine weapons and armor for knights and nobles, perfecting [PAWN_possessive] trade in the forge. [PAWN_pronoun] developed an unmatched skill in shaping steel into works of art and tools of war. Though a master artisan, [PAWN_pronoun] often neglected other aspects of life, focusing solely on [PAWN_possessive] craft.</VFEM_Armorer57.description>
+  <VFEM_Armorer57.description>{PAWN_nameDef} {PAWN_gender ? изготавливал : изготавливала} изысканное оружие и доспехи для рыцарей и знати, {PAWN_gender ? совершенствуя : совершенствуя} своё мастерство в кузнице. {PAWN_pronoun} {PAWN_gender ? развил : развила} непревзойдённое умение превращать сталь в произведения искусства или орудия войны. Хотя {PAWN_nameDef} {PAWN_gender ? был мастером-ремесленником : была мастером-ремесленницей}, часто {PAWN_gender ? пренебрегал : пренебрегала} другими аспектами жизни, сосредотачиваясь исключительно на своём ремесле.</VFEM_Armorer57.description>
 
   <!-- EN: diplomat -->
-  <VFEM_Diplomat58.title>diplomat</VFEM_Diplomat58.title>
+  <VFEM_Diplomat58.title>дипломат</VFEM_Diplomat58.title>
   <!-- EN: diplomat -->
-  <VFEM_Diplomat58.titleShort>diplomat</VFEM_Diplomat58.titleShort>
+  <VFEM_Diplomat58.titleShort>дипломат</VFEM_Diplomat58.titleShort>
   <!-- EN: [PAWN_nameDef] traveled between courts, negotiating treaties and mediating disputes between noble houses. [PAWN_pronoun] excelled in persuasion and understanding the intricacies of politics, earning a reputation for tact and wisdom. [PAWN_pronoun] left physical tasks to others, relying on [PAWN_possessive] intellect and charm to succeed. -->
-  <VFEM_Diplomat58.description>[PAWN_nameDef] traveled between courts, negotiating treaties and mediating disputes between noble houses. [PAWN_pronoun] excelled in persuasion and understanding the intricacies of politics, earning a reputation for tact and wisdom. [PAWN_pronoun] left physical tasks to others, relying on [PAWN_possessive] intellect and charm to succeed.</VFEM_Diplomat58.description>
+  <VFEM_Diplomat58.description>{PAWN_nameDef} {PAWN_gender ? путешествовал : путешествовала} между дворами, {PAWN_gender ? договариваясь : договариваясь} о соглашениях и {PAWN_gender ? выступая : выступая} посредником в спорах между знатными домами. {PAWN_pronoun} {PAWN_gender ? преуспел : преуспела} в убеждении и понимании тонкостей политики, заработав репутацию тактичного и мудрого человека. Физические задачи {PAWN_nameDef} {PAWN_gender ? оставлял : оставляла} другим, полагаясь на свой интеллект и обаяние для достижения успеха.</VFEM_Diplomat58.description>
 
   <!-- EN: guildmaster -->
-  <VFEM_Guildmaster59.title>guildmaster</VFEM_Guildmaster59.title>
+  <VFEM_Guildmaster59.title>глава гильдии</VFEM_Guildmaster59.title>
   <!-- EN: guildmaster -->
-  <VFEM_Guildmaster59.titleShort>guildmaster</VFEM_Guildmaster59.titleShort>
+  <VFEM_Guildmaster59.titleShort>глава гильдии</VFEM_Guildmaster59.titleShort>
   <!-- EN: [PAWN_nameDef] led a prosperous guild, coordinating the efforts of skilled artisans and merchants. [PAWN_pronoun] became a shrewd leader and negotiator, balancing trade and politics to secure the guild's interests. While brilliant in leadership, [PAWN_pronoun] rarely engaged in the craft [PAWN_pronoun] oversaw. -->
-  <VFEM_Guildmaster59.description>[PAWN_nameDef] led a prosperous guild, coordinating the efforts of skilled artisans and merchants. [PAWN_pronoun] became a shrewd leader and negotiator, balancing trade and politics to secure the guild's interests. While brilliant in leadership, [PAWN_pronoun] rarely engaged in the craft [PAWN_pronoun] oversaw.</VFEM_Guildmaster59.description>
+  <VFEM_Guildmaster59.description>{PAWN_nameDef} {PAWN_gender ? возглавлял : возглавляла} процветающую гильдию, {PAWN_gender ? координируя : координируя} усилия умелых ремесленников и торговцев. {PAWN_pronoun} {PAWN_gender ? стал : стала} проницательным лидером и переговорщиком, балансируя между торговлей и политикой для обеспечения интересов гильдии. Хотя {PAWN_pronoun} {PAWN_gender ? был гениален : была гениальна} в руководстве, но редко {PAWN_gender ? делал что-либо вручную : делал} что-либо вручную.</VFEM_Guildmaster59.description>
 
   <!-- EN: court physician -->
-  <VFEM_CourtPhysician60.title>court physician</VFEM_CourtPhysician60.title>
+  <VFEM_CourtPhysician60.title>придворный врач</VFEM_CourtPhysician60.title>
   <!-- EN: physician -->
-  <VFEM_CourtPhysician60.titleShort>physician</VFEM_CourtPhysician60.titleShort>
+  <VFEM_CourtPhysician60.titleShort>врач</VFEM_CourtPhysician60.titleShort>
   <!-- EN: [PAWN_nameDef] served in the noble court, tending to the illnesses and injuries of the ruling family. [PAWN_pronoun] gained expertise in medicine and herbal remedies, becoming a trusted advisor in matters of health. Though valued for [PAWN_possessive] skills, [PAWN_pronoun] had little patience for physical labor. -->
-  <VFEM_CourtPhysician60.description>[PAWN_nameDef] served in the noble court, tending to the illnesses and injuries of the ruling family. [PAWN_pronoun] gained expertise in medicine and herbal remedies, becoming a trusted advisor in matters of health. Though valued for [PAWN_possessive] skills, [PAWN_pronoun] had little patience for physical labor.</VFEM_CourtPhysician60.description>
+  <VFEM_CourtPhysician60.description>{PAWN_nameDef} {PAWN_gender ? служил : служила} при дворе знати, заботясь о болезнях и травмах правящей семьи. {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела} опыт в медицине и травяных лекарствах, став доверенным советником по вопросам здоровья. Хотя {PAWN_possessive} ценили за навыки, у н{PAWN_possessive} было мало терпения к физическому труду.</VFEM_CourtPhysician60.description>
 
   <!-- EN: knight commander -->
-  <VFEM_KnightCommander61.title>knight commander</VFEM_KnightCommander61.title>
+  <VFEM_KnightCommander61.title>командир рыцарей</VFEM_KnightCommander61.title>
   <!-- EN: commander -->
-  <VFEM_KnightCommander61.titleShort>commander</VFEM_KnightCommander61.titleShort>
+  <VFEM_KnightCommander61.titleShort>командующий</VFEM_KnightCommander61.titleShort>
   <!-- EN: [PAWN_nameDef] led a company of knights into battle, earning [PAWN_possessive] title through years of skill and strategy. [PAWN_pronoun] excelled at coordinating troops, inspiring loyalty among [PAWN_possessive] men, and devising battle plans. While unmatched in leadership and combat, [PAWN_pronoun] considered manual labor beneath [PAWN_objective]. -->
-  <VFEM_KnightCommander61.description>[PAWN_nameDef] led a company of knights into battle, earning [PAWN_possessive] title through years of skill and strategy. [PAWN_pronoun] excelled at coordinating troops, inspiring loyalty among [PAWN_possessive] men, and devising battle plans. While unmatched in leadership and combat, [PAWN_pronoun] considered manual labor beneath [PAWN_objective].</VFEM_KnightCommander61.description>
+  <VFEM_KnightCommander61.description>{PAWN_nameDef} {PAWN_gender ? водил : водила} за собой отряд рыцарей в битву и {PAWN_gender ? заслужил : заслужила} свой титул демонстрацией мастерства и стратегического мышления на протяжении многих лет. {PAWN_pronoun} {PAWN_gender ? преуспел : преуспела} в координации войск, повышения боевого духа среди своих людей и разработке боевых планов. Хотя {PAWN_pronoun} не {PAWN_gender ? имел : имела} себе равных в руководстве и бою, ручной труд {PAWN_gender ? считал : считала} ниже своего достоинства.</VFEM_KnightCommander61.description>
 
   <!-- EN: castellan of arms -->
-  <VFEM_CastellanOfArms62.title>castellan of arms</VFEM_CastellanOfArms62.title>
+  <VFEM_CastellanOfArms62.title>хранитель оружия</VFEM_CastellanOfArms62.title>
+  <VFEM_CastellanOfArms62.titleFemale>хранительница оружия</VFEM_CastellanOfArms62.titleFemale>
   <!-- EN: armorer -->
-  <VFEM_CastellanOfArms62.titleShort>armorer</VFEM_CastellanOfArms62.titleShort>
+  <VFEM_CastellanOfArms62.titleShort>оружейник</VFEM_CastellanOfArms62.titleShort>
   <!-- EN: [PAWN_nameDef] was entrusted with the armory of a great castle, overseeing the maintenance and distribution of weapons and armor. [PAWN_pronoun] became an expert in the design and upkeep of equipment, ensuring the garrison was always ready for battle. Though skilled in [PAWN_possessive] craft, [PAWN_pronoun] left combat to the knights [PAWN_pronoun] served. -->
-  <VFEM_CastellanOfArms62.description>[PAWN_nameDef] was entrusted with the armory of a great castle, overseeing the maintenance and distribution of weapons and armor. [PAWN_pronoun] became an expert in the design and upkeep of equipment, ensuring the garrison was always ready for battle. Though skilled in [PAWN_possessive] craft, [PAWN_pronoun] left combat to the knights [PAWN_pronoun] served.</VFEM_CastellanOfArms62.description>
+  <VFEM_CastellanOfArms62.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за арсенал большого замка, ведя надзор за обслуживанием и распределением оружия и брони. {PAWN_pronoun} {PAWN_gender ? стал : стала} экспертом в проектировании и обслуживании снаряжения, гарантируя, что гарнизон всегда будет готов к бою. Хоть {PAWN_nameDef} {PAWN_gender ? был искусен : была искусна} в своём ремесле, но {PAWN_gender ? оставлял : оставляла} сражения рыцарям, которым {PAWN_gender ? служил : служила}.</VFEM_CastellanOfArms62.description>
 
   <!-- EN: knight errant -->
-  <VFEM_KnightErrant63.title>knight errant</VFEM_KnightErrant63.title>
+  <VFEM_KnightErrant63.title>странствующий рыцарь</VFEM_KnightErrant63.title>
   <!-- EN: errant -->
-  <VFEM_KnightErrant63.titleShort>errant</VFEM_KnightErrant63.titleShort>
+  <VFEM_KnightErrant63.titleShort>странствующий</VFEM_KnightErrant63.titleShort>
+  <VFEM_KnightErrant63.titleShortFemale>странствующая</VFEM_KnightErrant63.titleShortFemale>
   <!-- EN: [PAWN_nameDef] wandered the land as a knight errant, seeking to prove [PAWN_possessive] valor through combat and acts of chivalry. [PAWN_pronoun] mastered swordsmanship and gained a reputation for [PAWN_possessive] fearless bravery. While skilled in combat and diplomacy, [PAWN_pronoun] neglected practical skills during [PAWN_possessive] travels. -->
-  <VFEM_KnightErrant63.description>[PAWN_nameDef] wandered the land as a knight errant, seeking to prove [PAWN_possessive] valor through combat and acts of chivalry. [PAWN_pronoun] mastered swordsmanship and gained a reputation for [PAWN_possessive] fearless bravery. While skilled in combat and diplomacy, [PAWN_pronoun] neglected practical skills during [PAWN_possessive] travels.</VFEM_KnightErrant63.description>
+  <VFEM_KnightErrant63.description>{PAWN_nameDef} {PAWN_gender ? путешествовал : путешествовала} по стране в качестве странствующего рыцаря, стремясь доказать свою доблесть через сражения и рыцарские поступки. {PAWN_pronoun} {PAWN_gender ? овладел : овладела} мастерством фехтования и {PAWN_gender ? заработал : заработала} репутацию благодаря своей бесстрашной храбрости. Хоть {PAWN_pronoun} {PAWN_gender ? был искусен : была искусна} в бою и дипломатии, но {PAWN_gender ? пренебрегал : пренебрегала} практическими навыками во время своих путешествий.</VFEM_KnightErrant63.description>
 
   <!-- EN: royal guard -->
-  <VFEM_RoyalGuard64.title>royal guard</VFEM_RoyalGuard64.title>
+  <VFEM_RoyalGuard64.title>королевский страж</VFEM_RoyalGuard64.title>
   <!-- EN: guard -->
-  <VFEM_RoyalGuard64.titleShort>guard</VFEM_RoyalGuard64.titleShort>
+  <VFEM_RoyalGuard64.titleShort>страж</VFEM_RoyalGuard64.titleShort>
   <!-- EN: [PAWN_nameDef] served as one of the elite guards sworn to protect the king and [PAWN_possessive] family. [PAWN_pronoun] was trained in both melee and ranged combat, becoming highly skilled in personal defense and loyalty. The prestigious position left [PAWN_pronoun] unaccustomed to menial tasks, focusing solely on [PAWN_possessive] duty. -->
-  <VFEM_RoyalGuard64.description>[PAWN_nameDef] served as one of the elite guards sworn to protect the king and [PAWN_possessive] family. [PAWN_pronoun] was trained in both melee and ranged combat, becoming highly skilled in personal defense and loyalty. The prestigious position left [PAWN_pronoun] unaccustomed to menial tasks, focusing solely on [PAWN_possessive] duty.</VFEM_RoyalGuard64.description>
+  <VFEM_RoyalGuard64.description>{PAWN_nameDef} {PAWN_gender ? был одним : была одной} из элитных стражников, поклявшихся защищать короля и его семью. {PAWN_pronoun} {PAWN_gender ? был обучен : была обучена} как ближнему, так и дальнему бою, став мастером защиты. Престижное положение избавляло {PAWN_possessive} от чёрной работы, позволив сосредоточиться исключительно на своём долге.</VFEM_RoyalGuard64.description>
 
   <!-- EN: strategist -->
-  <VFEM_Strategist65.title>strategist</VFEM_Strategist65.title>
+  <VFEM_Strategist65.title>стратег</VFEM_Strategist65.title>
   <!-- EN: strategist -->
-  <VFEM_Strategist65.titleShort>strategist</VFEM_Strategist65.titleShort>
+  <VFEM_Strategist65.titleShort>стратег</VFEM_Strategist65.titleShort>
   <!-- EN: [PAWN_nameDef] was a master tactician, advising lords and generals on the best paths to victory. [PAWN_pronoun] excelled at reading the battlefield, coordinating troops, and anticipating enemy moves. Though [PAWN_pronoun] rarely fought directly, [PAWN_pronoun] commanded respect for [PAWN_possessive] brilliant mind and sharp tongue. -->
-  <VFEM_Strategist65.description>[PAWN_nameDef] was a master tactician, advising lords and generals on the best paths to victory. [PAWN_pronoun] excelled at reading the battlefield, coordinating troops, and anticipating enemy moves. Though [PAWN_pronoun] rarely fought directly, [PAWN_pronoun] commanded respect for [PAWN_possessive] brilliant mind and sharp tongue.</VFEM_Strategist65.description>
+  <VFEM_Strategist65.description>{PAWN_nameDef} {PAWN_gender ? был : была} мастером тактики, предлагая лордам и генералам лучшие пути к победе. {PAWN_pronoun} {PAWN_gender ? преуспел : преуспела} в чтении поля боя, координации войск и предугадывании действий врага. Хоть {PAWN_pronoun} редко {PAWN_gender ? сражался : сражалась} напрямую, но{PAWN_gender ? заслужил : заслужила} уважение за свой блестящий ум и острый язык.</VFEM_Strategist65.description>
 
   <!-- EN: lord's heir -->
-  <VFEM_LordsHeir66.title>lord's heir</VFEM_LordsHeir66.title>
+  <VFEM_LordsHeir66.title>наследник лорда</VFEM_LordsHeir66.title>
+  <VFEM_LordsHeir66.titleFemale>наследница лорда</VFEM_LordsHeir66.titleFemale>
   <!-- EN: heir -->
-  <VFEM_LordsHeir66.titleShort>heir</VFEM_LordsHeir66.titleShort>
+  <VFEM_LordsHeir66.titleShort>наследник</VFEM_LordsHeir66.titleShort>
+  <VFEM_LordsHeir66.titleShortFemale>наследница</VFEM_LordsHeir66.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was born as the eldest child of a noble family, destined to inherit the estate and title. [PAWN_pronoun] received the finest education in governance, diplomacy, and warfare. While skilled in leadership and strategy, [PAWN_pronoun] avoided physical labor, seeing it as beneath [PAWN_objective]. -->
-  <VFEM_LordsHeir66.description>[PAWN_nameDef] was born as the eldest child of a noble family, destined to inherit the estate and title. [PAWN_pronoun] received the finest education in governance, diplomacy, and warfare. While skilled in leadership and strategy, [PAWN_pronoun] avoided physical labor, seeing it as beneath [PAWN_objective].</VFEM_LordsHeir66.description>
+  <VFEM_LordsHeir66.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась} старшим ребёнком знатной семьи, {PAWN_gender ? которому : которой} предназначалось унаследовать поместье и титул. {PAWN_pronoun} {PAWN_gender ? получил : получила} превосходное образование в управлении, дипломатии и военном деле. Хотя {PAWN_pronoun} {PAWN_gender ? был искусен : была искусна} в руководстве и стратегии, но {PAWN_gender ? избегал : избегала} физического труда, считая его ниже своего достоинства.</VFEM_LordsHeir66.description>
 
   <!-- EN: baron -->
-  <VFEM_Baron67.title>baron</VFEM_Baron67.title>
+  <VFEM_Baron67.title>барон</VFEM_Baron67.title>
+  <VFEM_Baron67.titleFemale>баронесса</VFEM_Baron67.titleFemale>
   <!-- EN: baron -->
-  <VFEM_Baron67.titleShort>baron</VFEM_Baron67.titleShort>
+  <VFEM_Baron67.titleShort>барон</VFEM_Baron67.titleShort>
+  <VFEM_Baron67.titleShortFemale>баронесса</VFEM_Baron67.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was granted the title of baron and ruled over a small region in [PAWN_possessive] lord's service. [PAWN_pronoun] managed taxes, enforced laws, and led the local militia when needed. Though [PAWN_pronoun] excelled in leadership, [PAWN_pronoun] saw manual labor as the work of peasants. -->
-  <VFEM_Baron67.description>[PAWN_nameDef] was granted the title of baron and ruled over a small region in [PAWN_possessive] lord's service. [PAWN_pronoun] managed taxes, enforced laws, and led the local militia when needed. Though [PAWN_pronoun] excelled in leadership, [PAWN_pronoun] saw manual labor as the work of peasants.</VFEM_Baron67.description>
+  <VFEM_Baron67.description>{PAWN_nameDef} {PAWN_gender ? получил титул барона и правил : получила титул баронессы и правила} небольшим регионом. {PAWN_pronoun} {PAWN_gender ? управлял : управляла} налогами, {PAWN_gender ? обеспечивал : обеспечивала} соблюдение законов и, при необходимости, {PAWN_gender ? возглавлял : возглавляла} местное ополчение. Хотя {PAWN_pronoun} {PAWN_gender ? преуспел : преуспела} в руководстве, но {PAWN_gender ? рассматривал : рассматривала} ручной труд как работу для крестьян.</VFEM_Baron67.description>
 
   <!-- EN: high noble -->
-  <VFEM_HighNoble68.title>high noble</VFEM_HighNoble68.title>
+  <VFEM_HighNoble68.title>высшая знать</VFEM_HighNoble68.title>
   <!-- EN: noble -->
-  <VFEM_HighNoble68.titleShort>noble</VFEM_HighNoble68.titleShort>
+  <VFEM_HighNoble68.titleShort>знать</VFEM_HighNoble68.titleShort>
   <!-- EN: [PAWN_nameDef] was born into one of the most powerful noble families in the land, growing up surrounded by luxury and political intrigue. [PAWN_pronoun] mastered the art of diplomacy and the subtleties of court politics, earning a reputation as a skilled negotiator. While proficient in social and intellectual pursuits, [PAWN_pronoun] relied entirely on servants for physical tasks. -->
-  <VFEM_HighNoble68.description>[PAWN_nameDef] was born into one of the most powerful noble families in the land, growing up surrounded by luxury and political intrigue. [PAWN_pronoun] mastered the art of diplomacy and the subtleties of court politics, earning a reputation as a skilled negotiator. While proficient in social and intellectual pursuits, [PAWN_pronoun] relied entirely on servants for physical tasks.</VFEM_HighNoble68.description>
+  <VFEM_HighNoble68.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась} в одной из самых могущественных семей в стране, {PAWN_gender ? вырос : выросла} в окружении роскоши и политических интриг. {PAWN_pronoun} {PAWN_gender ? овладел : овладела} искусством дипломатии и тонкостями придворной политики, заработав репутацию искусного переговорщика. Хотя {PAWN_pronoun} {PAWN_gender ? был компетентен : была компетентна} в социальных и интеллектуальных занятиях, но полностью {PAWN_gender ? полагался : полагалась} на слуг для выполнения физических задач.</VFEM_HighNoble68.description>
 
   <!-- EN: noble diplomat -->
-  <VFEM_NobleDiplomat69.title>noble diplomat</VFEM_NobleDiplomat69.title>
+  <VFEM_NobleDiplomat69.title>знатный дипломат</VFEM_NobleDiplomat69.title>
   <!-- EN: diplomat -->
-  <VFEM_NobleDiplomat69.titleShort>diplomat</VFEM_NobleDiplomat69.titleShort>
+  <VFEM_NobleDiplomat69.titleShort>дипломат</VFEM_NobleDiplomat69.titleShort>
   <!-- EN: [PAWN_nameDef] was sent to foreign courts as a representative of [PAWN_possessive] family, brokering alliances and treaties. [PAWN_pronoun] became skilled in diplomacy and negotiation, earning admiration for [PAWN_possessive] eloquence and charm. However, [PAWN_pronoun] relied on servants for physical labor and rarely engaged in manual tasks. -->
-  <VFEM_NobleDiplomat69.description>[PAWN_nameDef] was sent to foreign courts as a representative of [PAWN_possessive] family, brokering alliances and treaties. [PAWN_pronoun] became skilled in diplomacy and negotiation, earning admiration for [PAWN_possessive] eloquence and charm. However, [PAWN_pronoun] relied on servants for physical labor and rarely engaged in manual tasks.</VFEM_NobleDiplomat69.description>
+  <VFEM_NobleDiplomat69.description>{PAWN_nameDef} {PAWN_gender ? был приставлен : была приставлена} к иноземным дворам в качестве представителя знатной семьи для заключения союзов и сделок. {PAWN_pronoun} {PAWN_gender ? стал : стала} мастером в дипломатии и переговорах, заслужив восхищение своим красноречием и обаянием. Однако {PAWN_pronoun} {PAWN_gender ? полагался : полагалась} на слуг для физической работы и редко {PAWN_gender ? занимался : занималась} ручным трудом.</VFEM_NobleDiplomat69.description>
 
   <!-- EN: royal knight -->
-  <VFEM_RoyalKnight70.title>royal knight</VFEM_RoyalKnight70.title>
+  <VFEM_RoyalKnight70.title>королевский рыцарь</VFEM_RoyalKnight70.title>
   <!-- EN: royal knight -->
-  <VFEM_RoyalKnight70.titleShort>royal knight</VFEM_RoyalKnight70.titleShort>
+  <VFEM_RoyalKnight70.titleShort>королевский рыцарь</VFEM_RoyalKnight70.titleShort>
   <!-- EN: [PAWN_nameDef] was trained from a young age to serve the king directly as a member of [PAWN_possessive] personal guard. [PAWN_pronoun] became a master of both mounted and melee combat, earning the respect of peers and commanders alike. While [PAWN_pronoun] excelled on the battlefield, [PAWN_pronoun] avoided menial tasks, considering them unworthy of [PAWN_possessive] status. -->
-  <VFEM_RoyalKnight70.description>[PAWN_nameDef] was trained from a young age to serve the king directly as a member of [PAWN_possessive] personal guard. [PAWN_pronoun] became a master of both mounted and melee combat, earning the respect of peers and commanders alike. While [PAWN_pronoun] excelled on the battlefield, [PAWN_pronoun] avoided menial tasks, considering them unworthy of [PAWN_possessive] status.</VFEM_RoyalKnight70.description>
+  <VFEM_RoyalKnight70.description>{PAWN_nameDef} с юных лет {PAWN_gender ? обучался : обучалась} быть частью личной охраны короля. {PAWN_pronoun} {PAWN_gender ? стал : стала} мастером как конного, так и пешего боя, заслужив уважение как сверстников, так и командиров. Хотя {PAWN_pronoun} {PAWN_gender ? преуспевал : преуспевала} на поле боя, но всегда {PAWN_gender ? избегал : избегала} чёрной работы, считая её ниже своего статуса.</VFEM_RoyalKnight70.description>
 
   <!-- EN: warden of the north -->
-  <VFEM_WardenOfTheNorth71.title>warden of the north</VFEM_WardenOfTheNorth71.title>
+  <VFEM_WardenOfTheNorth71.title>страж севера</VFEM_WardenOfTheNorth71.title>
   <!-- EN: warden -->
-  <VFEM_WardenOfTheNorth71.titleShort>warden</VFEM_WardenOfTheNorth71.titleShort>
+  <VFEM_WardenOfTheNorth71.titleShort>страж</VFEM_WardenOfTheNorth71.titleShort>
   <!-- EN: [PAWN_nameDef] was charged with the defense of a vast and frigid northern realm, managing both its people and its armies. [PAWN_pronoun] excelled in leadership, strategy, and building alliances to keep the lands united under [PAWN_possessive] banner. The harsh conditions forged [PAWN_pronoun] into a hardened and resolute figure. -->
-  <VFEM_WardenOfTheNorth71.description>[PAWN_nameDef] was charged with the defense of a vast and frigid northern realm, managing both its people and its armies. [PAWN_pronoun] excelled in leadership, strategy, and building alliances to keep the lands united under [PAWN_possessive] banner. The harsh conditions forged [PAWN_pronoun] into a hardened and resolute figure.</VFEM_WardenOfTheNorth71.description>
+  <VFEM_WardenOfTheNorth71.description>{PAWN_nameDef} {PAWN_gender ? был поставлен : была поставлена} защищать обширные холодные северные земли, {PAWN_gender ? управляя : управляя} как их народом, так и армиями. {PAWN_pronoun} {PAWN_gender ? преуспел : преуспела} в лидерстве, стратегии и создании союзов, чтобы держать земли объединёнными под своим знаменем. Суровые условия сделали из н{PAWN_possessive} несгибаемую и решительную личность.</VFEM_WardenOfTheNorth71.description>
 
   <!-- EN: master of whispers -->
-  <VFEM_MasterOfWhispers72.title>master of whispers</VFEM_MasterOfWhispers72.title>
+  <VFEM_MasterOfWhispers72.title>мастер над шептунами</VFEM_MasterOfWhispers72.title>
   <!-- EN: spymaster -->
-  <VFEM_MasterOfWhispers72.titleShort>spymaster</VFEM_MasterOfWhispers72.titleShort>
+  <VFEM_MasterOfWhispers72.titleShort>шпион</VFEM_MasterOfWhispers72.titleShort>
+  <VFEM_MasterOfWhispers72.titleShortFemale>шпионка</VFEM_MasterOfWhispers72.titleShortFemale>
   <!-- EN: [PAWN_nameDef] served as the spymaster for a great lord, gathering intelligence through a network of informants and spies. [PAWN_pronoun] became an expert in intrigue, manipulation, and uncovering secrets, often wielding information as a weapon. While skilled in subterfuge, [PAWN_pronoun] avoided physical confrontations, preferring to work behind the scenes. -->
-  <VFEM_MasterOfWhispers72.description>[PAWN_nameDef] served as the spymaster for a great lord, gathering intelligence through a network of informants and spies. [PAWN_pronoun] became an expert in intrigue, manipulation, and uncovering secrets, often wielding information as a weapon. While skilled in subterfuge, [PAWN_pronoun] avoided physical confrontations, preferring to work behind the scenes.</VFEM_MasterOfWhispers72.description>
+  <VFEM_MasterOfWhispers72.description>{PAWN_nameDef} {PAWN_gender ? служил : служила} главным шпионом великого лорда, добывая сведения через обширную сеть информаторов и лазутчиков. {PAWN_pronoun} {PAWN_gender ? стал : стала} экспертом в интригах, манипуляциях и раскрытии секретов, часто превращая информацию в грозное оружие. Несмотря на мастерство в тайных операциях, {PAWN_pronoun} {PAWN_gender ? избегал : избегала} прямых столкновений, предпочитая действовать из тени.</VFEM_MasterOfWhispers72.description>
 
   <!-- EN: commander of the watch -->
-  <VFEM_CommanderOfTheWatch73.title>commander of the watch</VFEM_CommanderOfTheWatch73.title>
+  <VFEM_CommanderOfTheWatch73.title>командир стражи</VFEM_CommanderOfTheWatch73.title>
   <!-- EN: commander -->
-  <VFEM_CommanderOfTheWatch73.titleShort>commander</VFEM_CommanderOfTheWatch73.titleShort>
+  <VFEM_CommanderOfTheWatch73.titleShort>командир</VFEM_CommanderOfTheWatch73.titleShort>
   <!-- EN: [PAWN_nameDef] led a band of sworn warriors tasked with guarding the borderlands from threats beyond. [PAWN_pronoun] was skilled in tactics, inspiring loyalty in [PAWN_possessive] men while maintaining discipline in harsh conditions. Though [PAWN_pronoun] excelled in combat and leadership, [PAWN_pronoun] remained isolated from the intrigues of court life. -->
-  <VFEM_CommanderOfTheWatch73.description>[PAWN_nameDef] led a band of sworn warriors tasked with guarding the borderlands from threats beyond. [PAWN_pronoun] was skilled in tactics, inspiring loyalty in [PAWN_possessive] men while maintaining discipline in harsh conditions. Though [PAWN_pronoun] excelled in combat and leadership, [PAWN_pronoun] remained isolated from the intrigues of court life.</VFEM_CommanderOfTheWatch73.description>
+  <VFEM_CommanderOfTheWatch73.description>{PAWN_nameDef} {PAWN_gender ? командовал : командовала} отрядом присягнувших воинов, охранявших пограничье от внешних угроз. {PAWN_pronoun} в совершенстве {PAWN_gender ? овладел : овладела} тактическим искусством, вдохновляя своих воинов и поддерживая железную дисциплину даже в самых суровых условиях. Несмотря на боевые заслуги и лидерские качества, {PAWN_nameDef} {PAWN_gender ? держался : держалась} в стороне от дворцовых интриг.</VFEM_CommanderOfTheWatch73.description>
 
   <!-- EN: court schemer -->
-  <VFEM_CourtSchemer74.title>court schemer</VFEM_CourtSchemer74.title>
+  <VFEM_CourtSchemer74.title>придворный интриган</VFEM_CourtSchemer74.title>
   <!-- EN: schemer -->
-  <VFEM_CourtSchemer74.titleShort>schemer</VFEM_CourtSchemer74.titleShort>
-  <!-- EN: [PAWN_nameDef] thrived in the cutthroat world of the royal court, manipulating allies and enemies alike to advance [PAWN_possessive] ambitions. [PAWN_pronoun] became skilled in deception, politics, and reading people’s motives. While [PAWN_pronoun] rarely took to the battlefield, [PAWN_pronoun] wielded words as effectively as others wielded swords. -->
-  <VFEM_CourtSchemer74.description>[PAWN_nameDef] thrived in the cutthroat world of the royal court, manipulating allies and enemies alike to advance [PAWN_possessive] ambitions. [PAWN_pronoun] became skilled in deception, politics, and reading people’s motives. While [PAWN_pronoun] rarely took to the battlefield, [PAWN_pronoun] wielded words as effectively as others wielded swords.</VFEM_CourtSchemer74.description>
+  <VFEM_CourtSchemer74.titleShort>интриган</VFEM_CourtSchemer74.titleShort>
+  <!-- EN: [PAWN_nameDef] thrived in the cutthroat world of the royal court, manipulating allies and enemies alike to advance [PAWN_possessive] ambitions. [PAWN_pronoun] became skilled in deception, politics, and reading people's motives. While [PAWN_pronoun] rarely took to the battlefield, [PAWN_pronoun] wielded words as effectively as others wielded swords. -->
+  <VFEM_CourtSchemer74.description>{PAWN_nameDef} {PAWN_gender ? процветал : процветала} в безжалостном мире королевского двора, мастерски манипулируя как союзниками, так и врагами для продвижения собственных амбиций. {PAWN_pronoun} {PAWN_gender ? овладел : овладела} искусством обмана, политических интриг и умением читать истинные мотивы людей. Хотя {PAWN_pronoun} редко {PAWN_gender ? появлялся : появлялась} на поле боя, {PAWN_possessive} острый язык разил не хуже отточенных мечей.</VFEM_CourtSchemer74.description>
 
   <!-- EN: southern lord -->
-  <VFEM_SouthernLord75.title>southern lord</VFEM_SouthernLord75.title>
+  <VFEM_SouthernLord75.title>южный лорд</VFEM_SouthernLord75.title>
+  <VFEM_SouthernLord75.titleFemale>южная леди</VFEM_SouthernLord75.titleFemale>
   <!-- EN: lord -->
-  <VFEM_SouthernLord75.titleShort>lord</VFEM_SouthernLord75.titleShort>
+  <VFEM_SouthernLord75.titleShort>лорд</VFEM_SouthernLord75.titleShort>
+  <VFEM_SouthernLord75.titleShortFemale>леди</VFEM_SouthernLord75.titleShortFemale>
   <!-- EN: [PAWN_nameDef] ruled over a warm and fertile region, maintaining order and wealth through agriculture and trade. [PAWN_pronoun] developed strong diplomatic skills to navigate the alliances and rivalries of neighboring houses. Though adept at politics, [PAWN_pronoun] relied on others for matters of warfare and manual labor. -->
-  <VFEM_SouthernLord75.description>[PAWN_nameDef] ruled over a warm and fertile region, maintaining order and wealth through agriculture and trade. [PAWN_pronoun] developed strong diplomatic skills to navigate the alliances and rivalries of neighboring houses. Though adept at politics, [PAWN_pronoun] relied on others for matters of warfare and manual labor.</VFEM_SouthernLord75.description>
+  <VFEM_SouthernLord75.description>{PAWN_nameDef} {PAWN_gender ? властвовал : властвовала} над тёплым и плодородным краем, обеспечивая порядок и процветание путём развития сельского хозяйства и торговли. {PAWN_pronoun} {PAWN_gender ? овладел : овладела} тонким искусством дипломатии для лавирования между союзами и конфликтами соседних домов. Несмотря на политическую хватку, в военном деле и физическом труде {PAWN_nameDef} всецело {PAWN_gender ? полагался : полагалась} на других.</VFEM_SouthernLord75.description>
 
   <!-- EN: falconer -->
-  <VFEM_Falconer76.title>falconer</VFEM_Falconer76.title>
+  <VFEM_Falconer76.title>сокольничий</VFEM_Falconer76.title>
   <!-- EN: falconer -->
-  <VFEM_Falconer76.titleShort>falconer</VFEM_Falconer76.titleShort>
+  <VFEM_Falconer76.titleShort>сокольничий</VFEM_Falconer76.titleShort>
   <!-- EN: [PAWN_nameDef] trained and cared for hunting birds, guiding them to track prey for [PAWN_possessive] lord. [PAWN_pronoun] developed a deep understanding of animal behavior and earned respect for [PAWN_possessive] skill in falconry. While skilled with animals, [PAWN_pronoun] had little experience with tasks unrelated to [PAWN_possessive] craft. -->
-  <VFEM_Falconer76.description>[PAWN_nameDef] trained and cared for hunting birds, guiding them to track prey for [PAWN_possessive] lord. [PAWN_pronoun] developed a deep understanding of animal behavior and earned respect for [PAWN_possessive] skill in falconry. While skilled with animals, [PAWN_pronoun] had little experience with tasks unrelated to [PAWN_possessive] craft.</VFEM_Falconer76.description>
+  <VFEM_Falconer76.description>{PAWN_nameDef} {PAWN_gender ? тренировал : тренировала} охотничьих птиц и {PAWN_gender ? заботился : заботилась} о них, обучая ловить добычу для своего лорда. Со временем {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела} глубокое понимание поведения животных и {PAWN_gender ? заслужил : заслужила} всеобщее уважение за мастерство соколиной охоты. Несмотря на умение обращаться с животными, в задачах, не связанных с ремеслом, у н{PAWN_possessive} было мало опыта.</VFEM_Falconer76.description>
 
   <!-- EN: kennel master -->
-  <VFEM_KennelMaster77.title>kennel master</VFEM_KennelMaster77.title>
+  <VFEM_KennelMaster77.title>глава псарни</VFEM_KennelMaster77.title>
   <!-- EN: kennel master -->
-  <VFEM_KennelMaster77.titleShort>kennel master</VFEM_KennelMaster77.titleShort>
-  <!-- EN: [PAWN_nameDef] cared for the lord’s hunting dogs, training them for the chase and keeping them healthy. [PAWN_pronoun] became skilled at managing animals and handling their temperaments, earning trust as an expert handler. [PAWN_pronoun] often spent more time with dogs than people, leaving [PAWN_pronoun] socially awkward. -->
-  <VFEM_KennelMaster77.description>[PAWN_nameDef] cared for the lord’s hunting dogs, training them for the chase and keeping them healthy. [PAWN_pronoun] became skilled at managing animals and handling their temperaments, earning trust as an expert handler. [PAWN_pronoun] often spent more time with dogs than people, leaving [PAWN_pronoun] socially awkward.</VFEM_KennelMaster77.description>
+  <VFEM_KennelMaster77.titleShort>псарь</VFEM_KennelMaster77.titleShort>
+  <!-- EN: [PAWN_nameDef] cared for the lord's hunting dogs, training them for the chase and keeping them healthy. [PAWN_pronoun] became skilled at managing animals and handling their temperaments, earning trust as an expert handler. [PAWN_pronoun] often spent more time with dogs than people, leaving [PAWN_pronoun] socially awkward. -->
+  <VFEM_KennelMaster77.description>{PAWN_nameDef} {PAWN_gender ? заботился : заботилась} об охотничьих собаках лорда, тренируя для охоты и поддерживая их здоровье. {PAWN_pronoun} {PAWN_gender ? стал : стала} мастером в управлении животными и понимании их темпераментов, заработав репутацию опытного дрессировщика. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} больше времени с собаками, чем с людьми, что сделало {PAWN_possessive} социально {PAWN_gender ? неловким : неловкой}.</VFEM_KennelMaster77.description>
 
   <!-- EN: beast tamer -->
-  <VFEM_BeastTamer78.title>beast tamer</VFEM_BeastTamer78.title>
+  <VFEM_BeastTamer78.title>укротитель зверей</VFEM_BeastTamer78.title>
+  <VFEM_BeastTamer78.titleFemale>укротительница зверей</VFEM_BeastTamer78.titleFemale>
   <!-- EN: beast tamer -->
-  <VFEM_BeastTamer78.titleShort>beast tamer</VFEM_BeastTamer78.titleShort>
+  <VFEM_BeastTamer78.titleShort>укротитель</VFEM_BeastTamer78.titleShort>
+  <VFEM_BeastTamer78.titleShortFemale>укротительница</VFEM_BeastTamer78.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was known for [PAWN_possessive] ability to tame and train even the wildest of animals. [PAWN_pronoun] was often called upon to handle dangerous beasts, a skill that earned both admiration and fear. Years spent with creatures left [PAWN_pronoun] more at ease with animals than people. -->
-  <VFEM_BeastTamer78.description>[PAWN_nameDef] was known for [PAWN_possessive] ability to tame and train even the wildest of animals. [PAWN_pronoun] was often called upon to handle dangerous beasts, a skill that earned both admiration and fear. Years spent with creatures left [PAWN_pronoun] more at ease with animals than people.</VFEM_BeastTamer78.description>
+  <VFEM_BeastTamer78.description>{PAWN_nameDef} {PAWN_gender ? прославился : прославилась} редким даром приручать и дрессировать даже самых свирепых животных. {PAWN_pronoun} нередко {PAWN_gender ? получал : получала} вызовы усмирить особо опасных зверей — умение, внушавшее одновременно восхищение и трепет. Годы, проведённые среди диких созданий, сделали {PAWN_possessive} гораздо увереннее в общении с животными, чем с людьми.</VFEM_BeastTamer78.description>
 
   <!-- EN: shepherd of the flock -->
-  <VFEM_Shepherd79.title>shepherd of the flock</VFEM_Shepherd79.title>
+  <VFEM_Shepherd79.title>пастух стада</VFEM_Shepherd79.title>
+  <VFEM_Shepherd79.titleFemale>пастушка стада</VFEM_Shepherd79.titleFemale>
   <!-- EN: shepherd -->
-  <VFEM_Shepherd79.titleShort>shepherd</VFEM_Shepherd79.titleShort>
+  <VFEM_Shepherd79.titleShort>пастух</VFEM_Shepherd79.titleShort>
+  <VFEM_Shepherd79.titleShortFemale>пастушка</VFEM_Shepherd79.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days guiding flocks of sheep across pastures, protecting them from predators and ensuring their well-being. [PAWN_pronoun] learned to live off the land and gained a natural affinity for animals. Though adept at caring for livestock, [PAWN_pronoun] lacked interest in pursuits beyond [PAWN_possessive] work. -->
-  <VFEM_Shepherd79.description>[PAWN_nameDef] spent [PAWN_possessive] days guiding flocks of sheep across pastures, protecting them from predators and ensuring their well-being. [PAWN_pronoun] learned to live off the land and gained a natural affinity for animals. Though adept at caring for livestock, [PAWN_pronoun] lacked interest in pursuits beyond [PAWN_possessive] work.</VFEM_Shepherd79.description>
+  <VFEM_Shepherd79.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} дни, гоняя стада овец по пастбищам, охраняя их от хищников и заботясь об их благополучии. Со временем {PAWN_pronoun} {PAWN_gender ? научился : научилась} жить в гармонии с природой и {PAWN_gender ? развил : развила} особую связь с животными. Хотя {PAWN_pronoun} превосходно {PAWN_gender ?  справлялся : справлялась} с уходом за скотом, но мир за пределами пастбищ {PAWN_objective} совершенно не интересовал.</VFEM_Shepherd79.description>
 
   <!-- EN: war beast trainer -->
-  <VFEM_WarBeastTrainer80.title>war beast trainer</VFEM_WarBeastTrainer80.title>
+  <VFEM_WarBeastTrainer80.title>дрессировщик боевых зверей</VFEM_WarBeastTrainer80.title>
+  <VFEM_WarBeastTrainer80.titleFemale>дрессировщица боевых зверей</VFEM_WarBeastTrainer80.titleFemale>
   <!-- EN: trainer -->
-  <VFEM_WarBeastTrainer80.titleShort>trainer</VFEM_WarBeastTrainer80.titleShort>
+  <VFEM_WarBeastTrainer80.titleShort>дрессировщик</VFEM_WarBeastTrainer80.titleShort>
+  <VFEM_WarBeastTrainer80.titleShortFemale>дрессировщица</VFEM_WarBeastTrainer80.titleShortFemale>
   <!-- EN: [PAWN_nameDef] trained war dogs and other beasts to fight alongside soldiers in battle. [PAWN_pronoun] specialized in teaching animals to obey commands even in the chaos of combat. Though skilled in working with animals, [PAWN_pronoun] struggled with the finer points of diplomacy and negotiation. -->
-  <VFEM_WarBeastTrainer80.description>[PAWN_nameDef] trained war dogs and other beasts to fight alongside soldiers in battle. [PAWN_pronoun] specialized in teaching animals to obey commands even in the chaos of combat. Though skilled in working with animals, [PAWN_pronoun] struggled with the finer points of diplomacy and negotiation.</VFEM_WarBeastTrainer80.description>
+  <VFEM_WarBeastTrainer80.description>{PAWN_nameDef} {PAWN_gender ? готовил : готовила} боевых псов и диких зверей к сражению в рядах воинов. {PAWN_pronoun} в совершенстве {PAWN_gender ? овладел : овладела} искусством приучать животных беспрекословно подчиняться командам даже в пылу битвы. Несмотря на выдающиеся навыки работы с животными, в тонкостях дипломатии и ведения переговоров {PAWN_pronoun} {PAWN_gender ? чувствовал : чувствовала} себя неуверенно.</VFEM_WarBeastTrainer80.description>
 
   <!-- EN: disgraced heir -->
-  <VFEM_DisgracedHeir81.title>disgraced heir</VFEM_DisgracedHeir81.title>
+  <VFEM_DisgracedHeir81.title>опороченный наследник</VFEM_DisgracedHeir81.title>
+  <VFEM_DisgracedHeir81.titleFemale>опороченная наследница</VFEM_DisgracedHeir81.titleFemale>
   <!-- EN: disgraced -->
-  <VFEM_DisgracedHeir81.titleShort>disgraced</VFEM_DisgracedHeir81.titleShort>
+  <VFEM_DisgracedHeir81.titleShort>опороченный</VFEM_DisgracedHeir81.titleShort>
+  <VFEM_DisgracedHeir81.titleShortFemale>опороченная</VFEM_DisgracedHeir81.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was once poised to inherit a noble title, but a scandal stripped [PAWN_objective] of [PAWN_possessive] birthright. Cast out from [PAWN_possessive] family, [PAWN_pronoun] became a shadow of [PAWN_possessive] former self, surviving through cunning and scraps of [PAWN_possessive] once-great wealth. Though [PAWN_pronoun] retained the manners of a noble, [PAWN_pronoun] was shunned by high society. -->
-  <VFEM_DisgracedHeir81.description>[PAWN_nameDef] was once poised to inherit a noble title, but a scandal stripped [PAWN_objective] of [PAWN_possessive] birthright. Cast out from [PAWN_possessive] family, [PAWN_pronoun] became a shadow of [PAWN_possessive] former self, surviving through cunning and scraps of [PAWN_possessive] once-great wealth. Though [PAWN_pronoun] retained the manners of a noble, [PAWN_pronoun] was shunned by high society.</VFEM_DisgracedHeir81.description>
+  <VFEM_DisgracedHeir81.description>{PAWN_nameDef} некогда {PAWN_gender ? должен был : должна была} унаследовать дворянский титул, но разразившийся скандал лишил {PAWN_possessive} законного права наследования. {PAWN_gender ? Изгнанный : Изгнанная} из родного дома, {PAWN_pronoun} превратился в бледную тень своего прежнего величия и {PAWN_gender ? был вынужден : была вынужденна} выживать благодаря своей хитрости и жалким остаткам былого богатства. Несмотря на сохраненные аристократические манеры, высшее общество теперь старательно избегает любых контактов с {PAWN_gender ? ним : ней}.</VFEM_DisgracedHeir81.description>
 
   <!-- EN: exiled noble -->
-  <VFEM_ExiledNoble82.title>exiled noble</VFEM_ExiledNoble82.title>
+  <VFEM_ExiledNoble82.title>изгнанный дворянин</VFEM_ExiledNoble82.title>
+  <VFEM_ExiledNoble82.titleFemale>изгнанная дворянка</VFEM_ExiledNoble82.titleFemale>
   <!-- EN: exiled -->
-  <VFEM_ExiledNoble82.titleShort>exiled</VFEM_ExiledNoble82.titleShort>
+  <VFEM_ExiledNoble82.titleShort>изгнанник</VFEM_ExiledNoble82.titleShort>
+  <VFEM_ExiledNoble82.titleShortFemale>изгнанница</VFEM_ExiledNoble82.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was banished from [PAWN_possessive] homeland after losing a power struggle within [PAWN_possessive] family. Forced to flee, [PAWN_pronoun] lived in obscurity, using [PAWN_possessive] charm and wit to survive in foreign lands. While [PAWN_pronoun] retained noble airs, [PAWN_pronoun] struggled to regain the privileges of [PAWN_possessive] birth. -->
-  <VFEM_ExiledNoble82.description>[PAWN_nameDef] was banished from [PAWN_possessive] homeland after losing a power struggle within [PAWN_possessive] family. Forced to flee, [PAWN_pronoun] lived in obscurity, using [PAWN_possessive] charm and wit to survive in foreign lands. While [PAWN_pronoun] retained noble airs, [PAWN_pronoun] struggled to regain the privileges of [PAWN_possessive] birth.</VFEM_ExiledNoble82.description>
+  <VFEM_ExiledNoble82.description>{PAWN_nameDef} {PAWN_gender ? был изгнан : была изгнана} из родных земель, проиграв жестокую борьбу за власть в своём знатном семействе. {PAWN_gender ? Вынужденный : Вынужденная} скитаться, {PAWN_pronoun} {PAWN_gender ? влачил : влачила} безвестное существование, полагаясь в чужих краях лишь на своё обаяние и острый ум. Несмотря на сохранённый аристократический лоск, {PAWN_pronoun} неустанно {PAWN_gender ? стремился : стремилась} вернуть утраченные привилегии знатного происхождения.</VFEM_ExiledNoble82.description>
 
   <!-- EN: debauched aristocrat -->
-  <VFEM_DebauchedAristocrat83.title>debauched aristocrat</VFEM_DebauchedAristocrat83.title>
+  <VFEM_DebauchedAristocrat83.title>развращённый аристократ</VFEM_DebauchedAristocrat83.title>
+  <VFEM_DebauchedAristocrat83.titleFemale>развращённая аристократка</VFEM_DebauchedAristocrat83.titleFemale>
   <!-- EN: debauched -->
-  <VFEM_DebauchedAristocrat83.titleShort>debauched</VFEM_DebauchedAristocrat83.titleShort>
-  <!-- EN: [PAWN_nameDef] squandered [PAWN_possessive] family’s wealth on lavish parties and indulgent pursuits, earning the ire of [PAWN_possessive] peers. Though well-versed in etiquette and manipulation, [PAWN_pronoun] alienated allies and left [PAWN_possessive] family struggling to maintain their status. [PAWN_pronoun] remains charming but untrustworthy. -->
-  <VFEM_DebauchedAristocrat83.description>[PAWN_nameDef] squandered [PAWN_possessive] family’s wealth on lavish parties and indulgent pursuits, earning the ire of [PAWN_possessive] peers. Though well-versed in etiquette and manipulation, [PAWN_pronoun] alienated allies and left [PAWN_possessive] family struggling to maintain their status. [PAWN_pronoun] remains charming but untrustworthy.</VFEM_DebauchedAristocrat83.description>
+  <VFEM_DebauchedAristocrat83.titleShort>развращённый</VFEM_DebauchedAristocrat83.titleShort>
+  <VFEM_DebauchedAristocrat83.titleShortFemale>развращённая</VFEM_DebauchedAristocrat83.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] squandered [PAWN_possessive] family's wealth on lavish parties and indulgent pursuits, earning the ire of [PAWN_possessive] peers. Though well-versed in etiquette and manipulation, [PAWN_pronoun] alienated allies and left [PAWN_possessive] family struggling to maintain their status. [PAWN_pronoun] remains charming but untrustworthy. -->
+  <VFEM_DebauchedAristocrat83.description>{PAWN_nameDef} безрассудно {PAWN_gender ? промотал : промотала} фамильное состояние на пышные празднества и удовлетворение своих прихотей, чем {PAWN_gender ? навлёк : навлекла} на себя презрение высшего общества. Несмотря на безупречное владение этикетом и искусством манипуляции, {PAWN_pronoun} {PAWN_gender ? отвратил : отвратила} от себя всех союзников и {PAWN_gender ? обрёк : обрекла} свою семью на отчаянную борьбу за сохранение положения в обществе. {PAWN_pronoun} и сейчас остаётся очаровательным, но совершенно ненадёжным человеком.</VFEM_DebauchedAristocrat83.description>
 
   <!-- EN: usurper's kin -->
-  <VFEM_UsurpersKin84.title>usurper's kin</VFEM_UsurpersKin84.title>
+  <VFEM_UsurpersKin84.title>родственник узурпатора</VFEM_UsurpersKin84.title>
+  <VFEM_UsurpersKin84.titleFemale>родственница узурпатора</VFEM_UsurpersKin84.titleFemale>
   <!-- EN: disgraced kin -->
-  <VFEM_UsurpersKin84.titleShort>disgraced kin</VFEM_UsurpersKin84.titleShort>
+  <VFEM_UsurpersKin84.titleShort>опозоренный родственник</VFEM_UsurpersKin84.titleShort>
+  <VFEM_UsurpersKin84.titleShortFemale>опозоренная родственница</VFEM_UsurpersKin84.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was born into a family that seized power through treachery, earning the scorn of noble society. [PAWN_pronoun] grew up isolated and mistrusted, forced to rely on guile and intelligence to navigate the court. Though skilled in intrigue, [PAWN_pronoun] lacked the respect and alliances of legitimate noble houses. -->
-  <VFEM_UsurpersKin84.description>[PAWN_nameDef] was born into a family that seized power through treachery, earning the scorn of noble society. [PAWN_pronoun] grew up isolated and mistrusted, forced to rely on guile and intelligence to navigate the court. Though skilled in intrigue, [PAWN_pronoun] lacked the respect and alliances of legitimate noble houses.</VFEM_UsurpersKin84.description>
+  <VFEM_UsurpersKin84.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась} в семье, захватившей власть через кровавое предательство, что обрекло {PAWN_possessive} на презрение от всего дворянского общества. {PAWN_pronoun} {PAWN_gender ? вырос : выросла} в атмосфере изоляции и всеобщего недоверия, выживая при дворе лишь благодаря природной хитрости и острому уму. И хотя в искусстве интриг {PAWN_pronoun} {PAWN_gender ? достиг : достигла} немалого мастерства, {PAWN_objective} так и не удалось заслужить уважение законных дворянских домов или заключить с ними выгодные союзы.</VFEM_UsurpersKin84.description>
 
   <!-- EN: fallen knight -->
-  <VFEM_FallenKnight85.title>fallen knight</VFEM_FallenKnight85.title>
+  <VFEM_FallenKnight85.title>павший рыцарь</VFEM_FallenKnight85.title>
   <!-- EN: fallen knight -->
-  <VFEM_FallenKnight85.titleShort>fallen knight</VFEM_FallenKnight85.titleShort>
+  <VFEM_FallenKnight85.titleShort>павший рыцарь</VFEM_FallenKnight85.titleShort>
   <!-- EN: [PAWN_nameDef] once swore an oath of loyalty as a knight but broke [PAWN_possessive] vows in pursuit of personal gain. Disgraced and stripped of [PAWN_possessive] title, [PAWN_pronoun] now wanders as a sell-sword, haunted by [PAWN_possessive] dishonor. Though [PAWN_pronoun] retains [PAWN_possessive] combat skills, [PAWN_pronoun] struggles to regain the respect [PAWN_pronoun] once commanded. -->
-  <VFEM_FallenKnight85.description>[PAWN_nameDef] once swore an oath of loyalty as a knight but broke [PAWN_possessive] vows in pursuit of personal gain. Disgraced and stripped of [PAWN_possessive] title, [PAWN_pronoun] now wanders as a sell-sword, haunted by [PAWN_possessive] dishonor. Though [PAWN_pronoun] retains [PAWN_possessive] combat skills, [PAWN_pronoun] struggles to regain the respect [PAWN_pronoun] once commanded.</VFEM_FallenKnight85.description>
+  <VFEM_FallenKnight85.description>{PAWN_nameDef} когда-то {PAWN_gender ? дал : дала} рыцарскую клятву верности, но {PAWN_gender ? нарушил : нарушила} свои обеты ради личной выгоды. {PAWN_gender ? Лишённый : Лишённая} чести и титула, {PAWN_pronoun} теперь {PAWN_gender ? скитается : скитается} как наёмник, преследуемый тенью своего бесчестия. Хотя {PAWN_pronoun} {PAWN_gender ? сохранил : сохранила} боевые навыки, {PAWN_possessive} не отпускает стремление вернуть то уважение, которым {PAWN_pronoun} когда-то {PAWN_gender ? пользовался : пользовалась}.</VFEM_FallenKnight85.description>
 
   <!-- EN: manor lord -->
-  <VFEM_ManorLord86.title>manor lord</VFEM_ManorLord86.title>
+  <VFEM_ManorLord86.title>хозяин поместья</VFEM_ManorLord86.title>
+  <VFEM_ManorLord86.titleFemale>хозяйка поместья</VFEM_ManorLord86.titleFemale>
   <!-- EN: lord -->
-  <VFEM_ManorLord86.titleShort>lord</VFEM_ManorLord86.titleShort>
+  <VFEM_ManorLord86.titleShort>хозяин</VFEM_ManorLord86.titleShort>
+  <VFEM_ManorLord86.titleShortFemale>хозяйка</VFEM_ManorLord86.titleShortFemale>
   <!-- EN: [PAWN_nameDef] ruled over a countryside manor, overseeing the labor of serfs and ensuring the productivity of [PAWN_possessive] lands. [PAWN_pronoun] was skilled in managing people and resources, often mediating disputes and collecting taxes. Though respected locally, [PAWN_pronoun] had little exposure to the broader politics of noble society. -->
-  <VFEM_ManorLord86.description>[PAWN_nameDef] ruled over a countryside manor, overseeing the labor of serfs and ensuring the productivity of [PAWN_possessive] lands. [PAWN_pronoun] was skilled in managing people and resources, often mediating disputes and collecting taxes. Though respected locally, [PAWN_pronoun] had little exposure to the broader politics of noble society.</VFEM_ManorLord86.description>
+  <VFEM_ManorLord86.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла} сельским поместьем, следя за работой слуг и заботясь о продуктивности земель. {PAWN_possessive} умение руководить людьми и распоряжаться ресурсами проявлялось в справедливом разрешении споров и разумном сборе налогов. Пользуясь уважением среди местных жителей, {PAWN_pronoun}, тем не менее, {PAWN_gender ? оставался : оставалась} далёк от интриг и тонкостей политики высшего дворянства.</VFEM_ManorLord86.description>
 
   <!-- EN: landed knight -->
-  <VFEM_LandedKnight87.title>landed knight</VFEM_LandedKnight87.title>
+  <VFEM_LandedKnight87.title>рыцарь с наделом</VFEM_LandedKnight87.title>
   <!-- EN: knight -->
-  <VFEM_LandedKnight87.titleShort>knight</VFEM_LandedKnight87.titleShort>
+  <VFEM_LandedKnight87.titleShort>рыцарь</VFEM_LandedKnight87.titleShort>
   <!-- EN: [PAWN_nameDef] was granted a small estate in reward for [PAWN_possessive] service in battle. [PAWN_pronoun] balanced managing the land and protecting the local peasants, maintaining [PAWN_possessive] fighting skills while overseeing daily operations. Though a capable warrior and leader, [PAWN_pronoun] lacked the refinement of courtly life. -->
-  <VFEM_LandedKnight87.description>[PAWN_nameDef] was granted a small estate in reward for [PAWN_possessive] service in battle. [PAWN_pronoun] balanced managing the land and protecting the local peasants, maintaining [PAWN_possessive] fighting skills while overseeing daily operations. Though a capable warrior and leader, [PAWN_pronoun] lacked the refinement of courtly life.</VFEM_LandedKnight87.description>
+  <VFEM_LandedKnight87.description>{PAWN_nameDef} {PAWN_gender ? получил : получила} небольшое поместье в награду за воинские заслуги. {PAWN_possessive} жизнь проходила между управлением землями, защитой крестьян и поддержанием боевых навыков. {PAWN_pronoun} {PAWN_gender ? следил : следила} за всеми повседневными делами, показав себя умелым воином и лидером, хотя {PAWN_objective} явно недоставало изящества и манер, необходимых для придворной жизни.</VFEM_LandedKnight87.description>
 
   <!-- EN: village elder -->
-  <VFEM_VillageElder88.title>village elder</VFEM_VillageElder88.title>
+  <VFEM_VillageElder88.title>старейшина деревни</VFEM_VillageElder88.title>
   <!-- EN: elder -->
-  <VFEM_VillageElder88.titleShort>elder</VFEM_VillageElder88.titleShort>
+  <VFEM_VillageElder88.titleShort>старейшина</VFEM_VillageElder88.titleShort>
   <!-- EN: [PAWN_nameDef] was a respected figure in a rural community, resolving disputes and guiding decisions for the benefit of the village. [PAWN_pronoun] developed wisdom through years of leadership and experience, earning the trust of those under [PAWN_possessive] care. While [PAWN_pronoun] excelled in diplomacy, [PAWN_pronoun] left physical tasks to the younger villagers. -->
-  <VFEM_VillageElder88.description>[PAWN_nameDef] was a respected figure in a rural community, resolving disputes and guiding decisions for the benefit of the village. [PAWN_pronoun] developed wisdom through years of leadership and experience, earning the trust of those under [PAWN_possessive] care. While [PAWN_pronoun] excelled in diplomacy, [PAWN_pronoun] left physical tasks to the younger villagers.</VFEM_VillageElder88.description>
+  <VFEM_VillageElder88.description>{PAWN_nameDef} {PAWN_gender ? пользовался : пользовала} глубоким уважением односельчан, {PAWN_gender ? разрешая : разрешая} их споры и принимая решения во благо деревни. Годы руководства и жизненного опыта наделили {PAWN_possessive} мудростью и завоевали доверие всех, кто находился под {PAWN_possessive} опекой. Будучи искусным дипломатом, {PAWN_pronoun} всю тяжёлую физическую работу {PAWN_gender ? поручал : поручала} деревенской молодёжи.</VFEM_VillageElder88.description>
 
   <!-- EN: steward of the fields -->
-  <VFEM_StewardOfTheFields89.title>steward of the fields</VFEM_StewardOfTheFields89.title>
+  <VFEM_StewardOfTheFields89.title>управляющий полями</VFEM_StewardOfTheFields89.title>
+  <VFEM_StewardOfTheFields89.titleFemale>управляющая полями</VFEM_StewardOfTheFields89.titleFemale>
   <!-- EN: steward -->
-  <VFEM_StewardOfTheFields89.titleShort>steward</VFEM_StewardOfTheFields89.titleShort>
+  <VFEM_StewardOfTheFields89.titleShort>управляющий</VFEM_StewardOfTheFields89.titleShort>
+  <VFEM_StewardOfTheFields89.titleShortFemale>управляющая</VFEM_StewardOfTheFields89.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was responsible for managing the agricultural production of a large estate, ensuring the fields were worked and the harvests collected. [PAWN_pronoun] developed a deep understanding of farming and organization, balancing the needs of the land with the demands of [PAWN_possessive] lord. Though skilled in rural management, [PAWN_pronoun] lacked military and courtly training. -->
-  <VFEM_StewardOfTheFields89.description>[PAWN_nameDef] was responsible for managing the agricultural production of a large estate, ensuring the fields were worked and the harvests collected. [PAWN_pronoun] developed a deep understanding of farming and organization, balancing the needs of the land with the demands of [PAWN_possessive] lord. Though skilled in rural management, [PAWN_pronoun] lacked military and courtly training.</VFEM_StewardOfTheFields89.description>
+  <VFEM_StewardOfTheFields89.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за сельское хозяйство большого поместья, следя за обработкой полей и сбором урожая. {PAWN_possessive} глубокие познания в земледелии позволяли находить баланс между потребностями земли и запросами лорда. Несмотря на превосходные навыки управления сельской местностью, {PAWN_pronoun} {PAWN_gender ? не имел : не имела} никакой военной или придворной подготовки.</VFEM_StewardOfTheFields89.description>
 
   <!-- EN: pastoral guardian -->
-  <VFEM_PastoralGuardian90.title>pastoral guardian</VFEM_PastoralGuardian90.title>
+  <VFEM_PastoralGuardian90.title>пасторальный страж</VFEM_PastoralGuardian90.title>
+  <VFEM_PastoralGuardian90.titleFemale>пасторальная стражница</VFEM_PastoralGuardian90.titleFemale>
   <!-- EN: guardian -->
-  <VFEM_PastoralGuardian90.titleShort>guardian</VFEM_PastoralGuardian90.titleShort>
+  <VFEM_PastoralGuardian90.titleShort>страж</VFEM_PastoralGuardian90.titleShort>
+  <VFEM_PastoralGuardian90.titleShortFemale>стражница</VFEM_PastoralGuardian90.titleShortFemale>
   <!-- EN: [PAWN_nameDef] protected the countryside estates and nearby villages from bandits and wild beasts. [PAWN_pronoun] served as a bridge between the nobility and common folk, maintaining order through diplomacy and strength. Though skilled in combat and negotiation, [PAWN_pronoun] remained rooted in the simplicity of rural life. -->
-  <VFEM_PastoralGuardian90.description>[PAWN_nameDef] protected the countryside estates and nearby villages from bandits and wild beasts. [PAWN_pronoun] served as a bridge between the nobility and common folk, maintaining order through diplomacy and strength. Though skilled in combat and negotiation, [PAWN_pronoun] remained rooted in the simplicity of rural life.</VFEM_PastoralGuardian90.description>
+  <VFEM_PastoralGuardian90.description>{PAWN_nameDef} {PAWN_gender ? защищал : защищала} сельские поместья и близлежащие деревни от бандитов и диких зверей. {PAWN_pronoun} {PAWN_gender ? служил : служила} связующим звеном между знатью и простолюдинами, поддерживая порядок как дипломатией, так и силой. Несмотря на боевые навыки и искусство ведения переговоров, {PAWN_pronoun} {PAWN_gender ? оставался верен : оставалась верна} простой сельской жизни.</VFEM_PastoralGuardian90.description>
 
   <!-- EN: baron of the woodlands -->
-  <VFEM_BaronOfTheWoodlands91.title>baron of the woodlands</VFEM_BaronOfTheWoodlands91.title>
+  <VFEM_BaronOfTheWoodlands91.title>барон лесов</VFEM_BaronOfTheWoodlands91.title>
+  <VFEM_BaronOfTheWoodlands91.titleFemale>баронесса лесов</VFEM_BaronOfTheWoodlands91.titleFemale>
   <!-- EN: woodland baron -->
-  <VFEM_BaronOfTheWoodlands91.titleShort>woodland baron</VFEM_BaronOfTheWoodlands91.titleShort>
+  <VFEM_BaronOfTheWoodlands91.titleShort>лесной барон</VFEM_BaronOfTheWoodlands91.titleShort>
+  <VFEM_BaronOfTheWoodlands91.titleShortFemale>лесная баронесса</VFEM_BaronOfTheWoodlands91.titleShortFemale>
   <!-- EN: [PAWN_nameDef] presided over a vast forested estate, managing timber, game, and the people who lived beneath the canopy. [PAWN_pronoun] was skilled at balancing resource exploitation with conservation, ensuring the lordship’s wealth for generations. While [PAWN_pronoun] understood the land and its uses, [PAWN_pronoun] rarely participated in court politics. -->
-  <VFEM_BaronOfTheWoodlands91.description>[PAWN_nameDef] presided over a vast forested estate, managing timber, game, and the people who lived beneath the canopy. [PAWN_pronoun] was skilled at balancing resource exploitation with conservation, ensuring the lordship’s wealth for generations. While [PAWN_pronoun] understood the land and its uses, [PAWN_pronoun] rarely participated in court politics.</VFEM_BaronOfTheWoodlands91.description>
+  <VFEM_BaronOfTheWoodlands91.description>{PAWN_nameDef} {PAWN_gender ? властвовал : властвовала} над обширными лесными угодьями, {PAWN_gender ? следя : следя} за заготовкой древесины, охотой и жизнью людей, обитающих под пологом леса. {PAWN_pronoun} умело {PAWN_gender ? сочетал : сочетала} эксплуатацию ресурсов с их сохранением, обеспечив процветание своих владений на многие поколения. Хотя {PAWN_pronoun} прекрасно {PAWN_gender ? разбирался : разбиралась} в землях и их использовании, {PAWN_pronoun} редко {PAWN_gender ? участвовал : участвовала} в придворной политике.</VFEM_BaronOfTheWoodlands91.description>
 
   <!-- EN: rural castellan -->
-  <VFEM_RuralCastellan92.title>rural castellan</VFEM_RuralCastellan92.title>
+  <VFEM_RuralCastellan92.title>сельский кастелян</VFEM_RuralCastellan92.title>
   <!-- EN: castellan -->
-  <VFEM_RuralCastellan92.titleShort>castellan</VFEM_RuralCastellan92.titleShort>
+  <VFEM_RuralCastellan92.titleShort>кастелян</VFEM_RuralCastellan92.titleShort>
   <!-- EN: [PAWN_nameDef] oversaw a remote fortress, serving as the noble family’s representative in the countryside. [PAWN_pronoun] maintained the keep, organized the defense of local villages, and managed disputes among the serfs. [PAWN_pronoun] was skilled in construction and leadership but lacked the sophistication of high court life. -->
-  <VFEM_RuralCastellan92.description>[PAWN_nameDef] oversaw a remote fortress, serving as the noble family’s representative in the countryside. [PAWN_pronoun] maintained the keep, organized the defense of local villages, and managed disputes among the serfs. [PAWN_pronoun] was skilled in construction and leadership but lacked the sophistication of high court life.</VFEM_RuralCastellan92.description>
+  <VFEM_RuralCastellan92.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла} отдалённой крепостью, выступая представителем знатной семьи в этой сельской местности. {PAWN_pronoun} {PAWN_gender ? следил : следила} за состоянием укреплений, {PAWN_gender ? организовывал : организовывала} защиту близлежащих деревень и {PAWN_gender ? разрешал : разрешала} споры среди местных. Хотя {PAWN_pronoun} {PAWN_gender ? обладал : обладала} навыками строительства и руководства, {PAWN_objective} недоставало утончённости, присущей высшему обществу.</VFEM_RuralCastellan92.description>
 
   <!-- EN: keeper of the herds -->
-  <VFEM_KeeperOfTheHerds93.title>keeper of the herds</VFEM_KeeperOfTheHerds93.title>
+  <VFEM_KeeperOfTheHerds93.title>хозяин стад</VFEM_KeeperOfTheHerds93.title>
+  <VFEM_KeeperOfTheHerds93.titleFemale>хозяйка стад</VFEM_KeeperOfTheHerds93.titleFemale>
   <!-- EN: herd keeper -->
-  <VFEM_KeeperOfTheHerds93.titleShort>herd keeper</VFEM_KeeperOfTheHerds93.titleShort>
+  <VFEM_KeeperOfTheHerds93.titleShort>хозяин</VFEM_KeeperOfTheHerds93.titleShort>
+  <VFEM_KeeperOfTheHerds93.titleShortFemale>хозяйка</VFEM_KeeperOfTheHerds93.titleShortFemale>
   <!-- EN: [PAWN_nameDef] managed vast flocks of sheep and herds of cattle for [PAWN_possessive] noble family, ensuring the animals thrived year-round. [PAWN_pronoun] developed an unmatched understanding of animal care and breeding while overseeing the laborers who worked under [PAWN_objective]. Though well-respected in [PAWN_possessive] rural domain, [PAWN_pronoun] had little experience with urban or military life. -->
-  <VFEM_KeeperOfTheHerds93.description>[PAWN_nameDef] managed vast flocks of sheep and herds of cattle for [PAWN_possessive] noble family, ensuring the animals thrived year-round. [PAWN_pronoun] developed an unmatched understanding of animal care and breeding while overseeing the laborers who worked under [PAWN_objective]. Though well-respected in [PAWN_possessive] rural domain, [PAWN_pronoun] had little experience with urban or military life.</VFEM_KeeperOfTheHerds93.description>
+  <VFEM_KeeperOfTheHerds93.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла} крупными стадами овец и крупного рогатого скота имения своей знатной семьи, следя за их благополучием на протяжении всего года. {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела} непревзойдённые знания в области ухода за животными, их разведения и управления подчинёнными. Хотя в своих сельских владениях {PAWN_pronoun} {PAWN_gender ? пользовался : пользовалась} большим уважением, {PAWN_objective} недоставало опыта городской или военной жизни.</VFEM_KeeperOfTheHerds93.description>
 
   <!-- EN: river warden -->
-  <VFEM_RiverWarden94.title>river warden</VFEM_RiverWarden94.title>
+  <VFEM_RiverWarden94.title>речной надзиратель</VFEM_RiverWarden94.title>
+  <VFEM_RiverWarden94.titleFemale>речная надзирательница</VFEM_RiverWarden94.titleFemale>
   <!-- EN: warden -->
-  <VFEM_RiverWarden94.titleShort>warden</VFEM_RiverWarden94.titleShort>
+  <VFEM_RiverWarden94.titleShort>надзиратель</VFEM_RiverWarden94.titleShort>
+  <VFEM_RiverWarden94.titleShortFemale>надзирательница</VFEM_RiverWarden94.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was responsible for patrolling and protecting the rivers flowing through [PAWN_possessive] family’s lands. [PAWN_pronoun] ensured trade and fishing were conducted lawfully, earning respect as a fair and capable overseer. Though [PAWN_pronoun] excelled in maintaining order, [PAWN_pronoun] lacked skills in diplomacy beyond [PAWN_possessive] domain. -->
-  <VFEM_RiverWarden94.description>[PAWN_nameDef] was responsible for patrolling and protecting the rivers flowing through [PAWN_possessive] family’s lands. [PAWN_pronoun] ensured trade and fishing were conducted lawfully, earning respect as a fair and capable overseer. Though [PAWN_pronoun] excelled in maintaining order, [PAWN_pronoun] lacked skills in diplomacy beyond [PAWN_possessive] domain.</VFEM_RiverWarden94.description>
+  <VFEM_RiverWarden94.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за патрулирование и защиту рек, протекающих через земли своей семьи. {PAWN_pronoun} {PAWN_gender ? проверял : проверяла} торговцев и рыбаков, {PAWN_gender ? заслужив : заслужив} репутацию справедливого и умелого надзирателя. Хотя {PAWN_pronoun} {PAWN_gender ? преуспевал : преуспевала} в поддержании порядка, {PAWN_objective} не хватало дипломатических навыков за пределами этих владений.</VFEM_RiverWarden94.description>
 
   <!-- EN: village patron -->
-  <VFEM_VillagePatron95.title>village patron</VFEM_VillagePatron95.title>
+  <VFEM_VillagePatron95.title>покровитель деревни</VFEM_VillagePatron95.title>
+  <VFEM_VillagePatron95.titleFemale>покровительница деревни</VFEM_VillagePatron95.titleFemale>
   <!-- EN: patron -->
-  <VFEM_VillagePatron95.titleShort>patron</VFEM_VillagePatron95.titleShort>
+  <VFEM_VillagePatron95.titleShort>покровитель</VFEM_VillagePatron95.titleShort>
+  <VFEM_VillagePatron95.titleShortFemale>покровительница</VFEM_VillagePatron95.titleShortFemale>
   <!-- EN: [PAWN_nameDef] served as a benefactor to a local village, funding improvements to infrastructure and ensuring the well-being of [PAWN_possessive] tenants. [PAWN_pronoun] became skilled at balancing generosity with practicality, ensuring the village prospered without excessive costs. Though respected by the villagers, [PAWN_pronoun] had little experience with warfare or courtly intrigue. -->
-  <VFEM_VillagePatron95.description>[PAWN_nameDef] served as a benefactor to a local village, funding improvements to infrastructure and ensuring the well-being of [PAWN_possessive] tenants. [PAWN_pronoun] became skilled at balancing generosity with practicality, ensuring the village prospered without excessive costs. Though respected by the villagers, [PAWN_pronoun] had little experience with warfare or courtly intrigue.</VFEM_VillagePatron95.description>
+  <VFEM_VillagePatron95.description>{PAWN_nameDef} {PAWN_gender ? выступал : выступала} покровителем местной деревни, {PAWN_gender ? вкладывая : вкладывая} средства в развитие инфраструктуры и заботясь о благополучии своих жителей. {PAWN_pronoun} умело {PAWN_gender ? сочетал : сочетала} щедрость с практичностью, обеспечивая процветание деревни без лишних затрат. Хотя жители и относились к н{PAWN_objective} с уважением, {PAWN_objective} не хватало опыта в военном деле и придворных интригах.</VFEM_VillagePatron95.description>
 
   <!-- EN: high priest -->
-  <VFEM_HighPriest96.title>high priest</VFEM_HighPriest96.title>
+  <VFEM_HighPriest96.title>верховный жрец</VFEM_HighPriest96.title>
+  <VFEM_HighPriest96.titleFemale>верховная жрица</VFEM_HighPriest96.titleFemale>
   <!-- EN: priest -->
-  <VFEM_HighPriest96.titleShort>priest</VFEM_HighPriest96.titleShort>
+  <VFEM_HighPriest96.titleShort>жрец</VFEM_HighPriest96.titleShort>
+  <VFEM_HighPriest96.titleShortFemale>жрица</VFEM_HighPriest96.titleShortFemale>
   <!-- EN: [PAWN_nameDef] served as the spiritual leader of an influential ideology, presiding over rituals and interpreting sacred texts. [PAWN_pronoun] became a master of oratory and philosophy, guiding [PAWN_possessive] followers through times of prosperity and hardship. Though revered for [PAWN_possessive] wisdom, [PAWN_pronoun] rarely engaged in physical labor. -->
-  <VFEM_HighPriest96.description>[PAWN_nameDef] served as the spiritual leader of an influential ideology, presiding over rituals and interpreting sacred texts. [PAWN_pronoun] became a master of oratory and philosophy, guiding [PAWN_possessive] followers through times of prosperity and hardship. Though revered for [PAWN_possessive] wisdom, [PAWN_pronoun] rarely engaged in physical labor.</VFEM_HighPriest96.description>
+  <VFEM_HighPriest96.description>{PAWN_nameDef} {PAWN_gender ? служил : служила} духовным лидером влиятельной идеологии, проводя ритуалы и толкуя священные тексты. {PAWN_pronoun} в совершенстве {PAWN_gender ? овладел : овладела} ораторским искусством и философией, направляя своих последователей как в благополучные времена, так и в периоды невзгод. Благодаря уважению, которым {PAWN_pronoun} {PAWN_gender ? пользовался : пользовалась}, {PAWN_objective} редко приходилось заниматься физическим трудом.</VFEM_HighPriest96.description>
 
   <!-- EN: ideological scholar -->
-  <VFEM_IdeologicalScholar97.title>ideological scholar</VFEM_IdeologicalScholar97.title>
+  <VFEM_IdeologicalScholar97.title>учёный-идеолог</VFEM_IdeologicalScholar97.title>
   <!-- EN: scholar -->
-  <VFEM_IdeologicalScholar97.titleShort>scholar</VFEM_IdeologicalScholar97.titleShort>
+  <VFEM_IdeologicalScholar97.titleShort>учёный</VFEM_IdeologicalScholar97.titleShort>
+  <VFEM_IdeologicalScholar97.titleShortFemale>учёная</VFEM_IdeologicalScholar97.titleShortFemale>
   <!-- EN: [PAWN_nameDef] devoted [PAWN_possessive] life to studying the tenets of [PAWN_possessive] ideology, crafting treatises and debating its principles with others. [PAWN_pronoun] became highly respected for [PAWN_possessive] intellect and insight, often advising leaders on spiritual and ethical matters. While brilliant in [PAWN_possessive] field, [PAWN_pronoun] avoided manual or practical work. -->
-  <VFEM_IdeologicalScholar97.description>[PAWN_nameDef] devoted [PAWN_possessive] life to studying the tenets of [PAWN_possessive] ideology, crafting treatises and debating its principles with others. [PAWN_pronoun] became highly respected for [PAWN_possessive] intellect and insight, often advising leaders on spiritual and ethical matters. While brilliant in [PAWN_possessive] field, [PAWN_pronoun] avoided manual or practical work.</VFEM_IdeologicalScholar97.description>
+  <VFEM_IdeologicalScholar97.description>{PAWN_nameDef} {PAWN_gender ? посвятил : посвятила} свою жизнь изучению догматов своей идеологии, создавая трактаты и участвуя в дискуссиях о её принципах. {PAWN_possessive} интеллект и проницательность принесли {PAWN_objective} глубокое уважение; {PAWN_pronoun} часто {PAWN_gender ? консультировал : консультировала} лидеров по духовным и этическим вопросам. Несмотря на блестящий ум в своей области, {PAWN_pronoun} {PAWN_gender ? избегал : избегала} практически любого физического труда.</VFEM_IdeologicalScholar97.description>
 
   <!-- EN: keeper of relics -->
-  <VFEM_KeeperOfRelics98.title>keeper of relics</VFEM_KeeperOfRelics98.title>
+  <VFEM_KeeperOfRelics98.title>хранитель реликвий</VFEM_KeeperOfRelics98.title>
+  <VFEM_KeeperOfRelics98.titleFemale>хранительница реликвий</VFEM_KeeperOfRelics98.titleFemale>
   <!-- EN: keeper -->
-  <VFEM_KeeperOfRelics98.titleShort>keeper</VFEM_KeeperOfRelics98.titleShort>
+  <VFEM_KeeperOfRelics98.titleShort>хранитель</VFEM_KeeperOfRelics98.titleShort>
+  <VFEM_KeeperOfRelics98.titleShortFemale>хранительница</VFEM_KeeperOfRelics98.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was entrusted with safeguarding the sacred artifacts of [PAWN_possessive] ideology, protecting them from harm and ensuring they were used in rituals. [PAWN_pronoun] developed a meticulous attention to detail and a deep reverence for [PAWN_possessive] duties. However, [PAWN_pronoun] lacked skills outside the preservation of relics and ceremonies. -->
-  <VFEM_KeeperOfRelics98.description>[PAWN_nameDef] was entrusted with safeguarding the sacred artifacts of [PAWN_possessive] ideology, protecting them from harm and ensuring they were used in rituals. [PAWN_pronoun] developed a meticulous attention to detail and a deep reverence for [PAWN_possessive] duties. However, [PAWN_pronoun] lacked skills outside the preservation of relics and ceremonies.</VFEM_KeeperOfRelics98.description>
+  <VFEM_KeeperOfRelics98.description>{PAWN_nameDef} {PAWN_gender ? был призван : была призвана} хранить священные артефакты своей идеологии, защищая их от осквернения и следя за их правильным использованием в ритуалах. {PAWN_pronoun} {PAWN_gender ? развил : развила} исключительное внимание к деталям и глубокое почтение к своим обязанностям. Однако за пределами сохранения реликвий и проведения церемоний {PAWN_possessive} навыки оставляли желать лучшего.</VFEM_KeeperOfRelics98.description>
 
   <!-- EN: ideological crusader -->
-  <VFEM_IdeologicalCrusader99.title>ideological crusader</VFEM_IdeologicalCrusader99.title>
+  <VFEM_IdeologicalCrusader99.title>поборник идеологии</VFEM_IdeologicalCrusader99.title>
+  <VFEM_IdeologicalCrusader99.titleFemale>поборница идеологии</VFEM_IdeologicalCrusader99.titleFemale>
   <!-- EN: crusader -->
-  <VFEM_IdeologicalCrusader99.titleShort>crusader</VFEM_IdeologicalCrusader99.titleShort>
+  <VFEM_IdeologicalCrusader99.titleShort>крестоносец</VFEM_IdeologicalCrusader99.titleShort>
   <!-- EN: [PAWN_nameDef] fought to spread [PAWN_possessive] ideology by force, leading armies in its name. [PAWN_pronoun] was a fearsome warrior and an inspiring leader, rallying others to [PAWN_possessive] cause with [PAWN_possessive] fervor. While skilled in combat and persuasion, [PAWN_pronoun] lacked the patience for intellectual pursuits. -->
-  <VFEM_IdeologicalCrusader99.description>[PAWN_nameDef] fought to spread [PAWN_possessive] ideology by force, leading armies in its name. [PAWN_pronoun] was a fearsome warrior and an inspiring leader, rallying others to [PAWN_possessive] cause with [PAWN_possessive] fervor. While skilled in combat and persuasion, [PAWN_pronoun] lacked the patience for intellectual pursuits.</VFEM_IdeologicalCrusader99.description>
+  <VFEM_IdeologicalCrusader99.description>{PAWN_nameDef} {PAWN_gender ? боролся : боролась} за распространение своей идеологии силой оружия, возглавляя войско во имя своих убеждений. {PAWN_pronoun} {PAWN_gender ? был грозным воином : была грозной воительницей} и вдохновляющим лидером, чей пыл помогал объединять последователей. Хотя {PAWN_pronoun} {PAWN_gender ? преуспел : преуспела} в боевом искусстве и красноречии, {PAWN_objective} не хватало терпения для интеллектуальных занятий.</VFEM_IdeologicalCrusader99.description>
 
   <!-- EN: ideological orator -->
-  <VFEM_IdeologicalOrator100.title>ideological orator</VFEM_IdeologicalOrator100.title>
+  <VFEM_IdeologicalOrator100.title>проповедник</VFEM_IdeologicalOrator100.title>
+  <VFEM_IdeologicalOrator100.titleFemale>проповедница</VFEM_IdeologicalOrator100.titleFemale>
   <!-- EN: orator -->
-  <VFEM_IdeologicalOrator100.titleShort>orator</VFEM_IdeologicalOrator100.titleShort>
+  <VFEM_IdeologicalOrator100.titleShort>оратор</VFEM_IdeologicalOrator100.titleShort>
   <!-- EN: [PAWN_nameDef] traveled from village to village, delivering sermons and spreading the tenets of [PAWN_possessive] ideology. [PAWN_pronoun] was a charismatic speaker, capable of inspiring devotion or stirring up rebellion. Though skilled at rallying others, [PAWN_pronoun] had little experience with physical labor or practical skills. -->
-  <VFEM_IdeologicalOrator100.description>[PAWN_nameDef] traveled from village to village, delivering sermons and spreading the tenets of [PAWN_possessive] ideology. [PAWN_pronoun] was a charismatic speaker, capable of inspiring devotion or stirring up rebellion. Though skilled at rallying others, [PAWN_pronoun] had little experience with physical labor or practical skills.</VFEM_IdeologicalOrator100.description>
+  <VFEM_IdeologicalOrator100.description>{PAWN_nameDef} {PAWN_gender ? странствовал : странствовала} от деревни к деревне, проповедуя и распространяя принципы своей идеологии. {PAWN_pronoun} {PAWN_gender ? обладал : обладала} природной харизмой и красноречием, способной как вдохновить на объединение, так и разжечь восстание. Несмотря на талант объединять людей, {PAWN_objective} недоставало опыта в физическом труде и практических навыках.</VFEM_IdeologicalOrator100.description>
 </LanguageData>
