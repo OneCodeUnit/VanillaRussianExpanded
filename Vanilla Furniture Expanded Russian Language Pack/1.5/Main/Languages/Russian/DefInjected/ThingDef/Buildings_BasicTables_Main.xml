@@ -1,12 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: table (1x1) -->
-  <Table_1x1c.label>стол (1x1)</Table_1x1c.label>
+
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table_1x1c.description>Люди будут есть за столом, если рядом расположить стулья сиденьем к столу.</Table_1x1c.description>
-
-  <!-- EN: countertop -->
+  <!-- EN: table (1x1) -->
+  <Table_1x1c.label>стол (1x1)</Table_1x1c.label>
+  
+  <!-- EN: counter -->
   <Table_Counter.label>столешница</Table_Counter.label>
-  <!-- EN: A smooth, waist high surface for eating off of, commonly found in kitchens and bars. -->
-  <Table_Counter.description>Гладкая поверхность высотой по пояс для приёма пищи. Обычно используется на кухнях и в барах.</Table_Counter.description>
+  <!-- EN: People eat off counters when chairs are placed facing them -->
+  <Table_Counter.description>Люди будут есть за столом, если рядом расположить стулья сиденьем к столу.</Table_Counter.description>
+  
+  <!-- EN: coffee table -->
+  <VFE_CoffeeTable.label>журнальный столик</VFE_CoffeeTable.label>
+  <!-- EN: A small table which makes nearby armchairs and couches a little bit more comfortable. Must be placed directly adjacent to the couch or an armchair. Placing more than one coffee table near the same couch has no effect. -->
+  <VFE_CoffeeTable.description>Небольшой столик, повышающий комфортность стоящих рядом кресел и диванов. Должен располагаться непосредственно рядом ними. Размещение более одного журнального столика рядом с одним диваном или креслом не принесёт положительного эффекта.</VFE_CoffeeTable.description>
+  
 </LanguageData>

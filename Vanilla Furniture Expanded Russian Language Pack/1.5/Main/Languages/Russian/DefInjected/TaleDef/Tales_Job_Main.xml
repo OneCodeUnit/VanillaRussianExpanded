@@ -1,66 +1,76 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- EN: used punching bag -->
   <Tale_UsedPunchingBag.label>боксёрская груша</Tale_UsedPunchingBag.label>
-  <!-- EN: tale_noun->[PAWN_nameDef] taking out his anger on a [OBJECT_label] -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.0>tale_noun->как [PAWN_nameDef] вымещает свой гнев на боксёрской груше</Tale_UsedPunchingBag.rulePack.rulesStrings.0>
-  <!-- EN: tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label] -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.1>tale_noun->как [PAWN_nameDef] злобно смотрит на боксёрскую грушу</Tale_UsedPunchingBag.rulePack.rulesStrings.1>
-  <!-- EN: tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label] -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.2>tale_noun->как [PAWN_nameDef] веселится, избивая боксёрскую грушу</Tale_UsedPunchingBag.rulePack.rulesStrings.2>
-  <!-- EN: image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group] -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.3>image->, как [PAWN_nameFull] [circumstance_phrase] нависает над боксёрской грушей</Tale_UsedPunchingBag.rulePack.rulesStrings.3>
-  <!-- EN: image->[PAWN_nameFull] punching the [OBJECT_label], [circumstance_group] -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.4>image->, как [PAWN_nameFull] [circumstance_phrase] бьёт по боксёрской груше</Tale_UsedPunchingBag.rulePack.rulesStrings.4>
-  <!-- EN: circumstance_phrase->tense with energy -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.5>circumstance_phrase->напряжённо</Tale_UsedPunchingBag.rulePack.rulesStrings.5>
-  <!-- EN: circumstance_phrase->[PAWN_possessive] body loose and relaxed -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.6>circumstance_phrase->,расслабив тело,</Tale_UsedPunchingBag.rulePack.rulesStrings.6>
-  <!-- EN: circumstance_phrase->gently massaging [PAWN_possessive] wrists -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.7>circumstance_phrase->,размяв свои запястья,</Tale_UsedPunchingBag.rulePack.rulesStrings.7>
-  <!-- EN: circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.8>circumstance_phrase->, приняв [AdjectiveAngsty] вид,</Tale_UsedPunchingBag.rulePack.rulesStrings.8>
-  <!-- EN: circumstance_phrase->wrapping their hands in tape -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.9>circumstance_phrase->, обмотав свои руки бинтами,</Tale_UsedPunchingBag.rulePack.rulesStrings.9>
-  <!-- EN: circumstance_phrase->[angstyverb] -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.10>circumstance_phrase->, приняв [AdjectiveBadass] вид,</Tale_UsedPunchingBag.rulePack.rulesStrings.10>
-  <!-- EN: desc_sentence->A [Color] aurora shines in the background. -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.11>desc_sentence->Сцену освещает [Color] свет.</Tale_UsedPunchingBag.rulePack.rulesStrings.11>
-  <!-- EN: desc_sentence->In the distance, a [Community] is visible. -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.12>desc_sentence->Вдалеке виднеется [Community].</Tale_UsedPunchingBag.rulePack.rulesStrings.12>
-  <!-- EN: desc_sentence->In the distance, a [TerrainFeature] is visible. -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.13>desc_sentence->Вдалеке виднеется [TerrainFeature].</Tale_UsedPunchingBag.rulePack.rulesStrings.13>
-  <!-- EN: desc_sentence->[PAWN_nameDef]'s features are exaggerated. -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.14>desc_sentence->Черты лица [PAWN_nameDef] преувеличены.</Tale_UsedPunchingBag.rulePack.rulesStrings.14>
-  <!-- EN: desc_sentence->[PAWN_nameDef] towers above the scene. -->
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef] занимает большую часть сцены.</Tale_UsedPunchingBag.rulePack.rulesStrings.15>
-
+  <!-- EN: 
+  <li>tale_noun->[PAWN_nameDef] taking out his anger on a [OBJECT_label]</li>
+  <li>tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]</li>
+  <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+  <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+  <li>image->[PAWN_nameFull] punching the [OBJECT_label], [circumstance_group]</li>
+  <li>circumstance_phrase->tense with energy</li>
+  <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+  <li>circumstance_phrase->gently massaging [PAWN_possessive] wrists</li>
+  <li>circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression</li>
+  <li>circumstance_phrase->wrapping their hands in tape</li>
+  <li>circumstance_phrase->[angstyverb]</li>
+  <li>desc_sentence->A [Color] aurora shines in the background.</li>
+  <li>desc_sentence->In the distance, a [Community] is visible.</li>
+  <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+  <li>desc_sentence->[PAWN_nameDef]'s features are exaggerated.</li>
+  <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+   -->
+  <Tale_UsedPunchingBag.rulePack.rulesStrings>
+  <li>tale_noun->как [PAWN_nameDef] вымещает свой гнев на боксёрской груше</li>
+  <li>tale_noun->как [PAWN_nameDef] злобно смотрит на боксёрскую грушу</li>
+  <li>tale_noun->как [PAWN_nameDef] веселится, избивая боксёрскую грушу</li>
+  <li>image->, как [PAWN_nameFull] [circumstance_phrase] нависает над боксёрской грушей</li>
+  <li>image->, как [PAWN_nameFull] [circumstance_phrase] бьёт по боксёрской груше</li>
+  <li>circumstance_phrase->напряжённо</li>
+  <li>circumstance_phrase->,расслабив тело,</li>
+  <li>circumstance_phrase->,размяв свои запястья,</li>
+  <li>circumstance_phrase->, приняв [AdjectiveAngsty] вид,</li>
+  <li>circumstance_phrase->, обмотав свои руки бинтами,</li>
+  <li>circumstance_phrase->, приняв [AdjectiveBadass] вид,</li>
+  <li>desc_sentence->Сцену освещает [Color] свет.</li>
+  <li>desc_sentence->Вдалеке виднеется [Community].</li>
+  <li>desc_sentence->Вдалеке виднеется [TerrainFeature].</li>
+  <li>desc_sentence->Черты лица [PAWN_nameDef] преувеличены.</li>
+  <li>desc_sentence->[PAWN_nameDef] занимает большую часть сцены.</li>
+  </Tale_UsedPunchingBag.rulePack.rulesStrings>
+  
   <!-- EN: used computer -->
   <Tale_UsedComputer.label>использование компьютера</Tale_UsedComputer.label>
-  <!-- EN: tale_noun->[PAWN_nameDef] focusing heavily on the [OBJECT_label] in front of them -->
-  <Tale_UsedComputer.rulePack.rulesStrings.0>tale_noun->как [PAWN_nameDef] сосредотачивается на работе за компьютером</Tale_UsedComputer.rulePack.rulesStrings.0>
-  <!-- EN: tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label] -->
-  <Tale_UsedComputer.rulePack.rulesStrings.1>tale_noun->как [PAWN_nameDef] злобно смотрит на [OBJECT_label]</Tale_UsedComputer.rulePack.rulesStrings.1>
-  <!-- EN: tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label] -->
-  <Tale_UsedComputer.rulePack.rulesStrings.2>tale_noun->как [PAWN_nameDef] веселится, используя [OBJECT_label]</Tale_UsedComputer.rulePack.rulesStrings.2>
-  <!-- EN: image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group] -->
-  <Tale_UsedComputer.rulePack.rulesStrings.3>image->, как [PAWN_nameFull] [circumstance_phrase] нависает над компьютером</Tale_UsedComputer.rulePack.rulesStrings.3>
-  <!-- EN: image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group] -->
-  <Tale_UsedComputer.rulePack.rulesStrings.4>image->, как [PAWN_nameFull] [circumstance_phrase] печатает что-то на компьютере</Tale_UsedComputer.rulePack.rulesStrings.4>
-  <!-- EN: circumstance_phrase->concentrating -->
-  <Tale_UsedComputer.rulePack.rulesStrings.5>circumstance_phrase->в задумчивости</Tale_UsedComputer.rulePack.rulesStrings.5>
-  <!-- EN: circumstance_phrase->[PAWN_possessive] body loose and relaxed -->
-  <Tale_UsedComputer.rulePack.rulesStrings.6>circumstance_phrase->расслабленно</Tale_UsedComputer.rulePack.rulesStrings.6>
-  <!-- EN: circumstance_phrase->leaning back in [PAWN_possessive] chair -->
-  <Tale_UsedComputer.rulePack.rulesStrings.7>circumstance_phrase->, откинувшись на кресло,</Tale_UsedComputer.rulePack.rulesStrings.7>
-  <!-- EN: desc_sentence->A [Color] aurora shines in the background. -->
-  <Tale_UsedComputer.rulePack.rulesStrings.8>desc_sentence->Сцену освещает [Color] свет.</Tale_UsedComputer.rulePack.rulesStrings.8>
-  <!-- EN: desc_sentence->In the distance, a [Community] is visible. -->
-  <Tale_UsedComputer.rulePack.rulesStrings.9>desc_sentence->Вдалеке виднеется [Community].</Tale_UsedComputer.rulePack.rulesStrings.9>
-  <!-- EN: desc_sentence->In the distance, a [TerrainFeature] is visible. -->
-  <Tale_UsedComputer.rulePack.rulesStrings.10>desc_sentence->Вдалеке виднеется [TerrainFeature].</Tale_UsedComputer.rulePack.rulesStrings.10>
-  <!-- EN: desc_sentence->[PAWN_nameDef] focused on the screen. -->
-  <Tale_UsedComputer.rulePack.rulesStrings.11>desc_sentence->[PAWN_nameDef] сосредоточенно смотрит на экран.</Tale_UsedComputer.rulePack.rulesStrings.11>
-  <!-- EN: desc_sentence->[PAWN_nameDef] towers above the scene. -->
-  <Tale_UsedComputer.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef] занимает большую часть сцены.</Tale_UsedComputer.rulePack.rulesStrings.12>
+  <!-- EN: 
+  <li>tale_noun->[PAWN_nameDef] focusing heavily on the [OBJECT_label] in front of them</li>
+  <li>tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]</li>
+  <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+  <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+  <li>image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group]</li>
+  <li>circumstance_phrase->concentrating</li>
+  <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+  <li>circumstance_phrase->leaning back in [PAWN_possessive] chair</li>
+  <li>desc_sentence->A [Color] aurora shines in the background.</li>
+  <li>desc_sentence->In the distance, a [Community] is visible.</li>
+  <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+  <li>desc_sentence->[PAWN_nameDef] focused on the screen.</li>
+  <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+   -->
+  <Tale_UsedComputer.rulePack.rulesStrings>
+  <li>tale_noun->как [PAWN_nameDef] сосредотачивается на работе за компьютером</li>
+  <li>tale_noun->как [PAWN_nameDef] злобно смотрит на [OBJECT_label]</li>
+  <li>tale_noun->как [PAWN_nameDef] веселится, используя [OBJECT_label]</li>
+  <li>image->, как [PAWN_nameFull] [circumstance_phrase] нависает над компьютером</li>
+  <li>image->, как [PAWN_nameFull] [circumstance_phrase] печатает что-то на компьютере</li>
+  <li>circumstance_phrase->в задумчивости</li>
+  <li>circumstance_phrase->расслабленно</li>
+  <li>circumstance_phrase->, откинувшись на кресло,</li>
+  <li>desc_sentence->Сцену освещает [Color] свет.</li>
+  <li>desc_sentence->Вдалеке виднеется [Community].</li>
+  <li>desc_sentence->Вдалеке виднеется [TerrainFeature].</li>
+  <li>desc_sentence->[PAWN_nameDef] сосредоточенно смотрит на экран.</li>
+  <li>desc_sentence->[PAWN_nameDef] занимает большую часть сцены.</li>
+  </Tale_UsedComputer.rulePack.rulesStrings>
+  
 </LanguageData>

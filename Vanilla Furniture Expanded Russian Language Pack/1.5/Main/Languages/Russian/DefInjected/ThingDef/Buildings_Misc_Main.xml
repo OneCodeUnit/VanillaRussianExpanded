@@ -1,29 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: outdoor lamp -->
-  <Light_Streetlamp.label>уличный светильник</Light_Streetlamp.label>
-  <!-- EN: A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
-  <Light_Streetlamp.description>Высокий электрический светильник. Может работать вне помещений в любых погодных условиях без риска короткого замыкания и возгорания. Идеально подходит для освещения дорог. Включается только ночью.</Light_Streetlamp.description>
-  <!-- EN: Off during daylight hours -->
-  <Light_Streetlamp.comps.CompSchedule.offMessage>Выключен в дневное время</Light_Streetlamp.comps.CompSchedule.offMessage>
 
-  <!-- EN: file cabinet -->
+  <!-- EN: filing cabinet -->
   <Misc_FileCabinet.label>картотечный шкаф</Misc_FileCabinet.label>
-  <!-- EN: A piece of furniture used for organising documents and records in paper form. It will help you perform research taks faster. -->
-  <Misc_FileCabinet.description>Шкаф, предназначенный для удобной организации и хранения бумажных документов и записей. Ускоряет выполнение задач, связанных с исследованиями.</Misc_FileCabinet.description>
-
+  <!-- EN: Increases research speed when placed near a research bench. One research bench can use up to two filing cabinets. -->
+  <Misc_FileCabinet.description>Ускоряет изучение технологий. Должен быть размещён рядом со столом для исследований. К одному столу для исследований могут быть одновременно привязаны не более двух картотечных шкафов.</Misc_FileCabinet.description>
+  
   <!-- EN: weapon rack -->
   <Shelf_WeaponRack.label>оружейная стойка</Shelf_WeaponRack.label>
-  <!-- EN: A heavy duty rack for storing weaponry. Weapons stored in this will not deteriorate, even if outside. -->
-  <Shelf_WeaponRack.description>Сверхпрочный стеллаж не позволяет оружию ветшать, даже под открытым небом.</Shelf_WeaponRack.description>
-
-  <!-- EN: Small bin -->
+  <!-- EN: A shelf for storing weapons. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <Shelf_WeaponRack.description>Стеллаж для хранения оружия. Размещённые на нём предметы не повлияют на красоту помещения и не будут ветшать, даже под открытым небом.</Shelf_WeaponRack.description>
+  
+  <!-- EN: small bin -->
   <Bin_Small.label>мусорный бак</Bin_Small.label>
-  <!-- EN: A small bin to help keeping the area around it somewhat clean. Slowly removes trash and filth in a 10 Cell radius. -->
+  <!-- EN: A small bin to help keep the surrounding area somewhat clean. Slowly removes trash and filth in a 10-cell radius. -->
   <Bin_Small.description>Небольшой мусорный контейнер, помогающий поддерживать чистоту вокруг него. Медленно удаляет мусор и грязь в радиусе 10 клеток.</Bin_Small.description>
-
-  <!-- EN: Large bin -->
+  
+  <!-- EN: large bin -->
   <Bin_Large.label>мусорный контейнер</Bin_Large.label>
-  <!-- EN: A large bin to help keeping the area around it clean. Slowly removes trash and filth in a 20 Cell radius. -->
-  <Bin_Large.description>Большой мусорный контейнер, помогающий поддерживать чистоту вокруг него. Медленно удаляет мусор и грязь в радиусе 20 клеток.</Bin_Large.description>
+  <!-- EN: A spacious waste disposal unit that efficiently keeps the surrounding area clean. Slowly removes trash and filth in a 15-cell radius. -->
+  <Bin_Large.description>Большой мусорный контейнер, помогающий поддерживать чистоту вокруг него. Медленно удаляет мусор и грязь в радиусе 15 клеток.</Bin_Large.description>
+  
+  <!-- EN: long plant pot -->
+  <VFE_LongPlantPot.label>модульный цветочный горшок</VFE_LongPlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. Designed to be combined with other plant pots to form various shapes. -->
+  <VFE_LongPlantPot.description>Посадите здесь декоративные цветы, чтобы улучшить настроение людей вокруг. Разместив несколько модульных горшков рядом, можно придать им желаемую форму.</VFE_LongPlantPot.description>
+  
+  <!-- EN: desk lamp -->
+  <VFE_DeskLamp.label>настольная лампа</VFE_DeskLamp.label>
+  <!-- EN: An electrical desk lamp that lights a small area. People need light to move and work at full speed. -->
+  <VFE_DeskLamp.description>Электрическая настольная лампа, способная освещать небольшую площадь вокруг себя. Свет нужен людям для работы и удобства передвижения.</VFE_DeskLamp.description>
+  
+  <!-- EN: floor lamp -->
+  <VFE_FloorLamp.label>напольный светильник</VFE_FloorLamp.label>
+  <!-- EN: A low-profile light source embedded into the floor. While not as bright as a standing lamp, it provides subtle, even lighting without obstructing movement. Does not short circuit in rain. -->
+  <VFE_FloorLamp.description>Встраиваемый в пол плоский светильник. Хотя он не такой яркий, как обычная лампа, напольный светильник обеспечивает мягкое, равномерное освещение и не препятствует передвижению. Защищён от возникновения короткого замыкания под дождём.</VFE_FloorLamp.description>
+  
+  <!-- EN: outdoor lamp -->
+  <Light_Streetlamp.label>уличный светильник</Light_Streetlamp.label>
+  <!-- EN: An electrical standing lamp that lights an area, good for large outdoor spaces. Will automatically turn off during the day to prevent power consumption. -->
+  <Light_Streetlamp.description>Электрический светильник, хорошо подходящий для освещения больших открытых пространств. Для экономии энергии автоматически отключается в светлое время суток.</Light_Streetlamp.description>
+  <!-- EN: Off due to sufficient sunlight. -->
+  <Light_Streetlamp.comps.CompScheduleActiveAtSunlightRange.offMessage>Выключен из-за достаточного количества солнечного света.</Light_Streetlamp.comps.CompScheduleActiveAtSunlightRange.offMessage>
+  
 </LanguageData>

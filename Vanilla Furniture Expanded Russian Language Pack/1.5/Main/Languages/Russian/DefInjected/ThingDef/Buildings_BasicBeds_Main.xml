@@ -1,12 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: slab bed -->
-  <Bed_StoneSlab.label>аскетичная кровать</Bed_StoneSlab.label>
-  <!-- EN: A large slab of smoothed stone, very uncomfortable and only marginally better than sleeping on the floor. -->
-  <Bed_StoneSlab.description>Большая отполированная каменная плита. Очень неудобная — сон на ней ненамного лучше, чем на земле.</Bed_StoneSlab.description>
 
+  <!-- EN: chiseled bed -->
+  <Bed_StoneSlab.label>резная кровать-плита</Bed_StoneSlab.label>
+  <!-- EN: A simple yet beautiful stone slab used for sleeping. It offers minimal comfort but is durable and fireproof. -->
+  <Bed_StoneSlab.description>Простая, но красивая каменная плита, используемая для сна. Обеспечивает минимум комфорта, но отличается прочностью и огнестойкостью.</Bed_StoneSlab.description>
+  
+  <!-- EN: chiseled double bed -->
+  <VFE_Bed_StoneSlabDouble.label>двойная резная кровать-плита</VFE_Bed_StoneSlabDouble.label>
+  <!-- EN: A simple yet beautiful stone slab used for sleeping that fits two people. It offers minimal comfort but is durable and fireproof. -->
+  <VFE_Bed_StoneSlabDouble.description>Простая, но красивая каменная плита, используемая для сна. Рассчитана на двух человек. Обеспечивает минимум комфорта, но отличается прочностью и огнестойкостью.</VFE_Bed_StoneSlabDouble.description>
+  
   <!-- EN: simple bed -->
   <Bed_Simple.label>койка</Bed_Simple.label>
-  <!-- EN: A somewhat comfy net and pillow rested on a sturdy frame. -->
-  <Bed_Simple.description>Относительно комфортное простое спальное место, состоящее из сетчатого полотна на крепкой раме и подушки.</Bed_Simple.description>
+  <!-- EN: A somewhat comfy net and pillow rested on a sturdy frame. Due to the simple construction, quality is not a factor in this bed. -->
+  <Bed_Simple.description>Относительно комфортное простое спальное место, состоящее из сетчатого полотна на крепкой раме и подушки. Благодаря простоте конструкции качество этой кровати не влияет на характеристики.</Bed_Simple.description>
+  
+  <!-- EN: simple double bed -->
+  <VFE_Bed_SimpleDouble.label>двойная койка</VFE_Bed_SimpleDouble.label>
+  <!-- EN: A somewhat comfy net and pillow rested on a sturdy frame that fits two people. Due to the simple construction, quality is not a factor in this bed. -->
+  <VFE_Bed_SimpleDouble.description>Относительно комфортное простое спальное место для двух человек, состоящее из сетчатого полотна на крепкой раме и подушки. Благодаря простоте конструкции качество этой кровати не влияет на характеристики.</VFE_Bed_SimpleDouble.description>
+  
 </LanguageData>
