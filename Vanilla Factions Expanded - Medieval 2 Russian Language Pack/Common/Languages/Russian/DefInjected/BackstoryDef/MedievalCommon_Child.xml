@@ -1,282 +1,338 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: village urchin -->
-  <VFEM_VillageUrchin101.title>village urchin</VFEM_VillageUrchin101.title>
+  <VFEM_VillageUrchin101.title>деревенский беспризорник</VFEM_VillageUrchin101.title>
+  <VFEM_VillageUrchin101.titleFemale>деревенская беспризорница</VFEM_VillageUrchin101.titleFemale>
   <!-- EN: urchin -->
-  <VFEM_VillageUrchin101.titleShort>urchin</VFEM_VillageUrchin101.titleShort>
+  <VFEM_VillageUrchin101.titleShort>беспризорник</VFEM_VillageUrchin101.titleShort>
+  <VFEM_VillageUrchin101.titleShortFemale>беспризорница</VFEM_VillageUrchin101.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up as a street child in a small village, surviving by stealing scraps and begging from passersby. [PAWN_pronoun] quickly learned to navigate crowded markets and avoid the watchful eyes of the guards. Though [PAWN_pronoun] lacked formal education, [PAWN_pronoun] became clever and resourceful. -->
-  <VFEM_VillageUrchin101.description>[PAWN_nameDef] grew up as a street child in a small village, surviving by stealing scraps and begging from passersby. [PAWN_pronoun] quickly learned to navigate crowded markets and avoid the watchful eyes of the guards. Though [PAWN_pronoun] lacked formal education, [PAWN_pronoun] became clever and resourceful.</VFEM_VillageUrchin101.description>
+  <VFEM_VillageUrchin101.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} уличным ребёнком в маленькой деревне. Для выживания {PAWN_objective} приходилось воровать еду и выпрашивать милостыню у прохожих. {PAWN_pronoun} быстро {PAWN_gender ? научился : научилась} ориентироваться на многолюдных рынках и избегать бдительных глаз стражников. Хотя {PAWN_pronoun} не {PAWN_gender ? получил : получила} формального образования, но {PAWN_gender ? стал сообразительным и находчивым: стала сообразительной и находчивой}.</VFEM_VillageUrchin101.description>
 
   <!-- EN: shepherd's child -->
-  <VFEM_ShepherdsChild102.title>shepherd's child</VFEM_ShepherdsChild102.title>
+  <VFEM_ShepherdsChild102.title>сын пастуха</VFEM_ShepherdsChild102.title>
+  <VFEM_ShepherdsChild102.titleFemale>дочь пастуха</VFEM_ShepherdsChild102.titleFemale>
   <!-- EN: shepherd -->
-  <VFEM_ShepherdsChild102.titleShort>shepherd</VFEM_ShepherdsChild102.titleShort>
+  <VFEM_ShepherdsChild102.titleShort>пастушок</VFEM_ShepherdsChild102.titleShort>
+  <VFEM_ShepherdsChild102.titleShortFemale>пастушка</VFEM_ShepherdsChild102.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood helping [PAWN_possessive] family tend sheep on the hillsides near the village. [PAWN_pronoun] learned patience, vigilance, and a deep understanding of animal behavior. The quiet life also gave [PAWN_pronoun] plenty of time to dream and observe the world around [PAWN_objective]. -->
-  <VFEM_ShepherdsChild102.description>[PAWN_nameDef] spent [PAWN_possessive] childhood helping [PAWN_possessive] family tend sheep on the hillsides near the village. [PAWN_pronoun] learned patience, vigilance, and a deep understanding of animal behavior. The quiet life also gave [PAWN_pronoun] plenty of time to dream and observe the world around [PAWN_objective].</VFEM_ShepherdsChild102.description>
+  <VFEM_ShepherdsChild102.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} своё детство, помогая семье пасти овец на холмистых склонах неподалёку от деревни. {PAWN_pronoun} {PAWN_gender ? научился : научилась} терпению, бдительности и глубокому пониманию поведения животных. Тихая размеренная жизнь давала {PAWN_objective} достаточно времени для размышлений и наблюдений за окружающим миром.</VFEM_ShepherdsChild102.description>
 
   <!-- EN: blacksmith's apprentice -->
-  <VFEM_BlacksmithsApprentice103.title>blacksmith's apprentice</VFEM_BlacksmithsApprentice103.title>
+  <VFEM_BlacksmithsApprentice103.title>ученик кузнеца</VFEM_BlacksmithsApprentice103.title>
+  <VFEM_BlacksmithsApprentice103.titleFemale>ученица кузнеца</VFEM_BlacksmithsApprentice103.titleFemale>
   <!-- EN: apprentice -->
-  <VFEM_BlacksmithsApprentice103.titleShort>apprentice</VFEM_BlacksmithsApprentice103.titleShort>
+  <VFEM_BlacksmithsApprentice103.titleShort>ученик</VFEM_BlacksmithsApprentice103.titleShort>
+  <VFEM_BlacksmithsApprentice103.titleShortFemale>ученица</VFEM_BlacksmithsApprentice103.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years in a smoky forge, assisting [PAWN_possessive] family with small tasks like pumping bellows and carrying coal. The heat and noise became a constant part of [PAWN_possessive] life, and [PAWN_pronoun] began to understand the basics of crafting and hard work. Though the work was tiring, it sparked an appreciation for precision and skill. -->
-  <VFEM_BlacksmithsApprentice103.description>[PAWN_nameDef] spent [PAWN_possessive] early years in a smoky forge, assisting [PAWN_possessive] family with small tasks like pumping bellows and carrying coal. The heat and noise became a constant part of [PAWN_possessive] life, and [PAWN_pronoun] began to understand the basics of crafting and hard work. Though the work was tiring, it sparked an appreciation for precision and skill.</VFEM_BlacksmithsApprentice103.description>
+  <VFEM_BlacksmithsApprentice103.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} свои ранние годы в дымной кузнице, помогая семье с мелкими задачами вроде нагнетания мехов и переноски угля. Жар и шум стали постоянной частью {PAWN_possessive} жизни, и {PAWN_pronoun} {PAWN_gender ? начал : начала} понимать основы ремесла и тяжёлого труда. Хотя работа была утомительной, она пробудила в н{PAWN_objective} уважение к точности и мастерству.</VFEM_BlacksmithsApprentice103.description>
 
   <!-- EN: farmer's child -->
-  <VFEM_FarmersChild104.title>farmer's child</VFEM_FarmersChild104.title>
+  <VFEM_FarmersChild104.title>сын фермера</VFEM_FarmersChild104.title>
+  <VFEM_FarmersChild104.titleFemale>дочь фермера</VFEM_FarmersChild104.titleFemale>
   <!-- EN: farmhand -->
-  <VFEM_FarmersChild104.titleShort>farmhand</VFEM_FarmersChild104.titleShort>
+  <VFEM_FarmersChild104.titleShort>помощник</VFEM_FarmersChild104.titleShort>
+  <VFEM_FarmersChild104.titleShortFemale>помощница</VFEM_FarmersChild104.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up working the fields with [PAWN_possessive] family, planting crops and tending to livestock. [PAWN_pronoun] became skilled at using simple tools and understanding the rhythms of the seasons. The hard labor instilled a strong work ethic but left little time for formal learning. -->
-  <VFEM_FarmersChild104.description>[PAWN_nameDef] grew up working the fields with [PAWN_possessive] family, planting crops and tending to livestock. [PAWN_pronoun] became skilled at using simple tools and understanding the rhythms of the seasons. The hard labor instilled a strong work ethic but left little time for formal learning.</VFEM_FarmersChild104.description>
+  <VFEM_FarmersChild104.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла}, работая в полях со своей семьёй, занимаясь посевами и уходом за скотом. {PAWN_pronoun} {PAWN_gender ? научился : научилась} использовать простые инструменты и понимать порядок смены сезонов. Тяжёлый труд привил {PAWN_objective} сильную трудовую этику, но оставил мало времени для формального образования.</VFEM_FarmersChild104.description>
 
   <!-- EN: fisherman’s child -->
-  <VFEM_FishermansChild105.title>fisherman’s child</VFEM_FishermansChild105.title>
+  <VFEM_FishermansChild105.title>сын рыбака</VFEM_FishermansChild105.title>
+  <VFEM_FishermansChild105.titleFemale>дочь рыбака</VFEM_FishermansChild105.titleFemale>
   <!-- EN: fisher -->
-  <VFEM_FishermansChild105.titleShort>fisher</VFEM_FishermansChild105.titleShort>
+  <VFEM_FishermansChild105.titleShort>рыбак</VFEM_FishermansChild105.titleShort>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth casting nets and hauling in fish alongside [PAWN_possessive] family. The smell of salt and the sound of water became second nature to [PAWN_objective], as did a knack for patience and a steady hand. Life on the water left [PAWN_pronoun] with a practical mindset and the ability to adapt to challenges. -->
-  <VFEM_FishermansChild105.description>[PAWN_nameDef] spent [PAWN_possessive] youth casting nets and hauling in fish alongside [PAWN_possessive] family. The smell of salt and the sound of water became second nature to [PAWN_objective], as did a knack for patience and a steady hand. Life on the water left [PAWN_pronoun] with a practical mindset and the ability to adapt to challenges.</VFEM_FishermansChild105.description>
+  <VFEM_FishermansChild105.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} юность, забрасывая сети и вытаскивая рыбу вместе со своей семьёй. Запах соли и шум воды стали для н{PAWN_possessive} привычными, как терпение и умение крепко держать удочку. Жизнь на воде развила в н{PAWN_objective} практический склад ума и способность приспосабливаться к трудностям.</VFEM_FishermansChild105.description>
 
   <!-- EN: woodcutter's child -->
-  <VFEM_WoodcuttersChild106.title>woodcutter's child</VFEM_WoodcuttersChild106.title>
+  <VFEM_WoodcuttersChild106.title>сын дровосека</VFEM_WoodcuttersChild106.title>
+  <VFEM_WoodcuttersChild106.titleFemale>дочь дровосека</VFEM_WoodcuttersChild106.titleFemale>
   <!-- EN: woodcutter -->
-  <VFEM_WoodcuttersChild106.titleShort>woodcutter</VFEM_WoodcuttersChild106.titleShort>
+  <VFEM_WoodcuttersChild106.titleShort>дровосек</VFEM_WoodcuttersChild106.titleShort>
   <!-- EN: [PAWN_nameDef] grew up helping [PAWN_possessive] family cut trees and haul logs from the nearby forest. [PAWN_pronoun] quickly learned to handle axes and saws, developing both strength and skill. Though accustomed to hard labor, [PAWN_pronoun] rarely had time for anything beyond work and rest. -->
-  <VFEM_WoodcuttersChild106.description>[PAWN_nameDef] grew up helping [PAWN_possessive] family cut trees and haul logs from the nearby forest. [PAWN_pronoun] quickly learned to handle axes and saws, developing both strength and skill. Though accustomed to hard labor, [PAWN_pronoun] rarely had time for anything beyond work and rest.</VFEM_WoodcuttersChild106.description>
+  <VFEM_WoodcuttersChild106.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла}, помогая своей семье рубить деревья и таскать брёвна из близлежащего леса. {PAWN_pronoun} быстро {PAWN_gender ? научился : научилась} обращаться с топорами и пилами, становясь {PAWN_gender ? сильным и умелым : сильной и умелой}. Хотя {PAWN_pronoun} {PAWN_gender ? был привычен : была привычна} к тяжёлому труду, у н{PAWN_possessive} редко появлялось время для чего-либо, кроме работы и сна.</VFEM_WoodcuttersChild106.description>
 
   <!-- EN: miller's child -->
-  <VFEM_MillersChild107.title>miller's child</VFEM_MillersChild107.title>
+  <VFEM_MillersChild107.title>сын мельника</VFEM_MillersChild107.title>
+  <VFEM_MillersChild107.titleFemale>дочь мельника</VFEM_MillersChild107.titleFemale>
   <!-- EN: miller -->
-  <VFEM_MillersChild107.titleShort>miller</VFEM_MillersChild107.titleShort>
+  <VFEM_MillersChild107.titleShort>мельник</VFEM_MillersChild107.titleShort>
   <!-- EN: [PAWN_nameDef] grew up around the constant hum of the mill, helping [PAWN_possessive] family grind grain into flour. [PAWN_pronoun] learned the importance of precision and efficiency, keeping the machinery running smoothly. [PAWN_pronoun] also gained a knack for basic problem-solving when repairs were needed. -->
-  <VFEM_MillersChild107.description>[PAWN_nameDef] grew up around the constant hum of the mill, helping [PAWN_possessive] family grind grain into flour. [PAWN_pronoun] learned the importance of precision and efficiency, keeping the machinery running smoothly. [PAWN_pronoun] also gained a knack for basic problem-solving when repairs were needed.</VFEM_MillersChild107.description>
+  <VFEM_MillersChild107.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} под постоянным гулом мельницы, помогая семье молоть зерно. {PAWN_pronoun} {PAWN_gender ? научился : научилась} ценить точность и эффективность, поддерживая механизмы в рабочем состоянии. {PAWN_pronoun} также {PAWN_gender ? научился : научилась} самостоятельно решать проблемы, когда механизмам мельницы требовался ремонт.</VFEM_MillersChild107.description>
 
   <!-- EN: hunter's child -->
-  <VFEM_HuntersChild108.title>hunter's child</VFEM_HuntersChild108.title>
+  <VFEM_HuntersChild108.title>сын охотника</VFEM_HuntersChild108.title>
+  <VFEM_HuntersChild108.titleFemale>дочь охотника</VFEM_HuntersChild108.titleFemale>
   <!-- EN: hunter -->
-  <VFEM_HuntersChild108.titleShort>hunter</VFEM_HuntersChild108.titleShort>
+  <VFEM_HuntersChild108.titleShort>охотник</VFEM_HuntersChild108.titleShort>
+  <VFEM_HuntersChild108.titleShortFemale>охотница</VFEM_HuntersChild108.titleShortFemale>
   <!-- EN: [PAWN_nameDef] followed [PAWN_possessive] family through the forests, learning to track animals and use a bow. [PAWN_pronoun] grew up attuned to the wilderness, with sharp instincts and steady hands. While skilled at survival, [PAWN_pronoun] spent little time with other children and was often solitary. -->
-  <VFEM_HuntersChild108.description>[PAWN_nameDef] followed [PAWN_possessive] family through the forests, learning to track animals and use a bow. [PAWN_pronoun] grew up attuned to the wilderness, with sharp instincts and steady hands. While skilled at survival, [PAWN_pronoun] spent little time with other children and was often solitary.</VFEM_HuntersChild108.description>
+  <VFEM_HuntersChild108.description>{PAWN_nameDef} {PAWN_gender ? следовал : следовала} за своей семьей по лесам, учась выслеживать животных и использовать лук. {PAWN_pronoun} {PAWN_gender ? вырос : выросла} в гармонии с дикой природой, с острым чутьём и твёрдой рукой. Хотя {PAWN_pronoun} {PAWN_gender ? был искусен : была искусна} в выживании, но {PAWN_gender ? проводил : проводила} мало времени с другими детьми и часто {PAWN_gender ? был : была} в одиночестве.</VFEM_HuntersChild108.description>
 
   <!-- EN: baker's child -->
-  <VFEM_BakersChild109.title>baker's child</VFEM_BakersChild109.title>
+  <VFEM_BakersChild109.title>сын пекаря</VFEM_BakersChild109.title>
+  <VFEM_BakersChild109.titleFemale>дочь пекаря</VFEM_BakersChild109.titleFemale>
   <!-- EN: baker -->
-  <VFEM_BakersChild109.titleShort>baker</VFEM_BakersChild109.titleShort>
+  <VFEM_BakersChild109.titleShort>пекарь</VFEM_BakersChild109.titleShort>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood kneading dough and tending ovens in the family bakery. [PAWN_pronoun] developed a keen sense of timing and a knack for crafting simple but satisfying meals. The early mornings and long hours left [PAWN_pronoun] with a strong work ethic but little free time. -->
-  <VFEM_BakersChild109.description>[PAWN_nameDef] spent [PAWN_possessive] childhood kneading dough and tending ovens in the family bakery. [PAWN_pronoun] developed a keen sense of timing and a knack for crafting simple but satisfying meals. The early mornings and long hours left [PAWN_pronoun] with a strong work ethic but little free time.</VFEM_BakersChild109.description>
+  <VFEM_BakersChild109.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} своё детство, замешивая тесто и следя за печами в семейной пекарне. {PAWN_pronoun} {PAWN_gender ? развил : развила} острое чувство времени и талант к созданию простых, но сытных блюд. Ранние подъёмы и долгие часы работы привили {PAWN_objective} сильную трудовую этику, но оставляли мало свободного времени.</VFEM_BakersChild109.description>
 
   <!-- EN: stablehand's child -->
-  <VFEM_StablehandsChild110.title>stablehand's child</VFEM_StablehandsChild110.title>
+  <VFEM_StablehandsChild110.title>сын конюха</VFEM_StablehandsChild110.title>
+  <VFEM_StablehandsChild110.titleFemale>дочь конюха</VFEM_StablehandsChild110.titleFemale>
   <!-- EN: stablehand -->
-  <VFEM_StablehandsChild110.titleShort>stablehand</VFEM_StablehandsChild110.titleShort>
+  <VFEM_StablehandsChild110.titleShort>конюх</VFEM_StablehandsChild110.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in the stables, helping care for horses and keeping the stalls clean. [PAWN_pronoun] learned the basics of animal care and the value of steady, dependable work. While comfortable around animals, [PAWN_pronoun] often struggled to relate to [PAWN_possessive] peers. -->
-  <VFEM_StablehandsChild110.description>[PAWN_nameDef] grew up in the stables, helping care for horses and keeping the stalls clean. [PAWN_pronoun] learned the basics of animal care and the value of steady, dependable work. While comfortable around animals, [PAWN_pronoun] often struggled to relate to [PAWN_possessive] peers.</VFEM_StablehandsChild110.description>
+  <VFEM_StablehandsChild110.description>{PAWN_nameDef} {PAWN_gender ? рос : росла} в конюшнях, помогая ухаживать за лошадьми и поддерживая чистоту в стойлах. {PAWN_pronoun} {PAWN_gender ? освоил : освоила} основы ухода за животными и {PAWN_gender ? усвоил : усвоила} ценность стабильной, надёжной работы. Хотя с животными {PAWN_pronoun} {PAWN_gender ? чувствовал : чувствовала} себя комфортно, в общении со сверстниками у н{PAWN_possessive} часто возникали трудности.</VFEM_StablehandsChild110.description>
 
   <!-- EN: forest forager -->
-  <VFEM_ForestForager111.title>forest forager</VFEM_ForestForager111.title>
+  <VFEM_ForestForager111.title>лесной собиратель</VFEM_ForestForager111.title>
+  <VFEM_ForestForager111.titleFemale>лесная собирательница</VFEM_ForestForager111.titleFemale>
   <!-- EN: forager -->
-  <VFEM_ForestForager111.titleShort>forager</VFEM_ForestForager111.titleShort>
+  <VFEM_ForestForager111.titleShort>собиратель</VFEM_ForestForager111.titleShort>
+  <VFEM_ForestForager111.titleShortFemale>собирательница</VFEM_ForestForager111.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood scouring the woods for berries, herbs, and mushrooms to help feed the village. [PAWN_pronoun] learned to identify edible plants and navigate dense forests with ease. Though [PAWN_pronoun] rarely interacted with others, [PAWN_pronoun] became deeply attuned to nature. -->
-  <VFEM_ForestForager111.description>[PAWN_nameDef] spent [PAWN_possessive] childhood scouring the woods for berries, herbs, and mushrooms to help feed the village. [PAWN_pronoun] learned to identify edible plants and navigate dense forests with ease. Though [PAWN_pronoun] rarely interacted with others, [PAWN_pronoun] became deeply attuned to nature.</VFEM_ForestForager111.description>
+  <VFEM_ForestForager111.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} своё детство в лесах, собирая ягоды, травы и грибы, чтобы помочь прокормить деревню. {PAWN_pronoun} {PAWN_gender ? научился : научилась} распознавать съедобные растения и легко ориентироваться в густых лесах. Хотя {PAWN_pronoun} редко {PAWN_gender ? взаимодействовал : взаимодействовала} с другими людьми, но {PAWN_gender ? обрёл : обрела} крепкую связь с природой.</VFEM_ForestForager111.description>
 
   <!-- EN: river wader -->
-  <VFEM_RiverWader112.title>river wader</VFEM_RiverWader112.title>
+  <VFEM_RiverWader112.title>речной бродяга</VFEM_RiverWader112.title>
   <!-- EN: river wader -->
-  <VFEM_RiverWader112.titleShort>river wader</VFEM_RiverWader112.titleShort>
+  <VFEM_RiverWader112.titleShort>речной бродяга</VFEM_RiverWader112.titleShort>
   <!-- EN: [PAWN_nameDef] spent endless hours by the river, catching fish with traps and nets. [PAWN_pronoun] became skilled at spotting fish and understanding the flow of water, skills that kept [PAWN_objective] well-fed even in lean times. Life by the river gave [PAWN_pronoun] a practical outlook but limited [PAWN_possessive] social skills. -->
-  <VFEM_RiverWader112.description>[PAWN_nameDef] spent endless hours by the river, catching fish with traps and nets. [PAWN_pronoun] became skilled at spotting fish and understanding the flow of water, skills that kept [PAWN_objective] well-fed even in lean times. Life by the river gave [PAWN_pronoun] a practical outlook but limited [PAWN_possessive] social skills.</VFEM_RiverWader112.description>
+  <VFEM_RiverWader112.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} бесконечные часы у реки, ловя рыбу ловушками и сетями. {PAWN_pronoun} {PAWN_gender ? стал искусен : стала искусна} в обнаружении рыбы и понимании течения воды. Эти навыки помогали {PAWN_objective} оставаться {PAWN_gender ? сытым : сытой} даже в трудные времена. Жизнь у реки сформировала у н{PAWN_possessive} практический взгляд на мир, но ограничила социальные навыки.</VFEM_RiverWader112.description>
 
   <!-- EN: wandering helper -->
-  <VFEM_WanderingHelper113.title>wandering helper</VFEM_WanderingHelper113.title>
+  <VFEM_WanderingHelper113.title>странствующий помощник</VFEM_WanderingHelper113.title>
+  <VFEM_WanderingHelper113.titleFemale>странствующая помощница</VFEM_WanderingHelper113.titleFemale>
   <!-- EN: helper -->
-  <VFEM_WanderingHelper113.titleShort>helper</VFEM_WanderingHelper113.titleShort>
+  <VFEM_WanderingHelper113.titleShort>помощник</VFEM_WanderingHelper113.titleShort>
+  <VFEM_WanderingHelper113.titleShortFemale>помощница</VFEM_WanderingHelper113.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up lending a hand wherever [PAWN_pronoun] could, moving from farm to farm doing odd jobs. From tending crops to mending fences, [PAWN_pronoun] learned a little bit of everything but mastered none. Constantly on the move, [PAWN_pronoun] never formed close friendships but gained practical skills. -->
-  <VFEM_WanderingHelper113.description>[PAWN_nameDef] grew up lending a hand wherever [PAWN_pronoun] could, moving from farm to farm doing odd jobs. From tending crops to mending fences, [PAWN_pronoun] learned a little bit of everything but mastered none. Constantly on the move, [PAWN_pronoun] never formed close friendships but gained practical skills.</VFEM_WanderingHelper113.description>
+  <VFEM_WanderingHelper113.description>{PAWN_nameDef} {PAWN_gender ? рос : росла}, помогая везде, где {PAWN_gender ? мог : могла}, переходя с фермы на ферму и выполняя разную работу. От ухода за посевами до починки заборов, {PAWN_pronoun} {PAWN_gender ? узнал : узнала} понемногу обо всём, но не {PAWN_gender ? овладел : овладела} ничем в совершенстве. Постоянно находясь в движении, {PAWN_nameDef} никогда не {PAWN_gender ? заводил : заводила} близких друзей, но {PAWN_gender ? приобрёл : приобрела} полезные практические навыки.</VFEM_WanderingHelper113.description>
 
   <!-- EN: quiet observer -->
-  <VFEM_QuietObserver114.title>quiet observer</VFEM_QuietObserver114.title>
+  <VFEM_QuietObserver114.title>тихий наблюдатель</VFEM_QuietObserver114.title>
+  <VFEM_QuietObserver114.titleFemale>тихая наблюдательница</VFEM_QuietObserver114.titleFemale>
   <!-- EN: observer -->
-  <VFEM_QuietObserver114.titleShort>observer</VFEM_QuietObserver114.titleShort>
+  <VFEM_QuietObserver114.titleShort>наблюдатель</VFEM_QuietObserver114.titleShort>
+  <VFEM_QuietObserver114.titleShortFemale>наблюдательница</VFEM_QuietObserver114.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood watching the world from the edges, unnoticed but always attentive. [PAWN_pronoun] learned to listen, read emotions, and predict behavior, skills that [PAWN_pronoun] used to avoid trouble and gain favor. While [PAWN_pronoun] excelled at understanding others, [PAWN_pronoun] avoided physical labor whenever possible. -->
-  <VFEM_QuietObserver114.description>[PAWN_nameDef] spent [PAWN_possessive] childhood watching the world from the edges, unnoticed but always attentive. [PAWN_pronoun] learned to listen, read emotions, and predict behavior, skills that [PAWN_pronoun] used to avoid trouble and gain favor. While [PAWN_pronoun] excelled at understanding others, [PAWN_pronoun] avoided physical labor whenever possible.</VFEM_QuietObserver114.description>
+  <VFEM_QuietObserver114.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} своё детство наблюдая за миром со стороны — незаметно, но всегда внимательно. {PAWN_pronoun} {PAWN_gender ? научился : научилась} слушать, читать эмоции и предсказывать поведение — эти навыки позволяли {PAWN_objective} избегать неприятностей и зарабатывать репутацию. Хотя {PAWN_pronoun} и {PAWN_gender ? преуспел : преуспела} в понимании других, но всегда {PAWN_gender ? избегал : избегала} физического труда, когда это было возможно.</VFEM_QuietObserver114.description>
 
   <!-- EN: early laborer -->
-  <VFEM_EarlyLaborer115.title>early laborer</VFEM_EarlyLaborer115.title>
+  <VFEM_EarlyLaborer115.title>юный работник</VFEM_EarlyLaborer115.title>
+  <VFEM_EarlyLaborer115.titleFemale>юная работница</VFEM_EarlyLaborer115.titleFemale>
   <!-- EN: laborer -->
-  <VFEM_EarlyLaborer115.titleShort>laborer</VFEM_EarlyLaborer115.titleShort>
+  <VFEM_EarlyLaborer115.titleShort>работник</VFEM_EarlyLaborer115.titleShort>
+  <VFEM_EarlyLaborer115.titleShortFemale>работница</VFEM_EarlyLaborer115.titleShortFemale>
   <!-- EN: [PAWN_nameDef] started working in the fields as soon as [PAWN_pronoun] could carry a tool, spending long days planting and harvesting. The grueling work made [PAWN_pronoun] strong and resilient but left little time for play or education. Despite the hardships, [PAWN_pronoun] grew to appreciate the rewards of hard work. -->
-  <VFEM_EarlyLaborer115.description>[PAWN_nameDef] started working in the fields as soon as [PAWN_pronoun] could carry a tool, spending long days planting and harvesting. The grueling work made [PAWN_pronoun] strong and resilient but left little time for play or education. Despite the hardships, [PAWN_pronoun] grew to appreciate the rewards of hard work.</VFEM_EarlyLaborer115.description>
+  <VFEM_EarlyLaborer115.description>{PAWN_nameDef} {PAWN_gender ? начал : начала} работать в полях, как только {PAWN_gender ? смог : смогла} держать инструменты, проводя долгие дни за посадкой и сбором урожая. Изнурительная работа сделала {PAWN_possessive} сильным и выносливым, но оставляла мало времени для игр или обучения. Несмотря на тяготы, {PAWN_nameDef} {PAWN_gender ? научился : научилась} ценить плоды своего упорного труда.</VFEM_EarlyLaborer115.description>
 
   <!-- EN: village runner -->
-  <VFEM_VillageRunner116.title>village runner</VFEM_VillageRunner116.title>
+  <VFEM_VillageRunner116.title>деревенский бегун</VFEM_VillageRunner116.title>
+  <VFEM_VillageRunner116.titleFemale>деревенская бегунья</VFEM_VillageRunner116.titleFemale>
   <!-- EN: runner -->
-  <VFEM_VillageRunner116.titleShort>runner</VFEM_VillageRunner116.titleShort>
+  <VFEM_VillageRunner116.titleShort>бегун</VFEM_VillageRunner116.titleShort>
+  <VFEM_VillageRunner116.titleShortFemale>бегунья</VFEM_VillageRunner116.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was often tasked with delivering messages and small packages between villagers. [PAWN_pronoun] spent countless hours running along dirt paths, learning the fastest routes and how to avoid danger. The constant movement made [PAWN_pronoun] quick and agile but left little time for rest or study. -->
-  <VFEM_VillageRunner116.description>[PAWN_nameDef] was often tasked with delivering messages and small packages between villagers. [PAWN_pronoun] spent countless hours running along dirt paths, learning the fastest routes and how to avoid danger. The constant movement made [PAWN_pronoun] quick and agile but left little time for rest or study.</VFEM_VillageRunner116.description>
+  <VFEM_VillageRunner116.description>{PAWN_nameDef} часто {PAWN_gender ? выполнял : выполняла} поручения по доставке сообщений и небольших посылок между жителями деревни. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} бесчисленные часы, бегая по грунтовым тропам, изучая самые быстрые маршруты и способы избегания опасностей. Постоянное движение сделало {PAWN_possessive} быстрым и ловким, но оставляло мало времени для отдыха или учёбы.</VFEM_VillageRunner116.description>
 
   <!-- EN: field watcher -->
-  <VFEM_FieldWatcher117.title>field watcher</VFEM_FieldWatcher117.title>
+  <VFEM_FieldWatcher117.title>полевой сторож</VFEM_FieldWatcher117.title>
   <!-- EN: watcher -->
-  <VFEM_FieldWatcher117.titleShort>watcher</VFEM_FieldWatcher117.titleShort>
+  <VFEM_FieldWatcher117.titleShort>сторож</VFEM_FieldWatcher117.titleShort>
   <!-- EN: [PAWN_nameDef] spent hours sitting by the fields, keeping an eye out for crows, rabbits, or anything else that might harm the crops. [PAWN_pronoun] learned patience and vigilance, but the solitary work left [PAWN_pronoun] starved for human interaction. [PAWN_pronoun] grew resourceful, using simple tools to ward off pests and predators. -->
-  <VFEM_FieldWatcher117.description>[PAWN_nameDef] spent hours sitting by the fields, keeping an eye out for crows, rabbits, or anything else that might harm the crops. [PAWN_pronoun] learned patience and vigilance, but the solitary work left [PAWN_pronoun] starved for human interaction. [PAWN_pronoun] grew resourceful, using simple tools to ward off pests and predators.</VFEM_FieldWatcher117.description>
+  <VFEM_FieldWatcher117.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} долгие часы сидя у полей и высматривая ворон, кроликов или любых других вредителей, которые могли навредить посевам. {PAWN_pronoun} {PAWN_gender ? научился : научилась} терпению и бдительности, но одинокая работа оставила {PAWN_possessive} изголодавшимся по человеческому общению. {PAWN_pronoun} {PAWN_gender ? вырос находчивым, способным : выросла находчивой, способной}, использовать простые инструменты для отпугивания вредителей и хищников.</VFEM_FieldWatcher117.description>
 
   <!-- EN: market helper -->
-  <VFEM_MarketHelper118.title>market helper</VFEM_MarketHelper118.title>
+  <VFEM_MarketHelper118.title>рыночный помощник</VFEM_MarketHelper118.title>
+  <VFEM_MarketHelper118.titleFemale>рыночная помощница</VFEM_MarketHelper118.titleFemale>
   <!-- EN: helper -->
-  <VFEM_MarketHelper118.titleShort>helper</VFEM_MarketHelper118.titleShort>
+  <VFEM_MarketHelper118.titleShort>помощник</VFEM_MarketHelper118.titleShort>
+  <VFEM_MarketHelper118.titleShortFemale>помощница</VFEM_MarketHelper118.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood helping traders set up their stalls, haul goods, and haggle with customers. The bustling marketplace taught [PAWN_pronoun] how to read people and bargain effectively. Though quick-witted, [PAWN_pronoun] had little time for physical labor outside the market. -->
-  <VFEM_MarketHelper118.description>[PAWN_nameDef] spent [PAWN_possessive] childhood helping traders set up their stalls, haul goods, and haggle with customers. The bustling marketplace taught [PAWN_pronoun] how to read people and bargain effectively. Though quick-witted, [PAWN_pronoun] had little time for physical labor outside the market.</VFEM_MarketHelper118.description>
+  <VFEM_MarketHelper118.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} своё детство, помогая торговцам устанавливать прилавки, переносить товары и торговаться с покупателями. Суета рыночной площади научила {PAWN_possessive} разбираться в людях и эффективно вести переговоры. Хотя {PAWN_pronoun} и {PAWN_gender ? был сообразительным : была сообразительной}, у н{PAWN_possessive} оставалось мало времени для физического труда за пределами рынка.</VFEM_MarketHelper118.description>
 
   <!-- EN: well tender -->
-  <VFEM_WellTender119.title>well tender</VFEM_WellTender119.title>
+  <VFEM_WellTender119.title>смотритель колодца</VFEM_WellTender119.title>
+  <VFEM_WellTender119.titleFemale>смотрительница колодца</VFEM_WellTender119.titleFemale>
   <!-- EN: well tender -->
-  <VFEM_WellTender119.titleShort>well tender</VFEM_WellTender119.titleShort>
+  <VFEM_WellTender119.titleShort>смотритель</VFEM_WellTender119.titleShort>
+  <VFEM_WellTender119.titleShortFemale>смотрительница</VFEM_WellTender119.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was responsible for keeping the village well clean and drawing water for the community. [PAWN_pronoun] grew strong from hauling heavy buckets and learned to maintain the mechanisms that made the work easier. The repetitive work left [PAWN_pronoun] with little variety but a dependable skill set. -->
-  <VFEM_WellTender119.description>[PAWN_nameDef] was responsible for keeping the village well clean and drawing water for the community. [PAWN_pronoun] grew strong from hauling heavy buckets and learned to maintain the mechanisms that made the work easier. The repetitive work left [PAWN_pronoun] with little variety but a dependable skill set.</VFEM_WellTender119.description>
+  <VFEM_WellTender119.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за чистоту деревенского колодца и доставку воды для общины. {PAWN_pronoun} {PAWN_gender ? окреп : окрепла} от переноски тяжёлых вёдер и {PAWN_gender ? научился : научилась} обслуживать механизмы, облегчающие работу. Однообразная работа не давала {PAWN_objective} разнообразия в жизни, но обеспечила надёжным набором навыков.</VFEM_WellTender119.description>
 
   <!-- EN: street entertainer -->
-  <VFEM_StreetEntertainer120.title>street entertainer</VFEM_StreetEntertainer120.title>
+  <VFEM_StreetEntertainer120.title>уличный артист</VFEM_StreetEntertainer120.title>
+  <VFEM_StreetEntertainer120.titleFemale>уличная артистка</VFEM_StreetEntertainer120.titleFemale>
   <!-- EN: entertainer -->
-  <VFEM_StreetEntertainer120.titleShort>entertainer</VFEM_StreetEntertainer120.titleShort>
-  <!-- EN: [PAWN_nameDef] performed in the village square as a juggler, singer, or storyteller, hoping to earn coins or scraps of food. [PAWN_pronoun] learned how to capture an audience’s attention and bring joy to others, even when times were tough. While talented in performance, [PAWN_pronoun] struggled with practical skills outside the arts. -->
-  <VFEM_StreetEntertainer120.description>[PAWN_nameDef] performed in the village square as a juggler, singer, or storyteller, hoping to earn coins or scraps of food. [PAWN_pronoun] learned how to capture an audience’s attention and bring joy to others, even when times were tough. While talented in performance, [PAWN_pronoun] struggled with practical skills outside the arts.</VFEM_StreetEntertainer120.description>
+  <VFEM_StreetEntertainer120.titleShort>артист</VFEM_StreetEntertainer120.titleShort>
+  <VFEM_StreetEntertainer120.titleShortFemale>артистка</VFEM_StreetEntertainer120.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] performed in the village square as a juggler, singer, or storyteller, hoping to earn coins or scraps of food. [PAWN_pronoun] learned how to capture an audience's attention and bring joy to others, even when times were tough. While talented in performance, [PAWN_pronoun] struggled with practical skills outside the arts. -->
+  <VFEM_StreetEntertainer120.description>{PAWN_nameDef} {PAWN_gender ? выступал : выступала} на деревенской площади в качестве жонглёра, певца или рассказчика историй, надеясь заработать монеты или немного еды. {PAWN_pronoun} {PAWN_gender ? научился : научилась} привлекать внимание публики и приносить радость другим даже в трудные времена. Хотя {PAWN_pronoun} {PAWN_gender ? был талантлив : была талантлива} в представлениях, {PAWN_objective} не хватало практических навыков за пределами искусства.</VFEM_StreetEntertainer120.description>
 
   <!-- EN: street scavenger -->
-  <VFEM_StreetScavenger121.title>street scavenger</VFEM_StreetScavenger121.title>
+  <VFEM_StreetScavenger121.title>уличный собиратель</VFEM_StreetScavenger121.title>
+  <VFEM_StreetScavenger121.titleFemale>уличная собирательница</VFEM_StreetScavenger121.titleFemale>
   <!-- EN: scavenger -->
-  <VFEM_StreetScavenger121.titleShort>scavenger</VFEM_StreetScavenger121.titleShort>
+  <VFEM_StreetScavenger121.titleShort>собиратель</VFEM_StreetScavenger121.titleShort>
+  <VFEM_StreetScavenger121.titleShortFemale>собирательница</VFEM_StreetScavenger121.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up scavenging through garbage and refuse, searching for anything [PAWN_pronoun] could eat or sell. The harsh life taught [PAWN_pronoun] how to survive with very little but left [PAWN_pronoun] mistrusting of others. [PAWN_pronoun] became quick on [PAWN_possessive] feet to avoid confrontations over scraps. -->
-  <VFEM_StreetScavenger121.description>[PAWN_nameDef] grew up scavenging through garbage and refuse, searching for anything [PAWN_pronoun] could eat or sell. The harsh life taught [PAWN_pronoun] how to survive with very little but left [PAWN_pronoun] mistrusting of others. [PAWN_pronoun] became quick on [PAWN_possessive] feet to avoid confrontations over scraps.</VFEM_StreetScavenger121.description>
+  <VFEM_StreetScavenger121.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла}, копаясь в мусоре и отбросах в поисках всего, что можно было бы съесть или продать. Суровая жизнь научила {PAWN_nameDef}, как обходиться малым, но сделала {PAWN_possessive} {PAWN_gender ? недоверчивым : недоверчивой} к окружающим. {PAWN_pronoun} {PAWN_gender ? вырос быстрым : выросла быстрой} на ногу, чтобы избегать конфликтов из-за найденных объедков.</VFEM_StreetScavenger121.description>
 
   <!-- EN: outcast -->
-  <VFEM_Outcast122.title>outcast</VFEM_Outcast122.title>
+  <VFEM_Outcast122.title>изгой</VFEM_Outcast122.title>
   <!-- EN: outcast -->
-  <VFEM_Outcast122.titleShort>outcast</VFEM_Outcast122.titleShort>
+  <VFEM_Outcast122.titleShort>изгой</VFEM_Outcast122.titleShort>
   <!-- EN: [PAWN_nameDef] was shunned by the other children in [PAWN_possessive] village for reasons [PAWN_pronoun] never fully understood. Forced to fend for [PAWN_objective], [PAWN_pronoun] spent [PAWN_possessive] days alone in the wilderness or on the village outskirts. [PAWN_pronoun] developed a deep sense of independence and distrust of others. -->
-  <VFEM_Outcast122.description>[PAWN_nameDef] was shunned by the other children in [PAWN_possessive] village for reasons [PAWN_pronoun] never fully understood. Forced to fend for [PAWN_objective], [PAWN_pronoun] spent [PAWN_possessive] days alone in the wilderness or on the village outskirts. [PAWN_pronoun] developed a deep sense of independence and distrust of others.</VFEM_Outcast122.description>
+  <VFEM_Outcast122.description>{PAWN_nameDef} {PAWN_gender ? был отвергнут : была отвергнута} остальными детьми в своей деревне по причинам, которые {PAWN_pronoun} никогда до конца не {PAWN_gender ? понимал : понимала}. {PAWN_gender ? Вынужденный : Вынужденная} заботиться о себе, {PAWN_nameDef} {PAWN_gender ? проводил : проводила} дни в одиночестве, скитаясь по дикой местности или окраинам деревни. Такая жизнь развила в н{PAWN_objective} глубокое чувство независимости и недоверия к окружающим.</VFEM_Outcast122.description>
 
   <!-- EN: pickpocket -->
-  <VFEM_Pickpocket123.title>pickpocket</VFEM_Pickpocket123.title>
+  <VFEM_Pickpocket123.title>карманник</VFEM_Pickpocket123.title>
+  <VFEM_Pickpocket123.titleFemale>карманница</VFEM_Pickpocket123.titleFemale>
   <!-- EN: thief -->
-  <VFEM_Pickpocket123.titleShort>thief</VFEM_Pickpocket123.titleShort>
+  <VFEM_Pickpocket123.titleShort>вор</VFEM_Pickpocket123.titleShort>
+  <VFEM_Pickpocket123.titleShortFemale>воровка</VFEM_Pickpocket123.titleShortFemale>
   <!-- EN: [PAWN_nameDef] turned to petty theft as a way to survive in a world that had little use for [PAWN_objective]. [PAWN_pronoun] quickly learned to move unseen and snatch valuables without getting caught. While skilled at stealing, [PAWN_pronoun] earned a reputation for dishonesty and was never trusted by others. -->
-  <VFEM_Pickpocket123.description>[PAWN_nameDef] turned to petty theft as a way to survive in a world that had little use for [PAWN_objective]. [PAWN_pronoun] quickly learned to move unseen and snatch valuables without getting caught. While skilled at stealing, [PAWN_pronoun] earned a reputation for dishonesty and was never trusted by others.</VFEM_Pickpocket123.description>
+  <VFEM_Pickpocket123.description>{PAWN_nameDef} {PAWN_gender ? пришёл : пришла} к мелким кражам как к способу выживания в мире, в котором {PAWN_objective} не было места. {PAWN_pronoun} быстро {PAWN_gender ? научился : научилась} двигаться незаметно и похищать ценности, не привлекая внимания. За свой воровской талант, {PAWN_nameDef} {PAWN_gender ? заслужил : заслужила} репутацию нечестного человека, которому никто никогда не доверял.</VFEM_Pickpocket123.description>
 
   <!-- EN: rat catcher -->
-  <VFEM_RatCatcher124.title>rat catcher</VFEM_RatCatcher124.title>
+  <VFEM_RatCatcher124.title>крысолов</VFEM_RatCatcher124.title>
+  <VFEM_RatCatcher124.titleFemale>крысоловка</VFEM_RatCatcher124.titleFemale>
   <!-- EN: rat catcher -->
-  <VFEM_RatCatcher124.titleShort>rat catcher</VFEM_RatCatcher124.titleShort>
+  <VFEM_RatCatcher124.titleShort>крысолов</VFEM_RatCatcher124.titleShort>
+  <VFEM_RatCatcher124.titleShortFemale>крысоловка</VFEM_RatCatcher124.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was tasked with clearing vermin from food stores and homes, often wading into the dirtiest corners of the village. [PAWN_pronoun] developed quick reflexes and an uncanny knack for traps, but the work left [PAWN_pronoun] isolated and avoided by others. The smell of [PAWN_possessive] trade lingered wherever [PAWN_pronoun] went. -->
-  <VFEM_RatCatcher124.description>[PAWN_nameDef] was tasked with clearing vermin from food stores and homes, often wading into the dirtiest corners of the village. [PAWN_pronoun] developed quick reflexes and an uncanny knack for traps, but the work left [PAWN_pronoun] isolated and avoided by others. The smell of [PAWN_possessive] trade lingered wherever [PAWN_pronoun] went.</VFEM_RatCatcher124.description>
+  <VFEM_RatCatcher124.description>{PAWN_nameDef} {PAWN_gender ? был занят : была занята} истреблением грызунов в продовольственных хранилищах и домах, часто забираясь в самые грязные уголки деревни. {PAWN_pronoun} {PAWN_gender ? развил : развила} молниеносные рефлексы и удивительное мастерство установки ловушек, но такая работа сделала {PAWN_possessive} отшельником, которого сторонились другие. Характерный запах {PAWN_possessive} ремесла неизменно сопровождал {PAWN_nameDef}, куда бы {PAWN_pronoun} ни {PAWN_gender ? направился : направилась}.</VFEM_RatCatcher124.description>
 
   <!-- EN: troublemaker -->
-  <VFEM_Troublemaker125.title>troublemaker</VFEM_Troublemaker125.title>
+  <VFEM_Troublemaker125.title>нарушитель спокойствия</VFEM_Troublemaker125.title>
+  <VFEM_Troublemaker125.titleFemale>нарушительница спокойствия</VFEM_Troublemaker125.titleFemale>
   <!-- EN: troublemaker -->
-  <VFEM_Troublemaker125.titleShort>troublemaker</VFEM_Troublemaker125.titleShort>
+  <VFEM_Troublemaker125.titleShort>бунтарь</VFEM_Troublemaker125.titleShort>
+  <VFEM_Troublemaker125.titleShortFemale>бунтарка</VFEM_Troublemaker125.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was known for causing mischief and stirring up chaos, often at the expense of others. [PAWN_pronoun] enjoyed playing pranks, picking fights, and pushing boundaries wherever possible. Though disliked by adults and peers alike, [PAWN_pronoun] developed sharp wits and quick reflexes to avoid punishment. -->
-  <VFEM_Troublemaker125.description>[PAWN_nameDef] was known for causing mischief and stirring up chaos, often at the expense of others. [PAWN_pronoun] enjoyed playing pranks, picking fights, and pushing boundaries wherever possible. Though disliked by adults and peers alike, [PAWN_pronoun] developed sharp wits and quick reflexes to avoid punishment.</VFEM_Troublemaker125.description>
+  <VFEM_Troublemaker125.description>{PAWN_nameDef} {PAWN_gender ? был известен : была известна} своими проказами и способностью сеять хаос, часто вовлекая в это окружающих. {PAWN_pronoun} {PAWN_gender ? обожал : обожала} устраивать розыгрыши, затевать драки и испытывать границы дозволенного при каждой возможности. Поскольку ни взрослые, ни сверстники не питали к н{PAWN_objective} тёплых чувств, {PAWN_pronoun} {PAWN_gender ? развил : развила} острый ум и молниеносные рефлексы, чтобы ускользать от неизбежного наказания.</VFEM_Troublemaker125.description>
 
   <!-- EN: beggar child -->
-  <VFEM_BeggarChild126.title>beggar child</VFEM_BeggarChild126.title>
+  <VFEM_BeggarChild126.title>ребёнок-попрошайка</VFEM_BeggarChild126.title>
   <!-- EN: beggar -->
-  <VFEM_BeggarChild126.titleShort>beggar</VFEM_BeggarChild126.titleShort>
-  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years sitting in muddy streets, pleading for coins or scraps of food. The life taught [PAWN_pronoun] how to read people’s emotions and appeal to their sympathies, but it also made [PAWN_pronoun] deeply wary of rejection. Begging for survival left [PAWN_pronoun] resourceful but mistrusted. -->
-  <VFEM_BeggarChild126.description>[PAWN_nameDef] spent [PAWN_possessive] early years sitting in muddy streets, pleading for coins or scraps of food. The life taught [PAWN_pronoun] how to read people’s emotions and appeal to their sympathies, but it also made [PAWN_pronoun] deeply wary of rejection. Begging for survival left [PAWN_pronoun] resourceful but mistrusted.</VFEM_BeggarChild126.description>
+  <VFEM_BeggarChild126.titleShort>попрошайка</VFEM_BeggarChild126.titleShort>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years sitting in muddy streets, pleading for coins or scraps of food. The life taught [PAWN_pronoun] how to read people's emotions and appeal to their sympathies, but it also made [PAWN_pronoun] deeply wary of rejection. Begging for survival left [PAWN_pronoun] resourceful but mistrusted. -->
+  <VFEM_BeggarChild126.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} свои ранние годы сидя на грязных улицах, выпрашивая монеты или объедки у прохожих. Такая жизнь научила {PAWN_possessive} читать эмоции людей и взывать к их сочувствию, но также сделала {PAWN_nameDef} сильный страх отказа. Попрошайничество ради выживания развило в {PAWN_gender ? нём : ней} находчивость, но лишило способности доверять окружающим.</VFEM_BeggarChild126.description>
 
   <!-- EN: scrap hoarder -->
-  <VFEM_ScrapHoarder127.title>scrap hoarder</VFEM_ScrapHoarder127.title>
+  <VFEM_ScrapHoarder127.title>собиратель хлама</VFEM_ScrapHoarder127.title>
+  <VFEM_ScrapHoarder127.titleFemale>собирательница хлама</VFEM_ScrapHoarder127.titleFemale>
   <!-- EN: hoarder -->
-  <VFEM_ScrapHoarder127.titleShort>hoarder</VFEM_ScrapHoarder127.titleShort>
+  <VFEM_ScrapHoarder127.titleShort>барахольщик</VFEM_ScrapHoarder127.titleShort>
+  <VFEM_ScrapHoarder127.titleShortFemale>барахольщица</VFEM_ScrapHoarder127.titleShortFemale>
   <!-- EN: [PAWN_nameDef] collected broken tools, discarded wood, and other castoffs, turning them into makeshift toys or tools. Though often teased for [PAWN_possessive] peculiar habits, [PAWN_pronoun] became adept at finding value in things others overlooked. [PAWN_pronoun] gained practical skills but struggled to connect with others. -->
-  <VFEM_ScrapHoarder127.description>[PAWN_nameDef] collected broken tools, discarded wood, and other castoffs, turning them into makeshift toys or tools. Though often teased for [PAWN_possessive] peculiar habits, [PAWN_pronoun] became adept at finding value in things others overlooked. [PAWN_pronoun] gained practical skills but struggled to connect with others.</VFEM_ScrapHoarder127.description>
+  <VFEM_ScrapHoarder127.description>{PAWN_nameDef} {PAWN_gender ? коллекционировал : коллекционировала} сломанные инструменты, выброшенную древесину и прочие отходы, превращая их в самодельные игрушки или инструменты. Хотя над {PAWN_gender ? ним : ней}  часто подшучивали из-за этих странных привычек, {PAWN_nameDef} {PAWN_gender ? умел : умела} находить ценность в вещах, которыми другие пренебрегали. {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела} множество практических навыков, но {PAWN_gender ? испытывал : испытывала} трудности в общении с окружающими людьми.</VFEM_ScrapHoarder127.description>
 
   <!-- EN: alley sneak -->
-  <VFEM_AlleySneak128.title>alley sneak</VFEM_AlleySneak128.title>
+  <VFEM_AlleySneak128.title>скрывающийся в переулках</VFEM_AlleySneak128.title>
   <!-- EN: sneak -->
-  <VFEM_AlleySneak128.titleShort>sneak</VFEM_AlleySneak128.titleShort>
+  <VFEM_AlleySneak128.titleShort>тихоня</VFEM_AlleySneak128.titleShort>
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood slipping through alleys and shadows, avoiding the attention of adults and bullies. The streets taught [PAWN_pronoun] how to move silently and blend into crowds. While stealthy and clever, [PAWN_pronoun] lacked trust in others and avoided forming connections. -->
-  <VFEM_AlleySneak128.description>[PAWN_nameDef] spent most of [PAWN_possessive] childhood slipping through alleys and shadows, avoiding the attention of adults and bullies. The streets taught [PAWN_pronoun] how to move silently and blend into crowds. While stealthy and clever, [PAWN_pronoun] lacked trust in others and avoided forming connections.</VFEM_AlleySneak128.description>
+  <VFEM_AlleySneak128.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} большую часть своего детства, проскальзывая по переулкам и прячась в тенях, избегая внимания взрослых и задир. Улицы научили {PAWN_possessive} двигаться бесшумно и сливаться с толпой. Хотя {PAWN_pronoun} {PAWN_gender ? стал скрытным и сообразительным : стала скрытной и сообразительной}, но теперь предпочитает не доверять другим и старается держаться особняком от них.</VFEM_AlleySneak128.description>
 
   <!-- EN: village scapegoat -->
-  <VFEM_VillageScapegoat129.title>village scapegoat</VFEM_VillageScapegoat129.title>
+  <VFEM_VillageScapegoat129.title>деревенский козёл отпущения</VFEM_VillageScapegoat129.title>
   <!-- EN: scapegoat -->
-  <VFEM_VillageScapegoat129.titleShort>scapegoat</VFEM_VillageScapegoat129.titleShort>
+  <VFEM_VillageScapegoat129.titleShort>козёл отпущения</VFEM_VillageScapegoat129.titleShort>
   <!-- EN: [PAWN_nameDef] was blamed for every broken tool, missing coin, or spoiled crop in the village, often regardless of [PAWN_possessive] involvement. The constant accusations taught [PAWN_pronoun] how to endure hardship and avoid confrontations. [PAWN_pronoun] grew to be resourceful but deeply mistrustful of authority. -->
-  <VFEM_VillageScapegoat129.description>[PAWN_nameDef] was blamed for every broken tool, missing coin, or spoiled crop in the village, often regardless of [PAWN_possessive] involvement. The constant accusations taught [PAWN_pronoun] how to endure hardship and avoid confrontations. [PAWN_pronoun] grew to be resourceful but deeply mistrustful of authority.</VFEM_VillageScapegoat129.description>
+  <VFEM_VillageScapegoat129.description>{PAWN_nameDef} {PAWN_gender ? считался виновным : считалась виновной} в каждом сломанном инструменте, пропавшей монете или испорченном урожае в деревне, зачастую независимо от реального участия. Постоянные обвинения научили {PAWN_nameDef} стойко переносить невзгоды и избегать конфликтов. {PAWN_pronoun} {PAWN_gender ? вырос находчивым : выросла находчивой}, но с глубоким недоверием к любой власти над собой.</VFEM_VillageScapegoat129.description>
 
   <!-- EN: runt of the pack -->
-  <VFEM_RuntOfThePack130.title>runt of the pack</VFEM_RuntOfThePack130.title>
+  <VFEM_RuntOfThePack130.title>паршивая овца</VFEM_RuntOfThePack130.title>
   <!-- EN: runt -->
-  <VFEM_RuntOfThePack130.titleShort>runt</VFEM_RuntOfThePack130.titleShort>
+  <VFEM_RuntOfThePack130.titleShort>паршивец</VFEM_RuntOfThePack130.titleShort>
+  <VFEM_RuntOfThePack130.titleShortFemale>паршивка</VFEM_RuntOfThePack130.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was the smallest and weakest of [PAWN_possessive] peers, often picked on by others. To survive, [PAWN_pronoun] learned to think fast and avoid direct conflicts, relying on cunning to outsmart [PAWN_possessive] tormentors. Though quick and clever, [PAWN_pronoun] grew up mistrustful and fiercely independent. -->
-  <VFEM_RuntOfThePack130.description>[PAWN_nameDef] was the smallest and weakest of [PAWN_possessive] peers, often picked on by others. To survive, [PAWN_pronoun] learned to think fast and avoid direct conflicts, relying on cunning to outsmart [PAWN_possessive] tormentors. Though quick and clever, [PAWN_pronoun] grew up mistrustful and fiercely independent.</VFEM_RuntOfThePack130.description>
+  <VFEM_RuntOfThePack130.description>{PAWN_nameDef} {PAWN_gender ? был : была} самым маленьким и слабым ребёнком среди своих сверстников, из-за чего часто {PAWN_gender ? становился : становилась} объектом насмешек. Чтобы выжить, {PAWN_pronoun} {PAWN_gender ? научился : научилась} быстро соображать и избегать прямых столкновений, полагаясь на хитрость для противостояния своим обидчикам. Несмотря на быстроту ума и сообразительность, {PAWN_nameDef} {PAWN_gender ? вырос недоверчивым и чрезвычайно независимым : выросла недоверчивой и чрезвычайно независимой}.</VFEM_RuntOfThePack130.description>
 
   <!-- EN: field worker -->
-  <VFEM_FieldWorker131.title>field worker</VFEM_FieldWorker131.title>
+  <VFEM_FieldWorker131.title>полевой работник</VFEM_FieldWorker131.title>
+  <VFEM_FieldWorker131.titleFemale>полевая работница</VFEM_FieldWorker131.titleFemale>
   <!-- EN: worker -->
-  <VFEM_FieldWorker131.titleShort>рабочий</VFEM_FieldWorker131.titleShort>
+  <VFEM_FieldWorker131.titleShort>работник</VFEM_FieldWorker131.titleShort>
+  <VFEM_FieldWorker131.titleShortFemale>работница</VFEM_FieldWorker131.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years helping in the fields, learning to plant and harvest crops. The work was repetitive but rewarding, teaching [PAWN_pronoun] the value of patience and effort. [PAWN_pronoun] grew up strong and practical, with a deep appreciation for the land. -->
-  <VFEM_FieldWorker131.description>[PAWN_nameDef] spent [PAWN_possessive] early years helping in the fields, learning to plant and harvest crops. The work was repetitive but rewarding, teaching [PAWN_pronoun] the value of patience and effort. [PAWN_pronoun] grew up strong and practical, with a deep appreciation for the land.</VFEM_FieldWorker131.description>
+  <VFEM_FieldWorker131.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} свои ранние годы, помогая в полях, учась сеять и собирать урожай. Работа была однообразной, но приносила удовлетворение, научив {PAWN_possessive} ценить терпение и упорный труд. {PAWN_pronoun} {PAWN_gender ? вырос сильным и практичным : выросла сильной и практичной}, с глубоким уважением к родной земле.</VFEM_FieldWorker131.description>
 
   <!-- EN: village helper -->
-  <VFEM_VillageHelper132.title>village helper</VFEM_VillageHelper132.title>
+  <VFEM_VillageHelper132.title>деревенский помощник</VFEM_VillageHelper132.title>
+  <VFEM_VillageHelper132.titleFemale>деревенская помощница</VFEM_VillageHelper132.titleFemale>
   <!-- EN: helper -->
-  <VFEM_VillageHelper132.titleShort>helper</VFEM_VillageHelper132.titleShort>
+  <VFEM_VillageHelper132.titleShort>помощник</VFEM_VillageHelper132.titleShort>
+  <VFEM_VillageHelper132.titleShortFemale>помощница</VFEM_VillageHelper132.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood running errands and helping with small tasks around the village. Whether delivering goods, fetching water, or mending fences, [PAWN_pronoun] was always willing to lend a hand. These simple chores instilled [PAWN_pronoun] with a strong work ethic and practical skills. -->
-  <VFEM_VillageHelper132.description>[PAWN_nameDef] spent [PAWN_possessive] childhood running errands and helping with small tasks around the village. Whether delivering goods, fetching water, or mending fences, [PAWN_pronoun] was always willing to lend a hand. These simple chores instilled [PAWN_pronoun] with a strong work ethic and practical skills.</VFEM_VillageHelper132.description>
+  <VFEM_VillageHelper132.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} своё детство, выполняя поручения и помогая с мелкими задачами по всей деревне. Будь то доставка товаров, принос воды или починка заборов, {PAWN_pronoun} всегда {PAWN_gender ? был готов : была готова} прийти на помощь. Эти простые обязанности привили {PAWN_objective} любовь к работе и практические навыки.</VFEM_VillageHelper132.description>
 
   <!-- EN: playful explorer -->
-  <VFEM_PlayfulExplorer133.title>playful explorer</VFEM_PlayfulExplorer133.title>
+  <VFEM_PlayfulExplorer133.title>игривый исследователь</VFEM_PlayfulExplorer133.title>
+  <VFEM_PlayfulExplorer133.titleFemale>игривая исследовательница</VFEM_PlayfulExplorer133.titleFemale>
   <!-- EN: explorer -->
-  <VFEM_PlayfulExplorer133.titleShort>explorer</VFEM_PlayfulExplorer133.titleShort>
+  <VFEM_PlayfulExplorer133.titleShort>исследователь</VFEM_PlayfulExplorer133.titleShort>
+  <VFEM_PlayfulExplorer133.titleShortFemale>исследовательница</VFEM_PlayfulExplorer133.titleShortFemale>
   <!-- EN: [PAWN_nameDef] loved wandering the woods and hills near the village, discovering hidden streams and climbing trees. [PAWN_pronoun] often returned with scratched knees and pockets full of interesting stones or berries. Though more playful than productive, [PAWN_pronoun] grew up with a keen sense of adventure and a connection to nature. -->
-  <VFEM_PlayfulExplorer133.description>[PAWN_nameDef] loved wandering the woods and hills near the village, discovering hidden streams and climbing trees. [PAWN_pronoun] often returned with scratched knees and pockets full of interesting stones or berries. Though more playful than productive, [PAWN_pronoun] grew up with a keen sense of adventure and a connection to nature.</VFEM_PlayfulExplorer133.description>
+  <VFEM_PlayfulExplorer133.description>{PAWN_nameDef} {PAWN_gender ? любил : любила} бродить по лесам и холмам вблизи деревни, открывая скрытые ручьи и взбираясь на деревья. {PAWN_pronoun} часто {PAWN_gender ? возвращался : возвращалась} с исцарапанными коленями и карманами, полными интересных камней и лесных ягод. Хотя {PAWN_nameDef} {PAWN_gender ? был более склонен : была более склонна} к играм, чем к труду, {PAWN_pronoun} {PAWN_gender ? вырос : выросла} с большой любовью к приключениям и глубокой связью с природой.</VFEM_PlayfulExplorer133.description>
 
   <!-- EN: hearth keeper -->
-  <VFEM_HearthKeeper134.title>hearth keeper</VFEM_HearthKeeper134.title>
+  <VFEM_HearthKeeper134.title>хранитель очага</VFEM_HearthKeeper134.title>
+  <VFEM_HearthKeeper134.titleFemale>хранительница очага</VFEM_HearthKeeper134.titleFemale>
   <!-- EN: keeper -->
-  <VFEM_HearthKeeper134.titleShort>keeper</VFEM_HearthKeeper134.titleShort>
+  <VFEM_HearthKeeper134.titleShort>хранитель</VFEM_HearthKeeper134.titleShort>
+  <VFEM_HearthKeeper134.titleShortFemale>хранительница</VFEM_HearthKeeper134.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up tending the hearth and helping prepare meals for the family. [PAWN_pronoun] learned the basics of cooking and the importance of keeping the fire burning through the night. Though the work was simple, it taught [PAWN_pronoun] the value of care and consistency. -->
-  <VFEM_HearthKeeper134.description>[PAWN_nameDef] grew up tending the hearth and helping prepare meals for the family. [PAWN_pronoun] learned the basics of cooking and the importance of keeping the fire burning through the night. Though the work was simple, it taught [PAWN_pronoun] the value of care and consistency.</VFEM_HearthKeeper134.description>
+  <VFEM_HearthKeeper134.description>{PAWN_nameDef} {PAWN_gender ? рос : росла}, поддерживая домашний очаг и помогая готовить пищу для своей семьи. {PAWN_pronoun} {PAWN_gender ? освоил : освоила} основы кулинарии и {PAWN_gender ? понял : поняла} важность поддержания огня на протяжении всей ночи. Несмотря на простоту этих обязанностей, они научили {PAWN_possessive} ценить заботу и постоянство в повседневной жизни.</VFEM_HearthKeeper134.description>
 
   <!-- EN: village gatherer -->
-  <VFEM_VillageGatherer135.title>village gatherer</VFEM_VillageGatherer135.title>
+  <VFEM_VillageGatherer135.title>деревенский собиратель</VFEM_VillageGatherer135.title>
+  <VFEM_VillageGatherer135.titleFemale>деревенская собирательница</VFEM_VillageGatherer135.titleFemale>
   <!-- EN: gatherer -->
-  <VFEM_VillageGatherer135.titleShort>gatherer</VFEM_VillageGatherer135.titleShort>
+  <VFEM_VillageGatherer135.titleShort>собиратель</VFEM_VillageGatherer135.titleShort>
+  <VFEM_VillageGatherer135.titleShortFemale>собирательница</VFEM_VillageGatherer135.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent much of [PAWN_possessive] childhood collecting firewood, herbs, and other necessities for the village. The long days outdoors gave [PAWN_pronoun] an eye for useful plants and a steady hand for simple tools. [PAWN_pronoun] grew up practical and capable, well-suited to life in the countryside. -->
-  <VFEM_VillageGatherer135.description>[PAWN_nameDef] spent much of [PAWN_possessive] childhood collecting firewood, herbs, and other necessities for the village. The long days outdoors gave [PAWN_pronoun] an eye for useful plants and a steady hand for simple tools. [PAWN_pronoun] grew up practical and capable, well-suited to life in the countryside.</VFEM_VillageGatherer135.description>
+  <VFEM_VillageGatherer135.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} большую часть своего детства, собирая дрова, травы и другие необходимые ресурсы для деревни. Долгие дни на открытом воздухе развили в н{PAWN_objective} острый глаз на полезные растения и уверенную руку для работы с простыми инструментами. {PAWN_pronoun} {PAWN_gender ? вырос практичным и приспособленным : выросла практичной и приспособленной} к жизни в сельской местности.</VFEM_VillageGatherer135.description>
 
   <!-- EN: fjord fisher -->
-  <VFEM_FjordFisher136.title>fjord fisher</VFEM_FjordFisher136.title>
+  <VFEM_FjordFisher136.title>рыбак на фьордах</VFEM_FjordFisher136.title>
   <!-- EN: fisher -->
-  <VFEM_FjordFisher136.titleShort>fisher</VFEM_FjordFisher136.titleShort>
-  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood fishing along the rocky fjords, learning to handle nets and row longboats in icy waters. The life taught [PAWN_pronoun] resilience and respect for the sea’s power. Though the work was cold and grueling, [PAWN_pronoun] grew up strong and capable in harsh conditions. -->
-  <VFEM_FjordFisher136.description>[PAWN_nameDef] spent [PAWN_possessive] childhood fishing along the rocky fjords, learning to handle nets and row longboats in icy waters. The life taught [PAWN_pronoun] resilience and respect for the sea’s power. Though the work was cold and grueling, [PAWN_pronoun] grew up strong and capable in harsh conditions.</VFEM_FjordFisher136.description>
+  <VFEM_FjordFisher136.titleShort>рыбак</VFEM_FjordFisher136.titleShort>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood fishing along the rocky fjords, learning to handle nets and row longboats in icy waters. The life taught [PAWN_pronoun] resilience and respect for the sea's power. Though the work was cold and grueling, [PAWN_pronoun] grew up strong and capable in harsh conditions. -->
+  <VFEM_FjordFisher136.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} своё детство, ловя рыбу вдоль скалистых фьордов, осваивая искусство обращения с сетями и управления длинными лодками в ледяных водах. Эта жизнь научила {PAWN_possessive} стойкости и глубокому уважению к могуществу моря. Несмотря на холод и изнурительный труд, {PAWN_pronoun} {PAWN_gender ? вырос крепким и приспособленным : выросла крепкой и приспособленной} к выживанию в самых суровых условиях.</VFEM_FjordFisher136.description>
 
   <!-- EN: shield bearer -->
-  <VFEM_ShieldBearer137.title>shield bearer</VFEM_ShieldBearer137.title>
+  <VFEM_ShieldBearer137.title>щитоносец</VFEM_ShieldBearer137.title>
   <!-- EN: shield bearer -->
-  <VFEM_ShieldBearer137.titleShort>shield bearer</VFEM_ShieldBearer137.titleShort>
+  <VFEM_ShieldBearer137.titleShort>щитоносец</VFEM_ShieldBearer137.titleShort>
   <!-- EN: [PAWN_nameDef] was trained from a young age to carry shields and assist warriors during raids and battles. [PAWN_pronoun] learned to endure heavy loads and follow commands, watching closely as the older fighters honed their skills. The experience prepared [PAWN_pronoun] for a life of conflict and loyalty to [PAWN_possessive] clan. -->
-  <VFEM_ShieldBearer137.description>[PAWN_nameDef] was trained from a young age to carry shields and assist warriors during raids and battles. [PAWN_pronoun] learned to endure heavy loads and follow commands, watching closely as the older fighters honed their skills. The experience prepared [PAWN_pronoun] for a life of conflict and loyalty to [PAWN_possessive] clan.</VFEM_ShieldBearer137.description>
+  <VFEM_ShieldBearer137.description>{PAWN_nameDef} с юных лет {PAWN_gender ? обучался : обучалась} носить тяжёлые щиты и помогать воинам во время набегов и сражений. {PAWN_pronoun} {PAWN_gender ? научился : научилась} выдерживать тяжёлые нагрузки и беспрекословно выполнять приказы, внимательно наблюдая за тем, как старшие бойцы оттачивают своё боевое мастерство. Этот опыт подготовил {PAWN_possessive} к жизни, полной опасностей и привил безоговорочную верность своему клану.</VFEM_ShieldBearer137.description>
 
   <!-- EN: farmstead hand -->
-  <VFEM_FarmsteadHand138.title>farmstead hand</VFEM_FarmsteadHand138.title>
+  <VFEM_FarmsteadHand138.title>юный фермер</VFEM_FarmsteadHand138.title>
+  <VFEM_FarmsteadHand138.titleFemale>юная фермерша</VFEM_FarmsteadHand138.titleFemale>
   <!-- EN: farmhand -->
-  <VFEM_FarmsteadHand138.titleShort>farmhand</VFEM_FarmsteadHand138.titleShort>
-  <!-- EN: [PAWN_nameDef] grew up on a Viking farmstead, helping tend to livestock and till the soil during the short growing seasons. [PAWN_pronoun] learned the cycles of planting and harvest while preparing for the colder months. Life on the farm taught [PAWN_pronoun] hard work and how to endure nature’s challenges. -->
-  <VFEM_FarmsteadHand138.description>[PAWN_nameDef] grew up on a Viking farmstead, helping tend to livestock and till the soil during the short growing seasons. [PAWN_pronoun] learned the cycles of planting and harvest while preparing for the colder months. Life on the farm taught [PAWN_pronoun] hard work and how to endure nature’s challenges.</VFEM_FarmsteadHand138.description>
+  <VFEM_FarmsteadHand138.titleShort>батрак</VFEM_FarmsteadHand138.titleShort>
+  <VFEM_FarmsteadHand138.titleShortFemale>батрачка</VFEM_FarmsteadHand138.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] grew up on a Viking farmstead, helping tend to livestock and till the soil during the short growing seasons. [PAWN_pronoun] learned the cycles of planting and harvest while preparing for the colder months. Life on the farm taught [PAWN_pronoun] hard work and how to endure nature's challenges. -->
+  <VFEM_FarmsteadHand138.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} на викингской ферме, помогая ухаживать за скотом и возделывать землю в течение коротких периодов роста. {PAWN_pronoun} {PAWN_gender ? познал : познала} все тонкости посадки и сбора урожая, одновременно готовясь к суровым зимним месяцам. Фермерская жизнь научила {PAWN_possessive} не бояться тяжёлого труда и стойко преодолевать любые капризы природы.</VFEM_FarmsteadHand138.description>
 
   <!-- EN: longboat paddler -->
-  <VFEM_LongboatPaddler139.title>longboat paddler</VFEM_LongboatPaddler139.title>
+  <VFEM_LongboatPaddler139.title>юный гребец</VFEM_LongboatPaddler139.title>
   <!-- EN: paddler -->
-  <VFEM_LongboatPaddler139.titleShort>paddler</VFEM_LongboatPaddler139.titleShort>
+  <VFEM_LongboatPaddler139.titleShort>гребец</VFEM_LongboatPaddler139.titleShort>
   <!-- EN: [PAWN_nameDef] was raised on tales of far-off lands and spent [PAWN_possessive] youth rowing Viking longboats. [PAWN_pronoun] gained strength and endurance from the endless paddling while learning the rhythms of the sea. Though not yet a raider, [PAWN_pronoun] was well-prepared for a life of exploration and adventure. -->
-  <VFEM_LongboatPaddler139.description>[PAWN_nameDef] was raised on tales of far-off lands and spent [PAWN_possessive] youth rowing Viking longboats. [PAWN_pronoun] gained strength and endurance from the endless paddling while learning the rhythms of the sea. Though not yet a raider, [PAWN_pronoun] was well-prepared for a life of exploration and adventure.</VFEM_LongboatPaddler139.description>
+  <VFEM_LongboatPaddler139.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} на сказаниях о дальних землях и {PAWN_gender ? провёл : провела} свою юность за вёслами викингских кораблей. Бесконечная гребля наделила {PAWN_possessive} недюжинной силой и выносливостью, а море научило понимать свои ритмы. Хотя {PAWN_pronoun} ещё не {PAWN_gender ? участвовал : участвовала} в набегах, но уже {PAWN_gender ? был готов : была готова} к жизни, полной открытий и приключений.</VFEM_LongboatPaddler139.description>
 
   <!-- EN: clan storyteller -->
-  <VFEM_ClanStoryteller140.title>clan storyteller</VFEM_ClanStoryteller140.title>
+  <VFEM_ClanStoryteller140.title>юный сказитель клана</VFEM_ClanStoryteller140.title>
+  <VFEM_ClanStoryteller140.titleFemale>юная сказительница клана</VFEM_ClanStoryteller140.titleFemale>
   <!-- EN: storyteller -->
-  <VFEM_ClanStoryteller140.titleShort>storyteller</VFEM_ClanStoryteller140.titleShort>
-  <!-- EN: [PAWN_nameDef] grew up learning the sagas and legends of [PAWN_possessive] ancestors, memorizing the stories that bound the clan together. [PAWN_pronoun] developed a gift for storytelling and inspiring others with words. Though not a warrior, [PAWN_pronoun] played an important role in preserving [PAWN_possessive] people’s history and culture. -->
-  <VFEM_ClanStoryteller140.description>[PAWN_nameDef] grew up learning the sagas and legends of [PAWN_possessive] ancestors, memorizing the stories that bound the clan together. [PAWN_pronoun] developed a gift for storytelling and inspiring others with words. Though not a warrior, [PAWN_pronoun] played an important role in preserving [PAWN_possessive] people’s history and culture.</VFEM_ClanStoryteller140.description>
+  <VFEM_ClanStoryteller140.titleShort>сказитель</VFEM_ClanStoryteller140.titleShort>
+  <VFEM_ClanStoryteller140.titleShortFemale>сказительница</VFEM_ClanStoryteller140.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] grew up learning the sagas and legends of [PAWN_possessive] ancestors, memorizing the stories that bound the clan together. [PAWN_pronoun] developed a gift for storytelling and inspiring others with words. Though not a warrior, [PAWN_pronoun] played an important role in preserving [PAWN_possessive] people's history and culture. -->
+  <VFEM_ClanStoryteller140.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} на сагах и легендах своих предков, тщательно запоминая истории, объединявшие клан. {PAWN_pronoun} {PAWN_gender ? развил : развила} в себе талант рассказчика и способность вдохновлять других силой слова. Хотя {PAWN_pronoun} и не {PAWN_gender ? стал : стала} воином, но {PAWN_gender ? сыграл : сыграла} важную роль в сохранении истории и культуры своего народа.</VFEM_ClanStoryteller140.description>
 </LanguageData>
