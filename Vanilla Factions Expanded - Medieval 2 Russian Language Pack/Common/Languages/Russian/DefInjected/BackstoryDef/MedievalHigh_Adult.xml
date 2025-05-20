@@ -62,7 +62,7 @@
   <!-- EN: guildmaster -->
   <VFEM_Guildmaster59.title>глава гильдии</VFEM_Guildmaster59.title>
   <!-- EN: guildmaster -->
-  <VFEM_Guildmaster59.titleShort>глава гильдии</VFEM_Guildmaster59.titleShort>
+  <VFEM_Guildmaster59.titleShort>глава</VFEM_Guildmaster59.titleShort>
   <!-- EN: [PAWN_nameDef] led a prosperous guild, coordinating the efforts of skilled artisans and merchants. [PAWN_pronoun] became a shrewd leader and negotiator, balancing trade and politics to secure the guild's interests. While brilliant in leadership, [PAWN_pronoun] rarely engaged in the craft [PAWN_pronoun] oversaw. -->
   <VFEM_Guildmaster59.description>{PAWN_nameDef} {PAWN_gender ? возглавлял : возглавляла} процветающую гильдию, {PAWN_gender ? координируя : координируя} усилия умелых ремесленников и торговцев. {PAWN_pronoun} {PAWN_gender ? стал : стала} проницательным лидером и переговорщиком, балансируя между торговлей и политикой для обеспечения интересов гильдии. Хотя {PAWN_pronoun} {PAWN_gender ? был гениален : была гениальна} в руководстве, но редко {PAWN_gender ? делал что-либо вручную : делал} что-либо вручную.</VFEM_Guildmaster59.description>
 
@@ -145,7 +145,7 @@
   <!-- EN: royal knight -->
   <VFEM_RoyalKnight70.title>королевский рыцарь</VFEM_RoyalKnight70.title>
   <!-- EN: royal knight -->
-  <VFEM_RoyalKnight70.titleShort>королевский рыцарь</VFEM_RoyalKnight70.titleShort>
+  <VFEM_RoyalKnight70.titleShort>защитник</VFEM_RoyalKnight70.titleShort>
   <!-- EN: [PAWN_nameDef] was trained from a young age to serve the king directly as a member of [PAWN_possessive] personal guard. [PAWN_pronoun] became a master of both mounted and melee combat, earning the respect of peers and commanders alike. While [PAWN_pronoun] excelled on the battlefield, [PAWN_pronoun] avoided menial tasks, considering them unworthy of [PAWN_possessive] status. -->
   <VFEM_RoyalKnight70.description>{PAWN_nameDef} с юных лет {PAWN_gender ? обучался : обучалась} быть частью личной охраны короля. {PAWN_pronoun} {PAWN_gender ? стал : стала} мастером как конного, так и пешего боя, заслужив уважение как сверстников, так и командиров. Хотя {PAWN_pronoun} {PAWN_gender ? преуспевал : преуспевала} на поле боя, но всегда {PAWN_gender ? избегал : избегала} чёрной работы, считая её ниже своего статуса.</VFEM_RoyalKnight70.description>
 
@@ -259,15 +259,15 @@
   <VFEM_UsurpersKin84.title>родственник узурпатора</VFEM_UsurpersKin84.title>
   <VFEM_UsurpersKin84.titleFemale>родственница узурпатора</VFEM_UsurpersKin84.titleFemale>
   <!-- EN: disgraced kin -->
-  <VFEM_UsurpersKin84.titleShort>опозоренный родственник</VFEM_UsurpersKin84.titleShort>
-  <VFEM_UsurpersKin84.titleShortFemale>опозоренная родственница</VFEM_UsurpersKin84.titleShortFemale>
+  <VFEM_UsurpersKin84.titleShort>опозоренный</VFEM_UsurpersKin84.titleShort>
+  <VFEM_UsurpersKin84.titleShortFemale>опозоренная</VFEM_UsurpersKin84.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was born into a family that seized power through treachery, earning the scorn of noble society. [PAWN_pronoun] grew up isolated and mistrusted, forced to rely on guile and intelligence to navigate the court. Though skilled in intrigue, [PAWN_pronoun] lacked the respect and alliances of legitimate noble houses. -->
   <VFEM_UsurpersKin84.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась} в семье, захватившей власть через кровавое предательство, что обрекло {PAWN_possessive} на презрение от всего дворянского общества. {PAWN_pronoun} {PAWN_gender ? вырос : выросла} в атмосфере изоляции и всеобщего недоверия, выживая при дворе лишь благодаря природной хитрости и острому уму. И хотя в искусстве интриг {PAWN_pronoun} {PAWN_gender ? достиг : достигла} немалого мастерства, {PAWN_objective} так и не удалось заслужить уважение законных дворянских домов или заключить с ними выгодные союзы.</VFEM_UsurpersKin84.description>
 
   <!-- EN: fallen knight -->
-  <VFEM_FallenKnight85.title>павший рыцарь</VFEM_FallenKnight85.title>
+  <VFEM_FallenKnight85.title>падший рыцарь</VFEM_FallenKnight85.title>
   <!-- EN: fallen knight -->
-  <VFEM_FallenKnight85.titleShort>павший рыцарь</VFEM_FallenKnight85.titleShort>
+  <VFEM_FallenKnight85.titleShort>падший</VFEM_FallenKnight85.titleShort>
   <!-- EN: [PAWN_nameDef] once swore an oath of loyalty as a knight but broke [PAWN_possessive] vows in pursuit of personal gain. Disgraced and stripped of [PAWN_possessive] title, [PAWN_pronoun] now wanders as a sell-sword, haunted by [PAWN_possessive] dishonor. Though [PAWN_pronoun] retains [PAWN_possessive] combat skills, [PAWN_pronoun] struggles to regain the respect [PAWN_pronoun] once commanded. -->
   <VFEM_FallenKnight85.description>{PAWN_nameDef} когда-то {PAWN_gender ? дал : дала} рыцарскую клятву верности, но {PAWN_gender ? нарушил : нарушила} свои обеты ради личной выгоды. {PAWN_gender ? Лишённый : Лишённая} чести и титула, {PAWN_pronoun} теперь {PAWN_gender ? скитается : скитается} как наёмник, преследуемый тенью своего бесчестия. Хотя {PAWN_pronoun} {PAWN_gender ? сохранил : сохранила} боевые навыки, {PAWN_possessive} не отпускает стремление вернуть то уважение, которым {PAWN_pronoun} когда-то {PAWN_gender ? пользовался : пользовалась}.</VFEM_FallenKnight85.description>
 
@@ -316,8 +316,8 @@
   <VFEM_BaronOfTheWoodlands91.title>барон лесов</VFEM_BaronOfTheWoodlands91.title>
   <VFEM_BaronOfTheWoodlands91.titleFemale>баронесса лесов</VFEM_BaronOfTheWoodlands91.titleFemale>
   <!-- EN: woodland baron -->
-  <VFEM_BaronOfTheWoodlands91.titleShort>лесной барон</VFEM_BaronOfTheWoodlands91.titleShort>
-  <VFEM_BaronOfTheWoodlands91.titleShortFemale>лесная баронесса</VFEM_BaronOfTheWoodlands91.titleShortFemale>
+  <VFEM_BaronOfTheWoodlands91.titleShort>барон</VFEM_BaronOfTheWoodlands91.titleShort>
+  <VFEM_BaronOfTheWoodlands91.titleShortFemale>баронесса</VFEM_BaronOfTheWoodlands91.titleShortFemale>
   <!-- EN: [PAWN_nameDef] presided over a vast forested estate, managing timber, game, and the people who lived beneath the canopy. [PAWN_pronoun] was skilled at balancing resource exploitation with conservation, ensuring the lordship’s wealth for generations. While [PAWN_pronoun] understood the land and its uses, [PAWN_pronoun] rarely participated in court politics. -->
   <VFEM_BaronOfTheWoodlands91.description>{PAWN_nameDef} {PAWN_gender ? властвовал : властвовала} над обширными лесными угодьями, {PAWN_gender ? следя : следя} за заготовкой древесины, охотой и жизнью людей, обитающих под пологом леса. {PAWN_pronoun} умело {PAWN_gender ? сочетал : сочетала} эксплуатацию ресурсов с их сохранением, обеспечив процветание своих владений на многие поколения. Хотя {PAWN_pronoun} прекрасно {PAWN_gender ? разбирался : разбиралась} в землях и их использовании, {PAWN_pronoun} редко {PAWN_gender ? участвовал : участвовала} в придворной политике.</VFEM_BaronOfTheWoodlands91.description>
 
