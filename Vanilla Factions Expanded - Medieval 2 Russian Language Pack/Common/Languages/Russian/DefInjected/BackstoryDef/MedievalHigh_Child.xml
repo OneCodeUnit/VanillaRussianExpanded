@@ -1,212 +1,246 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: noble ward -->
-  <VFEM_NobleWard141.title>noble ward</VFEM_NobleWard141.title>
+  <VFEM_NobleWard141.title>благородный воспитанник</VFEM_NobleWard141.title>
+  <VFEM_NobleWard141.titleFemale>благородная воспитанница</VFEM_NobleWard141.titleFemale>
   <!-- EN: ward -->
-  <VFEM_NobleWard141.titleShort>ward</VFEM_NobleWard141.titleShort>
-  <!-- EN: [PAWN_nameDef] was sent to another noble’s court to be raised and educated in the ways of governance and etiquette. [PAWN_pronoun] learned to navigate the complexities of noble relationships and gained a basic understanding of leadership. Though surrounded by luxury, [PAWN_pronoun] spent much of [PAWN_possessive] time under watchful eyes. -->
-  <VFEM_NobleWard141.description>[PAWN_nameDef] was sent to another noble’s court to be raised and educated in the ways of governance and etiquette. [PAWN_pronoun] learned to navigate the complexities of noble relationships and gained a basic understanding of leadership. Though surrounded by luxury, [PAWN_pronoun] spent much of [PAWN_possessive] time under watchful eyes.</VFEM_NobleWard141.description>
+  <VFEM_NobleWard141.titleShort>воспитанник</VFEM_NobleWard141.titleShort>
+  <VFEM_NobleWard141.titleShortFemale>воспитанница</VFEM_NobleWard141.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was sent to another noble's court to be raised and educated in the ways of governance and etiquette. [PAWN_pronoun] learned to navigate the complexities of noble relationships and gained a basic understanding of leadership. Though surrounded by luxury, [PAWN_pronoun] spent much of [PAWN_possessive] time under watchful eyes. -->
+  <VFEM_NobleWard141.description>{PAWN_nameDef} {PAWN_gender ? был отправлен : была отправлена} ко двору другого дворянина для воспитания,обучения искусству управления и этикету. {PAWN_pronoun} {PAWN_gender ? научился : научилась} разбираться в тонкостях взаимоотношений благородных господ и {PAWN_gender ? приобрёл : приобрела} базовое понимание того, как нужно править поданными. Хотя {PAWN_pronoun} и {PAWN_gender ? жил : жила} в роскоши, большую часть времени {PAWN_gender ? находился : находилась} под неусыпным наблюдением.</VFEM_NobleWard141.description>
 
   <!-- EN: page -->
-  <VFEM_Page142.title>page</VFEM_Page142.title>
+  <VFEM_Page142.title>паж</VFEM_Page142.title>
   <!-- EN: page -->
-  <VFEM_Page142.titleShort>page</VFEM_Page142.titleShort>
+  <VFEM_Page142.titleShort>паж</VFEM_Page142.titleShort>
   <!-- EN: [PAWN_nameDef] began [PAWN_possessive] training in a noble household, learning the fundamentals of serving and knightly duties. [PAWN_pronoun] spent hours cleaning armor, carrying messages, and studying basic combat techniques. The experience gave [PAWN_pronoun] an early introduction to the discipline and loyalty expected of nobility. -->
-  <VFEM_Page142.description>[PAWN_nameDef] began [PAWN_possessive] training in a noble household, learning the fundamentals of serving and knightly duties. [PAWN_pronoun] spent hours cleaning armor, carrying messages, and studying basic combat techniques. The experience gave [PAWN_pronoun] an early introduction to the discipline and loyalty expected of nobility.</VFEM_Page142.description>
+  <VFEM_Page142.description>{PAWN_nameDef} {PAWN_gender ? начал : начала} обучение в благородном доме, постигая основы служения и рыцарских обязанностей. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} долгие часы за чисткой доспехов, доставкой посланий и изучением базовых боевых приёмов. Этот опыт рано познакомил {PAWN_possessive} с дисциплиной и преданностью, которых ожидают от благородного сословия.</VFEM_Page142.description>
 
   <!-- EN: young scholar -->
-  <VFEM_YoungScholar143.title>young scholar</VFEM_YoungScholar143.title>
+  <VFEM_YoungScholar143.title>юный учёный</VFEM_YoungScholar143.title>
+  <VFEM_YoungScholar143.titleFemale>юная учёная</VFEM_YoungScholar143.titleFemale>
   <!-- EN: scholar -->
-  <VFEM_YoungScholar143.titleShort>scholar</VFEM_YoungScholar143.titleShort>
+  <VFEM_YoungScholar143.titleShort>учёный</VFEM_YoungScholar143.titleShort>
+  <VFEM_YoungScholar143.titleShortFemale>учёная</VFEM_YoungScholar143.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was tutored in history, philosophy, and mathematics from an early age, as was expected of highborn children. [PAWN_pronoun] showed a natural curiosity and an aptitude for learning, earning praise from [PAWN_possessive] tutors. Though well-read, [PAWN_pronoun] had little experience with manual or practical work. -->
-  <VFEM_YoungScholar143.description>[PAWN_nameDef] was tutored in history, philosophy, and mathematics from an early age, as was expected of highborn children. [PAWN_pronoun] showed a natural curiosity and an aptitude for learning, earning praise from [PAWN_possessive] tutors. Though well-read, [PAWN_pronoun] had little experience with manual or practical work.</VFEM_YoungScholar143.description>
+  <VFEM_YoungScholar143.description>{PAWN_nameDef} с раннего возраста {PAWN_gender ? обучался : обучалась} истории, философии и математике, как и подобает детям высшего сословия. {PAWN_pronoun} {PAWN_gender ? проявлял : проявляла} природную любознательность и способность к наукам, заслужив похвалы от своих наставников. Несмотря на обширные теоретические познания, {PAWN_nameDef} {PAWN_gender ? имел : имела} крайне мало опыта в практической работе или ремёслах.</VFEM_YoungScholar143.description>
 
   <!-- EN: castle playmate -->
-  <VFEM_CastlePlaymate144.title>castle playmate</VFEM_CastlePlaymate144.title>
+  <VFEM_CastlePlaymate144.title>замковый товарищ по играм</VFEM_CastlePlaymate144.title>
+  <VFEM_CastlePlaymate144.titleFemale>замковая подруга по играм</VFEM_CastlePlaymate144.titleFemale>
   <!-- EN: playmate -->
-  <VFEM_CastlePlaymate144.titleShort>playmate</VFEM_CastlePlaymate144.titleShort>
+  <VFEM_CastlePlaymate144.titleShort>товарищ</VFEM_CastlePlaymate144.titleShort>
+  <VFEM_CastlePlaymate144.titleShortFemale>подруга</VFEM_CastlePlaymate144.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood running through the halls and courtyards of a castle, playing games with other noble children. The carefree years gave [PAWN_pronoun] a strong sense of camaraderie and a basic understanding of courtly manners. However, the sheltered life left [PAWN_pronoun] naive about the struggles of common folk. -->
-  <VFEM_CastlePlaymate144.description>[PAWN_nameDef] spent [PAWN_possessive] childhood running through the halls and courtyards of a castle, playing games with other noble children. The carefree years gave [PAWN_pronoun] a strong sense of camaraderie and a basic understanding of courtly manners. However, the sheltered life left [PAWN_pronoun] naive about the struggles of common folk.</VFEM_CastlePlaymate144.description>
+  <VFEM_CastlePlaymate144.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} детство, резвясь в величественных залах и просторных дворах родового замка, играя с другими детьми знатных семей. Эти беззаботные годы подарили {PAWN_objective} ценное чувство товарищества и привили базовое понимание придворного этикета. Однако жизнь под защитой крепостных стен оставила {PAWN_possessive} наивным и несведущим в тяготах и невзгодах простого народа.</VFEM_CastlePlaymate144.description>
 
   <!-- EN: aspiring knight -->
-  <VFEM_AspiringKnight145.title>aspiring knight</VFEM_AspiringKnight145.title>
+  <VFEM_AspiringKnight145.title>начинающий рыцарь</VFEM_AspiringKnight145.title>
   <!-- EN: knight -->
-  <VFEM_AspiringKnight145.titleShort>knight</VFEM_AspiringKnight145.titleShort>
+  <VFEM_AspiringKnight145.titleShort>рыцарь</VFEM_AspiringKnight145.titleShort>
   <!-- EN: [PAWN_nameDef] trained from an early age in the art of combat, preparing for the day [PAWN_pronoun] could earn [PAWN_possessive] place among the knights of [PAWN_possessive] house. [PAWN_pronoun] practiced with wooden swords and sparred with instructors, learning discipline and honor. While young, [PAWN_pronoun] already showed promise as a warrior. -->
-  <VFEM_AspiringKnight145.description>[PAWN_nameDef] trained from an early age in the art of combat, preparing for the day [PAWN_pronoun] could earn [PAWN_possessive] place among the knights of [PAWN_possessive] house. [PAWN_pronoun] practiced with wooden swords and sparred with instructors, learning discipline and honor. While young, [PAWN_pronoun] already showed promise as a warrior.</VFEM_AspiringKnight145.description>
+  <VFEM_AspiringKnight145.description>{PAWN_nameDef} с раннего возраста {PAWN_gender ? посвятил себя : посвятила себя} искусству боя, готовясь к тому дню, когда {PAWN_pronoun} сможет занять достойное место среди рыцарей своего дома. {PAWN_pronoun} {PAWN_gender ? оттачивал : оттачивала} мастерство с деревянным мечом и {PAWN_gender ? сражался : сражалась} с наставниками, постигая науку дисциплины и чести. Уже в юном возрасте {PAWN_nameDef} {PAWN_gender ? проявлял : проявляла} задатки выдающегося воина.</VFEM_AspiringKnight145.description>
 
   <!-- EN: heir to the estate -->
-  <VFEM_HeirToTheEstate146.title>heir to the estate</VFEM_HeirToTheEstate146.title>
+  <VFEM_HeirToTheEstate146.title>наследник поместья</VFEM_HeirToTheEstate146.title>
+  <VFEM_HeirToTheEstate146.titleFemale>наследница поместья</VFEM_HeirToTheEstate146.titleFemale>
   <!-- EN: heir -->
-  <VFEM_HeirToTheEstate146.titleShort>heir</VFEM_HeirToTheEstate146.titleShort>
+  <VFEM_HeirToTheEstate146.titleShort>наследник</VFEM_HeirToTheEstate146.titleShort>
+  <VFEM_HeirToTheEstate146.titleShortFemale>наследница</VFEM_HeirToTheEstate146.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was raised to inherit the family estate, receiving lessons in administration and diplomacy from a young age. [PAWN_pronoun] was taught to manage resources, oversee servants, and maintain order among the household. The structured upbringing prepared [PAWN_pronoun] for leadership but left little time for play. -->
-  <VFEM_HeirToTheEstate146.description>[PAWN_nameDef] was raised to inherit the family estate, receiving lessons in administration and diplomacy from a young age. [PAWN_pronoun] was taught to manage resources, oversee servants, and maintain order among the household. The structured upbringing prepared [PAWN_pronoun] for leadership but left little time for play.</VFEM_HeirToTheEstate146.description>
+  <VFEM_HeirToTheEstate146.description>{PAWN_nameDef} с юных лет {PAWN_gender ? готовился : готовилась} унаследовать фамильное поместье, получая уроки управления и дипломатии. {PAWN_pronoun} {PAWN_gender ? учился : училась} распоряжаться ресурсами, руководить слугами и поддерживать порядок в родовом доме. Строгое воспитание подготовило {PAWN_possessive} к будущему руководству, но почти не оставило времени для детских забав и развлечений.</VFEM_HeirToTheEstate146.description>
 
   <!-- EN: scribe in training -->
-  <VFEM_ScribeInTraining147.title>scribe in training</VFEM_ScribeInTraining147.title>
+  <VFEM_ScribeInTraining147.title>ученик писаря</VFEM_ScribeInTraining147.title>
+  <VFEM_ScribeInTraining147.titleFemale>ученица писаря</VFEM_ScribeInTraining147.titleFemale>
   <!-- EN: scribe -->
-  <VFEM_ScribeInTraining147.titleShort>scribe</VFEM_ScribeInTraining147.titleShort>
+  <VFEM_ScribeInTraining147.titleShort>писарь</VFEM_ScribeInTraining147.titleShort>
   <!-- EN: [PAWN_nameDef] spent long hours learning to read and write under the guidance of a family-appointed tutor. [PAWN_pronoun] practiced copying texts and recording transactions, developing a keen eye for detail. While skilled in intellectual pursuits, [PAWN_pronoun] had little exposure to physical labor or combat training. -->
-  <VFEM_ScribeInTraining147.description>[PAWN_nameDef] spent long hours learning to read and write under the guidance of a family-appointed tutor. [PAWN_pronoun] practiced copying texts and recording transactions, developing a keen eye for detail. While skilled in intellectual pursuits, [PAWN_pronoun] had little exposure to physical labor or combat training.</VFEM_ScribeInTraining147.description>
+  <VFEM_ScribeInTraining147.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} долгие часы, постигая искусство чтения и письма под руководством наставника, назначенного семьёй. {PAWN_pronoun} {PAWN_gender ? упражнялся : упражнялась} в копировании манускриптов и ведении учётных книг, развивая наблюдательность и внимание к деталям. Хотя в интеллектуальных занятиях {PAWN_possessive} таланты расцвели, с физическим трудом и боевыми искусствами ничего не сложилось.</VFEM_ScribeInTraining147.description>
 
   <!-- EN: court attendant -->
-  <VFEM_CourtAttendant148.title>court attendant</VFEM_CourtAttendant148.title>
+  <VFEM_CourtAttendant148.title>придворный служащий</VFEM_CourtAttendant148.title>
+  <VFEM_CourtAttendant148.titleFemale>придворная служащая</VFEM_CourtAttendant148.titleFemale>
   <!-- EN: attendant -->
-  <VFEM_CourtAttendant148.titleShort>attendant</VFEM_CourtAttendant148.titleShort>
+  <VFEM_CourtAttendant148.titleShort>служащий</VFEM_CourtAttendant148.titleShort>
+  <VFEM_CourtAttendant148.titleShortFemale>служащая</VFEM_CourtAttendant148.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up serving as a junior attendant in a royal court, learning the nuances of etiquette and the art of flattery. [PAWN_pronoun] observed the dealings of nobles and practiced [PAWN_possessive] own skills in negotiation and charm. Though immersed in the intrigue of the court, [PAWN_pronoun] rarely ventured beyond its walls. -->
-  <VFEM_CourtAttendant148.description>[PAWN_nameDef] grew up serving as a junior attendant in a royal court, learning the nuances of etiquette and the art of flattery. [PAWN_pronoun] observed the dealings of nobles and practiced [PAWN_possessive] own skills in negotiation and charm. Though immersed in the intrigue of the court, [PAWN_pronoun] rarely ventured beyond its walls.</VFEM_CourtAttendant148.description>
+  <VFEM_CourtAttendant148.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} при дворе, служа младшим придворным, постигая тонкости этикета и искусство лести. {PAWN_pronoun} внимательно {PAWN_gender ? наблюдал : наблюдала} за интригами знати и {PAWN_gender ? оттачивал : оттачивала} собственные навыки ведения переговоров и обольщения. Из-за погружения в придворные тайны и заговоры, {PAWN_nameDef} крайне редко {PAWN_gender ? покидал : покидала} стены двора.</VFEM_CourtAttendant148.description>
 
   <!-- EN: falconry student -->
-  <VFEM_FalconryStudent149.title>falconry student</VFEM_FalconryStudent149.title>
+  <VFEM_FalconryStudent149.title>ученик сокольничего</VFEM_FalconryStudent149.title>
+  <VFEM_FalconryStudent149.titleFemale>ученица сокольничего</VFEM_FalconryStudent149.titleFemale>
   <!-- EN: falconer -->
-  <VFEM_FalconryStudent149.titleShort>falconer</VFEM_FalconryStudent149.titleShort>
+  <VFEM_FalconryStudent149.titleShort>сокольничий</VFEM_FalconryStudent149.titleShort>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth learning the noble pastime of falconry, training birds to hunt and obey commands. [PAWN_pronoun] developed patience and a keen understanding of animal behavior. Though the skill impressed others, [PAWN_pronoun] had little time for practical tasks outside the sport. -->
-  <VFEM_FalconryStudent149.description>[PAWN_nameDef] spent [PAWN_possessive] youth learning the noble pastime of falconry, training birds to hunt and obey commands. [PAWN_pronoun] developed patience and a keen understanding of animal behavior. Though the skill impressed others, [PAWN_pronoun] had little time for practical tasks outside the sport.</VFEM_FalconryStudent149.description>
+  <VFEM_FalconryStudent149.description>{PAWN_nameDef} {PAWN_gender ? посвятил : посвятила} свою юность изучению благородного искусства соколиной охоты, обучая хищных птиц выслеживать добычу и беспрекословно подчиняться командам. {PAWN_pronoun} {PAWN_gender ? развил : развила} невероятное терпение и тонкое понимание поведения животных. Хотя эти умения вызывали восхищение окружающих, на другие практические навыки за пределами этого аристократического увлечения у {PAWN_possessive} просто не оставалось времени.</VFEM_FalconryStudent149.description>
 
   <!-- EN: aspiring diplomat -->
-  <VFEM_AspiringDiplomat150.title>aspiring diplomat</VFEM_AspiringDiplomat150.title>
+  <VFEM_AspiringDiplomat150.title>начинающий дипломат</VFEM_AspiringDiplomat150.title>
+  <VFEM_AspiringDiplomat150.titleFemale>начинающий дипломат</VFEM_AspiringDiplomat150.titleFemale>
   <!-- EN: diplomat -->
-  <VFEM_AspiringDiplomat150.titleShort>diplomat</VFEM_AspiringDiplomat150.titleShort>
+  <VFEM_AspiringDiplomat150.titleShort>дипломат</VFEM_AspiringDiplomat150.titleShort>
+  <VFEM_AspiringDiplomat150.titleShortFemale>дипломат</VFEM_AspiringDiplomat150.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was groomed for a future in diplomacy, studying languages, geography, and the customs of foreign courts. [PAWN_pronoun] practiced making speeches and mediating minor disputes among peers. Though still young, [PAWN_pronoun] showed promise as a skilled negotiator and tactician. -->
-  <VFEM_AspiringDiplomat150.description>[PAWN_nameDef] was groomed for a future in diplomacy, studying languages, geography, and the customs of foreign courts. [PAWN_pronoun] practiced making speeches and mediating minor disputes among peers. Though still young, [PAWN_pronoun] showed promise as a skilled negotiator and tactician.</VFEM_AspiringDiplomat150.description>
+  <VFEM_AspiringDiplomat150.description>{PAWN_nameDef} с ранних лет {PAWN_gender ? готовился : готовилась} к работе дипломатом, изучая языки, географию и традиции иноземных дворов. {PAWN_pronoun} усердно {PAWN_gender ? оттачивал : оттачивала} ораторское мастерство и {PAWN_gender ? выступал : выступала} посредником в мелких спорах среди ровесников. Несмотря на юный возраст, {PAWN_nameDef} уже {PAWN_gender ? проявлял : проявляла} задатки искусного переговорщика и талантливого тактика.</VFEM_AspiringDiplomat150.description>
 
   <!-- EN: squire -->
   <VFEM_Squire151.title>оруженосец</VFEM_Squire151.title>
   <!-- EN: squire -->
   <VFEM_Squire151.titleShort>оруженосец</VFEM_Squire151.titleShort>
   <!-- EN: [PAWN_nameDef] was apprenticed to a knight, tasked with maintaining armor, tending horses, and learning the code of chivalry. [PAWN_pronoun] spent countless hours observing battles and practicing with training weapons. The rigorous training instilled discipline and a desire to prove [PAWN_possessive] worth on the battlefield. -->
-  <VFEM_Squire151.description>[PAWN_nameDef] was apprenticed to a knight, tasked with maintaining armor, tending horses, and learning the code of chivalry. [PAWN_pronoun] spent countless hours observing battles and practicing with training weapons. The rigorous training instilled discipline and a desire to prove [PAWN_possessive] worth on the battlefield.</VFEM_Squire151.description>
+  <VFEM_Squire151.description>{PAWN_nameDef} {PAWN_gender ? был отдан : была отдана} в ученики к рыцарю, где {PAWN_gender ? должен был : должна была} ухаживать за доспехами, заботиться о лошадях и изучать кодекс рыцарской чести. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} бесчисленные часы, наблюдая за сражениями и упражняясь с тренировочным оружием. Суровая подготовка привила {PAWN_objective} железную дисциплину и неугасимое желание доказать свою доблесть на поле боя.</VFEM_Squire151.description>
 
   <!-- EN: shield carrier -->
-  <VFEM_ShieldCarrier152.title>shield carrier</VFEM_ShieldCarrier152.title>
+  <VFEM_ShieldCarrier152.title>носитель щита</VFEM_ShieldCarrier152.title>
+  <VFEM_ShieldCarrier152.titleFemale>носительница щита</VFEM_ShieldCarrier152.titleFemale>
   <!-- EN: carrier -->
-  <VFEM_ShieldCarrier152.titleShort>carrier</VFEM_ShieldCarrier152.titleShort>
+  <VFEM_ShieldCarrier152.titleShort>щитоносец</VFEM_ShieldCarrier152.titleShort>
   <!-- EN: [PAWN_nameDef] trained alongside warriors, serving as a shield carrier during skirmishes and drills. [PAWN_pronoun] learned to endure long marches and protect [PAWN_possessive] mentors in the heat of battle. Though young, [PAWN_pronoun] displayed courage and determination beyond [PAWN_possessive] years. -->
-  <VFEM_ShieldCarrier152.description>[PAWN_nameDef] trained alongside warriors, serving as a shield carrier during skirmishes and drills. [PAWN_pronoun] learned to endure long marches and protect [PAWN_possessive] mentors in the heat of battle. Though young, [PAWN_pronoun] displayed courage and determination beyond [PAWN_possessive] years.</VFEM_ShieldCarrier152.description>
+  <VFEM_ShieldCarrier152.description>{PAWN_nameDef} {PAWN_gender ? тренировался : тренировалась} бок о бок с воинами, выполняя обязанности щитоносца во время стычек и учебных боёв. {PAWN_pronoun} {PAWN_gender ? научился : научилась} переносить изнурительные походы и защищать своих наставников в пылу сражений. Несмотря на юный возраст, {PAWN_pronoun} {PAWN_gender ? проявлял : проявляла} недетское мужество и решимость, вызывавшее уважение у бывалых воинов.</VFEM_ShieldCarrier152.description>
 
   <!-- EN: castle defender -->
-  <VFEM_CastleDefender153.title>castle defender</VFEM_CastleDefender153.title>
+  <VFEM_CastleDefender153.title>защитник замка</VFEM_CastleDefender153.title>
+  <VFEM_CastleDefender153.titleFemale>защитница замка</VFEM_CastleDefender153.titleFemale>
   <!-- EN: defender -->
-  <VFEM_CastleDefender153.titleShort>defender</VFEM_CastleDefender153.titleShort>
+  <VFEM_CastleDefender153.titleShort>защитник</VFEM_CastleDefender153.titleShort>
+  <VFEM_CastleDefender153.titleShortFemale>защитница</VFEM_CastleDefender153.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was raised in a fortified castle and spent [PAWN_possessive] days training with guards and learning the basics of siege defense. [PAWN_pronoun] practiced with bows on the battlements and drilled with spears in the courtyard. The life gave [PAWN_pronoun] a strong sense of duty and early combat experience. -->
-  <VFEM_CastleDefender153.description>[PAWN_nameDef] was raised in a fortified castle and spent [PAWN_possessive] days training with guards and learning the basics of siege defense. [PAWN_pronoun] practiced with bows on the battlements and drilled with spears in the courtyard. The life gave [PAWN_pronoun] a strong sense of duty and early combat experience.</VFEM_CastleDefender153.description>
+  <VFEM_CastleDefender153.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в неприступном замке и {PAWN_gender ? проводил : проводила} дни, постигая военное искусство под руководством опытных стражников и изучая тонкости обороны при осаде. {PAWN_pronoun} {PAWN_gender ? оттачивал : оттачивала} мастерство стрельбы из лука на крепостных стенах и {PAWN_gender ? осваивал : осваивала} владение копьём на тренировочных площадках. Такая жизнь воспитала в {PAWN_objective} непоколебимое чувство долга и подарила бесценный ранний боевой опыт.</VFEM_CastleDefender153.description>
 
   <!-- EN: banner bearer -->
-  <VFEM_BannerBearer154.title>banner bearer</VFEM_BannerBearer154.title>
+  <VFEM_BannerBearer154.title>знаменосец</VFEM_BannerBearer154.title>
   <!-- EN: banner bearer -->
-  <VFEM_BannerBearer154.titleShort>banner bearer</VFEM_BannerBearer154.titleShort>
+  <VFEM_BannerBearer154.titleShort>знаменосец</VFEM_BannerBearer154.titleShort>
   <!-- EN: [PAWN_nameDef] carried the family banner into drills and parades, learning to represent [PAWN_possessive] house with pride. [PAWN_pronoun] spent hours practicing marching formations and staying composed under scrutiny. Though not a frontline fighter, [PAWN_pronoun] gained valuable lessons in discipline and leadership. -->
-  <VFEM_BannerBearer154.description>[PAWN_nameDef] carried the family banner into drills and parades, learning to represent [PAWN_possessive] house with pride. [PAWN_pronoun] spent hours practicing marching formations and staying composed under scrutiny. Though not a frontline fighter, [PAWN_pronoun] gained valuable lessons in discipline and leadership.</VFEM_BannerBearer154.description>
+  <VFEM_BannerBearer154.description>{PAWN_nameDef} с гордостью {PAWN_gender ? носил : носила} фамильное знамя на военных учениях и торжественных парадах, постигая искусство достойного представления своего дома. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} бесчисленные часы, оттачивая строевой шаг и сохраняя невозмутимость под пристальными взглядами. Хотя {PAWN_pronoun} и не {PAWN_gender ? сражался : сражалась} на передовой, эта служба преподнесла {PAWN_objective} бесценные уроки дисциплины и лидерства.</VFEM_BannerBearer154.description>
 
   <!-- EN: archer trainee -->
-  <VFEM_ArcherTrainee155.title>archer trainee</VFEM_ArcherTrainee155.title>
+  <VFEM_ArcherTrainee155.title>ученик лучник</VFEM_ArcherTrainee155.title>
+  <VFEM_ArcherTrainee155.titleFemale>ученица лучника</VFEM_ArcherTrainee155.titleFemale>
   <!-- EN: archer -->
-  <VFEM_ArcherTrainee155.titleShort>archer</VFEM_ArcherTrainee155.titleShort>
+  <VFEM_ArcherTrainee155.titleShort>лучник</VFEM_ArcherTrainee155.titleShort>
+  <VFEM_ArcherTrainee155.titleShortFemale>лучница</VFEM_ArcherTrainee155.titleShortFemale>
   <!-- EN: [PAWN_nameDef] began training with a bow from a young age, aiming for skill and precision as required of noble warriors. [PAWN_pronoun] spent hours drawing targets in the courtyard and practicing long-distance shots. The training honed [PAWN_possessive] focus and gave [PAWN_pronoun] an edge in ranged combat. -->
-  <VFEM_ArcherTrainee155.description>[PAWN_nameDef] began training with a bow from a young age, aiming for skill and precision as required of noble warriors. [PAWN_pronoun] spent hours drawing targets in the courtyard and practicing long-distance shots. The training honed [PAWN_possessive] focus and gave [PAWN_pronoun] an edge in ranged combat.</VFEM_ArcherTrainee155.description>
+  <VFEM_ArcherTrainee155.description>{PAWN_nameDef} с раннего возраста {PAWN_gender ? обучался : обучалась} стрельбе из лука, стремясь достичь мастерства и точности, достойных воина благородного происхождения. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} бесчисленные часы на тренировочном дворе, посылая стрелы в мишени и оттачивая мастерство дальних выстрелов. Годы упорных тренировок развили в н{PAWN_objective} исключительную концентрацию внимания и подарили неоспоримое преимущество в дальнем бою.</VFEM_ArcherTrainee155.description>
 
   <!-- EN: merchant's prodigy -->
-  <VFEM_MerchantsProdigy156.title>merchant's prodigy</VFEM_MerchantsProdigy156.title>
+  <VFEM_MerchantsProdigy156.title>купеческий вундеркинд</VFEM_MerchantsProdigy156.title>
   <!-- EN: prodigy -->
-  <VFEM_MerchantsProdigy156.titleShort>prodigy</VFEM_MerchantsProdigy156.titleShort>
-  <!-- EN: [PAWN_nameDef] grew up surrounded by the bustling trade of [PAWN_possessive] family’s business, watching deals unfold and goods change hands. [PAWN_pronoun] was taught the art of negotiation and the importance of wealth. Though well-versed in trade, [PAWN_pronoun] had little exposure to the struggles of common life. -->
-  <VFEM_MerchantsProdigy156.description>[PAWN_nameDef] grew up surrounded by the bustling trade of [PAWN_possessive] family’s business, watching deals unfold and goods change hands. [PAWN_pronoun] was taught the art of negotiation and the importance of wealth. Though well-versed in trade, [PAWN_pronoun] had little exposure to the struggles of common life.</VFEM_MerchantsProdigy156.description>
+  <VFEM_MerchantsProdigy156.titleShort>вундеркинд</VFEM_MerchantsProdigy156.titleShort>
+  <!-- EN: [PAWN_nameDef] grew up surrounded by the bustling trade of [PAWN_possessive] family's business, watching deals unfold and goods change hands. [PAWN_pronoun] was taught the art of negotiation and the importance of wealth. Though well-versed in trade, [PAWN_pronoun] had little exposure to the struggles of common life. -->
+  <VFEM_MerchantsProdigy156.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в атмосфере бурной торговли фамильного дела, с юных лет наблюдая за таинством заключения сделок и движением товаров. {PAWN_pronoun} {PAWN_gender ? постигал : постигала} тонкое искусство переговоров и {PAWN_gender ? осознал : осознала} подлинную ценность богатства. Хотя в торговых делах {PAWN_objective} не было равных, повседневные тяготы и заботы простого люда оставались для н{PAWN_possessive} тайной за семью печатями.</VFEM_MerchantsProdigy156.description>
 
   <!-- EN: estate heir -->
-  <VFEM_EstateHeir157.title>estate heir</VFEM_EstateHeir157.title>
+  <VFEM_EstateHeir157.title>наследник имения</VFEM_EstateHeir157.title>
+  <VFEM_EstateHeir157.titleFemale>наследница имения</VFEM_EstateHeir157.titleFemale>
   <!-- EN: heir -->
-  <VFEM_EstateHeir157.titleShort>heir</VFEM_EstateHeir157.titleShort>
-  <!-- EN: [PAWN_nameDef] was raised on a sprawling estate, learning to oversee the household and manage the laborers who worked the land. [PAWN_pronoun] received lessons in stewardship and basic leadership, preparing [PAWN_objective] for a life of privilege. Though competent, [PAWN_pronoun] had little understanding of life beyond [PAWN_possessive] family’s wealth. -->
-  <VFEM_EstateHeir157.description>[PAWN_nameDef] was raised on a sprawling estate, learning to oversee the household and manage the laborers who worked the land. [PAWN_pronoun] received lessons in stewardship and basic leadership, preparing [PAWN_objective] for a life of privilege. Though competent, [PAWN_pronoun] had little understanding of life beyond [PAWN_possessive] family’s wealth.</VFEM_EstateHeir157.description>
+  <VFEM_EstateHeir157.titleShort>наследник</VFEM_EstateHeir157.titleShort>
+  <VFEM_EstateHeir157.titleShortFemale>наследница</VFEM_EstateHeir157.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was raised on a sprawling estate, learning to oversee the household and manage the laborers who worked the land. [PAWN_pronoun] received lessons in stewardship and basic leadership, preparing [PAWN_objective] for a life of privilege. Though competent, [PAWN_pronoun] had little understanding of life beyond [PAWN_possessive] family's wealth. -->
+  <VFEM_EstateHeir157.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в обширном родовом имении, где {PAWN_gender ? постигал : постигала} искусство управления хозяйством и руководства работниками, трудящимися на земле. {PAWN_pronoun} {PAWN_gender ? получал : получала} серьёзные уроки хозяйства и основ лидерства, готовившие {PAWN_possessive} к жизни привилегированной особы. Несмотря на приобретённые навыки, {PAWN_objective} оставалась недоступной жизнь за пределами фамильного богатства и роскоши.</VFEM_EstateHeir157.description>
 
   <!-- EN: lavish upbringing -->
-  <VFEM_LavishUpbringing158.title>lavish upbringing</VFEM_LavishUpbringing158.title>
+  <VFEM_LavishUpbringing158.title>роскошное воспитание</VFEM_LavishUpbringing158.title>
   <!-- EN: lavish -->
-  <VFEM_LavishUpbringing158.titleShort>lavish</VFEM_LavishUpbringing158.titleShort>
+  <VFEM_LavishUpbringing158.titleShort>баловень</VFEM_LavishUpbringing158.titleShort>
   <!-- EN: [PAWN_nameDef] was surrounded by luxury from birth, never knowing hunger or hardship. [PAWN_pronoun] was taught courtly manners and spent [PAWN_possessive] days enjoying music, fine food, and leisure. While refined and confident, [PAWN_pronoun] struggled with practical tasks that required hard labor. -->
-  <VFEM_LavishUpbringing158.description>[PAWN_nameDef] was surrounded by luxury from birth, never knowing hunger or hardship. [PAWN_pronoun] was taught courtly manners and spent [PAWN_possessive] days enjoying music, fine food, and leisure. While refined and confident, [PAWN_pronoun] struggled with practical tasks that required hard labor.</VFEM_LavishUpbringing158.description>
+  <VFEM_LavishUpbringing158.description>{PAWN_nameDef} с самого рождения {PAWN_gender ? был окружён : была окружена} роскошью и никогда не {PAWN_gender ? знал : знала} ни голода, ни лишений. {PAWN_pronoun} {PAWN_gender ? постигал : постигала} тонкости придворного этикета и {PAWN_gender ? проводил : проводила} дни в наслаждении прекрасной музыкой, изысканными яствами и праздным досугом. Несмотря на врождённую утончённость и аристократическую уверенность в себе, {PAWN_pronoun} совершенно {PAWN_gender ? не справлялся : не справлялась} с практическими задачами, требующих тяжёлой работы.</VFEM_LavishUpbringing158.description>
 
   <!-- EN: patron of the arts -->
-  <VFEM_PatronOfTheArts159.title>patron of the arts</VFEM_PatronOfTheArts159.title>
+  <VFEM_PatronOfTheArts159.title>покровитель искусств</VFEM_PatronOfTheArts159.title>
+  <VFEM_PatronOfTheArts159.titleFemale>покровительница искусств</VFEM_PatronOfTheArts159.titleFemale>
   <!-- EN: patron -->
-  <VFEM_PatronOfTheArts159.titleShort>patron</VFEM_PatronOfTheArts159.titleShort>
+  <VFEM_PatronOfTheArts159.titleShort>покровитель</VFEM_PatronOfTheArts159.titleShort>
+  <VFEM_PatronOfTheArts159.titleShortFemale>покровительница</VFEM_PatronOfTheArts159.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was encouraged to pursue and support the arts, attending performances and commissioning works from talented craftsmen. [PAWN_pronoun] developed an appreciation for beauty and creativity, as well as a talent for recognizing skill in others. Though cultured, [PAWN_pronoun] was sheltered from the harsher realities of life. -->
-  <VFEM_PatronOfTheArts159.description>[PAWN_nameDef] was encouraged to pursue and support the arts, attending performances and commissioning works from talented craftsmen. [PAWN_pronoun] developed an appreciation for beauty and creativity, as well as a talent for recognizing skill in others. Though cultured, [PAWN_pronoun] was sheltered from the harsher realities of life.</VFEM_PatronOfTheArts159.description>
+  <VFEM_PatronOfTheArts159.description>{PAWN_nameDef} с юных лет {PAWN_gender ? интересовался : интересовалась} искусством, {PAWN_gender ? посещал : посещала} представления и {PAWN_gender ? заказывал : заказывала} работы у талантливых мастеров. {PAWN_pronoun} {PAWN_gender ? развил : развила} тонкий вкус и творческое чутьё, а также редкую способность видеть потенциал в других. Несмотря на обширные познания в культуре, {PAWN_pronoun} {PAWN_gender ? оставался ограждённым : оставалась ограждённой} от жестокой реальности, в которой жил простой народ.</VFEM_PatronOfTheArts159.description>
 
   <!-- EN: privileged scholar -->
-  <VFEM_PrivilegedScholar160.title>privileged scholar</VFEM_PrivilegedScholar160.title>
+  <VFEM_PrivilegedScholar160.title>привилегированный учёный</VFEM_PrivilegedScholar160.title>
+  <VFEM_PrivilegedScholar160.titleFemale>привилегированная учёная</VFEM_PrivilegedScholar160.titleFemale>
   <!-- EN: scholar -->
-  <VFEM_PrivilegedScholar160.titleShort>scholar</VFEM_PrivilegedScholar160.titleShort>
+  <VFEM_PrivilegedScholar160.titleShort>учёный</VFEM_PrivilegedScholar160.titleShort>
+  <VFEM_PrivilegedScholar160.titleShortFemale>учёная</VFEM_PrivilegedScholar160.titleShortFemale>
   <!-- EN: [PAWN_nameDef] had access to the finest tutors, studying history, philosophy, and the sciences from a young age. [PAWN_pronoun] showed promise in academic pursuits, impressing [PAWN_possessive] family with [PAWN_possessive] keen intellect. However, [PAWN_pronoun] had little understanding of the struggles faced by those less fortunate. -->
-  <VFEM_PrivilegedScholar160.description>[PAWN_nameDef] had access to the finest tutors, studying history, philosophy, and the sciences from a young age. [PAWN_pronoun] showed promise in academic pursuits, impressing [PAWN_possessive] family with [PAWN_possessive] keen intellect. However, [PAWN_pronoun] had little understanding of the struggles faced by those less fortunate.</VFEM_PrivilegedScholar160.description>
+  <VFEM_PrivilegedScholar160.description>{PAWN_nameDef} {PAWN_gender ? имел : имела} доступ к лучшим наставникам, с юных лет постигая историю, философию и различные науки. {PAWN_pronoun} {PAWN_gender ? демонстрировал : демонстрировала} выдающиеся способности к академическим занятиям, впечатляя семью своим острым умом и неутолимой жаждой знаний. Однако погружённость в возвышенные материи оставила {PAWN_possessive} в полном неведении относительно тягот и лишений, с которыми сталкивались менее удачливые дети.</VFEM_PrivilegedScholar160.description>
 
   <!-- EN: shadowed outcast -->
-  <VFEM_ShadowedOutcast161.title>shadowed outcast</VFEM_ShadowedOutcast161.title>
+  <VFEM_ShadowedOutcast161.title>тенистый изгой</VFEM_ShadowedOutcast161.title>
   <!-- EN: outcast -->
-  <VFEM_ShadowedOutcast161.titleShort>outcast</VFEM_ShadowedOutcast161.titleShort>
+  <VFEM_ShadowedOutcast161.titleShort>изгой</VFEM_ShadowedOutcast161.titleShort>
   <!-- EN: [PAWN_nameDef] was feared by the villagers for reasons whispered but never explained. [PAWN_pronoun] spent [PAWN_possessive] childhood in the shadows, avoiding those who glared or crossed themselves at [PAWN_possessive] presence. The isolation hardened [PAWN_objective], leaving [PAWN_pronoun] mistrustful and quiet, always watching from the dark corners. -->
-  <VFEM_ShadowedOutcast161.description>[PAWN_nameDef] was feared by the villagers for reasons whispered but never explained. [PAWN_pronoun] spent [PAWN_possessive] childhood in the shadows, avoiding those who glared or crossed themselves at [PAWN_possessive] presence. The isolation hardened [PAWN_objective], leaving [PAWN_pronoun] mistrustful and quiet, always watching from the dark corners.</VFEM_ShadowedOutcast161.description>
+  <VFEM_ShadowedOutcast161.description>{PAWN_nameDef} {PAWN_gender ? внушал : внушала} необъяснимый страх жителям деревни, причины которого передавались лишь шёпотом. {PAWN_pronoun} {PAWN_gender ? провёл : провела} своё детство в тенях, избегая тех, кто бросал испуганные взгляды или украдкой крестился при {PAWN_possessive} появлении. Годы изоляции закалили дух {PAWN_nameDef}, превратив {PAWN_possessive} в недоверчивого и молчаливого наблюдателя, вечно скрывающегося в тёмных углах и изучающего мир из-за завесы всеобщего отчуждения.</VFEM_ShadowedOutcast161.description>
 
   <!-- EN: child of the eclipse -->
-  <VFEM_ChildOfTheEclipse162.title>child of the eclipse</VFEM_ChildOfTheEclipse162.title>
+  <VFEM_ChildOfTheEclipse162.title>дитя затмения</VFEM_ChildOfTheEclipse162.title>
   <!-- EN: eclipse-born -->
-  <VFEM_ChildOfTheEclipse162.titleShort>eclipse-born</VFEM_ChildOfTheEclipse162.titleShort>
+  <VFEM_ChildOfTheEclipse162.titleShort>затменённый</VFEM_ChildOfTheEclipse162.titleShort>
+  <VFEM_ChildOfTheEclipse162.titleShortFemale>затменённая</VFEM_ChildOfTheEclipse162.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was born under an ominous eclipse, a sign that filled the villagers with dread. [PAWN_pronoun] grew up under the weight of grim superstition, with some believing [PAWN_pronoun] brought bad luck or worse. [PAWN_pronoun] learned to navigate the fear of others, growing cunning and detached to survive. -->
-  <VFEM_ChildOfTheEclipse162.description>[PAWN_nameDef] was born under an ominous eclipse, a sign that filled the villagers with dread. [PAWN_pronoun] grew up under the weight of grim superstition, with some believing [PAWN_pronoun] brought bad luck or worse. [PAWN_pronoun] learned to navigate the fear of others, growing cunning and detached to survive.</VFEM_ChildOfTheEclipse162.description>
+  <VFEM_ChildOfTheEclipse162.description>{PAWN_nameDef} {PAWN_gender ? появился : появилась} на свет под зловещим затмением, знамением, наполнившим сердца деревенских жителей неподдельным ужасом. {PAWN_pronoun} {PAWN_gender ? рос : росла} под тяжестью мрачных суеверий — многие верили, что {PAWN_pronoun} приносит несчастья или даже нечто более страшное. {PAWN_pronoun} {PAWN_gender ? научился : научилась} противостоять чужим страхам, развив в себе хитрость и отстранённость как необходимые инструменты выживания в мире, полном предрассудков.</VFEM_ChildOfTheEclipse162.description>
 
   <!-- EN: graveyard wanderer -->
-  <VFEM_GraveyardWanderer163.title>graveyard wanderer</VFEM_GraveyardWanderer163.title>
+  <VFEM_GraveyardWanderer163.title>кладбищенский скиталец</VFEM_GraveyardWanderer163.title>
   <!-- EN: wanderer -->
-  <VFEM_GraveyardWanderer163.titleShort>wanderer</VFEM_GraveyardWanderer163.titleShort>
+  <VFEM_GraveyardWanderer163.titleShort>скиталец</VFEM_GraveyardWanderer163.titleShort>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days among the headstones, speaking to the dead as though they were alive. [PAWN_pronoun] was drawn to the quiet stillness and the stories carved into weathered stone. The villagers whispered of [PAWN_possessive] odd habits, and [PAWN_pronoun] learned to keep [PAWN_possessive] thoughts hidden from prying eyes. -->
-  <VFEM_GraveyardWanderer163.description>[PAWN_nameDef] spent [PAWN_possessive] days among the headstones, speaking to the dead as though they were alive. [PAWN_pronoun] was drawn to the quiet stillness and the stories carved into weathered stone. The villagers whispered of [PAWN_possessive] odd habits, and [PAWN_pronoun] learned to keep [PAWN_possessive] thoughts hidden from prying eyes.</VFEM_GraveyardWanderer163.description>
+  <VFEM_GraveyardWanderer163.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} свои дни среди замшелых надгробий, беседуя с умершими, словно с живыми собеседниками. {PAWN_pronoun} {PAWN_gender ? был очарован : была очарована} безмолвной тишиной и историями, высеченными на выветрившемся камне. Деревенские жители перешёптывались о {PAWN_possessive} странных привычках, и {PAWN_pronoun} {PAWN_gender ? научился : научилась} скрывать свои мысли от любопытных глаз и осуждающих взглядов.</VFEM_GraveyardWanderer163.description>
 
   <!-- EN: village curse-bearer -->
-  <VFEM_VillageCurseBearer164.title>village curse-bearer</VFEM_VillageCurseBearer164.title>
+  <VFEM_VillageCurseBearer164.title>носитель проклятия</VFEM_VillageCurseBearer164.title>
+  <VFEM_VillageCurseBearer164.titleFemale>носительница проклятия</VFEM_VillageCurseBearer164.titleFemale>
   <!-- EN: cursed -->
-  <VFEM_VillageCurseBearer164.titleShort>cursed</VFEM_VillageCurseBearer164.titleShort>
+  <VFEM_VillageCurseBearer164.titleShort>проклятый</VFEM_VillageCurseBearer164.titleShort>
+  <VFEM_VillageCurseBearer164.titleShortFemale>проклятая</VFEM_VillageCurseBearer164.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was believed to be cursed, blamed for every ill fortune that befell the village. Crops failed, livestock died, and villagers fell ill, all under [PAWN_possessive] dark shadow. [PAWN_pronoun] grew to expect rejection, developing a cold resilience to survive in a world that feared [PAWN_objective]. -->
-  <VFEM_VillageCurseBearer164.description>[PAWN_nameDef] was believed to be cursed, blamed for every ill fortune that befell the village. Crops failed, livestock died, and villagers fell ill, all under [PAWN_possessive] dark shadow. [PAWN_pronoun] grew to expect rejection, developing a cold resilience to survive in a world that feared [PAWN_objective].</VFEM_VillageCurseBearer164.description>
+  <VFEM_VillageCurseBearer164.description>{PAWN_nameDef} {PAWN_gender ? считался : считалась} проклятым дитя, и суеверные жители деревни возлагали на н{PAWN_possessive} вину за любое несчастье. Когда гибли урожаи, умирал скот или болезни поражали людей — всё списывалось на {PAWN_possessive} тёмное влияние. {PAWN_pronoun} {PAWN_gender ? вырос : выросла}, привыкнув к постоянному отвержению, и {PAWN_gender ? развил : развила} в себе холодную стойкость к невзгодам — единственный способ выживания в мире, который трепетал от страха перед {PAWN_gender ? ним : ней}.</VFEM_VillageCurseBearer164.description>
 
   <!-- EN: whispered foundling -->
-  <VFEM_WhisperedFoundling165.title>whispered foundling</VFEM_WhisperedFoundling165.title>
+  <VFEM_WhisperedFoundling165.title>таинственный подкидыш</VFEM_WhisperedFoundling165.title>
   <!-- EN: foundling -->
-  <VFEM_WhisperedFoundling165.titleShort>foundling</VFEM_WhisperedFoundling165.titleShort>
+  <VFEM_WhisperedFoundling165.titleShort>подкидыш</VFEM_WhisperedFoundling165.titleShort>
   <!-- EN: [PAWN_nameDef] was discovered as an infant at the edge of the woods, wrapped in tattered cloth and left in the rain. The villagers took [PAWN_objective] in reluctantly, always murmuring of unnatural origins. [PAWN_pronoun] grew up in the shadow of suspicion, learning to remain unseen and unheard. -->
-  <VFEM_WhisperedFoundling165.description>[PAWN_nameDef] was discovered as an infant at the edge of the woods, wrapped in tattered cloth and left in the rain. The villagers took [PAWN_objective] in reluctantly, always murmuring of unnatural origins. [PAWN_pronoun] grew up in the shadow of suspicion, learning to remain unseen and unheard.</VFEM_WhisperedFoundling165.description>
+  <VFEM_WhisperedFoundling165.description>{PAWN_nameDef} во младенчестве {PAWN_gender ? был обнаружен : была обнаружена} на опушке дремучего леса, {PAWN_gender ? завёрнутым : завёрнутой} в ветхую ткань, {PAWN_gender ? брошенным : брошенной} под проливным дождём. Деревенские жители неохотно приняли {PAWN_nameDef}, постоянно перешёптываясь о {PAWN_possessive} неестественном происхождении. {PAWN_pronoun} {PAWN_gender ? вырос : выросла} в тени подозрений и суеверных страхов, научившись быть {PAWN_gender ? незаметным и бесшумным : незаметной и бесшумной}, словно призрак среди живых.</VFEM_WhisperedFoundling165.description>
 
   <!-- EN: young diplomat -->
-  <VFEM_YoungDiplomat166.title>young diplomat</VFEM_YoungDiplomat166.title>
+  <VFEM_YoungDiplomat166.title>юный дипломат</VFEM_YoungDiplomat166.title>
+  <VFEM_YoungDiplomat166.titleFemale>юная дипломатка</VFEM_YoungDiplomat166.titleFemale>
   <!-- EN: diplomat -->
-  <VFEM_YoungDiplomat166.titleShort>diplomat</VFEM_YoungDiplomat166.titleShort>
+  <VFEM_YoungDiplomat166.titleShort>дипломат</VFEM_YoungDiplomat166.titleShort>
+  <VFEM_YoungDiplomat166.titleShortFemale>дипломатка</VFEM_YoungDiplomat166.titleShortFemale>
   <!-- EN: [PAWN_nameDef] surprised [PAWN_possessive] elders by brokering a truce between feuding noble families at just twelve years old. [PAWN_pronoun] used charm and logic to persuade both sides, earning respect far beyond [PAWN_possessive] years. The experience cemented [PAWN_possessive] place as a rising star in courtly politics. -->
-  <VFEM_YoungDiplomat166.description>[PAWN_nameDef] surprised [PAWN_possessive] elders by brokering a truce between feuding noble families at just twelve years old. [PAWN_pronoun] used charm and logic to persuade both sides, earning respect far beyond [PAWN_possessive] years. The experience cemented [PAWN_possessive] place as a rising star in courtly politics.</VFEM_YoungDiplomat166.description>
+  <VFEM_YoungDiplomat166.description>{PAWN_nameDef} в возрасте всего двенадцати лет {PAWN_gender ? поразил : поразила} старших, сумев выступить посредником в заключении перемирия между давно враждующими знатными родами. {PAWN_pronoun} {PAWN_gender ? применил : применила} природное обаяние и безупречную логику, чтобы убедить обе стороны пойти на уступки, заслужив всеобщее уважение. Этот дипломатический триумф навсегда закрепил за {PAWN_gender ? ним : ней} репутацию восходящей звезды придворной политики.</VFEM_YoungDiplomat166.description>
 
   <!-- EN: prodigious tactician -->
-  <VFEM_ProdigiousTactician167.title>prodigious tactician</VFEM_ProdigiousTactician167.title>
+  <VFEM_ProdigiousTactician167.title>выдающийся тактик</VFEM_ProdigiousTactician167.title>
   <!-- EN: tactician -->
-  <VFEM_ProdigiousTactician167.titleShort>tactician</VFEM_ProdigiousTactician167.titleShort>
-  <!-- EN: [PAWN_nameDef] demonstrated a gift for strategy by organizing and winning a mock battle between the castle’s squires. [PAWN_pronoun] anticipated [PAWN_possessive] opponents’ moves and used the terrain to [PAWN_possessive] advantage, earning the admiration of seasoned knights. The event marked [PAWN_objective] as a promising future commander. -->
-  <VFEM_ProdigiousTactician167.description>[PAWN_nameDef] demonstrated a gift for strategy by organizing and winning a mock battle between the castle’s squires. [PAWN_pronoun] anticipated [PAWN_possessive] opponents’ moves and used the terrain to [PAWN_possessive] advantage, earning the admiration of seasoned knights. The event marked [PAWN_objective] as a promising future commander.</VFEM_ProdigiousTactician167.description>
+  <VFEM_ProdigiousTactician167.titleShort>тактик</VFEM_ProdigiousTactician167.titleShort>
+  <!-- EN: [PAWN_nameDef] demonstrated a gift for strategy by organizing and winning a mock battle between the castle's squires. [PAWN_pronoun] anticipated [PAWN_possessive] opponents' moves and used the terrain to [PAWN_possessive] advantage, earning the admiration of seasoned knights. The event marked [PAWN_objective] as a promising future commander. -->
+  <VFEM_ProdigiousTactician167.description>{PAWN_nameDef} {PAWN_gender ? проявил : проявила} редкий дар военной стратегии, организовав и блестяще выиграв учебное сражение между оруженосцами замка. {PAWN_pronoun} {PAWN_gender ? предугадывал : предугадывала} действия противников и {PAWN_gender ? использовал : использовала} особенности местности в своих интересах, чем {PAWN_gender ? заслужил : заслужила} искреннее восхищение даже у бывалых рыцарей. Это памятное событие навсегда закрепило за {PAWN_gender ? ним : ней} репутацию многообещающего военачальника.</VFEM_ProdigiousTactician167.description>
 
   <!-- EN: young architect -->
-  <VFEM_YoungArchitect168.title>young architect</VFEM_YoungArchitect168.title>
+  <VFEM_YoungArchitect168.title>юный архитектор</VFEM_YoungArchitect168.title>
   <!-- EN: architect -->
-  <VFEM_YoungArchitect168.titleShort>architect</VFEM_YoungArchitect168.titleShort>
+  <VFEM_YoungArchitect168.titleShort>архитектор</VFEM_YoungArchitect168.titleShort>
   <!-- EN: [PAWN_nameDef] designed an innovative irrigation system for the family estate at just ten years old, greatly increasing crop yields. [PAWN_pronoun] impressed both the stewards and laborers with [PAWN_possessive] ingenuity. The success ensured [PAWN_pronoun] would be taken seriously, even at such a young age. -->
-  <VFEM_YoungArchitect168.description>[PAWN_nameDef] designed an innovative irrigation system for the family estate at just ten years old, greatly increasing crop yields. [PAWN_pronoun] impressed both the stewards and laborers with [PAWN_possessive] ingenuity. The success ensured [PAWN_pronoun] would be taken seriously, even at such a young age.</VFEM_YoungArchitect168.description>
+  <VFEM_YoungArchitect168.description>{PAWN_nameDef} в возрасте всего десяти лет {PAWN_gender ? спроектировал : спроектировала} новаторскую ирригационную систему для фамильного поместья, что привело к небывалому росту урожайности. {PAWN_pronoun} {PAWN_gender ? поразил : поразила} своей изобретательностью и управляющих, и простых работников. Этот удивительный успех обеспечил {PAWN_objective} серьёзное отношение и уважение, несмотря на столь юный возраст.</VFEM_YoungArchitect168.description>
 
   <!-- EN: prize archer -->
-  <VFEM_PrizeArcher169.title>prize archer</VFEM_PrizeArcher169.title>
+  <VFEM_PrizeArcher169.title>лучник-победитель</VFEM_PrizeArcher169.title>
+  <VFEM_PrizeArcher169.titleFemale>лучница-победительница</VFEM_PrizeArcher169.titleFemale>
   <!-- EN: archer -->
-  <VFEM_PrizeArcher169.titleShort>archer</VFEM_PrizeArcher169.titleShort>
+  <VFEM_PrizeArcher169.titleShort>лучник</VFEM_PrizeArcher169.titleShort>
+  <VFEM_PrizeArcher169.titleShortFemale>лучница</VFEM_PrizeArcher169.titleShortFemale>
   <!-- EN: [PAWN_nameDef] won a prestigious archery competition at the age of thirteen, besting older and more experienced opponents. [PAWN_pronoun] was praised for [PAWN_possessive] precision and composure under pressure. The victory brought honor to [PAWN_possessive] family and set [PAWN_objective] on a path of future acclaim. -->
-  <VFEM_PrizeArcher169.description>[PAWN_nameDef] won a prestigious archery competition at the age of thirteen, besting older and more experienced opponents. [PAWN_pronoun] was praised for [PAWN_possessive] precision and composure under pressure. The victory brought honor to [PAWN_possessive] family and set [PAWN_objective] on a path of future acclaim.</VFEM_PrizeArcher169.description>
+  <VFEM_PrizeArcher169.description>{PAWN_nameDef} в тринадцать лет {PAWN_gender ? одержал : одержала} победу в престижном турнире по стрельбе из лука, превзойдя значительно более взрослых и опытных соперников. Публика восторгалась {PAWN_possessive} исключительной точностью и хладнокровием в решающие моменты состязания. Эта победа не только принесла честь {PAWN_possessive} семье, но и предопределила будущий путь {PAWN_nameDef} к славе и признанию.</VFEM_PrizeArcher169.description>
 
   <!-- EN: budding poet -->
-  <VFEM_BuddingPoet170.title>budding poet</VFEM_BuddingPoet170.title>
+  <VFEM_BuddingPoet170.title>начинающий поэт</VFEM_BuddingPoet170.title>
+  <VFEM_BuddingPoet170.titleFemale>начинающая поэтесса</VFEM_BuddingPoet170.titleFemale>
   <!-- EN: poet -->
-  <VFEM_BuddingPoet170.titleShort>poet</VFEM_BuddingPoet170.titleShort>
+  <VFEM_BuddingPoet170.titleShort>поэт</VFEM_BuddingPoet170.titleShort>
+  <VFEM_BuddingPoet170.titleShortFemale>поэтесса</VFEM_BuddingPoet170.titleShortFemale>
   <!-- EN: [PAWN_nameDef] composed an epic poem at a young age that spread throughout the region, earning [PAWN_pronoun] fame and admiration. Nobles and commoners alike recited [PAWN_possessive] verses, praising their vivid imagery and emotional depth. The success brought invitations to courts across the land. -->
-  <VFEM_BuddingPoet170.description>[PAWN_nameDef] composed an epic poem at a young age that spread throughout the region, earning [PAWN_pronoun] fame and admiration. Nobles and commoners alike recited [PAWN_possessive] verses, praising their vivid imagery and emotional depth. The success brought invitations to courts across the land.</VFEM_BuddingPoet170.description>
+  <VFEM_BuddingPoet170.description>{PAWN_nameDef} в юном возрасте {PAWN_gender ? сочинил : сочинила} эпическую поэму, которая разлетелась по всему королевству, принеся {PAWN_objective} славу и всеобщее восхищение. И знатные особы, и простолюдины с упоением декламировали {PAWN_possessive} стихи, восхваляя красочные образы и глубину чувств. Этот литературный успех открыл юному дарованию двери в благородные дома по всей стране.</VFEM_BuddingPoet170.description>
 </LanguageData>
