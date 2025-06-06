@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Barber -->
-  <VBE_Barber.title>Брадобрей</VBE_Barber.title>
+  <VBE_Barber.title>брадобрей</VBE_Barber.title>
   <!-- EN: Barber -->
-  <VBE_Barber.titleShort>Брадобрей</VBE_Barber.titleShort>
+  <VBE_Barber.titleShort>брадобрей</VBE_Barber.titleShort>
   <!-- EN: [PAWN_nameDef] worked as a barber, cutting and styling hair. Knows their way around a pair of scissors and can keep conversations going with [PAWN_possessive] clients -->
-  <VBE_Barber.description>{PAWN_nameDef} {PAWN_gender ? работал : работала} парикмахером, {PAWN_gender ? стриг : стригла} и {PAWN_gender ? укладывал : укладывала} волосы. Умеет обращаться с ножницами и может поддерживать беседу с своими клиентами.</VBE_Barber.description>
+  <VBE_Barber.description>{PAWN_nameDef} {PAWN_gender ? работал : работала} парикмахером, {PAWN_gender ? стриг : стригла} и {PAWN_gender ? укладывал : укладывала} волосы. Умеет обращаться с ножницами и может поддерживать беседу со своими клиентами.</VBE_Barber.description>
   
   <!-- EN: Addicted gamer -->
-  <VBE_AddictedGamer.title>Зависимый геймер</VBE_AddictedGamer.title>
-  <VBE_AddictedGamer.titleFemale>Зависимая геймерша</VBE_AddictedGamer.titleFemale>
+  <VBE_AddictedGamer.title>зависимый геймер</VBE_AddictedGamer.title>
+  <VBE_AddictedGamer.titleFemale>зависимая геймерша</VBE_AddictedGamer.titleFemale>
   <!-- EN: Gamer -->
   <VBE_AddictedGamer.titleShort>геймер</VBE_AddictedGamer.titleShort>
   <VBE_AddictedGamer.titleShortFemale>геймерша</VBE_AddictedGamer.titleShortFemale>
@@ -26,40 +26,40 @@
   <VBE_VatgrownColonist.description>{PAWN_nameDef} {PAWN_gender ? был выращен : была выращена} в лаборатории, в качестве расходного материала на {PAWN_possessive} мире. {PAWN_pronoun} {PAWN_gender ? был выращен : была выращена} вместе с другими шаблонными детьми и {PAWN_gender ? знал : знала} только жизнь под присмотром своих наставников-учёных.</VBE_VatgrownColonist.description>
 
   <!-- EN: Structural engineer -->
-  <VBE_StructuralEngineer.title>Инженер-строитель</VBE_StructuralEngineer.title>
+  <VBE_StructuralEngineer.title>инженер-строитель</VBE_StructuralEngineer.title>
   <!-- EN: Engineer -->
-  <VBE_StructuralEngineer.titleShort>Инженер</VBE_StructuralEngineer.titleShort>
+  <VBE_StructuralEngineer.titleShort>инженер</VBE_StructuralEngineer.titleShort>
   <!-- EN: After studying engineering for a few years, [PAWN_nameDef] now designs buildings, bridges, and other structures. [PAWN_objective] has a great understanding on how to construct every part of a project. Much of their time goes to coordinating with the architect, contractor, and other engineers. -->
   <VBE_StructuralEngineer.description>Проведя несколько лет своей жизни за изучением прикладной инженерии, {PAWN_nameDef} теперь занимается проектированием зданий, мостов и прочих сооружений. {PAWN_pronoun} знает «от» и «до», как выглядит каждый этап строительства. Львиная доля {PAWN_possessive} времени уходила на координацию работы с архитекторами, подрядчиками и другими инженерами.</VBE_StructuralEngineer.description>
 
   <!-- EN: Wretched child -->
-  <VBE_WretchedChild.title>Несчастное дитя</VBE_WretchedChild.title>
+  <VBE_WretchedChild.title>несчастное дитя</VBE_WretchedChild.title>
   <!-- EN: Wretch -->
-  <VBE_WretchedChild.titleShort>Несчастный</VBE_WretchedChild.titleShort>
-  <VBE_WretchedChild.titleShortFemale>Несчастная</VBE_WretchedChild.titleShortFemale>
+  <VBE_WretchedChild.titleShort>несчастный</VBE_WretchedChild.titleShort>
+  <VBE_WretchedChild.titleShortFemale>несчастная</VBE_WretchedChild.titleShortFemale>
   <!-- EN: As a child, [PAWN_nameDef] was cast out by [PAWN_objective] peers. [PAWN_pronoun] grew uncaring of others and focused on surviving with what [PAWN_pronoun] had near [PAWN_possessive] home -->
   <VBE_WretchedChild.description>В детстве {PAWN_nameDef} {PAWN_gender ? был изгнан : была изгнана} своими сверстниками. {PAWN_pronoun} {PAWN_gender ? вырос безразличным : выросла безразличной} к другим и {PAWN_gender ? сосредоточенным: сосредоточенной} на выживании с помощью того, что {PAWN_pronoun} {PAWN_gender ? имел : имела} возле {PAWN_possessive} дома.</VBE_WretchedChild.description>
 
   <!-- EN: Forced primitivist -->
-  <VBE_ForcedPrimitivist.title>Вынужденный примитивист</VBE_ForcedPrimitivist.title>
+  <VBE_ForcedPrimitivist.title>вынужденный примитивист</VBE_ForcedPrimitivist.title>
   <!-- EN: Primitivist -->
-  <VBE_ForcedPrimitivist.titleShort>Примитивист</VBE_ForcedPrimitivist.titleShort>
+  <VBE_ForcedPrimitivist.titleShort>примитивист</VBE_ForcedPrimitivist.titleShort>
   <!-- EN: [PAWN_nameDef] wasn't always part of the tribes. After getting exiled from [PAWN_possessive] local outlander union due to ruining an entire crop harvest, [PAWN_nameDef] had to live out in the open for years, with only crude tools to aid [PAWN_objective]. This made [PAWN_objective] a jack-of-all-trades, but completely broke [PAWN_possessive] trust of people. -->
   <VBE_ForcedPrimitivist.description>{PAWN_nameDef} не всегда {PAWN_gender ? слыл : слыла} частью своего племени. После того, как {PAWN_pronoun} {PAWN_gender ? испортил : испортила} весь урожай в своём поселении, {PAWN_nameDef} {PAWN_gender ? был изгнан : была изгнана} из своего поселения чужеземцев. 
-  {PAWN_nameDef} {PAWN_gender ? выживал : выживала} сама по себе в течение многих лет, имея лишь самые базовые инструменты. Это сделало {PAWN_possessive} специалистом во многих областях, но полностью убило в н{PAWN_objective} способность доверять людям.</VBE_ForcedPrimitivist.description>
+  {PAWN_nameDef} {PAWN_gender ? выживал сам : выживала сама} по себе в течение многих лет, имея лишь самые базовые инструменты. Это сделало {PAWN_possessive} специалистом во многих областях, но полностью убило в н{PAWN_objective} способность доверять людям.</VBE_ForcedPrimitivist.description>
   
   <!-- EN: Gifted burnout -->
-  <VBE_GiftedBurnout.title>Выгоревший гений</VBE_GiftedBurnout.title>
+  <VBE_GiftedBurnout.title>выгоревший гений</VBE_GiftedBurnout.title>
   <!-- EN: Gifted -->
-  <VBE_GiftedBurnout.titleShort>Гений</VBE_GiftedBurnout.titleShort>
+  <VBE_GiftedBurnout.titleShort>гений</VBE_GiftedBurnout.titleShort>
   <!-- EN: From a young age, [PAWN_nameDef] was heralded as a genius. The constant testing, training, and praise from surrounding adults was good, but the constant pressure, expectation, and eventual failure exacerbated a long list of mental disorders lying dormant within [PAWN_nameDef]'s mind. [PAWN_pronoun] still retains [PAWN_objective] training, but making use of it will be difficult for the rest of [PAWN_objective] life. -->
   <VBE_GiftedBurnout.description>С самых юных лет {PAWN_nameDef} {PAWN_gender ? слыл : слыла} гением. Постоянные тестирования, обучение и похвалы от окружавших {PAWN_possessive} взрослых были чем-то приятным, но постоянное давление, завышенные ожидания и ожидаемые неудачи усугубили огромный список психических заболеваний и состояний, которые скрывал {PAWN_possessive} разум. {PAWN_nameDef} {PAWN_gender ? сохранил : сохранила} полученные навыки и знания, но применить их будет для н{PAWN_possessive} проблемой до конца жизни.</VBE_GiftedBurnout.description>
   
   <!-- EN: Forgotten child -->
-  <VBE_ForgottenChild.title>Забытый ребёнок</VBE_ForgottenChild.title>
+  <VBE_ForgottenChild.title>забытый ребёнок</VBE_ForgottenChild.title>
   <!-- EN: Disappeared -->
-  <VBE_ForgottenChild.titleShort>Исчезнувший</VBE_ForgottenChild.titleShort>
-  <VBE_ForgottenChild.titleShortFemale>Исчезнувшая</VBE_ForgottenChild.titleShortFemale>
+  <VBE_ForgottenChild.titleShort>исчезнувший</VBE_ForgottenChild.titleShort>
+  <VBE_ForgottenChild.titleShortFemale>исчезнувшая</VBE_ForgottenChild.titleShortFemale>
   <!-- EN:  When [PAWN_nameDef] was young [PAWN_pronoun] came across a secret door in [PAWN_possessive] grandfather's antic shop. Curious of what may lie beyond it, [PAWN_pronoun] wandered in and tells of a land of endless adventure. There's no way of knowing if that were true, but seeing as [PAWN_nameDef] was found as child, forgotten in cryptosleep nearly a hundred years later, nothing seems impossible -->
   <VBE_ForgottenChild.description>В детстве {PAWN_nameDef} {PAWN_gender ? нашёл : нашла} потайную дверь в лавке диковин своего дедушки. {PAWN_gender ? Ведомый : Ведомая} любопытством, {PAWN_gender ? он заглянул : она заглянула} внутрь и после этого {PAWN_gender ? рассказывал : рассказывала} всем о землях полных чудес и о {PAWN_possessive} приключениях там. Трудно сказать, правда это или нет, но если учесть, что {PAWN_nameDef} {PAWN_gender ? был найден : была найдена} ребёнком в забытом саркофаге криптосна — всё может быть.</VBE_ForgottenChild.description>
   
@@ -73,24 +73,24 @@
   <VBE_Demoscener.description>{PAWN_nameDef} всегда {PAWN_gender ? интересовался : интересовалась} компьютерами и программированием. В частности, компьютерами, которые настолько стары, что грань между программированием и инженерией была размыта. {PAWN_nameDef} {PAWN_gender ? приобщился : приобщилась} к культуре, которая использует эти древние машины для создания произведений искусства, используя все возможности примитивного программирования.</VBE_Demoscener.description>
   
   <!-- EN: Industrial tinkerer -->
-  <VBE_IndustrialTinkerer.title>Промышленный мастер</VBE_IndustrialTinkerer.title>
+  <VBE_IndustrialTinkerer.title>промышленный мастер</VBE_IndustrialTinkerer.title>
   <!-- EN: Tinkerer -->
-  <VBE_IndustrialTinkerer.titleShort>Мастер</VBE_IndustrialTinkerer.titleShort>
+  <VBE_IndustrialTinkerer.titleShort>мастер</VBE_IndustrialTinkerer.titleShort>
   <!-- EN: Once finding [PAWN_possessive] passion in the way things work, [PAWN_nameDef] became enthralled with tinkering, building and coding. Taking inspiration from nature and the machines [PAWN_pronoun] disassembled, [PAWN_nameDef] built many useful mechanical and electrical contraptions to improve [PAWN_possessive] everyday life. While exploring and studying nature, [PAWN_pronoun] also learned about basic survival needs, and some basic healing. Due to always being in [PAWN_possessive] mind, [PAWN_nameDef] is not very sociable, and [PAWN_possessive] is always high strung -->
   <VBE_IndustrialTinkerer.description>Однажды открыв в себе страсть к тому, как работают вещи, {PAWN_nameDef} {PAWN_gender ? увлекся : увлеклась} работой с мелкими деталями, строительством и кодированием. Черпая вдохновение в природе и машинах, которые {PAWN_pronoun} {PAWN_gender ? разбирал : разбирала}, {PAWN_nameDef} {PAWN_gender ? создал : создала} множество полезных механических и электрических устройств, способных облегчить повседневную жизнь. Исследуя и изучая природу, {PAWN_pronoun} также {PAWN_gender ? узнал : узнала} об основных потребностях выживания и некоторых основах медицины. Из-за того, что {PAWN_nameDef} всегда находится в своих мыслях, {PAWN_pronoun} может производить впечатление необщительного и нервного человека.</VBE_IndustrialTinkerer.description>
 
   <!-- EN: Information sponge -->
-  <VBE_InformationSponge.title>Информационная губка</VBE_InformationSponge.title>
+  <VBE_InformationSponge.title>информационная губка</VBE_InformationSponge.title>
   <!-- EN: Sponge -->
-  <VBE_InformationSponge.titleShort>Губка</VBE_InformationSponge.titleShort>
+  <VBE_InformationSponge.titleShort>губка</VBE_InformationSponge.titleShort>
   <!-- EN: [PAWN_nameDef] grew up with a thirst for knowledge, be it for science, history, or philosophy. Running off into the wilderness, [PAWN_pronoun] would spend as much time learning from nature and the ruins that [PAWN_pronoun] would find. When younger, many would listen to [PAWN_objective] just to see what [PAWN_pronoun] would say, but over time others stopped listening as [PAWN_possessive] knowledge grew in depth, leaving them behind. Over time, [PAWN_pronoun] became more reclusive, and mainly found solace in [PAWN_possessive] work. -->
-  <VBE_InformationSponge.description>{PAWN_nameDef} {PAWN_gender ? вырос ведомым : выросла ведомой} жаждой знаний, будь то наука, история или философия. Сбегая время от времени на лоно природы, {PAWN_pronoun} {PAWN_gender ? проводил : проводила} много времени, изучая природу и развалины, которые {PAWN_pronoun} {PAWN_gender ? находил : находила} поблизости. В молодости многие вокруг слушали {PAWN_possessive} только для того, чтобы посмотреть, что {PAWN_pronoun} скажет, но со временем его перестали слушать, так как знания {PAWN_possessive} становились все глубже, оставляя сверстников позади. Со временем {PAWN_pronoun} {PAWN_gender ? стал : стала} вести более затворнический образ жизни и в основном {PAWN_gender ? находил : находила} утешение только в работе.</VBE_InformationSponge.description>
+  <VBE_InformationSponge.description>{PAWN_nameDef} {PAWN_gender ? вырос ведомым : выросла ведомой} жаждой знаний, будь то наука, история или философия. Сбегая время от времени на лоно природы, {PAWN_pronoun} {PAWN_gender ? проводил : проводила} много времени, изучая природу и развалины, которые {PAWN_pronoun} {PAWN_gender ? находил : находила} поблизости. В молодости многие вокруг слушали {PAWN_possessive} только для того, чтобы посмотреть, что {PAWN_pronoun} скажет, но со временем {PAWN_gender ? его : её} перестали слушать, так как знания {PAWN_possessive} становились все глубже, оставляя сверстников позади. Со временем {PAWN_pronoun} {PAWN_gender ? стал : стала} вести более затворнический образ жизни и в основном {PAWN_gender ? находил : находила} утешение только в работе.</VBE_InformationSponge.description>
 
   <!-- EN: Reincarnated soul -->
-  <VBE_ReincarnatedSoul.title>Переродившаяся душа</VBE_ReincarnatedSoul.title>
+  <VBE_ReincarnatedSoul.title>переродившаяся душа</VBE_ReincarnatedSoul.title>
   <!-- EN: Reincarnated -->
-  <VBE_ReincarnatedSoul.titleShort>Перерождённый</VBE_ReincarnatedSoul.titleShort>
-  <VBE_ReincarnatedSoul.titleShortFemale>Перерождённая</VBE_ReincarnatedSoul.titleShortFemale>
+  <VBE_ReincarnatedSoul.titleShort>перерождённый</VBE_ReincarnatedSoul.titleShort>
+  <VBE_ReincarnatedSoul.titleShortFemale>перерождённая</VBE_ReincarnatedSoul.titleShortFemale>
   <!-- EN: [PAWN_nameDef] believes [PAWN_pronoun] was once a pious steward of some long, lost religion. Reborn again to live life as they choose, [PAWN_nameDef] seems to have an unnatural proficiency with cooking and art of craft despite [PAWN_objective] young age. -->
   <VBE_ReincarnatedSoul.description>{PAWN_nameDef} верит, что {PAWN_pronoun} когда-то {PAWN_gender ? был : была} благочестивым служителем одной старой, давно забытой религии. {PAWN_gender ? Перерождённый : Перерождённая}, чтобы жить той жизнью, которую {PAWN_pronoun} выберет {PAWN_gender ? сам : сама}, обладает сверхъестественным талантом к готовке, ремеслу и искусству, несмотря на свой юный возраст.</VBE_ReincarnatedSoul.description>
 
@@ -104,11 +104,11 @@
   <VBE_LightingAssistant.description>{PAWN_nameDef} {PAWN_gender ? помогал : помогала} создавать фоновое освещение в фильмах и театральных постановках. {PAWN_possessive} работа за кулисами порой оставалась незамеченной и как следствие — не получала признания от начальства. {PAWN_gender ? сам : сама} же {PAWN_nameDef} просто {PAWN_gender ? предпочитал : предпочитала} работать усерднее, ожидая, пока кто-нибудь заметит {PAWN_possessive} талант. Всё то время, которое {PAWN_pronoun} {PAWN_gender ? провёл : провела} за работой с электрооборудованием, дало {PAWN_objective} хорошее представление об устройстве многих электрических приборов.</VBE_LightingAssistant.description>
 
   <!-- EN: Silo manager -->
-  <VBE_SiloManager.title>Менеджер хранилища</VBE_SiloManager.title>
+  <VBE_SiloManager.title>менеджер хранилища</VBE_SiloManager.title>
   <!-- EN: Manager -->
-  <VBE_SiloManager.titleShort>Менеджер</VBE_SiloManager.titleShort>
+  <VBE_SiloManager.titleShort>менеджер</VBE_SiloManager.titleShort>
   <!-- EN: Urbworlds are filled with massive resource silos, half a kilometer high and several kilometers across, with thousands of barely-paid workers carrying materials like little ants across the vast complex. [PAWN_nameDef] worked as a manager to one of the silos, and didn't even have to stand up from [PAWN_possessive] desk -->
-  <VBE_SiloManager.description>Урбанизированные миры заполнены массивными хранилищами, высота которых может достигать полкилометра, а диаметр до нескольких километров. Внутри этих хранилищ снуют тысячами людей, работающих за гроши и разносящих материалы по огромному комплексу, подобно муравьям. {PAWN_nameDef} {PAWN_gender ? работал : работала} менеджером в одном из таких хранилищ, и {PAWN_gender ? ему : ей} даже не приходилось вставать из-за стола.</VBE_SiloManager.description>
+  <VBE_SiloManager.description>Урбанизированные миры заполнены массивными хранилищами, высота которых может достигать полкилометра, а диаметр до нескольких километров. Внутри этих хранилищ снуют тысячи людей, работающих за гроши и разносящих материалы по огромному комплексу, подобно муравьям. {PAWN_nameDef} {PAWN_gender ? работал : работала} менеджером в одном из таких хранилищ, и {PAWN_gender ? ему : ей} даже не приходилось вставать из-за стола.</VBE_SiloManager.description>
 
   <!-- EN: Pushover -->
   <VBE_Pushover.title>травимый</VBE_Pushover.title>

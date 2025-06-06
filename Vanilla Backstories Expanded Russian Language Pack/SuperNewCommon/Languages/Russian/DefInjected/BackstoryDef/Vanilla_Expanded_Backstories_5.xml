@@ -10,11 +10,11 @@
   <VBE_EldestCaretaker.description>Как старший ребёнок, {PAWN_nameDef} {PAWN_gender ? должен был : должна была} присматривать за младшими братьями и сестрами. Пока взрослые были на работе, {PAWN_pronoun} {PAWN_gender ? следил : следила} за ними, но, из-за этого, {PAWN_objective} не удалось {PAWN_gender ? самому : самой} побыть ребёнком.</VBE_EldestCaretaker.description>
 
   <!-- EN: Oracle -->
-  <VBE_Oracle.title>Провидец</VBE_Oracle.title>
+  <VBE_Oracle.title>оракул</VBE_Oracle.title>
   <!-- EN: Oracle -->
-  <VBE_Oracle.titleShort>Оракул</VBE_Oracle.titleShort>
+  <VBE_Oracle.titleShort>оракул</VBE_Oracle.titleShort>
   <!-- EN: [PAWN_nameDef] wasn't like everyone else, and they all knew it. The strange visions, outbursts and eccentric behavior always kept [PAWN_nameDef] at arm's length from others. [PAWN_objective] would have been outcast long before, were it not for [PAWN_possessive] visions so often true -->
-  <VBE_Oracle.description>{PAWN_nameDef} {PAWN_gender ? был не таким : была не такой}, как все, и все это знали. Странные видения, вспышки и эксцентричное поведение всегда держали [PAWN_nameDef] на расстоянии вытянутой руки от других. {PAWN_pronoun} давно бы уже {PAWN_gender ? стал : стала} изгоем, если бы не {PAWN_possessive} видения, которые так часто оказывались правдой.</VBE_Oracle.description>
+  <VBE_Oracle.description>{PAWN_nameDef} {PAWN_gender ? был не таким : была не такой}, как все, и все это знали. Странные видения, вспышки и эксцентричное поведение всегда держали {PAWN_nameDef} на расстоянии вытянутой руки от других. {PAWN_pronoun} давно бы уже {PAWN_gender ? стал : стала} изгоем, если бы не {PAWN_possessive} видения, которые так часто оказывались правдой.</VBE_Oracle.description>
   
   <!-- EN: Apprentice -->
   <VBE_Apprentice.title>ученик</VBE_Apprentice.title>
@@ -29,7 +29,7 @@
   <VBE_MedievalPage.title>средневековый слуга</VBE_MedievalPage.title>
   <VBE_MedievalPage.titleFemale>средневековая слуга</VBE_MedievalPage.titleFemale>
   <!-- EN: Page -->
-  <VBE_MedievalPage.titleShort>Слуга</VBE_MedievalPage.titleShort>
+  <VBE_MedievalPage.titleShort>слуга</VBE_MedievalPage.titleShort>
   <!-- EN: Serving under a great lord or lady, [PAWN_nameDef] was sworn to their liege. This mostly amounted to a whole lot of hauling, cleaning and busywork, but there was much to be learned in studying under the 'care' of nobility -->
   <VBE_MedievalPage.description>Служа под началом великого лорда или леди, {PAWN_nameDef} {PAWN_gender ? присягнул : присягнула} своему сеньору. В основном это сводилось к тасканию тяжестей, уборке и работе, но в обучении под "опекой" знати можно было многому научиться.</VBE_MedievalPage.description>
 
@@ -43,9 +43,9 @@
   <VBE_Translator.description>{PAWN_nameDef} всегда {PAWN_gender ? любил : любила} иностранные языки. {PAWN_pronoun} {PAWN_gender ? работал : работала} на дому в качестве внештатного переводчика. Это давало {PAWN_objective} достаточно времени, чтобы расширять свои знания в различных областях и ухаживать за своим садом. Однако {PAWN_pronoun} {PAWN_gender ? мог : могла} неделями обходиться без общения с людьми, и по сей день чувствует себя неуверенно рядом с незнакомцами.</VBE_Translator.description>
 
   <!-- EN: Maid -->
-  <VBE_Maid.title>Прислуга</VBE_Maid.title>
+  <VBE_Maid.title>прислуга</VBE_Maid.title>
   <!-- EN: Maid -->
-  <VBE_Maid.titleShort>Прислуга</VBE_Maid.titleShort>
+  <VBE_Maid.titleShort>прислуга</VBE_Maid.titleShort>
   <!-- EN: Trim and tidy, this is [PAWN_nameDef]'s moto. [PAWN_pronoun] sees a lot more the seedy side of the world, cleaning up after it in one way or another. But [PAWN_pronoun] knows best when to apply [PAWN_possessive] trade, for there's more to [PAWN_possessive] skill than merely cleaning. -->
   <VBE_Maid.description>«Чистота и порядок» — вот девиз, которому следует {PAWN_nameDef}. {PAWN_pronoun} намного чаще других сталкивается с неприглядной стороной мира и справляется с ней так, как может. Но при этом {PAWN_pronoun} лучше других знает, как применять свои навыки, ведь это больше, чем просто уборка.</VBE_Maid.description>
 
@@ -56,11 +56,11 @@
   <VBE_AbandonedColonist.titleShort>колонист</VBE_AbandonedColonist.titleShort>
   <VBE_AbandonedColonist.titleShortFemale>колонистка</VBE_AbandonedColonist.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was selected for a colonization program on a distant rimworld. When [PAWN_possessive] ship was torn apart, [PAWN_nameDef] was not among the select few granted the privilege of an escape pod. But, by some sheer miracle, [PAWN_pronoun] survived, and vowed to find those who had left [PAWN_objective] behind. -->
-  <VBE_AbandonedColonist.description>{PAWN_nameDef} {PAWN_gender ? был отобран : была отобрана} для программы колонизации на далеком окраинном мире. Когда {PAWN_possessive} корабль  разорвался на части, [PAWN_nameDef] не {PAWN_gender ? попал : попала} в число избранных, которым была предоставлена привилегия спасательной капсулы. Но каким-то чудом {PAWN_pronoun} {PAWN_gender ? выжила и поклялся : выжила и поклялась} найти тех, кто оставил [PAWN_possessive] на произвол судьбы.</VBE_AbandonedColonist.description>
+  <VBE_AbandonedColonist.description>{PAWN_nameDef} {PAWN_gender ? был отобран : была отобрана} для программы колонизации на далеком окраинном мире. Когда {PAWN_possessive} корабль разорвался на части, {PAWN_nameDef} не {PAWN_gender ? попал : попала} в число избранных, которым была предоставлена привилегия спасательной капсулы. Но каким-то чудом {PAWN_pronoun} {PAWN_gender ? выжил и поклялся : выжила и поклялась} найти тех, кто оставил {PAWN_possessive} на произвол судьбы.</VBE_AbandonedColonist.description>
 
   <!-- EN: Corporate spy -->
-  <VBE_CorporateSpy.title>Корпоративный шпион</VBE_CorporateSpy.title>
-  <VBE_CorporateSpy.titleFemale>Корпоративная шпионка</VBE_CorporateSpy.titleFemale>
+  <VBE_CorporateSpy.title>корпоративный шпион</VBE_CorporateSpy.title>
+  <VBE_CorporateSpy.titleFemale>корпоративная шпионка</VBE_CorporateSpy.titleFemale>
   <!-- EN: Spy -->
   <VBE_CorporateSpy.titleShort>шпион</VBE_CorporateSpy.titleShort>
   <VBE_CorporateSpy.titleShortFemale>шпионка</VBE_CorporateSpy.titleShortFemale>
@@ -76,9 +76,9 @@
   <VBE_Bullleaper.description>{PAWN_nameDef} {PAWN_gender ? избрал : избрала} для себя карьеру танцора и акробата. {PAWN_pronoun} {PAWN_gender ? радовал : радовала} толпу, танцуя вокруг разъярённого быка и прыгая через него. Каждый такой танцор должен быть быстрым и ловким в движениях, но по-настоящему {PAWN_gender ? успешным : успешной} {PAWN_nameDef} {PAWN_gender ? стал : стала} благодаря тонкому пониманию поведения животного. Поскольку танцы с быками — очень опасное занятие, то {PAWN_objective} часто приходилось оказывать первую помощь другим танцорам.</VBE_Bullleaper.description>
 
   <!-- EN: Drone operator -->
-  <VBE_DroneOperator.title>Оператор камер</VBE_DroneOperator.title>
+  <VBE_DroneOperator.title>оператор дронов</VBE_DroneOperator.title>
   <!-- EN: Controller -->
-  <VBE_DroneOperator.titleShort>Оператор</VBE_DroneOperator.titleShort>
+  <VBE_DroneOperator.titleShort>оператор</VBE_DroneOperator.titleShort>
   <!-- EN: [PAWN_nameDef] was hired to oversee the defensive drones for a large intra-system freighter ship. Intended to help provide a set of human eyes to stop craftier pirates from slipping past the automated systems, [PAWN_possessive] job frequently entailed long stretches of nothing but maintenance and watching empty screens between docks. When the ship was enlisted to transfer to a system, [PAWN_pronoun] thought nothing of it, and continued [PAWN_possessive] routine. [PAWN_pronoun] was dozing soundly when the first breaching pod hit -->
   <VBE_DroneOperator.description>{PAWN_nameDef} {PAWN_gender ? был нанят : была нанята} для надзора за оборонительными дронами на большом внутрисистемном грузовом корабле. Задуманная как помощь в обеспечении человеческих глаз, чтобы остановить более хитрых пиратов от проскальзывания мимо автоматизированных систем, {PAWN_possessive} работа часто влекла за собой долгие периоды отсутствия какого-либо разнообразия, кроме технического обслуживания и наблюдения за пустыми экранами между доками. Когда корабль зачислили в штат для переброски в какую-то систему, {PAWN_pronoun} ни о чем не {PAWN_gender ? подумал и продолжил : подумала и продолжила} свою рутину. Когда {PAWN_pronoun} крепко {PAWN_gender ? дремал : дремала}, обшивку корабля прорвал первый абордажный корабль.</VBE_DroneOperator.description>
 
@@ -100,23 +100,23 @@
   <VBE_AdventurousDreamer.description>{PAWN_nameDef} {PAWN_gender ? провел : провела} своё детство, читая все фантастические книги, до которых {PAWN_pronoun} {PAWN_gender ? мог : могла} добраться. {PAWN_pronoun} {PAWN_gender ? обожал : обожала} фантастику во всех ее проявлениях, мечтая об исследовании фантастических миров и поиске всевозможных сокровищ. Хотя со временем {PAWN_pronoun} все больше {PAWN_gender ? погружался : погружалась} в обыденность своей жизни, {PAWN_pronoun} {PAWN_gender ? никогда не терял : никогда не теряла} искру надежды на что-то более захватывающее.</VBE_AdventurousDreamer.description>
 
   <!-- EN: Standard-bearer -->
-  <VBE_Standardbearer.title>Знаменосец</VBE_Standardbearer.title>
+  <VBE_Standardbearer.title>знаменосец</VBE_Standardbearer.title>
   <!-- EN: Banneret -->
-  <VBE_Standardbearer.titleShort>Знаменосец</VBE_Standardbearer.titleShort>
+  <VBE_Standardbearer.titleShort>знаменосец</VBE_Standardbearer.titleShort>
   <!-- EN: [PAWN_nameDef] was a standardbearer.  [PAWN_possessive] had to bear and protect the emblem of  [PAWN_possessive] people in wartime. [PAWN_pronoun] was chosen because of  [PAWN_possessive] fighting skills and [PAWN_possessive] ability to read the battlefield: [PAWN_pronoun] was expected to push forward if a group was wavering and to retreat with the emblem if the battle was lost. [PAWN_pronoun] was freed from cooking and digging duties -->
   <VBE_Standardbearer.description>{PAWN_nameDef} {PAWN_gender ? был : была} знаменосцем. {PAWN_pronoun} {PAWN_gender ? должен был : должна была} нести и защищать эмблему {PAWN_possessive} народа в военное время. {PAWN_possessive} выбрали из-за боевых навыков и из-за способности читать поле боя: {PAWN_pronoun} {PAWN_gender ? должен был : должна была} продвигаться вперед, если группа колебалась, и отступать, сохраняя знамя, если битва была проиграна. {PAWN_possessive} освободили от обязанностей по приготовлению пищи и копанию.</VBE_Standardbearer.description>
 
   <!-- EN: Midworld programmer -->
-  <VBE_MidworldProgrammer.title>Программист среднего мира</VBE_MidworldProgrammer.title>
+  <VBE_MidworldProgrammer.title>программист среднего мира</VBE_MidworldProgrammer.title>
   <!-- EN: Programmer -->
-  <VBE_MidworldProgrammer.titleShort>Программист</VBE_MidworldProgrammer.titleShort>
+  <VBE_MidworldProgrammer.titleShort>программист</VBE_MidworldProgrammer.titleShort>
   <!-- EN: [PAWN_nameDef]'s dream was to become a programmer and create Medicine software to make people's lives better. As it often happens, [PAWN_possessive] life turned out differently. To earn a living, [PAWN_nameDef] had to start writing military software for combat robots. It gave [PAWN_objective] a lot of programming knowledge as well as some insights in weapons' inner workings. -->
   <VBE_MidworldProgrammer.description>{PAWN_nameDef} {PAWN_gender ? мечтал : мечтала} стать программистом и создавать программное обеспечение для медицины, чтобы сделать жизнь людей лучше. Но увы, как это часто бывает — {PAWN_possessive} жизнь сложилась иначе. Чтобы заработать на жизнь, {PAWN_nameDef} {PAWN_gender ? был вынужден: была вынуждена} писать код для боевых машин. Это дало {PAWN_objective} много знаний в области программирования, а также некоторое представление о внутреннем устройстве различного оружия.</VBE_MidworldProgrammer.description>
 
   <!-- EN: Landsknecht -->
-  <VBE_Landsknecht.title>Ландскнехт</VBE_Landsknecht.title>
+  <VBE_Landsknecht.title>ландскнехт</VBE_Landsknecht.title>
   <!-- EN: Landsknecht -->
-  <VBE_Landsknecht.titleShort>Ландскнехт</VBE_Landsknecht.titleShort>
+  <VBE_Landsknecht.titleShort>ландскнехт</VBE_Landsknecht.titleShort>
   <!-- EN: [PAWN_nameDef] was barely scrapping by in [PAWN_possessive] village when the recruiter came. The man told [PAWN_objective] that [PAWN_pronoun] would get his first payment in advance, so [PAWN_nameDef] sold [PAWN_possessive] tools and enlisted. At the beginning, [PAWN_pronoun] only had a pike, but after some time [PAWN_pronoun] was able to buy the extravagant clothing marking [PAWN_objective] as a successful soldier. He never betrayed [PAWN_possessive] principles: don't question the orders of whoever is keeping you fed. -->
-  <VBE_Landsknecht.description>{PAWN_nameDef} едва {PAWN_gender ? сводил : сводила} концы с концами в своей родной деревне, когда пришел вербовщик, который пообещал {PAWN_objective} оплату вперёд. Поэтому {PAWN_nameDef} {PAWN_gender ? поспешил : поспешила} продать свои инструменты и записаться в армию. В начале карьеры, у н{PAWN_possessive} из снаряжения была только пика, но спустя некоторое время успешной службы {PAWN_nameDef} {PAWN_gender ? смог : смогла} обзавестись вычурной одеждой, обозначавшей {PAWN_possessive} статус состоявшегося солдата. {PAWN_nameDef} никогда не изменяет своему главному принципу: «Не обсуждай приказы того, кто тебя кормит.</VBE_Landsknecht.description>
+  <VBE_Landsknecht.description>{PAWN_nameDef} едва {PAWN_gender ? сводил : сводила} концы с концами в своей родной деревне, когда пришел вербовщик, который пообещал {PAWN_objective} оплату вперёд. Поэтому {PAWN_nameDef} {PAWN_gender ? поспешил : поспешила} продать свои инструменты и записаться в армию. В начале карьеры, у н{PAWN_possessive} из снаряжения была только пика, но спустя некоторое время успешной службы {PAWN_nameDef} {PAWN_gender ? смог : смогла} обзавестись вычурной одеждой, обозначавшей {PAWN_possessive} статус состоявшегося солдата. {PAWN_nameDef} никогда не изменяет своему главному принципу: «Не обсуждай приказы того, кто тебя кормит».</VBE_Landsknecht.description>
 </LanguageData>

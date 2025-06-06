@@ -37,8 +37,10 @@
 
   <!-- EN: Engine helper -->
 	<VBE_EngineHelper.title>подручный моториста</VBE_EngineHelper.title>
+  <VBE_EngineHelper.titleFemale>подручная моториста</VBE_EngineHelper.titleFemale>
   <!-- EN: Helper -->
 	<VBE_EngineHelper.titleShort>подручный</VBE_EngineHelper.titleShort>
+  <VBE_EngineHelper.titleShortFemale>подручная</VBE_EngineHelper.titleShortFemale>
   <!-- EN: Even as a child, [PAWN_pronoun] was obsessed with the ship's engine room. Under the watchful eye of the engineers, [PAWN_pronoun] learned how to maintain and repair the engines that kept their world alive. This early start gave [PAWN_pronoun] a good head start in mechanical skills but meant [PAWN_pronoun] was often too busy to make friends or study other subjects. -->
 	<VBE_EngineHelper.description>Ещё в детстве {PAWN_nameDef} {PAWN_gender ? был одержим : была одержима} моторным отсеком корабля. Под присмотром инженеров {PAWN_pronoun} {PAWN_gender ? научился : научилась} обслуживать и ремонтировать двигатели, которые обеспечивали жизнь всего, что их окружало. Такое раннее начало дало {PAWN_nameDef} хороший старт в освоении навыков механики, но это привело к тому, что {PAWN_pronoun} всегда {PAWN_gender ? был чересчур занят : была чересчур занята}, чтобы заводить друзей или изучать другие предметы.</VBE_EngineHelper.description>
 
@@ -71,14 +73,14 @@
 	<VBE_JungleScout.titleShort>разведчик</VBE_JungleScout.titleShort>
   <VBE_JungleScout.titleShortFemale>разведчица</VBE_JungleScout.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was born into a tribe that lived in the dense jungles of their homeworld. From a young age, [PAWN_pronoun] learned how to move silently through the underbrush and identify the myriad of plants and animals. While [PAWN_pronoun] became adept at tracking and foraging, the isolation from advanced technology left [PAWN_pronoun] with little understanding of the outside world. -->
-	<VBE_JungleScout.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась} в племени, жившем в густых джунглях их родной планеты. С раннего возраста {PAWN_pronoun} {PAWN_gender ? научился : научилась} бесшумно передвигаться в зарослях и различать мириады растений и животных. Хотя {PAWN_nameDef} {PAWN_gender ? стал искусным : стала искусной} в выслеживании и добыче пищи, изоляция от передовых не позволила {PAWN_objective} составить представление о внешнем мире.</VBE_JungleScout.description>
+	<VBE_JungleScout.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась} в племени, жившем в густых джунглях их родной планеты. С раннего возраста {PAWN_pronoun} {PAWN_gender ? научился : научилась} бесшумно передвигаться в зарослях и различать мириады растений и животных. Хотя {PAWN_nameDef} {PAWN_gender ? стал искусным : стала искусной} в выслеживании и добыче пищи, изоляция от передовых технологий не позволила {PAWN_objective} составить представление о внешнем мире.</VBE_JungleScout.description>
 
   <!-- EN: Storyteller's kin -->
-	<VBE_StorytellersKin.title>родня сказителя</VBE_StorytellersKin.title>
+	<VBE_StorytellersKin.title>потомок сказителя</VBE_StorytellersKin.title>
   <!-- EN: Kin -->
 	<VBE_StorytellersKin.titleShort>потомок</VBE_StorytellersKin.titleShort>
   <!-- EN: As the kin to the tribe's storyteller, [PAWN_nameDef] learned the ancient tales and legends by heart, understanding the moral and lessons within each story. [PAWN_pronoun] could captivate any audience with [PAWN_possessive] words, but [PAWN_pronoun] struggled with the practical skills of hunting and crafting, finding more comfort in tales than tools. -->
-	<VBE_StorytellersKin.description>Будучи потомком сказителя племени, {PAWN_nameDef} {PAWN_gender ? выучил : выучила} древние сказки и легенды наизусть, понимая мораль и уроки каждой истории. {PAWN_pronoun} {PAWN_gender ? мог : могла} увлечь любую аудиторию словами, но при этом {PAWN_nameDef} с трудом {PAWN_gender ? осваивал : осваивала} практические навыки охоты и ремесла, находя больший покой в рассказах, нежели в инструментах.</VBE_StorytellersKin.description>
+	<VBE_StorytellersKin.description>Будучи потомком сказителя племени, {PAWN_nameDef} {PAWN_gender ? выучил : выучила} древние сказки и легенды наизусть, понимая мораль и уроки каждой истории. {PAWN_pronoun} {PAWN_gender ? мог : могла} увлечь любую аудиторию своими словами, но при этом {PAWN_pronoun} с трудом {PAWN_gender ? осваивал : осваивала} практические навыки охоты и ремесла, находя больший покой в рассказах, нежели в инструментах.</VBE_StorytellersKin.description>
 
   <!-- EN: Herbal kin -->
 	<VBE_HerbalKin.title>потомок травника</VBE_HerbalKin.title>
