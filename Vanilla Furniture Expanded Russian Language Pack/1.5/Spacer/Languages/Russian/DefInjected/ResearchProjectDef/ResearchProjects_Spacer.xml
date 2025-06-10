@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- EN: spacer furniture -->
   <SpacerFurniture.label>мебель космического уровня</SpacerFurniture.label>
   <!-- EN: Build advanced furniture usually only seen in advanced colonies and glitterworld buildings. -->
@@ -9,14 +10,17 @@
 		<li>subject->furnishing the future</li>
 		<li>subject_story->unveiled furniture designs that blend elegance with advanced functionality, suitable for the most sophisticated of colonies</li>
 		<li>subject_story->introduced living solutions that adapt to their users, combining comfort with cutting-edge technology</li>
-		<li>subject_gerund->redefining space with furniture that's as smart as it is stylish</li>
+		<li>subject_gerund->redefining space with furniture that's as smart as it is stylish</li> -->
 
   <SpacerFurniture.generalRules.rulesStrings>
-		<li>subject->furnishing the future</li>
-		<li>subject_story->unveiled furniture designs that blend elegance with advanced functionality, suitable for the most sophisticated of colonies</li>
-		<li>subject_story->introduced living solutions that adapt to their users, combining comfort with cutting-edge technology</li>
-		<li>subject_gerund->redefining space with furniture that's as smart as it is stylish</li>
-  </SpacerFurniture.generalRules.rulesStrings>   -->
+		<li>subject->меблировка будущего</li>
+		<li>subject_gen->меблировки будущего</li>
+		<li>subject_dat->меблировке будущего</li>
+		<li>subject_pre_about->о меблировке будущего</li>
+		<li>subject_story->{ANYPAWN_gender ? представил : представила} подходящий для самых изысканных поселений дизайн мебели, сочетающий элегантность и передовую функциональность</li>
+		<li>subject_story->{ANYPAWN_gender ? предложил : предложила} решения для жилых помещений, которые адаптируются под своих пользователей, сочетая комфорт с передовыми технологиями</li>
+		<li>subject_gerund->переосмысления пространства с помощью мебели, которая настолько же продуманна, насколько и стильна</li>
+  </SpacerFurniture.generalRules.rulesStrings>
 
   <!-- EN: spacer electronics -->
   <SpacerElectronics.label>электроника космического уровня</SpacerElectronics.label>
@@ -27,30 +31,16 @@
 		<li>subject->circuitry of the cosmos</li>
 		<li>subject_story->engineered electronics that push the boundaries of what's possible, powering devices that were once the realm of science fiction</li>
 		<li>subject_story->brought glitterworld technologies to the hands of the colonists, elevating everyday experiences with unparalleled efficiency and ease</li>
-		<li>subject_gerund->unlocking the ultimate potential of electronic innovation</li>
+		<li>subject_gerund->unlocking the ultimate potential of electronic innovation</li> -->
 
   <SpacerElectronics.generalRules.rulesStrings>
-		<li>subject->circuitry of the cosmos</li>
-		<li>subject_story->engineered electronics that push the boundaries of what's possible, powering devices that were once the realm of science fiction</li>
-		<li>subject_story->brought glitterworld technologies to the hands of the colonists, elevating everyday experiences with unparalleled efficiency and ease</li>
-		<li>subject_gerund->unlocking the ultimate potential of electronic innovation</li>
-  </SpacerElectronics.generalRules.rulesStrings>   -->
+		<li>subject->электроника космического уровня</li>
+		<li>subject_gen->электроники космического уровня</li>
+		<li>subject_dat->электронике космического уровня</li>
+		<li>subject_pre_about->об электронике космического уровня</li>
+		<li>subject_story->{ANYPAWN_gender ? создал : создала} электронику, которая расширяет границы возможного, приводя в действие устройства, которые когда-то были предметом научной фантастики</li>
+		<li>subject_story->{ANYPAWN_gender ? внедрил : внедрила} технологии миров-утопий, повысив эффективность и простоту повседневной жизни</li>
+		<li>subject_gerund->раскрытия максимального потенциала электронных инноваций</li>
+  </SpacerElectronics.generalRules.rulesStrings>
 
-  <!-- EN: mechanite restoration -->
-  <MechaniteRestoration.label>механитное восстановление</MechaniteRestoration.label>
-  <!-- EN: Use ultratech mechanites to aid in restoration of objects by constructing a mechanite repair shelf. -->
-  <MechaniteRestoration.description>Использование ультратехнологичных механитов для восстановления предметов на ремонтном стеллаже.</MechaniteRestoration.description>
-  
-   <!-- EN: 
-		<li>subject->the microarchitects of renewal</li>
-		<li>subject_story->harnessed ultratech mechanites for the restoration and maintenance of objects, breathing life back into the worn and aged</li>
-		<li>subject_story->developed the mechanite repair shelf, a pinnacle of repair technology, where nanites work tirelessly to reverse damage and decay</li>
-		<li>subject_gerund->embracing the tiny titans of reconstruction for a world renewed</li>
-
-  <MechaniteRestoration.generalRules.rulesStrings>
-		<li>subject->the microarchitects of renewal</li>
-		<li>subject_story->harnessed ultratech mechanites for the restoration and maintenance of objects, breathing life back into the worn and aged</li>
-		<li>subject_story->developed the mechanite repair shelf, a pinnacle of repair technology, where nanites work tirelessly to reverse damage and decay</li>
-		<li>subject_gerund->embracing the tiny titans of reconstruction for a world renewed</li>
-  </MechaniteRestoration.generalRules.rulesStrings>   -->
 </LanguageData>
