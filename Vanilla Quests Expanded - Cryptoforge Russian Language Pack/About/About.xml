@@ -1,0 +1,40 @@
+<ModMetaData>
+	<name>Vanilla Quests Expanded - Cryptoforge</name>
+	<author>Oskar Potocki, Sarg Bjornson, Taranchuk</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+		<li>brrainz.harmony</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+
+	<packageId>vanillaquestsexpanded.cryptoforge</packageId>
+	<description>In Vanilla Quests Expanded: Cryptoforge, players embark on a perilous expedition into the planet’s icy north pole, uncovering the broken remains of a long-lost starship. Said to have belonged to a cryptoparticle-wielding nomadic civilization, this vessel, known as the Cryptoforge, has shattered as it entered the atmosphere, scattering its secrets across the frozen wastes.
+
+Your colony’s journey begins at a derelict radar station, where ancient scans reveal the crash sites of the ship’s stern and bow. Each fragment presents its own environmental hazards and deadly inhabitants: from cryptofused insectoid nests to dormant mechanoids sealed in frozen stasis. At the heart of each wreck lies a black box containing encrypted data, vital to locating the final piece of the puzzle.
+
+Once the black boxes are recovered, the quest leads you to the core of the ship: the legendary cryptoforge itself. This ancient ultratech workbench is capable of crafting some of the most powerful gear, including customizable cryptoaxes, long range cryptobolters and powerful crypto armor. However, activating the cryptoforge requires jump-starting a damaged cryptogenerator, setting off a race against time as its unstable fuel source counts down to a catastrophic meltdown.
+
+During the final stage, your caravan must endure relentless mechanoid assaults, sustain heat and power within the frozen wreck, and defend your crafters as they work under pressure. Scavenge valuable materials embedded in the ship’s twisted remains, study arcane blueprints, and manage morale in the depths of this frigid tomb. The forge allows only a limited crafting window: once the generator explodes, the opportunity is lost forever.</description>
+</ModMetaData>

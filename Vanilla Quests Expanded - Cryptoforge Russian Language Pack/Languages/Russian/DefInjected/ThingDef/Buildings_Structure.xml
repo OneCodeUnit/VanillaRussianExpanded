@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Walls -->
+
+  <!-- EN: frozen ship hull -->
+	<VQE_FrozenShipHull.label>frozen ship hull</VQE_FrozenShipHull.label>
+  <!-- EN: An impassable, indestructible ship hull wall. Capable of holding up a roof. -->
+	<VQE_FrozenShipHull.description>An impassable, indestructible ship hull wall. Capable of holding up a roof.</VQE_FrozenShipHull.description>
+
+  <!-- EN: fragile frozen ship hull -->
+	<VQE_FragileFrozenShipHull.label>fragile frozen ship hull</VQE_FragileFrozenShipHull.label>
+  <!-- EN: An impassable ship hull wall. The cracks and damage from the crash allow it to be destroyed. Capable of holding up a roof. -->
+	<VQE_FragileFrozenShipHull.description>An impassable ship hull wall. The cracks and damage from the crash allow it to be destroyed. Capable of holding up a roof.</VQE_FragileFrozenShipHull.description>
+
+  <!-- EN: ancient airlock -->
+	<VQE_AncientAirlock.label>ancient airlock</VQE_AncientAirlock.label>
+  <!-- EN: A heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_AncientAirlock.description>A heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function.</VQE_AncientAirlock.description>
+
+  <!-- EN: stuck ancient airlock -->
+	<VQE_JammedAncientAirlock.label>stuck ancient airlock</VQE_JammedAncientAirlock.label>
+  <!-- EN: A heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_JammedAncientAirlock.description>A heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function.</VQE_JammedAncientAirlock.description>
+  <!-- EN: Force this ancient airlock open -->
+	<VQE_JammedAncientAirlock.comps.0.jobString>Force this ancient airlock open</VQE_JammedAncientAirlock.comps.0.jobString>
+
+  <!-- EN: forced ancient airlock -->
+	<VQE_ForcedAncientAirlock.label>forced ancient airlock</VQE_ForcedAncientAirlock.label>
+  <!-- EN: A heavily reinforced airlock door. It has been forced open and cannot be closed again. -->
+	<VQE_ForcedAncientAirlock.description>A heavily reinforced airlock door. It has been forced open and cannot be closed again.</VQE_ForcedAncientAirlock.description>
+
+  <!-- EN: ancient large airlock -->
+	<VQE_AncientAirlock_Large.label>ancient large airlock</VQE_AncientAirlock_Large.label>
+  <!-- EN: A large, heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_AncientAirlock_Large.description>A large, heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function.</VQE_AncientAirlock_Large.description>
+
+  <!-- EN: stuck ancient large airlock -->
+	<VQE_JammedAncientAirlock_Large.label>stuck ancient large airlock</VQE_JammedAncientAirlock_Large.label>
+  <!-- EN: A large, heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_JammedAncientAirlock_Large.description>A large, heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function.</VQE_JammedAncientAirlock_Large.description>
+  <!-- EN: Force this ancient large airlock open -->
+	<VQE_JammedAncientAirlock_Large.comps.0.jobString>Force this ancient large airlock open</VQE_JammedAncientAirlock_Large.comps.0.jobString>
+
+  <!-- EN: forced ancient large airlock -->
+	<VQE_ForcedAncientAirlock_Large.label>forced ancient large airlock</VQE_ForcedAncientAirlock_Large.label>
+  <!-- EN: A heavily reinforced large airlock door. It has been forced open and cannot be closed again. -->
+	<VQE_ForcedAncientAirlock_Large.description>A heavily reinforced large airlock door. It has been forced open and cannot be closed again.</VQE_ForcedAncientAirlock_Large.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull1x1Left.label>cryptoship hull</VQE_CryptoshipHull1x1Left.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull1x1Left.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull1x1Left.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull1x1Right.label>cryptoship hull</VQE_CryptoshipHull1x1Right.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull1x1Right.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull1x1Right.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull2x1Left.label>cryptoship hull</VQE_CryptoshipHull2x1Left.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull2x1Left.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull2x1Left.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull2x1Right.label>cryptoship hull</VQE_CryptoshipHull2x1Right.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull2x1Right.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull2x1Right.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull3x1Left.label>cryptoship hull</VQE_CryptoshipHull3x1Left.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull3x1Left.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull3x1Left.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull3x1Right.label>cryptoship hull</VQE_CryptoshipHull3x1Right.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull3x1Right.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull3x1Right.description>
+
+
+
+</LanguageData>
