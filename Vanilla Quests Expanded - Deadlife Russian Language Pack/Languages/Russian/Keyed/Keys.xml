@@ -2,43 +2,43 @@
 <LanguageData>
 
   <!-- EN: {0} has successfully kickstarted the generator -->
-	<VQED_KickstartedSuccess>{0} has successfully kickstarted the generator</VQED_KickstartedSuccess>
+	<VQED_KickstartedSuccess>{0} успешно запустил генератор</VQED_KickstartedSuccess>
   <!-- EN: Will stop working in {0} -->
-	<VQED_KickStartTimer>Will stop working in {0}</VQED_KickStartTimer>
+	<VQED_KickStartTimer>Остановится через {0}</VQED_KickStartTimer>
   <!-- EN: DEBUG: Spawning shamblers in {0} -->
-	<VQED_DebugNextSpawn>DEBUG: Spawning shamblers in {0}</VQED_DebugNextSpawn>
+	<VQED_DebugNextSpawn>ОТЛАДКА: Появление шамблеров через {0}</VQED_DebugNextSpawn>
   <!-- EN: Study ancient plans -->
-	<VQED_StudyAncientPlansLabel>Study ancient plans</VQED_StudyAncientPlansLabel>
+	<VQED_StudyAncientPlansLabel>Изучить древние планы</VQED_StudyAncientPlansLabel>
   <!-- EN: Study the ancient plans to discover the location of another ancient silo. -->
-	<VQED_StudyAncientPlansDesc>Study the ancient plans to discover the location of another ancient silo.</VQED_StudyAncientPlansDesc>
+	<VQED_StudyAncientPlansDesc>Изучить древние планы, чтобы обнаружить местоположение другой древней шахты.</VQED_StudyAncientPlansDesc>
   <!-- EN: Missing: ancient kino projector -->
-	<VQED_MissingKinoProjector>Missing: ancient kino projector</VQED_MissingKinoProjector>
+	<VQED_MissingKinoProjector>Отсутствует: древний кинопроектор</VQED_MissingKinoProjector>
   <!-- EN: Not working: ancient kino projector is unpowered -->
-	<VQED_KinoProjectorUnpowered>Not working: ancient kino projector is unpowered</VQED_KinoProjectorUnpowered>
-  <!-- EN: Not working: ancient kino projector doesn't face the kino screen -->
-	<VQED_KinoScreenWrongRotation>Not working: ancient kino projector doesn't face the kino screen</VQED_KinoScreenWrongRotation>
+	<VQED_KinoProjectorUnpowered>Не работает: древний кинопроектор обесточен</VQED_KinoProjectorUnpowered>
+  <!-- EN: Not working: ancient kino projector doesn’t face the kino screen -->
+	<VQED_KinoScreenWrongRotation>Не работает: древний кинопроектор не направлен на киноэкран</VQED_KinoScreenWrongRotation>
   <!-- EN: Ancient kino screen requires an ancient kino projector placed in front of it to work. -->
-	<VQED_KinoScreenRequiresProjector>Ancient kino screen requires an ancient kino projector placed in front of it to work.</VQED_KinoScreenRequiresProjector>
+	<VQED_KinoScreenRequiresProjector>Для работы древнего киноэкрана требуется древний кинопроектор, размещённый перед ним.</VQED_KinoScreenRequiresProjector>
   <!-- EN: {0}, equipped by {1}, has fully deteriorated. -->
-	<VQED_WeaponDeterioratedMessage>{0}, equipped by {1}, has fully deteriorated.</VQED_WeaponDeterioratedMessage>
+	<VQED_WeaponDeterioratedMessage>{0}, которым экипирован {1}, полностью износилось.</VQED_WeaponDeterioratedMessage>
   <!-- EN: This weapon will deteriorate after a certain number of shots. -->
-	<VQED_WeaponDeteriorationInfo>This weapon will deteriorate after a certain number of shots.</VQED_WeaponDeteriorationInfo>
+	<VQED_WeaponDeteriorationInfo>Это оружие изнашивается после определённого количества выстрелов.</VQED_WeaponDeteriorationInfo>
   <!-- EN: Shots remaining: {0} -->
-	<VQED_ShotRemaining>Shots remaining: {0}</VQED_ShotRemaining>
+	<VQED_ShotRemaining>Выстрелов осталось: {0}</VQED_ShotRemaining>
   <!-- EN: Enter silo -->
-	<VQE_EnterSilo>Enter silo</VQE_EnterSilo>
+	<VQE_EnterSilo>Войти в шахту</VQE_EnterSilo>
   <!-- EN: Exit silo -->
-	<VQE_ExitSilo>Exit silo</VQE_ExitSilo>
+	<VQE_ExitSilo>Выйти из шахты</VQE_ExitSilo>
   <!-- EN: View silo -->
-	<VQE_ViewSilo>View silo</VQE_ViewSilo>
+	<VQE_ViewSilo>Осмотреть шахту</VQE_ViewSilo>
   <!-- EN: View the ancient silo below. -->
-	<VQE_ViewSiloDesc>View the ancient silo below.</VQE_ViewSiloDesc>
+	<VQE_ViewSiloDesc>Осмотреть древнюю шахту снизу.</VQE_ViewSiloDesc>
   <!-- EN: Fill in the death pit -->
-	<VQED_FillPit>Fill in the death pit</VQED_FillPit>
+	<VQED_FillPit>Засыпать яму смерти</VQED_FillPit>
   <!-- EN: Cover the death pit with twisted metal slags to prevent anything from crawling out. -->
-	<VQED_FillPitDesc>Cover the death pit with twisted metal slags to prevent anything from crawling out.</VQED_FillPitDesc>
+	<VQED_FillPitDesc>Покрыть яму смерти деформированным металлическим шлаком, чтобы ничто не могло выползти наружу.</VQED_FillPitDesc>
   <!-- EN: {PAWN_nameFull} awakens -->
-	<VQED_GeneralAwakensLabel>{PAWN_nameFull} awakens</VQED_GeneralAwakensLabel>
+	<VQED_GeneralAwakensLabel>{PAWN_nameFull} пробуждается</VQED_GeneralAwakensLabel>
   <!-- EN: The sealed sarcophagus hisses open, releasing a cloud of deadlife dust, and from within rises {PAWN_title} {PAWN_nameFull}.
 
 Once the commander of Operation: Deadlife, {PAWN_nameFull} is now a shambler-bound remnant of a forgotten war. As {PAWN_pronoun} awakens, {PAWN_pronoun} begin reactivating the base’s long-dormant defense systems: rotstink vents, turret grids, shambler kennels, and containment pits filled with the dead.
@@ -46,31 +46,31 @@ Once the commander of Operation: Deadlife, {PAWN_nameFull} is now a shambler-bou
 {PAWN_possessive} ultimate goal is clear: to initiate the launch sequence for the Deadlife ICBMs: orbital warheads designed to blanket the planet in death. If launched, shambler hordes will rise across the world, destroying settlements and ambushing caravans.
 
 You must reach the command center and destroy the ICBM Launch Terminal before {PAWN_nameFull} completes {PAWN_possessive} grim task. -->
-	<VQED_GeneralAwakensText>The sealed sarcophagus hisses open, releasing a cloud of deadlife dust, and from within rises {PAWN_title} {PAWN_nameFull}.
+	<VQED_GeneralAwakensText>Запечатанный саркофаг с шипением открывается, выпуская облако мёртвой пыли, и из него поднимается {PAWN_title} {PAWN_nameFull}.
 
-Once the commander of Operation: Deadlife, {PAWN_nameFull} is now a shambler-bound remnant of a forgotten war. As {PAWN_pronoun} awakens, {PAWN_pronoun} begin reactivating the base’s long-dormant defense systems: rotstink vents, turret grids, shambler kennels, and containment pits filled with the dead.
+Когда-то командир Операции «Мёртвая жизнь», {PAWN_nameFull} теперь остаток забытой войны, связанный с шамблерами. Когда {PAWN_pronoun} пробуждается, {PAWN_pronoun} начинает реактивировать давно спящие оборонительные системы базы: вентиляционные отверстия гнилостного запаха, турельные сетки, питомники шамблеров и ямы содержания, наполненные мёртвыми.
 
-{PAWN_possessive} ultimate goal is clear: to initiate the launch sequence for the Deadlife ICBMs: orbital warheads designed to blanket the planet in death. If launched, shambler hordes will rise across the world, destroying settlements and ambushing caravans.
+{PAWN_possessive} конечная цель ясна: запустить последовательность пуска межконтинентальных баллистических ракет «Мёртвая жизнь» — орбитальных боеголовок, предназначенных для покрытия планеты смертью. Если они будут запущены, орды шамблеров поднимутся по всему миру, уничтожая поселения и устраивая засады караванам.
 
-You must reach the command center and destroy the ICBM Launch Terminal before {PAWN_nameFull} completes {PAWN_possessive} grim task.</VQED_GeneralAwakensText>
+Вы должны добраться до командного центра и уничтожить терминал запуска МБР, прежде чем {PAWN_nameFull} завершит {PAWN_possessive} мрачную задачу.</VQED_GeneralAwakensText>
   <!-- EN: To protect the launch site, General {0} unsealed one of the death pits. -->
-	<VQED_GeneralUnsealedDeathPit>To protect the launch site, General {0} unsealed one of the death pits.</VQED_GeneralUnsealedDeathPit>
+	<VQED_GeneralUnsealedDeathPit>Чтобы защитить место запуска, генерал {0} вскрыл одну из ям смерти.</VQED_GeneralUnsealedDeathPit>
   <!-- EN: To protect the launch site, General {0} opened up the chutes throughout the complex. -->
-	<VQED_GeneralOpenedChutes>To protect the launch site, General {0} opened up the chutes throughout the complex.</VQED_GeneralOpenedChutes>
+	<VQED_GeneralOpenedChutes>Чтобы защитить место запуска, генерал {0} открыл жёлобы по всему комплексу.</VQED_GeneralOpenedChutes>
   <!-- EN: To protect the launch site, General {0} has awakened a number of high ranking officers from their slumber. -->
-	<VQED_GeneralAwakenedOfficers>To protect the launch site, General {0} has awakened a number of high ranking officers from their slumber.</VQED_GeneralAwakenedOfficers>
+	<VQED_GeneralAwakenedOfficers>Чтобы защитить место запуска, генерал {0} пробудил ряд высокопоставленных офицеров от их сна.</VQED_GeneralAwakenedOfficers>
   <!-- EN: To protect the launch site, General {0} has reactivated the military turrets throughout the complex. -->
-	<VQED_GeneralActivatedTurrets>To protect the launch site, General {0} has reactivated the military turrets throughout the complex.</VQED_GeneralActivatedTurrets>
+	<VQED_GeneralActivatedTurrets>Чтобы защитить место запуска, генерал {0} реактивировал военные турели по всему комплексу.</VQED_GeneralActivatedTurrets>
   <!-- EN: To protect the launch site, General {0} has opened the biomass vents that will flush the complex with rotstink. -->
-	<VQED_GeneralOpenedRotstinkVents>To protect the launch site, General {0} has opened the biomass vents that will flush the complex with rotstink.</VQED_GeneralOpenedRotstinkVents>
+	<VQED_GeneralOpenedRotstinkVents>Чтобы защитить место запуска, генерал {0} открыл вентиляционные отверстия биомассы, которые заполнят комплекс гнилостным запахом.</VQED_GeneralOpenedRotstinkVents>
   <!-- EN: To protect the launch site, General {0} has let the animals out of the kennels. -->
-	<VQED_GeneralReleasedAnimals>To protect the launch site, General {0} has let the animals out of the kennels.</VQED_GeneralReleasedAnimals>
+	<VQED_GeneralReleasedAnimals>Чтобы защитить место запуска, генерал {0} выпустил животных из питомников.</VQED_GeneralReleasedAnimals>
   <!-- EN: {0} has been overrun by a horde of shamblers. -->
-	<VQED_FactionBaseOverrun>{0} has been overrun by a horde of shamblers.</VQED_FactionBaseOverrun>
+	<VQED_FactionBaseOverrun>{0} был захвачен ордой шамблеров.</VQED_FactionBaseOverrun>
   <!-- EN: The shambler horde has been defeated. -->
-	<VQED_ShamblersDefeated>The shambler horde has been defeated.</VQED_ShamblersDefeated>
+	<VQED_ShamblersDefeated>Орда шамблеров была побеждена.</VQED_ShamblersDefeated>
   <!-- EN: To protect the launch site, General {0} reactivated the deadlife vents in an attempt to respawn any defeated shamblers. -->
-	<VQED_GeneralReactivatedDeadlifeVents>To protect the launch site, General {0} reactivated the deadlife vents in an attempt to respawn any defeated shamblers.</VQED_GeneralReactivatedDeadlifeVents>
+	<VQED_GeneralReactivatedDeadlifeVents>Чтобы защитить место запуска, генерал {0} реактивировал вентиляционные отверстия мёртвой жизни в попытке возродить любых побеждённых шамблеров.</VQED_GeneralReactivatedDeadlifeVents>
 
 
 </LanguageData>

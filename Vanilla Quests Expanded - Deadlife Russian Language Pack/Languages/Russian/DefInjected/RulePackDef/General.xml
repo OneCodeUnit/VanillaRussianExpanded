@@ -6,8 +6,8 @@
     LastNameList->Names/General_Last
    -->
 	<VQE_GeneralMale.rulePack.rulesFiles>
-    <li>FirstNameMaleList-&gt;Names/General_First_Male</li>
-    <li>LastNameList-&gt;Names/General_Last</li>
+    <li>FirstNameMaleList->Names/General_First_Male</li>
+    <li>LastNameList->Names/General_Last</li>
   </VQE_GeneralMale.rulePack.rulesFiles>
 
   <!-- EN: 
@@ -15,8 +15,8 @@
     LastNameList->Names/General_Last
    -->
 	<VQE_GeneralFemale.rulePack.rulesFiles>
-    <li>FirstNameFemaleList-&gt;Names/General_First_Female</li>
-    <li>LastNameList-&gt;Names/General_Last</li>
+    <li>FirstNameFemaleList->Names/General_First_Female</li>
+    <li>LastNameList->Names/General_Last</li>
   </VQE_GeneralFemale.rulePack.rulesFiles>
 
 
@@ -24,14 +24,14 @@
     r_name->[FirstNameMaleList] [LastNameList]
    -->
 	<VQE_GeneralMale.rulePack.rulesStrings>
-    <li>r_name-&gt;[FirstNameMaleList] [LastNameList]</li>
+    <li>r_name->[FirstNameMaleList] [LastNameList]</li>
   </VQE_GeneralMale.rulePack.rulesStrings>
 
   <!-- EN: 
     r_name->[FirstNameFemaleList] [LastNameList]
    -->
 	<VQE_GeneralFemale.rulePack.rulesStrings>
-    <li>r_name-&gt;[FirstNameFemaleList] [LastNameList]</li>
+    <li>r_name->[FirstNameFemaleList] [LastNameList]</li>
   </VQE_GeneralFemale.rulePack.rulesStrings>
 
 

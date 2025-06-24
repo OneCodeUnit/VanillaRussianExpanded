@@ -4,18 +4,18 @@
   <!-- General -->
 
   <!-- EN: officer’s shadow -->
-	<VQE_Childhood_OfficersShadow.title>officer’s shadow</VQE_Childhood_OfficersShadow.title>
+	<VQE_Childhood_OfficersShadow.title>тень офицера</VQE_Childhood_OfficersShadow.title>
   <!-- EN: shadow -->
-	<VQE_Childhood_OfficersShadow.titleShort>shadow</VQE_Childhood_OfficersShadow.titleShort>
+	<VQE_Childhood_OfficersShadow.titleShort>тень</VQE_Childhood_OfficersShadow.titleShort>
   <!-- EN: [PAWN_nameDef] grew up behind reinforced glass, just beyond the war room where [PAWN_possessive] parent issued silent commands to a dying world. The halls were sterile, the uniforms always grey, and [PAWN_pronoun] quickly learned which doors never opened and which ones never closed. [PAWN_pronoun] was told the flickering silhouettes beyond the viewing screens were simulations, until one of them looked back. No one mentioned it afterward, and neither did [PAWN_pronoun]. -->
-	<VQE_Childhood_OfficersShadow.description>[PAWN_nameDef] grew up behind reinforced glass, just beyond the war room where [PAWN_possessive] parent issued silent commands to a dying world. The halls were sterile, the uniforms always grey, and [PAWN_pronoun] quickly learned which doors never opened and which ones never closed. [PAWN_pronoun] was told the flickering silhouettes beyond the viewing screens were simulations, until one of them looked back. No one mentioned it afterward, and neither did [PAWN_pronoun].</VQE_Childhood_OfficersShadow.description>
+	<VQE_Childhood_OfficersShadow.description>{PAWN_nameDef} {PAWN_gender ? рос : росла} за укреплённым стеклом, прямо за военным штабом, где {PAWN_possessive} {PAWN_gender ? родитель : родитель} отдавал безмолвные приказы умирающему миру. Коридоры были стерильными, форма всегда серой, и {PAWN_pronoun} быстро {PAWN_gender ? выучил : выучила}, какие двери никогда не открывались, а какие никогда не закрывались. {PAWN_objective} говорили, что мерцающие силуэты за смотровыми экранами — это симуляции, пока один из них не посмотрел в ответ. Никто не упоминал об этом после, и {PAWN_pronoun} тоже.</VQE_Childhood_OfficersShadow.description>
 
   <!-- EN: the general -->
-	<VQE_TheGeneral.title>the general</VQE_TheGeneral.title>
+	<VQE_TheGeneral.title>генерал</VQE_TheGeneral.title>
   <!-- EN: general -->
-	<VQE_TheGeneral.titleShort>general</VQE_TheGeneral.titleShort>
+	<VQE_TheGeneral.titleShort>генерал</VQE_TheGeneral.titleShort>
   <!-- EN: [PAWN_nameDef] designed Operation: Deadlife from the first blueprint to the last breath, believing death could be structured, harnessed, and weaponized. When the Death Door was first opened, [PAWN_pronoun] stepped through without hesitation, alone, unarmed, and smiling. [PAWN_pronoun] returned days later, silent and burned from within, wrapped in binding cloth and sealed inside a containment sarcophagus that no one claimed to understand. The war ended. The door remained open. [PAWN_pronoun] sleeps still - but the seals are growing warm. -->
-	<VQE_TheGeneral.description>[PAWN_nameDef] designed Operation: Deadlife from the first blueprint to the last breath, believing death could be structured, harnessed, and weaponized. When the Death Door was first opened, [PAWN_pronoun] stepped through without hesitation, alone, unarmed, and smiling. [PAWN_pronoun] returned days later, silent and burned from within, wrapped in binding cloth and sealed inside a containment sarcophagus that no one claimed to understand. The war ended. The door remained open. [PAWN_pronoun] sleeps still - but the seals are growing warm.</VQE_TheGeneral.description>
+	<VQE_TheGeneral.description>{PAWN_nameDef} {PAWN_gender ? разработал : разработала} Операцию «Мёртвая жизнь» от первого чертежа до последнего вздоха, веря, что смерть можно структурировать, обуздать и превратить в оружие. Когда Врата Смерти впервые открылись, {PAWN_pronoun} {PAWN_gender ? шагнул : шагнула} через них без колебаний, {PAWN_gender ? один, безоружный : одна, безоружная} и улыбающ{PAWN_gender ? ийся : аяся}. {PAWN_pronoun} {PAWN_gender ? вернулся : вернулась} дни спустя, безмолвн{PAWN_gender ? ый : ая} и сожжённ{PAWN_gender ? ый : ая} изнутри, {PAWN_gender ? завёрнутый : завёрнутая} в связующую ткань и {PAWN_gender ? запечатанный : запечатанная} в саркофаге сдерживания, который никто не претендовал понять. Война закончилась. Врата остались открытыми. {PAWN_pronoun} до сих пор {PAWN_gender ? спит : спит} — но печати нагреваются.</VQE_TheGeneral.description>
 
 
 
