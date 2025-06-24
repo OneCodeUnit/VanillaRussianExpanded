@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: {0} has successfully kickstarted the generator -->
+	<VQED_KickstartedSuccess>{0} has successfully kickstarted the generator</VQED_KickstartedSuccess>
+  <!-- EN: Will stop working in {0} -->
+	<VQED_KickStartTimer>Will stop working in {0}</VQED_KickStartTimer>
+  <!-- EN: DEBUG: Spawning shamblers in {0} -->
+	<VQED_DebugNextSpawn>DEBUG: Spawning shamblers in {0}</VQED_DebugNextSpawn>
+  <!-- EN: Study ancient plans -->
+	<VQED_StudyAncientPlansLabel>Study ancient plans</VQED_StudyAncientPlansLabel>
+  <!-- EN: Study the ancient plans to discover the location of another ancient silo. -->
+	<VQED_StudyAncientPlansDesc>Study the ancient plans to discover the location of another ancient silo.</VQED_StudyAncientPlansDesc>
+  <!-- EN: Missing: ancient kino projector -->
+	<VQED_MissingKinoProjector>Missing: ancient kino projector</VQED_MissingKinoProjector>
+  <!-- EN: Not working: ancient kino projector is unpowered -->
+	<VQED_KinoProjectorUnpowered>Not working: ancient kino projector is unpowered</VQED_KinoProjectorUnpowered>
+  <!-- EN: Not working: ancient kino projector doesn't face the kino screen -->
+	<VQED_KinoScreenWrongRotation>Not working: ancient kino projector doesn't face the kino screen</VQED_KinoScreenWrongRotation>
+  <!-- EN: Ancient kino screen requires an ancient kino projector placed in front of it to work. -->
+	<VQED_KinoScreenRequiresProjector>Ancient kino screen requires an ancient kino projector placed in front of it to work.</VQED_KinoScreenRequiresProjector>
+  <!-- EN: {0}, equipped by {1}, has fully deteriorated. -->
+	<VQED_WeaponDeterioratedMessage>{0}, equipped by {1}, has fully deteriorated.</VQED_WeaponDeterioratedMessage>
+  <!-- EN: This weapon will deteriorate after a certain number of shots. -->
+	<VQED_WeaponDeteriorationInfo>This weapon will deteriorate after a certain number of shots.</VQED_WeaponDeteriorationInfo>
+  <!-- EN: Shots remaining: {0} -->
+	<VQED_ShotRemaining>Shots remaining: {0}</VQED_ShotRemaining>
+  <!-- EN: Enter silo -->
+	<VQE_EnterSilo>Enter silo</VQE_EnterSilo>
+  <!-- EN: Exit silo -->
+	<VQE_ExitSilo>Exit silo</VQE_ExitSilo>
+  <!-- EN: View silo -->
+	<VQE_ViewSilo>View silo</VQE_ViewSilo>
+  <!-- EN: View the ancient silo below. -->
+	<VQE_ViewSiloDesc>View the ancient silo below.</VQE_ViewSiloDesc>
+  <!-- EN: Fill in the death pit -->
+	<VQED_FillPit>Fill in the death pit</VQED_FillPit>
+  <!-- EN: Cover the death pit with twisted metal slags to prevent anything from crawling out. -->
+	<VQED_FillPitDesc>Cover the death pit with twisted metal slags to prevent anything from crawling out.</VQED_FillPitDesc>
+  <!-- EN: {PAWN_nameFull} awakens -->
+	<VQED_GeneralAwakensLabel>{PAWN_nameFull} awakens</VQED_GeneralAwakensLabel>
+  <!-- EN: The sealed sarcophagus hisses open, releasing a cloud of deadlife dust, and from within rises {PAWN_title} {PAWN_nameFull}.
+
+Once the commander of Operation: Deadlife, {PAWN_nameFull} is now a shambler-bound remnant of a forgotten war. As {PAWN_pronoun} awakens, {PAWN_pronoun} begin reactivating the base’s long-dormant defense systems: rotstink vents, turret grids, shambler kennels, and containment pits filled with the dead.
+
+{PAWN_possessive} ultimate goal is clear: to initiate the launch sequence for the Deadlife ICBMs: orbital warheads designed to blanket the planet in death. If launched, shambler hordes will rise across the world, destroying settlements and ambushing caravans.
+
+You must reach the command center and destroy the ICBM Launch Terminal before {PAWN_nameFull} completes {PAWN_possessive} grim task. -->
+	<VQED_GeneralAwakensText>The sealed sarcophagus hisses open, releasing a cloud of deadlife dust, and from within rises {PAWN_title} {PAWN_nameFull}.
+
+Once the commander of Operation: Deadlife, {PAWN_nameFull} is now a shambler-bound remnant of a forgotten war. As {PAWN_pronoun} awakens, {PAWN_pronoun} begin reactivating the base’s long-dormant defense systems: rotstink vents, turret grids, shambler kennels, and containment pits filled with the dead.
+
+{PAWN_possessive} ultimate goal is clear: to initiate the launch sequence for the Deadlife ICBMs: orbital warheads designed to blanket the planet in death. If launched, shambler hordes will rise across the world, destroying settlements and ambushing caravans.
+
+You must reach the command center and destroy the ICBM Launch Terminal before {PAWN_nameFull} completes {PAWN_possessive} grim task.</VQED_GeneralAwakensText>
+  <!-- EN: To protect the launch site, General {0} unsealed one of the death pits. -->
+	<VQED_GeneralUnsealedDeathPit>To protect the launch site, General {0} unsealed one of the death pits.</VQED_GeneralUnsealedDeathPit>
+  <!-- EN: To protect the launch site, General {0} opened up the chutes throughout the complex. -->
+	<VQED_GeneralOpenedChutes>To protect the launch site, General {0} opened up the chutes throughout the complex.</VQED_GeneralOpenedChutes>
+  <!-- EN: To protect the launch site, General {0} has awakened a number of high ranking officers from their slumber. -->
+	<VQED_GeneralAwakenedOfficers>To protect the launch site, General {0} has awakened a number of high ranking officers from their slumber.</VQED_GeneralAwakenedOfficers>
+  <!-- EN: To protect the launch site, General {0} has reactivated the military turrets throughout the complex. -->
+	<VQED_GeneralActivatedTurrets>To protect the launch site, General {0} has reactivated the military turrets throughout the complex.</VQED_GeneralActivatedTurrets>
+  <!-- EN: To protect the launch site, General {0} has opened the biomass vents that will flush the complex with rotstink. -->
+	<VQED_GeneralOpenedRotstinkVents>To protect the launch site, General {0} has opened the biomass vents that will flush the complex with rotstink.</VQED_GeneralOpenedRotstinkVents>
+  <!-- EN: To protect the launch site, General {0} has let the animals out of the kennels. -->
+	<VQED_GeneralReleasedAnimals>To protect the launch site, General {0} has let the animals out of the kennels.</VQED_GeneralReleasedAnimals>
+  <!-- EN: {0} has been overrun by a horde of shamblers. -->
+	<VQED_FactionBaseOverrun>{0} has been overrun by a horde of shamblers.</VQED_FactionBaseOverrun>
+  <!-- EN: The shambler horde has been defeated. -->
+	<VQED_ShamblersDefeated>The shambler horde has been defeated.</VQED_ShamblersDefeated>
+  <!-- EN: To protect the launch site, General {0} reactivated the deadlife vents in an attempt to respawn any defeated shamblers. -->
+	<VQED_GeneralReactivatedDeadlifeVents>To protect the launch site, General {0} reactivated the deadlife vents in an attempt to respawn any defeated shamblers.</VQED_GeneralReactivatedDeadlifeVents>
+
+
+</LanguageData>
