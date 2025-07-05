@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Expanded Framework - Outposts -->
+  <Outposts.Settings.Title>Vanilla Expanded Framework - Outposts</Outposts.Settings.Title>
+  <!-- EN: Gloabal Production Multiplier: {0} -->
+  <Outposts.Settings.Multiplier.Production>Множитель продуктивности аванпоста: {0}</Outposts.Settings.Multiplier.Production>
+  <!-- EN: Global Time Multiplier: {0} -->
+  <Outposts.Settings.Multiplier.Time>Множитель времени аванпоста: {0}</Outposts.Settings.Multiplier.Time>
+  <!-- EN: Global Raid Difficulty Multiplier: {0} -->
+  <Outposts.Settings.RaidDifficulty>Глобальный множитель сложности налётов: {0}</Outposts.Settings.RaidDifficulty>
+  <!-- EN: Raid Frequency Range -->
+  <Outposts.Settings.RaidFrequency>Разброс частоты налётов</Outposts.Settings.RaidFrequency>
+  <!-- EN: Create -->
+  <Outposts.Dialog.Create>Создать</Outposts.Dialog.Create>
+  <!-- EN: Create Outpost -->
+  <Outposts.Commands.Create.Label>Создать аванпост</Outposts.Commands.Create.Label>
+  <!-- EN: Create a new outpost using this caravan -->
+  <Outposts.Commands.Create.Desc>Создать аванпост, используя караван</Outposts.Commands.Create.Desc>
+  <!-- EN: Take items -->
+  <Outposts.Commands.TakeItems.Label>Забрать предметы</Outposts.Commands.TakeItems.Label>
+  <!-- EN: Take items from {0} and add them to the caravan -->
+  <Outposts.Commands.TakeItems.Desc>Забрать предметы из {0} и добавить их в караван</Outposts.Commands.TakeItems.Desc>
+  <!-- EN: Give items -->
+  <Outposts.Commands.GiveItems.Label>Отдать предметы</Outposts.Commands.GiveItems.Label>
+  <!-- EN: Take items from {0} and add them to the outpost -->
+  <Outposts.Commands.GiveItems.Desc>Забрать предметы из {0} и добавить их в аванпост</Outposts.Commands.GiveItems.Desc>
+  <!-- EN: Outpost Lost -->
+  <Outposts.Letters.Lost.Label>Аванпост потерян</Outposts.Letters.Lost.Label>
+  <!-- EN: Regretfully, due to the deaths of all inhabitants, the outpost of {0} has been lost to us. -->
+  <Outposts.Letters.Lost.Text>К сожалению, из-за смерти всех жителей, аванпост {0} был потерян.</Outposts.Letters.Lost.Text>
+  <!-- EN: Outpost Battle Won -->
+  <Outposts.Letters.BattleWon.Label>Победа аванпоста</Outposts.Letters.BattleWon.Label>
+  <!-- EN: We have successfully won the battle for {0}.{1} -->
+  <Outposts.Letters.BattleWon.Text>Мы одержали победу в битве за {0}.{1}</Outposts.Letters.BattleWon.Text>
+  <!-- EN: We have managed to capture {0} in the aftermath -->
+  <Outposts.Letters.BattleWon.Captured>После боя удалось захватить {0}</Outposts.Letters.BattleWon.Captured>
+  <!-- EN: We have managed to recover {0}'s body -->
+  <Outposts.Letters.BattleWon.Rescued>После боя удалось поднять на ноги {0}</Outposts.Letters.BattleWon.Rescued>
+  <!-- EN: We have secured: {0} worth of goods and weapons from the raiders -->
+  <Outposts.Letters.BattleWon.Secured>По итогам боя нашими стали {0} ценных предметом и единиц оружия</Outposts.Letters.BattleWon.Secured>
+  <!-- EN: Items From {0} -->
+  <Outposts.Letters.Items.Label>Вещи из {0}</Outposts.Letters.Items.Label>
+  <!-- EN: You have received the follow items from the outpost {0}: -->
+  <Outposts.Letters.Items.Text>Из аванпоста {0} были получены следующие предметы:</Outposts.Letters.Items.Text>
+  <!-- EN: Add Pawn -->
+  <Outposts.Commands.AddPawn.Label>Добавить персонажа</Outposts.Commands.AddPawn.Label>
+  <!-- EN: Transfer a pawn from this caravan to the outpost -->
+  <Outposts.Commands.AddPawn.Desc>Перевезти персонажа в аванпост</Outposts.Commands.AddPawn.Desc>
+  <!-- EN: Delivery Destination -->
+  <Outposts.Commands.DeliveryColony.Label>Место назначения</Outposts.Commands.DeliveryColony.Label>
+  <!-- EN: Select which colony will recieve the goods. Currently: {0} -->
+  <Outposts.Commands.DeliveryColony.Desc>Выберите, какое поселение будет получать ресурсы. Сейчас это: {0}</Outposts.Commands.DeliveryColony.Desc>
+  <!-- EN: Pack -->
+  <Outposts.Commands.Pack.Label>Сложить</Outposts.Commands.Pack.Label>
+  <!-- EN: Begin packing this outpost back into a caravan -->
+  <Outposts.Commands.Pack.Desc>Сложить аванпост и организовать караван</Outposts.Commands.Pack.Desc>
+  <!-- EN: Stop packing -->
+  <Outposts.Commands.StopPack.Label>Остановить складывание</Outposts.Commands.StopPack.Label>
+  <!-- EN: Cancel packing this outpost into a caravan -->
+  <Outposts.Commands.StopPack.Desc>Отменить складывание аванпоста в караван</Outposts.Commands.StopPack.Desc>
+  <!-- EN: Remove Pawn -->
+  <Outposts.Commands.Remove.Label>Вывести персонажа</Outposts.Commands.Remove.Label>
+  <!-- EN: Remove a pawn from this outpost into a new caravan -->
+  <Outposts.Commands.Remove.Desc>Вывести персонажа из аванпоста и создать караван</Outposts.Commands.Remove.Desc>
+  <!-- EN: Cannot remove pawns: Only 1 inhabitant. If you want to remove this outpost, select "Pack". -->
+  <Outposts.Command.Remove.Only1>Нельзя вывести персонажа: остался только один житель. Если вы хотите удалить аванпост, выберите «Сложить».</Outposts.Command.Remove.Only1>
+  <!-- EN: Contains {0} pawns -->
+  <Outposts.Contains>Содержит {0} персонажей</Outposts.Contains>
+  <!-- EN: Packing into caravan. Done in {0} -->
+  <Outposts.Packing>Собирается караван. Будет готов через {0}</Outposts.Packing>
+  <!-- EN: Pawns are not skilled enough, need a cumulative {0} skill of at least {1} -->
+  <Outposts.NotSkilledEnough>Персонажи недостаточно способны. Требуется общий уровень навыка {0} {1}</Outposts.NotSkilledEnough>
+  <!-- EN: Resting at outpost {0} -->
+  <Outposts.RestingAt>Отдыхает в аванпосте {0}</Outposts.RestingAt>
+  <!-- EN: Will produce some items in {0} -->
+  <Outposts.WillProduce.0>Произведёт ресурс через {0}</Outposts.WillProduce.0>
+  <!-- EN: Will produce {0} {1} in {2} -->
+  <Outposts.WillProduce.1>Произведёт {0} {1} через {2}</Outposts.WillProduce.1>
+  <!-- EN: Will produce {0} {1} and {2} {3} in {4} -->
+  <Outposts.WillProduce.2>Произведёт {0} {1} и {2} {3} через {4}</Outposts.WillProduce.2>
+  <!-- EN: Will produce the following in {0}:\n{1} -->
+  <Outposts.WillProduce.N>Произведёт следующие вещи через {0}:\n{1}</Outposts.WillProduce.N>
+  <!-- EN: Cannot be made in {0} -->
+  <Outposts.CannotBeMade>Нельзя создать в биоме «{0}»</Outposts.CannotBeMade>
+  <!-- EN: Not enough pawns in caravan, need at least {0} -->
+  <Outposts.NotEnoughPawns>Недостаточно людей в караване. Требуется не меньше {0}</Outposts.NotEnoughPawns>
+  <!-- EN: Cumulative {0} skill: {1} -->
+  <Outposts.TotalSkill>Общее значение навыка {0}: {1}</Outposts.TotalSkill>
+  <!-- EN: Too close to settlement or other outpost, must have at least 1 tile between them -->
+  <Outposts.TooClose>Слишком близко к другим аванпостам. Между ними должна быть хотя бы одна клетка</Outposts.TooClose>
+  <!-- EN: Your transport pods have arrived. {0} has been added to {1}. -->
+  <Outposts.AddedFromTransportPods>Ваши транспортные капсулы прибыли. {0} добавлено в {1}.</Outposts.AddedFromTransportPods>
+  <!-- EN: Add to outpost -->
+  <Outposts.AddTo>Добавить в аванпост</Outposts.AddTo>
+  <!-- EN: Confirm sending items to the outpost? They will be permanently lost. -->
+  <Outposts.SendNonPawns>Подтвердить отправку предметов в аванпост? Они отправятся сразу же.</Outposts.SendNonPawns>
+  <!-- EN: Already packing -->
+  <Outposts.AlreadyPacking>Уже складывается</Outposts.AlreadyPacking>
+  <!-- EN: Delivery Method -->
+  <Outposts.Settings.DeliveryMethod>Метод доставки</Outposts.Settings.DeliveryMethod>
+  <!-- EN: Teleport items to colony -->
+  <Outposts.Settings.DeliveryMethod.Teleport>Телепортация</Outposts.Settings.DeliveryMethod.Teleport>
+  <!-- EN: Send pack animal carrying items to colony -->
+  <Outposts.Settings.DeliveryMethod.PackAnimal>Отправить вьючных животных</Outposts.Settings.DeliveryMethod.PackAnimal>
+  <!-- EN: Store items at outpost -->
+  <Outposts.Settings.DeliveryMethod.Store>Хранить предметы на аванпосте</Outposts.Settings.DeliveryMethod.Store>
+  <!-- EN: Always send drop pods -->
+  <Outposts.Settings.DeliveryMethod.ForcePods>Всегда отправлять транспортные капсулы</Outposts.Settings.DeliveryMethod.ForcePods>
+  <!-- EN: Pods if available, otherwise pack animal -->
+  <Outposts.Settings.DeliveryMethod.PackOrPods>Использовать транспортные капсулы по возможности, иначе отправлять вьючных животных</Outposts.Settings.DeliveryMethod.PackOrPods>
+  <!-- EN: Outpost Abandoned -->
+  <Outposts.Abandoned>Аванпост заброшен</Outposts.Abandoned>
+  <!-- EN: {0} has been abonded due to having no one inside to run it. It will very quickly be looted and taken over by nature, leaving no trace it was ever there. -->
+  <Outposts.Abandoned.Desc>{0} был заброшен, так как там не осталось никого. Он очень быстро будет разграблен и захвачен природой, которая не оставит следов человеческого присутствия.</Outposts.Abandoned.Desc>
+  <!-- EN: Take -->
+  <Outposts.Take>Взять</Outposts.Take>
+  <!-- EN: Give -->
+  <Outposts.Give>Отдать</Outposts.Give>
+  <!-- EN: Must be in one of the following biomes: -->
+  <Outposts.AllowedBiomes>Должен быть расположен в одном из этих биомов:</Outposts.AllowedBiomes>
+  <!-- EN: Cannot be in any of the following biomes: -->
+  <Outposts.DisallowedBiomes>Не может быть расположен в биомах:</Outposts.DisallowedBiomes>
+  <!-- EN: Must have at least {0} pawns willing to join the outpost -->
+  <Outposts.NumPawns>Требуется не меньше {0} персонажей</Outposts.NumPawns>
+  <!-- EN: Cumulative {0} skill must be at least {1} -->
+  <Outposts.RequiredSkill>Общий уровень навыка {0} не должен быть меньше {1}</Outposts.RequiredSkill>
+  <!-- EN: Must have ability to grow plants -->
+  <Outposts.GrowingRequired>Требуется возможность выращивать растения</Outposts.GrowingRequired>
+  <!-- EN: Must have {0} in caravan -->
+  <Outposts.MustHaveInCaravan>Требуется {0} в караване</Outposts.MustHaveInCaravan>
+  <!-- EN: No valid pawns to add to outpost -->
+  <Outposts.NoValidPawns>Нет доступных персонажей</Outposts.NoValidPawns>
+  <!-- EN: Due to changes in skill level, {0} can no longer produce {1} -->
+  <Outposts.SkillChange>Из-за изменения в уровне навыка {0} больше не будет производить {1}</Outposts.SkillChange>
+  <!-- EN: Production Time -->
+  <Outposts.Setting.ProductionTime>Время на производство</Outposts.Setting.ProductionTime>
+  <!-- EN: Pack Time -->
+  <Outposts.Setting.PackTime>Время на складывание</Outposts.Setting.PackTime>
+  <!-- EN: Range -->
+  <Outposts.Setting.Range>Радиус</Outposts.Setting.Range>
+  <!-- EN: Minimum Pawns to Create -->
+  <Outposts.Setting.MinimumPawns>Минимум персонажей для создания</Outposts.Setting.MinimumPawns>
+  <!-- EN: Production Multiplier -->
+  <Outposts.Settings.Production>Множитель производства</Outposts.Settings.Production>
+  <!-- EN: Enable Outpost Raids? -->
+  <Outposts.Settings.DoRaids>Включить налёты на аванпосты?</Outposts.Settings.DoRaids>
+</LanguageData>

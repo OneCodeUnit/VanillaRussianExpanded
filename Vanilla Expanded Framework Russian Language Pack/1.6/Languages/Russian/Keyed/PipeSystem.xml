@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: {0} consumption -->
+  <PipeSystem_Consumption>{lookup: {0}; Case; 1} потребляется</PipeSystem_Consumption>
+  <!-- EN: The amount per day of {0} this building will draw from the {1} grid. -->
+  <PipeSystem_ConsumptionExplained>Количество {lookup: {0}; Case; 1}, которое постройка потребляет в день из сети {lookup: {0}; Case; 1}.</PipeSystem_ConsumptionExplained>
+
+  <!-- EN: {0} idle consumption -->
+  <PipeSystem_IdleConsumption>{lookup: {0}; Case; 1} потребляется в простое</PipeSystem_IdleConsumption>
+  <!-- EN: The amount of {0} this building will draw from the {1} grid when idle. -->
+  <PipeSystem_IdleConsumptionExplained>Количество {lookup: {0}; Case; 1}, которое постройка потребляет в день во время простоя из сети {1}.</PipeSystem_IdleConsumptionExplained>
+
+  <!-- EN: {0} production -->
+  <PipeSystem_Production>{lookup: {0}; Case; 1} производится</PipeSystem_Production>
+  <!-- EN: The amount per day of {0} this building will produce for the {1} grid. -->
+  <PipeSystem_ProductionExplained>Количество {lookup: {0}; Case; 1}, которое постройка производит в день и добавляет в сеть {1}.</PipeSystem_ProductionExplained>
+
+  <!-- EN: Deconstruct {0} pipes -->
+  <PipeSystem_DeconstructLabel>Разобрать трубу {lookup: {0}; Case; 1}</PipeSystem_DeconstructLabel>
+  <!-- EN: Only deconstruct pipes part of the {0} network. -->
+  <PipeSystem_DeconstructDesc>Будут разобраны только трубы, транспортирующие {0}.</PipeSystem_DeconstructDesc>
+
+  <!-- EN: {0} output: -->
+  <PipeSystem_ResourceOutput>{lookup: {0}; Case; 1} получается:</PipeSystem_ResourceOutput>
+  <!-- EN: {0} needed: -->
+  <PipeSystem_ResourceNeeded>{lookup: {0}; Case; 1} требуется:</PipeSystem_ResourceNeeded>
+
+  <!-- EN: {0} stored: -->
+  <PipeSystem_ResourceStored>Хранится {lookup: {0}; Case; 1}:</PipeSystem_ResourceStored>
+
+  <!-- EN: Not connected to {}. -->
+  <PipeSystem_NotConnected>Не соединено с сетью {lookup: {0}; Case; 1}.</PipeSystem_NotConnected>
+  <!-- EN: Net excess/stored in network: {0} {2}/d / {1} {2} -->
+  <PipeSystem_ExcessStored>Избыток/добывается {lookup: {0}; Case; 1}: {2} / {1}</PipeSystem_ExcessStored>
+  <!-- EN: {0} stored in network: -->
+  <PipeSystem_Stored>Количество {lookup: {0}; Case; 1} в сети:</PipeSystem_Stored>
+
+  <!-- EN: Valve closed. -->
+  <PipeSystem_ValveClosed>Вентиль закрыт.</PipeSystem_ValveClosed>
+  <!-- EN: Valve opened. -->
+  <PipeSystem_ValveOpened>Вентиль открыт.</PipeSystem_ValveOpened>
+
+  <!-- EN: +1 -->
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <!-- EN: Augment output maximum stack size by 1. -->
+  <PipeSystem_AugmentStackDesc>Увеличить максимальное количество единиц в стопке на 1.</PipeSystem_AugmentStackDesc>
+  <!-- EN: +10 -->
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <!-- EN: Augment output maximum stack size by 10. -->
+  <PipeSystem_AugmentStackDescB>Увеличить максимальное количество единиц в стопке на 10.</PipeSystem_AugmentStackDescB>
+
+  <!-- EN: -1 -->
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <!-- EN: Decrease output maximum stack size by 1. -->
+  <PipeSystem_DecreaseStackDesc>Уменьшить максимальное количество единиц в стопке на 1.</PipeSystem_DecreaseStackDesc>
+  <!-- EN: -10 -->
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <!-- EN: Decrease output maximum stack size by 10. -->
+  <PipeSystem_DecreaseStackDescB>Уменьшить максимальное количество единиц в стопке на 10.</PipeSystem_DecreaseStackDescB>
+
+  <!-- EN: Maximum amount stored here: {0} -->
+  <PipeSystem_AmountOut>Размер хранилища: {0}</PipeSystem_AmountOut>
+
+  <!-- EN: Buffer: {0} -->
+  <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
+  <!-- EN: Producing {0} {1}. Cycle progress: {2}. -->
+  <PipeSystem_Producing>Производит {0} ед. {lookup: {1}; Case; 1}. Прогресс: {2}.</PipeSystem_Producing>
+  <!-- EN: Produce {0} {1} from {2} {3} -->
+  <PipeSystem_Produce>Производит {0} {1} из {2} {3}</PipeSystem_Produce>
+  <!-- EN: Choose result -->
+  <PipeSystem_ChooseResult>Выбрать продукт</PipeSystem_ChooseResult>
+  <!-- EN: Choose processor result. -->
+  <PipeSystem_ChooseResultDesc>Выбрать производимый продукт.</PipeSystem_ChooseResultDesc>
+
+  <!-- EN: Produce {0} {1} using: -->
+  <PipeSystem_ProduceLabel>Производит {0} ед. {lookup: {1}; Case; 1} используя:</PipeSystem_ProduceLabel>
+
+  <!-- EN: Transfer storage content -->
+  <PipeSystem_TransferContent>Перенести из хранилища</PipeSystem_TransferContent>
+  <!-- EN: Transfer storage content to other available storages. -->
+  <PipeSystem_TransferContentDesc>Перенести содержимое хранилища в другое доступное хранилище.</PipeSystem_TransferContentDesc>
+  <!-- EN: Transfering content to other available storages... -->
+  <PipeSystem_MarkedToTransferContent>Перенос содержимого хранилища в другое доступное хранилище...</PipeSystem_MarkedToTransferContent>
+
+  <!-- EN: No thing to refill {0} -->
+  <PipeSystem_NothingToRefill>Нет ресурсов, чтобы наполнить {0}</PipeSystem_NothingToRefill>
+  <!-- EN: Allow manual refill -->
+  <PipeSystem_AllowManualRefill>Разрешить ручное наполнение</PipeSystem_AllowManualRefill>
+  <!-- EN: Allow pawns to directly refill storage -->
+  <PipeSystem_AllowManualRefillDesc>Разрешить напрямую наполнять это хранилище</PipeSystem_AllowManualRefillDesc>
+
+  <!-- EN: Can’t extract: Tanks are full -->
+  <PipeSystem_CantExtract>Не добывается: хранилища заполнены</PipeSystem_CantExtract>
+  <!-- EN: {0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits. -->
+  <PipeSystem_CantPlaceHere>{0} можно расположить только на месторождениях, где есть {1}. Используйте глубинные сканеры, чтобы найти их.</PipeSystem_CantPlaceHere>
+  <!-- EN: Amount left in deposit: {0}. -->
+  <PipeSystem_ResourceLeft>Осталось в месторождении: {0}.</PipeSystem_ResourceLeft>
+
+  <!-- EN: No storage connected -->
+  <PipeSystem_NoStorageInNet>Нет подключенных хранилищ</PipeSystem_NoStorageInNet>
+  <!-- EN: The following networks are not connected to any storage building, but need one: -->
+  <PipeSystem_NoStorageInNetDesc>Следующие сети необходимо подключить к хранилищу:</PipeSystem_NoStorageInNetDesc>
+
+  <!-- EN: {0} content rotted away due to a lack of power. -->
+  <PipeSystem_StorageContentRotted>Содержимое {0} сгнило из-за нехватки энергии.</PipeSystem_StorageContentRotted>
+  <!-- EN: Content will rot in {0} due to a lack of power. -->
+  <PipeSystem_ContentWillRot>Содержимое {0} сгниёт из-за нехватки энергии.</PipeSystem_ContentWillRot>
+  
+  <!-- EN: Nothing to pick-up -->
+  <PipeSystem_NothingToPickUp>Нечего собирать</PipeSystem_NothingToPickUp>  
+  <!-- EN: Make {0} -->
+  <PipeSystem_MakeProcess>Создать {0}</PipeSystem_MakeProcess>  
+  <!-- EN: Output to {0} net -->
+  <PipeSystem_OutputToNet>Вывод в {0} сеть</PipeSystem_OutputToNet>  
+  <!-- EN: or {0} net -->
+  <PipeSystem_OrNet>или в {0} сеть</PipeSystem_OrNet>  
+  <!-- EN: {0} from net -->
+  <PipeSystem_XFromNet>{0} из сети</PipeSystem_XFromNet>  
+  <!-- EN: Processes -->
+  <PipeSystem_Processes>Процессы</PipeSystem_Processes>  
+  <!-- EN: Add process -->
+  <PipeSystem_AddProcess>Добавить процесс</PipeSystem_AddProcess>  
+  <!-- EN: Cancel current process -->
+  <PipeSystem_CancelCurrentProcess>Отменить текущий процесс</PipeSystem_CancelCurrentProcess>
+  <!-- EN: Can output on ground -->
+  <PipeSystem_OutputOnGround>Может выливаться на землю</PipeSystem_OutputOnGround>
+  <!-- EN: No current process -->
+  <PipeSystem_NoProcess>Текущий процесс отсутствует</PipeSystem_NoProcess>
+  <!-- EN: No process available -->
+  <PipeSystem_NoProcessAvailable>Текущий процесс отсутствует</PipeSystem_NoProcessAvailable>
+  <!-- EN: Product-->
+  <PipeSystem_Product>Продукт</PipeSystem_Product>
+  <!-- EN: {0}: {1}-->
+  <PipeSystem_ProgressInInfobox>{0}: {1}</PipeSystem_ProgressInInfobox>
+  <!-- EN: Missing inputs: {0}-->
+  <PipeSystem_MissingInputIngredients>Отсутствует вход: {0}</PipeSystem_MissingInputIngredients>
+  
+  <!-- EN: Copy processes-->
+  <PipeSystem_CopyProcesses>Скопировать процесс</PipeSystem_CopyProcesses>
+  <!-- EN: Paste processes-->
+  <PipeSystem_PasteProcesses>Вставить процесс</PipeSystem_PasteProcesses>
+  <PipeSystem_PasteAllRecipes>Paste all processes</PipeSystem_PasteAllRecipes>
+  <PipeSystem_PasteAllRecipes_Desc>Paste all copied processes into this processor. You can select multiple and the processes will be pasted to all of them.</PipeSystem_PasteAllRecipes_Desc>
+  
+  <PipeSystem_ExtractAtCurrentQuality>Extract at current quality</PipeSystem_ExtractAtCurrentQuality>
+  <PipeSystem_ExtractAtCurrentQuality_Desc>Extract the product at the current quality.</PipeSystem_ExtractAtCurrentQuality_Desc>
+  
+   <PipeSystem_QualitySelector>Select the quality at which this process will stop</PipeSystem_QualitySelector>
+   <PipeSystem_ProcessNeedsAwfulAtLeast>Process needs to advance at least until the Awful quality time, which is {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
+   <PipeSystem_CurrentQuality>Current quality: {0}</PipeSystem_CurrentQuality>
+   <PipeSystem_CurrentNotReachedAwful>Process hasn't reached Awful quality yet</PipeSystem_CurrentNotReachedAwful>
+   <PipeSystem_ExtractingAtCurrent>Extracting product at current quality</PipeSystem_ExtractingAtCurrent>
+</LanguageData>

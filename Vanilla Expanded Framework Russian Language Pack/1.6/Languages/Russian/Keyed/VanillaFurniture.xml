@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Drill for {0} -->
+  <VFE_ChunkToMine>Добывать {0}</VFE_ChunkToMine>
+  <!-- EN: Drill for Random Chunks -->
+  <VFE_ChunkRandomMine>Добывать случайную породу</VFE_ChunkRandomMine>
+  <!-- EN: Choose chunk type to drill -->
+  <VFE_ChooseMine>Выбрать тип породы для добычи</VFE_ChooseMine>
+  <!-- EN: Choose chunk type to drill. You can choose any of the map's rock types, or random -->
+  <VFE_ChooseMineDesc>Выберите тип породы для добычи. Можно выбрать любой из доступных на карте или случайный</VFE_ChooseMineDesc>
+  <!-- EN: Random chunk -->
+  <VFE_RandomRock>Случайный обломок</VFE_RandomRock>
+  <!-- EN: Select machine output -->
+  <VFE_PleaseSelectOutput>Выбрать продукт</VFE_PleaseSelectOutput>
+  <!-- EN: This building must be placed on water -->
+  <VFE_NeedsWater>Это здание должно быть расположено на воды</VFE_NeedsWater>
+
+  <!-- EN: Change Graphic -->
+  <VFE_ChangeGraphic>Сменить вид</VFE_ChangeGraphic>
+  <!-- EN: Change Graphic of this building randomly between those available -->
+  <VFE_ChangeGraphicDesc>Меняйте внешний вид постройки случайным образом между доступными вариантами</VFE_ChangeGraphicDesc>
+
+  <!-- EN: Choose Graphic -->
+  <VFE_ChooseGraphic>Выбрать вид</VFE_ChooseGraphic>
+  <!-- EN: Choose Graphic of this building via a menu with all available options -->
+  <VFE_ChooseGraphicDesc>Выберите вид постройки в меню со всеми доступными вариантами</VFE_ChooseGraphicDesc>
+
+  <!-- EN: This building doesn't have extra random graphics to choose from. Some modder added the comp class to the building without alternative graphics, which is weird -->
+  <VFE_NoGraphics>Эта постройка не имеет дополнительных вариантов внешнего вида для выбора. Какой-то автор добавил поддержку альтернативных вариантов, но не сделал их. Это странно</VFE_NoGraphics>
+
+  <!-- EN: "Change Graphic" button changes graphic randomly (deselect for sequentially) -->
+  <VFE_RandomOrSequentially>Кнопка «Сменить вид» меняет внешний вид случайным образом вместо последовательного</VFE_RandomOrSequentially>
+  <!-- EN: Hide the "Random Graphic" and "Choose Graphic" buttons -->
+  <VFE_HideRandomizeButton>Спрятать кнопки «Сменить вид» и «Выбрать вид»</VFE_HideRandomizeButton>
+  <!-- EN: Make random graphics buildings NOT start randomized -->
+  <VFE_RandomBuildingsDontStartRandom>Сделать случайный вид здания неслучайным изначально</VFE_RandomBuildingsDontStartRandom>
+
+  <!-- EN: Switch light color -->
+  <VFE.SwitchLightColor>Сменить цвет освещения</VFE.SwitchLightColor>
+  <!-- EN: Change current light colour. -->
+  <VFE.SwitchLightColorDesc>Меняет текущий цвет освещения.</VFE.SwitchLightColorDesc>
+  <!-- EN: Change color to {0} -->
+  <VFE.ChangeColorTo>Изменить цвет на {0}</VFE.ChangeColorTo>
+  <!-- EN: Power is off. Impossible to switch color. -->
+  <VFE.ColorSwitchPowerOff>Питание отключено. Невозможно сменить цвет.</VFE.ColorSwitchPowerOff>
+</LanguageData>
