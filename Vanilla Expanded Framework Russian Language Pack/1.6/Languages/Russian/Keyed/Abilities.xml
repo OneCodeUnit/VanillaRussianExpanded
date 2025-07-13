@@ -20,5 +20,31 @@
   <VFEA.RClickToAuto>Правый клик включит автоприменение.</VFEA.RClickToAuto>
   <!-- EN: Right-click to disable autocasting. -->
   <VFEA.RClickToNoAuto>Правый клик выключит автоприменение.</VFEA.RClickToNoAuto>
-  
+
+  <!-- EN: Disable corpse decaying -->
+  <VEF_DisableCorpseDecaying>Отключить разложение трупов</VEF_DisableCorpseDecaying>
+  <!-- EN: Disable the constant corpse decaying ability of this animal. -->
+  <VEF_DisableCorpseDecayingDesc>Отключить способность этого животного постоянно разлагать трупы.</VEF_DisableCorpseDecayingDesc>
+  <!-- EN: Enable corpse decaying -->
+  <VEF_EnableCorpseDecaying>Включить разложение трупов</VEF_EnableCorpseDecaying>
+  <!-- EN: Enable the constant corpse decaying ability of this animal. -->
+  <VEF_EnableCorpseDecayingDesc>Включить способность этого животного постоянно разлагать трупы.</VEF_EnableCorpseDecayingDesc>
+	
+  <!-- EN: Disable digging for food -->
+  <VEF_DisableDigging>Отключить поиск пищи в земле</VEF_DisableDigging>
+  <!-- EN: Disable the ability to dig the terrain for food of this animal. -->
+  <VEF_DisableDiggingDesc>Отключить способность этого животного копать землю в поисках пищи.</VEF_DisableDiggingDesc>
+  <!-- EN: Enable digging for food -->
+  <VEF_EnableDigging>Включить поиск пищи в земле</VEF_EnableDigging>
+  <!-- EN: Enable the ability to dig the terrain for food of this animal. -->
+  <VEF_EnableDiggingDesc>Включить способность этого животного копать землю в поисках пищи.</VEF_EnableDiggingDesc>
+	
+  <!-- EN: Disable gas production -->
+  <VEF_DisableGas>Отключить выработку газа</VEF_DisableGas>
+  <!-- EN: Disable the ability to produce gas of this animal. -->
+  <VEF_DisableGasDesc>Отключить способность этого животного вырабатывать газ.</VEF_DisableGasDesc>
+  <!-- EN: Enable gas production -->
+  <VEF_EnableGas>Включить выработку газа</VEF_EnableGas>
+  <!-- EN: Enable the ability to produce gas of this animal. -->
+  <VEF_EnableGasDesc>Включить способность этого животного вырабатывать газ.</VEF_EnableGasDesc>
 </LanguageData>

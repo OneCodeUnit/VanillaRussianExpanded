@@ -139,15 +139,24 @@
   <PipeSystem_CopyProcesses>Скопировать процесс</PipeSystem_CopyProcesses>
   <!-- EN: Paste processes-->
   <PipeSystem_PasteProcesses>Вставить процесс</PipeSystem_PasteProcesses>
-  <PipeSystem_PasteAllRecipes>Paste all processes</PipeSystem_PasteAllRecipes>
-  <PipeSystem_PasteAllRecipes_Desc>Paste all copied processes into this processor. You can select multiple and the processes will be pasted to all of them.</PipeSystem_PasteAllRecipes_Desc>
+  <!-- EN: Paste all processes -->
+  <PipeSystem_PasteAllRecipes>Вставить все процессы</PipeSystem_PasteAllRecipes>
+  <!-- EN: Paste all copied processes into this processor. You can select multiple and the processes will be pasted to all of them. -->
+  <PipeSystem_PasteAllRecipes_Desc>Вставить все скопированные процессы в этот обработчик. Вы можете выбрать несколько обработчиков, и процессы будут вставлены во все из них.</PipeSystem_PasteAllRecipes_Desc>
   
-  <PipeSystem_ExtractAtCurrentQuality>Extract at current quality</PipeSystem_ExtractAtCurrentQuality>
-  <PipeSystem_ExtractAtCurrentQuality_Desc>Extract the product at the current quality.</PipeSystem_ExtractAtCurrentQuality_Desc>
+  <!-- EN: Extract at current quality -->
+  <PipeSystem_ExtractAtCurrentQuality>Извлечь с текущим качеством</PipeSystem_ExtractAtCurrentQuality>
+  <!-- EN: Extract the product at the current quality. -->
+  <PipeSystem_ExtractAtCurrentQuality_Desc>Извлечь продукт с текущим качеством.</PipeSystem_ExtractAtCurrentQuality_Desc>
   
-   <PipeSystem_QualitySelector>Select the quality at which this process will stop</PipeSystem_QualitySelector>
-   <PipeSystem_ProcessNeedsAwfulAtLeast>Process needs to advance at least until the Awful quality time, which is {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
-   <PipeSystem_CurrentQuality>Current quality: {0}</PipeSystem_CurrentQuality>
-   <PipeSystem_CurrentNotReachedAwful>Process hasn't reached Awful quality yet</PipeSystem_CurrentNotReachedAwful>
-   <PipeSystem_ExtractingAtCurrent>Extracting product at current quality</PipeSystem_ExtractingAtCurrent>
+  <!-- EN: Select the quality at which this process will stop -->
+  <PipeSystem_QualitySelector>Выберите уровень качества, при котором этот процесс остановится</PipeSystem_QualitySelector>
+  <!-- EN: Process needs to advance at least until the Awful quality time, which is {0} -->
+  <PipeSystem_ProcessNeedsAwfulAtLeast>Процесс должен продолжаться как минимум до качества «Ужасно», что займёт {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
+  <!-- EN: Current quality: {0} -->
+  <PipeSystem_CurrentQuality>Текущее качество: «{0}»</PipeSystem_CurrentQuality>
+  <!-- EN: Process hasn't reached Awful quality yet -->
+  <PipeSystem_CurrentNotReachedAwful>Процесс ещё не достиг качества «Ужасно»</PipeSystem_CurrentNotReachedAwful>
+  <!-- EN: Extracting product at current quality -->
+  <PipeSystem_ExtractingAtCurrent>Извлечение продукта с текущим качеством</PipeSystem_ExtractingAtCurrent>
 </LanguageData>

@@ -30,11 +30,17 @@
   <VGE_StatsReport_OutsideColonyMap>за пределами поселения</VGE_StatsReport_OutsideColonyMap>
   <!-- EN: light sensitivity -->
   <VGE_StatsReport_AnyLightSensitivity>светочувствительность</VGE_StatsReport_AnyLightSensitivity>
-  
+  <!-- EN: in vacuum -->
+  <VGE_StatsReport_InVacuum>в вакууме</VGE_StatsReport_InVacuum>
+  <!-- EN: in Space -->
+	<VGE_StatsReport_InSpace>в космосе</VGE_StatsReport_InSpace>
+  <!-- EN: in the planet -->
+	<VGE_StatsReport_InPlanet>на поверхности планеты</VGE_StatsReport_InPlanet>
+
   <!-- EN: {0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid. -->
   <VGE_EggPregnancy>Яйца {0} оплодотворены! Кладка яиц продолжится и после оплодотворения яйца.</VGE_EggPregnancy>
   <!-- EN: {0} fertilized! -->
-  <VGE_EggPregnancyLabel>{0} оплодотворено!</VGE_EggPregnancyLabel>
+  <VGE_EggPregnancyLabel>{0} оплодотворены!</VGE_EggPregnancyLabel>
   
   <!-- EN: {0} has laid an egg! Keep it warm and protected. -->
   <VGE_EggLaid>{0} {0_gender ? снёс : снесла} яйцо! Держите его в тепле и оберегайте.</VGE_EggLaid>

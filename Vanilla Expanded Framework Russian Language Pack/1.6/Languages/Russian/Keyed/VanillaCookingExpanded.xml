@@ -4,4 +4,26 @@
   <VCE_AllowConditions>Разрешить хронические заболевания из-за еды (диабет, гипертония и повышенный холестерин)</VCE_AllowConditions>
   <!-- EN: Vanilla Cooking Expanded must be installed for these options to have any effect -->
   <VCE_MustBeInstalled>Мод «Vanilla Cooking Expanded» должен быть установлен, чтобы эти настройки возымели эффект</VCE_MustBeInstalled>
+  <!-- EN: Apiary found nearby -->
+  <VCE_Pollinated>Улей обнаружен</VCE_Pollinated>
+  <!-- EN: No apiary found in a 6 tiles radius (calculated on sowing) -->
+  <VCE_NotPollinated>В радиусе 6 клеток отсутствуют ульи (рассчитывается при посеве)</VCE_NotPollinated>
+  <!-- EN: Not in equatorial region (in this planet, below {0} latitude). Growing normally. -->
+  <VCE_NotInEquator>Растение не в экваториальной зоне (на этой планете ниже {0} широты). Скорость роста — обычная.</VCE_NotInEquator>
+  <!-- EN: In equatorial region, growing 30% faster. -->
+  <VCE_InEquator>Растение в экваториальной зоне. Скорость роста: +30%.</VCE_InEquator>
+  <!-- EN: This plant needs to grow in shade: outside, but under a roof. -->
+  <VCE_NeedsShade>Растение должно располагаться в тени. Снаружи, но под крышей.</VCE_NeedsShade>
+  <!-- EN: Growth reduced due to non-rocky terrain -->
+  <VCE_StuntedGrowthFertility>Скорость роста уменьшена из-за некаменистой почвы</VCE_StuntedGrowthFertility>
+  <!-- EN: Growth impossible due to too fertile terrain -->
+  <VCE_StoppedGrowthFertility>Рост невозможен из-за чрезмерно плодородной почвы</VCE_StoppedGrowthFertility>
+  <!-- EN: A body of water nearby is impeding this plant's growth -->
+  <VCE_WaterNearby>Поблизости обнаружен водоём, мешающий росту растения.</VCE_WaterNearby>
+  <!-- EN: Lack of a body of water nearby is impeding this plant's growth -->
+  <VCE_NoWaterNearby>Отсутствие водоёма поблизости не даёт растению расти.</VCE_NoWaterNearby>
+  <!-- EN: Too far away from the sea, no extra growth bonus -->
+  <VCE_NoSeaTilesNearby>Растение не получает бонуса к скорости роста, так как находится слишком далеко от моря.</VCE_NoSeaTilesNearby>
+  <!-- EN: {0} sea tiles nearby, providing {0}% growth bonus -->
+  <VCE_SeaTilesNearby>Поблизости находится {0} клеток моря, что даёт {0}% бонус к скорости роста.</VCE_SeaTilesNearby>
 </LanguageData>

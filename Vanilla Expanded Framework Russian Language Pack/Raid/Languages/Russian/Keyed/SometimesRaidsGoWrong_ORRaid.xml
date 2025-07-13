@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- EN: Sometimes Raids Go Wrong -->
   <SRGW_ModName>Sometimes Raids Go Wrong</SRGW_ModName>
   <!-- EN: Minimum number on dice -->
@@ -10,8 +11,10 @@
   <SRGW_Debug>Включить режим отладки</SRGW_Debug>
   <!-- EN: Unused toggle -->
   <SRGW_Time>Не используется</SRGW_Time>
-  <!-- EN: To stay up to date with the latest version of this mod, visit Marvin's Mods or add it on Steam Workshop. -->
-  <SRGW_OfficialSites>Чтобы быть в курсе обновлений, посетите сайт «Marvin's Mods» или подпишитесь на мод в мастерской.</SRGW_OfficialSites>
+  <!-- EN: To stay up to date with the latest version of this mod, visit Ryder's Mods or add it on Steam Workshop. -->
+  <SRGW_OfficialSites>Чтобы быть в курсе обновлений, посетите сайт «Ryder's Mods» или подпишитесь на мод в мастерской.</SRGW_OfficialSites>
+  <!-- EN: Overall weight -->
+	<SRGW_OverallWeightLabel>Общий вес</SRGW_OverallWeightLabel>
   <!-- EN: Enabled Events -->
   <SRGW_EventListingTitle>Включённые события</SRGW_EventListingTitle>
   <!-- EN: 1: Raiders are afflicted by mechanites. May appear to age rapidly. -->
@@ -42,8 +45,37 @@
   <SRGW_Event_BurningMen>Налётчиков преследуют механоиды, некоторые из них в огне</SRGW_Event_BurningMen>
   <!-- EN: Some of the raiders decide to run wild. -->
   <SRGW_Event_RunWild>Некоторые налётчики решили одичать.</SRGW_Event_RunWild>
-  <!-- EN: Choose thing to go wrong -->
+  <!-- EN: Choose things to go wrong -->
   <SRGW_Debug_Can_Choose>Выберите, что может пойти не так</SRGW_Debug_Can_Choose>
   <!-- EN: Chosen event -->
   <SRGW_Debug_Choice>Выбранное событие</SRGW_Debug_Choice>
+  <!-- EN: Change weights of events -->
+	<SRGW_Show_Weights>Изменить веса для событий</SRGW_Show_Weights>
+  <!-- EN: Weight for -->
+	<SRGW_Weight_This>Вес для </SRGW_Weight_This>
+  <!-- EN: Test Weights -->
+	<SRGW_Weight_Test>Тест весов</SRGW_Weight_Test>
+  <!-- EN: Overall weight for raids going wrong -->
+	<SRGW_WeightGoWrong>Общий вес для налётов, которые пошли не по плану</SRGW_WeightGoWrong>
+  <!-- EN: Toggle -->
+	<SRGW_Toggle>Переключить</SRGW_Toggle>
+  <!-- EN: Rapid Ageing -->
+	<SRGW_ShortName_RapidAgeing>Быстрое старение</SRGW_ShortName_RapidAgeing>
+  <!-- EN: Manhunters -->
+	<SRGW_ShortName_Manhunters>Агрессивные животные</SRGW_ShortName_Manhunters>
+  <!-- EN: Pod Malfunction -->
+	<SRGW_ShortName_PodMalfunction>Неисправность капсулы</SRGW_ShortName_PodMalfunction>
+  <!-- EN: Meteorites -->
+	<SRGW_ShortName_Meteorites>Метеориты</SRGW_ShortName_Meteorites>
+  <!-- EN: Drunk Drop -->
+	<SRGW_ShortName_DrunkDrop>Пьяная высадка</SRGW_ShortName_DrunkDrop>
+  <!-- EN: Burning Men -->
+	<SRGW_ShortName_BurningMen>Горящий человек</SRGW_ShortName_BurningMen>
+  <!-- EN: Run Wild -->
+	<SRGW_ShortName_RunWild>Одичание</SRGW_ShortName_RunWild>
+  <!-- EN: Vanilla Events Expanded is active, built in weight slider is disabled. Please adjust in VEE Settings. -->
+	<SRGW_VEEIsActive>Активен мод «Vanilla Events Expanded», поэтому встроенные редактор весов недоступен. Воспользуйтесь настройками в VEE.</SRGW_VEEIsActive>
+  <!-- EN: Reset Settings -->
+	<SRGW_Reset>Сбросить настройки</SRGW_Reset>
+
 </LanguageData>

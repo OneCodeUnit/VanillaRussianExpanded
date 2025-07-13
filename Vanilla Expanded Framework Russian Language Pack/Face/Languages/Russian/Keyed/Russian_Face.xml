@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- EN: General Settings -->
   <NL_FA_Core_GeneralSettings>Основные настройки</NL_FA_Core_GeneralSettings>
 
@@ -23,6 +24,11 @@
   <NL_FA_Switch_Left_And_Right_Eyes>Переключить правый и левый глаз</NL_FA_Switch_Left_And_Right_Eyes>
   <!-- EN: Fix an issue where the left and right eye scars are swapped. -->
   <NL_FA_Switch_Left_And_Right_Eyes_Hint>Позволяет исправить проблему, когда шрамы на правом и левом глазе поменялись местами.</NL_FA_Switch_Left_And_Right_Eyes_Hint>
+  
+  <!-- EN: Hide Vanilla Eye Textures -->
+	<NL_FA_Disable_Eye_Attachment>Скрыть текстуры оригинальных глаз</NL_FA_Disable_Eye_Attachment>
+  <!-- EN: Hides textures that cover the FA's eyes. -->
+	<NL_FA_Disable_Eye_Attachment_Hint>Скрывает текстуры, которые отрисовываются поверх глаз из этого мода.</NL_FA_Disable_Eye_Attachment_Hint>
 
   <!-- EN: Draw the eyebrows above the hat. -->
   <NL_FA_Draw_the_eyebrows_above_the_hat>Отрисовывать брови поверх головных уборов</NL_FA_Draw_the_eyebrows_above_the_hat>
@@ -57,6 +63,15 @@
   <!-- EN: Draw gene-parts (experimental) -->
 	<NL_FA_Draw_the_Nose_parts_Hint>Отрисовывать части от генов (эксперимент)</NL_FA_Draw_the_Nose_parts_Hint>
 
+  <!-- EN: Race and Xenotype Settings -->
+	<NL_FA_Core_RaceSettings>Настройки расы и ксенотипа</NL_FA_Core_RaceSettings>
+  <!-- EN: For users who wish to partially disable FA-enabled functions. -->
+	<NL_FA_Core_RaceSettings_Hint>Для пользователей, которые хотят частично отключить возможности этого мода.</NL_FA_Core_RaceSettings_Hint>
+
+  <!-- EN: Select a race -->
+	<NL_FA_Core_RaceSelector>Выбрать расу</NL_FA_Core_RaceSelector>
+  <!-- EN: If disabled, facial animation is no longer applied to the races + xenotype combination. -->
+	<NL_FA_Core_RaceSelector_Hint>Если отключено, лицевые анимации больше не применяются к этой комбинации расы и ксенотипа.</NL_FA_Core_RaceSelector_Hint>
   <!-- EN: Animation Settings -->
   <NL_FA_Animation_Settings>Настройки анимаций</NL_FA_Animation_Settings>
 
@@ -100,7 +115,7 @@
   <!-- EN: When enabled, ignore hair mesh size params -->
   <NL_FA_Ignore_hair_mesh_Hint>Если включено, параметры размера сетки волос игнорируются</NL_FA_Ignore_hair_mesh_Hint>
 
-  <!-- EN: Odd eye probability:{0} % -->
+  <!-- EN: Odd eye probability: {0} % -->
   <NL_FA_Odd_Eye_Probability>Вер. необ. цвета глаза: {0} %</NL_FA_Odd_Eye_Probability>
   <!-- EN: Enable MainTab -->
   <NL_FA_Enable_MainTab>Добавить вкладку</NL_FA_Enable_MainTab>
@@ -132,4 +147,15 @@
   <NL_FA_UI_Support_Label>Поддерживается</NL_FA_UI_Support_Label>
   <!-- EN: Not Supported -->
   <NL_FA_UI_Not_Support_Label>Не поддерживается</NL_FA_UI_Not_Support_Label>
+  <!-- EN: Status Simulation -->
+	<NL_FA_UI_Status_Simulation_Label>Имитация состояния</NL_FA_UI_Status_Simulation_Label>
+
+  <!-- EN: Enable Red Tint Correction for Low-Brightness Skin -->
+	<NL_FA_Enable_dark_skin_shader>Включить коррекцию красного оттенка для кожи с низкой яркостью</NL_FA_Enable_dark_skin_shader>
+  <!-- EN: The vanilla skin shading has an issue where darker skin tones appear reddish. Enabling this option will change the processing of darker skin tones to be the same as Xenohumans. A reload is required. -->
+	<NL_FA_Enable_dark_skin_shader_Hint>Шэйдинг игры имеет проблему, из-за которой тёмная кожа становится красноватой. Включение этой настройки изменит обработку тёмных оттенков кожи на такие же, как у ксенолюдей. Для применения потребуется перезагрузка.</NL_FA_Enable_dark_skin_shader_Hint>
+
+  <!-- EN: Brightness threshold: {0} % -->
+	<NL_FA_dark_skin_threshold>Порог яркости: {0} %</NL_FA_dark_skin_threshold>
+
 </LanguageData>

@@ -130,6 +130,36 @@
   <!-- EN: A factor of the mean time between (MTB) this person looking for some lovin'. -->
   <VEF_MTBLovinFactor.description>Фактор, определяющий среднее время до того, как скоро этот персонаж начнёт искать близость.</VEF_MTBLovinFactor.description>
 
+  <!-- EN: melee weapon range -->
+  <VEF_MeleeWeaponRange.label>радиус оружия ближнего боя</VEF_MeleeWeaponRange.label>
+  <!-- EN: The range of this melee weapon. -->
+  <VEF_MeleeWeaponRange.description>Радиус действия этого оружия ближнего боя.</VEF_MeleeWeaponRange.description>
+
+  <!-- EN: thought duration factor - positive -->
+  <VEF_PositiveThoughtDurationFactor.label>длительность позитивных мыслей</VEF_PositiveThoughtDurationFactor.label>
+  <!-- EN: The duration of positive thoughts is multiplied by this value. -->
+  <VEF_PositiveThoughtDurationFactor.description>Длительность позитивных мыслей умножается на это значение.</VEF_PositiveThoughtDurationFactor.description>
+
+  <!-- EN: thought duration factor - neutral -->
+  <VEF_NeutralThoughtDurationFactor.label>длительность нейтральных мыслей</VEF_NeutralThoughtDurationFactor.label>
+  <!-- EN: The duration of neutral thoughts is multiplied by this value. -->
+  <VEF_NeutralThoughtDurationFactor.description>Длительность нейтральных мыслей умножается на это значение.</VEF_NeutralThoughtDurationFactor.description>
+
+  <!-- EN: thought duration factor - negative -->
+  <VEF_NegativeThoughtDurationFactor.label>длительность негативных мыслей</VEF_NegativeThoughtDurationFactor.label>
+  <!-- EN: The duration of negative thoughts is multiplied by this value. -->
+  <VEF_NegativeThoughtDurationFactor.description>Длительность негативных мыслей умножается на это значение.</VEF_NegativeThoughtDurationFactor.description>
+
+  <!-- EN: learning rate -->
+  <VEF_BuildingLearningRateOffset.label>скорость обучения</VEF_BuildingLearningRateOffset.label>
+  <!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
+  <VEF_BuildingLearningRateOffset.description>Множитель скорости обучения детей во время уроков с использованием этого.</VEF_BuildingLearningRateOffset.description>
+
+  <!-- EN: ranged dodge chance -->
+  <VEF_RangedDodgeChance.label>шанс уклонения от выстрела</VEF_RangedDodgeChance.label>
+  <!-- EN: Chance to dodge a ranged attack that would've otherwise hit. -->
+  <VEF_RangedDodgeChance.description>Шанс уклониться от дальней атаки, которая иначе попала бы в цель.</VEF_RangedDodgeChance.description>
+
   <!-- EN: Mass carry capacity-->
   <VEF_MassCarryCapacity.label>Вес переносимого груза</VEF_MassCarryCapacity.label>
   <!-- EN: Total mass carrying capacity of the pawn in caravans. -->

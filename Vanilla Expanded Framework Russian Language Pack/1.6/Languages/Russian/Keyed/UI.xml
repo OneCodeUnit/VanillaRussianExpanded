@@ -77,4 +77,10 @@ If hired {0} die on duty, you will incur an additional 5% increase to contract p
   <VEF.HuntDescription>Пока этот режим включён, персонажи будут автоматически перемещаться, чтобы атаковать ближайшие цели.\n\nВы можете щёлкнуть правой кнопкой мыши по этой кнопке, чтобы переключить автоматический огонь для ВСЕХ способностей на выбранном персонаже.</VEF.HuntDescription>
   <!-- EN: This quest is a part of a quest chain. Completing it may trigger continuation quests.\n\n{0}\n\n{1}-->
   <VEF.QuestChainTooltip>Это задание является частью цепочки заданий. Его завершение запустит последующие задания.\n\n{0}\n\n{1}</VEF.QuestChainTooltip>
+  <!-- EN: Attack this {0}. -->
+  <VEF.CommandAttackMovingBaseDesc>Атаковать {0}.</VEF.CommandAttackMovingBaseDesc>
+  <!-- EN: Change visual -->
+  <VFE.ChangeVisualLabel>Изменить вид</VFE.ChangeVisualLabel>
+  <!-- EN: Set a specific visual for the building or item. -->
+  <VFE.ChangeVisualDesc>Установить определённый внешний вид для постройки или предмета.</VFE.ChangeVisualDesc>
 </LanguageData>

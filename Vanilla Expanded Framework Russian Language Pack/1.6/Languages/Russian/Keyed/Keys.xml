@@ -64,6 +64,14 @@
   <VanillaFactionsExpanded.FactionMessageSuccessFull>Добавлена фракция {FactionName}, имеющая {Amount} поселений.</VanillaFactionsExpanded.FactionMessageSuccessFull>
   <!-- EN: Added {FactionName}. -->
   <VanillaFactionsExpanded.FactionMessageSuccess>Добавлена фракция {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+  <!-- EN: It is marked as required, and you must add it to the game. -->
+  <VanillaFactionsExpanded.FactionDiscoveryRequired>Фракция отмечена как обязательная, поэтому вы должны добавить её.</VanillaFactionsExpanded.FactionDiscoveryRequired>
+  <!-- EN: Failed to generate this faction. It is recommended to try again, but you can now skip adding this faction. Skipping may cause issues. -->
+  <VanillaFactionsExpanded.FactionFailedMessage>Не удалось создать эту фракцию. Рекомендуется попробовать ещё раз, но теперь вы можете пропустить добавление этой фракции. Однако пропуск может вызвать проблемы.</VanillaFactionsExpanded.FactionFailedMessage>
+  <!-- EN: {FACTION} cannot be disabled{REQUIRED_multiple ? , you need at least {REQUIRED} factions of that type. : .} -->
+  <VanillaFactionsExpanded.FactionRequired>{FACTION} нельзя отключить{REQUIRED_multiple ? , вам нужно как минимум {REQUIRED} фракций этого типа. : .}</VanillaFactionsExpanded.FactionRequired>
+  <!-- EN: {REQUIRED_multiple ? It is recommended to have at least {REQUIRED} factions of {FACTION} type, but currently there's only {COUNT}. : It is recommended to enable {FACTION}.} -->
+  <VanillaFactionsExpanded.FactionRecommended>{REQUIRED_multiple ? Желательно иметь не менее {REQUIRED} фракций, как {FACTION}, но сейчас выбрано только {COUNT}. : Рекомендуется включить ещё {FACTION}.}</VanillaFactionsExpanded.FactionRecommended>
   
   <!-- EN: Settlements to spawn (recommended are {0}): {1} -->
   <VanillaFactionsExpanded.FactionSettlementsToSpawn>Добавить поселений (рекомендуется {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>

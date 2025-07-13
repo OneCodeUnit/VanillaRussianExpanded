@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Body clock -->
+	<NocturnalAnimals.BodyClock>Внутренние часы</NocturnalAnimals.BodyClock>
+  <!-- EN: Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk. -->
+	<NocturnalAnimals.BodyClock_Description>Они определяют время, когда животное спит, а когда бодрствует.\n\nДневные животные спят ночью и бодрствуют днём, а ночные спят днём и бодрствуют ночью. Сумеречные животные активны вечером.</NocturnalAnimals.BodyClock_Description>
+
+  <!-- EN: Diurnal -->
+	<NocturnalAnimals.BodyClock_Diurnal>Дневные</NocturnalAnimals.BodyClock_Diurnal>
+  <!-- EN: Nocturnal -->
+	<NocturnalAnimals.BodyClock_Nocturnal>Ночные</NocturnalAnimals.BodyClock_Nocturnal>
+  <!-- EN: Crepuscular -->
+	<NocturnalAnimals.BodyClock_Crepuscular>Сумеречные</NocturnalAnimals.BodyClock_Crepuscular>
+
+  <!-- EN: {0} has reproduced asexually. -->
+  <VEF_AsexualHatched>{0} размножился бесполым путём.</VEF_AsexualHatched>
+  <!-- EN: {0} has cloned itself. -->
+  <VEF_AsexualCloning>{0} клонировался.</VEF_AsexualCloning>
+  <!-- EN: {0} has sporulated. -->
+  <VEF_AsexualHatchedEgg>{0} выпустил споры.</VEF_AsexualHatchedEgg>
+  <!-- EN: This creature is untameable -->
+  <VEF_NotTameable>Это существо неприручаемо</VEF_NotTameable>
+  <!-- EN: Time to metamorphosis: {0} -->
+  <VEF_TimeToMetamorphosis>Превращение через {0}</VEF_TimeToMetamorphosis>
+
+  <!-- EN: Warning, this egg explodes when hatching! -->
+  <VEF_WarningEggExplodes>Внимание! Это яйцо взорвётся при вылуплении.</VEF_WarningEggExplodes>
+
+  <!-- EN: Animal expires in: {0} -->
+  <VEF_TimeToDie>Животное умрёт через {0}</VEF_TimeToDie>
+
+  <!-- EN: Disable {0} -->
+	<VEF_DisableAnimal>Отключить {0}</VEF_DisableAnimal>
+
+  <!-- EN: {0} creatures swallowed whole. -->
+  <VEF_StomachContents>{0} существ, проглоченных целиком.</VEF_StomachContents>
+  <!-- EN: Will be consumed in {0} -->
+  <VEF_DigestionTime>Будет поглощено через {0}</VEF_DigestionTime>
+
+  <!-- EN: The terrain needs to be diggable to do this -->
+  <VEF_TerrainsNeedsDiggable>Требуется поверхность, на которой можно копать</VEF_TerrainsNeedsDiggable>
+
+  <!-- EN: While caravaning, produces {0} {1} every:  -->
+  <VEF_WhileCaravaning>Во время путешествий производит {0} {1} каждые </VEF_WhileCaravaning>
+
+  <!-- EN: These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework -->
+  <VCE_AffectsAllAnimalMods>Эти параметры повлияют на всех животных из модов, использующих код Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+  <!-- EN: Allow corpse decaying mechanics (for example, Helixien slug's effect) -->
+  <VCE_CorpseDecayingEffectOption>Разрешить разлагать и переваривать останки (пример — Helixien slug)</VCE_CorpseDecayingEffectOption>
+  <!-- EN: Allow digging when hungry mechanics (for example, Frostmites digging corpses) -->
+  <VCE_DigWhenHungryOption>Разрешить рыться в земле в поисках пищи (пример — Frostmites digging corpses)</VCE_DigWhenHungryOption>
+  <!-- EN: Allows animals digging for things periodically -->
+  <VCE_DigPeriodicallyOption>Разрешить иногда рыться в земле в поисках что-нибудь</VCE_DigPeriodicallyOption>
+  <!-- EN: Allow animal particles (gas and filth) -->
+  <VCE_AnimalParticlesOption>Разрешить визуальные эффекты (газ и грязь)</VCE_AnimalParticlesOption>
+  <!-- EN: Allow asexual reproduction -->
+  <VCE_AsexualReproductionOption>Разрешить бесполое размножение </VCE_AsexualReproductionOption>
+  <!-- EN: Asexual reproduction disabled via mod options -->
+  <VFE_AsexualReproductionDisabled>Бесполое размножение отключено настройками мода</VFE_AsexualReproductionDisabled>
+  <!-- EN: Allow "blink" mechanics (for example, Skiphounds) -->
+  <VCE_BlinkMechanicsOption>Разрешить механику «мерцания» между двумя позициями (пример — Skiphounds)</VCE_BlinkMechanicsOption>
+  <!-- EN: Allow animals building things (for example, beavers building dams) -->
+  <VCE_BuildPeriodicallyOption>Разрешить строить здания (пример — бобры)</VCE_BuildPeriodicallyOption>
+  <!-- EN: Allow animals recharging nearby batteries or refueling -->
+  <VCE_ChargeBatteriesOption>Разрешить заряжать батареи и заправлять генераторы</VCE_ChargeBatteriesOption>
+  <!-- EN: Allow animals' eggs that explode (such as dragons') -->
+  <VCE_ExplodingEggsOption>Разрешить яйцам взрываться (пример — драконы)</VCE_ExplodingEggsOption>
+  <!-- EN: Allow animals "hovering", ignoring terrain movement costs -->
+  <VCE_HoveringOption>Разрешить животным «парить» и игнорировать штрафы от местности</VCE_HoveringOption>
+  <!-- EN: Allow animals changing graphics (for example, Chameleon Yak) -->
+  <VCE_GraphicChangingOption>Разрешить динамически менять внешний вид (пример — Chameleon Yak)</VCE_GraphicChangingOption>
+  <!-- EN: Allows animals causing hediffs, mental states or thoughts -->
+  <VCE_EffecterOption>Разрешить вызывать эффекты, душевные состояния и мысли</VCE_EffecterOption>
+  <!-- EN: Allow health regeneration (active and passive) -->
+  <VCE_RegenerationOption>Разрешить регенерацию (активную и пассивную)</VCE_RegenerationOption>
+  <!-- EN: Allow animals to auto-resurrect (for example Phoenix Owlcat) -->
+  <VCE_ResurrectionOption>Разрешить автовоскрешение (пример — Phoenix Owlcat)</VCE_ResurrectionOption>
+  <!-- EN: Allow some animals to be untameable -->
+  <VCE_UntameableOption>Разрешить неприручаемость</VCE_UntameableOption>
+
+	<!-- EN: Requires {0} Kg total mass -->
+	<VEF_BillRequiresMass>Требуется масса в {0} кг</VEF_BillRequiresMass>
+</LanguageData>
