@@ -4,4 +4,21 @@
   <VAE_MilitaryClothing.label>военная форма</VAE_MilitaryClothing.label>
   <!-- EN: Craft bulletproof and weatherproof outfits to protect your soldiers. -->
   <VAE_MilitaryClothing.description>Изготовление всепогодного снаряжения для защиты своих солдат.</VAE_MilitaryClothing.description>
+  <!-- EN:
+    <li>subject->tactical gear</li>
+    <li>subject_story->designed camouflage that blends into multiple terrains</li>
+    <li>subject_story->created armor inserts that are both lightweight and bulletproof</li>
+    <li>subject_story->equipped units with climate-controlled battle dress</li>
+    <li>subject_gerund->assembling advanced military outfits</li>
+  -->
+  <VAE_MilitaryClothing.generalRules.rulesStrings>
+    <li>subject->военная форма</li>
+    <li>subject_gen->военной формы</li>
+    <li>subject_dat->военной форме</li>
+    <li>subject_pre_about->о военной форме</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} камуфляж, сочетающийся с различными типами местности</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} бронепластины, одновременно лёгкие и пуленепробиваемые</li>
+    <li>subject_story->{ANYPAWN_gender ? оснастил : оснастила} подразделения всепогодной боевой формой</li>
+    <li>subject_gerund->создания передовой военной экипировки</li>
+  </VAE_MilitaryClothing.generalRules.rulesStrings>
 </LanguageData>
