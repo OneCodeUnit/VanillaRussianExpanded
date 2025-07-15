@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: mind control -->
+  <VPE_Mindcontrol.label>контроль разума</VPE_Mindcontrol.label>
+  <!-- EN: Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once. -->
+  <VPE_Mindcontrol.description>Психически подавить волю цели на короткий промежуток времени, зависящий от психической чувствительности цели, что фактически даёт псионику второе тело. Следует учитывать, что довольно трудно быть двумя людьми сразу.</VPE_Mindcontrol.description>
+  <VPE_Mindcontrol.jobReportString>Использует способность: {0}</VPE_Mindcontrol.jobReportString>
+  <VPE_Mindcontrol.verbProperties.label>контроль разума</VPE_Mindcontrol.verbProperties.label>
+
+  <!-- EN: psychic guidance -->
+  <VPE_PsychicGuidance.label>психический поводырь</VPE_PsychicGuidance.label>
+  <!-- EN: Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities. -->
+  <VPE_PsychicGuidance.description>Подавляет органы восприятия и способность к взаимодействию цели в обмен на усиление её физических способностей.</VPE_PsychicGuidance.description>
+  <VPE_PsychicGuidance.jobReportString>Использует способность: {0}</VPE_PsychicGuidance.jobReportString>
+  <VPE_PsychicGuidance.verbProperties.label>психический поводырь</VPE_PsychicGuidance.verbProperties.label>
+
+  <!-- EN: transmute stone -->
+  <VPE_TransmuteStone.label>трансмутация камня</VPE_TransmuteStone.label>
+  <!-- EN: Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata. -->
+  <VPE_TransmuteStone.description>Камень в обозначенной зоне будет заменён случайным типом ценных минералов из подземных месторождений.</VPE_TransmuteStone.description>
+  <VPE_TransmuteStone.jobReportString>Использует способность: {0}</VPE_TransmuteStone.jobReportString>
+  <VPE_TransmuteStone.verbProperties.label>трансмутация камня</VPE_TransmuteStone.verbProperties.label>
+
+  <!-- EN: heat focus -->
+  <VPE_HeatFocus.label>фокус нейроперегрева</VPE_HeatFocus.label>
+  <!-- EN: Initiates harmonic meditation which converts all accumulated heat in psyfocus after 10 seconds. Can neither overcharge psyfocus nor heat dump. -->
+  <VPE_HeatFocus.description>Гармонизирующая медитация, которая превращает весь накопленный нейроперегрев в пси-концентрацию после 10 секунд медитации. Не может ни перегрузить пси-концентрацию, ни сбросить нейроперегрев.</VPE_HeatFocus.description>
+  <VPE_HeatFocus.jobReportString>Использует способность: {0}</VPE_HeatFocus.jobReportString>
+  <VPE_HeatFocus.verbProperties.label>фокус нейроперегрева</VPE_HeatFocus.verbProperties.label>
+
+  <!-- EN: luck transfer -->
+  <VPE_LuckTransfer.label>передача удачи</VPE_LuckTransfer.label>
+  <!-- EN: Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity. -->
+  <VPE_LuckTransfer.description>Открывает разрыв в кармическом балансе, смещая негативную карму от первой цели в сторону второй одновременно переводя её положительную карму. Влияет только на бой и длительность зависит от психической чувствительности цели.</VPE_LuckTransfer.description>
+  <VPE_LuckTransfer.jobReportString>Использует способность: {0}</VPE_LuckTransfer.jobReportString>
+  <VPE_LuckTransfer.verbProperties.label>передача удачи</VPE_LuckTransfer.verbProperties.label>
+
+  <!-- EN: bend probability -->
+  <VPE_BendProbability.label>исказить вероятность</VPE_BendProbability.label>
+  <!-- EN: Creates a ripple of cosmic scale that will force something to happen. -->
+  <VPE_BendProbability.description>Создать «рябь на поверхности» реальности поистине космических масштабов, чтобы что-нибудь гарантированно случилось.</VPE_BendProbability.description>
+  <VPE_BendProbability.jobReportString>Использует способность: {0}</VPE_BendProbability.jobReportString>
+  <VPE_BendProbability.verbProperties.label>исказить вероятность</VPE_BendProbability.verbProperties.label>
+
+  <!-- EN: location swap -->
+  <VPE_LocationSwap.label>рокировка</VPE_LocationSwap.label>
+  <!-- EN: Using precision skipgates, swaps the positions of the caster and a visible target. -->
+  <VPE_LocationSwap.description>Использует сверхточные прыжковые врата для того, чтобы псионику и видимой цели поменяться местами.</VPE_LocationSwap.description>
+  <VPE_LocationSwap.jobReportString>Использует способность: {0}</VPE_LocationSwap.jobReportString>
+  <VPE_LocationSwap.verbProperties.label>рокировка</VPE_LocationSwap.verbProperties.label>
+
+  <!-- EN: health swap -->
+  <VPE_HealthSwap.label>обмен здоровьем</VPE_HealthSwap.label>
+  <!-- EN: Through the law of equivalent exchange, returns the primary target’s vitality to its origin, transferring all foreign objects and injuries to the secondary target. -->
+  <VPE_HealthSwap.description>По принципу равноценного обмена возвращает первой цели её исходное  состояние здоровья, перенося все негативные эффекты и повреждения на вторую цель.</VPE_HealthSwap.description>
+  <VPE_HealthSwap.jobReportString>Использует способность: {0}</VPE_HealthSwap.jobReportString>
+  <VPE_HealthSwap.verbProperties.label>обмен здоровьем</VPE_HealthSwap.verbProperties.label>
+
+  <!-- EN: transmutation -->
+  <VPE_Transmutation.label>трансмутация</VPE_Transmutation.label>
+  <!-- EN: Through the law of equivalent exchange, converts a targeted (stack of) item(s) into an item of equal or lesser value. Completely unpredictable. -->
+  <VPE_Transmutation.description>Используя алхимический принцип равноценного обмена, эта способность позволяет превратить один или несколько целевых предметов в другой, равный или меньший по стоимости. Крайне непредсказуемая способность.</VPE_Transmutation.description>
+  <VPE_Transmutation.jobReportString>Использует способность: {0}</VPE_Transmutation.jobReportString>
+  <VPE_Transmutation.verbProperties.label>трансмутация</VPE_Transmutation.verbProperties.label>
+
+  <!-- EN: skillroll -->
+  <VPE_SkillRoll.label>перетасовка навыков</VPE_SkillRoll.label>
+  <!-- EN: Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma for a day, but can be reduced with psychic sensitivity. -->
+  <VPE_SkillRoll.description>Инициирует хаотичный сдвиг в сознании цели, её приобретённых навыках и познаниях, чаще всего — с благими намерениями. Применение этой способности требует от псионика значительной концентрации сил, поэтому после её использования, псионик погружается в кому на один день. Это время может быть меньше, в зависимости от психической чувствительности псионика.</VPE_SkillRoll.description>
+  <VPE_SkillRoll.jobReportString>Использует способность: {0}</VPE_SkillRoll.jobReportString>
+  <VPE_SkillRoll.verbProperties.label>перетасовка навыков</VPE_SkillRoll.verbProperties.label>
+</LanguageData>

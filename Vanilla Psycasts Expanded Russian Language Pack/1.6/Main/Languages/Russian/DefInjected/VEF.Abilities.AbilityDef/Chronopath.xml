@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: plant timeskip -->
+  <VPE_PlantTimeskip.label>растительный хронопрыжок</VPE_PlantTimeskip.label>
+  <!-- EN: Grows all the plants in a radius around the caster, advancing their maturity by the equivalent of 7 days. Biologically ages the caster by a full year. -->
+  <VPE_PlantTimeskip.description>Все растения в радиусе действия моментально вырастают до уровня зрелости, эквивалентного 7 дням. Сам же псионик состаривается на один год.</VPE_PlantTimeskip.description>
+  <VPE_PlantTimeskip.jobReportString>Использует способность: {0}</VPE_PlantTimeskip.jobReportString>
+  <VPE_PlantTimeskip.verbProperties.label>растительный хронопрыжок</VPE_PlantTimeskip.verbProperties.label>
+
+  <!-- EN: timeskip meditation -->
+  <VPE_TimeskipMeditation.label>хронопрыжковая медитация</VPE_TimeskipMeditation.label>
+  <!-- EN: Puts the caster into a self-inflicted coma for a full day as they earn a considerable amount of experience toward their next Psycast level and regain full Psyfocus. Biologically ages the caster by five years. -->
+  <VPE_TimeskipMeditation.description>Погружает псионика в кому на день, но позволяет получить значительное количество опыта для достижения следующего уровня и полностью восстановить пси-концентрацию. Подвергает тело псионика серьёзному стрессу, который состаривает на 5 лет.</VPE_TimeskipMeditation.description>
+  <VPE_TimeskipMeditation.jobReportString>Использует способность: {0}</VPE_TimeskipMeditation.jobReportString>
+  <VPE_TimeskipMeditation.verbProperties.label>хронопрыжковая медитация</VPE_TimeskipMeditation.verbProperties.label>
+
+  <!-- EN: word of foretelling -->
+  <VPE_WordofForetelling.label>слово предсказания</VPE_WordofForetelling.label>
+  <!-- EN: Psychic whispers of things to come. Colony pawns are inspired, neutrals or friendlies improve relations, prisoners lose their resistance and enemies retreat from their doom. Biologically ages the caster by a full year. -->
+  <VPE_WordofForetelling.description>Психический шёпот, несущий вести о том, что будет. Поселенцы получают вдохновение, отношения с союзниками и нейтральными фракциями улучшаются. Пленники теряют способность к сопротивлению, а враги бегут с поля боя, в страхе за свою жизнь. Состаривает псионика на год.</VPE_WordofForetelling.description>
+  <VPE_WordofForetelling.jobReportString>Использует способность: {0}</VPE_WordofForetelling.jobReportString>
+  <VPE_WordofForetelling.verbProperties.label>слово предсказания</VPE_WordofForetelling.verbProperties.label>
+
+  <!-- EN: craft timeskip -->
+  <VPE_CraftTimeskip.label>хронопрыжок ремесленника</VPE_CraftTimeskip.label>
+  <!-- EN: Using very precise timeskipping, moves the desired item to its finished state as if the creator had continued working on it. Biologically ages the caster by a full year. -->
+  <VPE_CraftTimeskip.description>Тонко манипулируя техникой хронопрыжка, псионик смещает состояние изготавливаемого предмета на тот момент времени, когда работа над ним уже закончена так, как если бы его создатель не прекращал работу над ним. Состаривает псионика на год.</VPE_CraftTimeskip.description>
+  <VPE_CraftTimeskip.jobReportString>Использует способность: {0}</VPE_CraftTimeskip.jobReportString>
+  <VPE_CraftTimeskip.verbProperties.label>хронопрыжок ремесленника</VPE_CraftTimeskip.verbProperties.label>
+
+  <!-- EN: age -->
+  <VPE_Age.label>состарить</VPE_Age.label>
+  <!-- EN: Very inefficiently siphons life force from a living target, de-aging the caster by 2 years and aging the other by 10. Very debilitating aftereffects for the victim and considered a hostile action by allies. -->
+  <VPE_Age.description>Очень неэффективно забрать жизненную силу у цели и перенаправить её псионику, омолаживая того на два года и состарив цель на десять лет. Результатом будут крайне тяжёлые эффекты для цели и это действие является враждебным.</VPE_Age.description>
+  <VPE_Age.jobReportString>Использует способность: {0}</VPE_Age.jobReportString>
+  <VPE_Age.verbProperties.label>состарить</VPE_Age.verbProperties.label>
+
+  <!-- EN: raid pause -->
+  <VPE_RaidPause.label>остановить налёт</VPE_RaidPause.label>
+  <!-- EN: Depending on the caster’s psychic sensitivity, slows all raiders on the map to a complete stop for up to five minutes. Attacking any single affected raider jolts all of them back into action. -->
+  <VPE_RaidPause.description>В зависимости от психической чувствительности псионика, полностью останавливает всех нападающих на карте на время до пяти минут. Если атаковать любого из подвергнувшихся влиянию этой способности, то все вернутся в нормальное состояние.</VPE_RaidPause.description>
+  <VPE_RaidPause.jobReportString>Использует способность: {0}</VPE_RaidPause.jobReportString>
+  <VPE_RaidPause.verbProperties.label>остановить налёт</VPE_RaidPause.verbProperties.label>
+
+  <!-- EN: season timeskip -->
+  <VPE_SeasonTimeskip.label>сезонный хронопрыжок</VPE_SeasonTimeskip.label>
+  <!-- EN: Locks the entire planet into a season-long psychically induced slowdown, effectively skipping forward a season. Nigh instantaneous effect, very strenuous and puts the caster in a coma, as well as biologically aging them by a full year -->
+  <VPE_SeasonTimeskip.description>Окутывает всю планету в кокон темпорального искажения, замедляя всё на ней на протяжении целого сезона, по сути пропуская его. Эффект является почти мгновенным, но в то же время является огромной нагрузкой для псионика, вводя его в состояние комы и состаривая на год.</VPE_SeasonTimeskip.description>
+  <VPE_SeasonTimeskip.jobReportString>Использует способность: {0}</VPE_SeasonTimeskip.jobReportString>
+  <VPE_SeasonTimeskip.verbProperties.label>сезонный хронопрыжок</VPE_SeasonTimeskip.verbProperties.label>
+
+  <!-- EN: time sphere -->
+  <VPE_TimeSphere.label>хроносфера</VPE_TimeSphere.label>
+  <!-- EN: Psychically compresses the flow of time in an area. Rapidly ages living creatures, plants flourish and wither, and structures start to disintegrate from the bizarre stress. -->
+  <VPE_TimeSphere.description>Псионически сжать течение времени в ограниченном пространстве. Живые существа стремительно стареют, растения цветут и высыхают, а строения разрушаются под воздействием времени.</VPE_TimeSphere.description>
+  <VPE_TimeSphere.jobReportString>Использует способность: {0}</VPE_TimeSphere.jobReportString>
+  <VPE_TimeSphere.verbProperties.label>хроносфера</VPE_TimeSphere.verbProperties.label>
+
+  <!-- EN: time reversal -->
+  <VPE_TimeReversal.label>возврат времени</VPE_TimeReversal.label>
+  <!-- EN: Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma. -->
+  <VPE_TimeReversal.description>Довольно неэффективное вливание жизненной силы в живую цель, состаривает псионика на пять лет и омолаживает цель на десять. Имеет возрастной порог. Устраняет возрастные болезни и погружает псионика в состояние комы.</VPE_TimeReversal.description>
+  <VPE_TimeReversal.jobReportString>Использует способность: {0}</VPE_TimeReversal.jobReportString>
+  <VPE_TimeReversal.verbProperties.label>возврат времени</VPE_TimeReversal.verbProperties.label>
+
+  <!-- EN: timequake -->
+  <VPE_Timequake.label>хроношторм</VPE_Timequake.label>
+  <!-- EN: Find a discontinuity in the psychic field and compress it, releasing a massive temporal disturbance. Every creature in range but outside of the safe inner circle will experience rapid aging and structures will warp. Casting this takes 20 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing timequake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <VPE_Timequake.description>Позволяет найти разрыв в пси-поле и сжать его, высвобождая из него сильные темпоральные возмущения. Каждое живое существо, находящееся в радиусе действия и вне безопасной зоны вокруг псионика, стремительно начинает стареть, а строения начнут получать повреждения. Создание хроношторма требует 20 секунд подготовительной медитации, после чего псионик впадёт в кому на 5 дней. Отголоски хроношторма пронесутся по планете на много километров вокруг, после чего ухудшатся отношения со всеми фракциями.</VPE_Timequake.description>
+  <VPE_Timequake.jobReportString>Использует способность: {0}</VPE_Timequake.jobReportString>
+  <VPE_Timequake.verbProperties.label>хроношторм</VPE_Timequake.verbProperties.label>
+  <!-- EN: If you use timequake, everyone in this region will feel the timequake echo, you will lose goodwill with every non-hostile faction.\n\nTimequake takes 20 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone except those in a small circle around the caster will be affected.\n\nDo you really want to cast timequake? -->
+  <VPE_Timequake.modExtensions.2.message>Если вы примените хроношторм, его отголоски разнесутся по всей планете и вы потеряете отношения со всеми фракциями.\n\nХроношторм потребуется 20 секунд для создания и это действие нельзя прервать. В конце псионик впадёт в пси-кому на 5\n\nВсе, даже в небольшом радиусе вокруг псионика будут задеты.\n\nВы точно хотите сотворить хроношторм?</VPE_Timequake.modExtensions.2.message>
+</LanguageData>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: breathe ice -->
+  <VPE_IceBreath.label>ледяное дыхание</VPE_IceBreath.label>
+  <!-- EN: Breathe forward a stream of psychic entropy, the resulting cold cutting and inducing hypothermia scaling with the distance to the target. -->
+  <VPE_IceBreath.description>Выдохнуть поток психоэнтропии. Появляющийся в результате поток холода вызывает порезы и обморожения, сила которых зависит от расстояния до цели.</VPE_IceBreath.description>
+  <VPE_IceBreath.jobReportString>Использует способность: {0}</VPE_IceBreath.jobReportString>
+  <VPE_IceBreath.verbProperties.label>ледяное дыхание</VPE_IceBreath.verbProperties.label>
+
+  <!-- EN: ice spike -->
+  <VPE_IceSpike.label>ледяной шип</VPE_IceSpike.label>
+  <!-- EN: Condenses vapor with psychic entropy into an icicle launched at a target, the damage and accuracy scaling with psychic sensitivity. -->
+  <VPE_IceSpike.description>С помощью психической энергии охлаждает пар до состояния сосульки, которая потом отправляется в цель. Урон и точность зависят от психической чувствительности.</VPE_IceSpike.description>
+  <VPE_IceSpike.jobReportString>Использует способность: {0}</VPE_IceSpike.jobReportString>
+  <VPE_IceSpike.verbProperties.label>ледяной шип</VPE_IceSpike.verbProperties.label>
+
+  <!-- EN: ice shield -->
+  <VPE_IceShield.label>ледяной щит</VPE_IceShield.label>
+  <!-- EN: Creates an aura of psychic entropy around the target for a time, preventing them from experiencing cold and inducing hypothermia on any who try to attack them in melee. Duration scales with psychic sensitivity of the caster. -->
+  <VPE_IceShield.description>Создаёт и поддерживает некоторое время ауру психической энтропии вокруг цели, не давая ей ощущать холод и вызывая обморожение у любого, кто попробует напасть на цель в ближнем бою. Продолжительность зависит от психочувствительности псионика.</VPE_IceShield.description>
+  <VPE_IceShield.jobReportString>Использует способность: {0}</VPE_IceShield.jobReportString>
+  <VPE_IceShield.verbProperties.label>ледяной щит</VPE_IceShield.verbProperties.label>
+
+  <!-- EN: frost ray -->
+  <VPE_FrostRay.label>замораживающий луч</VPE_FrostRay.label>
+  <!-- EN: Push forth a concentrated stream of psychic entropy for a few seconds, rapidly inducing cuts and hypothermia. The duration scales with the caster’s psychic sensitivity. -->
+  <VPE_FrostRay.description>Псионик на протяжении нескольких секунд выстреливает перед собой потоком концентрированной псионической энтропии, причиняющей порезы и обморожения. Длительность зависит от психической чувствительности псионика.</VPE_FrostRay.description>
+  <VPE_FrostRay.jobReportString>Использует способность: {0}</VPE_FrostRay.jobReportString>
+  <VPE_FrostRay.verbProperties.label>замораживающий луч</VPE_FrostRay.verbProperties.label>
+
+  <!-- EN: ice crystal -->
+  <VPE_IceCrystal.label>ледяной кристалл</VPE_IceCrystal.label>
+  <!-- EN: Creates a node of psychic entropy in the form of a crystal, sapping the heat from the room for the next 5 days. -->
+  <VPE_IceCrystal.description>Создаёт узел психической энтропии в форме кристалла, вытягивающего из комнаты тепло на протяжении пяти дней.</VPE_IceCrystal.description>
+  <VPE_IceCrystal.jobReportString>Использует способность: {0}</VPE_IceCrystal.jobReportString>
+  <VPE_IceCrystal.verbProperties.label>ледяной кристалл</VPE_IceCrystal.verbProperties.label>
+
+  <!-- EN: cold zone -->
+  <VPE_ColdZone.label>зона холода</VPE_ColdZone.label>
+  <!-- EN: Cause an area to manifest nodes of psychic entropy for the next 24 hours, drastically lowering the temperature. -->
+  <VPE_ColdZone.description>Создаёт локальные проявления психической энтропии на протяжении 24 часов сильно охлаждающие комнату.</VPE_ColdZone.description>
+  <VPE_ColdZone.jobReportString>Использует способность: {0}</VPE_ColdZone.jobReportString>
+  <VPE_ColdZone.verbProperties.label>зона холода</VPE_ColdZone.verbProperties.label>
+
+  <!-- EN: ice block -->
+  <VPE_IceBlock.label>ледяной блок</VPE_IceBlock.label>
+  <!-- EN: Combining nodes of psychic entropy and a skipgate linked to an ocean, creating a large block of ice to form in the target location. Fragile and can melt if the temperature is above freezing. -->
+  <VPE_IceBlock.description>Совмещая создание узлов психической энтропии с открытием прыжковых врат в океан, псионик создаёт крупный блок льда в указанном месте. Лёд отличается хрупкостью и может растаять, если температура вокруг выше температуры замерзания воды.</VPE_IceBlock.description>
+  <VPE_IceBlock.jobReportString>Использует способность: {0}</VPE_IceBlock.jobReportString>
+  <VPE_IceBlock.verbProperties.label>ледяной блок</VPE_IceBlock.verbProperties.label>
+
+  <!-- EN: snap freeze -->
+  <VPE_SnapFreeze.label>моментальная заморозка</VPE_SnapFreeze.label>
+  <!-- EN: Creates motes of psychic entropy and miniature skipgates to water reservoirs above all the targets in a small area, encasing them in ice. Victims will experience hypothermia but the ice can melt prematurely if the temperature is above freezing. -->
+  <VPE_SnapFreeze.description>Создаёт каналы психической энтроппии и миниатюрные прыжковые ворота, соединённые с резервуарами воды таким образом, чтобы заключить цели в блоке льда. Жертвы такой заморозки будут испытывать гипотермию, но лёд может растаять, если температура вокруг превышает температуру таяния льда.</VPE_SnapFreeze.description>
+  <VPE_SnapFreeze.jobReportString>Использует способность: {0}</VPE_SnapFreeze.jobReportString>
+  <VPE_SnapFreeze.verbProperties.label>моментальная заморозка</VPE_SnapFreeze.verbProperties.label>
+
+  <!-- EN: ice wall -->
+  <VPE_IceWall.label>ледяная стена</VPE_IceWall.label>
+  <!-- EN: Combining nodes of psychic entropy and miniature skipgates linked to an ocean, creating a circular wall of ice to form around the caster. Fragile and can melt if the temperature is above freezing. -->
+  <VPE_IceWall.description>Псионик совмещает узлы психической энтропии с миниатюрными прыжковыми вратами, ведущими в океан, что даёт ему возможность сформировать ледяную стену вокруг себя. Лёд хрупкий и тает, если температура вокруг выше температуры замерзания воды.</VPE_IceWall.description>
+  <VPE_IceWall.jobReportString>Использует способность: {0}</VPE_IceWall.jobReportString>
+  <VPE_IceWall.verbProperties.label>ледяная стена</VPE_IceWall.verbProperties.label>
+
+  <!-- EN: blizzard -->
+  <VPE_Blizzard.label>буран</VPE_Blizzard.label>
+  <!-- EN: Using differential-pressure skipgates, water-linked skipgates and nodes of psychic entropy, creates a swirling blizzard away from the caster. Those exposed to the tempest experience reduced sight, moving and manipulation, as well as hypothermia buildup and cutting cold. Duration scales with the caster’s psychic sensitivity and puts them in a 5-day coma. -->
+  <VPE_Blizzard.description>Используя прыжковые врата с разностью давлений и прыжковые врата, соединённые с океаном, а также узлы психической энтропии, псионик создаёт вихрь холодного воздуха. Те, кому не повезло оказаться на пути бурана, теряют возможность ориентироваться в пространстве, не могут толком двигаться и получают повреждения от порезов и холода. Длительность зависит от психической чувствительности псионика и каждое использование этой способности вызывает пятидневную кому.</VPE_Blizzard.description>
+  <VPE_Blizzard.jobReportString>Использует способность: {0}</VPE_Blizzard.jobReportString>
+  <VPE_Blizzard.verbProperties.label>буран</VPE_Blizzard.verbProperties.label>
+</LanguageData>

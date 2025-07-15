@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Psycasts Expanded -->
+  <VanillaPsycastsExpanded>Vanilla Psycasts Expanded</VanillaPsycastsExpanded>
+  <!-- EN: Psycaster XP per Psyfocus % gained -->
+  <VPE.XPPerPercent>Количество ОП псионика за процент от пси-концентрации</VPE.XPPerPercent>
+  <!-- EN: Basilicus Bestower Psycaster spawn chance -->
+  <VPE.PsycasterSpawnBaseChance>Вероятность появление псиоников при игре с Базиликусом Благодарящим</VPE.PsycasterSpawnBaseChance>
+  <!-- EN: Basilicus Bestower Psycaster strength factor -->
+  <VPE.PsycasterSpawnAdditional>Сила псиоников при игре с Базиликусом Благодарящим</VPE.PsycasterSpawnAdditional>
+  <!-- EN: Allow shrinking? -->
+  <VPE.AllowShrink>Разрешить уменьшение?</VPE.AllowShrink>
+  <!-- EN: Allow psycast gizmos to be shrunken to half size when there are a lot of them. -->
+  <VPE.AllowShrink.Desc>Разрешить уменьшать визуальные эффекты от способностей вдвое, когда их много.</VPE.AllowShrink.Desc>
+  <!-- EN: UI small mode -->
+  <VPE.SmallMode>Малый интерфейс</VPE.SmallMode>
+  <!-- EN: In small mode, the stats are moved to a tooltip and the psysets are moved to a separate dialog. If checked, this will force small mode. If X'ed, this will ban small mode. If partial (yellow line), this will allow default behavior (small mode will be active if your vertical resolution is less than 1080). -->
+  <VPE.SmallMode.Desc>Режим малого интерфейса переносит статистику во всплывающую подсказку, а наборы умений в отдельный диалог. Галочка сделает его активным всегда. Крестик запретит его. Тильда сделает его активным только тогда, когда вертикальное разрешение экрана будет меньше 1080.</VPE.SmallMode.Desc>
+  <!-- EN: Mute Skipdoor Sound -->
+  <VPE.MuteSkipdoor>Выключить звук Двери измерений</VPE.MuteSkipdoor>
+  <!-- EN: Maximum psycaster level -->
+  <VPE.MaxLevel>Максимальный уровень псионика</VPE.MaxLevel>
+  <!-- EN: Scale base psyfocus gain with stat points? -->
+  <VPE.ChangeFocusGain>Увеличивать базовый прирост пси-концентрации от очков?</VPE.ChangeFocusGain>
+  <!-- EN: If enabled, then the base psyfocus gain before any foci can be increased by spending stat points. -->
+  <VPE.ChangeFocusGain.Desc>Если отмечено, базовый прирост пси-концентрации (до бонусов от медитации) будет увеличиваться от количества вложенных очков.</VPE.ChangeFocusGain.Desc>
+</LanguageData>
