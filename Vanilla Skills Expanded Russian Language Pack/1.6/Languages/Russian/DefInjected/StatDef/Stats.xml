@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: armor penetration factor -->
+  <VSE_ArmorPenetrationFactor.label>множитель бронепробития</VSE_ArmorPenetrationFactor.label>
+  <!-- EN: A multiplier applied to armor penetration of attacks by this pawn. -->
+  <VSE_ArmorPenetrationFactor.description>Множитель, применяемый к бронепробитию всех атак поселенца.</VSE_ArmorPenetrationFactor.description>
+
+  <!-- EN: melee cooldown factor -->
+  <VSE_MeleeCooldownFactor.label>время между ударами</VSE_MeleeCooldownFactor.label>
+  <!-- EN: A multiplier applied to the cooldown of melee attacks by this pawn. -->
+  <VSE_MeleeCooldownFactor.description>Множитель, применяемый к скорости атаки поселенца в ближнем бою</VSE_MeleeCooldownFactor.description>
+
+  <!-- EN: attack on tame fail chance factor -->
+  <VSE_AttackOnFailChanceFactor.label>Шанс агрессии при попытке приручения</VSE_AttackOnFailChanceFactor.label>
+  <!-- EN: A multiplier applied to the chance for failed taming attempts to result in animals attacking this pawn. -->
+  <VSE_AttackOnFailChanceFactor.description>Множитель, применяемый к вероятности нападения животного при неудачной попытке приручения.</VSE_AttackOnFailChanceFactor.description>
+
+  <!-- EN: art quality bonus -->
+  <VSE_ArtQuality.label>бонус качества искусства</VSE_ArtQuality.label>
+  <!-- EN: A bonus to the quality of art produced by this pawn. -->
+  <VSE_ArtQuality.description>Бонус, применяемый к качеству производимых произведений искусства.</VSE_ArtQuality.description>
+
+  <!-- EN: crafting quality bonus -->
+  <VSE_CraftingQuality.label>бонус качества ремесла</VSE_CraftingQuality.label>
+  <!-- EN: A bonus to the quality of non-art crafts produced by this pawn. -->
+  <VSE_CraftingQuality.description>Бонус, применяемый к качеству производимых ремесленных изделий.</VSE_CraftingQuality.description>
+
+  <!-- EN: art creation speed -->
+  <VSE_ArtSpeed.label>бонус скорости создания искусства</VSE_ArtSpeed.label>
+  <!-- EN: A multiplier to how fast this pawn creates art. -->
+  <VSE_ArtSpeed.description>Бонус, применяемый к скорости создания произведений искусства.</VSE_ArtSpeed.description>
+
+  <!-- EN: roof work speed -->
+  <VSE_RoofSpeed.label>скорость строительства крыш</VSE_RoofSpeed.label>
+  <!-- EN: How fast this pawn can work on roofs. -->
+  <VSE_RoofSpeed.description>Скорость, с которой персонаж работает с крышами.</VSE_RoofSpeed.description>
+
+  <!-- EN: floor work speed -->
+  <VSE_FloorSpeed.label>скорость строительства полов</VSE_FloorSpeed.label>
+  <!-- EN: How fast this pawn can work on floors. -->
+  <VSE_FloorSpeed.description>Скорость, с которой персонаж работает с полами.</VSE_FloorSpeed.description>
+
+  <!-- EN: repair speed -->
+  <VSE_RepairSpeed.label>скорость починки</VSE_RepairSpeed.label>
+  <!-- EN: How fast this pawn can do repairs. -->
+  <VSE_RepairSpeed.description>Скорость, с которой персонаж чинит что-либо.</VSE_RepairSpeed.description>
+
+  <!-- EN: construction quality bonus -->
+  <VSE_ConstructQuality.label>бонус качества постройки</VSE_ConstructQuality.label>
+  <!-- EN: A bonus added to the quality of things built by this pawn. -->
+  <VSE_ConstructQuality.description>Бонус, применяемый к качеству создаваемых построек.</VSE_ConstructQuality.description>
+
+  <!-- EN: tailoring speed -->
+  <VSE_TailoringSpeed.label>скорость шитья</VSE_TailoringSpeed.label>
+  <!-- EN: How fast this pawn tailors clothes. -->
+  <VSE_TailoringSpeed.description>Скорость, с которой персонаж шьёт одежду.</VSE_TailoringSpeed.description>
+
+  <!-- EN: weapon creation speed -->
+  <VSE_WeaponCreationSpeed.label>скорость производства оружия</VSE_WeaponCreationSpeed.label>
+  <!-- EN: How fast this pawn can create weapons. -->
+  <VSE_WeaponCreationSpeed.description>Скорость, с которой персонаж создаёт оружие.</VSE_WeaponCreationSpeed.description>
+
+  <!-- EN: component crafting speed -->
+  <VSE_ComponentCraftingSpeed.label>скорость производства компонентов</VSE_ComponentCraftingSpeed.label>
+  <!-- EN: How fast this pawn can create components (both industrial and advanced). -->
+  <VSE_ComponentCraftingSpeed.description>Скорость, с которой персонаж создаёт компоненты (обычные и продвинутые).</VSE_ComponentCraftingSpeed.description>
+
+  <!-- EN: rock chunk chance -->
+  <VSE_RockChunkChance.label>шанс получения обломков</VSE_RockChunkChance.label>
+  <!-- EN: The chance for this pawn to get a chunk when mining natural rock. -->
+  <VSE_RockChunkChance.description>Вероятность, с которой этот персонаж добудет обломок при копании породы.</VSE_RockChunkChance.description>
+
+  <!-- EN: recruitment rate -->
+  <VSE_RecruitRate.label>множитель вербовки</VSE_RecruitRate.label>
+  <!-- EN: How fast this pawn can recruit prisoners to the colony. -->
+  <VSE_RecruitRate.description>Скорость, с которой персонаж вербует пленников.</VSE_RecruitRate.description>
+
+  <!-- EN: peace talks success chance -->
+  <VSE_PeaceTalksChance.label>успех мирных переговоров</VSE_PeaceTalksChance.label>
+  <!-- EN: How likely this pawn is to succeed at peace talks. -->
+  <VSE_PeaceTalksChance.description>Вероятность успеха мирных переговоров.</VSE_PeaceTalksChance.description>
+</LanguageData>
