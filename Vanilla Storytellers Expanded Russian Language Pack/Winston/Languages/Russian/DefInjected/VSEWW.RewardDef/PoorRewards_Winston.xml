@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Pawn joins -->
+  <!-- EN: Colonist joins -->
   <VSEWW_PoorPawnJoins.label>Поселенец</VSEWW_PoorPawnJoins.label>
-  <!-- EN: A single pawn worth up to 50 Combat points joins the colony -->
+  <!-- EN: A single colonist worth up to 50 combat points joins the colony -->
   <VSEWW_PoorPawnJoins.description>К поселению присоединится персонаж стоимостью до 50 боевых очков.</VSEWW_PoorPawnJoins.description>
 
-  <!-- EN: Wood drop< -->
+  <!-- EN: Wood drop -->
   <VSEWW_WoodDrop.label>Дерево</VSEWW_WoodDrop.label>
   <!-- EN: Cargo pods drop 250 wood -->
   <VSEWW_WoodDrop.description>Грузовой контейнер, содержащий 250 ед. древесины.</VSEWW_WoodDrop.description>
@@ -22,7 +22,7 @@
 
   <!-- EN: Food drop -->
   <VSEWW_FoodDrop.label>Еда</VSEWW_FoodDrop.label>
-  <!-- EN: Cargo pods drop 30 survival meals -->
+  <!-- EN: Cargo pods drop 30 packaged survival meals -->
   <VSEWW_FoodDrop.description>Грузовой контейнер, содержащий 30 сухих пайков.</VSEWW_FoodDrop.description>
 
   <!-- EN: Medicine drop -->
@@ -37,7 +37,7 @@
 
   <!-- EN: Poor weapons drop -->
   <VSEWW_PoorWeaponsDrop.label>Плохое оружие</VSEWW_PoorWeaponsDrop.label>
-  <!-- EN: Cargo pods 3 random weapons, maximum quality is poor -->
+  <!-- EN: Cargo pods drop 3 random weapons, maximum quality is poor -->
   <VSEWW_PoorWeaponsDrop.description>Грузовой контейнер, содержащий 3 случайных оружия плохого или ниже качества.</VSEWW_PoorWeaponsDrop.description>
 
   <!-- EN: Cash -->
@@ -45,10 +45,20 @@
   <!-- EN: Cargo pods drop 1000 silver -->
   <VSEWW_PoorCashDrop.description>Грузовой контейнер, содержащий 1000 ед. серебра.</VSEWW_PoorCashDrop.description>
 
+  <!-- EN: Animal drop -->
+  <VSEWW_PoorAnimalDrop.label>Животное</VSEWW_PoorAnimalDrop.label>
+  <!-- EN: Cargo pod drops a random, tamed animal -->
+  <VSEWW_PoorAnimalDrop.description>Грузовой контейнер со случайным приручённым животным</VSEWW_PoorAnimalDrop.description>
+
   <!-- EN: Leather drop -->
   <VSEWW_LeatherDrop.label>Кожа</VSEWW_LeatherDrop.label>
   <!-- EN: Cargo pod drops 300 random pieces of leather -->
   <VSEWW_LeatherDrop.description>Грузовой контейнер, содержащий 300 ед. случайной кожи или шкур.</VSEWW_LeatherDrop.description>
+
+  <!-- EN: Books drop -->
+  <VSEWW_BooksDrop.label>Книги</VSEWW_BooksDrop.label>
+  <!-- EN: Cargo pods drop 3 random books -->
+  <VSEWW_BooksDrop.description>Грузовой контейнер, содержащий 3 случайные книги.</VSEWW_BooksDrop.description>
 
   <!-- EN: Random normal reward -->
   <VSEWW_RandomNormalDrop.label>Случайная обычная награда</VSEWW_RandomNormalDrop.label>

@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Pawn joins -->
+  <!-- EN: Colonist joins -->
   <VSEWW_NormalPawnJoins.label>Поселенец</VSEWW_NormalPawnJoins.label>
-  <!-- EN: A single pawn worth minimum 50 and up to 125 Combat points joins the colony -->
+  <!-- EN: A single colonist worth minimum 50 and up to 125 combat points joins the colony -->
   <VSEWW_NormalPawnJoins.description>К поселению присоединится персонаж стоимостью от 50 до 125 боевых очков.</VSEWW_NormalPawnJoins.description>
 
   <!-- EN: Resource drop -->
   <VSEWW_NormalResourceDrop.label>Ресурсы</VSEWW_NormalResourceDrop.label>
-  <!-- EN: Cargo pods drop 250 wood, 250 steel, 10 components -->
+  <!-- EN: Cargo pods drop 250 wood, 250 steel and 10 components -->
   <VSEWW_NormalResourceDrop.description>Грузовой контейнер, содержащий 250 ед. древесины, 250 стали и 10 компонентов.</VSEWW_NormalResourceDrop.description>
 
   <!-- EN: Component drop -->
   <VSEWW_NormalComponentDrop.label>Компоненты</VSEWW_NormalComponentDrop.label>
-  <!-- EN: Cargo pods drop 20 components, 5 advanced components -->
+  <!-- EN: Cargo pods drop 20 components and 5 advanced components -->
   <VSEWW_NormalComponentDrop.description>Грузовой контейнер, содержащий 20 компонентов и 5 продвинутых компонентов.</VSEWW_NormalComponentDrop.description>
 
   <!-- EN: Food and medicine drop -->
   <VSEWW_NormalFoodAndMedicineDrop.label>Еда и медикаменты</VSEWW_NormalFoodAndMedicineDrop.label>
-  <!-- EN: Cargo pods drop 30 survival meals and 30 medicine -->
+  <!-- EN: Cargo pods drop 30 packaged survival meals and 30 medicine -->
   <VSEWW_NormalFoodAndMedicineDrop.description>Грузовой контейнер, содержащий 30 сухих пайков и 30 медикаментов.</VSEWW_NormalFoodAndMedicineDrop.description>
 
   <!-- EN: Uranium drop -->
@@ -37,7 +37,7 @@
 
   <!-- EN: Normal weapons drop -->
   <VSEWW_NormalWeaponsDrop.label>Нормальное оружие</VSEWW_NormalWeaponsDrop.label>
-  <!-- EN: Cargo pods 3 random weapons, quality is normal -->
+  <!-- EN: Cargo pods drop 3 random weapons, quality is normal -->
   <VSEWW_NormalWeaponsDrop.description>Грузовой контейнер, содержащий 3 случайных оружия нормального качества.</VSEWW_NormalWeaponsDrop.description>
 
   <!-- EN: Cash -->
@@ -67,7 +67,7 @@
 
   <!-- EN: Miniturret drop -->
   <VSEWW_MiniturretDrop.label>Мини-турель</VSEWW_MiniturretDrop.label>
-  <!-- EN: Cargo pod drops 3 minified mini-turrets -->
+  <!-- EN: Cargo pod drops 3 uninstalled mini-turrets -->
   <VSEWW_MiniturretDrop.description>Грузовой контейнер, содержащий 3 сложенных мини-турели.</VSEWW_MiniturretDrop.description>
 
   <!-- EN: Research boost -->
@@ -92,6 +92,6 @@
 
   <!-- EN: Psychic Soothe -->
   <VSEWW_PsychicSoothe.label>Умиротворение</VSEWW_PsychicSoothe.label>
-  <!-- EN: Psychic Soothe -->
+  <!-- EN: Psychic soothe -->
   <VSEWW_PsychicSoothe.description>Вызывает умиротворение.</VSEWW_PsychicSoothe.description>
 </LanguageData>
