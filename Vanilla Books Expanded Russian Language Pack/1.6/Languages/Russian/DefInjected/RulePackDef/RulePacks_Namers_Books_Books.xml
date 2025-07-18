@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--
+  <ArtDescription_Newspaper.rulePack.rulesStrings.0>desc->[Newspapers] of [nearnameinitial] [political_union_outlander]</ArtDescription_Newspaper.rulePack.rulesStrings.0>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.1>desc->[Newspapers] of [nearnameinitial] [political_adjective] [political_union_outlander]</ArtDescription_Newspaper.rulePack.rulesStrings.1>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.2>desc->[Newspapers] of [political_union_outlander] of [nearnameinitial]</ArtDescription_Newspaper.rulePack.rulesStrings.2>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.3>desc->[PeopleBadass]'s [Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.3>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.4>desc->[Newspapers] of [PlaceOutlander]</ArtDescription_Newspaper.rulePack.rulesStrings.4>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.5>desc->[Newspapers] of [Direction] [PlaceOutlander]</ArtDescription_Newspaper.rulePack.rulesStrings.5>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.6>desc->[Newspapers] [Digit]</ArtDescription_Newspaper.rulePack.rulesStrings.6>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.7>desc->[Newspapers] [maybe_letter][Digit][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.7>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.8>desc->[Newspapers] [maybe_letter][Digit][Digit][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.8>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.9>desc->[Newspapers] [maybe_letter][Digit][Digit][Digit][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.9>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.10>desc->[Newspapers] [maybe_letter][RomanNumeral][maybe_letter]</ArtDescription_Newspaper.rulePack.rulesStrings.10>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.11>desc->[ANYPAWN_nameIndef]'s [Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.11>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.12>title->[desc]</ArtDescription_Newspaper.rulePack.rulesStrings.12>
+
+  <ArtDescription_NewspaperDesc.rulePack.rulesStrings.0>desc->This newspaper goes indepth about the events of the last couple of days.</ArtDescription_NewspaperDesc.rulePack.rulesStrings.0>
+-->
+  <ArtDescription_Newspaper.rulePack.rulesStrings>
+    <!-- Location -->
+    <li>desc->[political_adjective_fem] газета [nearnameinitial] [political_union_outlander]</li>
+    <li>desc->[Newspapers] [political_union_outlander] [nearnameinitial]</li>
+    <li>desc->[Newspapers] [political_union_outlander] [nearnameinitial]</li>
+    <li>desc->[Newspapers] [of_badasspeople]</li>
+    <li>desc->[Newspapers] из [PlaceOutlander]</li>
+    <li>desc->[Newspapers] [Direction_masc] [PlaceOutlander]</li>
+    <!-- Numeric -->  
+    <li>desc->[Newspapers] №[Digit]</li>
+    <li>desc->[Newspapers] №[maybe_letter][Digit][maybe_letter]</li>
+    <li>desc->[Newspapers] №[maybe_letter][Digit][Digit][maybe_letter]</li>
+    <li>desc->[Newspapers] №[maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+    <li>desc->[Newspapers] №[maybe_letter][RomanNumeral][maybe_letter]</li>
+    <!-- Person -->
+    <li>desc->[Newspapers] [ANYPAWN_nameIndef]</li>
+
+    <li>title->[desc]</li>
+  </ArtDescription_Newspaper.rulePack.rulesStrings>
+  <ArtDescription_NewspaperDesc.rulePack.rulesStrings>
+    <li>desc->Тут будут описаны события последних нескольких дней</li>
+  </ArtDescription_NewspaperDesc.rulePack.rulesStrings>
+</LanguageData>
