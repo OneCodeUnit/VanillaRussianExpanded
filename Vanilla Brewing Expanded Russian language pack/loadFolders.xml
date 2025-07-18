@@ -1,20 +1,32 @@
 ﻿<loadFolders>
   <v1.4>
-    <li>Common</li>
+    <li>/</li>
+    <li>1.5/Common</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">CoffeMain</li>
-    <li IfModActive="VanillaExpanded.VPlantsE">Plants</li>	
+    <li IfModActive="VanillaExpanded.VPlantsE">1.5/Plants</li>	
     <li IfModActive="VanillaExpanded.VPlantsE">CoffePlants</li>
-    <li IfModActive="VanillaExpanded.VCookE">Cooking</li>	
+    <li IfModActive="VanillaExpanded.VCookE">1.5/Cooking</li>	
     <li IfModActive="VanillaExpanded.VCookE">CoffeCooking</li>
     <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Settlers</li>
   </v1.4>
   <v1.5>
-    <li>Common</li>
+    <li>/</li>
+    <li>1.5/Common</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">CoffeMain</li>
-    <li IfModActive="VanillaExpanded.VPlantsE">Plants</li>	
+    <li IfModActive="VanillaExpanded.VPlantsE">1.5/Plants</li>	
     <li IfModActive="VanillaExpanded.VPlantsE">CoffePlants</li>
-    <li IfModActive="VanillaExpanded.VCookE">Cooking</li>	
+    <li IfModActive="VanillaExpanded.VCookE">1.5/Cooking</li>	
     <li IfModActive="VanillaExpanded.VCookE">CoffeCooking</li>
     <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Settlers</li>
   </v1.5>
+  <v1.6>
+    <li>/</li>
+    <li>1.6/Common</li>
+    <li IfModActive="VanillaExpanded.VBrewECandT">CoffeMain</li>
+    <li IfModActive="VanillaExpanded.VPlantsE">1.6/Plants</li>	
+    <li IfModActive="VanillaExpanded.VPlantsE">CoffePlants</li>
+    <li IfModActive="VanillaExpanded.VCookE">1.6/Cooking</li>	
+    <li IfModActive="VanillaExpanded.VCookE">CoffeCooking</li>
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Settlers</li>
+  </v1.6>
 </loadFolders>

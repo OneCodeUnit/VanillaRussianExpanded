@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: whiskey -->
+  <VBE_Whiskey.label>виски</VBE_Whiskey.label>
+  <!-- EN: A potent liquor distilled from fermented grain. The flavors of the aging barrel tend to permeate this spirit more than others. A woody, almost smokey flavor is pronounced throughout. Simple whiskeys are stereotypically associated with rough manual laborers and hard workers, a common sight in steamworlds across the galaxy. -->
+  <VBE_Whiskey.description>Крепкий алкогольный напиток, дистиллированный из ферментированного зерна. Бочки, в которых выдерживается виски, хорошо передают свой аромат этому напитку, наделяя его глубоким древесным, почти дымным запахом. Виски стереотипно ассоциируется с работягами, занимающимися тяжёлым физическим трудом, что является обычным явлением в индустриальных мирах по всей галактике.</VBE_Whiskey.description>
+  <!-- EN: bottle -->
+  <VBE_Whiskey.tools.0.label>бутылка</VBE_Whiskey.tools.0.label>
+  <!-- EN: neck -->
+  <VBE_Whiskey.tools.1.label>горлышко</VBE_Whiskey.tools.1.label>
+  <!-- EN: Drink {0} -->
+  <VBE_Whiskey.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_Whiskey.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_Whiskey.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_Whiskey.ingestible.ingestReportString>
+
+  <!-- EN: double-aged whiskey -->
+  <VBE_DoubleWhiskey.label>виски двойной выдержки</VBE_DoubleWhiskey.label>
+  <!-- EN: The result of whiskey being aged once more in an unused or lightly used secondary barrel. Flavor profiles are stronger and the afterburn in one's throat notably reduced. The increased aging time for fine whiskey generally portrays a sense of mercantilism and class among its consumers. -->
+  <VBE_DoubleWhiskey.description>Виски, полученный путём повторной выдержки в новой или уже использованной ранее бочке. В результате напиток получает более выраженный вкус и оставляет при употреблении намного меньше жгучего послевкусия. Увеличенное время выдержки высококачественного виски подчёркивает тягу к роскоши ценителей этого напитка.</VBE_DoubleWhiskey.description>
+  <!-- EN: bottle -->
+  <VBE_DoubleWhiskey.tools.0.label>бутылка</VBE_DoubleWhiskey.tools.0.label>
+  <!-- EN: neck -->
+  <VBE_DoubleWhiskey.tools.1.label>горлышко</VBE_DoubleWhiskey.tools.1.label>
+  <!-- EN: Drink {0} -->
+  <VBE_DoubleWhiskey.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_DoubleWhiskey.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_DoubleWhiskey.ingestible.ingestReportString>
+</LanguageData>
