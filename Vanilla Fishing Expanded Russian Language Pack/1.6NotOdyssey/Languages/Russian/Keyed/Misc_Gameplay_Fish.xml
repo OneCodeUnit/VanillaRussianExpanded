@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Fishing Zone -->
+  <VCEF_FishingGrowingZone>Рыбное место</VCEF_FishingGrowingZone>
+  <!-- EN: Create a zone where your colonists will try to fish -->
+  <VCEF_FishingGrowingZoneDesc>Создать область, где ваши поселенцы смогут ловить рыбу.</VCEF_FishingGrowingZoneDesc>
+
+  <!-- EN: Choose catch -->
+  <VCEF_ChooseFish>Стараться ловить</VCEF_ChooseFish>
+  <!-- EN: Choose prefered fish size to catch from those inhabiting this biome. Smaller fish take less time but are less nutritive, while larger fish take longer and are more nutritive. Medium fish are balanced between the two extremes. There is always a chance to catch some different fish or special items -->
+  <VCEF_ChooseFishDesc>Указать, рыбу какого размера, среди обитающих в этом климате, поселенец будет ловить. Маленькие рыбы ловятся быстро, но их питательная ценность мала, в то время как большие рыбы ловятся дольше, но обладают большей питательной ценностью. Скорость ловли и питательная ценность средних рыб находится между ними. Однако всегда остаётся шанс выловить какую-нибудь другую рыбу или особый предмет</VCEF_ChooseFishDesc>
+
+  <!-- EN: Catch Small Fish -->
+  <VCEF_ChooseFishSmallLabel>Маленьких рыб</VCEF_ChooseFishSmallLabel>
+  <!-- EN: Catch Medium Fish -->
+  <VCEF_ChooseFishMediumLabel>Средних рыб</VCEF_ChooseFishMediumLabel>
+  <!-- EN: Catch Large Fish -->
+  <VCEF_ChooseFishLargeLabel>Больших рыб</VCEF_ChooseFishLargeLabel>
+
+  <!-- EN: Allow Fishing -->
+  <VCEF_CommandAllowFishing>Разрешить рыбачить</VCEF_CommandAllowFishing>
+  <!-- EN: Allow fishing to take place in this fishing zone -->
+  <VCEF_CommandAllowFishingDesc>Разрешить ловить рыбу в этой зоне</VCEF_CommandAllowFishingDesc>
+
+  <!-- EN: This zone of size {0} is set to catch fish of size -->
+  <VCEF_ZoneSetTo>Эта область размером {0} клеток предназначена для ловли рыбы размера</VCEF_ZoneSetTo>
+  <!-- EN: Fish in this zone:  -->
+  <VCEF_FishesInThisZone>Можно поймать: </VCEF_FishesInThisZone>
+  <!-- EN: Oceanic fishing zone:  -->
+  <VCEF_IsZoneOceanZone>Океан: </VCEF_IsZoneOceanZone>
+  <!-- EN: Yes -->
+  <VCEF_Yes>Да</VCEF_Yes>
+  <!-- EN: No -->
+  <VCEF_No>Нет</VCEF_No>
+  <!-- EN: This zone is too small (size {0}). Fishing zones need to be at least {1} tiles to be valid (this calculation is made every few seconds: unpause to update). -->
+  <VCEF_ZoneTooSmall>Это область слишком мала (размер {0} клеток). Область для рыбалки должна быть, как минимум, {1} клеток (проверка производится раз в несколько секунд. Снимите игру с паузы и подождите).</VCEF_ZoneTooSmall>
+
+  <!-- EN: No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome) -->
+  <VCEF_NoFish>В этом климате отсутствует рыба для ловли (это может произойти, если климат не поддерживается данным модом или просто безжизненный)</VCEF_NoFish>
+
+  <!-- EN: While fishing, {0} has caught something special: {1} -->
+  <VCEF_CaughtSpecial>Во время рыбалки {0} был пойман особый предмет: {1}</VCEF_CaughtSpecial>
+
+  <!-- EN: Minimum Fishing Zone size -->
+  <VCEF_minimumZoneSize>Минимальный размер зоны для рыбалки</VCEF_minimumZoneSize>
+  <!-- EN: Minimum Fishing Zone size, default is 25 tiles -->
+  <VCEF_minimumZoneSizeTooltip>Минимальный размер зоны для рыбалки.Значение по умолчанию — 25 клеток</VCEF_minimumZoneSizeTooltip>
+  
+  <!-- EN: Base Fishing Duration in ticks -->
+  <VCEF_smallFishDurationFactor>Базовая продолжительность ловли в тиках</VCEF_smallFishDurationFactor>
+  <!-- EN: Base Fishing Duration in ticks. Default is 4500 for small fish. Medium fish take double this time, while large fish take three times as much. Decreasing this increases food yield per day, and viceversa. -->
+  <VCEF_smallFishDurationFactorTooltip>Базовая продолжительность ловли в тиках. Значение по умолчанию для маленькой рыбы — 4500. Значение для средней рыбы будет удвоено, для большой устроенно. Уменьшение этого значение увеличит количество выловленной рыбы в день.</VCEF_smallFishDurationFactorTooltip>
+
+  <!-- EN: Chance to get an special item instead of fish -->
+  <VCEF_chanceForSpecials>Шанс получить особый предмет вместо рыбы</VCEF_chanceForSpecials>
+  <!-- EN: Chance to get an special item instead of fish. Default is 1% per fishing operation. -->
+	<VCEF_chanceForSpecialsTooltip>Шанс получить особый предмет вместо рыбы. По умолчанию 1% для каждого действия.</VCEF_chanceForSpecialsTooltip>
+  <!-- EN: Chance to get an special item instead of fish. Default is 1% per fishing operation. Bear in mind in Odyssey there is by default a 5 day timer between "rare" catches, that you can tweak via these options too. -->
+	<VCEF_chanceForSpecialsTooltip_Odyssey>Шанс получить особый предмет вместо рыбы. По умолчанию 1% для каждого действия. Имейте в виду, что в Odyssey по умолчанию существует 5-дневный интервал между такими «редкими» уловами, который можно изменить в других настройках.</VCEF_chanceForSpecialsTooltip_Odyssey>
+
+  <!-- EN: Minimum days between rare catches -->
+	<VCEF_minDaysBetweenRareCatches>Минимальное количество дней между редкими уловами</VCEF_minDaysBetweenRareCatches>
+  <!-- EN: By default in Odyssey "rare" catches can only happen when 5 days have passed since the last "rare" catch. You can change that minimum interval here. -->
+	<VCEF_minDaysBetweenRareCatchesTootip>По умолчанию в Odyssey «редкий» улов может произойти только когда прошло не меньше 5 дней после предыдущего. Здесь вы можете изменить этот интервал.</VCEF_minDaysBetweenRareCatchesTootip>
+  
+  <!-- EN: Minimum map temperature for reduced fish yield -->
+  <VCEF_minMapTempForLowFish>Минимальная температура для снижения клёва</VCEF_minMapTempForLowFish>
+  <!-- EN: Minimum map temperature for reduced fish yield. Below this temperature fish yield will be greatly reduced. Default is 0ºC. -->
+  <VCEF_minMapTempForLowFishTooltip>Минимальная температура для снижения клёва. Когда температура опустится нижу этого значения, клёв будет значительно снижен. По умолчанию 0ºC.</VCEF_minMapTempForLowFishTooltip>
+  
+  <!-- EN: Maximum map temperature for reduced fish yield -->
+  <VCEF_maxMapTempForLowFish>Максимальная температура для снижения клёва</VCEF_maxMapTempForLowFish>
+  <!-- EN: Maximum map temperature for reduced fish yield. Above this temperature fish yield will be greatly reduced. Default is 50ºC. -->
+  <VCEF_maxMapTempForLowFishTooltip>Максимальная температура для снижения клёва. Когда температура поднимется выше этого значения, клёв будет значительно снижен. По умолчанию 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+
+  <!-- EN: Fishing Yield multiplier -->
+  <VCEF_fishingYieldMultiplier>Множитель улова рыбы</VCEF_fishingYieldMultiplier>
+  <!-- EN: The amount of fish caught will be scaled by this multiplier. -->
+	<VCEF_fishingYieldMultiplierTooltip>Количество пойманной рыбы будет умножено на этот коэффициент.</VCEF_fishingYieldMultiplierTooltip>
+
+  <!-- EN: Fishing Speed multiplier -->
+  <VCEF_fishingSpeedMultiplier>Множитель скорости ловли</VCEF_fishingSpeedMultiplier>
+  <!-- EN: The speed to catch the fish will be scaled by this multiplier. -->
+	<VCEF_fishingSpeedMultiplierTooltip>Скорость ловли рыбы будет умножена на этот коэффициент.</VCEF_fishingSpeedMultiplierTooltip>
+	
+  <!-- EN: Max fish population multiplier -->
+	<VCEF_maxFishPopulationMultiplier>Множитель максимальной популяции рыбы</VCEF_maxFishPopulationMultiplier>
+  <!-- EN: In Odyssey, max fish population in a body of water is defined per biome. This multiplier will be applied to that limit. -->
+	<VCEF_maxFishPopulationMultiplierTooltip>В Odyssey максимальная популяция рыбы в водоёме определена для каждого биома. Эта настройка умножит популяцию в каждом биоме на выбранное значение.</VCEF_maxFishPopulationMultiplierTooltip>
+
+  <!-- EN: Fish amount (in fishing zone) multiplier -->
+  <VCEF_fishAmountMultiplier>Множитель количества рыбы (в рыбном месте)</VCEF_fishAmountMultiplier>
+  <!-- EN: Amount of fish that will be present on a fishing zone. This multiplier will be applied to that amount. -->
+	<VCEF_fishAmountMultiplierTooltip>Количество рыбы, которое имеется в рыбном месте. Оно будет умножена на выбранное значение.</VCEF_fishAmountMultiplierTooltip>
+
+  <!-- EN: Fisher drops fish on the ground instead of hauling to stockpiles -->
+  <VCEF_dropFish>Рыбак оставляет рыбу на земле вместо того, чтобы нести её на склад</VCEF_dropFish>
+
+  <!-- EN: This fishing zone is too polluted to fish -->
+  <VCEF_TooPolluted>Это место слишком загрязнено для рыб</VCEF_TooPolluted>
+</LanguageData>
