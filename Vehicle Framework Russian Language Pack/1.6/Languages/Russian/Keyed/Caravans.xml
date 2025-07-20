@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Amount of tiles traveled in 1 day. -->
+  <VF_Caravan_MoveSpeed>Количество клеток мира, пройденных за 1 день.</VF_Caravan_MoveSpeed>
+  
+  <!-- EN: Dismounted -->
+  <VF_Caravan_Dismounted>Пешком</VF_Caravan_Dismounted>
+
+  <!-- EN: Sailing -->
+  <VF_Sailing>В плавании</VF_Sailing>
+
+  <!-- EN: Items to Take -->
+  <VF_DockToCaravan>Выбрать предметы для погрузки</VF_DockToCaravan>
+
+  <!-- EN: Biome impassable for this vehicle. -->
+  <VF_ImpassableBiome>Этот биом непроходим для данного ТС.</VF_ImpassableBiome>
+  <!-- EN: Caravaning disabled. -->
+  <VF_CaravanDisabled>Этот ТС не может быть использован для путешествий в составе каравана.</VF_CaravanDisabled>
+  <!-- EN: Unable to move. -->
+  <VF_CaravanCantMove>Не может двигаться.</VF_CaravanCantMove>
+  <!-- EN: Cannot merge aerial vehicles. -->
+  <VF_CantMergeAerialVehicle>Невозможно объединить воздушные ТС.</VF_CantMergeAerialVehicle>
+
+  <!-- EN: Dock -->
+  <VF_CommandDockShip>Причалить</VF_CommandDockShip>
+  <!-- EN: Unload all passengers and enable trade with the Settlement of {0}. -->
+  <VF_CommandDockShipDesc>Высадить всех пассажиров и начать торговлю с поселением {0}.</VF_CommandDockShipDesc>
+
+  <!-- EN: Stash Vehicles -->
+  <VF_CommandDisembark>Оставить ТС</VF_CommandDisembark>
+  <!-- EN: Leave all vehicles behind and go on foot.  Vehicles will remain on the world map for up to 20-30 days. -->
+  <VF_CommandDisembarkDesc>Оставить весь транспорт и продолжить путешествие пешком. ТС будут оставаться на карте мира до 20-30 дней.</VF_CommandDisembarkDesc>
+
+  <!-- EN: Repair Vehicles -->
+  <VF_ToggleRepairVehicle>Ремонтировать ТС</VF_ToggleRepairVehicle>
+  <!-- EN: Rest and perform repairs on vehicles inside the caravan -->
+  <VF_ToggleRepairVehicleDesc>Приостановить движение каравана для отдыха и ремонта транспорта.</VF_ToggleRepairVehicleDesc>
+  <!-- EN: Cannot disembark, tile is impassable for colonists. -->
+  <VF_CommandDisembarkImpassableBiome>Невозможно высадиться: эта клетка непроходима.</VF_CommandDisembarkImpassableBiome>
+  <!-- EN: Dock and Disembark -->
+  <VF_CommandDockShipDisembark>Швартовка и высадка</VF_CommandDockShipDisembark>
+  <!-- EN: Dock Boats and go on foot -->
+  <VF_CommandDockShipObjectDesc>Пришвартовать судно и отправиться дальше пешком.</VF_CommandDockShipObjectDesc>
+
+  <!-- EN: Undock -->
+  <VF_CommandUndockShip>Отшвартоваться</VF_CommandUndockShip>
+  <!-- EN: Unload pawns and items from caravan. -->
+  <VF_CommandUndockShipDesc>Выгрузить всех персонажей и предметы из каравана.</VF_CommandUndockShipDesc>
+  <!-- EN: Cannot attack {0} while docked. -->
+  <VF_CommandAttackDockDisable>Нельзя атаковать {0} во время стоянки.</VF_CommandAttackDockDisable>
+  <!-- EN: Cannot trade with {0}. Must dock boat first -->
+  <VF_CommandTradeDockDisable>Нельзя торговать с {0}. Сначала необходимо пришвартовать судно.</VF_CommandTradeDockDisable>
+
+  <!-- EN: Not enough space on ships to house all pawns. -->
+  <VF_CaravanMustHaveEnoughSpaceOnShip>Недостаточно места на судне, чтобы разместить всех персонажей.</VF_CaravanMustHaveEnoughSpaceOnShip>
+  <!-- EN: Not enough Pawns selected to set sail. Need {0} -->
+  <VF_CaravanMustHaveEnoughPawnsToOperate>Не хватает персонажей для отплытия. Необходимо {0}.</VF_CaravanMustHaveEnoughPawnsToOperate>
+
+  <!-- EN: Must have at least 1 vehicle selected in order to choose a route. -->
+  <VF_CaravanMustHaveAtLeastOneVehicle>Для прокладывания маршрута необходимо выбрать как минимум одно ТС.</VF_CaravanMustHaveAtLeastOneVehicle>
+  <!-- EN: Form Vehicle Caravan -->
+  <VF_CommandFormVehicleCaravan>Снарядить караван с транспортом</VF_CommandFormVehicleCaravan>
+  <!-- EN: Form caravan with vehicles included. -->
+  <VF_CommandFormVehicleCaravanDesc>Снарядить караван для путешествия с транспортными средствами.</VF_CommandFormVehicleCaravanDesc>
+
+  <!-- EN: Reform Vehicle Caravan -->
+  <VF_CommandReformVehicleCaravan>Продолжить путь</VF_CommandReformVehicleCaravan>
+  <!-- EN: Reform vehicle caravan with vehicles selected. -->
+  <VF_CommandReformVehicleCaravanDesc>Продолжить путь с выбранными транспортными средствами.</VF_CommandReformVehicleCaravanDesc>
+
+  <!-- EN: VehicleDefs -->
+  <VF_RoutePlannerToggleVehicleDefs>VehicleDefs</VF_RoutePlannerToggleVehicleDefs>
+  <!-- EN: Vehicles -->
+  <VF_RoutePlannerToggleVehicles>Транспортные средства</VF_RoutePlannerToggleVehicles>
+  
+</LanguageData>

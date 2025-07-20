@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Color Picker -->
+  <!-- EN: Must have a palette selected to save over. -->
+  <VF_MustSelectColorPalette>Для сохранения необходимо выбрать палитру.</VF_MustSelectColorPalette>
+
+  <!-- Vehicles -->
+  <!-- EN: {0_labelShort} is unable to move. -->
+  <VF_VehicleUnableToMove>{0_labelShort} не может двигаться.</VF_VehicleUnableToMove>
+  <!-- EN: {0_labelShort} is deployed and unable to move. -->
+  <VF_VehicleImmobileDeployed>{0_labelShort} развёрнут и не может двигаться.</VF_VehicleImmobileDeployed>
+  <!-- EN: Failed to add {0} to {1}. No more space available. -->
+  <VF_HandlerNotEnoughRoom>Не удалось добавить {0} в {1}. Нет свободного места.</VF_HandlerNotEnoughRoom>
+
+  <!-- EN: Cannot move. Needs more crew in order to operate. -->
+  <VF_NotEnoughToOperate>Не хватает экипажа для работы транспорта.</VF_NotEnoughToOperate>
+  <!-- EN: Cannot draft while {0} is upgrading. -->
+  <VF_UpgradeInProgress>Невозможно запустить двигатель, пока производится улучшение транспорта.</VF_UpgradeInProgress>
+  <!-- EN: Not enough colonists in {0} to operate {1}. -->
+  <VF_NotEnoughCrew>Недостаточно экипажа в {0} для управления {1}.</VF_NotEnoughCrew>
+
+  <!-- EN: Not enough space. -->
+  <VF_CannotFit>Недостаточно свободного места.</VF_CannotFit>
+  <!-- EN: Cannot path here. -->
+  <VF_NoPathForVehicle>Невозможно проехать сюда.</VF_NoPathForVehicle>
+  <!-- EN: {0} is incapable of fulfilling this role. -->
+  <VF_IncapableStatusForRole>{0} не может выполнять эту роль.</VF_IncapableStatusForRole>
+
+  <!-- EN: Name invalid for Vehicle. -->
+  <VF_InvalidName>Недопустимые символы в имени транспорта.</VF_InvalidName>
+  <!-- EN: No food in {0} with Pawns onboard. -->
+  <VF_OutOfFood>В {lookup: {0}; Case; 5} с персонажами на борту нет еды.</VF_OutOfFood>
+
+  <!-- Turrets -->
+  <!-- EN: No ammo loaded. -->
+  <VF_NoAmmoLoadedTurret>Отсутствуют боеприпасы.</VF_NoAmmoLoadedTurret>
+  <!-- EN: No ammo available in inventory. -->
+  <VF_NoAmmoAvailable>Отсутствуют боеприпасы в инвентаре.</VF_NoAmmoAvailable>
+
+  <!-- Caravan -->
+  <!-- EN: {0} is no longer able to operate their role for the vehicle caravan. -->
+  <VF_VehicleCaravanMentalBreakMovementRole>{0} больше не может выполнять свою роль в караване с транспортом.</VF_VehicleCaravanMentalBreakMovementRole>
+  <!-- EN: {0} has boarded the {1} and is ready for departure. -->
+  <VF_PawnBoardedFormingCaravan>{0} {0_gender ? сел : села} в {1} и {0_gender ? готов : готова} к отправлению.</VF_PawnBoardedFormingCaravan>
+  <!-- EN: Not enough pawns for {0}. -->
+  <VF_CantAssignVehicle>Недостаточно экипажа для {lookup: {0}; Case; 1}.</VF_CantAssignVehicle>
+  <!-- EN: Failed to assign seats. {0} -->
+  <VF_AssignFailure>Не удалось назначить пассажирские места. {0}</VF_AssignFailure>
+  <!-- EN: Packing Spot was not found for Vehicle caravan. It is recommended you place a Packing Spot from Misc. -->
+  <VF_PackingSpotNotFound>Невозможно найти подходящее место для сбора каравана с транспортом. Рекомендуется построить место привязи каравана из раздела «Разное».</VF_PackingSpotNotFound>
+  <!-- EN: Force to Leave -->
+  <VF_ForceLeaveCaravan>Принудительная отправка</VF_ForceLeaveCaravan>
+  <!-- EN: Force Vehicle Caravan to leave the map. Will skip loading whatever items are not currently onboard. -->
+  <VF_ForceLeaveCaravanDesc>Принудительно отправить караван в путь. При этом будет пропущена загрузка всех предметов, на данный момент не находящихся в инвентаре ТС.</VF_ForceLeaveCaravanDesc>
+  <!-- EN: Crew is preparing to leave. -->
+  <VF_ForceLeaveConfirmation>Экипаж готовится к отправке.</VF_ForceLeaveConfirmation>
+  <!-- EN: Caravan process has been terminated. No vehicles remain. -->
+  <VF_CaravanTerminatedNoVehicles>Снаряжение каравана было прервано — не осталось транспорта.</VF_CaravanTerminatedNoVehicles>
+  <!-- EN: Cannot plan route for both Sea and Land vehicles. Paths will not register. -->
+  <VF_LandAndSeaRoutePlannerRestriction>Невозможно спланировать маршрут для морского и сухопутного транспорта. Маршрут не будет проложен.</VF_LandAndSeaRoutePlannerRestriction>
+  <!-- EN: Are you sure you want to leave Vehicles behind? Vehicles left behind: {0} -->
+  <VF_LeaveVehicleBehindCaravan>Вы уверены, что хотите бросить транспорт? Будут оставлены следующие ТС:\n {0}</VF_LeaveVehicleBehindCaravan>
+  <!-- EN: Must assign enough colonists to man vehicle. -->
+  <VF_MustAssignEnoughToVehicle>Необходимо назначить достаточное количество экипажа для управления транспортом.</VF_MustAssignEnoughToVehicle>
+
+  <!-- Aerial Vehicles -->
+  <!-- EN: {0} has arrived at their destination. -->
+  <VF_AerialVehicleArrived>{0} прибыл в пункт назначения.</VF_AerialVehicleArrived>
+  <!-- EN: {0} has left the map. -->
+  <VF_AerialVehicleLeft>{0} покинул карту.</VF_AerialVehicleLeft>
+  <!-- EN: Unable to launch, conditions are not suitable. -->
+  <VF_AerialVehicleLaunchNotValid>Невозможно осуществить взлёт — препятствия на взлётно-посадочной полосе.</VF_AerialVehicleLaunchNotValid>
+  <!-- EN: Cannot launch. Out of Fuel. -->
+  <VF_LaunchOutOfFuel>Взлёт невозможен — нет топлива.</VF_LaunchOutOfFuel>
+  <!-- EN: Maximum nodes for {0}'s flight path has been reached. -->
+  <VF_FlightPathMaxNodes>Достигнуто максимальное количество точек маршрута для траектории полёта {0}.</VF_FlightPathMaxNodes>
+  <!-- EN: A landing destination must be chosen. -->
+  <VF_MustTargetLanding>Необходимо выбрать место приземления.</VF_MustTargetLanding>
+  
+</LanguageData>

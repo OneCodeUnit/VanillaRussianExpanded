@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Entering TargetA. -->
+  <Board.reportString>садится в {lookup: {TargetA}; Case; 3}</Board.reportString>
+  <!-- EN: Loading upgrade materials into TargetB. -->
+  <LoadUpgradeMaterials.reportString>загружает материалы для улучшения в {lookup: {TargetA}; Case; 3}</LoadUpgradeMaterials.reportString>
+  <!-- EN: Idle. -->
+  <IdleVehicle.reportString>простаивает</IdleVehicle.reportString>
+  <!-- EN: Idle. -->
+  <IdleVehicleDeSpawned.reportString>простаивает</IdleVehicleDeSpawned.reportString>
+  <!-- EN: Deploying. -->
+  <DeployVehicle.reportString>развёртывается</DeployVehicle.reportString>
+  <!-- EN: Loading cargo for TargetB. -->
+  <PrepareCaravan_GatheringVehicle.reportString>несёт груз к {lookup: {TargetB}; Case; 2}</PrepareCaravan_GatheringVehicle.reportString>
+  <!-- EN: Roping {0} to TargetA. -->
+  <RopeAnimalToVehicle.reportString>ведёт {lookup: {0}; Case; 1} к {lookup: {TargetB}; Case; 2}</RopeAnimalToVehicle.reportString>
+  <!-- EN: Carrying TargetA to TargetB. -->
+  <CarryPawnToVehicle.reportString>несёт TargetA к {lookup: {TargetB}; Case; 2}</CarryPawnToVehicle.reportString>
+  <!-- EN: Loading TargetA onto TargetB -->
+  <LoadVehicle.reportString>загружает TargetA в {lookup: {TargetB}; Case; 3}</LoadVehicle.reportString>
+  <!-- EN: Loading TargetA onto TargetB -->
+  <CarryItemToVehicle.reportString>загружает TargetA в {lookup: {TargetB}; Case; 3}</CarryItemToVehicle.reportString>
+  <!-- EN: Repairing TargetA. -->
+  <RepairVehicle.reportString>чинит {lookup: {TargetA}; Case; 3}</RepairVehicle.reportString>
+  <!-- EN: Disassembling TargetA. -->
+  <DisassembleVehicle.reportString>разбирает {lookup: {TargetA}; Case; 3}</DisassembleVehicle.reportString>
+  <!-- EN: Painting TargetA. -->
+  <PaintVehicle.reportString>красит {lookup: {TargetA}; Case; 3}</PaintVehicle.reportString>
+  <!-- EN: Working on TargetA. -->
+  <UpgradeVehicle.reportString>работает над {lookup: {TargetA}; Case; 4}</UpgradeVehicle.reportString>
+  <!-- EN: Refueling TargetA -->
+  <RefuelVehicle.reportString>заправляет {lookup: {TargetA}; Case; 3}</RefuelVehicle.reportString>
+  <!-- EN: Refueling TargetA -->
+  <RefuelVehicleAtomic.reportString>заправляет {lookup: {TargetA}; Case; 3}</RefuelVehicleAtomic.reportString>
+  <!-- EN: Emptying TargetA -->
+  <RemoveFuelFromVehicle.reportString>сливает топливо из {lookup: {TargetA}; Case; 1}</RemoveFuelFromVehicle.reportString>
+  <!-- EN: Following TargetA. -->
+  <FollowVehicle.reportString>следует за {lookup: {TargetA}; Case; 4}</FollowVehicle.reportString>
+  <!-- EN: Escorting TargetA. -->
+  <EscortVehicle.reportString>сопровождает {lookup: {TargetA}; Case; 3}</EscortVehicle.reportString>
+  
+</LanguageData>

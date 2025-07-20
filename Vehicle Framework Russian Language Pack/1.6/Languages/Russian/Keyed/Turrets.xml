@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reload -->
+  <VF_ReloadVehicleTurret>Перезарядить</VF_ReloadVehicleTurret>
+
+  <!-- EN: Toggle automatic targeting -->
+  <VF_ToggleAutoTargeting>Вкл./выкл. автоогонь</VF_ToggleAutoTargeting>
+  <!-- EN: This determines whether the turret will automatically target enemies.  If enabled, any enemies within range will be engaged.\n\nAutomatic targeting is currently {0}. -->
+  <VF_ToggleAutoTargetingDesc>Этот параметр определяет, будет ли турель автоматически нацеливаться на врагов. Если включено, то все враги в радиусе поражения станут объектом нападения.\n\nНа данный момент автоогонь {0}.</VF_ToggleAutoTargetingDesc>
+  <!-- EN: AutoTargeting is not allowed for this turret. -->
+  <VF_AutoTargetingDisabled>Для этой турели недоступен автоогонь.</VF_AutoTargetingDisabled>
+
+  <!-- EN: No usable ammo. -->
+  <VF_VehicleTurrets_NoAmmoToReload>Нет подходящих боеприпасов.</VF_VehicleTurrets_NoAmmoToReload>
+
+  <!-- EN: Set auto-reloading level to {0} -->
+  <VF_SetReloadLevel>Установить уровень автоперезарядки на {0}</VF_SetReloadLevel>
+  <!-- EN: Configure Ammo Level -->
+  <VF_SetReloadLevelTooltip>Настроить количество боеприпасов, по достижении которого будет произведена перезарядка.</VF_SetReloadLevelTooltip>
+  
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Board as {1}  [{2}] -->
+  <VF_BoardVehicle>Сесть как {0}  [{1}]</VF_BoardVehicle>
+
+  <!-- EN: Board {0} -->
+  <VF_BoardVehicleGroup>Сесть в {lookup: {0}; Case; 3}</VF_BoardVehicleGroup>
+  <!-- EN: Cannot board {0}. {1} -->
+  <VF_BoardVehicleGroupFail>Невозможно сесть в {lookup: {0}; Case; 3}. {1} </VF_BoardVehicleGroupFail>
+  
+  <!-- EN: Too many selected -->
+  <VF_BoardFailureTooMany>Выбрано слишком много персонажей</VF_BoardFailureTooMany>
+  <!-- EN: {0} is incapable of violence -->
+  <VF_BoardFailureNonCombatant>{0} не может причинять насилие</VF_BoardFailureNonCombatant>
+
+  <!-- EN: Onboard {0} -->
+  <VF_ActivityIconOnBoardShip>На борту {lookup: {0}; Case; 1}</VF_ActivityIconOnBoardShip>
+  <!-- EN: Ram {0} -->
+  <VF_IsIncapableOfRamming>Протаранить {0}</VF_IsIncapableOfRamming>
+  <!-- EN: {0} cannot reach this area. -->
+  <VF_CannotMoveToCell>{0} не может добраться сюда.</VF_CannotMoveToCell>
+
+  <!-- EN: Land Vehicle Here -->
+  <VF_LandVehicleHere>Приземлиться тут</VF_LandVehicleHere>
+  <!-- EN: Land in {0} at edge of map. -->
+  <VF_LandVehicleEdge>Приземлиться в {0} на краю карты.</VF_LandVehicleEdge>
+  <!-- EN: Land in {0} in center. -->
+  <VF_LandVehicleCenter>Приземлиться в {0} в центре карты.</VF_LandVehicleCenter>
+  <!-- EN: Land in {0} and choose landing spot. -->
+  <VF_LandVehicleTargetedLanding>Приземлиться в {0} и указать место посадки.</VF_LandVehicleTargetedLanding>
+  <!-- EN: Attack {0}: Choose Landing -->
+  <VF_AttackAndTargetLanding>Атаковать {0}: указать место посадки</VF_AttackAndTargetLanding>
+
+  <!-- EN: Strafe -->
+  <VF_StrafeRun>Обстрелять</VF_StrafeRun>
+  <!-- EN: Recon -->
+  <VF_AerialReconSite>Разведать</VF_AerialReconSite>
+
+  <!-- EN: Can't enter vehicle. Forbidden by ideoligion. -->
+  <VF_CantEnterVehicle_IdeoligionForbids>Невозможно сесть в транспорт: запрещено идеолигией.</VF_CantEnterVehicle_IdeoligionForbids>
+  
+</LanguageData>

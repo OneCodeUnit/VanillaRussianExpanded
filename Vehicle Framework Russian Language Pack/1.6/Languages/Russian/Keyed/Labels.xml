@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Vehicle Framework -->
+  <VehicleFramework>Vehicle Framework</VehicleFramework>
+  <!-- EN: Vehicles -->
+  <VF_Vehicles>Транспорт</VF_Vehicles>
+
+  <!-- Gizmos / Float Menus -->
+  <!-- EN: Load Cargo -->
+  <VF_LoadCargo>Погрузить груз</VF_LoadCargo>
+  <!-- EN: Load Pawn -->
+  <VF_HaulPawnToVehicle>Погрузить персонажа</VF_HaulPawnToVehicle>
+  <!-- EN: Unload All Pawns -->
+  <VF_DisembarkAllPawns>Высадить всех персонажей</VF_DisembarkAllPawns>
+  <!-- EN: Unload {0} -->
+  <VF_DisembarkSinglePawn>Высадить {0}</VF_DisembarkSinglePawn>
+  <!-- EN: Unable to exit vehicle. No valid cells to exit onto. -->
+  <VF_DisembarkNoExit>Выход из транспортного средства невозможен. Нет подходящих клеток для высадки.</VF_DisembarkNoExit>
+  <!-- EN: {0} is being upgraded. -->
+  <VF_DisabledByVehicleUpgrading>{0} сейчас в процессе улучшения.</VF_DisabledByVehicleUpgrading>
+
+  <!-- EN: Stop -->
+  <VF_StopVehicle>Остановить</VF_StopVehicle>
+  <!-- EN: Turn Off -->
+  <VF_UndraftVehicle>Заглушить двигатель</VF_UndraftVehicle>
+  <!-- EN: Drafts vehicle allowing it to move. This will consume fuel if applicable even if the vehicle is idle. -->
+  <VF_DraftVehicleDesc>Завести двигатель для возможности передвижения. Если это ТС потребляет топливо, в этом состоянии оно будет расходоваться, даже если машина работает на холостом ходу.</VF_DraftVehicleDesc>
+  <!-- EN: Stop the vehicle immediately. -->
+  <VF_StopVehicleDesc>Немедленно остановить транспортное средство.</VF_StopVehicleDesc>
+  <!-- EN: Undrafts vehicle, disabling the consumption of fuel and disallowing movement. -->
+  <VF_UndraftVehicleDesc>Заглушить двигатель для прекращения потребления топлива и блокировки движения.</VF_UndraftVehicleDesc>
+  <!-- EN: Refuel {0}x {1} -->
+  <VF_RefuelFromInventoryCount>Заправить {0}x {1}</VF_RefuelFromInventoryCount>
+  <!-- EN: Refuel {0} using fuel stored in cargo. -->
+  <VF_RefuelFromInventoryDesc>Заправить {0} используя топливо из грузового отсека.</VF_RefuelFromInventoryDesc>
+  <!-- EN: {0} is already fully fueled. -->
+  <VF_VehicleFullyFueled>{0} уже полностью заправлен.</VF_VehicleFullyFueled>
+  <!-- EN: No fuel in {0}. -->
+  <VF_NoFuelInVehicle>Отсутствует топливо в {0}.</VF_NoFuelInVehicle>
+  <!-- EN: Fuel: {0} -->
+  <VF_VehicleFuelCost>Топливо: {0}</VF_VehicleFuelCost>
+
+  <!-- EN: Transfer to vehicle -->
+  <VF_TransferToVehicle_Order>Загрузить в ТС</VF_TransferToVehicle_Order>
+  <!-- EN: Transfer selected thing(s) to the target vehicle's cargo. -->
+  <VF_TransferToVehicle_Order_Desc>Перенести выбранные предметы в грузовой отсек ТС.</VF_TransferToVehicle_Order_Desc>
+  <!-- EN: Cancel transfer -->
+  <VF_TransferToVehicle_Cancel>Отменить погрузку</VF_TransferToVehicle_Cancel>
+  <!-- EN: Cancel transfer of selected thing(s) to any vehicle's cargo. -->
+  <VF_TransferToVehicle_Cancel_Desc>Отменить переноску выбранных предметов в любое ТС.</VF_TransferToVehicle_Cancel_Desc>
+  
+  <!-- UI / Buttons -->
+  <!-- EN: Show All Items On Map -->
+  <VF_ShowAllItemsOnMap>Все предметы на карте</VF_ShowAllItemsOnMap>
+  <!-- EN: Reset All Palettes -->
+  <VF_ResetColorPalettes>Сброс всех палитр</VF_ResetColorPalettes>
+  <!-- EN: Are you sure you want to reset all saved palettes back to default settings? This action cannot be undone. -->
+  <VF_ResetColorPalettesConfirmation>Вы уверены, что хотите вернуть все сохранённые палитры к настройкам по умолчанию? Это действие нельзя отменить.</VF_ResetColorPalettesConfirmation>
+  <!-- EN: Rotate vehicle -->
+  <VF_RotateVehicleRendering>Повернуть</VF_RotateVehicleRendering>
+  <!-- EN: Save Palette -->
+  <VF_SaveColorPalette>Сохранить палитру</VF_SaveColorPalette>
+
+  <!-- EN: ColorOne -->
+  <VF_ColorOne>Цвет 1</VF_ColorOne>
+  <!-- EN: ColorTwo -->
+  <VF_ColorTwo>Цвет 2</VF_ColorTwo>
+  <!-- EN: ColorThree -->
+  <VF_ColorThree>Цвет 3</VF_ColorThree>
+  <!-- EN: Hex -->
+  <VF_ColorPickerHex>HEX</VF_ColorPickerHex>
+
+  <!-- EN: Job Settings -->
+  <VF_JobSettings>Настройки работы</VF_JobSettings>
+  <!-- EN: Produced: {0} -->
+  <VF_VehicleAgeReadout>Произведено: {0}</VF_VehicleAgeReadout>
+
+  <!-- Stats -->
+  <!-- EN: Cargo: {0} = {1} -->
+  <VF_StatsReport_CargoWeight>Груз: {0} = {1}</VF_StatsReport_CargoWeight>
+  <!-- EN: Deployed -->
+  <VF_StatsReport_Deployed>Развёрнут</VF_StatsReport_Deployed>
+  <!-- EN: Crew -->
+  <VF_CrewCount>Экипаж</VF_CrewCount>
+  <!-- EN: Number of crew and passengers that can fit inside of this vehicle. -->
+  <VF_CrewCountDesc>Количество членов экипажа и пассажиров, которые могут поместиться в этом ТС.</VF_CrewCountDesc>
+  <!-- EN: Vehicle can be painted through color menu. -->
+  <VF_PaintableDesc>ТС может быть перекрашено через меню покраски.</VF_PaintableDesc>
+  <!-- EN: Upgradeable -->
+  <VF_Upgradeable>Улучшаемое</VF_Upgradeable>
+  <!-- EN: Vehicle can be modifed through an upgrade tree -->
+  <VF_UpgradeableDesc>Это ТС можно модифицировать с помощью системы улучшений.</VF_UpgradeableDesc>
+  <!-- EN: Fuel Type -->
+  <VF_FuelType>Тип топлива</VF_FuelType>
+  <!-- EN: What resource this vehicle consumes in order to operate. -->
+  <VF_FuelTypeDesc>Какой ресурс потребляет это ТС для работы.</VF_FuelTypeDesc>
+  <!-- EN: Electricity -->
+  <VF_Electricity>Электричество</VF_Electricity>
+  
+  <!-- Designators -->
+  <!-- EN: Road area -->
+  <VF_RoadZoneExpand>Область дороги</VF_RoadZoneExpand>
+  <!-- EN: Create an area where vehicles will prioritize or avoid moving through.
+	
+'Prioritize' areas applied on the edge of the map will designate where vehicle caravans should enter from. -->
+  <VF_RoadZoneExpandDesc>Обозначить область, которую транспортные средства будут предпочтительно использовать для передвижения или наоборот — избегать.\n\nОбласти «приоритета», расположенные на краю карты, будут указывать, откуда должны заходить караваны с ТС.</VF_RoadZoneExpandDesc>
+  <!-- EN: Clear road area -->
+  <VF_RoadZoneClear>Уменьшить область дороги</VF_RoadZoneClear>
+  <!-- EN: Removes road zone. Vehicles will no longer have modified movement over the area. -->
+  <VF_RoadZoneClearDesc>Удаляет дорожную зону. Транспортные средства больше не будут иметь особых правил при прокладывании маршрута в пределах этой области.</VF_RoadZoneClearDesc>
+
+  <!-- Tooltips -->
+  <!-- EN: Assign or clear name. -->
+  <VF_RenameVehicleTooltip>Присвоить или удалить имя.</VF_RenameVehicleTooltip>
+  <!-- EN: Change colors or pattern. -->
+  <VF_RecolorTooltip>Изменить цвет или узор.</VF_RecolorTooltip>
+  <!-- EN: Click to Confirm Destination -->
+  <VF_DoubleClickShuttleTarget>Нажмите для подтверждения пункта назначения</VF_DoubleClickShuttleTarget>
+  <!-- EN: Cycle colors between each other.\n\nColorOne -> ColorTwo -> ColorThree -->
+  <VF_SwapColors>Циклически переключать цвета.\n\nЦвет 1 -&gt; Цвет 2 -&gt; Цвет 3</VF_SwapColors>
+  <!-- EN: Fish -->
+  <VF_StartFishing>Рыбачить</VF_StartFishing>
+  <!-- EN: Gather fish. Depth of water affects fishing chances. -->
+  <VF_StartFishingDesc>Ловить рыбу. Глубина воды влияет на шанс получения улова.</VF_StartFishingDesc>
+  <!-- EN: Explosive -->
+  <VF_ExplosiveComponent>Взрывоопасно</VF_ExplosiveComponent>
+  <!-- EN: Edit Pawn Overlay -->
+  <VF_EditPawnOverlayRendererTooltip>Изменить наложение изображения персонажа.</VF_EditPawnOverlayRendererTooltip>
+  <!-- EN: Click for detailed information. -->
+  <VF_ComponentClickMoreInfoTooltip>Нажмите для получения подробной информации.</VF_ComponentClickMoreInfoTooltip>
+
+  <!-- Turrets -->
+  <!-- EN: Deploy -->
+  <VF_Deploy>Развернуть</VF_Deploy>
+  <!-- EN: Undeploy -->
+  <VF_Undeploy>Свернуть</VF_Undeploy>
+  <!-- EN: Deploy vehicle to enable use of turrets. -->
+  <VF_DeployDescription>Развернуть ТС для того чтобы иметь возможность использовать турели.</VF_DeployDescription>
+  <!-- EN: Must be deployed. -->
+  <VF_MustBeDeployed>ТС должно быть развёрнуто.</VF_MustBeDeployed>
+  <!-- EN: Must be undeployed. -->
+  <VF_MustBeUndeployed>ТС должно быть свёрнуто.</VF_MustBeUndeployed>
+  <!-- EN: Cannot fire while moving. -->
+  <VF_VehicleRestriction_Stationary>Невозможно вести огонь во время движения.</VF_VehicleRestriction_Stationary>
+  <!-- EN: {0} needs repairs. -->
+  <VF_TurretComponentDisabled>{0} нуждается в ремонте.</VF_TurretComponentDisabled>
+
+  <!-- Color Picker -->
+  <!-- EN: Patterns -->
+  <VF_Patterns>Узоры</VF_Patterns>
+  <!-- EN: Skins -->
+  <VF_Skins>Скины</VF_Skins>
+  <!-- EN: Zoom -->
+  <VF_PatternZoom>Масштаб</VF_PatternZoom>
+  <!-- EN: Scale the pattern up or down. -->
+  <VF_PatternZoomTooltip>Увеличить или уменьшить узор.</VF_PatternZoomTooltip>
+  <!-- EN: Displacement X -->
+  <VF_PatternDisplacementX>Смещение по X</VF_PatternDisplacementX>
+  <!-- EN: Displacement Y -->
+  <VF_PatternDisplacementY>Смещение по Y</VF_PatternDisplacementY>
+    <!-- EN: Moves texture along the horizontal axis. -->
+  <VF_PatternDisplacementXTooltip>Сдвигает текстуру по горизонтали.</VF_PatternDisplacementXTooltip>
+  <!-- EN: Moves texture along the vertical axis. -->
+  <VF_PatternDisplacementYTooltip>Сдвигает текстуру по вертикали.</VF_PatternDisplacementYTooltip>
+
+  <!-- EN: Toggle connecting to the power grid. -->
+  <VF_ElectricFlick>Подключение к электросети</VF_ElectricFlick>
+  <!-- EN: When on top of a power conduit, this connects to the power grid and transfers energy to recharge its battery.\nCurrently connected: {0} -->
+  <VF_ElectricFlickDesc>Подключиться к электросети, проходящей под транспортным средством для перезарядки его батарей.\nНа данный момент подключено: {0} </VF_ElectricFlickDesc>
+  <!-- EN: Cannot move. {0} needs more fuel. -->
+  <VF_OutOfFuel>Передвижение невозможно — не хватает топлива.</VF_OutOfFuel>
+
+  <!-- EN: Autofill -->
+  <VF_AutoAssign>Автоматическое заполнение</VF_AutoAssign>
+  <!-- EN: Assigned -->
+  <VF_Assigned>Назначено</VF_Assigned>
+  <!-- EN: Apply -->
+  <VF_ApplyButton>Применить</VF_ApplyButton>
+  <!-- EN: Colonists -->
+  <VF_Colonists>Поселенцы</VF_Colonists>
+  <!-- EN: Clear -->
+  <VF_ClearSeats>Очистить</VF_ClearSeats>
+  <!-- EN: Remove -->
+  <VF_RemoveFromRole>Убрать</VF_RemoveFromRole>
+  <!-- EN: Add -->
+  <VF_AddToRole>Добавить</VF_AddToRole>
+  <!-- EN: Click to enter the planning mode for Vehicles where you can select specific vehicles you own, and plan your journey. Pathing is adjusted based on the vehicles selected. -->
+  <VF_RoutePlannerButtonTip>Нажмите здесь, чтобы войти в режим редактирования маршрута транспорта. Вы сможете выбрать конкретные транспортные средства и спланировать ваше путешествие. Прокладка маршрута производится с учётом выбранных средств передвижения.</VF_RoutePlannerButtonTip>
+  <!-- EN: Select Vehicles -->
+  <VF_SelectVehiclesForPlanner>Выбрать транспорт</VF_SelectVehiclesForPlanner>
+  <!-- EN: Start Route -->
+  <VF_StartVehicleRoutePlanner>Проложить маршрут</VF_StartVehicleRoutePlanner>
+  <!-- EN: Confirm Name -->
+  <VF_OkName>Применить имя</VF_OkName>
+  <!-- EN: Remove Name -->
+  <VF_RemoveName>Удалить имя</VF_RemoveName>
+
+  <!-- Aerial Vehicles -->
+  <!-- EN: Unable to launch with Flight Speed = 0. -->
+  <VF_NoFlightSpeed>Невозможно стартовать, так как расчётная скорость полёта равна 0.</VF_NoFlightSpeed>
+  <!-- EN: Cannot launch while {0} is moving. -->
+  <VF_CannotLaunchWhileMoving>Невозможно стартовать, пока {0} в движении.</VF_CannotLaunchWhileMoving>
+  <!-- EN: {0} cannot launch without being able to move. -->
+  <VF_CannotLaunchImmobile>{0} не может стартовать, так как не может двигаться.</VF_CannotLaunchImmobile>
+  <!-- EN: {0} cannot launch at an angle. -->
+  <VF_CannotLaunchRotated>{0} не может стартовать под таким углом поворота.</VF_CannotLaunchRotated>
+  <!-- EN: {0} cannot launch while over-encumbered. -->
+  <VF_CannotLaunchOverEncumbered>{0} не может стартовать, так как перегружен.</VF_CannotLaunchOverEncumbered>
+
+  <!-- EN: Cargo -->
+  <VF_TabCargo>Груз</VF_TabCargo>
+  <!-- EN: Pawns -->
+  <VF_TabPassengers>Экипаж</VF_TabPassengers>
+  <!-- EN: Health -->
+  <VF_TabComponents>Состояние</VF_TabComponents>
+  <!-- EN: Customize -->
+  <VF_TabUpgrades>Улучшения</VF_TabUpgrades>
+
+  <!-- EN: Health -->
+  <VF_ComponentHealth>Состоян.</VF_ComponentHealth>
+  <!-- EN: Efficiency -->
+  <VF_ComponentEfficiency>Эффект.</VF_ComponentEfficiency>
+  <!-- EN: Armor -->
+  <VF_ComponentArmor>Броня</VF_ComponentArmor>
+  <!-- EN: Depth -->
+  <VF_Depth>Расположение</VF_Depth>
+  <!-- EN: Internal -->
+  <VF_Depth_Internal>Внутри</VF_Depth_Internal>
+  <!-- EN: External -->
+  <VF_Depth_External>Снаружи</VF_Depth_External>
+  <!-- EN: Undefined -->
+  <VF_Depth_Undefined>Не определено</VF_Depth_Undefined>
+
+  <!-- EN: No Return Trip -->
+  <VF_NoFuelReturnTrip>Недостаточно топлива для возвращения.</VF_NoFuelReturnTrip>
+  <!-- EN: Out Of Range -->
+  <VF_NotEnoughFuel>Вне досягаемости</VF_NotEnoughFuel>
+  <!-- EN: Cancel landing in this map? Aerial vehicle will be kicked out to the world map. -->
+  <VF_ConfirmationCancelLanding>Отменить посадку на этой карте? Воздушное ТС будет перемещено на карту мира.</VF_ConfirmationCancelLanding>
+  <!-- EN: Not Enough Seats -->
+  <VF_PawnsLeftBehindConfirm>Не хватает мест</VF_PawnsLeftBehindConfirm>
+  <!-- EN: There are not enough seats for all colonists, some will be left behind. Are you sure you want to takeoff? -->
+  <VF_PawnsLeftBehindConfirmDesc>Не хватает мест для всех персонажей, некоторые из них будут покинуты. Вы уверены, что хотите взлететь?</VF_PawnsLeftBehindConfirmDesc>
+  <!-- HeaderTitles -->
+  <!-- EN: Cargo -->
+  <VF_Cargo>Груз</VF_Cargo>
+  <!-- EN: Properties -->
+  <VF_Properties>Параметры</VF_Properties>
+  <!-- EN: Launch Properties -->
+  <VF_LauncherProperties>Настройки полёта</VF_LauncherProperties>
+  <!-- EN: Fuel -->
+  <VF_FueledTravelPropertes>Топливо</VF_FueledTravelPropertes>
+  <!-- EN: Max Workers per Job -->
+  <VF_JobLimitations>Максимум поселенцев на одну работу</VF_JobLimitations>
+  
+</LanguageData>

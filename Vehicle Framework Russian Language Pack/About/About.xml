@@ -5,6 +5,7 @@
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<modDependencies>
 		<li>
@@ -16,5 +17,8 @@
 	<loadAfter>
 		<li>SmashPhil.VehicleFramework</li>
 	</loadAfter>
+	<incompatibleWith>
+		<li>Am.Rus.VehicleFramework</li>
+    </incompatibleWith>
 	<description>Перевод на русский язык мода Vehicle Framework. Подробности ищите на странице в мастерской.</description>
 </ModMetaData>
