@@ -53,9 +53,9 @@
   <!-- EN: An {0} is cooking. It will be ready in {1} -->
   <VCE_SoupInProgress>{0} готовится. Он будет готов через {1}</VCE_SoupInProgress>
   <!-- EN: A soup has finished cooking and is waiting for pickup -->
-  <VCE_SoupReady>Суп готов и ожидает, когда его заберут.</VCE_SoupReady>
-
-  <!-- Cheese making -->
+  <VCE_SoupReady>Суп готов и ожидает, когда его заберут.</VCE_SoupReady>  
+  <!-- EN: This electric pot is not working at the moment -->
+	<VCE_SoupPotNotWorking>В данный момент эта электрическая кастрюля не работает</VCE_SoupPotNotWorking>
 
   <!-- EN: Select Milk to press in the cheese press. Different milks might produce different types of cheese. -->
   <VCE_InsertMilkDesc>Выберите молоко для сырного пресса. Из разных видов молока получаются разные виды сыра.</VCE_InsertMilkDesc>
@@ -106,7 +106,8 @@
   <VCE_CheesePressWorking>Пресс для сыра работает над:</VCE_CheesePressWorking>
   <!-- EN:  (filled at {0} of {1}) -->
   <VCE_ResourcePercentage> (заполнено на {0} из {1})</VCE_ResourcePercentage>
-
+  <!-- EN: This cheese press is not working at the moment -->
+	<VCE_CheesePressNotWorking>В данный момент этот пресс для сыра не работает</VCE_CheesePressNotWorking>
 
   <!-- EN: Condiment Effects -->
   <VCE_CondimentEffects>Эффекты приправ</VCE_CondimentEffects>
