@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: Favourite meal or ingredient: -->
   <VCE_FavouriteFoodTextOnly>Любимое блюдо или ингредиент:</VCE_FavouriteFoodTextOnly>
   <!-- EN: Favourite meal or ingredient: {0} -->
@@ -72,4 +71,8 @@
   <!-- EN: The food variety need level will be calculated by counting among this number of ingredients consumed. Default is 7 latest ingredients. -->
   <VCEV_NumberOfIngredientsDesc>Уровень разнообразия еды будет рассчитываться на основе этого количества съеденных ингредиентов. По умолчанию — 7.</VCEV_NumberOfIngredientsDesc>
   
+  <!-- EN: Number of ingredient stack per meal (requires reload) -->
+  <VCEV_NumberOfIngredientStacked>Количество ингредиентов для блюда (потребует перезагрузки)</VCEV_NumberOfIngredientStacked>
+  <!-- EN: By default, vanilla meals start deleting "common" ingredients after 3 ingredients. This allows you to increase that limit. Requires a mod reload to take effect. -->
+  <VCEV_NumberOfIngredientStackedDesc>По умолчанию игра начинает удалять «обычные» ингредиенты из блюда, когда их становится больше 3. Эта настройка позволит увеличить лимит. Для применения потребуется перезапуск игры.</VCEV_NumberOfIngredientStackedDesc>
 </LanguageData>
