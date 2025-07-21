@@ -1,5 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VWE_LaserWeapons.label>утильное лазерное оружие</VWE_LaserWeapons.label>
-  <VWE_LaserWeapons.description>Научитесь разбирать продвинутые компоненты и собирать из них нестабильное, экспериментальное лазерное вооружение.</VWE_LaserWeapons.description>
+  <VWE_LaserWeapons.description>Изучение разборки продвинутых компонентов и сборки из них нестабильного экспериментального лазерного оружия.</VWE_LaserWeapons.description>
+  <!-- EN:
+    <li>subject->the beacon of innovation</li>
+    <li>subject_story->ventured into the unknown by dismantling advanced technology to forge experimental laser weapons</li>
+    <li>subject_story->combined salvaged components with cutting-edge research, creating armaments that blaze with the power of controlled light</li>
+    <li>subject_gerund->illuminating the path to superiority with the brilliance of salvaged laser weaponry</li>
+  -->
+  <VWE_LaserWeapons.generalRules.rulesStrings>
+    <li>subject->утильное лазерное оружие</li>
+    <li>subject->маяк инноваций</li>
+    <li>subject_gen->утильного лазерного оружия</li>
+    <li>subject_gen->маяка инноваций</li>
+    <li>subject_dat->утильному лазерному оружию</li>
+    <li>subject_dat->маяку инноваций</li>
+    <li>subject_pre_about->об утильном лазерном оружии</li>
+    <li>subject_pre_about->о маяке инноваций</li>
+    <li>subject_story->{ANYPAWN_gender ? отважился : отважилась} на неизведанное, разбирая продвинутые технологии для создания экспериментального лазерного оружия</li>
+    <li>subject_story->{ANYPAWN_gender ? объединил : объединила} утилизированные компоненты с передовыми исследованиями, создавая вооружение, пылающее силой контролируемого света</li>
+    <li>subject_gerund->освещения пути к превосходству блеском утильного лазерного оружия</li>
+  </VWE_LaserWeapons.generalRules.rulesStrings>
 </LanguageData>

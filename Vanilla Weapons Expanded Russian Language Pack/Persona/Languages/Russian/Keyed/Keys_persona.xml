@@ -24,4 +24,18 @@ The weapon will arrive immediately via drop pod and will be bound to {PAWN_nameD
   <VPWE.ReceivedWeaponDesc>{0} для {PAWN_nameDef} прибыло.</VPWE.ReceivedWeaponDesc>
   <!-- EN: Psycast:  -->
   <VPWE.Psycast>Пси-способность: </VPWE.Psycast>
+  <!-- EN: Reject -->
+  <VPWE.RejectLetter>Отклонить</VPWE.RejectLetter>
+  <!-- EN: Are you sure you want to reject a persona weapon for {PAWN_labelShort}? {PAWN_pronoun} won't be offered another one again. -->
+  <VPWE.ConfirmReject>Вы уверены, что хотите отклонить синхрооружие для {PAWN_labelShort}? {PAWN_pronoun} больше не получит такого предложения.</VPWE.ConfirmReject>
+  <!-- EN: {PAWN_labelShort} is dead -->
+  <VPWE.NotAllowedDead>{PAWN_labelShort} {PAWN_gender ? мёртв : мертва}</VPWE.NotAllowedDead>
+  <!-- EN: {PAWN_labelShort} no longer has the required title -->
+  <VPWE.NotAllowedNoTitle>{PAWN_labelShort} больше не имеет требуемого титула</VPWE.NotAllowedNoTitle>
+  <!-- EN: {PAWN_labelShort} is no longer part of your faction -->
+  <VPWE.NotPlayerFaction>{PAWN_labelShort} больше не является частью вашей фракции</VPWE.NotPlayerFaction>
+  <!-- EN: {WEAPON_label} cannot be customized and will be delivered with one or more random traits.\n\nDo you want to continue? -->
+  <VPWE.NoCustomizationWeapon>{WEAPON_label} не получится настроить и оно будет доставлено с одним или несколькими случайными чертами.\n\nВы хотите продолжить?</VPWE.NoCustomizationWeapon>
+  <!-- EN: Could not find a spot to deliver {WEAPON_label} for {PAWN_labelShort}. -->
+  <VPWE.NoDeliverySpotFound>Не удалось найти место для доставки {WEAPON_label} для {PAWN_labelShort}.</VPWE.NoDeliverySpotFound>
 </LanguageData>

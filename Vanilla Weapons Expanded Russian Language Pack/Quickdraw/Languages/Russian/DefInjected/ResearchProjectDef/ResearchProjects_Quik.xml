@@ -1,5 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VWE_Quickdraw.label>облегчённое оружие</VWE_Quickdraw.label>
-  <VWE_Quickdraw.description>Создавайте облегчённое оружие, простое в использовании и стрельбе.</VWE_Quickdraw.description>
+  <VWE_Quickdraw.description>Изготовление облегчённого оружия, простого в использовании и стрельбе.</VWE_Quickdraw.description>
+  <!-- EN:
+    <li>subject->the edge of speed</li>
+    <li>subject_story->mastered the art of weapon design for speed, crafting firearms that are as swift to engage as they are lethal</li>
+    <li>subject_story->engineered mechanisms that minimize draw time, ensuring that readiness and rapid response define every encounter</li>
+    <li>subject_gerund->shaping the future of combat with the quicksilver grace of rapid deployment</li>
+  -->
+  <VWE_Quickdraw.generalRules.rulesStrings>
+    <li>subject->облегчённое оружие</li>
+    <li>subject->грань скорости</li>
+    <li>subject_gen->облегчённого оружия</li>
+    <li>subject_gen->грани скорости</li>
+    <li>subject_dat->облегчённому оружию</li>
+    <li>subject_dat->грани скорости</li>
+    <li>subject_pre_about->об облегчённом оружии</li>
+    <li>subject_pre_about->о грани скорости</li>
+    <li>subject_story->{ANYPAWN_gender ? овладел : овладела} искусством создания скоростного оружия, изготавливая огнестрельное оружие, столь же быстрое в применении, сколь и смертоносное</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} механизмы, сводящие к минимуму время извлечения оружия, обеспечивая готовность и быстрое реагирование в каждом столкновении</li>
+    <li>subject_gerund->формирования будущего боёв с сияющей грацией быстрого развёртывания</li>
+  </VWE_Quickdraw.generalRules.rulesStrings>
 </LanguageData>

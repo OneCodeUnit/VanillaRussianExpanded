@@ -1,5 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VWE_NonLethal.label>нелетальное оружие</VWE_NonLethal.label>
-  <VWE_NonLethal.description>Создавайте избранные виды нелетального оружия, в том числе гранатомёты со слезоточивым газом и электрошокеры.</VWE_NonLethal.description>
+  <VWE_NonLethal.description>Изготовление избранных видов нелетального оружия, включая гранатомёты со слезоточивым газом и электрошокеры.</VWE_NonLethal.description>
+  <!-- EN:
+    <li>subject->the art of restraint</li>
+    <li>subject_story->pioneered the development of weapons designed to incapacitate rather than kill, emphasizing the value of life and ethical engagement</li>
+    <li>subject_story->crafted tools like tear gas launchers and tasers, providing options for control and defense without fatal outcomes</li>
+    <li>subject_gerund->advancing conflict resolution with humanity and compassion through non-lethal means</li>
+  -->
+  <VWE_NonLethal.generalRules.rulesStrings>
+    <li>subject->нелетальное оружие</li>
+    <li>subject->искусство сдержанности</li>
+    <li>subject_gen->нелетального оружия</li>
+    <li>subject_gen->искусства сдержанности</li>
+    <li>subject_dat->нелетальному оружию</li>
+    <li>subject_dat->искусству сдержанности</li>
+    <li>subject_pre_about->о нелетальном оружии</li>
+    <li>subject_pre_about->об искусстве сдержанности</li>
+    <li>subject_story->{ANYPAWN_gender ? стал : стала} пионером в разработке оружия, предназначенного для обезвреживания, а не убийства, подчёркивая ценность жизни и этичного ведения боя</li>
+    <li>subject_story->{ANYPAWN_gender ? создавал : создавала} такие средства, как гранатомёты со слезоточивым газом и электрошокеры, предоставляя возможности для контроля и защиты без смертельных исходов</li>
+    <li>subject_gerund->продвижения разрешения конфликтов с человечностью и состраданием через нелетальные средства</li>
+  </VWE_NonLethal.generalRules.rulesStrings>
 </LanguageData>

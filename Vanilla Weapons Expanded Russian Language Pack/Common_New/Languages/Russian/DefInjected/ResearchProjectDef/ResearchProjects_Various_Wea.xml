@@ -1,37 +1,279 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VWE_Longbow.label>длинные луки</VWE_Longbow.label>
-  <VWE_Longbow.description>Создавайте длинные луки — древние снайперские винтовки.</VWE_Longbow.description>
+  <VWE_Longbow.description>Изготовление длинных луков — древних снайперских винтовок.</VWE_Longbow.description>
+  <!-- EN:
+    <li>subject->precision archery</li>
+    <li>subject_story->refined the craft of longbow making, maximizing range and accuracy</li>
+    <li>subject_story->redefined warfare with the introduction of the sniper's bow</li>
+    <li>subject_story->inspired legends through feats of marksmanship that turned the tide of battles</li>
+    <li>subject_story->developed techniques that allowed rapid, precise shots over great distances</li>
+    <li>subject_gerund->enhancing long-range engagements with traditional craftsmanship</li>
+  -->
+  <VWE_Longbow.generalRules.rulesStrings>
+    <li>subject->длинные луки</li>
+    <li>subject->точная стрельба из лука</li>
+    <li>subject_gen->длинных луков</li>
+    <li>subject_gen->точной стрельбы из лука</li>
+    <li>subject_dat->длинным лукам</li>
+    <li>subject_dat->точной стрельбе из лука</li>
+    <li>subject_pre_about->о длинных луках</li>
+    <li>subject_pre_about->о точной стрельбе из лука</li>
+    <li>subject_story->{ANYPAWN_gender ? усовершенствовал : усовершенствовала} ремесло изготовления длинных луков, увеличив дальность и точность</li>
+    <li>subject_story->{ANYPAWN_gender ? переосмыслил : переосмыслила} ведение войны с введением снайперского лука</li>
+    <li>subject_story->{ANYPAWN_gender ? вдохновил : вдохновила} легенды своим мастерством стрельбы, переломившим ход сражений</li>
+    <li>subject_gerund->улучшения дальнего боя с помощью традиционного мастерства</li>
+  </VWE_Longbow.generalRules.rulesStrings>
 
   <VWE_Crossbow.label>арбалеты</VWE_Crossbow.label>
-  <VWE_Crossbow.description>Создавайте арбалеты — средневековое оружие дальнего боя для уничтожения бронированных врагов.</VWE_Crossbow.description>
-
+  <VWE_Crossbow.description>Изготовление арбалетов — средневекового оружия дальнего боя для уничтожения бронированных врагов.</VWE_Crossbow.description>
+  <!-- EN:
+    <li>subject->mechanical advantage</li>
+    <li>subject_story->merged the precision of archery with the power of mechanics</li>
+    <li>subject_story->developed crossbows that pierce the defenses of the armored</li>
+    <li>subject_story->innovated locking mechanisms for quicker reloads under pressure</li>
+    <li>subject_story->integrated advanced sighting systems to improve accuracy</li>
+    <li>subject_gerund->advancing siege warfare with innovation in armament</li>
+  -->
+  <VWE_Crossbow.generalRules.rulesStrings>
+    <li>subject->арбалеты</li>
+    <li>subject->механическое преимущество</li>
+    <li>subject_gen->арбалетов</li>
+    <li>subject_gen->механического преимущества</li>
+    <li>subject_dat->арбалетам</li>
+    <li>subject_dat->механическому преимуществу</li>
+    <li>subject_pre_about->об арбалетах</li>
+    <li>subject_pre_about->о механическом преимуществе</li>
+    <li>subject_story->{ANYPAWN_gender ? объединил : объединила} точность стрельбы из лука с силой механики</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} арбалеты, пробивающие защиту бронированных противников</li>
+    <li>subject_story->{ANYPAWN_gender ? усовершенствовал : усовершенствовала} механизмы фиксации для более быстрой перезарядки под давлением</li>
+    <li>subject_gerund->продвижения осадной войны с помощью оружейных инноваций</li>
+  </VWE_Crossbow.generalRules.rulesStrings>
+  
   <VWE_CompoundBow.label>блочные луки</VWE_CompoundBow.label>
-  <VWE_CompoundBow.description>Создавайте блочные луки — древнее оружие из современных материалов, выпускающее стрелы бесшумно и крайне эффективно.</VWE_CompoundBow.description>
+  <VWE_CompoundBow.description>Изготовление блочных луков — древнего оружия из современных материалов, выпускающего стрелы бесшумно и крайне эффективно.</VWE_CompoundBow.description>
+  <!-- EN:
+    <li>subject->silent efficiency</li>
+    <li>subject_story->integrated modern technology to craft silent, deadly weapons</li>
+    <li>subject_story->pushed the boundaries of archery into the industrial era</li>
+    <li>subject_story->employed advanced materials for unmatched bow strength and flexibility</li>
+    <li>subject_story->optimized designs for ergonomic use and increased firing rates</li>
+    <li>subject_gerund->refining the art of stealth and precision in hunting and warfare</li>
+  -->
+  <VWE_CompoundBow.generalRules.rulesStrings>
+    <li>subject->блочные луки</li>
+    <li>subject->бесшумная эффективность</li>
+    <li>subject_gen->блочных луков</li>
+    <li>subject_gen->бесшумной эффективности</li>
+    <li>subject_dat->блочным лукам</li>
+    <li>subject_dat->бесшумной эффективности</li>
+    <li>subject_pre_about->о блочных луках</li>
+    <li>subject_pre_about->о бесшумной эффективности</li>
+    <li>subject_story->{ANYPAWN_gender ? интегрировал : интегрировала} современные технологии для создания бесшумного смертоносного оружия</li>
+    <li>subject_story->{ANYPAWN_gender ? расширил : расширила} границы стрельбы из лука до индустриальной эры</li>
+    <li>subject_story->{ANYPAWN_gender ? применил : применила} передовые материалы для непревзойдённой прочности и гибкости лука</li>
+    <li>subject_gerund->совершенствования искусства скрытности и точности в охоте и войне</li>
+  </VWE_CompoundBow.generalRules.rulesStrings>
 
   <VWE_Gunpowder.label>дымный порох</VWE_Gunpowder.label>
-  <VWE_Gunpowder.description>Синтезируйте дымный порох — первое химическое взрывчатое вещество.</VWE_Gunpowder.description>
+  <VWE_Gunpowder.description>Синтез дымного пороха — первого химического взрывчатого вещества.</VWE_Gunpowder.description>
+  <!-- EN:
+    <li>subject->the spark of revolution</li>
+    <li>subject_story->unleashed the potential of chemical reactions for explosive results</li>
+    <li>subject_story->transformed warfare and mining with the discovery of gunpowder</li>
+    <li>subject_story->revolutionized siege tactics with the introduction of cannons</li>
+    <li>subject_story->facilitated the creation of small arms, changing personal defense and hunting</li>
+    <li>subject_gerund->pioneering the era of explosives and ballistic weaponry</li>
+  -->
+  <VWE_Gunpowder.generalRules.rulesStrings>
+    <li>subject->дымный порох</li>
+    <li>subject->искра революции</li>
+    <li>subject_gen->дымного пороха</li>
+    <li>subject_gen->искры революции</li>
+    <li>subject_dat->дымному пороху</li>
+    <li>subject_dat->искре революции</li>
+    <li>subject_pre_about->о дымном порохе</li>
+    <li>subject_pre_about->об искре революции</li>
+    <li>subject_story->{ANYPAWN_gender ? высвободил : высвободила} потенциал химических реакций для взрывных результатов</li>
+    <li>subject_story->{ANYPAWN_gender ? преобразил : преобразила} ведение войны и горное дело открытием пороха</li>
+    <li>subject_story->{ANYPAWN_gender ? революционизировал : революционизировала} осадную тактику введением пушек</li>
+    <li>subject_gerund->пионерства эры взрывчатых веществ и баллистического оружия</li>
+  </VWE_Gunpowder.generalRules.rulesStrings>
 
   <VWE_TrenchWarfare.label>окопная война</VWE_TrenchWarfare.label>
-  <VWE_TrenchWarfare.description>Адаптируйте свою военную доктрину к окопной войне при помощи нового оружия для ближнего боя.</VWE_TrenchWarfare.description>
-
+  <VWE_TrenchWarfare.description>Адаптация военной доктрины к окопной войне при помощи нового оружия для ближнего боя.</VWE_TrenchWarfare.description>
+  <!-- EN:
+    <li>subject->entrenched defense</li>
+    <li>subject_story->adopted age-old strategies to modern combat, ensuring survival</li>
+    <li>subject_story->innovated in close-quarters battle tactics within the trenches</li>
+    <li>subject_story->engineered fortifications that blend with the landscape for surprise attacks</li>
+    <li>subject_story->developed communication lines within trenches to coordinate assaults</li>
+    <li>subject_gerund->fortifying positions with strategic ingenuity in warfare</li>
+  -->
+  <VWE_TrenchWarfare.generalRules.rulesStrings>
+    <li>subject->окопная война</li>
+    <li>subject->укреплённая оборона</li>
+    <li>subject_gen->окопной войны</li>
+    <li>subject_gen->укреплённой обороны</li>
+    <li>subject_dat->окопной войне</li>
+    <li>subject_dat->укреплённой обороне</li>
+    <li>subject_pre_about->об окопной войне</li>
+    <li>subject_pre_about->об укреплённой обороне</li>
+    <li>subject_story->{ANYPAWN_gender ? адаптировал : адаптировала} древние стратегии к современному бою, обеспечивая выживание</li>
+    <li>subject_story->{ANYPAWN_gender ? внедрил : внедрила} новшества в тактику ближнего боя в окопах</li>
+    <li>subject_story->{ANYPAWN_gender ? спроектировал : спроектировала} укрепления, сливающиеся с ландшафтом для внезапных атак</li>
+    <li>subject_gerund->укрепления позиций со стратегической изобретательностью в войне</li>
+  </VWE_TrenchWarfare.generalRules.rulesStrings>
+  
   <VWE_HeavyWeapons.label>тяжёлое оружие</VWE_HeavyWeapons.label>
-  <VWE_HeavyWeapons.description>Создавайте тяжёлое оружие, которое предлагает превосходную огневую мощь, за счёт физических требований к стрелку.</VWE_HeavyWeapons.description>
-
+  <VWE_HeavyWeapons.description>Изготовление тяжёлого оружия, которое предлагает превосходную огневую мощь за счёт физических требований к стрелку.</VWE_HeavyWeapons.description>
+  <!-- EN:
+    <li>subject->the weight of power</li>
+    <li>subject_story->developed weapons that bring unparalleled firepower to the battlefield</li>
+    <li>subject_story->balanced the scales of warfare with heavy, decisive armaments</li>
+    <li>subject_story->created training programs for specialized units to operate these weapons</li>
+    <li>subject_story->engineered mobility solutions to transport and deploy heavy armaments</li>
+    <li>subject_gerund->mastering the art of destruction with heavy weapons</li>
+  -->
+  <VWE_HeavyWeapons.generalRules.rulesStrings>
+    <li>subject->тяжёлое оружие</li>
+    <li>subject->вес мощи</li>
+    <li>subject_gen->тяжёлого оружия</li>
+    <li>subject_gen->веса мощи</li>
+    <li>subject_dat->тяжёлому оружию</li>
+    <li>subject_dat->весу мощи</li>
+    <li>subject_pre_about->о тяжёлом оружии</li>
+    <li>subject_pre_about->о весе мощи</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} оружие, обеспечивающее непревзойдённую огневую мощь на поле боя</li>
+    <li>subject_story->{ANYPAWN_gender ? уравновесил : уравновесила} чаши весов войны тяжёлым решающим вооружением</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} программы обучения для специализированных подразделений по работе с этим оружием</li>
+    <li>subject_gerund->овладения искусством разрушения с помощью тяжёлого оружия</li>
+  </VWE_HeavyWeapons.generalRules.rulesStrings>
+  
   <VWE_Flamethrower.label>огнемёты</VWE_Flamethrower.label>
-  <VWE_Flamethrower.description>Создайте огнемёты — оружие, выпускающее в даль контролируемый поток огня. Их смертоносность привела к запретам во многих цивилизованных мирах.</VWE_Flamethrower.description>
-
+  <VWE_Flamethrower.description>Создание огнемётов — оружия, выпускающего вдаль контролируемый поток огня. Их смертоносность привела к запретам во многих цивилизованных мирах.</VWE_Flamethrower.description>
+  <!-- EN:
+    <li>subject->fiery dominion</li>
+    <li>subject_story->harnessed fire in warfare to cleanse and conquer</li>
+    <li>subject_story->introduced a weapon feared for its psychological and physical impact</li>
+    <li>subject_story->innovated with fuel mixtures for longer range and burn times</li>
+    <li>subject_story->developed safety mechanisms to protect the operator from backlash</li>
+    <li>subject_gerund->spreading the flames of innovation and terror on the battlefield</li>
+  -->
+  <VWE_Flamethrower.generalRules.rulesStrings>
+    <li>subject->огнемёты</li>
+    <li>subject->огненное господство</li>
+    <li>subject_gen->огнемётов</li>
+    <li>subject_gen->огненного господства</li>
+    <li>subject_dat->огнемётам</li>
+    <li>subject_dat->огненному господству</li>
+    <li>subject_pre_about->об огнемётах</li>
+    <li>subject_pre_about->об огненном господстве</li>
+    <li>subject_story->{ANYPAWN_gender ? обуздал : обуздала} огонь в войне для очищения и завоевания</li>
+    <li>subject_story->{ANYPAWN_gender ? представил : представила} оружие, вызывающее страх своим психологическим и физическим воздействием</li>
+    <li>subject_story->{ANYPAWN_gender ? экспериментировал : экспериментировала} с топливными смесями для увеличения дальности и времени горения</li>
+    <li>subject_gerund->распространения пламени инноваций и ужаса на поле боя</li>
+  </VWE_Flamethrower.generalRules.rulesStrings>
+  
   <VWE_SpecializedFirearms.label>специализированное оружие</VWE_SpecializedFirearms.label>
-  <VWE_SpecializedFirearms.description>Создавайте специализированное оружие для требовательных к стрелку боевых сценариев.</VWE_SpecializedFirearms.description>
-
+  <VWE_SpecializedFirearms.description>Изготовление специализированного оружия для требовательных боевых сценариев.</VWE_SpecializedFirearms.description>
+  <!-- EN:
+    <li>subject->precision engineering</li>
+    <li>subject_story->crafted firearms designed for specific, challenging combat scenarios</li>
+    <li>subject_story->elevated the standards of gunsmithing to meet niche demands</li>
+    <li>subject_story->integrated cutting-edge optics for enhanced targeting accuracy</li>
+    <li>subject_story->customized weapons to suit individual user preferences and tactics</li>
+    <li>subject_gerund->tailoring firepower to the intricate needs of warfare</li>
+  -->
+  <VWE_SpecializedFirearms.generalRules.rulesStrings>
+    <li>subject->специализированное оружие</li>
+    <li>subject->точная инженерия</li>
+    <li>subject_gen->специализированного оружия</li>
+    <li>subject_gen->точной инженерии</li>
+    <li>subject_dat->специализированному оружию</li>
+    <li>subject_dat->точной инженерии</li>
+    <li>subject_pre_about->о специализированном оружии</li>
+    <li>subject_pre_about->о точной инженерии</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} огнестрельное оружие, предназначенное для специфических сложных боевых сценариев</li>
+    <li>subject_story->{ANYPAWN_gender ? поднял : подняла} стандарты оружейного дела для удовлетворения нишевых потребностей</li>
+    <li>subject_story->{ANYPAWN_gender ? интегрировал : интегрировала} передовую оптику для улучшения точности наведения</li>
+    <li>subject_gerund->настройки огневой мощи под сложные потребности войны</li>
+  </VWE_SpecializedFirearms.generalRules.rulesStrings>
+  
   <VWE_DesignatedMarksmanRifle.label>снайперское оружие</VWE_DesignatedMarksmanRifle.label>
-  <VWE_DesignatedMarksmanRifle.description>Создавайте полуавтоматические марксманские винтовки для «общения» на расстоянии.</VWE_DesignatedMarksmanRifle.description>
-
+  <VWE_DesignatedMarksmanRifle.description>Изготовление полуавтоматических марксманских винтовок для «общения» на расстоянии.</VWE_DesignatedMarksmanRifle.description>
+  <!-- EN:
+    <li>subject->long-distance overwatch</li>
+    <li>subject_story->bridged the gap between sniper precision and rifle agility</li>
+    <li>subject_story->empowered sharpshooters with semi-automatic precision</li>
+    <li>subject_story->developed stabilization systems for unmatched accuracy on the move</li>
+    <li>subject_story->adapted rifles for various environments, from urban to wilderness</li>
+    <li>subject_gerund->shaping the future of engagement with marksman rifles</li>
+  -->
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+    <li>subject->снайперское оружие</li>
+    <li>subject->дальний дозор</li>
+    <li>subject_gen->снайперского оружия</li>
+    <li>subject_gen->дальнего дозора</li>
+    <li>subject_dat->снайперскому оружию</li>
+    <li>subject_dat->дальнему дозору</li>
+    <li>subject_pre_about->о снайперском оружии</li>
+    <li>subject_pre_about->о дальнем дозоре</li>
+    <li>subject_story->{ANYPAWN_gender ? ликвидировал : ликвидировала} разрыв между снайперской точностью и винтовочной мобильностью</li>
+    <li>subject_story->{ANYPAWN_gender ? вооружил : вооружила} снайперов полуавтоматической точностью</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} системы стабилизации для непревзойдённой точности в движении</li>
+    <li>subject_gerund->формирования будущего боя с помощью марксманских винтовок</li>
+  </VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+  
   <VWE_TacticalGrenades.label>тактические гранаты</VWE_TacticalGrenades.label>
-  <VWE_TacticalGrenades.description>Создавайте специализированные гранаты для различных боевых контактов.</VWE_TacticalGrenades.description>
+  <VWE_TacticalGrenades.description>Изготовление специализированных гранат для различных боевых контактов.</VWE_TacticalGrenades.description>
+  <!-- EN:
+    <li>subject->explosive versatility</li>
+    <li>subject_story->expanded the arsenal with grenades for every combat situation</li>
+    <li>subject_story->innovated with non-lethal options for crowd control and deterrence</li>
+    <li>subject_story->enhanced fuse mechanisms for precise timing and effect</li>
+    <li>subject_story->customized payloads for specific tactical needs</li>
+    <li>subject_gerund->arming troops with the right tools for any engagement</li>
+  -->
+  <VWE_TacticalGrenades.generalRules.rulesStrings>
+    <li>subject->тактические гранаты</li>
+    <li>subject->взрывчатая универсальность</li>
+    <li>subject_gen->тактических гранат</li>
+    <li>subject_gen->взрывчатой универсальности</li>
+    <li>subject_dat->тактическим гранатам</li>
+    <li>subject_dat->взрывчатой универсальности</li>
+    <li>subject_pre_about->о тактических гранатах</li>
+    <li>subject_pre_about->о взрывчатой универсальности</li>
+    <li>subject_story->{ANYPAWN_gender ? расширил : расширила} арсенал гранатами для каждой боевой ситуации</li>
+    <li>subject_story->{ANYPAWN_gender ? внедрил : внедрила} нелетальные варианты для контроля толпы и сдерживания</li>
+    <li>subject_story->{ANYPAWN_gender ? усовершенствовал : усовершенствовала} взрывательные механизмы для точного времени и эффекта</li>
+    <li>subject_gerund->вооружения войск подходящими инструментами для любого столкновения</li>
+  </VWE_TacticalGrenades.generalRules.rulesStrings>
 
   <VWE_LaserTargetingSystems.label>системы лазерного наведения</VWE_LaserTargetingSystems.label>
-  <VWE_LaserTargetingSystems.description>Адаптируйте системы лазерного наведения для точной и быстрой доставки взрывных «посылок».</VWE_LaserTargetingSystems.description>
+  <VWE_LaserTargetingSystems.description>Адаптация систем лазерного наведения для точной и быстрой доставки взрывных «посылок».</VWE_LaserTargetingSystems.description>
+  <!-- EN:
+    <li>subject->pinpoint accuracy</li>
+    <li>subject_story->revolutionized precision strikes with advanced laser guidance</li>
+    <li>subject_story->enabled real-time target acquisition and adjustment</li>
+    <li>subject_story->integrated systems with existing weaponry for enhanced combat effectiveness</li>
+    <li>subject_story->developed compact, portable laser designators for field operations</li>
+    <li>subject_gerund->honing the edge of warfare with technology</li>
+  -->
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings>
+    <li>subject->системы лазерного наведения</li>
+    <li>subject->точность в точке</li>
+    <li>subject_gen->систем лазерного наведения</li>
+    <li>subject_gen->точности в точке</li>
+    <li>subject_dat->системам лазерного наведения</li>
+    <li>subject_dat->точности в точке</li>
+    <li>subject_pre_about->о системах лазерного наведения</li>
+    <li>subject_pre_about->о точности в точке</li>
+    <li>subject_story->{ANYPAWN_gender ? революционизировал : революционизировала} точные удары с помощью передового лазерного наведения</li>
+    <li>subject_story->{ANYPAWN_gender ? обеспечил : обеспечила} захват и корректировку целей в реальном времени</li>
+    <li>subject_story->{ANYPAWN_gender ? интегрировал : интегрировала} системы с существующим оружием для повышения боевой эффективности</li>
+    <li>subject_gerund->оттачивания острия войны с помощью технологий</li>
+  </VWE_LaserTargetingSystems.generalRules.rulesStrings>
 
   <Greatbow.label>большие луки</Greatbow.label>
   <Greatbow.description>Из больших луков можно поражать цели с большого расстояния.</Greatbow.description>

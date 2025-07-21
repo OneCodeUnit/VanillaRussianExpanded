@@ -1,5 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VWE_MassDrivers.label>ускорители массы</VWE_MassDrivers.label>
-  <VWE_MassDrivers.description>Создавайте оружие на основе электромагнитов, выстреливающее металлические болванки на сверхвысокой скорости. Они пробирают даже самую тяжёлую броню и проходят сквозь любые цели, как нож сквозь масло. Для производства потребуются продвинутые компоненты.</VWE_MassDrivers.description>
+  <VWE_MassDrivers.description>Изготовление оружия на основе электромагнитов, выстреливающего металлические болванки на сверхвысокой скорости. Они пробивают даже самую тяжёлую броню и проходят сквозь любые цели, как нож сквозь масло. Для производства требуются продвинутые компоненты.</VWE_MassDrivers.description>
+  <!-- EN:
+    <li>subject->velocity as a weapon</li>
+    <li>subject_story->mastered the physics of electromagnetic acceleration, creating weapons that launch projectiles at staggering speeds</li>
+    <li>subject_story->engineered mass drivers capable of breaching the most formidable armor, reshaping the principles of warfare and defense</li>
+    <li>subject_story->unveiled a new era where kinetic energy defines the cutting edge of military technology</li>
+    <li>subject_gerund->harnessing the unstoppable force of hypervelocity for unmatched offensive capability</li>
+  -->
+  <VWE_MassDrivers.generalRules.rulesStrings>
+    <li>subject->ускорители массы</li>
+    <li>subject->скорость как оружие</li>
+    <li>subject_gen->ускорителей массы</li>
+    <li>subject_gen->скорости как оружия</li>
+    <li>subject_dat->ускорителям массы</li>
+    <li>subject_dat->скорости как оружию</li>
+    <li>subject_pre_about->об ускорителях массы</li>
+    <li>subject_pre_about->о скорости как оружии</li>
+    <li>subject_story->{ANYPAWN_gender ? овладел : овладела} физикой электромагнитного ускорения, создавая оружие, которое запускает снаряды с ошеломляющей скоростью</li>
+    <li>subject_story->{ANYPAWN_gender ? сконструировал : сконструировала} ускорители массы, способные пробивать самую грозную броню, изменяя принципы ведения войны и обороны</li>
+    <li>subject_story->{ANYPAWN_gender ? открыл : открыла} новую эру, где кинетическая энергия определяет передовые рубежи военных технологий</li>
+    <li>subject_gerund->использования неудержимой силы сверхвысокой скорости для непревзойдённых наступательных возможностей</li>
+  </VWE_MassDrivers.generalRules.rulesStrings>
 </LanguageData>

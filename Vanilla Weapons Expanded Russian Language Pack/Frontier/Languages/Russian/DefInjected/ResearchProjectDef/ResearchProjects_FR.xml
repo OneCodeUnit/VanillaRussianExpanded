@@ -1,5 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VWEFT_FrontierWeapons.label>оружие предела</VWEFT_FrontierWeapons.label>
-  <VWEFT_FrontierWeapons.description>Создавайте револьверы, винтовки, дробовики и другое оружие с предела.</VWEFT_FrontierWeapons.description>
+  <VWEFT_FrontierWeapons.description>Изготовление револьверов, винтовок, дробовиков и другого оружия предела.</VWEFT_FrontierWeapons.description>
+  <!-- EN:
+    <li>subject->echoes of the frontier</li>
+    <li>subject_story->revived the rugged spirit of the frontier, crafting firearms that embody the essence of survival and exploration</li>
+    <li>subject_story->perfected the art of gunsmithing to produce revolvers, rifles, and shotguns, tools as much for defense as for forging ahead into the unknown</li>
+    <li>subject_story->imbued each weapon with the reliability and durability needed to face the untamed wilds and protect burgeoning communities</li>
+    <li>subject_gerund->carving out civilization's edge with the steadfast companionship of frontier firearms</li>
+  -->
+  <VWEFT_FrontierWeapons.generalRules.rulesStrings>
+    <li>subject->оружие предела</li>
+    <li>subject->отголоски предела</li>
+    <li>subject_gen->оружия предела</li>
+    <li>subject_gen->отголосков предела</li>
+    <li>subject_dat->оружию предела</li>
+    <li>subject_dat->отголоскам предела</li>
+    <li>subject_pre_about->об оружии предела</li>
+    <li>subject_pre_about->об отголосках предела</li>
+    <li>subject_story->{ANYPAWN_gender ? возродил : возродила} суровый дух предела, создавая огнестрельное оружие, воплощающее сущность выживания и исследования</li>
+    <li>subject_story->{ANYPAWN_gender ? усовершенствовал : усовершенствовала} искусство оружейного дела для производства револьверов, винтовок и дробовиков — инструментов как для защиты, так и для продвижения в неизведанное</li>
+    <li>subject_story->{ANYPAWN_gender ? наделил : наделила} каждое оружие надёжностью и прочностью, необходимой для встречи с дикой природой и защиты растущих поселений</li>
+    <li>subject_gerund->освоения границ цивилизации с верным огнестрельным оружием предела</li>
+  </VWEFT_FrontierWeapons.generalRules.rulesStrings>
 </LanguageData>
