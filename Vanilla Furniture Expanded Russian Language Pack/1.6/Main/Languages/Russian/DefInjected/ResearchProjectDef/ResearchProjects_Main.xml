@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: basic furniture -->
+  <MF_BasicFurniture.label>сборка простой мебели</MF_BasicFurniture.label>
+  <!-- EN: Build simple furniture like simple beds, basic tables, stools, benches and more. -->
+  <MF_BasicFurniture.description>Сборка мебели простой конструкции: коек, столов, стульев, скамеек и прочего.</MF_BasicFurniture.description>
+  <!-- EN: 
+  <li>subject->foundations of comfort</li>
+  <li>subject_story->rediscovered ancient techniques for crafting durable, essential furniture</li>
+  <li>subject_story->pioneered the use of local materials to create comfortable living spaces</li>
+  <li>subject_story->taught the community the value of crafting with nature, not against it</li>
+  <li>subject_story->initiated the tradition of communal gatherings around the hearth and table</li>
+  <li>subject_gerund->establishing the basics of homely comfort and utility</li>
+   -->
+  <MF_BasicFurniture.generalRules.rulesStrings>
+  <li>subject->основы комфорта</li>
+  <li>subject_gen->основ комфорта</li>
+  <li>subject_dat->основам комфорта</li>
+  <li>subject_pre_about->об основах комфорта</li>
+  <li>subject_story->{ANYPAWN_gender ? заново открыл : заново открыла} древние техники изготовления прочной и функциональной мебели</li>
+  <li>subject_story->{ANYPAWN_gender ? стал : стала} первопроходцем в области использования доступных материалов для создания комфортных жилых помещений</li>
+  <li>subject_story->{ANYPAWN_gender ? учил : учила} тому, что нужно создавать вместе с природой, а не вопреки ей</li>
+  <li>subject_story->{ANYPAWN_gender ? положил : положила} начало традиции проведения собраний вокруг очага и стола</li>
+  <li>subject_gerund->создания основ домашнего уюта и комфорта</li>
+  </MF_BasicFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: artisan furniture -->
+  <MF_RoyalFurniture.label>изысканная мебель</MF_RoyalFurniture.label>
+  <!-- EN: Build luxury furniture focused strongly on aesthetics and beauty over practicality, usually only seen in the houses of the wealthy elite. Including poster beds, royal chairs, tables and armchairs. -->
+  <MF_RoyalFurniture.description>Изготовление роскошной мебели, которую можно увидеть только в богатых домах: роскошных кроватей с балдахином, роскошных стульев, столов и кресел. При создании такой мебели основное внимание уделяется её эстетической ценности, а не функциональности.</MF_RoyalFurniture.description>
+  <!-- EN: 
+  <li>subject->the art of luxury</li>
+  <li>subject_story->reclaimed forgotten methods of inlay and marquetry for exquisite pieces</li>
+  <li>subject_story->fostered a new age of craftsmanship, blending beauty with utility</li>
+  <li>subject_story->commissioned pieces that would become the envy of visiting dignitaries</li>
+  <li>subject_story->inspired artisans to push the boundaries of design and materials</li>
+  <li>subject_story->created spaces of unparalleled elegance, reflecting the pinnacle of culture</li>
+  <li>subject_gerund->crafting symbols of status and artistry</li>
+   -->
+  <MF_RoyalFurniture.generalRules.rulesStrings>
+  <li>subject->искусство роскоши</li>
+  <li>subject_gen->искусства роскоши</li>
+  <li>subject_dat->искусству роскоши</li>
+  <li>subject_pre_about->об искусстве роскоши</li>
+  <li>subject_story->{ANYPAWN_gender ? восстановил : восстановила} давно забытые методы инкрустации и мозаики по дереву для создания изысканных изделий</li>
+  <li>subject_story->{ANYPAWN_gender ? способствовал : способствовала} наступлению новой эры мастерства, объединив красоту с практичностью</li>
+  <li>subject_story->{ANYPAWN_gender ? заказывал : заказывала} произведения, которые становились предметом зависти высокопоставленных гостей</li>
+  <li>subject_story->{ANYPAWN_gender ? вдохновлял : вдохновляла} мастеров расширять границы дизайна и материалов</li>
+  <li>subject_story->{ANYPAWN_gender ? создал : создала} великолепные интерьеры, отличающиеся непревзойдённой элегантностью и отражающие высшие достижения культуры</li>
+  <li>subject_gerund->изготовления символов статуса и ремесленного мастерства</li>
+  </MF_RoyalFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: modern furniture -->
+  <MF_ModernFurniture.label>современная мебель</MF_ModernFurniture.label>
+  <!-- EN: Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds. -->
+  <MF_ModernFurniture.description>Изготовление современных предметов обстановки, ориентированных на практичность, а не на красоту: эргономичных кроватей, шифоньеров, боксёрских груш, столов для рулетки и мишеней для Дартс.</MF_ModernFurniture.description>
+  <!-- EN: 
+  <li>subject->practical elegance</li>
+  <li>subject_story->embraced the fusion of form and function to suit modern lifestyles</li>
+  <li>subject_story->innovated with new materials for durability and comfort</li>
+  <li>subject_story->prioritized ergonomic designs to enhance daily living</li>
+  <li>subject_story->introduced concepts of modular and space-saving furniture</li>
+  <li>subject_story->championed the minimalist aesthetic, focusing on simplicity and practicality</li>
+  <li>subject_gerund->redefining living spaces for the contemporary era</li>
+   -->
+  <MF_ModernFurniture.generalRules.rulesStrings>
+  <li>subject->практичная элегантность</li>
+  <li>subject_gen->практичной элегантности</li>
+  <li>subject_dat->практичной элегантности</li>
+  <li>subject_pre_about->о практичной элегантности</li>
+  <li>subject_story->{ANYPAWN_gender ? воплотил : воплотила} в жизнь идею слияния формы и функции, чтобы соответствовать современному образу жизни</li>
+  <li>subject_story->{ANYPAWN_gender ? создал : создала} новые материалы, обеспечивающие долговечность и комфорт изделий</li>
+  <li>subject_story->{ANYPAWN_gender ? отдал : отдала} предпочтение эргономичному дизайну, чтобы улучшить повседневную жизнь</li>
+  <li>subject_story->{ANYPAWN_gender ? представил : представила} проекты компактной и модульной мебели</li>
+  <li>subject_story->{ANYPAWN_gender ? отстаивал : отстаивала} эстетику минимализма, делая акцент на простоте и практичности</li>
+  <li>subject_gerund->обновления жилых помещений в современном стиле</li>
+  </MF_ModernFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: waste disposal -->
+  <MF_WasteDisposal.label>утилизация отходов</MF_WasteDisposal.label>
+  <!-- EN: Learn to build small and large bins, objects that slowly clean the environment they are in. -->
+  <MF_WasteDisposal.description>Изготовление мусорных баков и контейнеров, которые медленно очищают пространство вокруг себя.</MF_WasteDisposal.description>
+  <!-- EN: 
+  <li>subject->the cleanliness revolution</li>
+  <li>subject_story->developed efficient waste management solutions to promote hygiene</li>
+  <li>subject_story->introduced the concept of recycling, transforming waste into resources</li>
+  <li>subject_story->engineered bins that integrate seamlessly into both public and private spaces</li>
+  <li>subject_story->pioneered waste processing techniques that minimize environmental impact</li>
+  <li>subject_story->catalyzed a cultural shift towards sustainability and cleanliness</li>
+  <li>subject_gerund->enhancing communities with smart waste solutions</li>
+   -->
+  <MF_WasteDisposal.generalRules.rulesStrings>
+  <li>subject->революция в области чистоты</li>
+  <li>subject_gen->революции в области чистоты</li>
+  <li>subject_dat->революции в области чистоты</li>
+  <li>subject_pre_about->о революции в области чистоты</li>
+  <li>subject_story->{ANYPAWN_gender ? разработал : разработала} эффективные решения по утилизации отходов, способствующие повышению уровня гигиены</li>
+  <li>subject_story->{ANYPAWN_gender ? ввёл : ввела} концепцию вторичной переработки, превращающей отходы в ресурсы</li>
+  <li>subject_story->{ANYPAWN_gender ? спроектировал : спроектировала} контейнеры, которые органично вписываются как в общественные, так и в частные пространства</li>
+  <li>subject_story->{ANYPAWN_gender ? стал : стала} первопроходцем в разработке технологий переработки отходов, которые сводят к минимуму негативное воздействие на окружающую среду</li>
+  <li>subject_story->{ANYPAWN_gender ? стал : стала} инициатором культурного сдвига в сторону экологичности и чистоты</li>
+  <li>subject_gerund->улучшения уровня жизни с помощью рациональной утилизации отходов</li>
+  </MF_WasteDisposal.generalRules.rulesStrings>
+  
+</LanguageData>

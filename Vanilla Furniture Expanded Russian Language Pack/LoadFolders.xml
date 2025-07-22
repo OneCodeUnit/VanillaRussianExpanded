@@ -2,7 +2,7 @@
 <loadFolders>
   <v1.4>
     <li>/</li>
-    <li IfModActive="VanillaExpanded.VFECore">1.4/Main</li>
+	<li IfModActive="VanillaExpanded.VFECore">1.4/Main</li>
     <li IfModActive="VanillaExpanded.VFEArchitect">1.4/Architect</li>
     <li IfModActive="VanillaExpanded.VFEArt">1.4/Art</li>
     <li IfModActive="VanillaExpanded.VFEMedical">1.4/Medical</li>
@@ -14,9 +14,10 @@
   </v1.4>
   <v1.5>
     <li>/</li>
-    <li IfModActive="VanillaExpanded.VFECore">1.5/Main</li>
-    <li IfModActive="Ludeon.RimWorld.Ideology">1.5/Ideology</li>
-    <li IfModActive="Ludeon.RimWorld.Royalty">1.5/Royalty</li>
+	<li IfModActive="VanillaExpanded.VFECore">1.5/Main</li>
+	<li IfModActive="Ludeon.RimWorld.Ideology">1.5/Ideology</li>
+	<li IfModActive="Ludeon.RimWorld.Royalty">1.5/Royalty</li>
+	<li IfModActive="VanillaExpanded.VFEMedical">1.5/Medical</li>
     <li IfModActive="VanillaExpanded.VFEArchitect">1.5/Architect</li>
     <li IfModActive="VanillaExpanded.VFEArt">1.5/Art</li>
     <li IfModActive="VanillaExpanded.VFEPower">1.5/Power</li>
@@ -24,6 +25,18 @@
     <li IfModActive="VanillaExpanded.VFESecurity">1.5/Security</li>
     <li IfModActive="VanillaExpanded.VFESpacer">1.5/Spacer</li>
     <li IfModActive="VanillaExpanded.VFEFarming">1.5/Farming</li>
-	<li IfModActive="VanillaExpanded.VFEMedical">1.5/Medical</li>
   </v1.5>
+  <v1.6>
+    <li>/</li>
+	<li IfModActive="VanillaExpanded.VFECore">1.6/Main</li>
+    <li IfModActive="VanillaExpanded.VFEArchitect">1.6/Architect</li>
+    <li IfModActive="VanillaExpanded.VFEPower">1.6/Power</li>
+    <li IfModActive="VanillaExpanded.VFESpacer">1.6/Spacer</li>
+	<li IfModActive="Ludeon.RimWorld.Royalty">1.5/Royalty</li>
+	<li IfModActive="VanillaExpanded.VFEMedical">1.5/Medical</li>
+	<li IfModActive="VanillaExpanded.VFEArt">1.5/Art</li>
+	<li IfModActive="VanillaExpanded.VFEProduction">1.5/Production</li>
+	<li IfModActive="Ludeon.RimWorld.Ideology">1.5/Ideology</li>
+    <li IfModActive="VanillaExpanded.VFEFarming">1.5/Farming</li>
+  </v1.6>
 </loadFolders>
