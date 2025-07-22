@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: warcasket autorifle -->
+  <VFEP_WarcasketGun_Autorifle.label>автопушка мертвеца</VFEP_WarcasketGun_Autorifle.label>
+  <!-- EN: A portable version of the Autocannon designed for use by a warcasket. Due to a shortened barrel it has a lower range, less penetration and damage compared to the turreted version. However, it is very capable in close quarters combat which makes up for the slight accuracy loss at greater ranges. -->
+  <VFEP_WarcasketGun_Autorifle.description>Переносная версия тяжёлой турели для использования с бронёй мертвеца. На неё установлен укороченный ствол, из-за которого снижена эффективная дальность, пробитие брони и урон. Однако она всё ещё очень эффективна в бою на короткой дистанции.</VFEP_WarcasketGun_Autorifle.description>
+  <!-- EN: warcasket autorifle -->
+  <VFEP_WarcasketGun_Autorifle.verbs.Verb_Shoot.label>автопушка мертвеца</VFEP_WarcasketGun_Autorifle.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_Autorifle.tools.0.label>приклад</VFEP_WarcasketGun_Autorifle.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_Autorifle.tools.1.label>ствол</VFEP_WarcasketGun_Autorifle.tools.1.label>
+
+  <!-- EN: warcasket autorifle bullet -->
+  <VFEP_Bullet_WarcasketAutorifle.label>пуля автопушки мертвеца</VFEP_Bullet_WarcasketAutorifle.label>
+
+  <!-- EN: warcasket uranium slug rifle -->
+  <VFEP_WarcasketGun_UraniumSlugRifle.label>урановая винтовка мертвеца</VFEP_WarcasketGun_UraniumSlugRifle.label>
+  <!-- EN: A portable version of the uranium slug cannon designed for use by a warcasket. Due to a shortened barrel it has less penetration, worse recoil and damage compared to the turreted version. However, it lacks the minimum range requirement thanks to a human operator and has better mid-range performance. -->
+  <VFEP_WarcasketGun_UraniumSlugRifle.description>Переносная версия снайперской турели для использования с бронёй мертвеца. На неё установлен укороченный ствол, из-за которого увеличен разброс, снижено пробитие брони и урон. Однако лишена минимальной дистанции стрельбы и, потому, более эффективная на средних дистанциях.</VFEP_WarcasketGun_UraniumSlugRifle.description>
+  <!-- EN: warcasket uranium slug rifle -->
+  <VFEP_WarcasketGun_UraniumSlugRifle.verbs.Verb_Shoot.label>урановая винтовка мертвеца</VFEP_WarcasketGun_UraniumSlugRifle.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>приклад</VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_UraniumSlugRifle.tools.1.label>ствол</VFEP_WarcasketGun_UraniumSlugRifle.tools.1.label>
+
+  <!-- EN: uranium slug -->
+  <VFEP_Bullet_WarcasketUraniumSlugRifle.label>урановая пуля</VFEP_Bullet_WarcasketUraniumSlugRifle.label>
+
+  <!-- EN: warcasket slugthrower -->
+  <VFEP_WarcasketGun_Slugthrower.label>пулевик мертвеца</VFEP_WarcasketGun_Slugthrower.label>
+  <!-- EN: An upscaled version of the pump shotgun designed for use by a warcasket. Each cartridge fired contains 4 pellets larger than slugs from a regular-sized shotgun, giving it better range, armor penetration and much better damage. The recoil is insane though, even for a warcasket’s recoil damping system. -->
+  <VFEP_WarcasketGun_Slugthrower.description>Увеличенный в размерах помповый дробовик для использования с бронёй мертвеца. Каждый патрон имеет на 4 дробины больше и, потому, обладает большей дальностью, пробитием брони и уроном. К сожалению, отдача этого дробовика просто безумна даже для системы стабилизации брони мертвеца.</VFEP_WarcasketGun_Slugthrower.description>
+  <!-- EN: warcasket slugthrower -->
+  <VFEP_WarcasketGun_Slugthrower.verbs.Verb_Shoot.label>пулевик мертвеца</VFEP_WarcasketGun_Slugthrower.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_Slugthrower.tools.0.label>приклад</VFEP_WarcasketGun_Slugthrower.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_Slugthrower.tools.1.label>ствол</VFEP_WarcasketGun_Slugthrower.tools.1.label>
+
+  <!-- EN: warcasket slugthrower blast -->
+  <VFEP_Bullet_WarcasketSlugthrower.label>выстрел пулевика мертвеца</VFEP_Bullet_WarcasketSlugthrower.label>
+
+  <!-- EN: warcasket minigun -->
+  <VFEP_WarcasketGun_Minigun.label>миниган мертвеца</VFEP_WarcasketGun_Minigun.label>
+  <!-- EN: An upscaled version of the minigun designed for use by a warcasket. It uses larger caliber rounds which are poorly made en masse due to how many rounds need to be manufactured. Thus, it has a slower rate of fire and armor penetration, but who cares because no one wants to be on the receiving end of this amount of dakka. -->
+  <VFEP_WarcasketGun_Minigun.description>Увеличенная в размерах версия минигана для использования с бронёй мертвеца. Она использует больший калибр, который, из-за большого потребления, имеет посредственное качество. Это приводит к меньшей скорострельности и пробитию брони, но разве это имеет значение при таком количестве дакки?</VFEP_WarcasketGun_Minigun.description>
+  <!-- EN: warcasket minigun -->
+  <VFEP_WarcasketGun_Minigun.verbs.Verb_Shoot.label>миниган мертвеца</VFEP_WarcasketGun_Minigun.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_Minigun.tools.0.label>приклад</VFEP_WarcasketGun_Minigun.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_Minigun.tools.1.label>ствол</VFEP_WarcasketGun_Minigun.tools.1.label>
+
+  <!-- EN: warcasket minigun bullet -->
+  <VFEP_Bullet_WarcasketMinigun.label>пуля минигана мертвеца</VFEP_Bullet_WarcasketMinigun.label>
+
+  <!-- EN: warcasket grenade launcher -->
+  <VFEP_WarcasketGun_GrenadeLauncher.label>гранатомёт мертвеца</VFEP_WarcasketGun_GrenadeLauncher.label>
+  <!-- EN: An upscaled version of the grenade launcher designed for use by a warcasket. A straight upgrade, it fires in bursts of 3 and benefits from recoil damping for faster recovery and better range. Like all launchers though, it has a worse miss radius compared to a hand-thrown grenade. -->
+  <VFEP_WarcasketGun_GrenadeLauncher.description>Увеличенная в размерах версия гранатомёта для использования с бронёй мертвеца. Очевидное улучшение, позволяющее стрелять очередями по 3 гранаты, которая приводит к уменьшению отдачи, снижению времени между выстрелами и увеличению радиуса стрельбы. Но, как и все гранатомёты, имеет больший радиус разброса, чем у ручных гранат.</VFEP_WarcasketGun_GrenadeLauncher.description>
+  <!-- EN: warcasket grenade launcher -->
+  <VFEP_WarcasketGun_GrenadeLauncher.verbs.Verb_Shoot.label>гранатомёт мертвеца</VFEP_WarcasketGun_GrenadeLauncher.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_GrenadeLauncher.tools.0.label>приклад</VFEP_WarcasketGun_GrenadeLauncher.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_GrenadeLauncher.tools.1.label>ствол</VFEP_WarcasketGun_GrenadeLauncher.tools.1.label>
+
+  <!-- EN: warcasket heavy flamer -->
+  <VFEP_WarcasketGun_HeavyFlamer.label>огнемёт мертвеца</VFEP_WarcasketGun_HeavyFlamer.label>
+  <!-- EN: An upscaled version of the heavy flamer designed for use by a warcasket. Thanks to the twin barrels and larger heat sink, it can spit out two jets of flames while also needing less time to prevent overheating. -->
+  <VFEP_WarcasketGun_HeavyFlamer.description>Увеличенная в размерах версия тяжёлого огнемёта для использования с бронёй мертвеца. Благодаря двум стволам и большим радиаторам, может выпускать в два раза больше огневой мощи и быстрее охлаждаться.</VFEP_WarcasketGun_HeavyFlamer.description>
+  <!-- EN: warcasket heavy flamer -->
+  <VFEP_WarcasketGun_HeavyFlamer.verbs.Verb_Shoot.label>огнемёт мертвеца</VFEP_WarcasketGun_HeavyFlamer.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_HeavyFlamer.tools.0.label>приклад</VFEP_WarcasketGun_HeavyFlamer.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_HeavyFlamer.tools.1.label>ствол</VFEP_WarcasketGun_HeavyFlamer.tools.1.label>
+
+  <!-- EN: warcasket charge lance -->
+  <VFEP_WarcasketGun_ChargeLance.label>энергокопьё мертвеца</VFEP_WarcasketGun_ChargeLance.label>
+  <!-- EN: A terror on the battlefield, the charge lance received a massive upgrade for warcasket use. A considerably more powerful energy source gives it superior stopping power, able to fire multiple larger projectiles at a greater range with improved accuracy and penetration. -->
+  <VFEP_WarcasketGun_ChargeLance.description>Ужас поля боя — энергетическое копьё получило мощное улучшение, став оружием для брони мертвеца. Гораздо более мощный источник энергии дал превосходную останавливающую способность, значительную дальность с улучшенной точностью и проникающей способностью, а также возможность запускать сразу несколько больших снарядов.</VFEP_WarcasketGun_ChargeLance.description>
+  <!-- EN: warcasket charge lance -->
+  <VFEP_WarcasketGun_ChargeLance.verbs.Verb_Shoot.label>энергокопьё мертвеца</VFEP_WarcasketGun_ChargeLance.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_ChargeLance.tools.0.label>приклад</VFEP_WarcasketGun_ChargeLance.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_ChargeLance.tools.1.label>ствол</VFEP_WarcasketGun_ChargeLance.tools.1.label>
+
+  <!-- EN: warcasket charge lance shot -->
+  <VFEP_Bullet_WarcasketChargeLance.label>снаряд из энергокопья</VFEP_Bullet_WarcasketChargeLance.label>
+
+  <!-- EN: warcasket handheld cannon -->
+  <VFEP_WarcasketGun_HandheldCannon.label>ручная пушка мертвеца</VFEP_WarcasketGun_HandheldCannon.label>
+  <!-- EN: Essentially a handheld smoothbore mortar that fires explosives in an arc, able to bypass enemy fortifications. Made by those who wanted to combine ancient naval warfare with modern technology. The accuracy is abysmal but the onboard fabricator ensures that artillery fire can be provided without ever needing a resupply. -->
+  <VFEP_WarcasketGun_HandheldCannon.description>Специальное ручное гладкоствольное орудие, выпускающее снаряды по дуге, над вражескими укреплениями. Сделано специально для тех, кто хотел совместить древнее корабельное оружие и современные технологии. Точность такого совмещения кошмарная, но, благодаря встроенному сборщику ядер, можно стрелять сколько угодно не беспокоясь о пополнении боезапаса.</VFEP_WarcasketGun_HandheldCannon.description>
+  <!-- EN: warcasket handheld cannon -->
+  <VFEP_WarcasketGun_HandheldCannon.verbs.Verb_Shoot.label>ручная пушка мертвеца</VFEP_WarcasketGun_HandheldCannon.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_HandheldCannon.tools.0.label>приклад</VFEP_WarcasketGun_HandheldCannon.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_HandheldCannon.tools.1.label>ствол</VFEP_WarcasketGun_HandheldCannon.tools.1.label>
+
+  <!-- EN: cannonball -->
+  <VFEP_Bullet_HandheldCannonCannonball.label>ядро</VFEP_Bullet_HandheldCannonCannonball.label>
+
+  <!-- EN: warcasket charge blaster -->
+  <VFEP_WarcasketGun_ChargeBlaster.label>бластер мертвеца</VFEP_WarcasketGun_ChargeBlaster.label>
+  <!-- EN: Essentially an upscaled charge minigun designed to be used by a warcasket. While firing fewer projectiles in each burst, the ammunition has been improved with explosive payloads. Designed as a support weapon that completely invalidates cover for the unlucky bastards on the receiving end. -->
+  <VFEP_WarcasketGun_ChargeBlaster.description>Специальная увеличенная в размерах версия энергетического минигана для использования с бронёй мертвеца. Не смотря на то, что количество выпускаемых снарядов очередью уменьшилось, сами они были усилены взрывающейся частью. Оружие предназначено для огневой поддержки и полной нейтрализации укрытий тех невезучих ублюдков.</VFEP_WarcasketGun_ChargeBlaster.description>
+  <!-- EN: warcasket charge blaster -->
+  <VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>бластер мертвеца</VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <VFEP_WarcasketGun_ChargeBlaster.tools.0.label>приклад</VFEP_WarcasketGun_ChargeBlaster.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEP_WarcasketGun_ChargeBlaster.tools.1.label>ствол</VFEP_WarcasketGun_ChargeBlaster.tools.1.label>
+
+  <!-- EN: warcasket charge blaster shot -->
+  <VFEP_Bullet_WarcasketChargeBlaster.label>сгусток энергии</VFEP_Bullet_WarcasketChargeBlaster.label>
+
+</LanguageData>

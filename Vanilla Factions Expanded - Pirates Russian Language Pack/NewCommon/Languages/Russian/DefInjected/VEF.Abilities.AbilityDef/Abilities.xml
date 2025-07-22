@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: grappling hook -->
+  <VFEP_GrapplingHook.label>абордажный крюк</VFEP_GrapplingHook.label>
+  <!-- EN: Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again. -->
+  <VFEP_GrapplingHook.description>Зацепиться абордажным крюком за стены и скалы, давая возможность быстро добраться до желаемого места. Его не нужно перезаряжать, но потребуется подождать сворачивания верёвки.</VFEP_GrapplingHook.description>
+  <VFEP_GrapplingHook.jobReportString>Использует способность: {0}</VFEP_GrapplingHook.jobReportString>
+  <VFEP_GrapplingHook.verbProperties.label>абордажный крюк</VFEP_GrapplingHook.verbProperties.label>
+  <VFEP_GrapplingHook.modExtensions.0.labelUnloaded>перезарядка</VFEP_GrapplingHook.modExtensions.0.labelUnloaded>
+
+  <!-- EN: Siege Mode -->
+  <VFEP_SiegeMode.label>осадный режим</VFEP_SiegeMode.label>
+  <!-- EN: Drill yourself into the ground in order to gain more stability and turn yourself into a stationary artillery unit, increasing the attack range and reload efficiency drastically. -->
+  <VFEP_SiegeMode.description>Врыться в землю, чтобы повысить устойчивость и превратить себя в стационарное орудие, повысив дальность стрельбы и скорость перезарядки.</VFEP_SiegeMode.description>
+  <VFEP_SiegeMode.jobReportString>Использует способность: {0}</VFEP_SiegeMode.jobReportString>
+  <VFEP_SiegeMode.verbProperties.label>осадный режим</VFEP_SiegeMode.verbProperties.label>
+
+  <!-- EN: Power jump -->
+  <VFEP_PowerJump.label>силовой прыжок</VFEP_PowerJump.label>
+  <!-- EN: Use shoulder-mounted jump packs to travel a short distance and create a small explosion at both start and end of the flight. -->
+  <VFEP_PowerJump.description>Использовать наплечные ускорители, чтобы путешествовать на короткие расстояния. Создаёт небольшие взрывы в начальной и конечной точках полёта.</VFEP_PowerJump.description>
+  <VFEP_PowerJump.jobReportString>Использует способность: {0}</VFEP_PowerJump.jobReportString>
+  <VFEP_PowerJump.verbProperties.label>силовой прыжок</VFEP_PowerJump.verbProperties.label>
+
+  <!-- EN: Blast off -->
+  <VFEP_BlastOff.label>взлёт</VFEP_BlastOff.label>
+  <!-- EN: Fire a large propulsion engine strapped to the back of your armor and designate a location on the world map to drop pod into. This will create a large explosion at the destination, but will most likely leave you stranded without fuel for the trip back. -->
+  <VFEP_BlastOff.description>Запустить наспинный пропульсорный двигатель для отправки в указанное место на карте мира. Это создаст большой взрыв в точке прибытия. Скорее всего топлива на обратный путь не останется.</VFEP_BlastOff.description>
+  <VFEP_BlastOff.jobReportString>Использует способность: {0}</VFEP_BlastOff.jobReportString>
+  <VFEP_BlastOff.verbProperties.label>взлёт</VFEP_BlastOff.verbProperties.label>
+</LanguageData>
