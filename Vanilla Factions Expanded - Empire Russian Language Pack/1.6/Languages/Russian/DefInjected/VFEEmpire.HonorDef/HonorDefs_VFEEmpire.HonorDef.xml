@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: First of {PAWN_possessive} Name -->
+  <VFEE_FirstOfName.label>{PAWN_gender ? Первый : Первая} своего имени</VFEE_FirstOfName.label>
+  <!-- EN: Every noble person has +5 opinion of this pawn. -->
+  <VFEE_FirstOfName.description>Каждый знатный человек получает +5 к мнению об этом персонаже.</VFEE_FirstOfName.description>
+  <!-- EN: The Great -->
+  <VFEE_TheGreat.label>{PAWN_gender ? Великий : Великая}</VFEE_TheGreat.label>
+  <!-- EN: +5 mood -->
+  <VFEE_TheGreat.description>+5 к настроению</VFEE_TheGreat.description>
+  <!-- EN: Chosen of {FACTION_name} -->
+  <VFEE_Chosen.label>{PAWN_gender ? Избранный : Избранная} из {FACTION_name}</VFEE_Chosen.label>
+  <!-- EN: +10 Opinion from every pawn of {FACTION_name}. +10 Opinion about every pawn of {FACTION_name}. -->
+  <VFEE_Chosen.description>Все представители фракции {FACTION_name} получают +10 к мнению об этом персонаже. Этот персонаж получает +10 к мнению о всех представителях фракции {FACTION_name}.</VFEE_Chosen.description>
+  <!-- EN: Destroyer of {FACTION_name} -->
+  <VFEE_Destroyer.label>Уничтожитель {FACTION_name}</VFEE_Destroyer.label>
+  <!-- EN: +10% Trade Price Improvement with Enemies of {FACTION_name}. -->
+  <VFEE_Destroyer.description>Улучшение торговых цен на 10% с врагами фракции {FACTION_name}.</VFEE_Destroyer.description>
+  <!-- EN: {RANK} of {SETTLEMENT_label} -->
+  <VFEE_LordOf.label>{RANK} {SETTLEMENT_label}</VFEE_LordOf.label>
+  <!-- EN: +1 Honor every 5 days when {PAWN_pronoun} is in {SETTLEMENT_label}. -->
+  <VFEE_LordOf.description>+1 ед. милости короны каждые 5 дней, пока этот персонаж находятся в {SETTLEMENT_label}.</VFEE_LordOf.description>
+  <!-- EN: Ruler of {SETTLEMENT_label} -->
+  <VFEE_RulerOf.label>Правитель {SETTLEMENT_label}</VFEE_RulerOf.label>
+  <!-- EN: Tithe collection speed of {SETTLEMENT_label} is doubled. -->
+  <VFEE_RulerOf.description>Скорость накопления десятины поселением {SETTLEMENT_label} удвоена.</VFEE_RulerOf.description>
+  <!-- EN: Wielder of the {WEAPON_label} -->
+  <VFEE_WieldOfWeapon.label>{PAWN_gender ? Хозяин : Хозяйка} {WEAPON_label}</VFEE_WieldOfWeapon.label>
+  <!-- EN: 50% chance of +1 Honor for every kill with {WEAPON_label}. -->
+  <VFEE_WieldOfWeapon.description>50% шанс получения 1 ед. милости короны за каждое убийство, совершённое оружием {WEAPON_label}.</VFEE_WieldOfWeapon.description>
+  <!-- EN: Patron of Arts -->
+  <VFEE_PatronOfArts.label>{PAWN_gender ? Покровитель : Покровительница} искусств</VFEE_PatronOfArts.label>
+  <!-- EN: +3 Honor after successful art exhibition -->
+  <VFEE_PatronOfArts.description>+3 ед. милости короны после успешной выставки</VFEE_PatronOfArts.description>
+  <!-- EN: {CHILD} of {PARENT_labelShort} -->
+  <VFEE_ChildOf.label>{CHILD} {PARENT_labelShort}</VFEE_ChildOf.label>
+  <!-- EN: Opinion of {PARENT_labelShort} about {PAWN_labelShort} is locked at 100. Opinion of {PAWN_labelShort} about {PARENT_labelShort} is locked at 100. -->
+  <VFEE_ChildOf.description>Мнение {PARENT_labelShort} о {PAWN_labelShort} всегда равняется 100. Мнение {PAWN_labelShort} о {PARENT_labelShort} также равно 100.</VFEE_ChildOf.description>
+  <!-- EN: The Marksman -->
+  <VFEE_Marksman.label>Стрелок</VFEE_Marksman.label>
+  <!-- EN: Shooting skill never decays. -->
+  <VFEE_Marksman.description>Уровень владения навыком Дальнего боя не будет снижаться.</VFEE_Marksman.description>
+  <!-- EN: The Warrior -->
+  <VFEE_Warrior.label>{PAWN_gender ? Воитель : Воительница}</VFEE_Warrior.label>
+  <!-- EN: Melee skill never decays. -->
+  <VFEE_Warrior.description>Уровень владения навыком Ближнего боя не будет снижаться.</VFEE_Warrior.description>
+  <!-- EN: The Architect -->
+  <VFEE_Architect.label>Архитектор</VFEE_Architect.label>
+  <!-- EN: Construction skill never decays. -->
+  <VFEE_Architect.description>Уровень владения навыком Строительства не будет снижаться.</VFEE_Architect.description>
+  <!-- EN: The Miner -->
+  <VFEE_Miner.label>Шахтёр</VFEE_Miner.label>
+  <!-- EN: Mining skill never decays. -->
+  <VFEE_Miner.description>Уровень владения навыком Горного дела не будет снижаться.</VFEE_Miner.description>
+  <!-- EN: The Chef -->
+  <VFEE_Chef.label>Шеф-повар</VFEE_Chef.label>
+  <!-- EN: Cooking skill never decays. -->
+  <VFEE_Chef.description>Уровень владения навыком Кулинарии не будет снижаться.</VFEE_Chef.description>
+  <!-- EN: The Gardener -->
+  <VFEE_Gardener.label>Садовод</VFEE_Gardener.label>
+  <!-- EN: Plants skill never decays. -->
+  <VFEE_Gardener.description>Уровень владения навыком Растениеводства не будет снижаться.</VFEE_Gardener.description>
+  <!-- EN: The Rancher -->
+  <VFEE_Rancher.label>Скотовод</VFEE_Rancher.label>
+  <!-- EN: Animals skill never decays. -->
+  <VFEE_Rancher.description>Уровень владения навыком Животноводства не будет снижаться.</VFEE_Rancher.description>
+  <!-- EN: The Craftsman -->
+  <VFEE_Craftsman.label>Ремесленник</VFEE_Craftsman.label>
+  <!-- EN: Crafting skill never decays. -->
+  <VFEE_Craftsman.description>Уровень владения навыком Ремесла не будет снижаться.</VFEE_Craftsman.description>
+  <!-- EN: The Artist -->
+  <VFEE_Artist.label>{PAWN_gender ? Художник : Художница}</VFEE_Artist.label>
+  <!-- EN: Artistic skill never decays. -->
+  <VFEE_Artist.description>Уровень владения навыком Искусства не будет снижаться.</VFEE_Artist.description>
+  <!-- EN: The Healer -->
+  <VFEE_Healer.label>Лекарь</VFEE_Healer.label>
+  <!-- EN: Medicine skill never decays. -->
+  <VFEE_Healer.description>Уровень владения навыком Медицины не будет снижаться.</VFEE_Healer.description>
+  <!-- EN: The Negotiator -->
+  <VFEE_Negotiator.label>Переговорщик</VFEE_Negotiator.label>
+  <!-- EN: Social skill never decays. -->
+  <VFEE_Negotiator.description>Уровень владения навыком Общения не будет снижаться.</VFEE_Negotiator.description>
+  <!-- EN: The Intellectual -->
+  <VFEE_Intellectual.label>Интеллектуал</VFEE_Intellectual.label>
+  <!-- EN: Intellectual skill never decays. -->
+  <VFEE_Intellectual.description>Уровень владения навыком Умственного труда не будет снижаться.</VFEE_Intellectual.description>
+</LanguageData>

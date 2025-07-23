@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+		questName(sameQuestsCount==0)->[asker_nameDef]’s visit
+		questName->hosting [lodgerIndef]
+		questName->[lodgerIndef] visit
+		lodgerIndef(nobleCount==1)->a royal
+		lodgerIndef(nobleCount==1)->a noble
+		lodgerIndef(nobleCount>=2)->royals
+		lodgerIndef(nobleCount>=2)->nobles
+  -->
+  <VFEE_NobleVisit.questNameRules.rulesStrings>
+		<li>questName(sameQuestsCount==0)->визит [asker_nameDef]</li>
+		<li>questName->приём аристократа</li>
+		<li>questName->визит дворянина</li>
+		<li>lodgerIndef(nobleCount==1)->дворянин</li>
+		<li>lodgerIndef(nobleCount==1)->аристократ</li>
+		<li>lodgerIndef(nobleCount>=2)->дворяне</li>
+		<li>lodgerIndef(nobleCount>=2)->аристократы</li>
+  </VFEE_NobleVisit.questNameRules.rulesStrings>
+  <!-- EN: 
+		lodgersLabel->noble
+		lodgersLabelPlural->nobles
+		lodgersDef(nobleCount==1)->[lodgers0_nameDef]
+		lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]
+		joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]
+		specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> You'll need to satisfy any special royal needs the [lodgersLabelPlural] may have.
+		specialNeedsExplanation->
+		theirHisHer(nobleCount==1)->[lodgers0_possessive]
+		theirHisHer(nobleCount>=2)->their
+		lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]
+		lodgersPronoun(nobleCount>=2)->they
+		lodgersWasWere(nobleCount==1)->was
+		lodgersWasWere(nobleCount>=2)->were
+		appreciateAppreciates(nobleCount==1)->appreciates
+		appreciateAppreciates(nobleCount>=2)->appreciate
+		questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], satisfy [asker_possessive] royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_royalTitleInCurrentFaction] will bring two of [asker_possessive] personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.
+		questDescription(nobleCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], and [asker_possessive] royal court of [nobleCountLessOne] nobles and satisfy their royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_nameFull] will bring two of his personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.
+		allyAllies(lodgersCountMinusOne==1)->ally
+		allyAllies(lodgersCountMinusOne>=2)->allies
+  -->
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+		<li>lodgersLabel->представитель знати</li>
+		<li>lodgersLabelPlural->представители знати</li>
+		<li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+		<li>lodgersDef(nobleCount>=2)->[lodgersLabelPlural]</li>
+		<li>joinerEnding->Вы сможете управлять [lodgersDef] так же, как и своими поселенцами.[specialNeedsExplanation]</li>
+		<li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> Вы должны будете удовлетворять все возможные особенные потребности ваших знатных гостей.</li>
+		<li>specialNeedsExplanation-></li>
+		<li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+		<li>theirHisHer(nobleCount>=2)->их</li>
+		<li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+		<li>lodgersPronoun(nobleCount>=2)->они</li>
+		<li>lodgersWasWere(nobleCount==1)->был</li>
+		<li>lodgersWasWere(nobleCount>=2)->были</li>
+		<li>appreciateAppreciates(nobleCount==1)->ценит</li>
+		<li>appreciateAppreciates(nobleCount>=2)->ценят</li>
+		<li>questDescription->[asker_nameFull], [asker_royalTitleInCurrentFaction] фракции [asker_faction_name] желает нанести традиционный визит в ваши владения. Пригласите [asker_possessive] к себе на [shuttleDelayTicks_duration], будьте к н[asker_objective] гостеприимны — и вы получите большое количество милости короны. Вам будет необходимо поддерживать настроение знатной особы выше [lodgersMoodThreshold_percent]. Для этого ей нужно будет предоставить все условия, например, роскошную спальню.\n\n[asker_royalTitleInCurrentFaction] привезёт с собой свою личную охрану, которую передаст под ваше командование. Вы будете должны расквартировать охранников, но [asker_royalTitleInCurrentFaction] не будет жаловаться, если кто-то из них будет недоволен или погибнет.\n\nВам нужно разместить посетителей в [map_definite] и не отправлять их куда-либо ещё. Если вы провалите задание или переедете в другое место, ваши отношения с [asker_nameFull] ухудшатся и вы потеряете некоторое количество милости короны.</li>
+		<li>questDescription(nobleCount>=2)->[asker_nameFull], [asker_royalTitleInCurrentFaction] фракции [asker_faction_name] желает нанести традиционный визит в ваши владения. Пригласите [asker_nameFull] и [asker_possessive] придворных к себе на [shuttleDelayTicks_duration], будьте к ним гостеприимны — и вы получите большое количество милости короны. Вам будет необходимо поддерживать настроение знатных особ выше [lodgersMoodThreshold_percent]. Для этого им нужно будет предоставить все условия, например, роскошные спальни.\n\n[asker_nameFull] привезёт с собой свою личную охрану, которую передаст под ваше командование. Вы будете должны расквартировать охранников, но [asker_royalTitleInCurrentFaction] не будет жаловаться, если кто-то из них будет недоволен или погибнет.\n\nВам нужно разместить посетителей в [map_definite] и не отправлять их куда-либо ещё. Если вы провалите задание или переедете в другое место, ваши отношения с [asker_nameFull] ухудшатся и вы потеряете некоторое количество милости короны.</li>
+		<li>allyAllies(lodgersCountMinusOne==1)->союзник</li>
+		<li>allyAllies(lodgersCountMinusOne>=2)->союзники</li>
+  </VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN: 
+		lastOrNot(nobleCount==1)->
+		lastOrNot(nobleCount>=2)->last
+		lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]
+		lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]
+		decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.
+		othersWillNotAccept->The {PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is} not willing to accept this
+		oneOfThe->one of the nobles you invited to stay with you
+		questOver->The quest '[resolvedQuestName]' is over.
+		letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].
+		lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested: Departure
+		lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]
+		letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.
+		lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure
+		lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]
+		letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.
+		lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure
+		lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]
+		letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.
+		lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure
+		lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]
+		letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.
+		lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure
+		lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]
+		ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed
+		ShuttleDestroyedLabel->[lodgersLabel] Shuttle destroyed: Departure
+		ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]
+		letterIntroBadMood->{SUBJECT_definite}, [oneOfThe], who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long.
+		nobleUnhappyLetterLabel->[lodgersLabel] unhappy
+		nobleUnhappyLetterText->[letterIntroBadMood]\n\n[decidedToLeave]
+		lodgerLeftNotAllHealthyLetterLabel->[lodgersLabel] : untreated
+		lodgerLeftNotAllHealthyLetterText->[lodgersLabel] left the map with injuries and wll not have fond memories of their visit
+		LetterLabelShuttleArrived->Shuttle arrived
+		LetterTextShuttleArrived->The shuttle has arrived to collect [asker_nameFull] and their court
+		lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] left healthy
+		lodgersLeavingLetterText->[asker_nameFull] thanks you for inviting them to stay at [map_definite] for these [questDurationTicks_duration].
+  -->
+  <VFEE_NobleVisit.questContentRules.rulesStrings>
+		<li>lastOrNot(nobleCount==1)-></li>
+		<li>lastOrNot(nobleCount>=2)-></li>
+		<li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+		<li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+		<li>decidedToLeave->[othersWillNotAccept] и {PAWNSALIVECOUNT_multiple ? решают : решает} покинуть вас.</li>
+		<li>othersWillNotAccept->{PAWNSALIVECOUNT_multiple ? остальные : оставшийся [lodgersLabel]} {PAWNSALIVECOUNT_multiple ? отказываются : отказывается} с этим мириться</li>
+		<li>oneOfThe->один из ваших гостей</li>
+		<li>questOver->Задание «[resolvedQuestName]» завершено.</li>
+		<li>letterIntroArrested->Вы арестовали {SUBJECT_definite}, {SUBJECT_gender ? одного : одну} из ваших гостей.</li>
+		<li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] арестован: уход</li>
+		<li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+		<li>letterIntroDeath->{SUBJECT_definite}, {SUBJECT_gender ? один: одна} из ваших гостей, {SUBJECT_gender ? погиб : погибла}.</li>
+		<li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] погиб(ли): уход</li>
+		<li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+		<li>letterIntroViolated->{SUBJECT_definite}, {SUBJECT_gender ? один : одна} из ваших гостей, {SUBJECT_gender ? был подвергнут : была подвергнута} несогласованному, надругательскому хирургическому вмешательству.</li>
+		<li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] подвергся недопустимой операции: уход</li>
+		<li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+		<li>letterIntroKidnapped->{SUBJECT_definite}, {SUBJECT_gender ? один: одна} из ваших гостей, {SUBJECT_gender ? был похищен : была похищена}.</li>
+		<li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] был похищен: уход</li>
+		<li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+		<li>letterIntroBanished->{SUBJECT_definite}, {SUBJECT_gender ? один: одна} из ваших гостей, {SUBJECT_gender ? был изгнан : была изгнана}.</li>
+		<li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] был изгнан: уход</li>
+		<li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+		<li>ShuttleDestroyedIntro->{SUBJECT_definite} был разрушен.</li>
+		<li>ShuttleDestroyedLabel->Челнок разрушен: уход</li>
+		<li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+		<li>letterIntroBadMood->{SUBJECT_definite}, {SUBJECT_gender ? один : одна} из ваших гостей, {SUBJECT_gender ? пробыл : пробыла} в настроении ниже минимальных [lodgersMoodThreshold] слишком долго.</li>
+		<li>nobleUnhappyLetterLabel->[lodgersLabel] недоволен</li>
+		<li>nobleUnhappyLetterText->[letterIntroBadMood]\n\n[decidedToLeave]</li>
+		<li>lodgerLeftNotAllHealthyLetterLabel->[lodgersLabel] оставлен без ухода</li>
+		<li>lodgerLeftNotAllHealthyLetterText->[lodgersLabel] уходит с ранениями и не будет приятно вспоминать этот визит.</li>
+		<li>LetterLabelShuttleArrived->Челнок прибыл</li>
+		<li>LetterTextShuttleArrived->Челнок прибыл, чтобы забрать [asker_nameFull] и [asker_pronoun] придворных.</li>
+		<li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] ушли в добром здравии.</li>
+		<li>lodgersLeavingLetterText->[asker_nameFull] благодарит вас за приглашение погостить в [map_definite] в течение этих [questDurationTicks_duration].</li>
+  </VFEE_NobleVisit.questContentRules.rulesStrings>
+</LanguageData>

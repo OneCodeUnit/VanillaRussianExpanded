@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: New Family -->
+  <VFEE_NewFamily.label>знатный род</VFEE_NewFamily.label>
+  <!-- EN: leader -->
+  <VFEE_NewFamily.leaderTitle>лидер</VFEE_NewFamily.leaderTitle>
+  <!-- EN: A colony of a royal family. -->
+  <VFEE_NewFamily.description>Ваш знатный род.</VFEE_NewFamily.description>
+  <!-- EN: imperial -->
+  <VFEE_NewFamily.pawnSingular>имперец</VFEE_NewFamily.pawnSingular>
+  <!-- EN: imperials -->
+  <VFEE_NewFamily.pawnsPlural>имперцы</VFEE_NewFamily.pawnsPlural>
+  <!-- EN: {0} from {1} are attacking your {2} -->
+  <VFEE_NewFamily.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEE_NewFamily.messageDefendersAttacking>
+</LanguageData>
