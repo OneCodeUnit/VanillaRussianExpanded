@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: acid spit -->
+	<VAEWaste_AcidBolt.label>кислотная слюна</VAEWaste_AcidBolt.label>
+	<!-- EN: {0} has been corroded to death. -->
+	<VAEWaste_AcidBolt.deathMessage>{0} {0_gender ? разъеден : разъедена} кислотой.</VAEWaste_AcidBolt.deathMessage>
+	<!-- EN: toxic sting -->
+	<VAEWaste_Sting.label>ядовитое жало</VAEWaste_Sting.label>
+	<!-- EN: {0} has been stung to death. -->
+	<VAEWaste_Sting.deathMessage>{0} {0_gender ? погиб : погибла} от яда.</VAEWaste_Sting.deathMessage>
+	<!-- EN: toxflu bite -->
+	<VAEWaste_FluBite.label>укус мусорной лихорадки</VAEWaste_FluBite.label>
+	<!-- EN: {0} has been bitten to death. -->
+	<VAEWaste_FluBite.deathMessage>{0} {0_gender ? погиб : погибла} от укуса.</VAEWaste_FluBite.deathMessage>
+	<!-- EN: ripping bite -->
+	<VAEWaste_RippingBite.label>разрывающий укус</VAEWaste_RippingBite.label>
+	<!-- EN: {0} has been bitten to death. -->
+	<VAEWaste_RippingBite.deathMessage>{0} {0_gender ? растерзан : растерзана}.</VAEWaste_RippingBite.deathMessage>
+	<!-- EN: {0} has been cut to death. -->
+	<VAEWaste_FluClaws.deathMessage>{0} {0_gender ? растерзан : растерзана}.</VAEWaste_FluClaws.deathMessage>
+	<!-- EN: toxflu claws -->
+	<VAEWaste_FluClaws.label>когти мусорной лихорадки</VAEWaste_FluClaws.label>
+</LanguageData>
