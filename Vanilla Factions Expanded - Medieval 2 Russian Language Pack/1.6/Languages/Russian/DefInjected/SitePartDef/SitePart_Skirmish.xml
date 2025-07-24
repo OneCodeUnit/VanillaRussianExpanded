@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: skirmish location -->
+  <VFEM_SkirmishSitePart.label>поле битвы</VFEM_SkirmishSitePart.label>
+  <!-- EN: A skirmish location. -->
+  <VFEM_SkirmishSitePart.description>Место сражения двух враждующих фракций.</VFEM_SkirmishSitePart.description>
+  <!-- EN: Entering {0} -->
+  <VFEM_SkirmishSitePart.approachingReportString>Выходит на {lookup: {0}; Case; 3}</VFEM_SkirmishSitePart.approachingReportString>
+  <!-- EN: Enter {0} -->
+  <VFEM_SkirmishSitePart.approachOrderString>Выйти на {lookup: {0}; Case; 3}</VFEM_SkirmishSitePart.approachOrderString>
+  <!-- EN: Siege camp in this area. -->
+  <VFEM_SkirmishSitePart.arrivedLetter>В этом месте расположено поле битвы.</VFEM_SkirmishSitePart.arrivedLetter>
+</LanguageData>

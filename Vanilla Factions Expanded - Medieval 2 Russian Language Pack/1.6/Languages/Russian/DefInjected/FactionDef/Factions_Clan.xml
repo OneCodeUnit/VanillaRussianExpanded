@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: rough clan -->
+  <VFEM2_ClanRough.label>суровый клан</VFEM2_ClanRough.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan values warlike dominance; it may be difficult to turn them into an ally. -->
+  <VFEM2_ClanRough.description>Эти люди обитают на планете очень давно. Согласно легендам, их предки упали на эту планету тысячи лет назад. Так или иначе, норды — воинственные люди, живущие за счёт чужих ресурсов, готовые, без каких-либо угрызений совести, забрать чужие богатства.\n\nВ отличии от других фракций, этот клан не такой технологически продвинутый, но способен стать ценным союзником или ужасным врагом, благодаря своей выносливости и дикому нраву.\n\nЭтот клан уважает грубую силу и военное доминирование. Добиться их расположения будет непросто.</VFEM2_ClanRough.description>
+  <!-- EN: nordspeople -->
+  <VFEM2_ClanRough.pawnSingular>норд</VFEM2_ClanRough.pawnSingular>
+  <!-- EN: nordspeople -->
+  <VFEM2_ClanRough.pawnsPlural>норды</VFEM2_ClanRough.pawnsPlural>
+  <!-- EN: jarl -->
+  <VFEM2_ClanRough.leaderTitle>ярл</VFEM2_ClanRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_ClanRough.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEM2_ClanRough.messageDefendersAttacking>
+  
+  <!-- EN: savage clan -->
+  <VFEM2_ClanSavage.label>свирепый клан</VFEM2_ClanSavage.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan wreaks havoc in surrounding settlements and takes any survivors into slavery - it will be impossible to become their ally! -->
+  <VFEM2_ClanSavage.description>Эти люди обитают на планете очень давно. Согласно легендам, их предки упали на эту планету тысячи лет назад. Так или иначе, норды — воинственные люди, живущие за счёт чужих ресурсов, готовые, без каких-либо угрызений совести, забрать чужие богатства.\n\nВ отличии от других фракций, этот клан не такой технологически продвинутый, но способен стать ценным союзником или ужасным врагом, благодаря своей выносливости и дикому нраву.\n\nЭтот клан разоряет окрестные поселения и забирает в рабство выживших — невозможно стать их союзником!</VFEM2_ClanSavage.description>
+  <!-- EN: nordspeople -->
+  <VFEM2_ClanSavage.pawnSingular>норд</VFEM2_ClanSavage.pawnSingular>
+  <!-- EN: nordspeople -->
+  <VFEM2_ClanSavage.pawnsPlural>норды</VFEM2_ClanSavage.pawnsPlural>
+  <!-- EN: jarl -->
+  <VFEM2_ClanSavage.leaderTitle>ярл</VFEM2_ClanSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_ClanSavage.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEM2_ClanSavage.messageDefendersAttacking>
+
+  <!-- EN: civil clan -->
+  <VFEM2_CivilClan.label>мирный клан</VFEM2_CivilClan.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan is more progressive than others, and is more likely to engage in trade and diplomacy with other factions. -->
+  <VFEM2_CivilClan.description>Эти люди обитают на планете очень давно. Согласно легендам, их предки упали на эту планету тысячи лет назад. Так или иначе, норды — воинственные люди, живущие за счёт чужих ресурсов, готовые, без каких-либо угрызений совести, забрать чужие богатства.\n\nВ отличии от других фракций, этот клан не такой технологически продвинутый, но способен стать ценным союзником или ужасным врагом, благодаря своей выносливости и дикому нраву.\n\nЭтот клан более цивилизован, чем другие, и более открыт к торговле и дипломатии.</VFEM2_CivilClan.description>
+  <!-- EN: nordspeople -->
+  <VFEM2_CivilClan.pawnSingular>норд</VFEM2_CivilClan.pawnSingular>
+  <!-- EN: nordspeople -->
+  <VFEM2_CivilClan.pawnsPlural>норды</VFEM2_CivilClan.pawnsPlural>
+  <!-- EN: jarl -->
+  <VFEM2_CivilClan.leaderTitle>ярл</VFEM2_CivilClan.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_CivilClan.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEM2_CivilClan.messageDefendersAttacking>
+</LanguageData>

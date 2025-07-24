@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: civil kingdom -->
+  <VFEM2_KingdomCivil.label>мирное королевство</VFEM2_KingdomCivil.label>
+  <!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is open to keeping trade relations good with other settlements to bolster their economic position. -->
+  <VFEM2_KingdomCivil.description>Эти люди живут здесь не так долго, как их собратья из племён. Предположительно, чужеземцы и некоторые представители племён пришли к средневековому образу жизни и решили объединиться.\n\nНесмотря на то, что в технологическом плане люди королевства уступают многим другим фракциям, они хорошо известны тем, что используют высокие укрепления для защиты своего имущества. Кроме этого они используют щиты и, в целом, сражаются более организованно.\n\nЭто королевство открыто для взаимовыгодной торговли с другими поселениями.</VFEM2_KingdomCivil.description>
+  <!-- EN: subject -->
+  <VFEM2_KingdomCivil.pawnSingular>подданный</VFEM2_KingdomCivil.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_KingdomCivil.pawnsPlural>подданные</VFEM2_KingdomCivil.pawnsPlural>
+  <!-- EN: king -->
+  <VFEM2_KingdomCivil.leaderTitle>король</VFEM2_KingdomCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_KingdomCivil.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEM2_KingdomCivil.messageDefendersAttacking>
+
+  <!-- EN: rough kingdom -->
+  <VFEM2_KingdomRough.label>воинственное королевство</VFEM2_KingdomRough.label>
+  <!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is ruled under a heavy hand and wishes to expand by laying the less fortunate to waste - though it is still possible to befriend them. -->
+  <VFEM2_KingdomRough.description>Эти люди живут здесь не так долго, как их собратья из племён. Предположительно, чужеземцы и некоторые представители племён пришли к средневековому образу жизни и решили объединиться.\n\nНесмотря на то, что в технологическом плане люди королевства уступают многим другим фракциям, они хорошо известны тем, что используют высокие укрепления для защиты своего имущества. Кроме этого они  используют щиты и, в целом, сражаются более организованно.\n\nЭто королевство находится в крепких руках и желает расширяться за счёт разорения менее удачливых. Однако с ними всё ещё можно наладить контакт.</VFEM2_KingdomRough.description>
+  <!-- EN: subject -->
+  <VFEM2_KingdomRough.pawnSingular>подданный</VFEM2_KingdomRough.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_KingdomRough.pawnsPlural>подданные</VFEM2_KingdomRough.pawnsPlural>
+  <!-- EN: king -->
+  <VFEM2_KingdomRough.leaderTitle>король</VFEM2_KingdomRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_KingdomRough.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEM2_KingdomRough.messageDefendersAttacking>
+
+  <!-- EN: savage kingdom -->
+  <VFEM2_KingdomSavage.label>свирепое королевство</VFEM2_KingdomSavage.label>
+  <!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is driven by a warband styled culture; you will not be able to ally with them! -->
+  <VFEM2_KingdomSavage.description>Эти люди живут здесь не так долго, как их собратья из племён. Предположительно, чужеземцы и некоторые представители племён пришли к средневековому образу жизни и решили объединиться.\n\nНесмотря на то, что в технологическом плане люди королевства уступают многим другим фракциям, они хорошо известны тем, что используют высокие укрепления для защиты своего имущества. Кроме этого они используют щиты и, в целом, сражаются более организованно.\n\nОбычаи и поведение жителей этого королевства больше похожи на поведение банды разбойников. Стать союзниками с ними невозможно!</VFEM2_KingdomSavage.description>
+  <!-- EN: subject -->
+  <VFEM2_KingdomSavage.pawnSingular>подданный</VFEM2_KingdomSavage.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_KingdomSavage.pawnsPlural>подданные</VFEM2_KingdomSavage.pawnsPlural>
+  <!-- EN: king -->
+  <VFEM2_KingdomSavage.leaderTitle>король</VFEM2_KingdomSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_KingdomSavage.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEM2_KingdomSavage.messageDefendersAttacking>
+</LanguageData>

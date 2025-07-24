@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: siege camp -->
+  <VFEM2_SiegeCampBase.label>осадный лагерь</VFEM2_SiegeCampBase.label>
+  <!-- EN: A siege camp. -->
+  <VFEM2_SiegeCampBase.description>Место, где расположен лагерь осаждающей стороны.</VFEM2_SiegeCampBase.description>
+  <!-- EN: Attacking {0} -->
+  <VFEM2_SiegeCampBase.approachingReportString>Нападает на {lookup: {0}; Case; 3}</VFEM2_SiegeCampBase.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <VFEM2_SiegeCampBase.approachOrderString>Напасть на {lookup: {0}; Case; 3}</VFEM2_SiegeCampBase.approachOrderString>
+  <!-- EN: Siege camp in this area. -->
+  <VFEM2_SiegeCampBase.arrivedLetter>В этом месте расположен осадный лагерь.</VFEM2_SiegeCampBase.arrivedLetter>
+</LanguageData>

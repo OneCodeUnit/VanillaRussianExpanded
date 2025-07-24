@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: New Kingdom -->
+  <VFEM2_PlayerKingdom.label>королевство</VFEM2_PlayerKingdom.label>
+  <!-- EN: A small kingdom. -->
+  <VFEM2_PlayerKingdom.description>Маленькое королевство.</VFEM2_PlayerKingdom.description>
+  <!-- EN: subject -->
+  <VFEM2_PlayerKingdom.pawnSingular>подданный</VFEM2_PlayerKingdom.pawnSingular>
+  <!-- EN: subjects -->
+  <VFEM2_PlayerKingdom.pawnsPlural>подданные</VFEM2_PlayerKingdom.pawnsPlural>
+  <!-- EN: leader -->
+  <VFEM2_PlayerKingdom.leaderTitle>король</VFEM2_PlayerKingdom.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEM2_PlayerKingdom.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEM2_PlayerKingdom.messageDefendersAttacking>
+</LanguageData>
