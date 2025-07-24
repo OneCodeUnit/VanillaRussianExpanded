@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: togas -->
+  <VFEC_Togas.label>тоги</VFEC_Togas.label>
+  <!-- EN: Craft togas, everyday wear of the citizens of the republic. -->
+  <VFEC_Togas.description>Пошив повседневной одежды — тог для жителей республики.</VFEC_Togas.description>
+  <!-- EN:
+    <li>subject->the fabric of society</li>
+    <li>subject_story->reclaimed the elegance and simplicity of the toga, the symbol of citizenship and refined taste</li>
+    <li>subject_gerund->draping the republic in the dignity and grace of its ancestors</li>
+  -->
+  <VFEC_Togas.generalRules.rulesStrings>
+    <li>subject->тоги</li>
+    <li>subject->ткань общества</li>
+    <li>subject_gen->тог</li>
+    <li>subject_gen->ткани общества</li>
+    <li>subject_dat->тогам</li>
+    <li>subject_dat->ткани общества</li>
+    <li>subject_pre_about->о тогах</li>
+    <li>subject_pre_about->о ткани общества</li>
+    <li>subject_story->{ANYPAWN_gender ? возродил : возродила} элегантность и простоту тоги — символа гражданства и утончённого вкуса</li>
+    <li>subject_gerund->{ANYPAWN_gender ? облачил : облачила} республику в достоинство и грацию предков</li>
+  </VFEC_Togas.generalRules.rulesStrings>
+
+  <!-- EN: temperature control -->
+  <VFEC_TemperatureControl.label>контроль температуры</VFEC_TemperatureControl.label>
+  <!-- EN: Make large passive coolers, a way to cool indoor spaces below freezing point without needing electricity, or hot stones, a primitive heater. -->
+  <VFEC_TemperatureControl.description>Большой примитивный пассивный охладитель, позволяющий опускать температуру в помещениях ниже нуля.</VFEC_TemperatureControl.description>
+  <!-- EN:
+    <li>subject->masters of elements</li>
+    <li>subject_story->harnessed natural methods to defy the whims of weather, creating spaces of comfort through passive coolers and hot stones</li>
+    <li>subject_gerund->cultivating havens of warmth and coolness, in defiance of the external world</li>
+  -->
+  <VFEC_TemperatureControl.generalRules.rulesStrings>
+    <li>subject->контроль температуры</li>
+    <li>subject->власть над стихиями</li>
+    <li>subject_gen->контроля температуры</li>
+    <li>subject_gen->власти над стихиями</li>
+    <li>subject_dat->контролю температуры</li>
+    <li>subject_dat->власти над стихиями</li>
+    <li>subject_pre_about->о контроле температуры</li>
+    <li>subject_pre_about->о власти над стихиями</li>
+    <li>subject_story->{ANYPAWN_gender ? использовал : использовала} природные методы для противодействия капризам погоды, создавая пространства комфорта с помощью пассивных охладителей и горячих камней</li>
+    <li>subject_gerund->{ANYPAWN_gender ? создал : создала} оазисы тепла и прохлады вопреки суровому внешнему миру</li>
+  </VFEC_TemperatureControl.generalRules.rulesStrings>
+
+  <!-- EN: meat drying -->
+  <VFEC_MeatDrying.label>сушка мяса</VFEC_MeatDrying.label>
+  <!-- EN: Construct meat drying racks, allowing you to preserve meat and create a roman delicacy. -->
+  <VFEC_MeatDrying.description>Стойки для сушки мяса, позволяющие продлить срок годности мяса и создать древнеримский деликатес.</VFEC_MeatDrying.description>
+  <!-- EN:
+    <li>subject->legacy of preservation</li>
+    <li>subject_story->revived the ancient art of meat drying, securing sustenance and delighting palates with flavors honed by time</li>
+    <li>subject_gerund->extending the bounty of the hunt through the wisdom of the ancients</li>
+  -->
+  <VFEC_MeatDrying.generalRules.rulesStrings>
+    <li>subject->сушка мяса</li>
+    <li>subject->наследие консервации</li>
+    <li>subject_gen->сушки мяса</li>
+    <li>subject_gen->наследия консервации</li>
+    <li>subject_dat->сушке мяса</li>
+    <li>subject_dat->наследию консервации</li>
+    <li>subject_pre_about->о сушке мяса</li>
+    <li>subject_pre_about->о наследии консервации</li>
+    <li>subject_story->{ANYPAWN_gender ? возродил : возродила} древнее искусство вяления мяса, обеспечивая пропитание и услаждая вкусовые рецепторы ароматами, отточенными временем</li>
+    <li>subject_gerund->{ANYPAWN_gender ? продлил : продлила} изобилие охоты благодаря мудрости древних</li>
+  </VFEC_MeatDrying.generalRules.rulesStrings>
+
+  <!-- EN: mosaics -->
+  <VFEC_Mosaics.label>мозаики</VFEC_Mosaics.label>
+  <!-- EN: Build excellent stone mosaics, utilising different colours and shapes to express beauty. Slow to construct. -->
+  <VFEC_Mosaics.description>Великолепные каменные мозаики различных цветов и форм. Требуют много времени.</VFEC_Mosaics.description>
+  <!-- EN:
+    <li>subject->mosaic of civilization</li>
+    <li>subject_story->crafted stone mosaics that capture the essence of beauty and narrative through color and form</li>
+    <li>subject_gerund->embedding the story of a people in the very stones that pave their path</li>
+  -->
+  <VFEC_Mosaics.generalRules.rulesStrings>
+    <li>subject->мозаики</li>
+    <li>subject->мозаика цивилизации</li>
+    <li>subject_gen->мозаик</li>
+    <li>subject_gen->мозаики цивилизации</li>
+    <li>subject_dat->мозаикам</li>
+    <li>subject_dat->мозаике цивилизации</li>
+    <li>subject_pre_about->о мозаиках</li>
+    <li>subject_pre_about->о мозаике цивилизации</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} каменные мозаики, передающие суть красоты и повествования через цвет и форму</li>
+    <li>subject_gerund->{ANYPAWN_gender ? запечатлел : запечатлела} историю народа в самих камнях, мостящих их путь</li>
+  </VFEC_Mosaics.generalRules.rulesStrings>
+
+  <!-- EN: thermaebath -->
+  <VFEC_Thermaebath.label>термы</VFEC_Thermaebath.label>
+  <!-- EN: Construct large thermaebath that uses steam geysers to warm up the water, allowing up to 8 people to bathe together with an occasional chance of group lovin’. -->
+  <VFEC_Thermaebath.description>Большие бани на паровых гейзерах, вмещающие в себя до 8 человек. Имеют некоторую вероятность привести к групповой близости.</VFEC_Thermaebath.description>
+  <!-- EN:
+    <li>subject->sanctuaries of steam</li>
+    <li>subject_story->constructed thermaebaths, communal havens of relaxation and warmth powered by the earth's breath</li>
+    <li>subject_gerund->fostering communal well-being and intimacy in the embrace of nature's warmth</li>
+  -->
+  <VFEC_Thermaebath.generalRules.rulesStrings>
+    <li>subject->термы</li>
+    <li>subject->святилища пара</li>
+    <li>subject_gen->терм</li>
+    <li>subject_gen->святилищ пара</li>
+    <li>subject_dat->термам</li>
+    <li>subject_dat->святилищам пара</li>
+    <li>subject_pre_about->о термах</li>
+    <li>subject_pre_about->о святилищах пара</li>
+    <li>subject_story->{ANYPAWN_gender ? построил : построила} термы — общественные оазисы расслабления и тепла, питаемые дыханием земли</li>
+    <li>subject_gerund->{ANYPAWN_gender ? создал : создала} благоприятную среду для общественного благополучия и близости в объятиях природного тепла</li>
+  </VFEC_Thermaebath.generalRules.rulesStrings>
+
+  <!-- EN: drama and comedy -->
+  <VFEC_DramaAndComedy.label>драма и комедия</VFEC_DramaAndComedy.label>
+  <!-- EN: Perform various plays on the theatre stage as a recreational activity. -->
+  <VFEC_DramaAndComedy.description>Выступления на сцене театра, на которых можно играть разные роли для отдыха и развлечения.</VFEC_DramaAndComedy.description>
+  <!-- EN:
+    <li>subject->the stage of life</li>
+    <li>subject_story->revived the timeless arts of drama and comedy, enriching the soul of the republic through performance and play</li>
+    <li>subject_gerund->mirroring the human condition, from tragedy to farce, on the communal stage</li>
+  -->
+  <VFEC_DramaAndComedy.generalRules.rulesStrings>
+    <li>subject->драма и комедия</li>
+    <li>subject->сцена жизни</li>
+    <li>subject_gen->драмы и комедии</li>
+    <li>subject_gen->сцены жизни</li>
+    <li>subject_dat->драме и комедии</li>
+    <li>subject_dat->сцене жизни</li>
+    <li>subject_pre_about->о драме и комедии</li>
+    <li>subject_pre_about->о сцене жизни</li>
+    <li>subject_story->{ANYPAWN_gender ? возродил : возродила} вечные искусства драмы и комедии, обогащая душу республики представлениями и играми</li>
+    <li>subject_gerund->{ANYPAWN_gender ? отразил : отразила} человеческое бытие — от трагедии до фарса — на общественной сцене</li>
+  </VFEC_DramaAndComedy.generalRules.rulesStrings>
+</LanguageData>

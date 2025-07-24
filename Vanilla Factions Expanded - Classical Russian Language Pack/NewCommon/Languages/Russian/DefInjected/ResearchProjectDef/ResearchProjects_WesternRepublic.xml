@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: heavy shield making -->
+  <VFEC_HeavyShieldMaking.label>тяжёлые щиты</VFEC_HeavyShieldMaking.label>
+  <!-- EN: Create heavy scuta shields typically associated with legionnaires. -->
+  <VFEC_HeavyShieldMaking.description>Скутумы — тяжёлые щиты, ассоциируемые с легионерами.</VFEC_HeavyShieldMaking.description>
+  <!-- EN:
+    <li>subject->bulwarks of the legion</li>
+    <li>subject_story->reinvigorated the tradition of heavy shield crafting, providing unmatched protection to those who hold the line</li>
+    <li>subject_gerund->forging the scuta shields, the steadfast guardians of the legionnaires</li>
+  -->
+  <VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+    <li>subject->тяжёлые щиты</li>
+    <li>subject->оплот легиона</li>
+    <li>subject_gen->тяжёлых щитов</li>
+    <li>subject_gen->оплота легиона</li>
+    <li>subject_dat->тяжёлым щитам</li>
+    <li>subject_dat->оплоту легиона</li>
+    <li>subject_pre_about->о тяжёлых щитах</li>
+    <li>subject_pre_about->об оплоте легиона</li>
+    <li>subject_story->{ANYPAWN_gender ? возродил : возродила} традицию изготовления тяжёлых щитов, обеспечив непревзойдённую защиту тем, кто держит оборону</li>
+    <li>subject_gerund->ковки скутумов — надёжных стражей легионеров</li>
+  </VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+
+  <!-- EN: legionary armaments -->
+  <VFEC_LegionaryArmaments.label>снабжение легиона</VFEC_LegionaryArmaments.label>
+  <!-- EN: Craft tents, javelins, spathas and daggers, constituting towards the legionary armory. -->
+  <VFEC_LegionaryArmaments.description>Палатки, метательные копья, спаты и кинжалы позволят войнам действовать эффективнее.</VFEC_LegionaryArmaments.description>
+  <!-- EN:
+    <li>subject->arsenal of the ancients</li>
+    <li>subject_story->mastered the fabrication of javelins, spathas, and daggers, ensuring the legion's versatility and readiness in battle</li>
+    <li>subject_gerund->equipping the legions with a diverse armory for conquest and defense</li>
+  -->
+  <VFEC_LegionaryArmaments.generalRules.rulesStrings>
+    <li>subject->снабжение легиона</li>
+    <li>subject->арсенал древних</li>
+    <li>subject_gen->снабжения легиона</li>
+    <li>subject_gen->арсенала древних</li>
+    <li>subject_dat->снабжению легиона</li>
+    <li>subject_dat->арсеналу древних</li>
+    <li>subject_pre_about->о снабжении легиона</li>
+    <li>subject_pre_about->об арсенале древних</li>
+    <li>subject_story->{ANYPAWN_gender ? освоил : освоила} изготовление метательных копий, спат и кинжалов, обеспечив универсальность легиона и готовность к бою</li>
+    <li>subject_gerund->{ANYPAWN_gender ? снабдил : снабдила} легионы разнообразным арсеналом для завоеваний и обороны</li>
+  </VFEC_LegionaryArmaments.generalRules.rulesStrings>
+
+  <!-- EN: legionary armor -->
+  <VFEC_LegionnaireArmor.label>доспех легионера</VFEC_LegionnaireArmor.label>
+  <!-- EN: Create heavy armor of legionaries, capable of withstanding a high degree of sharp damage. -->
+  <VFEC_LegionnaireArmor.description>Тяжёлая брона для легионеров, позволяющая сражаться несмотря на раны.</VFEC_LegionnaireArmor.description>
+  <!-- EN:
+    <li>subject->the iron skin</li>
+    <li>subject_story->crafted heavy armor that turns warriors into indomitable forces on the battlefield, capable of withstanding the fiercest strikes</li>
+    <li>subject_gerund->donning the legionnaires in armor that weaves invincibility with the threads of war</li>
+  -->
+  <VFEC_LegionnaireArmor.generalRules.rulesStrings>
+    <li>subject->доспех легионера</li>
+    <li>subject->железная кожа</li>
+    <li>subject_gen->доспеха легионера</li>
+    <li>subject_gen->железной кожи</li>
+    <li>subject_dat->доспеху легионера</li>
+    <li>subject_dat->железной коже</li>
+    <li>subject_pre_about->о доспехе легионера</li>
+    <li>subject_pre_about->о железной коже</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} тяжёлую броню, превращающую воинов в несокрушимую силу на поле боя, способную выдержать самые жестокие удары</li>
+    <li>subject_gerund->{ANYPAWN_gender ? облачил : облачила} легионеров в доспехи, сплетающие непобедимость с нитями войны</li>
+  </VFEC_LegionnaireArmor.generalRules.rulesStrings>
+
+  <!-- EN: centurion armor -->
+  <VFEC_CenturionArmor.label>доспех центуриона</VFEC_CenturionArmor.label>
+  <!-- EN: Smith suits of centurion armor, excellent for leading men into heroic battles. -->
+  <VFEC_CenturionArmor.description>Броня центуриона позволяет вести войнов за собой на подвиги.</VFEC_CenturionArmor.description>
+  <!-- EN:
+    <li>subject->mantle of command</li>
+    <li>subject_story->smithed suits of centurion armor, imbuing leaders with both protection and a distinguished presence</li>
+    <li>subject_gerund->clothing the ranks of leadership in armor befitting their valor and virtue</li>
+  -->
+  <VFEC_CenturionArmor.generalRules.rulesStrings>
+    <li>subject->доспех центуриона</li>
+    <li>subject->мантия командования</li>
+    <li>subject_gen->доспеха центуриона</li>
+    <li>subject_gen->мантии командования</li>
+    <li>subject_dat->доспеху центуриона</li>
+    <li>subject_dat->мантии командования</li>
+    <li>subject_pre_about->о доспехе центуриона</li>
+    <li>subject_pre_about->о мантии командования</li>
+    <li>subject_story->{ANYPAWN_gender ? выковал : выковала} доспехи центуриона, наделив командиров защитой и благородным видом</li>
+    <li>subject_gerund->{ANYPAWN_gender ? облачил : облачила} командные ряды в броню, достойную их доблести и добродетели</li>
+  </VFEC_CenturionArmor.generalRules.rulesStrings>
+
+  <!-- EN: scorpion -->
+  <VFEC_Scorpion.label>скорпионы</VFEC_Scorpion.label>
+  <!-- EN: Construct scorpions, a portable field artillery piece which doubles as a semi-automatic heavy crossbow. -->
+  <VFEC_Scorpion.description>Развёртывание переносной полевой артиллерии в виде сдвоенного полуавтоматического арбалета.</VFEC_Scorpion.description>
+  <!-- EN:
+    <li>subject->sting of the legion</li>
+    <li>subject_story->engineered scorpions, merging the precision of a crossbow with the destructive force of field artillery</li>
+    <li>subject_gerund->unleashing the lethal precision of ancient war machines upon the modern battlefield</li>
+  -->
+  <VFEC_Scorpion.generalRules.rulesStrings>
+    <li>subject->скорпионы</li>
+    <li>subject->жало легиона</li>
+    <li>subject_gen->скорпионов</li>
+    <li>subject_gen->жала легиона</li>
+    <li>subject_dat->скорпионам</li>
+    <li>subject_dat->жалу легиона</li>
+    <li>subject_pre_about->о скорпионах</li>
+    <li>subject_pre_about->о жале легиона</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} скорпионы, объединив точность арбалета с разрушительной силой полевой артиллерии</li>
+    <li>subject_gerund->{ANYPAWN_gender ? обрушил : обрушила} смертоносную точность древних боевых машин на современное поле боя</li>
+  </VFEC_Scorpion.generalRules.rulesStrings>
+
+  <!-- EN: beacons -->
+  <VFEC_Beacons.label>сигнальный огонь</VFEC_Beacons.label>
+  <!-- EN: Build large wooden pyres, that when lit on fire are guaranteed to summon friendly reinforcements. -->
+  <VFEC_Beacons.description>При помощи больших сигнальных костров можно подавать знаки для призыва подкреплений союзников.</VFEC_Beacons.description>
+  <!-- EN:
+    <li>subject->pyres of summoning</li>
+    <li>subject_story->constructed large wooden pyres, a signal to the skies that calls forth allies to the battlefield</li>
+    <li>subject_gerund->binding the fates of allies with flames that guide them to the fray</li>
+  -->
+  <VFEC_Beacons.generalRules.rulesStrings>
+    <li>subject->сигнальный огонь</li>
+    <li>subject->костры призыва</li>
+    <li>subject_gen->сигнального огня</li>
+    <li>subject_gen->костров призыва</li>
+    <li>subject_dat->сигнальному огню</li>
+    <li>subject_dat->кострам призыва</li>
+    <li>subject_pre_about->о сигнальном огне</li>
+    <li>subject_pre_about->о кострах призыва</li>
+    <li>subject_story->{ANYPAWN_gender ? воздвиг : воздвигла} большие деревянные костры — сигнал небесам, призывающий союзников на поле боя</li>
+    <li>subject_gerund->{ANYPAWN_gender ? связал : связала} судьбы союзников пламенем, которое ведёт их в бой</li>
+  </VFEC_Beacons.generalRules.rulesStrings>
+  
+</LanguageData>

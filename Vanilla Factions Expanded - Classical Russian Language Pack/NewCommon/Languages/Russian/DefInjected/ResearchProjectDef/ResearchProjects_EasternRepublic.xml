@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bronze working -->
+  <VFEC_BronzeWorking.label>производство бронзы</VFEC_BronzeWorking.label>
+  <!-- EN: Mix steel with stone chunks to create slightly weaker metal in large quantities. -->
+  <VFEC_BronzeWorking.description>Из стали и каменных обломков получается мягкий металл в больших количествах.</VFEC_BronzeWorking.description>
+  <!-- EN:
+    <li>subject->the alloy of antiquity</li>
+    <li>subject_story->discovered the alchemy of combining steel with stone to produce bronze, marking the dawn of a new era in metallurgy</li>
+    <li>subject_gerund->ushering in an age where metal becomes the backbone of progress and power</li>
+  -->
+  <VFEC_BronzeWorking.generalRules.rulesStrings>
+    <li>subject->производство бронзы</li>
+    <li>subject->сплав античности</li>
+    <li>subject_gen->производства бронзы</li>
+    <li>subject_gen->сплава античности</li>
+    <li>subject_dat->производству бронзы</li>
+    <li>subject_dat->сплаву античности</li>
+    <li>subject_pre_about->о производстве бронзы</li>
+    <li>subject_pre_about->о сплаве античности</li>
+    <li>subject_story->{ANYPAWN_gender ? открыл : открыла} алхимию соединения стали с камнем для получения бронзы, ознаменовав зарю новой эры в металлургии</li>
+    <li>subject_gerund->{ANYPAWN_gender ? положил : положила} начало эпохе, когда металл стал основой прогресса и силы</li>
+  </VFEC_BronzeWorking.generalRules.rulesStrings>
+
+  <!-- EN: crafting bench -->
+  <VFEC_CraftingBench.label>рабочий стол</VFEC_CraftingBench.label>
+  <!-- EN: Build a workbench for crafting simple things like clubs or bows. -->
+  <VFEC_CraftingBench.description>Рабочее место для создания простых вещей, как дубинки или луки.</VFEC_CraftingBench.description>
+  <!-- EN:
+    <li>subject->the artisan's foundation</li>
+    <li>subject_story->established crafting benches as the heart of production, where raw materials are transformed into tools and treasures</li>
+    <li>subject_gerund->carving the future with every crafted item, from the simplest club to the most precise bow</li>
+  -->
+  <VFEC_CraftingBench.generalRules.rulesStrings>
+    <li>subject->рабочий стол</li>
+    <li>subject->основа ремесленника</li>
+    <li>subject_gen->рабочего стола</li>
+    <li>subject_gen->основы ремесленника</li>
+    <li>subject_dat->рабочему столу</li>
+    <li>subject_dat->основе ремесленника</li>
+    <li>subject_pre_about->о рабочем столе</li>
+    <li>subject_pre_about->об основе ремесленника</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} верстаки как сердце производства, где сырые материалы превращаются в инструменты и сокровища</li>
+    <li>subject_gerund->{ANYPAWN_gender ? высекал : высекала} будущее каждым созданным предметом — от простейшей дубинки до точнейшего лука</li>
+  </VFEC_CraftingBench.generalRules.rulesStrings>
+
+  <!-- EN: cement making -->
+  <VFEC_CementMaking.label>производство цемента</VFEC_CementMaking.label>
+  <!-- EN: Construct a cement press, which allows you to create extremely durable stone material out of stone chunks. -->
+  <VFEC_CementMaking.description>Пресс для цемента позволяет создавать чрезвычайно прочный материал из обломков камней.</VFEC_CementMaking.description>
+  <!-- EN:
+    <li>subject->the bedrock of civilization</li>
+    <li>subject_story->innovated the creation of cement, turning stone into the durable foundation upon which empires are built</li>
+    <li>subject_gerund->laying the groundwork for enduring structures and monuments with the strength of cement</li>
+  -->
+  <VFEC_CementMaking.generalRules.rulesStrings>
+    <li>subject->производство цемента</li>
+    <li>subject->основа цивилизации</li>
+    <li>subject_gen->производства цемента</li>
+    <li>subject_gen->основы цивилизации</li>
+    <li>subject_dat->производству цемента</li>
+    <li>subject_dat->основе цивилизации</li>
+    <li>subject_pre_about->о производстве цемента</li>
+    <li>subject_pre_about->об основе цивилизации</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} цемент, превращая камень в прочную основу, на которой строятся империи</li>
+    <li>subject_gerund->{ANYPAWN_gender ? заложил : заложила} основу для прочных сооружений и монументов с помощью цемента</li>
+  </VFEC_CementMaking.generalRules.rulesStrings>
+
+  <!-- EN: wood-fired crematorium -->
+  <VFEC_WoodfiredCrematorium.label>крематорий</VFEC_WoodfiredCrematorium.label>
+  <!-- EN: Build a huge, wood-fired stone crematorium which vaporizes corpses with high temperatures. -->
+  <VFEC_WoodfiredCrematorium.description>Огромный дровяной каменный крематорий для сожжения тел.</VFEC_WoodfiredCrematorium.description>
+  <!-- EN:
+    <li>subject->purification by flame</li>
+    <li>subject_story->conceived the wood-fired crematorium, a testament to dealing with the departed in a manner that respects both cultural customs and sanitation needs</li>
+    <li>subject_gerund->embracing the cycle of life and death through the elemental purity of fire</li>
+  -->
+  <VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+    <li>subject->крематорий</li>
+    <li>subject->очищение огнём</li>
+    <li>subject_gen->крематория</li>
+    <li>subject_gen->очищения огнём</li>
+    <li>subject_dat->крематорию</li>
+    <li>subject_dat->очищению огнём</li>
+    <li>subject_pre_about->о крематории</li>
+    <li>subject_pre_about->об очищении огнём</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} дровяной крематорий — способ обращения с усопшими, который уважает культурные традиции и потребности в санитарии</li>
+    <li>subject_gerund->{ANYPAWN_gender ? принял : приняла} цикл жизни и смерти через первозданную чистоту огня</li>
+  </VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+
+  <!-- EN: tyrian production -->
+  <VFEC_TyrianProduction.label>пурпур</VFEC_TyrianProduction.label>
+  <!-- EN: Create a tyrian farm - a river-bank structure that dyes cloth, which can then be extracted in the form of extremely valuable royal fabric. -->
+  <VFEC_TyrianProduction.description>Речная ферма, позволяющая окрашивать ткани в ценящийся среди знати пурпурный цвет.</VFEC_TyrianProduction.description>
+  <!-- EN:
+    <li>subject->the hue of royalty</li>
+    <li>subject_story->cultivated tyrian farms along the riverbanks, mastering the art of dyeing cloth into royal fabric, a symbol of wealth and status</li>
+    <li>subject_gerund->weaving the fabric of society with colors that command respect and admiration</li>
+  -->
+  <VFEC_TyrianProduction.generalRules.rulesStrings>
+    <li>subject->пурпур</li>
+    <li>subject->оттенок королей</li>
+    <li>subject_gen->пурпура</li>
+    <li>subject_gen->оттенка королей</li>
+    <li>subject_dat->пурпуру</li>
+    <li>subject_dat->оттенку королей</li>
+    <li>subject_pre_about->о пурпуре</li>
+    <li>subject_pre_about->об оттенке королей</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} пурпурные фермы вдоль речных берегов, освоив искусство окрашивания тканей в королевские ткани — символ богатства и статуса</li>
+    <li>subject_gerund->{ANYPAWN_gender ? сплетал : сплетала} ткань общества цветами, которые внушают уважение и восхищение</li>
+  </VFEC_TyrianProduction.generalRules.rulesStrings>
+
+  <!-- EN: road building -->
+  <VFEC_RoadBuilding.label>прокладка дорог</VFEC_RoadBuilding.label>
+  <!-- EN: Construct paths, dirt roads and stone roads directly on the world map, allowing for faster caravan travel. -->
+  <VFEC_RoadBuilding.description>Прокладывание грунтовых, каменных дорог и простых троп на карте мира для ускорения караванов.</VFEC_RoadBuilding.description>
+  <!-- EN:
+    <li>subject->pathways of progress</li>
+    <li>subject_story->paved the way for civilization's expansion with the construction of roads, connecting communities and fostering trade</li>
+    <li>subject_gerund->tracing the arteries of trade and communication with each road built, propelling the civilization forward</li>
+  -->
+  <VFEC_RoadBuilding.generalRules.rulesStrings>
+    <li>subject->прокладка дорог</li>
+    <li>subject->пути прогресса</li>
+    <li>subject_gen->прокладки дорог</li>
+    <li>subject_gen->путей прогресса</li>
+    <li>subject_dat->прокладке дорог</li>
+    <li>subject_dat->путям прогресса</li>
+    <li>subject_pre_about->о прокладке дорог</li>
+    <li>subject_pre_about->о путях прогресса</li>
+    <li>subject_story->{ANYPAWN_gender ? проложил : проложила} путь к расширению цивилизации строительством дорог, соединяя общины и развивая торговлю</li>
+    <li>subject_gerund->{ANYPAWN_gender ? протянул : протянула} артерии торговли и связи с каждой построенной дорогой, двигая цивилизацию вперёд</li>
+  </VFEC_RoadBuilding.generalRules.rulesStrings>
+  
+</LanguageData>

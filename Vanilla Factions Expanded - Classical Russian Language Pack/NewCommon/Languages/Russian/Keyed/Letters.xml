@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Senator Joins: {0} -->
+  <VFEC.Letters.SenatorJoins>{0_numCase ? сенатор присоединился : сенатора присоединились : сенаторов присоединилось}</VFEC.Letters.SenatorJoins>
+  <!-- EN: {0}, a senator from {1}, has agreed to join you. This has unlocked the perk {2}. -->
+  <VFEC.Letters.SenatorJoins.Desc>{0} — сенатор из {replace: {1}; "Центральная Республика"-"центральной республики"; "Западная Республика"-"западной республики"; "Восточная Республика"-"восточной республики"}, присоединяется к вам. Это открывает привилегию «{2}».</VFEC.Letters.SenatorJoins.Desc>
+  <!-- EN: They have also shared some knowledge with you, automatically researching {0}. -->
+  <VFEC.Letters.SenatorJoins.Desc.Research>Республика также поделилась своими знаниями, что позволило автоматически завершить исследование «{0}».</VFEC.Letters.SenatorJoins.Desc.Research>
+  <!-- EN: Since you now have all senators from {0}, you have now unlocked the perk {1}. Additionally, perks will no longer be lost if a senator dies. -->
+  <VFEC.Letters.SenatorJoins.Desc.All>Собрав всех сенаторов из {replace: {0}; "Центральная Республика"-"центральной республики"; "Западная Республика"-"западной республики"; "Восточная Республика"-"восточной республики"}, вы открыли привилегию «{1}». Кроме того, привилегии, больше не пропадут из-за смерти сенатора.</VFEC.Letters.SenatorJoins.Desc.All>
+  <!-- EN: Finally, combining the knowledge of all {0} senators means you have automatically researched {1}. -->
+  <VFEC.Letters.SenatorJoins.Desc.All.Research>Собрав знания всех {0} сенаторов вы автоматически открыли «{1}».</VFEC.Letters.SenatorJoins.Desc.All.Research>
+  <!-- EN: Senator Lost: {0} -->
+  <VFEC.Letters.SenatorLost>Сенатор {0} потерян</VFEC.Letters.SenatorLost>
+  <!-- EN: {0}, a senator from {1}, has died in your care. {1} will no elect a new senator, who you will have to gain the favor of. As such, the perk {2} has been lost. -->
+  <VFEC.Letters.SenatorLost.Desc>{0} — сенатор из {replace: {1}; "Центральная Республика"-"центральной республики"; "Западная Республика"-"западной республики"; "Восточная Республика"-"восточной республики"}, умер, находясь под вашей защитой. {1} изберёт нового сенатора, с которым вам заново придётся налаживать связи. Кроме того, привилегия «{2}» более недоступна.</VFEC.Letters.SenatorLost.Desc>
+  <!-- EN: Tribute Recieved from {0} -->
+  <VFEC.Letters.Donation>Получен дар из {replace: {0}; "Центральная Республика"-"центральной республики"; "Западная Республика"-"западной республики"; "Восточная Республика"-"восточной республики"}</VFEC.Letters.Donation>
+  <!-- EN: {0} has provided tribute of {1}. -->
+  <VFEC.Letters.Donation.Desc>{0} предоставляет дар в размере {1}.</VFEC.Letters.Donation.Desc>
+  <!-- EN: Technology Gained: {0} -->
+  <VFEC.Letters.Researched>Получена технология: «{0}»</VFEC.Letters.Researched>
+  <!-- EN: {1} has recently made a breakthrough in their technological advancements, and they have shared the technology with you.
+Technology unlocked:
+{0} -->
+  <VFEC.Letters.Researched.Desc>{1} совершила технологический прорыв и желает поделиться им с вами.
+Получена технология:
+{0}</VFEC.Letters.Researched.Desc>
+</LanguageData>
