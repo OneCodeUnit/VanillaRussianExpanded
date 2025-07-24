@@ -28,7 +28,7 @@
   <!-- EN: {0} stored: -->
   <PipeSystem_ResourceStored>Хранится {lookup: {0}; Case; 1}:</PipeSystem_ResourceStored>
 
-  <!-- EN: Not connected to {}. -->
+  <!-- EN: Not connected to {0}. -->
   <PipeSystem_NotConnected>Не соединено с сетью {lookup: {0}; Case; 1}.</PipeSystem_NotConnected>
   <!-- EN: Net excess/stored in network: {0} {2}/d / {1} {2} -->
   <PipeSystem_ExcessStored>Избыток/добывается {lookup: {0}; Case; 1}: {2} / {1}</PipeSystem_ExcessStored>

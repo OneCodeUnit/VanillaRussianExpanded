@@ -28,7 +28,7 @@
   <!-- EN: {0} stored: -->
   <PipeSystem_ResourceStored>{replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} хранится:</PipeSystem_ResourceStored>
 
-  <!-- EN: Not connected to {}. -->
+  <!-- EN: Not connected to {0}. -->
   <PipeSystem_NotConnected>Не соединено с сетью {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"}.</PipeSystem_NotConnected>
   <!-- EN: {0} excess (stored) in network: -->
   <PipeSystem_ExcessStored>Излишков (запасов) {replace: {0}; "Глубтопливо"-"Глубтоплива"; "Химтопливо"-"Химтоплива"} в сети:</PipeSystem_ExcessStored>
