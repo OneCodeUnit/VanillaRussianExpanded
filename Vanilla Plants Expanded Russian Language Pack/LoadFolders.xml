@@ -1,5 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
+  <v1.1>
+    <li>1.3</li>
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">1.3/Succulents</li>
+    <li IfModActive="LadyCookie.Farmland">1.3/Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">1.3/Soil</li>
+    <li IfModActive="Archoran.Utils.VPEAutoPlow">1.3/AutoPlow</li>
+  </v1.1>
+  <v1.2>
+    <li>1.3</li>
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">1.3/Succulents</li>
+    <li IfModActive="LadyCookie.Farmland">1.3/Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">1.3/Soil</li>
+    <li IfModActive="Archoran.Utils.VPEAutoPlow">1.3/AutoPlow</li>
+  </v1.2>
   <v1.3>
     <li>1.3</li>
     <li IfModActive="VanillaExpanded.VPlantsESucculents">1.3/Succulents</li>
@@ -40,4 +54,18 @@
     <li IfModActive="Ludeon.RimWorld.Biotech">1.5/Biotech</li>
     <li IfModActive="VanillaExpanded.VPlantsEMushrooms">1.5/Mushrooms</li>
   </v1.5>
+  <v1.6>
+    <li>1.5</li>
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">1.5/Succulents</li>
+    <li IfModActive="LadyCookie.Farmland">1.5/Farmland</li>
+    <li IfModNotActive="LadyCookie.Farmland">1.5/Soil</li>
+    <li IfModActive="Archoran.Utils.VPEAutoPlow">1.5/AutoPlow</li>
+    <li IfModActive="VanillaExpanded.VPlantsEMore">1.5/More</li>
+    <li IfModActive="Ludeon.RimWorld.Ideology">1.5/Ideology</li>
+    <li IfModActive="VanillaExpanded.VCookE">1.5/Cooking</li>
+    <li IfModActive="OskarPotocki.VFE.Vikings, OskarPotocki.VFE.Medieval2">1.5/Vikings</li>
+    <li IfModActive="VanillaExpanded.VCookESushi">1.5/Sushi</li>
+    <li IfModActive="Ludeon.RimWorld.Biotech">1.5/Biotech</li>
+    <li IfModActive="VanillaExpanded.VPlantsEMushrooms">1.5/Mushrooms</li>
+  </v1.6>
 </loadFolders>
