@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: attacked harmless person -->
+  <VME_Violence_Honorable.stages.0.label>атакован невиновный</VME_Violence_Honorable.stages.0.label>
+  <!-- EN: I have used deadly force on a harmless adversary. This proves our strength and our resolve. -->
+  <VME_Violence_Honorable.stages.0.description>Я {PAWN_gender ? заставил : заставила} умереть невиновного. Именно так у нас доказывают силу и решимость!</VME_Violence_Honorable.stages.0.description>
+ 
+ <!-- EN: attacked harmless person -->
+  <VME_Violence_Disapproved.stages.0.label>атакован невиновный</VME_Violence_Disapproved.stages.0.label>
+  <!-- EN: I have used deadly force on a harmless adversary. This is wrong. -->
+  <VME_Violence_Disapproved.stages.0.description>Мои действия привели к смерти невиновного. Так не должно было быть.</VME_Violence_Disapproved.stages.0.description>
+  
+  <!-- EN: attacked person -->
+  <VME_Violence_Abhorrent.stages.0.label>атакован невиновный</VME_Violence_Abhorrent.stages.0.label>
+  <!-- EN: I have used deadly force on an adversary. It brings great shame. -->
+  <VME_Violence_Abhorrent.stages.0.description>Мои действия привели к убийству. Какой позор!</VME_Violence_Abhorrent.stages.0.description>
+</LanguageData>

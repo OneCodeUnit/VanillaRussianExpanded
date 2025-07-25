@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: aristocratic -->
+  <VME_Aristocratic.label>аристократия</VME_Aristocratic.label>
+  <!-- EN: Kings and Queens are the true path to prosperity, the mind of the common man is unfit for leadership. -->
+  <VME_Aristocratic.description>Королевскоя власть — верный путь к процветанию, разум простолюдина непригоден для лидерства.</VME_Aristocratic.description>
+
+  <!-- EN:
+    <li>memeAdjective->kingly</li>
+    <li>memeAdjective->royal</li>
+    <li>memeAdjective->monarchal</li>
+    <li>memeAdjective->princely</li>
+    <li>memeAdjective->sovereign</li>
+    <li>memeHyphenPrefix->noble</li>
+    <li>memeConcept->aristocracy</li>
+    <li>memeConcept->nobility</li>
+    <li>memeConcept->blue blood</li>
+    <li>memeLeaderNoun->baron</li>
+    <li>memeLeaderNoun->count</li>
+  -->
+  <VME_Aristocratic.generalRules.rulesStrings>
+    <li>memeAdjective->королевский</li>
+    <li>memeAdjective->царский</li>
+    <li>memeAdjective->монархический</li>
+    <li>memeAdjective->княжеский</li>
+    <li>memeAdjective->самодержавный</li>
+    <li>memeHyphenPrefix->аристо</li>
+    <li>memeConcept->аристократии</li>
+    <li>memeConcept->благородных</li>
+    <li>memeConcept->голубой крови</li>
+    <li>memeLeaderNoun->барон</li>
+    <li>memeLeaderNoun->граф</li>
+  </VME_Aristocratic.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Aristocratic)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Why do you treat everyone equally? Some of you are born to be rulers, while others are born to be ruled".</li>
+    <li>episode(uses=1,tag=meme_Aristocratic)  ->[deity0_name] said to all the [memberNamePlural]: "Honour your leaders and treat them like my heralds on the mortal world, for they are more than mere men".</li>
+
+    <li>intro(tag=meme_Aristocratic)           ->[memberNamePlural] built a regal [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.</li>
+    <li>conflict(tag=meme_Aristocratic)        ->Constant peasant revolts threatened the existance of [deity0_name]'s temple, and the leaders of the [memberNamePlural] decided to pacify them.</li>
+    <li>founderJoin(tag=meme_Aristocratic)     ->[deity0_name] instructed [founderName] to put the peasants in their place, for they were theatening the lives of their betters.</li>
+    <li>victory(tag=meme_Aristocratic)         ->[founderName] crushed the peasant revolts, and his royal bloodline has been blessed ever since.</li>
+
+    <li>setup(tag=meme_Aristocratic)           ->Our founder [founderName] was a great sociologist, who saw the weak democratic systems in [founder_possessive] native world and found them incredibly inadequate. [founder_pronoun} chartered a private spaceship and left with hundreds of [founder_possessive] followers to create the ideal feudal society.</li>
+    <li>story(uses=1,tag=meme_Aristocratic)    ->[founderName]'s followers studied [founder_possessive] writings and created a social structure that has been stable for more than two hundred years.</li>
+
+    <li>lessonIntro(tag=meme_Aristocratic)         ->In all my years ruling over the masses, I learned one lesson that stands over all:</li>
+    <li>lesson(tag=meme_Aristocratic)              ->some people are born to be rulers, while others are born to be ruled</li>
+    <li>lessonReinforcement(tag=meme_Aristocratic) ->And only by honouring and obeying our noblest aristocrats can we truly build a stable society.</li>
+
+    <li>archistBasis(tag=meme_Aristocratic)    ->The archotechs are flawless. A perfect example of hierarchy where most live to serve the needs of the noble few.</li>
+    <li>archistFact(tag=meme_Aristocratic)     ->There is no ground for hesitation: only those truly subservient to their betters will be rewarded when the archotechs make themselves known to the rest of the Universe.</li>
+    <li>archistProphecy(tag=meme_Aristocratic) ->[inTheEnd], the archotechs will allow those of noble blood to ascend, but their servants will be allowed to serve them afterwards too.</li>
+
+    <li>animistFact(tag=meme_Aristocratic)     ->The spirits value those of pure blood above the rest, for those who can command others in life are also proving the strength of their spirit.</li>
+
+    <li>serketistProphecy(tag=meme_Aristocratic)->As ants and bees have their queens and their drones, so shall we organize our societies: one of noble blood reigning supreme over his or her subjects.</li>
+
+    <li>chthonianProphecy(tag=meme_Aristocratic)->Our leaders of noble blood will protect us and shield us from the cosmic insanity of these terrible beings. Only by obeying them can we hope to stay sane.</li>
+
+    <li>esotericismProphecy(tag=meme_Aristocratic)->The noble blood of our leaders will allow them to see beyond the veil. Secrets that are to be forever hidden from their humble servants.</li>
+
+    <li>eschatologismFact(tag=meme_Aristocratic)->We shall name our leader the Prince of Lies. The one who brings the end of all things.</li>
+
+    <li>introMemo(tag=meme_Aristocratic)->Remember that those of noble blood have vacation time privileges. Yes, I understand that some of you would like to take a vacation in August, and that you may have two children and it's hard to find a good daycare in that month, but your lack of aristocratic lineage means you will have to adapt to the current situation.</li>
+
+    <li>alienistProphecy(tag=tag=meme_Aristocratic)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</li>
+  -->
+  <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Aristocratic)        ->[deity0_name] увидело, что некоторые из [memberNamePlural] более пригодны для правления, чем другие, и обратилось к ним: "Почему вы относитесь ко всем одинаково? Некоторые из вас рождены быть правителями, а другие рождены, чтобы ими управляли".</li>
+    <li>episode(uses=1,tag=meme_Aristocratic)  ->[deity0_name] сказал всем [memberNamePlural]: "Почитайте своих лидеров и обращайтесь с ними, как с моими посланниками в мире смертных, ибо они больше, чем простые люди".</li>
+
+    <li>intro(tag=meme_Aristocratic)           ->[memberNamePlural] построили величественный [altarName] на [place_summary] [place_name], монумент, показывающий славу [deity0_name].</li>
+    <li>conflict(tag=meme_Aristocratic)        ->Постоянные крестьянские восстания угрожали существованию храма [deity0_name], и лидеры [memberNamePlural] решили остановить их.</li>
+    <li>founderJoin(tag=meme_Aristocratic)     ->[deity0_name] поручил [founderName] заставить чернь знать своё место, после того, как они угрожали жизням тех, кто находится над ними.</li>
+    <li>victory(tag=meme_Aristocratic)         ->[founderName] подавил крестьянские восстания, и с тех пор его королевский род был благословен.</li>
+
+    <li>setup(tag=meme_Aristocratic)           ->Наш основатель [founderName] был великим социологом, который увидел слабые демократические системы в родном мире [founder_possessive] и нашел их неадекватными. [founder_pronoun} сел в частный космический корабль и отправился с сотнями последователей [founder_possessive], чтобы создать идеальное феодальное общество.</li>
+    <li>story(uses=1,tag=meme_Aristocratic)    ->Последователи [founderName] изучили труды [founder_possessive] и создали социальную структуру, которая остается стабильной уже более двухсот лет.</li>
+
+    <li>lessonIntro(tag=meme_Aristocratic)         ->За все годы моего правления над людьми я усвоил один урок, самый дорогой урок:</li>
+    <li>lesson(tag=meme_Aristocratic)              ->одни люди рождаются, чтобы быть правителями, а другие - чтобы ими управляли</li>
+    <li>lessonReinforcement(tag=meme_Aristocratic) ->И только почитая и повинуясь нашим благороднейшим аристократам, мы можем действительно построить стабильное общество.</li>
+
+    <li>archistBasis(tag=meme_Aristocratic)    ->Архотеки безупречны. Идеальный пример иерархии, где большинство живет для того, чтобы служить нуждам немногих благородных.</li>
+    <li>archistFact(tag=meme_Aristocratic)     ->Нет никаких оснований для колебаний: только те, кто действительно подчиняется своим ставленникам, будут вознаграждены, когда Архотеки заявят о себе остальной части Вселенной.</li>
+    <li>archistProphecy(tag=meme_Aristocratic) ->[inTheEnd], Архотеки позволят вознестись тем, кто благородных кровей, но их слугам будет позволено служить им и после этого.</li>
+
+    <li>animistFact(tag=meme_Aristocratic)     ->Духи ценят чистокровных людей выше остальных, ибо те, кто может командовать другими в жизни, также доказывают силу своего духа..</li>
+
+    <li>serketistProphecy(tag=meme_Aristocratic)->Как у муравьев и пчел есть королевы и трутни, так и мы должны организовать наши общества: один благородной крови, правящий над своими подданными.</li>
+
+    <li>chthonianProphecy(tag=meme_Aristocratic)->Наши лидеры благородной крови защитят нас и укроют от космического безумия этих ужасных существ. Только повинуясь им, мы можем надеяться сохранить рассудок.</li>
+
+    <li>esotericismProphecy(tag=meme_Aristocratic)->Благородная кровь наших вождей позволит им заглянуть за завесу неизведанного. И откроет им секреты, которые навеки останутся неизвестными их скромным слугам.</li>
+
+    <li>eschatologismFact(tag=meme_Aristocratic)->Мы назовем нашего лидера Принцем Лжи. Тот, кто принесет конец всему сущему.</li>
+
+    <li>introMemo(tag=meme_Aristocratic)->Помните, что у людей благородной крови есть привилегии на отпуск. Да, я понимаю, что некоторые из вас хотели бы взять отпуск в августе, и что у вас, возможно, двое детей, и трудно найти хороший детский сад в этот месяц, но отсутствие у вас голубых кровей означает, что вам придется приспосабливаться к текущей ситуации.</li>
+
+    <li>alienistProphecy(tag=tag=meme_Aristocratic)->Мы создадим чудесные королевские зверинцы со всеми этими существами, настоящую демонстрацию нашей силы и могущества.</li>
+  </VME_Aristocratic.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Nobility -->
+  <VME_Aristocratic.symbolPacks.0.ideoName>Нобилитет</VME_Aristocratic.symbolPacks.0.ideoName>
+  <!-- EN: nobility -->
+  <VME_Aristocratic.symbolPacks.0.theme>благородства</VME_Aristocratic.symbolPacks.0.theme>
+  <!-- EN: noble -->
+  <VME_Aristocratic.symbolPacks.0.adjective>благородный</VME_Aristocratic.symbolPacks.0.adjective>
+  <!-- EN: subject -->
+  <VME_Aristocratic.symbolPacks.0.member>персона</VME_Aristocratic.symbolPacks.0.member>
+
+  <!-- EN: Aristocracy -->
+  <VME_Aristocratic.symbolPacks.1.ideoName>Аристократизм</VME_Aristocratic.symbolPacks.1.ideoName>
+  <!-- EN: aristocracy -->
+  <VME_Aristocratic.symbolPacks.1.theme>аристократии</VME_Aristocratic.symbolPacks.1.theme>
+  <!-- EN: aristocratic -->
+  <VME_Aristocratic.symbolPacks.1.adjective>аристократический</VME_Aristocratic.symbolPacks.1.adjective>
+  <!-- EN: subject -->
+  <VME_Aristocratic.symbolPacks.1.member>персона</VME_Aristocratic.symbolPacks.1.member>
+</LanguageData>

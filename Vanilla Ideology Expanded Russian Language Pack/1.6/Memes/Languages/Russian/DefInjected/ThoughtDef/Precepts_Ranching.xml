@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: no pen markers around -->
+  <VME_Ranching_Disliked.stages.0.label>нет загонов в поселении</VME_Ranching_Disliked.stages.0.label>
+  <!-- EN: We have no imprisoned animals. This is the way things should be. -->
+  <VME_Ranching_Disliked.stages.0.description>У нас нет животных в неволе. Так и должно быть.</VME_Ranching_Disliked.stages.0.description>
+  <!-- EN: pen marker around -->
+  <VME_Ranching_Disliked.stages.1.label>загон в поселении</VME_Ranching_Disliked.stages.1.label>
+  <!-- EN: We have a pen marker in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral. -->
+  <VME_Ranching_Disliked.stages.1.description>В поселении есть загон. Животные ведь не наши рабы: их нельзя держать в плену. Это аморально.</VME_Ranching_Disliked.stages.1.description>
+  <!-- EN: pen markers around -->
+  <VME_Ranching_Disliked.stages.2.label>загоны в поселении</VME_Ranching_Disliked.stages.2.label>
+  <!-- EN: We have several pen markers in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral! -->
+  <VME_Ranching_Disliked.stages.2.description>В поселении есть несколько загонов. Животные ведь не наши рабы: их нельзя держать в плену. Это аморально!</VME_Ranching_Disliked.stages.2.description>
+  <!-- EN: factory farming -->
+  <VME_Ranching_Disliked.stages.3.label>мясокомбинат</VME_Ranching_Disliked.stages.3.label>
+  <!-- EN: Our colony has too many pens, filled with poor animals in cramped conditions, bred for the slaughter. I'm disgusted. -->
+  <VME_Ranching_Disliked.stages.3.description>В поселении так много загонов, полных бедных животных. Их всех разводят на убой. Как же это противно.</VME_Ranching_Disliked.stages.3.description>
+
+  <!-- EN: attacked an animal -->
+  <VME_Ranching_Disliked_AttackedAnimal.stages.0.label>атаковано животное</VME_Ranching_Disliked_AttackedAnimal.stages.0.label>
+  <!-- EN: I had to attack an animal. They have rights too! -->
+  <VME_Ranching_Disliked_AttackedAnimal.stages.0.description>Мне пришлось напасть на животное. А ведь у них тоже есть права!</VME_Ranching_Disliked_AttackedAnimal.stages.0.description>
+
+  <!-- EN: sowed human food plant -->
+  <VME_Ranching_Disliked_SowedPlant.stages.0.label>посажено съедобное растение</VME_Ranching_Disliked_SowedPlant.stages.0.label>
+  <!-- EN: I sowed a human food plant. It's amazing, food free from cruelty and abuse. -->
+  <VME_Ranching_Disliked_SowedPlant.stages.0.description>Я {PAWN_gender ? посадил : посадила} съедобное растение. Это потрясающе! Еда, для которой не нужно мучить и убивать бедных животных.</VME_Ranching_Disliked_SowedPlant.stages.0.description>
+</LanguageData>

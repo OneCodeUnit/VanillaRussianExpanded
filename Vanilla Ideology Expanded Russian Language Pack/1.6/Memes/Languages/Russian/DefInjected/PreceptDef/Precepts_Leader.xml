@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: godlike -->
+  <VME_Leader_Godlike.label>обожествление</VME_Leader_Godlike.label>
+  <!-- EN: Our leader should be exalted as a god, to treat them as any less assures our demise.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Opinion of the leader depends on a person's certainty in its ideoligion. -->
+  <VME_Leader_Godlike.description>Нам не грозит упадок, пока мы возносим молитвы нашему лидеру.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Отношение поселенца к лидеру зависит от его уверенности в идеолигии.</VME_Leader_Godlike.description>
+  <!-- EN: Supreme god emperor (certainty above 75%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>настоящий Бог-Император (уверенность выше 75%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: God emperor (certainty above 50%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>Бог-Император (уверенность выше 50%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Dubious divinity (certainty above 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>божественность под вопросом (уверенность выше 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: False god (certainty below 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>не бог (уверенность ниже 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: best crafter -->
+  <VME_Leader_BestCrafter.label>лучший ремесленник</VME_Leader_BestCrafter.label>
+  <!-- EN: Our most skilled artisan is our leader, through their keen eye and delicate touch our workshops will sing the song of creation.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The leader role will periodically be forced upon the highest level crafter in the colony (this will only work if the ideology is the primary one). -->
+  <VME_Leader_BestCrafter.description>Наш самый умелый ремесленник — наш лидер. Под его зорким взглядом и чутким наставлением, наши мастерские споют гимн творчества.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Периодически на роль лидера будет принудительно выдвигаться лучший ремесленник (когда эта идеология является основной).</VME_Leader_BestCrafter.description>
+
+  <!-- EN: best fighter -->
+  <VME_Leader_BestFighter.label>лучший боец</VME_Leader_BestFighter.label>
+  <!-- EN: Martial expertise, be it with a blade or spear is a show of strength and courage. Our most talented fighter will be our leader, no questions asked (this will only work if the ideology is the primary one). -->
+  <VME_Leader_BestFighter.description>Боевые навыки владения клинком или копьём — проявление силы и отваги. Самый талантливый боец и будет нашим лидером. Без сомнения.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Периодически на роль лидера будет принудительно выдвигаться лучший боец (когда эта идеология является основной).</VME_Leader_BestFighter.description>
+
+  <!-- EN: three -->
+  <VME_Leader_Three.label>триумвират</VME_Leader_Three.label>
+  <!-- EN: It’s vital that we put our trust in the hands of few rather than the hand of one.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Up to three people can be designated as leader. -->
+  <VME_Leader_Three.description>Жизненно важно вручить наше доверие в руки нескольких, а не в одного.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Лидерами могут быть назначены до трёх поселенцев.</VME_Leader_Three.description>
+
+  <!-- EN: moralist -->
+  <VME_Leader_Moralist.label>моралист</VME_Leader_Moralist.label>
+  <!-- EN: Our leader is a morale bastion, and through them and their divinity we shall flourish.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The colony's leader can use moralist abilities too. -->
+  <VME_Leader_Moralist.description>Наш лидер — оплот морали. Благодаря его проповедям мы достигнем процветания.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Лидер поселения также может применять способности проводника морали.</VME_Leader_Moralist.description>
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the ritual is boring or better, it will reward all participants with the Plague. -->
+  <VME_PlagueFestivalRitualOutcome.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}. Если ритуал хотя бы скучен, он одарит всех участников чумой.</VME_PlagueFestivalRitualOutcome.description>
+  <!-- EN: moral guide present -->
+  <VME_PlagueFestivalRitualOutcome.comps.2.label>присутствует духовный лидер</VME_PlagueFestivalRitualOutcome.comps.2.label>
+  <!-- EN: participant count -->
+  <VME_PlagueFestivalRitualOutcome.comps.3.label>количество участников</VME_PlagueFestivalRitualOutcome.comps.3.label>
+  <!-- EN: started at altar -->
+  <VME_PlagueFestivalRitualOutcome.comps.4.label>начато у алтаря</VME_PlagueFestivalRitualOutcome.comps.4.label>
+  <!-- EN: an altar -->
+  <VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>алтарь</VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>
+  
+
+  <!-- EN: Terrible -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>ужасно</VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The corpse laid there, inert, and no holy miasma was liberated from it. What a waste of time! -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>{0} был ужасным! Речь была прерывистой и бессвязной, а техника убийства негодной. Труп лежал неподвижно, и никакие священные миазмы из него не высвободились. До чего же пустая трата времени!</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Boring -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>скучно</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0} был скучным. Речь была повторяющейся, а техника убийства была далека от идеала. Однако благословенная чума теперь среди нас.</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Satisfying -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>удовлетворительно</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and a holy miasma was liberated from the corpse, bathing us all in a sacred plague wind. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>{0} был удовлетворительным. Речь была выразительной, а священные миазмы высвободились из трупа, омывая всех нас священным чумным ветром.</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Spectacular -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>изумительно</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and a sacred plague wind wafted from the animal's corpse, blessing us. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>{0} был изумительным! Речь довела всех до исступления, а священный чумный ветер дул от трупа животного, благословляя нас.</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
+</LanguageData>

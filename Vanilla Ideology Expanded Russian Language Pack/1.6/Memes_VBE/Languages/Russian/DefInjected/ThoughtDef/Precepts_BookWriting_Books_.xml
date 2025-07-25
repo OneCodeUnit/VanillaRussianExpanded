@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wrote a book -->
+  <VME_BookWriting_Exalted.stages.0.label>написана книга</VME_BookWriting_Exalted.stages.0.label>
+  <!-- EN: I did it! I am now a distinguished author. -->
+  <VME_BookWriting_Exalted.stages.0.description>Я {PAWN_gender ? сделал : сделала} это! Теперь я знаменитый писатель.</VME_BookWriting_Exalted.stages.0.description>
+
+  <!-- EN: distinguished author -->
+  <VME_BookWriting_Exalted_Know.stages.0.label>знаменитый писатель</VME_BookWriting_Exalted_Know.stages.0.label>
+
+  <!-- EN: wrote a book -->
+  <VME_BookWriting_Disliked.stages.0.label>написана книга</VME_BookWriting_Disliked.stages.0.label>
+  <!-- EN: I had to write a book. Putting your thoughts to paper is sinful and disgusting. --> 
+  <VME_BookWriting_Disliked.stages.0.description>Не смотря на то, что оставлять свои мысли на бумаге грешно и противно, мне пришлось это сделать.</VME_BookWriting_Disliked.stages.0.description>
+
+  <!-- EN: writer of thoughts -->
+  <VME_BookWriting_Disliked_Know.stages.0.label>автор мыслей</VME_BookWriting_Disliked_Know.stages.0.label>
+</LanguageData>

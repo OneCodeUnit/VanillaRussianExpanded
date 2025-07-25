@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: astrology -->
+  <VME_Astrology.label>астрология</VME_Astrology.label>
+  <!-- EN: A careful examination of the stars will unlock mystical powers far beyond our wildest imagination. -->
+  <VME_Astrology.description>Тщательное изучение звезд откроет мистические силы, далеко превосходящие наши самые смелые фантазии.</VME_Astrology.description>
+
+  <!-- EN:
+    <li>memeAdjective->astrological</li>
+    <li>memeAdjective->zodiacal</li>
+    <li>memeHyphenPrefix->astro</li>
+    <li>memeConcept->stars</li>
+    <li>memeLeaderNoun->grand astrologer</li>
+    <li>memeMoralist->diviner</li>
+    <li>memeMoralist->star seer</li>
+  -->
+  <VME_Astrology.generalRules.rulesStrings>
+    <li>memeAdjective->астрологический</li>
+    <li>memeAdjective->зодиакальный</li>
+    <li>memeHyphenPrefix->астро</li>
+    <li>memeConcept->звёзд</li>
+    <li>memeLeaderNoun->великий астролог</li>
+    <li>memeMoralist->прорицатель</li>
+    <li>memeMoralist->звёздный провидец</li>
+  </VME_Astrology.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Astrology)        ->[deity0_name] showed us that the path to true wisdom lies in understanding the stars.</li>
+    <li>episode(uses=1,tag=meme_Astrology)  ->[deity0_name] said to all the [memberNamePlural], "For in the Firmament you shall see a reflection of my Will."</li>
+
+    <li>intro(tag=meme_Astrology)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that anyone may peer into the stars.</li>
+    <li>conflict(tag=meme_Astrology)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to obscure the firmament so we couldn't watch the majesty of the stars.</li>
+    <li>founderJoin(tag=meme_Astrology)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] unwavering resolve, and a zodiacal sign was created then and there.</li>
+    <li>victory(tag=meme_Astrology)         ->[founderName] read the astrological fortunes of the [foeSoldiers] and used them to convince them of [deity0_name]'s power.</li>
+
+    <li>setup(tag=meme_Astrology)           ->Our founder [founderName] was a great astrologer, capable of divining the fortunes of [founder_possessive] followers as he traveled between the cities.</li>
+    <li>story(uses=1,tag=meme_Astrology)    ->The believers spread knowledge of the wisdom found in the movement of the stars.</li>
+
+    <li>lessonIntro(tag=meme_Astrology)         ->In all my years observing the stars, I learned one lesson that stands over all:</li>
+    <li>lesson(tag=meme_Astrology)              ->our zodiacal signs guide us through all of our lives</li>
+    <li>lessonReinforcement(tag=meme_Astrology) ->This is the fact we need to spread, for the fate of oneself is reflected upon the heavens.</li>
+
+    <li>archistBasis(tag=meme_Astrology)    ->The archotechs announce their presence from the sky, and in the mind, they showed us that great knowledge is encoded in the movement of celestial bodies.</li>
+    <li>archistFact(tag=meme_Astrology)     ->Archotechs are wise beyond all reason, and they have coded immense knowledge on the stars.</li>
+    <li>archistProphecy(tag=meme_Astrology) ->[inTheEnd], the archotechs will voice their final wisdom to the holder of the [relic0_name]. Only one who is trained on the Art of the Zodiac can absorb their teachings.</li>
+
+    <li>animistFact(tag=meme_Astrology)     ->The spirits want to be known, and they manifest themselves not only through the creatures of land, but also in the heavens.</li>
+
+    <li>serketistProphecy(tag=meme_Astrology)->[itIsSaid] we will be wise enough to create a new zodiacal sign. Serket. The Holy Scarab.</li>
+
+    <li>chthonianProphecy(tag=meme_Astrology)->Eldritch knowledge lies upon the Unwavering Hungry Void between Stars, and by studying them we will be eternal, perhaps at the cost of our sanity.</li>
+
+    <li>esotericismProphecy(tag=meme_Astrology)->With such knowledge, we will devise a way to control the zodiac, and thus the fate of everyone.</li>
+
+    <li>eschatologismFact(tag=meme_Astrology)->The stars will only show a singular fate: destruction.</li>
+
+    <li>introMemo(tag=meme_Astrology)->It has been brought to my atention that some of you are using work breaks to share your astrological charts. Although this is a sanctioned topic by the Company, I would like to remind you that breaks should never exceed the allotted time.</li>
+
+    <li>alienistProphecy(tag=meme_Astrology)->The stars will reveal us the reality of these wondrous creatures.</li>
+  -->
+  <VME_Astrology.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Astrology)->[deity0_name] он показал нам, что путь к истинной мудрости лежит через понимание звёзд .</li>
+    <li>episode(uses=1,tag=meme_Astrology)->[deity0_name] сказал нам [memberNamePlural]: «Расположение звёзд на небе станет отражением моих планов».</li>
+
+    <li>intro(tag=meme_Astrology)->[memberNamePlural] построили великолепный [altarName] в [place_summary] [place_name], чтобы каждый мог взглянуть на звёздное небо.</li>
+    <li>conflict(tag=meme_Astrology)->Трус [foeLeader] стремился отрицать нашу веру [deity0_name], он пытался заслонить небосвод, чтобы мы не смогли наблюдать за звёздами.</li>
+    <li>founderJoin(tag=meme_Astrology)->[deity0_name] благословенный [place_job] под названием [founderName] с [foeLeader_possessive] непоколебимой решимостью, и тогда же был создан зодиакальный знак.</li>
+    <li>victory(tag=meme_Astrology) ->[founderName] прочитал астрологические предсказания[foeSoldiers] и использовал их, чтобы убедить их в силе [deity0_name].</li>
+
+    <li>setup(tag=meme_Astrology)->Наш основатель [founderName] был хорошим астрологом, он мог предсказать судьбу последователей [founder_possessive], путешествуя между городами.</li>
+    <li>story(uses=1,tag=meme_Astrology)->Верующие распространяли знания о мудрости, которые смогли распознать в движении звезд.</li>
+
+    <li>lessonIntro(tag=meme_Astrology)->За все годы наблюдений за звездами я усвоил один урок, самый дорогой урок:</li>
+    <li>lesson(tag=meme_Astrology)->наши зодиакальные знаки сопровождают нас на протяжении всей жизни.</li>
+    <li>lessonReinforcement(tag=meme_Astrology) ->Это факт, который мы должны распространять, ибо судьба наша отражается на небесах.</li>
+
+    <li>archistBasis(tag=meme_Astrology)->Архотеки говорят нам о своем присутствии с неба, а мысленно они показали нам, что в движении небесных тел скрываются великие знания.</li>
+    <li>archistFact(tag=meme_Astrology)->Архотеки мудры сверх всякой меры, и они скрыли огромные знания о звездах.</li>
+    <li>archistProphecy(tag=meme_Astrology)->[inTheEnd], Архотеки расскажут свою последнюю мудрость обладателю [relic0_name]. Только тот, кто обучен искусству Зодиака, может усвоить их учение.</li>
+
+    <li>animistFact(tag=meme_Astrology)     ->Духи хотят чтобы о них знали, и они проявляют себя не только через земных существ, но и через небеса.</li>
+
+    <li>serketistProphecy(tag=meme_Astrology)->[itIsSaid] мы будем достаточно мудры, чтобы создать новый Зодиак. Серкет. Священный скарабей.</li>
+
+    <li>chthonianProphecy(tag=meme_Astrology)->Жуткие знания лежат в Непоколебимой голодной пустоте между звездами, и, изучая их, мы обретем вечность, возможно, ценой своего рассудка.</li>
+
+    <li>esotericismProphecy(tag=meme_Astrology)->С такими знаниями мы придумаем способ управлять зодиаком, а значит, и судьбой каждого человека.</li>
+
+    <li>eschatologismFact(tag=meme_Astrology)->Звезды покажут только одну судьбу: разрушение.</li>
+
+    <li>introMemo(tag=meme_Astrology)->До моего сведения дошло, что некоторые из вас используют перерывы на работе для того, чтобы поделиться своими астрологическими картами. Хотя эта тема разрешена компанией, я хотел бы напомнить вам, что перерывы никогда не должны превышать отведенного времени.</li>
+
+    <li>alienistProphecy(tag=meme_Astrology)->Звезды откроют нам реальность этих чудесных созданий.</li>
+  </VME_Astrology.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Astrology -->
+  <VME_Astrology.symbolPacks.0.ideoName>Астрология</VME_Astrology.symbolPacks.0.ideoName>
+  <!-- EN: astrology -->
+  <VME_Astrology.symbolPacks.0.theme>астрологии</VME_Astrology.symbolPacks.0.theme>
+  <!-- EN: astrological -->
+  <VME_Astrology.symbolPacks.0.adjective>астрологический</VME_Astrology.symbolPacks.0.adjective>
+  <!-- EN: astrologer -->
+  <VME_Astrology.symbolPacks.0.member>астролог</VME_Astrology.symbolPacks.0.member>
+
+  <!-- EN: Tarot -->
+  <VME_Astrology.symbolPacks.1.ideoName>Таро</VME_Astrology.symbolPacks.1.ideoName>
+  <!-- EN: tarot -->
+  <VME_Astrology.symbolPacks.1.theme>таро</VME_Astrology.symbolPacks.1.theme>
+  <!-- EN: tarot reading -->
+  <VME_Astrology.symbolPacks.1.adjective>тарогадательский</VME_Astrology.symbolPacks.1.adjective>
+  <!-- EN: tarot reader -->
+  <VME_Astrology.symbolPacks.1.member>тарогадатель</VME_Astrology.symbolPacks.1.member>
+
+  <!-- EN: Divination -->
+  <VME_Astrology.symbolPacks.2.ideoName>Гадание</VME_Astrology.symbolPacks.2.ideoName>
+  <!-- EN: divination -->
+  <VME_Astrology.symbolPacks.2.theme>гадания</VME_Astrology.symbolPacks.2.theme>
+  <!-- EN: divinatorial -->
+  <VME_Astrology.symbolPacks.2.adjective>гадательный</VME_Astrology.symbolPacks.2.adjective>
+  <!-- EN: diviner -->
+  <VME_Astrology.symbolPacks.2.member>гадатель</VME_Astrology.symbolPacks.2.member>
+</LanguageData>

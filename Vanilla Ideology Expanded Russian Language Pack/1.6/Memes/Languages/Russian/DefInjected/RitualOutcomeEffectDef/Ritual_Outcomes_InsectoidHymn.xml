@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_InsectoidHymnRitualOutcome.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</VME_InsectoidHymnRitualOutcome.description>
+  <!-- EN: chanter present -->
+  <VME_InsectoidHymnRitualOutcome.comps.0.label>присутствует певец</VME_InsectoidHymnRitualOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_InsectoidHymnRitualOutcome.comps.1.label>количество участников</VME_InsectoidHymnRitualOutcome.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <VME_InsectoidHymnRitualOutcome.comps.2.label>впечатление от помещения</VME_InsectoidHymnRitualOutcome.comps.2.label>
+
+  <!-- EN: Uninteresting -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>неинтересно</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was incredibly uninteresting. Yeah, yeah, insects are cool. Bah.\n\nThe ritual had no effect over the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>{0} был совсем неинтересным. Да-да, насекомые крутые. Бла-бла...\n\nРитуал никак не повлиял на способность жуковода строить гнёзда.</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Awkward -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>неуклюже</VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was awkward. The speech was repetitive, and it did nothing to convince us of the divinity of our beloved insects.\n\nThe ritual had no effect over the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>{0} был неуклюжим. Речь была однообразна и никого убедила в божественности наших дорогих насекомых.\n\nРитуал никак не повлиял на способность жуковода строить гнёзда.</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Rousing -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>возбуждающе</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was very rousing. The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>{0} был очень возбуждающим. Певец продемонстрировал впечатляющее мастерство, и гимн соответствующим образом превозносил достоинства нашего образа жизни.\n\nРитуал восстановил способность жуковода строить гнёзда.</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Entrancing -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>чарующе</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was entrancing! We can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability.\n\nThe ritual also made any insectoids that were assaulting the colony flee. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>{0} был чарующим! Мы всё ещё слышим завораживающие слова гимна, словно мириады маленьких лапок ползают по нашим телам.\n\nРитуал восстановил способность жуковода строить гнёзда.</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
+</LanguageData>
