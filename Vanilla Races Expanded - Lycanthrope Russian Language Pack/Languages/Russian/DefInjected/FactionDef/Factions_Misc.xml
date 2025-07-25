@@ -10,4 +10,6 @@
   <VRE_WolfmenFaction.pawnSingular>волколюди</VRE_WolfmenFaction.pawnSingular>
   <!-- EN: pack leader -->
   <VRE_WolfmenFaction.leaderTitle>вожак стаи</VRE_WolfmenFaction.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VRE_WolfmenFaction.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VRE_WolfmenFaction.messageDefendersAttacking>
 </LanguageData>
