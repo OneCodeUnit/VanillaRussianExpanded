@@ -4,8 +4,4 @@
   <GR_AgePillsTaken.label>таблетки старения</GR_AgePillsTaken.label>
   <!-- EN: Recovering from age pills. Age pills are hard on the body's metabolism, and it takes at least a day before other pill can take effect. -->
   <GR_AgePillsTaken.description>Восстановление после приёма таблеток занимает не меньше одного дня. Из-за сильного влияния на метаболизм приём любых других таблеток не окажет эффекта.</GR_AgePillsTaken.description>
-  <!-- EN: Inject {0} -->
-  <GR_AgePillsTaken.ingestible.ingestCommandString>Ввести {lookup: {0}; Case; 3}</GR_AgePillsTaken.ingestible.ingestCommandString>
-  <!-- EN: Injecting {0}. -->
-  <GR_AgePillsTaken.ingestible.ingestReportString>Вводит {lookup: {0}; Case; 3}</GR_AgePillsTaken.ingestible.ingestReportString>
 </LanguageData>
