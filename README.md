@@ -12,7 +12,7 @@
 - [Скачать архив для 1.4](https://github.com/OneCodeUnit/VanillaRussianExpanded/releases/tag/1.4)
 - [Скачать архив для 1.3 и старше](https://github.com/OneCodeUnit/VanillaRussianExpanded/releases/tag/1.3)
 
-[Скачать и установить без мастерской](https://github.com/OneCodeUnit/VanillaRussianExpanded/wiki/Установка)
+[Как скачать и установить без Steam Workshop](https://github.com/OneCodeUnit/VanillaRussianExpanded/wiki/Установка)
 
 ## Сообщить об ошибке/предложить исправление
 [Как сообщить переводчикам или предложить исправление.](https://github.com/OneCodeUnit/VanillaRussianExpanded/wiki/Предложение-изменений)
