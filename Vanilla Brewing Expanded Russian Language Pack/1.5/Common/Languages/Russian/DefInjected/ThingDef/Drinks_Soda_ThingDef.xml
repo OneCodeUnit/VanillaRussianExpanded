@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: soda -->
+  <VBE_Soda.label>сладкая газировка</VBE_Soda.label>
+  <!-- EN: A very sweet and semi-citrusy beverage best enjoyed chilled. Whilst not exactly nutritious the sugar rush is welcomed and the effervescence is quite refreshing. -->
+  <VBE_Soda.description>Очень сладкий напиток с цитрусовым привкусом, который лучше всего пить охлаждённым. Не особо питателен, зато большое количество сахара обеспечивает прилив бодрости. А ещё он приятно освежает, благодаря своей шипучести.</VBE_Soda.description>
+  <!-- EN: bottle -->
+  <VBE_Soda.tools.0.label>бутылка</VBE_Soda.tools.0.label>
+  <!-- EN: neck -->
+  <VBE_Soda.tools.1.label>горлышко</VBE_Soda.tools.1.label>
+  <!-- EN: Drink {0} -->
+  <VBE_Soda.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_Soda.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_Soda.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_Soda.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: pumpkin spice coffee -->
+  <VBE_PumpkinCoffee.label>пряный тыквенный кофе</VBE_PumpkinCoffee.label>
+  <!-- EN: Cheap, mass produced generic coffee seeped in an array of spices, oddly excluding any actual pumpkin. Thousands of years ago, this type of coffee was stereotypically consumed by red-haired hipsters with man buns. -->
+  <VBE_PumpkinCoffee.description>Дешёвый кофе массового производства, приправленный множеством специй, кроме, как ни странно, настоящей тыквы. Тысячи лет назад существовал стереотип, что этот напиток употребляют только хипстеры в очках и с собранными в пучок волосами.</VBE_PumpkinCoffee.description>
+  <!-- EN: Drink {0} -->
+  <VBE_PumpkinCoffee.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</VBE_PumpkinCoffee.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <VBE_PumpkinCoffee.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</VBE_PumpkinCoffee.ingestible.ingestReportString>
+</LanguageData>

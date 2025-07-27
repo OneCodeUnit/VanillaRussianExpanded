@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Syrup to Insert -->
+  <VBE_InsertSyrupDesc>Выбрать сироп</VBE_InsertSyrupDesc>
+  <!-- EN: Bring Syrup -->
+  <VBE_StartInsertion>Залить сироп</VBE_StartInsertion>
+  <!-- EN: Bring a syrup to the soda fountain to start processing -->
+  <VBE_StartInsertionDesc>Залить сироп в автомат сладкой газировки для начала процесса приготовления.</VBE_StartInsertionDesc>
+  <!-- EN: Cancel Bringing Syrup -->
+  <VBE_CancelBringingSyrup>Отмена заливки сиропа</VBE_CancelBringingSyrup>
+  <!-- EN: Cancel bringing syrup to the soda fountain. -->
+  <VBE_CancelBringingSyrupDesc>Отменить заливку сиропа в автомат сладкой газировки.</VBE_CancelBringingSyrupDesc>
+  <!-- EN: The soda has spoiled due to a power failure in the soda fountain -->
+  <VBE_SyrupFailurePower>Сладкая газированная вода испортилась из-за сбоя в электропитании автомата сладкой газировки.</VBE_SyrupFailurePower>
+
+  <!-- EN: Must to Insert -->
+  <VBE_InsertAmbMustDesc>Выбрать сусло</VBE_InsertAmbMustDesc>
+  <!-- EN: Bring Must -->
+  <VBE_StartInsertionAmbMust>Залить сусло</VBE_StartInsertionAmbMust>
+  <!-- EN: Bring ambrandy must to the ambrandy distillery to start fermentation -->
+  <VBE_StartInsertionAmbMustDesc>Залить сусло амбренди в перегонный аппарат для начала процесса ферментации.</VBE_StartInsertionAmbMustDesc>
+  <!-- EN: Cancel Bringing Must -->
+  <VBE_CancelBringingAmbMust>Отмена заливки сусла</VBE_CancelBringingAmbMust>
+  <!-- EN: Cancel bringing ambrandy must to the ambrandy distillery. -->
+  <VBE_CancelBringingAmbMustDesc>Отменить заливку сусла в перегонный аппарат.</VBE_CancelBringingAmbMustDesc>
+  <!-- EN: The ambrandy has spoiled due to a power failure in the ambrandy distillery -->
+  <VBE_AmbrandyFailurePower>Амбренди испортился из-за сбоя в электропитании перегонного аппарата.</VBE_AmbrandyFailurePower>
+  <!-- EN: Remove Ambrandy ({0}) -->
+  <VBE_RemoveAmbrandy>Слить амбренди ({0})</VBE_RemoveAmbrandy>
+  <!-- EN: Remove ambrandy from the ambrandy distillery. The ambrandy will be acquired at the present quality level ({0}) -->
+  <VBE_RemoveAmbrandyDesc>Слить амбренди из перегонного аппарата. Полученный напиток будет соответствовать данному уровню качества: ({0})</VBE_RemoveAmbrandyDesc>
+
+  <!-- EN: Mash or Whiskey to Insert -->
+  <VBE_InsertMustOrWhiskeyDesc>Выбор кашицы или виски</VBE_InsertMustOrWhiskeyDesc>
+  <!-- EN: Bring Mash or Whiskey -->
+  <VBE_StartInsertionMustOrWhiskey>Загрузить кашицу или виски</VBE_StartInsertionMustOrWhiskey>
+  <!-- EN: Bring mash to the whiskey cask to start fermentation or whiskey to start double-aging process -->
+  <VBE_StartInsertionMustOrWhiskeyDesc>Загрузить кашицу виски в бочку для выдержки для начала процесса ферментации или залить виски для начала процесса двойной выдержки.</VBE_StartInsertionMustOrWhiskeyDesc>
+  <!-- EN: Cancel bringing mash or whiskey must to the whiskey cask. -->
+  <VBE_CancelBringingMustOrWhiskey>Отменить загрузку кашицы или виски</VBE_CancelBringingMustOrWhiskey>
+
+  <!-- EN: Must to Insert -->
+  <VBE_InsertTequilaMustDesc>Выбрать сусло</VBE_InsertTequilaMustDesc>
+  <!-- EN: Bring Must -->
+  <VBE_StartInsertionTequilaMust>Залить сусло</VBE_StartInsertionTequilaMust>
+  <!-- EN: Bring tequila must to the tequila barrel to start fermentation process -->
+  <VBE_StartInsertionTequilaMustDesc>Залить сусло текилы в бочку для начала процесса ферментации.</VBE_StartInsertionTequilaMustDesc>
+  <!-- EN: Cancel Bringing Must -->
+  <VBE_CancelBringingTequilaMust>Отмена заливки сусла</VBE_CancelBringingTequilaMust>
+  <!-- EN: Cancel bringing tequila must to the tequila barrel. -->
+  <VBE_CancelBringingTequilaMustDesc>Отменить заливку сусла текилы в бочку.</VBE_CancelBringingTequilaMustDesc>
+
+  <!-- EN: Mash to Insert -->
+  <VBE_InsertVodkaMustDesc>Выбрать кашицу</VBE_InsertVodkaMustDesc>
+  <!-- EN: Bring Mash -->
+  <VBE_StartInsertionVodkaMust>Загрузить кашицу</VBE_StartInsertionVodkaMust>
+  <!-- EN: Bring vodka mash to the vodka drum to start fermentation process -->
+  <VBE_StartInsertionVodkaMustDesc>Загрузить кашицу водки в перегонный аппарат для начала процесса ферментации.</VBE_StartInsertionVodkaMustDesc>
+  <!-- EN: Cancel Bringing Mash -->
+  <VBE_CancelBringingVodkaMust>Отмена загрузки кашицы</VBE_CancelBringingVodkaMust>
+  <!-- EN: Cancel bringing vodka mash to the vodka drum. -->
+  <VBE_CancelBringingVodkaMustDesc>Отменить загрузку кашицы водки в перегонный аппарат.</VBE_CancelBringingVodkaMustDesc>
+
+  <!-- EN: Mush to Insert -->
+  <VBE_InsertGinMushDesc>Выбрать сусло</VBE_InsertGinMushDesc>
+  <!-- EN: Bring Mush -->
+  <VBE_StartInsertionGinMush>Залить сусло</VBE_StartInsertionGinMush>
+  <!-- EN: Bring gin mush to the gin still to start fermentation process -->
+  <VBE_StartInsertionGinMushDesc>Залить сусло джина в перегонный аппарат для начала процесса ферментации.</VBE_StartInsertionGinMushDesc>
+  <!-- EN: Cancel Bringing Mush -->
+  <VBE_CancelBringingGinMush>Отмена заливки сусла</VBE_CancelBringingGinMush>
+  <!-- EN: Cancel bringing gin mush to the gin still. -->
+  <VBE_CancelBringingGinMushDesc>Отменить заливку сусла джина в перегонный аппарат.</VBE_CancelBringingGinMushDesc>
+
+  <!-- EN: Mush ripening -->
+  <VBE_MushRipening>Созревание кашицы</VBE_MushRipening>
+  <!-- EN: This mush is frozen and will not ripen into ambrandy must -->
+  <VBE_MushCurrentlyFrozen>Эта кашица из амброзии заморожена и не превратится в сусло амбренди.</VBE_MushCurrentlyFrozen>
+  <!-- EN: This mush is refrigerated and will not ripen into ambrandy must as fast as it could (ripens in {0}) -->
+  <VBE_MushCurrentlyRefrigerated>Эта кашица из амброзии охлаждена и не превратится в сусло амбренди так быстро, как могла бы (созреет через {0})</VBE_MushCurrentlyRefrigerated>
+  <!-- EN: This mush is ripening into ambrandy must correctly (ripens in {0}) -->
+  <VBE_MushDryingCorrectly>Эта кашица из амброзии превращается в сусло амбренди в подходящих условиях (созреет через {0})</VBE_MushDryingCorrectly>
+
+  <!-- EN: Cider maturing -->
+  <VBE_CiderMaturing>Созревание сидра</VBE_CiderMaturing>
+  <!-- EN: This unfermented cider is frozen and will not mature into cider -->
+  <VBE_CiderCurrentlyFrozen>Этот неферментированный сидр заморожен и не превратится в сидр.</VBE_CiderCurrentlyFrozen>
+  <!-- EN: This unfermented cider is refrigerated and will not mature into cider as fast as it could (matures in {0}) -->
+  <VBE_CiderCurrentlyRefrigerated>Этот неферментированный сидр охлаждён и не превратится в сидр так быстро, как мог бы (созреет через {0})</VBE_CiderCurrentlyRefrigerated>
+  <!-- EN: This unfermented cider is maturing into cider correctly (matures in {0}) -->
+  <VBE_CiderMaturingCorrectly>Этот неферментированный сидр превращается в сидр в подходящих условиях (созреет через {0})</VBE_CiderMaturingCorrectly>
+  
+	<!-- EN: Unforbid dropped fruit -->
+  <VBE_UnforbidDroppedFruit>Разрешить упавшие на землю плоды</VBE_UnforbidDroppedFruit>
+
+	<!-- EN: Never -->
+	<VBE_Never>Никогда</VBE_Never>  
+	<!-- EN: Never unforbid automatically dropped fruit -->
+	<VBE_NeverDesc>Никогда автоматически не разрешать использование плодов, упавших на землю</VBE_NeverDesc>  
+	<!-- EN: Home area -->
+	<VBE_HomeArea>Домашняя зона</VBE_HomeArea>  
+	<!-- EN: Only unforbid automatically dropped fruit if the tree is in the home area -->
+	<VBE_HomeAreaDesc>Автоматически разрешать использование плодов, упавших на землю с деревьев в домашней зоне</VBE_HomeAreaDesc>  
+	<!-- EN: Always -->
+	<VBE_Always>Всегда</VBE_Always>  
+	<!-- EN: Always unforbid automatically dropped fruit -->
+	<VBE_AlwaysDesc>Всегда автоматически разрешать использование плодов, упавших на землю</VBE_AlwaysDesc>
+</LanguageData>
