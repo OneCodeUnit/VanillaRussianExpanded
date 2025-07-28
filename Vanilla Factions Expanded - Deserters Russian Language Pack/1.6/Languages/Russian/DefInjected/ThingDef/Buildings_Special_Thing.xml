@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: uranium slug ammo box -->
+  <VFED_AmmoBox_UraniumSlug.label>ящик с урановыми снарядами</VFED_AmmoBox_UraniumSlug.label>
+  <!-- EN: A small-sized box containing uranium slug ammunition. Used by Kontarion turrets to reload. May explode when damaged. -->
+  <VFED_AmmoBox_UraniumSlug.description>Небольшой ящик, содержащий урановые снаряды. Предназначен для использования в турелях класса «Контарион», но может быть использован и для перезарядки обычной снайперской турели. При повреждении может взорваться.</VFED_AmmoBox_UraniumSlug.description>
+  
+  <!-- EN: autocannon ammo box -->
+  <VFED_AmmoBox_Autocannon.label>ящик с тяжёлыми снарядами</VFED_AmmoBox_Autocannon.label>
+  <!-- EN: A small-sized box containing autocannon ammunition. Used by Palintone turrets to reload. May explode when damaged. -->
+  <VFED_AmmoBox_Autocannon.description>Небольшой ящик, содержащий тяжёлые боеприпасы. Предназначен для использования в турелях класса «Палинтон», но может быть использован и для перезарядки обычной тяжёлой турели. При повреждении может взорваться.</VFED_AmmoBox_Autocannon.description>
+  
+  <!-- EN: missile ammo box -->
+  <VFED_AmmoBox_Missile.label>ящик с ракетами</VFED_AmmoBox_Missile.label>
+  <!-- EN: A small-sized box containing missiles. Used by Onager turrets to reload. May explode when damaged. -->
+  <VFED_AmmoBox_Missile.description>Небольшой ящик, содержащий ракеты. Используется турелями «Онагр». При повреждении может взорваться.</VFED_AmmoBox_Missile.description>
+  
+  <!-- EN: supply crate -->
+  <VFED_SupplyCrate.label>ящик с припасами</VFED_SupplyCrate.label>
+  <!-- EN: A small imperial crate containing valuables. May contain intel. Opening it requires bypassing several security protocols and takes a short while./n/nAny attempt to destroy it will destroy the items as well. -->
+  <VFED_SupplyCrate.description>Маленький имперский ящик с ценными припасами. Может содержать разведданные. Для его открытия требуется обойти несколько протоколов безопасности, что займет некоторое время.\n\nУничтожение ящика также уничтожит содержащиеся в нём припасы.</VFED_SupplyCrate.description>
+  
+  <!-- EN: biosecured crate -->
+  <VFED_BiosecuredCrate.label>биокодированный ящик</VFED_BiosecuredCrate.label>
+  <!-- EN: A small imperial crate containing extremely valuable items. May contain critical intel. Due to the special restrictions, only imperial nobles are capable of opening it./n/nAny attempt to destroy it will destroy the items as well. -->
+  <VFED_BiosecuredCrate.description>Маленький имперский ящик с ценными предметами. Может содержать критические разведданные. Из-за специальных систем защиты, открыть его могут только знатные граждане Империи.\n\nУничтожение ящика также уничтожит содержащиеся в нём предметы.</VFED_BiosecuredCrate.description>
+  
+  <!-- EN: surveillance pillar -->
+  <VFED_SurveillancePillar.label>мачта слежения</VFED_SurveillancePillar.label>
+  <!-- EN: A large pillar with a series of sensors, cameras and motion detectors. Thanks to the sophisticated face recognition system, surveillance pillar can detect the presence of deserters in radius and will increase the visibility of whichever faction has sent them. Can be disabled via electromagnetic pulse, or by simply cutting off the power grid. -->
+  <VFED_SurveillancePillar.description>Высокий столб со множеством сенсоров, камер и датчиков движения. Благодаря сложной системе распознавания лиц, он способен обнаруживать присутствие дезертиров и повышать заметность отправившей их фракции. Может быть уничтожен, отключен с использованием ЭМИ или обесточен.</VFED_SurveillancePillar.description>
+  
+  <!-- EN: aerodrone munitions crate -->
+  <VFED_AerodroneMunitionsCrate.label>ящик с боеприпасами аэродронов</VFED_AerodroneMunitionsCrate.label>
+  <!-- EN: A large military crate of aerodrone munitions. Will explode when damaged, sending armed shells flying in random directions. -->
+  <VFED_AerodroneMunitionsCrate.description>Большой ящик с боеприпасами для аэродронов. При повреждении взрывается сам и выпускает снаряды в случайном направлении.</VFED_AerodroneMunitionsCrate.description>
+  
+  <!-- EN: aerodrone battery pack -->
+  <VFED_AerodroneBatteryPack.label>аккумулятор аэродрона</VFED_AerodroneBatteryPack.label>
+  <!-- EN: A large, overcharged aerodrone battery. Will release a strong electromagnetic pulse when damaged, potentially disabling nearby defenses. -->
+  <VFED_AerodroneBatteryPack.description>Большой, перегруженный аккумулятор аэродрона. При повреждении выпускает мощный электромагнитный импульс.</VFED_AerodroneBatteryPack.description>
+  
+  <!-- EN: aerodrone -->
+  <VFED_Aerodrone.label>аэродрон</VFED_Aerodrone.label>
+  <!-- EN: Aerodrone is a spacer-tech, unmanned aerial vehicle equipped with advanced sensors and a missile payload. Designed for autonomous long-range operations, it's commonly used by the Empire for reconnaissance and bombardment. Its ability to release powerful missile salvos makes it effective against various targets. This aerodrone is temporarily disabled due to the recharge cycle. -->
+  <VFED_Aerodrone.description>Беспилотный летательный аппарат, сконструированный с использованием технологий космического уровня. Оснащён продвинутыми датчиками и ракетными установками. Аэродрон разработан для автономного выполнения операций дальнего действия, поэтому часто используются Империей для разведки и бомбардировок. Способность выпускать мощные ракетные залпы позволяет эффективно поражать самые разные цели. Этот аэродрон временно отключен из-за процесса перезарядки.</VFED_Aerodrone.description>
+  
+  <!-- EN: imperial maxpack -->
+  <VFED_ImperialMaxpack.label>имперский «Макспак»</VFED_ImperialMaxpack.label>
+  <!-- EN: The Imperial maxpack is a formidable armored transport truck, known for its impressive cargo capacity. Its armor is impenetrable, ensuring the safety of its contents throughout transit. Once in motion, the Maxpack’s doors remain sealed until it reaches its predetermined destination. While attempting to loot its cargo is futile due to built-in self-destruct protocols, its robust exterior makes it an ideal shield on the battlefield. -->
+  <VFED_ImperialMaxpack.description>Крупный бронированный грузовик, известный своей впечатляющей грузоподъёмностью. Непроницаемая броня обеспечивает сохранность его содержимого на протяжении всего маршрута. После начала движения, двери «Макспака» остаются закрытыми до тех пор, пока он не достигнет точки назначения. Попытка вскрыть броню и добраться до груза бесполезна из-за протоколов самоуничтожения. Прочная броня и внушительные размеры делают «Макспак» отличным укрытием на поле боя.</VFED_ImperialMaxpack.description>
+  
+  <!-- EN: strike buoy -->
+  <VFED_StrikeBuoy.label>маячок наведения</VFED_StrikeBuoy.label>
+  <!-- EN: A small surveillance buoy usually deployed around temporary convoy stops. Linked directly with a patrolling aerodrone, once triggered, it will send down a small missile salvo on its location. -->
+  <VFED_StrikeBuoy.description>Небольшой маячок, обычно размещаемый в месте остановки конвоя. Будучи подключенным непосредственно к патрулирующему аэродрону, он вызовет ракетный удар на свои координаты при срабатывании.</VFED_StrikeBuoy.description>
+  
+  <!-- EN: fuel tank -->
+  <VFED_FuelTank.label>топливный резервуар</VFED_FuelTank.label>
+  <!-- EN: A large fuel tank used to refuel Imperial shuttles. Will detonate if damaged beyond a certain point, potentially triggering a chain reaction. -->
+  <VFED_FuelTank.description>Большой топливный бак, используемый для заправки имперских челноков. Взрывоопасен.</VFED_FuelTank.description>
+  
+  <!-- EN: surveillance console -->
+  <VFED_SurveillanceStation.label>консоль слежения</VFED_SurveillanceStation.label>
+  <!-- EN: A large console designed to link to surrounding surveillance pillars. Provides users with all the necessary data related to enemy movements in a given sector. -->
+  <VFED_SurveillanceStation.description>Большая консоль, предназначенная для связи с ближайшими мачтами слежения. Предоставляет пользователю всю важную информацию, связанную с передвижением противника в данном секторе.</VFED_SurveillanceStation.description>
+  
+  <!-- EN: surveillance display bank -->
+  <VFED_SurveillanceDisplayBank.label>ряд дисплеев слежения</VFED_SurveillanceDisplayBank.label>
+  <!-- EN: An imperial computer interface. Linked to the surveillance console, the display bank shows live footage from all surveillance pillars in the sector. -->
+  <VFED_SurveillanceDisplayBank.description>Имперский компьютерный интерфейс. Будучи подключенным к консоли слежения, он в реальном времени показывает изображения полученные от мачт слежения.</VFED_SurveillanceDisplayBank.description>
+  
+  <!-- EN: techprinter -->
+  <VFED_Techprinter.label>техитовый принтер</VFED_Techprinter.label>
+  <!-- EN: The Techprinter is a marvel of technological innovation, designed to capture and preserve the intricate knowledge residing within a techfriar’s mind. These advanced machines imprint this invaluable information directly onto techite discs. Techprints provide foundational knowledge for researchers, shedding light on innovations from more advanced societies. -->
+  <VFED_Techprinter.description>Техитовый принтер или принтер чертежей — это чудо технологического прогресса, созданное для фиксации и защиты уникальных знаний, хранящихся в умах имперских техномонахов. Эти продвинутые машины записывают бесценную информацию на специальные техитовые диски. Записанные таким способом чертежи служат основой для научных исследований, проливая свет на инновации более развитых миров.</VFED_Techprinter.description>
+  
+  <!-- EN: techite disc stack -->
+  <VFED_TechiteDiscStack.label>стопка техитовых дисков</VFED_TechiteDiscStack.label>
+  <!-- EN: A compact stack of discs crafted from the enigmatic element known as techite, produced exclusively by the Empire for knowledge transcribing. Primarily designed for preserving information. When ignited, they release a dense cloud of blinding smoke and sparks, capable of engulfing a vast area in flames. -->
+  <VFED_TechiteDiscStack.description>Стопка дисков из загадочного материала — техита. Эти диски используются Империей для сохранения и передачи ценных знаний. При возгорании выпускают облако дыма и искр, способное поджечь местность в большом радиусе вокруг себя.</VFED_TechiteDiscStack.description>
+  
+  <!-- EN: imperial underfarm -->
+  <VFED_ImperialUnderfarm.label>имперская подземная ферма</VFED_ImperialUnderfarm.label>
+  <!-- EN: An underground hydroponics basic used by the empire to feed their subjects. Fully automated and connected to water mains, these farms require no labor to operate. -->
+  <VFED_ImperialUnderfarm.description>Подземные гидропонные фермы, разработанные Империей для эффективного снабжения продовольствием своих подданных. Будучи полностью автоматизированными и подключёнными к водопроводным магистралям, эти фермы не требуют привлечения рабочей силы.</VFED_ImperialUnderfarm.description>
+  
+  <!-- EN: water main -->
+  <VFED_WaterMain.label>водопроводная магистраль</VFED_WaterMain.label>
+  <!-- EN: A large node connecting all the nearby water mains. Required for the underfarms to operate. -->
+  <VFED_WaterMain.description>Большой узел, соединяющий все близлежащие водопроводные сети. Необходим для функционирования имперских подземных ферм.</VFED_WaterMain.description>
+  
+  <!-- EN: crashed aerodrone -->
+  <VFED_CrashedAerodrone.label>разбитый аэродрон</VFED_CrashedAerodrone.label>
+  <!-- EN: A crashed imperial aerodrone. -->
+  <VFED_CrashedAerodrone.description>Обломки разбившегося имперского аэродрона.</VFED_CrashedAerodrone.description>
+  
+  <!-- EN: imperial mega high-shield -->
+  <VFED_ImperialMegaHighShield.label>имперский купольный проектор</VFED_ImperialMegaHighShield.label>
+  <!-- EN: An advanced shielding apparatus, the Imperial mega high-shield projects a vast momentum repulsor field, allowing shots to exit but preventing any from entering. Specifically calibrated for high angles, it's adept at deflecting incoming mortar rounds, aerodrone strikes and even orbital slicer beams. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. Draws huge amounts of power. -->
+  <VFED_ImperialMegaHighShield.description>Продвинутый проектор импульсно-репульсорного поля, перехватывающего пули извне, но позволяющего вести огонь изнутри.\n\nЭтот проектор настроен на защиту от снарядов, падающих по навесной или мортирной траекториям, а также способен отражать удары аэродронов и даже орбитальные режущие лучи.\n\nЩит может быть временно отключён при помощи ЭМИ, ударом по самому устройству или перегрузкой защитного поля. Потребляет огромное количество энергии.</VFED_ImperialMegaHighShield.description>
+  
+  <!-- EN: zeus cannon control station -->
+  <VFED_ZeusCannonControlStation.label>станция управления электропушками</VFED_ZeusCannonControlStation.label>
+  <!-- EN: This terminal serves as the primary interface for operating the Zeus Cannon batteries. Equipped with sophisticated controls and targeting systems, the Zeus Cannon Control Station ensures precision and coordination when deploying the formidable firepower of the Zeus Cannons. Operators need to be within its radius to control it. -->
+  <VFED_ZeusCannonControlStation.description>Главный интерфейс управления электропушками. Сложные системы наведения обеспечивают точное и согласованное применение мощного огневого потенциала электропушек. Для функционирования необходим оператор.</VFED_ZeusCannonControlStation.description>
+  
+  <!-- EN: zeus cannon capacitor bank -->
+  <VFED_ZeusCannonCapacitorBank.label>конденсатор электропушки</VFED_ZeusCannonCapacitorBank.label>
+  <!-- EN: A capacitor bank that transforms electricity into raw energy for the Zeus cannon. Will release a large EMP shockwave when destroyed, potentially disabling the Zeus cannon itself. -->
+  <VFED_ZeusCannonCapacitorBank.description>Конденсаторный блок, преобразующий электрический ток в чистую энергию для электропушки. При уничтожении выпускает мощный электромагнитный импульс, способный вывести из стоя саму пушку.</VFED_ZeusCannonCapacitorBank.description>
+  
+  <!-- EN: zeus cannon -->
+  <VFED_ZeusCannon.label>электропушка</VFED_ZeusCannon.label>
+  <!-- EN: A relic of ancient Sophiamundan technology, the Zeus Cannon is a closely guarded secret of the Empire. This formidable artillery piece has the unique ability to convert vast quantities of electricity into potent energy blasts. With unmatched range, it can pierce the atmosphere to target and obliterate objects in orbit. A testament to lost engineering brilliance, it stands as both a weapon and a symbol of the Empire's might./n/nIt has a long charging cycle, after which it will aim at the target and release a devastating energy blast. -->
+  <VFED_ZeusCannon.description>Электропушка — реликтовый образец древней технологии Софиямунды. Секрет её создания тщательно охраняется Империей. Это разрушительное орудие обладает уникальной способностью преобразовывать огромное количество электричества в мощные энергетические разряды. Обладая непревзойдённой дальнобойностью, её снаряды способны пробить атмосферу и поразить орбитальные цели. Будучи образцом утраченного инженерного мастерства, электропушка является одновременно и оружием, и символом могущества Империи.\n\nЭто орудие отличается продолжительным циклом перезарядки, за которым следует нацеливание и выпуск разрушительного энергетического разряда.</VFED_ZeusCannon.description>
+  
+  <!-- EN: burnout intel scraper -->
+  <VFED_BurnoutIntelScraper.label>кустарный радиоперехватчик</VFED_BurnoutIntelScraper.label>
+  <!-- EN: A deserter device capable of intercepting imperial communication. When activated, it will begin intel scraping, emitting a pulse in regular intervals. Each pulse has a chance of generating a small amount of intel, but it may also increase your visibility and even alert an imperial strike force. After 10 pulses, the machine burns out and triggers a fiery explosion. -->
+  <VFED_BurnoutIntelScraper.description>Устройство дезертиров, предназначенное для перехвата радиообмена имперских сил. При активации перехватчик начинает автоматический сбор разведданных, излучая импульсы с определёнными интервалами. Каждый импульс может сгенерировать небольшое количество разведданных, но также может повысить вашу заметность и даже спровоцировать карательную операцию со стороны Империи. После 10 импульсов перехватчик перегорает и взрывается.</VFED_BurnoutIntelScraper.description>
+</LanguageData>

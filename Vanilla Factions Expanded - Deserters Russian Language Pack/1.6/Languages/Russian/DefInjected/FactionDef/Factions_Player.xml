@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: New Safehaven -->
+  <VFED_NewSafehaven.label>дезертирское убежище</VFED_NewSafehaven.label>
+  <!-- EN: A deserter cell, laying low. -->
+  <VFED_NewSafehaven.description>Ваш затаившийся дезертирский отряд.</VFED_NewSafehaven.description>
+  <!-- EN: deserter -->
+  <VFED_NewSafehaven.pawnSingular>дезертир</VFED_NewSafehaven.pawnSingular>
+  <!-- EN: deserter -->
+  <VFED_NewSafehaven.pawnsPlural>дезертиры</VFED_NewSafehaven.pawnsPlural>
+  
+  <!-- EN: leader -->
+  <VFED_NewSafehaven.leaderTitle>предводитель</VFED_NewSafehaven.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFED_NewSafehaven.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFED_NewSafehaven.messageDefendersAttacking>
+</LanguageData>

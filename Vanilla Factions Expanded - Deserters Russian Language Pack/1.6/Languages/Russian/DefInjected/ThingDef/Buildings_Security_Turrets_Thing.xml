@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: kontarion -->
+  <VFED_Turret_Kontarion.label>турель «Контарион»</VFED_Turret_Kontarion.label>
+  <!-- EN: A powerful, long-range weapon used by the Empire to take out enemy targets from afar. Kontarion turret fires ultra-dense uranium slugs at incredible speeds, penetrating even the heaviest armor. With its rapid-fire capabilities, tremendous accuracy and infinite range, it’s a force to be reckoned with. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.\n\nIt consumes a lot of ammunition, and requires an adjacent crate of uranium slug ammo in order to automatically reload. It cannot be reloaded by hand. -->
+  <VFED_Turret_Kontarion.description>Мощное дальнобойное орудие, используемое Империей для уничтожения враждебных целей с расстояния. Турель класса «Контарион» стреляет сверхплотными урановыми снарядами с невероятной скоростью, пробивая даже самую тяжёлую броню. Скорострельность, точность и бесконечная дальность стрельбы превращают её в силу с которой нужно считаться. По мере сокращения дальности, точность стрельбы снижается, а ближние цели такая турель поражать и вовсе не способна. При повреждении может взорваться.\n\nДля функционирования требует наличия рядом ящиков с урановыми снарядами, загружаемыми в автоматическом режиме. Ручная перезарядка невозможна.</VFED_Turret_Kontarion.description>
+  <!-- EN: Shots until rearm -->
+  <VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>Выстрелов до перезарядки</VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Uranium slugs -->
+  <VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>Урановые снаряды</VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: No slugs -->
+  <VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>нет снарядов</VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: kontarion cannon -->
+  <VFED_Gun_Kontarion.label>пушка «Контариона»</VFED_Gun_Kontarion.label>
+  <!-- EN: A self-loading uranium slug cannon designed to attach to a turret. -->
+  <VFED_Gun_Kontarion.description>Самозарядное снайперское орудие, предназначенное для крепления к турельной установке.</VFED_Gun_Kontarion.description>
+  <!-- EN: kontarion cannon -->
+  <VFED_Gun_Kontarion.verbs.Verb_Shoot.label>пушка «Контариона»</VFED_Gun_Kontarion.verbs.Verb_Shoot.label>
+  
+  <!-- EN: palintone -->
+  <VFED_Turret_Palintone.label>турель «Палинтон»</VFED_Turret_Palintone.label>
+  <!-- EN: A powerful, anti-infantry weapon used by the Empire to defend unsafe outposts. Palintone turret fires large-caliber shells at incredible speeds, dealing heavy damage over significant ranges. It fires huge volleys of rounds that can provide suppressive fire and quickly shred lightly armored targets. With its devastating firepower, the Palintone turret is capable of keeping even the largest enemy forces at bay. May explode when damaged.\n\nIt consumes a lot of ammunition, and requires an adjacent crate of autocannon ammo in order to automatically reload. It cannot be reloaded by hand. -->
+  <VFED_Turret_Palintone.description>Мощное противопехотное орудие, используемое Империей для защиты аванпостов. Турель класса «Палинтон» стреляет крупнокалиберными снарядами с огромной скорострельностью, нанося серьёзный урон на значительном расстоянии. Огромные очереди снарядов обеспечивают подавляющий огонь и быстро уничтожают легкобронированные цели. Разрушительная огневая мощь турели позволяет сдерживать даже самые крупные силы противника. Может взорваться при повреждении.\n\nДля функционирования требует наличия рядом ящиков с тяжёлыми снарядами, загружаемыми в автоматическом режиме. Ручная перезарядка невозможна.</VFED_Turret_Palintone.description>
+  <!-- EN: Shots until rearm -->
+  <VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>Выстрелов до перезарядки</VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Autocannon ammo -->
+  <VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>Тяжёлый снаряд</VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: No ammo -->
+  <VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>нет боеприпасов</VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: palintone cannon -->
+  <VFED_Gun_Palintone.label>пушка «Палинтона»</VFED_Gun_Palintone.label>
+  <!-- EN: A self-loading cannon designed to attach to a turret. -->
+  <VFED_Gun_Palintone.description>Самозарядное орудие, предназначенное для крепления к турельной установке.</VFED_Gun_Palintone.description>
+  <!-- EN: palintone cannon -->
+  <VFED_Gun_Palintone.verbs.Verb_Shoot.label>пушка «Палинтона»</VFED_Gun_Palintone.verbs.Verb_Shoot.label>
+  
+  <!-- EN: onager -->
+  <VFED_Turret_Onager.label>турель «Онагр»</VFED_Turret_Onager.label>
+  <!-- EN: A powerful, anti-armored weapon used by the Empire to destroy heavily armored targets with ease. Capable of launching missiles in bursts of 6, the Onager can deal devastating damage to enemy forces in a short amount of time. The Onager turret is most effective at short range, where its missiles can be accurately targeted at enemy positions. However, it cannot fire at enemies that are too close, as the missiles require a certain distance to arm and track their targets. Additionally, due to the sheer number of missiles it fires, the Onager is not as accurate as other turrets, and can sometimes miss its targets. May explode when damaged.\n\nIt consumes a lot of ammunition, and requires an adjacent crate of missile ammo in order to automatically reload. It cannot be reloaded by hand. -->
+  <VFED_Turret_Onager.description>Противотанковое орудие, используемое Империей для уничтожения высокобронированных целей. Турель класса «Онáгр» способна выстреливать до шести ракет за раз, за короткое время нанося значительные повреждения вражеским силам. Она наиболее эффективна на ближних дистанциях, однако не может стрелять по слишком близким целям, так как ракетам требуется время для взведения и нацеливания. Кроме того, из-за большого количества выпускаемых ракет, Онагр менее точен, чем другие турели, и иногда промахивается мимо цели. Может взорваться при повреждении.\n\nДля функционирования требует наличия рядом ящиков с ракетами, загружаемыми в автоматическом режиме. Ручная перезарядка невозможна.</VFED_Turret_Onager.description>
+  <!-- EN: Shots until rearm -->
+  <VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>Выстрелов до перезарядки</VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Onager missiles -->
+  <VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>Ракеты</VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: No missiles -->
+  <VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>нет ракет</VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: onager cannon -->
+  <VFED_Gun_Onager.label>пушка «Онагра»</VFED_Gun_Onager.label>
+  <!-- EN: A self-loading rocket launcher designed to attach to a turret. -->
+  <VFED_Gun_Onager.description>Самозарядное ракетное орудие, предназначенное для крепления к турельной установке.</VFED_Gun_Onager.description>
+  <!-- EN: onager cannon -->
+  <VFED_Gun_Onager.verbs.Verb_Shoot.label>пушка «Онагра»</VFED_Gun_Onager.verbs.Verb_Shoot.label>
+  <!-- EN: onager -->
+  <VFFED_Bullet_Onager.label>ракета из «Онагра»</VFFED_Bullet_Onager.label>
+  
+  <!-- EN: striker turret -->
+  <VFED_Turret_StrikerTurret.label>ударная турель</VFED_Turret_StrikerTurret.label>
+  <!-- EN: A stationary, powerful turret. Will self-destruct if it is sufficiently damaged. -->
+  <VFED_Turret_StrikerTurret.description>Мощная, неподвижная турель. Самоуничтожается при значительных повреждениях.</VFED_Turret_StrikerTurret.description>
+</LanguageData>

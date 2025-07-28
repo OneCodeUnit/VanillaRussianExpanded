@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Contact Deserters -->
+  <VFED.ContactDeserters>Связаться с дезертирами</VFED.ContactDeserters>
+  <!-- EN: Visibility: {0} -->
+  <VFED.Visibility>Заметность: {0}</VFED.Visibility>
+  <!-- EN: Current visibility:  -->
+  <VFED.CurrentVisibility>Текущая заметность: </VFED.CurrentVisibility>
+  <!-- EN: Effects: -->
+  <VFED.Effects>Эффекты: </VFED.Effects>
+  <!-- EN: Intel cost:  -->
+  <VFED.IntelCostModifier>Разведданных для оплаты заказа: </VFED.IntelCostModifier>
+  <!-- EN: Time to receive contraband:  -->
+  <VFED.ContrabandRecieveTimeModifier>Время получения контрабанды: </VFED.ContrabandRecieveTimeModifier>
+  <!-- EN: Availability of the dead drops:  -->
+  <VFED.ContrabandSiteTimeModifier>Доступность схронов контрабанды: </VFED.ContrabandSiteTimeModifier>
+  <!-- EN: Time for Imperial response:  -->
+  <VFED.ImperialResponseTime>Время реакции Империи: </VFED.ImperialResponseTime>
+  <!-- EN: Type of Imperial response:  -->
+  <VFED.ImperialResponseType>Тип реакции Империи: </VFED.ImperialResponseType>
+  <!-- EN: Special effects:  -->
+  <VFED.SpecialEffects>Особые эффекты: </VFED.SpecialEffects>
+  <!-- EN: No response -->
+  <VFED.NoResponse>Без реакции</VFED.NoResponse>
+  <!-- EN: None -->
+  <VFED.None>Нет</VFED.None>
+  <!-- EN: Name of the item -->
+  <VFED.ItemName>Название предмета</VFED.ItemName>
+  <!-- EN: Cost -->
+  <VFED.Cost>Стоимость</VFED.Cost>
+  <!-- EN: Basket -->
+  <VFED.Basket>Состав заказа</VFED.Basket>
+  <!-- EN: Items purchased via the contraband system do not arrive in your colony with cargopods. Instead, a dead drop pick up quest will become available after some amount of time, and the quest will only be available for a brief moment. This is where you pick up purchased contraband. -->
+  <VFED.ContrabandRecieveDesc>Предметы, приобретённые через систему контрабанды, не доставляются к вам в транспортных капсулах. Вместо этого будет доступно задание по подбору заказа из схрона контрабанды, которое будет доступно в течение ограниченного периода времени.</VFED.ContrabandRecieveDesc>
+  <!-- EN: Purchase -->
+  <VFED.Purchase>Купить</VFED.Purchase>
+  <!-- EN: Rush delivery -->
+  <VFED.RushDelivery>Экспресс доставка</VFED.RushDelivery>
+  <!-- EN: Total basket cost -->
+  <VFED.TotalCost>Общая стоимость заказа</VFED.TotalCost>
+  <!-- EN: You can rush delivery to receive the items instantly via drop pods, however it doubles the Intel cost of this order. -->
+  <VFED.RushDeliveryDesc>Вы можете заказать мгновенную доставку транспортными капсулами в ваше поселение. Однако это удвоит необходимое количество разведданных для оплаты заказа.</VFED.RushDeliveryDesc>
+  <!-- EN: Estimated time to receive: (*DateTime){0}-{1} days(/DateTime) -->
+  <VFED.TimeToReceive>Расчётное время получения: {0}-{1_numCase ? день : дня : дней}</VFED.TimeToReceive>
+  <!-- EN: Time to pick up: (*DateTime){0} days(/DateTime) -->
+  <VFED.TimeToPickup>Времени, чтобы забрать заказ: {0_numCase ? день : дня : дней}</VFED.TimeToPickup>
+  <!-- EN: Time to receive and time to pick up depends on the amount of items you’re purchasing, as well as your current visibility level. After time to receive has elapsed, a dead drop quest will become available. It will only be active for the duration in ‘Time to pick up’. If you fail to collect it in time, the items will be gone. -->
+  <VFED.TimeLimitDesc>Время получения и время, выделяемое для подбора груза, зависит от количества приобретаемых предметов, а также от уровня заметности. По истечении расчётного времени получения появится задание «Схрон контрабанды», которое будет активно в течение периода «Время, чтобы забрать заказ». Если вы не успеете подобрать груз, все приобретённые предметы будут утеряны.</VFED.TimeLimitDesc>
+  <!-- EN: Not enough {0}. Need {1}, have {2} -->
+  <VFED.NotEnough>Недостаточно {lookup: {0}; Case; 1}. Нужно {1}, у вас — {2}</VFED.NotEnough>
+  <!-- EN: This is a deserter quest. It may provide intel on the Shattered Empire, but it may also increase your faction’s visibility. -->
+  <VFED.DeserterQuestDesc>Это задание от дезертиров. За его выполнение можно получить разведданные о Раздробленной империи, но также возможно повышение уровня заметности вашей фракции.</VFED.DeserterQuestDesc>
+  <!-- EN: Available quests -->
+  <VFED.AvailableQuests>Доступные задания</VFED.AvailableQuests>
+  <!-- EN: Critical quests -->
+  <VFED.CriticalQuests>Важные задания</VFED.CriticalQuests>
+  <!-- EN: Quest description -->
+  <VFED.QuestDescription>Описание задания</VFED.QuestDescription>
+  <!-- EN: You can pay intel to obtain quests from the Deserter network, however you will not know the rewards that can be obtained from the quest until you purchase it. -->
+  <VFED.QuestPurchaseDesc>Вы можете потратить разведданные, чтобы получить задание от дезертирской сети, однако вы не узнаете о награде за задание, пока не приобретёте его.</VFED.QuestPurchaseDesc>
+  <!-- EN: Total quest cost -->
+  <VFED.TotalQuestCost>Общая стоимость задания</VFED.TotalQuestCost>
+  <!-- EN: Activate -->
+  <VFED.Activate>Активировать</VFED.Activate>
+  <!-- EN: Other services -->
+  <VFED.OtherServices>Другие услуги</VFED.OtherServices>
+  <!-- EN: Rewards -->
+  <VFED.Rewards>Награда</VFED.Rewards>
+  <!-- EN: Plot description -->
+  <VFED.PlotDesc>Описание миссии</VFED.PlotDesc>
+  <!-- EN: Target: {0} -->
+  <VFED.PlotTarget>Цель: {0}</VFED.PlotTarget>
+  <!-- EN: Completed on {0} -->
+  <VFED.CompletedOn>Цель уничтожена {0}</VFED.CompletedOn>
+  <!-- EN: Combat: High -->
+  <VFED.CombatHigh>Сложность боя: высокая</VFED.CombatHigh>
+  <!-- EN: Combat: Medium -->
+  <VFED.CombatMedium>Сложность боя: средняя</VFED.CombatMedium>
+  <!-- EN: Combat: Minimal -->
+  <VFED.CombatLow>Сложность боя: низкая</VFED.CombatLow>
+  <!-- EN: Expect intense combat -->
+  <VFED.CombatHighDesc>Ожидайте напряжённых боевых действий.</VFED.CombatHighDesc>
+  <!-- EN: Expect some combat -->
+  <VFED.CombatMediumDesc>Ожидайте умеренных боевых действий.</VFED.CombatMediumDesc>
+  <!-- EN: Expect minimal combat -->
+  <VFED.CombatLowDesc>Ожидайте минимальных боевых действий.</VFED.CombatLowDesc>
+  <!-- EN: Show active quest -->
+  <VFED.ShowActiveQuest>Показать активное задание</VFED.ShowActiveQuest>
+  <!-- EN: Select -->
+  <VFED.Select>Выбрать</VFED.Select>
+  <!-- EN: Hull integrity -->
+  <VFED.HullIntegrity>Целостность корпуса</VFED.HullIntegrity>
+  <!-- EN: Flagship -->
+  <VFED.Flagship>Флагман</VFED.Flagship>
+  <!-- EN: Start Mission -->
+  <VFED.StartMission>Начать миссию</VFED.StartMission>
+  <!-- EN: Amount of {0} in range of powered trading beacons. -->
+  <VFED.IntelAmount>Количество {lookup: {0}; Case; 1} в зоне действия включенных торговых маяков.</VFED.IntelAmount>
+</LanguageData>

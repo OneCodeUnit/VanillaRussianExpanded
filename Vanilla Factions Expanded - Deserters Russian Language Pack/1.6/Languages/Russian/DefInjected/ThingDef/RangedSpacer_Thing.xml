@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: charge cycler -->
+  <VFED_Gun_ChargeCycler.label>энергоревольвер</VFED_Gun_ChargeCycler.label>
+  <!-- EN: A modified charged-shot revolver that incorporates mechanoid technology. Recovered thump cannons have been reversed engineered to allow for a powerful charge revolver with two shooting modes to be created. Charged shot mode will eliminate any close targets with a powerful, armor-piercing blast, whilst a Thump shot mode allows users to incapacitate enemies and break any defenses they might be hiding behind. Modes can be changed with a press of a button. -->
+  <VFED_Gun_ChargeCycler.description>Модифицированный энергопистолет, созданный на основе технологий механоидов. Ударное орудие Термита было восстановлено и переработано для создания мощного энергитического револьвера, способного стрелять в двух режимах. Режим энерговыстрелов отличается бронебойностью, позволяя уничтожать любые цели на коротких дистанциях, в то время, как режим ударных выстрелов позволяет подавлять врагов и разрушать укрепления. Режимы переключаются нажатием соответствующей кнопки.</VFED_Gun_ChargeCycler.description>
+
+  <!-- EN: handle -->
+  <VFED_Gun_ChargeCycler.tools.0.label>рукоять</VFED_Gun_ChargeCycler.tools.0.label>
+  <!-- EN: barrel -->
+  <VFED_Gun_ChargeCycler.tools.1.label>ствол</VFED_Gun_ChargeCycler.tools.1.label>
+
+  <!-- EN: charged shot -->
+  <VFED_Bullet_ChargedShot.label>энергопуля</VFED_Bullet_ChargedShot.label>
+  <!-- EN: thump shot -->
+  <VFEE_Bullet_ThumpShot.label>ударная пуля</VFEE_Bullet_ThumpShot.label>
+  
+
+  <!-- EN: Single shot (Charged shot) -->
+  <VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.0.label>одиночный выстрел (энергопуля)</VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.0.label>
+  <!-- EN: Single shot (Thump shot) -->
+  <VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.1.label>одиночный выстрел (ударная пуля)</VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.1.label>
+  <!-- EN: Single shot (Charged shot) -->
+  <VFED_Gun_ChargeCycler.verbs.Single_shot_Charged_shot.label>одиночный выстрел (энергопуля)</VFED_Gun_ChargeCycler.verbs.Single_shot_Charged_shot.label>
+  <!-- EN: Single shot (Thump shot) -->
+  <VFED_Gun_ChargeCycler.verbs.Single_shot_Thump_shot.label>одиночный выстрел (ударная пуля)</VFED_Gun_ChargeCycler.verbs.Single_shot_Thump_shot.label>
+  
+  <!-- EN: fletchling -->
+  <VFED_Gun_Fletchling.label>рычажный инъектор</VFED_Gun_Fletchling.label>
+  <!-- EN: A modification to the extremely rare fletcher rifle, fletchling is a shotgun commonly used by Imperial deserters. The mere possession of it can be seen as an act of war against the Shattered Empire. Each fletchling shot releases a number of small acidifier darts that may hit several targets, causing extreme amounts of pain and acid burns. Lethal to organics and almost useless against non-organics, such as mechanoids. \n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. The acid will rampage through the target’s body and usually results in vital organs being dissolved, however lethality isn’t guaranteed. -->
+  <VFED_Gun_Fletchling.description>Модифицированное оружие, обычно используемое имперскими дезертирами, созданное на базе черезвычайно редкого кислотного инъектора. Даже само владение им может быть воспринято как акт агрессии против Раздробленной империи. Каждый выстрел рычажного инъектора выпускает множество маленьких дротиков со смесью кислот, которые могут поразить несколько целей, вызывая сильную боль из-за химических ожогов. Смертельно для всей органики и почти бесполезно против неорганических целей, например механоидов.\n\nЦели, поражённые этим оружием, попадут под эффект нестабильного варианта химикатов, используемых в посмертных растворителях, предназначенных для разрушения организма изнутри, а не уничтожения носимого оборудования. Попадая в организм цели, кислота поражает внутренние органы и ткани, нанося тяжёлые химические ожоги, однако смерть от единственного попадания не гарантирована.</VFED_Gun_Fletchling.description>
+  <!-- EN: barrel -->
+  <VFED_Gun_Fletchling.tools.0.label>ствол</VFED_Gun_Fletchling.tools.0.label>
+  <!-- EN: fletcher dart -->
+  <VFEE_Bullet_FletchlingDart.label>дротик кислотного инъектора</VFEE_Bullet_FletchlingDart.label>
+  <!-- EN: fletchling -->
+  <VFED_Gun_Fletchling.verbs.Verb_Shoot.label>рычажный инъектор</VFED_Gun_Fletchling.verbs.Verb_Shoot.label>
+</LanguageData>

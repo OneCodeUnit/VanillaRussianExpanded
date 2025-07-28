@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+  questName->Deserter dead drop -->
+  <VFED_DeadDrop.questNameRules.rulesStrings>
+  <li>questName->схрон контрабанды</li>
+  </VFED_DeadDrop.questNameRules.rulesStrings>
+  <!-- EN: questDescription->We have received a message from our deserter informant that our order is ready for collection not far from [map_definite]. The items we will find there are:\n\n[itemStashContents]\n\nDue to the value of the items and the fact that [empire_name] will inevitably look for them when they realize they’ve gone missing, we should make our way to the dead drop as soon as possible.\n\nWe should ensure we have enough carry capacity to bring all the items back. -->
+  <VFED_DeadDrop.questDescriptionRules.rulesStrings>
+  <li>questDescription->Мы получили сообщение от нашего информатора из дезертирской сети о том, что заказанный нами контрабандный груз, спрятан недалеко от [map_definite] и его можно забирать. Этот груз включает в себя:\n\n[itemStashContents]\n\nУчитывая стоимость этих предметов и то, что [empire_name] наверняка начнёт их искать, как только обнаружит пропажу, нам следует как можно быстрее добраться до места схрона.\n\nПрежде чем отправляться в путь, мы должны убедиться, что сможем унести груз.</li>
+  </VFED_DeadDrop.questDescriptionRules.rulesStrings>
+  
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  
+  <!-- EN: Intercepted communications indicate the dead drop has been located by [empire_name]. The quest [resolvedQuestName] has expired. -->
+  <VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Перехваченные переговоры указывают на то, что [empire_name] нашла предназначенный для нас контрабандный груз. Время, отведённое для задания [resolvedQuestName], истекло.</VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>
