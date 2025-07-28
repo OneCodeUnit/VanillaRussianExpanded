@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: 
+  <li>r_name->[inhive] [hivename]</li>
+  <li>r_name->[hiveadjective] [hivename]</li>
+  <li>r_name->The [hiveadjective] [hivename]</li>
+  <li>r_name->[inhive] [hiveadjective] [hivename]</li>
+  <li>r_name->The [inhive] [hivename]</li>
+  <li>inhive->[insectsyllable][insectsyllable]hive</li>
+  <li>inhive->[insectsyllable][insectsyllable]clan</li>
+  <li>inhive->[insectsyllable][insectsyllable]swarm</li>
+  <li>inhive->[insectsyllable][insectsyllable]colony</li>
+  <li>hivename->[insectsyllable][insectsyllable][insectsyllable]</li>
+  <li>hivename->[insectsyllable][insectsyllable][suffix]</li>
+  <li>hivename->[prefix][insectsyllable][insectsyllable]</li>
+  <li>hiveadjective->[insectadjective]</li>
+  <li>insectsyllable->skrit</li>
+  <li>insectsyllable->krax</li>
+  <li>insectsyllable->vith</li>
+  <li>insectsyllable->zarn</li>
+  <li>insectsyllable->klak</li>
+  <li>insectsyllable->thak</li>
+  <li>insectsyllable->grix</li>
+  <li>insectsyllable->drik</li>
+  <li>insectsyllable->brak</li>
+  <li>insectsyllable->krak</li>
+  <li>insectsyllable->nith</li>
+  <li>insectsyllable->slek</li>
+  <li>insectsyllable->tik</li>
+  <li>insectsyllable->vok</li>
+  <li>insectsyllable->zlik</li>
+  <li>insectsyllable->trak</li>
+  <li>insectsyllable->grith</li>
+  <li>prefix->Xa</li>
+  <li>prefix->Zo</li>
+  <li>prefix->Ki</li>
+  <li>prefix->Va</li>
+  <li>prefix->La</li>
+  <li>prefix->Ba</li>
+  <li>prefix->Da</li>
+  <li>prefix->Ta</li>
+  <li>prefix->Fa</li>
+  <li>suffix->tor</li>
+  <li>suffix->lox</li>
+  <li>suffix->rix</li>
+  <li>suffix->zoth</li>
+  <li>suffix->kar</li>
+  <li>suffix->lok</li>
+  <li>suffix->gorn</li>
+  <li>suffix->vrax</li>
+  <li>suffix->drak</li>
+  <li>insectadjective->venomous</li>
+  <li>insectadjective->chitinous</li>
+  <li>insectadjective->winged</li>
+  <li>insectadjective->pincered</li>
+  <li>insectadjective->fanged</li>
+  <li>insectadjective->segmented</li>
+  <li>insectadjective->hissing</li>
+  <li>insectadjective->clawed</li>
+  <li>insectadjective->armored</li>
+  -->
+  <VFE_NamerFactionInsectoidHives.rulePack.rulesStrings>
+  <li>r_name->[inhive] [hivename]</li>
+  <li>r_name->[hiveadjective] [hivename]</li>
+  <li>r_name->[hiveadjective] [inhive]</li>
+  
+  <li>inhive->улей [insectsyllable][insectsyllable]</li>
+  <li>inhive->клан [insectsyllable][insectsyllable]</li>
+  <li>inhive->рой [insectsyllable][insectsyllable]</li>
+  
+  <li>hivename->[insectsyllable][insectsyllable][insectsyllable]</li>
+  <li>hivename->[insectsyllable][insectsyllable][suffix]</li>
+  <li>hivename->[prefix][insectsyllable][insectsyllable]</li>
+  
+  <li>hiveadjective->[insectadjective]</li>
+  
+  <li>insectsyllable->скрит</li>
+  <li>insectsyllable->кракс</li>
+  <li>insectsyllable->вит</li>
+  <li>insectsyllable->зарн</li>
+  <li>insectsyllable->клак</li>
+  <li>insectsyllable->зак</li>
+  <li>insectsyllable->грикс</li>
+  <li>insectsyllable->дрик</li>
+  <li>insectsyllable->брак</li>
+  <li>insectsyllable->крак</li>
+  <li>insectsyllable->нит</li>
+  <li>insectsyllable->слек</li>
+  <li>insectsyllable->тик</li>
+  <li>insectsyllable->вок</li>
+  <li>insectsyllable->злик</li>
+  <li>insectsyllable->трак</li>
+  <li>insectsyllable->грит</li>
+  
+  <li>prefix->Кса</li>
+  <li>prefix->Зо</li>
+  <li>prefix->Ки</li>
+  <li>prefix->Ва</li>
+  <li>prefix->Ра</li>
+  <li>prefix->Ба</li>
+  <li>prefix->Да</li>
+  <li>prefix->Та</li>
+  <li>prefix->Фа</li>
+  
+  <li>suffix->токс</li>
+  <li>suffix->локс</li>
+  <li>suffix->рикс</li>
+  <li>suffix->зот</li>
+  <li>suffix->кар</li>
+  <li>suffix->лок</li>
+  <li>suffix->горн</li>
+  <li>suffix->вракс</li>
+  <li>suffix->драк</li>
+  
+  <li>insectadjective->ядовитый</li>
+  <li>insectadjective->хитиновый</li>
+  <li>insectadjective->стрекочущий</li>
+  <li>insectadjective->желчный</li>
+  <li>insectadjective->кусачий</li>
+  <li>insectadjective->чешуйчатый</li>
+  <li>insectadjective->шипящий</li>
+  <li>insectadjective->яростный</li>
+  <li>insectadjective->дикий</li>
+  </VFE_NamerFactionInsectoidHives.rulePack.rulesStrings>
+  
+</LanguageData>

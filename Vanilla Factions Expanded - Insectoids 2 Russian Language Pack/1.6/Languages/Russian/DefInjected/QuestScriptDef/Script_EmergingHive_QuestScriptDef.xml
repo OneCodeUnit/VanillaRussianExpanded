@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: 
+    <li>root->there are (*Threat)[count] insectoid hives(/Threat)</li>
+  -->
+  <VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+	<rulesStrings>
+		<li>root->расположены (*Threat)[count] ульев инсектоидов(/Threat)</li>
+	</rulesStrings>
+  </VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+  
+  <!-- EN: 
+    <li>questName->The [insectoid] [hive]</li>
+    <li>questName->[insectoid] [hive]</li>
+    <li>questName->[asker_nameDef] and the [hive]</li>
+    <li>hive->Hive</li>
+    <li>hive->Nest</li>
+    <li>hive->Colony</li>
+    <li>hive->Swarm</li>
+    <li>insectoid->Insectoid</li>
+    <li>insectoid->Creeping</li>
+    <li>insectoid->Chitinous</li>
+    <li>insectoid->Feral</li>
+    <li>insectoid->Voracious</li>
+  -->
+  <VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings>
+    <li>questName->[insectoidMale] [hiveMale]</li>
+    <li>questName->[insectoidFemale] [hiveFemale]</li>
+    <li>questName->[insectoidNeuter] [hiveNeuter]</li>
+    <li>questName->[asker_nameDef] и [insectoidMale] [hiveMale]</li>
+  
+    <li>hiveMale->Улей</li>
+    <li>hiveMale->Рой</li>
+    <li>hiveFemale->Колония</li>
+    <li>hiveNeuter->Гнездо</li>
+  
+    <li>insectoidMale->Инсектоидный</li>
+    <li>InsectoidFemale->Инсектоидная</li>
+    <li>insectoidNeuter->Инсектоидное</li>
+  
+    <li>insectoidMale->Хитиновый</li>
+    <li>insectoidFemale->Хитиновая</li>
+    <li>insectoidNeuter->Хитиновое</li>
+  
+    <li>insectoidMale->Хищный</li>
+    <li>insectoidFemale->Хищная</li>
+    <li>insectoidNeuter->Хищное</li>
+  
+    <li>insectoidMale->Прожорливый</li>
+    <li>insectoidFemale->Стрекочущая</li>
+    <li>insectoidNeuter->Стрекочущее</li>
+  
+    <li>insectoidMale->Ползучий</li>
+    <li>insectoidFemale->Ползучая</li>
+    <li>insectoidNeuter->Ползучее</li>
+  </VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings>
+  
+  <!-- EN: 
+  <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A new insectoid hive has emerged in a nearby area. If not destroyed, it will soon form a new colony, spreading infestation in the region. The hive is controlled by [siteFaction_name].\n[asker_nameDef] is asking us to destroy the hive, which means eliminating all insectoids and nests. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name], передаёт нам сообщение. Неподалёку появился новый улей инсектоидов из фракции [siteFaction_name]. Если его не уничтожить, он вскоре образует новую колонию, усугубляя нашествие насекомых в этом регионе.\n\n[asker_nameDef] просит стереть улей с лица земли: ликвидировать всех инсектоидов и уничтожить их гнёзда. [asker_label] говорит, что [sitePart0_description].</li>
+  </VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
+  
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The insectoid hive has established a new colony. The quest [resolvedQuestName] has expired. -->
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Улей инсектоидов основал новую колонию. Время, отведённое для задания [resolvedQuestName], истекло.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+  <!-- EN: Payment arrived -->
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterLabel.slateRef>Оплата прибыла</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <!-- EN: You have destroyed the insectoid hive!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterText.slateRef>Вы уничтожили колонию инсектоидов!\n\nПрибыла оплата от фракции [asker_faction_name].</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterText.slateRef>
+  
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы приняли участие в сражении по заданию [resolvedQuestName]. [asker_definite] спрашивает, кому из них за свою службу причитается [royalFavorReward_amount] ед. {lookup: [asker_faction_royalFavorLabel]; Case; 1}.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+  
+</LanguageData>

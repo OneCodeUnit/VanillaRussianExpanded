@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: VFE - Insectoids 2 -->
+  <VFEI_ModNameForSettings>VFE - Insectoids 2</VFEI_ModNameForSettings>
+
+  <!-- EN: Infested area -->
+  <VFEI_InsectTerritoryScale>Заражённая область</VFEI_InsectTerritoryScale>
+  <!-- EN: Infestation -->
+  <VFEI_Infestation>Заражение</VFEI_Infestation>
+  <!-- EN: Whether this tile is under the effects of an insectoid infestation.\n\nAreas around insectoid hives are often teeming with insects, with various insect-built structures affecting the environment. Infestations are much more likely to occur, and travelling parties may find roaming insectoids. -->
+  <VFEI_InfestationTooltip>Находится ли эта область под влиянием заражения инсектоидами.\n\nПрилегающая к ульям территория часто кишит насекомыми, а различные сооружения инсектоидов влияют на окружающую среду. Нападения насекомых происходят гораздо чаще, а караваны могут столкнуться с бродячими инсектоидами во время путешествий.</VFEI_InfestationTooltip>
+  
+  <!-- EN: Present -->
+  <VFEI_Present>Присутствует</VFEI_Present>
+  <!-- EN: This tile is near an insectoid hive, so there will be an ever-present insectoid influence on it. Infestations will happen every {0} days. Large infestations are much more likely to happen, and may occur anywhere, not just in dark areas. Megaspiders, spelopedes and megascarabs are roaming free, and travelling caravans may have to fend off insectoid swarms. -->
+  <VFEI_SettleWarning>Эта область находится рядом с ульем инсектоидов, поэтому на неё будет постоянно влиять их присутствие. Насекомые будут пробираться к вам каждые {0_numCase ? день : дня : дней}. Крупные прорывы будут случаться гораздо чаще и происходить где угодно, а не только в тёмных местах. Мегапауки, пещерные жуки и мегаскарабеи свободно перемещаются по всей заражённой области, а путешествующим караванам, возможно, придётся отбиваться от стай инсектоидов.</VFEI_SettleWarning>
+
+  <!-- EN: {0} before next swarmling spawn. -->
+  <VFEI_LarvaeTimeSpawn>{0} до появления новых роевиков.</VFEI_LarvaeTimeSpawn>
+  <!-- EN: Queen is resting. -->
+  <VFEI_NoMoreSpawningAllowed>Королева отдыхает.</VFEI_NoMoreSpawningAllowed>
+
+  <!-- EN: Royal insect jelly fullness: -->
+  <VFEI2_RoyalInsectJelly>Заполненность королевским желе:</VFEI2_RoyalInsectJelly>
+  <!-- EN: Chemfuel fullness: -->
+  <VFEI2_Chemfuel>Заполненность химтопливом:</VFEI2_Chemfuel>
+  <!-- EN: Shedding chitin in: -->
+  <VFEI2_Chitin>Сбросит хитин через:</VFEI2_Chitin>
+  <!-- EN: {0} before insect spawn. -->
+  <VFEI_CocoonInsectSpawnIn>{0} до появления инсектоида.</VFEI_CocoonInsectSpawnIn>
+  <!-- EN: {0} to create cocoon -->
+  <VFEI_CreatingCocoon>{0} до формирования кокона.</VFEI_CreatingCocoon>
+  <!-- EN: Cannot be placed close to other creeper. -->
+  <VFEI_CannotPlaceCloseToOtherCreeper>Нельзя размещать рядом с другими экстракторами.</VFEI_CannotPlaceCloseToOtherCreeper>
+  <!-- EN: Cannot be placed close to other jelly farm. -->
+  <VFEI_CannotPlaceCloseToOtherJellyFarm>Нельзя размещать рядом с другими фермами желе насекомых.</VFEI_CannotPlaceCloseToOtherJellyFarm>
+  <!-- EN: Insectoids -->
+  <VFEI_Insectoids>Инсектоиды</VFEI_Insectoids>
+  <!-- EN: Choose insectoid {0} color -->
+  <VFEI_ChooseInsectoidColor>Выберите цвет инсектоида {0}</VFEI_ChooseInsectoidColor>
+  <!-- EN: Defender insectoids vigilantly protect their hive by attacking any hostile entities that come within a designated radius. -->
+  <VFEI_DefenderDesc>Инсектоиды-защитники бдительно охраняют свой улей, атакуя всех враждебных существ, оказавшихся в определённом радиусе.</VFEI_DefenderDesc>
+  <!-- EN: Hunter insectoids proactively search for and hunt wildlife near their hive, bringing back and storing kills for communal consumption. -->
+  <VFEI_HunterDesc>Инсектоиды-охотники активно охотятся на диких животных вблизи своего улья, собирая и храня добычу для общего потребления.</VFEI_HunterDesc>
+  <!-- EN: Worker insectoids are tasked with constructing and maintaining insectoid-specific structures, as well as performing essential hauling and mining duties. -->
+  <VFEI_WorkerDesc>Рабочие инсектоиды занимаются строительством и обслуживанием сооружений инсектоидов, а также выполняют основные обязанности по транспортировке и добыче полезных ископаемых.</VFEI_WorkerDesc>
+  <!-- EN: {0} will be spawned in: {1} -->
+  <VFEI_InsectoidWillBeSpawnedIn>{0} появится через: {1}</VFEI_InsectoidWillBeSpawnedIn>
+  <!-- EN: Spawning stopped: maximum amount reached. -->
+  <VFEI_SpawningStoppedMaxCapacity>Появление новых инсектоидов приостановлено: достигнуто максимальное количество.</VFEI_SpawningStoppedMaxCapacity>
+  <!-- EN: already activated -->
+  <VFEI_AlreadyActivated>уже активировано</VFEI_AlreadyActivated>
+  <!-- EN: will be available in {0} -->
+  <VFEI_OnCooldown>будет доступно через {0}</VFEI_OnCooldown>
+  <!-- EN: other thumper is active -->
+  <VFEI_OtherThumperIsActive>другая импульсная приманка уже активирована</VFEI_OtherThumperIsActive>
+  <!-- EN: {0} can only be used on an {1}. -->
+  <VFEI_PherocoreCanBeUsedOnHive>{0} можно применить только к {lookup: {0}; Case; 2}.</VFEI_PherocoreCanBeUsedOnHive>
+  <!-- EN: Cannot upgrade: reached maximum size of the {0}. -->
+  <VFEI_HiveCannotBeUpgradedMore>Невозможно улучшить: достигнут максимальный размер {lookup: {0}; Case; 1}.</VFEI_HiveCannotBeUpgradedMore>
+  <!-- EN: Quest failed: {0} -->
+  <VFEI_InfestationHasSpread>Задание провалено: {0}</VFEI_InfestationHasSpread>
+  <!-- EN: The insectoid hive has spread. The quest {0} has ended. -->
+  <VFEI_InfestationHasSpreadDesc>Улей инсектоидов разросся. Задание «{0}» окончено.</VFEI_InfestationHasSpreadDesc>
+  <!-- EN: Activating the {0} will summon the following hostile insects:\n\n{PAWNS}\n\nAre you ready to fight? -->
+  <VFEI_InsectSummonWarning>При активации {lookup: {0}; Case; 1} появятся следующие враждебные насекомые:\n\n{PAWNS}\n\nВы готовы к бою?</VFEI_InsectSummonWarning>
+  <!-- EN: {0} summoned -->
+  <VFEI_LetterLabelInsectWaveSummoned>{0} {0_gender ? призван : призвана}</VFEI_LetterLabelInsectWaveSummoned>
+  <!-- EN: Attracted by your thumper vibrations, an insectoid leader from {0} will emerge from the ground soon. Be prepared. -->
+  <VFEI_LetterInsectWaveSummoned>Привлечённый вибрациями вашей импульсной приманки, предводитель инсектоидов из фракции {0} скоро появится из-под земли. Будьте готовы.</VFEI_LetterInsectWaveSummoned>
+  <!-- EN: {0} arrived -->
+  <VFEI_LetterLabelInsectWaveArrived>{0} {0_gender ? прибыл : прибыла}</VFEI_LetterLabelInsectWaveArrived>
+  <!-- EN: An insectoid leader from {0} has come to eradicate you, along with escorts.\n\nThe assault group is composed of the following insects:\n\n{1} -->
+  <VFEI_LetterInsectWaveArrived>Предводитель инсектоидов из фракции {0} прибыл со своим эскортом, чтобы уничтожить вас.\n\nУдарная группа состоит из следующих насекомых:\n\n{1}</VFEI_LetterInsectWaveArrived>
+  <!-- EN: {0} incoming -->
+  <VFEI_AlertInsectWaveIncoming>{0} приближается</VFEI_AlertInsectWaveIncoming>
+  <!-- EN: Alerted by your thumper, a hostile {0} with an army of insectoids are digging their way towards the surface. They will arrive in a few hours. -->
+  <VFEI_AlertInsectWaveIncomingDesc>{0_gender ? Потревоженный : Потревоженная} вашей импульсной приманкой, {0_gender ? враждебный : враждебная} {0} с армией инсектоидов пробирается к поверхности. Они прибудут через несколько часов.</VFEI_AlertInsectWaveIncomingDesc>
+  <!-- EN: Hive area -->
+  <VFEI_HiveArea>Область улья</VFEI_HiveArea>
+  <!-- EN: Clear hive area -->
+  <VFEI_HiveAreaClear>Уменьшить область улья</VFEI_HiveAreaClear>
+  <!-- EN: Removes a hive area. Your insectoids will no longer work, look for prey and attack hostile targets here. -->
+  <VFEI_HiveAreaClearDesc>Удалить клетки области улья. Ваши инсектоиды больше не будут здесь работать, искать добычу и атаковать враждебные цели.</VFEI_HiveAreaClearDesc>
+  <!-- EN: Hive area -->
+  <VFEI_HiveAreaExpand>Расширить область улья</VFEI_HiveAreaExpand>
+  <!-- EN: Create a hive area where your insectoid hives will work, look for prey and attack hostile targets. Your insectoids will not leave the hive area. -->
+  <VFEI_HiveAreaExpandDesc>Расширить область улья, в которой ваши инсектоиды будут работать, искать добычу и атаковать враждебные цели. Ваши инсектоиды не будут покидать эту область.</VFEI_HiveAreaExpandDesc>
+  <!-- EN: Constructing artificial hives in close proximity to each other will increase their maintenance need. -->
+  <VFEI_HiveCloseProximityWarning>Постройка искусственных ульев в непосредственной близости друг от друга увеличит потребность в их обслуживании.</VFEI_HiveCloseProximityWarning>
+  <!-- EN: Maintenance loss speed: {0} -->
+  <VFEI_MaintenanceLossSpeed>Скорость ухудшения обслуживания: {0}</VFEI_MaintenanceLossSpeed>
+  <!-- EN: Nearby artificial hive distance penalty -->
+  <VFEI_MinHiveStabilityDistance>Штраф за ближайшие искусств. ульи</VFEI_MinHiveStabilityDistance>
+  <!-- EN: Stability Hive maintenance penalty -->
+  <VFEI_StabilityHiveMaintenancePenalty>Штраф к обслуживанию от стабильности улья</VFEI_StabilityHiveMaintenancePenalty>
+  <!-- EN: Caster is in a roofed area. -->
+  <VFEI_CannotUseRoofed>Нельзя использовать внутри помещения, под крышей.</VFEI_CannotUseRoofed>
+  <!-- EN: Jelly farm production amount -->
+  <VFEI_JellyFarmProductionAmount>Объём производства желе насекомых</VFEI_JellyFarmProductionAmount>
+  <!-- EN: Creeper spawn speed -->
+  <VFEI_CreeperSpawnSpeed>Скорость срабатывания экстрактора</VFEI_CreeperSpawnSpeed>
+  <!-- EN: Tendril farm spawn speed -->
+  <VFEI_TendrilmossSpawnSpeed>Скорость выращивания вьющегося мха фермами</VFEI_TendrilmossSpawnSpeed>
+  <!-- EN: Base artificial hive insect count -->
+  <VFEI_BaseArtificalInsectCount>Базовое количество насекомых в искусств. ульях</VFEI_BaseArtificalInsectCount>
+  <!-- EN: Time until thorns regrow: {0} -->
+  <VFEI_TimeUntilThornsRegrow>Времени до восстановления шипов: {0}</VFEI_TimeUntilThornsRegrow>
+  <!-- EN: Maintained by hivenode -->
+  <VFEI_MaintainedByHivenode>Обслуживается ульевым узлом</VFEI_MaintainedByHivenode>
+  <!-- EN: Due for maintenance in {0} -->
+  <VFEI_NeedsToBeMaintainedIn>Потребует обслуживания через {0}</VFEI_NeedsToBeMaintainedIn>
+  <!-- EN: Due for maintenance. {0} until it starts deteriorating. -->
+  <VFEI_DueForMaintenance>Необходимо обслуживание. До начала ветшания осталось {0}.</VFEI_DueForMaintenance>
+  
+  <!-- EN: Cannot be placed close to other artificial basic hive -->
+  <VFEI_CannotPlaceCloseToOtherBasicHive>Нельзя разместить рядом с другими искусственными простыми ульями.</VFEI_CannotPlaceCloseToOtherBasicHive>
+  <!-- EN: Next insectoid burrowing in: {0} -->
+  <VFEI_NextInsectBurrowing>Следующее появление инсектоидов через: {0}.</VFEI_NextInsectBurrowing>
+  <!-- EN: {0} insectoid waves out of {1} -->
+  <VFEI_BurrowWaves>{0_numCase ? волна : волны : волн} инсектоидов из {1}.</VFEI_BurrowWaves>
+  <!-- EN: Insectoid burrow has become unstable and collapsed. -->
+  <VFEI_BurrowCollapsed>Нора инсектоидов стала нестабильной и обрушилась.</VFEI_BurrowCollapsed>
+  <!-- EN: This Patriarch is under player control and therefore has no connection to a wild hive -->
+  <VFEI_NotForPlayers>Этот патриарх находится под контролем игрока и поэтому не связан с ульем</VFEI_NotForPlayers>
+  <!-- EN: Base time between Han Horde-mode waves -->
+  <VFEI_BaseTimeBetweenHanHordeWaves>Время между волнами, посылаемыми Ханом Хардкором</VFEI_BaseTimeBetweenHanHordeWaves>
+  <!-- EN: {0} has been unlocked for completing the wave. -->
+  <VFEI_ResearchUnlockedForCompletingWave>За отражение волны было разблокировано исследование: «{0}».</VFEI_ResearchUnlockedForCompletingWave>
+  <!-- EN: Cargo pods have been sent for completing the wave. -->
+  <VFEI_CargoPodsSentForCompletingWave>Грузовые контейнеры за отражение волны были отправлены.</VFEI_CargoPodsSentForCompletingWave>
+  <!-- EN: Activity: {0}.
+Wave size multiplier: {1}.
+Time before the wave: {2}.
+Chosen geneline: {3}. -->
+  <VFEI_WaveActivityOverlay>Активность: {0}.
+Множитель размера волны: {1}.
+Время до прибытия волны: {2}.
+Выбранный геном: {3}.</VFEI_WaveActivityOverlay>
+  <!-- EN: Enemies coming: -->
+  <VFEI_EnemiesComing>Прибывающие враги:</VFEI_EnemiesComing>
+  <!-- EN: {0_label} needs {1} underneath. -->
+  <VFEI_RequiresFloor>{0_label} необходимо разместить на {1}.</VFEI_RequiresFloor>
+  
+</LanguageData>

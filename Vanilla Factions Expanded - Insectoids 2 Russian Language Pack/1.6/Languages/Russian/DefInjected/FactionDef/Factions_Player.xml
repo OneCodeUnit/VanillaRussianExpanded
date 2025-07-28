@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: New Squad -->
+  <VFEI2_PlayerOutpost.label>отряд</VFEI2_PlayerOutpost.label>
+  <!-- EN: A small squad of mercenaries, ready for combat. -->
+  <VFEI2_PlayerOutpost.description>Небольшой отряд наёмников, готовый к бою.</VFEI2_PlayerOutpost.description>
+  <!-- EN: mercenary -->
+  <VFEI2_PlayerOutpost.pawnSingular>наёмник</VFEI2_PlayerOutpost.pawnSingular>
+  <!-- EN: mercenaries -->
+  <VFEI2_PlayerOutpost.pawnsPlural>наёмники</VFEI2_PlayerOutpost.pawnsPlural>
+  <!-- EN: leader -->
+  <VFEI2_PlayerOutpost.leaderTitle>лидер</VFEI2_PlayerOutpost.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFEI2_PlayerOutpost.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VFEI2_PlayerOutpost.messageDefendersAttacking>
+  
+</LanguageData>

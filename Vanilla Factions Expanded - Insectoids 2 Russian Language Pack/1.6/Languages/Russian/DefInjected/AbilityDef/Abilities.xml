@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: flame spew -->
+  <VFEI2_FlameSpew.label>огненная струя</VFEI2_FlameSpew.label>
+  <!-- EN: Eject a flow of adhesive, combustible fluid from the oral cavity. This fluid, upon contact, can set ablaze any target or create burning patches upon surfaces. It is produced and held within a gland located in the throat, accompanied by a distinct sac filled with a spontaneously igniting chemical, ensuring immediate combustion upon expulsion. -->
+  <VFEI2_FlameSpew.description>Брызнуть струёй липкой, горючей жидкости из ротовой полости. Она поджигает всё, на что или на кого попадет, а также образует огненные лужи на земле.\n\nЭта горючая жидкость вырабатывается и накапливается железóй, расположенной в гортани. Там же расположен отдельный мешочек с самовоспламеняющимся реактивом для поджога при попадании в цель.</VFEI2_FlameSpew.description>
+
+  <!-- EN: insect acid spit -->
+  <VFEI2_InsectAcidSpit.label>кислотный плевок насекомого</VFEI2_InsectAcidSpit.label>
+  <!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them. -->
+  <VFEI2_InsectAcidSpit.description>Инсектоид плюёт липким кислотным веществом на указанную территорию, используя же́лезы в шее. Кислота прилипает к целям и сжигает их.</VFEI2_InsectAcidSpit.description>
+
+  <!-- EN: insect acid spew -->
+  <VFEI2_InsectAcidSpew.label>кислотная струя насекомого</VFEI2_InsectAcidSpew.label>
+  <!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them. -->
+  <VFEI2_InsectAcidSpew.description>Инсектоид плюёт липким кислотным веществом на указанную территорию, используя же́лезы в шее. Кислота прилипает к целям и сжигает их.</VFEI2_InsectAcidSpew.description>
+
+  <!-- EN: large acid spew -->
+  <VFEI2_LargeAcidSpew.label>усиленная кислотная струя</VFEI2_LargeAcidSpew.label>
+  <!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid deals damage over time. -->
+  <VFEI2_LargeAcidSpew.description>Инсектоид разбрызгивает липкое едкое вещество из специальных желёз, находящихся в шее, покрывая кислотой выбранную область. Кислота наносит урон с течением времени.</VFEI2_LargeAcidSpew.description>
+
+  <!-- EN: fuel spew -->
+  <VFEI2_ChemfuelSpew.label>химтопливная струя</VFEI2_ChemfuelSpew.label>
+  <!-- EN: Discharge a stream of liquid chemfuel from the mouth. This liquid, when released, can coat any object or individual it contacts, without igniting or causing immediate combustion. The chemfuel is synthesized and stored within a specialized organ in the neck area. -->
+  <VFEI2_ChemfuelSpew.description>Инсектоид выпускает струю химтоплива из ротовой полости, покрывая им любой живой или неживой объект. Химтопливо вырабатывается и накапливается специальным органом в области шеи.</VFEI2_ChemfuelSpew.description>
+
+  <!-- EN: chemfuel spit -->
+  <VFEI2_ChemfuelSpit.label>химтопливный плевок</VFEI2_ChemfuelSpit.label>
+  <!-- EN: Titantick vomits a giant blob of burning chemfuel over a large distance. -->
+  <VFEI2_ChemfuelSpit.description>Топливник-титан выплёвывает гигантский шар горящего химтоплива на большое расстояние.</VFEI2_ChemfuelSpit.description>
+
+  <!-- EN: insect shortglide -->
+  <VFEI2_InsectGlide_Short.label>наскок насекомого</VFEI2_InsectGlide_Short.label>
+  <!-- EN: Insectoid does a wing-assisted jump to a close location using strong hind legs. -->
+  <VFEI2_InsectGlide_Short.description>Инсектоид совершает скачок на небольшое расстояние с помощью крыльев и сильных задних лап.</VFEI2_InsectGlide_Short.description>
+  <!-- EN: insect shortglide -->
+  <VFEI2_InsectGlide_Short.verbProperties.label>наскок насекомого</VFEI2_InsectGlide_Short.verbProperties.label>
+
+  <!-- EN: insect glide -->
+  <VFEI2_InsectGlide_Medium.label>скачок насекомого</VFEI2_InsectGlide_Medium.label>
+  <!-- EN: Insectoid does a wing-assisted jump to a location using strong hind legs. -->
+  <VFEI2_InsectGlide_Medium.description>Инсектоид совершает скачок на некоторое расстояние с помощью крыльев и сильных задних лап.</VFEI2_InsectGlide_Medium.description>
+  <!-- EN: insect glide -->
+  <VFEI2_InsectGlide_Medium.verbProperties.label>скачок насекомого</VFEI2_InsectGlide_Medium.verbProperties.label>
+
+  <!-- EN: insect farglide -->
+  <VFEI2_InsectGlide_Far.label>дальний скачок насекомого</VFEI2_InsectGlide_Far.label>
+  <!-- EN: Insectoid does a wing-assisted jump to a very distant location using strong hind legs. -->
+  <VFEI2_InsectGlide_Far.description>Инсектоид совершает скачок на очень большое расстояние с помощью крыльев и сильных задних лап.</VFEI2_InsectGlide_Far.description>
+  <!-- EN: insect farglide -->
+  <VFEI2_InsectGlide_Far.verbProperties.label>дальний скачок насекомого</VFEI2_InsectGlide_Far.verbProperties.label>
+
+  <!-- EN: breacher charge -->
+  <VFEI2_WideTunnels.label>таран</VFEI2_WideTunnels.label>
+  <!-- EN: Insectoid charges towards the target, dealing significant damage to anything on the path. Will destroy any sort of defenses with ease. -->
+  <VFEI2_WideTunnels.description>Инсектоид устремляется к цели, нанося значительный урон всему, что попадается на его пути. С лёгкостью разрушает любые защитные сооружения и стены.</VFEI2_WideTunnels.description>
+  <!-- EN: wide tunnels -->
+  <VFEI2_WideTunnels.verbProperties.label>широкие туннели</VFEI2_WideTunnels.verbProperties.label>
+  
+  <!-- EN: create small burrow -->
+  <VFEI2_CreateSmallBurrow.label>создать небольшую нору</VFEI2_CreateSmallBurrow.label>
+  <!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a small burrow. -->
+  <VFEI2_CreateSmallBurrow.description>Патриарх создаёт вибрации, побуждая королевскую касту инсектоидов выкапываться на поверхность, создавая при этом небольшую нору.</VFEI2_CreateSmallBurrow.description>
+  
+  <!-- EN: create burrow -->
+  <VFEI2_CreateMediumBurrow.label>создать нору</VFEI2_CreateMediumBurrow.label>
+  <!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a medium burrow. -->
+  <VFEI2_CreateMediumBurrow.description>Патриарх создаёт вибрации, побуждая королевскую касту инсектоидов выкапываться на поверхность, создавая при этом среднюю нору.</VFEI2_CreateMediumBurrow.description>
+  
+  <!-- EN: create large burrow -->
+  <VFEI2_CreateLargeBurrow.label>создать большую нору</VFEI2_CreateLargeBurrow.label>
+  <!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a large burrow. -->
+  <VFEI2_CreateLargeBurrow.description>Патриарх создаёт вибрации, побуждая королевскую касту инсектоидов выкапываться на поверхность, создавая при этом большую нору.</VFEI2_CreateLargeBurrow.description>
+
+</LanguageData>
