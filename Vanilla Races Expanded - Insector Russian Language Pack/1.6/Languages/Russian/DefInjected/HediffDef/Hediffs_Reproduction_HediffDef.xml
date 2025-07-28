@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: chestburst pregnancy needs implantation -->
+  <VRE_ChestburstPregnancyHediff.label>личинка-грудолом требует вживления</VRE_ChestburstPregnancyHediff.label>
+  <!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+  <VRE_ChestburstPregnancyHediff.description>Когда поселенец с геном паразитического размножения беременеет, ему необходимо выбрать желающую или не желающую того жертву в качестве носителя. Когда зародыш созреет, он вырвется из грудной клетки жертвы, убив её в процессе. Если не вживить личинку до начала второго триместра (6 дней), беременность прервётся.</VRE_ChestburstPregnancyHediff.description>
+  
+  <!-- EN: chestburst pregnancy -->
+  <VRE_ChestburstPregnancy_Victim.label>паразитическая беременность</VRE_ChestburstPregnancy_Victim.label>
+  <!-- EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. -->
+  <VRE_ChestburstPregnancy_Victim.description>Страдает от паразитической беременности. Если имплантация достигнет 1 степени тяжести или если существо-носитель умрёт, когда личинка будет уже достаточно развита (более 90%), плод сожрёт жертву изнутри и вылупится из её трупа. Период созревания составляет 15 дней.</VRE_ChestburstPregnancy_Victim.description>
+  <!-- EN: egg -->
+  <VRE_ChestburstPregnancy_Victim.stages.0.label>яйцо</VRE_ChestburstPregnancy_Victim.stages.0.label>
+  <!-- EN: larva -->
+  <VRE_ChestburstPregnancy_Victim.stages.1.label>личинка</VRE_ChestburstPregnancy_Victim.stages.1.label>
+  <!-- EN: pupa -->
+  <VRE_ChestburstPregnancy_Victim.stages.2.label>куколка</VRE_ChestburstPregnancy_Victim.stages.2.label>
+  <!-- EN: juvenile -->
+  <VRE_ChestburstPregnancy_Victim.stages.3.label>детёныш</VRE_ChestburstPregnancy_Victim.stages.3.label>
+  
+  <!-- EN: chestburst pregnancy -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.label>паразитическая беременность</VRE_ChestburstPregnancy_Victim_Hidden.label>
+  <!-- EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically. -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.description>Страдает от паразитической беременности. Если имплантация достигнет 1 степени тяжести или если существо-носитель умрёт, когда личинка будет уже достаточно развита (более 90%), плод сожрёт жертву изнутри и вылупится из её трупа. Период созревания составляет 15 дней.\nЭта паразитическая беременность находится на слишком тяжёлой стадии, чтобы от неё можно было избавиться хирургическим путём.</VRE_ChestburstPregnancy_Victim_Hidden.description>
+  <!-- EN: egg -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>яйцо</VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>
+  <!-- EN: larva -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>личинка</VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>
+  <!-- EN: pupa -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>куколка</VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>
+  <!-- EN: juvenile -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>детёныш</VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>
+  
+  <!-- EN: parthenogenesis -->
+  <VRE_Parthenogenesis.label>самооплодотворение</VRE_Parthenogenesis.label>
+  <!-- EN: This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously. -->
+  <VRE_Parthenogenesis.description>Этот персонаж способен размножаться в одиночку, создавая потомство без второго родителя. Особые репродуктивные органы формируют внутри организма зародыш, который остаётся в яйцеподобной оболочке до тех пор, пока не будет готов к вылуплению.</VRE_Parthenogenesis.description>
+  
+</LanguageData>

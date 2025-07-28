@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: insect jelly dependency -->
+  <VRE_InsectJellyDependency.label>зависимость от желе насекомых</VRE_InsectJellyDependency.label>
+  <!-- EN: Carriers of this gene need to ingest insect jelly on a regular basis to survive. After 5 days without insect jelly, carriers will suffer from insect jelly deficiency. After 30 days, they will fall into a coma. After 60 days, they will die. -->
+  <VRE_InsectJellyDependency.description>Носители этого гена должны регулярно употреблять желе насекомых, чтобы выжить. Через 5 дней без соответствующего воздействия этот персонаж начнёт страдать от дефицита желе насекомых. Через 30 дней он впадёт в кому, а через 60 дней умрёт.</VRE_InsectJellyDependency.description>
+  <!-- EN: Gives immunity to food poisoning chance from directly consuming insect jelly. -->
+  <VRE_InsectJellyDependency.customEffectDescriptions.0>Даёт иммунитет к пищевому отравлению при употреблении желе насекомых напрямую.</VRE_InsectJellyDependency.customEffectDescriptions.0>
+  <!-- EN: insect jelly -->
+  <VRE_InsectJellyDependency.resourceLabel>желе насекомых</VRE_InsectJellyDependency.resourceLabel>
+  <!-- EN: A need by {PAWN_nameDef} to consume insect jelly -->
+  <VRE_InsectJellyDependency.resourceDescription>У {PAWN_nameDef} есть потребность в поглощении желе насекомых</VRE_InsectJellyDependency.resourceDescription>
+  
+</LanguageData>

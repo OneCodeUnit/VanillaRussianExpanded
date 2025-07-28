@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: New Hive -->
+  <VRE_InsectorPlayerTribe.label>улей</VRE_InsectorPlayerTribe.label>
+  <!-- EN: An insector tribe. -->
+  <VRE_InsectorPlayerTribe.description>Ваше племя инсекторов.</VRE_InsectorPlayerTribe.description>
+  <!-- EN: leader -->
+  <VRE_InsectorPlayerTribe.leaderTitle>лидер</VRE_InsectorPlayerTribe.leaderTitle>
+  <!-- EN: hivemember -->
+  <VRE_InsectorPlayerTribe.pawnSingular>член улья</VRE_InsectorPlayerTribe.pawnSingular>
+  <!-- EN: hivemembers -->
+  <VRE_InsectorPlayerTribe.pawnsPlural>члены улья</VRE_InsectorPlayerTribe.pawnsPlural>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VRE_InsectorPlayerTribe.messageDefendersAttacking>{0} из фракции {1} нападают на ваших {lookup: {2}; Case; 3}.</VRE_InsectorPlayerTribe.messageDefendersAttacking>
+</LanguageData>
