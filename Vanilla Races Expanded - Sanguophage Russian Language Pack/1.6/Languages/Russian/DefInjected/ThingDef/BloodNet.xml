@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: hemogen pipe -->
+  <VRE_HemogenPipe.label>гемогеновая труба</VRE_HemogenPipe.label>
+  <!-- EN: A pipe that’s used to transport hemogen between taps, drains, vats and hemogen-fueled structures. -->
+  <VRE_HemogenPipe.description>Труба, предназначенная для транспортировки гемогена между кранами, сливами, баками и постройками, работающими на гемогене.</VRE_HemogenPipe.description>
+  
+  <!-- EN: subterranean hemogen pipe -->
+  <VRE_UndergroundHemogenPipe.label>подземная гемогеновая труба</VRE_UndergroundHemogenPipe.label>
+  <!-- EN: Subterranean steel pipes designed to transport hemogen between taps, drains, vats and hemogen-fueled structures. -->
+  <VRE_UndergroundHemogenPipe.description>Подземная стальная труба, предназначенная для транспортировки гемогена между кранами, сливами, баками и постройками, работающими на гемогене.</VRE_UndergroundHemogenPipe.description>
+  
+  <!-- EN: hemogen valve -->
+  <VRE_HemogenValve.label>гемогеновый вентиль</VRE_HemogenValve.label>
+  <!-- EN: Switches hemogen flow on/off. -->
+  <VRE_HemogenValve.description>Вкл./выкл. подачу гемогена.</VRE_HemogenValve.description>
+  
+  <!-- EN: hemogen vat -->
+  <VRE_HemogenVat.label>гемогеновый бак</VRE_HemogenVat.label>
+  <!-- EN: An industrial liquid storage vat meant for storing hemogen delivered via hemogen pipe network. Vats can be designated to be siphoned for usable hemogen as needed. -->
+  <VRE_HemogenVat.description>Тяжёлая ёмкость промышленного уровня для хранения гемогена, доставляемого через гемогеновую трубопроводную сеть. Гемоген из баков будет поступать по мере необходимости.</VRE_HemogenVat.description>
+  
+  <!-- EN: hemogen tap -->
+  <VRE_HemogenTap.label>кран гемогена</VRE_HemogenTap.label>
+  <!-- EN: A hopper-like storage basin meant to dispense hemogen for later use. -->
+  <VRE_HemogenTap.description>Резервуар, похожий на воронку. Предназначен для выдачи гемогена для последующего использования.</VRE_HemogenTap.description>
+  
+  <!-- EN: hemogen drain -->
+  <VRE_HemogenDrain.label>гемогеновый слив</VRE_HemogenDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input hemogen into the network, filling up connected vats. -->
+  <VRE_HemogenDrain.description>Резервуар, похожий на воронку. Предназначен для введения гемогена в сеть и заполнения подключенных баков хранения.</VRE_HemogenDrain.description>
+  
+  <!-- EN: draincasket -->
+  <VRE_Draincasket.label>гемосборный саркофаг</VRE_Draincasket.label>The amount of hemogen packs depends on the occupant's hunger rate - someone with a worse metabolic efficiency will produce more hemogen packs while using proportionally more nutrition to do so. If deprived of food, the casket will eventually kill its occupant.
+  <!-- EN: A sinister contraption designed to extract hemogen from an individual while maintaining their life force at the barest minimum. This dark and foreboding casket houses its occupant in a twilight state of existence with their body slowly drained of precious hemogen. Bound to their Draincasket, the occupant's survival depends on being fed regularly, as they can still starve to death.\n\nProduces hemogen packs a day as long as the occupant has food and the casket is connected to a hemogen network. The amount of hemogen packs depends on the occupant's hunger rate - someone with a worse metabolic efficiency will produce more hemogen packs while using proportionally more nutrition to do so. If deprived of food, the casket will eventually kill its occupant. -->
+  <VRE_Draincasket.description>Зловещее устройство, предназначенное для эффективного извлечения гемогена из человека, оставляющее только минимально необходимый уровень жизненных сил. В этом мрачном саркофаге персонаж находится в полузабытье, пока из его тела медленно выкачивается драгоценный гемоген. Он нуждается в регулярном питании, иначе умрёт от голода.\n\nУстройство производит некоторое количество гемоген-пакетов в день, при условии, что персонаж накормлен, а сам саркофаг подключен к гемогенной сети. Количество производимых гемоген-пакетов зависит от уровня голода персонажа — чем хуже его метаболизм, тем больше пакетов гемогена будет произведено, но при этом будет израсходовано пропорционально больше питательных веществ. Если питание отсутствует, устройство убьёт своего обитателя через несколько дней.</VRE_Draincasket.description>
+  <!-- EN: Nutrition -->
+  <VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>Сырая пища</VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>
+  <!-- EN: Nutrition -->
+  <VRE_Draincasket.comps.CompDraincasket.fuelLabel>Сырая пища</VRE_Draincasket.comps.CompDraincasket.fuelLabel>
+</LanguageData>

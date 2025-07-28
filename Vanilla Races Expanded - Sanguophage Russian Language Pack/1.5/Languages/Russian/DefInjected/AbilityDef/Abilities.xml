@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: animalfeed -->
+  <VRE_AnimalFeed.label>укусить животное</VRE_AnimalFeed.label>
+  <!-- EN: Bite the target animal and extract hemogen directly from their blood. The animal will lose blood and will be horrified by the interaction, which can result in it lashing out. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target animals. -->
+  <VRE_AnimalFeed.description>Укусить животное и извлечь гемоген прямо из его крови. Цель потеряет немного крови и будет в ужасе от подобного взаимодействия, что может привести к нападению на кусающего. Быстродействующий коагулянт запечатает рану, предотвратив кровотечение.\n\nМожно использовать лишь на животных.</VRE_AnimalFeed.description>
+  
+  <!-- EN: corpsefeed -->
+  <VRE_CorpseFeed.label>укусить труп</VRE_CorpseFeed.label>
+  <!-- EN: Bite the target corpse and extract hemogen directly from their blood. The corpse will lose any remaining blood.\n\nCan only target human corpses. -->
+  <VRE_CorpseFeed.description>Укусить труп и извлечь гемоген прямо из его крови. Труп потеряет всю оставшуюся в нём кровь.\n\nМожно использовать лишь на трупах людей.</VRE_CorpseFeed.description>
+  
+  <!-- EN: sanguofeed -->
+  <VRE_SanguoFeed.label>укусить гемофага</VRE_SanguoFeed.label>
+  <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be insulted by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target hemogenic humans. -->
+  <VRE_SanguoFeed.description>Укусить цель и извлечь гемоген прямо из её крови. Цель потеряет немного крови и будет в ужасе от подобного взаимодействия, но в остальном останется невредимой. Быстродействующий коагулянт запечатает рану, предотвратив кровотечение.\n\nМожно использовать лишь на гемогеничных людях.</VRE_SanguoFeed.description>
+  
+  <!-- EN: ecstasy -->
+  <VRE_Ecstasy.label>экстаз</VRE_Ecstasy.label>
+  <!-- EN: Grant a target a feeling of extreme ecstasy for a brief duration, which makes them fall head over heels with the caster. -->
+  <VRE_Ecstasy.description>Временно ввести цель в состояние экстаза, от которого она будет без ума от заклинателя.</VRE_Ecstasy.description>
+  
+  <!-- EN: heart crush -->
+  <VRE_HeartCrush.label>вырвать сердце</VRE_HeartCrush.label>
+  <!-- EN: Rip out the heart of an enemy in close proximity, instantly killing them and covering the area in blood. -->
+  <VRE_HeartCrush.description>Вырвать бьющееся сердце врага, находящегося в непосредственной близости. Это мгновенно убьёт цель и покроет область вокруг кровью.</VRE_HeartCrush.description>
+  
+  <!-- EN: filter infection -->
+  <VRE_FilterInfection.label>фильтрация инфекций</VRE_FilterInfection.label>
+  <!-- EN: Lay hands on a target and help the target battle their infections. Works on animals or humans. -->
+  <VRE_FilterInfection.description>Коснуться цели, чтобы помочь ей очиститься от инфекций. Можно применять и к людям, и к животным.</VRE_FilterInfection.description>
+  
+  <!-- EN: hemosmosis -->
+  <VRE_Hemosmosis.label>гемоосмос</VRE_Hemosmosis.label>
+  <!-- EN: Suck blood filth from the area around the sanguophage and turn it into hemogen. -->
+  <VRE_Hemosmosis.description>Впитать разлитую неподалёку кровь, превратив её в гемоген.</VRE_Hemosmosis.description>
+  
+  <!-- EN: resurrect -->
+  <VRE_Resurrect.label>воскрешение</VRE_Resurrect.label>
+  <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
+  <VRE_Resurrect.description>Запустить архиты в систему кровообращения, чтобы наполнить умершее тело новой жизнью, восстановив его деградировавшие клеточные структуры и запустив жизненно важные функции. Чем дольше и хуже хранился труп, тем выше шанс, что человек оживёт с потерей памяти или нарушениями здоровья. Похоже, способность во время действия каким-то образом истощает архиты, поэтому пользоваться ей можно крайне редко.</VRE_Resurrect.description>
+  
+  <!-- EN: toxic cloud -->
+  <VRE_ToxicCloud.label>токсичное облако</VRE_ToxicCloud.label>
+  <!-- EN: Excrete a thick toxic smoke from special organic reservoirs in the lungs. Tox gas is deadly to almost every creature. -->
+  <VRE_ToxicCloud.description>Выделить густой токсичный дым из специальных органических резервуаров в лёгких. Токсичный газ смертельно опасен практически для любого живого существа.</VRE_ToxicCloud.description>
+  
+  <!-- EN: viscuous goo -->
+  <VRE_ViscuousGoo.label>вязкая слизь</VRE_ViscuousGoo.label>
+  <!-- EN: Eject a projectile that explodes on impact and creates a large amount of filth that greatly slows down people trying to move through it. -->
+  <VRE_ViscuousGoo.description>Выплеснуть густую вязкую слизь, которая при контакте с поверхностью создает большое количество грязи, сильно замедляющей передвижение по ней.</VRE_ViscuousGoo.description>
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: dangerous UV sensitivity -->
+  <VRE_Sensitivity_Dangerous_Hediff.label>экстрем. чувствительн. к солнцу</VRE_Sensitivity_Dangerous_Hediff.label>
+  <!-- EN: This is a hidden hediff that modifies the pawn's Sight depending on sunlight. -->
+  <VRE_Sensitivity_Dangerous_Hediff.description>Скрытый эффект здоровья, который меняет уровень зрения персонажа в зависимости от интенсивности солнечного света.</VRE_Sensitivity_Dangerous_Hediff.description>
+  
+  <!-- EN: consumed animal hemogen -->
+  <VRE_ConsumedAnimalHemogen.label>употреблён гемоген животного</VRE_ConsumedAnimalHemogen.label>
+  <!-- EN: Animal hemogen increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others. -->
+  <VRE_ConsumedAnimalHemogen.description>Гемоген животных повышает боевые характеристики и способность к регенерации, но значительно уменьшает способность общаться с другими.</VRE_ConsumedAnimalHemogen.description>
+  
+  <!-- EN: consumed corpse hemogen -->
+  <VRE_ConsumedCorpseHemogen.label>употреблён гемоген трупа</VRE_ConsumedCorpseHemogen.label>
+  <!-- EN: Corpse hemogen greatly weakens the carrier of this hemogen type, but increases the blood filtration significantly. -->
+  <VRE_ConsumedCorpseHemogen.description>Гемоген трупа значительно ослабляет питающегося им, но существенно повышает фильтрацию крови.</VRE_ConsumedCorpseHemogen.description>
+  
+  <!-- EN: consumed sanguophage hemogen -->
+  <VRE_ConsumedSanguophageHemogen.label>употреблён гемоген гемофага</VRE_ConsumedSanguophageHemogen.label>
+  <!-- EN: Sanguophage hemogen gives the carrier a powerful boost to all capacities. -->
+  <VRE_ConsumedSanguophageHemogen.description>Гемоген гемофага даёт питающемуся мощный прирост всех показателей здоровья.</VRE_ConsumedSanguophageHemogen.description>
+  
+  <!-- EN: sharp talons -->
+  <VRE_SharpTalons.label>острые когти</VRE_SharpTalons.label>
+  <!-- EN: Sharp talons which can be used in melee combat. -->
+  <VRE_SharpTalons.description>Острые когти, которыми можно сражаться в рукопашном бою.</VRE_SharpTalons.description>
+  <!-- EN: talons -->
+  <VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.0.label>когти</VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.0.label>
+  
+  <!-- EN: draincasket sickness -->
+  <VRE_DraincasketSickness.label>гемосборная болезнь</VRE_DraincasketSickness.label>
+  <!-- EN: After-effects of using a draincasket. Symptoms of draincasket sickness typically include localized pain, swelling, and redness at the site of the draincasket tubes' connection. Victims may experience increasing fatigue, weakness, and a general feeling of malaise. -->
+  <VRE_DraincasketSickness.description>Последствия использования гемосборного саркофага. Симптомы обычно включают локализованную боль, отёки и покраснение в местах соединения труб саркофага, нарастающую усталость, слабость и общее недомогание.</VRE_DraincasketSickness.description>
+  <!-- EN: After-effects of using a draincasket. Victims may experience increasing fatigue, weakness, and a general feeling of malaise. -->
+  <VRE_DraincasketSickness.descriptionShort>Последствия использования гемосборного саркофага. Симптомы: нарастающая усталость, слабость и общее недомогание.</VRE_DraincasketSickness.descriptionShort>
+</LanguageData>
