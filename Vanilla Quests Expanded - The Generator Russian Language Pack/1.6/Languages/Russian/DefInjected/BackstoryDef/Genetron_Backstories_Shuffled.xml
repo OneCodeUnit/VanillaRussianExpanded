@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: ancient engineer -->
+  <VQE_AncientEngineer01.title>древний инженер</VQE_AncientEngineer01.title>
+  <!-- EN: engineer -->
+  <VQE_AncientEngineer01.titleShort>инженер</VQE_AncientEngineer01.titleShort>
+  <!-- EN: [PAWN_nameDef] was part of a team attempting to reverse-engineer ancient ARC components. The mysteries behind the machine’s intricate designs fascinated [PAWN_objective]. Although much of the technology was incomprehensible, [PAWN_pronoun] successfully adapted a few critical parts for modern use. -->
+  <VQE_AncientEngineer01.description>{PAWN_nameDef} {PAWN_gender ? был : была} частью команды, пытавшейся воссоздать методы изготовления древних АРК-компонентов. Тайны, скрытые в сложных конструкциях машины, завораживали {PAWN_objective}. Несмотря на то, что большая часть технологии была непонятна, {PAWN_nameDef} успешно {PAWN_gender ? адаптировал : адаптировала} несколько критически важных деталей для актуального применения.</VQE_AncientEngineer01.description>
+
+  <!-- EN: power architect -->
+  <VQE_PowerArchitect02.title>архитектор энергосетей</VQE_PowerArchitect02.title>
+  <!-- EN: architect -->
+  <VQE_PowerArchitect02.titleShort>архитектор</VQE_PowerArchitect02.titleShort>
+  <!-- EN: [PAWN_nameDef] specialized in optimizing the power flow within ARC systems. By carefully calibrating the fuel rods, [PAWN_pronoun] was able to significantly extend the reactor's operational time. Despite lacking full knowledge of the ancient mechanisms, [PAWN_nameDef]'s adjustments became the industry standard. -->
+  <VQE_PowerArchitect02.description>{PAWN_nameDef} {PAWN_gender ? занимался : занималась} оптимизацией подачи энергии в системах АРК. Тщательно калибруя топливные элементы, {PAWN_pronoun} {PAWN_gender ? смог : смогла} значительно продлить время работы реактора. Несмотря на отсутствие полного понимания древних механизмов, методы настройки {PAWN_nameDef} стали общепризнанным стандартом.</VQE_PowerArchitect02.description>
+
+  <!-- EN: control systems engineer -->
+  <VQE_ControlSystemsEngineer03.title>инженер систем управления</VQE_ControlSystemsEngineer03.title>
+  <!-- EN: controller -->
+  <VQE_ControlSystemsEngineer03.titleShort>инженер</VQE_ControlSystemsEngineer03.titleShort>
+  <!-- EN: [PAWN_nameDef] was tasked with modernizing the control systems of ARC reactors. While [PAWN_pronoun] integrated new safety protocols, many of the core functions remained a black box. Even so, [PAWN_pronoun] managed to boost efficiency by adapting the ancient algorithms. -->
+  <VQE_ControlSystemsEngineer03.description>{PAWN_nameDef} было поручено модернизировать системы управления реакторов АРК. Хоть {PAWN_pronoun} и {PAWN_gender ? внедрил : внедрила} новые протоколы безопасности, многие из функций ядра так и остались в так называемом «чёрном ящике». Несмотря на это, {PAWN_objective} удалось добиться повышения эффективности за счёт адаптации древних алгоритмов.</VQE_ControlSystemsEngineer03.description>
+
+  <!-- EN: field repair tech -->
+  <VQE_FieldRepairTech04.title>полевой техник</VQE_FieldRepairTech04.title>
+  <!-- EN: repair tech -->
+  <VQE_FieldRepairTech04.titleShort>техник</VQE_FieldRepairTech04.titleShort>
+  <!-- EN: [PAWN_nameDef] spent years repairing damaged ARC units in remote colonies. Despite lacking the original schematics, [PAWN_pronoun] became adept at improvising fixes. It was a dangerous job, but [PAWN_pronoun] always carried a few spare ARC components, just in case. -->
+  <VQE_FieldRepairTech04.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} долгие годы, ремонтируя повреждённые блоки АРК в отдалённых поселениях. Из-за отсутствия оригинальных схем, {PAWN_pronoun} {PAWN_gender ? научился : научилась} импровизировать. Это была опасная работа, но {PAWN_nameDef} всегда {PAWN_gender ? носил : носила} с собой несколько запасных АРК-компонентов на всякий случай.</VQE_FieldRepairTech04.description>
+
+  <!-- EN: ARC safety inspector -->
+  <VQE_SafetyInspector05.title>инспектор по безопасности АРК</VQE_SafetyInspector05.title>
+  <!-- EN: inspector -->
+  <VQE_SafetyInspector05.titleShort>инспектор</VQE_SafetyInspector05.titleShort>
+  <!-- EN: As a safety inspector, [PAWN_nameDef] traveled between colonies, checking the status of ARC reactors. Although [PAWN_pronoun] could only speculate about how the core systems worked, [PAWN_pronoun] was able to identify potential failures and suggest maintenance that extended reactor lifespans. -->
+  <VQE_SafetyInspector05.description>Будучи инспектором по безопасности, {PAWN_nameDef} {PAWN_gender ? путешествовал : путешествовала} между колониями, проверяя состояние реакторов АРК. Хотя {PAWN_pronoun} {PAWN_gender ? мог : могла} только предполагать, как работают основные системы, {PAWN_nameDef} {PAWN_gender ? был : была} в состоянии определить потенциальные неисправности и подсказать, как провести техническое обслуживание, чтобы продлить срок службы реакторов.</VQE_SafetyInspector05.description>
+
+
+
+</LanguageData>

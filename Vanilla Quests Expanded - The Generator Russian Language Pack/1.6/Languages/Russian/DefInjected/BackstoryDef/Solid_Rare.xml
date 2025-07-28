@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Inventor -->
+
+  <!-- EN: curious tinkerer -->
+  <VQE_ChildhoodInventorGenetron.title>любопытный умелец</VQE_ChildhoodInventorGenetron.title>
+  <!-- EN: tinkerer -->
+  <VQE_ChildhoodInventorGenetron.titleShort>умелец</VQE_ChildhoodInventorGenetron.titleShort>
+  <!-- EN: As a child, [PAWN_nameDef] was never content with toys or simple amusements. [PAWN_pronoun] found joy in taking apart old machines and scraps salvaged from the colony’s scrapyard. While the other children played, [PAWN_nameDef] could be found elbows-deep in a broken generator or defunct mining drone, trying to understand what made it tick. The adults often saw this as a nuisance, especially when [PAWN_pronoun] "borrowed" essential equipment for experiments. But those who looked closer saw a spark of genius. -->
+  <VQE_ChildhoodInventorGenetron.description>В детстве {PAWN_nameDef} никогда не хватало игрушек и простых развлечений. {PAWN_pronoun} с удовольствием {PAWN_gender ? копался : копалась} в старых машинах и остатках механизмов, собранных на местной свалке. Пока другие дети играли, {PAWN_nameDef} можно было найти {PAWN_gender ? ковыряющим : ковыряющей} сломанный генератор или неисправный шахтёрский дрон, в попытках понять как они устроены.</VQE_ChildhoodInventorGenetron.description>
+
+  <!-- EN: inventor of the ARC -->
+  <VQE_InventorGenetronAdulthood.title>изобретатель АРК</VQE_InventorGenetronAdulthood.title>
+  <!-- EN: inventor -->
+  <VQE_InventorGenetronAdulthood.titleShort>изобретатель</VQE_InventorGenetronAdulthood.titleShort>
+  <!-- EN: [PAWN_nameDef] became a legend among engineers as the inventor of the ARC, a groundbreaking power generator that changed the fate of entire colonies. Driven by a relentless desire to solve the energy shortages crippling the outer rim, [PAWN_pronoun] pushed the boundaries of safe experimentation. The first prototypes were rushed, leading to tragic accidents that claimed many lives. Though these failures weighed heavily on [PAWN_objective], they fueled [PAWN_possessive] determination. After countless trials, [PAWN_nameDef] finally succeeded, cementing [PAWN_possessive] legacy as a hero to some, and a reckless maverick to others. -->
+  <VQE_InventorGenetronAdulthood.description>{PAWN_nameDef} {PAWN_gender ? прослыл : прослыла} легендой среди инженеров как изобретатель АРК — революционного генератора энергии, изменившего судьбу целых поселений. {PAWN_gender ? Движимый : Движимая} неутомимым желанием решить проблему нехватки энергии на окраинных мирах, {PAWN_pronoun} {PAWN_gender ? работал : работала}, переступая границы безопасного в своих экспериментах. Первые прототипы были созданы в спешке, что привело к трагическим происшествиям, унёсшим множество жизней. Несмотря на то, что эти неудачи тяготили {PAWN_nameDef}, они также и подпитывали {PAWN_possessive} решимость. После бесчисленных испытаний, {PAWN_nameDef} наконец {PAWN_gender ? добился : добилась} успеха, закрепив за собой славу героя для одних и безрассудного авантюриста для других.</VQE_InventorGenetronAdulthood.description>
+
+
+
+</LanguageData>

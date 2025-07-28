@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Wood ARC upgrades -->
+  <!-- EN: install wood-fired ARC core -->
+  <VQE_InstallWoodFiredGenetron>установить дровяное ядро</VQE_InstallWoodFiredGenetron>
+  <!-- EN: Install wood-fueled furnaces that greatly improve the power output of the ARC core, but will change the generator to require wood to operate. -->
+  <VQE_InstallWoodFiredGenetronDesc>Установить дровяные печи, которые значительно увеличат выходную мощность ядра АРК. Однако это потребует изменения конструкции генератора, чтобы он использовал дерево в качестве топлива для дальнейшей работы.</VQE_InstallWoodFiredGenetronDesc>
+  <!-- EN: \n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}) -->
+  <VQE_InstallWoodFiredGenetronDescExpanded>\n\nАРК должен работать непрерывно {0} (времени на данный момент: {1})</VQE_InstallWoodFiredGenetronDescExpanded>
+
+  <!-- EN: install automated stoker -->
+  <VQE_InstallWoodFueledGenetron>установить авт. углеподатчик</VQE_InstallWoodFueledGenetron>
+  <!-- EN: Install an automated system for feeding the fuel, keeping the furnace at optimal output with less frequent fueling. -->
+  <VQE_InstallWoodFueledGenetronDesc>Установить автоматизированную систему подачи топлива, которая позволит поддерживать оптимальную производительность печи и реже осуществлять дозаправку.</VQE_InstallWoodFueledGenetronDesc>
+  <!-- EN: \n\nARC needs to burn {0} fuel (fuel burned at the moment: {1}) -->
+  <VQE_InstallWoodFueledGenetronDescExpanded>\n\nАРК должен выработать {0} единиц топлива (на данный момент: {1} ед.)</VQE_InstallWoodFueledGenetronDescExpanded>
+
+  <!-- EN: install energy circulators -->
+  <VQE_InstallWoodPoweredGenetron>установить рециркуляторы</VQE_InstallWoodPoweredGenetron>
+  <!-- EN: Install energy circulators that redirect excess heat back into the ARC core, amplifying power output with only a slight rise in fuel consumption. -->
+  <VQE_InstallWoodPoweredGenetronDesc>Установить рециркуляторы энергии, которые перенаправляют избыточное тепло обратно в ядро АРК. Это позволит увеличить выходную мощность при незначительном повышении расхода топлива.</VQE_InstallWoodPoweredGenetronDesc>
+  <!-- EN: \n\nARC needs to burn {0} fuel (fuel burned at the moment: {1}) -->
+  <VQE_InstallWoodPoweredGenetronDescExpanded>\n\nАРК должен выработать {0} единиц топлива (выработано на данный момент: {1} ед.)</VQE_InstallWoodPoweredGenetronDescExpanded>
+
+  <!-- EN: install adjustable burn cylinders -->
+  <VQE_InstallWoodBlastingGenetron>установить регулир. цилиндры</VQE_InstallWoodBlastingGenetron>
+  <!-- EN: Install large, adjustable internal cylinders that allow altering the burn rate of the core, adjusting the power generated to fit the needs of the colony. -->
+  <VQE_InstallWoodBlastingGenetronDesc>Установить большие регулируемые внутренние цилиндры, позволяющие изменять скорость горения внутри ядра, что даёт возможность регулировать выходную мощность в соответствии с потребностями поселения.</VQE_InstallWoodBlastingGenetronDesc>
+  <!-- EN: \n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}) -->
+  <VQE_InstallWoodBlastingGenetronDescExpanded>\n\nАРК должен работать непрерывно {0} (на данный момент: {1})</VQE_InstallWoodBlastingGenetronDescExpanded>
+
+  <!-- Chemfuel ARC upgrades -->
+  <!-- EN: install chemfuel-powered ARC core -->
+  <VQE_InstallChemfuelPoweredGenetron>установить химтопл. ядро</VQE_InstallChemfuelPoweredGenetron>
+  <!-- EN: Install a set of chemfuel-operated engines that power up the ARC core, providing large quantities of energy by burning chemfuel. The engines will need regular maintenance, and if they break down, will require ARC components to be replaced. -->
+  <VQE_InstallChemfuelPoweredGenetronDesc>Установить комплекс двигателей, которые будут питать ядро АРК и вырабатывать большое количество энергии за счёт сжигания химтоплива. Эти двигатели потребуют регулярного технического обслуживания, а в случае поломки для их починки потребуются АРК-компоненты.</VQE_InstallChemfuelPoweredGenetronDesc>
+  <!-- EN: \n\nARC needs to operate at 200% using ARC tuning uninterrupted for {0} days. (time at the moment: {1}) -->
+  <VQE_InstallChemfuelPoweredGenetronDescExpanded>\n\nАРК должен работать на 200% непрерывно {0} дней (на данный момент: {1})</VQE_InstallChemfuelPoweredGenetronDescExpanded>
+  <!-- EN: \n\nRequires Biofuel refining research to be completed. -->
+  <VQE_InstallChemfuelPoweredGenetronDescNoResearch>\n\nДолжно быть завершено исследование «Перегонка биосырья».</VQE_InstallChemfuelPoweredGenetronDescNoResearch>
+
+  <!-- EN: install hyperburn chamber -->
+  <VQE_InstallChemfuelBoostedGenetron>установить камеру дожига</VQE_InstallChemfuelBoostedGenetron>
+  <!-- EN: Install a hyperburn chamber to superheat the combustion process and extract maximum energy from each unit of fuel. -->
+  <VQE_InstallChemfuelBoostedGenetronDesc>Установить камеру дожига, которая обеспечит полное сгорание остатков топлива, позволяя получать максимальную выработку энергии на каждую его единицу.</VQE_InstallChemfuelBoostedGenetronDesc>
+  <!-- EN: \n\nARC overdrive needs to be active for {0} days. (time at the moment: {1}) -->
+  <VQE_InstallChemfuelBoostedGenetronDescExpanded>\n\nФорсаж АРК должен быть активен в течение {0} дней (на данный момент: {1})</VQE_InstallChemfuelBoostedGenetronDescExpanded>
+
+  <!-- EN: install adaptive fuel modulator -->
+  <VQE_InstallChemfuelChargedGenetron>установить топливный модулятор</VQE_InstallChemfuelChargedGenetron>
+  <!-- EN: Install an adaptive fuel modulator to adjust fuel flow dynamically, matching power demands and optimizing fuel usage. This ensures extended runtime and peak efficiency without sacrificing energy output. -->
+  <VQE_InstallChemfuelChargedGenetronDesc>Установить адаптивный топливный модулятор для динамической регулировки подачи топлива, что позволяет точно настраивать вырабатываемую мощность и расход топлива соответственно. Это обеспечивает увеличенное время работы и максимальную эффективность без снижения выходной мощности.</VQE_InstallChemfuelChargedGenetronDesc>
+  <!-- EN: \n\nPower surge needs to be activated {0} times. (activations at the moment: {1}) -->
+  <VQE_InstallChemfuelChargedGenetronDescExpanded>\n\nСкачок мощности должен быть использован {0} раз (использований на данный момент: {1})</VQE_InstallChemfuelChargedGenetronDescExpanded>
+
+  <!-- EN: install ignition stabilizer -->
+  <VQE_InstallChemfuelFortifiedGenetron>установить стабилизатор зажигания</VQE_InstallChemfuelFortifiedGenetron>
+  <!-- EN: Install an ignition stabilizer gizmo to ensure consistent and steady combustion, maintaining optimal power output and reducing fluctuations in fuel consumption. This upgrade enhances the generator's reliability and fuel efficiency. The stabilizer can be calibrated to permanently improve the power output. -->
+  <VQE_InstallChemfuelFortifiedGenetronDesc>Установить стабилизатор зажигания, обеспечивающий стабильное и постоянное возгорание топлива. Это позволит поддерживать максимальную выходную мощность и минимизирует перепады расхода топлива. Это улучшение повышает надёжность и топливную эффективность генератора. Стабилизатор может быть откалиброван для перманентного увеличения вырабатываемой энергии.</VQE_InstallChemfuelFortifiedGenetronDesc>
+  <!-- EN: \n\nARC needs to burn {0} fuel (fuel burned at the moment: {1}) -->
+  <VQE_InstallChemfuelFortifiedGenetronDescExpanded>\n\nАРК должен выработать {0} единиц топлива (на данный момент: {1} ед.)</VQE_InstallChemfuelFortifiedGenetronDescExpanded>
+
+  <!-- Geothermal ARC upgrades -->
+
+  <!-- EN: install geothermal ARC core -->
+  <VQE_InstallGeothermalGenetron>установить геотермальное ядро</VQE_InstallGeothermalGenetron>
+  <!-- EN: Exchange the ARC core to utilise exclusively the steam energy produced by the geothermal vent. Doing so will decrease the power output significantly, but will also remove any fuel need completely. Geothermal ARC core will require regular maintenance, but can be maintained by everyone and not just the ARC specialists. -->
+  <VQE_InstallGeothermalGenetronDesc>Заменить ядро АРК, чтобы использовать исключительно энергию пара, вырабатываемую геотермальной турбиной. Это значительно снизит выходную мощность, но при этом полностью устранит потребность в топливе. Геотермальное ядро АРК требует регулярного обслуживания, но его может проводить любой поселенец, а не только специалисты по АРК.</VQE_InstallGeothermalGenetronDesc>
+  <!-- EN: \n\nRequires Geothermal power research to be completed. -->
+  <VQE_InstallGeothermalGenetronDescNoResearch>\n\nДолжно быть завершено исследование «Геотермальная энергия».</VQE_InstallGeothermalGenetronDescNoResearch>
+  <!-- EN: \n\nA colonist needs to study an ancient geothermal ARC somewhere in the world. -->
+  <VQE_InstallGeothermalGenetronDescNoStudied>\n\nПоселенцу необходимо изучить древний геотермальный АРК.</VQE_InstallGeothermalGenetronDescNoStudied>
+
+  <!-- EN: install vent booster -->
+  <VQE_InstallSteamPoweredGenetron>установить вентил. усилитель</VQE_InstallSteamPoweredGenetron>
+  <!-- EN: Install a thermal vent booster to enhance steam flow from geothermal vents, boosting the ARC’s power output during peak energy demands. This upgrade ensures higher efficiency and performance when needed most. -->
+  <VQE_InstallSteamPoweredGenetronDesc>Установить вентиляционный усилитель для увеличения потока пара к геотермальной турбине, увеличив выходную мощность АРК во время пиковых нагрузок. Это улучшение обеспечивает повышенную энергоэффективность и производительность, когда это наиболее необходимо.</VQE_InstallSteamPoweredGenetronDesc>
+  <!-- EN: \n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}) -->
+  <VQE_InstallSteamPoweredGenetronDescExpanded>\n\nАРК должен работать непрерывно {0} (на данный момент: {1})</VQE_InstallSteamPoweredGenetronDescExpanded>
+
+  <!-- EN: install pressure surge protectors -->
+  <VQE_InstallThermalVentGenetron>установить стабилизаторы давления</VQE_InstallThermalVentGenetron>
+  <!-- EN: Install a set of pressure surge protectors that will prevent the ARC from ever reaching a critical breaking point, while also increasing the power output. -->
+  <VQE_InstallThermalVentGenetronDesc>Установить стабилизаторы давления, не позволяющие АРК достичь критической точки отказа и одновременно увеличивающие выходную мощность.</VQE_InstallThermalVentGenetronDesc>
+  <!-- EN: \n\nSteam boost needs to be activated {0} times. (activations at the moment: {1}) -->
+  <VQE_InstallThermalVentGenetronDescExpanded>\n\nПаровое усиление должно быть использовано {0} раз (использований на данный момент: {1})</VQE_InstallThermalVentGenetronDescExpanded>
+
+  <!-- EN: install flow regulators -->
+  <VQE_InstallHeatPoweredGenetron>установить регуляторы потока</VQE_InstallHeatPoweredGenetron>
+  <!-- EN: Install a number of internal steam flow regulators that balance steam intake to ensure consistent performance, reducing wear and tear on the generator's components. Flow regulators allow the generator to operate even during a solar flare. -->
+  <VQE_InstallHeatPoweredGenetronDesc>Установить внутренние регуляторы парового потока, которые балансируют поступление пара, обеспечивая постоянную производительность и снижая износ компонентов генератора. Регуляторы позволяют генератору работать даже во время солнечной вспышки.</VQE_InstallHeatPoweredGenetronDesc>
+  <!-- EN: \n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}) -->
+  <VQE_InstallHeatPoweredGenetronDescExpanded>\n\nАРК должен работать непрерывно {0} (время на данный момент: {1})</VQE_InstallHeatPoweredGenetronDescExpanded>
+
+  <!-- Nuclear ARC upgrades -->
+
+  <!-- EN: install uranium-powered ARC core -->
+  <VQE_InstallUraniumPoweredGenetron>установить урановое ядро</VQE_InstallUraniumPoweredGenetron>
+  <!-- EN: Install a large nuclear reactor in place of the old ARC core, utilising uranium to generate huge amounts of energy. The ARC will no longer be able to operate without fuel, and will shut down if it ever runs out of uranium. Maintenance and uranium supply will become essential in preventing devastating consequences. -->
+  <VQE_InstallUraniumPoweredGenetronDesc>Установить на месте старого ядра АРК большой ядерный реактор, использующий уран для выработки огромного количества энергии. АРК больше не сможет работать без топлива и отключится, если в нём закончится уран. Постоянное техобслуживание и непрерывные поставки урана станут важнейшим условием ля предотвращения разрушительных последствий.</VQE_InstallUraniumPoweredGenetronDesc>
+  <!-- EN: \n\nRequires Starship reactor research to be completed. -->
+  <VQE_InstallUraniumPoweredGenetronDescNoResearch>\n\nДолжно быть завершено исследование «Корабельные реакторы».</VQE_InstallUraniumPoweredGenetronDescNoResearch>
+  <!-- EN: \n\nA colonist needs to study a nuclear ARC husk somewhere in the world. -->
+  <VQE_InstallUraniumPoweredGenetronDescNoStudied>\n\nПоселенцу необходимо изучить остов ядерного АРК.</VQE_InstallUraniumPoweredGenetronDescNoStudied>
+
+  <!-- EN: install uranium enrichment chamber -->
+  <VQE_InstallNuclearGenetron>установить камеру обогащ. урана</VQE_InstallNuclearGenetron>
+  <!-- EN: Install a chamber that allows you to slow down the decay rate of uranium, allowing it to generate power for a longer time. -->
+  <VQE_InstallNuclearGenetronDesc>Установить камеру, замедляющую скорость распада урана, что позволит генерировать больше энергии в течение более длительного времени.</VQE_InstallNuclearGenetronDesc>
+  <!-- EN: \n\nUranium-powered ARC needs to be restarted. To do that, it needs to burn all uranium and shut down due to lack of fuel. -->
+  <VQE_InstallNuclearGenetronDescExpanded>\n\nЯдерный АРК должен быть перезапущен. Для этого сначала он должен сжечь весь оставшийся уран и остановиться из-за нехватки топлива.</VQE_InstallNuclearGenetronDescExpanded>
+
+  <!-- EN: install radiation shielding -->
+  <VQE_InstallIsotopicGenetron>установить радиац. защиту</VQE_InstallIsotopicGenetron>
+  <!-- EN: Install advanced shielding to reduce radiation exposure in nearby areas, making it safer for colonists when the reactor operates in unsafe mode. -->
+  <VQE_InstallIsotopicGenetronDesc>Установить улучшенную защиту для снижения радиационного облучения ближайшей местности. Это снизит риски для здоровья поселенцев, когда реактор работает в опасном режиме.</VQE_InstallIsotopicGenetronDesc>
+  <!-- EN: \n\nARC needs to burn {0} uranium (uranium burned at the moment: {1}) -->
+  <VQE_InstallIsotopicGenetronDescExpanded>\n\nАРК нужно выработать {0} единиц урана (на данный момент: {1} ед.)</VQE_InstallIsotopicGenetronDescExpanded>
+
+  <!-- EN: install emergency shut-off systems -->
+  <VQE_InstallAtomicGenetron>установить системы авар. отключения</VQE_InstallAtomicGenetron>
+  <!-- EN: Install a system that instantly shuts down the reactor in dangerous situations, avoiding catastrophic failures and giving time for repairs. Additional safety mechanisms also allow anyone to maintain the atomic ARC, not just those who studied the ancient variants. -->
+  <VQE_InstallAtomicGenetronDesc>Установить систему, позволяющую мгновенно отключить реактор в случае возникновения опасных ситуаций, давая возможность избежать катастрофических сбоев, что в свою очередь позволяет выиграть время для оперативного ремонта. Дополнительные защитные механизмы также позволяют обслуживать ядерный АРК любому поселенцу, а не только специалистам по АРК.</VQE_InstallAtomicGenetronDesc>
+  <!-- EN: \n\nARC needs to operate uninterrupted in hazard mode for {0} (time at the moment: {1}) -->
+  <VQE_InstallAtomicGenetronDescExpanded>\n\nАРК должен работать в опасном режиме непрерывно {0} (на данный момент: {1})</VQE_InstallAtomicGenetronDescExpanded>
+
+  <!-- Downgrade ARC -->
+
+  <!-- EN: Downgrade to {0} -->
+  <VQE_DowngradeGenetron>Откатить до {0}</VQE_DowngradeGenetron>
+  <!-- EN: Downgrade the ARC to an earlier stage of construction. -->
+  <VQE_DowngradeGenetronDesc>Откатить АРК до более ранней стадии.</VQE_DowngradeGenetronDesc>
+  <!-- EN: Warning, this will downgrade the ARC to {0}. All materials used to upgrade it to the current stage will be lost. Are you sure you want to proceed? -->
+  <VQE_DowngradeGenetronDialog>Внимание, это понизит уровень АРК до {0}. Все материалы, использованные для его улучшения до текущей версии, будут потеряны. Вы уверены, что хотите продолжить?</VQE_DowngradeGenetronDialog>
+  <!-- EN: It's not possible to downgrade the ARC during a meltdown. -->
+  <VQE_DowngradeGenetronMeltdown>Невозможно понизить понизить уровень АРК во время плавления реактора.</VQE_DowngradeGenetronMeltdown>
+
+  <!-- Reactor abilities -->
+  <!-- EN: ARC overdrive -->
+  <VQE_GenetronOverdrive>форсаж</VQE_GenetronOverdrive>
+  <!-- EN: Put the ARC in a temporary {0} overdrive mode. It will rapidly burn through fuel, generating significantly more energy. If at any point during the overdrive the fuel runs out, the generator will break down and require refurbishing with ARC components. -->
+  <VQE_GenetronOverdriveDesc>Перевести АРК в режим временного форсажа на {0}. Генератор будет быстро сжигать топливо, вырабатывая значительно больше энергии. Если в какой-то момент во время действия форсажа топливо закончится, генератор выйдет из строя и потребует восстановления с помощью АРК-компонентов.</VQE_GenetronOverdriveDesc>
+  <!-- EN: \n\nOverdrive has a {0} cooldown. It will be ready again in {1} -->
+  <VQE_GenetronOverdriveDescExtended>\n\nФорсаж перезаряжается {0}. Он будет снова готов через {1}.</VQE_GenetronOverdriveDescExtended>
+
+  <!-- EN: ARC tuning -->
+  <VQE_GenetronTuning>настройка АРК</VQE_GenetronTuning>
+  <!-- EN: Alter the fuel consumption to increase or decrease the power generated by the ARC. -->
+  <VQE_GenetronTuningDesc>Изменить расход топлива для увеличения или уменьшения энергии, вырабатываемой АРК.</VQE_GenetronTuningDesc>
+  <!-- EN: set ARC output to: {0}% -->
+  <VQE_GenetronTuningSet>задать выходную мощность АРК на: {0}%</VQE_GenetronTuningSet>
+  <!-- EN: Projected power output: {0} Wd -->
+  <VQE_GenetronTuningProjected>Прогнозируемая мощность: {0} Вт⋅д</VQE_GenetronTuningProjected>
+  <!-- EN: Projected fuel burn rate: {0} per day -->
+  <VQE_FuelConsumptionProjected>Прогнозируемый расход топлива: {0} в день</VQE_FuelConsumptionProjected>
+
+  <!-- EN: ARC fine-tuning -->
+  <VQE_GenetronFineTuning>тонкая настройка АРК</VQE_GenetronFineTuning>
+  <!-- EN: Alter the fuel consumption to increase or decrease the power generated by the ARC, and adjust generator maintenance wear to boost the power output. -->
+  <VQE_GenetronFineTuningDesc>Изменить расход топлива, а также скорость износа АРК для увеличения или уменьшения вырабатываемой энергии.</VQE_GenetronFineTuningDesc>
+  <!-- EN: set ARC wear to: {0}% -->
+  <VQE_SetGenetronWear>установить износ АРК на: {0}%</VQE_SetGenetronWear>
+
+  <!-- EN: power surge -->
+  <VQE_PowerSurge>скачок мощности</VQE_PowerSurge>
+  <!-- EN: Instantly vaporize half of the remaining fuel in the ARC to create a surge of power, refilling the batteries at the cost of a significant 25% maintenance reduction of the ARC. Power surge will temporarily disable nearby electronics. -->
+  <VQE_PowerSurgeDesc>Мгновенно сжигает половину топлива, оставшегося в АРК, создавая при этом всплеск энергии, заполняющий батареи за счёт снижения уровня техобслуживания АРК на 25%. Скачок мощности временно выводит из строя ближайшую электронику.</VQE_PowerSurgeDesc>
+  <!-- EN: \n\nPower Surge has a {0} cooldown. It will be ready again in {1} -->
+  <VQE_PowerSurgeDescExtended>\n\nСкачок мощности перезаряжается {0}. Он будет снова готов через {1}.</VQE_PowerSurgeDescExtended>
+  <!-- EN: Power surge cannot be activated: ARC maintenance is too low (below 30%). -->
+  <VQE_PowerSurgeDescNoMaintenance>Скачок мощности не может быть использован: уровень техобслуживания АРК слишком низок (ниже 30%).</VQE_PowerSurgeDescNoMaintenance>
+
+  <!-- EN: calibrate efficiency -->
+  <VQE_CalibrateEfficiency>калибровка эффективности</VQE_CalibrateEfficiency>
+  <!-- EN: Set the ARC into a low-power mode to calibrate its efficiency. While the fuel consumption will not change in the low-power mode, upon completion of the calibration, the power output will permanently increase by 1%. -->
+  <VQE_CalibrateEfficiencyDesc>Перевести АРК в режим пониженной мощности, чтобы откалибровать его эффективность. Хотя расход топлива в этом режиме не изменится, после завершения калибровки выходная мощность навсегда увеличится на 1 %.</VQE_CalibrateEfficiencyDesc>
+  <!-- EN: \n\nThe efficiency calibration has a {0} cooldown. It will be ready again in {1} -->
+  <VQE_CalibrateEfficiencyDescExtended>\n\nКалибровка эффективности перезаряжается {0}. Она будет снова доступна через {1}.</VQE_CalibrateEfficiencyDescExtended>
+
+  <!-- EN: pressure tuning -->
+  <VQE_GenetronSteamTuning>настройка давления</VQE_GenetronSteamTuning>
+  <!-- EN: Alter the pressure of the ARC, affecting the wear and tear of components and the power output. -->
+  <VQE_GenetronSteamTuningDesc>Отрегулировать давление внутри АРК для настройки скорости износа и вырабатываемой мощности.</VQE_GenetronSteamTuningDesc>
+  <!-- EN: ARC pressure -->
+  <VQE_GenetronPressureLabel>давление в АРК</VQE_GenetronPressureLabel>
+  <!-- EN: set maintenance loss per day to: {0}% -->
+  <VQE_GenetronSteamTuningMaintenance>потеря техобслуживания в день: {0}%</VQE_GenetronSteamTuningMaintenance>
+
+  <!-- EN: steam boost -->
+  <VQE_SteamBoost>паровое усиление</VQE_SteamBoost>
+  <!-- EN: Temporarily enhance the steam flow by activating internal steam pumps, increasing the power output of the ARC for 5 days. The vent boosters will need to cool down for a period of time, preventing them from being used again until the temperature is optimal again. -->
+  <VQE_SteamBoostDesc>Временно увеличить поток пара, активировав внутренние паровые насосы, тем самым повысив мощность АРК на 5 дней. Вентиляционные ускорители должны будут остыть в течение некоторого времени, что не позволит использовать их снова, пока температура снова не станет оптимальной.</VQE_SteamBoostDesc>
+  <!-- EN: \n\nSteam boost has a {0} cooldown. It will be ready again in {1} -->
+  <VQE_SteamBoostDescExtended>\n\nПаровое усиление перезаряжается {0}. Оно будет снова доступно через {1}.</VQE_SteamBoostDescExtended>
+
+  <!-- EN: calibrate components -->
+  <VQE_CalibrateComponents>калибровка компонентов</VQE_CalibrateComponents>
+  <!-- EN: Force a soft breakdown of the ARC, requiring parts of the core to be refurbished, in order to upgrade the internal workings of the core and improve the longevity of the components by 10%. -->
+  <VQE_CalibrateComponentsDesc>Спровоцировать небольшой сбой АРК, после чего потребуется отремонтировать некоторые части ядра, что позволит улучшить его внутреннюю структуру и повысить долговечность компонентов на 10%.</VQE_CalibrateComponentsDesc>
+  <!-- EN: \n\nCalibrate components has a {0} cooldown. It will be ready again in {1} -->
+  <VQE_CalibrateComponentsDescExtended>\n\nКалибровка компонентов перезаряжается {0}. Она будет снова доступна через {1}.</VQE_CalibrateComponentsDescExtended>
+
+  <!-- EN: restart ARC -->
+  <VQE_RestartGenetron>перезапуск АРК</VQE_RestartGenetron>
+  <!-- EN: Jumpstart the nuclear ARC that has shut down due to lack of uranium. This restart can only be done if the ARC is filled with at least {0} uranium. -->
+  <VQE_RestartGenetronDesc>Перезапустить ядерный АРК, остановившийся из-за нехватки урана. Перезапуск возможен только в том случае, если АРК заполнен хотя бы на {0} единиц урана.</VQE_RestartGenetronDesc>
+  <!-- EN: \n\nThere isn't enough uranium in this reactor to restart it. -->
+  <VQE_RestartGenetronDescExtended>\n\nВ этом реакторе недостаточно урана для перезапуска.</VQE_RestartGenetronDescExtended>
+  <!-- EN: \n\nGenetron is running normally at the moment and doesn't require a restart. -->
+  <VQE_RestartGenetronDescNotNeeded>\n\nГенератор в данный момент работает нормально и ему не требуется перезапуск.</VQE_RestartGenetronDescNotNeeded>
+
+  <!-- EN: calibrate fuel rods -->
+  <VQE_CalibrateFuelRods>калибровка топливных стержней</VQE_CalibrateFuelRods>
+  <!-- EN: Temporarily shut down the reactor to calibrate the fuel consumption, allowing each unit of uranium to provide power for a longer time. Each calibration of fuel rods will reduce the fuel consumption rate by 10% of the remaining value. -->
+  <VQE_CalibrateFuelRodsDesc>Временно остановить реактор для калибровки расхода топлива, что обеспечит более длительную продолжительность выработки энергии на каждую единицу урана. Каждая калибровка топливных стержней уменьшает расход топлива на 10 % от текущего значения.</VQE_CalibrateFuelRodsDesc>
+  <!-- EN: \n\nCalibrate fuel rods has a {0} cooldown. It will be ready again in {1} -->
+  <VQE_CalibrateFuelRodsDescExtended>\n\nКалибровка топливных стержней перезаряжается {0}. Она будет снова доступна через {1}.</VQE_CalibrateFuelRodsDescExtended>
+
+  <!-- EN: safe mode -->
+  <VQE_SafeMode>безопасный режим</VQE_SafeMode>
+  <!-- EN: The ARC operates in safe mode. Burning uranium affects the maintenance of the ARC core, but no radiation is leaking from it. Activating this ability will change the ARC to operate in hazard mode. -->
+  <VQE_SafeModeDesc>АРК работает в безопасном режиме. Сжигаемый уран негативно влияет на уровень техобслуживания ядра АРК, но сам реактор при этом не излучает радиацию. При активации этой способности АРК переключится в опасный режим.</VQE_SafeModeDesc>
+  <!-- EN: hazard mode -->
+  <VQE_HazardMode>опасный режим</VQE_HazardMode>
+  <!-- EN: The ARC operates in hazard mode. Burning uranium emits an unhealthy amount of radiation in radius, generating toxic buildup to everyone caught in it without toxic-resistant gear. The radius depends on the amount of uranium in the ARC. Maintenance of the ARC does not decrease. Activating this ability will change the ARC to operate in safe mode. -->
+  <VQE_HazardModeDesc>АРК работает в опасном режиме. Сжигаемый уран излучает опасное для здоровья количество радиации в определённом радиусе, увеличивая уровень отравления токсинами у всех, кто находится рядом без защитного снаряжения. Размер радиуса зависит от текущего количества урана внутри АРК. Уровень техобслуживания при этом не снижается. При активации этой способности АРК переключится в безопасный режим.</VQE_HazardModeDesc>
+  <!-- EN: Operating in safe mode. -->
+  <VQE_SafeModeInfo>Работает в безопасном режиме.</VQE_SafeModeInfo>
+  <!-- EN: Operating in hazard mode. -->
+  <VQE_HazardModeInfo>Работает в опасном режиме.</VQE_HazardModeInfo>
+
+  <!-- EN: emergency shut-down -->
+  <VQE_EmergencyShutDown>аварийное отключение</VQE_EmergencyShutDown>
+  <!-- EN: Shut down the ARC. It will stop burning uranium, thus stopping the maintenance loss. It will also stop generating power until restart procedures are initiated. -->
+  <VQE_EmergencyShutDownDesc>Отключить АРК. Это прекратит расходование урана, тем самым остановив потерю уровня техобслуживания. Он также перестанет вырабатывать энергию до тех пор, пока не будет проведена процедура перезапуска.</VQE_EmergencyShutDownDesc>
+  <!-- EN: \n\nReactor is off now. -->
+  <VQE_EmergencyShutDownDescExtended>\n\nРеактор сейчас отключен.</VQE_EmergencyShutDownDescExtended>
+
+  <!-- Alerts -->
+
+  <!-- EN: ARC maintenance low -->
+  <VQE_Alert_LowMaintenance>Низкий уровень техобслуживания АРК</VQE_Alert_LowMaintenance>
+  <!-- EN: ARC requires maintenance. If no maintenance is performed, the ARC will critically break down. -->
+  <VQE_Alert_LowMaintenance_Desc>АРК требует технического обслуживания. Если не провести техобслуживание, в АРК произойдёт критический сбой.</VQE_Alert_LowMaintenance_Desc>
+  <!-- EN: ARC maintenance critical -->
+  <VQE_Alert_CriticalMaintenance>Критический уровень техобслуживания АРК</VQE_Alert_CriticalMaintenance>
+  <!-- EN: ARC requires urgent maintenance. If no maintenance is performed, the ARC will critically break down. -->
+  <VQE_Alert_CriticalMaintenance_Desc>АРК требует срочного технического обслуживания. Если не провести техобслуживание, в АРК произойдёт критический сбой.</VQE_Alert_CriticalMaintenance_Desc>
+  <!-- EN: ARC low on uranium -->
+  <VQE_Alert_LowUranium>низкий уровень урана</VQE_Alert_LowUranium>
+  <!-- EN: ARC is about to run out of uranium. When it does, it will become disabled until the restart procedures are initiated. -->
+  <VQE_Alert_LowUranium_Desc>В АРК скоро закончится уран. Когда это произойдёт, он отключится до тех пор, пока не будет проведена процедура перезапуска.</VQE_Alert_LowUranium_Desc>
+
+  <!-- General stuff -->
+  <!-- EN: {0} did not study an ancient ARC. -->
+  <VQE_NeedsStudy>{0} не изучил(а) древний АРК.</VQE_NeedsStudy>
+  <!-- EN: {0} did not study an ancient geothermal ARC. -->
+  <VQE_NeedsStudyGeothermal>{0} не изучил(а) древний геотермальный АРК.</VQE_NeedsStudyGeothermal>
+  <!-- EN: {0} did not study a nuclear ARC husk. -->
+  <VQE_NeedsStudyNuclear>{0} не изучил(а) остов ядерного АРК.</VQE_NeedsStudyNuclear>
+  <!-- EN: This colonist can't repair critical breakdowns, as they did not study an ancient ARC -->
+  <VQE_NeedsStudyGeneric>Этот поселенец не способен устранять критические сбои, поскольку не изучал древний АРК.</VQE_NeedsStudyGeneric>
+  <!-- EN: Reactor overdrive -->
+  <VQE_Overdrive>Перегрузка реактора</VQE_Overdrive>
+  <!-- EN: Critical breakdown -->
+  <VQE_CriticalBreakdown>Критический сбой</VQE_CriticalBreakdown>
+  <!-- EN: ARC maintenance: {0} -->
+  <VQE_CurrentMaintenance>Обслуживание АРК: {0}</VQE_CurrentMaintenance>
+  <!-- EN: Low power mode. Remaining time: {0}. -->
+  <VQE_LowPowerMode>Режим пониженной мощности. Оставшееся время: {0}.</VQE_LowPowerMode>
+  <!-- EN: Shut down for calibrations. Remaining time: {0}. -->
+  <VQE_ShutDownForCalibrations>Выключение для проведения калибровки. Оставшееся время: {0}.</VQE_ShutDownForCalibrations>
+  <!-- EN: Current fuel burn rate: {0} per day -->
+  <VQE_FuelRateAtTheMoment>Текущий расход топлива: {0} в день</VQE_FuelRateAtTheMoment>
+  <!-- EN: Reactor shut down -->
+  <VQE_ReactorShutdown>Отключение реактора</VQE_ReactorShutdown>
+  <!-- EN: Set target uranium level -->
+  <VQE_SetTargetUraniumLevel>Установить требуемый уровень урана</VQE_SetTargetUraniumLevel>
+  <!-- EN: Set target uranium level to {0} -->
+  <VQE_SetTargetUraniumLevelTo>Установить требуемый уровень урана на {0} ед.</VQE_SetTargetUraniumLevelTo>
+  <!-- EN: Set desired uranium level in the ARC. Colonists will try to fill the ARC up to that level. -->
+  <VQE_SetTargetUraniumLevelDesc>Задать желаемый уровень урана в АРК. Поселенцы будут стремиться заполнить АРК до этого уровня.</VQE_SetTargetUraniumLevelDesc>
+  <!-- EN: Power output: {0}W -->
+  <VQE_NuclearPowerOutput>Выходная мощность: {0} Вт</VQE_NuclearPowerOutput>
+  <!-- EN: Fuel consumption per day: {0} -->
+  <VQE_NuclearFuelConsumption>Расход топлива в день: {0}</VQE_NuclearFuelConsumption>
+  <!-- EN: ARC maintenance
+ARC needs to be maintained by colonists. If maintenance reaches 0%, ARC will break down. -->
+  <VQE_GenetronMaintenanceTooltip>Техобслуживание АРК\n\nАРК необходимо постоянное техническое обслуживание. Если уровень техобслуживания достигнет 0%, АРК выйдет из строя.</VQE_GenetronMaintenanceTooltip>
+  <!-- EN: Traitor {PAWN_nameDef}! -->
+  <VQE_TraitorLabel>Предатель {PAWN_nameDef}!</VQE_TraitorLabel>
+  <!-- EN: {PAWN_nameDef}, known for creating the ARC, has turned against the colony. {PAWN_pronoun} admits that they plan to sabotage the ARC, believing the colony’s reliance on a single source of power is a fatal mistake.\n\n{PAWN_nameDef} argues that trusting one machine with everyone’s survival is a path to disaster. Unable to change minds through reason, {PAWN_pronoun} chose to act instead.\n\nYou can choose to capture {PAWN_objective}, kill them or banish them. However, preventing the sabotage is the top priority. Do not let {PAWN_nameDef} get to the ARC. -->
+  <VQE_TraitorLetter>{PAWN_nameDef}, {PAWN_gender ? известный : известная} как создатель АРК, предаёт своё поселение. {PAWN_pronoun} признаётся, что планирует саботировать АРК, считая, что зависимость от единственного источника энергии — фатальная ошибка.\n\n{PAWN_nameDef} утверждает, что доверять одной машине выживание всех — это путь к катастрофе. Не в силах переубедить остальных с помощью здравого смысла, {PAWN_pronoun} решает действовать!\n\nВы можете захватить в плен или изгнать {PAWN_possessive}. Однако самое важное — это предотвратить диверсию. Не дайте {PAWN_nameDef} добраться до генератора!</VQE_TraitorLetter>
+  <!-- EN: ARC Maintenance in map -->
+  <VQE_MaintenanceImpact>Техобслуживание АРК на карте</VQE_MaintenanceImpact>
+  <!-- EN: Will not equip: Ideology prohibits -->
+  <VQE_NoTechnology>Не может экипировать: Запрещено идеолигией</VQE_NoTechnology>
+  <!-- EN: This ability needs to target an advanced component. -->
+  <VQE_AbilityNeedsComponent>Эта способность должна быть использована на продвинутом компоненте.</VQE_AbilityNeedsComponent>
+
+  <!-- Ancient ARC study -->
+
+  <!-- EN: Study {0} -->
+  <VQE_StudyAncientGenetron>Изучить {lookup: {0}; Case; 3}</VQE_StudyAncientGenetron>
+  <!-- EN: Study the {0} to find out how to construct an operational one in your colony. -->
+  <VQE_StudyAncientGenetronDesc>Изучить {lookup: {0}; Case; 3}, чтобы узнать как построить такой же в своём поселении.</VQE_StudyAncientGenetronDesc>
+  <!-- EN: \n\nThis {0} has already been studied or is in the process of being studied. -->
+  <VQE_StudyAncientGenetronDescExtended>\n\nЭтот {0} уже был изучен или находится в процессе изучения.</VQE_StudyAncientGenetronDescExtended>
+  <!-- EN: You've stayed in the village too long. The people of {FACTION_name} are attacking! -->
+  <VQE_FactionBecameHostileTimed>Вы пробыли в поселении слишком долго. Люди из {FACTION_name} нападают на вас!</VQE_FactionBecameHostileTimed>
+  <!-- EN: {0}'s {1} -->
+  <VQE_ThingWithInventorName>{1} {0}</VQE_ThingWithInventorName>
+  <!-- EN: {0} has thoroughly studied the {1} -->
+  <VQE_HasStudied>{0} тщательно изучил(а) {1}</VQE_HasStudied>
+  <!-- EN: {0} has already studied this structure -->
+  <VQE_PawnAlreadyStudied>{0} уже изучил(а) это сооружение</VQE_PawnAlreadyStudied>
+
+  <!-- Traitor letter -->
+
+  <!-- EN: Traitor schism ({0}) -->
+  <VQE_TraitorSchism>Предательский раскол ({0})</VQE_TraitorSchism>
+  <!-- EN: The creator of the ARC has turned out to be a traitor: {0} has been spreading their beliefs, convincing others to embrace an ideology that rejects technology. They have formed a new ideology: {1}. They argue that dependence on the ARC is reckless and will doom the colony. Their growing following now views the ARC as a threat, and whispers of sabotage have begun to surface. Left unchecked, this movement could escalate into conflict, putting your colony’s survival at risk.\n\nFollowing colonists have adopted {1}: {2}\n\nFollowers of {1} will refuse to do research. They will be unhappy if equipped with industrial-tech level or higher apparel and weapons, and will target technological items in their tantrums. Their priority will be destroying the ARC generator, and they will dislike anyone who holds the knowledge how to construct one of them.\n\nYou can consider exiling these colonists, or converting them back to their previous ideology. -->
+  <VQE_TraitorSchismDesc>Создатель АРК оказался предателем: {0} {0_gender ? распространял : распространяла} свои убеждения, склоняя других принять идеолигию, отвергающую технологии. {0_pronoun} {0_gender ? сформировал : сформировала} новую идеолигию: {1}, утверждающую, что зависимость от АРК безрассудна и приведёт к гибели поселения. Приверженцы этой идеолигии теперь рассматривают АРК как угрозу, а их число растёт. Стали появляться слухи о возможном саботаже. Если оставить это без внимания, то конфликт станет неизбежен, что поставит под угрозу выживание вашего поселения.\n\nПоселенцы принявшие идеолигию {1}: {2}\n\nПоследователи {1} будут отказываться заниматься исследованиями. Они будут недовольны, если у них будет одежда или оружие индустриального уровня или выше, и будут нападать на технологические предметы во время своих нервных срывов. Их главной целью будет уничтожение АРК генератора, и они будут испытывать неприязнь ко всем, кто обладает знаниями о том, как его создать.\n\nВы можете изгнать этих поселенцев или попытаться обратить их в свою прежнюю идеолигию.</VQE_TraitorSchismDesc>
+
+  <!-- EN: The {PAWN_title} named {PAWN_nameDef} has emerged from a cryptosleep casket and is joining the colony.\n\n{PAWN_nameFull}, the brilliant mind behind the creation of the ARC generator, brings a wealth of knowledge and experience. Across this planet, {PAWN_nameDef} tirelessly developed countless ARC prototypes, though many succumbed to neglect or external catastrophes. Despite these setbacks, {PAWN_nameDef} possesses unparalleled expertise in constructing, repairing, maintaining, and upgrading all known ARC generator types, including the advanced nuclear and geothermal variants. Moreover, {PAWN_nameDef} can attempt to salvage critical ARC components from advanced components, a skill that could prove invaluable in building or enhancing your colony’s own ARC generator. -->
+  <VQE_InventorJoinsDesc>{PAWN_title} {PAWN_nameDef} {PAWN_gender ? вышел : вышла} из криптосна и присоединяется к поселению.\n\n{PAWN_nameFull}, гениальный ум, стоящий за созданием АРК генератора, обладает богатейшим опытом и знаниями. {PAWN_pronoun} неустанно {PAWN_gender ? разрабатывал : разрабатывала} бесчисленные прототипы АРК генераторов по всей планете, пусть многие из них и были уничтожены небрежным отношением или по причине катастроф. Несмотря на эти неудачи, {PAWN_nameDef} обладает непревзойдённым опытом в создании, ремонте, обслуживании и модернизации всех известных типов АРК генераторов, включая передовые ядерные и геотермальные варианты. Более того, {PAWN_pronoun} может попытаться извлечь критически важные АРК-компоненты из продвинутых компонентов. Этот навык является незаменимым при создании или усовершенствовании собственного АРК генератора в вашем поселении.</VQE_InventorJoinsDesc>
+
+
+</LanguageData>

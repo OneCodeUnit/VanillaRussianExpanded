@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->You have [discoveryDesc] of a [adj] village where the potentially final prototype of [inventor_nameFull]'s [arcName] has been built. The villagers [villagerBehavior], and the site [villageCondition].\n\n[arcDetails] However, [villagerWarnings]. If [trigger], the villagers will [villagerReaction].\n\n[finalWarning]</li>
+
+    <li>discoveryDesc->learned</li>
+    <li>discoveryDesc->discovered</li>
+    <li>discoveryDesc->found the location</li>
+
+    <li>adj->forgotten</li>
+    <li>adj->ancient</li>
+    <li>adj->hidden</li>
+    <li>adj->mysterious</li>
+    <li>adj->decayed</li>
+    <li>adj->ruined</li>
+
+    <li>arcName->ARC</li>
+    <li>arcName->relic</li>
+    <li>arcName->artifact</li>
+    <li>arcName->device</li>
+    <li>arcName->core</li>
+
+    <li>villagerBehavior->venerate the [arcName]</li>
+    <li>villagerBehavior->worship the [arcName]</li>
+    <li>villagerBehavior->protect the [arcName]</li>
+    <li>villagerBehavior->revere the [arcName]</li>
+    <li>villagerBehavior->guard the [arcName]</li>
+
+    <li>villageCondition->shows signs of past technological greatness</li>
+    <li>villageCondition->is overgrown and crumbling</li>
+    <li>villageCondition->has decayed into primitive simplicity</li>
+    <li>villageCondition->has long since fallen from its peak</li>
+    <li>villageCondition->bears the scars of time and neglect</li>
+
+    <li>arcDetails->The [arcName] is said to hold valuable secrets for your colony.</li>
+    <li>arcDetails->Studying the [arcName] could unlock vital knowledge.</li>
+    <li>arcDetails->This ancient [arcName] may reveal the means to build one yourself.</li>
+
+    <li>villagerWarnings->be careful not to provoke the villagers</li>
+    <li>villagerWarnings->the villagers will not take kindly to trespassers</li>
+    <li>villagerWarnings->violating their sanctity may result in hostility</li>
+    <li>villagerWarnings->their patience may be thin with outsiders</li>
+
+    <li>trigger->you harm anyone, interact with the [arcName] or overstay your welcome</li>
+
+    <li>villagerReaction->turn hostile and call for reinforcements</li>
+    <li>villagerReaction->attack with all their might</li>
+    <li>villagerReaction->defend their home at all costs</li>
+    <li>villagerReaction->lash out in violent retaliation</li>
+
+    <li>finalWarning->If hostilities break out, reinforcements may arrive quickly.</li>
+    <li>finalWarning->If conflict arises, expect heavy resistance.</li>
+    <li>finalWarning->Failure to act swiftly could spell disaster.</li>
+    <li>finalWarning->Prepare for an overwhelming response if provoked.</li>
+  -->
+  <VQE_AncientARC.questDescriptionRules.rulesStrings>
+    <!-- quest description -->
+    <li>questDescription->Вы [discoveryDesc] [adj] деревню, где [inventor_nameFull] построил(а) предположительно финальный прототип проекта «[arcName]». Жители деревни [villagerBehavior], а само поселение [villageCondition].\n\n[arcDetails] Однако [villagerWarnings]. Если [trigger], то жители [villagerReaction].\n\n[finalWarning]</li>
+
+    <!-- discovery phrases -->
+    <li>discoveryDesc->нашли</li>
+    <li>discoveryDesc->обнаружили</li>
+    <li>discoveryDesc->разыскали</li>
+
+    <!-- village adjectives -->
+    <li>adj->забытую</li>
+    <li>adj->древнюю</li>
+    <li>adj->скрытую</li>
+    <li>adj->загадочную</li>
+    <li>adj->полуразрушенную</li>
+    <li>adj->разрушенную</li>
+
+    <!-- ARC name options -->
+    <li>arcName->АРК</li>
+    <li>arcName->Реликт</li>
+    <li>arcName->Артефакт</li>
+    <li>arcName->Аппарат</li>
+    <li>arcName->Сердечник</li>
+
+    <!-- villager behavior -->
+    <li>villagerBehavior->почитают [arcName]</li>
+    <li>villagerBehavior->поклоняются [arcName]у</li>
+    <li>villagerBehavior->защищают [arcName]</li>
+    <li>villagerBehavior->чтят [arcName]</li>
+    <li>villagerBehavior->охраняют [arcName]</li>
+
+    <!-- village condition -->
+    <li>villageCondition->демонстрирует признаки былого технологического величия</li>
+    <li>villageCondition->покрыто зарослями, а большинство построек превратились в руины</li>
+    <li>villageCondition->регрессировало до первобытного уровня</li>
+    <li>villageCondition->уже долгое время является лишь напоминанием о своём великом прошлом</li>
+    <li>villageCondition->изъедено следами времени и запустения</li>
+
+    <!-- ARC details -->
+    <li>arcDetails->Говорят, что [arcName] хранит ценные для вашего поселения секреты.</li>
+    <li>arcDetails->Изучив [arcName] можно получить жизненно важные знания.</li>
+    <li>arcDetails->Этот древний [arcName] хранит ключ к тайне строительства аналогичного устройства.</li>
+
+    <!-- villager warnings -->
+    <li>villagerWarnings->будьте осторожны, чтобы не спровоцировать жителей деревни</li>
+    <li>villagerWarnings->жители деревни будут не слишком любезны с посторонними</li>
+    <li>villagerWarnings->нарушение неприкосновенности их святынь может привести к враждебности</li>
+    <li>villagerWarnings->их терпение может иссякнуть, когда речь идёт о чужаках</li>
+
+    <!-- triggers -->
+    <li>trigger->вы причините кому-либо вред, тронете [arcName] или задержитесь слишком надолго</li>
+
+    <!-- villager reaction -->
+    <li>villagerReaction->станут враждебны и вызовут подкрепление</li>
+    <li>villagerReaction->атакуют вас изо всех сил</li>
+    <li>villagerReaction->будут защищать свой дом любой ценой</li>
+    <li>villagerReaction->вам жестоко отомстят</li>
+
+    <!-- final warning -->
+    <li>finalWarning->Если начнётся бой, подкрепление прибудет быстро.</li>
+    <li>finalWarning->Если возникнет конфликт, ждите сильного сопротивления.</li>
+    <li>finalWarning->Неумение действовать быстро может обернуться катастрофой.</li>
+    <li>finalWarning->Будьте готовы к яростному отпору, если их рассердите.</li>
+  </VQE_AncientARC.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [adj] [arcName]</li>
+    <li>adj->forgotten</li>
+    <li>adj->ancient</li>
+    <li>adj->mysterious</li>
+    <li>adj->sacred</li>
+    <li>adj->hidden</li>
+    <li>adj->forsaken</li>
+    <li>adj->tribal</li>
+    <li>adj->lost</li>
+    <li>adj->overgrown</li>
+    <li>arcName(p=4)->ARC</li>
+    <li>arcName->structure</li>
+    <li>arcName->machine</li>
+    <li>arcName->relic</li>
+    <li>arcName->generator</li>
+    <li>arcName->core</li>
+    <li>arcName->artifact</li>
+    <li>arcName->device</li>
+    <li>arcName->source</li>
+  -->
+  <VQE_AncientARC.questNameRules.rulesStrings>
+    <!-- quest name -->
+    <li>questName->[adj] [arcName]</li>
+    <li>adj->забытый</li>
+    <li>adj->древний</li>
+    <li>adj->загадочный</li>
+    <li>adj->священный</li>
+    <li>adj->скрытый</li>
+    <li>adj->покинутый</li>
+    <li>adj->ритуальный</li>
+    <li>adj->потерянный</li>
+    <li>adj->покрытый зарослями</li>
+    <li>arcName(p=4)->АРК</li>
+    <li>arcName->объект</li>
+    <li>arcName->агрегат</li>
+    <li>arcName->реликт</li>
+    <li>arcName->генератор</li>
+    <li>arcName->сердечник</li>
+    <li>arcName->артефакт</li>
+    <li>arcName->аппарат</li>
+    <li>arcName->источник энергии</li>
+  </VQE_AncientARC.questNameRules.rulesStrings>
+
+  <!-- EN:   
+  <li>terminalStudiedMessage->Terminal studied. You've collected the information and can now leave.</li>
+  -->
+  <VQE_AncientARC.questContentRules.rulesStrings>
+  <!-- Misc -->
+  <li>terminalStudiedMessage->Терминал был успешно изучен. Вы получили необходимую вам информацию и можете уходить.</li>
+  </VQE_AncientARC.questContentRules.rulesStrings>
+  
+</LanguageData>

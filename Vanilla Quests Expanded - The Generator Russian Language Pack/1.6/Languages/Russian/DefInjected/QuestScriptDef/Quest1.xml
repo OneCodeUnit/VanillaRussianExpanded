@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of an ancient construction site where [inventor_nameFull] once worked on a massive prototype generator. The site appears abandoned and isolated, surrounded by the remnants of a long-forgotten project.\n\n[terminalDetails] Visiting this site may provide [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>questDescription(askerIsNull==True)->We have discovered an ancient construction site where [inventor_nameFull] was working on a large prototype generator. The site lies in a remote location, surrounded by the ruins of an unfinished project.\n\n[terminalDetails] Exploring the site may yield [potentialRewards]. [journeyDetails] [finalDetails]</li>
+  
+    <li>terminalDetails->There is a still-operational terminal containing research notes and schematics of [inventor_nameFull]'s work.</li>
+    <li>terminalDetails->An active terminal holds critical data logs and experimental insights into generator construction.</li>
+    <li>terminalDetails->The site contains a terminal rumored to have design blueprints and energy research breakthroughs.</li>
+    <li>terminalDetails->Ancient systems still hum faintly, offering a glimpse into [inventor_nameFull]'s ambitious prototype.</li>
+    <li>terminalDetails->A damaged terminal may still hold data on the ARC prototype, but its condition is uncertain.</li>
+  
+    <li>potentialRewards->rare components, advanced research data, and valuable resources</li>
+    <li>potentialRewards->essential materials, generator schematics, and advanced technology insights</li>
+    <li>potentialRewards->valuable knowledge, unique building materials, and rare artifacts</li>
+    <li>potentialRewards->critical research breakthroughs and a bounty of salvageable materials</li>
+    <li>potentialRewards->rare loot and potentially groundbreaking energy research</li>
+  
+    <li>journeyDetails->The location is far away and will require careful preparation for the trip.</li>
+    <li>journeyDetails->The long distance to the site makes the expedition challenging but potentially rewarding.</li>
+    <li>journeyDetails->Traveling to the site will demand significant time and resources.</li>
+    <li>journeyDetails->The journey to this remote site may be dangerous but worth the effort.</li>
+    <li>journeyDetails->Its remote location suggests few immediate threats, but supplies will be key.</li>
+  
+    <li>finalDetails->While no dangers are expected, the journey itself poses risks to unprepared colonists.</li>
+    <li>finalDetails->The site seems derelict, but caution is advised—its isolation may hide unexpected challenges.</li>
+    <li>finalDetails->The area appears uninhabited, but its age may make navigation and survival difficult.</li>
+    <li>finalDetails->Prepare for the worst while hoping for the best—opportunity often comes with risk.</li>
+    <li>finalDetails->The isolation may provide safety, but also leaves little room for error if trouble arises.</li>
+  -->
+  <VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+    <!-- quest description -->
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name], рассказывает нам о древней строительной площадке, где под руководством [inventor_nameFull] когда-то возводился огромный прототип генератора. Место выглядит заброшенным и изолированным, оно окружено развалинами давно забытого проекта.\n\n[terminalDetails] Посещение этого места может дать [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>questDescription(askerIsNull==True)->Мы обнаружили древнюю строительную площадку, где под руководством [inventor_nameFull] когда-то разрабатывался огромный прототип генератора. Эта площадка находится в отдалённом месте, окруженная руинами незавершённого проекта.\n\n[terminalDetails] Изучение этого места может дать [potentialRewards]. [journeyDetails] [finalDetails]</li>
+  
+    <!-- terminal details -->
+    <li>terminalDetails->Здесь находится всё ещё работающий терминал, содержащий исследовательские заметки и чертежи, принадлежавшие [inventor_nameFull].</li>
+    <li>terminalDetails->Работающий терминал хранит ценные сведения о конструкции генератора и результаты экспериментальных исследований.</li>
+    <li>terminalDetails->В этом месте находится терминал, в котором, по слухам, есть чертежи и данные прорывных исследований, касающиеся энергетики.</li>
+    <li>terminalDetails->Древние системы всё ещё слабо гудят, позволяя взглянуть на амбициозный прототип, когда-то созданный [inventor_nameFull].</li>
+    <li>terminalDetails->Повреждённый терминал может всё ещё хранить данные о прототипе АРК, но его состояние неизвестно.</li>
+  
+    <!-- potential rewards -->
+    <li>potentialRewards->редкие компоненты, передовые исследовательские данные и ценные ресурсы</li>
+    <li>potentialRewards->важные материалы, чертежи генератора и передовые технологии</li>
+    <li>potentialRewards->ценные знания, уникальные строительные материалы и редкие артефакты</li>
+    <li>potentialRewards->важнейшие исследовательские данные и множество пригодных для использования материалов</li>
+    <li>potentialRewards->редкие трофеи и потенциально революционные исследовательские данные в области энергетики</li>
+  
+    <!-- journey details -->
+    <li>journeyDetails->Место находится далеко и требует тщательной подготовки перед путешествием.</li>
+    <li>journeyDetails->Из-за большого расстояния до объекта экспедиция будет сложной, но потенциально выгодной.</li>
+    <li>journeyDetails->Путешествие к этому месту потребует значительных затрат времени и ресурсов.</li>
+    <li>journeyDetails->Путешествие к этому отдалённому месту может быть опасным, но риск того стоит.</li>
+    <li>journeyDetails->Удаленное местоположение не предполагает особых угроз, но припасы будут играть ключевую роль.</li>
+  
+    <!-- final details -->
+    <li>finalDetails->Хотя опасностей не предвидится, само путешествие несёт в себе риск для неподготовленных поселенцев.</li>
+    <li>finalDetails->Это место кажется заброшенным, но следует соблюдать осторожность — его изолированность может таить в себе неожиданные препятствия.</li>
+    <li>finalDetails->Местность кажется необитаемой, но из-за её древности ориентироваться и выживать здесь может быть непросто.</li>
+    <li>finalDetails->Готовьтесь к худшему, надеясь на лучшее — большие возможности часто сопряжены с риском.</li>
+    <li>finalDetails->Изолированность может и обеспечивает безопасность, но если что-то пойдёт не так, права на ошибку почти не останется.</li>
+  </VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [adj] [prototypeName]</li>
+    
+    <li>adj->unfinished</li>
+    <li>adj->abandoned</li>
+    <li>adj->experimental</li>
+    <li>adj->ancient</li>
+    <li>adj->forgotten</li>
+    <li>adj->derelict</li>
+    <li>adj->failed</li>
+    <li>adj->unproven</li>
+    <li>adj->mysterious</li>
+    <li>adj->partially completed</li>
+    <li>adj->incomplete</li>
+    <li>adj->early-stage</li>
+    <li>adj->hidden</li>
+    
+    <li>prototypeName->prototype</li>
+    <li>prototypeName->experiment</li>
+    <li>prototypeName->design</li>
+    <li>prototypeName->project</li>
+    <li>prototypeName->power core</li>
+    <li>prototypeName->machine</li>
+    <li>prototypeName->concept</li>
+    <li>prototypeName->generator</li>
+    <li>prototypeName->energy source</li>
+    <li>prototypeName->device</li>
+    <li>prototypeName->creation</li>
+    <li>prototypeName->artifact</li>
+    <li>prototypeName->test site</li>
+    <li>prototypeName->framework</li>
+  -->
+  <VQE_PrototypeARC.questNameRules.rulesStrings>
+    <li>questName->[adj] [prototypeName]</li>
+    
+    <!-- adjectives for the prototype -->
+    <li>adj->незаконченный</li>
+    <li>adj->заброшенный</li>
+    <li>adj->экспериментальный</li>
+    <li>adj->древний</li>
+    <li>adj->забытый</li>
+    <li>adj->полуразрушенный</li>
+    <li>adj->неудавшийся</li>
+    <li>adj->непроверенный</li>
+    <li>adj->загадочный</li>
+    <li>adj->незавершённый</li>
+    <li>adj->недоделанный</li>
+    <li>adj->тестовый</li>
+    <li>adj->скрытый</li>
+    
+    <!-- prototype or experimental-related terms -->
+    <li>prototypeName->прототип</li>
+    <li>prototypeName->проект</li>
+    <li>prototypeName->образец</li>
+    <li>prototypeName->контур</li>
+    <li>prototypeName->реактор</li>
+    <li>prototypeName->концепт</li>
+    <li>prototypeName->генератор</li>
+    <li>prototypeName->источник энергии</li>
+    <li>prototypeName->аппарат</li>
+    <li>prototypeName->конструкт</li>
+    <li>prototypeName->артефакт</li>
+    <li>prototypeName->испытательный комплекс</li>
+    <li>prototypeName->каркас</li>
+  </VQE_PrototypeARC.questNameRules.rulesStrings>
+
+  <!-- EN:   
+    <li>terminalStudiedMessage->Terminal studied. You've collected the information and can now leave.</li> 
+  -->
+  <VQE_PrototypeARC.questContentRules.rulesStrings>
+  <!-- Misc -->
+  <li>terminalStudiedMessage->Терминал был успешно изучен. Вы получили необходимую вам информацию и можете уходить.</li>
+  </VQE_PrototypeARC.questContentRules.rulesStrings>
+  
+</LanguageData>

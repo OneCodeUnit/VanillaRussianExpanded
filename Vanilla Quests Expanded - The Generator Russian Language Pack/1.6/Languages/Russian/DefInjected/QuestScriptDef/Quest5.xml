@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has occupied the location of an abandoned ARC generator site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the ARC generator and recover valuable ARC components. [asker_label] also says that [sitePart0_description].</li>
+
+    <li>questDescription(askerIsNull==true)->We have received information that an old ARC generator site has been taken over by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the generator for any remaining research data and salvageable ARC components. Be prepared for resistance, as the site is likely heavily guarded. Additionally, [sitePart0_description].</li>
+
+    <li>sitePart0_description->the site is partially overgrown, with many of its original structures crumbling from age</li>
+    <li>sitePart0_description->the bandits have fortified the site with makeshift defenses and traps</li>
+    <li>sitePart0_description->the ARC generator is visibly damaged but still holds valuable salvage</li>
+    <li>sitePart0_description->the site appears to be a mix of old ruins and hastily built bandit encampments</li>
+    <li>sitePart0_description->hostile patrols have been seen guarding the perimeter</li>
+    <li>sitePart0_description->the bandits are using the generator to power their crude operations</li>
+  -->
+  <VQE_ArcSite.questDescriptionRules.rulesStrings>
+    <!-- quest description -->
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] из фракции [asker_faction_name], передаёт нам сообщение. [siteFaction_pawnsPlural] заняли территорию заброшенного генераторного комплекса АРК. Лагерь находится под контролем фракции [siteFaction_name].\n\n[asker_nameDef] просит нас зачистить территорию, уничтожив всех врагов и защитные сооружения. Как только место будет защищено, у нас появится возможность изучить АРК генератор и извлечь ценные АРК-компоненты. [asker_label] также сообщает, что [sitePart0_description].</li>
+
+    <!-- alternative discovery -->
+    <li>questDescription(askerIsNull==true)->Мы получили информацию о том, что [siteFaction_pawnsPlural] из фракции [siteFaction_name] захватили старый генератор АРК. Бандиты оборудовали себе укреплённые позиции и используют это место в качестве укрытия.\n\nЗаняв это место, мы сможем исследовать генератор для получения оставшихся исследовательских данных и пригодных для использования АРК-компонентов. Будьте готовы к вооруженному сопротивлению, так как место, скорее всего, хорошо охраняется. Кроме того, [sitePart0_description].</li>
+
+    <!-- site descriptions -->
+    <li>sitePart0_description->местность частично заросла, а многие старые постройки обветшали от времени</li>
+    <li>sitePart0_description->бандиты возвели здесь оборонительные сооружения и установили ловушки</li>
+    <li>sitePart0_description->АРК генератор заметно повреждён, но в нём по-прежнему есть ценные материалы</li>
+    <li>sitePart0_description->окрестности представляют собой сочетание останков древних руин и поспешно возведённых бандитских лагерей</li>
+    <li>sitePart0_description->в этом районе были замечены враждебные патрули, охраняющие периметр</li>
+    <li>sitePart0_description->бандиты используют генератор для своих нужд</li>
+  </VQE_ArcSite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[adj] [arcName]</li>
+
+    <li>adj->abandoned</li>
+    <li>adj->derelict</li>
+    <li>adj->forsaken</li>
+    <li>adj->ruined</li>
+    <li>adj->remote</li>
+    <li>adj->desolate</li>
+    <li>adj->forgotten</li>
+    <li>adj->hidden</li>
+    <li>adj->bandit-controlled</li>
+    <li>adj->enemy</li>
+    <li>adj->hideout</li>
+    <li>adj->overrun</li>
+    <li>adj->dangerous</li>
+
+    <li>arcName->ARC generator site</li>
+    <li>arcName->power facility</li>
+    <li>arcName->generator station</li>
+    <li>arcName->industrial core</li>
+    <li>arcName->energy relic</li>
+    <li>arcName->power ruins</li>
+    <li>arcName->ARC ruins</li>
+    <li>arcName->prototype generator</li>
+  -->
+  <VQE_ArcSite.questNameRules.rulesStrings>
+    <!-- quest name -->
+    <li>questName->[adj] [arcName]</li>
+
+    <!-- adjectives describing the site -->
+    <li>adj->покинутый</li>
+    <li>adj->полуразрушенный</li>
+    <li>adj->оставленный</li>
+    <li>adj->разрушенный</li>
+    <li>adj->отдалённый</li>
+    <li>adj->забытый</li>
+    <li>adj->скрытый</li>
+    <li>adj->контролируемый бандитами</li>
+    <li>adj->вражеский</li>
+    <li>adj->укрытый</li>
+    <li>adj->разорённый</li>
+    <li>adj->опасный</li>
+
+    <!-- ARC generator-related names -->
+    <li>arcName->АРК генератор</li>
+    <li>arcName->энергетический объект</li>
+    <li>arcName->генераторный комплекс</li>
+    <li>arcName->производственный центр</li>
+    <li>arcName->энергетический реликт</li>
+    <li>arcName->источник энергии</li>
+    <li>arcName->обломок АРК</li>
+    <li>arcName->прототип генератора</li>
+  </VQE_ArcSite.questNameRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время задания истекло: [resolvedQuestName]</VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Бандиты свернули лагерь и отправились в другое место. Время, отведённое для задания [resolvedQuestName], истекло.</VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: «[resolvedQuestName]»</VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Поняв, что их местонахождение известно, бандиты свернули лагерь и отправились в другое место. Задание «[resolvedQuestName]» окончено.</VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>Оплата прибыла</VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>Вы уничтожили бандитский лагерь!\n\nПрибыла оплата от фракции [asker_faction_name].</VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
+  
+</LanguageData>
