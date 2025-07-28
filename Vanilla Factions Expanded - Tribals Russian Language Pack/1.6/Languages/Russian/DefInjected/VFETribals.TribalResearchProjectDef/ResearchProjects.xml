@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fire -->
+  <VFET_Fire.label>огонь</VFET_Fire.label>
+  <!-- EN: Unlock the capability to utilize and manage fire for various purposes. Unlocks firefighting job. -->
+  <VFET_Fire.description>Использование огня для разнообразных задач. Открывает работу пожарного.</VFET_Fire.description>
+  <!-- EN: 
+		<li>subject->discovery of fire</li>
+		<li>subject_story->harnessed the primal force of fire, illuminating the darkness and warming the cold</li>
+		<li>subject_story->transformed the night into a time of activity and safety, warding off predators</li>
+		<li>subject_story->laid the foundation of civilization with the control of this wild element</li>
+		<li>subject_gerund->mastering the flame</li>
+  -->
+  <VFET_Fire.generalRules.rulesStrings>
+		<li>subject->открытие огня</li>
+		<li>subject_story->овладел(а) первобытной силой огня, освещая тьму и отгоняя холод</li>
+		<li>subject_story->превратил(а) ночь в время активности и безопасности</li>
+		<li>subject_story->заложил(а) основы цивилизации, подчинив себе эту дикую стихию</li>
+		<li>subject_gerund->обуздание пламени</li>
+  </VFET_Fire.generalRules.rulesStrings>
+
+
+  <!-- EN: agriculture -->
+  <VFET_Agriculture.label>земледелие</VFET_Agriculture.label>
+  <!-- EN: Learn to grow various staple crops. Unlocks growing job. -->
+  <VFET_Agriculture.description>Выращивание базовых сельскохозяйственных культур. Открывает работу фермера.</VFET_Agriculture.description>
+  <!-- EN: 
+		<li>subject->birth of farming</li>
+		<li>subject_story->turned from the nomadic life to sow the seeds of the future</li>
+		<li>subject_story->nurtured the earth to yield bountiful harvests, ensuring prosperity</li>
+		<li>subject_story->founded the first settlements, around which communities flourished</li>
+		<li>subject_gerund->cultivating sustenance from the soil</li>
+  -->
+  <VFET_Agriculture.generalRules.rulesStrings>
+		<li>subject->зарождение фермерства</li>
+		<li>subject_story->отказался(лась) от кочевой жизни, чтобы посеять семена будущего</li>
+		<li>subject_story->заботился(лась) о том, чтобы земля давала обильные урожаи, обеспечивая процветание</li>
+		<li>subject_story->основал(а) первые поселения, вокруг которых расцвели общины</li>
+		<li>subject_gerund->культивирование плодов земли</li>
+  </VFET_Agriculture.generalRules.rulesStrings>
+
+
+  <!-- EN: cultivation -->
+  <VFET_Cultivation.label>культивация</VFET_Cultivation.label>
+  <!-- EN: Expand crop variety with more specific, difficult to grow plants, such as smokeleaf or psychoid plant. -->
+  <VFET_Cultivation.description>Расширяет доступные для посадки виды сельхоз культур, позволяя сажать трудно выращиваемые растения, такие как дымолист и психолист.</VFET_Cultivation.description>
+  <!-- EN: 
+		<li>subject->diversification of crops</li>
+		<li>subject_story->explored the cultivation of exotic plants, enriching diets and medicine</li>
+		<li>subject_story->braved the cultivation of finicky crops, securing a variety of sustenance</li>
+		<li>subject_story->expanded the agricultural horizon, embracing the wealth of nature’s bounty</li>
+		<li>subject_gerund->expanding the garden of civilization</li>
+  -->
+  <VFET_Cultivation.generalRules.rulesStrings>
+		<li>subject->многообразие возделываемых культур</li>
+		<li>subject_story->исследовал(а) выращивание экзотических растений, обогащающих рацион и используемых в медицине</li>
+		<li>subject_story->трудился(лась) над выращиванием привередливых культур, добиваясь разнообразия источников пропитания</li>
+		<li>subject_story->расширил(а) горизонты сельского хозяйства, используя всё богатство природы</li>
+		<li>subject_gerund->расширение многообразия сада цивилизации</li>
+  </VFET_Cultivation.generalRules.rulesStrings>
+  
+
+  <!-- EN: medicine -->
+  <VFET_Medicine.label>медицина</VFET_Medicine.label>
+  <!-- EN: Introduce basic herbal treatment methods. -->
+  <VFET_Medicine.description>Изучение простейших методов лечения с использованием лечебного корня.</VFET_Medicine.description>
+  <!-- EN: 
+		<li>subject->foundations of healing</li>
+		<li>subject_story->unveiled the curative powers of nature, blending herbs into the first remedies</li>
+		<li>subject_story->soothed the ails of their kin with poultices and potions, birthed from the wild</li>
+		<li>subject_story->paved the path for the healing arts, bridging the gap between ailment and health</li>
+		<li>subject_gerund->weaving the first threads of wellness</li>
+  -->
+  <VFET_Medicine.generalRules.rulesStrings>
+		<li>subject->основы врачевания</li>
+		<li>subject_story->открыл(а) целебные силы природы, смешав травы в первые лекарственные средства</li>
+		<li>subject_story->лечил(а) недуги своих сородичей припарками и снадобьями, полученными из дикой природы</li>
+		<li>subject_story->проложил(а) путь к целительскому искусству</li>
+		<li>subject_gerund->плетение первых нитей благополучия</li>
+  </VFET_Medicine.generalRules.rulesStrings>
+
+
+  <!-- EN: animal handling -->
+  <VFET_AnimalHandling.label>животноводство</VFET_AnimalHandling.label>
+  <!-- EN: Acquire the knowledge to manage, tame, and accommodate animals. Unlocks handing job, as well as animal taming and slaughtering. -->
+  <VFET_AnimalHandling.description>Основы обращения с животными, их приручения и содержания. Открывает работу животновода, а также возможность приручения и забивания животных.</VFET_AnimalHandling.description>
+  <!-- EN: 
+		<li>subject->the bond between beast and kin</li>
+		<li>subject_story->formed alliances with the animal kingdom, taming the wild for companionship and aid</li>
+		<li>subject_story->harnessed the strength of beasts, elevating their tribe's potential</li>
+		<li>subject_story->merged their destiny with that of their animal brethren, securing a mutual survival</li>
+		<li>subject_gerund->fostering the first companions</li>
+  -->
+  <VFET_AnimalHandling.generalRules.rulesStrings>
+		<li>subject->связь между зверем и человеком</li>
+		<li>subject_story->образовал(а) союз с животным миром, приручая диких животных для дружбы и помощи</li>
+		<li>subject_story->использовал(а) силу зверей, усиливая тем самым потенциал своего племени</li>
+		<li>subject_story->объединил(а) свою судьбу с судьбой собратьев-животных, обеспечив взаимное выживание</li>
+		<li>subject_gerund->приручение первых компаньонов</li>
+  </VFET_AnimalHandling.generalRules.rulesStrings>
+
+
+  <!-- EN: mining -->
+  <VFET_Mining.label>горное дело</VFET_Mining.label>
+  <!-- EN: Develop methods to extract resources from the earth using force. Unlocks mining job. -->
+  <VFET_Mining.description>Разработка методов извлечения природных ресурсов с помощью ручного труда. Открывает работу шахтёра.</VFET_Mining.description>
+  <!-- EN: 
+		<li>subject->unearthing the earth’s secrets</li>
+		<li>subject_story->delved into the belly of the earth to claim its hidden riches</li>
+		<li>subject_story->crafted the first tools to pierce stone, revealing the minerals within</li>
+		<li>subject_story->laid the groundwork for advancements with the raw materials of progress</li>
+		<li>subject_gerund->chiseling the path to prosperity</li>
+  -->
+  <VFET_Mining.generalRules.rulesStrings>
+		<li>subject->раскопки секретов земли</li>
+		<li>subject_story->проник(ла) в недра земли, чтобы получить её скрытые богатства</li>
+		<li>subject_story->создал(а) первые инструменты, способные раскалывать камень, открывая находящиеся в нём минералы</li>
+		<li>subject_story->заложил(а) основу для развития прогресса, используя природные материалы</li>
+		<li>subject_gerund->прокладывание пути к процветанию</li>
+  </VFET_Mining.generalRules.rulesStrings>
+  
+
+  <!-- EN: construction -->
+  <VFET_Construction.label>строительство</VFET_Construction.label>
+  <!-- EN: Learn the absolute basic techniques of building and structural design. Unlocks the ability to build walls and roofs. -->
+  <VFET_Construction.description>Самые базовые методы строительства. Открывает возможность строить стены и крыши.</VFET_Construction.description>
+  <!-- EN: 
+		<li>subject->shelter and structure</li>
+		<li>subject_story->raised the first walls against the elements, crafting sanctuaries from the wild</li>
+		<li>subject_story->assembled places of gathering and rest, fostering community and safety</li>
+		<li>subject_story->embarked on the architectural journey, laying the cornerstone of progress</li>
+		<li>subject_gerund->building the cradle of civilization</li>
+  -->
+  <VFET_Construction.generalRules.rulesStrings>
+		<li>subject->укрытия и сооружения</li>
+		<li>subject_story->возвёл(а) первые стены для защиты от стихий, создавая убежища из природных ресурсов</li>
+		<li>subject_story->создавал(а) места для сбора и отдыха, способствуя развитию сообщества и безопасности</li>
+		<li>subject_story->открыл(а) для себя мир архитектурных возможностей, заложив краеугольный камень прогресса</li>
+		<li>subject_gerund->возведение колыбели цивилизации</li>
+  </VFET_Construction.generalRules.rulesStrings>
+
+
+  <!-- EN: furniture -->
+  <VFET_Furniture.label>примитивная мебель</VFET_Furniture.label>
+  <!-- EN: Introduce basic furniture crafting for improved living conditions. -->
+  <VFET_Furniture.description>Изготовление простейшей мебели для улучшения жилищных условий.</VFET_Furniture.description>
+  <!-- EN: 
+		<li>subject->comforts of craftsmanship</li>
+		<li>subject_story->carved the first symbols of comfort and utility from the heartwood of nature</li>
+		<li>subject_story->transformed living spaces with the artistry of handcrafted furniture</li>
+		<li>subject_story->elevated daily life, from survival to living, through the touch of creation</li>
+		<li>subject_gerund->shaping the comforts of home</li>
+  -->
+  <VFET_Furniture.generalRules.rulesStrings>
+		<li>subject->основы создания комфорта</li>
+		<li>subject_story->вырезал(а) из дерева первые предметы комфорта и быта</li>
+		<li>subject_story->преобразил(а) жилое пространство при помощи мебели ручной работы</li>
+		<li>subject_story->позволил(а) превратить повседневное выживание в процветание, прикоснувшись к творчеству</li>
+		<li>subject_gerund->создание домашнего уюта</li>
+  </VFET_Furniture.generalRules.rulesStrings>
+  
+
+  <!-- EN: tribalwear -->
+  <VFET_Tribalwear.label>примитивная одежда</VFET_Tribalwear.label>
+  <!-- EN: Learn to craft traditional tribal attire for various purposes. -->
+  <VFET_Tribalwear.description>Изготовление традиционной племенной одежды, подходящей для различных целей.</VFET_Tribalwear.description>
+  <!-- EN: 
+		<li>subject->weaving identity and protection</li>
+		<li>subject_story->fashioned attire that spoke of culture and safeguarded against the harsh world</li>
+		<li>subject_story->blended functionality with tradition, clothing the spirit of their people</li>
+		<li>subject_story->crafted garments that would become the hallmark of their tribe’s identity</li>
+		<li>subject_gerund->dressing the essence of a people</li>
+  -->
+  <VFET_Tribalwear.generalRules.rulesStrings>
+		<li>subject->самобытное ткачество</li>
+		<li>subject_story->создавал(а) наряды, которые говорили о культуре родного племени и защищали от сурового мира</li>
+		<li>subject_story->соединил(а) функциональность с традициями, передав дух своего народа</li>
+		<li>subject_story->создал(а) одежду, которая стала отличительной чертой родного племени</li>
+		<li>subject_gerund->одеяние, отражающее сущность народа</li>
+  </VFET_Tribalwear.generalRules.rulesStrings>
+  
+
+  <!-- EN: hunting -->
+  <VFET_Hunting.label>охота</VFET_Hunting.label>
+  <!-- EN: Establish methods for effective hunting and resource processing. Unlocks hunting job and allows you to craft throwspikes. -->
+  <VFET_Hunting.description>Базовые методы эффективной охоты и обработки ресурсов. Открывает работу охотника и позволяет изготавливать метательные колья.</VFET_Hunting.description>
+  <!-- EN: 
+		<li>subject->the hunt’s mastery</li>
+		<li>subject_story->honed the primal dance of predator and prey, ensuring the tribe’s sustenance</li>
+		<li>subject_story->crafted the tools of the chase, bringing skill to the wild’s challenge</li>
+		<li>subject_story->secured their place atop the food chain, through cunning and craft</li>
+		<li>subject_gerund->capturing the wild’s bounty</li>
+  -->
+  <VFET_Hunting.generalRules.rulesStrings>
+		<li>subject->мастерство охоты</li>
+		<li>subject_story->освоил(а) первобытный танец хищника и жертвы, обеспечив племени пропитание</li>
+		<li>subject_story->изобретал(а) инструменты для охоты, привнося мастерство в борьбу с дикой природой</li>
+		<li>subject_story->укрепил(а) место человека на вершине пищевой цепочки, благодаря хитрости и ремеслу</li>
+		<li>subject_gerund->добыча даров дикой природы</li>
+  </VFET_Hunting.generalRules.rulesStrings>
+  
+
+  <!-- EN: weapons -->
+  <VFET_Weapons.label>примитивное оружие</VFET_Weapons.label>
+  <!-- EN: Introduce basic weaponry for defense against enemies. -->
+  <VFET_Weapons.description>Изготовление примитивного оружия для защиты от врагов.</VFET_Weapons.description>
+  <!-- EN: 
+		<li>subject->the edge of survival</li>
+		<li>subject_story->forged the first weapons, steeling their tribe against threats</li>
+		<li>subject_story->balanced the scales of nature and conflict with the craft of armament</li>
+		<li>subject_story->ensured their survival through the innovation of defense and offense</li>
+		<li>subject_gerund->arming the hands of fate</li>
+  -->
+  <VFET_Weapons.generalRules.rulesStrings>
+		<li>subject->грань выживания</li>
+		<li>subject_story->выковал(а) первое оружие, которое помогло родному племени противостоять угрозам</li>
+		<li>subject_story->сбалансировал(а) весы природы и борьбой за существование с помощью оружейного ремесла</li>
+		<li>subject_story->обеспечил(а) выживание своего племени благодаря инновациям в области обороны и нападения</li>
+		<li>subject_gerund->вооружение руки судьбы</li>
+  </VFET_Weapons.generalRules.rulesStrings>
+  
+
+  <!-- EN: bow -->
+  <VFET_Bow.label>примитивный лук</VFET_Bow.label>
+  <!-- EN: Unlock the ability to craft the staple of ranged combat - a short bow. -->
+  <VFET_Bow.description>Изготовление основного оружия дальнего боя — короткого лука.</VFET_Bow.description>
+  <!-- EN: 
+		<li>subject->the arc of ascendancy</li>
+		<li>subject_story->stretched the bowstring of progress, launching arrows towards the horizon</li>
+		<li>subject_story->mastered the bow, blending patience, skill, and technology</li>
+		<li>subject_story->ushered in the era of ranged combat, shifting the dynamics of the hunt and warfare</li>
+		<li>subject_gerund->extending reach beyond grasp</li>
+  -->
+  <VFET_Bow.generalRules.rulesStrings>
+		<li>subject->дуга превосходства</li>
+		<li>subject_story->натянул(а) тетиву прогресса, устремляя стрелы к горизонту возможностей</li>
+		<li>subject_story->овладел(а) луком, соединив терпение, мастерство и технологию</li>
+		<li>subject_story->открыл(а) эру дальнего боя, изменив динамику охоты и боевых сражений</li>
+		<li>subject_gerund->расширение пределов досягаемости</li>
+  </VFET_Bow.generalRules.rulesStrings>
+  
+
+  <!-- EN: culture -->
+  <VFET_Culture.label>культура</VFET_Culture.label>
+  <!-- EN: Unlock the ability to conduct research, as well as develop ideological thoughts. Unlocks intellectual job. -->
+  <VFET_Culture.description>Проведение научных исследований и развитие идеологических принципов. Разблокирует постройку места для исследований.</VFET_Culture.description>
+  <!-- EN: 
+		<li>subject->the tapestry of thought</li>
+		<li>subject_story->wove the fabric of their culture, rich with the threads of knowledge and belief</li>
+		<li>subject_story->cultivated the growth of intellectual pursuits, seeding the future with ideas</li>
+		<li>subject_story->embarked on the quest for understanding, elevating their tribe with wisdom</li>
+		<li>subject_gerund->cultivating the mind’s garden</li>
+  -->
+  <VFET_Culture.generalRules.rulesStrings>
+		<li>subject->хитросплетение мыслей</li>
+		<li>subject_story->соткал(а) ткань своей культуры, богатую нитями знаний и верований</li>
+		<li>subject_story->культивировал(а) интеллектуальный рост, засевая будущее идеями</li>
+		<li>subject_story->приступил(а) к поискам знаний и истины, возвышая своё племя мудростью</li>
+		<li>subject_gerund->возделывание сада разума</li>
+  </VFET_Culture.generalRules.rulesStrings>
+</LanguageData>

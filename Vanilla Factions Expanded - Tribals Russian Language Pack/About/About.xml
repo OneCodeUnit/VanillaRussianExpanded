@@ -6,6 +6,7 @@
   <supportedVersions>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -14,6 +15,9 @@
       <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3079786283</steamWorkshopUrl>
     </li>
   </modDependencies>
+  <incompatibleWith>
+      <li>Am.Rus.Tribals</li>
+  </incompatibleWith>
   <loadAfter>
     <li>OskarPotocki.VFE.Tribals</li>
   </loadAfter>
