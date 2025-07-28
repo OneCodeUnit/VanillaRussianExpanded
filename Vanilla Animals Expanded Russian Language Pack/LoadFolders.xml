@@ -20,7 +20,7 @@
     <li>Common</li>
     <li IfModActive="VanillaExpanded.VanillaAnimalsExpanded">1.6/Main</li>
     <li IfModNotActive="Ludeon.RimWorld.Odyssey">1.6/MainNotOdyssey</li>
-    <li IfModActiveAll="VanillaExpanded.VAERoy">1.6/Royal</li>
+    <li IfModActive="VanillaExpanded.VAERoy">1.6/Royal</li>
 	<li IfModActiveAll="VanillaExpanded.VAERoy,Ludeon.RimWorld.Odyssey">1.6/RoyalOdysseyPatch</li>
 	<li IfModActive="VanillaExpanded.VAERoy" IfModNotActive="Ludeon.RimWorld.Odyssey">1.6/RoyalNotOdyssey</li>
     <li IfModActive="VanillaExpanded.VAEEndAndExt">1.6/Endangered</li>
