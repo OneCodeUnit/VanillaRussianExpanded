@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Acceleration rate -->
+  <AccelerationRate.label>скорость разгона</AccelerationRate.label>
+  <!-- EN: The rate at which the car accelerate, in cells per second. Higher rate means the vehicle will accelerate to its maximum speed faster. This also affects deceleration rate, which is double the acceleration rate. -->
+  <AccelerationRate.description>Показатель скорости разгона транспортного средства, измеряемый в клетках в секунду. Определяет, насколько быстро машина достигает своей максимальной скорости. Этот параметр также влияет на скорость торможения, которая в два раза превышает темп ускорения.</AccelerationRate.description>
+  <!-- EN: {0} c/s² -->
+  <AccelerationRate.formatString>{0} кл/с²</AccelerationRate.formatString>
+</LanguageData>

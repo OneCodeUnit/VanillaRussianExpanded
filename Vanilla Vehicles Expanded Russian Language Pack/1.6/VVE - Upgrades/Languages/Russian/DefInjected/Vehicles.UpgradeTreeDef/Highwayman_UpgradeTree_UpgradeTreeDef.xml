@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Engine Cover -->
+  <VVE_Highwayman_UpgradeTree.nodes.0.label>Обшивка двигателя</VVE_Highwayman_UpgradeTree.nodes.0.label>
+  <!-- EN: Cover the engine with extended armor plating, protecting it from gunfire. -->
+  <VVE_Highwayman_UpgradeTree.nodes.0.description>Обшивка двигателя дополнительным слоем брони для защиты от выстрелов.</VVE_Highwayman_UpgradeTree.nodes.0.description>
+  <!-- EN: Reinforced Bumper -->
+  <VVE_Highwayman_UpgradeTree.nodes.1.label>Усиленный бампер</VVE_Highwayman_UpgradeTree.nodes.1.label>
+  <!-- EN: Reinforce the front bumper to allow this vehicle to deal more damage during collisions. -->
+  <VVE_Highwayman_UpgradeTree.nodes.1.description>Усиление переднего бампера, позволяющее наносить больше повреждений при столкновениях с противниками.</VVE_Highwayman_UpgradeTree.nodes.1.description>
+  <!-- EN: Larger Cabin -->
+  <VVE_Highwayman_UpgradeTree.nodes.2.label>Увеличенная кабина</VVE_Highwayman_UpgradeTree.nodes.2.label>
+  <!-- EN: Extend the cabin by adding space for an additional passenger. -->
+  <VVE_Highwayman_UpgradeTree.nodes.2.description>Увеличение салона, позволяющее добавить место для одного дополнительного пассажира.</VVE_Highwayman_UpgradeTree.nodes.2.description>
+  <!-- EN: Off Road Tires -->
+  <VVE_Highwayman_UpgradeTree.nodes.3.label>Внедорожные шины</VVE_Highwayman_UpgradeTree.nodes.3.label>
+  <!-- EN: Replace the tires with deep treaded tires that provide more traction and will allow the vehicle to move significantly faster offroad. -->
+  <VVE_Highwayman_UpgradeTree.nodes.3.description>Установка новых шин с глубоким протекторным покрытием, которые обеспечат большее сцепление с дорогой и позволят транспортному средству значительно быстрее передвигаться по бездорожью.</VVE_Highwayman_UpgradeTree.nodes.3.description>
+  <!-- EN: Improved Turret -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.label>Усиленная турель</VVE_Highwayman_UpgradeTree.nodes.4.label>
+  <!-- EN: Improve the turret with more efficient firing mechanism and ammo feeding system, allowing it to fire more rapidly and with higher accuracy. Additionally, install smokepop canisters on a turret, allowing the vehicle to eject a smoke screen. -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.description>Усовершенствование турели с помощью более эффективного механизма стрельбы и улучшенной системы подачи боеприпасов, позволяя ей стрелять более быстро и точно. Дополнительно на турель устанавливаются камеры для дымовых шашек, позволяющие машине создавать дымовую завесу.</VVE_Highwayman_UpgradeTree.nodes.4.description>
+  <!-- EN: pop smoke -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.0.verbs.0.label>выпустить дым</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.0.verbs.0.label>
+  <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. Right click to reload. -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.0.commandDescriptions.0>Пиротехнические устройства для постановки дымовых завес. При активации выпускают густое облако дыма, маскирующее носителя и препятствующее наведению турелей. Имеют три заряда, после использования которых требуется перезарядка химтопливом. Для перезарядки кликните правой кнопкой мыши.</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.0.commandDescriptions.0>
+  <!-- EN: smokepop -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>пуск</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>перезаряжается</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>
+  <!-- EN: Main Turret -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>Орудие</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Cargo Capacity -->
+  <VVE_Highwayman_UpgradeTree.nodes.5.label>Грузоподъёмность</VVE_Highwayman_UpgradeTree.nodes.5.label>
+  <!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.5.description>Небольшое увеличение объёма перевозимого груза.</VVE_Highwayman_UpgradeTree.nodes.5.description>
+  <!-- EN: Armor -->
+  <VVE_Highwayman_UpgradeTree.nodes.6.label>Броня</VVE_Highwayman_UpgradeTree.nodes.6.label>
+  <!-- EN: Reinforce the armor of the vehicle slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.6.description>Небольшое повышение прочности брони транспортного средства.</VVE_Highwayman_UpgradeTree.nodes.6.description>
+  <!-- EN: Speed -->
+  <VVE_Highwayman_UpgradeTree.nodes.7.label>Скорость</VVE_Highwayman_UpgradeTree.nodes.7.label>
+  <!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+  <VVE_Highwayman_UpgradeTree.nodes.7.description>Улучшение двигателя, позволяющее транспортному средству развивать бо́льшую максимальную скорость.</VVE_Highwayman_UpgradeTree.nodes.7.description>
+  <!-- EN: Acceleration -->
+  <VVE_Highwayman_UpgradeTree.nodes.8.label>Разгон</VVE_Highwayman_UpgradeTree.nodes.8.label>
+  <!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.8.description>Улучшение трансмиссии, позволяющее немного увеличить скорость разгона транспортного средства.</VVE_Highwayman_UpgradeTree.nodes.8.description>
+  <!-- EN: Fuel Consumption -->
+  <VVE_Highwayman_UpgradeTree.nodes.9.label>Расход топлива</VVE_Highwayman_UpgradeTree.nodes.9.label>
+  <!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.9.description>Усовершенствование выхлопной системы транспортного средства для небольшого повышения топливной эффективности.</VVE_Highwayman_UpgradeTree.nodes.9.description>
+  <!-- EN: Fuel Capacity -->
+  <VVE_Highwayman_UpgradeTree.nodes.10.label>Объём бака</VVE_Highwayman_UpgradeTree.nodes.10.label>
+  <!-- EN: Increase the size of the chemtank slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.10.description>Небольшое увеличение размера химтопливного бака.</VVE_Highwayman_UpgradeTree.nodes.10.description>
+  
+</LanguageData>

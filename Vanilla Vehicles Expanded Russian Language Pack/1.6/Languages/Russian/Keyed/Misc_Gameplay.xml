@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Acceleration: sunday driver precept -->
+  <VVE_AccelerationSundayDriver>Разгон: медленный (принцип идеолигии)</VVE_AccelerationSundayDriver>
+  <!-- EN: Acceleration: high precept -->
+  <VVE_AccelerationHigh>Разгон: быстрый (принцип идеолигии)</VVE_AccelerationHigh>
+  <!-- EN: Max speed: increased precept -->
+  <VVE_MaxSpeed_Increased>Макс. скорость: увеличена (принцип идеолигии)</VVE_MaxSpeed_Increased>
+  <!-- EN: Handbrake deals damage -->
+  <VVE_HandbrakeDealsDamage>Ручной тормоз повреждает ТС</VVE_HandbrakeDealsDamage>
+  
+  <!-- EN: Acceleration rate: {0}
+Current speed: {1} c/s -->
+  <VVE_StatsReport_AccelerationRate>Скорость разгона: {0}
+Текущая скорость: {1} кл/с</VVE_StatsReport_AccelerationRate>
+  <!-- EN: {VEHICLE_nameDef} will not have enough room to decelerate and will need to use the handbrake. This will cause damage to the tires. -->
+  <VVE_HandbrakeWarning>Из-за ограниченного пространства {VEHICLE_nameDef} не сможет затормозить вовремя, поэтому будет использован ручной тормоз. Это приведёт к повреждению шин.</VVE_HandbrakeWarning>
+  
+  <!-- EN: Open -->
+  <VVE_Open>Открыть</VVE_Open>
+  <!-- EN: Close -->
+  <VVE_Close>Закрыть</VVE_Close>
+  <!-- EN: Designate the garage door to be opened. -->
+  <VVE_OpenDescription>Дать команду на открытие гаражных ворот.</VVE_OpenDescription>
+  <!-- EN: Designate the garage door to be closed. -->
+  <VVE_CloseDescription>Дать команду на закрытие гаражных ворот.</VVE_CloseDescription>
+  <!-- EN: Open the auto garage door. -->
+  <VVE_OpenDescription_AutoDoor>Открыть автоматические гаражные ворота.</VVE_OpenDescription_AutoDoor>
+  <!-- EN: Close the auto garage door. -->
+  <VVE_CloseDescription_AutoDoor>Закрыть автоматические гаражные ворота.</VVE_CloseDescription_AutoDoor>
+  
+  <!-- EN: Tier -->
+  <VVE_VehicleTier>Уровень</VVE_VehicleTier>
+  <!-- EN: Tier 0 -->
+  <VVE_Tier0>Уровень 0</VVE_Tier0>
+  <!-- EN: Tier 1 -->
+  <VVE_Tier1>Уровень 1</VVE_Tier1>
+  <!-- EN: Tier 2 -->
+  <VVE_Tier2>Уровень 2</VVE_Tier2>
+  <!-- EN: Tier 3 -->
+  <VVE_Tier3>Уровень 3</VVE_Tier3>
+  <!-- EN: Tier 4 -->
+  <VVE_Tier4>Уровень 4</VVE_Tier4>
+  <!-- EN: Tier 0 vehicles are the most basic and easiest to access. They don't require resources to be constructed, or research project to be researched, or neither. -->
+  <VVE_Tier0Desc>Транспортные средства нулевого уровня получить легче всего: для некоторых из них не нужны не только исследовательские проекты, но и даже ресурсы.</VVE_Tier0Desc>
+  <!-- EN: Tier 1 vehicles require a basic research project and a low resource cost in order to be constructed. They are inefficient, not ideal, have a lot of drawbacks, but they are cheap and available early in the game.-->
+  <VVE_Tier1Desc>Для строительства транспортных средств первого уровня необходим базовый исследовательский проект и немного простых материалов. Эти ТС неэффективны и имеют много недостатков, но зато дёшевы в производстве и доступны на ранних этапах игры.</VVE_Tier1Desc>
+  <!-- EN: Tier 2 vehicles are locked behind more specialised research projects and require resources that are only available later in the game. Tier 2 is considered to be the 'baseline' of all vehicles. -->
+  <VVE_Tier2Desc>Создание транспортных средств второго уровня требует исследования соответствующего проекта и наличия материалов, доступных на более поздних этапах игры. Этот уровень считается «стандартным» для всех ТС.</VVE_Tier2Desc>
+  <!-- EN: Tier 3 vehicles are only obtainable if a specific condition is met - for example, they are first found in their wrecked form and restored. They require late game resources and generally serve a very specific purpose. -->
+  <VVE_Tier3Desc>Получить транспортные средства третьего уровня можно только при выполнении определённых условий. Например, если они были найдены в разбитом виде и позже восстановлены вашими поселенцами. По назначению эти ТС обычно узкоспециализированы и требуют ресурсов, доступных на поздних этапах игры.</VVE_Tier3Desc>
+  <!-- EN: Tier 4 vehicles are not able to be constructed by the player, but they can still be found, purchased or otherwise spawned. They generally represent technology beyond of what's achievable in the Rimworld setting. -->
+  <VVE_Tier4Desc>Транспортные средства четвёртого уровня нельзя построить. Их можно только купить, найти где-либо в мире или получить каким-либо другим способом. Они сконструированы по технологиям, превосходящим известные на окраинном мире.</VVE_Tier4Desc>
+  <!-- EN: Restore wreck -->
+  <VVE_RestoreWreck>Восстановить обломки</VVE_RestoreWreck>
+  <!-- EN: Deliver necessary vehicle components to restore this wreck completely, turning it into a working vehicle. -->
+  <VVE_RestoreWreckDesc>Доставить необходимые запчасти, чтобы восстановить это разрушенное ТС, вернув его в рабочее состояние.</VVE_RestoreWreckDesc>
+  <!-- EN: {0} not yet found and restored -->
+  <VVE_WreckNotRestored>{0} ещё не найден и не восстановлен</VVE_WreckNotRestored>
+  <!-- EN: {0} cannot be researched until you find and restore a wreck of that vehicle. -->
+  <VVE_CannotBeResearched>{0} не может быть исследован, пока вы не найдёте и не восстановите его обломки.</VVE_CannotBeResearched>
+  
+  <!-- EN: Reload {0} with {AMMO_label} -->
+  <VVE_Reload>Зарядить {lookup: {0}; Case; 3} {lookup: {AMMO_label}; Case; 4}</VVE_Reload>
+  <!-- EN: Can't reload {0} with {1} (not enough {1}) -->
+  <VVE_CannotReloadNotEnoughAmmo>Невозможно зарядить {lookup: {0}; Case; 3} with {lookup: {1}; Case; 4} (Недостаточно для перезарядки)</VVE_CannotReloadNotEnoughAmmo>
+  <!-- EN: Can't reload {0} with {1} (full ammo) -->
+  <VVE_CannotReloadFullAmmo>Невозможно зарядить {lookup: {0}; Case; 3} with {lookup: {1}; Case; 4} (Полностью заряжено)</VVE_CannotReloadFullAmmo>
+  
+  <!-- EN: Vehicle is blocking garage -->
+  <VVE_VehicleObstructingClosingGarage>ТС перекрывает доступ к гаражу.</VVE_VehicleObstructingClosingGarage>
+</LanguageData>

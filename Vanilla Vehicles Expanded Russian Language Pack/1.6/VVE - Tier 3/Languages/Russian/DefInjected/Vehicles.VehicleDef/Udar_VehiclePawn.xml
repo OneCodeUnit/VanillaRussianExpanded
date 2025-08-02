@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Udar -->
+	<VVE_Udar.label>«Удар»</VVE_Udar.label>
+	<!-- EN: A dedicated artillery unit, the Udar is a long-range siege weapon that can be operated by a two-man crew for faster loading speeds. Small and inefficient fuel reserves are its limiting factor, as it can drive through any terrain without issue.\n\nA priority target and defenseless by itself or in close range, especially with its thin rear plating, a well-defended Udar can lay down quick barrages of mortar shells and reposition out of danger. -->
+	<VVE_Udar.description>Самоходная артиллерийская установка «Удар» спроектирована как средство огневого поражения стационарных целей на больших дистанциях. Она представляет собой едва ли не идеальное оружие для осадных операций. «Удар» может преодолевать практически любую местность без особых проблем, однако малая ёмкость топливных баков и неэффективный расход топлива негативно сказываются на его эффективности.\n\n«Удар» всегда должен быть первостепенной целью для огневого поражения, так как он сравнительно слабо защищён и полностью беспомощен вблизи. Особенно уязвима его задняя часть. Однако при обеспечении прикрытия, батарея «Ударов» способна выдать быстрый залп по цели и также быстро уйти из-под вражеского огня.</VVE_Udar.description>
+
+	<!-- EN: Driver -->
+	<VVE_Udar.properties.roles.0.label>Водитель</VVE_Udar.properties.roles.0.label>
+	<!-- EN: Gunner -->
+	<VVE_Udar.properties.roles.1.label>Стрелок</VVE_Udar.properties.roles.1.label>
+	<!-- EN: Engine -->
+	<VVE_Udar.components.0.label>Двигатель</VVE_Udar.components.0.label>
+	<!-- EN: Left Track -->
+	<VVE_Udar.components.1.label>Левая гусеничная цепь</VVE_Udar.components.1.label>
+	<!-- EN: Right Track -->
+	<VVE_Udar.components.2.label>Правая гусеничная цепь</VVE_Udar.components.2.label>
+	<!-- EN: Front Left Drive Sprocket -->
+	<VVE_Udar.components.3.label>Левое направляющее колесо</VVE_Udar.components.3.label>
+	<!-- EN: Front Right Drive Sprocket -->
+	<VVE_Udar.components.4.label>Правое направляющее колесо</VVE_Udar.components.4.label>
+	<!-- EN: Back Left Drive Sprocket -->
+	<VVE_Udar.components.5.label>Левый ведущий каток</VVE_Udar.components.5.label>
+	<!-- EN: Back Right Drive Sprocket -->
+	<VVE_Udar.components.6.label>Правый ведущий каток</VVE_Udar.components.6.label>
+	<!-- EN: Gearbox -->
+	<VVE_Udar.components.7.label>Коробка передач</VVE_Udar.components.7.label>
+	<!-- EN: Front Armor Plating -->
+	<VVE_Udar.components.8.label>Передняя бронепанель</VVE_Udar.components.8.label>
+	<!-- EN: Left Armor Plating -->
+	<VVE_Udar.components.9.label>Левая бронепанель</VVE_Udar.components.9.label>
+	<!-- EN: Right Armor Plating -->
+	<VVE_Udar.components.10.label>Правая бронепанель</VVE_Udar.components.10.label>
+	<!-- EN: Rear Armor Plating -->
+	<VVE_Udar.components.11.label>Задняя бронепанель</VVE_Udar.components.11.label>
+	<!-- EN: Chemtank -->
+	<VVE_Udar.components.12.label>Химтопливный бак</VVE_Udar.components.12.label>
+	<!-- EN: Dashboard -->
+	<VVE_Udar.components.13.label>Приборная панель</VVE_Udar.components.13.label>
+	<!-- EN: Steering Apparatus -->
+	<VVE_Udar.components.14.label>Рулевое устройство</VVE_Udar.components.14.label>
+	<!-- EN: Alternator -->
+	<VVE_Udar.components.15.label>Генератор переменного тока</VVE_Udar.components.15.label>
+	<!-- EN: Roof -->
+	<VVE_Udar.components.16.label>Крыша</VVE_Udar.components.16.label>
+	<!-- EN: Main Turret -->
+	<VVE_Udar.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Орудие</VVE_Udar.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+</LanguageData>
