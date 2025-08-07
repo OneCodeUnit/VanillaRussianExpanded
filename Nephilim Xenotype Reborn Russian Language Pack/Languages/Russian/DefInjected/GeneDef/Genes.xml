@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <GeneDef ParentName="GeneEyeColor">
+  <defName>GS_Six_Eyes_Yellowy</defName>
+  <label>glowing yellow eyes x6</label>
+  <labelShortAdj>yellow-eyed</labelShortAdj>
+  <description>Carriers of this gene have yellow-glowing eyes.</description>
+  <iconPath>UI/GlowEye</iconPath>
+  <prerequisite>GS_Eyed_Headwings</prerequisite>
+  <displayCategory>GS_GraceTouched</displayCategory>
+  <displayOrderInCategory>1</displayOrderInCategory>
+  <ignoreDarkness>true</ignoreDarkness>
+  <renderNodeProperties>
+  <li>
+  <nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+  <workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+  <texPath>Parts/Misc/SixEye</texPath>
+  <colorType>Custom</colorType>
+  <parentTagDef>Head</parentTagDef>
+  <useSkinShader>false</useSkinShader>
+  <useRottenColor>false</useRottenColor>
+  <rotDrawMode>Fresh</rotDrawMode>
+  <drawData>
+  <defaultData>
+  <layer>54</layer>
+  <offset>(0, 0, 0)</offset>
+  </defaultData>
+  </drawData>
+  </li>
+  
+  <li>
+  <nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+  <workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+  <texPath>Parts/Misc/TopSixEye</texPath>
+  <colorType>Custom</colorType>
+  <parentTagDef>Head</parentTagDef>
+  <useSkinShader>false</useSkinShader>
+  <useRottenColor>false</useRottenColor>
+  <rotDrawMode>Fresh</rotDrawMode>
+  <drawData>
+  <defaultData>
+  <layer>71</layer>
+  <offset>(0, 0, 0)</offset>
+  </defaultData>
+  </drawData>
+  </li>
+  
+  </renderNodeProperties>
+  
+  
+
+
+  
+  <modExtensions>
+  <li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
+  <backgroundPathXenogenes>UI/BlankNP</backgroundPathXenogenes>
+  </li>
+  </modExtensions>
+  
+  </GeneDef>  
+
+
+  <GeneDef ParentName="GeneJawBase">
+  <defName>GS_Head_Imma</defName>
+  <label>feathered four eyed head</label>
+  <description>Carriers of this gene have inhuman facial structure. The additional eyes do not improve sight.</description>
+  <iconPath>UI/immaculate_head</iconPath>
+  <displayCategory>GS_GraceTouched</displayCategory>
+  <!{1}**<missingGeneRomanceChanceFactor>0.0</missingGeneRomanceChanceFactor>**{1}>
+  <forcedHeadTypes>
+  <li>GS_Imma_Head_A</li>
+  </forcedHeadTypes>
+  <displayOrderInCategory>100</displayOrderInCategory>
+  
+  <modExtensions>
+  <li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
+  <backgroundPathXenogenes>UI/BlankNP</backgroundPathXenogenes>
+  </li>
+  </modExtensions>
+  
+  </GeneDef>
+
+<HeadTypeDef Name="GS_Imma_Head" Abstract="True">
+    <randomChosen>false</randomChosen>  
+    <requiredGenes>
+      <li>GS_Head_Imma</li>
+    </requiredGenes>
+  </HeadTypeDef>
+  
+  
+<HeadTypeDef ParentName="GS_Imma_Head">
+    <defName>GS_Imma_Head_A</defName>
+    <graphicPath>Parts/Heads/AngelHead</graphicPath>
+  </HeadTypeDef>
+
+
+
+<GeneDef>
+  <defName>GS_Eyed_Headwings</defName>
+  <label>eyed head wings</label>
+  <description>Carriers of this gene grow small feathered wing-like structures on the top of their head. They also have eyes on them.</description>
+  <iconPath>UI/Headwings_eyed</iconPath>
+  <displayCategory>GS_GraceTouched</displayCategory>
+  <biostatCpx>0</biostatCpx>
+  <displayOrderInCategory>70</displayOrderInCategory>
+  <iconColor>(0.75, 0.75, 0.75)</iconColor>
+  <randomChosen>false</randomChosen>
+  <renderNodeProperties>
+  <li>
+  <nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+  <workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+  <texPath>Parts/Misc/AngelHead_Wings</texPath>
+  <colorType>Hair</colorType>
+  <parentTagDef>Head</parentTagDef>
+  <useSkinShader>false</useSkinShader>
+  <useRottenColor>true</useRottenColor>
+  <rotDrawMode>Fresh, Rotting</rotDrawMode>
+  <drawData>
+  <defaultData>
+  <layer>70</layer>
+  </defaultData>
+  </drawData>
+  </li>
+  </renderNodeProperties>
+  
+  <modExtensions>
+  <li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
+  <backgroundPathXenogenes>UI/BlankNP</backgroundPathXenogenes>
+  </li>
+  </modExtensions>
+  
+  </GeneDef> -->
+
+  <!-- EN: short glide -->
+  <GS_short_glide.label>short glide</GS_short_glide.label>
+  <!-- EN: Take into the air on a pair of feathery wings, gliding a medium distance before setting back down on the ground. The wings' muscles require a short rest between each glide. -->
+  <GS_short_glide.description>Take into the air on a pair of feathery wings, gliding a medium distance before setting back down on the ground. The wings' muscles require a short rest between each glide.</GS_short_glide.description>
+
+  <!-- EN: head wings -->
+  <GS_Ear_Wings.label>head wings</GS_Ear_Wings.label>
+  <!-- EN: Carriers of this gene grow small feathered wing-like structures on the sides of their head. -->
+  <GS_Ear_Wings.description>Carriers of this gene grow small feathered wing-like structures on the sides of their head.</GS_Ear_Wings.description>
+
+  <!-- EN: Top halo -->
+  <GS_Saint_Halo.label>Top halo</GS_Saint_Halo.label>
+  <!-- EN: Carriers of this gene emanate a glowing halo ontop their heads. It can be freely shaped to display structures or symbols, helping to convey ideas with surprising clarity. -->
+  <GS_Saint_Halo.description>Carriers of this gene emanate a glowing halo ontop their heads. It can be freely shaped to display structures or symbols, helping to convey ideas with surprising clarity.</GS_Saint_Halo.description>
+
+  <!-- EN: Back halo -->
+  <GS_Halo.label>Back halo</GS_Halo.label>
+  <!-- EN: Carriers of this gene emanate a glowing halo behind their heads. It can be freely shaped to display structures or symbols, helping to convey ideas with surprising clarity. -->
+  <GS_Halo.description>Carriers of this gene emanate a glowing halo behind their heads. It can be freely shaped to display structures or symbols, helping to convey ideas with surprising clarity.</GS_Halo.description>
+
+
+  <!-- <GeneDef ParentName="GS_WingsBaseNEW">
+  <defName>GS_WingsA</defName>
+  <label>angelic hip wings</label>
+  <description>Carriers grow a set of small feathery wings.</description>
+  <iconPath>UI/HipWings</iconPath>
+  <displayOrderInCategory>24</displayOrderInCategory>
+  
+  <biostatMet>0</biostatMet>
+  <biostatCpx>1</biostatCpx>
+  <renderNodeProperties>
+  <li>
+  <workerClass>PawnRenderNodeWorker_AttachmentBody</workerClass>
+  <texPath>Parts/Wings/SmallWings</texPath>
+  <drawSize>1.15</drawSize>
+  <parentTagDef>Body</parentTagDef>
+  <colorType>Hair</colorType>
+  <rotDrawMode>Fresh</rotDrawMode>
+  <drawData>
+  <defaultData>
+  <layer>-1</layer>
+  </defaultData>
+  <scaleOffsetByBodySize>true</scaleOffsetByBodySize>
+  <dataNorth>
+  <layer>90</layer>
+  <offset>(0, 0.3, -0.18)</offset>
+  </dataNorth>
+  <dataSouth>
+  <offset>(0, -0.2, -0.05)</offset>
+  </dataSouth>
+  <dataEast>
+  <offset>(0.00, 0.0, -0.2)</offset>
+  </dataEast>
+  </drawData>
+  </li>
+  </renderNodeProperties>
+  </GeneDef> -->
+
+  <!-- EN: Angelic wings -->
+  <GS_WingsB.label>Angelic wings</GS_WingsB.label>
+  <!-- EN: Carriers grow a set of feathery wings. -->
+  <GS_WingsB.description>Carriers grow a set of feathery wings.</GS_WingsB.description>
+
+
+  <!-- Grace -->
+
+  <!-- EN: Grace -->
+  <GS_Grace_New.label>Grace</GS_Grace_New.label>
+  <!-- EN: Carriers lose 2 grace per day from biological entropy. -->
+  <GS_Grace_New.description>Carriers lose 2 grace per day from biological entropy.</GS_Grace_New.description>
+
+  <!-- EN: glowing yellow eyes -->
+  <GS_Eyes_Yellowy.label>glowing yellow eyes</GS_Eyes_Yellowy.label>
+  <!-- EN: Carriers of this gene have yellow-glowing eyes. -->
+  <GS_Eyes_Yellowy.description>Carriers of this gene have yellow-glowing eyes.</GS_Eyes_Yellowy.description>
+
+
+  <!-- Abilities -->
+
+  <!-- EN: lay on hands -->
+  <GS_Heal.label>lay on hands</GS_Heal.label>
+  <!-- EN: Carriers of this gene are able to channel restorative energy with a gentle touch, mending wounds and revitalizing the injured. -->
+  <GS_Heal.description>Carriers of this gene are able to channel restorative energy with a gentle touch, mending wounds and revitalizing the injured.</GS_Heal.description>
+
+  <!-- EN: holy hymn -->
+  <GS_HolyHymnn_Gene.label>holy hymn</GS_HolyHymnn_Gene.label>
+  <!-- EN: Carriers have modified, psychically resonating vocal cords that let their voice inspire and empower allies in a heavenly hymn. -->
+  <GS_HolyHymnn_Gene.description>Carriers have modified, psychically resonating vocal cords that let their voice inspire and empower allies in a heavenly hymn.</GS_HolyHymnn_Gene.description>
+
+  <!-- EN: redemption -->
+  <GS_Resurrect_Gene.label>redemption</GS_Resurrect_Gene.label>
+  <!-- EN: Carriers can channel extreme amount of psychic energy into a freshly deceased body, restarting its functions and granting the pawn a second chance at life. -->
+  <GS_Resurrect_Gene.description>Carriers can channel extreme amount of psychic energy into a freshly deceased body, restarting its functions and granting the pawn a second chance at life.</GS_Resurrect_Gene.description>
+
+  <!-- EN: Platinum skin -->
+  <GS_Skin_Platinum.label>Platinum skin</GS_Skin_Platinum.label>
+  <!-- EN: Carriers of this gene have a platinum skin, unlike natural skin tones, due to a special engineered reflective cell covering. -->
+  <GS_Skin_Platinum.description>Carriers of this gene have a platinum skin, unlike natural skin tones, due to a special engineered reflective cell covering.</GS_Skin_Platinum.description>
+
+  <!-- EN: platinum hair -->
+  <Hair_Platinum.label>platinum hair</Hair_Platinum.label>
+
+
+
+</LanguageData>

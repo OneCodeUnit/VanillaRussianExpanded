@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: grace-touched -->
+  <GS_Gracetouched.label>grace-touched</GS_Gracetouched.label>
+  <!-- EN: Grace is sacred. Those blessed by it should be worshipped. -->
+  <GS_Gracetouched.description>Grace is sacred. Those blessed by it should be worshipped.</GS_Gracetouched.description>
+  <!-- EN: memeAdjective->grace -->
+  <GS_Gracetouched.generalRules.rulesStrings.0>memeAdjective-&gt;grace</GS_Gracetouched.generalRules.rulesStrings.0>
+  <!-- EN: memeAdjective->grace-blessed -->
+  <GS_Gracetouched.generalRules.rulesStrings.1>memeAdjective-&gt;grace-blessed</GS_Gracetouched.generalRules.rulesStrings.1>
+  <!-- EN: memeCreed->sanctuary -->
+  <GS_Gracetouched.generalRules.rulesStrings.2>memeCreed-&gt;sanctuary</GS_Gracetouched.generalRules.rulesStrings.2>
+  <!-- EN: memeCreed->church -->
+  <GS_Gracetouched.generalRules.rulesStrings.3>memeCreed-&gt;church</GS_Gracetouched.generalRules.rulesStrings.3>
+  <!-- EN: memeCreed->temple -->
+  <GS_Gracetouched.generalRules.rulesStrings.4>memeCreed-&gt;temple</GS_Gracetouched.generalRules.rulesStrings.4>
+  <!-- EN: memeHyphenPrefix->sanct -->
+  <GS_Gracetouched.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;sanct</GS_Gracetouched.generalRules.rulesStrings.5>
+  <!-- EN: memeConcept->grace -->
+  <GS_Gracetouched.generalRules.rulesStrings.6>memeConcept-&gt;grace</GS_Gracetouched.generalRules.rulesStrings.6>
+  <!-- EN: memeConcept->blessing -->
+  <GS_Gracetouched.generalRules.rulesStrings.7>memeConcept-&gt;blessing</GS_Gracetouched.generalRules.rulesStrings.7>
+  <!-- EN: memeLeaderNoun->shepard -->
+  <GS_Gracetouched.generalRules.rulesStrings.8>memeLeaderNoun-&gt;shepard</GS_Gracetouched.generalRules.rulesStrings.8>
+  <!-- EN: memeLeaderNoun->paladin -->
+  <GS_Gracetouched.generalRules.rulesStrings.9>memeLeaderNoun-&gt;paladin</GS_Gracetouched.generalRules.rulesStrings.9>
+  <!-- EN: memeLeaderNoun->ascendant -->
+  <GS_Gracetouched.generalRules.rulesStrings.10>memeLeaderNoun-&gt;ascendant</GS_Gracetouched.generalRules.rulesStrings.10>
+  <!-- EN: memeMoralist->apostle -->
+  <GS_Gracetouched.generalRules.rulesStrings.11>memeMoralist-&gt;apostle</GS_Gracetouched.generalRules.rulesStrings.11>
+  <!-- EN: memeMoralist->templar -->
+  <GS_Gracetouched.generalRules.rulesStrings.12>memeMoralist-&gt;templar</GS_Gracetouched.generalRules.rulesStrings.12>
+  <!-- EN: memeMoralist->zealot -->
+  <GS_Gracetouched.generalRules.rulesStrings.13>memeMoralist-&gt;zealot</GS_Gracetouched.generalRules.rulesStrings.13>
+  <!-- EN: creation(tag=meme_Grace)        ->In the beginning, [deity0_name] created Grace so that it might guide all of [deity0_possessive] creations. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Grace)        -&gt;In the beginning, [deity0_name] created Grace so that it might guide all of [deity0_possessive] creations.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.0>
+  <!-- EN: episode(uses=1,tag=meme_Grace)  ->The [deity0_type] [deity0_name] gave to [deity0_possessive] chosen followers the gift of communion with Grace, ascending them beyond their mortal kin. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Grace)  -&gt;The [deity0_type] [deity0_name] gave to [deity0_possessive] chosen followers the gift of communion with Grace, ascending them beyond their mortal kin.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.1>
+  <!-- EN: intro(tag=meme_Grace)           ->On the [place_summary] [place_name], there was a human named [deity0_name]. One day, as [deity0_name] was tending to the holily fields, [deity0_possessive] heard the Grace's call, and followed into its embrace. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Grace)           -&gt;On the [place_summary] [place_name], there was a human named [deity0_name]. One day, as [deity0_name] was tending to the holily fields, [deity0_possessive] heard the Grace's call, and followed into its embrace.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.2>
+  <!-- EN: intro(tag=meme_Grace)           ->On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] resplendant in Grace. The sight of [deity0_name] turned [deity0_possessive] [memberNamePlural] blind, but at last allowed them to truly see. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.3>intro(tag=meme_Grace)           -&gt;On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] resplendant in Grace. The sight of [deity0_name] turned [deity0_possessive] [memberNamePlural] blind, but at last allowed them to truly see.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.3>
+  <!-- EN: conflict(tag=meme_Grace)        ->A [foeLeader] declared that all who communed with Grace were abominations, and sent [foeSoldiers] to persecute the [memberNamePlural]. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.4>conflict(tag=meme_Grace)        -&gt;A [foeLeader] declared that all who communed with Grace were abominations, and sent [foeSoldiers] to persecute the [memberNamePlural].</GS_Gracetouched.descriptionMaker.rules.rulesStrings.4>
+  <!-- EN: founderJoin(tag=meme_Grace)     ->A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] smote [foeLeader_objective] with Grace-given fire, gaining [deity0_name]'s blessing. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_Grace)     -&gt;A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] smote [foeLeader_objective] with Grace-given fire, gaining [deity0_name]'s blessing.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.5>
+  <!-- EN: victory(tag=meme_Grace)         ->[founderName] led a group of [memberNamePlural] into the [place_powerCenter], and purge the land of [foeLeader]'s heretic followers and and cleanse [foeLeader] in holy flames. [deity0_name] made [founderName] into the new [foeLeader], for [founderName] had proved his devotion. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.6>victory(tag=meme_Grace)         -&gt;[founderName] led a group of [memberNamePlural] into the [place_powerCenter], and purge the land of [foeLeader]'s heretic followers and and cleanse [foeLeader] in holy flames. [deity0_name] made [founderName] into the new [foeLeader], for [founderName] had proved his devotion.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.6>
+  <!-- EN: setup(tag=meme_Grace)           ->On a distant glitterworld, [founderName] was chosen by one of its megachurches to shepard their believers. [founderName] accepted, and [founder_pronoun] communed with Grace, which transformed [founder_pronoun]. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_Grace)           -&gt;On a distant glitterworld, [founderName] was chosen by one of its megachurches to shepard their believers. [founderName] accepted, and [founder_pronoun] communed with Grace, which transformed [founder_pronoun].</GS_Gracetouched.descriptionMaker.rules.rulesStrings.7>
+  <!-- EN: story(uses=1,tag=meme_Grace)    ->[founderName] gave to [founder_possessive] followers the gift of Grace, so that they may shepard the mortals. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_Grace)    -&gt;[founderName] gave to [founder_possessive] followers the gift of Grace, so that they may shepard the mortals.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.8>
+  <!-- EN: lessonIntro(tag=meme_Grace)     ->When I first smelled the holy incense and communed with Grace, it became clear. I saw that -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_Grace)     -&gt;When I first smelled the holy incense and communed with Grace, it became clear. I saw that</GS_Gracetouched.descriptionMaker.rules.rulesStrings.9>
+  <!-- EN: lesson(tag=meme_Grace)          ->those unguided by Grace were lost, and those who were knew the way forward. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_Grace)          -&gt;those unguided by Grace were lost, and those who were knew the way forward.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.10>
+  <!-- EN: lessonReinforcement(tag=meme_Grace) ->Those who were touched by Grace are ascendants, and their destiny is to guide the lesser mortals. -->
+  <GS_Gracetouched.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_Grace) -&gt;Those who were touched by Grace are ascendants, and their destiny is to guide the lesser mortals.</GS_Gracetouched.descriptionMaker.rules.rulesStrings.11>
+
+
+
+</LanguageData>

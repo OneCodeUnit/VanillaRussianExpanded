@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Nephilim Xenotype Reborn</name>
+	<author>Sovereign,Elseud,DetVisor,Visandar,Alite</author>
+	<packageId>Sov.Nephilim</packageId>
+	<description>Born not of mercy, but of wrath clad in flesh, the nephilim were wrought in the forge of mankind’s last, desperate prayers. Birthed on the a forsaken rimworld—where the air stank of heresy and the ground pulsed with forbidden rites—they were assembled from vat-grown human stock laced with fragments of shattered archotech and gene-secrets scraped from myth.
+
+Not quite mortal. Not quite divine.
+
+The nephilim were made to cleanse, not to save. Dropped into the festering depths void-corrupted undercities, they moved like judgment given form—silent, blinding, absolute. Every movement was ritual. Every kill, penance. The cults died screaming. The horrors died in silence. And when the last abomination was reduced to ash, the nephilim turned their burning gaze upward.
+
+Their creators—arrogant, fearful—were found unworthy.
+
+Now they come to the Rim—not to conquer, not to colonize, but to purify. The nephilim offer no sermons. Only silence. And the promise of final peace... in ash.
+</description>
+
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+		 <packageId>Ludeon.RimWorld.Biotech</packageId>
+		 <displayName>Biotech</displayName>
+		 <steamWorkshopUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/</steamWorkshopUrl>
+		</li>
+		
+		<li>
+		 <packageId>EBSG.Framework</packageId>
+		 <displayName>EBSG Framework</displayName>
+		 <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3112549163</steamWorkshopUrl>
+		</li>
+		
+	</modDependencies>
+	
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>EBSG.Framework</li>
+	</loadAfter>
+	</ModMetaData>

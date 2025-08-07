@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <GeneDef ParentName="GeneEyeColor">
+  <defName>GS_Six_Eyes_Yellowy</defName>
+  <label>glowing yellow eyes x6</label>
+  <labelShortAdj>yellow-eyed</labelShortAdj>
+  <description>Carriers of this gene have yellow-glowing eyes.</description>
+  <iconPath>UI/GlowEye</iconPath>
+  <prerequisite>GS_Eyed_Headwings</prerequisite>
+  <displayCategory>GS_GraceTouched</displayCategory>
+  <displayOrderInCategory>1</displayOrderInCategory>
+  <ignoreDarkness>true</ignoreDarkness>
+  <renderNodeProperties>
+  <li>
+  <nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+  <workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+  <texPath>Parts/Misc/SixEye</texPath>
+  <colorType>Custom</colorType>
+  <parentTagDef>Head</parentTagDef>
+  <useSkinShader>false</useSkinShader>
+  <useRottenColor>false</useRottenColor>
+  <rotDrawMode>Fresh</rotDrawMode>
+  <drawData>
+  <defaultData>
+  <layer>54</layer>
+  <offset>(0, 0, 0)</offset>
+  </defaultData>
+  </drawData>
+  </li>
+  
+  <li>
+  <nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+  <workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+  <texPath>Parts/Misc/TopSixEye</texPath>
+  <colorType>Custom</colorType>
+  <parentTagDef>Head</parentTagDef>
+  <useSkinShader>false</useSkinShader>
+  <useRottenColor>false</useRottenColor>
+  <rotDrawMode>Fresh</rotDrawMode>
+  <drawData>
+  <defaultData>
+  <layer>71</layer>
+  <offset>(0, 0, 0)</offset>
+  </defaultData>
+  </drawData>
+  </li>
+  
+  </renderNodeProperties>
+  
+  
+
+
+  
+  <modExtensions>
+  <li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
+  <backgroundPathXenogenes>UI/BlankNP</backgroundPathXenogenes>
+  </li>
+  </modExtensions>
+  
+  </GeneDef>  
+
+
+  <GeneDef ParentName="GeneJawBase">
+  <defName>GS_Head_Imma</defName>
+  <label>feathered four eyed head</label>
+  <description>Carriers of this gene have inhuman facial structure. The additional eyes do not improve sight.</description>
+  <iconPath>UI/immaculate_head</iconPath>
+  <displayCategory>GS_GraceTouched</displayCategory>
+  <!{1}**<missingGeneRomanceChanceFactor>0.0</missingGeneRomanceChanceFactor>**{1}>
+  <forcedHeadTypes>
+  <li>GS_Imma_Head_A</li>
+  </forcedHeadTypes>
+  <displayOrderInCategory>100</displayOrderInCategory>
+  
+  <modExtensions>
+  <li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
+  <backgroundPathXenogenes>UI/BlankNP</backgroundPathXenogenes>
+  </li>
+  </modExtensions>
+  
+  </GeneDef>
+
+<HeadTypeDef Name="GS_Imma_Head" Abstract="True">
+    <randomChosen>false</randomChosen>  
+    <requiredGenes>
+      <li>GS_Head_Imma</li>
+    </requiredGenes>
+  </HeadTypeDef>
+  
+  
+<HeadTypeDef ParentName="GS_Imma_Head">
+    <defName>GS_Imma_Head_A</defName>
+    <graphicPath>Parts/Heads/AngelHead</graphicPath>
+  </HeadTypeDef>
+
+
+
+<GeneDef>
+  <defName>GS_Eyed_Headwings</defName>
+  <label>eyed head wings</label>
+  <description>Carriers of this gene grow small feathered wing-like structures on the top of their head. They also have eyes on them.</description>
+  <iconPath>UI/Headwings_eyed</iconPath>
+  <displayCategory>GS_GraceTouched</displayCategory>
+  <biostatCpx>0</biostatCpx>
+  <displayOrderInCategory>70</displayOrderInCategory>
+  <iconColor>(0.75, 0.75, 0.75)</iconColor>
+  <randomChosen>false</randomChosen>
+  <renderNodeProperties>
+  <li>
+  <nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+  <workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+  <texPath>Parts/Misc/AngelHead_Wings</texPath>
+  <colorType>Hair</colorType>
+  <parentTagDef>Head</parentTagDef>
+  <useSkinShader>false</useSkinShader>
+  <useRottenColor>true</useRottenColor>
+  <rotDrawMode>Fresh, Rotting</rotDrawMode>
+  <drawData>
+  <defaultData>
+  <layer>70</layer>
+  </defaultData>
+  </drawData>
+  </li>
+  </renderNodeProperties>
+  
+  <modExtensions>
+  <li MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" Class="VEF.Genes.GeneExtension">
+  <backgroundPathXenogenes>UI/BlankNP</backgroundPathXenogenes>
+  </li>
+  </modExtensions>
+  
+  </GeneDef> -->
+
+  <!-- EN: gracetouched -->
+  <GS_GraceTouched.label>gracetouched</GS_GraceTouched.label>
+
+
+
+</LanguageData>

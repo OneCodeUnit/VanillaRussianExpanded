@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <AbilityDef>
+        <defName>GS_Enlight</defName>
+        <label>Enlight</label>
+        <description>desc</description>
+        <iconPath>UI/Enlight</iconPath>
+        <cooldownTicksRange>1710000</cooldownTicksRange>
+        <hostile>false</hostile>
+        <verbProperties>
+            <verbClass>Verb_CastAbility</verbClass>
+            <range>30</range>
+            <warmupTime>0.5</warmupTime>
+            <requireLineOfSight>False</requireLineOfSight>
+        </verbProperties>
+        <comps>
+  
+  
+            <li Class="EBSGFramework.CompProperties_CreateLinkedHediff">
+                <hediffOnTarget>GS_Dominion_Chime_Enslavement_Hediff</hediffOnTarget>
+  <targetHediffOnBrain>true</targetHediffOnBrain> 
+            </li>
+  
+  <li Class="EBSGFramework.CompProperties_AbilityResourceCost">
+                <resourceCost>0.80</resourceCost> <!{1}**Consumes 10 resource**{1}>
+                <mainResourceGene>GS_Grace_New</mainResourceGene>
+            </li>
+  
+        </comps>
+    </AbilityDef>
+
+ <AbilityDef>
+        <defName>GS_flight</defName>
+        <label>flight</label>
+        <description>Fly to another world tile.</description>
+        <iconPath>UI/Flight</iconPath>
+        <targetWorldCell>True</targetWorldCell>
+        <showGizmoOnWorldView>true</showGizmoOnWorldView>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+        <disableGizmoWhileUndrafted>false</disableGizmoWhileUndrafted>
+        <cooldownTicksRange>60</cooldownTicksRange>
+        <hostile>false</hostile>
+        <verbProperties>
+            <verbClass>Verb_CastAbility</verbClass>
+            <range>0.9</range>
+            <warmupTime>0.5</warmupTime>
+            <requireLineOfSight>False</requireLineOfSight>
+        </verbProperties>
+        <comps>
+            <li Class="EBSGFramework.CompProperties_Launch">
+                <maxDistance>30</maxDistance>
+            </li>
+  
+   <li Class="EBSGFramework.CompProperties_AbilityResourceCost">
+                <resourceCost>0.30</resourceCost> <!{1}**Consumes 10 resource**{1}>
+                <mainResourceGene>GS_Grace_New</mainResourceGene>
+            </li>
+  
+        </comps>
+    </AbilityDef> -->
+
+  <!-- EN: short glide -->
+  <GS_Wing_Jump.label>short glide</GS_Wing_Jump.label>
+  <!-- EN: Take into the air on a pair of feathery wings, gliding a medium distance before setting back down on the ground. The wings' muscles require a short rest between each glide. -->
+  <GS_Wing_Jump.description>Take into the air on a pair of feathery wings, gliding a medium distance before setting back down on the ground. The wings' muscles require a short rest between each glide.</GS_Wing_Jump.description>
+  <!-- EN: jump -->
+  <GS_Wing_Jump.verbProperties.label>jump</GS_Wing_Jump.verbProperties.label>
+
+  <!-- EN: lay on hands -->
+  <GS_HealOther.label>lay on hands</GS_HealOther.label>
+  <!-- EN: Gently touch the target with psychic energy-infused palms, mending wounds and revitalizing the injured. -->
+  <GS_HealOther.description>Gently touch the target with psychic energy-infused palms, mending wounds and revitalizing the injured.</GS_HealOther.description>
+
+  <!-- EN: holy hymn -->
+  <GS_HolyHymn.label>holy hymn</GS_HolyHymn.label>
+  <!-- EN: Unleash a psychic wave-laced voice in a heavenly hymn, enveloping nearby allies with a radiant aura that enhances their combat capabilities. The melody empowers them with heightened focus, accuracy, endurance, and unwavering determination, inspiring greatness in the midst of battle. -->
+  <GS_HolyHymn.description>Unleash a psychic wave-laced voice in a heavenly hymn, enveloping nearby allies with a radiant aura that enhances their combat capabilities. The melody empowers them with heightened focus, accuracy, endurance, and unwavering determination, inspiring greatness in the midst of battle.</GS_HolyHymn.description>
+
+  <!-- EN: redemption -->
+  <GS_resurrect.label>redemption</GS_resurrect.label>
+  <!-- EN: Revitalize a fresh corpse by dousing them in tremendous amounts of psychic energy, giving the deceased pawn a new chance at life. -->
+  <GS_resurrect.description>Revitalize a fresh corpse by dousing them in tremendous amounts of psychic energy, giving the deceased pawn a new chance at life.</GS_resurrect.description>
+
+
+
+</LanguageData>
