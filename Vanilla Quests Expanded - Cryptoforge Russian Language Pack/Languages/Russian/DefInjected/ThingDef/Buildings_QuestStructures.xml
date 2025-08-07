@@ -1,26 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- EN: ancient black box -->
-	<VQE_AncientBlackBox.label>ancient black box</VQE_AncientBlackBox.label>
+	<VQE_AncientBlackBox.label>древний чёрный ящик</VQE_AncientBlackBox.label>
   <!-- EN: A ship's black box recorder, filled with encrypted data. Given enough time, a skilled hacker may be able to extract critical information about what transpired. -->
-	<VQE_AncientBlackBox.description>A ship's black box recorder, filled with encrypted data. Given enough time, a skilled hacker may be able to extract critical information about what transpired.</VQE_AncientBlackBox.description>
+	<VQE_AncientBlackBox.description>Корабельный чёрный ящик, заполненный зашифрованными данными. При достаточном количестве времени квалифицированный хакер сможет извлечь критически важную информацию о произошедших событиях.</VQE_AncientBlackBox.description>
 
   <!-- EN: disabled ancient black box -->
-	<VQE_AncientBlackBox_Off.label>disabled ancient black box</VQE_AncientBlackBox_Off.label>
+	<VQE_AncientBlackBox_Off.label>отключённый древний чёрный ящик</VQE_AncientBlackBox_Off.label>
   <!-- EN: A ship's black box recorder. Any important information has already been downloaded, and the black box is nothing but junk. -->
-	<VQE_AncientBlackBox_Off.description>A ship's black box recorder. Any important information has already been downloaded, and the black box is nothing but junk.</VQE_AncientBlackBox_Off.description>
+	<VQE_AncientBlackBox_Off.description>Корабельный чёрный ящик. Вся важная информация уже была загружена, и чёрный ящик теперь не представляет никакой ценности.</VQE_AncientBlackBox_Off.description>
 
   <!-- EN: frozen scanning relay -->
-	<VQE_FrozenScanningRelay.label>frozen scanning relay</VQE_FrozenScanningRelay.label>
+	<VQE_FrozenScanningRelay.label>замёрзший сканирующий ретранслятор</VQE_FrozenScanningRelay.label>
   <!-- EN: A long-range scanning relay with some old alerts about an important event. If one was to initiate a scan, the location of a ship crash will be revealed. Initiating the scan will generate a strong enough power signature to attract a mechanoid hive. -->
-	<VQE_FrozenScanningRelay.description>A long-range scanning relay with some old alerts about an important event. If one was to initiate a scan, the location of a ship crash will be revealed. Initiating the scan will generate a strong enough power signature to attract a mechanoid hive.</VQE_FrozenScanningRelay.description>
+	<VQE_FrozenScanningRelay.description>Дальнобойный сканирующий ретранслятор с некоторыми старыми оповещениями о важном событии. Если инициировать сканирование, будет обнаружено местоположение крушения корабля. Однако инициирование сканирования создаст достаточно мощную энергетическую сигнатуру, чтобы привлечь механоидный улей.</VQE_FrozenScanningRelay.description>
 
   <!-- EN: disabled frozen scanning relay -->
-	<VQE_FrozenScanningRelay_Off.label>disabled frozen scanning relay</VQE_FrozenScanningRelay_Off.label>
-  <!-- EN: A long-range scanning relay. Any notifications and data has been removed, and it’s nothing but a big hunk of junk. -->
-	<VQE_FrozenScanningRelay_Off.description>A long-range scanning relay. Any notifications and data has been removed, and it’s nothing but a big hunk of junk.</VQE_FrozenScanningRelay_Off.description>
-
-
+	<VQE_FrozenScanningRelay_Off.label>отключённый замёрзший сканирующий ретранслятор</VQE_FrozenScanningRelay_Off.label>
+  <!-- EN: A long-range scanning relay. Any notifications and data has been removed, and it's nothing but a big hunk of junk. -->
+	<VQE_FrozenScanningRelay_Off.description>Дальнобойный сканирующий ретранслятор. Все уведомления и данные были удалены, и теперь это просто большой кусок хлама.</VQE_FrozenScanningRelay_Off.description>
 
 </LanguageData>

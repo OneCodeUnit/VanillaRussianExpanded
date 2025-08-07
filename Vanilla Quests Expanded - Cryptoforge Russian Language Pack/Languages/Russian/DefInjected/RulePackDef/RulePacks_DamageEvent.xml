@@ -22,24 +22,24 @@
     destroyed_present->encasing in ice
    -->
 	<VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings>
-    <li>damage_source-&gt;[cryptofreeze] froze</li>
+    <li>damage_source->[cryptofreeze] заморозил</li>
 
-    <li>cryptofreeze(p=3)-&gt;cryptofreeze</li>
-    <li>cryptofreeze(p=3)-&gt;a cryptofreeze</li>
-    <li>cryptofreeze(p=3)-&gt;the cryptofreeze</li>
-    <li>cryptofreeze-&gt;cold snap</li>
-    <li>cryptofreeze-&gt;a chill</li>
-    <li>cryptofreeze-&gt;a froststorm</li>
+    <li>cryptofreeze(p=3)->криозаморозка</li>
+    <li>cryptofreeze(p=3)->криозаморозка</li>
+    <li>cryptofreeze(p=3)->криозаморозка</li>
+    <li>cryptofreeze->холодный шок</li>
+    <li>cryptofreeze->озноб</li>
+    <li>cryptofreeze->морозная буря</li>
 
-    <li>damaged_present-&gt;freezing</li>
-    <li>damaged_present-&gt;numbing</li>
-    <li>damaged_present-&gt;biting cold</li>
-    <li>damaged_present-&gt;frosting over</li>
+    <li>damaged_present->замораживание</li>
+    <li>damaged_present->онемение</li>
+    <li>damaged_present->жгучий холод</li>
+    <li>damaged_present->покрытие инеем</li>
 
-    <li>destroyed_present-&gt;shattering</li>
-    <li>destroyed_present-&gt;crystallizing</li>
-    <li>destroyed_present-&gt;frostburning</li>
-    <li>destroyed_present-&gt;encasing in ice</li>
+    <li>destroyed_present->разрушение</li>
+    <li>destroyed_present->кристаллизация</li>
+    <li>destroyed_present->морозное горение</li>
+    <li>destroyed_present->заключение во лёд</li>
   </VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings>
 
 

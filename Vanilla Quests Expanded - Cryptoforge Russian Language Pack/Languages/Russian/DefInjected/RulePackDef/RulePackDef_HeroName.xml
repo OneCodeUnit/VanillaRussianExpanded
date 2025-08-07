@@ -7,30 +7,30 @@
     HeroNameLast->Names/Hero_Last
    -->
 	<VQE_HeroNameUtility.rulePack.rulesFiles>
-    <li>HeroNameFirstMale-&gt;Names/Hero_First_Male</li>
-    <li>HeroNameFirstFemale-&gt;Names/Hero_First_Female</li>
-    <li>HeroNameLast-&gt;Names/Hero_Last</li>
+    <li>HeroNameFirstMale->Names/Hero_First_Male</li>
+    <li>HeroNameFirstFemale->Names/Hero_First_Female</li>
+    <li>HeroNameLast->Names/Hero_Last</li>
   </VQE_HeroNameUtility.rulePack.rulesFiles>
 
   <!-- EN: 
     r_first_name->[HeroNameFirstMale]
    -->
 	<VQE_HeroMaleNames.rulePack.rulesStrings>
-    <li>r_first_name-&gt;[HeroNameFirstMale]</li>
+    <li>r_first_name->[HeroNameFirstMale]</li>
   </VQE_HeroMaleNames.rulePack.rulesStrings>
 
   <!-- EN: 
     r_first_name->[HeroNameFirstFemale]
    -->
 	<VQE_HeroFemaleNames.rulePack.rulesStrings>
-    <li>r_first_name-&gt;[HeroNameFirstFemale]</li>
+    <li>r_first_name->[HeroNameFirstFemale]</li>
   </VQE_HeroFemaleNames.rulePack.rulesStrings>
 
   <!-- EN: 
     r_last_name->[HeroNameLast]
    -->
 	<VQE_HeroLastNames.rulePack.rulesStrings>
-    <li>r_last_name-&gt;[HeroNameLast]</li>
+    <li>r_last_name->[HeroNameLast]</li>
   </VQE_HeroLastNames.rulePack.rulesStrings>
 
 

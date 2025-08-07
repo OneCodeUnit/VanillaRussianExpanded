@@ -1,82 +1,78 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Walls -->
 
   <!-- EN: frozen ship hull -->
-	<VQE_FrozenShipHull.label>frozen ship hull</VQE_FrozenShipHull.label>
+	<VQE_FrozenShipHull.label>замёрзший корпус корабля</VQE_FrozenShipHull.label>
   <!-- EN: An impassable, indestructible ship hull wall. Capable of holding up a roof. -->
-	<VQE_FrozenShipHull.description>An impassable, indestructible ship hull wall. Capable of holding up a roof.</VQE_FrozenShipHull.description>
+	<VQE_FrozenShipHull.description>Непроходимая, неразрушимая стена корпуса корабля. Способна поддерживать крышу.</VQE_FrozenShipHull.description>
 
   <!-- EN: fragile frozen ship hull -->
-	<VQE_FragileFrozenShipHull.label>fragile frozen ship hull</VQE_FragileFrozenShipHull.label>
+	<VQE_FragileFrozenShipHull.label>хрупкий замёрзший корпус корабля</VQE_FragileFrozenShipHull.label>
   <!-- EN: An impassable ship hull wall. The cracks and damage from the crash allow it to be destroyed. Capable of holding up a roof. -->
-	<VQE_FragileFrozenShipHull.description>An impassable ship hull wall. The cracks and damage from the crash allow it to be destroyed. Capable of holding up a roof.</VQE_FragileFrozenShipHull.description>
+	<VQE_FragileFrozenShipHull.description>Непроходимая стена корпуса корабля. Трещины и повреждения от крушения позволяют её разрушить. Способна поддерживать крышу.</VQE_FragileFrozenShipHull.description>
 
   <!-- EN: ancient airlock -->
-	<VQE_AncientAirlock.label>ancient airlock</VQE_AncientAirlock.label>
+	<VQE_AncientAirlock.label>древний воздушный шлюз</VQE_AncientAirlock.label>
   <!-- EN: A heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function. -->
-	<VQE_AncientAirlock.description>A heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function.</VQE_AncientAirlock.description>
+	<VQE_AncientAirlock.description>Сильно укреплённая дверь воздушного шлюза. Она медленно открывается, но очень прочная. Для функционирования двери требуются стены с обеих сторон.</VQE_AncientAirlock.description>
 
   <!-- EN: stuck ancient airlock -->
-	<VQE_JammedAncientAirlock.label>stuck ancient airlock</VQE_JammedAncientAirlock.label>
+	<VQE_JammedAncientAirlock.label>заклинивший древний воздушный шлюз</VQE_JammedAncientAirlock.label>
   <!-- EN: A heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
-	<VQE_JammedAncientAirlock.description>A heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function.</VQE_JammedAncientAirlock.description>
+	<VQE_JammedAncientAirlock.description>Сильно укреплённая дверь воздушного шлюза. Из-за неисправности или повреждения её необходимо открыть силой. Она медленно открывается, но очень прочная. Для функционирования двери требуются стены с обеих сторон.</VQE_JammedAncientAirlock.description>
   <!-- EN: Force this ancient airlock open -->
-	<VQE_JammedAncientAirlock.comps.0.jobString>Force this ancient airlock open</VQE_JammedAncientAirlock.comps.0.jobString>
+	<VQE_JammedAncientAirlock.comps.0.jobString>Открыть этот древний воздушный шлюз силой</VQE_JammedAncientAirlock.comps.0.jobString>
 
   <!-- EN: forced ancient airlock -->
-	<VQE_ForcedAncientAirlock.label>forced ancient airlock</VQE_ForcedAncientAirlock.label>
+	<VQE_ForcedAncientAirlock.label>взломанный древний воздушный шлюз</VQE_ForcedAncientAirlock.label>
   <!-- EN: A heavily reinforced airlock door. It has been forced open and cannot be closed again. -->
-	<VQE_ForcedAncientAirlock.description>A heavily reinforced airlock door. It has been forced open and cannot be closed again.</VQE_ForcedAncientAirlock.description>
+	<VQE_ForcedAncientAirlock.description>Сильно укреплённая дверь воздушного шлюза. Она была открыта силой и не может быть закрыта снова.</VQE_ForcedAncientAirlock.description>
 
-  <!-- EN: ancient large airlock -->
-	<VQE_AncientAirlock_Large.label>ancient large airlock</VQE_AncientAirlock_Large.label>
-  <!-- EN: A large, heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function. -->
-	<VQE_AncientAirlock_Large.description>A large, heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function.</VQE_AncientAirlock_Large.description>
+  <!-- EN: frozen floor -->
+	<VQE_FrozenFloor.label>замёрзший пол</VQE_FrozenFloor.label>
+  <!-- EN: A floor tile from the crashed ship. It's been frozen for centuries and can't be deconstructed. -->
+	<VQE_FrozenFloor.description>Плитка пола с разбившегося корабля. Она была замороженной на протяжении веков и не может быть разобрана.</VQE_FrozenFloor.description>
 
-  <!-- EN: stuck ancient large airlock -->
-	<VQE_JammedAncientAirlock_Large.label>stuck ancient large airlock</VQE_JammedAncientAirlock_Large.label>
-  <!-- EN: A large, heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
-	<VQE_JammedAncientAirlock_Large.description>A large, heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function.</VQE_JammedAncientAirlock_Large.description>
-  <!-- EN: Force this ancient large airlock open -->
-	<VQE_JammedAncientAirlock_Large.comps.0.jobString>Force this ancient large airlock open</VQE_JammedAncientAirlock_Large.comps.0.jobString>
+  <!-- EN: frozen floor grate -->
+	<VQE_FrozenFloorGrate.label>замёрзшая напольная решётка</VQE_FrozenFloorGrate.label>
+  <!-- EN: A floor grate from the crashed ship. It's been frozen for centuries and can't be deconstructed. -->
+	<VQE_FrozenFloorGrate.description>Напольная решётка с разбившегося корабля. Она была замороженной на протяжении веков и не может быть разобрана.</VQE_FrozenFloorGrate.description>
 
-  <!-- EN: forced ancient large airlock -->
-	<VQE_ForcedAncientAirlock_Large.label>forced ancient large airlock</VQE_ForcedAncientAirlock_Large.label>
-  <!-- EN: A heavily reinforced large airlock door. It has been forced open and cannot be closed again. -->
-	<VQE_ForcedAncientAirlock_Large.description>A heavily reinforced large airlock door. It has been forced open and cannot be closed again.</VQE_ForcedAncientAirlock_Large.description>
+  <!-- EN: frozen metal floor -->
+	<VQE_FrozenMetalFloor.label>замёрзший металлический пол</VQE_FrozenMetalFloor.label>
+  <!-- EN: A metal floor from the crashed ship. It's been frozen for centuries and can't be deconstructed. -->
+	<VQE_FrozenMetalFloor.description>Металлический пол с разбившегося корабля. Он был замороженным на протяжении веков и не может быть разобран.</VQE_FrozenMetalFloor.description>
 
-  <!-- EN: cryptoship hull -->
-	<VQE_CryptoshipHull1x1Left.label>cryptoship hull</VQE_CryptoshipHull1x1Left.label>
-  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
-	<VQE_CryptoshipHull1x1Left.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull1x1Left.description>
+  <!-- EN: cyber-tube floor -->
+	<VQE_FrozenTubeFloor.label>кибер-трубчатый пол</VQE_FrozenTubeFloor.label>
+  <!-- EN: An ancient floor design featuring intricate pipe networks. The cyber-tubes once carried fluids and signals throughout the ship, but are now frozen solid. -->
+	<VQE_FrozenTubeFloor.description>Древний дизайн пола с замысловатой сетью труб. Кибер-трубы когда-то переносили жидкости и сигналы по всему кораблю, но теперь они полностью замёрзли.</VQE_FrozenTubeFloor.description>
 
-  <!-- EN: cryptoship hull -->
-	<VQE_CryptoshipHull1x1Right.label>cryptoship hull</VQE_CryptoshipHull1x1Right.label>
-  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
-	<VQE_CryptoshipHull1x1Right.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull1x1Right.description>
+  <!-- EN: grid floor -->
+	<VQE_FrozenGridFloor.label>решётчатый пол</VQE_FrozenGridFloor.label>
+  <!-- EN: A metal grid floor from the crashed ship. Despite being centuries old, the non-slip design still works well. -->
+	<VQE_FrozenGridFloor.description>Металлический решётчатый пол с разбившегося корабля. Несмотря на возраст в несколько веков, его противоскользящий дизайн всё ещё хорошо работает.</VQE_FrozenGridFloor.description>
 
-  <!-- EN: cryptoship hull -->
-	<VQE_CryptoshipHull2x1Left.label>cryptoship hull</VQE_CryptoshipHull2x1Left.label>
-  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
-	<VQE_CryptoshipHull2x1Left.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull2x1Left.description>
+  <!-- EN: illuminated floor -->
+	<VQE_FrozenIlluminatedFloor.label>светящийся пол</VQE_FrozenIlluminatedFloor.label>
+  <!-- EN: A floor with embedded lighting elements. Most of the lights have failed, but a few still emit a soft glow. -->
+	<VQE_FrozenIlluminatedFloor.description>Пол со встроенными элементами освещения. Большинство огней погасло, но некоторые всё ещё излучают мягкое свечение.</VQE_FrozenIlluminatedFloor.description>
 
-  <!-- EN: cryptoship hull -->
-	<VQE_CryptoshipHull2x1Right.label>cryptoship hull</VQE_CryptoshipHull2x1Right.label>
-  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
-	<VQE_CryptoshipHull2x1Right.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull2x1Right.description>
+  <!-- EN: ship window -->
+	<VQE_FrozenShipWindow.label>корабельное окно</VQE_FrozenShipWindow.label>
+  <!-- EN: A reinforced window designed for space travel. -->
+	<VQE_FrozenShipWindow.description>Армированное окно, разработанное для космических путешествий.</VQE_FrozenShipWindow.description>
 
-  <!-- EN: cryptoship hull -->
-	<VQE_CryptoshipHull3x1Left.label>cryptoship hull</VQE_CryptoshipHull3x1Left.label>
-  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
-	<VQE_CryptoshipHull3x1Left.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull3x1Left.description>
+  <!-- EN: ship window frame -->
+	<VQE_FrozenShipWindowFrame.label>рама корабельного окна</VQE_FrozenShipWindowFrame.label>
+  <!-- EN: An empty window frame from the crashed ship. The transparent material is long gone. -->
+	<VQE_FrozenShipWindowFrame.description>Пустая оконная рама с разбившегося корабля. Прозрачный материал давно исчез.</VQE_FrozenShipWindowFrame.description>
 
-  <!-- EN: cryptoship hull -->
-	<VQE_CryptoshipHull3x1Right.label>cryptoship hull</VQE_CryptoshipHull3x1Right.label>
-  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
-	<VQE_CryptoshipHull3x1Right.description>A fragment of the exterior hull of the cryptoforge ship.</VQE_CryptoshipHull3x1Right.description>
-
-
+  <!-- EN: glowing energy vent -->
+	<VQE_FrozenEnergyVent.label>светящееся энергетическое отверстие</VQE_FrozenEnergyVent.label>
+  <!-- EN: A mysterious energy vent in the floor. It emits an eerie glow, but seems to be stable. -->
+	<VQE_FrozenEnergyVent.description>Таинственное энергетическое отверстие в полу. Оно испускает жуткое свечение, но кажется стабильным.</VQE_FrozenEnergyVent.description>
 
 </LanguageData>
