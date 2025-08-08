@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: industrial heater -->
+  <VFEPD_VTE_IndustrialHeater.label>промышленный обогреватель</VFEPD_VTE_IndustrialHeater.label>
+  <!-- EN: A large, industrial-type heater machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. It is capable of heating up the room to a much higher temperature than the standard heaters. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_IndustrialHeater.description>Большой промышленный нагревательный прибор, который встраивается в стену.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_IndustrialHeater.description>
+  
+  <!-- EN: industrial cooler -->
+  <VFEPD_VTE_IndustrialCooler.label>промышленный кондиционер</VFEPD_VTE_IndustrialCooler.label>
+  <!-- EN: A large, industrial-type air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. It’s capable of cooling the room to much lower temperature than the standard cooler. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_IndustrialCooler.description>Большой промышленный кондиционер, который встраивается в стену.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_IndustrialCooler.description>
+  
+  <!-- EN: wall heater -->
+  <VFEPD_VTE_WallHeater.label>встраиваемый обогреватель</VFEPD_VTE_WallHeater.label>
+  <!-- EN: A heating machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can be used to heat up rooms during winter. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_WallHeater.description>Встраиваемое в стену электрическое устройство, которое преобразует электричество в тепло.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_WallHeater.description>
+  
+  <!-- EN: wall-mounted heater -->
+  <VFEPD_VTE_WallMountedHeater.label>настенный обогреватель</VFEPD_VTE_WallMountedHeater.label>
+  <!-- EN: A wall-mounted device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can only be constructed on a wall. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_WallMountedHeater.description>Электрическое устройство, которое крепится на стену, не разрушая её. Оно преобразует электричество в тепло.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_WallMountedHeater.description>
+  
+  <!-- EN: wall-mounted cooler -->
+  <VFEPD_VTE_WallMountedCooler.label>настенный кондиционер</VFEPD_VTE_WallMountedCooler.label>
+  <!-- EN: A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. Can only be constructed on a wall. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_WallMountedCooler.description>Электрическое устройство, которое крепится на стену, не разрушая её. Подаёт холодный воздух с одной стороны, в то время как с другой отводится горячий.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_WallMountedCooler.description>
+  
+  <!-- EN: wall-mounted vent -->
+  <VFEPD_VTE_WallMountedVent.label>настенная вентиляция</VFEPD_VTE_WallMountedVent.label>
+  <!-- EN: A simple, wall-mounted vent for equalizing the temperature between two rooms without allowing people to walk between them. Can only be constructed on a wall. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_WallMountedVent.description>Обычные вентиляционные трубы, которые можно установить на стену, не разрушая её. Позволяют воздуху циркулировать между двумя соседними помещениями.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_WallMountedVent.description>
+  
+  <!-- EN: standing cooler -->
+  <VFEPD_VTE_StandingCooler.label>стационарный кондиционер</VFEPD_VTE_StandingCooler.label>
+  <!-- EN: A free standing air-cooling machine. Cool air comes out of a fan and spreads over surrounding area. Can be used to cool down rooms during summer. Not efficient enough to refrigerate food. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_StandingCooler.description>Небольшое автономное электрическое устройство для охлаждения воздуха.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_StandingCooler.description>
+  
+  <!-- EN: fake ducts -->
+  <VCHE_FakeDucts.label>декор. воздуховод</VCHE_FakeDucts.label>
+  <!-- EN: An air duct used by the AC network to transport air between the AC units and compressors. These do not transport anything. -->
+  <VCHE_FakeDucts.description>Воздушный канал, используемый в системах кондиционирования для прокачки воздуха между блоками кондиционеров и компрессорами. Нефункционален.</VCHE_FakeDucts.description>
+  
+  <!-- EN: air duct valve -->
+  <VFEPD_VTE_VentValve.label>декор. вентиль воздуховода</VFEPD_VTE_VentValve.label>
+  <!-- EN: Switches air flow on/off. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_VentValve.description>Вентиль воздуховода. Нефункционален.</VFEPD_VTE_VentValve.description>
+  
+  <!-- EN: AC control unit -->
+  <VFEPD_VTE_ACControlUnit.label>блок управления кондиционерами</VFEPD_VTE_ACControlUnit.label>
+  <!-- EN: A main air conditioning control unit. Connects to compressors to allow AC units to generate cool or hot air. Needs to be connected to compressors by air ducts. AC control unit dictates the desired temperature for all AC units in the same network. Installing too many AC units may decrease the efficiency of the network, increasing the power drain of all devices. Constructing additional compressors will improve the efficiency of the network. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_ACControlUnit.description>Основной блок управления системой кондиционирования. Подключается к компрессорам, позволяя кондиционерам охлаждать или нагревать воздух.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_ACControlUnit.description>
+  
+  <!-- EN: AC unit -->
+  <VFEPD_VTE_ACUnit.label>блок кондиционера</VFEPD_VTE_ACUnit.label>
+  <!-- EN: An air-conditioning machine that fits into a wall. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_ACUnit.description>Электрическое устройство, которое встраивается в стену. Подает холодный или тёплый воздух в одном направлении, в зависимости от текущей температуры в помещении.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_ACUnit.description>
+  
+  <!-- EN: wall-mounted AC unit -->
+  <VFEPD_VTE_ACUnitWall.label>настенный блок кондиционера</VFEPD_VTE_ACUnitWall.label>
+  <!-- EN: A wall-mounted air-conditioning machine. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Can only be constructed on a wall. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_ACUnitWall.description>Электрическое устройство, которое крепится на стену, не разрушая её. Подаёт холодный или тёплый воздух в одном направлении, в зависимости от текущей температуры в помещении.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_ACUnitWall.description>
+  
+  <!-- EN: AC compressor -->
+  <VFEPD_VTE_ACCompressor.label>компрессор</VFEPD_VTE_ACCompressor.label>
+  <!-- EN: An air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate two additional AC devices without losing efficiency. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_ACCompressor.description>Компрессор, подключаемый к блоку управления кондиционерами через воздуховоды.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_ACCompressor.description>
+  
+  <!-- EN: large AC compressor -->
+  <VFEPD_VTE_LargeACCompressor.label>большой компрессор</VFEPD_VTE_LargeACCompressor.label>
+  <!-- EN: A large air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate six additional AC devices without losing efficiency. Non-functional: all its internal mechanisms have been removed. -->
+  <VFEPD_VTE_LargeACCompressor.description>Большой компрессор, подключаемый к блоку управления кондиционерами через воздуховоды.\nДанный экземпляр не функционирует — его основные рабочие элементы демонтированы.</VFEPD_VTE_LargeACCompressor.description>
+</LanguageData>
