@@ -12,13 +12,6 @@
   </supportedVersions>
   <packageId>OW.RU.Apparel</packageId>
   <description>Перевод на русский язык мода Vanilla Apparel Expanded и дополнения Accessories. Подробности ищите на странице в мастерской.</description>
-  <modDependencies>
-    <li>
-      <packageId>VanillaExpanded.VAPPE</packageId>
-      <displayName>Vanilla Apparel Expanded</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1814987817</steamWorkshopUrl>
-    </li>
-  </modDependencies>
   <loadAfter>
     <li>VanillaExpanded.VAPPE</li>
     <li>VanillaExpanded.VARME</li>
