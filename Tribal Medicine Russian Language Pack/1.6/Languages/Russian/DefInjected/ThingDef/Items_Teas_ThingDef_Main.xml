@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: health tea -->
+  <TM_RedTea.label>укрепляющий чай</TM_RedTea.label>
+  <!-- EN: A sweet-smelling, bubbling tea that combines the strong medical effects of red petals with the impact of the nervous system that shroom spores have. Native tribes from the rimworlds used to consume this tea on a daily basis to toughen their bodies and improve their general health.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Similar to a mixture of plants and raw bug shells combined with a slight resemblance to raw lettuce. -->
+  <TM_RedTea.description>Сладко пахнущий чай, сочетающий в себе лечебный эффект красных лепестков с воздействием на нервную систему, которым обладают споры психогрибов. Древние племена окраинных миров ежедневно употребляли этот чай, чтобы укрепить своё здоровье и улучшить общее самочувствие.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; напоминает смесь растений и хитина насекомых с лёгким привкусом салатного листа.</TM_RedTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_RedTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_RedTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_RedTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_RedTea.ingestible.ingestCommandString>
+  
+  <!-- EN: hibernation tea -->
+  <TM_OrangeTea.label>чай зимней спячки</TM_OrangeTea.label>
+  <!-- EN: An ancient tribal tea brewed from a high amount of shrooms and some carefully boiled broots to add intensity to the mix. These two plants react chemically under a specific temperature and form a strong sedative substance that attacks the nervous system at its core. Consumers become drowsy and slow, but their internal organs remain in what could be best described as an hibernation status, needing just the minimum amount of food to survive. This tea was crucial to the survival of native tribes during harsh winters and periods of very scarce food.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Hot and bland, with a resemblance to dirt hidden behind the oily texture. -->
+  <TM_OrangeTea.description>Чай, приготовленный по старинному рецепту из большого количества психогрибов и тщательно прокипячённого белого лишайника. Эти два растения вступают в химическую реакцию и образуют сильное успокоительное вещество. После употребления человек становится сонным и медленным, а его организм начинает работать в режиме гибернации, «спячки», и ему нужно минимальное количество еды, чтобы выжить. Этот чай был крайне важен для выживания племён во время суровых зим и периодов крайней нехватки пищи.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; острый и в основном безвкусный, со скрытым за маслянистой текстурой привкусом грязи.</TM_OrangeTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_OrangeTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_OrangeTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_OrangeTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_OrangeTea.ingestible.ingestCommandString>
+  
+  <!-- EN: purifying tea -->
+  <TM_YellowTea.label>очищающий чай</TM_YellowTea.label>
+  <!-- EN: A strong-smelling, hot, acid tea made with highly boiled broots and dark berries. The aggressive effects of the broot acids combined with the natural antibodies of dark berries result in a tea that serves as an organism purger. The broot acids attack every inch of the human body and remove any invasive, external agents, then the tea is properly absorbed by the body and the waste is eliminated through feces. However, this tea is very dangerous to consume, as the almost pure broot acids can sometimes still contain poison, and thus cause broot poisoning to the consumer. Tribespeople usually trusted only their best shaman to brew these teas, as a correct boiling process is required to reduce the chance of getting poisoned.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Sweet, yet acid enough to cause a natural rejection to swallowing it. -->
+  <TM_YellowTea.description>Очень ароматный, горячий и кислый чай, приготовленный путём кипячения белого лишайника и темноягод. Агрессивная кислота лишайника в сочетании с естественными антителами темноягод наделяют этот чай очищающими свойствами. Кислоты удаляют из организма любые инвазивные агенты, а остальные отходы устраняются через кишечник. Однако этот чай довольно опасен, так как в белом лишайнике может оставаться яд, вызывающий серьёзное отравление. Только лучшие шаманы племени занимаются приготовлением очищающего чая, так как для снижения риска отравления необходим правильный процесс кипячения.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; сладкий и достаточно кислый, вызывающий естественное отторжение при употреблении.</TM_YellowTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_YellowTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_YellowTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_YellowTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_YellowTea.ingestible.ingestCommandString>
+  
+  <!-- EN: immunity tea -->
+  <TM_BlackTea.label>иммунный чай</TM_BlackTea.label>
+  <!-- EN: A dark, thick, bitter tea made of a concentration of boiled dark berries and shrooms spores. This beverage has great antibiotic properties and is widely used among tribespeople to treat infections and diseases, effectively reducing their severity and boosting the immunity gain speed of the consumer.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Like a fine, tasty mud and dry berry pudding flavored with a slight touch of cobweb. -->
+  <TM_BlackTea.description>Густой, горький чай, приготовленный из концентрированных отваров тёмноягод и психогрибных спор. Обладает мощными антибиотическими свойствами и широко используется среди жителей племён для лечения инфекций и болезней, эффективно снижая их тяжесть и ускоряя процесс выработки иммунитета.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; как изысканный вкусовой баланс между густым ягодным пудингом и сухой грязью с лёгким привкусом паутины.</TM_BlackTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_BlackTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_BlackTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_BlackTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_BlackTea.ingestible.ingestCommandString>
+  
+  <!-- EN: digestive tea -->
+  <TM_GreenTea.label>чай для пищеварения</TM_GreenTea.label>
+  <!-- EN: A thick, bitter tea that has an atrociously bad flavor. It combines the properties of dark berries with the natural healing benefits from healroot in order to create a tea that is capable of cleansing the body from several types of contaminations, this includes food poisoning, gut worms, drunkenness and even toxic buildup.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Bitter as a dry apricot delicately spiced with burnt oregano and dried parsley. -->
+  <TM_GreenTea.description>Ужасный на вкус густой чай. Он сочетает свойства темноягод и лечебного корня для очищения организма от интоксикации и паразитов, включая пищевое отравление, кишечных червей, опьянение и даже отравление токсинами.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; горький, как курага, деликатно приправленная пережжённым орегано и сушёной петрушкой.</TM_GreenTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_GreenTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_GreenTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_GreenTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_GreenTea.ingestible.ingestCommandString>
+  
+  <!-- EN: warmth tea -->
+  <TM_RedYellowTea.label>согревающий чай</TM_RedYellowTea.label>
+  <!-- EN: An oily beverage that combines broots and red petals to create a tea high in proteins and heat producers, which effectively raises the average temperature of the human body upon consumption. The effect makes the user a little more hungry, but it is worth the trade during harsh winters where not even the best diet could keep one away from hypothermia. Be aware though, as the temperature produced is constant, so the consumer will be also rendered less resistant to hot temperatures.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Sweet like honey, carefully seasoned with dried garlic, soy sauce and a tiny bit of white vinegar. -->
+  <TM_RedYellowTea.description>Маслянистый напиток, приготовленный из белого лишайника и красных лепестков. Богат белками и согревающими веществами, которые эффективно повышают температуру тела человека после употребления. Этот эффект вызывает чувство голода, но он оправдан в холодные зимние дни, когда даже самое лучшее питание не способно защитить от гипотермии. Будьте осторожны, в следствие того, что достигнутая температура тела постоянна, человек также будет менее устойчив к жаре.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; сладкий, как мёд, слегка приправленный сушёным чесноком, соевым соусом и небольшим количеством уксуса.</TM_RedYellowTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_RedYellowTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_RedYellowTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_RedYellowTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_RedYellowTea.ingestible.ingestCommandString>
+  
+  <!-- EN: rage tea -->
+  <TM_LilacTea.label>чай ярости</TM_LilacTea.label>
+  <!-- EN: A thick, slimy beverage with a high concentration of psychite, which in combination with the aggressive chemicals of broots, generates a strong effect in the human nervous system. Native tribes all across the rimworlds used to brew these teas during war times, providing their warriors with sometimes high doses of it. It causes a strong rage that negates pain and enhances mobility, though it comes with a slight counter-effect once it starts wearing off.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Bitter, dry, thick and spicy for some reason. Many believe the true cause of the rage it produces. -->
+  <TM_LilacTea.description>Густой, вязкий напиток, который оказывает сильное воздействие на нервную систему человека. Готовится из смеси белого лишайника и психина. Жители племён, населяющих окраинные миры, готовят этот чай для своих воинов. Он вызывает ярость, которая притупляет боль и увеличивает подвижность, хотя после того, как эффект начинает спадать, возникает слабое противоположное действие.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; горький, сухой, густой и почему-то острый. Многие считают, что именно вкус является настоящей причиной ярости, которую этот чай вызывает.</TM_LilacTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_LilacTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_LilacTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_LilacTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_LilacTea.ingestible.ingestCommandString>
+  
+  <!-- EN: circulatory tea -->
+  <TM_PurpleTea.label>сердечный чай</TM_PurpleTea.label>
+  <!-- EN: A healthy, difficult to brew tea that is widely appreciated among tribespeople, in particular those who value the lives of their oldest members. This tea enhances the circulatory system and can prevent heart attacks, the cause of death of many elders. However, the complexity of the brewing process requires an experienced shaman to avoid wasting the resources.\n\n&lt;color=#c56bdb&gt;Flavor:&lt;/color&gt; Like mint-flavored cake with blueberries and orange juice. This tea actually tastes nice. -->
+  <TM_PurpleTea.description>Полезный, но трудный в приготовлении чай. Пользуется большим спросом среди жителей племён, особенно тех, кто желает продлить жизнь своих старейшин. Он улучшает работу кровеносной системы и может предотвратить сердечные приступы, являющиеся частой причиной смерти людей пожилого возраста. Так как этот чай сложно заваривать, чтобы зря не потратить ингредиенты, для его приготовления необходим опытный шаман.\n\n&lt;color=#c56bdb&gt;Вкус:&lt;/color&gt; как апельсиновый сок с мятно-черничным тортом. Этот чай действительно вкусный!</TM_PurpleTea.description>
+  <!-- EN: Drinking {0}. -->
+  <TM_PurpleTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</TM_PurpleTea.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <TM_PurpleTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</TM_PurpleTea.ingestible.ingestCommandString>
+
+</LanguageData>

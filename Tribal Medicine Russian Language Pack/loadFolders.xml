@@ -11,4 +11,12 @@
 		<li IfModActive="Ludeon.Rimworld.Royalty">Royalty</li>
 		<li IfModActive="Seti.trilinktwo">PsylinkTea</li>
 	</v1.5>
+	<v1.6>
+		<li>1.6</li>
+		<li>Common</li>
+		<li IfModActive="Ludeon.Rimworld.Royalty">Royalty</li>
+		<li IfModActive="Argon.IndustrialTribalMedicine">IndustrialTM</li>
+		<li IfModActiveAll="Argon.IndustrialTribalMedicine,Ludeon.Rimworld.Royalty">IndustrialTMandRoyalty</li>
+		<li IfModActive="Seti.trilinktwo">PsylinkTea</li>
+	</v1.6>
 </loadFolders>

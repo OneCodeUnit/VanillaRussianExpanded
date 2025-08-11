@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: psychic serum -->
+  <ITM_AnimaSerum.label>психоактивная сыворотка</ITM_AnimaSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can enhance psychic affinity, great for psycasters. -->
+  <ITM_AnimaSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие психоактивного чая, улучшающего пси-способности, и поэтому отлично подходящего псионикам.</ITM_AnimaSerum.description>
+  <!-- EN: Drinking {0}. -->
+  <ITM_AnimaSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_AnimaSerum.ingestible.ingestReportString>
+  <!-- EN: Drink {0} -->
+  <ITM_AnimaSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_AnimaSerum.ingestible.ingestCommandString>
+
+</LanguageData>

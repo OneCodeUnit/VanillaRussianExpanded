@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: health serum -->
+  <ITM_RedSerum.label>укрепляющая сыворотка</ITM_RedSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that enhances general health. -->
+  <ITM_RedSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие укрепляющего чая, улучшающего общее состояние здоровья.</ITM_RedSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_RedSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_RedSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_RedSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_RedSerum.ingestible.ingestReportString>
+  
+  <!-- EN: hibernation serum -->
+  <ITM_OrangeSerum.label>сыворотка гибернации</ITM_OrangeSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can put the body in a state of mild hibernation, drastically reducing the amount of food needed to survive in exchange for rendering the user drowsy and heavy. -->
+  <ITM_OrangeSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие чая зимней спячки, способного ввести тело в состояние лёгкой гибернации, значительно снижая потребность в пище, но вызывая сонливость и медлительность.</ITM_OrangeSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_OrangeSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_OrangeSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_OrangeSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_OrangeSerum.ingestible.ingestReportString>
+  
+  <!-- EN: purifying serum -->
+  <ITM_YellowSerum.label>очищающая сыворотка</ITM_YellowSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can cleanse the body of any intrusive disease or condition, at the cost of a slight risk of broot poisoning. -->
+  <ITM_YellowSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие очищающего чая, способного удалить из организма любые болезни или недуги, ценой небольшого риска отравления белым лишайником.</ITM_YellowSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_YellowSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_YellowSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_YellowSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_YellowSerum.ingestible.ingestReportString>
+  
+  <!-- EN: immunity serum -->
+  <ITM_BlackSerum.label>сыворотка иммунитета</ITM_BlackSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can give a strong, short boost to immunity gain. Good against diseases. -->
+  <ITM_BlackSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие иммунного чая, способного кратковременно, но значительно укрепить иммунитет. Эффективна против болезней.</ITM_BlackSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_BlackSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_BlackSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_BlackSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_BlackSerum.ingestible.ingestReportString>
+  
+  <!-- EN: digestive serum -->
+  <ITM_GreenSerum.label>пищеварительная сыворотка</ITM_GreenSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can boost the digestive capacity of the organism, eliminating food poisoning and greatly helping endure gut worms and drunkeness. -->
+  <ITM_GreenSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие чая для пищеварения, способного усиливать пищеварительную способность организма, устраняющего пищевое отравление и помогающего быстрее оправиться от кишечных червей и опьянения.</ITM_GreenSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_GreenSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_GreenSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_GreenSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_GreenSerum.ingestible.ingestReportString>
+  
+  <!-- EN: warmth serum -->
+  <ITM_RedYellowSerum.label>согревающая сыворотка</ITM_RedYellowSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can help the organism generate more heat, greatly helping survival in cold climates. -->
+  <ITM_RedYellowSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие согревающего чая, помогающего организму вырабатывать больше тепла, что значительно повышает шансы на выживание в холодном климате.</ITM_RedYellowSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_RedYellowSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_RedYellowSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_RedYellowSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_RedYellowSerum.ingestible.ingestReportString>
+  
+  <!-- EN: rage serum -->
+  <ITM_LilacSerum.label>сыворотка ярости</ITM_LilacSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can produce a violent outburst of adrenaline in the body. Can enhance fighting capabilities. -->
+  <ITM_LilacSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие чая ярости, вызывающего резкий выброс адреналина, тем самым повышая боевые способности персонажа.</ITM_LilacSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_LilacSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_LilacSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_LilacSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_LilacSerum.ingestible.ingestReportString>
+  
+  <!-- EN: circulatory serum -->
+  <ITM_PurpleSerum.label>сыворотка кровообращения</ITM_PurpleSerum.label>
+  <!-- EN: An industrial-grade medical serum that contains the effects of a tribal tea that can enhance blood circulation, greatly reducing the risk and mortality of a heart attack. -->
+  <ITM_PurpleSerum.description>Промышленная медицинская сыворотка, воспроизводящая действие сердечного чая, улучшающего кровообращение, тем самым значительно снижая риск и смертность от сердечного приступа.</ITM_PurpleSerum.description>
+  <!-- EN: Take {0} -->
+  <ITM_PurpleSerum.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</ITM_PurpleSerum.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ITM_PurpleSerum.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</ITM_PurpleSerum.ingestible.ingestReportString>
+
+</LanguageData>
