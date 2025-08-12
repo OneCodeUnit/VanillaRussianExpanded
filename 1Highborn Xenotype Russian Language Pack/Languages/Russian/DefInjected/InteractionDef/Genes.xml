@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: gossip -->
+  <HBX_Gossip_Interaction.label>сплетни</HBX_Gossip_Interaction.label>
+  <!-- EN: 
+   	<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] exchanged gossip.</li>
+    <li>r_logentry->[INITIATOR_nameDef] shared a secret with [RECIPIENT_nameDef].</li>
+    <li>r_logentry->With a wry look, [INITIATOR_nameDef] told [RECIPIENT_nameDef] a rumor about a fellow colonist.</li>
+  -->
+  <HBX_Gossip_Interaction.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] обмениваются сплетнями.</li>
+    <li>r_logentry->[INITIATOR_nameDef] делится секретом с [RECIPIENT_nameDef].</li>
+    <li>r_logentry->С усмешкой [INITIATOR_nameDef] рассказывает [RECIPIENT_nameDef] слух о товарище по поселению.</li>
+  </HBX_Gossip_Interaction.logRulesInitiator.rulesStrings>
+</LanguageData>
