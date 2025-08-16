@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <!-- EN:
+    <li>r_name(p=0.3)->[aspenForest_adjective] [narrative_name]</li>
+    <li>r_name(p=0.2)->the [narrative_name] [terrain_word]</li>
+    <li>aspenForest_adjective(p=2)->golden</li>
+    <li>aspenForest_adjective->amber</li>
+    <li>aspenForest_adjective->quaking</li>
+    <li>aspenForest_adjective->whispering</li>
+    <li>aspenForest_adjective->misty</li>
+    <li>aspenForest_adjective->sun-dappled</li>
+    <li>aspenForest_adjective->leaflit</li>
+    <li>aspenForest_adjective->shimmering</li>
+    <li>terrain_word(p=3)->aspen forest</li>
+    <li>terrain_word(p=2)->aspenwood</li>
+    <li>terrain_word(p=2)->wood</li>
+    <li>terrain_word(p=2)->grove</li>
+    <li>terrain_word->woods</li>
+    <li>terrain_word->vale</li>
+    <li>terrain_word->glen</li>
+    <li>terrain_word->hollows</li>
+    <li>terrain_word->uplands</li>
+    <li>terrain_word->foothills</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <RG_NamerAspenForest.questNameRules.rulesStrings>
+    <li>r_name(p=0.3)->[aspenForest_adjective] [forest_name]</li>
+    <li>r_name(p=0.2)->[aspenForest_adjective] [terrain_word_aspen]</li>
+    <li>aspenForest_adjective(p=2)->золотой</li>
+    <li>aspenForest_adjective->янтарный</li>
+    <li>aspenForest_adjective->дрожащий</li>
+    <li>aspenForest_adjective->шепчущий</li>
+    <li>aspenForest_adjective->туманный</li>
+    <li>aspenForest_adjective->солнечный</li>
+    <li>aspenForest_adjective->освещённый</li>
+    <li>aspenForest_adjective->мерцающий</li>
+    <li>terrain_word_aspen(p=3)->осиновый лес</li>
+    <li>terrain_word_aspen(p=2)->осинник</li>
+    <li>terrain_word_aspen(p=2)->лес</li>
+  </RG_NamerAspenForest.questNameRules.rulesStrings>

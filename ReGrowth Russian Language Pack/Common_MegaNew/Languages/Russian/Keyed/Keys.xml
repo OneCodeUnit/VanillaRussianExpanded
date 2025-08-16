@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RG.SpawnAutumnLeaves>Появление осенних листьев</RG.SpawnAutumnLeaves>
+  <RG.SpawnLeaves>Появление осиновых листьев</RG.SpawnLeaves>
+  <RG.ColdFog>Холодный туман</RG.ColdFog>
+  <RG.IceLayer>Ледяная корка</RG.IceLayer>
+  <RG.RainWaterPuddles>Лужи дождевой воды</RG.RainWaterPuddles>
+  <RG.RainCleanWaterPuddles>Убрать лужи</RG.RainCleanWaterPuddles>
+  <RG.FogVelocity>Скорость движения тумана</RG.FogVelocity>
+  <RG.FogTemp>Температура тумана</RG.FogTemp>
+  <RG.PuddleChance>Вероятность появления луж</RG.PuddleChance>
+  <RG.SpawnFogOnHotSprings>Туман у горячих источников</RG.SpawnFogOnHotSprings>
+  <RG.SandDevilLeftTheMap>Песчаный вихрь покинул территорию.</RG.SandDevilLeftTheMap>
+  <RG.SandDevilDissipated>Песчаный вихрь рассеялся.</RG.SandDevilDissipated>
+  <RG.DisableHailDamage>Отключить урон от града</RG.DisableHailDamage>
+  <RG.BatheZone>Зона для купания</RG.BatheZone>
+  <RG.DesignatorBatheZoneDesc>Определите место, где ваши поселенцы смогут принимать водные процедуры.</RG.DesignatorBatheZoneDesc>
+  <RG.StoppedBathingMessage>{PAWN_nameDef} больше не купается. Причина: {1}.</RG.StoppedBathingMessage>
+  <RG.TooCold>Температура слишком низкая.</RG.TooCold>
+  <RG.TooHot>Температура слишком высокая.</RG.TooHot>
+  <RG.BathingIsNotPossible>Купание невозможно: {0}</RG.BathingIsNotPossible>
+  <RG.BathingSeasonIsHere>Купальный сезон открыт!</RG.BathingSeasonIsHere>
+  <RG.BathingZoneRemoved>Зона для купания удалена.</RG.BathingZoneRemoved>
+  <RG.BathingPeriod>Купальный сезон: {0}/{1} ({2} - {3}) дней</RG.BathingPeriod>
+  <RG.BathingGroup>Купание</RG.BathingGroup>
+  <RG.MessagePlantDiedOfHeat>Смерть {0} из-за высокой температуры.</RG.MessagePlantDiedOfHeat>
+  <!-- EN: Any items checked here will be altered. -->
+  <PerspectiveOres.Settings.Header>Все элементы, отмеченные здесь, будут изменены.</PerspectiveOres.Settings.Header>
+  <!-- EN: Enable the "Make Camp" feature -->
+  <RG.EnableMakeCamp>Включить функцию «Разбить лагерь»</RG.EnableMakeCamp>
+  <!-- EN: Toggle it to allow player caravans to set up temporary camps on the world map -->
+  <RG.EnableMakeCampDesc>Включите эту функцию, чтобы разрешить караванам игрока разбивать временные лагеря на карте мира.</RG.EnableMakeCampDesc>
+  <!-- EN: Make camp -->
+  <RG.MakeCamp>Разбить лагерь</RG.MakeCamp>
+  <!-- EN: Make a temporary camp in this area. Your colonists will enter this area and you can forage, build simple structures, stage an attack or plan your next move. -->
+  <RG.MakeCampDesc>Разбить временный лагерь на этой клетке. Ваши поселенцы войдут в эту область, и вы сможете добывать пищу, строить простые сооружения, организовывать нападения или планировать свои дальнейшие действия.</RG.MakeCampDesc>
+  <!-- EN: Camp map preservation period -->
+  <RG.PreserveSavedCamps>Период сохранения карты лагеря</RG.PreserveSavedCamps>
+  <!-- EN: After leaving your camp, the local map is saved for some time. This allows you to return if you forgot something, as well as prevents cheating. Adjust the preserve period after which the saved maps should be generated anew. -->
+  <RG.PreserveSavedCampsDesc>После выхода из лагеря его зона сохраняется на некоторое время. Это позволяет вернуться, если вы что-то забыли, а также предотвращает жульничество. Настройка регулирует период сохранения, по истечении которого местность бывшего лагеря будет генерироваться заново.</RG.PreserveSavedCampsDesc>
+  <!-- EN: empty camp -->
+  <RG.EmptyCamp>пустой лагерь</RG.EmptyCamp>
+  <!-- EN: Time remaining: {0} -->
+	<RG.TimeRemaining>Осталось времени: {0}</RG.TimeRemaining>
+  <!-- EN: Visit abandoned camp -->
+	<RG.VisitCamp>Посетить брошенный лагерь</RG.VisitCamp>
+  <!-- EN: Plants no longer die from pollution -->
+	<RG.PlantPollutionNoDeath>Растения не умирают от загрязнения</RG.PlantPollutionNoDeath>
+  <!-- EN: When enabled, plants will no longer die as a result of pollution. They will still be polluted, but will not die. -->
+  <RG.PlantPollutionNoDeathDesc>Если включено, растения больше не будут умирать от загрязнения. Они всё равно будут загрязнятся, но не умрут.</RG.PlantPollutionNoDeathDesc>
+  <!-- EN: Contains ore: {0} -->
+	<RG.ChunkContains>Содержит руду: {0}</RG.ChunkContains>
+</LanguageData>
