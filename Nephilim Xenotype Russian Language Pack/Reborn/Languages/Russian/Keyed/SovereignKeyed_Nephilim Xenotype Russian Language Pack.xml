@@ -9,6 +9,8 @@
   <NotAllowedGrace>Благодать запрещена диетой.</NotAllowedGrace>
   <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest grace packs when {PAWN_possessive} grace is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
   <AutoTakeGraceDesc>Настройка определяет будет ли {PAWN_nameDef} автоматически принимать благодать, её уровень будет ниже {MIN}.\n\nАвтоматический приём в данный момент {ONOFF}.</AutoTakeGraceDesc>
+  <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest {RESOURCE} packs when {PAWN_possessive} {RESOURCE} is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
+  <AutoTakeResourceDesc>Настройка определяет будет ли {PAWN_nameDef} автоматически принимать {RESOURCE}, когда {RESOURCE_gender ? его : её : его} уровень будет ниже {MIN}.\n\nАвтоматический приём в данный момент {ONOFF}.</AutoTakeResourceDesc>
   <!-- EN: Consume grace below -->
   <ConsumeGraceBelow>Использовать благодать, когда она ниже</ConsumeGraceBelow>
   <!-- EN: Never consume grace. -->
