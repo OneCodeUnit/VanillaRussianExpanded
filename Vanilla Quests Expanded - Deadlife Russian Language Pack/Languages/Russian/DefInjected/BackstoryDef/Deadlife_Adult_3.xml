@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: silence officer -->
+	<VQE_SilenceOfficer21.title>офицер тишины</VQE_SilenceOfficer21.title>
+  <!-- EN: officer -->
+	<VQE_SilenceOfficer21.titleShort>офицер</VQE_SilenceOfficer21.titleShort>
+  <!-- EN: [PAWN_nameDef] enforced silence protocol within the dust-processing halls, where sound was said to attract unwanted responses. [PAWN_pronoun] walked the catwalks with a shock-rod and a clicker, punishing speech, coughs and even breath, if too loud. [PAWN_pronoun] hasn’t spoken in years, even off duty. -->
+	<VQE_SilenceOfficer21.description>{PAWN_nameDef} {PAWN_gender ? обеспечивал : обеспечивала} соблюдение протокола тишины в залах обработки пыли, где, как считалось, звук привлекает нежелательные реакции. {PAWN_pronoun} {PAWN_gender ? патрулировал : патрулировала} подиумы с электрошокером и кликером, наказывая за речь, кашель и даже слишком громкое дыхание. {PAWN_pronoun} не {PAWN_gender ? говорил : говорила} уже много лет, даже вне службы.</VQE_SilenceOfficer21.description>
+
+  <!-- EN: uniform inspector -->
+	<VQE_UniformInspector22.title>инспектор униформы</VQE_UniformInspector22.title>
+  <!-- EN: inspector -->
+	<VQE_UniformInspector22.titleShort>инспектор</VQE_UniformInspector22.titleShort>
+  <!-- EN: [PAWN_nameDef] checked for dust contamination in uniforms and skin before workers left the core sectors. [PAWN_pronoun] scrubbed patches that pulsed, burned fabric that moved, and blacklisted anything that remembered touch. [PAWN_pronoun] stopped questioning why some suits came back... without the wearers. -->
+	<VQE_UniformInspector22.description>{PAWN_nameDef} {PAWN_gender ? проверял : проверяла} униформу и кожу рабочих на предмет загрязнения пылью перед их выходом из основных секторов. {PAWN_pronoun} {PAWN_gender ? счищал : счищала} пульсирующие участки, {PAWN_gender ? сжигал : сжигала} шевелящуюся ткань и {PAWN_gender ? вносил : вносила} в чёрный список всё, что помнило прикосновения. {PAWN_pronoun} {PAWN_gender ? перестал : перестала} задаваться вопросом, почему некоторые костюмы возвращались... без своих владельцев.</VQE_UniformInspector22.description>
+
+  <!-- EN: shift recorder -->
+	<VQE_ShiftRecorder23.title>регистратор смен</VQE_ShiftRecorder23.title>
+  <!-- EN: recorder -->
+	<VQE_ShiftRecorder23.titleShort>регистратор</VQE_ShiftRecorder23.titleShort>
+  <!-- EN: [PAWN_nameDef] logged every shift rotation, personnel movement, and anomaly ping near the Death Door. [PAWN_pronoun] noticed strange patterns in the logs: repeating names, people clocking in after confirmed deaths, whole hours missing. [PAWN_pronoun] kept recording anyway. -->
+	<VQE_ShiftRecorder23.description>{PAWN_nameDef} {PAWN_gender ? регистрировал : регистрировала} каждую смену, перемещение персонала и сигналы аномалий у Двери Смерти. {PAWN_pronoun} {PAWN_gender ? заметил : заметила} странные закономерности в журналах: повторяющиеся имена, сотрудники, отмечавшиеся на работе после подтверждённой смерти, и целые часы, пропадавшие из записей. {PAWN_pronoun} всё равно {PAWN_gender ? продолжал : продолжала} вести учёт.</VQE_ShiftRecorder23.description>
+
+  <!-- EN: meal distributor -->
+	<VQE_MealDistributor24.title>раздатчик еды</VQE_MealDistributor24.title>
+  <!-- EN: distributor -->
+	<VQE_MealDistributor24.titleShort>раздатчик</VQE_MealDistributor24.titleShort>
+  <!-- EN: [PAWN_nameDef] handed out ration packs to workers exiting the sealed extraction halls. The meals were identical, grey, tasteless, pre-labeled. Sometimes one would whisper when opened. [PAWN_pronoun] never took one for [PAWN_objective]self, just in case. -->
+	<VQE_MealDistributor24.description>{PAWN_nameDef} {PAWN_gender ? раздавал : раздавала} пайки рабочим, выходящим из запечатанных экстракционных залов. Порции были одинаковыми: серые, безвкусные, с готовыми этикетками. Иногда одна из них начинала шептать, когда её открывали. {PAWN_pronoun} никогда не {PAWN_gender ? брал : брала} себе ни одной — на всякий случай.</VQE_MealDistributor24.description>
+
+  <!-- EN: corridor watch -->
+	<VQE_CorridorWatch25.title>коридорный смотритель</VQE_CorridorWatch25.title>
+  <!-- EN: watch -->
+	<VQE_CorridorWatch25.titleShort>смотритель</VQE_CorridorWatch25.titleShort>
+  <!-- EN: [PAWN_nameDef] was posted in a hallway that no one walked down, outside a door that no one opened. [PAWN_pronoun] was told to stand still, never speak, and never blink too long. On the seventh year, [PAWN_pronoun] started to hear footsteps behind the wall. -->
+	<VQE_CorridorWatch25.description>{PAWN_nameDef} {PAWN_gender ? был выставлен : была выставлена} на посту в коридоре, по которому никто не ходил, у двери, которую никто не открывал. {PAWN_objective} приказали стоять смирно, не разговаривать и не моргать слишком долго. На седьмой год службы {PAWN_pronoun} {PAWN_gender ? начал : начала} слышать шаги за стеной.</VQE_CorridorWatch25.description>
+
+  <!-- EN: dust registrar -->
+	<VQE_DustRegistrar26.title>регистратор пыли</VQE_DustRegistrar26.title>
+  <!-- EN: registrar -->
+	<VQE_DustRegistrar26.titleShort>регистратор</VQE_DustRegistrar26.titleShort>
+  <!-- EN: [PAWN_nameDef] catalogued every gram of deadlife dust processed through the sector, logging each shipment’s origin and intended experiment. [PAWN_pronoun] never asked what the dust did, just that the weights matched and the signatures were clean. Some days, the logbook filled itself. -->
+	<VQE_DustRegistrar26.description>{PAWN_nameDef} {PAWN_gender ? каталогизировал : каталогизировала} каждый грамм пыли мёртвой жизни, обработанной в секторе, регистрируя происхождение каждой партии и предполагаемый эксперимент. {PAWN_pronoun} никогда не {PAWN_gender ? спрашивал : спрашивала}, что делает пыль, — лишь бы вес совпадал, а подписи были на месте. В некоторые дни журнал заполнялся сам собой.</VQE_DustRegistrar26.description>
+
+  <!-- EN: doctrine scribe -->
+	<VQE_DoctrineScribe27.title>писец доктрины</VQE_DoctrineScribe27.title>
+  <!-- EN: scribe -->
+	<VQE_DoctrineScribe27.titleShort>писец</VQE_DoctrineScribe27.titleShort>
+  <!-- EN: [PAWN_nameDef] transcribed the daily decrees of the central authority, etching them onto rusted tablets distributed throughout the facility. [PAWN_pronoun] wrote in total silence, copying phrases [PAWN_pronoun] did not understand. One phrase, however, appeared in every order: "Decay is compliance." -->
+	<VQE_DoctrineScribe27.description>{PAWN_nameDef} {PAWN_gender ? переписывал : переписывала} ежедневные указы центральной власти, высекая их на ржавых табличках, которые распространялись по всему комплексу. {PAWN_pronoun} {PAWN_gender ? писал : писала} в полной тишине, копируя фразы, которых не {PAWN_gender ? понимал : понимала}. Однако одна фраза повторялась в каждом приказе: «Распад — это покорность».</VQE_DoctrineScribe27.description>
+
+  <!-- EN: specimen handler -->
+	<VQE_SpecimenHandler28.title>перевозчик образцов</VQE_SpecimenHandler28.title>
+  <VQE_SpecimenHandler28.titleFemale>перевозчица образцов</VQE_SpecimenHandler28.titleFemale>
+  <!-- EN: handler -->
+	<VQE_SpecimenHandler28.titleShort>перевозчик</VQE_SpecimenHandler28.titleShort>
+  <VQE_SpecimenHandler28.titleShortFemale>перевозчица</VQE_SpecimenHandler28.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] moved biological containers between crypto-labs, some twitching, some whispering. [PAWN_pronoun] never opened a crate, but sometimes the shadows inside moved with familiarity. [PAWN_pronoun] didn’t log what didn’t stop moving. -->
+	<VQE_SpecimenHandler28.description>{PAWN_nameDef} {PAWN_gender ? перемещал : перемещала} биологические контейнеры между криолабораториями. Некоторые из них подёргивались, другие — шептали. {PAWN_pronoun} никогда не {PAWN_gender ? открывал : открывала} ящики, но иногда тени внутри двигались до странности знакомо. {PAWN_pronoun} не {PAWN_gender ? регистрировал : регистрировала} то, что не прекращало двигаться.</VQE_SpecimenHandler28.description>
+
+  <!-- EN: nutrition synthesist -->
+	<VQE_NutritionSynthesist29.title>синтезатор питания</VQE_NutritionSynthesist29.title>
+  <!-- EN: synthesist -->
+	<VQE_NutritionSynthesist29.titleShort>синтезатор</VQE_NutritionSynthesist29.titleShort>
+  <!-- EN: [PAWN_nameDef] formulated nutrient slurries for long-term storage in deep dormancy wings. [PAWN_pronoun] was told not to question the smell, or why some vats emptied without record. [PAWN_pronoun] just stirred, sealed, and labeled each batch: “For Contingency Use Only.” -->
+	<VQE_NutritionSynthesist29.description>{PAWN_nameDef} {PAWN_gender ? создавал : создавала} питательные суспензии для долгосрочного хранения в крыльях глубокого анабиоза. {PAWN_objective} было велено не задавать вопросов о запахе и о том, почему некоторые чаны опустошались без всякой записи. {PAWN_pronoun} просто {PAWN_gender ? размешивал : размешивала}, {PAWN_gender ? запечатывал : запечатывала} и {PAWN_gender ? маркировал : маркировала} каждую партию: «Только для непредвиденных обстоятельств».</VQE_NutritionSynthesist29.description>
+
+  <!-- EN: compliance auditor -->
+	<VQE_ComplianceAuditor30.title>аудитор соответствия</VQE_ComplianceAuditor30.title>
+  <!-- EN: auditor -->
+	<VQE_ComplianceAuditor30.titleShort>аудитор</VQE_ComplianceAuditor30.titleShort>
+  <!-- EN: [PAWN_nameDef] reviewed personnel logs, behavioral reports, and incident transcripts, flagging deviations for reconditioning. [PAWN_pronoun] never met the people [PAWN_pronoun] condemned. Only once did [PAWN_pronoun] hesitate - when the file bore [PAWN_possessive] own name. -->
+	<VQE_ComplianceAuditor30.description>{PAWN_nameDef} {PAWN_gender ? просматривал : просматривала} журналы персонала, отчёты о поведении и стенограммы инцидентов, отмечая отклонения для «переобучения». {PAWN_pronoun} никогда не {PAWN_gender ? встречал : встречала} людей, которых {PAWN_gender ? осуждал : осуждала}. Лишь однажды {PAWN_pronoun} {PAWN_gender ? заколебался : заколебалась} — когда в деле появилось {PAWN_possessive} собственное имя.</VQE_ComplianceAuditor30.description>
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+    FirstNameMaleList->Names/General_First_Male
+    LastNameList->Names/General_Last
+   -->
+	<VQE_GeneralMale.rulePack.rulesFiles>
+    <li>FirstNameMaleList->Names/General_First_Male</li>
+    <li>LastNameList->Names/General_Last</li>
+  </VQE_GeneralMale.rulePack.rulesFiles>
+
+  <!-- EN: 
+    FirstNameFemaleList->Names/General_First_Female
+    LastNameList->Names/General_Last
+   -->
+	<VQE_GeneralFemale.rulePack.rulesFiles>
+    <li>FirstNameFemaleList->Names/General_First_Female</li>
+    <li>LastNameList->Names/General_Last</li>
+  </VQE_GeneralFemale.rulePack.rulesFiles>
+
+
+  <!-- EN: 
+    r_name->[FirstNameMaleList] [LastNameList]
+   -->
+	<VQE_GeneralMale.rulePack.rulesStrings>
+    <li>r_name->[FirstNameMaleList] [LastNameList]</li>
+  </VQE_GeneralMale.rulePack.rulesStrings>
+
+  <!-- EN: 
+    r_name->[FirstNameFemaleList] [LastNameList]
+   -->
+	<VQE_GeneralFemale.rulePack.rulesStrings>
+    <li>r_name->[FirstNameFemaleList] [LastNameList]</li>
+  </VQE_GeneralFemale.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: threshold harvester -->
+	<VQE_ThresholdHarvester11.title>пороговый сборщик</VQE_ThresholdHarvester11.title>
+  <!-- EN: harvester -->
+	<VQE_ThresholdHarvester11.titleShort>сборщик</VQE_ThresholdHarvester11.titleShort>
+  <VQE_ThresholdHarvester11.titleShortFemale>сборщица</VQE_ThresholdHarvester11.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] stood closest to the Death Door, siphoning dust from its breathless aperture into sealed black vials. The dust hissed, shimmered, and whispered, burning the air and minds alike. [PAWN_pronoun] wore triple-layered filtration gear, but still wakes to coughing shadows. -->
+	<VQE_ThresholdHarvester11.description>{PAWN_nameDef} {PAWN_gender ? стоял : стояла} ближе всех к Двери Смерти, собирая пыль из её бездыханного проёма в запечатанные чёрные флаконы. Пыль шипела, мерцала и шептала, сжигая воздух и разум. {PAWN_pronoun} {PAWN_gender ? носил : носила} тройной фильтрующий костюм, но всё равно {PAWN_gender ? просыпался : просыпалась} от кашля, доносящегося из теней.</VQE_ThresholdHarvester11.description>
+
+  <!-- EN: dust courier -->
+	<VQE_DustCourier12.title>пылевой курьер</VQE_DustCourier12.title>
+  <!-- EN: courier -->
+	<VQE_DustCourier12.titleShort>курьер</VQE_DustCourier12.titleShort>
+  <!-- EN: [PAWN_nameDef] ferried containers of deadlife dust from the extraction chamber to cold-vault containment zones. Escorts were forbidden, as too much movement stirred the dust. [PAWN_pronoun] walked in silence, clutching steel boxes that sometimes wept from within. -->
+	<VQE_DustCourier12.description>{PAWN_nameDef} {PAWN_gender ? перевозил : перевозила} контейнеры с пылью мёртвой жизни из экстракционной камеры в криохранилища. Сопровождение было запрещено, так как лишние движения тревожили пыль. {PAWN_pronoun} {PAWN_gender ? шёл : шла} в тишине, сжимая стальные ящики, которые иногда плакали изнутри.</VQE_DustCourier12.description>
+
+  <!-- EN: gateway sentinel -->
+	<VQE_GatewaySentinel13.title>страж врат</VQE_GatewaySentinel13.title>
+  <!-- EN: sentinel -->
+	<VQE_GatewaySentinel13.titleShort>страж</VQE_GatewaySentinel13.titleShort>
+  <!-- EN: [PAWN_nameDef] guarded the perimeter of the Death Door facility, tasked with eliminating anything that emerged or tried to return. [PAWN_pronoun] saw shapes that didn’t reflect light, and heard commands that weren’t broadcast. The dust drifted past the line sometimes, and [PAWN_pronoun] learned not to breathe too deep. -->
+	<VQE_GatewaySentinel13.description>{PAWN_nameDef} {PAWN_gender ? охранял : охраняла} периметр комплекса «Дверь Смерти», уничтожая всё, что выходило или пыталось вернуться. {PAWN_pronoun} {PAWN_gender ? видел : видела} фигуры, не отражающие свет, и {PAWN_gender ? слышал : слышала} команды, которые никто не передавал. Пыль иногда пересекала черту, и {PAWN_pronoun} {PAWN_gender ? научился : научилась} не дышать слишком глубоко.</VQE_GatewaySentinel13.description>
+
+  <!-- EN: door technician -->
+	<VQE_DoorTechnician14.title>техник дверей</VQE_DoorTechnician14.title>
+  <!-- EN: technician -->
+	<VQE_DoorTechnician14.titleShort>техник</VQE_DoorTechnician14.titleShort>
+  <!-- EN: [PAWN_nameDef] operated the containment pylons and extraction rigs around the Death Door. [PAWN_pronoun] calibrated siphons by eye and rebalanced psychic insulators mid-flow. The margin for error was one breath, and [PAWN_pronoun] hasn’t taken a full one since. -->
+	<VQE_DoorTechnician14.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла} защитными пилонами и вытяжными установками вокруг Двери Смерти. {PAWN_pronoun} {PAWN_gender ? калибровал : калибровала} сифоны на глаз и {PAWN_gender ? перенастраивал : перенастраивала} пси-изоляторы прямо в процессе работы. Цена ошибки равнялась одному вдоху, и с тех пор {PAWN_pronoun} ни разу не {PAWN_gender ? вздохнул : вздохнула} полной грудью.</VQE_DoorTechnician14.description>
+
+  <!-- EN: ash translator -->
+	<VQE_AshTranslator15.title>переводчик пепла</VQE_AshTranslator15.title>
+  <!-- EN: translator -->
+	<VQE_AshTranslator15.titleShort>переводчик</VQE_AshTranslator15.titleShort>
+  <!-- EN: [PAWN_nameDef] analyzed the patterns left in deadlife dust as it settled, fractals of intent, echoing through silence. [PAWN_pronoun] claimed the dust was speaking, and spent hours tracing messages only [PAWN_pronoun] could see. The others stopped questioning it when [PAWN_pronoun] predicted a breach twelve hours before it happened. -->
+	<VQE_AshTranslator15.description>{PAWN_nameDef} {PAWN_gender ? анализировал : анализировала} узоры, которые оставляла оседающая пыль мёртвой жизни, — фракталы намерения, эхом отдававшиеся в тишине. {PAWN_pronoun} {PAWN_gender ? утверждал : утверждала}, что пыль говорит, и часами {PAWN_gender ? выводил : выводила} послания, которые {PAWN_gender ? мог : могла} видеть только {PAWN_pronoun}. Остальные перестали сомневаться, когда {PAWN_pronoun} {PAWN_gender ? предсказал : предсказала} прорыв за двенадцать часов до того, как он произошёл.</VQE_AshTranslator15.description>
+
+  <!-- EN: dust loader -->
+	<VQE_DustLoader16.title>загрузчик пыли</VQE_DustLoader16.title>
+  <!-- EN: loader -->
+	<VQE_DustLoader16.titleShort>загрузчик</VQE_DustLoader16.titleShort>
+  <!-- EN: [PAWN_nameDef] was responsible for loading raw deadlife dust into containment drums, working under flashing hazard lights and sealed hoods. The powder stuck to gloves and skin no matter how thick the gear. [PAWN_pronoun] was told it couldn’t penetrate bone, but [PAWN_pronoun] isn’t sure anymore. -->
+	<VQE_DustLoader16.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за загрузку необработанной пыли мёртвой жизни в герметичные бочки, работая под мигающими аварийными огнями и в запечатанном капюшоне. Порошок прилипал к перчаткам и коже, какой бы толстой ни была экипировка. {PAWN_objective} говорили, что он не может проникнуть в кости, но {PAWN_pronoun} больше в этом не {PAWN_gender ? уверен : уверена}.</VQE_DustLoader16.description>
+
+  <!-- EN: vault scrubber -->
+	<VQE_VaultScrubber17.title>чистильщик хранилища</VQE_VaultScrubber17.title>
+  <VQE_VaultScrubber17.titleFemale>чистильщица хранилища</VQE_VaultScrubber17.titleFemale>
+  <!-- EN: scrubber -->
+	<VQE_VaultScrubber17.titleShort>чистильщик</VQE_VaultScrubber17.titleShort>
+  <VQE_VaultScrubber17.titleShortFemale>чистильщица</VQE_VaultScrubber17.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] cleaned the insides of sealed dust vaults after they were purged. The walls were never truly clean, they were always humming, always whispering. [PAWN_pronoun] stopped using [PAWN_possessive] name after the third cycle. No one corrected [PAWN_objective]. -->
+	<VQE_VaultScrubber17.description>{PAWN_nameDef} {PAWN_gender ? чистил : чистила} внутренности запечатанных пылевых хранилищ после их опустошения. Стены никогда не были по-настоящему чистыми: они всегда гудели и шептали. {PAWN_pronoun} {PAWN_gender ? перестал : перестала} использовать своё имя после третьего цикла. Никто {PAWN_objective} не поправлял.</VQE_VaultScrubber17.description>
+
+  <!-- EN: intake monitor -->
+	<VQE_IntakeMonitor18.title>оператор заборников</VQE_IntakeMonitor18.title>
+  <!-- EN: monitor -->
+	<VQE_IntakeMonitor18.titleShort>оператор</VQE_IntakeMonitor18.titleShort>
+  <!-- EN: [PAWN_nameDef] watched the flow of deadlife dust into containment silos, reporting clogs and pressure drops with precise timing. [PAWN_pronoun] wasn’t allowed to speak to other staff as too many went missing between shifts. The job required focus and silence, which [PAWN_pronoun] delivered perfectly. -->
+	<VQE_IntakeMonitor18.description>{PAWN_nameDef} {PAWN_gender ? следил : следила} за потоком пыли мёртвой жизни в герметичные бункеры, своевременно сообщая о засорах и падениях давления. {PAWN_objective} не разрешалось говорить с другими сотрудниками, так как слишком многие пропадали между сменами. Работа требовала сосредоточенности и тишины, с чем {PAWN_pronoun} {PAWN_gender ? справлялся : справлялась} идеально.</VQE_IntakeMonitor18.description>
+
+  <!-- EN: dock gunner -->
+	<VQE_DockGunner19.title>доковый стрелок</VQE_DockGunner19.title>
+  <!-- EN: gunner -->
+	<VQE_DockGunner19.titleShort>стрелок</VQE_DockGunner19.titleShort>
+  <!-- EN: [PAWN_nameDef] manned the auto-cannons near the dust transfer docks, defending against "anomalous discharge movement", whatever that meant. Nothing ever approached the dock, but [PAWN_pronoun] fired anyway. Better that than let the dust think [PAWN_pronoun] hesitated. -->
+	<VQE_DockGunner19.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла} автопушками у доков перегрузки пыли, защищаясь от «аномального движения разряда», что бы это ни значило. К доку никто и никогда не приближался, но {PAWN_pronoun} всё равно {PAWN_gender ? стрелял : стреляла}. Лучше так, чем позволить пыли подумать, что {PAWN_pronoun} {PAWN_gender ? колеблется : колеблется}.</VQE_DockGunner19.description>
+
+  <!-- EN: filter mechanic -->
+	<VQE_FilterMechanic20.title>механик фильтров</VQE_FilterMechanic20.title>
+  <!-- EN: mechanic -->
+	<VQE_FilterMechanic20.titleShort>механик</VQE_FilterMechanic20.titleShort>
+  <!-- EN: [PAWN_nameDef] maintained the dust filtration systems that kept the air breathable and the death sealed. The filters clogged fast, screaming if left too long. [PAWN_pronoun] replaced them by hand, gloved, double-suited, and breathing recycled air laced with static. -->
+	<VQE_FilterMechanic20.description>{PAWN_nameDef} {PAWN_gender ? обслуживал : обслуживала} системы фильтрации пыли, которые сохраняли воздух пригодным для дыхания, а смерть — запечатанной. Фильтры быстро засорялись и начинали кричать, если их не менять слишком долго. {PAWN_pronoun} {PAWN_gender ? заменял : заменяла} их вручную, в перчатках, двойном защитном костюме, дыша переработанным воздухом с привкусом статики.</VQE_FilterMechanic20.description>
+</LanguageData>

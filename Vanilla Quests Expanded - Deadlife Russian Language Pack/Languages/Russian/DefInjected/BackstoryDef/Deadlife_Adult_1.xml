@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: prototype subject -->
+	<VQE_PrototypeSubject1.title>прототип-подопытный</VQE_PrototypeSubject1.title>
+  <!-- EN: subject -->
+	<VQE_PrototypeSubject1.titleShort>подопытный</VQE_PrototypeSubject1.titleShort>
+  <VQE_PrototypeSubject1.titleShortFemale>подопытная</VQE_PrototypeSubject1.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] volunteered for the first wave of transhuman necrosis trials, offering [PAWN_possessive] body to a military doctrine that worshipped permanence through decay. [PAWN_pronoun] endured months in a sealed vat as bone, tissue, and cognition were rewired by machine and fluid alike. What emerged was no longer fully alive, but unshakably loyal. -->
+	<VQE_PrototypeSubject1.description>{PAWN_nameDef} добровольно {PAWN_gender ?  вызвался : вызвалась} на первую волну испытаний трансчеловеческого некроза, отдав своё тело военной доктрине, почитавшей вечность, достигаемую через распад. {PAWN_pronoun} {PAWN_gender ? провёл : провела} месяцы в запечатанном чане, где машины и реагенты перестраивали {PAWN_possessive} кости, ткани и сознание. В результате появилось существо, уже не совсем живое, но непоколебимо преданное.</VQE_PrototypeSubject1.description>
+
+  <!-- EN: vault enforcer -->
+	<VQE_VaultEnforcer2.title>страж хранилища</VQE_VaultEnforcer2.title>
+  <!-- EN: enforcer -->
+	<VQE_VaultEnforcer2.titleShort>страж</VQE_VaultEnforcer2.titleShort>
+  <!-- EN: [PAWN_nameDef] was stationed deep beneath the surface, tasked with protecting the bio-vaults that housed experimental regeneration tanks and failed prototypes. When containment alarms sounded, [PAWN_pronoun] didn’t flinch. The only thing [PAWN_pronoun] feared was failure, and fear had been surgically removed years ago. -->
+	<VQE_VaultEnforcer2.description>{PAWN_nameDef} {PAWN_gender ? был размещён : была размещена} глубоко под землёй для защиты биохранилищ с экспериментальными регенерационными чанами и неудавшимися прототипами. Когда зазвучала тревога о нарушении герметичности, {PAWN_pronoun} и бровью не {PAWN_gender ? повёл : повела}. Единственное, чего {PAWN_pronoun} {PAWN_gender ? боялся : боялась}, — это провала, но страх был удалён хирургическим путём много лет назад.</VQE_VaultEnforcer2.description>
+
+  <!-- EN: necroengineer -->
+	<VQE_Necroengineer3.title>некроинженер</VQE_Necroengineer3.title>
+  <!-- EN: engineer -->
+	<VQE_Necroengineer3.titleShort>инженер</VQE_Necroengineer3.titleShort>
+  <!-- EN: [PAWN_nameDef] was both soldier and scientist, one of the few entrusted to maintain the resurrection architecture embedded in elite corpses. [PAWN_pronoun] spliced code into spinal columns and rewrote death like it was faulty circuitry. Despite the grotesque procedures, [PAWN_pronoun] never hesitated, as progress demanded flesh. -->
+	<VQE_Necroengineer3.description>{PAWN_nameDef} {PAWN_gender ? был : была} одновременно солдатом и учёным, {PAWN_gender ? одним : одной} из немногих, кому было доверено обслуживать архитектуру воскрешения, встроенную в тела элитных бойцов. {PAWN_pronoun} {PAWN_gender ? вживлял : вживляла} код в позвоночники и {PAWN_gender ? переписывал : переписывала} смерть, словно это была неисправная схема. Несмотря на гротескность процедур, {PAWN_pronoun} никогда не {PAWN_gender ? колебался : колебалась}, ведь прогресс требовал плоти.</VQE_Necroengineer3.description>
+
+  <!-- EN: preserved commander -->
+	<VQE_PreservedCommander4.title>консервированный командир</VQE_PreservedCommander4.title>
+  <!-- EN: commander -->
+	<VQE_PreservedCommander4.titleShort>командир</VQE_PreservedCommander4.titleShort>
+  <!-- EN: [PAWN_nameDef] rose to command a death battalion before being sealed in cryostorage with [PAWN_possessive] mind uploaded to carbon-thin neural plates. Decades passed in blackout stasis, dreaming only of tactical formations and absolute obedience. When awakened, [PAWN_pronoun] resumed command as if the war had never paused. -->
+	<VQE_PreservedCommander4.description>{PAWN_nameDef} {PAWN_gender ? дослужился : дослужилась} до командования батальоном смерти, прежде чем {PAWN_possessive} разум был загружен на тончайшие углеродные нейропластины, а тело запечатано в криокапсуле. Десятилетия прошли в полном стазисе, в снах о тактических построениях и абсолютном повиновении. Пробудившись, {PAWN_pronoun} {PAWN_gender ? возобновил : возобновила} командование, словно война и не прекращалась.</VQE_PreservedCommander4.description>
+
+  <!-- EN: indoctrinated revenant -->
+	<VQE_IndoctrinatedRevenant5.title>индоктринированный ревенант</VQE_IndoctrinatedRevenant5.title>
+  <!-- EN: revenant -->
+	<VQE_IndoctrinatedRevenant5.titleShort>ревенант</VQE_IndoctrinatedRevenant5.titleShort>
+  <!-- EN: [PAWN_nameDef] died in the field and was immediately reanimated under Directive Pale Flame: an experimental loop-binding protocol to override memory, identity, and morality. [PAWN_pronoun] still wears the scars of [PAWN_possessive] first death, though they’ve long ceased to matter. Now, [PAWN_pronoun] kills with the calm of someone who’s already passed judgment. -->
+	<VQE_IndoctrinatedRevenant5.description>{PAWN_nameDef} {PAWN_gender ? погиб : погибла} в бою и {PAWN_gender ? был : была} немедленно {PAWN_gender ? реанимирован : реанимирована} в соответствии с директивой «Бледное пламя» — экспериментальным протоколом циклической привязки, стирающим память, личность и мораль. {PAWN_pronoun} до сих пор носит шрамы от своей первой смерти, хотя они давно потеряли значение. Теперь {PAWN_pronoun} убивает со спокойствием того, кто уже вынес свой приговор.</VQE_IndoctrinatedRevenant5.description>
+
+  <!-- EN: trench awakener -->
+	<VQE_TrenchAwakener6.title>траншейный пробудитель</VQE_TrenchAwakener6.title>
+  <!-- EN: awakener -->
+	<VQE_TrenchAwakener6.titleShort>пробудитель</VQE_TrenchAwakener6.titleShort>
+  <!-- EN: [PAWN_nameDef] was assigned to burial patrols, recovering fallen comrades and tagging them for reanimation. [PAWN_pronoun] slept among corpses, carried bone-thin bodies back to processing, and watched them twitch to life again. The stench never faded, but neither did [PAWN_possessive] unwavering obedience. -->
+	<VQE_TrenchAwakener6.description>{PAWN_nameDef} {PAWN_gender ? был назначен : была назначена} в похоронный патруль, чтобы подбирать павших товарищей и помечать их для реанимации. {PAWN_pronoun} {PAWN_gender ? спал : спала} среди трупов, {PAWN_gender ? относил : относила} иссохшие тела на переработку и {PAWN_gender ? наблюдал : наблюдала}, как они снова дёргаются, возвращаясь к жизни. Зловоние так и не выветрилось, как и {PAWN_possessive} непоколебимое послушание.</VQE_TrenchAwakener6.description>
+
+  <!-- EN: null infantry -->
+	<VQE_NullInfantry7.title>нулевая пехота</VQE_NullInfantry7.title>
+  <!-- EN: null -->
+	<VQE_NullInfantry7.titleShort>нуль</VQE_NullInfantry7.titleShort>
+  <!-- EN: [PAWN_nameDef] was among the first inducted into the Null Corps: frontline troops chemically lobotomized to erase fear and memory. [PAWN_pronoun] received orders through skull-implanted transceivers, moving silently and without question. [PAWN_pronoun] does not remember pain, or why [PAWN_pronoun] enlisted. Only the rifle in [PAWN_possessive] hands. -->
+	<VQE_NullInfantry7.description>{PAWN_nameDef} {PAWN_gender ? был : была} в числе первых, кого зачислили в Нулевой корпус: фронтовые войска, подвергшиеся химической лоботомии для стирания страха и памяти. {PAWN_pronoun} {PAWN_gender ? получал : получала} приказы через вживлённые в череп приёмопередатчики, передвигаясь молча и без вопросов. {PAWN_pronoun} не помнит ни боли, ни того, почему {PAWN_pronoun} {PAWN_gender ? поступил : поступила} на службу. Только винтовку в своих руках.</VQE_NullInfantry7.description>
+
+  <!-- EN: fogline observer -->
+	<VQE_FoglineObserver8.title>наблюдатель туманной линии</VQE_FoglineObserver8.title>
+  <!-- EN: observer -->
+	<VQE_FoglineObserver8.titleShort>наблюдатель</VQE_FoglineObserver8.titleShort>
+  <!-- EN: [PAWN_nameDef] was deployed alone into chemically saturated deadzones, tasked with recording troop decay rates and atmospheric effects. [PAWN_pronoun] watched comrades dissolve, regenerate, and march again, then noted the results with unblinking precision. [PAWN_pronoun] didn’t speak for years afterward, and no one asked [PAWN_objective] to. -->
+	<VQE_FoglineObserver8.description>{PAWN_nameDef} {PAWN_gender ? был развёрнут : была развёрнута} в одиночку в химически насыщенные мёртвые зоны с задачей записывать темпы разложения войск и атмосферные эффекты. {PAWN_pronoun} {PAWN_gender ? наблюдал : наблюдала}, как товарищи растворяются, регенерируют и снова идут в бой, а затем {PAWN_gender ? фиксировал : фиксировала} результаты с невозмутимой точностью. {PAWN_pronoun} не {PAWN_gender ? говорил : говорила} много лет после этого, и никто {PAWN_objective} об этом не спрашивал.</VQE_FoglineObserver8.description>
+
+  <!-- EN: ossuary guard -->
+	<VQE_OssuaryGuard9.title>страж оссуария</VQE_OssuaryGuard9.title>
+  <!-- EN: guard -->
+	<VQE_OssuaryGuard9.titleShort>страж</VQE_OssuaryGuard9.titleShort>
+  <!-- EN: [PAWN_nameDef] was stationed in the ossuaries: vast chambers where failed soldiers were stacked and catalogued for parts. [PAWN_pronoun] patrolled in silence, rifle in hand, surrounded by the rattling echoes of half-living experiments. No one spoke in the ossuaries. No one had mouths. -->
+	<VQE_OssuaryGuard9.description>{PAWN_nameDef} {PAWN_gender ? был размещён : была размещена} в оссуариях: огромных камерах, где неудавшиеся солдаты были сложены и каталогизированы для разборки на запчасти. {PAWN_pronoun} {PAWN_gender ? патрулировал : патрулировала} в тишине с винтовкой наготове, {PAWN_gender ? окружённый : окружённая} дребезжащим эхом полуживых экспериментов. В оссуариях никто не говорил. Ни у кого не было рта.</VQE_OssuaryGuard9.description>
+
+  <!-- EN: compliant husk -->
+	<VQE_CompliantHusk10.title>податливая оболочка</VQE_CompliantHusk10.title>
+  <!-- EN: husk -->
+	<VQE_CompliantHusk10.titleShort>оболочка</VQE_CompliantHusk10.titleShort>
+  <!-- EN: [PAWN_nameDef] volunteered for cognitive stripping, which included the removal of memory, name, and will. What remained was a body that obeyed. [PAWN_pronoun] stood in formation while storms raged and flesh fell from bone, waiting only for the next command pulse from the central stack. -->
+	<VQE_CompliantHusk10.description>{PAWN_nameDef} {PAWN_gender ? добровольно согласился : добровольно согласилась} на когнитивную зачистку, включавшую удаление памяти, имени и воли. Осталось лишь тело, способное повиноваться. {PAWN_pronoun} {PAWN_gender ? стоял : стояла} в строю, пока бушевали бури и плоть отваливалась от костей, ожидая лишь следующего командного импульса от центрального узла.</VQE_CompliantHusk10.description>
+</LanguageData>

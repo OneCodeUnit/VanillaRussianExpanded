@@ -1,0 +1,20 @@
+<ModMetaData>
+	<name>Vanilla Quests Expanded - Cryptoforge Russian Language Pack</name>
+	<author>OliveWizard</author>
+	<supportedVersions>
+		<li>1.5</li>
+    <li>1.6</li>
+	</supportedVersions>
+ <packageId>OW.RU.Cryptoforge</packageId>
+  <description>Перевод на русский язык мода Vanilla Quests Expanded - Cryptoforge. Подробности ищите на странице в мастерской.</description>
+  <modDependencies>
+    <li>
+      <packageId>vanillaquestsexpanded.cryptoforge</packageId>
+      <displayName>Vanilla Quests Expanded - Cryptoforge</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3461526070</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaquestsexpanded.cryptoforge</li>
+  </loadAfter>
+</ModMetaData>

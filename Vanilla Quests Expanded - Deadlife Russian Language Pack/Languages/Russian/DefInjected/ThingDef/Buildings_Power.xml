@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient burnout generator -->
+	<VQED_AncientBurnoutGenerator.label>древний аварийный генератор</VQED_AncientBurnoutGenerator.label>
+  <!-- EN: A compact generator built for short-term use. Needs to be kickstarted to work, and will only operate for a limited amount of time before it shuts down. It can then be kickstarted again. -->
+	<VQED_AncientBurnoutGenerator.description>Компактный генератор, созданный для кратковременного использования. Требует запуска для работы и будет функционировать лишь ограниченное время перед отключением. Затем его можно завести снова.</VQED_AncientBurnoutGenerator.description>
+  <!-- EN: Kickstarting burnout generator -->
+	<VQED_AncientBurnoutGenerator.comps.2.jobString>Запускает аварийный генератор</VQED_AncientBurnoutGenerator.comps.2.jobString>
+  <!-- EN: Choose someone to kickstart the burnout generator, creating a temporary power source. -->
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>Выберите, кто должен запустить аварийный генератор, создав временный источник энергии.</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>
+  <!-- EN: Kickstart burnout generator -->
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>Запустить аварийный генератор</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>
+  <!-- EN: Kickstarting burnout generator: {1}s -->
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>запускает аварийный генератор: {1} с</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>
+  <!-- EN: Kickstarting burnout generator -->
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>запускает аварийный генератор</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>Выберите, кто должен это сделать</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>
+
+
+  <!-- EN: industrial burnout generator -->
+	<VQED_IndustrialBurnoutGenerator.label>промышленный аварийный генератор</VQED_IndustrialBurnoutGenerator.label>
+  <!-- EN: A large emergency generator stored deep underground. Needs to be kickstarted to work, and will only operate for a limited amount of time before it shuts down. It can then be kickstarted again. -->
+	<VQED_IndustrialBurnoutGenerator.description>Большой аварийный генератор, хранящийся глубоко под землёй. Требует запуска для работы и будет функционировать лишь ограниченное время перед отключением. Затем его можно завести снова.</VQED_IndustrialBurnoutGenerator.description>
+  <!-- EN: Kickstarting burnout generator -->
+	<VQED_IndustrialBurnoutGenerator.comps.2.jobString>Запускает аварийный генератор</VQED_IndustrialBurnoutGenerator.comps.2.jobString>
+  <!-- EN: Choose someone to kickstart the burnout generator, creating a temporary power source. -->
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>Выберите, кто должен запустить аварийный генератор, создав временный источник энергии.</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>
+  <!-- EN: Kickstart burnout generator -->
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>Запустить аварийный генератор</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>
+  <!-- EN: Kickstarting burnout generator: {1}s -->
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>запускает аварийный генератор: {1} с</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>
+  <!-- EN: Kickstarting burnout generator -->
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>запускает аварийный генератор</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>Выберите, кто должен это сделать</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>
+</LanguageData>

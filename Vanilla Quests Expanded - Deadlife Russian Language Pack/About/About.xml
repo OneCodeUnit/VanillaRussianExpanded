@@ -1,0 +1,20 @@
+<ModMetaData>
+	<name>Vanilla Quests Expanded - Deadlife Russian Language Pack</name>
+	<author>OliveWizard</author>
+	<supportedVersions>
+		<li>1.5</li>
+    <li>1.6</li>
+	</supportedVersions>
+ <packageId>OW.RU.Deadlife</packageId>
+  <description>Перевод на русский язык мода Vanilla Quests Expanded - Deadlife. Подробности ищите на странице в мастерской.</description>
+  <modDependencies>
+    <li>
+      <packageId>vanillaquestsexpanded.deadlife</packageId>
+      <displayName>Vanilla Quests Expanded - Deadlife</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3497226454</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaquestsexpanded.deadlife</li>
+  </loadAfter>
+</ModMetaData>

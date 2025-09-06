@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+    questName->[ancient] [silo] [letter][digit][digit]
+    questName->[ancient] Designation: [siloPrefix]-[letter][digit]
+    ancient->Ancient
+    ancient->Forgotten
+    ancient->Old World
+    ancient->Precursor
+    ancient->Legacy
+    ancient->Obsolete
+    ancient->Redacted
+    ancient->Decommissioned
+    silo->Silo
+    silo->Vault
+    silo->Depot
+    silo->Bunker
+    silo->Complex
+    silo->Installation
+    silo->Sector
+    silo->Storage Unit
+    letter->Alpha
+    letter->Echo
+    letter->Sigma
+    letter->Kilo
+    letter->Delta
+    letter->Theta
+    letter->Gamma
+    letter->Zeta
+    digit->1
+    digit->2
+    digit->3
+    digit->4
+    digit->5
+    digit->6
+    digit->7
+    digit->8
+    digit->9
+    digit->0
+    letter->A
+    letter->B
+    letter->D
+    letter->E
+    letter->K
+    letter->Z
+    letter->X
+    letter->R
+    siloPrefix->SILO
+    siloPrefix->NODE
+    siloPrefix->VAULT
+    siloPrefix->UNIT
+    siloPrefix->SITE
+    siloPrefix->BKR
+    siloPrefix->ARC
+   -->
+	<VQE_Deadlife_AncientSilo.questNameRules.rulesStrings>
+    <li>questName->[ancientF] [silo] [letter][digit][digit]</li>
+    <li>questName->[ancientM] [silo] [letter][digit][digit]</li>
+    <li>questName->[siloF] [siloPrefix]-[letter][digit]</li>
+    <li>questName->[siloM] [siloPrefix]-[letter][digit]</li>
+    <li>ancientF->Древняя</li>
+    <li>ancientF->Забытая</li>
+    <li>ancientF->Старая</li>
+    <li>ancientF->Устаревшая</li>
+    <li>ancientF->Засекреченная</li>
+    <li>ancientF->Списанная</li>
+    <li>ancientM->Древний</li>
+    <li>ancientM->Забытый</li>
+    <li>ancientM->Старый</li>
+    <li>ancientM->Устаревший</li>
+    <li>ancientM->Засекреченный</li>
+    <li>ancientM->Списанный</li>
+    <li>siloF->Шахта</li>
+    <li>siloM->Бункер</li>
+    <li>siloM->Комплекс</li>
+    <li>siloF->Установка</li>
+    <li>siloM->Сектор</li>
+    <li>siloM->Склад</li>
+    <li>letter->Альфа</li>
+    <li>letter->Эхо</li>
+    <li>letter->Сигма</li>
+    <li>letter->Кило</li>
+    <li>letter->Дельта</li>
+    <li>letter->Тета</li>
+    <li>letter->Гамма</li>
+    <li>letter->Зета</li>
+    <li>digit->1</li>
+    <li>digit->2</li>
+    <li>digit->3</li>
+    <li>digit->4</li>
+    <li>digit->5</li>
+    <li>digit->6</li>
+    <li>digit->7</li>
+    <li>digit->8</li>
+    <li>digit->9</li>
+    <li>digit->0</li>
+    <li>letter->A</li>
+    <li>letter->B</li>
+    <li>letter->D</li>
+    <li>letter->E</li>
+    <li>letter->K</li>
+    <li>letter->Z</li>
+    <li>letter->X</li>
+    <li>letter->R</li>
+    <li>siloPrefix->SILO</li>
+    <li>siloPrefix->NODE</li>
+    <li>siloPrefix->VAULT</li>
+    <li>siloPrefix->UNIT</li>
+    <li>siloPrefix->SITE</li>
+    <li>siloPrefix->BKR</li>
+    <li>siloPrefix->ARC</li>
+  </VQE_Deadlife_AncientSilo.questNameRules.rulesStrings>
+
+
+  <!-- EN: 
+    questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of the location of a sealed entrance to one of the [ancientSilos] left behind during Operation: Deadlife, a planet-spanning initiative launched by a [longDeadGovernment] in preparation for global catastrophe.\n\nThese silos were designed to remain sealed for generations, [intention]. Inside, it’s believed they contain [containedReward]. The deeper chambers are rumored to hold equipment and supplies capable of restarting civilization itself.\n\n[threat]. [importantLight]. Without the light, you’ll be navigating blind and vulnerable to attack.\n\n[commandMap]. Studying these might reveal the locations of other silos, and more importantly, bring us closer to discovering the Command Headquarters, the nerve center of Operation: Deadlife, where the truth behind this apocalyptic plan may still lie buried.\n\n[questObjective].
+    questDescription(askerIsNull==True)->The ancient battle maps have revealed to us the location of a sealed entrance to one of the [ancientSilos] left behind during Operation: Deadlife, a planet-spanning initiative launched by a [longDeadGovernment] in preparation for global catastrophe.\n\nThese silos were designed to remain sealed for generations, [intention]. Inside, it’s believed they contain [containedReward]. The deeper chambers are rumored to hold equipment and supplies capable of restarting civilization itself.\n\n[threat]. [importantLight]. Without the light, you’ll be navigating blind and vulnerable to attack.\n\n[commandMap]. Studying these might reveal the locations of other silos, and more importantly, bring us closer to discovering the Command Headquarters, the nerve center of Operation: Deadlife, where the truth behind this apocalyptic plan may still lie buried.\n\n[questObjective].
+    ancientSilos->ancient military silos
+    ancientSilos->sealed war-era bunkers
+    ancientSilos->abandoned military silos
+    ancientSilos->pre-collapse resource vaults
+    ancientSilos->forgotten subterranean complexes
+    ancientSilos->deep-storage logistics sites
+    ancientSilos->decaying military storage facilities
+    ancientSilos->bunkered infrastructure sites
+    ancientSilos->deadlife supply silos
+
+    longDeadGovernment->long-dead government
+    longDeadGovernment->ancient planetary alliance
+    longDeadGovernment->collapsed technocratic regime
+    longDeadGovernment->extinct militarized government
+    longDeadGovernment->forgotten emergency council
+    longDeadGovernment->defunct crisis-state authority
+    longDeadGovernment->long-vanished defense network
+    longDeadGovernment->fallen civil defense command
+
+
+    intention->intended to be opened only when humanity faced collapse
+    intention->built to withstand centuries and reopen in humanity’s darkest hour
+    intention->designed as failsafe supply nodes for rebuilding civilization
+    intention->meant to be activated only during a planetary extinction event
+    intention->set to unlock once the collapse protocols were confirmed
+    intention->intended to serve as last-resort caches for surviving factions
+
+    containedReward->vast stockpiles of resources: steel, plasteel, medicine, weaponry, and even preserved cultural relics
+    containedReward->a wealth of resources: hardened rations, components, medical supplies, and munitions
+    containedReward->critical survival materials: building materials, medicines, weapons, and schematics
+    containedReward->tools to rebuild: fuel, tools, seeds, weapons, and encrypted blueprints
+    containedReward->enough equipment to sustain or restart a new colony
+    containedReward->a treasure trove of essential gear, preserved through time
+
+    threat->Yet the silos are not empty. The corridors within are completely lightless, and something hostile is said to lurk in the dark
+    threat->But time has not left them untouched. The interior is pitch black, and something stirs in the shadows
+    threat->Explorers report movement inside: faint noises, heavy footsteps, shapes in the dark
+    threat->Survivors speak of hostile entities lurking in the corridors, unseen until it’s too late
+    threat->Whatever remains inside is not dormant, something guards these forgotten halls
+    threat->The halls are quiet, but not empty. Something waits inside, cloaked in shadow
+
+    importantLight->Activating the power and lighting systems inside is critical
+    importantLight->Restoring power and activating lights will be vital to survival
+    importantLight->Without illumination, any movement inside the silo is suicide
+    importantLight->Light systems must be activated first, or you’ll be helpless in the dark
+    importantLight->Sight is your only defense. Find a way to power the lights quickly
+    importantLight->Unless you activate the lights, the silo will be a deathtrap
+
+    commandMap->Each silo is also known to contain at least one ancient command desk or map table used to coordinate military movements
+    commandMap->Most silos house ancient desks or battle maps once used by field commanders
+    commandMap->Tactical tables scattered inside may contain encrypted maps to other installations
+    commandMap->Buried among the supplies are command desks filled with strategic data
+    commandMap->Decoding the maps on-site could reveal new locations tied to Operation: Deadlife
+    commandMap->Intact terminals and war tables could lead us to the central command
+
+    questObjective->The quest will complete once you loot at least a quarter of resources from the silo
+    questObjective->Loot at least 25% of the total resources stored in the silo to complete the quest
+    questObjective->The mission ends once a significant portion of the stored goods have been secured
+    questObjective->Successfully extracting a quarter of the silo’s contents will fulfill the objective
+    questObjective->You’ll need to claim at least a fourth of the silo’s supplies to mark this operation complete
+    questObjective->Once enough materials have been secured and hauled out, the quest will be marked complete
+   -->
+	<VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] из [asker_faction_name], сообщил нам местоположение запечатанного входа в одну из [ancientSilos], оставленных во время Операции «Мёртвая жизнь» — планетарной инициативы, запущенной [longDeadGovernment] в ожидании глобальной катастрофы.\n\nЭти шахты были спроектированы так, чтобы оставаться запечатанными поколениями, [intention]. Полагают, что внутри они содержат [containedReward]. В более глубоких камерах, по слухам, хранится оборудование и припасы, способные перезапустить саму цивилизацию.\n\n[threat]. [importantLight]. Без света вы будете передвигаться вслепую и окажетесь уязвимы для атак.\n\n[commandMap]. Их изучение может раскрыть местоположения других шахт и, что важнее, приблизить нас к обнаружению Командного штаба — мозга Операции «Мёртвая жизнь», где правда об этом апокалиптическом плане может всё ещё покоиться.\n\n[questObjective].</li>
+    <li>questDescription(askerIsNull==True)->Древние боевые карты раскрыли нам местоположение запечатанного входа в одну из [ancientSilos], оставленных во время Операции «Мёртвая жизнь» —  планетарной инициативы, запущенной [longDeadGovernment] в ожидании глобальной катастрофы.\n\nЭти шахты были спроектированы так, чтобы оставаться запечатанными поколениями, [intention]. Полагают, что внутри они содержат [containedReward]. В более глубоких камерах, по слухам, хранится оборудование и припасы, способные перезапустить саму цивилизацию.\n\n[threat]. [importantLight]. Без света вы будете передвигаться вслепую и окажетесь уязвимы для атак.\n\n[commandMap]. Их изучение может раскрыть местоположения других шахт и, что важнее, приблизить нас к обнаружению Командного штаба — мозга Операции «Мёртвая жизнь», где правда об этом апокалиптическом плане может всё ещё покоиться.\n\n[questObjective].</li>
+    <li>ancientSilos->древних военных шахт</li>
+    <li>ancientSilos->запечатанных военных бункеров</li>
+    <li>ancientSilos->заброшенных военных шахт</li>
+    <li>ancientSilos->ресурсных хранилищ до коллапса</li>
+    <li>ancientSilos->забытых подземных комплексов</li>
+    <li>ancientSilos->объектов глубинной логистики</li>
+    <li>ancientSilos->разрушающихся военных складов</li>
+    <li>ancientSilos->бункерных инфраструктурных объектов</li>
+    <li>ancientSilos->шахт снабжения мёртвой жизни</li>
+
+    <li>longDeadGovernment->давно мёртвым правительством</li>
+    <li>longDeadGovernment->древним планетарным альянсом</li>
+    <li>longDeadGovernment->рухнувшим технократическим режимом</li>
+    <li>longDeadGovernment->исчезнувшим милитаризованным правительством</li>
+    <li>longDeadGovernment->забытым советом по чрезвычайным ситуациям</li>
+    <li>longDeadGovernment->несуществующими кризисными властями</li>
+    <li>longDeadGovernment->давно исчезнувшей оборонительной сетью</li>
+    <li>longDeadGovernment->павшим командованием гражданской обороны</li>
+
+    <li>intention->предназначенными для открытия только когда человечество столкнётся с коллапсом</li>
+    <li>intention->построенными для выдерживания веков и повторного открытия в самый тёмный час человечества</li>
+    <li>intention->спроектированными как аварийные узлы снабжения для восстановления цивилизации</li>
+    <li>intention->предназначенными для активации только во время планетарного вымирания</li>
+    <li>intention->настроенными на разблокировку после подтверждения протоколов коллапса</li>
+    <li>intention->предназначенными служить тайниками последней надежды для выживших фракций</li>
+
+    <li>containedReward->обширные запасы ресурсов: сталь, пласталь, медикаменты, оружие и даже сохранённые культурные реликвии</li>
+    <li>containedReward->богатство ресурсов: закалённые рационы, компоненты, медицинские припасы и боеприпасы</li>
+    <li>containedReward->критически важные материалы для выживания: строительные материалы, медикаменты, оружие и схемы</li>
+    <li>containedReward->инструменты для восстановления: топливо, инструменты, семена, оружие и зашифрованные чертежи</li>
+    <li>containedReward->достаточно оборудования для поддержания или перезапуска новой колонии</li>
+    <li>containedReward->сокровищницу необходимого снаряжения, сохранённого временем</li>
+
+    <li>threat->Однако шахты не пусты. Коридоры внутри полностью лишены света, и говорят, что что-то враждебное скрывается в темноте</li>
+    <li>threat->Но время не оставило их нетронутыми. Внутри кромешная тьма, и что-то шевелится в тенях</li>
+    <li>threat->Исследователи сообщают о движении внутри: слабых звуках, тяжёлых шагах, формах в темноте</li>
+    <li>threat->Выжившие говорят о враждебных сущностях, скрывающихся в коридорах, невидимых до последнего момента</li>
+    <li>threat->Что бы ни осталось внутри, оно не спит — что-то охраняет эти забытые залы</li>
+    <li>threat->Залы тихи, но не пусты. Что-то ждёт внутри, окутанное тенью</li>
+
+    <li>importantLight->Активация энергосистем и освещения внутри критически важна</li>
+    <li>importantLight->Восстановление питания и активация освещения будет жизненно важно для выживания</li>
+    <li>importantLight->Без освещения любое движение внутри шахты — самоубийство</li>
+    <li>importantLight->Системы освещения должны быть активированы в первую очередь, иначе вы останетесь беспомощными в темноте</li>
+    <li>importantLight->Зрение — ваша единственная защита. Найдите способ быстро включить свет</li>
+    <li>importantLight->Если не активировать освещение, шахта станет смертельной ловушкой</li>
+
+    <li>commandMap->Также известно, что каждая шахта содержит как минимум один древний командный стол или карточный стол для координации военных действий</li>
+    <li>commandMap->Большинство шахт размещают древние столы или боевые карты, когда-то используемые полевыми командирами</li>
+    <li>commandMap->Тактические столы, разбросанные внутри, могут содержать зашифрованные карты других установок</li>
+    <li>commandMap->Среди припасов погребены командные столы, заполненные стратегическими данными</li>
+    <li>commandMap->Расшифровка карт на месте может раскрыть новые местоположения, связанные с Операцией «Мёртвая жизнь»</li>
+    <li>commandMap->Неповреждённые терминалы и военные столы могут привести нас к центральному командованию</li>
+
+    <li>questObjective->Квест завершится, как только вы разграбите хотя бы четверть ресурсов из шахты</li>
+    <li>questObjective->Разграбьте минимум 25% от общих ресурсов, хранящихся в шахте, чтобы завершить квест</li>
+    <li>questObjective->Миссия закончится, как только значительная часть хранимых товаров будет обеспечена</li>
+    <li>questObjective->Успешное извлечение четверти содержимого шахты выполнит задачу</li>
+    <li>questObjective->Вам нужно заявить как минимум четвёртую часть припасов шахты, чтобы отметить эту операцию завершённой</li>
+    <li>questObjective->Как только достаточно материалов будет обеспечено и вывезено, квест будет отмечен как завершённый</li>
+  </VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings>
+</LanguageData>

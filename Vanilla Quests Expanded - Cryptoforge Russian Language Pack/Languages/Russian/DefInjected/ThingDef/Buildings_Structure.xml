@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: frozen ship hull -->
+	<VQE_FrozenShipHull.label>замёрзший корпус корабля</VQE_FrozenShipHull.label>
+  <!-- EN: An impassable, indestructible ship hull wall. Capable of holding up a roof. -->
+	<VQE_FrozenShipHull.description>Непроходимая и неразрушимая стена корабельного корпуса. Способна удерживать крышу.</VQE_FrozenShipHull.description>
+
+  <!-- EN: fragile frozen ship hull -->
+	<VQE_FragileFrozenShipHull.label>хрупкий замёрзший корпус корабля</VQE_FragileFrozenShipHull.label>
+  <!-- EN: An impassable ship hull wall. The cracks and damage from the crash allow it to be destroyed. Capable of holding up a roof. -->
+	<VQE_FragileFrozenShipHull.description>Непроходимая стена корабельного корпуса. Трещины и повреждения от крушения позволяют её уничтожить. Способна удерживать крышу.</VQE_FragileFrozenShipHull.description>
+
+  <!-- EN: ancient airlock -->
+	<VQE_AncientAirlock.label>древний воздушный шлюз</VQE_AncientAirlock.label>
+  <!-- EN: A heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_AncientAirlock.description>Сильно укреплённая шлюзовая дверь. Открывается медленно, но очень прочная. Для работы требует стен с обеих сторон.</VQE_AncientAirlock.description>
+
+  <!-- EN: ancient large airlock -->
+	<VQE_AncientAirlock_Large.label>древний большой воздушный шлюз</VQE_AncientAirlock_Large.label>
+  <!-- EN: A large, heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_AncientAirlock_Large.description>Большая сильно укреплённая шлюзовая дверь. Открывается медленно, но очень прочная. Для работы требует стен с обеих сторон.</VQE_AncientAirlock_Large.description>
+
+  <!-- EN: stuck ancient airlock -->
+	<VQE_JammedAncientAirlock.label>заклинивший древний воздушный шлюз</VQE_JammedAncientAirlock.label>
+  <!-- EN: A heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_JammedAncientAirlock.description>Сильно укреплённая шлюзовая дверь. Из-за неисправности или повреждения её нужно вскрывать силой. Открывается медленно, но очень прочная. Для работы требует стен с обеих сторон.</VQE_JammedAncientAirlock.description>
+  <!-- EN: Force this ancient airlock open -->
+	<VQE_JammedAncientAirlock.comps.0.jobString>Вскрыть этот древний воздушный шлюз</VQE_JammedAncientAirlock.comps.0.jobString>
+  <!-- EN: Choose someone to force this ancient airlock open. -->
+	<VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateDescString>Выберите, кто будет вскрывать этот древний воздушный шлюз.</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Force open... -->
+	<VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateLabelString>Вскрыть...</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing ancient airlock open: {1}s -->
+	<VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingString>вскрывает древний воздушный шлюз: {1}с</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing ancient airlock open -->
+	<VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingStringPending>вскрывает древний воздушный шлюз</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+	<VQE_JammedAncientAirlock.comps.CompJammedAirlock.guiLabelString>Выберите, кто должен это сделать</VQE_JammedAncientAirlock.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the ancient airlock open. -->
+	<VQE_JammedAncientAirlock.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} успешно {PAWN_gender ? вскрыл : вскрыла} древний воздушный шлюз.</VQE_JammedAncientAirlock.comps.CompJammedAirlock.messageCompletedString>
+
+  <!-- EN: stuck ancient large airlock -->
+	<VQE_JammedAncientAirlock_Large.label>заклинивший древний большой воздушный шлюз</VQE_JammedAncientAirlock_Large.label>
+  <!-- EN: A large, heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQE_JammedAncientAirlock_Large.description>Большая сильно укреплённая шлюзовая дверь. Из-за неисправности или повреждения её нужно вскрывать силой. Открывается медленно, но очень прочная. Для работы требует стен с обеих сторон.</VQE_JammedAncientAirlock_Large.description>
+  <!-- EN: Choose someone to force this ancient large airlock open. -->
+	<VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateDescString>Выберите, кто будет вскрывать этот древний большой воздушный шлюз.</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Force open... -->
+	<VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateLabelString>Вскрыть...</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing ancient large airlock open: {1}s -->
+	<VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingString>вскрывает древний большой воздушный шлюз: {1}с</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing ancient large airlock open -->
+	<VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingStringPending>вскрывает древний большой воздушный шлюз</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+	<VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.guiLabelString>Выберите, кто должен это сделать</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: Force this ancient large airlock open -->
+	<VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.jobString>Вскрыть этот древний большой воздушный шлюз</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the ancient large airlock open. -->
+	<VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} успешно {PAWN_gender ? вскрыл : вскрыла} древний большой воздушный шлюз.</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.messageCompletedString>
+
+  <!-- EN: forced ancient airlock -->
+	<VQE_ForcedAncientAirlock.label>взломанный древний воздушный шлюз</VQE_ForcedAncientAirlock.label>
+  <!-- EN: A heavily reinforced airlock door. It has been forced open and cannot be closed again. -->
+	<VQE_ForcedAncientAirlock.description>Сильно укреплённая шлюзовая дверь. Была вскрыта силой и больше не закрывается.</VQE_ForcedAncientAirlock.description>
+
+  <!-- EN: forced ancient large airlock -->
+	<VQE_ForcedAncientAirlock_Large.label>взломанный древний большой воздушный шлюз</VQE_ForcedAncientAirlock_Large.label>
+  <!-- EN: A heavily reinforced large airlock door. It has been forced open and cannot be closed again. -->
+	<VQE_ForcedAncientAirlock_Large.description>Большая сильно укреплённая шлюзовая дверь. Была вскрыта силой и больше не закрывается.</VQE_ForcedAncientAirlock_Large.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull1x1Left.label>корпус криптокорабля</VQE_CryptoshipHull1x1Left.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull1x1Left.description>Фрагмент внешней обшивки корабля-криптокузницы.</VQE_CryptoshipHull1x1Left.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull1x1Right.label>корпус криптокорабля</VQE_CryptoshipHull1x1Right.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull1x1Right.description>Фрагмент внешней обшивки корабля-криптокузницы.</VQE_CryptoshipHull1x1Right.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull2x1Left.label>корпус криптокорабля</VQE_CryptoshipHull2x1Left.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull2x1Left.description>Фрагмент внешней обшивки корабля-криптокузницы.</VQE_CryptoshipHull2x1Left.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull2x1Right.label>корпус криптокорабля</VQE_CryptoshipHull2x1Right.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull2x1Right.description>Фрагмент внешней обшивки корабля-криптокузницы.</VQE_CryptoshipHull2x1Right.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull3x1Left.label>корпус криптокорабля</VQE_CryptoshipHull3x1Left.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull3x1Left.description>Фрагмент внешней обшивки корабля-криптокузницы.</VQE_CryptoshipHull3x1Left.description>
+
+  <!-- EN: cryptoship hull -->
+	<VQE_CryptoshipHull3x1Right.label>корпус криптокорабля</VQE_CryptoshipHull3x1Right.label>
+  <!-- EN: A fragment of the exterior hull of the cryptoforge ship. -->
+	<VQE_CryptoshipHull3x1Right.description>Фрагмент внешней обшивки корабля-криптокузницы.</VQE_CryptoshipHull3x1Right.description>
+</LanguageData>

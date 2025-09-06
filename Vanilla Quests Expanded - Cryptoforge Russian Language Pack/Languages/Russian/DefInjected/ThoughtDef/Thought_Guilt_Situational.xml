@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: lingering guilt -->
+	<VQE_Guilt.stages.0.label>затяжная вина</VQE_Guilt.stages.0.label>
+  <!-- EN: I keep thinking about what happened. Maybe I could have done something differently. -->
+	<VQE_Guilt.stages.0.description>Я всё думаю о случившемся. {PAWN_gender ? Мог : Могла} ли я поступить иначе?</VQE_Guilt.stages.0.description>
+  <!-- EN: growing remorse -->
+	<VQE_Guilt.stages.1.label>растущее раскаяние</VQE_Guilt.stages.1.label>
+  <!-- EN: The weight of my past decisions is sinking in. I feel uneasy, like I failed those who counted on me. -->
+	<VQE_Guilt.stages.1.description>Бремя прошлых решений давит всё сильнее. Мне не по себе, словно я {PAWN_gender ? подвёл : подвела} тех, кто на меня рассчитывал.</VQE_Guilt.stages.1.description>
+  <!-- EN: deep regret -->
+	<VQE_Guilt.stages.2.label>глубокое сожаление</VQE_Guilt.stages.2.label>
+  <!-- EN: I should have done more. Their voices echo in my mind, reminding me of what I’ve lost. -->
+	<VQE_Guilt.stages.2.description>Я {PAWN_gender ? должен был : должна была} сделать больше. Их голоса звучат в моей голове, напоминая о том, что я {PAWN_gender ? потерял : потеряла}.</VQE_Guilt.stages.2.description>
+  <!-- EN: crushing guilt -->
+	<VQE_Guilt.stages.3.label>сокрушительная вина</VQE_Guilt.stages.3.label>
+  <!-- EN: Every moment, I feel the burden of my failure. It’s like a sickness, gnawing away at me. -->
+	<VQE_Guilt.stages.3.description>Каждый миг я ощущаю тяжесть своей неудачи. Это словно болезнь, что гложет меня изнутри.</VQE_Guilt.stages.3.description>
+  <!-- EN: tormenting sorrow -->
+	<VQE_Guilt.stages.4.label>мучительная скорбь</VQE_Guilt.stages.4.label>
+  <!-- EN: I can barely function under the weight of my grief. I see their faces in every shadow. -->
+	<VQE_Guilt.stages.4.description>Под тяжестью скорби я едва могу держаться. Их лица мерещатся мне в каждой тени.</VQE_Guilt.stages.4.description>
+  <!-- EN: despairing isolation -->
+	<VQE_Guilt.stages.5.label>безнадёжная изоляция</VQE_Guilt.stages.5.label>
+  <!-- EN: There’s no escape from this agony. I am the last, and I don’t deserve to be. -->
+	<VQE_Guilt.stages.5.description>От этой агонии не скрыться. Я — {PAWN_gender ? последний : последняя}, и я этого не {PAWN_gender ? заслужил : заслужила}.</VQE_Guilt.stages.5.description>
+</LanguageData>

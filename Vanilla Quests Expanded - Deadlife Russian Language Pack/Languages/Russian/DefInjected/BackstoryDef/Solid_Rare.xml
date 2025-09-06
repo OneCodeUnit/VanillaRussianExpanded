@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: officer’s shadow -->
+	<VQE_Childhood_OfficersShadow.title>тень офицера</VQE_Childhood_OfficersShadow.title>
+  <!-- EN: shadow -->
+	<VQE_Childhood_OfficersShadow.titleShort>тень</VQE_Childhood_OfficersShadow.titleShort>
+  <!-- EN: [PAWN_nameDef] grew up behind reinforced glass, just beyond the war room where [PAWN_possessive] parent issued silent commands to a dying world. The halls were sterile, the uniforms always grey, and [PAWN_pronoun] quickly learned which doors never opened and which ones never closed. [PAWN_pronoun] was told the flickering silhouettes beyond the viewing screens were simulations, until one of them looked back. No one mentioned it afterward, and neither did [PAWN_pronoun]. -->
+	<VQE_Childhood_OfficersShadow.description>{PAWN_nameDef} {PAWN_gender ? рос : росла} за укреплённым стеклом, наблюдая как {PAWN_possessive} родитель в командном центре отдавал безмолвные приказы умирающему миру. В {PAWN_possessive} мире коридоры были стерильны, а одежда всегда серой. Наблюдая за дверьми {PAWN_pronoun} {PAWN_gender ? учил : учила}, какие двери никогда не открывались, а какие никогда не закрывались. {PAWN_objective} говорили, что мерцающие силуэты за смотровыми экранами  — это симуляция, и {PAWN_pronoun} {PAWN_gender ? верил : верила} в это пока один из силуэтов не посмотрел в ответ. Никто больше не обратил внимание, и {PAWN_nameDef} {PAWN_gender ? постарался : постаралась} об этом забыть.</VQE_Childhood_OfficersShadow.description>
+
+  <!-- EN: the general -->
+	<VQE_TheGeneral.title>генерал</VQE_TheGeneral.title>
+  <!-- EN: general -->
+	<VQE_TheGeneral.titleShort>генерал</VQE_TheGeneral.titleShort>
+  <!-- EN: [PAWN_nameDef] designed Operation: Deadlife from the first blueprint to the last breath, believing death could be structured, harnessed, and weaponized. When the Death Door was first opened, [PAWN_pronoun] stepped through without hesitation, alone, unarmed, and smiling. [PAWN_pronoun] returned days later, silent and burned from within, wrapped in binding cloth and sealed inside a containment sarcophagus that no one claimed to understand. The war ended. The door remained open. [PAWN_pronoun] sleeps still - but the seals are growing warm. -->
+	<VQE_TheGeneral.description>{PAWN_nameDef} {PAWN_gender ? спланировал : спланировала} операцию «Мёртвая жизнь» от первого чертежа до последнего вздоха, веря, что смерть можно изучить, обуздать и превратить в оружие. Когда смерть отворила свои врата, {PAWN_pronoun} {PAWN_gender ? шагнул : шагнула} через них без колебаний, в одиночестве, без оружия и с улыбкой. {PAWN_pronoun} {PAWN_gender ? вернулся : вернулась} несколько дней спустя, {PAWN_gender ? молчаливым и выжженным : молчаливой и выжженной} изнутри, {PAWN_gender ? завёрнутый : завёрнутая} в ткань и {PAWN_gender ? запечатанный : запечатанная} в сдерживающем саркофаге, который был для всех загадкой. Война закончилась, а дверь осталась открытой. {PAWN_nameDef} до сих пор {PAWN_gender ? спит : спит} в саркофаге, но печати нагреваются.</VQE_TheGeneral.description>
+</LanguageData>

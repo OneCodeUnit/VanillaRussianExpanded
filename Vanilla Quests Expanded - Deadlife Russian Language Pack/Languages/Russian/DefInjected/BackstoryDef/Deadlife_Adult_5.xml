@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: whisper host -->
+	<VQE_WhisperHost41.title>носитель шёпота</VQE_WhisperHost41.title>
+  <!-- EN: host -->
+	<VQE_WhisperHost41.titleShort>носитель</VQE_WhisperHost41.titleShort>
+  <!-- EN: [PAWN_nameDef] was assigned to monitor the auditory pulses emitted by the Death Door during lunar shifts. [PAWN_pronoun] began transcribing messages in no known language, yet perfectly understood. After the seventh day, [PAWN_pronoun] no longer required equipment to hear them. -->
+	<VQE_WhisperHost41.description>{PAWN_nameDef} {PAWN_gender ? был : была} {PAWN_gender ? назначен : назначена} для отслеживания звуковых импульсов, исходящих от Двери Смерти во время лунных сдвигов. {PAWN_pronoun} {PAWN_gender ? начал : начала} расшифровывать сообщения на неизвестном, но прекрасно понятном языке. На седьмой день {PAWN_pronoun} больше не {PAWN_gender ? нуждался : нуждалась} в оборудовании, чтобы их слышать.</VQE_WhisperHost41.description>
+
+  <!-- EN: returned observer -->
+	<VQE_ReturnedObserver42.title>вернувшийся наблюдатель</VQE_ReturnedObserver42.title>
+  <!-- EN: returned -->
+	<VQE_ReturnedObserver42.titleShort>вернувшийся</VQE_ReturnedObserver42.titleShort>
+  <!-- EN: [PAWN_nameDef] was sent through the Death Door for a three-minute reconnaissance. The cameras failed instantly. [PAWN_pronoun] returned eighteen hours later, unharmed but altered, with skin colder, voice slower, eyes not entirely [PAWN_possessive]. No one asked what [PAWN_pronoun] saw. No one does now. -->
+	<VQE_ReturnedObserver42.description>{PAWN_nameDef} {PAWN_gender ? был : была} {PAWN_gender ? отправлен : отправлена} за Дверь Смерти для трёхминутной разведки. Камеры мгновенно вышли из строя. {PAWN_pronoun} {PAWN_gender ? вернулся : вернулась} восемнадцать часов спустя, {PAWN_gender ? невредимым : невредимой}, но {PAWN_gender ? изменённым : изменённой}: кожа стала холоднее, голос — медленнее, а глаза — не совсем {PAWN_possessive}. Никто не спрашивал, что {PAWN_pronoun} {PAWN_gender ? видел : видела}. Никто не спрашивает и сейчас.</VQE_ReturnedObserver42.description>
+
+  <!-- EN: pale witness -->
+	<VQE_PaleWitness43.title>бледный свидетель</VQE_PaleWitness43.title>
+  <!-- EN: witness -->
+	<VQE_PaleWitness43.titleShort>свидетель</VQE_PaleWitness43.titleShort>
+  <!-- EN: [PAWN_nameDef] stood guard outside the inner chamber for 900 days, never entering, never relieved. Then, on day 901, the door opened just a slit. [PAWN_pronoun] looked inside for exactly three seconds. Since then, [PAWN_pronoun] has not blinked once. -->
+	<VQE_PaleWitness43.description>{PAWN_nameDef} {PAWN_gender ? стоял : стояла} на страже у внутренней камеры 900 дней, ни разу не входя внутрь и не зная смены. Затем, на 901-й день, дверь приоткрылась, оставив лишь щёлочку. {PAWN_pronoun} {PAWN_gender ? заглянул : заглянула} внутрь ровно на три секунды. С тех пор {PAWN_pronoun} ни разу не {PAWN_gender ? моргнул : моргнула}.</VQE_PaleWitness43.description>
+
+  <!-- EN: null witness -->
+	<VQE_NullWitness44.title>нулевой свидетель</VQE_NullWitness44.title>
+  <!-- EN: witness -->
+	<VQE_NullWitness44.titleShort>свидетель</VQE_NullWitness44.titleShort>
+  <!-- EN: No records exist for [PAWN_nameDef] prior to Vault Cycle 18. [PAWN_pronoun] was found kneeling at the Death Door, eyes closed, hands outstretched, murmuring patterns that canceled sound in a six-meter radius. [PAWN_pronoun] now works in Inventory. The lights dim when [PAWN_pronoun] passes. -->
+	<VQE_NullWitness44.description>Не существует никаких записей о {PAWN_nameDef} до 18-го цикла Хранилища. {PAWN_pronoun} {PAWN_gender ? был : была} {PAWN_gender ? найден : найдена} стоящим на коленях у Двери Смерти с закрытыми глазами и протянутыми руками. {PAWN_pronoun} {PAWN_gender ? бормотал : бормотала} фразы, которые гасили звук в радиусе шести метров. Теперь {PAWN_pronoun} работает на складе. Свет тускнеет, когда {PAWN_pronoun} проходит мимо.</VQE_NullWitness44.description>
+
+  <!-- EN: echo repeater -->
+	<VQE_EchoRepeater45.title>эхо-повторитель</VQE_EchoRepeater45.title>
+  <!-- EN: repeater -->
+	<VQE_EchoRepeater45.titleShort>повторитель</VQE_EchoRepeater45.titleShort>
+  <!-- EN: [PAWN_nameDef] was exposed to the Death Door during a containment breach and hasn’t spoken [PAWN_possessive] own thoughts since. Everything [PAWN_pronoun] says is a repetition of something someone else is about to say. [PAWN_pronoun] knows things that haven’t happened yet. The facility keeps [PAWN_objective] alive... just in case. -->
+	<VQE_EchoRepeater45.description>{PAWN_nameDef} {PAWN_gender ? подвергся : подверглась} воздействию Двери Смерти во время нарушения условий содержания и с тех пор не {PAWN_gender ? высказывал : высказывала} собственных мыслей. Всё, что говорит {PAWN_pronoun}, — это повторение того, что кто-то другой вот-вот скажет. {PAWN_pronoun} знает о событиях, которые ещё не произошли. Комплекс сохраняет {PAWN_objective} жизнь... на всякий случай.</VQE_EchoRepeater45.description>
+
+  <!-- EN: breach volunteer -->
+	<VQE_BreachVolunteer46.title>доброволец на прорыв</VQE_BreachVolunteer46.title>
+  <!-- EN: volunteer -->
+	<VQE_BreachVolunteer46.titleShort>доброволец</VQE_BreachVolunteer46.titleShort>
+  <!-- EN: [PAWN_nameDef] stepped forward during the first breach trials, signing a form titled "Consent to Dissolution." [PAWN_pronoun] was marched into the dust storm without armor, carrying only a black flag. Days later, the flag returned, stitched into [PAWN_possessive] new uniform. -->
+	<VQE_BreachVolunteer46.description>{PAWN_nameDef} {PAWN_gender ? сделал : сделала} шаг вперёд во время первых испытаний прорыва, подписав форму под названием «Согласие на растворение». {PAWN_pronoun} {PAWN_gender ? был : была} {PAWN_gender ? отправлен : отправлена} в пыльную бурю без доспехов, неся лишь чёрный флаг. Спустя несколько дней флаг вернулся, вшитый в новую униформу {PAWN_possessive}.</VQE_BreachVolunteer46.description>
+
+  <!-- EN: ritual subject -->
+	<VQE_RitualSubject47.title>объект ритуала</VQE_RitualSubject47.title>
+  <!-- EN: subject -->
+	<VQE_RitualSubject47.titleShort>объект</VQE_RitualSubject47.titleShort>
+  <!-- EN: [PAWN_nameDef] knelt willingly in the circle, surrounded by augurs and dark machines, and did not scream when the dust was poured into [PAWN_possessive] lungs. [PAWN_pronoun] was declared clinically dead, then reassigned to frontline duty two hours later. [PAWN_pronoun] no longer blinks. Nor stops. -->
+	<VQE_RitualSubject47.description>{PAWN_nameDef} добровольно {PAWN_gender ? : встала} на колени в кругу, {PAWN_gender ? окружённый : окружённая} авгурами и тёмными машинами, и не {PAWN_gender ? закричал : закричала}, когда {PAWN_objective} в лёгкие засыпали пыль. {PAWN_pronoun} {PAWN_gender ? был : была} {PAWN_gender ? объявлен : объявлена} клинически {PAWN_gender ? мёртвым : мёртвой}, а два часа спустя {PAWN_objective} назначили на передовую. {PAWN_pronoun} больше не моргает. И не останавливается.</VQE_RitualSubject47.description>
+
+  <!-- EN: obedience pledge -->
+	<VQE_ObediencePledge48.title>клятва послушания</VQE_ObediencePledge48.title>
+  <!-- EN: pledged -->
+	<VQE_ObediencePledge48.titleShort>поклявшийся</VQE_ObediencePledge48.titleShort>
+  <!-- EN: [PAWN_nameDef] signed the Oath of Obedience in blood, requesting permanent reassignment to non-cognitive labor. [PAWN_pronoun] underwent cerebral smoothing, then was sent to carry crates too heavy for the living. [PAWN_pronoun] does not stop until ordered to, even if bones crack. -->
+	<VQE_ObediencePledge48.description>{PAWN_nameDef} {PAWN_gender ? подписал : подписала} Клятву Послушания кровью, запросив постоянный перевод на неквалифицированный труд. {PAWN_pronoun} прошёл процедуру «сглаживания мозга», а затем {PAWN_gender ? был : была} {PAWN_gender ? отправлен : отправлена} таскать ящики, слишком тяжёлые для живых. {PAWN_pronoun} не останавливается, пока не получит приказ, даже если кости трещат.</VQE_ObediencePledge48.description>
+
+  <!-- EN: silent conversion -->
+	<VQE_SilentConversion49.title>тихая конверсия</VQE_SilentConversion49.title>
+  <!-- EN: converted -->
+	<VQE_SilentConversion49.titleShort>конвертированный</VQE_SilentConversion49.titleShort>
+  <!-- EN: [PAWN_nameDef] walked into the conversion chamber, sealed the door behind [PAWN_objective], and waited. The machine inside removed [PAWN_possessive] speech, hunger, and memory. What emerged walked straight to duty assignment without waiting for instruction. -->
+	<VQE_SilentConversion49.description>{PAWN_nameDef} вошёл в камеру конверсии, запер за собой дверь и {PAWN_gender ? стал : стала} ждать. Машина внутри лишила {PAWN_objective} речи, голода и памяти. То, что вышло оттуда, сразу направилось к месту службы, не дожидаясь инструкций.</VQE_SilentConversion49.description>
+
+  <!-- EN: processed sentinel -->
+	<VQE_ProcessedSentinel50.title>обработанный часовой</VQE_ProcessedSentinel50.title>
+  <!-- EN: sentinel -->
+	<VQE_ProcessedSentinel50.titleShort>часовой</VQE_ProcessedSentinel50.titleShort>
+  <!-- EN: [PAWN_nameDef] requested the "watcher’s gift" - a surgical splice of deadlife dust into the optic nerves and frontal cortex. [PAWN_pronoun] stands motionless for days, monitoring movement where none exists. [PAWN_pronoun] hasn’t reported an intrusion, but occasionally whispers that one is "already inside." -->
+	<VQE_ProcessedSentinel50.description>{PAWN_nameDef} {PAWN_gender ? запросил : запросила} «дар наблюдателя» — хирургическое вживление пыли мёртвой жизни в зрительные нервы и лобную кору. {PAWN_pronoun} днями стоит неподвижно, отслеживая движение там, где его нет. {PAWN_pronoun} не {PAWN_gender ? сообщал : сообщала} о вторжениях, но иногда шепчет, что кто-то «уже внутри».</VQE_ProcessedSentinel50.description>
+</LanguageData>

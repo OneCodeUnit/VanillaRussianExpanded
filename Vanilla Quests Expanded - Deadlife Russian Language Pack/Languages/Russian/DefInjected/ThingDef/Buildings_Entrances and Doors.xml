@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: locked silo hatch -->
+	<VQED_LockedSiloHatch.label>заблокированный люк шахты</VQED_LockedSiloHatch.label>
+  <!-- EN: A sealed entrance to the deeper facility. Still structurally sound, but heavily pressurized. Can be forced open to allow access. -->
+	<VQED_LockedSiloHatch.description>Запечатанный вход в более глубокие сооружения. Всё ещё структурно целый, но находящийся под сильным давлением. Можно попытаться открыть силой.</VQED_LockedSiloHatch.description>
+  <!-- EN: Force this door open -->
+	<VQED_LockedSiloHatch.comps.0.jobString>Силой открывает люк</VQED_LockedSiloHatch.comps.0.jobString>
+  <!-- EN: Choose someone to force the door open, allowing access to the underground silo. -->
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>Выберите, кто должен силой открыть дверь, чтобы получить доступ к подземной шахте.</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Force open silo door -->
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>Силой открыть дверь шахты</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing door open: {1}s -->
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>открывает дверь силой: {1} с</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing door open -->
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>открывает дверь силой</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>Выберите, кто должен это сделать</VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the door open. -->
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} успешно {PAWN_gender ? открыл : открыла} дверь силой.</VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>
+
+  <!-- EN: silo staircase -->
+	<VQED_SiloStaircase.label>лестница шахты</VQED_SiloStaircase.label>
+  <!-- EN: A reinforced accessway to the lower levels. Coated in dust and stale air. -->
+	<VQED_SiloStaircase.description>Укреплённый проход к нижним уровням. Покрыта пылью и пахнет затхлым воздухом.</VQED_SiloStaircase.description>
+
+  <!-- EN: silo exit staircase -->
+	<VQED_SiloExitStaircase.label>эвакуационная лестница шахты</VQED_SiloExitStaircase.label>
+  <!-- EN: A vertical return route to the surface. Rarely used, but still passable. -->
+	<VQED_SiloExitStaircase.description>Вертикальный путь для возвращения на поверхность. Редко использовался, но всё ещё пригоден.</VQED_SiloExitStaircase.description>
+
+  <!-- EN: ancient silo door -->
+	<VQED_AncientSiloDoor.label>древняя дверь шахты</VQED_AncientSiloDoor.label>
+  <!-- EN: A heavily reinforced door. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQED_AncientSiloDoor.description>Сильно укреплённая дверь. Медленно открывается, но очень прочная. Для функционирования двери требуются стены с обеих сторон.</VQED_AncientSiloDoor.description>
+  
+  <!-- EN: stuck ancient silo door -->
+	<VQED_StuckAncientSiloDoor.label>заблокированная древняя дверь шахты</VQED_StuckAncientSiloDoor.label>
+  <!-- EN: A heavily reinforced door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
+	<VQED_StuckAncientSiloDoor.description>Сильно укреплённая дверь. Из-за неисправности или повреждения её нужно открыть силой открывать. Медленно открывается, но очень прочная. Для функционирования двери требуются стены с обеих сторон.</VQED_StuckAncientSiloDoor.description>
+  <!-- EN: Force this ancient silo door open -->
+	<VQED_StuckAncientSiloDoor.comps.0.jobString>Силой открывает дверь</VQED_StuckAncientSiloDoor.comps.0.jobString>
+  <!-- EN: Choose someone to force this ancient silo door open. -->
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>Выберите, кто должен силой открыть эту древнюю дверь шахты.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Force open... -->
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>Силой открыть...</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing ancient silo door open: {1}s -->
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>открывает древнюю дверь шахты силой: {1} с</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing ancient silo door open -->
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>открывает древнюю дверь шахты силой</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>Выберите, кто должен это сделать</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the ancient silo door open. -->
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} успешно {PAWN_gender ? открыл : открыла} древнюю дверь шахты силой.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: extinguish -->
+	<VQE_ExtinguishCryptofreeze.label>криозаморозка</VQE_ExtinguishCryptofreeze.label>
+  <!-- EN: {0} has been killed. -->
+	<VQE_ExtinguishCryptofreeze.deathMessage>{PAWN_nameDef} {PAWN_gender ? убит : убита : убито}.</VQE_ExtinguishCryptofreeze.deathMessage>
+
+  <!-- EN: crypto cut -->
+	<VQE_CryptoCut.label>криопорез</VQE_CryptoCut.label>
+  <!-- EN: {0} has been killed. -->
+	<VQE_CryptoCut.deathMessage>{PAWN_nameDef} {PAWN_gender ? убит : убита : убито}.</VQE_CryptoCut.deathMessage>
+</LanguageData>

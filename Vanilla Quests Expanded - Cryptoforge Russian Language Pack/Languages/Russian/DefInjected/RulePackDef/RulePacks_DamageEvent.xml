@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: 
+    damage_source->[cryptofreeze] froze
+
+    cryptofreeze(p=3)->cryptofreeze
+    cryptofreeze(p=3)->a cryptofreeze
+    cryptofreeze(p=3)->the cryptofreeze
+    cryptofreeze->cold snap
+    cryptofreeze->a chill
+    cryptofreeze->a froststorm
+
+    damaged_present->freezing
+    damaged_present->numbing
+    damaged_present->biting cold
+    damaged_present->frosting over
+
+    destroyed_present->shattering
+    destroyed_present->crystallizing
+    destroyed_present->frostburning
+    destroyed_present->encasing in ice
+   -->
+	<VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings>
+    <li>damage_source->[cryptofreeze]</li>
+
+    <li>cryptofreeze(p=3)->криозаморозка</li>
+    <li>cryptofreeze(p=3)->криозаморозка</li>
+    <li>cryptofreeze(p=3)->криозаморозка</li>
+    <li>cryptofreeze->холодный шок</li>
+    <li>cryptofreeze->озноб</li>
+    <li>cryptofreeze->морозная буря</li>
+
+    <li>damaged_present->замораживание</li>
+    <li>damaged_present->онемение</li>
+    <li>damaged_present->жгучий холод</li>
+    <li>damaged_present->покрытие инеем</li>
+
+    <li>destroyed_present->разрушение</li>
+    <li>destroyed_present->кристаллизация</li>
+    <li>destroyed_present->морозное горение</li>
+    <li>destroyed_present->заключение во лёд</li>
+  </VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings>
+</LanguageData>

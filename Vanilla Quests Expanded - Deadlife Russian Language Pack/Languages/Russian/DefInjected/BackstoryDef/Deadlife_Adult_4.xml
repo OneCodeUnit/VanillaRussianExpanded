@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: vault archivist -->
+	<VQE_VaultArchivist31.title>архивариус Хранилища</VQE_VaultArchivist31.title>
+  <!-- EN: archivist -->
+	<VQE_VaultArchivist31.titleShort>архивариус</VQE_VaultArchivist31.titleShort>
+  <!-- EN: [PAWN_nameDef] maintained ledgers of inventory buried deep in the sub-storage vaults. [PAWN_pronoun] documented sealed containers with unreadable glyphs and crates that hummed faintly when touched. One morning, an entry appeared in [PAWN_possessive] own handwriting, describing a box [PAWN_pronoun] hadn’t logged yet. -->
+	<VQE_VaultArchivist31.description>{PAWN_nameDef} {PAWN_gender ? вёл : вела} учёт запасов, погребённых глубоко в подземных хранилищах. {PAWN_pronoun} {PAWN_gender ? описывал : описывала} запечатанные контейнеры с нечитаемыми глифами и ящики, которые тихо гудели при прикосновении. Однажды утром появилась запись, сделанная {PAWN_possessive} собственным почерком, в которой описывался ящик, который {PAWN_pronoun} ещё не {PAWN_gender ? зарегистрировал : зарегистрировала}.</VQE_VaultArchivist31.description>
+
+  <!-- EN: crate notator -->
+	<VQE_CrateNotator32.title>маркировщик ящиков</VQE_CrateNotator32.title>
+  <!-- EN: notator -->
+	<VQE_CrateNotator32.titleShort>маркировщик</VQE_CrateNotator32.titleShort>
+  <!-- EN: [PAWN_nameDef] scrawled codes onto crates, noting date, contents, and threat tier. Many containers arrived unmarked, but [PAWN_pronoun] learned quickly: if it rattled, it was best to skip the contents line. Sometimes the ink bled upward, off the label, and into [PAWN_possessive] sleeve. -->
+	<VQE_CrateNotator32.description>{PAWN_nameDef} {PAWN_gender ? наносил : наносила} коды на ящики, отмечая дату, содержимое и уровень угрозы. Многие контейнеры прибывали без маркировки, но {PAWN_pronoun} быстро {PAWN_gender ? понял : поняла}: если что-то дребезжит, лучше пропустить строку с содержимым. Иногда чернила растекались вверх по этикетке и впитывались в рукав {PAWN_possessive}.</VQE_CrateNotator32.description>
+
+  <!-- EN: stockpile rotator -->
+	<VQE_StockpileRotator33.title>кладовщик-ротатор</VQE_StockpileRotator33.title>
+  <!-- EN: rotator -->
+	<VQE_StockpileRotator33.titleShort>ротатор</VQE_StockpileRotator33.titleShort>
+  <!-- EN: [PAWN_nameDef] moved ancient supplies through decaying aisles, rotating materials to slow entropy. Many of the items had no known purpose, some no discernible shape. [PAWN_pronoun] once touched something warm that shouldn’t have been. It didn’t cool down afterward. -->
+	<VQE_StockpileRotator33.description>{PAWN_nameDef} {PAWN_gender ? перемещал : перемещала} древние припасы по ветхим проходам, проводя ротацию материалов, чтобы замедлить энтропию. Многие предметы не имели известного назначения, а некоторые — и различимой формы. Однажды {PAWN_pronoun} {PAWN_gender ? коснулся : коснулась} чего-то тёплого, что не должно было им быть. Оно так и не остыло.</VQE_StockpileRotator33.description>
+
+  <!-- EN: label overseer -->
+	<VQE_LabelOverseer34.title>смотритель маркировки</VQE_LabelOverseer34.title>
+  <!-- EN: overseer -->
+	<VQE_LabelOverseer34.titleShort>смотритель</VQE_LabelOverseer34.titleShort>
+  <!-- EN: [PAWN_nameDef] was in charge of verifying label integrity across the sealed vault grid. [PAWN_pronoun] spent entire shifts reading faded text under flickering lights, checking against catalogs no longer maintained. Some crates had no labels, just symbols that [PAWN_pronoun] could swear [PAWN_pronoun] remembered from dreams. -->
+	<VQE_LabelOverseer34.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала} за проверку целостности маркировки по всей сети запечатанных хранилищ. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} целые смены, читая выцветший текст под мерцающими лампами и сверяясь с каталогами, которые больше не велись. На некоторых ящиках не было этикеток — лишь символы, которые, {PAWN_pronoun} {PAWN_gender ? мог : могла} поклясться, что {PAWN_gender ? помнил : помнила} из снов.</VQE_LabelOverseer34.description>
+
+  <!-- EN: vault entry clerk -->
+	<VQE_VaultEntryClerk35.title>дежурный по входу в Хранилище</VQE_VaultEntryClerk35.title>
+  <!-- EN: clerk -->
+	<VQE_VaultEntryClerk35.titleShort>дежурный</VQE_VaultEntryClerk35.titleShort>
+  <!-- EN: [PAWN_nameDef] verified access credentials for vault entrants and logged removals from sealed shelves. [PAWN_pronoun] noticed that names on the log began to repeat: dead soldiers requesting supplies long after they’d been archived. [PAWN_pronoun] flagged it once. Nothing changed. -->
+	<VQE_VaultEntryClerk35.description>{PAWN_nameDef} {PAWN_gender ? проверял : проверяла} учётные данные для входа в Хранилище и {PAWN_gender ? регистрировал : регистрировала} изъятия с запечатанных полок. {PAWN_pronoun} {PAWN_gender ? заметил : заметила}, что имена в журнале начали повторяться: мёртвые солдаты запрашивали припасы спустя долгое время после того, как их сдали в архив. {PAWN_pronoun} однажды {PAWN_gender ? отметил : отметила} это. Ничего не изменилось.</VQE_VaultEntryClerk35.description>
+
+  <!-- EN: dust doctrine architect -->
+	<VQE_DustDoctrineArchitect36.title>архитектор доктрины праха</VQE_DustDoctrineArchitect36.title>
+  <!-- EN: architect -->
+	<VQE_DustDoctrineArchitect36.titleShort>архитектор</VQE_DustDoctrineArchitect36.titleShort>
+  <!-- EN: [PAWN_nameDef] authored the central philosophy behind the use of deadlife dust, an ideology blending utility, inevitability, and transcendence through decay. [PAWN_pronoun] designed the program not to conquer death, but to industrialize it. Those who dissented were reassigned to dust-harvesting duties until compliant. -->
+	<VQE_DustDoctrineArchitect36.description>{PAWN_nameDef} {PAWN_gender ? был : была} автором центральной философии, лежащей в основе использования праха мёртвой жизни, — идеологии, сочетающей в себе утилитарность, неизбежность и трансцендентность через распад. {PAWN_pronoun} {PAWN_gender ? разработал : разработала} программу не для того, чтобы победить смерть, а чтобы поставить её на поток. Несогласных отправляли на сбор праха до тех пор, пока они не проявят покорность.</VQE_DustDoctrineArchitect36.description>
+
+  <!-- EN: vault commissar -->
+	<VQE_VaultCommissar37.title>комиссар Хранилища</VQE_VaultCommissar37.title>
+  <!-- EN: commissar -->
+	<VQE_VaultCommissar37.titleShort>комиссар</VQE_VaultCommissar37.titleShort>
+  <!-- EN: [PAWN_nameDef] ensured ideological purity among vault personnel, conducting loyalty evaluations and sanctioning disciplinary corrections. [PAWN_pronoun] maintained that those exposed to the Death Door too long became unreliable. [PAWN_pronoun] had many of them sealed behind the vaults, alive or not was irrelevant. -->
+	<VQE_VaultCommissar37.description>{PAWN_nameDef} {PAWN_gender ? обеспечивал : обеспечивала} идеологическую чистоту среди персонала Хранилища, проводя проверки на лояльность и применяя дисциплинарные взыскания. {PAWN_pronoun} {PAWN_gender ? утверждал : утверждала}, что те, кто слишком долго подвергался воздействию Двери Смерти, становились ненадёжными. {PAWN_pronoun} {PAWN_gender ? приказал : приказала} замуровать многих из них в хранилищах — неважно, живыми или мёртвыми.</VQE_VaultCommissar37.description>
+
+  <!-- EN: eternal logistics officer -->
+	<VQE_EternalLogisticsOfficer38.title>офицер вечной логистики</VQE_EternalLogisticsOfficer38.title>
+  <!-- EN: officer -->
+	<VQE_EternalLogisticsOfficer38.titleShort>офицер</VQE_EternalLogisticsOfficer38.titleShort>
+  <!-- EN: [PAWN_nameDef] designed the warehouse and storage rotation protocol meant to function without human oversight for over a thousand years. [PAWN_pronoun] believed a perfect system outlived its masters, and had [PAWN_possessive] own heart replaced with a synthetic failsafe. [PAWN_pronoun] has not aged since activation. -->
+	<VQE_EternalLogisticsOfficer38.description>{PAWN_nameDef} {PAWN_gender ? разработал : разработала} протокол ротации для склада, рассчитанный на работу без человеческого надзора более тысячи лет. {PAWN_pronoun} {PAWN_gender ? верил : верила}, что идеальная система переживёт своих создателей, и {PAWN_gender ? заменил : заменила} собственное сердце синтетическим отказоустойчивым механизмом. С момента активации {PAWN_pronoun} не стареет.</VQE_EternalLogisticsOfficer38.description>
+
+  <!-- EN: reanimation warden -->
+	<VQE_ReanimationWarden39.title>надзиратель реанимации</VQE_ReanimationWarden39.title>
+  <!-- EN: warden -->
+	<VQE_ReanimationWarden39.titleShort>надзиратель</VQE_ReanimationWarden39.titleShort>
+  <!-- EN: [PAWN_nameDef] oversaw the barracks of the reanimated units, managing deployment cycles and overseeing mental degradation thresholds. [PAWN_pronoun] insisted the undead required no names, only barcodes. When one subject regained a memory and spoke, [PAWN_pronoun] personally incinerated it. -->
+	<VQE_ReanimationWarden39.description>{PAWN_nameDef} {PAWN_gender ? курировал : курировала} казармы реанимированных бойцов, управляя циклами их развёртывания и отслеживая пороги умственной деградации. {PAWN_pronoun} {PAWN_gender ? настаивал : настаивала}, что нежити не нужны имена — только штрихкоды. Когда один из субъектов обрёл память и заговорил, {PAWN_pronoun} лично {PAWN_gender ? сжёг : сожгла} его.</VQE_ReanimationWarden39.description>
+
+  <!-- EN: ash strategist -->
+	<VQE_AshStrategist40.title>пепельный стратег</VQE_AshStrategist40.title>
+  <!-- EN: strategist -->
+	<VQE_AshStrategist40.titleShort>стратег</VQE_AshStrategist40.titleShort>
+  <!-- EN: [PAWN_nameDef] formulated long-term battle plans relying on the deployment of expendable, undead battalions into irradiated and cursed zones. [PAWN_pronoun] viewed humans as inefficient vessels, preferring dust-born constructs who didn’t sleep or retreat. [PAWN_pronoun] once approved a maneuver where only the dead returned and called it a flawless victory. -->
+	<VQE_AshStrategist40.description>{PAWN_nameDef} {PAWN_gender ? разрабатывал : разрабатывала} долгосрочные боевые планы, основанные на развёртывании расходных батальонов нежити в облучённых и проклятых зонах. {PAWN_pronoun} {PAWN_gender ? считал : считала} людей неэффективными сосудами, предпочитая им порождений праха, которые не спали и не отступали. Однажды {PAWN_pronoun} {PAWN_gender ? одобрил : одобрила} манёвр, из которого вернулись только мёртвые, и назвал это безупречной победой.</VQE_AshStrategist40.description>
+</LanguageData>

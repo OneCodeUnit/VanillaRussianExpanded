@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Airlock jammed shut. Must be forced open. -->
+	<VQE_AirlockJammed>Шлюз заклинило. Необходимо вскрыть силой.</VQE_AirlockJammed>
+  <!-- EN: Clean up the {0} while searching for valuable materials. -->
+	<VQE_ScavengeDesc>Разобрать {0} в поисках ценных материалов.</VQE_ScavengeDesc>
+  <!-- EN: Scavenge {0} -->
+	<VQE_Scavenge>Разобрать {0}</VQE_Scavenge>
+  <!-- EN: Cancel -->
+	<VQE_CancelScavenge>Отменить</VQE_CancelScavenge>
+  <!-- EN: Cancel scavenging this object. -->
+	<VQE_CancelScavengeDesc>Отменить разборку этого объекта.</VQE_CancelScavengeDesc>
+  <!-- EN: Study ancient blueprints -->
+	<VQE_StudyBlueprints>Изучить древние чертежи</VQE_StudyBlueprints>
+  <!-- EN: Study the ancient blueprints and diagrams to gain inspiration for the next crafting project. -->
+	<VQE_StudyBlueprintsDesc>Изучить древние чертежи и схемы, чтобы получить вдохновение для нового ремесленного проекта.</VQE_StudyBlueprintsDesc>
+  <!-- EN: Study ancient black box -->
+	<VQE_StudyBlackBox>Изучить древний чёрный ящик</VQE_StudyBlackBox>
+  <!-- EN: Access the data on the black box to find out what transpired. -->
+	<VQE_StudyBlackBoxDesc>Получить доступ к данным чёрного ящика, чтобы выяснить, что произошло.</VQE_StudyBlackBoxDesc>
+  <!-- EN: Initiate scan -->
+	<VQE_InitiateScan>Начать сканирование</VQE_InitiateScan>
+  <!-- EN: Initiate the proximity scan to find large signatures in the area. The scan is bound to generate enough of an energy signature to attract a mechanoid hive. -->
+	<VQE_InitiateScanDesc>Начать сканирование местности для поиска крупных объектов. Сканирование неизбежно создаст достаточно мощный энергетический всплеск, чтобы привлечь улей механоидов.</VQE_InitiateScanDesc>
+  <!-- EN: Restart generator -->
+	<VQE_RestartGenerator>Перезапустить генератор</VQE_RestartGenerator>
+  <!-- EN: Restart the cryptogenerator. It has enough fuel to run continuously for three days, after which it will critically meltdown. The strong energy signature is bound to attract the mechanoid hive. -->
+	<VQE_RestartGeneratorDesc>Перезапустить криптогенератор. У него достаточно топлива для непрерывной работы в течение трёх дней, после чего произойдёт критический перегрев. Мощная энергетическая сигнатура неизбежно привлечёт улей механоидов.</VQE_RestartGeneratorDesc>
+  <!-- EN: Restarting the cryptogenerator will cause continuous mechanoid attacks. -->
+	<VQE_RestartWarning>Перезапуск криптогенератора вызовет непрерывные атаки механоидов.</VQE_RestartWarning>
+  <!-- EN: Scavenge -->
+	<VQE_LootChunk>Собрать трофеи</VQE_LootChunk>
+  <!-- EN: The scan will take some time to complete. Leaving the site will cancel the scan. -->
+	<VQE_ScanStarted>Сканирование займёт некоторое время. Если покинуть это место, сканирование прервётся.</VQE_ScanStarted>
+  <!-- EN: The scan has completed. -->
+	<VQE_ScanComplete>Сканирование завершено.</VQE_ScanComplete>
+
+  <!-- EN: Cryptogenerator running low -->
+	<VQE_Alert_CriticalCryptoGenerators>Криптогенератор на исходе</VQE_Alert_CriticalCryptoGenerators>
+  <!-- EN: A cryptogenerator only has enough fuel left for less than a day. When fuel runs out, it will meltdown, destroying everything in radius. -->
+	<VQE_Alert_CriticalCryptoGenerators_Desc>У криптогенератора осталось топлива меньше чем на день. Когда топливо закончится, произойдёт перегрев, который уничтожит всё в радиусе.</VQE_Alert_CriticalCryptoGenerators_Desc>
+  <!-- EN: This is the only opportunity to craft more legendary crypto gear, provided you have the resources to do so. You can secure the site and send more resources in, but once you leave it, you will never be able to find it again. -->
+	<VQE_QuestCompletedMessage>Это единственная возможность изготовить больше легендарного криптоснаряжения при условии, что у вас есть необходимые ресурсы. Вы можете закрепиться здесь и доставить больше материалов, но как только вы покинете это место, вы больше никогда не сможете его найти.</VQE_QuestCompletedMessage>
+  <!-- EN: {PAWN_nameDef} joins -->
+	<VQE_HeroJoins>{PAWN_nameDef} присоединяется</VQE_HeroJoins>
+  <!-- EN: The {PAWN_title} known as {PAWN_nameDef} has emerged from a cryptosleep casket in a daze. Once they regain their bearings, they will join your colony.\n\n{PAWN_nameFull} is the legendary blacksmith of a renowned spacefaring civilization, famed for their mastery of cryptoparticle technology. A gifted crafter and battle-hardened warrior, {PAWN_labelShort} wears a set of cryptotech armor from their lost people. But beneath their skill and strength lies a heavy burden of guilt, a unique psychological condition born from the crushing sorrow of being the last living member of their civilization. This grief gnaws at {PAWN_possessive} mind over time, slowly deepening into despair. However, engaging in work that aligns with their passions: especially crafting, can slow the progression. If managed carefully, the guilt will eventually transform into acceptance, and with time, begin to fade. -->
+	<VQE_HeroJoinsDesc>{PAWN_title} по имени {PAWN_nameDef} {PAWN_gender ? вышел : вышла} из криптосонной капсулы в замешательстве. Как только {PAWN_pronoun} придёт в себя, то присоединится к вашему поселению.\n\n{PAWN_nameFull} — легендарный кузнец прославленной космической цивилизации, известный своим мастерством в области крипточастиц. Одарённый ремесленник и закалённый в боях воин, {PAWN_labelShort} носит комплект криптоброни своего исчезнувшего в веках народа. Но под мастерством и силой скрывается тяжкое бремя вины — уникальное психологическое состояние, рождённое сокрушительной скорбью от осознания того, что {PAWN_pronoun} — последний живой представитель своей цивилизации. Эта печаль со временем точит разум, медленно перерастая в отчаяние. Однако занятие любимым делом, особенно ремеслом, может замедлить этот процесс. При правильном подходе вина в конечном итоге сменится принятием и со временем начнёт угасать.</VQE_HeroJoinsDesc>
+</LanguageData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient shielded turret -->
+	<VQE_AncientShieldedTurret.label>древняя защищённая турель</VQE_AncientShieldedTurret.label>
+  <!-- EN: A portable automatic turret with a ballistic shield in front of it. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. The ballistic shield is capable of deflecting some shots. -->
+	<VQE_AncientShieldedTurret.description>Небольшая переносимая автоматическая турель, оснащённая баллистическим щитом. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим. Баллистический щит способен отражать некоторые выстрелы.</VQE_AncientShieldedTurret.description>
+  <!-- EN: Barrel durability -->
+	<VQE_AncientShieldedTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</VQE_AncientShieldedTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+	<VQE_AncientShieldedTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</VQE_AncientShieldedTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+	<VQE_AncientShieldedTurret.comps.CompRefuelable.outOfFuelMessage>требуется замена ствола</VQE_AncientShieldedTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: ancient shielded turret -->
+	<VQE_AncientShieldedTurret_Gun.verbs.Verb_Shoot.label>древняя защищённая турель</VQE_AncientShieldedTurret_Gun.verbs.Verb_Shoot.label>
+  <!-- EN: mini-turret bullet -->
+	<VQE_AncientShieldedTurret_Bullet.label>пуля мини-турели</VQE_AncientShieldedTurret_Bullet.label>
+
+  <!-- EN: ancient shielded turret -->
+	<VQE_AncientShieldedTurret_Gun.label>древняя защищённая турель</VQE_AncientShieldedTurret_Gun.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+	<VQE_AncientShieldedTurret_Gun.description>Простое автоматическое оружие, предназначенное для установки на турель.</VQE_AncientShieldedTurret_Gun.description>
+
+  <!-- EN: ancient spacer autocannon -->
+	<VQE_AncientSpacerAutocannon.label>древняя космическая автопушка</VQE_AncientSpacerAutocannon.label>
+  <!-- EN: An ancient autocannon designed for ship-to-ship combat. It still appears to be functional. Its large-caliber shells do heavy damage over significant ranges. -->
+	<VQE_AncientSpacerAutocannon.description>Древняя автопушка, предназначенная для боёв между космическими кораблями. Кажется, она всё ещё функционирует. Её крупнокалиберные снаряды наносят значительный урон на большом расстоянии.</VQE_AncientSpacerAutocannon.description>
+
+  <!-- EN: ancient spacer autocannon shell -->
+	<VQE_AncientSpacerAutocannon_Bullet.label>снаряд древней космической автопушки</VQE_AncientSpacerAutocannon_Bullet.label>
+
+  <!-- EN: ancient spacer autocannon -->
+	<VQE_AncientSpacerAutocannon_Gun.label>древняя космическая автопушка</VQE_AncientSpacerAutocannon_Gun.label>
+  <!-- EN: todo. -->
+	<VQE_AncientSpacerAutocannon_Gun.description>В разработке.</VQE_AncientSpacerAutocannon_Gun.description>
+
+  <!-- EN: ancient landmine -->
+	<VQE_AncientLandmine.label>древняя мина</VQE_AncientLandmine.label>
+  <!-- EN: An ancient landmine. It can still detonate even after thousands of years. -->
+	<VQE_AncientLandmine.description>Древняя наземная мина. Всё ещё может сдетонировать даже спустя тысячи лет.</VQE_AncientLandmine.description>
+
+  <!-- EN: frozen lancer -->
+	<VQE_FrozenLancer.label>замёрзший улан</VQE_FrozenLancer.label>
+  <!-- EN: A frozen shell containing a lancer.\n\nLong-dormant mechanoids can become encased in ice, preserving them for years. Though inert, they remain alert, scanning for movement. Any disturbance, such as footsteps, explosions, or shifting ice, can trigger a sudden reboot, shattering their frozen shell. Nearby frozen mechanoids may awaken in unison. -->
+	<VQE_FrozenLancer.description>Замёрзшая оболочка, содержащая улана.\n\nДолго бездействующие механоиды могут покрыться льдом, сохраняясь годами. Хотя они неподвижны, но остаются начеку, сканируя окружение. Любое беспокойство, например шаги, взрывы или сдвиг льда, может вызвать внезапную перезагрузку, разрушив их ледяную оболочку. Близлежащие замёрзшие механоиды могут проснуться одновременно.</VQE_FrozenLancer.description>
+
+  <!-- EN: frozen centipede -->
+	<VQE_FrozenCentipede.label>замёрзшая сентипеда</VQE_FrozenCentipede.label>
+  <!-- EN: A frozen shell containing a centipede.\n\nLong-dormant mechanoids can become encased in ice, preserving them for years. Though inert, they remain alert, scanning for movement. Any disturbance, such as footsteps, explosions, or shifting ice, can trigger a sudden reboot, shattering their frozen shell. Nearby frozen mechanoids may awaken in unison. -->
+	<VQE_FrozenCentipede.description>Замёрзшая оболочка, содержащая сентипеду.\n\nДолго бездействующие механоиды могут покрыться льдом, сохраняясь годами. Хотя они неподвижны, но остаются начеку, сканируя окружение. Любое беспокойство, например шаги, взрывы или сдвиг льда, может вызвать внезапную перезагрузку, разрушив их ледяную оболочку. Близлежащие замёрзшие механоиды могут проснуться одновременно.</VQE_FrozenCentipede.description>
+
+  <!-- EN: frozen scyther -->
+	<VQE_FrozenScyther.label>замёрзший жнец</VQE_FrozenScyther.label>
+  <!-- EN: A frozen shell containing a scyther.\n\nLong-dormant mechanoids can become encased in ice, preserving them for years. Though inert, they remain alert, scanning for movement. Any disturbance, such as footsteps, explosions, or shifting ice, can trigger a sudden reboot, shattering their frozen shell. Nearby frozen mechanoids may awaken in unison. -->
+	<VQE_FrozenScyther.description>Замёрзшая оболочка, содержащая жнеца.\n\nДолго бездействующие механоиды могут покрыться льдом, сохраняясь годами. Хотя они неподвижны, но остаются начеку, сканируя окружение. Любое беспокойство, например шаги, взрывы или сдвиг льда, может вызвать внезапную перезагрузку, разрушив их ледяную оболочку. Близлежащие замёрзшие механоиды могут проснуться одновременно.</VQE_FrozenScyther.description>
+</LanguageData>
