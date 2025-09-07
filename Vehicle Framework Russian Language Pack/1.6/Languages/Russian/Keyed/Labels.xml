@@ -15,6 +15,10 @@
   <VF_DisembarkAllPawns>Высадить всех персонажей</VF_DisembarkAllPawns>
   <!-- EN: Unload {0} -->
   <VF_DisembarkSinglePawn>Высадить {0}</VF_DisembarkSinglePawn>
+  <!-- EN: Forward -->
+  <VF_GearForward>Передний ход</VF_GearForward>
+  <!-- EN: Reverse -->
+  <VF_GearReverse>Задний ход</VF_GearReverse>
   <!-- EN: Unable to exit vehicle. No valid cells to exit onto. -->
   <VF_DisembarkNoExit>Выход из транспортного средства невозможен. Нет подходящих клеток для высадки.</VF_DisembarkNoExit>
   <!-- EN: {0} is being upgraded. -->
@@ -38,6 +42,8 @@
   <VF_VehicleFullyFueled>{0} уже полностью заправлен.</VF_VehicleFullyFueled>
   <!-- EN: No fuel in {0}. -->
   <VF_NoFuelInVehicle>Отсутствует топливо в {0}.</VF_NoFuelInVehicle>
+  <!-- EN: Cannot refuel {0} while inflight. -->
+  <VF_CantRefuelWhileFlying>Невозможно заправить {0} в полёте.</VF_CantRefuelWhileFlying>
   <!-- EN: Fuel: {0} -->
   <VF_VehicleFuelCost>Топливо: {0}</VF_VehicleFuelCost>
 
@@ -51,6 +57,8 @@
   <VF_TransferToVehicle_Cancel_Desc>Отменить переноску выбранных предметов в любое ТС.</VF_TransferToVehicle_Cancel_Desc>
   
   <!-- UI / Buttons -->
+  <!-- Random Vehicle -->
+  <VF_RandomVehicle>Случайное ТС</VF_RandomVehicle>
   <!-- EN: Show All Items On Map -->
   <VF_ShowAllItemsOnMap>Все предметы на карте</VF_ShowAllItemsOnMap>
   <!-- EN: Reset All Palettes -->
@@ -77,8 +85,8 @@
   <VF_VehicleAgeReadout>Произведено: {0}</VF_VehicleAgeReadout>
 
   <!-- Stats -->
-  <!-- EN: Cargo: {0} = {1} -->
-  <VF_StatsReport_CargoWeight>Груз: {0} = {1}</VF_StatsReport_CargoWeight>
+  <!-- EN: Cargo: {0} -->
+  <VF_StatsReport_CargoWeight>Груз: {0}</VF_StatsReport_CargoWeight>
   <!-- EN: Deployed -->
   <VF_StatsReport_Deployed>Развёрнут</VF_StatsReport_Deployed>
   <!-- EN: Crew -->
@@ -121,8 +129,12 @@
   <VF_SwapColors>Циклически переключать цвета.\n\nЦвет 1 -&gt; Цвет 2 -&gt; Цвет 3</VF_SwapColors>
   <!-- EN: Fish -->
   <VF_StartFishing>Рыбачить</VF_StartFishing>
-  <!-- EN: Gather fish. Depth of water affects fishing chances. -->
-  <VF_StartFishingDesc>Ловить рыбу. Глубина воды влияет на шанс получения улова.</VF_StartFishingDesc>
+  <!-- EN: Gather fish from the water. -->
+  <VF_StartFishingDesc>Ловить рыбу.</VF_StartFishingDesc>
+  <!-- EN: No colonists onboard that are capable of fishing. -->
+  <VF_NoFishermenTooltip>На борту нет персонажей, способных заниматься рыбной ловлей.</VF_NoFishermenTooltip>
+  <!-- EN: No fish at this location. -->
+  <VF_NoFishAtSpot>В этом месте нет рыбы.</VF_NoFishAtSpot>
   <!-- EN: Explosive -->
   <VF_ExplosiveComponent>Взрывоопасно</VF_ExplosiveComponent>
   <!-- EN: Edit Pawn Overlay -->
@@ -236,6 +248,8 @@
   <VF_NoFuelReturnTrip>Недостаточно топлива для возвращения.</VF_NoFuelReturnTrip>
   <!-- EN: Out Of Range -->
   <VF_NotEnoughFuel>Вне досягаемости</VF_NotEnoughFuel>
+  <!-- EN: {0} is incapable of space flight. -->
+  <VF_NoSpaceFlight>{0} не может совершать космические полёты.</VF_NoSpaceFlight>
   <!-- EN: Cancel landing in this map? Aerial vehicle will be kicked out to the world map. -->
   <VF_ConfirmationCancelLanding>Отменить посадку на этой карте? Воздушное ТС будет перемещено на карту мира.</VF_ConfirmationCancelLanding>
   <!-- EN: Not Enough Seats -->

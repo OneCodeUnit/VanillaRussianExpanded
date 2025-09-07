@@ -70,7 +70,7 @@
   <!-- EN: EMP weapons will temporarily disable this vehicle. -->
   <VF_EMPStunsTooltip>ЭМИ-оружие способно временно вывести из строя это ТС.</VF_EMPStunsTooltip>
   <!-- EN: Can Adapt -->
-  <VF_CanAdaptToEMP>Адаптация к ЭМИ-оружию</VF_CanAdaptToEMP>
+  <VF_CanAdaptToEMP>ЭМИ адаптация</VF_CanAdaptToEMP>
   <!-- EN: Can adapt to emp damage and become temporarily immune from stuns. -->
   <VF_CanAdaptToEMPTooltip>Это ТС может адаптироваться к воздействию ЭМИ-оружия и становиться временно невосприимчивым к оглушению.</VF_CanAdaptToEMPTooltip>
   <!-- EN: Vehicle has no stunnable components. -->
@@ -132,13 +132,13 @@
   <!-- EN: Colonists will attempt to refuel the vehicle when fuel gets below this percent. -->
   <VF_AutoRefuelPercentTooltip>Поселенцы будут заправлять это ТС, когда уровень топлива опустится ниже этого процента.</VF_AutoRefuelPercentTooltip>
   <!-- EN: Fuel Level Configurable -->
-  <VF_TargetFuelConfigurable>Fuel Level Configurable</VF_TargetFuelConfigurable>
+  <VF_TargetFuelConfigurable>Уровень топлива</VF_TargetFuelConfigurable>
   <!-- EN: Max fuel level can be configured. -->
-  <VF_TargetFuelConfigurableTooltip>Max fuel level can be configured.</VF_TargetFuelConfigurableTooltip>
+  <VF_TargetFuelConfigurableTooltip>Возможность настройки максимального уровня топлива.</VF_TargetFuelConfigurableTooltip>
   <!-- EN: Ambient Heat -->
-  <VF_AmbientHeat>Ambient Heat</VF_AmbientHeat>
+  <VF_AmbientHeat>Выработка тепла</VF_AmbientHeat>
   <!-- EN: Heat emitted when fuel is being consumed. -->
-  <VF_AmbientHeatTooltip>Heat emitted when fuel is being consumed.</VF_AmbientHeatTooltip>
+  <VF_AmbientHeatTooltip>Количество тепла, выделяемого при сжигании топлива.</VF_AmbientHeatTooltip>
   <!-- EN: Recon Distance -->
   <VF_ReconDistance>Дальность разведки</VF_ReconDistance>
   <!-- EN: Distance in tiles the shuttle will be able to perform recon of a site or settlement. -->

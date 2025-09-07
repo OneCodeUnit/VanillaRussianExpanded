@@ -25,14 +25,16 @@
   <VF_RiverGenMultiplier>Множитель размера рек</VF_RiverGenMultiplier>
   <!-- EN: Increase the width of rivers on maps. -->
   <VF_RiverGenMultiplierTooltip>Увеличить ширину рек на картах.</VF_RiverGenMultiplierTooltip>
-  <!-- EN: Push Settlement to Coast -->
-  <VF_ForceSettlementCoast>Сдвинуть поселение</VF_ForceSettlementCoast>
-  <!-- EN: Push nearby faction settlements to the coast if within given radius -->
-  <VF_ForceSettlementCoastTooltip>Переместить близлежащие поселения фракций к побережью, если они находятся на указанном расстоянии от воды.</VF_ForceSettlementCoastTooltip>
-  <!-- EN: Every Settlement -->
-  <VF_EverySettlementToCoast>Каждое поселение</VF_EverySettlementToCoast>
+  <!-- EN: Settlement Relocation -->
+  <VF_AdjustSettlementRadius>Переместить поселения</VF_AdjustSettlementRadius>
+  <!-- EN: Adjust settlements to nearby features for vehicle travel. -->
+  <VF_AdjustSettlementRadiusTooltip>Сдвинуть поселения к ближайшим рекам/побережью для удобства путешествия к ним.</VF_AdjustSettlementRadiusTooltip>
+  <!-- EN: Coastal weight -->
+  <VF_AdjustCoastWeight>Сдвиг к побережью</VF_AdjustCoastWeight>
+  <!-- EN: River weight -->
+  <VF_AdjustRiverWeight>Сдвиг к рекам</VF_AdjustRiverWeight>
   <!-- EN: tiles -->
-  <VF_WorldTiles>клетки мира</VF_WorldTiles>
+  <VF_WorldTiles>клеток мира</VF_WorldTiles>
 
   <!-- General Settings -->
   <!-- EN: General -->
@@ -114,18 +116,10 @@ Determines whether Vehicles should use values from the mod settings or Defs -->
   <VF_FishingMultiplier>Множитель размера улова</VF_FishingMultiplier>
   <!-- EN: Adjust the amount of fish gathered from fishing boat. -->
   <VF_FishingMultiplierTooltip>Количество рыбы, получаемой в процессе рыбной ловли.</VF_FishingMultiplierTooltip>
-  <!-- EN: Fishing Delay -->
-  <VF_FishingDelay>Длит. рыбалки</VF_FishingDelay>
-  <!-- EN: Base amount of ticks it takes to gather fish on a fishing boat. -->
-  <VF_FishingDelayTooltip>Количество времени (ticks), необходимое для ловли рыбы на рыболовном судне.</VF_FishingDelayTooltip>
   <!-- EN: Fishing Skill -->
   <VF_FishingSkill>Рыболовный навык</VF_FishingSkill>
   <!-- EN: How much exp is given by fishing on a boat -->
   <VF_FishingSkillTooltip>Количество опыта, которое даёт ловля рыбы на рыболовном судне.</VF_FishingSkillTooltip>
-  <!-- EN: Fishing Persists -->
-  <VF_FishingPersists>Сохранять настройки рыбалки</VF_FishingPersists>
-  <!-- EN: The Fishing Boat fishing selection will not reset upon drafting. -->
-  <VF_FishingPersistsTooltip>Настройки рыбалки не сбрасываются при запуске двигателя.</VF_FishingPersistsTooltip>
 
   <!-- Aerial Vehicles -->
   <!-- EN: Air -->
