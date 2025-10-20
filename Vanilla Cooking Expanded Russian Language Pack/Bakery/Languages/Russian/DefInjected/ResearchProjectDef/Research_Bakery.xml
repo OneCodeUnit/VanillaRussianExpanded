@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: decorative baking -->
+	<VCE_DecorativeBaking.label>декоративная выпечка</VCE_DecorativeBaking.label>
+  <!-- EN: Unlocks techniques for creative baking, enabling colonists to craft decorated cakes, cupcakes, and cookies with colorful designs and sweet flair. -->
+	<VCE_DecorativeBaking.description>Открывает методы творческой выпечки, позволяя поселенцам создавать украшенные торты, кексы и печенье с красочными узорами и другие произведения сладкого мастерства.</VCE_DecorativeBaking.description>
+  <!-- EN: 
+    subject->decorative baking
+		subject_story->perfected the art of transforming simple sweets into colorful creations
+		subject_story->trained in the delicate craft of fondant, frosting, and sugarwork
+		subject_story->founded a renowned bakery, delighting children and patrons with whimsical confections
+		subject_gerund->designing intricate cakes and decorated pastries
+   -->
+	<VCE_DecorativeBaking.generalRules.rulesStrings>
+    <li>subject->декоративная выпечка</li>
+    <li>subject_gen->декоративной выпечки</li>
+    <li>subject_dat->декоративной выпечке</li>
+    <li>subject_pre_about->о декоративной выпечке</li>
+		<li>subject_story->{ANYPAWN_gender ? усовершенствовал : усовершенствовала} искусство превращения простых сладостей в красочные творения</li>
+		<li>subject_story->{ANYPAWN_gender ? обучился : обучилась} тонкому ремеслу работы с мастикой, глазурью и сахарными украшениями</li>
+		<li>subject_story->{ANYPAWN_gender ? основал : основала} знаменитую пекарню, радуя детей и посетителей причудливой выпечкой</li>
+		<li>subject_gerund->создания изысканных тортов и украшенной выпечки</li>
+  </VCE_DecorativeBaking.generalRules.rulesStrings>
+</LanguageData>

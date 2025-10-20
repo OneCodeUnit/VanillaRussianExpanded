@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: The confections have spoiled due to a lack of fuel or power in the bakery oven -->
+	<VCE_OvenFailurePower>Выпечка испортилась из-за нехватки топлива или энергии в пекарной печи</VCE_OvenFailurePower>
+  <!-- EN: The confections are spoiling fast due to a lack of fuel or power in the bakery oven -->
+	<VCE_OvenFailurePowerWarning>Выпечка быстро портится из-за нехватки топлива или энергии в пекарной печи</VCE_OvenFailurePowerWarning>
+  <!-- EN: This bakery oven is not working at the moment -->
+	<VCE_BakeryOvenNotWorking>Эта пекарная печь сейчас не работает</VCE_BakeryOvenNotWorking>
+  <!-- EN: Reset -->
+	<VCE_Reset>Сбросить</VCE_Reset>
+  <!-- EN: Max negative memory removed by simple confections -->
+	<VCE_SimpleMealMood>Макс. удаляемое негативное воспоминание простой выпечкой</VCE_SimpleMealMood>
+  <!-- EN: Ingesting a simple confection will remove a negative memory up to this severity. -3 by default. 0 will disable the mechanic for that meal. -->
+	<VCE_SimpleMealMoodDesc>Употребление простой выпечки удалит негативное воспоминание до указанного значения. По умолчанию -3. Значение 0 отключит механику для этого блюда.</VCE_SimpleMealMoodDesc>
+  <!-- EN: Max negative memory removed by fine confections -->
+	<VCE_FineMealMood>Макс. удаляемое негативное воспоминание вкусной выпечкой</VCE_FineMealMood>
+  <!-- EN: Ingesting a fine confection will remove a negative memory up to this severity. -5 by default. 0 will disable the mechanic for that meal. -->
+	<VCE_FineMealMoodDesc>Употребление вкусной выпечки удалит негативное воспоминание до указанного значения. По умолчанию -5. Значение 0 отключит механику для этого блюда.</VCE_FineMealMoodDesc>
+  <!-- EN: Max negative memory removed by lavish confections -->
+	<VCE_LavishMealMood>Макс. удаляемое негативное воспоминание шикарной выпечкой</VCE_LavishMealMood>
+  <!-- EN: Ingesting a lavish confection will remove a negative memory up to this severity. -10 by default. 0 will disable the mechanic for that meal. -->
+	<VCE_LavishMealMoodDesc>Употребление шикарной выпечки удалит негативное воспоминание до указанного значения. По умолчанию -10. Значение 0 отключит механику для этого блюда.</VCE_LavishMealMoodDesc>
+  <!-- EN: Max negative memory removed by gourmet confections -->
+	<VCE_GourmetMealMood>Макс. удаляемое негативное воспоминание изысканной выпечкой</VCE_GourmetMealMood>
+  <!-- EN: Ingesting a gourmet confection will remove a negative memory up to this severity. -15 by default. 0 will disable the mechanic for that meal. -->
+	<VCE_GourmetMealMoodDesc>Употребление изысканной выпечки удалит негативное воспоминание до указанного значения. По умолчанию -15. Значение 0 отключит механику для этого блюда.</VCE_GourmetMealMoodDesc>
+  <!-- EN: Period before the "consumed confection" effect wanes -->
+	<VCE_TicksForEffect>Время до окончания эффекта «съедена выпечка»</VCE_TicksForEffect>
+  <!-- EN: By default, consuming a confection gives a 3 day period where consuming other confections doesn't make them nullify any negative memories. -->
+	<VCE_TicksForEffectDesc>По умолчанию употребление выпечки даёт 3-дневный период, в течение которого употребление другой выпечки не будет удалять негативные воспоминания.</VCE_TicksForEffectDesc>
+</LanguageData>
