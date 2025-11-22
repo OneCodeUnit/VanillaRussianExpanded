@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: crew bunk bed -->
+  <VGE_CrewBunkBed.label>crew bunk bed</VGE_CrewBunkBed.label>
+  <!-- EN: A compact double-tiered bed designed for gravship use. Maximizes limited space by allowing two crew members to rest in the footprint of one bed. -->
+  <VGE_CrewBunkBed.description>A compact double-tiered bed designed for gravship use. Maximizes limited space by allowing two crew members to rest in the footprint of one bed.</VGE_CrewBunkBed.description>
+  <!-- EN: medbay bed -->
+  <VGE_MedbayBed.label>medbay bed</VGE_MedbayBed.label>
+  <!-- EN: A specialized gravship bed equipped with an integrated vitals monitor. Designed for medbays, it improves medical outcomes over normal beds. It draws power directly from the grav engine. -->
+  <VGE_MedbayBed.description>A specialized gravship bed equipped with an integrated vitals monitor. Designed for medbays, it improves medical outcomes over normal beds. It draws power directly from the grav engine.</VGE_MedbayBed.description>
+  <!-- EN: crew lockers -->
+  <VGE_CrewLockers.label>crew lockers</VGE_CrewLockers.label>
+  <!-- EN: A set of compact lockers designed for gravship crew quarters. Provides a small comfort bonus to all nearby bunk beds. Placing more than one locker near the same bed has no effect. -->
+  <VGE_CrewLockers.description>A set of compact lockers designed for gravship crew quarters. Provides a small comfort bonus to all nearby bunk beds. Placing more than one locker near the same bed has no effect.</VGE_CrewLockers.description>
+  <!-- EN: gravship shelf -->
+  <VGE_GravshipShelf.label>gravship shelf</VGE_GravshipShelf.label>
+  <!-- EN: A reinforced storage shelf designed for use aboard gravships. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <VGE_GravshipShelf.description>A reinforced storage shelf designed for use aboard gravships. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.</VGE_GravshipShelf.description>
+  <!-- EN: wall firefoam popper -->
+  <VGE_WallFirefoamPopper.label>wall firefoam popper</VGE_WallFirefoamPopper.label>
+  <!-- EN: A wall-mounted variant of the firefoam popper. When it detects fire, it bursts and sprays fire-retardant foam in a circular area around itself. Can also be triggered manually. -->
+  <VGE_WallFirefoamPopper.description>A wall-mounted variant of the firefoam popper. When it detects fire, it bursts and sprays fire-retardant foam in a circular area around itself. Can also be triggered manually.</VGE_WallFirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <VGE_WallFirefoamPopper.comps.1.useLabel>Привести в действие {lookup: {0_label}; Case; 3}</VGE_WallFirefoamPopper.comps.1.useLabel>
+  <!-- EN: comms terminal -->
+  <VGE_CommsTerminal.label>comms terminal</VGE_CommsTerminal.label>
+  <!-- EN: A compact version of a comms console that allows radio contact with other factions and orbital traders. It draws power directly from the grav engine. -->
+  <VGE_CommsTerminal.description>A compact version of a comms console that allows radio contact with other factions and orbital traders. It draws power directly from the grav engine.</VGE_CommsTerminal.description>
+  <!-- EN: Summon diabolus threat -->
+  <VGE_CommsTerminal.comps.3.useLabel>Вызвать механоида-дьявола</VGE_CommsTerminal.comps.3.useLabel>
+  <!-- EN: wall orbital trade beacon -->
+  <VGE_WallOrbitalTradeBeacon.label>wall orbital trade beacon</VGE_WallOrbitalTradeBeacon.label>
+  <!-- EN: A wall-mounted version of an orbital trade beacon, required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <VGE_WallOrbitalTradeBeacon.description>A wall-mounted version of an orbital trade beacon, required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</VGE_WallOrbitalTradeBeacon.description>
+  <!-- EN: faux plant -->
+  <VGE_FauxPlant.label>faux plant</VGE_FauxPlant.label>
+  <!-- EN: An artificial plant in a sturdy metal pot. It requires no light, water, or air, making it perfect for adding beauty to even the most inhospitable gravship environments. -->
+  <VGE_FauxPlant.description>An artificial plant in a sturdy metal pot. It requires no light, water, or air, making it perfect for adding beauty to even the most inhospitable gravship environments.</VGE_FauxPlant.description>
+  <!-- EN: sealant popper -->
+  <VGE_SealantPopper.label>sealant popper</VGE_SealantPopper.label>
+  <!-- EN: When it detects vacuum levels above 25%, this safety device pops and releases a fast-expanding sealant goo. The substance quickly solidifies, sealing gaps and breaches to restore pressure in the room. Can also be triggered manually. -->
+  <VGE_SealantPopper.description>When it detects vacuum levels above 25%, this safety device pops and releases a fast-expanding sealant goo. The substance quickly solidifies, sealing gaps and breaches to restore pressure in the room. Can also be triggered manually.</VGE_SealantPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <VGE_SealantPopper.comps.1.useLabel>Привести в действие {lookup: {0_label}; Case; 3}</VGE_SealantPopper.comps.1.useLabel>
+  <!-- EN: sealant goop -->
+  <VGE_SealantGoop.label>sealant goop</VGE_SealantGoop.label>
+  <!-- EN: A hardened mass of rapidly-expanding polymer foam. Produced by a sealant popper, it forms an airtight plug that seals breaches in gravship rooms exposed to vacuum. While effective at restoring pressure, it is brittle and easy to destroy. -->
+  <VGE_SealantGoop.description>A hardened mass of rapidly-expanding polymer foam. Produced by a sealant popper, it forms an airtight plug that seals breaches in gravship rooms exposed to vacuum. While effective at restoring pressure, it is brittle and easy to destroy.</VGE_SealantGoop.description>
+</LanguageData>

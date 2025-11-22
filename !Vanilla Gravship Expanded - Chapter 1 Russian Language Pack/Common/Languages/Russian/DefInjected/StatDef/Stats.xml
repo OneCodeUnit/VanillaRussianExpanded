@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: global accuracy -->
+  <VGE_AccuracyGlobal.label>global accuracy</VGE_AccuracyGlobal.label>
+  <!-- EN: Accuracy when firing at targets on the world map. Multiplied by the operator's gravship targeting skill. -->
+  <VGE_AccuracyGlobal.description>Accuracy when firing at targets on the world map. Multiplied by the operator's gravship targeting skill.</VGE_AccuracyGlobal.description>
+  <!-- EN: substructure support multiplier -->
+  <VGE_SubstructureSupportMultiplier.label>substructure support multiplier</VGE_SubstructureSupportMultiplier.label>
+  <!-- EN: A multiplier to the maximum substructure supported by the gravship. -->
+  <VGE_SubstructureSupportMultiplier.description>A multiplier to the maximum substructure supported by the gravship.</VGE_SubstructureSupportMultiplier.description>
+  <!-- EN: maintenance sensitivity -->
+  <VGE_MaintenanceSensitivity.label>maintenance sensitivity</VGE_MaintenanceSensitivity.label>
+  <!-- EN: A factor of the difficulty to maintain this structure, as well as the speed at which its maintenance will deplete. -->
+  <VGE_MaintenanceSensitivity.description>A factor of the difficulty to maintain this structure, as well as the speed at which its maintenance will deplete.</VGE_MaintenanceSensitivity.description>
+  <!-- EN: grav power adjacency -->
+  <VGE_GravPowerAdjacency.label>grav power adjacency</VGE_GravPowerAdjacency.label>
+  <!-- EN: A factor on the power produced, influenced by the amount of other gravcore power cells or coils around. -->
+  <VGE_GravPowerAdjacency.description>A factor on the power produced, influenced by the amount of other gravcore power cells or coils around.</VGE_GravPowerAdjacency.description>
+  <!-- EN: global maintenance sensitivity -->
+  <VGE_GlobalMaintenanceSensitivity.label>global maintenance sensitivity</VGE_GlobalMaintenanceSensitivity.label>
+  <!-- EN: An offset to the maintenance sensitivity of the grav engine and all its linked facilities. -->
+  <VGE_GlobalMaintenanceSensitivity.description>An offset to the maintenance sensitivity of the grav engine and all its linked facilities.</VGE_GlobalMaintenanceSensitivity.description>
+</LanguageData>

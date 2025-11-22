@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Extract {THINGEXTRACTCOUNT} oxygen canisters -->
+  <VGE_ExtractOxygen>Extract {THINGEXTRACTCOUNT} oxygen canisters</VGE_ExtractOxygen>
+  <!-- EN: Extract {THINGEXTRACTCOUNT} oxygen canisters from the tank. A pawn will come to extract it. -->
+  <VGE_ExtractOxygenDesc>Extract {THINGEXTRACTCOUNT} oxygen canisters from the tank. A pawn will come to extract it.</VGE_ExtractOxygenDesc>
+  <!-- EN: you need at least {RESOURCEMIN}u³ of oxygen in the tank -->
+  <VGE_ExtractOxygenDisabled>you need at least {RESOURCEMIN}u³ of oxygen in the tank</VGE_ExtractOxygenDisabled>
+  <!-- EN: Switches oxygen flow on/off. -->
+  <VSGE_OxygenValve>Switches oxygen flow on/off.</VSGE_OxygenValve>
+  <!-- EN: Switches oxygen flow on/off. A pawn will come open/close the valve. -->
+  <VSGE_OxygenValveDesc>Switches oxygen flow on/off. A pawn will come open/close the valve.</VSGE_OxygenValveDesc>
+  <!-- EN: Can’t harvest oxygen: No atmosphere. -->
+  <VGE_DisabledNoAtmosphere>Can’t harvest oxygen: No atmosphere.</VGE_DisabledNoAtmosphere>
+  <!-- EN: Requires a connection to the astrofuel network and astrofuel in the tank to work. -->
+  <VGE_DisabledNoFuel>Requires a connection to the astrofuel network and astrofuel in the tank to work.</VGE_DisabledNoFuel>
+  <!-- EN: Extract astrofuel -->
+  <VGE_ExtractAstrofuel>Extract astrofuel</VGE_ExtractAstrofuel>
+  <!-- EN: Extract all astrofuel from the tank. A pawn will come to extract it. -->
+  <VGE_ExtractAstrofuelDesc>Extract all astrofuel from the tank. A pawn will come to extract it.</VGE_ExtractAstrofuelDesc>
+  <!-- EN: you need at least {RESOURCEMIN}l of astrofuel in the tank -->
+  <VGE_ExtractAstrofuelDisabled>you need at least {RESOURCEMIN}l of astrofuel in the tank</VGE_ExtractAstrofuelDisabled>
+  <!-- EN: Switches astrofuel flow on/off. -->
+  <VGE_AstrofuelValve>Switches astrofuel flow on/off.</VGE_AstrofuelValve>
+  <!-- EN: Switches astrofuel flow on/off. A pawn will come open/close the valve. -->
+  <VGE_AstrofuelValveDesc>Switches astrofuel flow on/off. A pawn will come open/close the valve.</VGE_AstrofuelValveDesc>
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: oxygen pipe -->
+  <VGE_OxygenPipe.label>oxygen pipe</VGE_OxygenPipe.label>
+  <!-- EN: A reinforced tube for moving oxygen around. Can be placed under walls and other buildings. -->
+  <VGE_OxygenPipe.description>A reinforced tube for moving oxygen around. Can be placed under walls and other buildings.</VGE_OxygenPipe.description>
+  <!-- EN: oxygen pipe (blueprint) -->
+  <VGE_OxygenPipe_Blueprint.label>oxygen pipe (blueprint)</VGE_OxygenPipe_Blueprint.label>
+  <!-- EN: oxygen pipe (building) -->
+  <VGE_OxygenPipe_Frame.label>oxygen pipe (building)</VGE_OxygenPipe_Frame.label>
+  <!-- EN: A reinforced tube for moving oxygen around. Can be placed under walls and other buildings. -->
+  <VGE_OxygenPipe_Frame.description>A reinforced tube for moving oxygen around. Can be placed under walls and other buildings.</VGE_OxygenPipe_Frame.description>
+  <!-- EN: hidden oxygen pipe -->
+  <VGE_HiddenOxygenPipe.label>hidden oxygen pipe</VGE_HiddenOxygenPipe.label>
+  <!-- EN: A hidden, reinforced tube for moving oxygen around. While it’s not visible, it is much more expensive to construct. -->
+  <VGE_HiddenOxygenPipe.description>A hidden, reinforced tube for moving oxygen around. While it’s not visible, it is much more expensive to construct.</VGE_HiddenOxygenPipe.description>
+  <!-- EN: hidden oxygen pipe (blueprint) -->
+  <VGE_HiddenOxygenPipe_Blueprint.label>hidden oxygen pipe (blueprint)</VGE_HiddenOxygenPipe_Blueprint.label>
+  <!-- EN: hidden oxygen pipe (building) -->
+  <VGE_HiddenOxygenPipe_Frame.label>hidden oxygen pipe (building)</VGE_HiddenOxygenPipe_Frame.label>
+  <!-- EN: A hidden, reinforced tube for moving oxygen around. While it’s not visible, it is much more expensive to construct. -->
+  <VGE_HiddenOxygenPipe_Frame.description>A hidden, reinforced tube for moving oxygen around. While it’s not visible, it is much more expensive to construct.</VGE_HiddenOxygenPipe_Frame.description>
+  <!-- EN: oxygen valve -->
+  <VGE_OxygenValve.label>oxygen valve</VGE_OxygenValve.label>
+  <!-- EN: Switches oxygen flow on and off. -->
+  <VGE_OxygenValve.description>Switches oxygen flow on and off.</VGE_OxygenValve.description>
+  <!-- EN: oxygen valve (blueprint) -->
+  <VGE_OxygenValve_Blueprint.label>oxygen valve (blueprint)</VGE_OxygenValve_Blueprint.label>
+  <!-- EN: oxygen valve (building) -->
+  <VGE_OxygenValve_Frame.label>oxygen valve (building)</VGE_OxygenValve_Frame.label>
+  <!-- EN: Switches oxygen flow on and off. -->
+  <VGE_OxygenValve_Frame.description>Switches oxygen flow on and off.</VGE_OxygenValve_Frame.description>
+  <!-- EN: small oxygen tank -->
+  <VGE_SmallOxygenTank.label>small oxygen tank</VGE_SmallOxygenTank.label>
+  <!-- EN: An oxygen tank that supplies oxygen to pumps throughout the gravship. -->
+  <VGE_SmallOxygenTank.description>An oxygen tank that supplies oxygen to pumps throughout the gravship.</VGE_SmallOxygenTank.description>
+  <!-- EN: large oxygen tank -->
+  <VGE_LargeOxygenTank.label>large oxygen tank</VGE_LargeOxygenTank.label>
+  <!-- EN: A large oxygen tank that supplies oxygen to pumps throughout the gravship. -->
+  <VGE_LargeOxygenTank.description>A large oxygen tank that supplies oxygen to pumps throughout the gravship.</VGE_LargeOxygenTank.description>
+  <!-- EN: oxygen canister filler -->
+  <VGE_OxygenCanisterFiller.label>oxygen canister filler</VGE_OxygenCanisterFiller.label>
+  <!-- EN: A hopper-like storage device meant to hold dispensed oxygen in canisters for use later. -->
+  <VGE_OxygenCanisterFiller.description>A hopper-like storage device meant to hold dispensed oxygen in canisters for use later.</VGE_OxygenCanisterFiller.description>
+  <!-- EN: oxygen canister emptier -->
+  <VGE_OxygenCanisterEmptier.label>oxygen canister emptier</VGE_OxygenCanisterEmptier.label>
+  <!-- EN: A hopper-like storage structure meant to input oxygen from canisters into the network, filling up connected tanks. -->
+  <VGE_OxygenCanisterEmptier.description>A hopper-like storage structure meant to input oxygen from canisters into the network, filling up connected tanks.</VGE_OxygenCanisterEmptier.description>
+  <!-- EN: oxygen harvester -->
+  <VGE_OxygenHarvester.label>oxygen harvester</VGE_OxygenHarvester.label>
+  <!-- EN: A device that draws in breathable oxygen from the surrounding atmosphere and stores it in the oxygen network. It functions only on planetary surfaces with an atmosphere and will not operate in vacuum or low-oxygen environments. -->
+  <VGE_OxygenHarvester.description>A device that draws in breathable oxygen from the surrounding atmosphere and stores it in the oxygen network. It functions only on planetary surfaces with an atmosphere and will not operate in vacuum or low-oxygen environments.</VGE_OxygenHarvester.description>
+  <!-- EN: algae oxygenator -->
+  <VGE_LifeSupportSystem.label>algae oxygenator</VGE_LifeSupportSystem.label>
+  <!-- EN: A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment. -->
+  <VGE_LifeSupportSystem.description>A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment.</VGE_LifeSupportSystem.description>
+  <!-- EN: industrial oxygen pump -->
+  <VGE_IndustrialOxygenPump.label>industrial oxygen pump</VGE_IndustrialOxygenPump.label>
+  <!-- EN: A powerful unit that releases large amounts of oxygen into the surrounding room, allowing enclosed areas to repressurize in space. Essential for long stays in orbit. -->
+  <VGE_IndustrialOxygenPump.description>A powerful unit that releases large amounts of oxygen into the surrounding room, allowing enclosed areas to repressurize in space. Essential for long stays in orbit.</VGE_IndustrialOxygenPump.description>
+  <!-- EN: oxygen reclaimer -->
+  <VGE_OxygenReclaimer.label>oxygen reclaimer</VGE_OxygenReclaimer.label>
+  <!-- EN: A self-contained atmospheric unit that extracts trace oxygen from surrounding gases. It produces oxygen at a slow, steady rate, but requires no input materials. Needs to be connected to an oxygen tank via oxygen pipes to work. -->
+  <VGE_OxygenReclaimer.description>A self-contained atmospheric unit that extracts trace oxygen from surrounding gases. It produces oxygen at a slow, steady rate, but requires no input materials. Needs to be connected to an oxygen tank via oxygen pipes to work.</VGE_OxygenReclaimer.description>
+</LanguageData>
