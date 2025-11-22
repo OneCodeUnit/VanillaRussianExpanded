@@ -1,23 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: global accuracy -->
-  <VGE_AccuracyGlobal.label>global accuracy</VGE_AccuracyGlobal.label>
+  <VGE_AccuracyGlobal.label>глобальная точность</VGE_AccuracyGlobal.label>
   <!-- EN: Accuracy when firing at targets on the world map. Multiplied by the operator's gravship targeting skill. -->
-  <VGE_AccuracyGlobal.description>Accuracy when firing at targets on the world map. Multiplied by the operator's gravship targeting skill.</VGE_AccuracyGlobal.description>
+  <VGE_AccuracyGlobal.description>Точность стрельбы по объектам на карте мира. Умножается на навык прицеливания оператора.</VGE_AccuracyGlobal.description>
+
   <!-- EN: substructure support multiplier -->
-  <VGE_SubstructureSupportMultiplier.label>substructure support multiplier</VGE_SubstructureSupportMultiplier.label>
+  <VGE_SubstructureSupportMultiplier.label>множитель поддержки подструктур</VGE_SubstructureSupportMultiplier.label>
   <!-- EN: A multiplier to the maximum substructure supported by the gravship. -->
-  <VGE_SubstructureSupportMultiplier.description>A multiplier to the maximum substructure supported by the gravship.</VGE_SubstructureSupportMultiplier.description>
+  <VGE_SubstructureSupportMultiplier.description>Множитель максимального количества поддерживаемых подструктур гравикораблём.</VGE_SubstructureSupportMultiplier.description>
+
   <!-- EN: maintenance sensitivity -->
-  <VGE_MaintenanceSensitivity.label>maintenance sensitivity</VGE_MaintenanceSensitivity.label>
+  <VGE_MaintenanceSensitivity.label>чувствительность к обслуживанию</VGE_MaintenanceSensitivity.label>
   <!-- EN: A factor of the difficulty to maintain this structure, as well as the speed at which its maintenance will deplete. -->
-  <VGE_MaintenanceSensitivity.description>A factor of the difficulty to maintain this structure, as well as the speed at which its maintenance will deplete.</VGE_MaintenanceSensitivity.description>
+  <VGE_MaintenanceSensitivity.description>Фактор, влияющий на то, насколько сложно и часто необходимо обслуживать эту структуру.</VGE_MaintenanceSensitivity.description>
+
   <!-- EN: grav power adjacency -->
-  <VGE_GravPowerAdjacency.label>grav power adjacency</VGE_GravPowerAdjacency.label>
+  <VGE_GravPowerAdjacency.label>смежность энергии</VGE_GravPowerAdjacency.label>
   <!-- EN: A factor on the power produced, influenced by the amount of other gravcore power cells or coils around. -->
-  <VGE_GravPowerAdjacency.description>A factor on the power produced, influenced by the amount of other gravcore power cells or coils around.</VGE_GravPowerAdjacency.description>
+  <VGE_GravPowerAdjacency.description>Фактор, влияющий на производимую энергию в зависимости от количества энегоячеек гравиядра или катушек вокруг.</VGE_GravPowerAdjacency.description>
+
   <!-- EN: global maintenance sensitivity -->
-  <VGE_GlobalMaintenanceSensitivity.label>global maintenance sensitivity</VGE_GlobalMaintenanceSensitivity.label>
+  <VGE_GlobalMaintenanceSensitivity.label>глобальная чувствительность к обслуживанию</VGE_GlobalMaintenanceSensitivity.label>
   <!-- EN: An offset to the maintenance sensitivity of the grav engine and all its linked facilities. -->
-  <VGE_GlobalMaintenanceSensitivity.description>An offset to the maintenance sensitivity of the grav engine and all its linked facilities.</VGE_GlobalMaintenanceSensitivity.description>
+  <VGE_GlobalMaintenanceSensitivity.description>Отступ уровня чувствительности к обслуживанию для гравитационного двигателя и всех связанных с ним построек.</VGE_GlobalMaintenanceSensitivity.description>
 </LanguageData>
