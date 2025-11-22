@@ -8,60 +8,67 @@
   <VGE_SpaceSolarFlare.endMessage>Солнечная вспышка прошла.</VGE_SpaceSolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nWhile this solar flare will not disable electronic devices, it will quickly heat all exposed surfaces, potentially causing heatstroke and fires.\n\nIt should pass in about a day. -->
   <VGE_SpaceSolarFlare.letterText>A solar flare has begun.\n\nWhile this solar flare will not disable electronic devices, it will quickly heat all exposed surfaces, potentially causing heatstroke and fires.\n\nIt should pass in about a day.</VGE_SpaceSolarFlare.letterText>
+
   <!-- EN: gravitational anomaly -->
-  <VGE_GravitationalAnomaly.label>gravitational anomaly</VGE_GravitationalAnomaly.label>
+  <VGE_GravitationalAnomaly.label>гравитационная аномалия</VGE_GravitationalAnomaly.label>
   <!-- EN: A powerful gravity distortion has enveloped your gravship, preventing any kind of launch until it subsides. The anomaly will remain for the next few days before naturally fading away. Until then, all gravship launch rituals are unavailable and the ship will be unable to move from this location.\n\nWhile the anomaly persists, your systems will passively collect gravdata, but only if an active gravship research project is selected. -->
   <VGE_GravitationalAnomaly.description>A powerful gravity distortion has enveloped your gravship, preventing any kind of launch until it subsides. The anomaly will remain for the next few days before naturally fading away. Until then, all gravship launch rituals are unavailable and the ship will be unable to move from this location.\n\nWhile the anomaly persists, your systems will passively collect gravdata, but only if an active gravship research project is selected.</VGE_GravitationalAnomaly.description>
   <!-- EN: The gravitational anomaly is dissipating. -->
-  <VGE_GravitationalAnomaly.endMessage>The gravitational anomaly is dissipating.</VGE_GravitationalAnomaly.endMessage>
+  <VGE_GravitationalAnomaly.endMessage>Гравитационная аномалия рассеивается.</VGE_GravitationalAnomaly.endMessage>
   <!-- EN: A powerful gravity distortion has enveloped your gravship, preventing any kind of launch until it subsides. The anomaly will remain for the next few days before naturally fading away. Until then, all gravship launch rituals are unavailable and the ship will be unable to move from this location.\n\nWhile the anomaly persists, your systems will passively collect gravdata, but only if an active gravship research project is selected. -->
   <VGE_GravitationalAnomaly.letterText>A powerful gravity distortion has enveloped your gravship, preventing any kind of launch until it subsides. The anomaly will remain for the next few days before naturally fading away. Until then, all gravship launch rituals are unavailable and the ship will be unable to move from this location.\n\nWhile the anomaly persists, your systems will passively collect gravdata, but only if an active gravship research project is selected.</VGE_GravitationalAnomaly.letterText>
+
   <!-- EN: comet -->
-  <VGE_Comet.label>comet</VGE_Comet.label>
+  <VGE_Comet.label>комета</VGE_Comet.label>
   <!-- EN: A massive comet is passing nearby, its brilliant tail lighting up the void around your gravship. The spectacle inspires awe among the crew, raising their spirits until it will fade from view. -->
   <VGE_Comet.description>A massive comet is passing nearby, its brilliant tail lighting up the void around your gravship. The spectacle inspires awe among the crew, raising their spirits until it will fade from view.</VGE_Comet.description>
   <!-- EN: The comet has passed. -->
-  <VGE_Comet.endMessage>The comet has passed.</VGE_Comet.endMessage>
+  <VGE_Comet.endMessage>Комета прошла.</VGE_Comet.endMessage>
   <!-- EN: A massive comet is passing nearby, its brilliant tail lighting up the void around your gravship. The spectacle inspires awe among the crew, raising their spirits until it will fade from view. -->
   <VGE_Comet.letterText>A massive comet is passing nearby, its brilliant tail lighting up the void around your gravship. The spectacle inspires awe among the crew, raising their spirits until it will fade from view.</VGE_Comet.letterText>
+
   <!-- EN: micrometeor storm -->
-  <VGE_MicrometeorStorm.label>micrometeor storm</VGE_MicrometeorStorm.label>
+  <VGE_MicrometeorStorm.label>микрометеорный шторм</VGE_MicrometeorStorm.label>
   <!-- EN: A micrometeor storm is pelting the area with tiny, high-velocity debris. Exposed structures and people are slowly damaged by the constant bombardment.\n\nThe storm is expected to last about a day. -->
   <VGE_MicrometeorStorm.description>A micrometeor storm is pelting the area with tiny, high-velocity debris. Exposed structures and people are slowly damaged by the constant bombardment.\n\nThe storm is expected to last about a day.</VGE_MicrometeorStorm.description>
   <!-- EN: The micrometeor storm has ended. -->
-  <VGE_MicrometeorStorm.endMessage>The micrometeor storm has ended.</VGE_MicrometeorStorm.endMessage>
+  <VGE_MicrometeorStorm.endMessage>Микрометеорный шторм закончился.</VGE_MicrometeorStorm.endMessage>
   <!-- EN: A micrometeor storm is pelting the area with tiny, high-velocity debris. Exposed structures and people are slowly damaged by the constant bombardment.\n\nThe storm is expected to last about a day. -->
   <VGE_MicrometeorStorm.letterText>A micrometeor storm is pelting the area with tiny, high-velocity debris. Exposed structures and people are slowly damaged by the constant bombardment.\n\nThe storm is expected to last about a day.</VGE_MicrometeorStorm.letterText>
+
   <!-- EN: space debris -->
-  <VGE_SpaceDebris.label>space debris</VGE_SpaceDebris.label>
+  <VGE_SpaceDebris.label>космический мусор</VGE_SpaceDebris.label>
   <!-- EN: A drifting cloud of ancient wreckage has crossed our flight path. Pieces of metal and scrap hurtle past the ship. Some will miss, others might not.\n\nThe debris will pass us by in about 12 hours. -->
-  <VGE_SpaceDebris.description>A drifting cloud of ancient wreckage has crossed our flight path. Pieces of metal and scrap hurtle past the ship. Some will miss, others might not.\n\nThe debris will pass us by in about 12 hours.</VGE_SpaceDebris.description>
+  <VGE_SpaceDebris.description>На пути корабля обнаружено дрейфующее облако древних обломков. Куски металла и мусора проносятся мимо корабля. Некоторые пройдут мимо, не задев корабль, но не все.\n\nМы выйдем из облака примерно через 12 часов.</VGE_SpaceDebris.description>
   <!-- EN: The space debris has passed. -->
-  <VGE_SpaceDebris.endMessage>The space debris has passed.</VGE_SpaceDebris.endMessage>
+  <VGE_SpaceDebris.endMessage>Облако космического мусора прошло мимо.</VGE_SpaceDebris.endMessage>
   <!-- EN: A drifting cloud of ancient wreckage has crossed our flight path. Pieces of metal and scrap hurtle past the ship. Some will miss, others might not.\n\nThe debris will pass us by in about 12 hours. -->
   <VGE_SpaceDebris.letterText>A drifting cloud of ancient wreckage has crossed our flight path. Pieces of metal and scrap hurtle past the ship. Some will miss, others might not.\n\nThe debris will pass us by in about 12 hours.</VGE_SpaceDebris.letterText>
+
   <!-- EN: asteroid shower -->
-  <VGE_AsteroidShower.label>asteroid shower</VGE_AsteroidShower.label>
+  <VGE_AsteroidShower.label>астероидный дождь</VGE_AsteroidShower.label>
   <!-- EN: An asteroid shower has crossed into your gravship’s sector. Countless fragments of vacstone streak across the void, some slamming into the hull with explosive force. Most will burn away or miss, but not all. -->
   <VGE_AsteroidShower.description>An asteroid shower has crossed into your gravship’s sector. Countless fragments of vacstone streak across the void, some slamming into the hull with explosive force. Most will burn away or miss, but not all.</VGE_AsteroidShower.description>
   <!-- EN: The asteroid shower has passed. -->
-  <VGE_AsteroidShower.endMessage>The asteroid shower has passed.</VGE_AsteroidShower.endMessage>
+  <VGE_AsteroidShower.endMessage>Астероидный дождь прошел.</VGE_AsteroidShower.endMessage>
   <!-- EN: An asteroid shower has crossed into your gravship’s sector. Countless fragments of vacstone streak across the void, some slamming into the hull with explosive force. Most will burn away or miss, but not all. -->
   <VGE_AsteroidShower.letterText>An asteroid shower has crossed into your gravship’s sector. Countless fragments of vacstone streak across the void, some slamming into the hull with explosive force. Most will burn away or miss, but not all.</VGE_AsteroidShower.letterText>
+
   <!-- EN: dust cloud -->
-  <VGE_DustCloud.label>dust cloud</VGE_DustCloud.label>
+  <VGE_DustCloud.label>пылевое облако</VGE_DustCloud.label>
   <!-- EN: A dense cosmic dust cloud has drifted across your sector, shrouding your gravship in particulate haze. Visibility is almost zero, and targeting systems are struggling to lock onto anything. The dust will eventually clear as the cloud drifts away. -->
   <VGE_DustCloud.description>A dense cosmic dust cloud has drifted across your sector, shrouding your gravship in particulate haze. Visibility is almost zero, and targeting systems are struggling to lock onto anything. The dust will eventually clear as the cloud drifts away.</VGE_DustCloud.description>
   <!-- EN: The dust cloud started to disperse. -->
-  <VGE_DustCloud.endMessage>The dust cloud started to disperse.</VGE_DustCloud.endMessage>
+  <VGE_DustCloud.endMessage>Пылевое облако начало рассеиваться.</VGE_DustCloud.endMessage>
   <!-- EN: A dense cosmic dust cloud has drifted across your sector, shrouding your gravship in particulate haze. Visibility is almost zero, and targeting systems are struggling to lock onto anything. The dust will eventually clear as the cloud drifts away. -->
   <VGE_DustCloud.letterText>A dense cosmic dust cloud has drifted across your sector, shrouding your gravship in particulate haze. Visibility is almost zero, and targeting systems are struggling to lock onto anything. The dust will eventually clear as the cloud drifts away.</VGE_DustCloud.letterText>
+
   <!-- EN: toxic dust cloud -->
-  <VGE_ToxicDustCloud.label>toxic dust cloud</VGE_ToxicDustCloud.label>
+  <VGE_ToxicDustCloud.label>токсичное пылевое облако</VGE_ToxicDustCloud.label>
   <!-- EN: A drifting cloud of highly toxic cosmic dust has enveloped your gravship. Microscopic particulates are seeping into every exposed space, corroding surfaces and poisoning the crew. The dust cloud will persist only briefly, but its effects are immediate and dangerous. -->
   <VGE_ToxicDustCloud.description>A drifting cloud of highly toxic cosmic dust has enveloped your gravship. Microscopic particulates are seeping into every exposed space, corroding surfaces and poisoning the crew. The dust cloud will persist only briefly, but its effects are immediate and dangerous.</VGE_ToxicDustCloud.description>
   <!-- EN: The toxic dust cloud started to disperse. -->
-  <VGE_ToxicDustCloud.endMessage>The toxic dust cloud started to disperse.</VGE_ToxicDustCloud.endMessage>
+  <VGE_ToxicDustCloud.endMessage>Токсичное пылевое облако начало рассеиваться.</VGE_ToxicDustCloud.endMessage>
   <!-- EN: A drifting cloud of highly toxic cosmic dust has enveloped your gravship. Microscopic particulates are seeping into every exposed space, corroding surfaces and poisoning the crew. The dust cloud will persist only briefly, but its effects are immediate and dangerous. -->
   <VGE_ToxicDustCloud.letterText>A drifting cloud of highly toxic cosmic dust has enveloped your gravship. Microscopic particulates are seeping into every exposed space, corroding surfaces and poisoning the crew. The dust cloud will persist only briefly, but its effects are immediate and dangerous.</VGE_ToxicDustCloud.letterText>
 </LanguageData>

@@ -1,17 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: sealant popper -->
-  <VGE_SealantPopper.label>sealant popper</VGE_SealantPopper.label>
+  <VGE_SealantPopper.label>хлопушка с герметиком</VGE_SealantPopper.label>
   <!-- EN: {0} has been killed. -->
-  <VGE_SealantPopper.deathMessage>{0} умирает насильственной смертью.</VGE_SealantPopper.deathMessage>
+  <VGE_SealantPopper.deathMessage>{0} {0_gender ? убит : убита}</VGE_SealantPopper.deathMessage>
+
   <!-- EN: extinguish -->
   <VGE_ExtinguishAstrofire.label>тушение</VGE_ExtinguishAstrofire.label>
   <!-- EN: {0} has been killed. -->
-  <VGE_ExtinguishAstrofire.deathMessage>{0} умирает насильственной смертью.</VGE_ExtinguishAstrofire.deathMessage>
+  <VGE_ExtinguishAstrofire.deathMessage>{0} {0_gender ? убит : убита}</VGE_ExtinguishAstrofire.deathMessage>
+
   <!-- EN: astrofire -->
-  <VGE_AstrofireDamage.label>astrofire</VGE_AstrofireDamage.label>
+  <VGE_AstrofireDamage.label>космоогонь</VGE_AstrofireDamage.label>
   <!-- EN: {0} has burned to death. -->
   <VGE_AstrofireDamage.deathMessage>{PAWN_nameDef} {PAWN_gender ? сгорел : сгорела} заживо.</VGE_AstrofireDamage.deathMessage>
   <!-- EN: {0} has been killed. -->
-  <VGE_AnticraftBeamBypassShields.deathMessage>{0} умирает насильственной смертью.</VGE_AnticraftBeamBypassShields.deathMessage>
+  <VGE_AnticraftBeamBypassShields.deathMessage>{0} {0_gender ? сгорел : сгорела} заживо.</VGE_AnticraftBeamBypassShields.deathMessage>
 </LanguageData>

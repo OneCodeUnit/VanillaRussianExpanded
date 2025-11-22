@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: questName->Solid [resource] Asteroid -->
-  <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings.0>questName-&gt;Solid [resource] Asteroid</VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings.0>
-  <!-- EN: questDescription-> [discoveryMethod] the location of a solid-core asteroid orbiting the planet. Its shell is dense vacstone, but within lies a core of [resource] waiting to be mined.\n\nAsteroids like these usually remain in deep space, but this one has drifted into low orbit. It is only a matter of time before someone else claims it.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing. -->
-  <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings.0>questDescription-&gt; [discoveryMethod] the location of a solid-core asteroid orbiting the planet. Its shell is dense vacstone, but within lies a core of [resource] waiting to be mined.\n\nAsteroids like these usually remain in deep space, but this one has drifted into low orbit. It is only a matter of time before someone else claims it.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings.0>
-  <!-- EN: discoveryMethod -->
-  <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.0.name>discoveryMethod</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.0.name>
-  <!-- EN: discoveryMethod -->
-  <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.0.elseNode.nodes.0.name>discoveryMethod</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.0.elseNode.nodes.0.name>
+  <!-- EN: 
+    <li>questName->Solid [resource] Asteroid</li>
+  -->
+  <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
+    <li>questName->Астероид и ядром из [resource]</li>
+  </VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
+  <!-- EN: 
+		<li>questDescription-> [discoveryMethod] the location of a solid-core asteroid orbiting the planet. Its shell is dense vacstone, but within lies a core of [resource] waiting to be mined.\n\nAsteroids like these usually remain in deep space, but this one has drifted into low orbit. It is only a matter of time before someone else claims it.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</li>
+  -->
+  <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription-> [discoveryMethod] местоположение астероида с твёрдым ядром, вращающегося на орбите планеты. Его оболочка состоит из плотного вакуумного камня, но внутри находится ядро из [resource], готовое к добыче.\n\nПодобные астероиды обычно остаются далеко в космосе, но этот придрейфовал на низкую орбиту. Это лишь вопрос времени, когда кто-нибудь попробует забрать его ресурсы себе.\n\nВы можете достичь астероида с помощью транспортных капсул, шаттлов или гравикорабля. Снарядите своих поселенцев достаточным количеством орбитального снаряжения перед отправлением.</li>
+  </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
 </LanguageData>
