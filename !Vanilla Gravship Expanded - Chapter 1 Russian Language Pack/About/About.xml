@@ -2,9 +2,9 @@
   <name>Vanilla Gravship Expanded - Chapter 1 Russian Language Pack</name>
   <author>OliveWizard</author>
   <supportedVersions>
-  <li>1.6</li>
+    <li>1.6</li>
   </supportedVersions>
-  <modVersion>Test.01</modVersion>
+  <modVersion>01</modVersion>
   <packageId>OW.RU.Gravship1</packageId>
   <description>Перевод на русский язык мода Vanilla Gravship Expanded - Chapter 1. Подробности ищите на странице в мастерской. Это тестовая версия для самых нетерпеливых. Мод ещё переводится и содержит неточности и непереведённый текст.</description>
   <modDependencies>
@@ -15,9 +15,6 @@
     </li>
   </modDependencies>
   <loadAfter>
-  <li>vanillaexpanded.gravship</li>
+    <li>vanillaexpanded.gravship</li>
   </loadAfter>
-  <incompatibleWith>
-    <li>Bulldog.VanillaChemfuelExpandedOdysseyPatch</li>
-  </incompatibleWith>
 </ModMetaData>
