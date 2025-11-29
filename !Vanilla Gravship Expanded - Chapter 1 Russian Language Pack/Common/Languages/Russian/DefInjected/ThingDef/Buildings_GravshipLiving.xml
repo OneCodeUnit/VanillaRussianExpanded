@@ -1,49 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: crew bunk bed -->
-  <VGE_CrewBunkBed.label>crew bunk bed</VGE_CrewBunkBed.label>
+  <VGE_CrewBunkBed.label>двухъярусная койка</VGE_CrewBunkBed.label>
   <!-- EN: A compact double-tiered bed designed for gravship use. Maximizes limited space by allowing two crew members to rest in the footprint of one bed. -->
-  <VGE_CrewBunkBed.description>A compact double-tiered bed designed for gravship use. Maximizes limited space by allowing two crew members to rest in the footprint of one bed.</VGE_CrewBunkBed.description>
+  <VGE_CrewBunkBed.description>Компактная двухъярусная кровать, разработанная для гравикораблей. Максимально эффективно использует ограниченное пространство, позволяя двум членам экипажа отдыхать на площади одной кровати.</VGE_CrewBunkBed.description>
+
   <!-- EN: medbay bed -->
-  <VGE_MedbayBed.label>medbay bed</VGE_MedbayBed.label>
+  <VGE_MedbayBed.label>койка медотсека</VGE_MedbayBed.label>
   <!-- EN: A specialized gravship bed equipped with an integrated vitals monitor. Designed for medbays, it improves medical outcomes over normal beds. It draws power directly from the grav engine. -->
-  <VGE_MedbayBed.description>A specialized gravship bed equipped with an integrated vitals monitor. Designed for medbays, it improves medical outcomes over normal beds. It draws power directly from the grav engine.</VGE_MedbayBed.description>
+  <VGE_MedbayBed.description>Специализированная корабельная койка с интегрированным монитором жизненных показателей. Она разработана для медицинских отсеков и улучшает качество лечения по сравнению с обычными кроватями. Питается напрямую от гравидвигателя.</VGE_MedbayBed.description>
+
   <!-- EN: crew lockers -->
-  <VGE_CrewLockers.label>crew lockers</VGE_CrewLockers.label>
+  <VGE_CrewLockers.label>шкафчики экипажа</VGE_CrewLockers.label>
   <!-- EN: A set of compact lockers designed for gravship crew quarters. Provides a small comfort bonus to all nearby bunk beds. Placing more than one locker near the same bed has no effect. -->
-  <VGE_CrewLockers.description>A set of compact lockers designed for gravship crew quarters. Provides a small comfort bonus to all nearby bunk beds. Placing more than one locker near the same bed has no effect.</VGE_CrewLockers.description>
+  <VGE_CrewLockers.description>Набор компактных шкафчиков разработанный для кают гравикораблей. Даёт небольшой бонус к комфорту всем ближайшим двухъярусным койкам. Эффекты от нескольких шкафчиков не суммируются.</VGE_CrewLockers.description>
+
   <!-- EN: gravship shelf -->
-  <VGE_GravshipShelf.label>gravship shelf</VGE_GravshipShelf.label>
+  <VGE_GravshipShelf.label>корабельный стеллаж</VGE_GravshipShelf.label>
   <!-- EN: A reinforced storage shelf designed for use aboard gravships. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <VGE_GravshipShelf.description>A reinforced storage shelf designed for use aboard gravships. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.</VGE_GravshipShelf.description>
+  <VGE_GravshipShelf.description>Укреплённый стеллаж для хранения вещей, разработанный для использования на гравикораблях. Предметы на нём не влияют на красоту комнаты и не портятся, даже если находятся снаружи.</VGE_GravshipShelf.description>
+
   <!-- EN: wall firefoam popper -->
-  <VGE_WallFirefoamPopper.label>wall firefoam popper</VGE_WallFirefoamPopper.label>
+  <VGE_WallFirefoamPopper.label>настенная хлопушка с пожарной пеной</VGE_WallFirefoamPopper.label>
   <!-- EN: A wall-mounted variant of the firefoam popper. When it detects fire, it bursts and sprays fire-retardant foam in a circular area around itself. Can also be triggered manually. -->
-  <VGE_WallFirefoamPopper.description>A wall-mounted variant of the firefoam popper. When it detects fire, it bursts and sprays fire-retardant foam in a circular area around itself. Can also be triggered manually.</VGE_WallFirefoamPopper.description>
+  <VGE_WallFirefoamPopper.description>Настенный вариант хлопушки с пожарной пеной. При взаимодействии с огнём или ручной активации взрывается и разбрасывает в определённом радиусе вокруг себя пожарную пену.</VGE_WallFirefoamPopper.description>
   <!-- EN: Trigger {0_label} -->
   <VGE_WallFirefoamPopper.comps.1.useLabel>Привести в действие {lookup: {0_label}; Case; 3}</VGE_WallFirefoamPopper.comps.1.useLabel>
+
   <!-- EN: comms terminal -->
-  <VGE_CommsTerminal.label>comms terminal</VGE_CommsTerminal.label>
+  <VGE_CommsTerminal.label>терминал связи</VGE_CommsTerminal.label>
   <!-- EN: A compact version of a comms console that allows radio contact with other factions and orbital traders. It draws power directly from the grav engine. -->
-  <VGE_CommsTerminal.description>A compact version of a comms console that allows radio contact with other factions and orbital traders. It draws power directly from the grav engine.</VGE_CommsTerminal.description>
+  <VGE_CommsTerminal.description>Компактная версия консоли связи, позволяющая установить радиосвязь с ближайшими кораблями и поселениями для переговоров и торговли. Питается напрямую от гравидвигателя.</VGE_CommsTerminal.description>
   <!-- EN: Summon diabolus threat -->
   <VGE_CommsTerminal.comps.3.useLabel>Вызвать механоида-дьявола</VGE_CommsTerminal.comps.3.useLabel>
+
   <!-- EN: wall orbital trade beacon -->
-  <VGE_WallOrbitalTradeBeacon.label>wall orbital trade beacon</VGE_WallOrbitalTradeBeacon.label>
+  <VGE_WallOrbitalTradeBeacon.label>настенный орбитальный торговый маяк</VGE_WallOrbitalTradeBeacon.label>
   <!-- EN: A wall-mounted version of an orbital trade beacon, required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <VGE_WallOrbitalTradeBeacon.description>A wall-mounted version of an orbital trade beacon, required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</VGE_WallOrbitalTradeBeacon.description>
+  <VGE_WallOrbitalTradeBeacon.description>Настенная версия орбитального торгового маяка, который нужен для орбитальной торговли. Вы можете продавать только те вещи, которые находятся в радиусе действия маяка. Может быть установлен внутри помещения.</VGE_WallOrbitalTradeBeacon.description>
+
   <!-- EN: faux plant -->
-  <VGE_FauxPlant.label>faux plant</VGE_FauxPlant.label>
+  <VGE_FauxPlant.label>искусственное растение</VGE_FauxPlant.label>
   <!-- EN: An artificial plant in a sturdy metal pot. It requires no light, water, or air, making it perfect for adding beauty to even the most inhospitable gravship environments. -->
-  <VGE_FauxPlant.description>An artificial plant in a sturdy metal pot. It requires no light, water, or air, making it perfect for adding beauty to even the most inhospitable gravship environments.</VGE_FauxPlant.description>
+  <VGE_FauxPlant.description>Искусственное растение в прочном металлическом горшке. Не требует света, воды или воздуха, что делает его идеальным для украшения даже самых негостеприимных отсеков гравикорабля.</VGE_FauxPlant.description>
+
   <!-- EN: sealant popper -->
-  <VGE_SealantPopper.label>sealant popper</VGE_SealantPopper.label>
+  <VGE_SealantPopper.label>хлопушка с герметиком</VGE_SealantPopper.label>
   <!-- EN: When it detects vacuum levels above 25%, this safety device pops and releases a fast-expanding sealant goo. The substance quickly solidifies, sealing gaps and breaches to restore pressure in the room. Can also be triggered manually. -->
-  <VGE_SealantPopper.description>When it detects vacuum levels above 25%, this safety device pops and releases a fast-expanding sealant goo. The substance quickly solidifies, sealing gaps and breaches to restore pressure in the room. Can also be triggered manually.</VGE_SealantPopper.description>
+  <VGE_SealantPopper.description>Когда уровень вакуума поднимется выше 25% это защитное устройство взрывается и выпускает быстро расширяющуюся герметизирующую массу. Она быстро затвердевает, заделывая щели и пробоины для восстановления давления в помещении. Также может быть активировано вручную.</VGE_SealantPopper.description>
   <!-- EN: Trigger {0_label} -->
   <VGE_SealantPopper.comps.1.useLabel>Привести в действие {lookup: {0_label}; Case; 3}</VGE_SealantPopper.comps.1.useLabel>
+
   <!-- EN: sealant goop -->
-  <VGE_SealantGoop.label>sealant goop</VGE_SealantGoop.label>
+  <VGE_SealantGoop.label>герметизирующая масса</VGE_SealantGoop.label>
   <!-- EN: A hardened mass of rapidly-expanding polymer foam. Produced by a sealant popper, it forms an airtight plug that seals breaches in gravship rooms exposed to vacuum. While effective at restoring pressure, it is brittle and easy to destroy. -->
-  <VGE_SealantGoop.description>A hardened mass of rapidly-expanding polymer foam. Produced by a sealant popper, it forms an airtight plug that seals breaches in gravship rooms exposed to vacuum. While effective at restoring pressure, it is brittle and easy to destroy.</VGE_SealantGoop.description>
+  <VGE_SealantGoop.description>Затвердевшая масса быстро расширяющейся полимерной пены. Выпускается хлопушкой с герметиком, образует воздухонепроницаемую пробку, заделывающую пробоины в помещениях гравикорабля, подвергшихся воздействию вакуума. Эффективно восстанавливает давление, но хрупкая и легко разрушается.</VGE_SealantGoop.description>
 </LanguageData>
