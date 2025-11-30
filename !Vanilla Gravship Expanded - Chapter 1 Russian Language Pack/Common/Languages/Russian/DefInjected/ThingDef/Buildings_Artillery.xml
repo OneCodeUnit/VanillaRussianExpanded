@@ -1,55 +1,61 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: targeting terminal -->
-  <VGE_TargetingTerminal.label>targeting terminal</VGE_TargetingTerminal.label>
+  <VGE_TargetingTerminal.label>терминал наведения</VGE_TargetingTerminal.label>
   <!-- EN: A control station dedicated to operating a single gravship artillery piece. Requires a crew member to manually aim and fire the weapon. It draws power directly from the grav engine. -->
-  <VGE_TargetingTerminal.description>A control station dedicated to operating a single gravship artillery piece. Requires a crew member to manually aim and fire the weapon. It draws power directly from the grav engine.</VGE_TargetingTerminal.description>
+  <VGE_TargetingTerminal.description>Пульт управления для одного орудия гравикорабля. Требует члена экипажа для ручного наведения и стрельбы. Питается напрямую от гравидвигателя.</VGE_TargetingTerminal.description>
+
   <!-- EN: point defense turret -->
-  <VGE_PointDefenseTurret.label>point defense turret</VGE_PointDefenseTurret.label>
+  <VGE_PointDefenseTurret.label>турель точечной обороны</VGE_PointDefenseTurret.label>
   <!-- EN: A specialized defensive turret built exclusively for gravships. It intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity. -->
-  <VGE_PointDefenseTurret.description>A specialized defensive turret built exclusively for gravships. It intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity.</VGE_PointDefenseTurret.description>
+  <VGE_PointDefenseTurret.description>Специализированная оборонительная турель, разработанная исключительно для гравикораблей. Перехватывает ракеты и транспортные капсулы в радиусе стрельбы, но не может атаковать наземные цели. Шанс перехвата зависит от скорости цели.</VGE_PointDefenseTurret.description>
+
   <!-- EN: point defense gun -->
-  <VGE_Gun_PointDefense.label>point defense gun</VGE_Gun_PointDefense.label>
+  <VGE_Gun_PointDefense.label>орудие точечной обороны</VGE_Gun_PointDefense.label>
   <!-- EN: A rapid-fire gun for point-defense applications. -->
-  <VGE_Gun_PointDefense.description>A rapid-fire gun for point-defense applications.</VGE_Gun_PointDefense.description>
+  <VGE_Gun_PointDefense.description>Скорострельное орудие для защиты от ракет и транспортных капсул.</VGE_Gun_PointDefense.description>
+
   <!-- EN: gauss shell ammo box -->
-  <VGE_AmmoBox_GaussShell.label>gauss shell ammo box</VGE_AmmoBox_GaussShell.label>
+  <VGE_AmmoBox_GaussShell.label>контейнер снарядов Гаусса</VGE_AmmoBox_GaussShell.label>
   <!-- EN: A small-sized box containing large uranium shells. Used by different gauss artillery turrets to reload. A box is fed directly into an adjacent gravship artillery when it needs to be reloaded. -->
-  <VGE_AmmoBox_GaussShell.description>A small-sized box containing large uranium shells. Used by different gauss artillery turrets to reload. A box is fed directly into an adjacent gravship artillery when it needs to be reloaded.</VGE_AmmoBox_GaussShell.description>
+  <VGE_AmmoBox_GaussShell.description>Небольшой контейнер с крупными урановыми снарядами. Используется различными артиллерийскими турелями Гаусса для перезарядки. Снаряды из контейнера подаются напрямую в соседствующее орудие гравикорабля, когда оно требует перезарядки.</VGE_AmmoBox_GaussShell.description>
   <!-- EN: gauss shell ammo box (blueprint) -->
-  <VGE_AmmoBox_GaussShell_Blueprint.label>gauss shell ammo box (blueprint)</VGE_AmmoBox_GaussShell_Blueprint.label>
+  <VGE_AmmoBox_GaussShell_Blueprint.label>контейнер снарядов Гаусса (проект)</VGE_AmmoBox_GaussShell_Blueprint.label>
   <!-- EN: gauss shell ammo box (building) -->
-  <VGE_AmmoBox_GaussShell_Frame.label>gauss shell ammo box (building)</VGE_AmmoBox_GaussShell_Frame.label>
+  <VGE_AmmoBox_GaussShell_Frame.label>контейнер снарядов Гаусса (в процессе сборки)</VGE_AmmoBox_GaussShell_Frame.label>
   <!-- EN: A small-sized box containing large uranium shells. Used by different gauss artillery turrets to reload. A box is fed directly into an adjacent gravship artillery when it needs to be reloaded. -->
-  <VGE_AmmoBox_GaussShell_Frame.description>A small-sized box containing large uranium shells. Used by different gauss artillery turrets to reload. A box is fed directly into an adjacent gravship artillery when it needs to be reloaded.</VGE_AmmoBox_GaussShell_Frame.description>
+  <VGE_AmmoBox_GaussShell_Frame.description>Небольшой контейнер с крупными урановыми снарядами. Используется различными артиллерийскими турелями Гаусса для перезарядки. Снаряды из контейнера подаются напрямую в соседствующее орудие гравикорабля, когда оно требует перезарядки.</VGE_AmmoBox_GaussShell_Frame.description>
+
   <!-- EN: gauss gun -->
-  <VGE_GaussGun.label>gauss gun</VGE_GaussGun.label>
+  <VGE_GaussGun.label>пушка Гаусса</VGE_GaussGun.label>
   <!-- EN: A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
-  <VGE_GaussGun.description>A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine.</VGE_GaussGun.description>
+  <VGE_GaussGun.description>Небольшая одноствольная электромагнитная пушка, выпускающая плотные урановые снаряды с экстремальной скоростью. Предназначена как для поражения местных целей, так более удалённых. В том числе может атаковать другие гравикорабли на орбите. Требует связанного терминала наведения с оператором. Питается напрямую от гравидвигателя.</VGE_GaussGun.description>
   <!-- EN: gauss gun -->
-  <VGE_Gun_GaussGun.label>gauss gun</VGE_Gun_GaussGun.label>
+  <VGE_Gun_GaussGun.label>пушка Гаусса</VGE_Gun_GaussGun.label>
   <!-- EN: A small, single-barrel electromagnetic cannon. -->
-  <VGE_Gun_GaussGun.description>A small, single-barrel electromagnetic cannon.</VGE_Gun_GaussGun.description>
+  <VGE_Gun_GaussGun.description>Компактная одноствольная электромагнитная пушка.</VGE_Gun_GaussGun.description>
   <!-- EN: Gauss gun shot -->
-  <VGE_Bullet_GaussGun.label>Gauss gun shot</VGE_Bullet_GaussGun.label>
+  <VGE_Bullet_GaussGun.label>снаряд пушки Гаусса</VGE_Bullet_GaussGun.label>
+
   <!-- EN: javelin pod -->
-  <VGE_JavelinPod.label>javelin pod</VGE_JavelinPod.label>
+  <VGE_JavelinPod.label>ракетная установка «Дротик»</VGE_JavelinPod.label>
   <!-- EN: A compact multi-tube missile platform that launches a volley of six guided astrofuel javelins. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
-  <VGE_JavelinPod.description>A compact multi-tube missile platform that launches a volley of six guided astrofuel javelins. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine.</VGE_JavelinPod.description>
+  <VGE_JavelinPod.description>Компактная многоствольная ракетная платформа, выпускающая залп из шести управляемых космотопливных ракет. Предназначена для быстрых и мощных ударов по незащищённым гравикораблям и небронированным наземным силам. Требует связанного терминала наведения с оператором. Питается напрямую от гравидвигателя.</VGE_JavelinPod.description>
   <!-- EN: javelin pod -->
-  <VGE_Gun_JavelinPod.label>javelin pod</VGE_Gun_JavelinPod.label>
+  <VGE_Gun_JavelinPod.label>ракетная установка «Дротик»</VGE_Gun_JavelinPod.label>
   <!-- EN: A compact multi-tube missile platform. -->
-  <VGE_Gun_JavelinPod.description>A compact multi-tube missile platform.</VGE_Gun_JavelinPod.description>
+  <VGE_Gun_JavelinPod.description>Компактная многоствольная ракетная платформа.</VGE_Gun_JavelinPod.description>
   <!-- EN: Javelin rocket -->
-  <VGE_Rocket_JavelinRocket.label>Javelin rocket</VGE_Rocket_JavelinRocket.label>
+  <VGE_Rocket_JavelinRocket.label>ракета «Дротик»</VGE_Rocket_JavelinRocket.label>
+
   <!-- EN: anticraft caster -->
-  <VGE_AnticraftCaster.label>anticraft caster</VGE_AnticraftCaster.label>
+  <VGE_AnticraftCaster.label>зенитный излучатель</VGE_AnticraftCaster.label>
   <!-- EN: A medium gravship-mounted energy weapon that fires short, razor-sharp bursts of cutting beam with surgical precision. Built to punch holes through critical systems, the caster trades sustained suppression for rapid, accurate strikes. Requires a linked targeting terminal with an operator to function. Uses a lot of power to fire. -->
-  <VGE_AnticraftCaster.description>A medium gravship-mounted energy weapon that fires short, razor-sharp bursts of cutting beam with surgical precision. Built to punch holes through critical systems, the caster trades sustained suppression for rapid, accurate strikes. Requires a linked targeting terminal with an operator to function. Uses a lot of power to fire.</VGE_AnticraftCaster.description>
+  <VGE_AnticraftCaster.description>Среднее энергетическое орудие гравикорабля, выпускающее короткие импульсы луча, режущего с хирургической точностью. Созданный для пробивания критических систем, излучатель жертвует продолжительностью излучения ради быстрых и точных ударов. Требует связанного терминала наведения с оператором. Потребляет много энергии при стрельбе.</VGE_AnticraftCaster.description>
   <!-- EN: anticraft caster -->
-  <VGE_Gun_AnticraftCaster.label>anticraft caster</VGE_Gun_AnticraftCaster.label>
+  <VGE_Gun_AnticraftCaster.label>зенитный излучатель</VGE_Gun_AnticraftCaster.label>
   <!-- EN: A medium gravship-mounted energy weapon. -->
-  <VGE_Gun_AnticraftCaster.description>A medium gravship-mounted energy weapon.</VGE_Gun_AnticraftCaster.description>
+  <VGE_Gun_AnticraftCaster.description>Среднее энергетическое орудие гравикорабля.</VGE_Gun_AnticraftCaster.description>
   <!-- EN: anticraft caster beam -->
-  <VGE_Bullet_AnticraftCaster.label>anticraft caster beam</VGE_Bullet_AnticraftCaster.label>
+  <VGE_Bullet_AnticraftCaster.label>луч зенитного излучателя</VGE_Bullet_AnticraftCaster.label>
 </LanguageData>
