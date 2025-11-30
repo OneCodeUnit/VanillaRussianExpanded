@@ -9,11 +9,17 @@
   <VGE_PointDefenseTurret.label>турель точечной обороны</VGE_PointDefenseTurret.label>
   <!-- EN: A specialized defensive turret built exclusively for gravships. It intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity. -->
   <VGE_PointDefenseTurret.description>Специализированная оборонительная турель, разработанная исключительно для гравикораблей. Перехватывает ракеты и транспортные капсулы в радиусе стрельбы, но не может атаковать наземные цели. Шанс перехвата зависит от скорости цели.</VGE_PointDefenseTurret.description>
+  <!-- EN: Ammunition -->
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>Боезапас</VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Ammunition -->
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>Боезапас</VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>
 
   <!-- EN: point defense gun -->
   <VGE_Gun_PointDefense.label>орудие точечной обороны</VGE_Gun_PointDefense.label>
   <!-- EN: A rapid-fire gun for point-defense applications. -->
   <VGE_Gun_PointDefense.description>Скорострельное орудие для защиты от ракет и транспортных капсул.</VGE_Gun_PointDefense.description>
+  <!-- EN: point defense gun -->
+  <VGE_Gun_PointDefense.verbs.Verb_Shoot.label>орудие точечной обороны</VGE_Gun_PointDefense.verbs.Verb_Shoot.label>
 
   <!-- EN: gauss shell ammo box -->
   <VGE_AmmoBox_GaussShell.label>контейнер снарядов Гаусса</VGE_AmmoBox_GaussShell.label>
@@ -36,6 +42,10 @@
   <VGE_Gun_GaussGun.description>Компактная одноствольная электромагнитная пушка.</VGE_Gun_GaussGun.description>
   <!-- EN: Gauss gun shot -->
   <VGE_Bullet_GaussGun.label>снаряд пушки Гаусса</VGE_Bullet_GaussGun.label>
+  <!-- EN: Uranium Slugs -->
+  <VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>Урановые снаряды</VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Uranium Slugs -->
+  <VGE_GaussGun.comps.CompRefuelable.fuelLabel>Урановые снаряды</VGE_GaussGun.comps.CompRefuelable.fuelLabel>
 
   <!-- EN: javelin pod -->
   <VGE_JavelinPod.label>ракетная установка «Дротик»</VGE_JavelinPod.label>
@@ -47,6 +57,12 @@
   <VGE_Gun_JavelinPod.description>Компактная многоствольная ракетная платформа.</VGE_Gun_JavelinPod.description>
   <!-- EN: Javelin rocket -->
   <VGE_Rocket_JavelinRocket.label>ракета «Дротик»</VGE_Rocket_JavelinRocket.label>
+  <!-- EN: Astrofuel -->
+  <VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>Космотопливо</VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Astrofuel -->
+  <VGE_JavelinPod.comps.CompRefuelable.fuelLabel>Космотопливо</VGE_JavelinPod.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Missing rockets -->
+  <VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>Закончились ракеты</VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: anticraft caster -->
   <VGE_AnticraftCaster.label>зенитный излучатель</VGE_AnticraftCaster.label>

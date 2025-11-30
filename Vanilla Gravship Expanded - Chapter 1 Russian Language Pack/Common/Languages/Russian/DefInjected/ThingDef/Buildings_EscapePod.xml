@@ -6,4 +6,10 @@
   <VGE_DamagedEscapePod.description>Повреждённая при падении спасательная капсула. Можно взломать, чтобы узнать, что внутри.</VGE_DamagedEscapePod.description>
   <!-- EN: escape pod (incoming) -->
   <VGE_EscapePodSkyfaller.label>спасательная капсула (падает)</VGE_EscapePodSkyfaller.label>
+  <!-- EN: Opening... -->
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>Открывается...</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>{HACKER_labelShort} завершает открытие {SUBJECT_labelNoParenthesisDef}.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>Взломать, чтобы открыть.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>
 </LanguageData>
