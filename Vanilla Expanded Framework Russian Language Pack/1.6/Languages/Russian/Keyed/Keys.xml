@@ -33,6 +33,12 @@
   <VanillaFactionsExpanded.UsableWithShield>Используется со щитами</VanillaFactionsExpanded.UsableWithShield>
   <!-- EN: Whether or not this weapon can be used if the character also has a shield equipped. -->
   <VanillaFactionsExpanded.UsableWithShield_Desc>Возможно ли использовать это оружие, если у персонажа есть щит.</VanillaFactionsExpanded.UsableWithShield_Desc>
+  <!-- EN: Ammo per charge -->
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge>Патроны на заряд</VEF.Weapons.Stat_Thing_MaterialPerCharge>
+  <!-- EN: {0} {1} per charge (total {2} charges) -->
+	<VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0} {1} на заряд (всего {2} зарядов)</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
+  <!-- EN: The amount of {0} per charge this ability needs to be recharged. -->
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>Количество {0} на заряд, необходимое для перезарядки этой способности.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
 
   <!-- EN: New faction: {FactionName} -->
   <VanillaFactionsExpanded.FactionTitle>Новая фракция — {FactionName}</VanillaFactionsExpanded.FactionTitle>
