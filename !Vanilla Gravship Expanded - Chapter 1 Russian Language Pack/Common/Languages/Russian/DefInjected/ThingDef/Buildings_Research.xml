@@ -1,15 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: gravtech console -->
-  <VGE_GravtechConsole.label>gravtech console</VGE_GravtechConsole.label>
+  <VGE_GravtechConsole.label>гравитехнологическая консоль</VGE_GravtechConsole.label>
   <!-- EN: An interface used to analyze gravdata gathered from gravship launches and travel. It draws power directly from the grav engine. -->
-  <VGE_GravtechConsole.description>An interface used to analyze gravdata gathered from gravship launches and travel. It draws power directly from the grav engine.</VGE_GravtechConsole.description>
+  <VGE_GravtechConsole.description>Интерфейс для анализа гравиданных, собранных во время запусков и полётов гравикорабля. Питается напрямую от гравидвигателя.</VGE_GravtechConsole.description>
+
   <!-- EN: gravship black box -->
-  <VGE_GravshipBlackBox.label>gravship black box</VGE_GravshipBlackBox.label>
+  <VGE_GravshipBlackBox.label>бортовой самописец гравикорабля</VGE_GravshipBlackBox.label>
   <!-- EN: An indestructible advanced recorder integrated into the gravship’s systems. It greatly increases gravdata yield, captures any overflow that would normally be wasted, and allows stored gravdata to be converted directly into research points. A gravship can support only one black box. -->
-  <VGE_GravshipBlackBox.description>An indestructible advanced recorder integrated into the gravship’s systems. It greatly increases gravdata yield, captures any overflow that would normally be wasted, and allows stored gravdata to be converted directly into research points. A gravship can support only one black box.</VGE_GravshipBlackBox.description>
+  <VGE_GravshipBlackBox.description>Неразрушимый продвинутый записывающий прибор, интегрированный в системы гравикорабля. Значительно увеличивает количество получаемых гравиданных и позволяет сохранить любой избыток, который при обычных условиях бы потерялся. Самописец так же позволяет конвертировать накопленные гравиданные напрямую в очки исследования. На гравикорабле может быть только один бортовой самописец.</VGE_GravshipBlackBox.description>
+  
   <!-- EN: flight computer -->
-  <VGE_FlightComputer.label>flight computer</VGE_FlightComputer.label>
+  <VGE_FlightComputer.label>бортовой компьютер</VGE_FlightComputer.label>
   <!-- EN: An advanced computational unit that optimizes data collection during gravship travel. Increases the amount of gravdata gained from each launch. -->
-  <VGE_FlightComputer.description>An advanced computational unit that optimizes data collection during gravship travel. Increases the amount of gravdata gained from each launch.</VGE_FlightComputer.description>
+  <VGE_FlightComputer.description>Продвинутый вычислительный блок, оптимизирующий сбор данных во время полётов гравикорабля. Увеличивает количество гравиданных, получаемых с каждого запуска.</VGE_FlightComputer.description>
 </LanguageData>
