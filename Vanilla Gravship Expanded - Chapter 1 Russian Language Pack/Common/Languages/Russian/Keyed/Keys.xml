@@ -204,7 +204,7 @@ You will be given a choice to keep the current map as well as anything not on gr
   <!-- EN: Reset -->
   <VGE_Reset>Сбросить</VGE_Reset>
   <!-- EN: More -->
-  <VGE_More>больше</VGE_More>
+  <VGE_More>Прочее</VGE_More>
   <!-- EN: Solid ice with traces of {RESOURCE_label} -->
   <VGE_SoildIceAsteroid>Твёрдый лёд со следами {RESOURCE_label}</VGE_SoildIceAsteroid>
   <!-- EN: Can’t launch the gravship due to a gravitational anomaly -->
@@ -265,7 +265,7 @@ You will be given a choice to keep the current map as well as anything not on gr
   <VGE_CooldownRemaining>Осталось перезарядки: {0}</VGE_CooldownRemaining>
   <!-- EN: {0} {1} production completes in: {2}
 Remaining production processes to complete: {3} -->
-  <VGE_ResourceProcessorInfo>{0} {1} производство завершится через: {2}\nОсталось производственных процессов: {3}</VGE_ResourceProcessorInfo>
+  <VGE_ResourceProcessorInfo>Производство {1} ед. {lookup: {0}; Case; 1} завершится через: {2}\nОсталось производственных процессов: {3}</VGE_ResourceProcessorInfo>
   <!-- EN: stored astrofuel -->
   <VGE_StoredAstrofuel>запасённое космотопливо</VGE_StoredAstrofuel>
   <!-- EN: {0} astrofuel per tile -->
