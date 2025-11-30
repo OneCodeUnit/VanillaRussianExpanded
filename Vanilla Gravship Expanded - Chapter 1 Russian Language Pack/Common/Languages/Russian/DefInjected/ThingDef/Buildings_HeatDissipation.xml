@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: small heatsink -->
+  <VGE_SmallHeatsink.label>малый радиатор</VGE_SmallHeatsink.label>
+  <!-- EN: A compact thermal regulator that absorbs heat from gravship travel and slowly converts part of it into usable power while preventing system overheating and decreasing the grav engine cooldown duration. A gravship can support up to ten small heatsinks. -->
+  <VGE_SmallHeatsink.description>Компактный терморегулятор, поглощающий тепло от полётов гравикорабля и медленно преобразующий его часть в полезную энергию, предотвращая перегрев систем и сокращая время перезарядки гравидвигателя. Гравикорабль может поддерживать до десяти малых радиаторов.</VGE_SmallHeatsink.description>
+  
+  <!-- EN: large heatsink -->
+  <VGE_LargeHeatsink.label>большой радиатор</VGE_LargeHeatsink.label>
+  <!-- EN: A large thermal regulator that absorbs heat from gravship travel and slowly converts part of it into usable power while preventing system overheating and decreasing the grav engine cooldown duration. A gravship can support up to six large heatsinks. -->
+  <VGE_LargeHeatsink.description>Крупный терморегулятор, поглощающий тепло от полётов гравикорабля и медленно преобразующий его часть в полезную энергию, предотвращая перегрев систем и сокращая время перезарядки гравидвигателя. Гравикорабль может поддерживать до шести больших радиаторов.</VGE_LargeHeatsink.description>
+
+  <!-- EN: gravheat absorber -->
+  <VGE_GravheatAbsorber.label>поглотитель гравитепла</VGE_GravheatAbsorber.label>
+  <!-- EN: A specialized thermal sink that draws all residual heat from the grav engine, instantly clearing its cooldown. The absorbed heat leaves the gravheat absorber inoperable for an extended period while it safely dissipates the stored energy. -->
+  <VGE_GravheatAbsorber.description>Специализированный теплоотвод, отводящий всё остаточное тепло от гравидвигателя, что позволяет сразу сделать его готовым к взлёту. Поглощённое тепло выводит поглотитель гравитепла из строя на продолжительное время до тех пор, пока он безопасно не рассеет накопленную энергию.</VGE_GravheatAbsorber.description>
+</LanguageData>

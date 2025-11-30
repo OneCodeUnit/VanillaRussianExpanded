@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- EN:
+		<li>questDescription-> You've been contacted by the Trading Guild with an urgent offer. One of their gravships carrying classified and dangerous cargo has gone rogue. The crew is presumed dead, and the ship is now on a collision course with one of their orbital platforms. It is also closely followed by a mechanoid swarm.\n\nTo avoid further catastrophe, they propose to redirect the ship to crash near your location. In return, they grant you the salvage rights. The vessel will be heavily damaged, but its gravjumper engine should remain intact.\n\nBe warned: as soon as it crashes, the pursuing mechanoids will descend on your position.\n\nGravships are rare and powerful vessels, built to traverse planetary surfaces and breach low orbit without rockets. Owning even a damaged one could change the course of your colony’s future.</li>
+		<li>gravEngineSpawnedLetterLabel->wrecked gravjumper engine</li>
+		<li>gravEngineSpawnedLetterText->The damaged Trading Guild vessel has crashlanded nearby.\n\nAmidst the wreckage, you spot a functional gravjumper engine: a compact gravity manipulation core used to lift ships from planetary surfaces into orbit. The ship seems badly damaged, and substantial repair will be required.\n\n\n\nInspect the engine to make use of it and unlock the basic gravtech research project.</li>
+  -->
+  <MechanoidSignal.questDescriptionRules.rulesStrings>
+		<li>questDescription->С вами связалась Гильдия Торговцев со предложением срочного заказа. Один из их гравикораблей, перевозивший секретный и очень опасный груз, вышел из-под контроля. Экипаж, вероятно, погиб, и теперь корабль летит прямо в одну из их орбитальных платформ. Кроме того, его преследует рой механоидов.\n\nЧтобы избежать катастрофы, они предлагают перенаправить корабль так, чтобы он разбился рядом с вашим поселением. Взамен вам предоставят права на все уцелевшее имущество. Судно будет сильно повреждено, но его гравипрыжковый двигатель должен уцелеть.\n\nБудьте осторожны: как только корабль разобьётся, преследовавшие его механоиды нападут на вас.\n\nГравикорабли это редкие и мощные космические корабли, созданные для перемещения по поверхности планеты и выхода на низкую орбиту без использования ракет. Даже повреждённый корабль может изменить судьбу вашего поселения.</li>
+		<li>gravEngineSpawnedLetterLabel->упавший гравипрыжковый двигатель</li>
+		<li>gravEngineSpawnedLetterText->Повреждённый корабль Гильдии Торговцев потерпел крушение поблизости.\n\nСреди обломков вы замечаете работающий гравипрыжковый двигатель — компактное ядро управления гравитацией, используемое для подъёма кораблей с поверхности планеты на орбиту. Корабль сильно повреждён, и ему потребуется серьёзный ремонт.\n\n\n\nИзучите двигатель, чтобы воспользоваться им и разблокировать базовый исследовательский проект гравитехнологий.</li>
+  </MechanoidSignal.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->runaway gravjumper</li>
+  -->
+  <MechanoidSignal.questNameRules.rulesStrings>
+    <li>questName->неконтролируемый гравипрыжковый корабль</li>
+  </MechanoidSignal.questNameRules.rulesStrings>
+</LanguageData>

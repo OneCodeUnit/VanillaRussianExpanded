@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: astrofuel pipe -->
+  <VGE_AstrofuelPipe.label>труба космотоплива</VGE_AstrofuelPipe.label>
+  <!-- EN: A large pipe for transporting high-grade astrofuel around. Unlike other pipes, it’s big, bulky, acts as cover and can’t be stood on. Astrofuel pipes can’t be placed on workbench interaction spots and in doorways. -->
+  <VGE_AstrofuelPipe.description>Большая труба для транспортировки высококачественного космотоплива. В отличие от других труб, она громоздкая, служит укрытием и на неё нельзя встать. Трубы космотоплива нельзя размещать на точках взаимодействия рабочих мест и в дверных проёмах.</VGE_AstrofuelPipe.description>
+  <!-- EN: astrofuel pipe (blueprint) -->
+  <VGE_AstrofuelPipe_Blueprint.label>труба космотоплива (проект)</VGE_AstrofuelPipe_Blueprint.label>
+  <!-- EN: astrofuel pipe (building) -->
+  <VGE_AstrofuelPipe_Frame.label>труба космотоплива (в процессе сборки)</VGE_AstrofuelPipe_Frame.label>
+  <!-- EN: A large pipe for transporting high-grade astrofuel around. Unlike other pipes, it’s big, bulky, acts as cover and can’t be stood on. Astrofuel pipes can’t be placed on workbench interaction spots and in doorways. -->
+  <VGE_AstrofuelPipe_Frame.description>Большая труба для транспортировки высококачественного космотоплива. В отличие от других труб, она громоздкая, служит укрытием и на неё нельзя встать. Трубы космотоплива нельзя размещать на точках взаимодействия рабочих мест и в дверных проёмах.</VGE_AstrofuelPipe_Frame.description>
+
+  <!-- EN: hidden astrofuel pipe -->
+  <VGE_HiddenAstrofuelPipe.label>подземная труба космотоплива</VGE_HiddenAstrofuelPipe.label>
+  <!-- EN: A hidden, reinforced tube for moving oxygen around. While it’s not visible, it is much more expensive to construct. -->
+  <VGE_HiddenAstrofuelPipe.description>Скрытая под землёй усиленная труба для транспортировки космотоплива. Не видна на поверхности, но гораздо дороже в строительстве.</VGE_HiddenAstrofuelPipe.description>
+  <!-- EN: hidden astrofuel pipe (blueprint) -->
+  <VGE_HiddenAstrofuelPipe_Blueprint.label>подземная труба космотоплива (проект)</VGE_HiddenAstrofuelPipe_Blueprint.label>
+  <!-- EN: hidden astrofuel pipe (building) -->
+  <VGE_HiddenAstrofuelPipe_Frame.label>подземная труба космотоплива (в процессе сборки)</VGE_HiddenAstrofuelPipe_Frame.label>
+  <!-- EN: A hidden, reinforced tube for moving oxygen around. While it’s not visible, it is much more expensive to construct. -->
+  <VGE_HiddenAstrofuelPipe_Frame.description>Скрытая под землёй усиленная труба для транспортировки космотоплива. Не видна на поверхности, но гораздо дороже в строительстве.</VGE_HiddenAstrofuelPipe_Frame.description>
+
+  <!-- EN: astrofuel valve -->
+  <VGE_AstrofuelValve.label>вентиль космотоплива</VGE_AstrofuelValve.label>
+  <!-- EN: Switches astrofuel flow on and off. -->
+  <VGE_AstrofuelValve.description>Открывает или перекрывает поток космотоплива.</VGE_AstrofuelValve.description>
+  <!-- EN: astrofuel valve (blueprint) -->
+  <VGE_AstrofuelValve_Blueprint.label>вентиль космотоплива (проект)</VGE_AstrofuelValve_Blueprint.label>
+  <!-- EN: astrofuel valve (building) -->
+  <VGE_AstrofuelValve_Frame.label>вентиль космотоплива (в процессе сборки)</VGE_AstrofuelValve_Frame.label>
+  <!-- EN: Switches astrofuel flow on and off. -->
+  <VGE_AstrofuelValve_Frame.description>Открывает или перекрывает поток космотоплива.</VGE_AstrofuelValve_Frame.description>
+
+  <!-- EN: giant astrofuel tank -->
+  <VGE_GiantAstrofuelTank.label>гигантский бак космотоплива</VGE_GiantAstrofuelTank.label>
+  <!-- EN: A monumental astrofuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <VGE_GiantAstrofuelTank.description>Монументальный резервуар для хранения космотоплива, снабжающий ускорители гравикорабля топливом.</VGE_GiantAstrofuelTank.description>
+
+  <!-- EN: astrofuel tap -->
+  <VGE_AstrofuelTap.label>клапан космотоплива</VGE_AstrofuelTap.label>
+  <!-- EN: A hopper-like storage device meant to hold dispensed astrofuel for use later. -->
+  <VGE_AstrofuelTap.description>Резервуар, похожий на воронку. Предназначен для периодического отвода космотоплива из баков для последующего использования.</VGE_AstrofuelTap.description>
+
+  <!-- EN: astrofuel drain -->
+  <VGE_AstrofuelDrain.label>слив космотоплива</VGE_AstrofuelDrain.label>
+  <!-- EN: A hopper-like storage structure meant to input astrofuel into the network, filling up connected tanks. -->
+  <VGE_AstrofuelDrain.description>Резервуар, похожий на воронку. Предназначен для заливки космотоплива в трубопровод и наполнения подсоединённых баков.</VGE_AstrofuelDrain.description>
+
+  <!-- EN: astrofuel generator -->
+  <VGE_AstrofuelGenerator.label>космотопливный генератор</VGE_AstrofuelGenerator.label>
+  <!-- EN: Produces power by consuming astrofuel. Much more efficient than chemfuel generators. -->
+  <VGE_AstrofuelGenerator.description>Вырабатывает энергию, потребляя космотопливо. Гораздо эффективнее химтопливных генераторов.</VGE_AstrofuelGenerator.description>
+
+  <!-- EN: industrial astrofuel generator -->
+  <VGE_IndustrialAstrofuelGenerator.label>промышленный космотопливный генератор</VGE_IndustrialAstrofuelGenerator.label>
+  <!-- EN: Produces a large amount of power by consuming astrofuel. Much more efficient than chemfuel generators. -->
+  <VGE_IndustrialAstrofuelGenerator.description>Вырабатывает большое количество энергии, потребляя космотопливо. Гораздо эффективнее химтопливных генераторов.</VGE_IndustrialAstrofuelGenerator.description>
+
+  <!-- EN: astrofuel synthesizer -->
+  <VGE_AstrofuelSynthesizer.label>синтезатор космотоплива</VGE_AstrofuelSynthesizer.label>
+  <!-- EN: A specialized structure that refines chemfuel into high-grade astrofuel. It must be connected to the astrofuel pipe network and linked to at least one astrofuel tank to operate. Once connected, it automatically converts inserted chemfuel into astrofuel for use in engines and systems. -->
+  <VGE_AstrofuelSynthesizer.description>Специализированная постройка, перерабатывающая химтопливо в высококачественное космотопливо. Должна быть подключена к сети труб космотоплива и связана, как минимум, с одним баком. После подключения автоматически преобразует загруженное химтопливо в космотопливо для использования в двигателях и системах.</VGE_AstrofuelSynthesizer.description>
+
+  <!-- EN: astropurifier -->
+  <VGE_Astropurifier.label>очиститель космотоплива</VGE_Astropurifier.label>
+  <!-- EN: A gravtech unit that enhances the precision and stability of astrofuel refinement. When placed next to an astrofuel synthesizer, it enables perfect 1:1 conversion from chemfuel to astrofuel, though the process takes twice as long. -->
+  <VGE_Astropurifier.description>Гравитехнологический модуль, повышающий точность и стабильность обработки космотоплива. При размещении рядом с синтезатором космотоплива обеспечивает преобразование в соотношении 1:1 из химтоплива в космотопливо, но процесс начинает занимать вдвое больше времени.</VGE_Astropurifier.description>
+
+  <!-- EN: giant thruster -->
+  <VGE_GiantThruster.label>гигантский ускоритель</VGE_GiantThruster.label>
+  <!-- EN: A massive, reinforced astrofuel thruster built with advanced alloys and ultra-dense vacstone plating. It massively increases the range and maximum size of the gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to four giant thrusters. -->
+  <VGE_GiantThruster.description>Массивный и прочный ускоритель на космотопливе, построенный из передовых сплавов и сверхплотных плит из вакуумного камня. Значительно увеличивает дальность и максимальный размер гравикорабля. Ускорители требуют свободного пространства без крупных зданий и надстроек гравикорабля.\n\nТребуются блоки из вакуумного камня, которые можно добыть на орбитальных астероидах.\n\nГравикорабль может поддерживать до четырёх гигантских ускорителей.</VGE_GiantThruster.description>
+</LanguageData>

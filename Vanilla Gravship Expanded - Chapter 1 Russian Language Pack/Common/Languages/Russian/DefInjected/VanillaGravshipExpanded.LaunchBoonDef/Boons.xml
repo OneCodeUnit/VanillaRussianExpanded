@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: landmark spotted -->
+  <VGE_LandmarkSpotted.label>обнаружение ориентира</VGE_LandmarkSpotted.label>
+  <!-- EN: landmark spotted -->
+  <VGE_LandmarkSpotted.letterLabel>обнаружение ориентира</VGE_LandmarkSpotted.letterLabel>
+  <!-- EN: While landing {GRAVSHIP}, your crew noticed unusual location in the surrounding area. Their curiosity might lead to valuable discoveries. {LANDMARK} has been spotted nearby. -->
+  <VGE_LandmarkSpotted.letterText>Во время посадки {GRAVSHIP} ваш экипаж заметил необычное место неподалёку. Его любопытство может привести к ценным открытиям. Неподалёку обнаружен ориентир: {LANDMARK}.</VGE_LandmarkSpotted.letterText>
+
+  <!-- EN: rich deposit detected -->
+  <VGE_RichDepositDetected.label>обнаружение богатого месторождения</VGE_RichDepositDetected.label>
+  <!-- EN: rich deposit detected -->
+  <VGE_RichDepositDetected.letterLabel>обнаружение богатого месторождения</VGE_RichDepositDetected.letterLabel>
+  <!-- EN: While landing {GRAVSHIP}, automated sensors picked up strong readings of rare and valuable resources deep beneath the surface. -->
+  <VGE_RichDepositDetected.letterText>Во время посадки {GRAVSHIP} автоматические датчики зафиксировали высокие показатели редких и ценных ресурсов глубоко под поверхностью.</VGE_RichDepositDetected.letterText>
+
+  <!-- EN: caravan encounter -->
+  <VGE_CaravanEncounter.label>встреча с караваном</VGE_CaravanEncounter.label>
+  <!-- EN: caravan encounter -->
+  <VGE_CaravanEncounter.letterLabel>встреча с караваном</VGE_CaravanEncounter.letterLabel>
+  <!-- EN: While landing {GRAVSHIP}, a nearby travelling caravan noticed the ship and approached out of curiosity. They’re looking to trade. -->
+  <VGE_CaravanEncounter.letterText>Во время посадки {GRAVSHIP} находившийся неподалёку караван заметил корабль и вышел навстречу из любопытства. Они не против поторговать.</VGE_CaravanEncounter.letterText>
+
+  <!-- EN: perfect trajectory -->
+  <VGE_PerfectTrajectory.label>идеальная траектория</VGE_PerfectTrajectory.label>
+  <!-- EN: perfect trajectory -->
+  <VGE_PerfectTrajectory.letterLabel>идеальная траектория</VGE_PerfectTrajectory.letterLabel>
+  <!-- EN: During the launch of {GRAVSHIP}, {PILOT} executed a flawless flight path calculation, ensuring the ship wasted no motion on its journey. The precise maneuvering drastically reduced fuel usage. -->
+  <VGE_PerfectTrajectory.letterText>Во время запуска {GRAVSHIP} {PILOT} {PILOT_gender ? смог : смогла} рассчитать идеальную траекторию полёта, обеспечив максимальную эффективность маршрута корабля. Такое точное маневрирование позволило сохранить расход топлива.</VGE_PerfectTrajectory.letterText>
+
+  <!-- EN: asteroid discovery -->
+  <VGE_AsteroidDiscovery.label>обнаружение астероида</VGE_AsteroidDiscovery.label>
+  <!-- EN: asteroid discovery -->
+  <VGE_AsteroidDiscovery.letterLabel>обнаружение астероида</VGE_AsteroidDiscovery.letterLabel>
+  <!-- EN: While traveling, {GRAVSHIP}’s sensors picked up a drifting asteroid rich in valuable materials. -->
+  <VGE_AsteroidDiscovery.letterText>Во время путешествия датчики {GRAVSHIP} обнаружили дрейфующий астероид, богатый ценными ресурсами.</VGE_AsteroidDiscovery.letterText>
+
+  <!-- EN: crew euphoria -->
+  <VGE_CrewEuphoria.label>эйфория экипажа</VGE_CrewEuphoria.label>
+  <!-- EN: crew euphoria -->
+  <VGE_CrewEuphoria.letterLabel>эйфория экипажа</VGE_CrewEuphoria.letterLabel>
+  <!-- EN: The launch of {GRAVSHIP} was so smooth that it left the crew in high spirits. Laughter and celebration echo through the ship’s corridors. -->
+  <VGE_CrewEuphoria.letterText>Запуск {GRAVSHIP} прошёл настолько гладко, что экипаж воодушевился. Смех и радость разносятся по коридорам корабля.</VGE_CrewEuphoria.letterText>
+  
+  <!-- EN: gravframe harmony -->
+  <VGE_GravframeHarmony.label>гармония гравикаркаса</VGE_GravframeHarmony.label>
+  <!-- EN: gravframe harmony -->
+  <VGE_GravframeHarmony.letterLabel>гармония гравикаркаса</VGE_GravframeHarmony.letterLabel>
+  <!-- EN: {GRAVSHIP}’s structural frame experienced minimal stress during launch. The gravfield alignment was perfect, placing no extra strain on the ship’s components. -->
+  <VGE_GravframeHarmony.letterText>Несущий каркас {GRAVSHIP} испытал минимальную нагрузку во время запуска. Выравнивание гравиполя было идеальным и не создало дополнительного напряжения для компонентов корабля.</VGE_GravframeHarmony.letterText>
+</LanguageData>
