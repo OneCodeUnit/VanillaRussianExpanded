@@ -1,38 +1,20 @@
 ﻿<ModMetaData>
-  <name>Vanilla Quests Expanded - Ancients</name>
-  <author>Oskar Potocki, Sarg Bjornson, Taranchuk, Ferny</author>
+  <name>Vanilla Quests Expanded - Ancients Russian Language Pack</name>
+  <author>OliveWizard</author>
   <supportedVersions>
-  <li>1.6</li>
+    <li>1.6</li>
   </supportedVersions>
-  <modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+  <modVersion>16.01</modVersion>
+  <packageId>OW.RU.Ancients</packageId>
+  <description>Перевод на русский язык мода Vanilla Quests Expanded - Ancients. Подробности ищите на странице в мастерской.</description>
   <modDependencies>
-  <li>
-  <packageId>brrainz.harmony</packageId>
-  <displayName>Harmony</displayName>
-  <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-  <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-  </li>
-  <li>
-  <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
-  <displayName>Vanilla Expanded Framework</displayName>
-  <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
-  <downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
-  </li>
+    <li>
+      <packageId>vanillaquestsexpanded.ancients</packageId>
+      <displayName>Vanilla Quests Expanded - Ancients</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3618306875</steamWorkshopUrl>
+    </li>
   </modDependencies>
   <loadAfter>
-  <li>Ludeon.RimWorld</li>
-  <li>Ludeon.RimWorld.Royalty</li>
-  <li>Ludeon.RimWorld.Ideology</li>
-  <li>Ludeon.RimWorld.Biotech</li>
-  <li>Ludeon.RimWorld.Anomaly</li>
-  <li>brrainz.harmony</li>
-  <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    <li>vanillaquestsexpanded.ancients</li>
   </loadAfter>
-
-  <packageId>vanillaquestsexpanded.ancients</packageId>
-  <description>They tried to improve the human body. Instead, they changed it into something unrecognizable. Vanilla Quests Expanded: Ancients sends you into subterranean vaults where abandoned archite machines still twist flesh and fate, reshaping anything that falls into their grasp.
-
-Search the remnants of a civilization obsessed with perfection. Steal their genetic engines, unlock archite mutation chambers, and experiment with power that bends biology itself. Unlock the truth. Escape the corruption.
-
-Vanilla Quests Expanded: Ancients — what will you become?</description>
 </ModMetaData>

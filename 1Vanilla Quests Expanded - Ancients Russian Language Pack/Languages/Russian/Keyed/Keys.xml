@@ -16,7 +16,7 @@
   <!-- EN: Expected metabolism efficiency of the side effect gene -->
   <VQEA_ExpectedMetabolismSideEffect>Expected metabolism efficiency of the side effect gene</VQEA_ExpectedMetabolismSideEffect>
   <!-- EN: Success chance -->
-  <VQEA_SuccessChance>Success chance</VQEA_SuccessChance>
+  <VQEA_SuccessChance>Шанс успеха</VQEA_SuccessChance>
   <!-- EN: Rejection chance -->
   <VQEA_RejectionChance>Rejection chance</VQEA_RejectionChance>
   <!-- EN: Spliceling mutation chance -->
@@ -36,7 +36,7 @@
   <!-- EN: Inject -->
   <VQEA_Inject>Inject</VQEA_Inject>
   <!-- EN: {0} days -->
-  <VQEA_Days>{0} days</VQEA_Days>
+  <VQEA_Days>{0_numCase ? день : дня : дней}</VQEA_Days>
   <!-- EN: {0} metabolism -->
   <VQEA_Metabolism>{0} metabolism</VQEA_Metabolism>
 
@@ -46,7 +46,7 @@
   <!-- EN: Initialize the archogen injector, allowing a person to be inserted. -->
   <VQEA_StartInjectionDesc>Initialize the archogen injector, allowing a person to be inserted.</VQEA_StartInjectionDesc>
   <!-- EN: Insert person -->
-  <VQEA_InsertPerson>Insert person</VQEA_InsertPerson>
+  <VQEA_InsertPerson>Поместить человека</VQEA_InsertPerson>
   <!-- EN: Insert a person into the archogen injector. Their genetic material will be injected with chaotic archites, which will cause random genetic mutations with a chance to form an archite gene, but also random other xenogenes.\n\nArchite injection is a painful process and will force the subject into a temporary coma while the organism adapts to the new genetic composition. -->
   <VQEA_InsertPersonDesc>Insert a person into the archogen injector. Their genetic material will be injected with chaotic archites, which will cause random genetic mutations with a chance to form an archite gene, but also random other xenogenes.\n\nArchite injection is a painful process and will force the subject into a temporary coma while the organism adapts to the new genetic composition.</VQEA_InsertPersonDesc>
 
@@ -147,11 +147,10 @@
   <!-- EN: Carry {0} to biobattery -->
   <VQEA_CarryToBioBattery>Carry {0} to biobattery</VQEA_CarryToBioBattery>
   <!-- EN: Mass Left: {0} / {1} ({2}) -->
-  <VQEA_MassLeft>Mass Left: {0} / {1} ({2})</VQEA_MassLeft>
-
+  <VQEA_MassLeft>Доступно: {0} / {1} ({2})</VQEA_MassLeft>
   <!-- Pneumatic Tubes -->
   <!-- EN: Load cargo -->
-  <VQEA_LoadCargo>Load cargo</VQEA_LoadCargo>
+  <VQEA_LoadCargo>Погрузить груз</VQEA_LoadCargo>
   <!-- EN: Load cargo into a capsule that will be sent to some other vault far away. -->
   <VQEA_LoadCargoDesc>Load cargo into a capsule that will be sent to some other vault far away.</VQEA_LoadCargoDesc>
   <!-- EN: Launch capsule -->
@@ -182,7 +181,7 @@
   <!-- EN: Cycle: {0} -->
   <VQEA_WonderdocCycle>Cycle: {0}</VQEA_WonderdocCycle>
   <!-- EN: Time remaining: {0} -->
-  <VQEA_WonderdocTimeRemaining>Time remaining: {0}</VQEA_WonderdocTimeRemaining>
+  <VQEA_WonderdocTimeRemaining>Осталось времени: {0}</VQEA_WonderdocTimeRemaining>
   <!-- EN: {PAWN_nameDef} successfully completed their wonderdoc bioregeneration wondercycle. -->
   <VQEA_WonderdocBioregenerationSuccess>{PAWN_nameDef} successfully completed their wonderdoc bioregeneration wondercycle.</VQEA_WonderdocBioregenerationSuccess>
   <!-- EN: {PAWN_nameDef} successfully completed their wonderdoc instarehab wondercycle. -->

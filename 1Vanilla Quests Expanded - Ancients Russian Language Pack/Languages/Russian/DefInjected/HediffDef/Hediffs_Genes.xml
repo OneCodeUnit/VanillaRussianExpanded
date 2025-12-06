@@ -12,12 +12,11 @@
   <VQEA_PlasteelSkin.description>Carriers of this gene possess dense, reinforced dermal armor. Their skin resists bullets, absorbs blunt force, and disperses heat, turning their entire body into a living shield.</VQEA_PlasteelSkin.description>
 
   <!-- EN: plasteel claw -->
-  <VQEA_PlasteelClaws.label>plasteel claw</VQEA_PlasteelClaws.label>
+  <VQEA_PlasteelClaws.label>пласталевые когти</VQEA_PlasteelClaws.label>
   <!-- EN: Carriers of this gene grow synthetic alloy claws capable of slicing through armor and flesh. These natural weapons are always equipped and strike with brutal efficiency. -->
   <VQEA_PlasteelClaws.description>Carriers of this gene grow synthetic alloy claws capable of slicing through armor and flesh. These natural weapons are always equipped and strike with brutal efficiency.</VQEA_PlasteelClaws.description>
   <!-- EN: plasteel claw -->
-  <VQEA_PlasteelClaws.comps.0.tools.0.label>plasteel claw</VQEA_PlasteelClaws.comps.0.tools.0.label>
-
+  <VQEA_PlasteelClaws.comps.0.tools.0.label>пласталевые когти</VQEA_PlasteelClaws.comps.0.tools.0.label>
   <!-- EN: passive meditation -->
   <VQEA_PassiveMeditation.label>passive meditation</VQEA_PassiveMeditation.label>
   <!-- EN: Carriers of this gene possess archites that passively channel ambient psychic energy, replenishing psyfocus without meditation. These ever-attuned minds remain sharp, composed, and ready to cast at all times. -->
@@ -39,10 +38,9 @@
   <VQEA_MasterfulIntellectual.description>This person will conduct research subconsciously, constantly generating scientific progress even while performing other tasks or resting.</VQEA_MasterfulIntellectual.description>
 
   <!-- EN: no pain sensitivity -->
-  <VQEA_NoPain.label>no pain sensitivity</VQEA_NoPain.label>
+  <VQEA_NoPain.label>отсутствие боли</VQEA_NoPain.label>
   <!-- EN: This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
-  <VQEA_NoPain.description>This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain.</VQEA_NoPain.description>
-
+  <VQEA_NoPain.description>У этого существа снижена чувствительность к боли, потребуется больше усилий, чтобы сразить его.</VQEA_NoPain.description>
   <!-- EN: injection coma -->
   <VQEA_InjectionComa.label>injection coma</VQEA_InjectionComa.label>
   <!-- EN: This person has undergone an archite injection. The injected archites are actively rewriting their genetic composition, altering tissues and cellular chemistry throughout the body. During this process, the body cannot safely function, so the subject is held in a deep coma.\n\nThe duration of this coma can be shortened with advanced lab equipment. -->
@@ -57,7 +55,7 @@
   <!-- EN: progressive -->
   <VQEA_HemocollapseSyndrome.stages.1.label>progressive</VQEA_HemocollapseSyndrome.stages.1.label>
   <!-- EN: advanced -->
-  <VQEA_HemocollapseSyndrome.stages.2.label>advanced</VQEA_HemocollapseSyndrome.stages.2.label>
+  <VQEA_HemocollapseSyndrome.stages.2.label>прогрессирующий</VQEA_HemocollapseSyndrome.stages.2.label>
   <!-- EN: terminal -->
   <VQEA_HemocollapseSyndrome.stages.3.label>terminal</VQEA_HemocollapseSyndrome.stages.3.label>
 
@@ -67,7 +65,7 @@
   <VQEA_Levitation.description>Limited flight that allows this colonist to levitate over terrain. They will ignore terrain movement costs when moving.</VQEA_Levitation.description>
 
   <!-- EN: invisibility -->
-  <VQEA_Invisibility.label>invisibility</VQEA_Invisibility.label>
+  <VQEA_Invisibility.label>невидимость</VQEA_Invisibility.label>
   <!-- EN: This person has used psychic suggestion to turn themselves invisible for a short duration. -->
   <VQEA_Invisibility.description>This person has used psychic suggestion to turn themselves invisible for a short duration.</VQEA_Invisibility.description>
 
@@ -77,12 +75,11 @@
   <VQEA_SelfRepairingTissue.description>This person possesses archite-woven regenerative tissue that continuously rebuilds damaged cells and restores lost structure. They are capable of regrowing missing organs and body parts, but the process takes time.</VQEA_SelfRepairingTissue.description>
 
   <!-- EN: regenerating -->
-  <VQEA_Regenerating.label>regenerating</VQEA_Regenerating.label>
+  <VQEA_Regenerating.label>регенерация</VQEA_Regenerating.label>
   <!-- EN: Regenerating wounds, new and old. -->
-  <VQEA_Regenerating.description>Regenerating wounds, new and old.</VQEA_Regenerating.description>
+  <VQEA_Regenerating.description>Регенерация ран новых и старых.</VQEA_Regenerating.description>
   <!-- EN: Destroyed -->
-  <VQEA_Regenerating.injuryProps.destroyedLabel>Destroyed</VQEA_Regenerating.injuryProps.destroyedLabel>
-
+  <VQEA_Regenerating.injuryProps.destroyedLabel>отбито</VQEA_Regenerating.injuryProps.destroyedLabel>
   <!-- EN: matter phasing -->
   <VQEA_MatterPhasing.label>matter phasing</VQEA_MatterPhasing.label>
   <!-- EN: This person has shifted into an intangible state, letting them pass through walls before becoming solid again. -->
