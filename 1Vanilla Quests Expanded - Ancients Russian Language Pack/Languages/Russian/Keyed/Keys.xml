@@ -1,96 +1,96 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- UI Window -->
   <!-- EN: Archite Injection -->
-  <VQEA_ArchiteInjectionTitle>Archite Injection</VQEA_ArchiteInjectionTitle>
+  <VQEA_ArchiteInjectionTitle>Архитовая инъекция</VQEA_ArchiteInjectionTitle>
   <!-- EN: {PAWN} will be injected with volatile archites, causing {PAWN_objective} to develop a random archite gene. The process is dangerous and can cause development of random unwanted genes, rejection or even a drastic mutation. Obtain more ancient archite lab equipment to improve the process. -->
-  <VQEA_ArchiteInjection_MainDesc>{PAWN} will be injected with volatile archites, causing {PAWN_objective} to develop a random archite gene. The process is dangerous and can cause development of random unwanted genes, rejection or even a drastic mutation. Obtain more ancient archite lab equipment to improve the process.</VQEA_ArchiteInjection_MainDesc>
+  <VQEA_ArchiteInjection_MainDesc>{PAWN_nameDef} будет {PAWN_gender ? введена : введена} инъекция нестабильных архитов, что вызовет развитие случайного архитового гена. Процесс опасен и может привести к развитию случайных нежелательных генов, отторжению или даже радикальной мутации. Найдите больше древнего архитового лабораторного оборудования, чтобы улучшить процесс.</VQEA_ArchiteInjection_MainDesc>
   <!-- EN: Expected infusion duration -->
-  <VQEA_ExpectedInfusionDuration>Expected infusion duration</VQEA_ExpectedInfusionDuration>
+  <VQEA_ExpectedInfusionDuration>Ожидаемая длительность инфузии</VQEA_ExpectedInfusionDuration>
   <!-- EN: Infusion coma duration -->
-  <VQEA_InfusionComaDuration>Infusion coma duration</VQEA_InfusionComaDuration>
+  <VQEA_InfusionComaDuration>Длительность инфузионной комы</VQEA_InfusionComaDuration>
   <!-- EN: {0}'s genetic complexity -->
-  <VQEA_PawnGeneticComplexity>{0}'s genetic complexity</VQEA_PawnGeneticComplexity>
+  <VQEA_PawnGeneticComplexity>Генетическая сложность: {0}</VQEA_PawnGeneticComplexity>
   <!-- EN: Success chance increased due to patient gown. -->
-  <VQEA_PatientGownBonus>Success chance increased due to patient gown.</VQEA_PatientGownBonus>
+  <VQEA_PatientGownBonus>Шанс успеха повышен благодаря больничному халату.</VQEA_PatientGownBonus>
   <!-- EN: Expected metabolism efficiency of the side effect gene -->
-  <VQEA_ExpectedMetabolismSideEffect>Expected metabolism efficiency of the side effect gene</VQEA_ExpectedMetabolismSideEffect>
+  <VQEA_ExpectedMetabolismSideEffect>Ожидаемая эффективность метаболизма побочного гена</VQEA_ExpectedMetabolismSideEffect>
   <!-- EN: Success chance -->
   <VQEA_SuccessChance>Шанс успеха</VQEA_SuccessChance>
   <!-- EN: Rejection chance -->
-  <VQEA_RejectionChance>Rejection chance</VQEA_RejectionChance>
+  <VQEA_RejectionChance>Шанс отторжения</VQEA_RejectionChance>
   <!-- EN: Spliceling mutation chance -->
-  <VQEA_SplicelingChance>Spliceling mutation chance</VQEA_SplicelingChance>
+  <VQEA_SplicelingChance>Шанс мутации в срощенного мутанта</VQEA_SplicelingChance>
   <!-- EN: Splicehulk mutation chance -->
-  <VQEA_SplicehulkChance>Splicehulk mutation chance</VQEA_SplicehulkChance>
+  <VQEA_SplicehulkChance>Шанс мутации в срощенного громилу</VQEA_SplicehulkChance>
   <!-- EN: Splicefiend mutation chance -->
-  <VQEA_SplicefiendChance>Splicefiend mutation chance</VQEA_SplicefiendChance>
+  <VQEA_SplicefiendChance>Шанс мутации в срощенного изувера</VQEA_SplicefiendChance>
   <!-- EN: You can complete more ancient lab quests to find and loot more lab equipment. Each piece of the lab provides unique benefits that will improve the odds of a succesful injection. -->
-  <VQEA_CompleteMoreAncientLabQuests>You can complete more ancient lab quests to find and loot more lab equipment. Each piece of the lab provides unique benefits that will improve the odds of a succesful injection.</VQEA_CompleteMoreAncientLabQuests>
+  <VQEA_CompleteMoreAncientLabQuests>Вы можете выполнить больше заданий древних лабораторий, чтобы найти и захватить больше лабораторного оборудования. Каждый элемент лаборатории даёт уникальные преимущества, которые повысят шансы на успешную инъекцию.</VQEA_CompleteMoreAncientLabQuests>
   <!-- EN: Linked Lab Equipment -->
-  <VQEA_LinkedLabEquipment>Linked Lab Equipment</VQEA_LinkedLabEquipment>
+  <VQEA_LinkedLabEquipment>Подключённое лабораторное оборудование</VQEA_LinkedLabEquipment>
   <!-- EN: The process requires 1 Archite capsule available. -->
-  <VQEA_RequiresArchiteCapsule>The process requires 1 Archite capsule available.</VQEA_RequiresArchiteCapsule>
+  <VQEA_RequiresArchiteCapsule>Для процесса требуется 1 доступная архитовая капсула.</VQEA_RequiresArchiteCapsule>
   <!-- EN: Available archite capsules in storage: {0} -->
-  <VQEA_AvailableArchiteCapsules>Available archite capsules in storage: {0}</VQEA_AvailableArchiteCapsules>
+  <VQEA_AvailableArchiteCapsules>Доступно архитовых капсул на складе: {0}</VQEA_AvailableArchiteCapsules>
   <!-- EN: Inject -->
-  <VQEA_Inject>Inject</VQEA_Inject>
+  <VQEA_Inject>Ввести инъекцию</VQEA_Inject>
   <!-- EN: {0} days -->
   <VQEA_Days>{0_numCase ? день : дня : дней}</VQEA_Days>
   <!-- EN: {0} metabolism -->
-  <VQEA_Metabolism>{0} metabolism</VQEA_Metabolism>
+  <VQEA_Metabolism>{0} эффективность метаболизма</VQEA_Metabolism>
 
   <!-- Gizmos -->
   <!-- EN: Start injection process -->
-  <VQEA_StartInjection>Start injection process</VQEA_StartInjection>
+  <VQEA_StartInjection>Начать процесс инъекции</VQEA_StartInjection>
   <!-- EN: Initialize the archogen injector, allowing a person to be inserted. -->
-  <VQEA_StartInjectionDesc>Initialize the archogen injector, allowing a person to be inserted.</VQEA_StartInjectionDesc>
+  <VQEA_StartInjectionDesc>Инициализировать архогенный инъектор, чтобы можно было поместить человека.</VQEA_StartInjectionDesc>
   <!-- EN: Insert person -->
   <VQEA_InsertPerson>Поместить человека</VQEA_InsertPerson>
   <!-- EN: Insert a person into the archogen injector. Their genetic material will be injected with chaotic archites, which will cause random genetic mutations with a chance to form an archite gene, but also random other xenogenes.\n\nArchite injection is a painful process and will force the subject into a temporary coma while the organism adapts to the new genetic composition. -->
-  <VQEA_InsertPersonDesc>Insert a person into the archogen injector. Their genetic material will be injected with chaotic archites, which will cause random genetic mutations with a chance to form an archite gene, but also random other xenogenes.\n\nArchite injection is a painful process and will force the subject into a temporary coma while the organism adapts to the new genetic composition.</VQEA_InsertPersonDesc>
+  <VQEA_InsertPersonDesc>Поместить человека в архогенный инъектор. Его генетический материал будет {PAWN_gender ? введён : введена} инъекция хаотичных архитов, что вызовет случайные генетические мутации с шансом формирования архитового гена, но также и случайных других ксеногенов.\n\nАрхитовая инъекция — это болезненный процесс, который погрузит испытуемого во временную кому, пока организм адаптируется к новому генетическому составу.</VQEA_InsertPersonDesc>
 
   <!-- Letters -->
   <!-- EN: Archogen injection: success -->
-  <VQEA_LetterLabel_Success>Archogen injection: success</VQEA_LetterLabel_Success>
+  <VQEA_LetterLabel_Success>Архогенная инъекция: успех</VQEA_LetterLabel_Success>
   <!-- EN: The archite injection has been successful.\n\n{PAWN_nameDef} has been injected with volatile archites and has gained a new archite gene: {ARCHITEGENE_label}.\n\nAs a side effect, {PAWN_nameDef} has also developed an additional gene: {SIDEEFFECTGENE_label}.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body adapts to the new genetic composition. -->
-  <VQEA_LetterDesc_Success>The archite injection has been successful.\n\n{PAWN_nameDef} has been injected with volatile archites and has gained a new archite gene: {ARCHITEGENE_label}.\n\nAs a side effect, {PAWN_nameDef} has also developed an additional gene: {SIDEEFFECTGENE_label}.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body adapts to the new genetic composition.</VQEA_LetterDesc_Success>
+  <VQEA_LetterDesc_Success>Архитовая инъекция прошла успешно.\n\n{PAWN_nameDef} {PAWN_gender ? получил : получила} инъекцию нестабильных архитов и {PAWN_gender ? приобрёл : приобрела} новый архитовый ген: {ARCHITEGENE_label}.\n\nВ качестве побочного эффекта {PAWN_nameDef} также {PAWN_gender ? развил : развила} дополнительный ген: {SIDEEFFECTGENE_label}.\n\n{PAWN_gender ? Он : Она} теперь {PAWN_gender ? войдёт : войдёт} в инъекционную кому, пока {PAWN_gender ? его : её} тело адаптируется к новому генетическому составу.</VQEA_LetterDesc_Success>
   <!-- EN: The archite injection has been successful.\n\n{PAWN_nameDef} has been injected with volatile archites and has gained a new archite gene: {ARCHITEGENE_label}.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body adapts to the new genetic composition. -->
   <VQEA_LetterDesc_SuccessNoSideEffect>The archite injection has been successful.\n\n{PAWN_nameDef} has been injected with volatile archites and has gained a new archite gene: {ARCHITEGENE_label}.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body adapts to the new genetic composition.</VQEA_LetterDesc_SuccessNoSideEffect>
   <!-- EN: Archogen injection: rejection -->
-  <VQEA_LetterLabel_Rejection>Archogen injection: rejection</VQEA_LetterLabel_Rejection>
+  <VQEA_LetterLabel_Rejection>Архогенная инъекция: отторжение</VQEA_LetterLabel_Rejection>
   <!-- EN: The archite injection has been rejected.\n\n{PAWN_nameDef} has been injected with volatile archites, but {PAWN_possessive} body rejected the alterations to the genetic composition.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body recovers. -->
-  <VQEA_LetterDesc_Rejection>The archite injection has been rejected.\n\n{PAWN_nameDef} has been injected with volatile archites, but {PAWN_possessive} body rejected the alterations to the genetic composition.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body recovers.</VQEA_LetterDesc_Rejection>
+  <VQEA_LetterDesc_Rejection>Архитовая инъекция была отторгнута.\n\n{PAWN_nameDef} {PAWN_gender ? получил : получила} инъекцию нестабильных архитов, но {PAWN_gender ? его : её} тело отторгло изменения генетического состава.\n\n{PAWN_gender ? Он : Она} теперь {PAWN_gender ? войдёт : войдёт} в инъекционную кому, пока {PAWN_gender ? его : её} тело восстанавливается.</VQEA_LetterDesc_Rejection>
   <!-- EN: Archogen injection: mutation -->
-  <VQEA_LetterLabel_Mutation>Archogen injection: mutation</VQEA_LetterLabel_Mutation>
+  <VQEA_LetterLabel_Mutation>Архогенная инъекция: мутация</VQEA_LetterLabel_Mutation>
   <!-- EN: The archite injection has caused a mutation!\n\n{PAWN_nameDef} has been injected with volatile archites, but {PAWN_possessive} body reacted badly to the forced evolution, turning {PAWN_objective} into a mutant.\n\n{PAWN_pronoun} have emerged from the archogen injector and will destroy all the lab equipment {PAWN_pronoun} can find in the blind, animalistic rage.\n\nYou can try and stop {PAWN_objective}, or let {PAWN_objective} leave. -->
-  <VQEA_LetterDesc_Mutation>The archite injection has caused a mutation!\n\n{PAWN_nameDef} has been injected with volatile archites, but {PAWN_possessive} body reacted badly to the forced evolution, turning {PAWN_objective} into a mutant.\n\n{PAWN_pronoun} have emerged from the archogen injector and will destroy all the lab equipment {PAWN_pronoun} can find in the blind, animalistic rage.\n\nYou can try and stop {PAWN_objective}, or let {PAWN_objective} leave.</VQEA_LetterDesc_Mutation>
+  <VQEA_LetterDesc_Mutation>Архитовая инъекция вызвала мутацию!\n\n{PAWN_nameDef} {PAWN_gender ? получил : получила} инъекцию нестабильных архитов, но {PAWN_gender ? его : её} тело плохо отреагировало на принудительную эволюцию, {PAWN_gender ? превратив его : превратив её} в мутанта.\n\n{PAWN_gender ? Он вышел : Она вышла} из архогенного инъектора и будет уничтожать всё лабораторное оборудование, которое {PAWN_gender ? сможет : сможет} найти в слепой животной ярости.\n\nВы можете попытаться {PAWN_gender ? остановить его : остановить её} или дать {PAWN_gender ? ему : ей} уйти.</VQEA_LetterDesc_Mutation>
 
   <!-- EN: Experiment joins: {PAWN_nameDef} -->
-  <VQEA_ExperimentJoinsLetterLabel>Experiment joins: {PAWN_nameDef}</VQEA_ExperimentJoinsLetterLabel>
+  <VQEA_ExperimentJoinsLetterLabel>К колонии присоединяется экспериментальный субъект: {PAWN_nameDef}</VQEA_ExperimentJoinsLetterLabel>
   <!-- EN: The {PAWN_title} known as {PAWN_nameDef} has emerged from a rusty cryptosleep casket, wearing nothing but a thin patient gown. They immediately join your colony.\n\n{PAWN_nameFull} is known as an ideal patient. Their body accepts every archite injection without risk of rejection, as though their cells were made to adapt to genetic change. This makes them uniquely suited for experiments with advanced archite technology - in fact, they have already undergone a few experiments before, as they carry several archite genes.\n\n{PAWN_labelShort} also suffers from a rare illness called Hemocollapse Syndrome. Their blood slowly fails over time, leaving them weaker as the days pass. Care and treatment can slow the disease, but it cannot be cured, and in the end, it will take their life. -->
-  <VQEA_ExperimentJoinsLetterDescription>The {PAWN_title} known as {PAWN_nameDef} has emerged from a rusty cryptosleep casket, wearing nothing but a thin patient gown. They immediately join your colony.\n\n{PAWN_nameFull} is known as an ideal patient. Their body accepts every archite injection without risk of rejection, as though their cells were made to adapt to genetic change. This makes them uniquely suited for experiments with advanced archite technology - in fact, they have already undergone a few experiments before, as they carry several archite genes.\n\n{PAWN_labelShort} also suffers from a rare illness called Hemocollapse Syndrome. Their blood slowly fails over time, leaving them weaker as the days pass. Care and treatment can slow the disease, but it cannot be cured, and in the end, it will take their life.</VQEA_ExperimentJoinsLetterDescription>
+  <VQEA_ExperimentJoinsLetterDescription>{PAWN_title} по имени {PAWN_nameDef} {PAWN_gender ? вышел : вышла} из ржавой криптосонной капсулы, {PAWN_gender ? одетый : одетая} лишь в тонкий больничный халат. {PAWN_gender ? Он : Она} немедленно присоединяется к вашей колонии.\n\n{PAWN_nameFull} {PAWN_gender ? известен : известна} как идеальный пациент. {PAWN_gender ? Его : Её} тело принимает каждую архитовую инъекцию без риска отторжения, словно {PAWN_gender ? его : её} клетки созданы для адаптации к генетическим изменениям. Это делает {PAWN_gender ? его : её} уникально пригодным для экспериментов с продвинутой архитовой технологией — фактически, {PAWN_gender ? он : она} уже {PAWN_gender ? прошёл : прошла} несколько экспериментов ранее, поскольку {PAWN_gender ? носит : носит} несколько архитовых генов.\n\n{PAWN_labelShort} также страдает от редкого заболевания под названием синдром гемоколлапса. {PAWN_gender ? Его : Её} кровь медленно деградирует со временем, делая {PAWN_gender ? его : её} слабее с каждым днём. Уход и лечение могут замедлить болезнь, но её нельзя вылечить, и в конце концов она {PAWN_gender ? заберёт его : заберёт её} жизнь.</VQEA_ExperimentJoinsLetterDescription>
 
   <!-- Inspect Pane Strings -->
   <!-- EN: Waiting for archite capsule. -->
-  <VQEA_ArchogenInjectorWaitingForCapsule>Waiting for archite capsule.</VQEA_ArchogenInjectorWaitingForCapsule>
+  <VQEA_ArchogenInjectorWaitingForCapsule>Ожидание архитовой капсулы.</VQEA_ArchogenInjectorWaitingForCapsule>
   <!-- EN: Waiting for person. -->
-  <VQEA_ArchogenInjectorWaitingForPawn>Waiting for person.</VQEA_ArchogenInjectorWaitingForPawn>
+  <VQEA_ArchogenInjectorWaitingForPawn>Ожидание человека.</VQEA_ArchogenInjectorWaitingForPawn>
   <!-- EN: Pawn inside, waiting for injection confirmation -->
-  <VQEA_ArchogenInjectorPawnInside>Pawn inside, waiting for injection confirmation</VQEA_ArchogenInjectorPawnInside>
+  <VQEA_ArchogenInjectorPawnInside>Человек внутри, ожидается подтверждение инъекции</VQEA_ArchogenInjectorPawnInside>
   <!-- EN: Injecting. Time remaining: {0} -->
-  <VQEA_ArchogenInjectorInjecting>Injecting. Time remaining: {0}</VQEA_ArchogenInjectorInjecting>
+  <VQEA_ArchogenInjectorInjecting>Выполняется инъекция. Осталось времени: {0}</VQEA_ArchogenInjectorInjecting>
   <!-- Acceptance Report Reasons -->
   <!-- EN: The archogen injector process has not been started. -->
-  <VQEA_ArchogenInjectorNotInit>The archogen injector process has not been started.</VQEA_ArchogenInjectorNotInit>
+  <VQEA_ArchogenInjectorNotInit>Процесс архогенного инъектора не запущен.</VQEA_ArchogenInjectorNotInit>
   <!-- EN: Archogen Injector is occupied. -->
-  <VQEA_ArchogenInjectorOccupied>Archogen Injector is occupied.</VQEA_ArchogenInjectorOccupied>
+  <VQEA_ArchogenInjectorOccupied>Архогенный инъектор занят.</VQEA_ArchogenInjectorOccupied>
   <!-- EN: Injection complete. -->
-  <VQEA_ArchogenInjectorComplete>Injection complete.</VQEA_ArchogenInjectorComplete>
+  <VQEA_ArchogenInjectorComplete>Инъекция завершена.</VQEA_ArchogenInjectorComplete>
   <!-- EN: No archite capsules available. -->
-  <VQEA_NoArchiteCapsules>No archite capsules available.</VQEA_NoArchiteCapsules>
+  <VQEA_NoArchiteCapsules>Нет доступных архитовых капсул.</VQEA_NoArchiteCapsules>
   <!-- EN: In injection coma. -->
-  <VQEA_HasInjectionComa>In injection coma.</VQEA_HasInjectionComa>
+  <VQEA_HasInjectionComa>В инъекционной коме.</VQEA_HasInjectionComa>
   <!-- EN: Choose genes -->
   <VQEA_ChooseGenesTitle>Choose genes</VQEA_ChooseGenesTitle>
   <!-- EN: You must select a gene from each category. -->
@@ -111,39 +111,39 @@
   <VQEA_NoSideEffectGenes>No side-effect genes available.</VQEA_NoSideEffectGenes>
   <!-- Gene Choice Dialogs -->
   <!-- EN: Choose an archite gene -->
-  <VQEA_ChooseArchiteGene>Choose an archite gene</VQEA_ChooseArchiteGene>
+  <VQEA_ChooseArchiteGene>Выберите архитовый ген</VQEA_ChooseArchiteGene>
   <!-- EN: Choose a side effect gene -->
-  <VQEA_ChooseSideEffectGene>Choose a side effect gene</VQEA_ChooseSideEffectGene>
+  <VQEA_ChooseSideEffectGene>Выберите побочный ген</VQEA_ChooseSideEffectGene>
   <!-- EN: No pawns available for injection. -->
-  <VQEA_NoInjectablePawns>No pawns available for injection.</VQEA_NoInjectablePawns>
+  <VQEA_NoInjectablePawns>Нет доступных людей для инъекции.</VQEA_NoInjectablePawns>
 
   <!-- Genes -->
   <!-- EN: Exceeded expectations -->
-  <VQEA_TextMote_ExceededExpectations>Exceeded expectations</VQEA_TextMote_ExceededExpectations>
+  <VQEA_TextMote_ExceededExpectations>Превзошёл ожидания</VQEA_TextMote_ExceededExpectations>
   <!-- EN: Medicine preserved -->
-  <VQEA_TextMote_MedicinePreserved>Medicine preserved</VQEA_TextMote_MedicinePreserved>
+  <VQEA_TextMote_MedicinePreserved>Медикаменты сохранены</VQEA_TextMote_MedicinePreserved>
   <!-- EN: {0} is no longer unwaveringly loyal due to {1}'s {2} gene. -->
-  <VQEA_PawnRecruitable>{0} is no longer unwaveringly loyal due to {1}'s {2} gene.</VQEA_PawnRecruitable>
+  <VQEA_PawnRecruitable>{0} больше не {PAWN_gender ? непоколебимо лоялен : непоколебимо лояльна} благодаря гену {2} у {1}.</VQEA_PawnRecruitable>
 
   <!-- Buildings -->
   <!-- EN: Override -->
-  <VQEA_Override>Override</VQEA_Override>
+  <VQEA_Override>Взломать</VQEA_Override>
   <!-- EN: Select a colonist to override the ancient pipeline junction, siphoning a large amount of chemfuel from it. The pipeline junction will need time before it can be hacked again. -->
-  <VQEA_OverrideDesc>Select a colonist to override the ancient pipeline junction, siphoning a large amount of chemfuel from it. The pipeline junction will need time before it can be hacked again.</VQEA_OverrideDesc>
+  <VQEA_OverrideDesc>Выберите поселенца для взлома древнего трубопроводного узла, чтобы откачать из него большое количество химического топлива. Трубопроводному узлу потребуется время, прежде чем его можно будет взломать снова.</VQEA_OverrideDesc>
   <!-- EN: Select a colonist to override the security on this. -->
-  <VQEA_OverrideDesc_Generic>Select a colonist to override the security on this.</VQEA_OverrideDesc_Generic>
+  <VQEA_OverrideDesc_Generic>Выберите поселенца для взлома системы безопасности.</VQEA_OverrideDesc_Generic>
   <!-- EN: Order this container to be opened by overriding its security. -->
   <VQEA_OverrideDesc_Queue>Order this container to be opened by overriding its security.</VQEA_OverrideDesc_Queue>
   <!-- EN: Cancel override -->
-  <VQEA_CancelOverride>Cancel override</VQEA_CancelOverride>
+  <VQEA_CancelOverride>Отменить взлом</VQEA_CancelOverride>
   <!-- EN: Cancel overriding this building. -->
-  <VQEA_CancelOverrideDesc>Cancel overriding this building.</VQEA_CancelOverrideDesc>
+  <VQEA_CancelOverrideDesc>Отменить взлом этого сооружения.</VQEA_CancelOverrideDesc>
   <!-- EN: This ancient vault door is locked -->
-  <VQEA_LockedAncientVaultDoor>This ancient vault door is locked</VQEA_LockedAncientVaultDoor>
+  <VQEA_LockedAncientVaultDoor>Эта древняя дверь хранилища заблокирована</VQEA_LockedAncientVaultDoor>
   <!-- EN: Intercept broadcast -->
-  <VQEA_InterceptBroadcast>Intercept broadcast</VQEA_InterceptBroadcast>
+  <VQEA_InterceptBroadcast>Перехватить трансляцию</VQEA_InterceptBroadcast>
   <!-- EN: Intercept the broadcast to find out the location of another lab where the broadcast is directed. -->
-  <VQEA_InterceptBroadcastDesc>Intercept the broadcast to find out the location of another lab where the broadcast is directed.</VQEA_InterceptBroadcastDesc>
+  <VQEA_InterceptBroadcastDesc>Перехватите трансляцию, чтобы узнать местоположение другой лаборатории, куда направлена трансляция.</VQEA_InterceptBroadcastDesc>
   <!-- EN: Carry {0} to biobattery -->
   <VQEA_CarryToBioBattery>Carry {0} to biobattery</VQEA_CarryToBioBattery>
   <!-- EN: Mass Left: {0} / {1} ({2}) -->
@@ -152,44 +152,44 @@
   <!-- EN: Load cargo -->
   <VQEA_LoadCargo>Погрузить груз</VQEA_LoadCargo>
   <!-- EN: Load cargo into a capsule that will be sent to some other vault far away. -->
-  <VQEA_LoadCargoDesc>Load cargo into a capsule that will be sent to some other vault far away.</VQEA_LoadCargoDesc>
+  <VQEA_LoadCargoDesc>Загрузить груз в капсулу, которая будет отправлена в другое далёкое хранилище.</VQEA_LoadCargoDesc>
   <!-- EN: Launch capsule -->
-  <VQEA_LaunchCapsule>Launch capsule</VQEA_LaunchCapsule>
+  <VQEA_LaunchCapsule>Запустить капсулу</VQEA_LaunchCapsule>
   <!-- EN: Launch the capsule with cargo down the pneumatic system. You may receive some goods from another vault in return. -->
-  <VQEA_LaunchCapsuleDesc>Launch the capsule with cargo down the pneumatic system. You may receive some goods from another vault in return.</VQEA_LaunchCapsuleDesc>
+  <VQEA_LaunchCapsuleDesc>Запустить капсулу с грузом в пневматическую систему. Вы можете получить товары из другого хранилища в ответ.</VQEA_LaunchCapsuleDesc>
   <!-- EN: Pneumatic capsule is fully loaded and ready to be sent. -->
-  <VQEA_PneumaticCapsuleReady>Pneumatic capsule is fully loaded and ready to be sent.</VQEA_PneumaticCapsuleReady>
+  <VQEA_PneumaticCapsuleReady>Пневматическая капсула полностью загружена и готова к отправке.</VQEA_PneumaticCapsuleReady>
   <!-- EN: Pneumatic capsule from another vault has arrived. -->
-  <VQEA_PneumaticCapsuleArrived>Pneumatic capsule from another vault has arrived.</VQEA_PneumaticCapsuleArrived>
+  <VQEA_PneumaticCapsuleArrived>Прибыла пневматическая капсула из другого хранилища.</VQEA_PneumaticCapsuleArrived>
   <!-- EN: A pneumatic capsule is returning. -->
-  <VQEA_PneumaticTubeReturning>A pneumatic capsule is returning.</VQEA_PneumaticTubeReturning>
+  <VQEA_PneumaticTubeReturning>Пневматическая капсула возвращается.</VQEA_PneumaticTubeReturning>
   <!-- EN: Your {1} can't finish loading the pneumatic capsule because some items became unavailable ({2_labelShort}). -->
-  <VQEA_MessageCantLoadMoreIntoPneumaticTube>Your {1} can't finish loading the pneumatic capsule because some items became unavailable ({2_labelShort}).</VQEA_MessageCantLoadMoreIntoPneumaticTube>
+  <VQEA_MessageCantLoadMoreIntoPneumaticTube>Ваш поселенец {1} не может завершить загрузку пневматической капсулы, потому что некоторые предметы стали недоступны ({2_labelShort}).</VQEA_MessageCantLoadMoreIntoPneumaticTube>
   <!-- Vault Commands -->
   <!-- EN: Enter vault -->
-  <VQE_EnterVault>Enter vault</VQE_EnterVault>
+  <VQE_EnterVault>Войти в убежище</VQE_EnterVault>
   <!-- EN: Exit vault -->
-  <VQE_ExitVault>Exit vault</VQE_ExitVault>
+  <VQE_ExitVault>Выйти из убежища</VQE_ExitVault>
   <!-- EN: View vault -->
-  <VQE_ViewVault>View vault</VQE_ViewVault>
+  <VQE_ViewVault>Просмотреть убежище</VQE_ViewVault>
   <!-- EN: View the destination vault interior -->
-  <VQE_ViewVaultDesc>View the destination vault interior</VQE_ViewVaultDesc>
+  <VQE_ViewVaultDesc>Просмотреть интерьер целевого убежища</VQE_ViewVaultDesc>
 
   <!-- Ancient Wonderdoc -->
   <!-- EN: Contains: {0} -->
-  <VQEA_WonderdocContains>Contains: {0}</VQEA_WonderdocContains>
+  <VQEA_WonderdocContains>Содержит: {0}</VQEA_WonderdocContains>
   <!-- EN: Cycle: {0} -->
-  <VQEA_WonderdocCycle>Cycle: {0}</VQEA_WonderdocCycle>
+  <VQEA_WonderdocCycle>Цикл: {0}</VQEA_WonderdocCycle>
   <!-- EN: Time remaining: {0} -->
   <VQEA_WonderdocTimeRemaining>Осталось времени: {0}</VQEA_WonderdocTimeRemaining>
   <!-- EN: {PAWN_nameDef} successfully completed their wonderdoc bioregeneration wondercycle. -->
-  <VQEA_WonderdocBioregenerationSuccess>{PAWN_nameDef} successfully completed their wonderdoc bioregeneration wondercycle.</VQEA_WonderdocBioregenerationSuccess>
+  <VQEA_WonderdocBioregenerationSuccess>{PAWN_nameDef} успешно завершил свой цикл биорегенерации в wonderdoc.</VQEA_WonderdocBioregenerationSuccess>
   <!-- EN: {PAWN_nameDef} successfully completed their wonderdoc instarehab wondercycle. -->
-  <VQEA_WonderdocInstarehabSuccess>{PAWN_nameDef} successfully completed their wonderdoc instarehab wondercycle.</VQEA_WonderdocInstarehabSuccess>
+  <VQEA_WonderdocInstarehabSuccess>{PAWN_nameDef} успешно завершил свой цикл инстарабата в wonderdoc.</VQEA_WonderdocInstarehabSuccess>
   <!-- EN: {PAWN_nameDef} successfully completed their wonderdoc time reversal wondercycle. -->
-  <VQEA_WonderdocTimeReversalSuccess>{PAWN_nameDef} successfully completed their wonderdoc time reversal wondercycle.</VQEA_WonderdocTimeReversalSuccess>
+  <VQEA_WonderdocTimeReversalSuccess>{PAWN_nameDef} успешно завершил свой цикл реверсии времени в wonderdoc.</VQEA_WonderdocTimeReversalSuccess>
   <!-- EN: {PAWN_nameDef} successfully completed their wonderdoc skill reformatting wondercycle. -->
-  <VQEA_WonderdocSkillReformattingSuccess>{PAWN_nameDef} successfully completed their wonderdoc skill reformatting wondercycle.</VQEA_WonderdocSkillReformattingSuccess>
+  <VQEA_WonderdocSkillReformattingSuccess>{PAWN_nameDef} успешно завершил свой цикл переработки навыков в wonderdoc.</VQEA_WonderdocSkillReformattingSuccess>
   <!-- EN: Ancient wonderdoc suffered a malfunction during the wondercycle on {PAWN_nameDef}. -->
   <VQEA_WonderdocMalfunction>Ancient wonderdoc suffered a malfunction during the wondercycle on {PAWN_nameDef}.</VQEA_WonderdocMalfunction>
   <!-- EN: Chance to malfunction: {0} -->
