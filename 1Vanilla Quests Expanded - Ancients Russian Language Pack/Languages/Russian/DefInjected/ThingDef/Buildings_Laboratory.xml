@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: archogen injector -->
+  <VQEA_ArchogenInjector.label>archogen injector</VQEA_ArchogenInjector.label>
+  <!-- EN: An ancient, hermetically sealed pod designed to induce powerful but chaotic genetic alterations through archovapor immersion. A primary slot seems to feed archite capsules into a destabilization chamber, where they are vaporized and channeled into the host body. Efforts can be made to control the process from there, but perhaps trying to harness this power is what left this machine abandoned in the first place.
+\n\nUsed to inject a colonist with archite capsules, triggering genetic alteration and producing a random archite gene with possible side effects. Success can be improved by linking it with additional ancient equipment. -->
+  <VQEA_ArchogenInjector.description>An ancient, hermetically sealed pod designed to induce powerful but chaotic genetic alterations through archovapor immersion. A primary slot seems to feed archite capsules into a destabilization chamber, where they are vaporized and channeled into the host body. Efforts can be made to control the process from there, but perhaps trying to harness this power is what left this machine abandoned in the first place.
+\n\nUsed to inject a colonist with archite capsules, triggering genetic alteration and producing a random archite gene with possible side effects. Success can be improved by linking it with additional ancient equipment.</VQEA_ArchogenInjector.description>
+
+  <!-- EN: neurostabilizer array -->
+  <VQEA_NeurostabilizerArray.label>neurostabilizer array</VQEA_NeurostabilizerArray.label>
+  <!-- EN: A compact neural-phase regulator fitted with microtuned synapse coils and a vented cortex lattice that emits a steady hum of stabilizing neurostatic fields. Its core uses drifting neuroflux anchors to calm archite turbulence during injection cycles.\n\nImproves the success chance of archite injections when linked to an archogen injector. Up to 10 neurostabilizer Arrays can link to a single archogen injector. -->
+  <VQEA_NeurostabilizerArray.description>A compact neural-phase regulator fitted with microtuned synapse coils and a vented cortex lattice that emits a steady hum of stabilizing neurostatic fields. Its core uses drifting neuroflux anchors to calm archite turbulence during injection cycles.\n\nImproves the success chance of archite injections when linked to an archogen injector. Up to 10 neurostabilizer Arrays can link to a single archogen injector.</VQEA_NeurostabilizerArray.description>
+
+  <!-- EN: cognitive recovery array -->
+  <VQEA_CognitiveRecoveryArray.label>cognitive recovery array</VQEA_CognitiveRecoveryArray.label>
+  <!-- EN: A slim neuro-cascade module lined with mnemonic pulse coils and echo-field dampers that cycle through soft, rhythmic memory stabilization waves. Its internal neurogel reservoir circulates thought-restorative pulses that soothe post-archite neural disruption.\n\nReduces the duration of the injection coma by 1 day when linked to an archogen injector.. Up to 6 cognitive recovery arrays can link to a single archogen injector. -->
+  <VQEA_CognitiveRecoveryArray.description>A slim neuro-cascade module lined with mnemonic pulse coils and echo-field dampers that cycle through soft, rhythmic memory stabilization waves. Its internal neurogel reservoir circulates thought-restorative pulses that soothe post-archite neural disruption.\n\nReduces the duration of the injection coma by 1 day when linked to an archogen injector.. Up to 6 cognitive recovery arrays can link to a single archogen injector.</VQEA_CognitiveRecoveryArray.description>
+
+  <!-- EN: rapid infusion pump -->
+  <VQEA_RapidInfusionPump.label>rapid infusion pump</VQEA_RapidInfusionPump.label>
+  <!-- EN: A high-pressure archite-flow pump fitted with tri-phase accelerators and microchannel conduits that push volatile nanites through the injector lattice at extreme speed. Stabilizing fins vibrate as the pump regulates infusion pressure across the gene chamber.\n\nShortens the overall injection time by 12 hours when linked to an archogen injector.\n\nUp to 9 rapid infusion pumps can link to a single archogen injector. -->
+  <VQEA_RapidInfusionPump.description>A high-pressure archite-flow pump fitted with tri-phase accelerators and microchannel conduits that push volatile nanites through the injector lattice at extreme speed. Stabilizing fins vibrate as the pump regulates infusion pressure across the gene chamber.\n\nShortens the overall injection time by 12 hours when linked to an archogen injector.\n\nUp to 9 rapid infusion pumps can link to a single archogen injector.</VQEA_RapidInfusionPump.description>
+
+  <!-- EN: archite recycler -->
+  <VQEA_ArchiteRecycler.label>archite recycler</VQEA_ArchiteRecycler.label>
+  <!-- EN: A two-chamber nanite reclamation unit fitted with siphon coils and phase-binding spirals that draw unstable archite residue back into a containment loop. Inside, a dense mesh of microfiltration veins reassembles loose nanite clusters into a usable capsule.\n\nRefunds the archite capsule on a rejected injection when linked to an archogen injector.\n\nUp to 1 archite recycler can link to a single archogen injector. -->
+  <VQEA_ArchiteRecycler.description>A two-chamber nanite reclamation unit fitted with siphon coils and phase-binding spirals that draw unstable archite residue back into a containment loop. Inside, a dense mesh of microfiltration veins reassembles loose nanite clusters into a usable capsule.\n\nRefunds the archite capsule on a rejected injection when linked to an archogen injector.\n\nUp to 1 archite recycler can link to a single archogen injector.</VQEA_ArchiteRecycler.description>
+
+  <!-- EN: genomic attenuator -->
+  <VQEA_GenomicAttenuator.label>genomic attenuator</VQEA_GenomicAttenuator.label>
+  <!-- EN: A large quad-node stabilizer rig packed with geno-dampening regulators and microphase baffles that mute unstable metabolic signatures. Its internal attenuation plates hum softly as they pare down excessive gene volatility during archite infusion.\n\nReduces the metabolism strength of the random side-effect gene by 1 when linked to an archogen injector.\n\nUp to 4 genomic attenuators can link to a single archogen injector. -->
+  <VQEA_GenomicAttenuator.description>A large quad-node stabilizer rig packed with geno-dampening regulators and microphase baffles that mute unstable metabolic signatures. Its internal attenuation plates hum softly as they pare down excessive gene volatility during archite infusion.\n\nReduces the metabolism strength of the random side-effect gene by 1 when linked to an archogen injector.\n\nUp to 4 genomic attenuators can link to a single archogen injector.</VQEA_GenomicAttenuator.description>
+
+  <!-- EN: rejection buffer coil -->
+  <VQEA_RejectionBufferCoil.label>rejection buffer coil</VQEA_RejectionBufferCoil.label>
+  <!-- EN: An insulated coil wrapped in ionized synapse wire and anchored with anti-reflux stabilizers that shield the injector chamber from archite backlash. When active, it emits a soft oscillation designed to suppress rejection-triggering impulses in the nanite stream.\n\nDecreases the rejection chance of the injection procedure when linked to an archogen injector.\n\nUp to 5 rejection buffer coils can link to a single archogen injector. -->
+  <VQEA_RejectionBufferCoil.description>An insulated coil wrapped in ionized synapse wire and anchored with anti-reflux stabilizers that shield the injector chamber from archite backlash. When active, it emits a soft oscillation designed to suppress rejection-triggering impulses in the nanite stream.\n\nDecreases the rejection chance of the injection procedure when linked to an archogen injector.\n\nUp to 5 rejection buffer coils can link to a single archogen injector.</VQEA_RejectionBufferCoil.description>
+
+  <!-- EN: spliceframe uplink -->
+  <VQEA_SpliceframeUplink.label>spliceframe uplink</VQEA_SpliceframeUplink.label>
+  <!-- EN: A dense uplink pillar fitted with resonance spire arrays and gene-phase telemetry coils that scrape and decode archite fluctuation patterns. Its chroma-linked neural mesh emits faint pulses as it maps unstable outcomes across an ancient spliceframe network.\n\nReveals all outcome chances in the archogen injector and slightly increases the odds of mutation outcomes.\n\nUp to 1 spliceframe uplink can link to a single archogen injector. -->
+  <VQEA_SpliceframeUplink.description>A dense uplink pillar fitted with resonance spire arrays and gene-phase telemetry coils that scrape and decode archite fluctuation patterns. Its chroma-linked neural mesh emits faint pulses as it maps unstable outcomes across an ancient spliceframe network.\n\nReveals all outcome chances in the archogen injector and slightly increases the odds of mutation outcomes.\n\nUp to 1 spliceframe uplink can link to a single archogen injector.</VQEA_SpliceframeUplink.description>
+
+  <!-- EN: mutagen inhibitor core -->
+  <VQEA_MutagenInhibitorCore.label>mutagen inhibitor core</VQEA_MutagenInhibitorCore.label>
+  <!-- EN: A massive containment engine built around a tri-core genoquench reactor and layered inhibition plates designed to neutralize runaway mutagenic surges. Thick conduits cycle suppressive counterwaves that smother mutation cascades before they can form.\n\nRemoves all mutation outcome chances entirely when linked to an Archogen Injector, but greatly increases the rejection chance.\n\nUp to 1 mutagen inhibitor core can link to a single archogen injector. -->
+  <VQEA_MutagenInhibitorCore.description>A massive containment engine built around a tri-core genoquench reactor and layered inhibition plates designed to neutralize runaway mutagenic surges. Thick conduits cycle suppressive counterwaves that smother mutation cascades before they can form.\n\nRemoves all mutation outcome chances entirely when linked to an Archogen Injector, but greatly increases the rejection chance.\n\nUp to 1 mutagen inhibitor core can link to a single archogen injector.</VQEA_MutagenInhibitorCore.description>
+
+  <!-- EN: trait selection prism -->
+  <VQEA_TraitSelectionPrism.label>trait selection prism</VQEA_TraitSelectionPrism.label>
+  <!-- EN: A crystalline multi-lens console powered by phased neuro-optic conduits and reflective geno-beam sequencers that split archite outcomes into selectable possibility streams. Its prism array glows with shifting spectral patterns when a stable result is detected.\n\nAllows choosing between two different archite genes on a successful injection.\n\nUp to 1 trait selection prism can link to a single archogen injector. -->
+  <VQEA_TraitSelectionPrism.description>A crystalline multi-lens console powered by phased neuro-optic conduits and reflective geno-beam sequencers that split archite outcomes into selectable possibility streams. Its prism array glows with shifting spectral patterns when a stable result is detected.\n\nAllows choosing between two different archite genes on a successful injection.\n\nUp to 1 trait selection prism can link to a single archogen injector.</VQEA_TraitSelectionPrism.description>
+
+  <!-- EN: aberration redirector -->
+  <VQEA_AberrationRedirector.label>aberration redirector</VQEA_AberrationRedirector.label>
+  <!-- EN: A heavy redirection module built from stacked mutation siphons and counterphase nodules that reroute unstable gene echoes into controlled outcome channels. The device hums as its internal actuators shift to isolate potential aberrations.\n\nAllows choosing between two different negative side genes on a successful injection.\n\nUp to 1 aberration redirector can link to a single archogen injector. -->
+  <VQEA_AberrationRedirector.description>A heavy redirection module built from stacked mutation siphons and counterphase nodules that reroute unstable gene echoes into controlled outcome channels. The device hums as its internal actuators shift to isolate potential aberrations.\n\nAllows choosing between two different negative side genes on a successful injection.\n\nUp to 1 aberration redirector can link to a single archogen injector.</VQEA_AberrationRedirector.description>
+
+  <!-- EN: complexity harmonizer -->
+  <VQEA_ComplexityHarmonizer.label>complexity harmonizer</VQEA_ComplexityHarmonizer.label>
+  <!-- EN: A tall stabilization unit filled with layered geno-harmonic plates and oscillating phase regulators that smooth out chaotic complexity spikes within the archite stream. Its internal synchronizer cores emit low rhythmic pulses as they bring tangled genetic pathways into orderly alignment.\n\nPrevents genetic complexity from reducing success chance, but each point of complexity will increase the injection procedure duration by 1 hour.\n\nUp to 1 complexity harmonizer can link to a single archogen injector. -->
+  <VQEA_ComplexityHarmonizer.description>A tall stabilization unit filled with layered geno-harmonic plates and oscillating phase regulators that smooth out chaotic complexity spikes within the archite stream. Its internal synchronizer cores emit low rhythmic pulses as they bring tangled genetic pathways into orderly alignment.\n\nPrevents genetic complexity from reducing success chance, but each point of complexity will increase the injection procedure duration by 1 hour.\n\nUp to 1 complexity harmonizer can link to a single archogen injector.</VQEA_ComplexityHarmonizer.description>
+
+  <!-- EN: archite pathing array -->
+  <VQEA_ArchitePathingArray.label>archite pathing array</VQEA_ArchitePathingArray.label>
+  <!-- EN: A heavy tri-spire console built with archite-routing conduits and branching nanoflux matrices that split the injection stream into parallel mutagenic pathways. The array’s central node glows with shifting colors as it maps new routes for rogue archite clusters.\n\nProvides a chance to gain a second random archite gene or a second random offset gene after a successful injection.\n\nUp to 1 archite pathing array can link to a single archogen injector. -->
+  <VQEA_ArchitePathingArray.description>A heavy tri-spire console built with archite-routing conduits and branching nanoflux matrices that split the injection stream into parallel mutagenic pathways. The array’s central node glows with shifting colors as it maps new routes for rogue archite clusters.\n\nProvides a chance to gain a second random archite gene or a second random offset gene after a successful injection.\n\nUp to 1 archite pathing array can link to a single archogen injector.</VQEA_ArchitePathingArray.description>
+
+  <!-- EN: ancient wonderdoc -->
+  <VQEA_AncientWonderdoc.label>ancient wonderdoc</VQEA_AncientWonderdoc.label>
+  <!-- EN: A mysterious ancient medical machine capable of performing powerful “wondercycles” that heal, reshape, or alter a patient in dramatic ways. Its long-neglected systems can malfunction, and the risk grows with every successful procedure. The technology is difficult to comprehend. -->
+  <VQEA_AncientWonderdoc.description>A mysterious ancient medical machine capable of performing powerful “wondercycles” that heal, reshape, or alter a patient in dramatic ways. Its long-neglected systems can malfunction, and the risk grows with every successful procedure. The technology is difficult to comprehend.</VQEA_AncientWonderdoc.description>
+  <!-- EN: Bioregeneration wondercycle -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.0.label>Bioregeneration wondercycle</VQEA_AncientWonderdoc.comps.2.cycles.0.label>
+  <!-- EN: Initiate the bioregeneration wondercycle. This cycle will heal all fresh wounds, heal all permanent injuries, and restore all missing body parts, including limbs.\n\nIf a malfunction occurs, the patient will receive random illnesses, which may include carcinoma, as well as severe damage to some of their limbs. -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.0.description>Initiate the bioregeneration wondercycle. This cycle will heal all fresh wounds, heal all permanent injuries, and restore all missing body parts, including limbs.\n\nIf a malfunction occurs, the patient will receive random illnesses, which may include carcinoma, as well as severe damage to some of their limbs.</VQEA_AncientWonderdoc.comps.2.cycles.0.description>
+  <!-- EN: Instarehab wondercycle -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.1.label>Instarehab wondercycle</VQEA_AncientWonderdoc.comps.2.cycles.1.label>
+  <!-- EN: Initiate the instarehab wondercycle. This cycle will cure all addictions, including a luciferium addiction. If an addiction is caused by a genetic dependency, the responsible gene will also be removed.\n\nIf a malfunction occurs, the patient will receive a random genetic drug dependency. -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.1.description>Initiate the instarehab wondercycle. This cycle will cure all addictions, including a luciferium addiction. If an addiction is caused by a genetic dependency, the responsible gene will also be removed.\n\nIf a malfunction occurs, the patient will receive a random genetic drug dependency.</VQEA_AncientWonderdoc.comps.2.cycles.1.description>
+  <!-- EN: Time reversal wondercycle -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.2.label>Time reversal wondercycle</VQEA_AncientWonderdoc.comps.2.cycles.2.label>
+  <!-- EN: Initiate the time reversal wondercycle. This cycle will de-age the patient by 10 years.\n\nIf a malfunction occurs, the patient will either become a toddler again, or will become an elderly. -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.2.description>Initiate the time reversal wondercycle. This cycle will de-age the patient by 10 years.\n\nIf a malfunction occurs, the patient will either become a toddler again, or will become an elderly.</VQEA_AncientWonderdoc.comps.2.cycles.2.description>
+  <!-- EN: Skill reformatting wondercycle -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.3.label>Skill reformatting wondercycle</VQEA_AncientWonderdoc.comps.2.cycles.3.label>
+  <!-- EN: Initiate the skill reformatting wondercycle. This cycle will redistribute the current skill levels equally across all skills the patient is capable of.\n\nIf a malfunction occurs, the effect will still occur, but the experience will be distributed randomly. -->
+  <VQEA_AncientWonderdoc.comps.2.cycles.3.description>Initiate the skill reformatting wondercycle. This cycle will redistribute the current skill levels equally across all skills the patient is capable of.\n\nIf a malfunction occurs, the effect will still occur, but the experience will be distributed randomly.</VQEA_AncientWonderdoc.comps.2.cycles.3.description>
+
+  <!-- EN: busted ancient wonderdoc -->
+  <VQEA_BustedAncientWonderdoc.label>busted ancient wonderdoc</VQEA_BustedAncientWonderdoc.label>
+  <!-- EN: Once capable of performing powerful wondercycles, this ancient medical machine has fully broken down after a catastrophic malfunction. Its chambers are cracked, its systems dead, and it can no longer be used. Some valuables may still be salvaged from it. -->
+  <VQEA_BustedAncientWonderdoc.description>Once capable of performing powerful wondercycles, this ancient medical machine has fully broken down after a catastrophic malfunction. Its chambers are cracked, its systems dead, and it can no longer be used. Some valuables may still be salvaged from it.</VQEA_BustedAncientWonderdoc.description>
+
+
+
+</LanguageData>
