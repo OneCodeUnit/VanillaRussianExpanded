@@ -6,6 +6,8 @@
   <VME_AutomationDecreased>Эффективность автоматизации: понижена принципом</VME_AutomationDecreased>
   <!-- EN: Crafting speed: slower for manual precept -->
   <VME_AutomationManual>Скорость изготовления: замедлена принципом</VME_AutomationManual>
+  <!-- EN: Crafting speed: faster for manual precept -->
+  <VME_AutomationManualFaster>Скорость изготовления: ускорена принципом</VME_AutomationManualFaster>
   <!-- EN: Meditation: exquisite precept -->
   <VME_MeditationSpotExtra>Медитация: совершенна от принципа</VME_MeditationSpotExtra>
   <!-- EN: Recreation: loved precept -->
@@ -169,4 +171,6 @@
   <VFEAncients.InterrogationSuccess>Допрос успешен</VFEAncients.InterrogationSuccess>
   <!-- EN: {0} has successfully interrogated {1}, who has revealed the location of {2}. -->
   <VFEAncients.InterrogationSuccessDetail>На допросе {1} раскалывается и сообщает {0} о {2}.</VFEAncients.InterrogationSuccessDetail>
+  <!-- EN: Interrogation failed! -->
+  <VFEAncients.InterrogationFailure>Допрос провален</VFEAncients.InterrogationFailure>
 </LanguageData>
