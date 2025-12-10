@@ -23,7 +23,7 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->thicket</li>
   -->
-  <RG_NamerAspenForest.questNameRules.rulesStrings>
+  <RG_NamerAspenForest.rulePack.rulesStrings>
     <li>r_name(p=0.3)->[aspenForest_adjective] [forest_name]</li>
     <li>r_name(p=0.2)->[aspenForest_adjective] [terrain_word_aspen]</li>
     <li>aspenForest_adjective(p=2)->золотой</li>
@@ -37,4 +37,4 @@
     <li>terrain_word_aspen(p=3)->осиновый лес</li>
     <li>terrain_word_aspen(p=2)->осинник</li>
     <li>terrain_word_aspen(p=2)->лес</li>
-  </RG_NamerAspenForest.questNameRules.rulesStrings>
+  </RG_NamerAspenForest.rulePack.rulesStrings>
