@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Goliann Xenotype</name>
+  <author>Sovereign</author>
+  <packageId>Sov.Goliann</packageId>
+  <description>A xenohuman race of gentle giants, the Goliann were engineered as bodyguards for the wealthy. Unconcerned with long-term survival prospects of their race, Golianns' creators left their reproductive functions atrophied for the sake of increased physical performance, making them a rare sight in the wild reaches of rimworlds. Intended to bond fellow Goliann within their VIPs security detail and no-one else, the xenotype is deeply solitary, rarely staying long in all but the most accommodating communities.</description>
+
+  <supportedVersions>
+  <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+  <li>
+   <packageId>Ludeon.RimWorld.Biotech</packageId>
+   <displayName>Biotech</displayName>
+   <steamWorkshopUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/</steamWorkshopUrl>
+  </li>
+  
+  <li>
+   <packageId>EBSG.Framework</packageId>
+   <displayName>EBSG Framework</displayName>
+   <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3112549163</steamWorkshopUrl>
+  </li>
+  
+  </modDependencies>
+  
+  <loadAfter>
+  <li>Ludeon.RimWorld</li>
+  <li>Ludeon.RimWorld.Royalty</li>
+  <li>Ludeon.RimWorld.Biotech</li>
+  <li>EBSG.Framework</li>
+  </loadAfter>
+  </ModMetaData>
