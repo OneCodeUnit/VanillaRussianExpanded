@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- EN: questName->Infested supersoldier lab -->
-  <VQE_SpliceframeBlacksite.questNameRules.rulesStrings.0>questName-&gt;Infested supersoldier lab</VQE_SpliceframeBlacksite.questNameRules.rulesStrings.0>
-  <!-- EN: questDescription(askerIsNull==True)->The intercepted transmission is an urgent distress call from an additional covert laboratory site codenamed "Spliceframe Blacksite". The broadcast warns that the entire laboratory has been compromised after a disaster, falling to a sudden massive infestation of insectoids drawn toward a chemical leak.\n\nThe broadcast refers to a useful genetic device called a spliceframe uplink capable of offering transparent probabilities on genetic experiments. Our objective is to locate the uplink and uninstall it for use in our own laboratory. We should approach well prepared to deal with a large insectoid threat. -->
-  <VQE_SpliceframeBlacksite.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==True)-&gt;The intercepted transmission is an urgent distress call from an additional covert laboratory site codenamed "Spliceframe Blacksite". The broadcast warns that the entire laboratory has been compromised after a disaster, falling to a sudden massive infestation of insectoids drawn toward a chemical leak.\n\nThe broadcast refers to a useful genetic device called a spliceframe uplink capable of offering transparent probabilities on genetic experiments. Our objective is to locate the uplink and uninstall it for use in our own laboratory. We should approach well prepared to deal with a large insectoid threat.</VQE_SpliceframeBlacksite.questDescriptionRules.rulesStrings.0>
-
-
-
+  <!-- EN:         
+    <li>questName->Infested supersoldier lab</li>
+  -->
+  <VQE_SpliceframeBlacksite.questNameRules.rulesStrings>    
+    <li>questName->Infested supersoldier lab</li>
+  </VQE_SpliceframeBlacksite.questNameRules.rulesStrings>
+  <!-- EN:     
+    <li>questDescription(askerIsNull==True)->The intercepted transmission is an urgent distress call from an additional covert laboratory site codenamed "Spliceframe Blacksite". The broadcast warns that the entire laboratory has been compromised after a disaster, falling to a sudden massive infestation of insectoids drawn toward a chemical leak.\n\nThe broadcast refers to a useful genetic device called a spliceframe uplink capable of offering transparent probabilities on genetic experiments. Our objective is to locate the uplink and uninstall it for use in our own laboratory. We should approach well prepared to deal with a large insectoid threat.</li>
+  -->
+  <VQE_SpliceframeBlacksite.questDescriptionRules.rulesStrings>        
+    <li>questDescription(askerIsNull==True)->The intercepted transmission is an urgent distress call from an additional covert laboratory site codenamed "Spliceframe Blacksite". The broadcast warns that the entire laboratory has been compromised after a disaster, falling to a sudden massive infestation of insectoids drawn toward a chemical leak.\n\nThe broadcast refers to a useful genetic device called a spliceframe uplink capable of offering transparent probabilities on genetic experiments. Our objective is to locate the uplink and uninstall it for use in our own laboratory. We should approach well prepared to deal with a large insectoid threat.</li>
+  </VQE_SpliceframeBlacksite.questDescriptionRules.rulesStrings>
 </LanguageData>
