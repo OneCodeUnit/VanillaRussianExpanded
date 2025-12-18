@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: herculean -->
   <VQEA_Herculean.label>сила Геракла</VQEA_Herculean.label>
@@ -34,6 +34,12 @@
   <VQEA_PlasteelSkin.label>пласталевая кожа</VQEA_PlasteelSkin.label>
   <!-- EN: Carriers of this gene possess dense, reinforced dermal armor. Their skin resists bullets, absorbs blunt force, and disperses heat, turning their entire body into a living shield. -->
   <VQEA_PlasteelSkin.description>Носители этого гена обладают плотной, укреплённой кожной бронёй. Их кожа отражает пули, поглощает тупые удары и рассеивает тепло, превращая всё тело в живой щит.</VQEA_PlasteelSkin.description>
+  <!-- EN: +35% blunt natural armour. -->
+  <VQEA_PlasteelSkin.customEffectDescriptions.0>+35% к естественной защите от типы атаки «удар».</VQEA_PlasteelSkin.customEffectDescriptions.0>
+  <!-- EN: +50% sharp natural armour. -->
+  <VQEA_PlasteelSkin.customEffectDescriptions.1>+50% к естественной защите от «проникновение».</VQEA_PlasteelSkin.customEffectDescriptions.1>
+  <!-- EN: +160% heat natural armour -->
+  <VQEA_PlasteelSkin.customEffectDescriptions.2>+160% к естественной защите от «нагрев».</VQEA_PlasteelSkin.customEffectDescriptions.2>
 
   <!-- EN: plasteel claws -->
   <VQEA_PlasteelClaws.label>пласталевые когти</VQEA_PlasteelClaws.label>
@@ -59,6 +65,8 @@
   <VQEA_PassiveMeditation.label>пассивная медитация</VQEA_PassiveMeditation.label>
   <!-- EN: Carriers of this gene possess archites that passively channel ambient psychic energy, replenishing psyfocus without meditation. These ever-attuned minds remain sharp, composed, and ready to cast at all times. -->
   <VQEA_PassiveMeditation.description>Носители этого гена обладают архитами, которые пассивно направляют окружающую психическую энергию, восполняя пси-концентрацию без медитации. Эти всегда настроенные умы остаются острыми, собранными и готовыми к применению способностей в любое время.</VQEA_PassiveMeditation.description>
+  <!-- EN: Passively regenerates 1% psyfocus per hour. -->
+  <VQEA_PassiveMeditation.customEffectDescriptions.0>Пассивное восстановление 1% пси-концентрации в час.</VQEA_PassiveMeditation.customEffectDescriptions.0>
 
   <!-- EN: bulwark -->
   <VQEA_Bulwark.label>бастион</VQEA_Bulwark.label>
@@ -79,61 +87,87 @@
   <VQEA_MasterfulAnimals.label>мастерство животноводства</VQEA_MasterfulAnimals.label>
   <!-- EN: The carrier's aptitude in Animals is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Animals. Specialized archites embedded in the limbic system and motor cortex enable this enhanced empathy and coordination, creating a unique form of joy called animal relaxation while tending to animals. -->
   <VQEA_MasterfulAnimals.description>Склонность носителя к животноводству повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Специализированные архиты, встроенные в лимбическую систему и моторную кору, обеспечивают улучшенную эмпатию и координацию, создавая уникальную форму радости, называемую расслаблением с животными.</VQEA_MasterfulAnimals.description>
+  <!-- EN: Animal tending jobs provide recreation. -->
+  <VQEA_MasterfulAnimals.customEffectDescriptions.0>Работа с животными развлекает.</VQEA_MasterfulAnimals.customEffectDescriptions.0>
 
   <!-- EN: masterful artistic -->
   <VQEA_MasterfulArtistic.label>мастерство искусства</VQEA_MasterfulArtistic.label>
   <!-- EN: The carrier's aptitude in Artistic is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Artistic. They work with intense passion, and when they create a masterpiece, a portion of the resources used is miraculously reclaimed. This is made possible by archites that optimize muscle memory and visual-spatial reasoning, recycling material with remarkable efficiency. -->
   <VQEA_MasterfulArtistic.description>Склонность носителя к искусству повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Носители работают с сильной страстью, и когда создают шедевр, часть использованных ресурсов чудесным образом возвращается. Это стало возможным благодаря архитам, которые оптимизируют мышечную память и визуально-пространственное мышление, позволяя переиспользовать материал с замечательной эффективностью.</VQEA_MasterfulArtistic.description>
+  <!-- EN: Constructing a masterwork work (either recipe-based or construction-based) refunds 20% of resources spent. -->
+  <VQEA_MasterfulArtistic.customEffectDescriptions.0>Создание шедевра возвращает 20% использованных ресурсов.</VQEA_MasterfulArtistic.customEffectDescriptions.0>
 
   <!-- EN: masterful construction -->
   <VQEA_MasterfulConstruction.label>мастерство строительства</VQEA_MasterfulConstruction.label>
   <!-- EN: The carrier's aptitude in Construction is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Construction. Occasionally, they exceed expectations, returning some of the materials used during construction as a result of their efficiency. -->
   <VQEA_MasterfulConstruction.description>Склонность носителя к строительству повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Иногда носители превосходят ожидания своей эффективностью, возвращая часть материалов, использованных во время строительства.</VQEA_MasterfulConstruction.description>
+  <!-- EN: 50% chance to exceed expectations while constructing, refunding 20% of the materials used. -->
+  <VQEA_MasterfulConstruction.customEffectDescriptions.0>50% шанс превзойти ожидания при строительстве и вернуть 20% использованных материалов.</VQEA_MasterfulConstruction.customEffectDescriptions.0>
 
   <!-- EN: masterful cooking -->
   <VQEA_MasterfulCooking.label>мастерство кулинарии</VQEA_MasterfulCooking.label>
   <!-- EN: The carrier's aptitude in Cooking is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Cooking. Nanoscopic archites in the sensory cortex fine-tune taste and motor control, doubling the cooking speed. -->
   <VQEA_MasterfulCooking.description>Склонность носителя к кулинарии повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Наноскопические архиты в сенсорной коре тонко настраивают вкус и контроль мышц, удваивая скорость готовки.</VQEA_MasterfulCooking.description>
+  <!-- EN: Butchery efficiency cap removed. -->
+  <VQEA_MasterfulCooking.customEffectDescriptions.0>Показатель эффективности разделки не имеет ограничения.</VQEA_MasterfulCooking.customEffectDescriptions.0>
 
   <!-- EN: masterful crafting -->
   <VQEA_MasterfulCrafting.label>мастерство ремесла</VQEA_MasterfulCrafting.label>
   <!-- EN: The carrier's aptitude in Crafting is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Crafting. Archites guide the carrier’s fine motor skills and decision-making, ensuring peak performance in crafting. -->
   <VQEA_MasterfulCrafting.description>Склонность носителя к ремеслу повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Архиты направляют мелкую моторику и принятие решений носителем, обеспечивая максимальную производительность при создании предметов.</VQEA_MasterfulCrafting.description>
+  <!-- EN: +1 Quality bonus to anything crafted. -->
+  <VQEA_MasterfulCrafting.customEffectDescriptions.0>+1 к уровню качества создаваемых предметов.</VQEA_MasterfulCrafting.customEffectDescriptions.0>
 
   <!-- EN: masterful medical -->
   <VQEA_MasterfulMedical.label>мастерство медицины</VQEA_MasterfulMedical.label>
   <!-- EN: The carrier's aptitude in Medical is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Medical. Archites enhance decision-making and precision during operations, and preserve medicine during treatment (100% chance). -->
   <VQEA_MasterfulMedical.description>Склонность носителя к медицине повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Архиты улучшают принятие решений и точность во время операций, а также сохраняют медикаменты при лечении (с шансом 100%).</VQEA_MasterfulMedical.description>
+  <!-- EN: 100% chance that medicine will not be spent when tending with medicine. -->
+  <VQEA_MasterfulMedical.customEffectDescriptions.0>100% шанс, что медикаменты не будут израсходованы при лечении.</VQEA_MasterfulMedical.customEffectDescriptions.0>
+  <!-- EN: Surgeries never fail. -->
+  <VQEA_MasterfulMedical.customEffectDescriptions.1>Операции никогда не проваливаются.</VQEA_MasterfulMedical.customEffectDescriptions.1>
 
   <!-- EN: masterful melee -->
   <VQEA_MasterfulMelee.label>мастерство ближнего боя</VQEA_MasterfulMelee.label>
   <!-- EN: The carrier's aptitude in Melee is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Melee. They instinctively strike for the heart or brain, dispatching enemies with terrifying efficiency. Archites synchronize muscle memory and visual targeting systems to prioritize lethal organs in combat. -->
   <VQEA_MasterfulMelee.description>Склонность носителя к ближнему бою повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Носители инстинктивно бьют в сердце или мозг, уничтожая врагов с ужасающей эффективностью. Архиты синхронизируют мышечную память и системы визуального наведения, чтобы отдавать приоритет ударам по жизненно важным органам в бою.</VQEA_MasterfulMelee.description>
+  <!-- EN: In Melee combat, attacks will first hit Heart or Brain if those are present in the target. -->
+  <VQEA_MasterfulMelee.customEffectDescriptions.0>Атаки в ближнем бою в первую очередь поражают сердце или мозг, если эти органы присутствуют у цели.</VQEA_MasterfulMelee.customEffectDescriptions.0>
 
   <!-- EN: masterful mining -->
   <VQEA_MasterfulMining.label>мастерство горного дела</VQEA_MasterfulMining.label>
   <!-- EN: The carrier's aptitude in Mining is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Mining. Archites augment perception of mineral seams and tool control, granting increased yield and removing any usual mining yield caps. -->
   <VQEA_MasterfulMining.description>Склонность носителя к горному делу повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Архиты улучшают обнаружение минеральных жил и контроль инструментов, увеличивая добычу и снимая обычные ограничения при добыче.</VQEA_MasterfulMining.description>
+  <!-- EN: Mining yield cap removed. -->
+  <VQEA_MasterfulMining.customEffectDescriptions.0>Показатель эффективности горной добычи не имеет ограничения.</VQEA_MasterfulMining.customEffectDescriptions.0>
 
   <!-- EN: masterful plants -->
   <VQEA_MasterfulPlants.label>мастерство растениеводства</VQEA_MasterfulPlants.label>
   <!-- EN: The carrier's aptitude in Plants is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Plants. Their expertise removes standard yield limits, allowing for extraordinary agricultural output. -->
   <VQEA_MasterfulPlants.description>Склонность носителя к растениеводству повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Опыт носителей снимает стандартные ограничения на урожай, позволяя достичь необычайной сельскохозяйственной продуктивности.</VQEA_MasterfulPlants.description>
-
+  <!-- EN: Harvest yield cap removed. -->
+  <VQEA_MasterfulPlants.customEffectDescriptions.0>Показатель эффективности жатвы не имеет ограничения.</VQEA_MasterfulPlants.customEffectDescriptions.0>
+  
   <!-- EN: masterful intellectual -->
   <VQEA_MasterfulIntellectual.label>мастерство умственного труда</VQEA_MasterfulIntellectual.label>
   <!-- EN: The carrier's aptitude in Intellectual is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Intellectual. They conduct research subconsciously, constantly generating scientific progress even while performing other tasks or resting. Archites woven into their neural network accelerate retention, synthesis, and intuition, allowing discoveries to emerge without active study. -->
   <VQEA_MasterfulIntellectual.description>Склонность носителя к умственному труду повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Носители проводят исследования подсознательно, непрерывно продвигая прогресс исследования даже во время выполнения других задач или отдыха. Архиты, вплетённые в их нейронную сеть, ускоряют запоминание, синтез и интуицию, позволяя открытиям появляться даже без активного изучения.</VQEA_MasterfulIntellectual.description>
+  <!-- EN: Passively gains 50 research points per hour towards the chosen research project, as long as the gene carrier is under player control. -->
+  <VQEA_MasterfulIntellectual.customEffectDescriptions.0>Пассивно даёт 50 очков исследования в час для выбранного проекта пока носитель гена находится под контролем игрока.</VQEA_MasterfulIntellectual.customEffectDescriptions.0>
 
   <!-- EN: masterful shooting -->
   <VQEA_MasterfulShooting.label>мастерство дальнего боя</VQEA_MasterfulShooting.label>
   <!-- EN: The carrier's aptitude in Shooting is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Shooting. Every shot is precisely placed: if a head is present, it will be hit. Archites modify visual tracking and ballistic prediction, locking onto cranial targets with terrifying consistency. -->
   <VQEA_MasterfulShooting.description>Склонность носителя к дальнему бою повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Каждый выстрел носителя точен: если есть голова, она получит пулю. Архиты изменяют визуальное отслеживание целей и предсказание траектории, позволяя поражать черепа с ужасающей стабильностью.</VQEA_MasterfulShooting.description>
+  <!-- EN: Shots fired will always hit head body part, if head body part is present on the target.\n -->
+  <VQEA_MasterfulShooting.customEffectDescriptions.0>Выстрелы всегда попадают в голову, если она есть у цели.</VQEA_MasterfulShooting.customEffectDescriptions.0>
 
   <!-- EN: masterful social -->
   <VQEA_MasterfulSocial.label>мастерство общения</VQEA_MasterfulSocial.label>
   <!-- EN: The carrier's aptitude in Social is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Social. They can recruit even the most unwavering pawns and exert immense ideological influence. -->
   <VQEA_MasterfulSocial.description>Склонность носителя к общению повышается на 16. Склонность действует в качестве прибавки к уровню навыка. Кроме того, к этому навыку добавляются два уровня интереса. Носители могут завербовать даже самых непоколебимых и оказывать огромное идеологическое влияние.</VQEA_MasterfulSocial.description>
+  <!-- EN: This colonist may remove "unwaveringly loyal" from a prisoner upon any prisoner interaction, with 20% chance. -->
+  <VQEA_MasterfulSocial.customEffectDescriptions.0>Этот поселенец может с 20% шансом снять «непоколебимую верность» с пленника при любом взаимодействии с ним.</VQEA_MasterfulSocial.customEffectDescriptions.0>
 
   <!-- EN: inferno spew -->
   <VQEA_InfernoSpew.label>инферно-плевок</VQEA_InfernoSpew.label>

@@ -1,9 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: r_first_name->[ExperimentNameFirstMale] -->
-  <VQE_ExperimentMaleNames.rulePack.rulesStrings.0>r_first_name->[ExperimentNameFirstMale]</VQE_ExperimentMaleNames.rulePack.rulesStrings.0>
-  <!-- EN: r_first_name->[ExperimentNameFirstFemale] -->
-  <VQE_ExperimentFemaleNames.rulePack.rulesStrings.0>r_first_name->[ExperimentNameFirstFemale]</VQE_ExperimentFemaleNames.rulePack.rulesStrings.0>
-  <!-- EN: r_last_name->[ExperimentNameLast] -->
-  <VQE_ExperimentLastNames.rulePack.rulesStrings.0>r_last_name->[ExperimentNameLast]</VQE_ExperimentLastNames.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>ExperimentNameFirstMale->Names/Experiment_First_Male</li>
+    <li>ExperimentNameFirstFemale->Names/Experiment_First_Female</li>
+    <li>ExperimentNameLast->Names/Experiment_Last</li>
+  -->
+  <VQE_ExperimentNameUtility.rulePack.rulesFiles>
+    <li>ExperimentNameFirstMale->Names/Experiment_First_Male</li>
+    <li>ExperimentNameFirstFemale->Names/Experiment_First_Female</li>
+    <li>ExperimentNameLast->Names/Experiment_Last</li>
+  </VQE_ExperimentNameUtility.rulePack.rulesFiles>
+
+  <!-- EN:
+    <li>r_first_name->[ExperimentNameFirstMale]</li>
+  -->
+  <VQE_ExperimentMaleNames.rulePack.rulesStrings>
+    <li>r_first_name->[ExperimentNameFirstMale]</li>
+  </VQE_ExperimentMaleNames.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_first_name->[ExperimentNameFirstFemale]</li>
+  -->
+  <VQE_ExperimentFemaleNames.rulePack.rulesStrings>
+    <li>r_first_name->[ExperimentNameFirstFemale]</li>
+  </VQE_ExperimentFemaleNames.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_last_name->[ExperimentNameLast]</li>
+  -->
+  <VQE_ExperimentLastNames.rulePack.rulesStrings>
+    <li>r_last_name->[ExperimentNameLast]</li>
+  </VQE_ExperimentLastNames.rulePack.rulesStrings>
 </LanguageData>

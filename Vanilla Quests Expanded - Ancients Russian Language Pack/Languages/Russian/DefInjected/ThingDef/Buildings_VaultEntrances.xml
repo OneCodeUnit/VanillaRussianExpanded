@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: sealed vault door -->
   <VQEA_LockedVaultDoor.label>запечатанная дверь убежища</VQEA_LockedVaultDoor.label>
@@ -6,6 +6,20 @@
   <VQEA_LockedVaultDoor.description>Запечатанный вход в убежище, ведущий в подземную лабораторию. Конструкция всё ещё надёжна, но находится под большим давлением. Чтобы открыть, её необходимо взломать.</VQEA_LockedVaultDoor.description>
   <!-- EN: Force this door open -->
   <VQEA_LockedVaultDoor.comps.0.jobString>Взломать эту дверь</VQEA_LockedVaultDoor.comps.0.jobString>
+  <!-- EN: Force this locked ancient vault door open -->
+  <VQEA_LockedVaultDoor.comps.0.jobString>Взломать запертую большую дверь древнего убежища</VQEA_LockedVaultDoor.comps.0.jobString>
+  <!-- EN: Choose someone to unseal the vault door, allowing access to the underground vault. -->
+  <VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activateDescString>Выберите, кто должен вскрыть дверь в убежище, чтобы получить доступ на подземный этаж.</VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activateDescString>
+  <!-- EN: Unseal vault door -->
+  <VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activateLabelString>Вскрыть дверь убежища</VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activateLabelString>
+  <!-- EN: forcing door open: {1}s -->
+  <VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activatingString>вскрывает дверь: {1} с</VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activatingString>
+  <!-- EN: forcing door open -->
+  <VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activatingStringPending>вскрывает дверь</VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.guiLabelString>Выберите, кто должен это сделать</VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.guiLabelString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the door open. -->
+  <VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.messageCompletedString>{PAWN_nameDef} успешно {PAWN_gender ? вскрыл : вскрыла} дверь.</VQEA_LockedVaultDoor.comps.CompLockedVaultDoor.messageCompletedString>
 
   <!-- EN: vault ramp -->
   <VQEA_VaultRamp.label>спуск в убежище</VQEA_VaultRamp.label>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: ancient vault wall -->
   <VQEA_AncientVaultWall.label>стена древнего убежища</VQEA_AncientVaultWall.label>
@@ -16,6 +16,18 @@
   <VQEA_LockedAncientVaultDoor.description>Особо укреплённая и неразрушимая дверь. Для открытия её необходимо взломать. По бокам от двери должны стоять стены.</VQEA_LockedAncientVaultDoor.description>
   <!-- EN: Force this locked ancient vault door open -->
   <VQEA_LockedAncientVaultDoor.comps.0.jobString>Взломать запертую дверь древнего убежища</VQEA_LockedAncientVaultDoor.comps.0.jobString>
+  <!-- EN: Select a colonist to override the security on this -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateDescString>Выберите, кто должен вскрыть дверь.</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Override -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateLabelString>Вскрыть</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing locked ancient vault door open: {1}s -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingString>вскрывает дверь древнего убежища: {1} с</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing locked ancient vault door open -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingStringPending>вскрывает дверь древнего убежища</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.guiLabelString>Выберите, кто должен это сделать</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the locked ancient vault door open. -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} успешно {PAWN_gender ? вскрыл : вскрыла} древнее убежище.</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.messageCompletedString>
 
   <!-- EN: ancient large vault door -->
   <VQEA_AncientVaultDoor_Large.label>большая дверь древнего убежища</VQEA_AncientVaultDoor_Large.label>
@@ -28,4 +40,16 @@
   <VQEA_LockedAncientVaultDoor_Large.description>Особо укреплённая и неразрушимая дверь. Для открытия её необходимо взломать. По бокам от двери должны стоять стены.</VQEA_LockedAncientVaultDoor_Large.description>
   <!-- EN: Force this locked ancient vault door open -->
   <VQEA_LockedAncientVaultDoor_Large.comps.0.jobString>Взломать запертую большую дверь древнего убежища</VQEA_LockedAncientVaultDoor_Large.comps.0.jobString>
+  <!-- EN: Select a colonist to override the security on this -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateDescString>Выберите, кто должен вскрыть дверь.</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Override -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateLabelString>Вскрыть</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing locked ancient vault door open: {1}s -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingString>вскрывает дверь древнего убежища: {1} с</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing locked ancient vault door open -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingStringPending>вскрывает дверь древнего убежища</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.guiLabelString>Выберите, кто должен это сделать</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the locked ancient vault door open. -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} успешно {PAWN_gender ? вскрыл : вскрыла} древнее убежище.</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.messageCompletedString>
 </LanguageData>
