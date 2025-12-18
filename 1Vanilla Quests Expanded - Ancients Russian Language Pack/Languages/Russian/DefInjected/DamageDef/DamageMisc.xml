@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: suicide attack -->
-  <VQEA_SuicideAttack.label>атака-самоубийство</VQEA_SuicideAttack.label>
+  <VQEA_SuicideAttack.label>самоубийственная атака</VQEA_SuicideAttack.label>
   <!-- EN: {0} has been bitten to death. -->
-  <VQEA_SuicideAttack.deathMessage>{PAWN_nameDef} {PAWN_gender ? растерзан : растерзана}.</VQEA_SuicideAttack.deathMessage>
+  <VQEA_SuicideAttack.deathMessage>{0} {0_gender ? закусан : закусана} до смерти.</VQEA_SuicideAttack.deathMessage>
 
   <!-- EN: scalpel slash -->
-  <VQEA_Scalpel.label>scalpel slash</VQEA_Scalpel.label>
+  <VQEA_Scalpel.label>разрез скальпелем</VQEA_Scalpel.label>
   <!-- EN: {0} has been killed. -->
-  <VQEA_Scalpel.deathMessage>{0} has been killed.</VQEA_Scalpel.deathMessage>
-
-
-
+  <VQEA_Scalpel.deathMessage>{0} {0_gender ? убит : убита}</VQEA_Scalpel.deathMessage>
 </LanguageData>

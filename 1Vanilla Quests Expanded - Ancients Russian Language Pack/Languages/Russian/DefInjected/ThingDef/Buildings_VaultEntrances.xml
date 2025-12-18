@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: sealed vault door -->
-  <VQEA_LockedVaultDoor.label>sealed vault door</VQEA_LockedVaultDoor.label>
+  <VQEA_LockedVaultDoor.label>запечатанная дверь убежища</VQEA_LockedVaultDoor.label>
   <!-- EN: A sealed vault entrance leading to an underground laboratory. Still structurally sound, but heavily pressurized. Can be forced open to allow access. -->
-  <VQEA_LockedVaultDoor.description>Запечатанный вход в убежище, ведущий в подземную лабораторию. Всё ещё прочный конструкционно, но находится под большим давлением. Можно взломать для получения доступа.</VQEA_LockedVaultDoor.description>
+  <VQEA_LockedVaultDoor.description>Запечатанный вход в убежище, ведущий в подземную лабораторию. Конструкция всё ещё надёжна, но находится под большим давлением. Чтобы открыть, её необходимо взломать.</VQEA_LockedVaultDoor.description>
   <!-- EN: Force this door open -->
   <VQEA_LockedVaultDoor.comps.0.jobString>Взломать эту дверь</VQEA_LockedVaultDoor.comps.0.jobString>
+
   <!-- EN: vault ramp -->
-  <VQEA_VaultRamp.label>пандус убежища</VQEA_VaultRamp.label>
+  <VQEA_VaultRamp.label>спуск в убежище</VQEA_VaultRamp.label>
   <!-- EN: A heavily reinforced vehicle ramp with personnel access stairway going down the middle. Leads deeper underground, into a sealed ancient vault. -->
-  <VQEA_VaultRamp.description>Сильно укрепленный транспортный пандус с лестницей для персонала посередине, ведущей вниз. Ведет глубже под землю, в запечатанное древнее убежище.</VQEA_VaultRamp.description>
+  <VQEA_VaultRamp.description>Ведущий под землю укреплённый спуск для транспорта с лестницей для персонала. Он ведёт глубже под землю к запечатанному древнему убежищу.</VQEA_VaultRamp.description>
 
   <!-- EN: vault exit ramp -->
-  <VQEA_VaultExitRamp.label>выходной пандус убежища</VQEA_VaultExitRamp.label>
+  <VQEA_VaultExitRamp.label>подъём из убежища</VQEA_VaultExitRamp.label>
   <!-- EN: A heavily reinforced vehicle ramp with personnel access stairway going up, allowing ascending back to the surface. -->
-  <VQEA_VaultExitRamp.description>Сильно укрепленный транспортный пандус с лестницей для персонала, ведущей вверх, позволяющей подняться обратно на поверхность.</VQEA_VaultExitRamp.description>
-
-
-
+  <VQEA_VaultExitRamp.description>Ведущий под землю укреплённый подъём для транспорта с лестницей для персонала. Он ведёт обратно на поверхность из запечатанного древнего убежища.</VQEA_VaultExitRamp.description>
 </LanguageData>

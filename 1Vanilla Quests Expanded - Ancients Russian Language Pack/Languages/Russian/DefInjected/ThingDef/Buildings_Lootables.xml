@@ -1,71 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: ancient pipeline junction -->
   <VQEA_AncientPipelineJunction_Off.label>древний трубопроводный узел</VQEA_AncientPipelineJunction_Off.label>
   <!-- EN: A junction of old chemfuel pipes that still leaks faint fumes. It can be tapped to extract a small amount of chemfuel, though no one knows its source. -->
-  <VQEA_AncientPipelineJunction_Off.description>Узел старых труб с химтопливом, из которого всё ещё просачиваются слабые испарения. Можно подключиться, чтобы извлечь небольшое количество химтоплива, хотя никто не знает его источник.</VQEA_AncientPipelineJunction_Off.description>
+  <VQEA_AncientPipelineJunction_Off.description>Узел старых труб с химтопливом, из которого всё ещё выходят слабые испарения. Можно подключиться, чтобы извлечь небольшое количество химтоплива неизвестного происхождения.</VQEA_AncientPipelineJunction_Off.description>
 
   <!-- EN: ancient pipeline junction -->
   <VQEA_AncientPipelineJunction_On.label>древний трубопроводный узел</VQEA_AncientPipelineJunction_On.label>
   <!-- EN: A junction of old chemfuel pipes that still leaks faint fumes. It can be tapped to extract a small amount of chemfuel, though no one knows its source. It can be tapped now. -->
-  <VQEA_AncientPipelineJunction_On.description>Узел старых труб с химтопливом, из которого всё ещё просачиваются слабые испарения. Можно подключиться, чтобы извлечь небольшое количество химтоплива, хотя никто не знает его источник. Можно подключиться сейчас.</VQEA_AncientPipelineJunction_On.description>
+  <VQEA_AncientPipelineJunction_On.description>Узел старых труб с химтопливом, из которого всё ещё выходят слабые испарения. Можно подключиться, чтобы извлечь небольшое количество химтоплива неизвестного происхождения. Сейчас он доступен для подключения.</VQEA_AncientPipelineJunction_On.description>
 
   <!-- EN: archite capsule containment -->
   <VQEA_ArchiteCapsuleContainment_Empty.label>контейнер архитных капсул</VQEA_ArchiteCapsuleContainment_Empty.label>
   <!-- EN: A containment unit built to store and release archite capsules for experimentation. It's empty. -->
-  <VQEA_ArchiteCapsuleContainment_Empty.description>Защитный блок, построенный для хранения и извлечения архитных капсул для экспериментов. Он пуст.</VQEA_ArchiteCapsuleContainment_Empty.description>
+  <VQEA_ArchiteCapsuleContainment_Empty.description>Защищённый контейнер, созданный для хранения и извлечения архитных капсул для экспериментов. Сейчас он абсолютно пуст.</VQEA_ArchiteCapsuleContainment_Empty.description>
 
   <!-- EN: archite capsule containment -->
   <VQEA_ArchiteCapsuleContainment.label>контейнер архитных капсул</VQEA_ArchiteCapsuleContainment.label>
   <!-- EN: A containment unit built to store and release archite capsules for experimentation. It still hums softly when approached. Can be opened to release an archite capsule. -->
-  <VQEA_ArchiteCapsuleContainment.description>Защитный блок, построенный для хранения и извлечения архитных капсул для экспериментов. Он всё ещё тихо гудит при приближении. Можно открыть, чтобы извлечь архитную капсулу.</VQEA_ArchiteCapsuleContainment.description>
+  <VQEA_ArchiteCapsuleContainment.description>Защищённый контейнер, созданный для хранения и извлечения архитных капсул для экспериментов. Он всё ещё тихо гудит при приближении. Можно открыть, чтобы извлечь архитную капсулу.</VQEA_ArchiteCapsuleContainment.description>
 
   <!-- EN: ancient genepack crate -->
-  <VQEA_AncientGenepackCrate_Empty.label>древний ящик с генопакетами</VQEA_AncientGenepackCrate_Empty.label>
+  <VQEA_AncientGenepackCrate_Empty.label>древний ящик с генными пакетами</VQEA_AncientGenepackCrate_Empty.label>
   <!-- EN: A secure storage crate used to hold genetic data packs. It's empty now. -->
-  <VQEA_AncientGenepackCrate_Empty.description>Защищенный ящик для хранения пакетов генетических данных. Сейчас он пуст.</VQEA_AncientGenepackCrate_Empty.description>
+  <VQEA_AncientGenepackCrate_Empty.description>Защищённый ящик для хранения пакетов генетических данных. Сейчас он абсолютно пуст.</VQEA_AncientGenepackCrate_Empty.description>
 
   <!-- EN: ancient genepack crate -->
-  <VQEA_AncientGenepackCrate.label>древний ящик с генопакетами</VQEA_AncientGenepackCrate.label>
+  <VQEA_AncientGenepackCrate.label>древний ящик с генными пакетами</VQEA_AncientGenepackCrate.label>
   <!-- EN: A secure storage crate used to hold genetic data packs. It can be hacked open to recover the genepacks inside. -->
-  <VQEA_AncientGenepackCrate.description>Защищенный ящик для хранения пакетов генетических данных. Можно взломать, чтобы извлечь генопакеты внутри.</VQEA_AncientGenepackCrate.description>
+  <VQEA_AncientGenepackCrate.description>Защищённый ящик для хранения пакетов генетических данных. Можно взломать, чтобы извлечь генные пакеты.</VQEA_AncientGenepackCrate.description>
 
   <!-- EN: empty storage shelf -->
-  <VQEA_StorageShelf_Empty.label>empty storage shelf</VQEA_StorageShelf_Empty.label>
+  <VQEA_StorageShelf_Empty.label>пустой складской стеллаж</VQEA_StorageShelf_Empty.label>
   <!-- EN: An empty, wobbly storage shelf. Anything of value is long gone. -->
-  <VQEA_StorageShelf_Empty.description>An empty, wobbly storage shelf. Anything of value is long gone.</VQEA_StorageShelf_Empty.description>
+  <VQEA_StorageShelf_Empty.description>Пустой шаткий складской стеллаж. Любые ценные вещи, которые могли здесь лежать, давно исчезли.</VQEA_StorageShelf_Empty.description>
 
   <!-- EN: survival meals shelf -->
-  <VQEA_StorageShelf_Meals.label>survival meals shelf</VQEA_StorageShelf_Meals.label>
+  <VQEA_StorageShelf_Meals.label>полка с сухпайками</VQEA_StorageShelf_Meals.label>
   <!-- EN: A wobbly storage shelf containing packaged survival meals. -->
-  <VQEA_StorageShelf_Meals.description>A wobbly storage shelf containing packaged survival meals.</VQEA_StorageShelf_Meals.description>
+  <VQEA_StorageShelf_Meals.description>Шаткий складской стеллаж с упакованными сухпайками.</VQEA_StorageShelf_Meals.description>
 
   <!-- EN: medicine shelf -->
-  <VQEA_StorageShelf_Medicine.label>medicine shelf</VQEA_StorageShelf_Medicine.label>
+  <VQEA_StorageShelf_Medicine.label>полка с медикаментами</VQEA_StorageShelf_Medicine.label>
   <!-- EN: A wobbly storage shelf containing medicine. -->
-  <VQEA_StorageShelf_Medicine.description>A wobbly storage shelf containing medicine.</VQEA_StorageShelf_Medicine.description>
+  <VQEA_StorageShelf_Medicine.description>Шаткий складской стеллаж с медикаментами.</VQEA_StorageShelf_Medicine.description>
 
   <!-- EN: neutroamine shelf -->
-  <VQEA_StorageShelf_Neutroamine.label>neutroamine shelf</VQEA_StorageShelf_Neutroamine.label>
+  <VQEA_StorageShelf_Neutroamine.label>полка с нейтроамином</VQEA_StorageShelf_Neutroamine.label>
   <!-- EN: A wobbly storage shelf containing bottles of neutroamine. -->
-  <VQEA_StorageShelf_Neutroamine.description>A wobbly storage shelf containing bottles of neutroamine.</VQEA_StorageShelf_Neutroamine.description>
+  <VQEA_StorageShelf_Neutroamine.description>Шаткий складской стеллаж с бутылками нейтроамина.</VQEA_StorageShelf_Neutroamine.description>
 
   <!-- EN: patient gowns shelf -->
-  <VQEA_StorageShelf_Gowns.label>patient gowns shelf</VQEA_StorageShelf_Gowns.label>
+  <VQEA_StorageShelf_Gowns.label>полка с больничными халатами</VQEA_StorageShelf_Gowns.label>
   <!-- EN: A wobbly storage shelf with stacks of patient gowns. -->
-  <VQEA_StorageShelf_Gowns.description>A wobbly storage shelf with stacks of patient gowns.</VQEA_StorageShelf_Gowns.description>
+  <VQEA_StorageShelf_Gowns.description>Шаткий складской стеллаж со стопками больничных халатов.</VQEA_StorageShelf_Gowns.description>
 
   <!-- EN: empty ancient organ box -->
-  <VQEA_AncientOrganBox_Empty.label>empty ancient organ box</VQEA_AncientOrganBox_Empty.label>
+  <VQEA_AncientOrganBox_Empty.label>пустой древний контейнер для органов</VQEA_AncientOrganBox_Empty.label>
   <!-- EN: An empty storage box with a built-in cooling system, typically used to preserve organs over extended durations. -->
-  <VQEA_AncientOrganBox_Empty.description>An empty storage box with a built-in cooling system, typically used to preserve organs over extended durations.</VQEA_AncientOrganBox_Empty.description>
+  <VQEA_AncientOrganBox_Empty.description>Пустой контейнер для хранения со встроенной системой охлаждения, который обычно используется для сохранения органов в течение длительного времени.</VQEA_AncientOrganBox_Empty.description>
 
   <!-- EN: ancient organ box -->
-  <VQEA_AncientOrganBox.label>ancient organ box</VQEA_AncientOrganBox.label>
+  <VQEA_AncientOrganBox.label>древний контейнер для органов</VQEA_AncientOrganBox.label>
   <!-- EN: A secure storage box with a built-in cooling system, typically used to preserve organs over extended durations. Can be hacked open to release whatever remains inside. -->
-  <VQEA_AncientOrganBox.description>A secure storage box with a built-in cooling system, typically used to preserve organs over extended durations. Can be hacked open to release whatever remains inside.</VQEA_AncientOrganBox.description>
-
-
-
+  <VQEA_AncientOrganBox.description>Защищённый контейнер для хранения со встроенной системой охлаждения, обычно используемый для сохранения органов в течение длительного времени. Можно взломать, чтобы извлечь то, что осталось внутри.</VQEA_AncientOrganBox.description>
 </LanguageData>

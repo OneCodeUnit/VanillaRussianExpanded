@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Experiment -->
-
   <!-- EN: kidnapped child -->
   <VQE_KidnappedChild.title>похищенный ребёнок</VQE_KidnappedChild.title>
   <!-- EN: kidnapped -->
   <VQE_KidnappedChild.titleShort>похищенный</VQE_KidnappedChild.titleShort>
+  <VQE_KidnappedChild.titleShortFemale>похищенная</VQE_KidnappedChild.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was abducted at a young age and raised in captivity. Deprived of proper schooling, [PAWN_pronoun] survived by learning to listen, to obey, and to read the moods of [PAWN_possessive] captors. The experience left [PAWN_objective] wary of others and untrained in most practical skills, but unusually sensitive to people’s intentions. -->
-  <VQE_KidnappedChild.description>[PAWN_nameDef] was abducted at a young age and raised in captivity. Deprived of proper schooling, [PAWN_pronoun] survived by learning to listen, to obey, and to read the moods of [PAWN_possessive] captors. The experience left [PAWN_objective] wary of others and untrained in most practical skills, but unusually sensitive to people’s intentions.</VQE_KidnappedChild.description>
+  <VQE_KidnappedChild.description>{PAWN_nameDef} {PAWN_gender ? был похищен : была похищена} в раннем возрасте и {PAWN_gender ? рос : росла} в плену. {PAWN_gender ? Лишённый : Лишённая} нормального образования, {PAWN_pronoun} {PAWN_gender ? выживал : выживала}, учившись слушать, подчиняться и распознавать настроения своих похитителей. Этот опыт лишил {PAWN_nameDef} доверия к людям и оставил без знаний большинства прикладных навыков, но сделал необычайно {PAWN_gender ? чувствительным : чувствительной} к намерениям окружающих.</VQE_KidnappedChild.description>
 
   <!-- EN: ideal patient -->
   <VQE_IdealPatient.title>идеальный пациент</VQE_IdealPatient.title>
   <!-- EN: patient -->
   <VQE_IdealPatient.titleShort>пациент</VQE_IdealPatient.titleShort>
+  <VQE_IdealPatient.titleShortFemale>пациентка</VQE_IdealPatient.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was chosen for countless experimental procedures with archite technology. For reasons unknown, [PAWN_pronoun] never rejected an implant, making [PAWN_objective] the perfect subject for radical genetic experiments. The treatments left [PAWN_objective] frail in body, but adapted to pain and unusually tolerant of hardship. Sadly, one of the treatments has resulted in a slowly progressing terminal illness. -->
-  <VQE_IdealPatient.description>{PAWN_nameDef} {PAWN_gender ? был выбран : была выбрана} для бесчисленных экспериментальных процедур с архитовой технологией. По неизвестным причинам {PAWN_pronoun} никогда не {PAWN_gender ? отторгал : отторгала} имплантаты, что делало {PAWN_objective} идеальным объектом для радикальных генетических экспериментов. Процедуры оставили {PAWN_objective} хрупким телом, но адаптированным к боли и необычайно устойчивым к лишениям. К сожалению, одна из процедур привела к медленно прогрессирующей смертельной болезни.</VQE_IdealPatient.description>
-
-
-
+  <VQE_IdealPatient.description>{PAWN_nameDef} {PAWN_gender ? был выбран : была выбрана} для бесчисленных экспериментальных процедур с архитными технологиями. По неизвестным причинам {PAWN_possessive} тело никогда не отторгало импланты, что делало {PAWN_possessive} идеальным объектом для радикальных генетических экспериментов. Процедуры сделали тело {PAWN_nameDef} хрупким, но при этом адаптированным к боли и крайне устойчивым к тяжёлым испытаниям. К сожалению, одна из процедур привела к медленно прогрессирующей неизлечимой и смертельной болезни.</VQE_IdealPatient.description>
 </LanguageData>

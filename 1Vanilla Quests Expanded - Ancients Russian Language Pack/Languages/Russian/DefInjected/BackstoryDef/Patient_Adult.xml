@@ -1,181 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: archite volunteer -->
-  <VQE_ArchiteVolunteer1.title>доброволец архитов</VQE_ArchiteVolunteer1.title>
+  <VQE_ArchiteVolunteer1.title>архитный доброволец</VQE_ArchiteVolunteer1.title>
   <!-- EN: volunteer -->
   <VQE_ArchiteVolunteer1.titleShort>доброволец</VQE_ArchiteVolunteer1.titleShort>
   <!-- EN: [PAWN_nameDef] enlisted in a secret military program that promised glory and strength. The experiments left [PAWN_objective] tougher than most, but the treatments damaged [PAWN_possessive] fine motor skills and stability. -->
-  <VQE_ArchiteVolunteer1.description>{PAWN_nameDef} {PAWN_gender ? записался : записалась} в секретную военную программу, обещавшую славу и силу. Эксперименты сделали {PAWN_objective} крепче большинства, но процедуры повредили мелкую моторику и стабильность.</VQE_ArchiteVolunteer1.description>
+  <VQE_ArchiteVolunteer1.description>{PAWN_nameDef} {PAWN_gender ? записался : записалась} в секретную военную программу, обещавшую славу и силу. Эксперименты сделали {PAWN_objective} крепче большинства, но процедуры ухудшили мелкую моторику и устойчивость.</VQE_ArchiteVolunteer1.description>
 
   <!-- EN: trial subject -->
   <VQE_TrialSubject2.title>испытуемый</VQE_TrialSubject2.title>
+  <VQE_TrialSubject2.titleFemale>испытуемая</VQE_TrialSubject2.titleFemale>
   <!-- EN: subject -->
   <VQE_TrialSubject2.titleShort>подопытный</VQE_TrialSubject2.titleShort>
+  <VQE_TrialSubject2.titleShortFemale>подопытная</VQE_TrialSubject2.titleShortFemale>
   <!-- EN: [PAWN_nameDef] signed away [PAWN_possessive] rights for a chance to join an experimental unit. Endless injections and training made [PAWN_objective] resilient, but constant observation and confinement left [PAWN_objective] anxious and withdrawn. -->
-  <VQE_TrialSubject2.description>{PAWN_nameDef} {PAWN_gender ? отказался : отказалась} от своих прав ради шанса присоединиться к экспериментальному подразделению. Бесконечные инъекции и тренировки сделали {PAWN_objective} стойким, но постоянное наблюдение и заключение оставили {PAWN_objective} тревожным и замкнутым.</VQE_TrialSubject2.description>
+  <VQE_TrialSubject2.description>{PAWN_nameDef} {PAWN_gender ? отказался : отказалась} от своих прав ради шанса попасть в экспериментальное подразделение. Бесконечные инъекции и тренировки сделали {PAWN_objective} {PAWN_gender ? выносливым : выносливой}, но постоянное наблюдение и заточение сделали {PAWN_nameDef} {PAWN_gender ? тревожным и замкнутым : тревожной и замкнутой}.</VQE_TrialSubject2.description>
 
   <!-- EN: gene fighter -->
   <VQE_GeneFighter3.title>генный боец</VQE_GeneFighter3.title>
   <!-- EN: fighter -->
-  <VQE_GeneFighter3.titleShort>гладиатор</VQE_GeneFighter3.titleShort>
+  <VQE_GeneFighter3.titleShort>боец</VQE_GeneFighter3.titleShort>
   <!-- EN: Chosen for a military experiment, [PAWN_nameDef] underwent forced genetic alterations meant to create stronger soldiers. The project gave [PAWN_objective] an edge in battle, but the constant tests left little time for education or civilian skills. -->
-  <VQE_GeneFighter3.description>{PAWN_nameDef}, {PAWN_gender ? выбранный : выбранная} для военного эксперимента, {PAWN_gender ? прошёл : прошла} принудительные генетические изменения, предназначенные для создания более сильных солдат. Проект дал {PAWN_objective} преимущество в бою, но постоянные тесты оставили мало времени для образования или гражданских навыков.</VQE_GeneFighter3.description>
+  <VQE_GeneFighter3.description>{PAWN_nameDef}, {PAWN_gender ? был отобран : была отобрана} для эксперимента военных по созданию сильнейших солдат путём генетических изменений. Проект дал {PAWN_objective} преимущество в бою, но постоянные испытания оставили мало времени для образования и мирных навыков.</VQE_GeneFighter3.description>
 
   <!-- EN: military experiment -->
   <VQE_MilitaryExperiment4.title>военный эксперимент</VQE_MilitaryExperiment4.title>
   <!-- EN: experiment -->
-  <VQE_MilitaryExperiment4.titleShort>подопытный</VQE_MilitaryExperiment4.titleShort>
+  <VQE_MilitaryExperiment4.titleShort>эксперимент</VQE_MilitaryExperiment4.titleShort>
   <!-- EN: [PAWN_nameDef] volunteered for classified experiments, believing it was [PAWN_possessive] duty. Enhanced reflexes and stronger muscles were the results — but at the cost of chronic pain and a short temper. -->
-  <VQE_MilitaryExperiment4.description>{PAWN_nameDef} {PAWN_gender ? добровольно согласился : добровольно согласилась} на засекреченные эксперименты, считая это своим долгом. Улучшенные рефлексы и более сильные мышцы были результатом — но ценой хронической боли и вспыльчивого характера.</VQE_MilitaryExperiment4.description>
+  <VQE_MilitaryExperiment4.description>{PAWN_nameDef} добровольно{PAWN_gender ? согласился : согласилась} на участие в секретных экспериментах, считая это своим долгом. Результатом стали улучшенные рефлексы и усиленные мышцы, но ценой хронической боли и вспыльчивого характера.</VQE_MilitaryExperiment4.description>
 
   <!-- EN: enhanced soldier -->
   <VQE_EnhancedSoldier5.title>улучшенный солдат</VQE_EnhancedSoldier5.title>
   <!-- EN: soldier -->
   <VQE_EnhancedSoldier5.titleShort>солдат</VQE_EnhancedSoldier5.titleShort>
   <!-- EN: [PAWN_nameDef] became part of a military program to create supersoldiers through archite injections. The procedures hardened [PAWN_objective] for combat, but the constant modifications dulled [PAWN_possessive] sense of self and left [PAWN_objective] detached from ordinary life. -->
-  <VQE_EnhancedSoldier5.description>{PAWN_nameDef} {PAWN_gender ? стал : стала} частью военной программы по созданию суперсолдат через архитовые инъекции. Процедуры закалили {PAWN_objective} для боя, но постоянные модификации притупили чувство собственного «я» и оставили {PAWN_objective} отстранённым от обычной жизни.</VQE_EnhancedSoldier5.description>
+  <VQE_EnhancedSoldier5.description>{PAWN_nameDef} {PAWN_gender ? стал : стала} частью военной программы по созданию суперсолдат через инъекции архитов. Процедуры закалили {PAWN_objective} для боя, но постоянные модификации притупили чувство собственного «я» и оторвали от обычной жизни.</VQE_EnhancedSoldier5.description>
 
   <!-- EN: bone reforged -->
-  <VQE_BoneReforged6.title>перекованные кости</VQE_BoneReforged6.title>
+  <VQE_BoneReforged6.title>перекованная кость</VQE_BoneReforged6.title>
   <!-- EN: reforged -->
   <VQE_BoneReforged6.titleShort>перекованный</VQE_BoneReforged6.titleShort>
+  <VQE_BoneReforged6.titleShortFemale>перекованная</VQE_BoneReforged6.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was subjected to a brutal trial where every bone in [PAWN_possessive] body was shattered, replaced, and rebuilt with reinforced grafts. The process left [PAWN_objective] nearly unbreakable, but the constant agony scarred [PAWN_possessive] mind forever. -->
-  <VQE_BoneReforged6.description>{PAWN_nameDef} {PAWN_gender ? подвергся : подверглась} жестокому испытанию, в ходе которого каждая кость в теле была раздроблена, заменена и восстановлена усиленными трансплантатами. Процесс сделал {PAWN_objective} почти неразрушимым, но постоянные муки оставили шрамы на психике навсегда.</VQE_BoneReforged6.description>
+  <VQE_BoneReforged6.description>{PAWN_nameDef} {PAWN_gender ? подвергся : подверглась} жестокому испытанию, в ходе которого каждую кость в теле дробили, заменяли и восстанавливали усиленными имплантами. Процесс сделал тело {PAWN_nameDef} почти неразрушимым, но постоянная агония навсегда оставила шрамы в душе.</VQE_BoneReforged6.description>
 
   <!-- EN: skin grafted -->
   <VQE_SkinGrafted7.title>пересаженная кожа</VQE_SkinGrafted7.title>
   <!-- EN: grafted -->
-  <VQE_SkinGrafted7.titleShort>трансплантированный</VQE_SkinGrafted7.titleShort>
+  <VQE_SkinGrafted7.titleShort>пересаженная кожа</VQE_SkinGrafted7.titleShort>
   <!-- EN: [PAWN_nameDef] underwent repeated skin-flaying and regenerative grafting, designed to test rapid healing serums. The experiments made [PAWN_objective] resistant to injury, but also dulled [PAWN_possessive] sense of touch and left [PAWN_possessive] body covered in scars. -->
-  <VQE_SkinGrafted7.description>{PAWN_nameDef} неоднократно {PAWN_gender ? подвергался : подвергалась} сдиранию кожи и регенеративной трансплантации, предназначенной для тестирования сывороток быстрого заживления. Эксперименты сделали {PAWN_objective} устойчивым к травмам, но также притупили осязание и оставили тело покрытым шрамами.</VQE_SkinGrafted7.description>
+  <VQE_SkinGrafted7.description>{PAWN_nameDef} неоднократно {PAWN_gender ? подвергался : подвергалась} сдиранию кожи и регенеративной пересадке для испытания сывороток быстрого заживления. Эксперименты сделали {PAWN_possessive} {PAWN_gender ? устойчивым : устойчивой} к травмам, но притупили осязание и покрыли тело шрамами.</VQE_SkinGrafted7.description>
 
   <!-- EN: brain probed -->
   <VQE_BrainProbed8.title>зондированный мозг</VQE_BrainProbed8.title>
   <!-- EN: probed -->
   <VQE_BrainProbed8.titleShort>зондированный</VQE_BrainProbed8.titleShort>
   <!-- EN: [PAWN_nameDef] was part of a horrific program where archite nodes were drilled directly into [PAWN_possessive] brain. The procedures heightened reflexes and memory recall, but frequent blackouts and haunting visions still plague [PAWN_objective]. -->
-  <VQE_BrainProbed8.description>{PAWN_nameDef} {PAWN_gender ? был : была} частью ужасной программы, в ходе которой архитовые узлы вживлялись прямо в мозг. Процедуры усилили рефлексы и память, но частые провалы в сознании и мучительные видения всё ещё преследуют {PAWN_objective}.</VQE_BrainProbed8.description>
+  <VQE_BrainProbed8.description>{PAWN_nameDef} {PAWN_gender ? был : была} частью чудовищной программы, в ходе которой архитные узлы всверливались прямо в мозг. Процедуры усилили рефлексы и память, но {PAWN_nameDef} до сих пор преследуют частые провалы в памяти и мучительные видения.</VQE_BrainProbed8.description>
 
   <!-- EN: muscle stitched -->
-  <VQE_MuscleStitched9.title>сшитые мышцы</VQE_MuscleStitched9.title>
+  <VQE_MuscleStitched9.title>перешитые мышцы</VQE_MuscleStitched9.title>
   <!-- EN: stitched -->
-  <VQE_MuscleStitched9.titleShort>сшитый</VQE_MuscleStitched9.titleShort>
+  <VQE_MuscleStitched9.titleShort>перешитый</VQE_MuscleStitched9.titleShort>
+  <VQE_MuscleStitched9.titleShortFemale>перешитая</VQE_MuscleStitched9.titleShortFemale>
   <!-- EN: [PAWN_nameDef] endured endless cycles of muscle excision and forced regrowth, each time restitched into denser configurations. The outcome was immense strength, but [PAWN_possessive] body remains grotesquely uneven and constantly aches from the strain. -->
-  <VQE_MuscleStitched9.description>{PAWN_nameDef} {PAWN_gender ? выдержал : выдержала} бесконечные циклы иссечения мышц и принудительного восстановления, каждый раз перешивавшиеся в более плотные конфигурации. Результатом стала огромная сила, но тело остаётся гротескно неровным и постоянно болит от напряжения.</VQE_MuscleStitched9.description>
+  <VQE_MuscleStitched9.description>{PAWN_nameDef} {PAWN_gender ? выдержал : выдержала} бесконечные циклы разрыва мышц и принудительного восстановления, каждый раз создавая из них более плотные конфигурации. Результатом стала огромная сила, но тело осталось гротескно неровным и постоянно болит от перенапряжения.</VQE_MuscleStitched9.description>
 
   <!-- EN: eye replaced -->
   <VQE_EyeReplaced10.title>заменённые глаза</VQE_EyeReplaced10.title>
   <!-- EN: augmented -->
   <VQE_EyeReplaced10.titleShort>дополненный</VQE_EyeReplaced10.titleShort>
+  <VQE_EyeReplaced10.titleShortFemale>дополненная</VQE_EyeReplaced10.titleShortFemale>
   <!-- EN: [PAWN_nameDef] had both eyes removed and replaced with unstable experimental augments, meant to track targets in darkness. The implants improved [PAWN_possessive] aim, but left [PAWN_objective] sensitive to light and forever reliant on strange visual overlays. -->
-  <VQE_EyeReplaced10.description>У {PAWN_nameDef} удалили оба глаза и заменили нестабильными экспериментальными имплантатами, предназначенными для отслеживания целей в темноте. Импланты улучшили прицеливание, но оставили {PAWN_objective} чувствительным к свету и навсегда зависимым от странных визуальных наложений.</VQE_EyeReplaced10.description>
+  <VQE_EyeReplaced10.description>У {PAWN_nameDef} удалили оба глаза и заменили нестабильными экспериментальными имплантами, предназначенными для отслеживания целей в темноте. Они улучшили меткость, но оставили {PAWN_possessive} {PAWN_gender ? чувствительным : чувствительной} к свету и навсегда {PAWN_gender ? полагающимся : полагающейся} на странные визуальные наложения.</VQE_EyeReplaced10.description>
 
   <!-- EN: stress test subject -->
   <VQE_StressTest11.title>испытуемый стресс-тестов</VQE_StressTest11.title>
   <!-- EN: subject -->
   <VQE_StressTest11.titleShort>подопытный</VQE_StressTest11.titleShort>
+  <VQE_StressTest11.titleShortFemale>подопытная</VQE_StressTest11.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was confined for weeks in controlled conditions, deprived of sleep and overloaded with sensory input to measure endurance. The tests broke [PAWN_possessive] nerves, leaving [PAWN_objective] twitchy but strangely resistant to stress. -->
-  <VQE_StressTest11.description>{PAWN_nameDef} {PAWN_gender ? был заключён : была заключена} на недели в контролируемых условиях, {PAWN_gender ? лишён : лишена} сна и {PAWN_gender ? перегружен : перегружена} сенсорными стимулами для измерения выносливости. Тесты сломали нервы, оставив {PAWN_objective} дёрганым, но странно устойчивым к стрессу.</VQE_StressTest11.description>
+  <VQE_StressTest11.description>{PAWN_nameDef} {PAWN_gender ? был заключён : была заключена} неделями в контролируемых условиях, {PAWN_gender ? лишён : лишена} сна и {PAWN_gender ? перегружен : перегружена} сенсорными стимулами с целью измерения выносливости. Испытания сломали нервы, сделав {PAWN_possessive} {PAWN_gender ? нервным : нервной}, но при этом странным образом {PAWN_gender ? устойчивым : устойчивой} к стрессу.</VQE_StressTest11.description>
 
   <!-- EN: toxic exposure -->
   <VQE_ToxicExposure12.title>токсическое воздействие</VQE_ToxicExposure12.title>
   <!-- EN: exposed -->
   <VQE_ToxicExposure12.titleShort>подвергнутый</VQE_ToxicExposure12.titleShort>
+  <VQE_ToxicExposure12.titleShortFemale>подвергнутая</VQE_ToxicExposure12.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was sealed in chambers filled with toxic vapors as part of a military resilience program. The experience scarred [PAWN_possessive] lungs and burned [PAWN_possessive] skin, but [PAWN_pronoun] learned to push through sickness and pain. -->
-  <VQE_ToxicExposure12.description>{PAWN_nameDef} {PAWN_gender ? был запечатан : была запечатана} в камерах, наполненных токсичными парами, как часть военной программы стойкости. Опыт оставил шрамы на лёгких и обжёг кожу, но {PAWN_pronoun} {PAWN_gender ? научился : научилась} преодолевать болезнь и боль.</VQE_ToxicExposure12.description>
+  <VQE_ToxicExposure12.description>{PAWN_nameDef} {PAWN_gender ? был заперт : была заперта} в камерах с токсичными испарениями в рамках военной программы тестирования жизнестойкости. Этот опыт оставил проблемы с лёгкими и ожоги на коже, но {PAWN_pronoun} {PAWN_gender ? научился : научилась} преодолевать болезнь и боль.</VQE_ToxicExposure12.description>
 
   <!-- EN: pain tolerance trial -->
-  <VQE_PainTolerance13.title>испытание болевой устойчивости</VQE_PainTolerance13.title>
+  <VQE_PainTolerance13.title>испытание боли</VQE_PainTolerance13.title>
   <!-- EN: trialed -->
   <VQE_PainTolerance13.titleShort>испытанный</VQE_PainTolerance13.titleShort>
+  <VQE_PainTolerance13.titleShortFemale>испытанная</VQE_PainTolerance13.titleShortFemale>
   <!-- EN: [PAWN_nameDef] endured endless procedures designed to push the limits of human pain tolerance. Though the agony left [PAWN_objective] hardened, [PAWN_pronoun] never truly recovered [PAWN_possessive] sense of trust in others. -->
-  <VQE_PainTolerance13.description>{PAWN_nameDef} {PAWN_gender ? выдержал : выдержала} бесконечные процедуры, предназначенные для проверки пределов человеческой болевой устойчивости. Хотя мучения закалили {PAWN_objective}, {PAWN_pronoun} так и не {PAWN_gender ? восстановил : восстановила} способность доверять другим.</VQE_PainTolerance13.description>
+  <VQE_PainTolerance13.description>{PAWN_nameDef} {PAWN_gender ? выдержал : выдержала} бесчисленные процедуры, предназначенные для проверки пределов болевого порога. Хотя мучения закалили {PAWN_nameDef}, {PAWN_pronoun} больше не сможет доверять другим.</VQE_PainTolerance13.description>
 
   <!-- EN: isolation chamber -->
   <VQE_IsolationChamber14.title>изоляционная камера</VQE_IsolationChamber14.title>
   <!-- EN: isolated -->
   <VQE_IsolationChamber14.titleShort>изолированный</VQE_IsolationChamber14.titleShort>
+  <VQE_IsolationChamber14.titleShortFemale>изолированная</VQE_IsolationChamber14.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was kept alone in a silent, lightless cell for months while researchers studied the effects of sensory deprivation. The ordeal left [PAWN_objective] distant and withdrawn, but strangely focused when working alone. -->
-  <VQE_IsolationChamber14.description>{PAWN_nameDef} {PAWN_gender ? содержался : содержалась} в одиночестве в тихой, лишённой света камере месяцами, пока исследователи изучали эффекты сенсорной депривации. Испытание оставило {PAWN_objective} отстранённым и замкнутым, но странно сосредоточенным при работе в одиночку.</VQE_IsolationChamber14.description>
+  <VQE_IsolationChamber14.description>{PAWN_nameDef} месяцами {PAWN_gender ? содержался : содержалась} в одиночестве в беззвучной, лишённой света камере, пока исследователи изучали эффекты сенсорной депривации. Испытание сделало {PAWN_objective} {PAWN_gender ? отстранённым и замкнутым : отстранённой и замкнутой} и со странной сосредоточенностью на работе в одиночку.</VQE_IsolationChamber14.description>
 
   <!-- EN: combat drill subject -->
-  <VQE_CombatDrills15.title>испытуемый боевых тренировок</VQE_CombatDrills15.title>
+  <VQE_CombatDrills15.title>испытуемый боевых учений</VQE_CombatDrills15.title>
   <!-- EN: drilled -->
-  <VQE_CombatDrills15.titleShort>муштрованный</VQE_CombatDrills15.titleShort>
+  <VQE_CombatDrills15.titleShort>на учениях</VQE_CombatDrills15.titleShort>
   <!-- EN: [PAWN_nameDef] was forced through punishing combat drills meant to test the breaking point of soldiers under fire. The brutal regimen honed [PAWN_possessive] instincts, but left [PAWN_objective] with lingering injuries and a deep mistrust of authority. -->
-  <VQE_CombatDrills15.description>{PAWN_nameDef} {PAWN_gender ? был принуждён : была принуждена} пройти изнурительные боевые тренировки, предназначенные для проверки точки излома солдат под огнём. Жестокий режим отточил инстинкты, но оставил {PAWN_objective} с затяжными травмами и глубоким недоверием к власти.</VQE_CombatDrills15.description>
+  <VQE_CombatDrills15.description>{PAWN_nameDef} {PAWN_gender ? был принуждён : была принуждена} участвовать в изнурительных боевых учениях, которые были призваны проверить предел прочности солдата в условиях под постоянным огнём. Жестокий режим отточил инстинкты, но оставил {PAWN_nameDef} жить с продолжительными душевными травмами и глубоким недоверием к власти.</VQE_CombatDrills15.description>
 
   <!-- EN: deception study -->
-  <VQE_DeceptionStudy16.title>исследование обмана</VQE_DeceptionStudy16.title>
+  <VQE_DeceptionStudy16.title>ученик обмана</VQE_DeceptionStudy16.title>
+  <VQE_DeceptionStudy16.titleFemale>ученица обмана</VQE_DeceptionStudy16.titleFemale>
   <!-- EN: deceiver -->
   <VQE_DeceptionStudy16.titleShort>обманщик</VQE_DeceptionStudy16.titleShort>
+  <VQE_DeceptionStudy16.titleShortFemale>обманщица</VQE_DeceptionStudy16.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was placed in a program that rewarded lying and punished honesty. Over time, [PAWN_pronoun] became skilled at reading people, but found it difficult to form genuine connections. -->
-  <VQE_DeceptionStudy16.description>{PAWN_nameDef} {PAWN_gender ? был помещён : была помещена} в программу, которая вознаграждала ложь и наказывала честность. Со временем {PAWN_pronoun} {PAWN_gender ? стал : стала} искусным в чтении людей, но {PAWN_objective} было трудно формировать настоящие связи.</VQE_DeceptionStudy16.description>
+  <VQE_DeceptionStudy16.description>{PAWN_nameDef} {PAWN_gender ? был помещён : была помещена} в программу испытаний, где вознаграждали ложь и наказывали честность. Со временем {PAWN_pronoun} {PAWN_gender ? научился : научилась} искусно читать людей, но при этом {PAWN_objective} стало трудно формировать искренние связи с другими людьми.</VQE_DeceptionStudy16.description>
 
   <!-- EN: conflict subject -->
   <VQE_GroupConflict17.title>испытуемый конфликтов</VQE_GroupConflict17.title>
   <!-- EN: conflicted -->
   <VQE_GroupConflict17.titleShort>конфликтный</VQE_GroupConflict17.titleShort>
+  <VQE_GroupConflict17.titleShortFemale>конфликтная</VQE_GroupConflict17.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was locked in rooms with other subjects while researchers manipulated resources to force conflict. The constant fighting sharpened [PAWN_possessive] survival instincts, but trust became impossible. -->
-  <VQE_GroupConflict17.description>{PAWN_nameDef} {PAWN_gender ? был заперт : была заперта} в комнатах с другими подопытными, пока исследователи манипулировали ресурсами, чтобы спровоцировать конфликт. Постоянные драки обострили инстинкты выживания, но доверие стало невозможным.</VQE_GroupConflict17.description>
+  <VQE_GroupConflict17.description>{PAWN_nameDef} {PAWN_gender ? был заперт : была заперта} в комнатах с другими испытуемыми, пока исследователи манипулировали ресурсами, чтобы спровоцировать конфликты. Постоянная борьба обострила инстинкты выживания, но лишила возможности доверять другим.</VQE_GroupConflict17.description>
 
   <!-- EN: obedience trial -->
-  <VQE_ObedienceTrial18.title>испытание послушания</VQE_ObedienceTrial18.title>
+  <VQE_ObedienceTrial18.title>испытание подчинения</VQE_ObedienceTrial18.title>
   <!-- EN: obedient -->
   <VQE_ObedienceTrial18.titleShort>послушный</VQE_ObedienceTrial18.titleShort>
+  <VQE_ObedienceTrial18.titleShortFemale>послушная</VQE_ObedienceTrial18.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent years in a program designed to test the limits of obedience to authority. Following orders became second nature, but [PAWN_objective] never learned to make decisions for [PAWN_objective]self. -->
-  <VQE_ObedienceTrial18.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} годы в программе, предназначенной для проверки пределов послушания власти. Выполнение приказов стало второй натурой, но {PAWN_objective} так и не {PAWN_gender ? научился : научилась} принимать решения самостоятельно.</VQE_ObedienceTrial18.description>
+  <VQE_ObedienceTrial18.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела} годы в программе, проверявшей пределы подчинения власти. Выполнение приказов стало второй натурой, поэтому {PAWN_nameDef} {PAWN_gender ? разучился : разучилась} принимать самостоятельные решения.</VQE_ObedienceTrial18.description>
 
   <!-- EN: isolation test -->
-  <VQE_IsolationTest19.title>тест на изоляцию</VQE_IsolationTest19.title>
+  <VQE_IsolationTest19.title>тест изоляции</VQE_IsolationTest19.title>
   <!-- EN: isolated -->
   <VQE_IsolationTest19.titleShort>изолированный</VQE_IsolationTest19.titleShort>
+  <VQE_IsolationTest19.titleShortFemale>изолированная</VQE_IsolationTest19.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was forced into false social situations where allies would suddenly vanish or betray them. The shifting rules left [PAWN_objective] paranoid, but keenly aware of small details others overlook. -->
-  <VQE_IsolationTest19.description>{PAWN_nameDef} {PAWN_gender ? был принуждён : была принуждена} к ложным социальным ситуациям, где союзники внезапно исчезали или предавали. Меняющиеся правила оставили {PAWN_objective} параноиком, но чутко замечающим мелкие детали, которые другие упускают.</VQE_IsolationTest19.description>
+  <VQE_IsolationTest19.description>{PAWN_nameDef} {PAWN_gender ? был принуждён : была принуждена} к ложным социальным ситуациям, где союзники внезапно исчезали или предавали. Меняющиеся правила вызвали у н{PAWN_possessive} параною, но обострили внимание к мелким деталям, которые другие упускают.</VQE_IsolationTest19.description>
 
   <!-- EN: loss experiment -->
   <VQE_LossExperiment20.title>эксперимент утраты</VQE_LossExperiment20.title>
   <!-- EN: bereaved -->
-  <VQE_LossExperiment20.titleShort>понёсший утрату</VQE_LossExperiment20.titleShort>
+  <VQE_LossExperiment20.titleShort>теряющий</VQE_LossExperiment20.titleShort>
+  <VQE_LossExperiment20.titleShortFemale>теряющая</VQE_LossExperiment20.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was made to form bonds with fellow subjects, only to watch them be taken away again and again. The grief left scars, but also gave [PAWN_objective] an unusual resilience to despair. -->
-  <VQE_LossExperiment20.description>{PAWN_nameDef} {PAWN_gender ? был вынужден : была вынуждена} формировать связи с другими подопытными, только чтобы снова и снова наблюдать, как их забирают. Горе оставило шрамы, но также дало {PAWN_objective} необычную устойчивость к отчаянию.</VQE_LossExperiment20.description>
+  <VQE_LossExperiment20.description>{PAWN_nameDef} {PAWN_gender ? был вынужден : была вынуждена} формировать связи с другими подопытными, только чтобы раз за разом видеть, как их забирают. Горе оставило шрамы, но дало {PAWN_objective} необычную устойчивость к горю от утраты.</VQE_LossExperiment20.description>
 
   <!-- EN: betrayal study -->
   <VQE_BetrayalStudy21.title>исследование предательства</VQE_BetrayalStudy21.title>
   <!-- EN: betrayed -->
   <VQE_BetrayalStudy21.titleShort>преданный</VQE_BetrayalStudy21.titleShort>
+  <VQE_BetrayalStudy21.titleShortFemale>преданная</VQE_BetrayalStudy21.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was forced into experiments where subjects were paired as close companions, only to be tricked into betraying one another for survival. The cruelty broke [PAWN_possessive] ability to trust, but sharpened [PAWN_possessive] instincts for danger. -->
-  <VQE_BetrayalStudy21.description>{PAWN_nameDef} {PAWN_gender ? был принуждён : была принуждена} к экспериментам, где подопытных объединяли в близких товарищей, только чтобы потом обманом заставить предать друг друга ради выживания. Жестокость сломала способность доверять, но обострила инстинкты опасности.</VQE_BetrayalStudy21.description>
+  <VQE_BetrayalStudy21.description>{PAWN_nameDef} {PAWN_gender ? был принуждён : была принуждена} к экспериментам, где подопытных объединяли в крепкие пары, чтобы потом обманом заставить предавать друг друга ради выживания. Жестокость сломала способность доверять, но обострила чутьё на опасность.</VQE_BetrayalStudy21.description>
 
   <!-- EN: false family -->
   <VQE_FalseFamily22.title>ложная семья</VQE_FalseFamily22.title>
   <!-- EN: orphaned -->
   <VQE_FalseFamily22.titleShort>осиротевший</VQE_FalseFamily22.titleShort>
+  <VQE_FalseFamily22.titleShortFemale>осиротевшая</VQE_FalseFamily22.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was placed into simulated households with strangers acting as kin, only to have them vanish without explanation. This cycle repeated until [PAWN_pronoun] stopped forming bonds at all, surviving instead through cold detachment. -->
-  <VQE_FalseFamily22.description>{PAWN_nameDef} {PAWN_gender ? был помещён : была помещена} в симулированные домохозяйства с незнакомцами, играющими роль родственников, только чтобы они исчезли без объяснений. Этот цикл повторялся, пока {PAWN_pronoun} вообще не {PAWN_gender ? перестал : перестала} формировать связи, выживая вместо этого через холодную отстранённость.</VQE_FalseFamily22.description>
+  <VQE_FalseFamily22.description>{PAWN_nameDef} {PAWN_gender ? был помещён : была помещена} в условия симулированных семей с незнакомцами, игравшими роль родных. А потом они исчезали без объяснений. Этот цикл повторялся, пока {PAWN_nameDef} вообще не {PAWN_gender ? перестал : перестала} формировать связи, выживая за счёт холодной отстранённости.</VQE_FalseFamily22.description>
 
   <!-- EN: starvation trial -->
   <VQE_StarvationTrial23.title>испытание голодом</VQE_StarvationTrial23.title>
   <!-- EN: starved -->
-  <VQE_StarvationTrial23.titleShort>изголодавшийся</VQE_StarvationTrial23.titleShort>
+  <VQE_StarvationTrial23.titleShort>голодавший</VQE_StarvationTrial23.titleShort>
+  <VQE_StarvationTrial23.titleShortFemale>голодавшая</VQE_StarvationTrial23.titleShortFemale>
   <!-- EN: [PAWN_nameDef] endured experiments where food was withheld and rations were deliberately uneven, forcing subjects to beg or fight for scraps. Hunger carved deep scars into [PAWN_possessive] mind, leaving [PAWN_objective] restless and distrustful of generosity. -->
-  <VQE_StarvationTrial23.description>{PAWN_nameDef} {PAWN_gender ? выдержал : выдержала} эксперименты, где еду задерживали, а пайки намеренно делали неравными, вынуждая подопытных просить или драться за объедки. Голод вырезал глубокие шрамы в психике, оставив {PAWN_objective} беспокойным и недоверчивым к щедрости.</VQE_StarvationTrial23.description>
+  <VQE_StarvationTrial23.description>{PAWN_nameDef} {PAWN_gender ? выдержал : выдержала} эксперименты, где еду задерживали, а пайки намеренно делали неравными, вынуждая подопытных умолять о еде или драться за объедки. Голод вырезал глубокие шрамы в психике, оставив {PAWN_possessive} {PAWN_gender ? беспокойным и недоверчивым : беспокойной и недоверчивой} к щедрости.</VQE_StarvationTrial23.description>
 
   <!-- EN: compassion punished -->
-  <VQE_CompassionPunished24.title>наказанное сострадание</VQE_CompassionPunished24.title>
+  <VQE_CompassionPunished24.title>наказание за сострадание</VQE_CompassionPunished24.title>
   <!-- EN: hardened -->
-  <VQE_CompassionPunished24.titleShort>ожесточённый</VQE_CompassionPunished24.titleShort>
+  <VQE_CompassionPunished24.titleShort>ожесточившийся</VQE_CompassionPunished24.titleShort>
+  <VQE_CompassionPunished24.titleShortFemale>ожесточившаяся</VQE_CompassionPunished24.titleShortFemale>
   <!-- EN: [PAWN_nameDef] lived through trials where showing kindness meant punishment, while cruelty was rewarded. Over time, [PAWN_pronoun] learned to hide compassion behind a mask of cold obedience, though the instinct to care never fully left. -->
-  <VQE_CompassionPunished24.description>{PAWN_nameDef} {PAWN_gender ? прожил : прожила} испытания, где проявление доброты означало наказание, а жестокость вознаграждалась. Со временем {PAWN_pronoun} {PAWN_gender ? научился : научилась} скрывать сострадание за маской холодного послушания, хотя инстинкт заботы никогда полностью не покинул.</VQE_CompassionPunished24.description>
+  <VQE_CompassionPunished24.description>{PAWN_nameDef} {PAWN_gender ? прошёл : прошла} через испытания, где проявление доброты означало наказание, а жестокость вознаграждалась. Со временем {PAWN_pronoun} {PAWN_gender ? научился : научилась} скрывать сострадание за маской холодного послушания, хотя инстинкт заботы так и не исчез полностью.</VQE_CompassionPunished24.description>
 
   <!-- EN: silence study -->
-  <VQE_SilenceStudy25.title>исследование тишины</VQE_SilenceStudy25.title>
+  <VQE_SilenceStudy25.title>исследование молчания</VQE_SilenceStudy25.title>
   <!-- EN: silent -->
   <VQE_SilenceStudy25.titleShort>молчаливый</VQE_SilenceStudy25.titleShort>
+  <VQE_SilenceStudy25.titleShortFemale>молчаливая</VQE_SilenceStudy25.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was raised in enforced silence, punished for speaking or even making noise. The isolation left [PAWN_objective] almost mute in groups, but gave [PAWN_possessive] an uncanny focus when working alone. -->
-  <VQE_SilenceStudy25.description>{PAWN_nameDef} {PAWN_gender ? был воспитан : была воспитана} в принудительной тишине, {PAWN_gender ? наказываемый : наказываемая} за разговоры или даже шум. Изоляция оставила {PAWN_objective} почти немым в группах, но дала сверхъестественную концентрацию при работе в одиночку.</VQE_SilenceStudy25.description>
-
-
-
+  <VQE_SilenceStudy25.description>{PAWN_nameDef} {PAWN_gender ? был воспитан : была воспитана} в принудительной тишине, где за разговоры или даже любой шум наказывали. Изоляция сделала {PAWN_possessive} почти немым на людях, но дала сверхъестественную концентрацию при работе в одиночку.</VQE_SilenceStudy25.description>
 </LanguageData>
