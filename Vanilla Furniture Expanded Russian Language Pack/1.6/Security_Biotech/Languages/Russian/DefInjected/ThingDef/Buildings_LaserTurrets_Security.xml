@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: graser cannon complex -->
+  <VFES_Complex_GraserCannon.label>стационарный гамма-лазер</VFES_Complex_GraserCannon.label>
+  <!-- EN: A devastating gamma ray laser mounted on a barricade to grant cover. It fires a sweeping beam capable of piercing armor and igniting targets. Needs to be manned in order to fire. Requires plasteel to refurbish its emitter array after heavy use. -->
+  <VFES_Complex_GraserCannon.description>Мощный гамма-лазер, установленный на баррикаде. Выпускаемый им луч способен пробивать толстую броню и поджигать цели. Управляется вручную. Для ремонта изношенного ствола требуется пласталь.</VFES_Complex_GraserCannon.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_GraserCannon.comps.3.fuelLabel>Выстрелов до замены ствола</VFES_Complex_GraserCannon.comps.3.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_GraserCannon.comps.3.fuelGizmoLabel>Прочность ствола</VFES_Complex_GraserCannon.comps.3.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_GraserCannon.comps.3.outOfFuelMessage>требуется замена ствола</VFES_Complex_GraserCannon.comps.3.outOfFuelMessage>
+  
+  <!-- EN: graser cannon -->
+  <VFES_ComplexGraserCannon_Top.label>гамма-лазер</VFES_ComplexGraserCannon_Top.label>
+  <!-- EN: A graser cannon designed to be attached to a turret. -->
+  <VFES_ComplexGraserCannon_Top.description>Мощный гамма-лазер, предназначенный для крепления к турельной установке.</VFES_ComplexGraserCannon_Top.description>
+  <!-- EN: graser cannon -->
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>гамма-лазер</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+  <!-- EN: Mote -->
+  <VFES_Mote_WideGraserBeamBase.label>частица</VFES_Mote_WideGraserBeamBase.label>
+
+</LanguageData>

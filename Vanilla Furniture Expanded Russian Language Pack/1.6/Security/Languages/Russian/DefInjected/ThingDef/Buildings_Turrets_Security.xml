@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: catapult -->
+  <VFES_Turret_Catapult.label>катапульта</VFES_Turret_Catapult.label>
+  <!-- EN: A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare. -->
+  <VFES_Turret_Catapult.description>Сооружение для метания снарядов на большие расстояния без помощи пороха или какого-либо другого топлива. Катапульта использовалась с древних времён и зарекомендовала себя как наиболее стабильно эффективное орудие войны.</VFES_Turret_Catapult.description>
+  
+  <!-- EN: catapult -->
+  <VFES_Artillery_Catapult.label>катапульта</VFES_Artillery_Catapult.label>
+  <!-- EN: A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. -->
+  <VFES_Artillery_Catapult.description>Сооружение для метания снарядов на большие расстояния без помощи пороха или какого-либо другого топлива.</VFES_Artillery_Catapult.description>
+  <!-- EN: catapult -->
+  <VFES_Artillery_Catapult.verbs.Verb_Shoot.label>катапульта</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+  
+  <!-- EN: massive boulder -->
+  <VFES_Bullet_Catapult.label>массивный валун</VFES_Bullet_Catapult.label>
+  
+  <!-- EN: ballista -->
+  <VFES_Turret_Ballista.label>баллиста</VFES_Turret_Ballista.label>
+  <!-- EN: An ancient military siege engine in the form of a crossbow mounted on a wooden construct. Bolts fired from this machine explode into splinters on impact. Needs to be manned in order to fire. -->
+  <VFES_Turret_Ballista.description>Средневековая осадная машина в виде большого арбалета на деревянном основании. Болты, выпущенные из этой машины, при ударе разлетаются в щепки. Управляется вручную.</VFES_Turret_Ballista.description>
+  <!-- EN: Ballista bolts -->
+  <VFES_Turret_Ballista.comps.1.fuelLabel>Болты</VFES_Turret_Ballista.comps.1.fuelLabel>
+  <!-- EN: Ballista bolts -->
+  <VFES_Turret_Ballista.comps.1.fuelGizmoLabel>Болты</VFES_Turret_Ballista.comps.1.fuelGizmoLabel>
+  <!-- EN: Needs ballista bolts -->
+  <VFES_Turret_Ballista.comps.1.outOfFuelMessage>необходимы болты</VFES_Turret_Ballista.comps.1.outOfFuelMessage>
+  
+  <!-- EN: ballista -->
+  <VFES_Gun_BallistaTurret.label>баллиста</VFES_Gun_BallistaTurret.label>
+  <!-- EN: An ancient military siege engine in a form of a crossbow mounted on a wooden construct. -->
+  <VFES_Gun_BallistaTurret.description>Средневековая осадная машина в виде большого арбалета на деревянном основании.</VFES_Gun_BallistaTurret.description>
+  <!-- EN: ballista -->
+  <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>баллиста</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ballista bolt -->
+  <VFES_Bullet_Ballista.label>болт из баллисты</VFES_Bullet_Ballista.label>
+  
+  <!-- EN: military turret -->
+  <VFES_Turret_MilitaryTurret.label>военная турель</VFES_Turret_MilitaryTurret.label>
+  <!-- EN: A refined turret with military-grade stabilization, targeting routines, and hardened casing. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_MilitaryTurret.description>Модернизированная турель с точной стабилизацией, улучшенными алгоритмами прицеливания и прочным корпусом. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_MilitaryTurret.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_MilitaryTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_MilitaryTurret.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_MilitaryTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_MilitaryTurret.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_MilitaryTurret.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_MilitaryTurret.comps.5.outOfFuelMessage>
+  
+  <!-- EN: military turret gun -->
+  <VFES_Gun_MilitaryTurret.label>пушка военной турели</VFES_Gun_MilitaryTurret.label>
+  <!-- EN: A refined automatic gun made to be mounted on a turret. -->
+  <VFES_Gun_MilitaryTurret.description>Усовершенствованная автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_MilitaryTurret.description>
+  <!-- EN: military turret gun -->
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>пушка военной турели</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: armored turret -->
+  <VFES_Turret_ArmoredTurret.label>бронированная турель</VFES_Turret_ArmoredTurret.label>
+  <!-- EN: An armored, portable automatic turret. Requires steel to refurbish its barrel after heavy use. Extra armor plating allows the turret to provide some cover, makes it more resistant to enemy fire and prevents explosion in case of severe damage. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_ArmoredTurret.description>Бронированная переносная автоматическая турель. Для ремонта изношенного ствола требуется сталь. Дополнительные бронепластины позволяют ей служить частичным укрытием, повышают устойчивость к вражескому огню и предотвращают взрыв даже при серьёзных повреждениях. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_ArmoredTurret.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ArmoredTurret.comps.4.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ArmoredTurret.comps.4.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ArmoredTurret.comps.4.fuelGizmoLabel>Прочность ствола</VFES_Turret_ArmoredTurret.comps.4.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ArmoredTurret.comps.4.outOfFuelMessage>требуется замена ствола</VFES_Turret_ArmoredTurret.comps.4.outOfFuelMessage>
+  
+  <!-- EN: military turret gun -->
+  <VFES_Gun_ArmoredTurret.label>пушка бронированной турели</VFES_Gun_ArmoredTurret.label>
+  <!-- EN: A refined automatic gun made to be mounted on a turret. -->
+  <VFES_Gun_ArmoredTurret.description>Усовершенствованная автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_ArmoredTurret.description>
+  <!-- EN: military turret gun -->
+  <VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>пушка бронированной турели</VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: searchlight -->
+  <VFES_Turret_Searchlight.label>охранный прожектор</VFES_Turret_Searchlight.label>
+  <!-- EN: An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets. -->
+  <VFES_Turret_Searchlight.description>Аппарат, сочетающий в себе чрезвычайно яркую лампу и зеркальный параболический отражатель, полезный подсветки и ослепления целей.</VFES_Turret_Searchlight.description>
+  
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.label>охранный прожектор</VFES_Gun_Searchlight.label>
+  <!-- EN: A searchlight for a turret. -->
+  <VFES_Gun_Searchlight.description>Прожектор, предназначенный для крепления к турельной установке.</VFES_Gun_Searchlight.description>
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>охранный прожектор</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+  <!-- EN: Mote -->
+  <VFES_Mote_SpotLight.label>частица</VFES_Mote_SpotLight.label>
+  
+  <!-- EN: flamer turret -->
+  <VFES_Turret_Flame.label>огнемётная турель</VFES_Turret_Flame.label>
+  <!-- EN: A portable flamethrower turret, capable of spewing a cone of flame that engulfs enemies and terrain. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_Flame.description>Небольшая переносная огнемётная турель, выбрасывающая конус пламени, охватывающий врагов и окружающую местность. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_Flame.description>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.5.fuelLabel>Осталось топлива</VFES_Turret_Flame.comps.5.fuelLabel>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.5.fuelGizmoLabel>Осталось топлива</VFES_Turret_Flame.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs chemfuel -->
+  <VFES_Turret_Flame.comps.5.outOfFuelMessage>необходимо химтопливо</VFES_Turret_Flame.comps.5.outOfFuelMessage>
+  
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.label>пушка огнемётной турели</VFES_Gun_FlameTurret.label>
+  <!-- EN: A flamethrower made to be mounted on a turret. -->
+  <VFES_Gun_FlameTurret.description>Огнемёт, предназначенный для крепления к турельной установке.</VFES_Gun_FlameTurret.description>
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>пушка огнемётной турели</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun turret -->
+  <VFES_Turret_ShotgunTurret.label>турель с дробовиком</VFES_Turret_ShotgunTurret.label>
+  <!-- EN: A compact automatic turret fitted with a semi-automatic shotgun. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_ShotgunTurret.description>Компактная турель, оснащённая полуавтоматическим дробовиком. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_ShotgunTurret.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ShotgunTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ShotgunTurret.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ShotgunTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_ShotgunTurret.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ShotgunTurret.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_ShotgunTurret.comps.5.outOfFuelMessage>
+  
+  <!-- EN: shotgun turret gun -->
+  <VFES_Gun_ShotgunTurret.label>орудие турели с дробовиком</VFES_Gun_ShotgunTurret.label>
+  <!-- EN: An automatic shotgun made to be mounted on a turret. -->
+  <VFES_Gun_ShotgunTurret.description>Дробовик, предназначенный для крепления к турельной установке.</VFES_Gun_ShotgunTurret.description>
+  <!-- EN: shotgun turret gun -->
+  <VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>орудие турели с дробовиком</VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: double autocannon turret -->
+  <VFES_Turret_AutocannonDouble.label>сдвоенная тяжёлая турель</VFES_Turret_AutocannonDouble.label>
+  <!-- EN: A twin-barreled variant of the autocannon turret. While less accurate and slightly shorter-ranged than its single-barreled cousin, it compensates with a high volume of fire. It cannot fire at close-up targets, and may explode when damaged. -->
+  <VFES_Turret_AutocannonDouble.description>Двуствольный вариант тяжёлой турели. Хотя он менее точен и имеет немного меньшую дальность по сравнению с одноствольной версией, это компенсируется высоким темпом огня. Не стреляет вблизи. При повреждении может взорваться.</VFES_Turret_AutocannonDouble.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_AutocannonDouble.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_AutocannonDouble.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_AutocannonDouble.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_AutocannonDouble.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_AutocannonDouble.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_AutocannonDouble.comps.5.outOfFuelMessage>
+  
+  <!-- EN: double autocannon -->
+  <VFES_TurretDoubleAutocannon_Top.label>сдвоенная пушка тяжёлой турели</VFES_TurretDoubleAutocannon_Top.label>
+  <!-- EN: A self-loading large-bore double cannon designed to be attached to a turret. -->
+  <VFES_TurretDoubleAutocannon_Top.description>Самозарядная крупнокалиберная двухствольная пушка, предназначенная для крепления к турельной установке.</VFES_TurretDoubleAutocannon_Top.description>
+  <!-- EN: double autocannon -->
+  <VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>сдвоенная пушка тяжёлой турели</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: HMG complex -->
+  <VFES_Complex_Hmg.label>стационарный тяжёлый пулемёт</VFES_Complex_Hmg.label>
+  <!-- EN: A heavy machine gun mounted on sandbags to grant cover. Needs to be manned in order to fire. Requires steel to refurbish its barrel after heavy use. -->
+  <VFES_Complex_Hmg.description>Стационарный тяжёлый пулемёт, установленный на мешках с песком. Управляется вручную. Для ремонта изношенного ствола требуется сталь.</VFES_Complex_Hmg.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_Hmg.comps.3.fuelLabel>Выстрелов до замены ствола</VFES_Complex_Hmg.comps.3.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_Hmg.comps.3.fuelGizmoLabel>Прочность ствола</VFES_Complex_Hmg.comps.3.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_Hmg.comps.3.outOfFuelMessage>требуется замена ствола</VFES_Complex_Hmg.comps.3.outOfFuelMessage>
+  
+  <!-- EN: HMG -->
+  <VFES_ComplexHmg_Top.label>тяжёлый пулемёт</VFES_ComplexHmg_Top.label>
+  <!-- EN: A self-loading HMG designed to be attached to a turret. -->
+  <VFES_ComplexHmg_Top.description>Самозарядный тяжёлый пулемёт, предназначенный для крепления к турельной установке.</VFES_ComplexHmg_Top.description>
+  <!-- EN: HMG --> 
+  <VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>тяжёлый пулемёт</VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: HMG bullet -->
+  <VFES_Bullet_HMG.label>пуля из тяжёлого пулемёта</VFES_Bullet_HMG.label>
+  
+  <!-- EN: minigun complex -->
+  <VFES_Complex_Minigun.label>стационарный миниган</VFES_Complex_Minigun.label>
+  <!-- EN: A multi-barrel machine gun mounted on sandbags to grant cover and provide stability. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. Needs to be manned in order to fire. Requires steel to refurbish its barrels after heavy use. -->
+  <VFES_Complex_Minigun.description>Стационарный многоствольный пулемёт, установленный на мешках с песком. В то время, как большинство видов самозарядного огнестрельного оружия использует энергию пороховых газов, миниган оснащён специальным электромотором, вращающим блок стволов и осуществляющим заряжание. Управляется вручную. Для ремонта изношенного ствола требуется сталь.</VFES_Complex_Minigun.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_Minigun.comps.4.fuelLabel>Выстрелов до замены ствола</VFES_Complex_Minigun.comps.4.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_Minigun.comps.4.fuelGizmoLabel>Прочность ствола</VFES_Complex_Minigun.comps.4.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_Minigun.comps.4.outOfFuelMessage>требуется замена ствола</VFES_Complex_Minigun.comps.4.outOfFuelMessage>
+  
+  <!-- EN: minigun -->
+  <VFES_ComplexMinigun_Top.label>миниган</VFES_ComplexMinigun_Top.label>
+  <!-- EN: A self-loading minigun designed to be attached to a turret. -->
+  <VFES_ComplexMinigun_Top.description>Самозарядный миниган, предназначенный для крепления к турельной установке.</VFES_ComplexMinigun_Top.description>
+  <!-- EN: minigun -->  
+  <VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>миниган</VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: minigun turret -->
+  <VFES_Turret_Minigun.label>турель с миниганом</VFES_Turret_Minigun.label>
+  <!-- EN: A heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged. Requires steel to refurbish its barrels after heavy use. -->
+  <VFES_Turret_Minigun.description>Тяжёлая автоматическая турель. Многоствольный механизм обеспечивает непрерывный огонь с высокой скорострельностью, эффективно уничтожая слабо бронированные цели на средней дистанции. При повреждении может взорваться. Для ремонта изношенного ствола требуется сталь.</VFES_Turret_Minigun.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_Minigun.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_Minigun.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_Minigun.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_Minigun.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_Minigun.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_Minigun.comps.5.outOfFuelMessage>
+  
+  <!-- EN: minigun -->
+  <VFES_TurretMinigun_Top.label>миниган</VFES_TurretMinigun_Top.label>
+  <!-- EN: A self-loading minigun designed to be attached to a turret. -->
+  <VFES_TurretMinigun_Top.description>Самозарядный миниган, предназначенный для крепления к турельной установке.</VFES_TurretMinigun_Top.description>
+  <!-- EN: minigun --> 
+  <VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>миниган</VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge turret -->
+  <VFES_Turret_ChargeTurret.label>энергетическая турель</VFES_Turret_ChargeTurret.label>
+  <!-- EN: A portable automatic charged-shot turret. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Requires plasteel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_ChargeTurret.description>Небольшая переносная турель, стреляющая быстро летящими одиночными снарядами, приведёнными в энергетически нестабильное состояние. При повреждении может взорваться. Для ремонта изношенного ствола требуется пласталь. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_ChargeTurret.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ChargeTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ChargeTurret.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ChargeTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_ChargeTurret.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ChargeTurret.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_ChargeTurret.comps.5.outOfFuelMessage>
+  
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_ChargeTurret.label>пушка энергетической турели</VFES_Gun_ChargeTurret.label>
+  <!-- EN: A charge rifle made to be mounted on a turret. -->
+  <VFES_Gun_ChargeTurret.description>Энерговинтовка, предназначенная для крепления к турельной установке.</VFES_Gun_ChargeTurret.description>
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>пушка энергетической турели</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge shot -->
+  <VFES_Bullet_ChargeTurretShot.label>энергетический выстрел</VFES_Bullet_ChargeTurretShot.label>
+  
+  <!-- EN: charge railgun -->
+  <VFES_Turret_ChargeRailgun.label>энергетический рельсотрон</VFES_Turret_ChargeRailgun.label>
+  <!-- EN: A cutting-edge, pulse-charged, rail-assisted weapon system that fires a short burst of high-velocity projectiles, energized with unstable plasma as they leave the rail. The resulting shots pierce armor and bodies alike, but the turret requires new plasteel barrel after use. It cannot fire at close range, and may explode when damaged. -->
+  <VFES_Turret_ChargeRailgun.description>Импульсно заряжаемая система с рельсовым ускорением, выпускающая краткие очереди разогнанных снарядов, которые при выстреле получают заряд нестабильной плазмы. Такие выстрелы пробивают как броню, так и живые цели, однако после применения турель нуждается в замене пласталевого ствола. Не стреляет вблизи. При повреждении может взорваться.</VFES_Turret_ChargeRailgun.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ChargeRailgun.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ChargeRailgun.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ChargeRailgun.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_ChargeRailgun.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ChargeRailgun.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_ChargeRailgun.comps.5.outOfFuelMessage>
+  
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_RailgunTurret.label>энергетический рельсотрон</VFES_Gun_RailgunTurret.label>
+  <!-- EN: An advanced railgun designed to launch electromagnetically accelerated projectiles. -->
+  <VFES_Gun_RailgunTurret.description>Продвинутая рельсовая пушка, предназначенная для запуска снарядов с электромагнитным ускорением.</VFES_Gun_RailgunTurret.description>
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>энергетический рельсотрон</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge railgun shot -->
+  <VFES_Bullet_ChargeRailgunShot.label>выстрел энергетического рельсотрона</VFES_Bullet_ChargeRailgunShot.label>
+  
+  <!-- EN: tesla blaster -->
+  <VFES_Turret_TeslaBlaster.label>тесла-бластер</VFES_Turret_TeslaBlaster.label>
+  <!-- EN: A cutting-edge utility turret designed to counter the mechanoid advances. Four capacitors are charged to release a bolt of electricity. Upon impact, the power surge stuns affected mechanoid, before seeking to jump to another. Will only target mechanoids. -->
+  <VFES_Turret_TeslaBlaster.description>Специализированная турель для подавления механоидов. Высвобождаемый из четырёх конденсаторов электрический импульс временно выводит поражённого механоида из строя и способен перескакивать от одной цели к другой. Работает только против механоидов.</VFES_Turret_TeslaBlaster.description>
+  
+  <!-- EN: tesla blaster bolt -->
+  <Bullet_TeslaBlaster.label>снаряд тесла-бластера</Bullet_TeslaBlaster.label>
+  
+  <!-- EN: tesla blaster -->
+  <Gun_TeslaBlaster.label>тесла-бластер</Gun_TeslaBlaster.label>
+  <!-- EN: A specialized electrical weapon designed to be mounted on a turret. -->
+  <Gun_TeslaBlaster.description>Специализированное энергооружие, предназначенное для крепления к турельной установке.</Gun_TeslaBlaster.description>
+  <!-- EN: tesla blaster -->
+  <Gun_TeslaBlaster.verbs.Verb_Shoot.label>тесла-бластер</Gun_TeslaBlaster.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge complex -->
+  <VFES_Complex_Charge.label>стационарный тяжёлый бластер</VFES_Complex_Charge.label>
+  <!-- EN: A heavy, pulse-charged rapid-fire blaster mounted on a barricade to grant cover. Needs to be manned in order to fire. Requires plasteel to refurbish its barrel after heavy use. -->
+  <VFES_Complex_Charge.description>Тяжёлый скорострельный энергетический бластер, установленный на баррикаде. Управляется вручную. Для ремонта изношенного ствола требуется пласталь.</VFES_Complex_Charge.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_Charge.comps.3.fuelLabel>Выстрелов до замены ствола</VFES_Complex_Charge.comps.3.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_Charge.comps.3.fuelGizmoLabel>Прочность ствола</VFES_Complex_Charge.comps.3.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_Charge.comps.3.outOfFuelMessage>требуется замена ствола</VFES_Complex_Charge.comps.3.outOfFuelMessage>
+  
+  <!-- EN: minigun -->
+  <VFES_ComplexCharge_Top.label>тяжёлый бластер</VFES_ComplexCharge_Top.label>
+  <!-- EN: A self-loading minigun designed to be attached to a turret. -->
+  <VFES_ComplexCharge_Top.description>Тяжёлый бластер, предназначенный для крепления к турельной установке.</VFES_ComplexCharge_Top.description>
+  <!-- EN: minigun -->
+  <VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>тяжёлый бластер</VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge shot -->
+  <VFES_Bullet_ChargeComplex.label>энергетический выстрел</VFES_Bullet_ChargeComplex.label>
+
+</LanguageData>

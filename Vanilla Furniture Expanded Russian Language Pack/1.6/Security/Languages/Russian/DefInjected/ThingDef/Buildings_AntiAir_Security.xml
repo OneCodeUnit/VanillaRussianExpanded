@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: anti-air turret -->
+  <VFES_Turret_AntiAir.label>зенитная турель</VFES_Turret_AntiAir.label>
+  <!-- EN: A specialized defensive turret that intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target's velocity. Requires steel to refurbish its barrels after heavy use. -->
+  <VFES_Turret_AntiAir.description>Специализированная оборонительная турель, перехватывающая ракеты и транспортные капсулы в радиусе стрельбы. Не может атаковать наземные цели. Шанс перехвата зависит от скорости цели. Для ремонта изношенного ствола требуется сталь.</VFES_Turret_AntiAir.description>
+  <!-- EN: Ammunition -->
+  <VFES_Turret_AntiAir.comps.5.fuelLabel>Боезапас</VFES_Turret_AntiAir.comps.5.fuelLabel>
+  <!-- EN: Ammunition -->
+  <VFES_Turret_AntiAir.comps.5.fuelGizmoLabel>Боезапас</VFES_Turret_AntiAir.comps.5.fuelGizmoLabel>
+  
+  <!-- EN: point defense gun -->
+  <VFES_Gun_PointDefense.label>орудие точечной обороны</VFES_Gun_PointDefense.label>
+  <!-- EN: A rapid-fire gun for point-defense applications. -->
+  <VFES_Gun_PointDefense.description>Скорострельное орудие для защиты от ракет и транспортных капсул.</VFES_Gun_PointDefense.description>
+  <!-- EN: point defense gun -->
+  <VFES_Gun_PointDefense.verbs.Verb_Shoot.label>орудие точечной обороны</VFES_Gun_PointDefense.verbs.Verb_Shoot.label>
+
+</LanguageData>

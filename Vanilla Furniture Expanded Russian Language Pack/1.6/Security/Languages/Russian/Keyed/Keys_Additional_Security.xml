@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <!-- EN: Deploy -->
+  <VFES_Deploy>Развернуть</VFES_Deploy>
+  <!-- EN: Deploy the structure from the submerged state. -->
+  <VFES_DeployDesc>Развернуть постройку, подняв её из-под поверхности пола.</VFES_DeployDesc>
+  <!-- EN: Submerge -->
+  <VFES_Submerge>Свернуть</VFES_Submerge>
+  <!-- EN: Submerge the structure into the ground, making it much harder for it to take damage. -->
+  <VFES_SubmergeDesc>Погрузить постройку под поверхность пола для защиты её от повреждений.</VFES_SubmergeDesc>
+  <!-- EN: On cooldown: {0} -->
+  <VFES_OnCooldown>Перезаряжается: {0}</VFES_OnCooldown>
+  <!-- EN: Rearm Traps -->
+  <VFES_DesignatorRearmTraps>Перезарядить ловушки</VFES_DesignatorRearmTraps>
+  <!-- EN: Designate traps to be rearmed by colonists. -->
+  <VFES_DesignatorRearmTraps_Description>Отметить незаряженные ловушки для повторного взведения поселенцами.</VFES_DesignatorRearmTraps_Description>
+  <!-- EN: Must designate rearmable traps. -->
+  <VFES_MessageMustDesignateRearmables>Необходимо выбрать перезаряжаемые ловушки.</VFES_MessageMustDesignateRearmables>
+  <!-- EN: Armed -->
+  <VFES_Armed>Заряжено</VFES_Armed>
+  <!-- EN: Needs rearming -->
+  <VFES_NeedsRearming>Необходима перезарядка</VFES_NeedsRearming>
+  <!-- EN: Secondary fuel -->
+  <VFES_SecondaryFuel>Вторичное топливо</VFES_SecondaryFuel>
+  <!-- EN: Toggle auto-refuel ammunition -->
+  <VFES_CommandToggleAllowAutoRefuelSecondary>Вкл./выкл. автозаправку боеприпасов</VFES_CommandToggleAllowAutoRefuelSecondary>
+  <!-- EN:  (secondary) -->
+  <VFES_ManSecondary> (вторичное)</VFES_ManSecondary>
+  <!-- EN: Set world target -->
+  <VFES_SetWorldTarget>Указать цель на карте мира</VFES_SetWorldTarget>
+  <!-- EN: Set the target on the world map for the artillery to fire at. Shots fired over the world map are less accurate. Can only fire at revealed locations. -->
+  <VFES_SetWorldTargetDesc>Указать цель на карте мира для обстрела артиллерией. Выстрелы по карте мира менее точны. Можно стрелять только по разведанным локациям.</VFES_SetWorldTargetDesc>
+  <!-- EN: Needs to be manned. -->
+  <VFES_NeedsManned>Должно управляться вручную.</VFES_NeedsManned>
+  <!-- EN: Artillery needs to target a visible, explored map. -->
+  <VFES_ArtilleryNeedsVisibleMap>Артиллерия должна нацеливаться на видимую исследованную карту.</VFES_ArtilleryNeedsVisibleMap>
+  <!-- EN: Target is out of range. -->
+  <VFES_ArtilleryOutOfRange>Цель вне радиуса действия.</VFES_ArtilleryOutOfRange>
+  <!-- EN: Artillery cannot fire in this direction. -->
+  <VFES_ArtilleryInvalidFiringMode>Артиллерия не может стрелять в этом направлении.</VFES_ArtilleryInvalidFiringMode>
+  <!-- EN: Artillery cannot fire from planet to space. -->
+  <VFES_ArtilleryInvalidGroundToSpace>Артиллерия не может стрелять с планеты в космос.</VFES_ArtilleryInvalidGroundToSpace>
+  <!-- EN: Artillery cannot fire from space to space. -->
+  <VFES_ArtilleryInvalidSpaceToSpace>Артиллерия не может стрелять из космоса в космос.</VFES_ArtilleryInvalidSpaceToSpace>
+  <!-- EN: Artillery cannot fire from space to ground. -->
+  <VFES_ArtilleryInvalidSpaceToGround>Артиллерия не может стрелять из космоса на землю.</VFES_ArtilleryInvalidSpaceToGround>
+  <!-- EN: Artillery cannot fire from ground to ground -->
+  <VFES_ArtilleryInvalidGroundToGround>Артиллерия не может стрелять с земли на землю.</VFES_ArtilleryInvalidGroundToGround>
+
+</LanguageData>

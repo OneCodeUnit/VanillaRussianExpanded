@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: siege equipment -->
+  <VFES_SiegeEquipment.label>осадное снаряжение</VFES_SiegeEquipment.label>
+  <!-- EN: Construct medieval siege equipment. -->
+  <VFES_SiegeEquipment.description>Средневековое снаряжение для осад.</VFES_SiegeEquipment.description>
+  <!-- EN: 
+  <li>subject->masters of siege</li>
+  <li>subject_story->revived ancient methods for breaching the stoutest defenses</li>
+  <li>subject_story->crafted engines of war that thunder across fields, striking fear into foes</li>
+  <li>subject_story->engineered trebuchets and battering rams from sturdy timber and iron</li>
+  <li>subject_story->led sieges that would become legendary, their tactics studied for ages</li>
+  <li>subject_gerund->laying siege to the future by rediscovering the past</li>
+   -->
+  <VFES_SiegeEquipment.generalRules.rulesStrings>
+  <li>subject->осадное мастерство</li>
+  <li>subject_gen->осадного мастерства</li>
+  <li>subject_dat->осадному мастерству</li>
+  <li>subject_pre_about->об осадном мастерстве</li>
+  <li>subject_story->{ANYPAWN_gender ? возродил : возродила} древние методы прорыва самых прочных укреплений</li>
+  <li>subject_story->{ANYPAWN_gender ? создал : создала} боевые машины, чьё грохотание сеет ужас среди противников</li>
+  <li>subject_story->{ANYPAWN_gender ? спроектировал : спроектировала} требушеты и тараны из прочного дерева и железа</li>
+  <li>subject_story->{ANYPAWN_gender ? возглавил : возглавила} легендарные осады, чьи тактики изучались веками</li>
+  <li>subject_gerund->осады будущего через переосмысление прошлого</li>
+  </VFES_SiegeEquipment.generalRules.rulesStrings>
+  
+  <!-- EN: trench warfare -->
+  <VWE_TrenchWarfare.label>позиционная война</VWE_TrenchWarfare.label>
+  <!-- EN: Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat. -->
+  <VWE_TrenchWarfare.description>Адаптация тактики позиционной войны для сражений на близкой дистанции.</VWE_TrenchWarfare.description>
+  <!-- EN: 
+  <li>subject->digging in</li>
+  <li>subject_story->adopted the grim tactics of entrenched battles, shaping landscapes into mazes of mud and death</li>
+  <li>subject_story->innovated with rapid entrenching tools and techniques for swift fortification</li>
+  <li>subject_story->balanced the horror of no-man's-land with the safety of well-prepared defenses</li>
+  <li>subject_story->transformed warfare with the introduction of close-quarters combat within the earth's embrace</li>
+  <li>subject_gerund->embracing the earth for protection and strategy</li>
+   -->
+  <VWE_TrenchWarfare.generalRules.rulesStrings>
+  <li>subject->укрепление позиций</li>
+  <li>subject_gen->укрепления позиций</li>
+  <li>subject_dat->укреплению позиций</li>
+  <li>subject_pre_about->об укреплении позиций</li>
+  <li>subject_story->{ANYPAWN_gender ? перенял : переняла} суровые приёмы окопной войны, превращая ландшафты в лабиринты грязи и смерти</li>
+  <li>subject_story->{ANYPAWN_gender ? внедрил : внедрила} новые инструменты и приёмы быстрого окапывания для стремительного укрепления позиций</li>
+  <li>subject_story->{ANYPAWN_gender ? противопоставил : противопоставила} продуманную оборону ужасам открытого боя</li>
+  <li>subject_story->{ANYPAWN_gender ? сформировал : сформировала} новую тактику войны, освоив ведение ближнего боя под покровом земли</li>
+  <li>subject_gerund->использования рельефа земли для обороны и стратегии</li>
+  </VWE_TrenchWarfare.generalRules.rulesStrings>
+  
+  <!-- EN: concealed defenses -->
+  <VFES_ConcealedDefenses.label>скрытые оборонительные сооружения</VFES_ConcealedDefenses.label>
+  <!-- EN: Construct submersible barriers and turrets, perfect for indoor defenses. -->
+  <VFES_ConcealedDefenses.description>Скрытые оборонительные барьеры и турели для использования внутри помещений.</VFES_ConcealedDefenses.description>
+  <!-- EN: 
+  <li>subject->hidden strength</li>
+  <li>subject_story->mastered the art of concealment, making fortifications vanish before the enemy's eyes</li>
+  <li>subject_story->innovated with submersible turrets and traps, revealing strength at the moment of surprise</li>
+  <li>subject_story->designed defenses that blend seamlessly with the environment, striking unseen</li>
+  <li>subject_story->created a network of hidden armaments, ensuring security through invisibility</li>
+  <li>subject_gerund->camouflaging power in plain sight</li>
+   -->
+  <VFES_ConcealedDefenses.generalRules.rulesStrings>
+  <li>subject->скрытая сила</li>
+  <li>subject_gen->скрытой силы</li>
+  <li>subject_dat->скрытой силе</li>
+  <li>subject_pre_about->о скрытой силе</li>
+  <li>subject_story->{ANYPAWN_gender ? овладел : овладела} искусством маскировки, заставляя укрепления исчезать на глазах врагов</li>
+  <li>subject_story->{ANYPAWN_gender ? разработал : разработала} погружные турели и ловушки, обнажающие свою мощь при внезапном ударе</li>
+  <li>subject_story->{ANYPAWN_gender ? спроектировал : спроектировала} оборонительные сооружения, сливающиеся с окружением и наносящие удары незаметно для врага</li>
+  <li>subject_story->{ANYPAWN_gender ? создал : создала} сеть скрытого вооружения, обеспечивающую безопасность за счёт незаметности</li>
+  <li>subject_gerund->незаметного сокрытия силы на виду у всех</li>
+  </VFES_ConcealedDefenses.generalRules.rulesStrings>
+  
+  <!-- EN: railgun -->
+  <VFES_Railgun.label>рельсовые пушки</VFES_Railgun.label>
+  <!-- EN: Adapt spacecraft weaponry as part of your defensive systems. -->
+  <VFES_Railgun.description>Адаптация орудий космических кораблей в качестве части вашей оборонительной системы.</VFES_Railgun.description>
+  <!-- EN: 
+  <li>subject->precision unleashed</li>
+  <li>subject_story->adapted the devastating power of spacecraft armaments for ground warfare</li>
+  <li>subject_story->engineered railguns to deliver unmatched velocity and destruction</li>
+  <li>subject_story->redefined the art of siege with technology torn from the stars</li>
+  <li>subject_story->ushered in a new age where the clash of titans is decided by the silent whisper of magnetic acceleration</li>
+  <li>subject_gerund->bridging worlds with the thunder of railguns</li>
+   -->
+  <VFES_Railgun.generalRules.rulesStrings>
+  <li>subject->ускоренная баллистика</li>
+  <li>subject_gen->ускоренной баллистики</li>
+  <li>subject_dat->ускоренной баллистике</li>
+  <li>subject_pre_about->об ускоренной баллистике</li>
+  <li>subject_story->{ANYPAWN_gender ? приспособил : приспособила} разрушительную мощь корабельных вооружений для наземной войны</li>
+  <li>subject_story->{ANYPAWN_gender ? спроектировал : спроектировала} рельсотроны, обеспечивающие непревзойдённую скорость и разрушительную мощь</li>
+  <li>subject_story->{ANYPAWN_gender ? переосмыслил : переосмыслила} искусство осады с помощью передовых космических технологий</li>
+  <li>subject_story->{ANYPAWN_gender ? открыл : открыла} новую эпоху, в которой судьбу великих сражений решает тихая сила магнитного ускорения</li>
+  <li>subject_gerund->утверждения силы громом рельсотронов</li>
+  </VFES_Railgun.generalRules.rulesStrings>
+  
+  <!-- EN: electromagnetic pulse -->
+  <VFES_EMPCannon.label>электромагнитный импульс</VFES_EMPCannon.label>
+  <!-- EN: Develop EMP traps and tesla blasters capable of stunning mechanoids. -->
+  <VFES_EMPCannon.description>Импульсные мины и тесла-бластеры, способные оглушать механоидов.</VFES_EMPCannon.description>
+  <!-- EN: 
+  <li>subject->the silent storm</li>
+  <li>subject_story->crafted weapons that speak in the language of lightning, silencing the mechanical behemoths of war</li>
+  <li>subject_story->melded the might of electromagnetic pulses with strategic defense</li>
+  <li>subject_story->paved the way for victory in silence, stunning adversaries with invisible force</li>
+  <li>subject_story->mastered the dance of electrons to protect and paralyze</li>
+  <li>subject_gerund->commanding the battlefield with the whisper of currents</li>
+   -->
+  <VFES_EMPCannon.generalRules.rulesStrings>
+  <li>subject->беззвучная буря</li>
+  <li>subject_gen->беззвучной бури</li>
+  <li>subject_dat->беззвучной буре</li>
+  <li>subject_pre_about->о беззвучной буре</li>
+  <li>subject_story->{ANYPAWN_gender ? создал : создала} оружие, говорящее языком электрических импульсов и усмиряющее механических чудовищ войны</li>
+  <li>subject_story->{ANYPAWN_gender ? соединил : соединила} мощь электромагнитных импульсов со стратегической обороной</li>
+  <li>subject_story->{ANYPAWN_gender ? обеспечил : обеспечила} победу без шума, сокрушая врагов незримой силой</li>
+  <li>subject_story->{ANYPAWN_gender ? превратил : превратила} движение электронов в средство защиты и нейтрализации</li>
+  <li>subject_gerund->доминирования на поле боя за счёт мощи электрических импульсов</li>
+  </VFES_EMPCannon.generalRules.rulesStrings>
+  
+  <!-- EN: repulsor technology -->
+  <VFES_RepulsorTechnology.label>импульсно-репульсорная технология</VFES_RepulsorTechnology.label>
+  <!-- EN: Build ultratech shield generators that project energy fields to repel projectiles. -->
+  <VFES_RepulsorTechnology.description>Ультратехнологичные генераторы щитов, создающие мощные энергетические поля для отражения снарядов.</VFES_RepulsorTechnology.description>
+  <!-- EN: 
+  <li>subject->force fields forged</li>
+  <li>subject_story->unveiled the secrets of repulsor tech, casting domes of protection across the land</li>
+  <li>subject_story->engineered bastions of safety, where energy shields deflect the fury of war</li>
+  <li>subject_story->merged the ancient dreams of invincibility with the tangible touch of science</li>
+  <li>subject_story->ensured peace within the storm, under the watchful gaze of shimmering barriers</li>
+  <li>subject_gerund->weaving the fabric of defense with threads of pure energy</li>
+   -->
+  <VFES_RepulsorTechnology.generalRules.rulesStrings>
+  <li>subject->создание силовых полей</li>
+  <li>subject_gen->создания силовых полей</li>
+  <li>subject_dat->созданию силовых полей</li>
+  <li>subject_pre_about->о создании силовых полей</li>
+  <li>subject_story->{ANYPAWN_gender ? раскрыл : раскрыла} тайны репульсорных технологий, воздвигая защитные купола над землёй</li>
+  <li>subject_story->{ANYPAWN_gender ? воздвиг : воздвигла} укрепления, способные отразить ярость войны силой энергетических щитов</li>
+  <li>subject_story->{ANYPAWN_gender ? превратил : превратила} древние мечты о неуязвимости в осязаемое достижение науки</li>
+  <li>subject_story->{ANYPAWN_gender ? создал : создала} островки покоя среди бури войны под защитой светящихся щитов</li>
+  <li>subject_gerund->создания оборонительной структуры из потоков чистой энергии</li>
+  </VFES_RepulsorTechnology.generalRules.rulesStrings>
+
+</LanguageData>

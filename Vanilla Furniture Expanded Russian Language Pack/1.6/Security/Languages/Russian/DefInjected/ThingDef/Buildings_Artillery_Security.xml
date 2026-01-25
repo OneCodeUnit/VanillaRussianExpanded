@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: automated mortar -->
+  <VFES_Turret_AutomatedMortar.label>автоматический миномёт</VFES_Turret_AutomatedMortar.label>
+  <!-- EN: An automated mortar that launches high-explosive shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. Due to a delicate firing mechanism, it's only calibrated to fire high-explosive shells. -->
+  <VFES_Turret_AutomatedMortar.description>Автоматизированный миномёт, ведущий огонь осколочными снарядами. Его мощь способна сокрушать укрепления, однако ограниченная точность снижает эффективность против войск в открытом поле. Из-за чувствительного механизма наведения он откалиброван для стрельбы только осколочными снарядами.</VFES_Turret_AutomatedMortar.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_AutomatedMortar.comps.2.fuelLabel>Выстрелов до замены ствола</VFES_Turret_AutomatedMortar.comps.2.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_AutomatedMortar.comps.2.fuelGizmoLabel>Прочность ствола</VFES_Turret_AutomatedMortar.comps.2.fuelGizmoLabel>
+  <!-- EN: Needs new reinforced barrel -->
+  <VFES_Turret_AutomatedMortar.comps.2.outOfFuelMessage>требуется замена ствола</VFES_Turret_AutomatedMortar.comps.2.outOfFuelMessage>
+  <!-- EN: Ammunition -->
+  <VFES_Turret_AutomatedMortar.comps.2.secondaryFuelLabel>Боезапас</VFES_Turret_AutomatedMortar.comps.2.secondaryFuelLabel>
+  <!-- EN: Shells loaded -->
+  <VFES_Turret_AutomatedMortar.comps.2.secondaryFuelGizmoLabel>Боеприпасы загружены</VFES_Turret_AutomatedMortar.comps.2.secondaryFuelGizmoLabel>
+  <!-- EN: No shells -->
+  <VFES_Turret_AutomatedMortar.comps.2.outOfSecondaryFuelMessage>Нет боеприпасов</VFES_Turret_AutomatedMortar.comps.2.outOfSecondaryFuelMessage>
+  
+  <!-- EN: automated mortar -->
+  <Gun_AutomatedMortar.label>автоматический миномёт</Gun_AutomatedMortar.label>
+  <!-- EN: automated mortar -->
+  <Gun_AutomatedMortar.verbs.Verb_Shoot.label>автоматический миномёт</Gun_AutomatedMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: artillery -->
+  <VFES_Turret_Artillery.label>артиллерийское орудие</VFES_Turret_Artillery.label>
+  <!-- EN: A powerful, manned artillery cannon designed for long-range bombardment. Though it fires slower than a mortar, its improved targeting systems allow for far greater accuracy, making it ideal for precise strikes against enemy structures or high-value targets. Can be crewed by two people to double its firing speed. Capable of providing fire support across the world map, but only on revealed locations. -->
+  <VFES_Turret_Artillery.description>Мощное артиллерийское орудие ручного управления, предназначенное для дальнего обстрела. Хотя оно стреляет медленнее миномёта, улучшенные системы наведения обеспечивают значительно более высокую точность, что делает его идеальным для точечных ударов по вражеским сооружениям или особо ценным целям. Может управляться двумя операторами, что вдвое увеличивает скорость стрельбы. Способно оказывать огневую поддержку по карте мира, но только по разведанным локациям.</VFES_Turret_Artillery.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_Artillery.comps.3.fuelLabel>Выстрелов до замены ствола</VFES_Turret_Artillery.comps.3.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_Artillery.comps.3.fuelGizmoLabel>Прочность ствола</VFES_Turret_Artillery.comps.3.fuelGizmoLabel>
+  <!-- EN: Needs new reinforced barrel -->
+  <VFES_Turret_Artillery.comps.3.outOfFuelMessage>требуется замена ствола</VFES_Turret_Artillery.comps.3.outOfFuelMessage>
+  
+  <!-- EN: artillery gun -->
+  <VFES_Artillery_ArtilleryGun.label>артиллерийское орудие</VFES_Artillery_ArtilleryGun.label>
+  <!-- EN: Artillery launcher. Lobs bombs over walls. Accurate and long-ranged. -->
+  <VFES_Artillery_ArtilleryGun.description>Артиллерийская установка, способная перебрасывать снаряды через препятствия и стены. Точная и дальнобойная.</VFES_Artillery_ArtilleryGun.description>
+  <!-- EN: artillery gun -->
+  <VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>артиллерийское орудие</VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>
+
+</LanguageData>

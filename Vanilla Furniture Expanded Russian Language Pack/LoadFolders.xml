@@ -32,11 +32,15 @@
     <li IfModActive="VanillaExpanded.VFEArchitect">1.6/Architect</li>
     <li IfModActive="VanillaExpanded.VFEPower">1.6/Power</li>
     <li IfModActive="VanillaExpanded.VFESpacer">1.6/Spacer</li>
-	<li IfModActive="Ludeon.RimWorld.Royalty">1.5/Royalty</li>
+	<li IfModActiveAll="VanillaExpanded.VFECore,Ludeon.RimWorld.Royalty">1.5/Royalty</li>
 	<li IfModActive="VanillaExpanded.VFEMedical">1.5/Medical</li>
 	<li IfModActive="VanillaExpanded.VFEArt">1.5/Art</li>
 	<li IfModActive="VanillaExpanded.VFEProduction">1.5/Production</li>
-	<li IfModActive="Ludeon.RimWorld.Ideology">1.5/Ideology</li>
+	<li IfModActiveAll="VanillaExpanded.VFECore,Ludeon.RimWorld.Ideology">1.5/Ideology</li>
     <li IfModActive="VanillaExpanded.VFEFarming">1.5/Farming</li>
+    <li IfModActive="VanillaExpanded.VFESecurity">1.6/Security</li>
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Anomaly">1.6/Security_Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Biotech">1.6/Security_Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,VanillaExpanded.VWENL">1.6/Security_VWE_NonLethal</li>
   </v1.6>
 </loadFolders>

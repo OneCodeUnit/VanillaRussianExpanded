@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: heavy incinerator complex -->
+  <VFES_Complex_HeavyIncineratorComplex.label>стационарный тяжёлый испепелитель</VFES_Complex_HeavyIncineratorComplex.label>
+  <!-- EN: A heavy incinerator mounted on a barricade to grant cover. Needs to be manned in order to fire. It is equipped with a powerful mega-burner that requires bioferrite to reload. -->
+  <VFES_Complex_HeavyIncineratorComplex.description>Тяжёлый испепелитель, установленный на баррикаде. Оснащён мощным мегазарядом и нуждается в перезарядке биоферритом после каждого использования. Управляется вручную.</VFES_Complex_HeavyIncineratorComplex.description>
+  <!-- EN: Remaining bioferrite -->
+  <VFES_Complex_HeavyIncineratorComplex.comps.3.fuelLabel>Осталось биоферрита</VFES_Complex_HeavyIncineratorComplex.comps.3.fuelLabel>
+  <!-- EN: Remaining bioferrite -->
+  <VFES_Complex_HeavyIncineratorComplex.comps.3.fuelGizmoLabel>Осталось биоферрита</VFES_Complex_HeavyIncineratorComplex.comps.3.fuelGizmoLabel>
+  <!-- EN: Needs bioferrite -->
+  <VFES_Complex_HeavyIncineratorComplex.comps.3.outOfFuelMessage>необходим биоферрит</VFES_Complex_HeavyIncineratorComplex.comps.3.outOfFuelMessage>
+  
+  <!-- EN: heavy incinerator -->
+  <VFES_ComplexHeavyIncinerator_Top.label>тяжёлый испепелитель</VFES_ComplexHeavyIncinerator_Top.label>
+  <!-- EN: A heavy incinerator designed to be attached to a turret. -->
+  <VFES_ComplexHeavyIncinerator_Top.description>Тяжёлый испепелитель, предназначенный для крепления к турельной установке.</VFES_ComplexHeavyIncinerator_Top.description>
+  <!-- EN: heavy incinerator -->
+  <VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>тяжёлый испепелитель</VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>
+
+</LanguageData>

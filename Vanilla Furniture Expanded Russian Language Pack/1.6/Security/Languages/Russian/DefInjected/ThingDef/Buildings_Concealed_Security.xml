@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: concealed turret -->
+  <VFES_Turret_Concealed.label>выдвижная турель</VFES_Turret_Concealed.label>
+  <!-- EN: A compact automatic turret equipped with retractable armor plating and a submersion mechanism. It is capable of submerging into the ground, becoming impossible to target. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_Concealed.description>Компактная автоматическая турель, оснащённая выдвижной бронепластиной и механизмом погружения. Способна уходить под землю, становясь недоступной для наведения. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. В неактивном состоянии получает вдвое меньше урона. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_Concealed.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_Concealed.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_Concealed.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_Concealed.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_Concealed.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_Concealed.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_Concealed.comps.5.outOfFuelMessage>
+  
+  <!-- EN: concealed turret bullet -->
+  <VFES_Bullet_ConcealedTurret.label>пуля из выдвижной турели</VFES_Bullet_ConcealedTurret.label>
+  
+  <!-- EN: concealed turret gun -->
+  <VFES_Gun_ConcealedTurret.label>пушка выдвижной турели</VFES_Gun_ConcealedTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <VFES_Gun_ConcealedTurret.description>Лёгкая автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_ConcealedTurret.description>
+  <!-- EN: concealed turret gun -->
+  <VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>пушка выдвижной турели</VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: concealed barrier -->
+  <VFES_ConcealedBarrier.label>выдвижной барьер</VFES_ConcealedBarrier.label>
+  <!-- EN: A retractable, waist-high barrier for use as cover from incoming shots. It provides strong cover while deployed and is almost invisible when submerged. Barricades will block certain kinds of animals the same way that fences do. Requires power. -->
+  <VFES_ConcealedBarrier.description>Выдвижной барьер высотой по пояс, используемый как укрытие от огня противника. Он обеспечивает надёжную защиту в развёрнутом состоянии и практически незаметен в погруженном. Он, так же как и ограда, не будет давать пройти через себя определённым видам животных. Требует электричества для работы.</VFES_ConcealedBarrier.description>
+
+</LanguageData>

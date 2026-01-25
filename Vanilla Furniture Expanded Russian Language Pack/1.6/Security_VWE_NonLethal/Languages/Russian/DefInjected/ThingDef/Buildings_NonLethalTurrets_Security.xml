@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: non-lethal turret -->
+  <VFES_Turret_NonLethalTurret.label>нелетальная турель</VFES_Turret_NonLethalTurret.label>
+  <!-- EN: A turret designed to fire rubber bullets at intruders or unruly colonists. It causes pain and blunt trauma with low chance of fatal injury, making it ideal for non-lethal suppression. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_NonLethalTurret.description>Турель, предназначенная для стрельбы резиновыми пулями по нарушителям или неуправляемым поселенцам. Причиняет боль и наносит тупой урон с низкой вероятностью смертельных повреждений, что делает её идеальной для нелетального подавления. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_NonLethalTurret.description>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_NonLethalTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_NonLethalTurret.comps.5.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_NonLethalTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_NonLethalTurret.comps.5.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_NonLethalTurret.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_NonLethalTurret.comps.5.outOfFuelMessage>
+  
+  <!-- EN: non-lethal turret gun -->
+  <VFES_Gun_NonLethalTurret.label>пушка нелетальной турели</VFES_Gun_NonLethalTurret.label>
+  <!-- EN: A non-lethal rubber bullet gun made to be mounted on a turret. -->
+  <VFES_Gun_NonLethalTurret.description>Нелетальное оружие с резиновыми пулями, предназначенное для крепления к турельной установке.</VFES_Gun_NonLethalTurret.description>
+
+</LanguageData>
