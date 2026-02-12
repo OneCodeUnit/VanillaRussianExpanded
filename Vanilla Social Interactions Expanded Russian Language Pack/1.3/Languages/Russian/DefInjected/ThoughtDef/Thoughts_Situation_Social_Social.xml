@@ -85,19 +85,19 @@
   <VSIE_BrokeUpWithMe.stages.0.label>{OTHERPAWN_nameDef} {OTHERPAWN_gender ? порвал : порвала} со мной. Смогу ли я найти кого-нибудь вместо н{OTHERPAWN_possessive}?</VSIE_BrokeUpWithMe.stages.0.label>
 
   <!-- EN: {OTHERPAWN_nameDef} and I had a nice chat. It feels like we can talk about anything -->
-  <VSIE_WeHadNiceChat.stages.0.label>Мы с {OTHERPAWN_nameDef} отлично поболтали. Это было так увлекательно. Кажется, я могу говорить с н{PAWN_objective} о чём угодно.</VSIE_WeHadNiceChat.stages.0.label>
+  <VSIE_WeHadNiceChat.stages.0.label>Мы с {OTHERPAWN_nameDef} отлично поболтали. Это было так увлекательно. Кажется, я могу говорить с {OTHERPAWN_gender ? ним : ней} о чём угодно.</VSIE_WeHadNiceChat.stages.0.label>
 
   <!-- EN: {OTHERPAWN_nameDef} and I had a social fight -->
   <VSIE_WeHadSocialFight.stages.0.label>Мы с {OTHERPAWN_nameDef} подрались.</VSIE_WeHadSocialFight.stages.0.label>
 
   <!-- EN: {OTHERPAWN_nameDef} saved me from my wounds. I will always be in {OTHERPAWN_possessive} debt -->
-  <VSIE_SavedMeFromMyWounds.stages.0.label>{OTHERPAWN_nameDef} {OTHERPAWN_gender ? вылечил : вылечила} мои раны. Я в неоплатном долгу перед н{PAWN_objective}.</VSIE_SavedMeFromMyWounds.stages.0.label>
+  <VSIE_SavedMeFromMyWounds.stages.0.label>{OTHERPAWN_nameDef} {OTHERPAWN_gender ? вылечил : вылечила} мои раны. Я в неоплатном долгу перед {OTHERPAWN_gender ? ним : ней}.</VSIE_SavedMeFromMyWounds.stages.0.label>
 
   <!-- EN: {OTHERPAWN_nameDef} has been my friend since childhood, we have so much in common that no one can separate us -->
   <VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>С самого детства я и {OTHERPAWN_nameDef} — друзья не разлей вода. У нас много общего и ничто нас не разлучит.</VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>
 
   <!-- EN: {SECONDPAWN_nameDef} saved me from {THIRDPAWN_kindDef}, I will always be in {SECONDPAWN_possessive} debt -->
-  <VSIE_SavedMeFromRaiders.stages.0.label>{OTHERPAWN_nameDef} {OTHERPAWN_gender ? спас : спасла} меня от {THIRDPAWN_kindDef}. Я в неоплатном долгу перед н{PAWN_objective}.</VSIE_SavedMeFromRaiders.stages.0.label>
+  <VSIE_SavedMeFromRaiders.stages.0.label>{OTHERPAWN_nameDef} {OTHERPAWN_gender ? спас : спасла} меня от {THIRDPAWN_kindDef}. Я в неоплатном долгу перед {OTHERPAWN_gender ? ним : ней}.</VSIE_SavedMeFromRaiders.stages.0.label>
 
   <!-- EN: {SECONDPAWN_nameDef} cured my {0} {THIRDPAWN_nameDef}, I will always be grateful to {SECONDPAWN_objective} -->
   <VSIE_CuredMyFriend.stages.0.label>{SECONDPAWN_nameDef} {SECONDPAWN_gender ? вылечил : вылечила} {THIRDPAWN_nameDef}, {THIRDPAWN_gender ? моего : мою} {0}. Я всегда буду благодарить {SECONDPAWN_possessive} за это.</VSIE_CuredMyFriend.stages.0.label>
