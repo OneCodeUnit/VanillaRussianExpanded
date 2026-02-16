@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: alphabeavers -->
+  <VEE_Alphabeavers.label>альфабобры</VEE_Alphabeavers.label>
+  
+  <!-- EN: herd migration -->
+  <VEE_MigratoryHerds.label>миграция животных</VEE_MigratoryHerds.label>
+  <!-- EN: Animal migration: {0} -->
+  <VEE_MigratoryHerds.letterLabel>{0} мигрируют</VEE_MigratoryHerds.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <VEE_MigratoryHerds.letterText>Крупное стадо {lookup: {0}; Case; 1} мигрирует мимо поселения.\n\nОни не нападут на вас, если их не провоцировать.</VEE_MigratoryHerds.letterText>
+  
+  <!-- EN: infestation -->
+  <VEE_Infestation.label>насекомые</VEE_Infestation.label>
+  <!-- EN: Infestation -->
+  <VEE_Infestation.letterLabel>Насекомые!</VEE_Infestation.letterLabel>
+  <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
+  <VEE_Infestation.letterText>К вам пробираются гигантские насекомые! Через несколько секунд они со своими ульями будут уже у вас.\n\nУльи порождают новых насекомых и новые ульи.\n\nЕсли вы не хотите, чтобы в будущем всё вокруг кишело ими, вам придётся собрать свои силы и избавиться от этих паразитов. Но будьте осторожны: насекомые будут защищать свой дом.</VEE_Infestation.letterText>
+  
+  <!-- EN: tornado -->
+  <VEE_TornadoAlley.label>смерч</VEE_TornadoAlley.label>
+  
+  <!-- EN: fertile rains -->
+  <VEE_FertileRains.label>плодородный дождь</VEE_FertileRains.label>
+  <!-- EN: Fertile Rains -->
+  <VEE_FertileRains.letterLabel>Плодородный дождь</VEE_FertileRains.letterLabel>
+  <!-- EN: Unusually nutrient-rich rainfall is sweeping across the region, boosting plant growth for its duration. -->
+  <VEE_FertileRains.letterText>Эту область накрыли дожди, содержащие много питательных веществ, что временно усиливает рост растений.</VEE_FertileRains.letterText>
+  
+  <!-- EN: aurora -->
+  <VEE_Aurora.label>полярное сияние</VEE_Aurora.label>
+  <!-- EN: Aurora -->
+  <VEE_Aurora.letterLabel>Полярное сияние</VEE_Aurora.letterLabel>
+  
+  <!-- EN: tidal flooding -->
+  <VEE_TidalFloodingIncident.label>приливное наводнение</VEE_TidalFloodingIncident.label>
+
+</LanguageData>

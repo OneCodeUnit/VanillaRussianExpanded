@@ -1,0 +1,23 @@
+﻿<ModMetaData>
+	<name>Vanilla Landmarks Expanded Russian Language Pack</name>
+	<author>Mewn Goddess</author>
+	<packageId>Mewn.RU.VanillaExpanded.VExplorationE</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modVersion>16.01</modVersion>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VExplorationE</packageId>
+			<displayName>Vanilla Landmarks Expanded</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3656316229</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>VanillaExpanded.VExplorationE</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>norfold.vanillaexpanded.vexploratione</li>
+	</incompatibleWith>
+	<description>Перевод на русский язык мода Vanilla Landmarks Expanded. Подробности ищите на странице в мастерской.</description>
+</ModMetaData>
