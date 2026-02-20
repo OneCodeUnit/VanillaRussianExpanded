@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Weapons Expanded</name>
+	<author>Oskar Potocki, Sokyran, Taranchuk, Sarg Bjornson</author>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+	</modDependencies>
+	<packageId>VanillaExpanded.VWE</packageId>
+	<loadAfter>
+		<li>vanillaexpanded.achievements</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+	<description>This mod introduces a comprehensive selection of over 30 new weapons spanning the Neolithic, Medieval, Industrial, and Spacer tech levels, seamlessly integrating into your RimWorld colony's arsenal. Each weapon has been carefully designed and balanced to ensure it aligns perfectly with the core game's combat mechanics. Nothing should feel overpowered or underperforming.
+
+Key features:
+
+- Expanded Arsenal: Fill the gaps in RimWorld's existing weapon progression with new options like the Heavy Revolver, Trench Gun, Battle Rifle, Anti-materiel Rifle, Charge Shotgun, and more.
+- Unique Utility: Discover weapons with distinct tactical advantages, such as the construction-boosting Hammer, the harvesting-friendly Hatchet, the stealth-focused Compound Bow, and the indirect fire capability of the Charge Missile Launcher.
+- Strategic Industrial Tools: Employ new industrial-era measures including the close-quarters Flamethrower, area-denial Smoke Grenades, and the tactical Stun Grenades.
+- Seamless Integration: All new weapons are tied to logical research projects, appear on appropriate enemy pawns, and can be found on traders, making them feel like a natural extension of the base game.
+- Unique Weapon Traits: Fully supports the unique weapon trait system introduced in the Odyssey DLC, adding dozens of new unique weapon traits.
+	</description>
+</ModMetaData>
