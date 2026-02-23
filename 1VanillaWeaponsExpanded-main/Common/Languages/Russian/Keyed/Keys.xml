@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-
   <!-- EN: {0}, equipped by {1}, has fully deteriorated. -->
-  <VWE_WeaponDeterioratedMessage>{0}, equipped by {1}, has fully deteriorated.</VWE_WeaponDeterioratedMessage>
+  <VWE_WeaponDeterioratedMessage>{0} в руках {1} окончательно вышло из строя.</VWE_WeaponDeterioratedMessage>
   <!-- EN: This weapon will deteriorate after a certain number of shots. -->
-  <VWE_WeaponDeteriorationInfo>This weapon will deteriorate after a certain number of shots.</VWE_WeaponDeteriorationInfo>
+  <VWE_WeaponDeteriorationInfo>Это оружие выйдет из строя после определенного количества выстрелов.</VWE_WeaponDeteriorationInfo>
   <!-- EN: Shots remaining: {0} -->
-  <VWE_ShotRemaining>Shots remaining: {0}</VWE_ShotRemaining>
-
-
+  <VWE_ShotRemaining>Осталось выстрелов: {0}</VWE_ShotRemaining>
 </LanguageData>
