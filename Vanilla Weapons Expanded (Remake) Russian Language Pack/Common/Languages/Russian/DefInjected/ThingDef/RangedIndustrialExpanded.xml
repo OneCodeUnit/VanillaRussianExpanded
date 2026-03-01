@@ -16,6 +16,8 @@
   <VWE_Bow_Compound.description>Складной и технически совершенный блочный лук, созданный специально для охотников. Его конструкция обеспечивает пониженный уровень шума. Механизм лука позволяет натягивать тетиву с высокой энергией и выпускать стрелы с превосходной точностью и бронебойной силой на высокой скорости.</VWE_Bow_Compound.description>
   <!-- EN: limb -->
   <VWE_Bow_Compound.tools.0.label>плечо</VWE_Bow_Compound.tools.0.label>
+  <!-- EN: compound bow -->
+  <VWE_Bow_Compound.verbs.Verb_Shoot.label>блочный лук</VWE_Bow_Compound.verbs.Verb_Shoot.label>
 
   <!-- EN: compound bow arrow -->
   <VWE_Arrow_Compound.label>стрела блочного лука</VWE_Arrow_Compound.label>
@@ -32,6 +34,8 @@
   <VWE_Gun_HandCannon.tools.0.label>рукоять</VWE_Gun_HandCannon.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_HandCannon.tools.1.label>ствол</VWE_Gun_HandCannon.tools.1.label>
+  <!-- EN: heavy revolver -->
+  <VWE_Gun_HandCannon.verbs.Verb_Shoot.label>крупнокалиберный револьвер</VWE_Gun_HandCannon.verbs.Verb_Shoot.label>
 
 
   <!-- EN: combat handgun bullet -->
@@ -45,6 +49,8 @@
   <VWE_CombatHandgun.tools.0.label>рукоять</VWE_CombatHandgun.tools.0.label>
   <!-- EN: barrel -->
   <VWE_CombatHandgun.tools.1.label>ствол</VWE_CombatHandgun.tools.1.label>
+  <!-- EN: combat handgun -->
+  <VWE_CombatHandgun.verbs.Verb_Shoot.label>боевой пистолет</VWE_CombatHandgun.verbs.Verb_Shoot.label>
 
 
   <!-- EN: shotgun blast -->
@@ -58,6 +64,8 @@
   <VWE_SawedOffShotgun.tools.0.label>приклад</VWE_SawedOffShotgun.tools.0.label>
   <!-- EN: barrel -->
   <VWE_SawedOffShotgun.tools.1.label>ствол</VWE_SawedOffShotgun.tools.1.label>
+  <!-- EN: sawn-off shotgun -->
+  <VWE_SawedOffShotgun.verbs.Verb_Shoot.label>обрез</VWE_SawedOffShotgun.verbs.Verb_Shoot.label>
 
 
   <!-- EN: frag grenade -->
@@ -71,6 +79,8 @@
   <VWE_Gun_GrenadeLauncher.tools.0.label>приклад</VWE_Gun_GrenadeLauncher.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_GrenadeLauncher.tools.1.label>ствол</VWE_Gun_GrenadeLauncher.tools.1.label>
+  <!-- EN: grenade launcher -->
+  <VWE_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>гранатомёт</VWE_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>
 
 
   <!-- EN: flamethrower -->
@@ -81,6 +91,10 @@
   <VWE_Gun_Flamethrower.tools.0.label>приклад</VWE_Gun_Flamethrower.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_Flamethrower.tools.1.label>ствол</VWE_Gun_Flamethrower.tools.1.label>
+  <!-- EN: flamethrower -->
+  <VWE_Gun_Flamethrower.verbs.Verb_Shoot.label>огнемёт</VWE_Gun_Flamethrower.verbs.Verb_Shoot.label>
+  <!-- EN: flamethrower burst -->
+  <VWE_Bullet_Flamethrower.label>залп огнемёта</VWE_Bullet_Flamethrower.label>
 
 
   <!-- EN: semi-automatic rifle bullet -->
@@ -94,6 +108,8 @@
   <VWE_Gun_SemiAutomaticRifle.tools.0.label>приклад</VWE_Gun_SemiAutomaticRifle.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_SemiAutomaticRifle.tools.1.label>ствол</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+  <!-- EN: semi-automatic rifle -->
+  <VWE_Gun_SemiAutomaticRifle.verbs.Verb_Shoot.label>полуавтоматическая винтовка</VWE_Gun_SemiAutomaticRifle.verbs.Verb_Shoot.label>
 
 
   <!-- EN: lever-action rifle bullet -->
@@ -107,6 +123,8 @@
   <VWE_Gun_LeverActionRifle.tools.0.label>приклад</VWE_Gun_LeverActionRifle.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_LeverActionRifle.tools.1.label>ствол</VWE_Gun_LeverActionRifle.tools.1.label>
+  <!-- EN: lever-action rifle -->
+  <VWE_Gun_LeverActionRifle.verbs.Verb_Shoot.label>рычажная винтовка</VWE_Gun_LeverActionRifle.verbs.Verb_Shoot.label>
 
 
   <!-- EN: light SMG bullet -->
@@ -120,6 +138,8 @@
   <VWE_Gun_LightSMG.tools.0.label>рукоять</VWE_Gun_LightSMG.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_LightSMG.tools.1.label>ствол</VWE_Gun_LightSMG.tools.1.label>
+  <!-- EN: light SMG -->
+  <VWE_Gun_LightSMG.verbs.Verb_Shoot.label>лёгкий пистолет-пулемёт</VWE_Gun_LightSMG.verbs.Verb_Shoot.label>
 
 
   <!-- EN: SMG bullet -->
@@ -133,6 +153,8 @@
   <VWE_Gun_SMG.tools.0.label>рукоять</VWE_Gun_SMG.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_SMG.tools.1.label>ствол</VWE_Gun_SMG.tools.1.label>
+  <!-- EN: SMG -->
+  <VWE_Gun_SMG.verbs.Verb_Shoot.label>пистолет-пулемёт</VWE_Gun_SMG.verbs.Verb_Shoot.label>
 
 
   <!-- EN: HMG bullet -->
@@ -146,6 +168,8 @@
   <VWE_Gun_HMG.tools.0.label>приклад</VWE_Gun_HMG.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_HMG.tools.1.label>ствол</VWE_Gun_HMG.tools.1.label>
+  <!-- EN: HMG -->
+  <VWE_Gun_HMG.verbs.Verb_Shoot.label>тяжёлый пулемёт</VWE_Gun_HMG.verbs.Verb_Shoot.label>
 
 
 
@@ -160,6 +184,8 @@
   <VWE_Gun_ServiceRifle.tools.0.label>приклад</VWE_Gun_ServiceRifle.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_ServiceRifle.tools.1.label>ствол</VWE_Gun_ServiceRifle.tools.1.label>
+  <!-- EN: service rifle -->
+  <VWE_Gun_ServiceRifle.verbs.Verb_Shoot.label>штатная винтовка</VWE_Gun_ServiceRifle.verbs.Verb_Shoot.label>
 
 
   <!-- EN: battle rifle bullet -->
@@ -173,6 +199,8 @@
   <VWE_Gun_BattleRifle.tools.0.label>приклад</VWE_Gun_BattleRifle.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_BattleRifle.tools.1.label>ствол</VWE_Gun_BattleRifle.tools.1.label>
+  <!-- EN: battle rifle -->
+  <VWE_Gun_BattleRifle.verbs.Verb_Shoot.label>боевая винтовка</VWE_Gun_BattleRifle.verbs.Verb_Shoot.label>
 
 
   <!-- EN: carbine bullet -->
@@ -186,6 +214,8 @@
   <VWE_Gun_Carbine.tools.0.label>приклад</VWE_Gun_Carbine.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_Carbine.tools.1.label>ствол</VWE_Gun_Carbine.tools.1.label>
+  <!-- EN: carbine -->
+  <VWE_Gun_Carbine.verbs.Verb_Shoot.label>карабин</VWE_Gun_Carbine.verbs.Verb_Shoot.label>
 
 
   <!-- EN: marksman rifle bullet -->
@@ -199,6 +229,8 @@
   <VWE_Gun_MarksmanRifle.tools.0.label>приклад</VWE_Gun_MarksmanRifle.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_MarksmanRifle.tools.1.label>ствол</VWE_Gun_MarksmanRifle.tools.1.label>
+  <!-- EN: marksman rifle -->
+  <VWE_Gun_MarksmanRifle.verbs.Verb_Shoot.label>марксманская винтовка</VWE_Gun_MarksmanRifle.verbs.Verb_Shoot.label>
 
 
   <!-- EN: anti-materiel impact shell -->
@@ -212,6 +244,8 @@
   <VWE_Gun_AntiMaterialRifle.tools.0.label>приклад</VWE_Gun_AntiMaterialRifle.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_AntiMaterialRifle.tools.1.label>ствол</VWE_Gun_AntiMaterialRifle.tools.1.label>
+  <!-- EN: anti-materiel rifle -->
+  <VWE_Gun_AntiMaterialRifle.verbs.Verb_Shoot.label>антиматериальная винтовка</VWE_Gun_AntiMaterialRifle.verbs.Verb_Shoot.label>
 
 
   <!-- EN: trench gun -->
@@ -222,6 +256,8 @@
   <VWE_TrenchGun.tools.0.label>приклад</VWE_TrenchGun.tools.0.label>
   <!-- EN: barrel -->
   <VWE_TrenchGun.tools.1.label>ствол</VWE_TrenchGun.tools.1.label>
+  <!-- EN: trench gun -->
+  <VWE_TrenchGun.verbs.Verb_Shoot.label>траншейный дробовик</VWE_TrenchGun.verbs.Verb_Shoot.label>
 
   <!-- EN: trench gun blast -->
   <VWE_Bullet_TrenchGun.label>выстрел траншейного дробовика</VWE_Bullet_TrenchGun.label>

@@ -4,9 +4,30 @@
   <VWE_UnderbarrelFlarestriker.label>подствольная «Вспышка»</VWE_UnderbarrelFlarestriker.label>
   <!-- EN: This weapon is equipped with an integrated under-barrel flare launcher. It fires bioferrite-fueled disruptor flares that illuminate the area and cause local psychic disruption. -->
   <VWE_UnderbarrelFlarestriker.description>Оружие оснащено встроенной подствольной пусковой установкой. Она выпускает ракеты-дизрапторы на биоферрите, освещающие область и создающие психоподавляющую волну.</VWE_UnderbarrelFlarestriker.description>
+  <!-- EN: on cooldown -->
+  <VWE_UnderbarrelFlarestriker.modExtensions.0.abilityWithCharges.cooldownGerund>перезаряжается</VWE_UnderbarrelFlarestriker.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: flaring -->
+  <VWE_UnderbarrelFlarestriker.traitAdjectives.0>вспыхивающий</VWE_UnderbarrelFlarestriker.traitAdjectives.0>
+  <!-- EN: disruptor -->
+  <VWE_UnderbarrelFlarestriker.traitAdjectives.1>дизраптор</VWE_UnderbarrelFlarestriker.traitAdjectives.1>
+  <!-- EN: bio-flare -->
+  <VWE_UnderbarrelFlarestriker.traitAdjectives.2>биоракета</VWE_UnderbarrelFlarestriker.traitAdjectives.2>
+  <!-- EN: illuminating -->
+  <VWE_UnderbarrelFlarestriker.traitAdjectives.3>осветительный</VWE_UnderbarrelFlarestriker.traitAdjectives.3>
+  <!-- EN: psychic -->
+  <VWE_UnderbarrelFlarestriker.traitAdjectives.4>психический</VWE_UnderbarrelFlarestriker.traitAdjectives.4>
+
 
   <!-- EN: underbarrel shotgun -->
   <VWE_UnderbarrelShotgun.label>подствольный дробовик</VWE_UnderbarrelShotgun.label>
   <!-- EN: This weapon features a stripped-down, under-barrel shotgun attachment. It provides the user with a secondary firing option specifically designed to breach doors or clear close-quarters threats without switching weapons. -->
   <VWE_UnderbarrelShotgun.description>Оружие оснащено облегчённым подствольным дробовиком. Он обеспечивает дополнительный режим огня, специально предназначенный для вышибания дверей и устранения угроз в ближнем бою без смены оружия.</VWE_UnderbarrelShotgun.description>
+  <!-- EN: breaching -->
+  <VWE_UnderbarrelShotgun.traitAdjectives.0>пробивной</VWE_UnderbarrelShotgun.traitAdjectives.0>
+  <!-- EN: masterkey -->
+  <VWE_UnderbarrelShotgun.traitAdjectives.1>мастер-ключ</VWE_UnderbarrelShotgun.traitAdjectives.1>
+  <!-- EN: door-kicker -->
+  <VWE_UnderbarrelShotgun.traitAdjectives.2>вышибала</VWE_UnderbarrelShotgun.traitAdjectives.2>
+  <!-- EN: underslung -->
+  <VWE_UnderbarrelShotgun.traitAdjectives.3>подствольный</VWE_UnderbarrelShotgun.traitAdjectives.3>
 </LanguageData>

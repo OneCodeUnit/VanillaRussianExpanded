@@ -4,34 +4,96 @@
   <VWE_SkeletonizedFrame.label>скелетная рама</VWE_SkeletonizedFrame.label>
   <!-- EN: This weapon has had non-essential metal drilled out to drastically reduce weight. It increases the user's movement speed, but the structural integrity is compromised, lowering the weapon's maximum durability. -->
   <VWE_SkeletonizedFrame.description>Из рамы оружия удалены все лишние секции металла для значительного снижения веса. Повышает скорость передвижения стрелка, но снижает прочность и уменьшает максимальную прочность оружия.</VWE_SkeletonizedFrame.description>
+  <!-- EN: skeletonized -->
+  <VWE_SkeletonizedFrame.traitAdjectives.0>скелетный</VWE_SkeletonizedFrame.traitAdjectives.0>
+  <!-- EN: lightened -->
+  <VWE_SkeletonizedFrame.traitAdjectives.1>облегчённый</VWE_SkeletonizedFrame.traitAdjectives.1>
+  <!-- EN: drilled -->
+  <VWE_SkeletonizedFrame.traitAdjectives.2>просверлённый</VWE_SkeletonizedFrame.traitAdjectives.2>
+  <!-- EN: hollow -->
+  <VWE_SkeletonizedFrame.traitAdjectives.3>полый</VWE_SkeletonizedFrame.traitAdjectives.3>
+  <!-- EN: racing -->
+  <VWE_SkeletonizedFrame.traitAdjectives.4>гоночный</VWE_SkeletonizedFrame.traitAdjectives.4>
 
   <!-- EN: weighted stock -->
   <VWE_WeightedStock.label>утяжелённый приклад</VWE_WeightedStock.label>
   <!-- EN: This weapon features a reinforced, heavy stock designed for bludgeoning. It significantly increases melee damage and stun chance, but the added weight increases aiming time. -->
   <VWE_WeightedStock.description>Оружие оснащено усиленным и утяжелённым прикладом для нанесения ударов. Значительно увеличивает урон в ближнем бою и шанс оглушения, но дополнительный вес увеличивает время прицеливания.</VWE_WeightedStock.description>
+  <!-- EN: heavy -->
+  <VWE_WeightedStock.traitAdjectives.0>тяжёлый</VWE_WeightedStock.traitAdjectives.0>
+  <!-- EN: bashing -->
+  <VWE_WeightedStock.traitAdjectives.1>дубящий</VWE_WeightedStock.traitAdjectives.1>
+  <!-- EN: reinforced -->
+  <VWE_WeightedStock.traitAdjectives.2>усиленный</VWE_WeightedStock.traitAdjectives.2>
+  <!-- EN: club-stock -->
+  <VWE_WeightedStock.traitAdjectives.3>дубинный приклад</VWE_WeightedStock.traitAdjectives.3>
+  <!-- EN: weighted -->
+  <VWE_WeightedStock.traitAdjectives.4>утяжелённый</VWE_WeightedStock.traitAdjectives.4>
 
   <!-- EN: ported barrel -->
   <VWE_PortedBarrel.label>вентилируемый ствол</VWE_PortedBarrel.label>
   <!-- EN: This weapon has gas vents drilled near the muzzle to counteract recoil. It reduces the cooldown time between shots, allowing for faster sustained fire, but slightly reduces maximum range. -->
   <VWE_PortedBarrel.description>В стволе оружия просверлены газоотводные отверстия для компенсации отдачи. Сокращает время перезарядки между выстрелами, поддерживая более высокий темп стрельбы, однако незначительно снижает максимальную дальность.</VWE_PortedBarrel.description>
+  <!-- EN: ported -->
+  <VWE_PortedBarrel.traitAdjectives.0>с газоотводом</VWE_PortedBarrel.traitAdjectives.0>
+  <!-- EN: vented -->
+  <VWE_PortedBarrel.traitAdjectives.1>вентилируемый</VWE_PortedBarrel.traitAdjectives.1>
+  <!-- EN: compensated -->
+  <VWE_PortedBarrel.traitAdjectives.2>компенсированный</VWE_PortedBarrel.traitAdjectives.2>
+  <!-- EN: gas-cooled -->
+  <VWE_PortedBarrel.traitAdjectives.3>с газовым охлаждением</VWE_PortedBarrel.traitAdjectives.3>
 
   <!-- EN: illuminated sights -->
   <VWE_IlluminatedSights.label>прицелы с подсветкой</VWE_IlluminatedSights.label>
   <!-- EN: This weapon is fitted with self-illuminating sights. It provides a consistent accuracy increase across all ranges, particularly useful in poor lighting conditions. -->
   <VWE_IlluminatedSights.description>Оружие оснащено прицелом с подсветкой. Он обеспечивает стабильное повышение точности на всех дистанциях и особенно полезен в условиях плохой освещённости.</VWE_IlluminatedSights.description>
+  <!-- EN: glowing -->
+  <VWE_IlluminatedSights.traitAdjectives.0>светящийся</VWE_IlluminatedSights.traitAdjectives.0>
+  <!-- EN: illuminated -->
+  <VWE_IlluminatedSights.traitAdjectives.1>с подсветкой</VWE_IlluminatedSights.traitAdjectives.1>
+  <!-- EN: night-sight -->
+  <VWE_IlluminatedSights.traitAdjectives.2>ночной прицел</VWE_IlluminatedSights.traitAdjectives.2>
+  <!-- EN: tritium -->
+  <VWE_IlluminatedSights.traitAdjectives.3>тритиевый</VWE_IlluminatedSights.traitAdjectives.3>
 
   <!-- EN: match trigger -->
   <VWE_MatchTrigger.label>лёгкий спуск</VWE_MatchTrigger.label>
   <!-- EN: This weapon features a finely tuned, sensitive trigger mechanism. It improves accuracy at medium and long ranges, but requires a deliberate, gentle squeeze, which slightly increases aiming time. -->
   <VWE_MatchTrigger.description>Оружие оснащено тонко настроенным чувствительным спусковым механизмом. Повышает точность на средних и длинных дистанциях, однако требует намеренного плавного нажатия, что слегка увеличивает время прицеливания.</VWE_MatchTrigger.description>
+  <!-- EN: match-grade -->
+  <VWE_MatchTrigger.traitAdjectives.0>матчевый</VWE_MatchTrigger.traitAdjectives.0>
+  <!-- EN: hair-trigger -->
+  <VWE_MatchTrigger.traitAdjectives.1>сверхчувствительный</VWE_MatchTrigger.traitAdjectives.1>
+  <!-- EN: tuned -->
+  <VWE_MatchTrigger.traitAdjectives.2>настроенный</VWE_MatchTrigger.traitAdjectives.2>
+  <!-- EN: custom-trigger -->
+  <VWE_MatchTrigger.traitAdjectives.3>кастомный спуск</VWE_MatchTrigger.traitAdjectives.3>
 
   <!-- EN: fire selector -->
   <VWE_FireSelector.label>переключатель огня</VWE_FireSelector.label>
   <!-- EN: This weapon has been modified to fire controlled, semi-automatic shots rather than fully automatic sprays. It fires fewer shots per burst, but gains a massive accuracy boost at medium and long ranges. -->
   <VWE_FireSelector.description>Оружие переоборудовано для ведения контролируемого полуавтоматического огня вместо полностью автоматического. Выпускает меньше выстрелов за очередь, зато получает значительный прирост точности на средних и дальних дистанциях.</VWE_FireSelector.description>
+  <!-- EN: select-fire -->
+  <VWE_FireSelector.traitAdjectives.0>с выбором режима</VWE_FireSelector.traitAdjectives.0>
+  <!-- EN: disciplined -->
+  <VWE_FireSelector.traitAdjectives.1>дисциплинированный</VWE_FireSelector.traitAdjectives.1>
+  <!-- EN: marksman -->
+  <VWE_FireSelector.traitAdjectives.2>снайперский</VWE_FireSelector.traitAdjectives.2>
+  <!-- EN: controlled -->
+  <VWE_FireSelector.traitAdjectives.3>контролируемый</VWE_FireSelector.traitAdjectives.3>
 
   <!-- EN: akimbo -->
   <VWE_Akimbo.label>акимбо</VWE_Akimbo.label>
   <!-- EN: This weapon is paired with a matching duplicate, allowing the colonist to dual-wield. It doubles the number of rounds fired in a burst and doubles the fire rate, but aiming two weapons simultaneously significantly reduces accuracy. -->
   <VWE_Akimbo.description>Оружие имеет в паре аналогичный дубликат, позволяя поселенцу стрелять с двух рук. Удваивает количество выстрелов за очередь и темп стрельбы, однако прицеливание двумя оружиями одновременно резко снижает точность.</VWE_Akimbo.description>
+  <!-- EN: dual -->
+  <VWE_Akimbo.traitAdjectives.0>двойной</VWE_Akimbo.traitAdjectives.0>
+  <!-- EN: twin -->
+  <VWE_Akimbo.traitAdjectives.1>парный</VWE_Akimbo.traitAdjectives.1>
+  <!-- EN: akimbo -->
+  <VWE_Akimbo.traitAdjectives.2>акимбо</VWE_Akimbo.traitAdjectives.2>
+  <!-- EN: double -->
+  <VWE_Akimbo.traitAdjectives.3>дублирующий</VWE_Akimbo.traitAdjectives.3>
+  <!-- EN: paired -->
+  <VWE_Akimbo.traitAdjectives.4>спаренный</VWE_Akimbo.traitAdjectives.4>
 </LanguageData>

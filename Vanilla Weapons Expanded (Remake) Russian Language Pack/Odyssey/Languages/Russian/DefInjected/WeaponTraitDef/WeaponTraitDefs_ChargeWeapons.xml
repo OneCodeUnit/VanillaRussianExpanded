@@ -4,19 +4,57 @@
   <VWE_HyperCapacitor.label>гиперконденсатор</VWE_HyperCapacitor.label>
   <!-- EN: This weapon replaces a standard mechanical firing pin or gas system with an electronic rail-assist powered by a massive capacitor. It eliminates the mechanical cycling time between shots almost entirely, but the capacitor takes a significantly long time to charge before the first shot can be fired. -->
   <VWE_HyperCapacitor.description>У оружия заменяется стандартный механический ударник или газовый механизм электронным рельсовым приводом на основе мощного конденсатора. Это полностью устраняет механическую задержку между выстрелами, однако сам конденсатор требует заметно более долгой зарядки перед первым выстрелом.</VWE_HyperCapacitor.description>
+  <!-- EN: rail-assist -->
+  <VWE_HyperCapacitor.traitAdjectives.0>рельсовый привод</VWE_HyperCapacitor.traitAdjectives.0>
+  <!-- EN: spooling -->
+  <VWE_HyperCapacitor.traitAdjectives.1>разгоняющийся</VWE_HyperCapacitor.traitAdjectives.1>
+  <!-- EN: capacitor -->
+  <VWE_HyperCapacitor.traitAdjectives.2>конденсаторный</VWE_HyperCapacitor.traitAdjectives.2>
+  <!-- EN: hyper -->
+  <VWE_HyperCapacitor.traitAdjectives.3>гипер</VWE_HyperCapacitor.traitAdjectives.3>
 
   <!-- EN: ultracoils -->
   <VWE_Ultracoils.label>ультракатушки</VWE_Ultracoils.label>
   <!-- EN: This weapon features extended, super-conductive acceleration rails that launch projectiles at hypersonic velocities, drastically increasing range and armor penetration at the cost of cycle time. -->
   <VWE_Ultracoils.description>Оружие оснащено удлинёнными сверхпроводящими разгонными рельсами, разгоняющими снаряды до гиперзвуковых скоростей, что резко увеличивает дальность и бронебойность в ущерб скорости перезарядки.</VWE_Ultracoils.description>
+  <!-- EN: hyper-velocity -->
+  <VWE_Ultracoils.traitAdjectives.0>гиперскоростной</VWE_Ultracoils.traitAdjectives.0>
+  <!-- EN: rail -->
+  <VWE_Ultracoils.traitAdjectives.1>рельсовый</VWE_Ultracoils.traitAdjectives.1>
+  <!-- EN: accelerated -->
+  <VWE_Ultracoils.traitAdjectives.2>ускоренный</VWE_Ultracoils.traitAdjectives.2>
+  <!-- EN: gauss -->
+  <VWE_Ultracoils.traitAdjectives.3>гаусс</VWE_Ultracoils.traitAdjectives.3>
+  <!-- EN: piercing -->
+  <VWE_Ultracoils.traitAdjectives.4>пробивной</VWE_Ultracoils.traitAdjectives.4>
 
   <!-- EN: crypto-coated rails -->
   <VWE_CryptoCoatedRails.label>рельсы с криптопокрытием</VWE_CryptoCoatedRails.label>
   <!-- EN: The magnetic acceleration rails are coated in the crypto-particle cooling jacket, preventing the overheating common in charge weaponry and allowing for a much faster rate of fire. -->
   <VWE_CryptoCoatedRails.description>Магнитные разгонные рельсы покрыты охлаждающей оболочкой из крипточастиц, устраняющей перегрев, характерный для энергетического оружия, и позволяющей значительно ускорить темп стрельбы.</VWE_CryptoCoatedRails.description>
+  <!-- EN: cooled -->
+  <VWE_CryptoCoatedRails.traitAdjectives.0>охлаждённый</VWE_CryptoCoatedRails.traitAdjectives.0>
+  <!-- EN: rapid -->
+  <VWE_CryptoCoatedRails.traitAdjectives.1>быстрый</VWE_CryptoCoatedRails.traitAdjectives.1>
+  <!-- EN: cycled -->
+  <VWE_CryptoCoatedRails.traitAdjectives.2>цикличный</VWE_CryptoCoatedRails.traitAdjectives.2>
+  <!-- EN: vented -->
+  <VWE_CryptoCoatedRails.traitAdjectives.3>вентилируемый</VWE_CryptoCoatedRails.traitAdjectives.3>
+  <!-- EN: frosty -->
+  <VWE_CryptoCoatedRails.traitAdjectives.4>морозный</VWE_CryptoCoatedRails.traitAdjectives.4>
 
   <!-- EN: vector compensator -->
   <VWE_VectorCompensator.label>векторный компенсатор</VWE_VectorCompensator.label>
   <!-- EN: The barrel is lined with micro-magnetic coils that adjust the projectile's trajectory in mid-air. This "smart bullet" system actively corrects aim error, granting perfect accuracy, but requires lighter, smaller projectiles to function. -->
   <VWE_VectorCompensator.description>Ствол оснащён микромагнитными катушками, корректирующими траекторию снаряда в полёте. Эта система «умных пуль» активно исправляет ошибки прицеливания, обеспечивая идеальную точность, но требует малых и более лёгких снарядов.</VWE_VectorCompensator.description>
+  <!-- EN: vectoring -->
+  <VWE_VectorCompensator.traitAdjectives.0>векторный</VWE_VectorCompensator.traitAdjectives.0>
+  <!-- EN: smart -->
+  <VWE_VectorCompensator.traitAdjectives.1>умный</VWE_VectorCompensator.traitAdjectives.1>
+  <!-- EN: guided -->
+  <VWE_VectorCompensator.traitAdjectives.2>управляемый</VWE_VectorCompensator.traitAdjectives.2>
+  <!-- EN: seeking -->
+  <VWE_VectorCompensator.traitAdjectives.3>самонаводящийся</VWE_VectorCompensator.traitAdjectives.3>
+  <!-- EN: correcting -->
+  <VWE_VectorCompensator.traitAdjectives.4>корректирующий</VWE_VectorCompensator.traitAdjectives.4>
 </LanguageData>

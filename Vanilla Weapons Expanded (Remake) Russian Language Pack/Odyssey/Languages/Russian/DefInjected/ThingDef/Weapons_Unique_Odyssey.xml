@@ -4,114 +4,475 @@
   <VWE_Bow_Crossbow_Unique.label>уникальный арбалет</VWE_Bow_Crossbow_Unique.label>
   <!-- EN: A crossbow with customized parts. -->
   <VWE_Bow_Crossbow_Unique.description>Арбалет с настроенными частями.</VWE_Bow_Crossbow_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Bow_Crossbow_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Bow_Crossbow_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Bow_Crossbow_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Bow_Crossbow_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: crossbow -->
+  <VWE_Bow_Crossbow_Unique.comps.CompUniqueWeapon.namerLabels.0>арбалет</VWE_Bow_Crossbow_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: limb -->
+  <VWE_Bow_Crossbow_Unique.tools.limb.label>плечо</VWE_Bow_Crossbow_Unique.tools.limb.label>
+  <!-- EN: poke -->
+  <VWE_Bow_Crossbow_Unique.tools.poke.label>ложе</VWE_Bow_Crossbow_Unique.tools.poke.label>
+  <!-- EN: unique crossbow -->
+  <VWE_Bow_Crossbow_Unique.verbs.Verb_Shoot.label>уникальный арбалет</VWE_Bow_Crossbow_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique longbow -->
   <VWE_Bow_Long_Unique.label>уникальный длинный лук</VWE_Bow_Long_Unique.label>
   <!-- EN: A longbow with customized parts. -->
   <VWE_Bow_Long_Unique.description>Длинный лук с настроенными частями.</VWE_Bow_Long_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Bow_Long_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Bow_Long_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Bow_Long_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Bow_Long_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: longbow -->
+  <VWE_Bow_Long_Unique.comps.CompUniqueWeapon.namerLabels.0>длинный лук</VWE_Bow_Long_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: limb -->
+  <VWE_Bow_Long_Unique.tools.limb.label>плечо</VWE_Bow_Long_Unique.tools.limb.label>
+  <!-- EN: unique longbow -->
+  <VWE_Bow_Long_Unique.verbs.Verb_Shoot.label>уникальный длинный лук</VWE_Bow_Long_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique compond bow -->
   <VWE_Bow_Compound_Unique.label>уникальный составной лук</VWE_Bow_Compound_Unique.label>
   <!-- EN: A compond bow with customized parts. -->
   <VWE_Bow_Compound_Unique.description>Составной лук с настроенными частями.</VWE_Bow_Compound_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Bow_Compound_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Bow_Compound_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Bow_Compound_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Bow_Compound_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: compound bow -->
+  <VWE_Bow_Compound_Unique.comps.CompUniqueWeapon.namerLabels.0>составной лук</VWE_Bow_Compound_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: limb -->
+  <VWE_Bow_Compound_Unique.tools.limb.label>плечо</VWE_Bow_Compound_Unique.tools.limb.label>
+  <!-- EN: unique compond bow -->
+  <VWE_Bow_Compound_Unique.verbs.Verb_Shoot.label>уникальный составной лук</VWE_Bow_Compound_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique heavy revolver -->
   <VWE_Gun_HandCannon_Unique.label>уникальный тяжёлый револьвер</VWE_Gun_HandCannon_Unique.label>
   <!-- EN: A heavy revolver with customized parts. -->
   <VWE_Gun_HandCannon_Unique.description>Тяжёлый револьвер с настроенными частями.</VWE_Gun_HandCannon_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_HandCannon_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_HandCannon_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_HandCannon_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_HandCannon_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: revolver -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.0>револьвер</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: six-shooter -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.1>шестизарядник</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: iron -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.2>пушка</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: hammer -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.3>молот</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: grip -->
+  <VWE_Gun_HandCannon_Unique.tools.grip.label>рукоять</VWE_Gun_HandCannon_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_HandCannon_Unique.tools.barrel.label>ствол</VWE_Gun_HandCannon_Unique.tools.barrel.label>
+  <!-- EN: unique heavy revolver -->
+  <VWE_Gun_HandCannon_Unique.verbs.Verb_Shoot.label>уникальный тяжёлый револьвер</VWE_Gun_HandCannon_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique combat handgun -->
   <VWE_Gun_CombatHandgun_Unique.label>уникальный боевой пистолет</VWE_Gun_CombatHandgun_Unique.label>
   <!-- EN: A combat handgun with customized parts. -->
   <VWE_Gun_CombatHandgun_Unique.description>Боевой пистолет с настроенными частями.</VWE_Gun_CombatHandgun_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_CombatHandgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_CombatHandgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_CombatHandgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_CombatHandgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: combat handgun -->
+  <VWE_Gun_CombatHandgun_Unique.comps.CompUniqueWeapon.namerLabels.0>боевой пистолет</VWE_Gun_CombatHandgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <VWE_Gun_CombatHandgun_Unique.tools.grip.label>рукоять</VWE_Gun_CombatHandgun_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_CombatHandgun_Unique.tools.barrel.label>ствол</VWE_Gun_CombatHandgun_Unique.tools.barrel.label>
+  <!-- EN: unique combat handgun -->
+  <VWE_Gun_CombatHandgun_Unique.verbs.Verb_Shoot.label>уникальный боевой пистолет</VWE_Gun_CombatHandgun_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique sawed-off shotgun -->
   <VWE_Gun_SawedOffShotgun_Unique.label>уникальный обрез</VWE_Gun_SawedOffShotgun_Unique.label>
   <!-- EN: A sawed-off shotgun with customized parts. -->
   <VWE_Gun_SawedOffShotgun_Unique.description>Обрез с настроенными частями.</VWE_Gun_SawedOffShotgun_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_SawedOffShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_SawedOffShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: sawed-off shotgun -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>обрез</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: shotgun -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>дробовик</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: blaststick -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>взрывашка</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: sweeper -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>метла</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: gutspewer -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>потрошитель</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: stock -->
+  <VWE_Gun_SawedOffShotgun_Unique.tools.stock.label>приклад</VWE_Gun_SawedOffShotgun_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_SawedOffShotgun_Unique.tools.barrel.label>ствол</VWE_Gun_SawedOffShotgun_Unique.tools.barrel.label>
+  <!-- EN: unique sawed-off shotgun -->
+  <VWE_Gun_SawedOffShotgun_Unique.verbs.Verb_Shoot.label>уникальный обрез</VWE_Gun_SawedOffShotgun_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique semi-automatic rifle -->
   <VWE_Gun_SemiAutomaticRifle_Unique.label>уникальная полуавтоматическая винтовка</VWE_Gun_SemiAutomaticRifle_Unique.label>
   <!-- EN: A semi-automatic rifle with customized parts. -->
   <VWE_Gun_SemiAutomaticRifle_Unique.description>Полуавтоматическая винтовка с настроенными частями.</VWE_Gun_SemiAutomaticRifle_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: semi-automatic rifle -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>полуавтоматическая винтовка</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: rifle -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>винтовка</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: longshot -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>дальнобой</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: longshooter -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>дальнобойка</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: stock -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.tools.stock.label>приклад</VWE_Gun_SemiAutomaticRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.tools.barrel.label>ствол</VWE_Gun_SemiAutomaticRifle_Unique.tools.barrel.label>
+  <!-- EN: unique semi-automatic rifle -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.verbs.Verb_Shoot.label>уникальная полуавтоматическая винтовка</VWE_Gun_SemiAutomaticRifle_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique lever-action rifle -->
   <VWE_Gun_LeverActionRifle_Unique.label>уникальная рычажная винтовка</VWE_Gun_LeverActionRifle_Unique.label>
   <!-- EN: A lever-action rifle with customized parts. -->
   <VWE_Gun_LeverActionRifle_Unique.description>Рычажная винтовка с настроенными частями.</VWE_Gun_LeverActionRifle_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_LeverActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_LeverActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: lever-action rifle -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>рычажная винтовка</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: rifle -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>винтовка</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: longshot -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>дальнобой</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: longshooter -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>дальнобойка</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: stock -->
+  <VWE_Gun_LeverActionRifle_Unique.tools.stock.label>приклад</VWE_Gun_LeverActionRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_LeverActionRifle_Unique.tools.barrel.label>ствол</VWE_Gun_LeverActionRifle_Unique.tools.barrel.label>
+  <!-- EN: unique lever-action rifle -->
+  <VWE_Gun_LeverActionRifle_Unique.verbs.Verb_Shoot.label>уникальная рычажная винтовка</VWE_Gun_LeverActionRifle_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique trench gun -->
   <VWE_Gun_TrenchGun_Unique.label>уникальный траншейный дробовик</VWE_Gun_TrenchGun_Unique.label>
   <!-- EN: A trench gun with customized parts. -->
   <VWE_Gun_TrenchGun_Unique.description>Траншейный дробовик с настроенными частями.</VWE_Gun_TrenchGun_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_TrenchGun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_TrenchGun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: trench gun -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.0>траншейный дробовик</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: blaststick -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.1>взрывашка</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: sweeper -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.2>метла</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: gutspewer -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.3>потрошитель</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: stock -->
+  <VWE_Gun_TrenchGun_Unique.tools.stock.label>приклад</VWE_Gun_TrenchGun_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_TrenchGun_Unique.tools.barrel.label>ствол</VWE_Gun_TrenchGun_Unique.tools.barrel.label>
+  <!-- EN: unique trench gun -->
+  <VWE_Gun_TrenchGun_Unique.verbs.Verb_Shoot.label>уникальный траншейный дробовик</VWE_Gun_TrenchGun_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique light SMG -->
   <VWE_Gun_LightSMG_Unique.label>уникальный лёгкий пистолет-пулемёт</VWE_Gun_LightSMG_Unique.label>
   <!-- EN: A light SMG with customized parts. -->
   <VWE_Gun_LightSMG_Unique.description>Лёгкий пистолет-пулемёт с настроенными частями.</VWE_Gun_LightSMG_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_LightSMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_LightSMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_LightSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_LightSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: light SMG -->
+  <VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>лёгкий ПП</VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: SMG -->
+  <VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.1>ПП</VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: chugger -->
+  <VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.2>трещотка</VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: grip -->
+  <VWE_Gun_LightSMG_Unique.tools.grip.label>рукоять</VWE_Gun_LightSMG_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_LightSMG_Unique.tools.barrel.label>ствол</VWE_Gun_LightSMG_Unique.tools.barrel.label>
+  <!-- EN: unique light SMG -->
+  <VWE_Gun_LightSMG_Unique.verbs.Verb_Shoot.label>уникальный лёгкий пистолет-пулемёт</VWE_Gun_LightSMG_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique SMG -->
   <VWE_Gun_SMG_Unique.label>уникальный пистолет-пулемёт</VWE_Gun_SMG_Unique.label>
   <!-- EN: A SMG with customized parts. -->
   <VWE_Gun_SMG_Unique.description>Пистолет-пулемёт с настроенными частями.</VWE_Gun_SMG_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_SMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_SMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_SMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_SMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: SMG -->
+  <VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.0>ПП</VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: chugger -->
+  <VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.1>трещотка</VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: grip -->
+  <VWE_Gun_SMG_Unique.tools.grip.label>рукоять</VWE_Gun_SMG_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_SMG_Unique.tools.barrel.label>ствол</VWE_Gun_SMG_Unique.tools.barrel.label>
+  <!-- EN: unique SMG -->
+  <VWE_Gun_SMG_Unique.verbs.Verb_Shoot.label>уникальный пистолет-пулемёт</VWE_Gun_SMG_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique HMG -->
   <VWE_Gun_HMG_Unique.label>уникальный тяжёлый пулемёт</VWE_Gun_HMG_Unique.label>
   <!-- EN: A HMG with customized parts. -->
   <VWE_Gun_HMG_Unique.description>Тяжёлый пулемёт с настроенными частями.</VWE_Gun_HMG_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_HMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_HMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_HMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_HMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: HMG -->
+  <VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.0>тяжёлый пулемёт</VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: chugger -->
+  <VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.1>трещотка</VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: stock -->
+  <VWE_Gun_HMG_Unique.tools.stock.label>приклад</VWE_Gun_HMG_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_HMG_Unique.tools.barrel.label>ствол</VWE_Gun_HMG_Unique.tools.barrel.label>
+  <!-- EN: unique HMG -->
+  <VWE_Gun_HMG_Unique.verbs.Verb_Shoot.label>уникальный тяжёлый пулемёт</VWE_Gun_HMG_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique service rifle -->
   <VWE_Gun_ServiceRifle_Unique.label>уникальная штатная винтовка</VWE_Gun_ServiceRifle_Unique.label>
   <!-- EN: A service rifle with customized parts. -->
   <VWE_Gun_ServiceRifle_Unique.description>Штатная винтовка с настроенными частями.</VWE_Gun_ServiceRifle_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_ServiceRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_ServiceRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: service rifle -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>штатная винтовка</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: war rifle -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>армейская винтовка</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: wargun -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>боевая пушка</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: fusil -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>мушкет</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: stock -->
+  <VWE_Gun_ServiceRifle_Unique.tools.stock.label>приклад</VWE_Gun_ServiceRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_ServiceRifle_Unique.tools.barrel.label>ствол</VWE_Gun_ServiceRifle_Unique.tools.barrel.label>
+  <!-- EN: unique service rifle -->
+  <VWE_Gun_ServiceRifle_Unique.verbs.Verb_Shoot.label>уникальная штатная винтовка</VWE_Gun_ServiceRifle_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique battle rifle -->
   <VWE_Gun_BattleRifle_Unique.label>уникальная боевая винтовка</VWE_Gun_BattleRifle_Unique.label>
   <!-- EN: A battle rifle with customized parts. -->
   <VWE_Gun_BattleRifle_Unique.description>Боевая винтовка с настроенными частями.</VWE_Gun_BattleRifle_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_BattleRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_BattleRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: battle rifle -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>боевая винтовка</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: war rifle -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>армейская винтовка</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: wargun -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>боевая пушка</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: fusil -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>мушкет</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: stock -->
+  <VWE_Gun_BattleRifle_Unique.tools.stock.label>приклад</VWE_Gun_BattleRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_BattleRifle_Unique.tools.barrel.label>ствол</VWE_Gun_BattleRifle_Unique.tools.barrel.label>
+  <!-- EN: unique battle rifle -->
+  <VWE_Gun_BattleRifle_Unique.verbs.Verb_Shoot.label>уникальная боевая винтовка</VWE_Gun_BattleRifle_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique carbine -->
   <VWE_Gun_Carbine_Unique.label>уникальный карабин</VWE_Gun_Carbine_Unique.label>
   <!-- EN: A carbine with customized parts. -->
   <VWE_Gun_Carbine_Unique.description>Карабин с настроенными частями.</VWE_Gun_Carbine_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_Carbine_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_Carbine_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_Carbine_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_Carbine_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: carbine -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.0>карабин</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: war rifle -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.1>армейская винтовка</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: wargun -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.2>боевая пушка</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: fusil -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.3>мушкет</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: stock -->
+  <VWE_Gun_Carbine_Unique.tools.stock.label>приклад</VWE_Gun_Carbine_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_Carbine_Unique.tools.barrel.label>ствол</VWE_Gun_Carbine_Unique.tools.barrel.label>
+  <!-- EN: unique carbine -->
+  <VWE_Gun_Carbine_Unique.verbs.Verb_Shoot.label>уникальный карабин</VWE_Gun_Carbine_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique marksman rifle -->
   <VWE_Gun_MarksmanRifle_Unique.label>уникальная марксманская винтовка</VWE_Gun_MarksmanRifle_Unique.label>
   <!-- EN: A marksman rifle with customized parts. -->
   <VWE_Gun_MarksmanRifle_Unique.description>Марксманская винтовка с настроенными частями.</VWE_Gun_MarksmanRifle_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_MarksmanRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_MarksmanRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: precision rifle -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>прицельная винтовка</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: marksman rifle -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>марксманская винтовка</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: sniper -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>снайперка</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: headshotter -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>хедшотер</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: snipegun -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>снайперское ружьё</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: stalker -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>сталкер</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: assassinator -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>ликвидатор</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <!-- EN: stock -->
+  <VWE_Gun_MarksmanRifle_Unique.tools.stock.label>приклад</VWE_Gun_MarksmanRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_MarksmanRifle_Unique.tools.barrel.label>ствол</VWE_Gun_MarksmanRifle_Unique.tools.barrel.label>
+  <!-- EN: unique marksman rifle -->
+  <VWE_Gun_MarksmanRifle_Unique.verbs.Verb_Shoot.label>уникальная марксманская винтовка</VWE_Gun_MarksmanRifle_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique anti-materiel rifle -->
   <VWE_Gun_AntiMaterialRifle_Unique.label>уникальная антиматериальная винтовка</VWE_Gun_AntiMaterialRifle_Unique.label>
   <!-- EN: An anti-materiel rifle with customized parts. -->
   <VWE_Gun_AntiMaterialRifle_Unique.description>Антиматериальная винтовка с настроенными частями.</VWE_Gun_AntiMaterialRifle_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_AntiMaterialRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_AntiMaterialRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: precision rifle -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>прицельная винтовка</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: anti-materiel rifle -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>антиматериальная винтовка</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: sniper -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>снайперка</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: headshotter -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>хедшотер</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: snipegun -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>снайперское ружьё</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: stalker -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>сталкер</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: assassinator -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>ликвидатор</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <!-- EN: stock -->
+  <VWE_Gun_AntiMaterialRifle_Unique.tools.stock.label>приклад</VWE_Gun_AntiMaterialRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_AntiMaterialRifle_Unique.tools.barrel.label>ствол</VWE_Gun_AntiMaterialRifle_Unique.tools.barrel.label>
+  <!-- EN: unique anti-materiel rifle -->
+  <VWE_Gun_AntiMaterialRifle_Unique.verbs.Verb_Shoot.label>уникальная антиматериальная винтовка</VWE_Gun_AntiMaterialRifle_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique charge pistol -->
   <VWE_Gun_ChargePistol_Unique.label>уникальный энергопистолет</VWE_Gun_ChargePistol_Unique.label>
   <!-- EN: A charge pistol with customized parts. -->
   <VWE_Gun_ChargePistol_Unique.description>Энергопистолет с настроенными частями.</VWE_Gun_ChargePistol_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_ChargePistol_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_ChargePistol_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_ChargePistol_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_ChargePistol_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge pistol -->
+  <VWE_Gun_ChargePistol_Unique.comps.CompUniqueWeapon.namerLabels.0>энергопистолет</VWE_Gun_ChargePistol_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <VWE_Gun_ChargePistol_Unique.tools.stock.label>приклад</VWE_Gun_ChargePistol_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargePistol_Unique.tools.barrel.label>ствол</VWE_Gun_ChargePistol_Unique.tools.barrel.label>
+  <!-- EN: unique charge pistol -->
+  <VWE_Gun_ChargePistol_Unique.verbs.Verb_Shoot.label>уникальный энергопистолет</VWE_Gun_ChargePistol_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique charge shotgun -->
   <VWE_Gun_ChargeShotgun_Unique.label>уникальный энергодробовик</VWE_Gun_ChargeShotgun_Unique.label>
   <!-- EN: A charge shotgun with customized parts. -->
   <VWE_Gun_ChargeShotgun_Unique.description>Энергодробовик с настроенными частями.</VWE_Gun_ChargeShotgun_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_ChargeShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_ChargeShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_ChargeShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_ChargeShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge shotgun -->
+  <VWE_Gun_ChargeShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>энергодробовик</VWE_Gun_ChargeShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <VWE_Gun_ChargeShotgun_Unique.tools.stock.label>приклад</VWE_Gun_ChargeShotgun_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeShotgun_Unique.tools.barrel.label>ствол</VWE_Gun_ChargeShotgun_Unique.tools.barrel.label>
+  <!-- EN: unique charge shotgun -->
+  <VWE_Gun_ChargeShotgun_Unique.verbs.Verb_Shoot.label>уникальный энергодробовик</VWE_Gun_ChargeShotgun_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique charge SMG -->
   <VWE_Gun_ChargeSMG_Unique.label>уникальный энергетический ПП</VWE_Gun_ChargeSMG_Unique.label>
   <!-- EN: A charge SMG with customized parts. -->
   <VWE_Gun_ChargeSMG_Unique.description>Энергетический ПП с настроенными частями.</VWE_Gun_ChargeSMG_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_ChargeSMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_ChargeSMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_ChargeSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_ChargeSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge SMG -->
+  <VWE_Gun_ChargeSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>энергетический ПП</VWE_Gun_ChargeSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <VWE_Gun_ChargeSMG_Unique.tools.stock.label>приклад</VWE_Gun_ChargeSMG_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeSMG_Unique.tools.barrel.label>ствол</VWE_Gun_ChargeSMG_Unique.tools.barrel.label>
+  <!-- EN: unique charge SMG -->
+  <VWE_Gun_ChargeSMG_Unique.verbs.Verb_Shoot.label>уникальный энергетический ПП</VWE_Gun_ChargeSMG_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique charge blaster -->
   <VWE_Gun_ChargeLMG_Unique.label>уникальный бластер</VWE_Gun_ChargeLMG_Unique.label>
   <!-- EN: A charge blaster with customized parts. -->
   <VWE_Gun_ChargeLMG_Unique.description>Бластер с настроенными частями.</VWE_Gun_ChargeLMG_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_ChargeLMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_ChargeLMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_ChargeLMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_ChargeLMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge blaster -->
+  <VWE_Gun_ChargeLMG_Unique.comps.CompUniqueWeapon.namerLabels.0>энергетический бластер</VWE_Gun_ChargeLMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeLMG_Unique.tools.barrel.label>ствол</VWE_Gun_ChargeLMG_Unique.tools.barrel.label>
+  <!-- EN: unique charge blaster -->
+  <VWE_Gun_ChargeLMG_Unique.verbs.Verb_Shoot.label>уникальный бластер</VWE_Gun_ChargeLMG_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique heavy charge blaster -->
   <VWE_Gun_ChargeMinigun_Unique.label>уникальный тяжёлый бластер</VWE_Gun_ChargeMinigun_Unique.label>
   <!-- EN: A heavy charge blaster with customized parts. -->
   <VWE_Gun_ChargeMinigun_Unique.description>Тяжёлый бластер с настроенными частями.</VWE_Gun_ChargeMinigun_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_ChargeMinigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_ChargeMinigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_ChargeMinigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_ChargeMinigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: heavy charge blaster -->
+  <VWE_Gun_ChargeMinigun_Unique.comps.CompUniqueWeapon.namerLabels.0>тяжёлый энергетический бластер</VWE_Gun_ChargeMinigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeMinigun_Unique.tools.barrel.label>ствол</VWE_Gun_ChargeMinigun_Unique.tools.barrel.label>
+  <!-- EN: unique heavy charge blaster -->
+  <VWE_Gun_ChargeMinigun_Unique.verbs.Verb_Shoot.label>уникальный тяжёлый бластер</VWE_Gun_ChargeMinigun_Unique.verbs.Verb_Shoot.label>
 
   <!-- EN: unique charge sniper rifle -->
   <VWE_Gun_ChargeSniperRifle_Unique.label>уникальная снайперская энерговинтовка</VWE_Gun_ChargeSniperRifle_Unique.label>
   <!-- EN: A charge sniper rifle with customized parts. -->
   <VWE_Gun_ChargeSniperRifle_Unique.description>Снайперская энерговинтовка с настроенными частями.</VWE_Gun_ChargeSniperRifle_Unique.description>
+  <!-- EN: charge -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряды</VWE_Gun_ChargeSniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</VWE_Gun_ChargeSniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge sniper rifle -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>снайперская энерговинтовка</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: sniper -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>снайперка</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: headshotter -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>хедшотер</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: snipegun -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>снайперское ружьё</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: stalker -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>сталкер</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: assassinator -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>ликвидатор</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stock -->
+  <VWE_Gun_ChargeSniperRifle_Unique.tools.stock.label>приклад</VWE_Gun_ChargeSniperRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeSniperRifle_Unique.tools.barrel.label>ствол</VWE_Gun_ChargeSniperRifle_Unique.tools.barrel.label>
+  <!-- EN: unique charge sniper rifle -->
+  <VWE_Gun_ChargeSniperRifle_Unique.verbs.Verb_Shoot.label>уникальная снайперская энерговинтовка</VWE_Gun_ChargeSniperRifle_Unique.verbs.Verb_Shoot.label>
+
 </LanguageData>

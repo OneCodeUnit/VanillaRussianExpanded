@@ -4,24 +4,76 @@
   <VWE_WornRifling.label>стёртый нарез</VWE_WornRifling.label>
   <!-- EN: The spiral grooves inside this weapon's barrel have been worn smooth by overuse. It is significantly less accurate at all ranges. -->
   <VWE_WornRifling.description>Спиральные канавки внутри ствола оружия стёрты от чрезмерного использования. Точность значительно снижена на всех дистанциях.</VWE_WornRifling.description>
+  <!-- EN: worn -->
+  <VWE_WornRifling.traitAdjectives.0>потёртый</VWE_WornRifling.traitAdjectives.0>
+  <!-- EN: smooth-bore -->
+  <VWE_WornRifling.traitAdjectives.1>гладкоствольный</VWE_WornRifling.traitAdjectives.1>
+  <!-- EN: balding -->
+  <VWE_WornRifling.traitAdjectives.2>облысевший</VWE_WornRifling.traitAdjectives.2>
+  <!-- EN: used -->
+  <VWE_WornRifling.traitAdjectives.3>б/у</VWE_WornRifling.traitAdjectives.3>
+  <!-- EN: old -->
+  <VWE_WornRifling.traitAdjectives.4>старый</VWE_WornRifling.traitAdjectives.4>
 
   <!-- EN: grit-clogged -->
   <VWE_GritClogged.label>грязный механизм</VWE_GritClogged.label>
   <!-- EN: The internal mechanism is filled with sand, dirt, or dried grease. It cycles sluggishly, significantly increasing the time between shots. -->
   <VWE_GritClogged.description>Внутренний механизм оружия забит песком, грязью или засохшей смазкой. Он работает вяло, время между выстрелами значительно увеличено.</VWE_GritClogged.description>
+  <!-- EN: dirty -->
+  <VWE_GritClogged.traitAdjectives.0>грязный</VWE_GritClogged.traitAdjectives.0>
+  <!-- EN: gritty -->
+  <VWE_GritClogged.traitAdjectives.1>засорённый</VWE_GritClogged.traitAdjectives.1>
+  <!-- EN: jammed -->
+  <VWE_GritClogged.traitAdjectives.2>заклинивший</VWE_GritClogged.traitAdjectives.2>
+  <!-- EN: sandy -->
+  <VWE_GritClogged.traitAdjectives.3>песочный</VWE_GritClogged.traitAdjectives.3>
+  <!-- EN: sticky -->
+  <VWE_GritClogged.traitAdjectives.4>залипший</VWE_GritClogged.traitAdjectives.4>
 
   <!-- EN: heavy scrap -->
   <VWE_HeavyScrap.label>тяжёлый хлам</VWE_HeavyScrap.label>
   <!-- EN: This weapon has been repaired using heavy, improper scrap metal components. It is cumbersome to carry and takes much longer to aim. -->
   <VWE_HeavyScrap.description>Оружие отремонтировано с использованием тяжёлых, но неподходящих металлических деталей. Неудобно носить, прицеливание занимает значительно больше времени.</VWE_HeavyScrap.description>
+  <!-- EN: heavy -->
+  <VWE_HeavyScrap.traitAdjectives.0>тяжёлый</VWE_HeavyScrap.traitAdjectives.0>
+  <!-- EN: scrap -->
+  <VWE_HeavyScrap.traitAdjectives.1>утильный</VWE_HeavyScrap.traitAdjectives.1>
+  <!-- EN: leaden -->
+  <VWE_HeavyScrap.traitAdjectives.2>свинцовый</VWE_HeavyScrap.traitAdjectives.2>
+  <!-- EN: bulky -->
+  <VWE_HeavyScrap.traitAdjectives.3>громоздкий</VWE_HeavyScrap.traitAdjectives.3>
+  <!-- EN: patched -->
+  <VWE_HeavyScrap.traitAdjectives.4>залатанный</VWE_HeavyScrap.traitAdjectives.4>
 
   <!-- EN: training conversion -->
   <VWE_TrainingConversion.label>учебное оружие</VWE_TrainingConversion.label>
   <!-- EN: This weapon has been permanently modified to fire non-lethal blunt pellets for target practice. While it causes pain and bruising, it lacks the stopping power and penetration to be useful in a real firefight. -->
   <VWE_TrainingConversion.description>Оружие безвозвратно переоборудовано для стрельбы нелетальными пулями в учебных целях. Хотя оно причиняет боль и оставляет синяки, останавливающей силы и пробивной способности для реального боя ему явно не хватает.</VWE_TrainingConversion.description>
+  <!-- EN: practice -->
+  <VWE_TrainingConversion.traitAdjectives.0>учебный</VWE_TrainingConversion.traitAdjectives.0>
+  <!-- EN: training -->
+  <VWE_TrainingConversion.traitAdjectives.1>тренировочный</VWE_TrainingConversion.traitAdjectives.1>
+  <!-- EN: rubber -->
+  <VWE_TrainingConversion.traitAdjectives.2>резиновый</VWE_TrainingConversion.traitAdjectives.2>
+  <!-- EN: blunt -->
+  <VWE_TrainingConversion.traitAdjectives.3>тупой</VWE_TrainingConversion.traitAdjectives.3>
+  <!-- EN: harmless -->
+  <VWE_TrainingConversion.traitAdjectives.4>безвредный</VWE_TrainingConversion.traitAdjectives.4>
 
   <!-- EN: janky -->
   <VWE_Janky.label>разболтанное</VWE_Janky.label>
   <!-- EN: This weapon's internal mechanisms are loose and poorly fitted. It suffers from inconsistent cycling issues, meaning the cooldown duration is completely randomized after every single burst. -->
   <VWE_Janky.description>Внутренние механизмы оружия расшатаны и плохо подогнаны. Из-за непредсказуемых сбоев время перезарядки полностью случайно после каждого залпа.</VWE_Janky.description>
+  <!-- EN: janky -->
+  <VWE_Janky.traitAdjectives.0>разболтанный</VWE_Janky.traitAdjectives.0>
+  <!-- EN: stuttering -->
+  <VWE_Janky.traitAdjectives.1>заикающийся</VWE_Janky.traitAdjectives.1>
+  <!-- EN: loose -->
+  <VWE_Janky.traitAdjectives.2>болтающийся</VWE_Janky.traitAdjectives.2>
+  <!-- EN: rattle -->
+  <VWE_Janky.traitAdjectives.3>гремящий</VWE_Janky.traitAdjectives.3>
+  <!-- EN: unreliable -->
+  <VWE_Janky.traitAdjectives.4>ненадёжный</VWE_Janky.traitAdjectives.4>
+  <!-- EN: jamming -->
+  <VWE_Janky.traitAdjectives.5>заклинивающий</VWE_Janky.traitAdjectives.5>
 </LanguageData>
