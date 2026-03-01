@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: recoil-Op mechanism -->
+  <VWE_RecoilOpMechanism.label>взводная отдача</VWE_RecoilOpMechanism.label>
+  <!-- EN: This weapon fires a rapid 3-round burst. The uncontrollable recoil limits the weapon's effective range and severely reduces accuracy at medium and long distances. -->
+  <VWE_RecoilOpMechanism.description>Оружие стреляет быстрой очередью из 3 патронов. Неуправляемая отдача ограничивает эффективную дальность и резко снижает точность на средних и длинных дистанциях.</VWE_RecoilOpMechanism.description>
+  <!-- EN: automatic -->
+  <VWE_RecoilOpMechanism.traitAdjectives.0>автоматический</VWE_RecoilOpMechanism.traitAdjectives.0>
+  <!-- EN: cyclic -->
+  <VWE_RecoilOpMechanism.traitAdjectives.1>цикличный</VWE_RecoilOpMechanism.traitAdjectives.1>
+  <!-- EN: uncontrollable -->
+  <VWE_RecoilOpMechanism.traitAdjectives.2>неуправляемый</VWE_RecoilOpMechanism.traitAdjectives.2>
+  <!-- EN: storming -->
+  <VWE_RecoilOpMechanism.traitAdjectives.3>штурмовой</VWE_RecoilOpMechanism.traitAdjectives.3>
+  <!-- EN: recoil-op -->
+  <VWE_RecoilOpMechanism.traitAdjectives.4>взводная отдача</VWE_RecoilOpMechanism.traitAdjectives.4>
+
+  <!-- EN: buntline barrel -->
+  <VWE_BuntlineBarrel.label>ствол «Бантлайн»</VWE_BuntlineBarrel.label>
+  <!-- EN: This weapon features an extended barrel that significantly increases range and accuracy. However, the added weight makes the weapon slower to aim. -->
+  <VWE_BuntlineBarrel.description>Оружие оснащено удлинённым стволом, который значительно увеличивает дальность и точность. Однако дополнительный вес замедляет прицеливание.</VWE_BuntlineBarrel.description>
+  <!-- EN: buntline -->
+  <VWE_BuntlineBarrel.traitAdjectives.0>«Бантлайн»</VWE_BuntlineBarrel.traitAdjectives.0>
+  <!-- EN: long-barrel -->
+  <VWE_BuntlineBarrel.traitAdjectives.1>длинноствольный</VWE_BuntlineBarrel.traitAdjectives.1>
+  <!-- EN: carbine -->
+  <VWE_BuntlineBarrel.traitAdjectives.2>карабинный</VWE_BuntlineBarrel.traitAdjectives.2>
+  <!-- EN: extended -->
+  <VWE_BuntlineBarrel.traitAdjectives.3>удлинённый</VWE_BuntlineBarrel.traitAdjectives.3>
+
+  <!-- EN: snake-shot loads -->
+  <VWE_SnakeShotLoads.label>заряды «Змеиный выстрел»</VWE_SnakeShotLoads.label>
+  <!-- EN: This weapon fires spread-shot pellets instead of solid slugs. It provides a major accuracy boost at close range, but deals less damage and has zero armor penetration. -->
+  <VWE_SnakeShotLoads.description>Оружие стреляет рассеивающимися дробинками вместо монолитных пуль. Значительно повышает точность на близкой дистанции, но наносит меньше урона и совсем не пробивает броню.</VWE_SnakeShotLoads.description>
+  <!-- EN: snake-shot -->
+  <VWE_SnakeShotLoads.traitAdjectives.0>змеиный выстрел</VWE_SnakeShotLoads.traitAdjectives.0>
+  <!-- EN: pellet -->
+  <VWE_SnakeShotLoads.traitAdjectives.1>дробовой</VWE_SnakeShotLoads.traitAdjectives.1>
+  <!-- EN: dusting -->
+  <VWE_SnakeShotLoads.traitAdjectives.2>рассеивающий</VWE_SnakeShotLoads.traitAdjectives.2>
+  <!-- EN: scattering -->
+  <VWE_SnakeShotLoads.traitAdjectives.3>разлетающийся</VWE_SnakeShotLoads.traitAdjectives.3>
+
+  <!-- EN: top-break action -->
+  <VWE_TopBreakAction.label>переломный механизм</VWE_TopBreakAction.label>
+  <!-- EN: This weapon features a hinged frame that breaks open for rapid casing ejection. It reloads significantly faster than a standard model, but the mechanism makes the weapon fragile and prone to breaking. -->
+  <VWE_TopBreakAction.description>Оружие оснащено откидной рамой, переламывающейся для быстрого извлечения гильз. Такой револьвер перезаряжается значительно быстрее других, но становится хрупким и склонным к поломкам.</VWE_TopBreakAction.description>
+  <!-- EN: hinged -->
+  <VWE_TopBreakAction.traitAdjectives.0>откидной</VWE_TopBreakAction.traitAdjectives.0>
+  <!-- EN: top-break -->
+  <VWE_TopBreakAction.traitAdjectives.1>переломный</VWE_TopBreakAction.traitAdjectives.1>
+  <!-- EN: snapping -->
+  <VWE_TopBreakAction.traitAdjectives.2>щёлкающий</VWE_TopBreakAction.traitAdjectives.2>
+  <!-- EN: fragile -->
+  <VWE_TopBreakAction.traitAdjectives.3>хрупкий</VWE_TopBreakAction.traitAdjectives.3>
+</LanguageData>

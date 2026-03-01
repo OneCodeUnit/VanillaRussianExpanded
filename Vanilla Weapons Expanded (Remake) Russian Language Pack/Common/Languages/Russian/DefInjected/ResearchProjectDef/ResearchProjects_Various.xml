@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: trench warfare -->
+  <VWE_TrenchWarfare.label>окопная война</VWE_TrenchWarfare.label>
+  <!-- EN: Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat. -->
+  <VWE_TrenchWarfare.description>Адаптация военной доктрины к окопной войне с набором оружия для ближнего боя.</VWE_TrenchWarfare.description>
+  <!-- EN:
+    <li>subject->entrenched defense</li>
+    <li>subject_story->adopted age-old strategies to modern combat, ensuring survival</li>
+    <li>subject_story->innovated in close-quarters battle tactics within the trenches</li>
+    <li>subject_story->engineered fortifications that blend with the landscape for surprise attacks</li>
+    <li>subject_story->developed communication lines within trenches to coordinate assaults</li>
+    <li>subject_gerund->fortifying positions with strategic ingenuity in warfare</li>
+  -->
+  <VWE_TrenchWarfare.generalRules.rulesStrings>
+    <li>subject->окопная война</li>
+    <li>subject->укреплённая оборона</li>
+    <li>subject_gen->окопной войны</li>
+    <li>subject_gen->укреплённой обороны</li>
+    <li>subject_dat->окопной войне</li>
+    <li>subject_dat->укреплённой обороне</li>
+    <li>subject_pre_about->об окопной войне</li>
+    <li>subject_pre_about->об укреплённой обороне</li>
+    <li>subject_story->{ANYPAWN_gender ? адаптировал : адаптировала} древние стратегии к современному бою, обеспечивая выживание</li>
+    <li>subject_story->{ANYPAWN_gender ? внедрил : внедрила} новшества в тактику ближнего боя в окопах</li>
+    <li>subject_story->{ANYPAWN_gender ? спроектировал : спроектировала} укрепления, сливающиеся с ландшафтом для внезапных атак</li>
+    <li>subject_story->{ANYPAWN_gender ? наладил : наладила} линии связи в окопах для координации штурмов</li>
+    <li>subject_gerund->укрепления позиций со стратегической изобретательностью</li>
+  </VWE_TrenchWarfare.generalRules.rulesStrings>
+
+  <!-- EN: heavy weapons -->
+  <VWE_HeavyWeapons.label>тяжёлое вооружение</VWE_HeavyWeapons.label>
+  <!-- EN: Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding. -->
+  <VWE_HeavyWeapons.description>Изготовление тяжёлого вооружения, дающего превосходную огневую мощь ценой высоких физических требований к стрелку.</VWE_HeavyWeapons.description>
+  <!-- EN:
+    <li>subject->the weight of power</li>
+    <li>subject_story->developed weapons that bring unparalleled firepower to the battlefield</li>
+    <li>subject_story->balanced the scales of warfare with heavy, decisive armaments</li>
+    <li>subject_story->created training programs for specialized units to operate these weapons</li>
+    <li>subject_story->engineered mobility solutions to transport and deploy heavy armaments</li>
+    <li>subject_gerund->mastering the art of destruction with heavy weapons</li>
+  -->
+  <VWE_HeavyWeapons.generalRules.rulesStrings>
+    <li>subject->тяжёлое оружие</li>
+    <li>subject->бремя силы</li>
+    <li>subject_gen->тяжёлого оружия</li>
+    <li>subject_gen->бремени силы</li>
+    <li>subject_dat->тяжёлому оружию</li>
+    <li>subject_dat->бремени силы</li>
+    <li>subject_pre_about->о тяжёлом оружии</li>
+    <li>subject_pre_about->о бремени силы</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} оружие, приносящее непревзойдённую огневую мощь на поле боя</li>
+    <li>subject_story->{ANYPAWN_gender ? уравновесил : уравновесила} чаши весов войны тяжёлым решающим вооружением</li>
+    <li>subject_story->{ANYPAWN_gender ? создал : создала} программы обучения для специализированных подразделений по эксплуатации этого оружия</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} решения для транспортировки и развёртывания тяжёлого вооружения</li>
+    <li>subject_gerund->овладения искусством разрушения с помощью тяжёлого оружия</li>
+  </VWE_HeavyWeapons.generalRules.rulesStrings>
+
+  <!-- EN: laser targeting systems -->
+  <VWE_LaserTargetingSystems.label>системы лазерного наведения</VWE_LaserTargetingSystems.label>
+  <!-- EN: Adapt laser targeting systems for accurate and swift delivery of charged payloads. -->
+  <VWE_LaserTargetingSystems.description>Адаптация систем лазерного наведения для точной и быстрой доставки заряженных снарядов.</VWE_LaserTargetingSystems.description>
+  <!-- EN:
+    <li>subject->pinpoint accuracy</li>
+    <li>subject_story->revolutionized precision strikes with advanced laser guidance</li>
+    <li>subject_story->enabled real-time target acquisition and adjustment</li>
+    <li>subject_story->integrated systems with existing weaponry for enhanced combat effectiveness</li>
+    <li>subject_story->developed compact, portable laser designators for field operations</li>
+    <li>subject_gerund->honing the edge of warfare with technology</li>
+  -->
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings>
+    <li>subject->системы лазерного наведения</li>
+    <li>subject->ювелирная точность</li>
+    <li>subject_gen->систем лазерного наведения</li>
+    <li>subject_gen->ювелирной точности</li>
+    <li>subject_dat->системам лазерного наведения</li>
+    <li>subject_dat->ювелирной точности</li>
+    <li>subject_pre_about->о системах лазерного наведения</li>
+    <li>subject_pre_about->о ювелирной точности</li>
+    <li>subject_story->{ANYPAWN_gender ? произвёл : произвела} революцию в прицельных ударах с помощью передового лазерного наведения</li>
+    <li>subject_story->{ANYPAWN_gender ? обеспечил : обеспечила} захват и корректировку целей в режиме реального времени</li>
+    <li>subject_story->{ANYPAWN_gender ? интегрировал : интегрировала} системы с существующим вооружением для повышения боевой эффективности</li>
+    <li>subject_story->{ANYPAWN_gender ? разработал : разработала} компактные переносные лазерные целеуказатели для полевых операций</li>
+    <li>subject_gerund->оттачивания острия войны с помощью технологий</li>
+  </VWE_LaserTargetingSystems.generalRules.rulesStrings>
+</LanguageData>
