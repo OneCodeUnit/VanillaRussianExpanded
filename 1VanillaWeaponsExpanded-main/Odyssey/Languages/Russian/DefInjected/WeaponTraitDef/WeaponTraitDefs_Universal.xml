@@ -1,43 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Universal -->
-
   <!-- EN: skeletonized frame -->
-  <VWE_SkeletonizedFrame.label>skeletonized frame</VWE_SkeletonizedFrame.label>
+  <VWE_SkeletonizedFrame.label>скелетная рама</VWE_SkeletonizedFrame.label>
   <!-- EN: This weapon has had non-essential metal drilled out to drastically reduce weight. It increases the user's movement speed, but the structural integrity is compromised, lowering the weapon's maximum durability. -->
-  <VWE_SkeletonizedFrame.description>This weapon has had non-essential metal drilled out to drastically reduce weight. It increases the user's movement speed, but the structural integrity is compromised, lowering the weapon's maximum durability.</VWE_SkeletonizedFrame.description>
+  <VWE_SkeletonizedFrame.description>Из рамы оружия удалены все лишние секции металла для значительного снижения веса. Повышает скорость передвижения стрелка, но снижает прочность и уменьшает максимальную прочность оружия.</VWE_SkeletonizedFrame.description>
 
   <!-- EN: weighted stock -->
-  <VWE_WeightedStock.label>weighted stock</VWE_WeightedStock.label>
+  <VWE_WeightedStock.label>утяжелённый приклад</VWE_WeightedStock.label>
   <!-- EN: This weapon features a reinforced, heavy stock designed for bludgeoning. It significantly increases melee damage and stun chance, but the added weight increases aiming time. -->
-  <VWE_WeightedStock.description>This weapon features a reinforced, heavy stock designed for bludgeoning. It significantly increases melee damage and stun chance, but the added weight increases aiming time.</VWE_WeightedStock.description>
+  <VWE_WeightedStock.description>Оружие оснащено усиленным и утяжелённым прикладом для нанесения ударов. Значительно увеличивает урон в ближнем бою и шанс оглушения, но дополнительный вес увеличивает время прицеливания.</VWE_WeightedStock.description>
 
   <!-- EN: ported barrel -->
-  <VWE_PortedBarrel.label>ported barrel</VWE_PortedBarrel.label>
+  <VWE_PortedBarrel.label>вентилируемый ствол</VWE_PortedBarrel.label>
   <!-- EN: This weapon has gas vents drilled near the muzzle to counteract recoil. It reduces the cooldown time between shots, allowing for faster sustained fire, but slightly reduces maximum range. -->
-  <VWE_PortedBarrel.description>This weapon has gas vents drilled near the muzzle to counteract recoil. It reduces the cooldown time between shots, allowing for faster sustained fire, but slightly reduces maximum range.</VWE_PortedBarrel.description>
+  <VWE_PortedBarrel.description>В стволе оружия просверлены газоотводные отверстия для компенсации отдачи. Сокращает время перезарядки между выстрелами, поддерживая более высокий темп стрельбы, однако незначительно снижает максимальную дальность.</VWE_PortedBarrel.description>
 
   <!-- EN: illuminated sights -->
-  <VWE_IlluminatedSights.label>illuminated sights</VWE_IlluminatedSights.label>
+  <VWE_IlluminatedSights.label>прицелы с подсветкой</VWE_IlluminatedSights.label>
   <!-- EN: This weapon is fitted with self-illuminating sights. It provides a consistent accuracy increase across all ranges, particularly useful in poor lighting conditions. -->
-  <VWE_IlluminatedSights.description>This weapon is fitted with self-illuminating sights. It provides a consistent accuracy increase across all ranges, particularly useful in poor lighting conditions.</VWE_IlluminatedSights.description>
+  <VWE_IlluminatedSights.description>Оружие оснащено прицелом с подсветкой. Он обеспечивает стабильное повышение точности на всех дистанциях и особенно полезен в условиях плохой освещённости.</VWE_IlluminatedSights.description>
 
   <!-- EN: match trigger -->
-  <VWE_MatchTrigger.label>match trigger</VWE_MatchTrigger.label>
+  <VWE_MatchTrigger.label>лёгкий спуск</VWE_MatchTrigger.label>
   <!-- EN: This weapon features a finely tuned, sensitive trigger mechanism. It improves accuracy at medium and long ranges, but requires a deliberate, gentle squeeze, which slightly increases aiming time. -->
-  <VWE_MatchTrigger.description>This weapon features a finely tuned, sensitive trigger mechanism. It improves accuracy at medium and long ranges, but requires a deliberate, gentle squeeze, which slightly increases aiming time.</VWE_MatchTrigger.description>
+  <VWE_MatchTrigger.description>Оружие оснащено тонко настроенным чувствительным спусковым механизмом. Повышает точность на средних и длинных дистанциях, однако требует намеренного плавного нажатия, что слегка увеличивает время прицеливания.</VWE_MatchTrigger.description>
 
   <!-- EN: fire selector -->
-  <VWE_FireSelector.label>fire selector</VWE_FireSelector.label>
+  <VWE_FireSelector.label>переключатель огня</VWE_FireSelector.label>
   <!-- EN: This weapon has been modified to fire controlled, semi-automatic shots rather than fully automatic sprays. It fires fewer shots per burst, but gains a massive accuracy boost at medium and long ranges. -->
-  <VWE_FireSelector.description>This weapon has been modified to fire controlled, semi-automatic shots rather than fully automatic sprays. It fires fewer shots per burst, but gains a massive accuracy boost at medium and long ranges.</VWE_FireSelector.description>
+  <VWE_FireSelector.description>Оружие переоборудовано для ведения контролируемого полуавтоматического огня вместо полностью автоматического. Выпускает меньше выстрелов за очередь, зато получает значительный прирост точности на средних и дальних дистанциях.</VWE_FireSelector.description>
 
   <!-- EN: akimbo -->
-  <VWE_Akimbo.label>akimbo</VWE_Akimbo.label>
+  <VWE_Akimbo.label>акимбо</VWE_Akimbo.label>
   <!-- EN: This weapon is paired with a matching duplicate, allowing the colonist to dual-wield. It doubles the number of rounds fired in a burst and doubles the fire rate, but aiming two weapons simultaneously significantly reduces accuracy. -->
-  <VWE_Akimbo.description>This weapon is paired with a matching duplicate, allowing the colonist to dual-wield. It doubles the number of rounds fired in a burst and doubles the fire rate, but aiming two weapons simultaneously significantly reduces accuracy.</VWE_Akimbo.description>
-
-
-
+  <VWE_Akimbo.description>Оружие имеет в паре аналогичный дубликат, позволяя поселенцу стрелять с двух рук. Удваивает количество выстрелов за очередь и темп стрельбы, однако прицеливание двумя оружиями одновременно резко снижает точность.</VWE_Akimbo.description>
 </LanguageData>
