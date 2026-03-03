@@ -8,6 +8,8 @@
   <VWE_Gun_AutomaticPistol.tools.0.label>рукоять</VWE_Gun_AutomaticPistol.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_AutomaticPistol.tools.1.label>ствол</VWE_Gun_AutomaticPistol.tools.1.label>
+  <!-- EN: lightweight pistol -->
+  <VWE_Gun_AutomaticPistol.verbs.Verb_Shoot.label>лёгкий пистолет</VWE_Gun_AutomaticPistol.verbs.Verb_Shoot.label>
 
   <!-- EN: lightweight pistol bullet -->
   <VWE_Bullet_LightweightPistol.label>пуля лёгкого пистолета</VWE_Bullet_LightweightPistol.label>
@@ -24,8 +26,10 @@
   <VWE_Gun_BullpupRifle.tools.0.label>приклад</VWE_Gun_BullpupRifle.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_BullpupRifle.tools.1.label>ствол</VWE_Gun_BullpupRifle.tools.1.label>
+  <!-- EN: bullpup rifle -->
+  <VWE_Gun_BullpupRifle.verbs.Verb_Shoot.label>винтовка «булл-пап»</VWE_Gun_BullpupRifle.verbs.Verb_Shoot.label>
 
-
+  
   <!-- EN: bullpup DMR bullet -->
   <Bullet_BullpupDMR.label>пуля DMR «булл-пап»</Bullet_BullpupDMR.label>
 
@@ -37,7 +41,8 @@
   <VWE_Gun_BullpupDMR.tools.0.label>приклад</VWE_Gun_BullpupDMR.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_BullpupDMR.tools.1.label>ствол</VWE_Gun_BullpupDMR.tools.1.label>
-
+  <!-- EN: bullpup DMR -->
+  <VWE_Gun_BullpupDMR.verbs.Verb_Shoot.label>DMR «булл-пап»</VWE_Gun_BullpupDMR.verbs.Verb_Shoot.label>
 
   <!-- EN: PDW bullet -->
   <VWE_Bullet_PDW.label>пуля PDW</VWE_Bullet_PDW.label>
@@ -50,4 +55,6 @@
   <VWE_Gun_PDW.tools.0.label>рукоять</VWE_Gun_PDW.tools.0.label>
   <!-- EN: barrel -->
   <VWE_Gun_PDW.tools.1.label>ствол</VWE_Gun_PDW.tools.1.label>
+  <!-- EN: PDW -->
+  <VWE_Gun_PDW.verbs.Verb_Shoot.label>PDW</VWE_Gun_PDW.verbs.Verb_Shoot.label>
 </LanguageData>
