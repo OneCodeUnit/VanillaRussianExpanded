@@ -3,5 +3,7 @@
     <li>Common</li>
     <li IfModActive="vanillaexpanded.achievements">Achievements</li>
     <li IfModActive="Ludeon.RimWorld.Odyssey">Odyssey</li>
+    <li IfModActive="VanillaExpanded.VWEQ">Quickdraw</li>
+    <li IfModActiveAll="VanillaExpanded.VWEQ,Ludeon.RimWorld.Odyssey">QuickdrawOdyssey</li>
   </v1.6>
 </loadFolders>
