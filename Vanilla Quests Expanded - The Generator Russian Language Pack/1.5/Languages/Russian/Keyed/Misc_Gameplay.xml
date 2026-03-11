@@ -326,5 +326,24 @@ ARC needs to be maintained by colonists. If maintenance reaches 0%, ARC will bre
   <!-- EN: The {PAWN_title} named {PAWN_nameDef} has emerged from a cryptosleep casket and is joining the colony.\n\n{PAWN_nameFull}, the brilliant mind behind the creation of the ARC generator, brings a wealth of knowledge and experience. Across this planet, {PAWN_nameDef} tirelessly developed countless ARC prototypes, though many succumbed to neglect or external catastrophes. Despite these setbacks, {PAWN_nameDef} possesses unparalleled expertise in constructing, repairing, maintaining, and upgrading all known ARC generator types, including the advanced nuclear and geothermal variants. Moreover, {PAWN_nameDef} can attempt to salvage critical ARC components from advanced components, a skill that could prove invaluable in building or enhancing your colony’s own ARC generator. -->
   <VQE_InventorJoinsDesc>{PAWN_title} {PAWN_nameDef} {PAWN_gender ? вышел : вышла} из криптосна и присоединяется к поселению.\n\n{PAWN_nameFull}, гениальный ум, стоящий за созданием АРК генератора, обладает богатейшим опытом и знаниями. {PAWN_pronoun} неустанно {PAWN_gender ? разрабатывал : разрабатывала} бесчисленные прототипы АРК генераторов по всей планете, пусть многие из них и были уничтожены небрежным отношением или по причине катастроф. Несмотря на эти неудачи, {PAWN_nameDef} обладает непревзойдённым опытом в создании, ремонте, обслуживании и модернизации всех известных типов АРК генераторов, включая передовые ядерные и геотермальные варианты. Более того, {PAWN_pronoun} может попытаться извлечь критически важные АРК-компоненты из продвинутых компонентов. Этот навык является незаменимым при создании или усовершенствовании собственного АРК генератора в вашем поселении.</VQE_InventorJoinsDesc>
 
+  <!-- Mod settings -->
 
+  <!-- EN: Disable the need of a steam vent to build an ARC -->
+	<VQEG_DisableNeedForSteamVent>Отключить требование наличия парового вентиля для строительства АРК</VQEG_DisableNeedForSteamVent>
+  <!-- EN: By default, you will need a steam vent present in the map to build your ARC. With this mod option active, you can build them anywhere. Useful for gravships, for example. -->
+	<VQEG_DisableNeedForSteamVentTooltip>По умолчанию для строительства АРК требуется наличие парового вентиля на карте. При включении этой опции вы можете строить их в любом месте. Полезно, например, для гравикораблей.</VQEG_DisableNeedForSteamVentTooltip>
+  <!-- EN: ARC upgrade timer multiplier (lower means faster) -->
+	<VQEG_ARCTimersMultiplier>Множитель времени улучшения АРК (меньше значит быстрее)</VQEG_ARCTimersMultiplier>
+  <!-- EN: When upgrading the ARC, there are a series of time periods the player needs to respect before being allowed to do the upgrades (eg "the ARC needs to run for X days in this mode before being upgraded"). This setting will apply a multiplier to those periods. Bear in mind a lower number means things will go faster. A higher number will mean the ARC will take longer. -->
+	<VQEG_ARCTimersMultiplierTooltip>При улучшении АРК есть несколько этапов, когда игрок должен выполнить условие перед тем, как продолжить улучшение (например, «АРК должен работать X дней в этом режиме перед улучшением»). Эта настройка применяет множитель к этим периодам. Имейте в виду, что меньшее число означает более быстрое завершение, большее означает, что они будут занимать больше времени.</VQEG_ARCTimersMultiplierTooltip>
+  <!-- EN: ARC upgrade fuel multiplier (lower means less fuel needed) -->
+	<VQEG_ARCFuelMultiplier>Множитель топлива при улучшении АРК (меньше значит меньше топлива)</VQEG_ARCFuelMultiplier>
+  <!-- EN: When upgrading the ARC, there are some times when the player needs to burn a given amount of fuel before being allowed to do the upgrades (eg "the ARC needs to burn X wood before being upgraded"). This setting will apply a multiplier to those amount. Bear in mind a lower number means less fuel is needed. A higher number will mean more fuel. -->
+	<VQEG_ARCFuelMultiplierTooltip>При улучшении АРК есть несколько этапов, когда игрок должен сжечь определённое количество топлива перед тем, как продолжить улучшение (например, «АРК должен сжечь X древесины перед улучшением»). Эта настройка применяет множитель к этим количествам. Имейте в виду, что меньшее число означает меньшее количество топлива, большее число означает большее количество топлива.</VQEG_ARCFuelMultiplierTooltip>
+  <!-- EN: ARC power output multiplier -->
+	<VQEG_ARCOutputMultiplier>Выработка энергии от АРК</VQEG_ARCOutputMultiplier>
+  <!-- EN: This will scale the amount of power produced by the ARC reactors. -->
+	<VQEG_ARCOutputMultiplierTooltip>Эта настройка изменяет количество энергии, производимой реакторами АРК.</VQEG_ARCOutputMultiplierTooltip>
+	<!-- EN: Reset -->
+  <VQEG_Reset>Сброс</VQEG_Reset>
 </LanguageData>
