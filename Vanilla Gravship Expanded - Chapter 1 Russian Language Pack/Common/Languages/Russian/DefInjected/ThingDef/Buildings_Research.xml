@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: gravtech console -->
   <VGE_GravtechConsole.label>гравитехнологическая консоль</VGE_GravtechConsole.label>
@@ -14,4 +14,14 @@
   <VGE_FlightComputer.label>бортовой компьютер</VGE_FlightComputer.label>
   <!-- EN: An advanced computational unit that optimizes data collection during gravship travel. Increases the amount of gravdata gained from each launch. -->
   <VGE_FlightComputer.description>Продвинутый вычислительный блок, оптимизирующий сбор данных во время полётов гравикорабля. Увеличивает количество гравиданных, получаемых с каждого запуска.</VGE_FlightComputer.description>
+
+  <!-- EN: compact research bench -->
+  <VGE_CompactResearchBench.label>compact research bench</VGE_CompactResearchBench.label>
+  <!-- EN: A miniaturized version of the high-tech research bench, designed to fit within the confined spaces of a gravship. Despite its compact size, it features the same computers and electronic equipment, providing the same research capabilities and unlocking advanced projects as its larger counterpart. It draws power directly from the grav engine. -->
+  <VGE_CompactResearchBench.description>A miniaturized version of the high-tech research bench, designed to fit within the confined spaces of a gravship. Despite its compact size, it features the same computers and electronic equipment, providing the same research capabilities and unlocking advanced projects as its larger counterpart. It draws power directly from the grav engine.</VGE_CompactResearchBench.description>
+
+  <!-- EN: compact multi-analyzer -->
+  <VGE_CompactMultiAnalyzer.label>compact multi-analyzer</VGE_CompactMultiAnalyzer.label>
+  <!-- EN: A miniaturized version of the multi-analyzer, designed to work aboard a gravship. While taking up less space, it performs the same essential function: increasing research speed when placed near a high-tech research bench and unlocking advanced projects. Each bench can only benefit from one multi-analyzer. It draws power directly from the grav engine. -->
+  <VGE_CompactMultiAnalyzer.description>A miniaturized version of the multi-analyzer, designed to work aboard a gravship. While taking up less space, it performs the same essential function: increasing research speed when placed near a high-tech research bench and unlocking advanced projects. Each bench can only benefit from one multi-analyzer. It draws power directly from the grav engine.</VGE_CompactMultiAnalyzer.description>
 </LanguageData>
