@@ -106,4 +106,13 @@
 
   <!-- EN: Teleport to {0}-->
   <VEF.TeleportTo>Телепортироваться в {0}</VEF.TeleportTo>
+
+  <!-- EN: Market value range (base) -->
+  <VEF.TotalMarketValueRange>Разброс рыночной стоимости (базовой)</VEF.TotalMarketValueRange>
+  <!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. -->
+	<VEF.TotalMarketValueRange_Desc>Разброс рыночной стоимости (минимальной и максимальной) объектов, которые можно получить из этого ящика.</VEF.TotalMarketValueRange_Desc>
+  <!-- EN: Market value range (by quality) -->
+	<VEF.TotalMarketValueRange_Quality>Разброс рыночной стоимости (от качества)</VEF.TotalMarketValueRange_Quality>
+  <!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. Box quality has modified the base value by a factor of {0} -->
+	<VEF.TotalMarketValueRange_Quality_Desc>Разброс рыночной стоимости (минимальной и максимальной) объектов, которые можно получить из этого ящика. Качество ящика изменяет базовую стоимость на {0}</VEF.TotalMarketValueRange_Quality_Desc>
 </LanguageData>

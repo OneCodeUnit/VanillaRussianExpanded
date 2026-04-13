@@ -159,4 +159,17 @@
   <PipeSystem_CurrentNotReachedAwful>Процесс ещё не достиг качества «Ужасно»</PipeSystem_CurrentNotReachedAwful>
   <!-- EN: Extracting product at current quality -->
   <PipeSystem_ExtractingAtCurrent>Извлечение продукта с текущим качеством</PipeSystem_ExtractingAtCurrent>
+  
+  <!-- EN: Output factory hopper absent or not accepting item due to storage configuration.-->
+  <PipeSystem_OutputFactoryHopperIncorrect>Выходная воронка завода отсутствует или не принимает предмет из-за конфигурации хранилища.</PipeSystem_OutputFactoryHopperIncorrect>
+  <!-- EN: Output factory hopper too full (max {0} units) -->
+  <PipeSystem_OutputFactoryHopperFull>Выходная воронка завода переполнена (макс. {0} ед.)</PipeSystem_OutputFactoryHopperFull>
+  
+  <!-- EN: This processor is not situated in a room that counts as a {0}, and will receive a {1} penalty to its work speed. This will be recalculated once a process has started. -->
+  <PipeSystem_NotInRoomExplanation>Этот обработчик не находится в комнате «{0}», и получит штраф {1} к скорости работы. Это будет пересчитано после начала процесса.</PipeSystem_NotInRoomExplanation>
+  <!-- EN: work speed-->
+  <PipeSystem_WorkSpeed>скорость работы</PipeSystem_WorkSpeed>
+  
+  <!-- EN: Can’t breed fish due to gill rot-->
+  <PipeSystem_InterruptedByGillRot>Нельзя разводить рыбу из-за жаброгнили</PipeSystem_InterruptedByGillRot>
 </LanguageData>

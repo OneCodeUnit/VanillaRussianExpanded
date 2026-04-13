@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxBuilding.label>максимальная энергия щита</VEF_EnergyShieldEnergyMaxBuilding.label>
+  <!-- EN: The maximum energy the shield can have. More energy allows the shield to absorb more damage. -->
+  <VEF_EnergyShieldEnergyMaxBuilding.description>Максимальная энергия, которую может иметь щит. Большее количество энергии позволяет поглощать больше урона.</VEF_EnergyShieldEnergyMaxBuilding.description>
+  <!-- EN: {0}00 -->
+  <VEF_EnergyShieldEnergyMaxBuilding.formatString>{0}00</VEF_EnergyShieldEnergyMaxBuilding.formatString>
+  
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRateBuilding.label>скорость восстановления щита</VEF_EnergyShieldRechargeRateBuilding.label>
+  <!-- EN: The rate at which the shield recharges energy per second, as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRateBuilding.description>Показатель того, сколько энергии щит восстанавливает за секунду, если он не сломан.</VEF_EnergyShieldRechargeRateBuilding.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRateBuilding.formatString>{0}/с</VEF_EnergyShieldRechargeRateBuilding.formatString>
+
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusBuilding.label>радиус щита</VEF_EnergyShieldRadiusBuilding.label>
+  <!-- EN: The radius of the energy shield protection. -->
+  <VEF_EnergyShieldRadiusBuilding.description>Радиус действия энергетического щита.</VEF_EnergyShieldRadiusBuilding.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusBuilding.formatString>{0} с</VEF_EnergyShieldRadiusBuilding.formatString>
+
+  <!-- EN: breakdown factor -->
+  <VEF_BuildingBreakdownFactor.label>вероятность неисправности</VEF_BuildingBreakdownFactor.label>
+  <!-- EN: A multiplier on how often this building breaks down. -->
+  <VEF_BuildingBreakdownFactor.description>Множитель того, как часто у этой постройки возникают неисправности.</VEF_BuildingBreakdownFactor.description>
+
+  <!-- EN: maximum overclock factor -->
+  <VEF_BuildingMaxOverclockFactor.label>длительность разгона</VEF_BuildingMaxOverclockFactor.label>
+  <!-- EN: A multiplier on the maximum possible overclock of a factory. -->
+  <VEF_BuildingMaxOverclockFactor.description>Множитель максимального разгона завода.</VEF_BuildingMaxOverclockFactor.description>
+
+  <!-- EN: heat per second factor -->
+  <VEF_FactoryHeatPerSecondFactor.label>множ. тепла в секунду</VEF_FactoryHeatPerSecondFactor.label>
+  <!-- EN: A multiplier on the heat per second produced by a factory. -->
+  <VEF_FactoryHeatPerSecondFactor.description>Множитель производимого тепла в секунду заводом.</VEF_FactoryHeatPerSecondFactor.description>
+</LanguageData>
