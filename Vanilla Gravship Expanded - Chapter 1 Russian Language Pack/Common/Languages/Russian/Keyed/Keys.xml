@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Targeting terminal can only link with gravship artillery. -->
   <VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>Терминал наведения может связываться только с артиллерией гравикорабля.</VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>
@@ -60,6 +60,8 @@ Consider picking a different landing zone. -->
   <VGE_CrashLandingWarning>Посадка в этом месте будет считаться аварийной и повредит гравикорабль.</VGE_CrashLandingWarning>
   <!-- EN: Can’t land here due to indestructible obstacles present. Choose another landing location. -->
   <VGE_CannotLandIndestructibleObstacles>Нельзя приземлиться здесь из-за неразрушимых препятствий. Выберите другое место посадки.</VGE_CannotLandIndestructibleObstacles>
+  
+  <!-- Vac checkpoints -->
   <!-- EN: Set desired vacuum resistance -->
   <VGE_VacCheckpoint_SetVacuumResistance>Установить требуемый уровень устойчивости к вакууму</VGE_VacCheckpoint_SetVacuumResistance>
   <!-- EN: Set the percentage of vacuum resistance required to cross through this checkpoint. Colonists without sufficient vacuum resistance will not naturally path through this checkpoint. Does not affect drafted colonists. -->
@@ -74,6 +76,8 @@ Consider picking a different landing zone. -->
   <VGE_VacCheckpoint_DisallowDrafted>Поселенцы в режиме призыва проверяются на устойчивость к вакууму</VGE_VacCheckpoint_DisallowDrafted>
   <!-- EN: Always allow drafted -->
   <VGE_VacCheckpoint_AllowDraftedCheckbox>Всегда пропускать поселенцев в режиме призыва</VGE_VacCheckpoint_AllowDraftedCheckbox>
+  
+  <!-- Oxygen packs -->
   <!-- EN: inactive -->
   <VGE_OxygenPackInactive>отключён</VGE_OxygenPackInactive>
   <!-- EN: oxygen u³ -->
@@ -106,6 +110,8 @@ Colonists without vacuum-protective apparel: -->
   <VGE_Refill>Зарядить {lookup: {GEAR_labelShort}; Case; 3} {lookup: {AMMO_label}; Case; 4}</VGE_Refill>
   <!-- EN: Cannot carry enough {AMMO_label} to refill 1 charge. -->
   <VGE_RefillCannotCarryEnough>Невозможно унести достаточно {AMMO_label} для пополнения 1 заряда.</VGE_RefillCannotCarryEnough>
+  
+  <!-- Low oxygen alerts -->
   <!-- EN: Low oxygen -->
   <VGE_Alert_LowOxygen>Мало кислорода</VGE_Alert_LowOxygen>
   <!-- EN: You are dangerously low on oxygen.
@@ -115,10 +121,13 @@ Colonists without vacuum-protective apparel: -->
 
 When oxygen runs out, the gravship will start filling with vacuum. -->
   <VGE_Alert_LowOxygenExplanation>Критически низкий уровень кислорода.\n\n    Кислорода в хранилище: {0} u³\n    Поселенцев и пленников, дышащих кислородом: {1}\n\nКогда кислород закончится, гравикорабль начнёт заполняться вакуумом.</VGE_Alert_LowOxygenExplanation>
+  
+  <!-- Death from vacuum exposure inspect string -->
   <!-- EN: resistant to vacuum -->
   <VGE_ResistantToVacuumExposure>устойчив к вакууму</VGE_ResistantToVacuumExposure>
   <!-- EN: death from vacuum exposure in {0} -->
   <VGE_TimeUntilVacuumExposureDeath>смерть от воздействия вакуума через {0}</VGE_TimeUntilVacuumExposureDeath>
+  
   <!-- EN: {0} / {1} heat units -->
   <VGE_HeatsinkHeatStored>{0} / {1} единиц тепла</VGE_HeatsinkHeatStored>
   <!-- EN: Absorb gravheat -->
@@ -137,10 +146,12 @@ When oxygen runs out, the gravship will start filling with vacuum. -->
   <VGE_LaunchHeatsinkCooldownInfo>Радиаторы сократят время перезарядки до запуска на {0}.</VGE_LaunchHeatsinkCooldownInfo>
   <!-- EN: This launch will use {0} astrofuel and generate about {0} heat units, raising the temperature across the gravship. -->
   <VGE_LaunchFuelAndHeatUnitsInfo>Этот запуск использует {0} космотоплива и выработает около {0} единиц тепла, повысив температуру по всему гравикораблю.</VGE_LaunchFuelAndHeatUnitsInfo>
+  
   <!-- EN: Remove substructure -->
   <VGE_DesignatorRemoveSubstructure>Удалить надстройку</VGE_DesignatorRemoveSubstructure>
   <!-- EN: Remove substructure from the gravship. -->
   <VGE_DesignatorRemoveSubstructureDesc>Удалить надстройку с гравикорабля.</VGE_DesignatorRemoveSubstructureDesc>
+  
   <!-- EN: Your gravship has launched. You can now decide whether you want to keep the previous map around, or if you want to discard it.
 
 If you keep it around, it will still be present as a colony map until you abandon it.
@@ -179,6 +190,7 @@ Please note that keeping several maps open may affect your performance. -->
 
 You will be given a choice to keep the current map as well as anything not on gravship substructure, but if you choose to discard it, it will be permanently lost. -->
   <ConfirmGravEngineLaunch>Вы уверены, что хотите взлететь?\n\nВам будет предложено сохранить текущую карту и всё, что не находится на надстройке гравикорабля, но если вы откажетесь от неё, она будет потеряна навсегда.</ConfirmGravEngineLaunch>
+  <!-- Messages related to multiple gravships -->
   <!-- EN: You can’t build {0} if you already have another grav engine. -->
   <VGE_BuildSingleGravEngineOnly>Нельзя построить {0}, если у вас уже есть другой гравидвигатель.</VGE_BuildSingleGravEngineOnly>
   <!-- EN: You can’t build {0} if you already have another grav engine under construction. -->
@@ -189,14 +201,22 @@ You will be given a choice to keep the current map as well as anything not on gr
   <VGE_InstallSingleGravEngineBuildBlueprintOnly>Нельзя установить {0}, если поблизости уже строится другой гравидвигатель.</VGE_InstallSingleGravEngineBuildBlueprintOnly>
   <!-- EN: You can’t install {0} if there’s another grav engine blueprint nearby. -->
   <VGE_InstallSingleGravEngineInstallBlueprintOnly>Нельзя установить {0}, если поблизости уже есть чертёж другого гравидвигателя.</VGE_InstallSingleGravEngineInstallBlueprintOnly>
+  <!-- For example: "Grav engine disabled: Multiple grav engines present" -->
   <!-- EN: Grav engine disabled: -->
   <VGE_GravEngineDisabled>Гравидвигатель отключён:</VGE_GravEngineDisabled>
+  <!-- Disabled message for gravship launch ritual when there's multiple gravship engines present. Should hopefully never happen. -->
+  <!-- Also used for grav engines tooltip when there's another one present. -->
   <!-- EN: multiple grav engines present -->
   <VGE_MultipleGravEnginesPresent>присутствует несколько гравидвигателей</VGE_MultipleGravEnginesPresent>
+  <!-- Disabled message for gravship launch ritual when there's a gravship currently travellingo on the world. Should hopefully never happen. -->
   <!-- EN: another gravship is currently active -->
   <VGE_GravshipCurrentlyActive>другой гравикорабль сейчас активен</VGE_GravshipCurrentlyActive>
+  <!-- Disabled message for gravship launch ritual when there's another gravship launch ritual active. Should hopefully never happen. -->
   <!-- EN: another gravship is currently preparing to launch -->
   <VGE_GravshipLaunchCurrentlyActive>другой гравикорабль сейчас готовится к запуску</VGE_GravshipLaunchCurrentlyActive>
+  
+  <!-- Mod options -->
+
   <!-- EN: Orbital objects multiplier -->
   <VGE_OrbitObjectsMultiplier>Множитель орбитальных объектов</VGE_OrbitObjectsMultiplier>
   <!-- EN: By default the game will try to keep 3,8,12 or 20 locations in orbit (depending on globe coverage of the planet). With this slider you can apply a multiplier to this number, making your planet orbits super sparse or very cluttered! -->
@@ -205,10 +225,19 @@ You will be given a choice to keep the current map as well as anything not on gr
   <VGE_Reset>Сбросить</VGE_Reset>
   <!-- EN: More -->
   <VGE_More>Прочее</VGE_More>
+  
+  <!-- World objects -->
+
   <!-- EN: Solid ice with traces of {RESOURCE_label} -->
   <VGE_SoildIceAsteroid>Твёрдый лёд со следами {RESOURCE_label}</VGE_SoildIceAsteroid>
+  
+  <!-- Map incidents -->
+
   <!-- EN: Can’t launch the gravship due to a gravitational anomaly -->
   <VGE_CannotLaunchGravAnomaly>Невозможно запустить гравикорабль из-за гравитационной аномалии</VGE_CannotLaunchGravAnomaly>
+  
+  <!-- Maintenance -->
+
   <!-- EN: Part maintenance: {0} -->
   <VGE_Maintenance>Обслуживание компонента: {0}</VGE_Maintenance>
   <!-- EN: Maintain part -->
@@ -221,10 +250,13 @@ You will be given a choice to keep the current map as well as anything not on gr
   <VGE_Alert_LowMaintenance_Desc>Некоторые компоненты гравикорабля имеют низкий уровень обслуживания. Это может привести к негативным последствиям при запуске и поломкам. Назначьте поселенца для их обслуживания. Компоненты гравикорабля с низким уровнем обслуживания:\n\n {0}</VGE_Alert_LowMaintenance_Desc>
   <!-- EN: Global maintenance sensitivity -->
   <VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>Глобальная чувствительность к обслуживанию</VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>
+  
   <!-- EN: Set desired maintenance -->
   <VGE_SetDesiredMaintenance>Установить желаемый уровень обслуживания</VGE_SetDesiredMaintenance>
   <!-- EN: Set the desired maintenance for all gravship components on this gravship. Colonists assigned to construction will maintain the structures if they fall below the set level. -->
   <VGE_SetDesiredMaintenanceDesc>Установить желаемый уровень обслуживания для всех компонентов гравикорабля. Поселенцы, назначенные на строительство, будут обслуживать структуры, если их уровень упадёт ниже установленного.</VGE_SetDesiredMaintenanceDesc>
+  
+  <!-- Gravdata -->
   <!-- EN: Estimated gravdata yield: {0} -->
   <VGE_GravdataYieldInfo>Ожидаемое количество гравиданных: {0}</VGE_GravdataYieldInfo>
   <!-- EN: No gravtech research project selected. Launching will not yield any gravdata. -->
@@ -249,12 +281,15 @@ You will be given a choice to keep the current map as well as anything not on gr
   <VGE_EscapePodCrash>Крушение спасательной капсулы</VGE_EscapePodCrash>
   <!-- EN: A damaged escape pod has crashed on the map. It can be hacked open to reveal what’s inside. -->
   <VGE_EscapePodCrashDesc>Повреждённая спасательная капсула упала на карту. Её можно взломать, чтобы узнать, что внутри.</VGE_EscapePodCrashDesc>
+  
+  <!-- Gravlift -->
   <!-- EN: Launch to orbit -->
   <VGE_LaunchToOrbit>Запуск на орбиту</VGE_LaunchToOrbit>
   <!-- EN: Launch the gravship directly upwards and stabilize it in orbit. This is still considered a gravship journey and the grav engine will enter cooldown, potentially leaving you stranded in orbit. -->
   <VGE_LaunchToOrbitDesc>Запустить гравикорабль вертикально вверх и стабилизировать его на орбите. Это считается путешествием гравикорабля, и гравидвигатель войдёт в перезарядку, потенциально оставив вас застрявшими на орбите.</VGE_LaunchToOrbitDesc>
   <!-- EN: Can't use: already in orbit. -->
   <VGE_CantLaunchAlreadyInOrbit>Нельзя использовать: уже на орбите.</VGE_CantLaunchAlreadyInOrbit>
+  
   <!-- EN: {0} pod gestation completes in: {1}. -->
   <VGE_MechanoidPodGestation>{0} гестация капсулы завершится через: {1}.</VGE_MechanoidPodGestation>
   <!-- EN: Remaining mechanoid pods to complete: {0}. -->
@@ -266,26 +301,62 @@ You will be given a choice to keep the current map as well as anything not on gr
   <!-- EN: {0} {1} production completes in: {2}
 Remaining production processes to complete: {3} -->
   <VGE_ResourceProcessorInfo>Производство {1} ед. {lookup: {0}; Case; 1} завершится через: {2}\nОсталось производственных процессов: {3}</VGE_ResourceProcessorInfo>
+  
+    <!-- Chemfuel to astrofuel replacements -->
   <!-- EN: stored astrofuel -->
   <VGE_StoredAstrofuel>запасённое космотопливо</VGE_StoredAstrofuel>
   <!-- EN: {0} astrofuel per tile -->
   <VGE_AstrofuelPerTile>{0} космотоплива на клетку</VGE_AstrofuelPerTile>
+  
+  <!-- Astrofire alert -->
   <!-- EN: Astrofire! -->
   <VGE_AstrofireInHomeArea>Космоогонь!</VGE_AstrofireInHomeArea>
   <!-- EN: There is an astrofire in the home area. -->
   <VGE_AstrofireInHomeAreaDesc>В домашней зоне горит космоогонь.</VGE_AstrofireInHomeAreaDesc>
+  
   <!-- EN: Requires substructure or scaffold to be build on. -->
   <VGE_RequiresSubstructureOrScaffolding>Требуется надстройка или вспомогательный каркас для строительства.</VGE_RequiresSubstructureOrScaffolding>
+  
+  <!-- Odyssey architect tab -->
   <!-- EN: No available designators -->
   <VGE_NoAvailableDesignators>Нет доступных инструментов</VGE_NoAvailableDesignators>
+  
+  <!-- Vac barrier color picker -->
   <!-- EN: brightness -->
   <VGE_ColorPickerValue>Яркость</VGE_ColorPickerValue>
-  <!-- EN: Choose a color by setting the color brightness.
-
-Brightness refers to "value" from HSV color model - hue, saturation, and value/brightness. -->
+  <!-- EN: Choose a color by setting the color brightness.\n\nBrightness refers to "value" from HSV color model - hue, saturation, and value/brightness. -->
   <VGE_ColorPickerValueTooltip>Выберите цвет, установив яркость.\n\nЯркость относится к «значению» из цветовой модели HSV — тон, насыщенность и значение/яркость.</VGE_ColorPickerValueTooltip>
   <!-- EN: Must be placed in range of a grav engine or grav field amplifier. -->
   <VGE_MustBePlacedInRangeOfGravSource>Должен быть размещён в радиусе гравидвигателя или усилителя гравиполя.</VGE_MustBePlacedInRangeOfGravSource>
+  <!-- Vac barrier roof -->
+  <!-- EN: Build vac barrier roof area -->
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>Строить вакуумную барьерную крышу</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
+  <!-- EN: Colonists will build vac barrier roofs in this area. -->
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>Поселенцы будут строить вакуумные барьерные крыши в этой области.</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
+  <!-- EN: Remove vac barrier roof area -->
+  <VGE_DesignatorAreaNoVacBarrierRoofExpand>Удалить вакуумную барьерную крышу</VGE_DesignatorAreaNoVacBarrierRoofExpand>
+  <!-- EN: Colonists will remove vac barrier roofs in this area. -->
+  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>Поселенцы уберут любые существующие здесь вакуумные барьерные крыши.</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
+  <!-- Vac barrier roof recoloring designator -->
+  <!-- EN: Recolor vac barrier roofs... -->
+  <VGE_DesignatorRecolorVacBarrierRoof>Перекрасить барьерные крыши...</VGE_DesignatorRecolorVacBarrierRoof>
+  <!-- EN: Immediately recolor any vac barrier roofs. -->
+  <VGE_DesignatorRecolorVacBarrierRoofDesc>Немедленно перекрасить все барьерные крыши.</VGE_DesignatorRecolorVacBarrierRoofDesc>
+  <!-- EN: Select any color using a color picker menu. -->
+  <VGE_ColorPickerMenu>Выберите любой цвет с помощью меню выбора цвета.</VGE_ColorPickerMenu>
+  <!-- EN: Grab a color from an existing vac barrier roof, building, or a floor. -->
+  <VGE_DesignatorEyeDropperDesc_Universal>Выбрать цвет существующей барьерной крыши, постройки или пола.</VGE_DesignatorEyeDropperDesc_Universal>
+  <!-- EN: Grab vac barrier roof color -->
+  <VGE_GrabVacBarrierRoofColor>Выбрать цвет барьерной крыши</VGE_GrabVacBarrierRoofColor>
+  <!-- EN: Grab {BUILDING_labelNoParenthesis} color: {COLOR} -->
+  <VGE_GrabBuildingColor>Выбрать цвет {BUILDING_labelNoParenthesis}: {COLOR}</VGE_GrabBuildingColor>
+  <!-- EN: Grab floor color: {COLOR} -->
+  <VGE_GrabFloorColor>Выбрать цвет пола: {COLOR}</VGE_GrabFloorColor>
+  <!-- EN: Select specific color from tile -->
+  <VGE_SelectColorFromTile>Выбрать конкретный цвет с клетки</VGE_SelectColorFromTile>
+
+  <!-- Grav engine inspection replacement text (overwrites Odyssey's) -->
+
   <!-- EN: Amongst the remnants of the crashed gravship, a still-intact gravjumper engine hums with energy.
 
 It is possible to repair the substructure, but various components of the gravship are beyond saving. The engine pushes against gravity, levitating the ship and allowing long-distance travel. By travelling, you may unlock the technology that will give you an opportunity to rebuild these systems and more.
@@ -300,12 +371,16 @@ Launching a gravship will give you an option to abandon your current map.
   - Structures unlocked: Pilot cockpit, Gravjumper engine, Small thruster, Small astrofuel tank, Astrofuel pipe, Astrofuel valve, Astrofuel tap, Astrofuel drain, Grav field extender
   - Recipe unlocked: Make astrofuel from chemfuel -->
   <GravEngineInspectedLetterContents>Среди обломков разбившегося гравикорабля всё ещё гудит нетронутый двигатель гравипрыжкового корабля.\n\nМожно починить надстройку, но различные компоненты гравикорабля не подлежат восстановлению. Двигатель преодолевает гравитацию, поднимая корабль и позволяя путешествовать на дальние расстояния. Путешествуя, вы можете открыть технологии, которые дадут возможность восстановить эти системы и многое другое.\n\nЗапустите гравикорабль, уменьшив его, починив повреждённую надстройку и заменив повреждённые ускорители и баки космотоплива. Произведите больше космотоплива в перегонном аппарате и выберите гравитехнологический исследовательский проект для прогресса во время путешествий.\n\nЗапуск гравикорабля даст возможность покинуть текущую карту.\n\n  - Завершён исследовательский проект: Базовые гравитехнологии\n  - Разблокирован пол: Надстройка гравикорабля\n  - Разблокирована стена: Корпус гравикорабля\n  - Разблокированы структуры: Кабина пилота, Двигатель гравипрыжкового корабля, Малый ускоритель, Малый бак космотоплива, Труба космотоплива, Вентиль космотоплива, Клапан космотоплива, Слив космотоплива, Расширитель гравиполя\n  - Разблокирован рецепт: Производство космотоплива из химтоплива</GravEngineInspectedLetterContents>
+  <!-- Agrocell text -->
   <!-- EN: Turn sun lamp on -->
   <VGE_AgrocellSunLampEnable>Включить солнечную лампу</VGE_AgrocellSunLampEnable>
   <!-- EN: Turn sun lamp off -->
   <VGE_AgrocellSunLampDisable>Выключить солнечную лампу</VGE_AgrocellSunLampDisable>
   <!-- EN: Keeping the sun lamp on will make the agrocell produce light during the day, increasing power usage and allowing most plants to grow. However, disabling it allows for plants that require darkness to grow while saving some power at the same time. -->
   <VGE_AgrocellSunLampDesc>Включённая солнечная лампа заставляет агроячейку производить свет днём, увеличивая потребление энергии и позволяя расти большинству растений. Отключение позволяет расти растениям, требующим темноты, и экономит энергию.</VGE_AgrocellSunLampDesc>
+  
+  <!-- Role abilities -->
+
   <!-- EN: This ability needs to target a pilot console. -->
   <VGE_MustTargetPilotConsole>Эта способность должна быть нацелена на консоль пилота.</VGE_MustTargetPilotConsole>
   <!-- EN: A new discovery! -->
@@ -321,12 +396,34 @@ Launching a gravship will give you an option to abandon your current map.
   <VGE_PilotGravhulk>Запустить гравибаржу</VGE_PilotGravhulk>
   <!-- EN: {0} needs gravdata to complete. Obtain gravdata by travelling with your gravship. -->
   <VGE_GravtechNeedsGravdata>{0} требует гравиданные для завершения. Получите гравиданные, путешествуя на гравикорабле.</VGE_GravtechNeedsGravdata>
+  
+  <!-- Replace pursuing mechanoids text with same but, but use the gravship itself as an argument. -->
   <!-- EN: The mechhive’s scanning process is close to determining your location. When it locates your {GRAVSHIP}, it will send a massive mechanoid force to kill you.\n\nGather your supplies, then flee the map by selecting the {CONSOLE}, and selecting launch. -->
   <VGE_LetterTextMechanoidThreat>Мехрой почти завершил сканирование вашей позиции. Как только {GRAVSHIP} будет обнаружен, к вам отправится огромная армия механоидов для уничтожения.\n\nСоберите припасы и покиньте карту, выбрав запуск на {CONSOLE}.</VGE_LetterTextMechanoidThreat>
+  <!-- Simple "gravship" style text, without the engine part. -->
+  <!-- First, it's used for the {GRAVSHIP} argument text above. Second, it's used for replacing the "gravship" name of unnamed gravship world object. -->
   <!-- EN: gravjumper -->
   <VGE_Gravjumper>гравипрыжковый корабль</VGE_Gravjumper>
   <!-- EN: gravship -->
   <VGE_Gravship>гравикорабль</VGE_Gravship>
   <!-- EN: gravhulk -->
   <VGE_Gravhulk>гравибаржа</VGE_Gravhulk>
+
+  <!-- Scanner cluster -->
+  <!-- EN: Nothing -->
+  <VGE_ScannerCluster_TunedToNothing>Ничего</VGE_ScannerCluster_TunedToNothing>
+  <!-- EN: Random deep resource -->
+  <VGE_ScannerCluster_RandomResource>Случайный глубинный ресурс</VGE_ScannerCluster_RandomResource>
+  <!-- EN: Passive orbital scanning -->
+  <VGE_ScannerCluster_TunedToOrbitalScanning>Пассивное сканирование орбиты</VGE_ScannerCluster_TunedToOrbitalScanning>
+  <!-- EN: Deep {RESOURCE} -->
+  <VGE_ScannerCluster_UndergroundResource>{RESOURCE} на глубине</VGE_ScannerCluster_UndergroundResource>
+  <!-- EN: Long-range {RESOURCE} -->
+  <VGE_ScannerCluster_LongRangeResource>{RESOURCE} на удалении</VGE_ScannerCluster_LongRangeResource>
+  <!-- EN: Missing {RESEARCH_label} research -->
+  <VGE_ScannerCluster_MissingResearchPrerequisite>Отсутствует исследование {RESEARCH_label}</VGE_ScannerCluster_MissingResearchPrerequisite>
+  <!-- EN: Protecting from space solar flare -->
+  <VGE_ProtectingFromSpaceSolarFlare>Защита от космических солнечных вспышек</VGE_ProtectingFromSpaceSolarFlare>
+  <!-- EN: gravcore tax -->
+  <VGE_GravcoreTax>налог гравиядрами</VGE_GravcoreTax>
 </LanguageData>

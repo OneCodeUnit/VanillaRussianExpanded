@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: small heatsink -->
   <VGE_SmallHeatsink.label>малый радиатор</VGE_SmallHeatsink.label>
@@ -12,6 +12,6 @@
 
   <!-- EN: gravheat absorber -->
   <VGE_GravheatAbsorber.label>поглотитель гравитепла</VGE_GravheatAbsorber.label>
-  <!-- EN: A specialized thermal sink that draws all residual heat from the grav engine, instantly clearing its cooldown. The absorbed heat leaves the gravheat absorber inoperable for an extended period while it safely dissipates the stored energy. -->
-  <VGE_GravheatAbsorber.description>Специализированный теплоотвод, отводящий всё остаточное тепло от гравидвигателя, что позволяет сразу сделать его готовым к взлёту. Поглощённое тепло выводит поглотитель гравитепла из строя на продолжительное время до тех пор, пока он безопасно не рассеет накопленную энергию.</VGE_GravheatAbsorber.description>
+  <!-- EN: A specialized thermal sink that draws all residual heat from the grav engine, instantly clearing its cooldown. The absorbed heat leaves the gravheat absorber inoperable for an extended period while it safely dissipates the stored energy. Furthermore, the specialized design provides protection from the heat of solar flares encountered in space, preventing excessive heat from bleeding into the gravship's interior. -->
+  <VGE_GravheatAbsorber.description>Специализированный теплоотвод, отводящий всё остаточное тепло от гравидвигателя, что позволяет сразу сделать его готовым к повторному взлёту. Поглощённое тепло выводит поглотитель гравитепла из строя на продолжительное время до тех пор, пока он безопасно не рассеет накопленную энергию. Более того, специализированная конструкция обеспечивает защиту от тепла солнечных вспышек, встречающихся в космосе, предотвращая чрезмерный нагрев внутреннего пространства гравикорабля.</VGE_GravheatAbsorber.description>
 </LanguageData>

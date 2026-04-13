@@ -4,4 +4,19 @@
   <VGE_OperatorSubpersonaCore.label>ядро субперсоны оператора</VGE_OperatorSubpersonaCore.label>
   <!-- EN: A high-grade subcore specialized in gravship combat. It can link with a single gravship artillery piece and control it the same way a crewmember manning a targeting terminal can. It’s combat capabilities are subpar, but it allows for autonomous artillery batteries without the need for human operators. -->
   <VGE_OperatorSubpersonaCore.description>Качественная субперсона, специализирующаяся на космических боях. Она может подключиться к одному корабельному орудию и взять его под контроль подобно тому, как это мог бы сделать член экипажа за терминалом наведения. Боевые возможности субперсоны невелики, но она позволит использовать орудие автономно, не привлекая никого из экипажа.</VGE_OperatorSubpersonaCore.description>
+
+  <!-- EN: compact mech recharger -->
+  <VGE_GravshipBasicRecharger.label>компактная зарядная станция</VGE_GravshipBasicRecharger.label>
+  <!-- EN: A miniaturized version of the mech recharger, designed to fit within the confined spaces of a gravship. Lightweight mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. It draws most of the power directly from the grav engine -->
+  <VGE_GravshipBasicRecharger.description>Уменьшенная версия зарядной станции механоидов, спроектированная для ограниченных пространств гравикораблей. Это зарядная станция для лёгких механоидов. Во время зарядки производит отходы, которые следует своевременно извлекать и переносить в места хранения или перерабатывать. Получает питание непосредственно от гравидвигателя.</VGE_GravshipBasicRecharger.description>
+
+  <!-- EN: compact large mech recharger -->
+  <VGE_GravshipStandardRecharger.label>компактная большая зарядная станция</VGE_GravshipStandardRecharger.label>
+  <!-- EN: A miniaturized version of the large mech recharger, designed to fit within the confined spaces of a gravship. Medium, heavy, and ultraheavy mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. It draws most of the power directly from the grav engine. -->
+  <VGE_GravshipStandardRecharger.description>Уменьшенная версия большой зарядной станции механоидов, спроектированная для ограниченных пространств гравикораблей. Это зарядная станция для средних, тяжёлых и сверхтяжёлых механоидов. Во время зарядки производит отходы, которые следует своевременно извлекать и переносить в места хранения или перерабатывать. Получает питание непосредственно от гравидвигателя.</VGE_GravshipStandardRecharger.description>
+
+  <!-- EN: compact gene bank -->
+  <VGE_CompactGeneBank.label>компактный генный банк</VGE_CompactGeneBank.label>
+  <!-- EN: A miniaturized version of the gene bank, designed to fit within the confined spaces of a gravship. It stores genepacks and makes them usable for creating new xenogerms when placed near a gene assembler. It draws power directly from the grav engine and prevents genepacks from deteriorating while slowly repairing deterioration. -->
+  <VGE_CompactGeneBank.description>Уменьшенная версия генного банка, спроектированная для ограниченных пространств гравикораблей. Он хранит генные пакеты и, если размещён рядом с генным сборщиком, они могут быть использованы для создания новых ксеносемян. Получает питание непосредственно от гравидвигателя и предотвращает ветшание генных пакетов, а также медленно восстанавливает их.</VGE_CompactGeneBank.description>
 </LanguageData>

@@ -48,4 +48,11 @@
   <VGE_GravframeHarmony.letterLabel>гармония гравикаркаса</VGE_GravframeHarmony.letterLabel>
   <!-- EN: {GRAVSHIP}’s structural frame experienced minimal stress during launch. The gravfield alignment was perfect, placing no extra strain on the ship’s components. -->
   <VGE_GravframeHarmony.letterText>Несущий каркас {GRAVSHIP} испытал минимальную нагрузку во время запуска. Выравнивание гравиполя было идеальным и не создало дополнительного напряжения для компонентов корабля.</VGE_GravframeHarmony.letterText>
+
+  <!-- EN: gravframe harmony -->
+  <VGE_QuestOffered.label>получение задания</VGE_QuestOffered.label>
+  <!-- EN: gravframe harmony -->
+  <VGE_QuestOffered.letterLabel>получение задания</VGE_QuestOffered.letterLabel>
+  <!-- EN: As {GRAVSHIP} executed its landing sequence, it was spotted by {LEADER}, a leader from the friendly {FACTION}. Impressed by the display of technology, they reached out and offered a quest. -->
+  <VGE_QuestOffered.letterText>Посадку {GRAVSHIP} заметил {LEADER}, лидер дружественной фракции {FACTION}. Такая демонстрация технологий впечатлила {LEADER_possessive}, и {LEADER_pronoun} {PAWN_gender ? предложил : предложила} задание.</VGE_QuestOffered.letterText>
 </LanguageData>
