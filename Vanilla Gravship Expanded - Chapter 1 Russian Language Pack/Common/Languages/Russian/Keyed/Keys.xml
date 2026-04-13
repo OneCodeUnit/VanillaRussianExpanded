@@ -324,38 +324,36 @@ Remaining production processes to complete: {3} -->
   <!-- Vac barrier color picker -->
   <!-- EN: brightness -->
   <VGE_ColorPickerValue>Яркость</VGE_ColorPickerValue>
-  <!-- EN: Choose a color by setting the color brightness.
-
-Brightness refers to "value" from HSV color model - hue, saturation, and value/brightness. -->
+  <!-- EN: Choose a color by setting the color brightness.\n\nBrightness refers to "value" from HSV color model - hue, saturation, and value/brightness. -->
   <VGE_ColorPickerValueTooltip>Выберите цвет, установив яркость.\n\nЯркость относится к «значению» из цветовой модели HSV — тон, насыщенность и значение/яркость.</VGE_ColorPickerValueTooltip>
   <!-- EN: Must be placed in range of a grav engine or grav field amplifier. -->
   <VGE_MustBePlacedInRangeOfGravSource>Должен быть размещён в радиусе гравидвигателя или усилителя гравиполя.</VGE_MustBePlacedInRangeOfGravSource>
   <!-- Vac barrier roof -->
   <!-- EN: Build vac barrier roof area -->
-  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>Build vac barrier roof area</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>Строить вакуумную барьерную крышу</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
   <!-- EN: Colonists will build vac barrier roofs in this area. -->
-  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>Colonists will build vac barrier roofs in this area.</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>Поселенцы будут строить вакуумные барьерные крыши в этой области.</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
   <!-- EN: Remove vac barrier roof area -->
-  <VGE_DesignatorAreaNoVacBarrierRoofExpand>Remove vac barrier roof area</VGE_DesignatorAreaNoVacBarrierRoofExpand>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpand>Удалить вакуумную барьерную крышу</VGE_DesignatorAreaNoVacBarrierRoofExpand>
   <!-- EN: Colonists will remove vac barrier roofs in this area. -->
-  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>Colonists will remove vac barrier roofs in this area.</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>Поселенцы уберут любые существующие здесь вакуумные барьерные крыши.</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
   <!-- Vac barrier roof recoloring designator -->
   <!-- EN: Recolor vac barrier roofs... -->
-  <VGE_DesignatorRecolorVacBarrierRoof>Recolor vac barrier roofs...</VGE_DesignatorRecolorVacBarrierRoof>
+  <VGE_DesignatorRecolorVacBarrierRoof>Перекрасить барьерные крыши...</VGE_DesignatorRecolorVacBarrierRoof>
   <!-- EN: Immediately recolor any vac barrier roofs. -->
-  <VGE_DesignatorRecolorVacBarrierRoofDesc>Immediately recolor any vac barrier roofs.</VGE_DesignatorRecolorVacBarrierRoofDesc>
+  <VGE_DesignatorRecolorVacBarrierRoofDesc>Немедленно перекрасить все барьерные крыши.</VGE_DesignatorRecolorVacBarrierRoofDesc>
   <!-- EN: Select any color using a color picker menu. -->
-  <VGE_ColorPickerMenu>Select any color using a color picker menu.</VGE_ColorPickerMenu>
+  <VGE_ColorPickerMenu>Выберите любой цвет с помощью меню выбора цвета.</VGE_ColorPickerMenu>
   <!-- EN: Grab a color from an existing vac barrier roof, building, or a floor. -->
-  <VGE_DesignatorEyeDropperDesc_Universal>Grab a color from an existing vac barrier roof, building, or a floor.</VGE_DesignatorEyeDropperDesc_Universal>
+  <VGE_DesignatorEyeDropperDesc_Universal>Выбрать цвет существующей барьерной крыши, постройки или пола.</VGE_DesignatorEyeDropperDesc_Universal>
   <!-- EN: Grab vac barrier roof color -->
-  <VGE_GrabVacBarrierRoofColor>Grab vac barrier roof color</VGE_GrabVacBarrierRoofColor>
+  <VGE_GrabVacBarrierRoofColor>Выбрать цвет барьерной крыши</VGE_GrabVacBarrierRoofColor>
   <!-- EN: Grab {BUILDING_labelNoParenthesis} color: {COLOR} -->
-  <VGE_GrabBuildingColor>Grab {BUILDING_labelNoParenthesis} color: {COLOR}</VGE_GrabBuildingColor>
+  <VGE_GrabBuildingColor>Выбрать цвет {BUILDING_labelNoParenthesis}: {COLOR}</VGE_GrabBuildingColor>
   <!-- EN: Grab floor color: {COLOR} -->
-  <VGE_GrabFloorColor>Grab floor color: {COLOR}</VGE_GrabFloorColor>
+  <VGE_GrabFloorColor>Выбрать цвет пола: {COLOR}</VGE_GrabFloorColor>
   <!-- EN: Select specific color from tile -->
-  <VGE_SelectColorFromTile>Select specific color from tile</VGE_SelectColorFromTile>
+  <VGE_SelectColorFromTile>Выбрать конкретный цвет с клетки</VGE_SelectColorFromTile>
 
   <!-- Grav engine inspection replacement text (overwrites Odyssey's) -->
 
