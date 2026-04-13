@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: ate raw mince -->
+  <VFEFactory_AteProcessedMince.stages.0.label>{PAWN_gender ? Съел : Съела} сырой фарш</VFEFactory_AteProcessedMince.stages.0.label>
+  <!-- EN: I ate raw processed meat. It was cold, slimy, and deeply unpleasant. -->
+  <VFEFactory_AteProcessedMince.stages.0.description>Я {PAWN_gender ? съел : съела} сырое переработанное мясо. Оно было холодным, скользким и просто отвратительным.</VFEFactory_AteProcessedMince.stages.0.description>
+  
+  <!-- EN: ate cooked mince -->
+  <VFEFactory_AteProcessedMinceIngredient.stages.0.label>{PAWN_gender ? Съел : Съела} фарш</VFEFactory_AteProcessedMinceIngredient.stages.0.label>
+  <!-- EN: I ate cooked processed meat. It was edible, but the taste left much to be desired. -->
+  <VFEFactory_AteProcessedMinceIngredient.stages.0.description>Я {PAWN_gender ? съел : съела} приготовленное переработанное мясо. Есть можно, но удовольствия никакого.</VFEFactory_AteProcessedMinceIngredient.stages.0.description>
+
+</LanguageData>

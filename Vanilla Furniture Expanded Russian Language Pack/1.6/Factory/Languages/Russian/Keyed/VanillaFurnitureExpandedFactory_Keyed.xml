@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: This factory is not working at the moment. -->
+  <VFEFactory_FactoryNotWorking>Заводское сооружение в данный момент не работает.</VFEFactory_FactoryNotWorking>
+  <!-- EN: Overclock: {0} -->
+  <VFEFactory_Overclock>Разгон: {0}</VFEFactory_Overclock>
+  <!-- EN: Overclock production -->
+  <VFEFactory_OverclockWindowLabel>Разгон</VFEFactory_OverclockWindowLabel>
+  <!-- EN: Increase energy usage to operate at a faster rate. {0} -->
+  <VFEFactory_OverclockDesc>Увеличить энергопотребление для увеличения скорости работы. {0}</VFEFactory_OverclockDesc>
+  <!-- EN: Variable output -->
+  <VFEFactory_VariableOutput>Различный выход</VFEFactory_VariableOutput>
+  <!-- EN: 10 steel per body size -->
+  <VFEFactory_SteelPerBodySize>10 ед. стали за каждую единицу размера</VFEFactory_SteelPerBodySize>
+  <!-- EN: 1 chemfuel per 0.1 nutrition -->
+  <VFEFactory_ChemfuelPerNutrition>1 ед. химтоплива за 0.1 ед. питательности</VFEFactory_ChemfuelPerNutrition>
+  <!-- EN: 20 blocks of the same stone as the chunk used -->
+  <VFEFactory_MasonryBlocks>20 блоков из породы исходного каменного обломка</VFEFactory_MasonryBlocks>
+  <!-- EN: Meat of the corpse in the form of processed mince -->
+  <VFEFactory_Butchery>Мясо трупа в виде обработанного фарша</VFEFactory_Butchery>
+  <!-- EN: Meat of the corpse in the form of human meat -->
+  <VFEFactory_ButcheryHuman>Мясо трупа в виде человечины</VFEFactory_ButcheryHuman>
+  <!-- EN: Meat of the corpse in the form of insect meat -->
+  <VFEFactory_ButcheryInsect>Мясо трупа в виде мяса насекомых</VFEFactory_ButcheryInsect>
+  <!-- EN: 24 kibble per 1 nutrition -->
+  <VFEFactory_KibbleOutput>24 ед. комбикорма за 1 ед. питательности</VFEFactory_KibbleOutput>
+  <!-- EN: 32 pemmican per 1 nutrition -->
+  <VFEFactory_PemmicanOutput>32 ед. пеммикана за 1 ед. питательности</VFEFactory_PemmicanOutput>
+  <!-- EN: 20 cans per 1 nutrition -->
+  <VFEFactory_Cans>20 банок за 1 ед. питательности</VFEFactory_Cans>
+  <!-- EN: 4 meals per 2.4 nutrition -->
+  <VFEFactory_SurvivalMealOutput>4 блюда за 2.4 ед. питательности</VFEFactory_SurvivalMealOutput>
+  <!-- EN: 4 meals per 2 nutrition -->
+  <VFEFactory_MassProducedMealOutput>4 блюда за 2 ед. питательности</VFEFactory_MassProducedMealOutput>
+  <!-- EN: 10 baby food per 0.25 nutrition -->
+  <VFEFactory_BabyFoodOutput>10 ед. детского питания за 0.25 ед. питательности</VFEFactory_BabyFoodOutput>
+  <!-- EN: 1 to 3 fish -->
+  <VFEFactory_RandomFishAmount>от 1 до 3 ед. рыбы</VFEFactory_RandomFishAmount>
+  <!-- EN: Random metals -->
+  <VFEFactory_Metals>Случайные металлы</VFEFactory_Metals>
+  <!-- EN: Change direction -->
+  <VFEFactory_ChangeDirection>Сменить направление</VFEFactory_ChangeDirection>
+  <!-- EN: Change the direction of this conveyor belt. -->
+  <VFEFactory_ChangeDirectionDesc>Изменить направление движения этой конвейерной ленты.</VFEFactory_ChangeDirectionDesc>
+  <!-- EN: North -->
+  <VFEFactory_DirectionNorth>Север</VFEFactory_DirectionNorth>
+  <!-- EN: East -->
+  <VFEFactory_DirectionEast>Восток</VFEFactory_DirectionEast>
+  <!-- EN: South -->
+  <VFEFactory_DirectionSouth>Юг</VFEFactory_DirectionSouth>
+  <!-- EN: West -->
+  <VFEFactory_DirectionWest>Запад</VFEFactory_DirectionWest>
+  <!-- EN: Filter -->
+  <VFEFactory_TabSplitterFilter>Фильтр</VFEFactory_TabSplitterFilter>
+  <!-- EN: Create link -->
+  <VFEFactory_CommandCreateLink>Создать связь</VFEFactory_CommandCreateLink>
+  <!-- EN: Link an underground conveyor entrance and exit together to allow items to pass. -->
+  <VFEFactory_CommandCreateLinkDesc>Соединить вход и выход подземного конвейера, чтобы обеспечить перемещение предметов.</VFEFactory_CommandCreateLinkDesc>
+  <!-- EN: Break link -->
+  <VFEFactory_CommandBreakLink>Разорвать связь</VFEFactory_CommandBreakLink>
+  <!-- EN: Unlink an underground conveyor entrance and exit, allowing for new links to be established. -->
+  <VFEFactory_CommandBreakLinkDesc>Разъединить вход и выход подземного конвейера, чтобы можно было создать новые соединения.</VFEFactory_CommandBreakLinkDesc>
+  <!-- EN: Select linked -->
+  <VFEFactory_CommandSelectLinked>Выбрать связанную постройку</VFEFactory_CommandSelectLinked>
+  <!-- EN: Show and select the linked structure. -->
+  <VFEFactory_CommandSelectLinkedDesc>Выбрать и переместиться к связанной постройке.</VFEFactory_CommandSelectLinkedDesc>
+  <!-- EN: Doesn't work due to missing link to an underground conveyor exit. -->
+  <VFEFactory_ConnectionMissing>Не работает из-за отсутствия связи с выходом подземного конвейера.</VFEFactory_ConnectionMissing>
+  <!-- EN: Can't link: Already linked. -->
+  <VFEFactory_AlreadyLinked>Невозможно связать: уже связано.</VFEFactory_AlreadyLinked>
+  <!-- EN: Can't link: Cannot link to self. -->
+  <VFEFactory_CantLinkSelf>Невозможно связать: нельзя соединить с самим собой.</VFEFactory_CantLinkSelf>
+  <!-- EN: Can't link: {0} is not a valid link target. -->
+  <VFEFactory_NotValidTarget>Невозможно связать: {0} — недопустимый объект для соединения.</VFEFactory_NotValidTarget>
+  <!-- EN: Items underground: {0} -->
+  <VFEFactory_ItemsUnderground>Предметы под землёй: {0}</VFEFactory_ItemsUnderground>
+  <!-- EN: Increase zone -->
+  <VFEFactory_IncreaseZone>Увеличить область</VFEFactory_IncreaseZone>
+  <!-- EN: Extend the zone in which autofarmer will harvest and sow crops. -->
+  <VFEFactory_IncreaseZoneDesc>Расширить область, в которой автофермер будет собирать урожай и сеять культуры.</VFEFactory_IncreaseZoneDesc>
+  <!-- EN: Decrease zone -->
+  <VFEFactory_DecreaseZone>Уменьшить область</VFEFactory_DecreaseZone>
+  <!-- EN: Contract the zone in which autofarmer will harvest and sow crops. -->
+  <VFEFactory_DecreaseZoneDesc>Сократить область, в которой автофермер будет собирать урожай и сеять культуры.</VFEFactory_DecreaseZoneDesc>
+  <!-- EN: Start -->
+  <VFEFactory_StartAutofarmer>Включить</VFEFactory_StartAutofarmer>
+  <!-- EN: Initiate the autofarmer now. It will move through the designated zone, harvesting and sowing crops. It will return back to the autofarmer platform when done. -->
+  <VFEFactory_StartAutofarmerDesc>Начните работу автофермера. Он будет перемещаться по заданной зоне, собирая урожай и высеивая культуры. По завершении он вернётся на свою платформу.</VFEFactory_StartAutofarmerDesc>
+  <!-- EN: Cancel -->
+  <VFEFactory_CancelAutofarmer>Отключить</VFEFactory_CancelAutofarmer>
+  <!-- EN: Cancel the process and have the autofarmer return to the platform. -->
+  <VFEFactory_CancelAutofarmerDesc>Прервать процесс и вернуть автофермера на платформу.</VFEFactory_CancelAutofarmerDesc>
+  <!-- EN: Autoharvesting -->
+  <VFEFactory_Autoharvesting>Автосбор урожая</VFEFactory_Autoharvesting>
+  <!-- EN: Enable or disable automatic harvesting and plant cutting in the designated zone. -->
+  <VFEFactory_AutoharvestingDesc>Вкл./выкл. автоматический сбор урожая и рубку растений в заданной области.</VFEFactory_AutoharvestingDesc>
+  <!-- EN: Autosowing -->
+  <VFEFactory_Autosowing>Автопосев</VFEFactory_Autosowing>
+  <!-- EN: Enable or disable automatic sowing of the selected crop. -->
+  <VFEFactory_AutosowingDesc>Вкл./выкл. автоматический посев выбранной культуры.</VFEFactory_AutosowingDesc>
+  <!-- EN: Autocycle when grown -->
+  <VFEFactory_AutocycleWhenGrown>Автоцикл после созревания</VFEFactory_AutocycleWhenGrown>
+  <!-- EN: Enable or disable an automatic harvesting/sowing cycle when crops in the zone reach 100% maturity. -->
+  <VFEFactory_AutocycleWhenGrownDesc>Вкл./выкл. автоматический цикл сбора урожая и посева, когда культуры в заданной области достигают 100% зрелости.</VFEFactory_AutocycleWhenGrownDesc>
+  <!-- EN: Autofarmer cannot initiate due to a large object obstructing its path. -->
+  <VFEFactory_AutofarmerObstructed>Автофермер не может начать работу из-за крупного объекта, блокирующего его путь.</VFEFactory_AutofarmerObstructed>
+  <!-- EN: Haul from conveyor -->
+  <VFEFactory_HaulFromConveyor>Переносить с конвейера</VFEFactory_HaulFromConveyor>
+  <!-- EN: Cannot haul from conveyor -->
+  <VFEFactory_CannotHaulFromConveyor>Невозможно переносить с конвейера</VFEFactory_CannotHaulFromConveyor>
+  <!-- EN: Needs to be built on water -->
+  <VFEFactory_NeedsWater>Нужно разместить на воде</VFEFactory_NeedsWater>
+  <!-- EN: Needs to be built on water that supports fish -->
+  <VFEFactory_NeedsFish>Нужно разместить на участке с водой, в которой водится рыба</VFEFactory_NeedsFish>
+  <!-- EN: Fish farm output needs to be on land -->
+  <VFEFactory_OutputOnLand>Точка выхода рыбной фермы должна быть на суше</VFEFactory_OutputOnLand>
+  <!-- EN: Allow taking -->
+  <VFEFactory_AllowTaking>Разрешить разгрузку</VFEFactory_AllowTaking>
+  <!-- EN: Allow colonists to take items from this factory hopper. -->
+  <VFEFactory_AllowTakingDesc>Разрешить поселенцам забирать предметы из этой заводской воронки.</VFEFactory_AllowTakingDesc>
+  <!-- EN: Allow inserting -->
+  <VFEFactory_AllowInserting>Разрешить загрузку</VFEFactory_AllowInserting>
+  <!-- EN: Allow colonists to manually insert items into this factory hopper. -->
+  <VFEFactory_AllowInsertingDesc>Разрешить поселенцам вручную загружать предметы в эту заводскую воронку.</VFEFactory_AllowInsertingDesc>
+  <!-- EN: Force haul -->
+  <VFEFactory_ForceHaul>Принудительный перенос</VFEFactory_ForceHaul>
+  <!-- EN: Invalid conveyor configuration: A conveyor cannot have 2 or more inputs and 2 or more outputs. -->
+  <VFEFactory_InvalidConveyorConfiguration>Некорректная конфигурация конвейера: у конвейера не может быть 2 или более входов и 2 или более выходов.</VFEFactory_InvalidConveyorConfiguration>
+  <!-- EN: filter belt -->
+  <VFEFactory_FilterBelt>фильтр</VFEFactory_FilterBelt>
+  <!-- EN: splitter belt -->
+  <VFEFactory_SplitterBelt>разделитель</VFEFactory_SplitterBelt>
+  <!-- EN: merger belt -->
+  <VFEFactory_MergerBelt>объединитель</VFEFactory_MergerBelt>
+  <!-- EN: refueling port -->
+  <VFEFactory_RefuelingPort>заправочный узел</VFEFactory_RefuelingPort>
+
+</LanguageData>

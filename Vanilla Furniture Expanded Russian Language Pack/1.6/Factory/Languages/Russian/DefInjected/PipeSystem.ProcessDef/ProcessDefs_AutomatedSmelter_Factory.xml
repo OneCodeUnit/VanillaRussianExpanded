@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Smelt metal from slag -->
+  <VFEFactory_SmeltMetalFromSlag.labelOverride>Переплавить металлолом</VFEFactory_SmeltMetalFromSlag.labelOverride>
+  <!-- EN: Smelt metal from slag -->
+  <VFEFactory_SmeltMetalFromSlag.label>Переплавить металлолом</VFEFactory_SmeltMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <VFEFactory_SmeltMetalFromSlag.description>Извлечь металл из металлолома с помощью сильных электромагнитов и нагрева.</VFEFactory_SmeltMetalFromSlag.description>
+  
+  <!-- EN: Smelt metal from mechanoid slag -->
+  <VFEFactory_SmeltMetalFromMechSlag.labelOverride>Переплавить обломок механоида</VFEFactory_SmeltMetalFromMechSlag.labelOverride>
+  <!-- EN: Smelt metal from mechanoid slag -->
+  <VFEFactory_SmeltMetalFromMechSlag.label>Переплавить обломок механоида</VFEFactory_SmeltMetalFromMechSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from mechanoid slag chunks. -->
+  <VFEFactory_SmeltMetalFromMechSlag.description>Извлечь металл из обломков механоидов с помощью сильных электромагнитов и нагрева.</VFEFactory_SmeltMetalFromMechSlag.description>
+  
+  <!-- EN: Smelt weapons -->
+  <VFEFactory_SmeltWeapon.label>Переплавить оружие</VFEFactory_SmeltWeapon.label>
+  <!-- EN: Smelt weapons -->
+  <VFEFactory_SmeltWeapon.labelOverride>Переплавить оружие</VFEFactory_SmeltWeapon.labelOverride>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. This operation will output 25% of the materials used to craft the weapon, excluding any components or advanced components. -->
+  <VFEFactory_SmeltWeapon.description>Извлечь полезные ресурсы из оружия с помощью сильных электромагнитов и нагрева. Будет возвращено 25% исходных ресурсов, за исключением компонентов и продвинутых компонентов.</VFEFactory_SmeltWeapon.description>
+  
+  <!-- EN: Smelt apparel -->
+  <VFEFactory_SmeltApparel.label>Переплавить броню</VFEFactory_SmeltApparel.label>
+  <!-- EN: Smelt apparel -->
+  <VFEFactory_SmeltApparel.labelOverride>Переплавить броню</VFEFactory_SmeltApparel.labelOverride>
+  <!-- EN: Use heat and strong electromagnets to break down apparel into useful resources. This operation will output 25% of the materials used to craft the apparel, excluding any components or advanced components. -->
+  <VFEFactory_SmeltApparel.description>Извлечь полезные ресурсы из брони с помощью сильных электромагнитов и нагрева. Будет возвращено 25% исходных ресурсов, за исключением компонентов и продвинутых компонентов.</VFEFactory_SmeltApparel.description>
+  
+  <!-- EN: Extract metal from stone chunk -->
+  <VFEFactory_SmeltMetalFromChunk.label>Извлечь металл из каменных обломков</VFEFactory_SmeltMetalFromChunk.label>
+  <!-- EN: Extract metal from stone chunk -->
+  <VFEFactory_SmeltMetalFromChunk.labelOverride>Извлечь металл из каменных обломков</VFEFactory_SmeltMetalFromChunk.labelOverride>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from stone chunks. -->
+  <VFEFactory_SmeltMetalFromChunk.description>Извлечь металл из каменных обломков с помощью сильных электромагнитов и нагрева.</VFEFactory_SmeltMetalFromChunk.description>
+  
+  <!-- EN: Smelt steel from mechanoid -->
+  <VFEFactory_SmeltMechanoid.label>Извлечь металл из механоида</VFEFactory_SmeltMechanoid.label>
+  <!-- EN: Smelt steel from mechanoid -->
+  <VFEFactory_SmeltMechanoid.labelOverride>Извлечь металл из механоида</VFEFactory_SmeltMechanoid.labelOverride>
+  <!-- EN: Use extreme heat to extract steel from mechanoid corpses. 10 steel will be extracted per 1 body size of the mechanoid. -->
+  <VFEFactory_SmeltMechanoid.description>Извлечь металл из останков механоидов с помощью сильных электромагнитов и нагрева. Из каждого механоида будет извлекаться 10 ед. стали за каждую единицу его размера.</VFEFactory_SmeltMechanoid.description>
+
+</LanguageData>

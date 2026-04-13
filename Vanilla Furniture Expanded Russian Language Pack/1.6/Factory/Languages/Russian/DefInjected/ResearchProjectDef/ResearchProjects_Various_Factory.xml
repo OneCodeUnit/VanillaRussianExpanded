@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: basic factories -->
+  <VFE_BasicFactories.label>базовые заводские сооружения</VFE_BasicFactories.label>
+  <!-- EN: Construct basic factories, conveyor belts with splitters, mergers, filters and underground conveyors, as well as factory hoppers to automate certain tasks around the colony. -->
+  <VFE_BasicFactories.description>Базовые производственные сооружения для автоматизации производственных процессов: конвейерные ленты с разделителями, объединителями, фильтрами и подземными секциями.</VFE_BasicFactories.description>
+  <!-- EN: 
+  <li>subject->industrial efficiency</li>
+  <li>subject_story->pioneered the first integrated production lines</li>
+  <li>subject_story->transformed a small workshop into a cornerstone of the industrial revolution</li>
+  <li>subject_story->saw beyond the chaos of factory floors to the beauty of synchronized machinery</li>
+  <li>subject_gerund->laying the groundwork for modern manufacturing</li>
+   -->
+  <VFE_BasicFactories.generalRules.rulesStrings>
+  <li>subject->производственная эффективность</li>
+  <li>subject_gen->производственной эффективности</li>
+  <li>subject_dat->производственной эффективности</li>
+  <li>subject_pre_about->о производственной эффективности</li>
+  <li>subject_story->{ANYPAWN_gender ? разработал : разработала} первые интегрированные производственные линии</li>
+  <li>subject_story->{ANYPAWN_gender ? преобразовал : преобразовала} небольшую мастерскую в основу промышленной революции</li>
+  <li>subject_story->{ANYPAWN_gender ? разглядел : разглядела} гармонию слаженно работающих машин в хаосе производственных цехов</li>
+  <li>subject_gerund->формирования базы для современного производства</li>
+  </VFE_BasicFactories.generalRules.rulesStrings>
+  
+  <!-- EN: complex factories -->
+  <VFE_ComplexFactories.label>продвинутые заводские сооружения</VFE_ComplexFactories.label>
+  <!-- EN: Construct complex, specific factories capable of manufacturing components, creating plasteel alloy and much more. -->
+  <VFE_ComplexFactories.description>Постройка сложных специализированных заводских сооружений, способных производить компоненты, изготавливать пласталь и многое другое.</VFE_ComplexFactories.description>
+  <!-- EN: 
+  <li>subject->automated fabrication</li>
+  <li>subject_story->unveiled the potential of autonomous machines in electronics production</li>
+  <li>subject_story->bridged the gap between raw materials and advanced technology</li>
+  <li>subject_story->revolutionized the production of high-tech components and alloys, making them accessible to all</li>
+  <li>subject_gerund->streamlining the creation of electronics and alloys</li>
+   -->
+  <VFE_ComplexFactories.generalRules.rulesStrings>
+  <li>subject->автоматизированное производство</li>
+  <li>subject_gen->автоматизированного производства</li>
+  <li>subject_dat->автоматизированному производству</li>
+  <li>subject_pre_about->про автоматизированное производство</li>
+  <li>subject_story->{ANYPAWN_gender ? раскрыл : раскрыла} потенциал автономных машин в производстве электроники</li>
+  <li>subject_story->{ANYPAWN_gender ? модернизировал : модернизировала} весь производственный цикл — от добычи материалов до создания продвинутых изделий</li>
+  <li>subject_story->радикально {ANYPAWN_gender ? упростил : упростила} производство высокотехнологичных компонентов и сплавов, сделав их доступными всем</li>
+  <li>subject_gerund->упрощения производства электроники и сплавов</li>
+  </VFE_ComplexFactories.generalRules.rulesStrings>
+
+</LanguageData>

@@ -7,7 +7,7 @@
     <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
-  <modVersion>16.01</modVersion>
+  <modVersion>16.02</modVersion>
   <packageId>OW.RU.Furniture</packageId>
   <description>Перевод на русский язык мода Vanilla Furniture Expanded и всех модулей. Подробности ищите на странице в мастерской.</description>
   <loadAfter>
@@ -21,6 +21,7 @@
     <li>VanillaExpanded.VFEPropsandDecor</li>
     <li>VanillaExpanded.VFESecurity</li>
     <li>VanillaExpanded.VFESpacer</li>
+	<li>VanillaExpanded.VFEFactory</li>
   </loadAfter>
   <incompatibleWith>
     <li>ru.vanilla.furniture.expanded.farming</li>
@@ -35,5 +36,6 @@
     <li>Micharduio.VanillaExpanded.VFEArchitect</li>
     <li>Micharduio.VanillaExpanded.VFEFarming</li>
     <li>obviouslymilk.VFERus</li>
+	<li>rimtranslate.VanillaExpanded.VFEFactory</li>
   </incompatibleWith>
 </ModMetaData>

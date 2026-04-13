@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: conveyor -->
+  <VFEFactory_Conveyor.label>конвейер</VFEFactory_Conveyor.label>
+  <!-- EN: A simple conveyor belt capable of moving an item from one place to the other. Due to safety reasons, items on the conveyor belt cannot be interacted with. -->
+  <VFEFactory_Conveyor.description>Простой ленточный конвейер, перемещающий предметы из одной точки в другую. В целях безопасности взаимодействие с предметами на ленте невозможно.</VFEFactory_Conveyor.description>
+  
+  <!-- EN: underground conveyor entrance -->
+  <VFEFactory_UndergroundConveyorEntrance.label>вход подземного конвейера</VFEFactory_UndergroundConveyorEntrance.label>
+  <!-- EN: A simple entrance tunnel for the conveyor belt, allowing it to travel a short distance underground. Needs to be linked to a nearby underground conveyor exit to work. -->
+  <VFEFactory_UndergroundConveyorEntrance.description>Входной узел подземной линии конвейера, проходящей под землёй. Должен быть соединён с выходом подземного конвейера.</VFEFactory_UndergroundConveyorEntrance.description>
+  
+  <!-- EN: underground conveyor exit -->
+  <VFEFactory_UndergroundConveyorExit.label>выход подземного конвейера</VFEFactory_UndergroundConveyorExit.label>
+  <!-- EN: A simple exit tunnel for the conveyor belt, allowing it to travel a short distance underground. Needs to be linked to a nearby underground conveyor entrance to work. -->
+  <VFEFactory_UndergroundConveyorExit.description>Выходной узел подземной линии конвейера, проходящей под землёй. Должен быть соединён со входом подземного конвейера.</VFEFactory_UndergroundConveyorExit.description>
+
+</LanguageData>

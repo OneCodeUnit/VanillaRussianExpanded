@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Make kibble -->
+  <VFEFactory_MakeKibble.label>Приготовить комбикорм</VFEFactory_MakeKibble.label>
+  <!-- EN: Make kibble -->
+  <VFEFactory_MakeKibble.labelOverride>Приготовить комбикорм</VFEFactory_MakeKibble.labelOverride>
+  <!-- EN: Make animal kibble by combining raw meat and plants. 24 kibble will be produced per every nutrition consumed, so 15 vegetable and 15 meat will output 36 kibble. -->
+  <VFEFactory_MakeKibble.description>Приготовить комбикорм для животных из сырого мяса и растений. Каждая ед. питательности даёт 24 ед. комбикорма. Например, из 15 ед. овощей и 15 ед. мяса получится 36 ед. комбикорма.</VFEFactory_MakeKibble.description>
+  
+  <!-- EN: Make pemmican -->
+  <VFEFactory_MakePemmican.label>Приготовить пеммикан</VFEFactory_MakePemmican.label>
+  <!-- EN: Make pemmican -->
+  <VFEFactory_MakePemmican.labelOverride>Приготовить пеммикан</VFEFactory_MakePemmican.labelOverride>
+  <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. 32 pemmican will be produced per every nutrition consumed, so 5 vegetable and 5 meat will output 16 pemmican. -->
+  <VFEFactory_MakePemmican.description>Приготовить пеммикан из высушенного мяса, жира и ингредиентов растительного происхождения. Вкусовые качества у такой пищи сомнительные, зато она может храниться целый год, даже находясь в тепле. Каждая ед. питательности даёт 32 ед. пеммикана. Например, из 5 ед. овощей и 5 ед. мяса получится 16 ед. пеммикана.</VFEFactory_MakePemmican.description>
+  
+  <!-- EN: Make survival meal -->
+  <VFEFactory_MakeSurvivalMeal.label>Приготовить сухпаёк</VFEFactory_MakeSurvivalMeal.label>
+  <!-- EN: Make survival meal -->
+  <VFEFactory_MakeSurvivalMeal.labelOverride>Приготовить сухпаёк</VFEFactory_MakeSurvivalMeal.labelOverride>
+  <!-- EN: Prepare packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. A total of 2.4 nutrition will make 4 survival meals. -->
+  <VFEFactory_MakeSurvivalMeal.description>Приготовить запечатанный сухой паёк из ингредиентов растительного и животного происхождения. В процессе консервации часть ингредиентов уйдёт впустую. 2.4 ед. питательности дадут 4 порции сухпайка.</VFEFactory_MakeSurvivalMeal.description>
+  
+  <!-- EN: Make mass-produced meals -->
+  <VFEFactory_MakeMassProducedMeal.label>Приготовить фабричное блюдо</VFEFactory_MakeMassProducedMeal.label>
+  <!-- EN: Make mass-produced meals -->
+  <VFEFactory_MakeMassProducedMeal.labelOverride>Приготовить фабричное блюдо</VFEFactory_MakeMassProducedMeal.labelOverride>
+  <!-- EN: Cook straightforward, mass-produced meals from a combination of meat and plant ingredients. A total of 2 nutrition will make 4 mass-produced meals. -->
+  <VFEFactory_MakeMassProducedMeal.description>Приготовить фабричное блюдо массового производства из мясных и растительных ингредиентов. 2 ед. питательности дадут 4 фабричных блюда.</VFEFactory_MakeMassProducedMeal.description>
+
+</LanguageData>
