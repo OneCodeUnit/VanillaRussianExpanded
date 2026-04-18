@@ -7,6 +7,14 @@
   <VFEFactory_MakeKibble.labelOverride>Приготовить комбикорм</VFEFactory_MakeKibble.labelOverride>
   <!-- EN: Make animal kibble by combining raw meat and plants. 24 kibble will be produced per every nutrition consumed, so 15 vegetable and 15 meat will output 36 kibble. -->
   <VFEFactory_MakeKibble.description>Приготовить комбикорм для животных из сырого мяса и растений. Каждая ед. питательности даёт 24 ед. комбикорма. Например, из 15 ед. овощей и 15 ед. мяса получится 36 ед. комбикорма.</VFEFactory_MakeKibble.description>
+
+  <!-- EN: Make kibble from hay -->
+  <VFEFactory_MakeKibbleFromHay.label>Приготовить комбикорм из сена</VFEFactory_MakeKibbleFromHay.label>
+  <!-- EN: Make kibble from hay -->
+  <VFEFactory_MakeKibbleFromHay.labelOverride>Приготовить комбикорм из сена</VFEFactory_MakeKibbleFromHay.labelOverride>
+  <!-- EN: Make animal kibble by combining raw meat and hay. Will always output 36 kibble. -->
+  <VFEFactory_MakeKibbleFromHay.description>Приготовить комбикорм для животных из сырого мяса и сена. На выходе получится 36 ед. комбикорма.</VFEFactory_MakeKibbleFromHay.description>
+
   
   <!-- EN: Make pemmican -->
   <VFEFactory_MakePemmican.label>Приготовить пеммикан</VFEFactory_MakePemmican.label>
