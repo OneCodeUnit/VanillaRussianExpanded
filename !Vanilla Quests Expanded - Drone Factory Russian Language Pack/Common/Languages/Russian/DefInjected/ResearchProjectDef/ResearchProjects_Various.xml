@@ -1,15 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: dronetech -->
   <VQE_Dronetech.label>dronetech</VQE_Dronetech.label>
+  <!-- EN: Unlocks the ability to construct specialized work drones and the necessary infrastructure to keep them operational. -->
   <VQE_Dronetech.description>Unlocks the ability to construct specialized work drones and the necessary infrastructure to keep them operational.</VQE_Dronetech.description>
+  <!-- EN: 
+    subject->autonomous drone networks
+    subject_story->pioneered the first fully synchronized drones
+    subject_story->transformed scattered machines into a unified automated grid
+    subject_story->saw beyond isolated units to the elegance of coordinated autonomy
+    subject_gerund->orchestrating fleets into seamless operational harmony
+   -->
   <VQE_Dronetech.generalRules.rulesStrings>
-    <li>subject->autonomous drone networks</li>
-    <li>subject_story->pioneered the first fully synchronized drones</li>
-    <li>subject_story->transformed scattered machines into a unified automated grid</li>
-    <li>subject_story->saw beyond isolated units to the elegance of coordinated autonomy</li>
-    <li>subject_gerund->orchestrating fleets into seamless operational harmony</li>
+    <li>subject-&gt;autonomous drone networks</li>
+    <li>subject_story-&gt;pioneered the first fully synchronized drones</li>
+    <li>subject_story-&gt;transformed scattered machines into a unified automated grid</li>
+    <li>subject_story-&gt;saw beyond isolated units to the elegance of coordinated autonomy</li>
+    <li>subject_gerund-&gt;orchestrating fleets into seamless operational harmony</li>
   </VQE_Dronetech.generalRules.rulesStrings>
+
 
 
 </LanguageData>
