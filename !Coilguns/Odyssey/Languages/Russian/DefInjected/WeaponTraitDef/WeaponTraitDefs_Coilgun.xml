@@ -3,29 +3,48 @@
 
   <!-- Gauss -->
 
+  <!-- EN: inertial core -->
   <VWE_InertialCore.label>inertial core</VWE_InertialCore.label>
+  <!-- EN: This weapon maintains absolute kinetic energy during overcharge, ensuring each consecutively pierced target takes the exact same amount of damage without falloff. -->
   <VWE_InertialCore.description>This weapon maintains absolute kinetic energy during overcharge, ensuring each consecutively pierced target takes the exact same amount of damage without falloff.</VWE_InertialCore.description>
 
+  <!-- EN: bypass relay -->
   <VWE_BypassRelay.label>bypass relay</VWE_BypassRelay.label>
+  <!-- EN: This weapon features an optimized charging sequence that halves the aiming time normally required to fire in high-power mode. -->
   <VWE_BypassRelay.description>This weapon features an optimized charging sequence that halves the aiming time normally required to fire in high-power mode.</VWE_BypassRelay.description>
 
+  <!-- EN: overdrawn coils -->
   <VWE_OverdrawnCoils.label>overdrawn coils</VWE_OverdrawnCoils.label>
+  <!-- EN: This weapon draws excessive power from its reserves during high-power mode, taking slightly longer to charge but delivering vastly increased damage. -->
   <VWE_OverdrawnCoils.description>This weapon draws excessive power from its reserves during high-power mode, taking slightly longer to charge but delivering vastly increased damage.</VWE_OverdrawnCoils.description>
 
+  <!-- EN: ionized sabot -->
   <VWE_IonizedSabot.label>ionized sabot</VWE_IonizedSabot.label>
+  <!-- EN: This weapon magnetizes its projectiles with volatile energy, increasing damage across all firing modes. -->
   <VWE_IonizedSabot.description>This weapon magnetizes its projectiles with volatile energy, increasing damage across all firing modes.</VWE_IonizedSabot.description>
+  <!-- EN: low power shot -->
   <VWE_IonizedSabot.modExtensions.0.verbsOverride.0.label>low power shot</VWE_IonizedSabot.modExtensions.0.verbsOverride.0.label>
+  <!-- EN: high power shot -->
   <VWE_IonizedSabot.modExtensions.0.verbsOverride.1.label>high power shot</VWE_IonizedSabot.modExtensions.0.verbsOverride.1.label>
+  <!-- EN: low power shot -->
   <VWE_IonizedSabot.modExtensions.0.verbsOverrides.0.value.0.label>low power shot</VWE_IonizedSabot.modExtensions.0.verbsOverrides.0.value.0.label>
+  <!-- EN: high power shot -->
   <VWE_IonizedSabot.modExtensions.0.verbsOverrides.0.value.1.label>high power shot</VWE_IonizedSabot.modExtensions.0.verbsOverrides.0.value.1.label>
+  <!-- EN: low power shot -->
   <VWE_IonizedSabot.modExtensions.0.verbsOverrides.1.value.0.label>low power shot</VWE_IonizedSabot.modExtensions.0.verbsOverrides.1.value.0.label>
+  <!-- EN: high power shot -->
   <VWE_IonizedSabot.modExtensions.0.verbsOverrides.1.value.1.label>high power shot</VWE_IonizedSabot.modExtensions.0.verbsOverrides.1.value.1.label>
 
+  <!-- EN: hypercapacitors -->
   <VWE_Hypercapacitors.label>hypercapacitors</VWE_Hypercapacitors.label>
+  <!-- EN: This weapon is fitted with advanced energy banks that double the possible burst count for all shots, though the resulting rapid-fire sequence no longer guarantees armor penetration. -->
   <VWE_Hypercapacitors.description>This weapon is fitted with advanced energy banks that double the possible burst count for all shots, though the resulting rapid-fire sequence no longer guarantees armor penetration.</VWE_Hypercapacitors.description>
 
+  <!-- EN: inverted rail tuning -->
   <VWE_InvertedRailTuning.label>inverted rail tuning</VWE_InvertedRailTuning.label>
+  <!-- EN: This weapon is radically tuned to deliver devastating low-power shots at close range while reserving its high-power mode for sweeping but less lethal long-range engagements. -->
   <VWE_InvertedRailTuning.description>This weapon is radically tuned to deliver devastating low-power shots at close range while reserving its high-power mode for sweeping but less lethal long-range engagements.</VWE_InvertedRailTuning.description>
+
 
 
 </LanguageData>

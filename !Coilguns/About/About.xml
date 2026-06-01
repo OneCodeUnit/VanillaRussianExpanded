@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Vanilla Weapons Expanded - Coilguns</name>
-	<author>Oskar Potocki, AveryTheKitty, Taranchuk</author>
-	<supportedVersions>
-		<li>1.4</li>
-		<li>1.5</li>
-		<li>1.6</li>
-	</supportedVersions>
-	<packageId>VanillaExpanded.VWEC</packageId>
-	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
-	<description>Vanilla Weapons Expanded - Coilguns is an addition to one of the most popular mods of Vanilla Expanded collection - Vanilla Weapons Expanded, however it can be played without it. This mod adds a selection of spacer-tech weapons, fully craftable upon researching mass drivers technology. Coilguns come with a unique gimmick - whilst their firing speed and aiming time are quite unforgiving, projectiles fires from these weapons pierce any target they hit - flesh or metal, as well as any obstacles. Each obstacle reduces damage dealt to the next unlucky object/creature, but effectively these weapons allow your colonists to score multi-kills with a single shot.
+  <name>Vanilla Weapons Expanded - Coilguns</name>
+  <author>Oskar Potocki, AveryTheKitty, Taranchuk</author>
+  <supportedVersions>
+  <li>1.4</li>
+  <li>1.5</li>
+  <li>1.6</li>
+  </supportedVersions>
+  <packageId>VanillaExpanded.VWEC</packageId>
+  <modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+  <description>Vanilla Weapons Expanded - Coilguns is an addition to one of the most popular mods of Vanilla Expanded collection - Vanilla Weapons Expanded, however it can be played without it. This mod adds a selection of spacer-tech weapons, fully craftable upon researching mass drivers technology. Coilguns come with a unique gimmick - whilst their firing speed and aiming time are quite unforgiving, projectiles fires from these weapons pierce any target they hit - flesh or metal, as well as any obstacles. Each obstacle reduces damage dealt to the next unlucky object/creature, but effectively these weapons allow your colonists to score multi-kills with a single shot.
 
 Shots fired by these weapons cannot penetrate mountains or reinforced walls from Vanilla Furniture Expanded - Spacer.
 
 Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.</description>
-	<modDependencies>
-		<li>
-			<packageId>brrainz.harmony</packageId>
-			<displayName>Harmony</displayName>
-			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
-			<displayName>Vanilla Expanded Framework</displayName>
-			<downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-		
-		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
-	</loadAfter>
+  <modDependencies>
+  <li>
+  <packageId>brrainz.harmony</packageId>
+  <displayName>Harmony</displayName>
+  <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+  <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+  </li>
+  <li>
+  <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+  <displayName>Vanilla Expanded Framework</displayName>
+  <downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
+  <steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
+  </li>
+  </modDependencies>
+  <loadAfter>
+  
+  <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+  </loadAfter>
 </ModMetaData>
