@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: gauss rifle -->
+  <VWE_Gun_GaussRifle.label>Гаусс-автомат</VWE_Gun_GaussRifle.label>
+  <!-- EN: A powerful mass driver rifle utilizing magnetic acceleration to launch ferromagnetic sabots. The incredible velocity and specialized ammunition allow it to completely negate most forms of conventional armor. -->
+  <VWE_Gun_GaussRifle.description>Мощная винтовка с ускорителем массы, использующая электромагнитное ускорение для запуска ферромагнитных болванок. Невероятная скорость и специализированные боеприпасы позволяют ей практически полностью игнорировать большинство видов обычной брони.</VWE_Gun_GaussRifle.description>
+  <!-- EN: stock -->
+  <VWE_Gun_GaussRifle.tools.0.label>приклад</VWE_Gun_GaussRifle.tools.0.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_GaussRifle.tools.1.label>ствол</VWE_Gun_GaussRifle.tools.1.label>
+  <!-- EN: low power shot -->
+  <VWE_Gun_GaussRifle.verbs.0.label>выстрел малой мощности</VWE_Gun_GaussRifle.verbs.0.label>
+  <!-- EN: high power shot -->
+  <VWE_Gun_GaussRifle.verbs.1.label>выстрел высокой мощности</VWE_Gun_GaussRifle.verbs.1.label>
+  <!-- EN: High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit. -->
+  <VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoDescription>Режим высокой мощности повышает пробивную способность выстрелов, позволяя им проходить через несколько целей, но увеличивает время подготовки оружия. Урон снижается с каждой поражённой целью.</VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoDescription>
+  <!-- EN: High-power mode -->
+  <VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoLabel>режим высокой мощности</VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoLabel>
+
+  <!-- EN: gauss rifle sabot -->
+  <VWE_Bullet_GaussRifle_LowPower.label>болванка Гаусс-автомата</VWE_Bullet_GaussRifle_LowPower.label>
+  <!-- EN: gauss rifle sabot -->
+  <VWE_Bullet_GaussRifle.label>болванка Гаусс-автомата</VWE_Bullet_GaussRifle.label>
+  <!-- EN: gauss rifle sabot -->
+  <VWE_Bullet_GaussRifle_LowPower_Ionized.label>болванка Гаусс-автомата</VWE_Bullet_GaussRifle_LowPower_Ionized.label>
+  <!-- EN: gauss rifle sabot -->
+  <VWE_Bullet_GaussRifle_Ionized.label>болванка Гаусс-автомата</VWE_Bullet_GaussRifle_Ionized.label>
+
+  <!-- EN: gauss revolver -->
+  <VWE_Gun_GaussMagnum.label>Гаусс-магнум</VWE_Gun_GaussMagnum.label>
+  <!-- EN: A powerful mass driver pistol utilizing magnetic acceleration to launch ferromagnetic sabots. The incredible velocity and specialized ammunition allow it to completely negate most forms of conventional armor. -->
+  <VWE_Gun_GaussMagnum.description>Мощный пистолет с ускорителем массы, использующий электромагнитное ускорение для запуска ферромагнитных болванок. Невероятная скорость и специализированные боеприпасы позволяют ему практически полностью игнорировать большинство видов обычной брони.</VWE_Gun_GaussMagnum.description>
+  <!-- EN: grip -->
+  <VWE_Gun_GaussMagnum.tools.0.label>рукоять</VWE_Gun_GaussMagnum.tools.0.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_GaussMagnum.tools.1.label>ствол</VWE_Gun_GaussMagnum.tools.1.label>
+  <!-- EN: low power shot -->
+  <VWE_Gun_GaussMagnum.verbs.0.label>выстрел малой мощности</VWE_Gun_GaussMagnum.verbs.0.label>
+  <!-- EN: high power shot -->
+  <VWE_Gun_GaussMagnum.verbs.1.label>выстрел высокой мощности</VWE_Gun_GaussMagnum.verbs.1.label>
+  <!-- EN: High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit. -->
+  <VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoDescription>Режим высокой мощности повышает пробивную способность выстрелов, позволяя им проходить через несколько целей, но увеличивает время подготовки оружия. Урон снижается с каждой поражённой целью.</VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoDescription>
+  <!-- EN: High-power mode -->
+  <VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoLabel>режим высокой мощности</VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoLabel>
+
+  <!-- EN: gauss revolver sabot -->
+  <VWE_Bullet_GaussMagnum_LowPower.label>болванка Гаусс-магнума</VWE_Bullet_GaussMagnum_LowPower.label>
+  <!-- EN: gauss revolver sabot -->
+  <VWE_Bullet_GaussMagnum.label>болванка Гаусс-магнума</VWE_Bullet_GaussMagnum.label>
+  <!-- EN: gauss revolver sabot -->
+  <VWE_Bullet_GaussMagnum_LowPower_Ionized.label>болванка Гаусс-магнума</VWE_Bullet_GaussMagnum_LowPower_Ionized.label>
+  <!-- EN: gauss revolver sabot -->
+  <VWE_Bullet_GaussMagnum_Ionized.label>болванка Гаусс-магнума</VWE_Bullet_GaussMagnum_Ionized.label>
+
+
+  <!-- EN: gauss lance -->
+  <VWE_Gun_GaussLance.label>Гаусс-копьё</VWE_Gun_GaussLance.label>
+  <!-- EN: A powerful, long range mass driver lance utilizing magnetic acceleration to launch ferromagnetic sabots. The incredible velocity and specialized ammunition allow it to completely negate most forms of conventional armor. -->
+  <VWE_Gun_GaussLance.description>Мощное дальнобойное Гаусс-копьё с ускорителем массы, использующее электромагнитное ускорение для запуска ферромагнитных болванок. Невероятная скорость и специализированные боеприпасы позволяют ему практически полностью игнорировать большинство видов обычной брони.</VWE_Gun_GaussLance.description>
+  <!-- EN: barrel -->
+  <VWE_Gun_GaussLance.tools.0.label>ствол</VWE_Gun_GaussLance.tools.0.label>
+  <!-- EN: low power shot -->
+  <VWE_Gun_GaussLance.verbs.0.label>выстрел малой мощности</VWE_Gun_GaussLance.verbs.0.label>
+  <!-- EN: high power shot -->
+  <VWE_Gun_GaussLance.verbs.1.label>выстрел высокой мощности</VWE_Gun_GaussLance.verbs.1.label>
+  <!-- EN: High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit. -->
+  <VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoDescription>Режим высокой мощности повышает пробивную способность выстрелов, позволяя им проходить через несколько целей, но увеличивает время подготовки оружия. Урон снижается с каждой поражённой целью.</VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoDescription>
+  <!-- EN: High-power mode -->
+  <VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoLabel>режим высокой мощности</VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoLabel>
+
+  <!-- EN: gauss lance sabot -->
+  <VWE_Bullet_GaussLance_LowPower.label>болванка Гаусс-копья</VWE_Bullet_GaussLance_LowPower.label>
+  <!-- EN: gauss lance sabot -->
+  <VWE_Bullet_GaussLance.label>болванка Гаусс-копья</VWE_Bullet_GaussLance.label>
+  <!-- EN: gauss lance sabot -->
+  <VWE_Bullet_GaussLance_LowPower_Ionized.label>болванка Гаусс-копья</VWE_Bullet_GaussLance_LowPower_Ionized.label>
+  <!-- EN: gauss lance sabot -->
+  <VWE_Bullet_GaussLance_Ionized.label>болванка Гаусс-копья</VWE_Bullet_GaussLance_Ionized.label>
+</LanguageData>

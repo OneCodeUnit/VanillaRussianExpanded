@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: inertial core -->
+  <VWE_InertialCore.label>инерционное ядро</VWE_InertialCore.label>
+  <!-- EN: This weapon maintains absolute kinetic energy during overcharge, ensuring each consecutively pierced target takes the exact same amount of damage without falloff. -->
+  <VWE_InertialCore.description>Это оружие сохраняет абсолютную кинетическую энергию при форсированном заряде, поэтому каждая последовательно прошитая цель получает полный урон без снижения.</VWE_InertialCore.description>
+  <!-- EN: piercing -->
+  <VWE_InertialCore.traitAdjectives.0>пробивной</VWE_InertialCore.traitAdjectives.0>
+  <!-- EN: unstoppable -->
+  <VWE_InertialCore.traitAdjectives.1>неудержимый</VWE_InertialCore.traitAdjectives.1>
+  <!-- EN: inertial -->
+  <VWE_InertialCore.traitAdjectives.2>инерционный</VWE_InertialCore.traitAdjectives.2>
+  <!-- EN: penetrating -->
+  <VWE_InertialCore.traitAdjectives.3>проникающий</VWE_InertialCore.traitAdjectives.3>
+  <!-- EN: constant -->
+  <VWE_InertialCore.traitAdjectives.4>постоянный</VWE_InertialCore.traitAdjectives.4>
+
+  <!-- EN: bypass relay -->
+  <VWE_BypassRelay.label>обходное реле</VWE_BypassRelay.label>
+  <!-- EN: This weapon features an optimized charging sequence that halves the aiming time normally required to fire in high-power mode. -->
+  <VWE_BypassRelay.description>Оружие использует оптимизированный этап зарядки, который вдвое сокращает время прицеливания, требуемое для выстрела высокой мощности.</VWE_BypassRelay.description>
+  <!-- EN: high power shot -->
+  <VWE_BypassRelay.modExtensions.0.conditionalStatAffecters.0.applicableVerbLabels.0>выстрел высокой мощности</VWE_BypassRelay.modExtensions.0.conditionalStatAffecters.0.applicableVerbLabels.0>
+  <!-- EN: high power mode -->
+  <VWE_BypassRelay.modExtensions.0.conditionalStatAffecters.0.explanationLabel>режим высокой мощности</VWE_BypassRelay.modExtensions.0.conditionalStatAffecters.0.explanationLabel>
+  <!-- EN: quick-charge -->
+  <VWE_BypassRelay.traitAdjectives.0>быстрозарядный</VWE_BypassRelay.traitAdjectives.0>
+  <!-- EN: swift -->
+  <VWE_BypassRelay.traitAdjectives.1>стремительный</VWE_BypassRelay.traitAdjectives.1>
+  <!-- EN: bypass -->
+  <VWE_BypassRelay.traitAdjectives.2>обходной</VWE_BypassRelay.traitAdjectives.2>
+  <!-- EN: optimized -->
+  <VWE_BypassRelay.traitAdjectives.3>оптимизированный</VWE_BypassRelay.traitAdjectives.3>
+  <!-- EN: snap-shot -->
+  <VWE_BypassRelay.traitAdjectives.4>мгновенный</VWE_BypassRelay.traitAdjectives.4>
+
+  <!-- EN: overdrawn coils -->
+  <VWE_OverdrawnCoils.label>перегруженные катушки</VWE_OverdrawnCoils.label>
+  <!-- EN: This weapon draws excessive power from its reserves during high-power mode, taking slightly longer to charge but delivering vastly increased damage. -->
+  <VWE_OverdrawnCoils.description>В режиме высокой мощности это оружие использует избыточную энергию из резервов, из-за чего зарядка занимает больше времени, но урон возрастает многократно.</VWE_OverdrawnCoils.description>
+  <!-- EN: high power shot -->
+  <VWE_OverdrawnCoils.modExtensions.0.conditionalStatAffecters.0.applicableVerbLabels.0>выстрел высокой мощности</VWE_OverdrawnCoils.modExtensions.0.conditionalStatAffecters.0.applicableVerbLabels.0>
+  <!-- EN: high power mode -->
+  <VWE_OverdrawnCoils.modExtensions.0.conditionalStatAffecters.0.explanationLabel>режим высокой мощности</VWE_OverdrawnCoils.modExtensions.0.conditionalStatAffecters.0.explanationLabel>
+  <!-- EN: overdrawn -->
+  <VWE_OverdrawnCoils.traitAdjectives.0>перегруженный</VWE_OverdrawnCoils.traitAdjectives.0>
+  <!-- EN: heavy-charge -->
+  <VWE_OverdrawnCoils.traitAdjectives.1>тяжёлозарядный</VWE_OverdrawnCoils.traitAdjectives.1>
+  <!-- EN: devastating -->
+  <VWE_OverdrawnCoils.traitAdjectives.2>разрушительный</VWE_OverdrawnCoils.traitAdjectives.2>
+  <!-- EN: slow-burn -->
+  <VWE_OverdrawnCoils.traitAdjectives.3>медленный</VWE_OverdrawnCoils.traitAdjectives.3>
+  <!-- EN: amplified -->
+  <VWE_OverdrawnCoils.traitAdjectives.4>усиленный</VWE_OverdrawnCoils.traitAdjectives.4>
+
+  <!-- EN: ionized sabot -->
+  <VWE_IonizedSabot.label>ионизированная болванка</VWE_IonizedSabot.label>
+  <!-- EN: This weapon magnetizes its projectiles with volatile energy, increasing damage across all firing modes. -->
+  <VWE_IonizedSabot.description>Оружие намагничивает свои снаряды нестабильной энергией, что повышает урон во всех режимах стрельбы.</VWE_IonizedSabot.description>
+  <!-- EN: low power shot -->
+  <VWE_IonizedSabot.modExtensions.0.verbsOverride.0.label>выстрел малой мощности</VWE_IonizedSabot.modExtensions.0.verbsOverride.0.label>
+  <!-- EN: high power shot -->
+  <VWE_IonizedSabot.modExtensions.0.verbsOverride.1.label>выстрел высокой мощности</VWE_IonizedSabot.modExtensions.0.verbsOverride.1.label>
+  <!-- EN: ionized -->
+  <VWE_IonizedSabot.traitAdjectives.0>ионизированный</VWE_IonizedSabot.traitAdjectives.0>
+  <!-- EN: azure -->
+  <VWE_IonizedSabot.traitAdjectives.1>лазурный</VWE_IonizedSabot.traitAdjectives.1>
+  <!-- EN: plasma -->
+  <VWE_IonizedSabot.traitAdjectives.2>плазменный</VWE_IonizedSabot.traitAdjectives.2>
+  <!-- EN: glowing -->
+  <VWE_IonizedSabot.traitAdjectives.3>светящийся</VWE_IonizedSabot.traitAdjectives.3>
+  <!-- EN: charged -->
+  <VWE_IonizedSabot.traitAdjectives.4>заряженный</VWE_IonizedSabot.traitAdjectives.4>
+
+  <!-- EN: hypercapacitors -->
+  <VWE_Hypercapacitors.label>гиперконденсаторы</VWE_Hypercapacitors.label>
+  <!-- EN: This weapon is fitted with advanced energy banks that double the possible burst count for all shots, though the resulting rapid-fire sequence no longer guarantees armor penetration. -->
+  <VWE_Hypercapacitors.description>Оружие оснащено продвинутыми накопителями энергии, удваивающими возможное количество выстрелов в залпе для всех режимов, но такая скоростная очередь больше не гарантирует пробитие любой брони.</VWE_Hypercapacitors.description>
+  <!-- EN: hyper-burst -->
+  <VWE_Hypercapacitors.traitAdjectives.0>гиперзалп</VWE_Hypercapacitors.traitAdjectives.0>
+  <!-- EN: rapid-discharge -->
+  <VWE_Hypercapacitors.traitAdjectives.1>быстрый разряд</VWE_Hypercapacitors.traitAdjectives.1>
+  <!-- EN: showering -->
+  <VWE_Hypercapacitors.traitAdjectives.2>залповый</VWE_Hypercapacitors.traitAdjectives.2>
+  <!-- EN: capacitor -->
+  <VWE_Hypercapacitors.traitAdjectives.3>конденсаторный</VWE_Hypercapacitors.traitAdjectives.3>
+  <!-- EN: twin-linked -->
+  <VWE_Hypercapacitors.traitAdjectives.4>спаренный</VWE_Hypercapacitors.traitAdjectives.4>
+
+  <!-- EN: inverted rail tuning -->
+  <VWE_InvertedRailTuning.label>инверсная настройка рельс</VWE_InvertedRailTuning.label>
+  <!-- EN: This weapon is radically tuned to deliver devastating low-power shots at close range while reserving its high-power mode for sweeping but less lethal long-range engagements. -->
+  <VWE_InvertedRailTuning.description>Оружие радикально перенастроено: выстрелы малой мощности наносят сокрушительный урон на ближней дистанции, тогда как режим высокой мощности предназначен для быстрого, но менее смертоносного поражения дальних целей.</VWE_InvertedRailTuning.description>
+  <!-- EN: low power shot -->
+  <VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.0.applicableVerbLabels.0>выстрел малой мощности</VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.0.applicableVerbLabels.0>
+  <!-- EN: low power mode -->
+  <VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.0.explanationLabel>режим малой мощности</VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.0.explanationLabel>
+  <!-- EN: high power shot -->
+  <VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.1.applicableVerbLabels.0>выстрел высокой мощности</VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.1.applicableVerbLabels.0>
+  <!-- EN: high power mode -->
+  <VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.1.explanationLabel>режим высокой мощности</VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.1.explanationLabel>
+  <!-- EN: inverted -->
+  <VWE_InvertedRailTuning.traitAdjectives.0>инверсный</VWE_InvertedRailTuning.traitAdjectives.0>
+  <!-- EN: bipolar -->
+  <VWE_InvertedRailTuning.traitAdjectives.1>биполярный</VWE_InvertedRailTuning.traitAdjectives.1>
+  <!-- EN: tuned -->
+  <VWE_InvertedRailTuning.traitAdjectives.2>настроенный</VWE_InvertedRailTuning.traitAdjectives.2>
+  <!-- EN: split-range -->
+  <VWE_InvertedRailTuning.traitAdjectives.3>двухдистанционный</VWE_InvertedRailTuning.traitAdjectives.3>
+  <!-- EN: erratic -->
+  <VWE_InvertedRailTuning.traitAdjectives.4>нестабильный</VWE_InvertedRailTuning.traitAdjectives.4>
+</LanguageData>
