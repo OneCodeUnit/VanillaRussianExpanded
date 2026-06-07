@@ -29,6 +29,11 @@
   <!-- EN: {0} c -->
   <VEF_EnergyShieldRadiusApparel.formatString>{0} с</VEF_EnergyShieldRadiusApparel.formatString>
 
+  <!-- EN: piercing damage modifier -->
+  <VEF_GaussProjectileDamageModifier.label>множ. проникающего урона</VEF_GaussProjectileDamageModifier.label>
+  <!-- EN: How much the damage dealt is modified (as a percentage of the base damage) for each previously hit target. -->
+  <VEF_GaussProjectileDamageModifier.description>Как много урона наносится каждой последующей поражённой цели (в процентах от базового урона).</VEF_GaussProjectileDamageModifier.description>
+
   <!-- EN: melee attack damage factor -->
   <VEF_MeleeAttackDamageFactor.label>множ. урона в ближнем</VEF_MeleeAttackDamageFactor.label>
   <!-- EN: A multiplier on melee attack damage. -->
