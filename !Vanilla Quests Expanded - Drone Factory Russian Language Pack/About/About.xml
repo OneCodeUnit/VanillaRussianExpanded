@@ -1,37 +1,19 @@
 ﻿<ModMetaData>
-  <name>Vanilla Quests Expanded - Drone Factory</name>
-  <author>Oskar Potocki, Sarg Bjornson, Taranchuk, Ferny</author>
+  <name>Vanilla Quests Expanded - Drone Factory Russian Language Pack</name>
+  <author>OliveWizard</author>
   <supportedVersions>
-  <li>1.6</li>
+    <li>1.6</li>
   </supportedVersions>
-  <modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+  <packageId>OW.RU.DroneFactory</packageId>
+  <description>Перевод на русский язык мода Vanilla Quests Expanded - Drone Factory. Подробности ищите на странице в мастерской.</description>
   <modDependencies>
-  <li>
-  <packageId>brrainz.harmony</packageId>
-  <displayName>Harmony</displayName>
-  <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-  <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-  </li>
-  <li>
-  <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
-  <displayName>Vanilla Expanded Framework</displayName>
-  <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
-  <downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
-  </li>
+    <li>
+      <packageId>vanillaquestsexpanded.dronefactory</packageId>
+      <displayName>Vanilla Quests Expanded - Drone Factory</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3461526070</steamWorkshopUrl>
+    </li>
   </modDependencies>
   <loadAfter>
-  
-  <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    <li>vanillaquestsexpanded.dronefactory</li>
   </loadAfter>
-
-  <packageId>vanillaquestsexpanded.dronefactory</packageId>
-  <description>In the Drone Factory mod, players are thrust into a rust-choked industrial conflict as the planet’s dormant war machines mysteriously blink back to life. The escalating crisis begins with expeditions into derelict drone scrapyards - valuable but perilous dens of discarded military hardware. Here, colonists must dismantle erratic, half-functional defenders to scavenge fragmented command cores and proprietary blueprints once thought lost to time.
-
-However, the threat quickly reaches your doorstep when a rogue long-range transmitter begins broadcasting an awakening signal across the region. As relentless waves of vagrant drones besiege your settlement, your caravan must mount a strike against an abandoned robotics warehouse to silence the long range transmitter and stop the awakened drones.
-
-Tracing the origin of these rogue broadcasts leads to the campaign's grand finale: a massive, ancient factory repurposed by a powerful pirate gang. These raiders are mass-producing drones for a lucrative black market, guided by a captive genius known only as The Tinkerer. During the siege, your forces must breach the factory's heavy fortifications, battling a lethal combination of seasoned pirates and fresh, off-the-line drone defenders that are continuously manufactured during your approach.
-
-In the heart of the facility, a critical choice awaits: rescue The Tinkerer from captivity to fully unlock his ancient knowledge, or eliminate him to ensure the blueprints never fall into the wrong hands again.
-
-The emergence of the drones allows your colony to reverse-engineer the technology, giving you the ability to construct your own mechanized workforce: a tireless, automated industrial constructs and a loyal defensive force to protect your colony.</description>
 </ModMetaData>

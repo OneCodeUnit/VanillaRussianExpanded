@@ -1,15 +1,6 @@
 ﻿<loadFolders>
-
-  
-  
-  
   <v1.6>
-  <li>/</li>
-  <li>1.6</li>
-  <li IfModActive="VanillaExpanded.VFEFactory">1.6/Mods/VFEFactory</li>  
-  
-  
+    <li>Common</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">/VFEFactory</li>  
   </v1.6>
 </loadFolders>
-
-
