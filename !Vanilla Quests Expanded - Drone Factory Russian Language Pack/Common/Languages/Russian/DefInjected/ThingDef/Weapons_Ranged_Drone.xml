@@ -6,6 +6,8 @@
   <VQE_Gun_Stubgun.description>Компактное автоматическое оружие средней дальности, предназначенное для установки на боевого дрона.</VQE_Gun_Stubgun.description>
   <!-- EN: barrel -->
   <VQE_Gun_Stubgun.tools.0.label>ствол</VQE_Gun_Stubgun.tools.0.label>
+  <!-- EN: stubgun -->
+  <VQE_Gun_Stubgun.verbs.Verb_Shoot.label>вырубатель</VQE_Gun_Stubgun.verbs.Verb_Shoot.label>
 
   <!-- EN: stubgun bullet -->
   <VQE_Bullet_Stubgun.label>пуля вырубателя</VQE_Bullet_Stubgun.label>
@@ -16,6 +18,8 @@
   <VQE_Gun_DroneTurret.description>Усовершенствованная турель с стабилизацией военного уровня, продвинутыми алгоритмами наведения и укреплённым корпусом, предназначенная для установки на боевого дрона.</VQE_Gun_DroneTurret.description>
   <!-- EN: barrel -->
   <VQE_Gun_DroneTurret.tools.0.label>ствол</VQE_Gun_DroneTurret.tools.0.label>
+  <!-- EN: drone turret -->
+  <VQE_Gun_DroneTurret.verbs.Verb_Shoot.label>турель дрона</VQE_Gun_DroneTurret.verbs.Verb_Shoot.label>
 
   <!-- EN: drone turret bullet -->
   <VQE_Bullet_DroneTurret.label>пуля турели дрона</VQE_Bullet_DroneTurret.label>
@@ -26,6 +30,8 @@
   <VQE_Gun_Rattlegun.description>Лёгкий пулемёт, предназначенный для установки на дрона. Рассчитан на плотное подавление, но обладает низкой точностью.</VQE_Gun_Rattlegun.description>
   <!-- EN: barrel -->
   <VQE_Gun_Rattlegun.tools.0.label>ствол</VQE_Gun_Rattlegun.tools.0.label>
+  <!-- EN: rattlegun -->
+  <VQE_Gun_Rattlegun.verbs.Verb_Shoot.label>грохотун</VQE_Gun_Rattlegun.verbs.Verb_Shoot.label>
 
   <!-- EN: rattlegun bullet -->
   <VQE_Bullet_Rattlegun.label>пуля грохотуна</VQE_Bullet_Rattlegun.label>
@@ -36,6 +42,8 @@
   <VQE_Gun_Lance.description>Однозарядное снайперское оружие, основанное на древней конструкции высокоточной винтовки: выдающаяся дальность и точность ценой слабой эффективности в ближнем бою.</VQE_Gun_Lance.description>
   <!-- EN: barrel -->
   <VQE_Gun_Lance.tools.0.label>ствол</VQE_Gun_Lance.tools.0.label>
+  <!-- EN: lance -->
+  <VQE_Gun_Lance.verbs.Verb_Shoot.label>копьё</VQE_Gun_Lance.verbs.Verb_Shoot.label>
 
   <!-- EN: lance bullet -->
   <VQE_Bullet_Lance.label>снаряд копья</VQE_Bullet_Lance.label>
@@ -46,6 +54,8 @@
   <VQE_Gun_StingrayCannon.description>Однозарядное снайперское оружие, основанное на древней конструкции высокоточной винтовки: выдающаяся дальность и точность ценой слабой эффективности в ближнем бою.</VQE_Gun_StingrayCannon.description>
   <!-- EN: barrel -->
   <VQE_Gun_StingrayCannon.tools.0.label>ствол</VQE_Gun_StingrayCannon.tools.0.label>
+  <!-- EN: stingray cannon -->
+  <VQE_Gun_StingrayCannon.verbs.Verb_Shoot.label>скат-пушка</VQE_Gun_StingrayCannon.verbs.Verb_Shoot.label>
 
   <!-- EN: stingray cannon projectile -->
   <VQE_Bullet_StingrayCannon.label>снаряд скат-пушки</VQE_Bullet_StingrayCannon.label>
