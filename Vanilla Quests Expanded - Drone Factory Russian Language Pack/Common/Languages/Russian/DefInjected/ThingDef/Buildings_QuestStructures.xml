@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: salvageable drone wreck -->
+  <VQE_SalvageableDroneWreck.label>пригодные к разбору обломки дрона</VQE_SalvageableDroneWreck.label>
+  <!-- EN: A massive, battered section of a military drone with extreme combat damage. Though exposed wiring is visible, the valuable drone core remains sealed inside, likely intact and salvageable. If you could extract the drone core, you could decrypt it to unlock a new drone schematic. The drone's incendiary ammunition stash is intact but unstable, and will likely detonate after you do some damage. -->
+  <VQE_SalvageableDroneWreck.description>Огромный изуродованный фрагмент военного дрона с тяжелейшими боевыми повреждениями. Сквозь разорванную обшивку видна проводка, но ценное ядро дрона всё ещё запечатано внутри и, вероятно, уцелело. Если извлечь ядро дрона, его можно расшифровать и открыть новый проект дрона. Запас зажигательных боеприпасов тоже на месте, но нестабилен и, скорее всего, сдетонирует после получения урона.</VQE_SalvageableDroneWreck.description>
+
+  <!-- EN: drone storage terminal -->
+  <VQE_DroneStorageTerminal.label>терминал хранилища дронов</VQE_DroneStorageTerminal.label>
+  <!-- EN: A drone storage computer terminal. It can be hacked to disable nearby dormant drones permanently. -->
+  <VQE_DroneStorageTerminal.description>Компьютерный терминал хранилища дронов. Его можно взломать, чтобы навсегда отключить ближайших спящих дронов.</VQE_DroneStorageTerminal.description>
+  <!-- EN: Hack to disable nearby dormant drones permanently. -->
+  <VQE_DroneStorageTerminal.comps.CompHackable.notHackedInspectString>Взломайте, чтобы навсегда отключить ближайших спящих дронов.</VQE_DroneStorageTerminal.comps.CompHackable.notHackedInspectString>
+
+  <!-- EN: long range drone transmitter -->
+  <VQE_LongRangeDroneTransmitter.label>передатчик дронов дальнего действия</VQE_LongRangeDroneTransmitter.label>
+  <!-- EN: A bulky, multi-band antenna array designed to broadcast a drone control signal over an exceptional range. The unit is currently operating, providing operational bandwidth to all nearby drones. It can be temporarily hacked to overload its internal safeguards, rendering it inert and allowing access to its valuable core. -->
+  <VQE_LongRangeDroneTransmitter.description>Громоздкая многодиапазонная антенная решётка, предназначенная для передачи управляющего сигнала дронов на крайне большую дальность. Установка сейчас активна и обеспечивает рабочий канал всем ближайшим дронам. Её можно временно взломать, перегрузив внутренние системы защиты, чтобы вывести из строя и получить доступ к ценному ядру.</VQE_LongRangeDroneTransmitter.description>
+  <!-- EN: Disabled -->
+  <VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedInspectString>Отключено</VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking the long range drone transmitter. -->
+  <VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedMessage>{HACKER_labelShort} завершает взлом передатчика дронов дальнего действия.</VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to disable the drone transmitter. -->
+  <VQE_LongRangeDroneTransmitter.comps.CompHackable.notHackedInspectString>Взломать для отключения передатчика дронов.</VQE_LongRangeDroneTransmitter.comps.CompHackable.notHackedInspectString>
+
+  <!-- EN: automated drone assembler -->
+  <VQE_AutomatedDroneAssembler.label>автоматический сборщик дронов</VQE_AutomatedDroneAssembler.label>
+  <!-- EN: A massive, heavily armored production line dedicated to the relentless, automated assembly of drones. Complex mechanical arms work in a continuous cycle, feeding components, welding seams, and running diagnostic checks. It will continue to churn out hostile drone units until destroyed. -->
+  <VQE_AutomatedDroneAssembler.description>Огромная, тяжело бронированная производственная линия, созданная для постоянной автоматической сборки дронов. Сложные механические руки непрерывно подают компоненты, сваривают узлы и проводят диагностику. Будет производить враждебных дронов до тех пор, пока не будет уничтожена.</VQE_AutomatedDroneAssembler.description>
+
+  <!-- EN: tinkerer holding platform -->
+  <VQE_TinkererHoldingPlatform.label>удерживающая Мастера платформа</VQE_TinkererHoldingPlatform.label>
+  <!-- EN: A specialized docking and recharge platform used for high-value, non-combat drone like the Tinkerer. Its durable construction is designed to secure and protect the drone. The platform can be destroyed to recover its resources, or it can be hacked to override its security protocols and release the Tinkerer, which will be reprogrammed to immediately join your colony. -->
+  <VQE_TinkererHoldingPlatform.description>Специализированная стыковочно-зарядная платформа для ценного небоевого дрона, известного как Мастер. Прочная конструкция надёжно фиксирует и защищает дрона. Платформу можно уничтожить, чтобы получить ресурсы, либо взломать, перезаписав протоколы безопасности, и освободить Мастера. После освобождения Мастер будет перепрограммирован для немедленного присоединения к вашему поселению.</VQE_TinkererHoldingPlatform.description>
+  <!-- EN: Released -->
+  <VQE_TinkererHoldingPlatform.comps.CompHackable.hackedInspectString>Освобождён</VQE_TinkererHoldingPlatform.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking and released the tinkerer. -->
+  <VQE_TinkererHoldingPlatform.comps.CompHackable.hackedMessage>{HACKER_labelShort} завершает взлом и освобождает Мастера.</VQE_TinkererHoldingPlatform.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to release the tinkerer. -->
+  <VQE_TinkererHoldingPlatform.comps.CompHackable.notHackedInspectString>Взломать для освобождения Мастера.</VQE_TinkererHoldingPlatform.comps.CompHackable.notHackedInspectString>
+</LanguageData>

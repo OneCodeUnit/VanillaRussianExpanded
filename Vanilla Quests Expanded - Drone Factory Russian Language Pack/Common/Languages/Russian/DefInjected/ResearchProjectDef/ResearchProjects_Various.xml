@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: dronetech -->
+  <VQE_Dronetech.label>дронотехника</VQE_Dronetech.label>
+  <!-- EN: Unlocks the ability to construct specialized work drones and the necessary infrastructure to keep them operational. -->
+  <VQE_Dronetech.description>Возможность строительства специализированных рабочих дронов и необходимой инфраструктуры для поддержания их работоспособности.</VQE_Dronetech.description>
+  <!-- EN: 
+    subject->autonomous drone networks
+    subject_story->pioneered the first fully synchronized drones
+    subject_story->transformed scattered machines into a unified automated grid
+    subject_story->saw beyond isolated units to the elegance of coordinated autonomy
+    subject_gerund->orchestrating fleets into seamless operational harmony
+   -->
+  <VQE_Dronetech.generalRules.rulesStrings>
+    <li>subject->автономные сети дронов</li>
+    <li>subject_gen->автономных сетей дронов</li>
+    <li>subject_dat->автономным сетям дронов</li>
+    <li>subject_pre_about->об автономных сетях дронов</li>
+    <li>subject_story->{ANYPAWN_gender ? стал : стала} первым разработчиком полностью синхронизированных дронов</li>
+    <li>subject_story->{ANYPAWN_gender ? превратил : превратила} разрозненные машины в единую автоматизированную сеть</li>
+    <li>subject_story->{ANYPAWN_gender ? разглядел : разглядела} в разобщённых единицах изящество слаженной автономности</li>
+    <li>subject_gerund->управления флотилиями дронов с безупречной оперативной слаженностью</li>
+  </VQE_Dronetech.generalRules.rulesStrings>
+</LanguageData>
