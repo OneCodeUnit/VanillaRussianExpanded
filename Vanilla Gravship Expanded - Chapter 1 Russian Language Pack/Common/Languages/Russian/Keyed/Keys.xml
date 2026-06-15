@@ -221,6 +221,10 @@ You will be given a choice to keep the current map as well as anything not on gr
   <VGE_OrbitObjectsMultiplier>Множитель орбитальных объектов</VGE_OrbitObjectsMultiplier>
   <!-- EN: By default the game will try to keep 3,8,12 or 20 locations in orbit (depending on globe coverage of the planet). With this slider you can apply a multiplier to this number, making your planet orbits super sparse or very cluttered! -->
   <VGE_OrbitObjectsMultiplierDesc>По умолчанию игра поддерживает 3, 8, 12 или 20 локаций на орбите (в зависимости от охвата планеты). С помощью этого ползунка можно применить множитель к этому числу, делая орбиту планеты более пустой или загруженной!</VGE_OrbitObjectsMultiplierDesc>
+  <!-- EN: Maintenance loss multiplier (higher is faster maintennace loss) -->
+  <VGE_MaintenanceMultiplier>Множитель ухудшения обслуживания (больше - быстрее снижается шкала)</VGE_MaintenanceMultiplier>
+  <!-- EN: The amount of maintenance lost both over time and when travelling with the gravship will be multiplied by this number. So 2 means you'll lose maintenance twice as fast. Added due to Sam Streamer being an insufferable crybaby. -->
+  <VGE_MaintenanceMultiplierDesc>Количество обслуживания, теряемого как со временем, так и при путешествиях с гравикораблём, будет умножено на это число. К примеру, увеличение до 2 означает, что вы будете терять обслуживание в два раза быстрее. Добавлено сюда из-за нытья одного стримера.</VGE_MaintenanceMultiplierDesc>
   <!-- EN: Reset -->
   <VGE_Reset>Сбросить</VGE_Reset>
   <!-- EN: More -->
