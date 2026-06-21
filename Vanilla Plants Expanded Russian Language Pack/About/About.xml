@@ -13,13 +13,6 @@
   <modVersion>16.01</modVersion>
   <packageId>OW.RU.Plants</packageId>
   <description>Перевод на русский язык мода Vanilla Plants Expanded, модулей Succulents, More Plants и Mushrooms, а также модов Auto Plow Patch и Farmland. Подробности ищите на странице в мастерской.</description>
-  <modDependencies>
-    <li>
-      <packageId>VanillaExpanded.VPlantsE</packageId>
-      <displayName>Vanilla Plants Expanded</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2134308522</steamWorkshopUrl>
-    </li>
-  </modDependencies>
   <loadAfter>
     <li>VanillaExpanded.VPlantsE</li>
     <li>VanillaExpanded.VPlantsESucculents</li>
@@ -32,6 +25,7 @@
     <li>VanillaExpanded.VCookESushi</li>
     <li>VanillaExpanded.VPlantsEMushrooms</li>
     <li>OskarPotocki.VFE.Medieval2</li>
+    <li>VanillaExpanded.VPEFlowers</li>
   </loadAfter>
   <incompatibleWith>
     <li>Am.Rus.VPlantsE</li>
