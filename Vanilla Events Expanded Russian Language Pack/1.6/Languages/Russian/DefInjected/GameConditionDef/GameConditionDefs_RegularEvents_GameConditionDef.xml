@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Drought -->
+  <VEE_Drought.label>засуха</VEE_Drought.label>
+  <!-- EN: An extreme drought has set over the area. Rain clouds have vanished, and the sun is baking the earth.\n\nOutdoor crops and wild plants will suffer heavily from the lack of moisture, almost halting their growth and eventually dying off. The fires will spread much quicker.\n\nPlants sown in hydroponics systems are not affected. -->
+  <VEE_Drought.description>В этой области началась сильнейшая засуха. Дождевые облака исчезли, а палящее солнце иссушает почву.\n\nДикие растения и посевы, находящиеся под открытым небом, сильно пострадают от нехватки влаги. Их рост почти прекратится, а со временем они погибнут. Кроме того, пожары будут распространяться гораздо быстрее.\n\nРастения, выращиваемые в гидропонных системах, не пострадают.</VEE_Drought.description>
+  <!-- EN: The drought is ending. -->
+  <VEE_Drought.endMessage>Засуха прошла.</VEE_Drought.endMessage>
+  <!-- EN: An extreme drought has set over the area. Rain clouds have vanished, and the sun is baking the earth.\n\nOutdoor crops and wild plants will suffer heavily from the lack of moisture, almost halting their growth and eventually dying off. The fires will spread much quicker.\n\nPlants sown in hydroponics systems are not affected. -->
+  <VEE_Drought.letterText>В этой области началась сильнейшая засуха. Дождевые облака исчезли, а палящее солнце иссушает почву.\n\nДикие растения и посевы, находящиеся под открытым небом, сильно пострадают от нехватки влаги. Их рост почти прекратится, а со временем они погибнут. Кроме того, пожары будут распространяться гораздо быстрее.\n\nРастения, выращиваемые в гидропонных системах, не пострадают.</VEE_Drought.letterText>
+  
+  <!-- EN: orbital ship crash -->
+  <SpaceBattle.label>крушение орбитального корабля</SpaceBattle.label>
+  <!-- EN: A massive orbital ship has suffered a catastrophic structural failure in orbit directly above your region! -->
+  <SpaceBattle.description>Огромный орбитальный корабль начал разваливаться на куски прямо над вашим регионом!</SpaceBattle.description>
+  <!-- EN: The orbital ship crash is ending. -->
+  <SpaceBattle.endMessage>Крушение орбитального корабля закончилось.</SpaceBattle.endMessage>
+  
+  <!-- EN: psychic stimulation -->
+  <VEE_PsychicStimulation.label>психическая стимуляция</VEE_PsychicStimulation.label>
+  <!-- EN: Some distant engine of joy sent psychic vibrations that washed over the region, specifically resonating with the minds of a particular demographic. -->
+  <VEE_PsychicStimulation.description>Некий далёкий механизм излучает психические сигналы, вызывающие чувство глубокой радости. Их волны прокатываются по региону, воздействуя на сознание представителей определённой демографической группы.</VEE_PsychicStimulation.description>
+  <!-- EN: The psychic stimulation is ending. -->
+  <VEE_PsychicStimulation.endMessage>Психическая стимуляция закончилась.</VEE_PsychicStimulation.endMessage>
+  <!-- EN: Every {0} colonist seems more joyful!\n\nSome distant engine of joy sent psychic vibrations that washed over the region, specifically resonating with the minds of a particular demographic. Your colonists feel a deep, soothing calm as their minds are stimulated by the ethereal energy. They are finding great relaxation in this mental state. For a few days, their recreation will be completely satisfied. -->
+  <VEE_PsychicStimulation.letterText>Все ваши {replace: {0}; "молодёжь"-"молодые поселенцы"; "старики"-"пожилые поселенцы"; "мужчины"-"поселенцы мужского пола"; "женщины"-"поселенцы женского пола"} ощущают прилив радости!\n\nНекий далёкий механизм излучает психические сигналы, вызывающие чувство глубокой радости. Их волны прокатываются по региону, воздействуя на сознание представителей определённой демографической группы. Ваших поселенцев охватывает глубокое умиротворение под воздействием этой незримой психической энергии. На несколько дней их потребность в досуге будет полностью удовлетворена.</VEE_PsychicStimulation.letterText>
+  
+  <!-- EN: psychic overdrive -->
+  <VEE_PsychicOverdrive.label>психическая перегрузка</VEE_PsychicOverdrive.label>
+  <!-- EN: A wave of psychic energy has washed over the colony, resonating specifically with the minds of some of your colonists! -->
+  <VEE_PsychicOverdrive.description>Волна пси-энергии прокатилась по окрестности, входя в резонанс с сознанием некоторых ваших поселенцев!</VEE_PsychicOverdrive.description>
+  <!-- EN: The psychic overdrive is ending. -->
+  <VEE_PsychicOverdrive.endMessage>Психическая перегрузка закончилась.</VEE_PsychicOverdrive.endMessage>
+  <!-- EN: Every {0} colonist focuses much more on their work!\n\nA wave of psychic energy has washed over the colony, resonating specifically with the minds of some of your colonists!\n\nTheir thoughts are racing, and their bodies are moving with newfound efficiency. For the next few days, their work speed will be significantly boosted by this psychic overcharge. -->
+  <VEE_PsychicOverdrive.letterText>Все ваши {replace: {0}; "молодёжь"-"молодые поселенцы"; "старики"-"пожилые поселенцы"; "мужчины"-"поселенцы мужского пола"; "женщины"-"поселенцы женского пола"} работают с необычайной сосредоточенностью!\n\nВолна пси-энергии прокатилась по окрестности, входя в резонанс с сознанием некоторых ваших поселенцев!\n\nИх разум работает с невероятной скоростью, а движения стали точнее и эффективнее. На несколько дней психическая перегрузка значительно повысит скорость их работы.</VEE_PsychicOverdrive.letterText>
+  
+  <!-- EN: psychic hum -->
+  <VEE_PsychicHum.label>психический шум</VEE_PsychicHum.label>
+  <!-- EN: A weird, discordant psychic hum is vibrating through the minds of some people, seemingly chosen at random. -->
+  <VEE_PsychicHum.description>Сознание некоторых поселенцев, словно выбранных наугад, охватывает странный дисгармоничный психический шум.</VEE_PsychicHum.description>
+  <!-- EN: The psychic hum is ending. -->
+  <VEE_PsychicHum.endMessage>Психический шум прошёл.</VEE_PsychicHum.endMessage>
+  <!-- EN: A weird, discordant psychic hum is vibrating through the minds of some people, seemingly chosen at random.\n\nThey are unable to rest or find any relief, and their mental state is rapidly deteriorating as their exhaustion and need for recreation skyrocket.\n\nColonists affected:\n\n{0}. -->
+  <VEE_PsychicHum.letterText>Сознание некоторых поселенцев, словно выбранных наугад, охватывает странный дисгармоничный психический шум.\n\nОни не могут ни уснуть спокойно, ни найти душевный покой. Их психическое состояние стремительно ухудшается, а потребность во сне и досуге быстро растёт.\n\nЭто повлияет на следующих поселенцев:\n\n{0}</VEE_PsychicHum.letterText>
+
+</LanguageData>

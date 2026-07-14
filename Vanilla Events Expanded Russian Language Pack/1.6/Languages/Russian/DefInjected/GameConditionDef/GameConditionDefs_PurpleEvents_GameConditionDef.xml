@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: whiteout -->
+  <VEE_Whiteout.label>белая мгла</VEE_Whiteout.label>
+  <!-- EN: A catastrophic global deep freeze that plunges the planet into extreme cold, halting all human travel and trade while forcing the world to survive an extended, dangerous winter. -->
+  <VEE_Whiteout.description>Глобальная климатическая катастрофа, вызвавшая экстремальное похолодание на всей планете. Передвижение караванов и торговля между поселениями полностью прекращаются, а всему живому приходится выживать в условиях долгой и суровой зимы.</VEE_Whiteout.description>
+  <!-- EN: The whiteout is ending. -->
+  <VEE_Whiteout.endMessage>Белая мгла прошла.</VEE_Whiteout.endMessage>
+  <!-- EN: the frost -->
+  <VEE_Whiteout.modExtensions.0.stages.0.letterLabel>похолодание</VEE_Whiteout.modExtensions.0.stages.0.letterLabel>
+  <!-- EN: Atmospheric temperatures are steadily dropping across the planet.\n\nThis is not a standard cold snap. You predict a catastrophic deep freeze is approaching, eventually leading to a complete whiteout. You have a short window to stockpile fuel, harvest your remaining crops, and build heaters before the true cold sets in. -->
+  <VEE_Whiteout.modExtensions.0.stages.0.letterText>Температура по всей планете неуклонно снижается.\n\nЭто не обычные заморозки. В скором времени планету ожидает катастрофическое оледенение, которое в конечном итоге приведёт к белой мгле. У вас осталось совсем немного времени, чтобы запастись топливом, собрать последний урожай и установить обогреватели, прежде чем наступят настоящие холода.</VEE_Whiteout.modExtensions.0.stages.0.letterText>
+  <!-- EN: the deep freeze -->
+  <VEE_Whiteout.modExtensions.0.stages.1.letterLabel>стужа</VEE_Whiteout.modExtensions.0.stages.1.letterLabel>
+  <!-- EN: The cold has deepened drastically.\n\nWildlife is fleeing the region, and the flora is dying off. Ensure your colony stays indoors and that your power grid can handle the immense strain of constant heating. The worst is still yet to come. -->
+  <VEE_Whiteout.modExtensions.0.stages.1.letterText>Похолодание стремительно усиливается.\n\nДикие животные покидают местность, а растения погибают. По возможности не выпускайте поселенцев на улицу и убедитесь, что ваша энергосистема выдержит непрерывную работу обогревателей. Худшее ещё впереди.</VEE_Whiteout.modExtensions.0.stages.1.letterText>
+  <!-- EN: the whiteout -->
+  <VEE_Whiteout.modExtensions.0.stages.2.letterLabel>белая мгла</VEE_Whiteout.modExtensions.0.stages.2.letterLabel>
+  <!-- EN: The whiteout has arrived.\n\nTemperatures have plummeted to unsurvivable levels. Human travel across the planet is now entirely unadvised; you will receive no trade caravans or human raids. However, the bitter cold does not bother mechanoids.\n\nIf you persevere, the freeze will eventually break. -->
+  <VEE_Whiteout.modExtensions.0.stages.2.letterText>Наступила белая мгла.\n\nТемпература опустилась почти до непригодного для жизни уровня. Передвижение по планете стало практически невозможным, поэтому торговые караваны и налёты других поселений полностью прекратятся. Однако на механоидов этот холод не действует.\n\nОстаётся лишь пережить это испытание. Со временем морозы отступят.</VEE_Whiteout.modExtensions.0.stages.2.letterText>
+  <!-- EN: the thaw -->
+  <VEE_Whiteout.modExtensions.0.stages.3.letterLabel>оттепель</VEE_Whiteout.modExtensions.0.stages.3.letterLabel>
+  <!-- EN: The skies are finally clearing and the bitter cold is beginning to recede.\n\nThe whiteout is ending. Temperatures will slowly return to normal over the next quadrum, and life will eventually return. -->
+  <VEE_Whiteout.modExtensions.0.stages.3.letterText>Небо постепенно проясняется, а лютый холод начинает отступать.\n\nБелая мгла подходит к концу. В течение следующего сезона температура постепенно вернётся к норме, и природа начнёт восстанавливаться.</VEE_Whiteout.modExtensions.0.stages.3.letterText>
+  
+  <!-- EN: Scorch -->
+  <VEE_Scorch.label>пекло</VEE_Scorch.label>
+  <!-- EN: A catastrophic global heatwave that plunges the planet into extreme heat, halting all outdoor farming and travel while forcing the world to survive an extended, dangerous summer. -->
+  <VEE_Scorch.description>Экстремальная жара, охватившая всю планету в результате глобальной климатической катастрофы. Земледелие под открытым небом становится невозможным, передвижение караванов прекращается, а всему живому приходится приспосабливаться к долгому и опасному лету.</VEE_Scorch.description>
+  <!-- EN: The scorch ending -->
+  <VEE_Scorch.endMessage>Пекло прошло.</VEE_Scorch.endMessage>
+  <!-- EN: the swelter -->
+  <VEE_Scorch.modExtensions.0.stages.0.letterLabel>неестественная жара</VEE_Scorch.modExtensions.0.stages.0.letterLabel>
+  <!-- EN: The planet's atmosphere is beginning to trap immense amounts of solar radiation, bathing the region in an unnatural, oppressive heat.\n\nTravellers warn that this is just the beginning of a massive thermal event. Temperatures will continue to rise drastically. You have a short window to secure your food supply, build coolers, and tailor protective headgear for your colonists before the sun becomes deadly. -->
+  <VEE_Scorch.modExtensions.0.stages.0.letterText>Атмосфера планеты начинает удерживать огромное количество солнечного излучения, окутывая регион неестественной удушающей жарой.\n\nЭто лишь начало масштабной волны жары. Температура продолжит расти. У вас осталось совсем немного времени, чтобы запастись продовольствием, установить охладители и кондиционеры, а также изготовить головные уборы для поселенцев, прежде чем солнце станет смертельно опасным.</VEE_Scorch.modExtensions.0.stages.0.letterText>
+  <!-- EN: the scorch -->
+  <VEE_Scorch.modExtensions.0.stages.1.letterLabel>зной</VEE_Scorch.modExtensions.0.stages.1.letterLabel>
+  <!-- EN: The heat has reached dangerous levels, and rain clouds have vanished completely.\n\nOutdoor crops are struggling to grow in the baked earth. Furthermore, the intense UV radiation is causing sun sickness for anyone caught outside without a hat. This sickness makes victims extremely susceptible to heatstroke. Keep your colonists under roofs or ensure they are wearing headgear. -->
+  <VEE_Scorch.modExtensions.0.stages.1.letterText>Жара достигла опасного уровня, а дождевые облака полностью исчезли.\n\nПосевы под открытым небом едва выдерживают палящий зной. Из-за интенсивного ультрафиолетового излучения все, кто находится на улице без головного убора, получают солнечные ожоги, что значительно повышает риск теплового удара. Старайтесь, чтобы поселенцы как можно реже выходили на улицу или убедитесь, что их голова прикрыта.</VEE_Scorch.modExtensions.0.stages.1.letterText>
+  <!-- EN: the inferno -->
+  <VEE_Scorch.modExtensions.0.stages.2.letterLabel>пекло</VEE_Scorch.modExtensions.0.stages.2.letterLabel>
+  <!-- EN: The heat has peaked into a catastrophic inferno. \n\nA thick, sweltering haze has settled over the area, and outdoor plant growth has completely halted. Worse yet, the superheated atmosphere is generating massive dry thunderstorms. Expect frequent lightning strikes and devastating wildfires.\n\nStay indoors, keep the coolers running, and wait for the rain to come back. -->
+  <VEE_Scorch.modExtensions.0.stages.2.letterText>Жара достигла своего пика и в регионе воцарилось настоящее пекло.\n\nРаскалённое марево окутало окрестности, а посевы под открытым небом полностью перестали расти. Перегрев атмосферы приводит к возникновению мощных сухих гроз. Ожидайте частых ударов молний и разрушительных лесных пожаров.\n\nНе выпускайте поселенцев на улицу без крайней необходимости, не выключайте кондиционеры и молитесь о дожде.</VEE_Scorch.modExtensions.0.stages.2.letterText>
+  <!-- EN: the relief -->
+  <VEE_Scorch.modExtensions.0.stages.3.letterLabel>спад жары</VEE_Scorch.modExtensions.0.stages.3.letterLabel>
+  <!-- EN: The oppressive haze is finally lifting, and the sun's glare seems less deadly today.\n\nThe scorch is ending. Temperatures will slowly return to normal over the coming days, and rain clouds will soon return. -->
+  <VEE_Scorch.modExtensions.0.stages.3.letterText>Раскалённое марево наконец начинает рассеиваться, а палящее солнце уже не представляет такой опасности.\n\nЗной заканчивается. В течение следующих нескольких дней температура постепенно вернётся к норме, а на небе вновь начнут собираться дождевые облака.</VEE_Scorch.modExtensions.0.stages.3.letterText>
+  
+  <!-- EN: long night -->
+  <VEE_LongNight.label>долгая ночь</VEE_LongNight.label>
+  <!-- EN: A catastrophic celestial eclipse that blankets the world in an endless, freezing twilight, forcing the world to adapt to artificial light and increased psychic sensitivity as nocturnal predators and subterranean threats emerge in the darkness. -->
+  <VEE_LongNight.description>Катастрофическое затмение, погружающее планету в бесконечные сумерки и приносящее продолжительные холода. Искусственное освещение становится жизненной необходимостью, психочувствительность усиливается, а вместе с темнотой приходят ночные хищники и пробуждаются подземные угрозы.</VEE_LongNight.description>
+  <!-- EN: The long night is ending -->
+  <VEE_LongNight.endMessage>Долгая ночь закончилась.</VEE_LongNight.endMessage>
+  <!-- EN: the penumbra -->
+  <VEE_LongNight.modExtensions.0.stages.0.letterLabel>полутень</VEE_LongNight.modExtensions.0.stages.0.letterLabel>
+  <!-- EN: A space entity of unimaginable size has made first contact with a local star, resulting in the beginning of a long lasting eclipse.\n\nThe daylight is beginning to dim, casting a vast penumbra over the planet. Solar output and temperatures will continue to drop as the eclipse deepens. Prepare your power grids and indoor agriculture before the true darkness arrives. -->
+  <VEE_LongNight.modExtensions.0.stages.0.letterText>Космическая сущность невообразимых размеров приблизилась к местной звезде, положив начало затяжному затмению.\n\nС каждым днём света становится всё меньше и планету постепенно окутывает полутень. По мере развития затмения температура будет снижаться, а солнечные батареи станут вырабатывать всё меньше энергии. Подготовьте энергосистему и всё необходимое для выращивания растений в помещениях, пока не наступила настоящая тьма.</VEE_LongNight.modExtensions.0.stages.0.letterText>
+  <!-- EN: the umbra -->
+  <VEE_LongNight.modExtensions.0.stages.1.letterLabel>тень</VEE_LongNight.modExtensions.0.stages.1.letterLabel>
+  <!-- EN: The celestial entity has begun to cross the center of the sun.\n\nThe planet has been plunged into a deep, freezing twilight. Solar generators are now struggling to produce power, and surface flora is dying. Rely on artificial lights and indoor heating to survive the coming black. -->
+  <VEE_LongNight.modExtensions.0.stages.1.letterText>Космическая сущность начала пересекать центр солнечного диска.\n\nПланета окутана холодными сумерками. Солнечные батареи почти перестали вырабатывать энергию, а растения под открытым небом погибают. Чтобы пережить надвигающуюся тьму, полагайтесь на искусственное освещение и отопление.</VEE_LongNight.modExtensions.0.stages.1.letterText>
+  <!-- EN: the totality -->
+  <VEE_LongNight.modExtensions.0.stages.2.letterLabel>полное затмение</VEE_LongNight.modExtensions.0.stages.2.letterLabel>
+  <!-- EN: The sun has been completely blotted out. \n\nTotality has been achieved, and an endless, freezing night has fallen across the world. The celestial entity is emitting a heavy cosmic resonance. Your colonists will tire much faster than normal, and their psychic sensitivity has been dangerously amplified.\n\nThe animals became a lot more aggressive. Guard your brightly lit base against the nocturnal predators and subterranean insectoids. -->
+  <VEE_LongNight.modExtensions.0.stages.2.letterText>Солнце полностью скрыто.\n\nПолная фаза затмения погрузила мир в бесконечную ледяную ночь. Космическая сущность создаёт мощное резонансное поле, из-за которого поселенцы быстрее устают, а их психочувствительность опасно усиливается.\n\nЖивотные стали гораздо агрессивнее. Будьте готовы отражать атаки ночных хищников и инсектоидов, пробирающихся из-под земли.</VEE_LongNight.modExtensions.0.stages.2.letterText>
+  <!-- EN: the emergence -->
+  <VEE_LongNight.modExtensions.0.stages.3.letterLabel>прояснение</VEE_LongNight.modExtensions.0.stages.3.letterLabel>
+  <!-- EN: A brilliant flash of light has pierced the horizon!\n\nThe cosmic entity is finally shifting away from the sun's center. Totality has ended. The absolute darkness has broken into twilight. Your solar panels will begin generating power once again, and plants will resume growth as the temperature increases. -->
+  <VEE_LongNight.modExtensions.0.stages.3.letterText>Яркая вспышка света прорезала горизонт!\n\nКосмическая сущность наконец смещается от центра солнечного диска. Полная фаза затмения завершилась. Абсолютная тьма вновь уступает место сумеркам. Солнечные батареи снова начинают вырабатывать энергию, а с повышением температуры растения возобновят рост.</VEE_LongNight.modExtensions.0.stages.3.letterText>
+  <!-- EN: the restoration -->
+  <VEE_LongNight.modExtensions.0.stages.4.letterLabel>конец затмения</VEE_LongNight.modExtensions.0.stages.4.letterLabel>
+  <!-- EN: The celestial object is making its final pass across the sun.\n\nThe long night is ending. Over the coming days, the remaining shadows will clear, temperatures will normalize, and the planet will fully awaken from the dark. -->
+  <VEE_LongNight.modExtensions.0.stages.4.letterText>Космическая сущность завершает свой проход перед местной звездой.\n\nДолгая ночь подходит к концу. В ближайшие дни остатки тьмы рассеются, температура постепенно вернётся к норме, и планета окончательно пробудится от мрака.</VEE_LongNight.modExtensions.0.stages.4.letterText>
+  
+  <!-- EN: psychic bloom -->
+  <VEE_PsychicBloom.label>психическое цветение</VEE_PsychicBloom.label>
+  <!-- EN: A dimensional rift tears through the sky, blanketing the world in a perpetual purple aurora while alien seedlings sprout and mutate local flora into psychic lotuses, forcing the world to manage rapidly growing, otherworldly vegetation and intensifying psychic pressure. -->
+  <VEE_PsychicBloom.description>Разлом в пространстве прорезает небеса, озаряя планету неугасающим фиолетовым сиянием. По всему миру появляются пси-лотосы, вызывающие бурный рост инопланетной флоры. Жителям планеты приходится противостоять её стремительному распространению и усиливающемуся психическому давлению.</VEE_PsychicBloom.description>
+  <!-- EN: The psychic bloom is ending -->
+  <VEE_PsychicBloom.endMessage>Психическое цветение закончилось.</VEE_PsychicBloom.endMessage>
+  <!-- EN: the seeding -->
+  <VEE_PsychicBloom.modExtensions.0.stages.0.letterLabel>прорастание</VEE_PsychicBloom.modExtensions.0.stages.0.letterLabel>
+  <!-- EN: The veil between our reality and somewhere else is wearing dangerously thin.\n\nA tear in the dimensional fabric has ignited a permanent, unnatural purple aurora across the sky. Where the psychic energy bleeds through to the surface, bizarre, alien seedlings are manifesting in the soil. While they are harmless for now, they do not belong in this dimension. You may want to uproot them before they anchor themselves to our reality. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.0.letterText>Граница между этой реальностью и иным миром опасно истончается.\n\nРазлом в ткани пространства озарил небо неестественным фиолетовым сиянием, и там, где психическая энергия прорывается в этот мир, появляются странные ростки пси-лотосов. Пока они безвредны, но им не место в этой реальности. Возможно, стоит выкорчевать их, прежде чем они окончательно закрепятся в ней.</VEE_PsychicBloom.modExtensions.0.stages.0.letterText>
+  <!-- EN: the bloom -->
+  <VEE_PsychicBloom.modExtensions.0.stages.1.letterLabel>начало цветения</VEE_PsychicBloom.modExtensions.0.stages.1.letterLabel>
+  <!-- EN: The dimensional overlap is widening. The seedlings have matured into psychic lotuses, and they are actively terraforming our world to match their own.\n\nThe lotuses are mutating nearby flora into vibrant, otherworldly variants, and the ambient psychic sensitivity of everyone in the region has doubled.\n\nBeware the weather, as clouds from the other side are bleeding through. Psychic rain can have devastating effects on anyone caught outside, as time behaves differently in its home dimension. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.1.letterText>Граница между измерениями продолжает размываться. Ростки созрели и превратились в пси-лотосы, которые активно перестраивают этот мир по образу своего.\n\nПси-лотосы преобразуют окружающую растительность в яркие инопланетные формы, а психочувствительность всех существ в регионе удвоилась.\n\nСквозь разлом начинают проникать облака из иного мира, приносящие с собой психический дождь. В измерении, откуда он приходит, время течёт иначе, поэтому его воздействие может оказаться губительным.</VEE_PsychicBloom.modExtensions.0.stages.1.letterText>
+  <!-- EN: the superbloom -->
+  <VEE_PsychicBloom.modExtensions.0.stages.2.letterLabel>суперцветение</VEE_PsychicBloom.modExtensions.0.stages.2.letterLabel>
+  <!-- EN: The boundary between realities has completely collapsed!\n\nThe otherworldly flora has entered a catastrophic superbloom, spreading at an uncontrollable rate. Worse, the psychic lotuses are acting as conduits for the crushing psychic weight of an entirely different universe. The intensity of this maddening drone is directly tied to how many lotuses are anchoring the rift to your map.\n\nYou must sever their connection by cutting down the lotuses immediately, or the sheer psychic pressure of another dimension will drive your colonists insane. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.2.letterText>Граница между реальностями окончательно стёрлась!\n\nИнопланетная флора достигла стадии суперцветения и теперь распространяется с неконтролируемой скоростью. Что ещё хуже, пси-лотосы стали проводниками сокрушительного психического давления, исходящего из иной реальности. Чем больше пси-лотосов удерживают разлом открытым, тем сильнее становится этот гнетущий психический гул.\n\nВы должны немедленно уничтожить пси-лотосы, тем самым разорвав связь с иным миром, пока чудовищное психическое давление другой реальности не свело ваших поселенцев с ума.</VEE_PsychicBloom.modExtensions.0.stages.2.letterText>
+  <!-- EN: the withering -->
+  <VEE_PsychicBloom.modExtensions.0.stages.3.letterLabel>увядание</VEE_PsychicBloom.modExtensions.0.stages.3.letterLabel>
+  <!-- EN: Reality has violently reasserted itself.\n\nThe dimensional rift has snapped shut. Cut off from the psychic energy of their home universe, the superbloom has instantly collapsed into a hideous, withered wasteland. The maddening drone is gone, but the dead flora will take years to decay naturally. You will need to burn or chop away these wilted plants to make room for your crops to return.\n\nPsychic Rain remains a lingering threat until the sky fully heals and the aurora dissipates. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.3.letterText>Разлом между измерениями cхлопнулся и связь с иной реальностью оборвалась.\n\nЛишившись психической энергии родного измерения, суперцветение мгновенно прекратилось и инопланетная флора начала стремительно увядать. Сводящий с ума психический гул исчез, но погибшаие растения будут разлагаться ещё долгое время. Вам придётся выжечь или вырубить их, чтобы освободить место для новых посевов.\n\nДаже после закрытия разлома психический дождь не прекратится сразу. Он будет представлять опасность до тех пор, пока фиолетовое сияние не рассеется.</VEE_PsychicBloom.modExtensions.0.stages.3.letterText>
+  
+  <!-- EN: Psychic Rain -->
+  <PsychicRain.label>психический дождь</PsychicRain.label>
+  <!-- EN: A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
+
+A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.
+
+It will last anywhere between a season to several years. -->
+  <PsychicRain.description>Опасная психическая сущность вызвала возмущение на субатомных уровнях, отозвавшееся во всех частицах атмосферы.\n\nНачался, казалось бы, бесконечный сверхъестественный дождь, изменивший само течение времени. Любой персонаж или существо, не находящееся под крышей, будет стареть значительно быстрее.\n\nПсихический дождь может длиться от одного сезона до нескольких лет.</PsychicRain.description>
+  <!-- EN: The psychic rain is ending -->
+  <PsychicRain.endMessage>Психический дождь закончился.</PsychicRain.endMessage>
+
+</LanguageData>

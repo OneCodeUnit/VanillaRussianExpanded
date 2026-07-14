@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Animal transport pod crash -->
+  <!-- EN: Animal pod crash -->
+  <VEE_AnimalPodCrashLabel>Крушение капсулы с животным</VEE_AnimalPodCrashLabel>
+  <!-- EN: A transport pod carrying a {PAWN_kind} called {PAWN_nameDef} is crashing nearby. If it survives the crash, it will be badly wounded.\n\nIf you tend to its wounds, it may decide to stick around. -->
+  <VEE_AnimalPodCrashDesc>{PAWN_kind} по кличке {PAWN_nameDef} падает в транспортной капсуле недалеко от вашего поселения. Даже если животное переживёт приземление, оно будет тяжело ранено.\n\nЕсли его вылечить, возможно оно присоединится к поселению.</VEE_AnimalPodCrashDesc>
+  <!-- EN: Rescued animal joined -->
+  <VEE_AnimalPodCrashLabel_AceptedJoining>Спасённое животное присоединилось</VEE_AnimalPodCrashLabel_AceptedJoining>
+  <!-- EN: The animal you rescued is joining the colony. -->
+  <VEE_AnimalPodCrashDesc_AceptedJoining>Животное, которое вы спасли, присоединилось к поселению.</VEE_AnimalPodCrashDesc_AceptedJoining>
+  <!-- EN: Rescued animal didn't join -->
+  <VEE_AnimalPodCrashLabel_RefusedJoining>Спасённое животное не присоединилось</VEE_AnimalPodCrashLabel_RefusedJoining>
+  <!-- EN: The animal you rescued isn't joining the colony. -->
+  <VEE_AnimalPodCrashDesc_RefusedJoining>Животное, которое вы спасли, не присоединилось к поселению.</VEE_AnimalPodCrashDesc_RefusedJoining>
+
+  <!-- Traitor -->
+  <!-- EN: Traitor: {PAWN_nameDef} -->
+  <VEE_TraitorLabel>Предатель: {PAWN_nameDef}</VEE_TraitorLabel>
+  <!-- EN: {PAWN_nameDef} has revealed {PAWN_possessive} true colors!\n\n{PAWN_pronoun} was an agent of {Hostile_FactionName} sent to infiltrate your colony. {PAWN_pronoun} has violently turned against you and is now attacking your settlement from the inside. You can subdue or kill {PAWN_objective}! -->
+  <VEE_TraitorDesc>{PAWN_nameDef} {PAWN_gender ? показал : показала} своё истинное лицо!\n\n{PAWN_pronoun} {PAWN_gender ? оказался : оказалась} агентом фракции {Hostile_FactionName}, внедрённым в ваше поселение. Теперь же {PAWN_nameDef} открыто {PAWN_gender ? выступил : выступила} против вас и атакует поселение изнутри. Вы можете обезвредить и арестовать или убить {PAWN_pronoun}.</VEE_TraitorDesc>
+  <!-- EN: Raid (Visitors) -->
+  <VEE_TraitorGroupLabel>Налёт (Гости)</VEE_TraitorGroupLabel>
+  <!-- EN: The visitors turned out to be a deceptive raid from {0}. They are attacking immediately. -->
+  <VEE_TraitorGroupDesc>Гости оказались замаскированным вражеским отрядом из фракции {0}. Они нападают немедленно.</VEE_TraitorGroupDesc>
+
+  <!-- Orbital ship crash -->
+  <!-- EN: Orbital ship crash -->
+  <VEE_OrbitalCrashLabel>Крушение орбитального корабля</VEE_OrbitalCrashLabel>
+  <!-- EN: A massive orbital ship from {0} has suffered a catastrophic structural failure in orbit directly above your region!\n\nFor the next several hours, massive chunks of hull, volatile engine components, cargo bays, and escape pods will rain down across the area.\n\nKeep your colonists under roofs or carefully dodge the falling debris. Once the shower ends, there will be a lot of resources to salvage, and likely survivors to rescue from the wreckage. -->
+  <VEE_OrbitalCrashDesc>Огромный орбитальный корабль фракции {0} начал разваливаться на куски прямо над вашим регионом!\n\nВ течение нескольких следующих часов на землю будут падать огромные обломки корпуса, нестабильные компоненты двигателей, грузовые и спасательные капсулы.\n\nДержите поселенцев под крышей или осторожно уклоняйтесь от падающих обломков. Когда этот смертоносный дождь закончится, вы сможете собрать множество ценных ресурсов и, возможно, спасти выживших среди обломков.</VEE_OrbitalCrashDesc>
+
+  <!-- Shuttle Crash -->
+  <!-- EN: Shuttle crash -->
+  <VEE_ShuttleCrashLabel>Крушение челнока</VEE_ShuttleCrashLabel>
+  <!-- EN: A heavily damaged shuttle is plummeting from the sky and will violently crash nearby.\n\nThe impact will scatter chemfuel and ignite a dangerous fire.\n\nCargo and passengers will be found among the wreckage.\n\nYou must act quickly if you want to rescue the survivors, salvage the cargo, and stop the fire from spreading out of control. -->
+  <VEE_ShuttleCrashDesc>Сильно повреждённый челнок стремительно падает с неба и вскоре рухнет неподалёку.\n\nПри ударе о землю разольётся много химтоплива, вызвав опасный пожар.\n\nСреди обломков может оказаться ценный груз и пассажиры.\n\nЕсли вы хотите спасти выживших, забрать груз и не дать огню выйти из-под контроля, действовать нужно быстро.</VEE_ShuttleCrashDesc>
+
+  <!-- Earthquake -->
+  <!-- EN: Earthquake (magnitude {0}) -->
+  <VEE_EarthquakeLabel>Землетрясение (магнитуда {0_numCase ? балл : балла : баллов})</VEE_EarthquakeLabel>
+  <!-- EN: A magnitude {0} earthquake has struck the region!\n\nThe violent shaking has ruptured the ground and caused severe structural damage near the epicenter. Repairs may be required. -->
+  <VEE_EarthquakeDesc>Регион сотрясло землетрясение магнитудой {0_numCase ? балл : балла : баллов}!\n\nМощные подземные толчки разорвали землю и нанесли серьёзные повреждения постройкам вблизи эпицентра. Возможно, потребуется ремонт.</VEE_EarthquakeDesc>
+
+  <!-- Cargo pods (weapons) -->
+  <!-- EN: Cargo pods (weapon) -->
+  <VEE_WeaponCargoPodLabel>Грузовые контейнеры (оружие)</VEE_WeaponCargoPodLabel>
+  <!-- EN: You have detected a cargo pod landing nearby!\n\nIt seems to have carried some weapon, which you can retrieve from the wreckage. -->
+  <VEE_WeaponCargoPodDesc>Вы засекли грузовой контейнер, упавший поблизости!\n\nСудя по всему, он перевозил оружие, которое можно найти среди обломков.</VEE_WeaponCargoPodDesc>
+
+  <!-- Cargo pods (apparel) -->
+  <!-- EN: Cargo pods (apparel) -->
+  <VEE_ApparelCargoPodLabel>Грузовые контейнеры (одежда)</VEE_ApparelCargoPodLabel>
+  <!-- EN: You have detected a cluster of cargo pods landing nearby!\n\nThey seem to contain random apparel, which you can retrieve from the wreckage. -->
+  <VEE_ApparelCargoPodDesc>Вы засекли несколько грузовых контейнеров, упавших поблизости!\n\nСудя по всему, они перевозили различную одежду. Её можно найти среди обломков.</VEE_ApparelCargoPodDesc>
+
+  <!-- Caravan animals wander in -->
+  <!-- EN: Caravan animals wander in -->
+  <VEE_CaravanAnimalsWanderLabel>Караванные животные бродят поблизости</VEE_CaravanAnimalsWanderLabel>
+  <!-- EN: A small group of {0} has wandered into the area from the wilderness.\n\nThey appear to be the remnants of a lost or destroyed merchant caravan, as they are burdened with packs full of trading goods.\n\nYou can attempt to tame the animals to claim them and their cargo safely, or you can hunt them down to forcibly take the supplies. -->
+  <VEE_CaravanAnimalsWanderDesc>На вашу территорию забрели {0}.\n\nПохоже, это животные из пропавшего или уничтоженного торгового каравана. Они несут на себе тюки с товарами.\n\nВы можете попытаться приручить животных, сделав их частью своего поселения и получив в придачу весь груз, или просто убить их ради припасов.</VEE_CaravanAnimalsWanderDesc>
+
+  <!-- Crop sprout -->
+  <!-- EN: Wild {0} sprout -->
+  <VEE_CropSproutLabel>Заросли {0_gender ? дикого : дикой : дикого} {lookup: {0}; Case; 1}</VEE_CropSproutLabel>
+  <!-- EN: A grove of wild {0} has sprouted nearby!\n\nIf you wait for the plants to grow, you'll be able to harvest them. -->
+  <VEE_CropSproutDesc>Заросли {0_gender ? дикого : дикой : дикого} {lookup: {0}; Case; 1} раскинулись неподалёку!\n\nЕсли вы подождёте, пока {0_gender ? он : она : оно} созреет, вы сможете собрать урожай.</VEE_CropSproutDesc>
+
+  <!-- Battle animals wander in -->
+  <!-- EN: Battle animals wander in -->
+  <VEE_BattleAnimalsWanderLabel>Боевые животные прибиваются к поселению</VEE_BattleAnimalsWanderLabel>
+  <!-- EN: A small pack of {0} has wandered into the area from the wilderness.\n\nThey appear to be accustomed to human presence, and have immediately bonded with the colony. \n\nGiven their natural combat capabilities, they will make excellent defensive pets if you assign a handler to train them. Alternatively, if you cannot afford to feed them, they can be slaughtered for food. -->
+  <VEE_BattleAnimalsWanderDesc>На вашу территорию забрели {0}.\n\nОни, видимо, привычны к людям, и потому прибиваются к вашему поселению.\n\nБлагодаря своим боевым качествам они станут отличными защитниками, если поручить их обучение животноводу. Если же вам нечем их кормить, животных всегда можно пустить на мясо.</VEE_BattleAnimalsWanderDesc>
+
+  <!-- wild men wander in -->
+  <!-- EN: Wild men wander in -->
+  <VEE_WildMenWanderLabel>Дикие люди бродят поблизости</VEE_WildMenWanderLabel>
+  <!-- EN: A small tribe of humans living among wild animals has wandered into the area.\n\nThey are primitive and hungry, and will actively forage for food, which includes eating your crops or raiding unsecured food stockpiles.\n\nYou can attempt to tame them one by one to add them to your colony, arrest them, or deal with them by force if they become too much of a nuisance. -->
+  <VEE_WildMenWanderDesc>В эту местность забрело небольшое племя одичавших людей.\n\nОни живут бок о бок с дикими животными, ведут первобытный образ жизни и готовы добывать пропитание любыми доступными способами, включая ваши посевы и неохраняемые запасы продуктов.\n\nВы можете попытаться приручить их одного за другим, сделав частью своего поселения, арестовать их или избавиться от них силой, если они станут слишком мешать.</VEE_WildMenWanderDesc>
+
+  <!-- Hunting party -->
+  <!-- EN: Hunting party -->
+  <VEE_HuntingPartyLabel>Охотничий отряд</VEE_HuntingPartyLabel>
+  <!-- EN: A small hunting party from {0} has entered the area.\n\nThey have come to hunt the local wildlife for meat and leather. They are peaceful and will not attack your colonists, but they may deplete the local game. Once each hunter bags an animal, they will pack up their kills and leave. -->
+  <VEE_HuntingPartyDesc>В эту местность прибыл небольшой охотничий отряд из фракции {0}.\n\nОни пришли охотиться на местных животных ради мяса и шкур. Хотя охотники настроены мирно и не станут нападать на ваших поселенцев, охота может заметно сократить популяцию диких животных в округе. Как только каждый из них подстрелит по зверю, отряд заберёт добычу и уйдёт.</VEE_HuntingPartyDesc>
+
+  <!-- EN: Decaying due to drought. -->
+  <VEE_Decay>Засыхает.</VEE_Decay>
+  <!-- EN: Adjusted fertility due to drought: {0} -->
+  <VEE_DroughtGui>Урожайность {lookup: {0}; Case; 1} изменилась из-за засухи.</VEE_DroughtGui>
+
+  <!--Single manhunter-->
+  <!-- EN: Manhunter: {0} -->
+  <VEE_ManhunterSingleArrivalLabel>Агрессивное животное: {0}</VEE_ManhunterSingleArrivalLabel>
+  <!-- EN: A lone, scaria-infected {0} has entered the area from the wilderness.\n\nIt is entirely rabid and will aggressively attack any human it sees. Keep your colonists inside or draft them to deal with the threat.\n\nBecause of the disease, it will likely die on its own in a few days. -->
+  <VEE_ManhunterSingleArrivalDesc>В эту местность {0_gender ? забрёл агрессивный : забрела агрессивная} {0}, {0_gender ? заражённый : заражённая} агриозом.\n\n{0_gender ? Он совершенно обезумел : Она совершенно обезумела} и будет яростно нападать на любого встреченного персонажа. Держите поселенцев в помещении или отправьте их расправиться с угрозой.\n\nСкорее всего, болезнь сама убьёт {0_possessive} уже через несколько дней.</VEE_ManhunterSingleArrivalDesc>
+
+  <!--Crashlanded-->
+  <!-- EN: Crashlanded -->
+  <VEE_CrashlandedLabel>Аварийная посадка</VEE_CrashlandedLabel>
+  <!-- EN:  Three escape pods have slammed into the ground nearby. \n\nThree survivors have emerged from the wreckage, looking dazed and lost. They appear to have barely escaped a ship being torn apart in orbit. They will likely rest here to recover from cryptosleep sickness before moving on. -->
+  <VEE_CrashlandedDesc>Неподалёку рухнули три спасательные капсулы.\n\nИз-под обломков выбрались трое выживших — растерянные и дезориентированные. Похоже, они чудом спаслись с корабля, разрушившегося на орбите. Они задержатся здесь, пока не оправятся от криптосонной болезни, а затем отправятся дальше.</VEE_CrashlandedDesc>
+  <!-- EN: Survivors offer to join -->
+  <VEE_CrashlandedChoiceLabel>Выжившие желают присоединиться</VEE_CrashlandedChoiceLabel>
+  <!-- EN: The crashlanded survivors have noticed your colony's struggling numbers. Realizing that survival on the rim is nearly impossible alone, they have offered to join your settlement, bringing their pet and supplies with them.\n\nDo you accept their offer? -->
+  <VEE_CrashlandedChoiceText>Выжившие после крушения заметили, что вашему поселению не хватает рабочих рук. Понимая, что шансы выжить в одиночку невелики, они предложили присоединиться к вашему поселению вместе со своим питомцем и припасами.\n\nПринять их?</VEE_CrashlandedChoiceText>
+  <!-- EN: Crashlanding survivors are packing their things and leaving. -->
+  <VEE_CrashlandedLeaving>Выжившие после крушения собирают вещи и уходят.</VEE_CrashlandedLeaving>
+
+  <!-- Whiteout Refugees -->
+  <!-- EN: Desperate refugees -->
+  <VEE_WhiteoutRefugees>Отчаявшиеся беженцы</VEE_WhiteoutRefugees>
+  <!-- EN: A small group of {0} freezing survivors has appeared at the edge of your settlement.\n\nThey are severely hypothermic and starving due to the ongoing whiteout. They are begging you to open your doors and share your warmth and food.\n\nBe warned: they have the wild look of desperate people. If you turn them away to freeze in the snow, they will likely try to take your shelter by force.\n\nWill you accept them? -->
+  <VEE_WhiteoutRefugeesText>Небольшая группа из {0} выживших добралась до вашего поселения.\n\nИз-за затянувшейся белой мглы они страдают от сильного переохлаждения и голода. Они умоляют впустить их и поделиться теплом и едой.\n\nБудьте осторожны: отчаяние толкает людей на крайние меры. Если отказать, они, скорее всего, попытаются силой захватить ваше убежище.\n\nПринять их?</VEE_WhiteoutRefugeesText>
+  <!-- EN: The refugees are grateful for your mercy and have joined the colony to recover from their ordeal. -->
+  <VEE_WhiteoutRefugees_Accepted>Беженцы искренне благодарны вам за проявленное милосердие. Они присоединяются к вашему поселению, чтобы прийти в себя после пережитого.</VEE_WhiteoutRefugees_Accepted>
+  <!-- EN: The refugees have turned on you! Betrayed and desperate, they have sworn to take your shelter by force.\n\nThey are attacking immediately. -->
+  <VEE_WhiteoutRefugees_Rejected>Беженцы обратились против вас! Считая себя преданными и доведённые до отчаяния, они решили силой захватить ваше убежище.\n\nОни нападают немедленно.</VEE_WhiteoutRefugees_Rejected>
+
+  <!-- Psychic stimulation -->
+
+  <!-- EN: Young -->
+  <VEE_Young>Молодёжь</VEE_Young>
+  <!-- EN: Elder -->
+  <VEE_Elder>Старики</VEE_Elder>
+
+  <!-- Psychic overdrive -->
+
+  <!-- EN: Male -->
+  <VEE_Male>Мужчины</VEE_Male>
+  <!-- EN: Female -->
+  <VEE_Female>Женщины</VEE_Female>
+
+  <!-- All stage incidents -->
+  <!-- EN: Current stage: {0}. Stage has been active for {1} -->
+  <VEE_CurrentStage>Текущая стадия: {0}. Длится: {1}</VEE_CurrentStage>
+
+</LanguageData>

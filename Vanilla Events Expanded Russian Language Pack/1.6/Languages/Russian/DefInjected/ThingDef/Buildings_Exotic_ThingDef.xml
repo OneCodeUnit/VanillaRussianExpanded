@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: crashed shuttle -->
+  <VEE_Shuttle.label>разбитый челнок</VEE_Shuttle.label>
+  <!-- EN: A crashed, spacer-tech shuttle designed for transit between surface and orbit. Can be deconstructed to yield some valuable salvage. -->
+  <VEE_Shuttle.description>Челнок, построенный по космическим технологиям. Служит транспортным средством между поверхностью и орбитой. Его можно разобрать для получения ценных ресурсов.</VEE_Shuttle.description>
+  
+  <!-- EN: crashed shuttle (incoming) -->
+  <ShuttleChunkIncoming.label>разбитый челнок (падает)</ShuttleChunkIncoming.label>
+  
+  <!-- EN: crashed shuttle -->
+  <VEE_Shuttle_Combat.label>разбитый челнок</VEE_Shuttle_Combat.label>
+  <!-- EN: A crashed, spacer-tech shuttle designed for transit between surface and orbit. Can be deconstructed to yield some valuable salvage. -->
+  <VEE_Shuttle_Combat.description>Челнок, построенный по космическим технологиям. Служит транспортным средством между поверхностью и орбитой. Его можно разобрать для получения ценных ресурсов.</VEE_Shuttle_Combat.description>
+  
+  <!-- EN: crashed shuttle (incoming) -->
+  <VEE_ShuttleChunkIncoming_Combat.label>разбитый челнок (падает)</VEE_ShuttleChunkIncoming_Combat.label>
+  
+  <!-- EN: crashed shuttle -->
+  <VEE_Shuttle_Heavy.label>разбитый челнок</VEE_Shuttle_Heavy.label>
+  <!-- EN: A crashed, spacer-tech shuttle designed for transit between surface and orbit. Can be deconstructed to yield some valuable salvage. -->
+  <VEE_Shuttle_Heavy.description>Челнок, построенный по космическим технологиям. Служит транспортным средством между поверхностью и орбитой. Его можно разобрать для получения ценных ресурсов.</VEE_Shuttle_Heavy.description>
+  
+  <!-- EN: crashed shuttle (incoming) -->
+  <VEE_ShuttleChunkIncoming_Heavy.label>разбитый челнок (падает)</VEE_ShuttleChunkIncoming_Heavy.label>
+  
+  <!-- EN: orbital ship chunk (incoming) -->
+  <VEE_ShipChunkHumanIncoming.label>обломок орбитального корабля (падает)</VEE_ShipChunkHumanIncoming.label>
+  
+  <!-- EN: orbital ship chunk (incoming) -->
+  <VEE_ShipChunkHumanIncoming_Volatile.label>обломок орбитального корабля (падает)</VEE_ShipChunkHumanIncoming_Volatile.label>
+  
+  <!-- EN: orbital ship chunk (incoming) -->
+  <VEE_ShipChunkHumanIncoming_Cargo.label>обломок орбитального корабля (падает)</VEE_ShipChunkHumanIncoming_Cargo.label>
+  
+  <!-- EN: orbital ship chunk (incoming) -->
+  <VEE_ShipChunkHumanIncoming_DropPod.label>обломок орбитального корабля (падает)</VEE_ShipChunkHumanIncoming_DropPod.label>
+  
+  <!-- EN: orbital ship chunk -->
+  <VEE_ShipChunkHuman.label>обломок орбитального корабля</VEE_ShipChunkHuman.label>
+  <!-- EN: A large chunk of an orbital ship, violently torn off during a catastrophic structural failure in high orbit. Having crashlanded not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
+  <VEE_ShipChunkHuman.description>Крупный обломок орбитального корабля, отколовшийся во время серьёзной аварии на высокой орбите.\n\nЕго можно разобрать для получения ценных ресурсов.</VEE_ShipChunkHuman.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <VEE_ShipChunkHuman.comps.0.inspectString>Разберите для получения ценных ресурсов.</VEE_ShipChunkHuman.comps.0.inspectString>
+  
+  <!-- EN: orbital ship chunk -->
+  <VEE_ShipChunkHuman_Volatile_Spawner.label>обломок орбитального корабля</VEE_ShipChunkHuman_Volatile_Spawner.label>
+  <!-- EN: A large chunk of an orbital ship, violently torn off during a catastrophic structural failure in high orbit. Having crashlanded not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
+  <VEE_ShipChunkHuman_Volatile_Spawner.description>Крупный обломок орбитального корабля, отколовшийся во время серьёзной аварии на высокой орбите.\n\nЕго можно разобрать для получения ценных ресурсов.</VEE_ShipChunkHuman_Volatile_Spawner.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <VEE_ShipChunkHuman_Volatile_Spawner.comps.0.inspectString>Разберите для получения ценных ресурсов.</VEE_ShipChunkHuman_Volatile_Spawner.comps.0.inspectString>
+  
+  <!-- EN: orbital ship chunk -->
+  <VEE_ShipChunkHuman_Cargo.label>обломок орбитального корабля</VEE_ShipChunkHuman_Cargo.label>
+  <!-- EN: A large chunk of an orbital ship, violently torn off during a catastrophic structural failure in high orbit. Having crashlanded not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
+  <VEE_ShipChunkHuman_Cargo.description>Крупный обломок орбитального корабля, отколовшийся во время серьёзной аварии на высокой орбите.\n\nЕго можно разобрать для получения ценных ресурсов.</VEE_ShipChunkHuman_Cargo.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <VEE_ShipChunkHuman_Cargo.comps.0.inspectString>Разберите для получения ценных ресурсов.</VEE_ShipChunkHuman_Cargo.comps.0.inspectString>
+  
+  <!-- EN: orbital ship chunk -->
+  <VEE_ShipChunkHuman_DropPod_Spawner.label>обломок орбитального корабля</VEE_ShipChunkHuman_DropPod_Spawner.label>
+  <!-- EN: A large chunk of an orbital ship, violently torn off during a catastrophic structural failure in high orbit. Having crashlanded not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
+  <VEE_ShipChunkHuman_DropPod_Spawner.description>Крупный обломок орбитального корабля, отколовшийся во время серьёзной аварии на высокой орбите.\n\nЕго можно разобрать для получения ценных ресурсов.</VEE_ShipChunkHuman_DropPod_Spawner.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <VEE_ShipChunkHuman_DropPod_Spawner.comps.0.inspectString>Разберите для получения ценных ресурсов.</VEE_ShipChunkHuman_DropPod_Spawner.comps.0.inspectString>
+  
+  <!-- EN: slag (incoming) -->
+  <SlagIncoming.label>металлолом (падает)</SlagIncoming.label>
+
+</LanguageData>
