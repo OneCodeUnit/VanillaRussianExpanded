@@ -4,12 +4,16 @@
   <VREA_ExtractNeutroamine>Извлечь 20 нейтроамина</VREA_ExtractNeutroamine>
   <!-- EN: Extract 20 neutroamine from the tank. A pawn will come to extract it. -->
   <VREA_ExtractNeutroamineDesc>Из хранилища будет извлечено 20 нейтроамина. Поселенец скоро отправится за ним.</VREA_ExtractNeutroamineDesc>
+  <!-- EN: Switches neutroamine flow on/off. -->
+  <VREA_NeutroValve>вентиль нейтроамина</VREA_NeutroValve>
+  <!-- EN: Switches neutroamine flow on/off. A pawn will come open/close the valve. -->
+  <VREA_NeutroValveDesc>Открывает или перекрывает поток топлива.</VREA_NeutroValveDesc>
   <!-- EN: Free memory space -->
   <VREA.FreeMemorySpace>Свободная память</VREA.FreeMemorySpace>
   <!-- EN: Android stand is occupied -->
   <VREA.AndroidStandIsOccupied>Эта стойка андроида занята</VREA.AndroidStandIsOccupied>
   <!-- EN: Artificial {0} -->
-  <VREA.Artificial>Искусств {0}</VREA.Artificial>
+  <VREA.Artificial>Искусств {lookup: {0}; Case; 3}</VREA.Artificial>
   <!-- EN: An artificial {0} -->
   <VREA.ArtificialDesc>Искусств {0}</VREA.ArtificialDesc>
   <!-- EN: Installing {0} -->
