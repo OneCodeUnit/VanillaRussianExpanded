@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="SignalJammer"]/description</xpath>
+    <value>
+      <description>A signal emitter that disguises the electromagnetic signature of your gravship, allowing access to heavily-defended landing sites. While active, it efficiently masks the energy signature of the gravship, making it less likely to be detected. Additionally, this system provides critical tactical utility by stunning enemy gravship artillery for 12 hours upon arrival at defended locations and delaying imminent detection events by 24 hours.</description>
+    </value>
+  </Operation>
+</Patch>

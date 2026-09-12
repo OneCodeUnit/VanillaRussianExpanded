@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="VFEI2_Nullipede"]/description</xpath>
+		<value>
+			<description>An incredibly rare and monstrously large insectoid of the Exo geneline, the nullipede is an insect leviathan perfectly adapted to the frigid vacuum of space. It possesses extreme cellular regeneration, allowing it to knit together grievous wounds and heal damage almost instantly. Direct exposure to fire completely shuts down its biological repair systems. Its sheer resilience makes it a dreaded, virtually indestructible horror among the stars, and the main reason many adventurers prefer to stay planet-side. Upon death, it’s possible to extract an Exo pherocore from its body.</description>
+		</value>
+	</Operation>
+</Patch>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_GenerateEmptyOrbit>Generate empty orbit</VGE_GenerateEmptyOrbit>
+  <VGE_GenerateEmptyOrbitDesc>Open up an empty orbital map to build prefabs for export on.</VGE_GenerateEmptyOrbitDesc>
+  <VGE_FireBombardmentTargeter>Fire {0}</VGE_FireBombardmentTargeter>
+  <VGE_FireBombardmentTargeterDesc>Fire {0} at target location. The gravship bombardment targeter will enter a brief cooldown period before it can be used to fire again.</VGE_FireBombardmentTargeterDesc>
+  <VGE_TargeterOnCooldown>Cooldown: {0}</VGE_TargeterOnCooldown>
+  <VGE_TargeterNoAmmo>Can't fire: No ammo.</VGE_TargeterNoAmmo>
+  <VGE_NeedsLinkedTargetingTerminal>Can't fire: Needs a linked targeting terminal.</VGE_NeedsLinkedTargetingTerminal>
+  <VGE_TargeterOutOfRange>Can't fire: Out of range.</VGE_TargeterOutOfRange>
+  <VGE_TargetingConsoleOnlyGravshipArtillery>Targeting console can only link with gravship artillery.</VGE_TargetingConsoleOnlyGravshipArtillery>
+  <VGE_LinkWithTurretConsoleDesc>Select a turret to link with. This targeting console will be used to operate that turret.</VGE_LinkWithTurretConsoleDesc>
+  <VGE_UnlinkWithTurretConsoleDesc>Break the current link to a turret, allowing you to link with a different turret.</VGE_UnlinkWithTurretConsoleDesc>
+  <VGE_SelectLinkedTurretConsoleDesc>Show the linked turret.</VGE_SelectLinkedTurretConsoleDesc>
+  <VGE_LinkWithTurretTargeterDesc>Select a turret to link with. This orbital targeter will be used to operate that turret.</VGE_LinkWithTurretTargeterDesc>
+  <VGE_UnlinkWithTurretTargeterDesc>Break the current link to a turret, allowing you to link with a different turret.</VGE_UnlinkWithTurretTargeterDesc>
+  <VGE_SelectLinkedTurretTargeterDesc>Show the linked turret.</VGE_SelectLinkedTurretTargeterDesc>
+  <VGE_LaunchWarpod>Launch warpod</VGE_LaunchWarpod>
+  <VGE_LaunchWarpodDesc>Launch this sub-orbital warpod towards a precise target destination.</VGE_LaunchWarpodDesc>
+  <VGE_WarpodLocationNeedRevealed>Can't launch warpods here: location needs to be revealed.</VGE_WarpodLocationNeedRevealed>
+  <VGE_MustBePlacedInSpace>Must be placed in space.</VGE_MustBePlacedInSpace>
+
+  <!-- Gravship shield -->
+  <VGE_ShieldOverheated>Gravship shield generator has overheated due to lack of empty heatsinks. Consider building more heatsinks.</VGE_ShieldOverheated>
+  <VGE_ShieldOverheatedGizmo>Overheated</VGE_ShieldOverheatedGizmo>
+  <VGE_ShieldInternalHeat>Heat units stored internally: {0}/{1}</VGE_ShieldInternalHeat>
+
+  <!-- Escape pod -->
+  <VGE_EscapePod_Enter>Enter escape pod</VGE_EscapePod_Enter>
+  <VGE_EscapePod_InsertPawn>Carry to escape pod</VGE_EscapePod_InsertPawn>
+  <VGE_EscapePod_InsertCarriedPawn>Place {PAWN} in escape pod</VGE_EscapePod_InsertCarriedPawn>
+  <VGE_EscapePod_Occupied>Escape pod is already occupied</VGE_EscapePod_Occupied>
+  <VGE_CommandAutoRebuild_EscapePod>If this is on, {BUILDING_definite} will automatically be replaced after it's used.</VGE_CommandAutoRebuild_EscapePod>
+  <VGE_EscapePod_CancelEvacuation>Cancel Evacuation</VGE_EscapePod_CancelEvacuation>
+  <VGE_EscapePod_Evacuation>Evacuate Gravship</VGE_EscapePod_Evacuation>
+  <VGE_EscapePod_EvacuationDesc>Initiates a gravship-wide evacuation protocol. All colonists will immediately seek out and board the closest available escape pod. The evacuation process plays a ship-wide siren until all pods have launched. If there is not enough escape pods, some colonists may fail to evacuate.</VGE_EscapePod_EvacuationDesc>
+  <VGE_EscapePod_EvacuationConfirmation>Are you sure you want to issue an evacuation?\n\nEvery colonist who's able to do so will immediately stop doing what they are doing and attempt to find an escape pod to use. If they're unable to immediately find an escape pod, they'll keep trying to find one unless they're drafted or an evacuation is stopped.\n\nIf you decide to cancel the evacuation your colonists will attempt to return to anything they may have been working on at the time (if that's possible).</VGE_EscapePod_EvacuationConfirmation>
+
+  <!-- Vacuum emergency light -->
+  <VGE_VacuumEmergencyLight_UnsafeVacuumLevel>Select dangerous vacuum level</VGE_VacuumEmergencyLight_UnsafeVacuumLevel>
+  <VGE_VacuumEmergencyLight_UnsafeVacuumLevelDesc>Select a vacuum level that will be considered unsafe. Once the vacuum reaches this level the light will turn on and any undrafted colonists (without vacuum protective gear) will attempt to seek safety.</VGE_VacuumEmergencyLight_UnsafeVacuumLevelDesc>
+  <VGE_VacuumEmergencyLight_UnsafeVacuumSlider>Unsafe vacuum level: {0_percentage}</VGE_VacuumEmergencyLight_UnsafeVacuumSlider>
+  <VGE_VacuumEmergencyLight_EvacuatePawns>Evacuate area when unsafe vacuum level reached</VGE_VacuumEmergencyLight_EvacuatePawns>
+
+  <!-- Fuel provider/electric thrusters -->
+  <VGE_FuelTab_ElectricThrusters>electric thrusters</VGE_FuelTab_ElectricThrusters>
+  <VGE_FuelTab_ChargedThrusters>charged thrusters</VGE_FuelTab_ChargedThrusters>
+  <VGE_UsedCharge>charge</VGE_UsedCharge>
+
+  <!-- Emergency generator -->
+  <VGE_EmergencyGenerator_RemainingPowerOutput>remaining power output: {0} Wd ({1})</VGE_EmergencyGenerator_RemainingPowerOutput>
+  <VGE_EmergencyGenerator_Inactive>inactive</VGE_EmergencyGenerator_Inactive>
+  <VGE_EmergencyGenerator_AnotherActive>another generator is active</VGE_EmergencyGenerator_AnotherActive>
+  <VGE_EmergencyGenerator_MustBeFullyMaintained>must be fully maintained</VGE_EmergencyGenerator_MustBeFullyMaintained>
+  <VGE_EmergencyGenerator_MustBeConnectedToGravEngine>must be connected to a grav engine</VGE_EmergencyGenerator_MustBeConnectedToGravEngine>
+
+  <VGE_HackWarcomputer>Hack enemy warcomputer to retrieve gravdata</VGE_HackWarcomputer>
+  <VGE_GravdataWillBeLostWarning>Gravdata obtained will be lost unless you select a gravtech research project.</VGE_GravdataWillBeLostWarning>
+  <VGE_WarcomputerHackedBlackBox>Hostile warcomputer hacked. {0} gravdata stored in the gravship black box.</VGE_WarcomputerHackedBlackBox>
+  <VGE_WarcomputerHackedResearch>Hostile warcomputer hacked. {0} gravdata added to {1} research.</VGE_WarcomputerHackedResearch>
+  <VGE_DestinationJammed>Cannot land here: destination is being jammed by an enemy signal jammer.</VGE_DestinationJammed>
+  <VGE_DestinationJammedDropPod>Unable to launch drop pods as the destination is protected by a signal jammer.</VGE_DestinationJammedDropPod>
+  <VGE_DestinationJammedWarpod>Unable to launch war pods as the destination is protected by a signal jammer.</VGE_DestinationJammedWarpod>
+  <VGE_Visibility400k>Others are becoming aware of your gravship. Consider laying low for a while, or construct a signal jammer.</VGE_Visibility400k>
+  <VGE_Visibility600k>Gravship visibility</VGE_Visibility600k>
+  <VGE_Visibility600kDesc>Your gravship, {0}, has caught attention of others. If you continue to generate visibility, you will encounter a gravship-level threat.\n\nVisibility is generated as your gravship travels, but also when you use gravship weaponry or perform orbital scans from your gravship. It lowers passively over time.\n\nGravship-level threats can include orbital bombardment platforms, pirate installations or even enemy gravships. They will actively engage you with powerful artillery over huge distances. If your gravship is unprepared, it will be obliterated.\n\nAt this moment, your gravship is armed with:\n\n{1}</VGE_Visibility600kDesc>
+  <VGE_NoArmamentsPresent>No gravship armaments present. Consider building point defense turrets and shield generators, as well as gravship artillery.</VGE_NoArmamentsPresent>
+  <VGE_Warpods>warpods</VGE_Warpods>
+  <VGE_SignalJammerCooldown>Signal jammer is on cooldown for: {0}</VGE_SignalJammerCooldown>
+  <VGE_SignalJammerStunnedArtillery>Signal jammer activated: Enemy gravship artillery stunned for 12 hours.</VGE_SignalJammerStunnedArtillery>
+  <VGE_LocationDestabilizing>Location destabilizing</VGE_LocationDestabilizing>
+  <VGE_LocationDestabilizingDesc>An orbital location you're currently on is destabilizing. Soon it will collapse completely, and anything on it, including your colonists, will be gone.\n\nTime remaining: {0}\n\nEnsure you evacuate before the location burns up in atmosphere.</VGE_LocationDestabilizingDesc>
+  <VGE_DestabilizesIn>Destabilizes in: {0}</VGE_DestabilizesIn>
+  <VGE_JammerScrambledSignal>Your signal jammer scrambled the signal lock, giving you an additional {0} hours before the warplatform finds you.</VGE_JammerScrambledSignal>
+  <VGE_AncientSignalJammerLaunchBlocked>Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to initiate launching sequence.</VGE_AncientSignalJammerLaunchBlocked>
+  <VGE_AncientSignalJammerShuttleBlocked>Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to launch the shuttle.</VGE_AncientSignalJammerShuttleBlocked>
+  <VGE_AncientSignalJammerWarpodBlocked>Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to launch the warpod.</VGE_AncientSignalJammerWarpodBlocked>
+  <VGE_AncientSignalJammerCommsBlocked>Active signal jammer prevents communication.</VGE_AncientSignalJammerCommsBlocked>
+  <VGE_AncientSignalJammerBlockedGeneric>Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to launch the {0}.</VGE_AncientSignalJammerBlockedGeneric>
+  <VGE_ThreatDescription_Exoinsectoids>infested with a dangerous colony of exoinsectoids</VGE_ThreatDescription_Exoinsectoids>
+  <VGE_ThreatDescription_Mechanoids>occupied by a number of hostile mechanoids</VGE_ThreatDescription_Mechanoids>
+  <VGE_ThreatDescription_Drones>controlled by automated, ancient defensive drones, which are still active and aggressive</VGE_ThreatDescription_Drones>
+  <VGE_ThreatDescription_Pirates>being salvaged by a group of hostile pirates</VGE_ThreatDescription_Pirates>
+  <VGE_GravshipGraveyardLetterLabel>Gravcore detected: Gravship graveyard</VGE_GravshipGraveyardLetterLabel>
+  <VGE_GravshipGraveyardLetterText>You have detected the distinct energy signature of a gravcore emanating from a massive field of debris: a gravship graveyard. You know that when you arrive, your navigation systems will be locked. An ancient signal jammer is active within the debris field, preventing your gravship from initiating the launch. You must navigate through the field of unstable ancient gravmines, locate the source of the jamming, and neutralize it to escape.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</VGE_GravshipGraveyardLetterText>
+  <VGE_InfestedInstallationLetterLabel>Gravcore detected: Infested installation</VGE_InfestedInstallationLetterLabel>
+  <VGE_InfestedInstallationLetterText>You have detected the energy signature of a gravcore. The signal is coming from an abandoned orbital station infested with exoinsectoids. Scans reveal numerous hives on board. You must navigate the infested ruins, defeat the exoinsectoid defenders, and destroy the infested gravlock tether which will continue spawning new exoinsectoids throughout the platform. Once destroyed, you will be able to obtain the gravcore.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</VGE_InfestedInstallationLetterText>
+  <VGE_PayTribute>Pay tribute to {0}: {1} silver</VGE_PayTribute>
+  <VGE_PaySilver>Pay {0} silver</VGE_PaySilver>
+  <VGE_PostponeTribute>Postpone payment by {0} days</VGE_PostponeTribute>
+  <VGE_RefuseTribute>Refuse to pay the fee</VGE_RefuseTribute>
+  <VGE_TributePaidReply>{0} thanks you for your generous contribution to their cause. You will not be attacked.</VGE_TributePaidReply>
+  <VGE_PostponeReply>{0} accepts your request for more time and will contact you again in {1} days.</VGE_PostponeReply>
+  <VGE_RefuseReply>{0} is more than happy about the current state of affairs. {1} has locked in on your gravship and begins the attack.</VGE_RefuseReply>
+  <VGE_CallSalvagerStation>Call {0} (tribute demand)</VGE_CallSalvagerStation>
+  <VGE_CallSalvagerStationDialog>{0}, the captain of {1} is ready to receive your tribute of {2} silver. They promise to let you live if you pay the fee.</VGE_CallSalvagerStationDialog>
+  <VGE_SalvagerDropshipRaid>Salvager dropship</VGE_SalvagerDropshipRaid>
+  <VGE_SalvagerDropshipRaidDesc>A salvager dropship has arrived! The salvagers have sent a boarding party to collect the tribute by force.</VGE_SalvagerDropshipRaidDesc>
+  <VGE_TributeDemandPopup>{0}, the captain of {1} is ready to receive your tribute of {2} silver. They promise to let you live if you pay the fee.\n\nThey may also accept your plea to postpone the payment by {3} days, but they will lock your grav engine remotely, making it unable to leave. Only paying the tribute or defeating the salvager's station will unlock the grav engine.</VGE_TributeDemandPopup>
+  <VGE_PostponedTributeDemandPopup>{0}, the captain of {1} is once again ready to receive your tribute of {2} silver. They promise to let you live if you pay the fee.\n\nRefusing to pay the tribute will initiate the attack.</VGE_PostponedTributeDemandPopup>
+  <VGE_TributeDemand>Tribute demand</VGE_TributeDemand>
+  <VGE_TributeDemandHover>A salvager station is demanding tribute of {0} silver or it will open fire.\n\nTime until tribute needs to be paid: {1}\n\nYou can ask them to postpone the payment, but the grav engine will be locked remotely until the tribute is paid or the station is defeated. You can also pay the fee immediately, if you have the funds. Running away will likely have the salvagers send a search party after you.</VGE_TributeDemandHover>
+  <VGE_JammerScrambledSalvager>Your signal jammer scrambled salvager’s station targeting systems, giving you additional 6 hours to decide whether to pay the tribute or fight.</VGE_JammerScrambledSalvager>
+  <VGE_EngineLockedRemotelyInspect>Doesn't work: locked remotely</VGE_EngineLockedRemotelyInspect>
+  <VGE_EngineLockedRemotely>Can't launch: locked remotely by a salvager station.</VGE_EngineLockedRemotely>
+  <VGE_JammerScrambledGravjumper>Your signal jammer scrambled their scanning process, giving you an additional 24 hours before {0} engages.</VGE_JammerScrambledGravjumper>
+  <VGE_GravjumperAttacks>Gravjumper attacks</VGE_GravjumperAttacks>
+  <VGE_GravjumperAttacksDesc>Despite your attempts to shake off the pursuit, the enemy gravjumper {0} has successfully tracked your new landing coordinates. It has arrived in orbit and is immediately engaging your gravship. Prepare for immediate combat.\n\nYour vessel will be under continuous fire from the gravjumper’s weapons. To survive, you must destroy the enemy gravjumper engine, as well as eliminate all of the gravjumper’s artillery turrets.\n\nYou can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the gravjumper and destroy it from the inside. If you cannot defend yourself, you must attempt to escape its range immediately.</VGE_GravjumperAttacksDesc>
+  <VGE_GravjumperLaunched>{0} has launched and will land in your local area imminently.</VGE_GravjumperLaunched>
+  <VGE_GravjumperDefeated>Gravjumper defeated</VGE_GravjumperDefeated>
+  <VGE_GravjumperDefeatedDesc>Enemy gravjumper threat has been defeated, but the area still offers valuable loot. You can salvage the wreck of the gravjumper to gain some valuable resources.</VGE_GravjumperDefeatedDesc>
+  <VGE_JammerScrambledCluster>Your signal jammer scrambled the signal lock, giving you an additional {0} days before the warplatform finds you.</VGE_JammerScrambledCluster>
+  <VGE_OrbitalClusterRelayed>Mechanoid orbital cluster has relayed your coordinates to another cluster in radius. It’s moving in to engage.</VGE_OrbitalClusterRelayed>
+  <VGE_JammerScrambledGravship>Your signal jammer scrambled their scanning process, giving you an additional 24 hours before {0} engages.</VGE_JammerScrambledGravship>
+  <VGE_GravshipAttacks>Gravship attacks</VGE_GravshipAttacks>
+  <VGE_GravshipAttacksDesc>Despite your attempts to shake off the pursuit, the enemy gravship {0} has successfully tracked your new landing coordinates. It has arrived in orbit and is immediately engaging your gravship. Prepare for immediate combat.\n\nYour vessel will be under continuous fire from the gravship’s weapons. To survive, you must destroy the enemy gravship engine, as well as eliminate all of the gravship’s artillery turrets.\n\nYou can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the gravjumper and destroy it from the inside. If you cannot defend yourself, you must attempt to escape its range immediately.</VGE_GravshipAttacksDesc>
+  <VGE_GravshipGeneric>your gravship</VGE_GravshipGeneric>
+  <VGE_RaidEnemyGravship>Raid: Enemy gravship</VGE_RaidEnemyGravship>
+  <VGE_RaidEnemyGravshipDesc>An enemy gravship called {0} has finally caught up. It has dropped into your local orbit and initiated a boarding sequence. You need to destroy their gravship engine, as well as all of their gravship artillery and crew to defeat them.\n\nSince they are well equipped and prepared, it may be best to defend until your gravship engine is able to launch again, and escape.\n\nIf you manage to defeat them, their wreck will offer valuable loot, including a gravcore.</VGE_RaidEnemyGravshipDesc>
+  <VGE_GravshipEngineReady>Gravship engine ready!</VGE_GravshipEngineReady>
+  <VGE_GravshipEngineReadyDesc>Your gravship engine is off-cooldown. You can now perform a gravship launch.</VGE_GravshipEngineReadyDesc>
+  <VGE_SalvagerStrongholdLetter>Gravcore detected: Salvager stronghold</VGE_SalvagerStrongholdLetter>
+  <VGE_SalvagerStrongholdLetterDesc>You have detected the distinct energy signature of a gravcore emanating from a large asteroid. Scans reveal that a well-armed faction of salvagers has claimed the rock, building a heavily defended stronghold upon it. An active enemy signal jammer within the facility prevents your gravship from landing in close proximity, forcing you to touch down on the dangerous outskirts of the asteroid.\n\nYou must assault the base, navigate their defenses, and destroy the gravlock tether located in the center of the compound to obtain the gravcore.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</VGE_SalvagerStrongholdLetterDesc>
+  <!--Misc-->
+  <VGE_NullipedeThumperNeedsSpace>Nullipede thumper cannot be activated on the surface.</VGE_NullipedeThumperNeedsSpace>
+  <VGE_NeedsHiveOrSubcreeper>Can’t place subcreep outside of the radius of exo hives or subcreepers.</VGE_NeedsHiveOrSubcreeper>
+  <VGE_IncomingEnemyGravship>Incoming gravship</VGE_IncomingEnemyGravship>
+  <VGE_IncomingEnemyGravshipDesc>An enemy gravship is approaching fast.\n\nTime until arrival: {0}\n\nYou will not be able to escape before it arrives. Prepare for them to fire a volley at you and escape as soon as you can.</VGE_IncomingEnemyGravshipDesc>
+
+</LanguageData>

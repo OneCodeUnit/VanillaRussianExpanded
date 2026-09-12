@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <!-- Change description -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="GravshipShieldGenerator"]/description/text()</xpath>
+    <value>A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. Active shields generate structural heat which if not absorbed by heatsinks, will be vented into the gravship. One gravship can support four gravship shield generators.</value>
+  </Operation>
+</Patch>

@@ -1,0 +1,53 @@
+<ModMetaData>
+	<name>Vanilla Gravship Expanded - Chapter 2</name>
+	<author>Oskar Potocki, Sarg Bjornson, Sokyran, Taranchuk</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.RimWorld.Odyssey</packageId>
+			<displayName>Rimworld - Odyssey</displayName>
+			<steamWorkshopUrl>https://store.steampowered.com/app/3022790/RimWorld__Odyssey/</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+		<li>
+			<packageId>vanillaexpanded.gravship</packageId>
+			<displayName>Vanilla Gravship Expanded - Chapter 1</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3609835606</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaGravshipExpanded</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>vanillaexpanded.gravship</li>
+		<li>vanillaracesexpanded.insector</li>
+		<li>OskarPotocki.VFE.Insectoid2</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>Bulldog.VanillaChemfuelExpandedOdysseyPatch</li>
+	</incompatibleWith>
+	<packageId>vanillaexpanded.gravship2</packageId>
+	<description>The aim of Vanilla Gravships Expanded - Chapter 2, titled ‘The Battle’, is to take your precious gravship and plunge it into the unforgiving theater of orbital combat. Instead of being undefeated in the late game, your gravship must now contend with an expanded selection of threats, turning your home into a heavily armed fortress.
+
+This chapter delivers the core combat systems: a dynamic gravship threat detection mechanic that ensures your actions have consequences, drawing hostile attention from the orbit. You’ll engage in epic encounters against exceptionally rare enemy gravships, endure shelling from automated bombardment platforms, and survive overwhelming mechanoid orbital clusters that test your defenses.
+
+A key part of this is military progression. Survival demands researching advanced weaponry, armored hulls, and signal jammers to stay ahead of the enemy. The usual defensive measures you’re used to won’t be too valuable when the enemy bombards you from a different world map location. From linking massive artillery pieces and launching hellpods for boarding actions, to salvaging ancient wrecks and assaulting heavily defended pirate stations, your vessel must constantly be prepared to fight off threats.
+
+Chapter 2 is about confrontation and defense. While ship-to-ship battles are rare world-spanning events, you must prepare for massive, static artillery exchanges. It’s the next step in ensuring your home among the stars can properly defend itself.
+
+Since it builds directly upon our previous overhaul, it is safe to assume that any mods that alter gravships in any way will be incompatible. We're doing some pretty extensive changes to the system after all. It is recommended to only use mods confirmed by others as compatible.
+</description>
+</ModMetaData>
