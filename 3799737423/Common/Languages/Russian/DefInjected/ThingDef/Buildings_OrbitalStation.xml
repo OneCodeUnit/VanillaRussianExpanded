@@ -1,117 +1,191 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: astrofuel barrel -->
   <VGE2_AstrofuelBarrel.label>astrofuel barrel</VGE2_AstrofuelBarrel.label>
+  <!-- EN: A barrel of volatile astrofuel. It will explode if damaged. -->
   <VGE2_AstrofuelBarrel.description>A barrel of volatile astrofuel. It will explode if damaged.</VGE2_AstrofuelBarrel.description>
 
+  <!-- EN: astrofuel pipe segment -->
   <VGE2_AstrofuelPipeSegment.label>astrofuel pipe segment</VGE2_AstrofuelPipeSegment.label>
+  <!-- EN: A long segment of an overground astrofuel pipe. It will explode if damaged, and will leak astrofuel when damaged. -->
   <VGE2_AstrofuelPipeSegment.description>A long segment of an overground astrofuel pipe. It will explode if damaged, and will leak astrofuel when damaged.</VGE2_AstrofuelPipeSegment.description>
 
+  <!-- EN: explosives crate -->
   <VGE2_ExplosivesCrate.label>explosives crate</VGE2_ExplosivesCrate.label>
+  <!-- EN: A container of mining charges. It will explode if damaged. -->
   <VGE2_ExplosivesCrate.description>A container of mining charges. It will explode if damaged.</VGE2_ExplosivesCrate.description>
 
+  <!-- EN: floor oxygen vent -->
   <VGE2_FloorOxygenVent.label>floor oxygen vent</VGE2_FloorOxygenVent.label>
+  <!-- EN: An oxygen vent leading to a deeper oxygen installation, continuously pushing oxygen into the room. -->
   <VGE2_FloorOxygenVent.description>An oxygen vent leading to a deeper oxygen installation, continuously pushing oxygen into the room.</VGE2_FloorOxygenVent.description>
 
+  <!-- EN: locked shuttle -->
   <VGE2_LockedShuttle.label>locked shuttle</VGE2_LockedShuttle.label>
+  <!-- EN: A chemfuel-powered shuttle designed for long-distance travel, typically utilized by the trading guild. Heavy magnetic clamps prevent it from being operated without authorization, but it can still be deconstructed to obtain the shuttle engine. -->
   <VGE2_LockedShuttle.description>A chemfuel-powered shuttle designed for long-distance travel, typically utilized by the trading guild. Heavy magnetic clamps prevent it from being operated without authorization, but it can still be deconstructed to obtain the shuttle engine.</VGE2_LockedShuttle.description>
 
+  <!-- EN: nav beacon -->
   <VGE2_NavBeacon.label>nav beacon</VGE2_NavBeacon.label>
+  <!-- EN: A ship navigation beacon. Used to help shuttles and larger vessels with docking procedures. -->
   <VGE2_NavBeacon.description>A ship navigation beacon. Used to help shuttles and larger vessels with docking procedures.</VGE2_NavBeacon.description>
 
+  <!-- EN: orbital light -->
   <VGE2_OrbitalLight.label>orbital light</VGE2_OrbitalLight.label>
+  <!-- EN: An internally powered standing lamp that lights an area. People need light to move and work at full speed. In case of loss of pressure, the light will turn red. -->
   <VGE2_OrbitalLight.description>An internally powered standing lamp that lights an area. People need light to move and work at full speed. In case of loss of pressure, the light will turn red.</VGE2_OrbitalLight.description>
 
+  <!-- EN: oxyfarm -->
   <VGE2_Oxyfarm.label>oxyfarm</VGE2_Oxyfarm.label>
+  <!-- EN: A small, self-contained tank filled with engineered oxyalgae, capable of producing oxygen in small, steady quantities. -->
   <VGE2_Oxyfarm.description>A small, self-contained tank filled with engineered oxyalgae, capable of producing oxygen in small, steady quantities.</VGE2_Oxyfarm.description>
 
+  <!-- EN: power socket -->
   <VGE2_PowerSocket.label>power socket</VGE2_PowerSocket.label>
+  <!-- EN: A medium-sized power socket emerging from a deeper capacitor bank under the floor. Constantly generates a steady supply of power. -->
   <VGE2_PowerSocket.description>A medium-sized power socket emerging from a deeper capacitor bank under the floor. Constantly generates a steady supply of power.</VGE2_PowerSocket.description>
 
+  <!-- EN: spacer crate -->
   <VGE2_SpacerCrate.label>spacer crate</VGE2_SpacerCrate.label>
+  <!-- EN: A spacer, futuristic crate with nothing of value in it. -->
   <VGE2_SpacerCrate.description>A spacer, futuristic crate with nothing of value in it.</VGE2_SpacerCrate.description>
 
+  <!-- EN: station antenna -->
   <VGE2_StationAntenna.label>station antenna</VGE2_StationAntenna.label>
+  <!-- EN: A precise but fragile antenna used to transmit communications between the orbital stations. -->
   <VGE2_StationAntenna.description>A precise but fragile antenna used to transmit communications between the orbital stations.</VGE2_StationAntenna.description>
 
+  <!-- EN: station equipment block -->
   <VGE2_StationEquipmentBlock.label>station equipment block</VGE2_StationEquipmentBlock.label>
+  <!-- EN: A modular array of station equipment blocks, kept in perfect working order. These units handle critical station logistics and system maintenance. -->
   <VGE2_StationEquipmentBlock.description>A modular array of station equipment blocks, kept in perfect working order. These units handle critical station logistics and system maintenance.</VGE2_StationEquipmentBlock.description>
 
+  <!-- EN: station console -->
   <VGE2_StationConsole.label>station console</VGE2_StationConsole.label>
+  <!-- EN: A special console used to monitor and control various subsystems of the orbital station. -->
   <VGE2_StationConsole.description>A special console used to monitor and control various subsystems of the orbital station.</VGE2_StationConsole.description>
 
+  <!-- EN: small station console -->
   <VGE2_SmallStationConsole.label>small station console</VGE2_SmallStationConsole.label>
+  <!-- EN: A special console used to monitor and control various subsystems of the orbital station. -->
   <VGE2_SmallStationConsole.description>A special console used to monitor and control various subsystems of the orbital station.</VGE2_SmallStationConsole.description>
 
+  <!-- EN: station filing cabinet -->
   <VGE2_StationFilingCabinet.label>station filing cabinet</VGE2_StationFilingCabinet.label>
+  <!-- EN: A filing cabinet containing some documents, critical and not, related to the orbital station. -->
   <VGE2_StationFilingCabinet.description>A filing cabinet containing some documents, critical and not, related to the orbital station.</VGE2_StationFilingCabinet.description>
 
+  <!-- EN: station locker bank -->
   <VGE2_StationLockerBank.label>station locker bank</VGE2_StationLockerBank.label>
+  <!-- EN: A bank of lockers. Used on orbital stations to hold personal belongings of crewmembers. -->
   <VGE2_StationLockerBank.description>A bank of lockers. Used on orbital stations to hold personal belongings of crewmembers.</VGE2_StationLockerBank.description>
 
+  <!-- EN: station system rack -->
   <VGE2_StationSystemRack.label>station system rack</VGE2_StationSystemRack.label>
+  <!-- EN: A rack unit packed with unidentifiable devices. Nothing on it seems particularly valuable. -->
   <VGE2_StationSystemRack.description>A rack unit packed with unidentifiable devices. Nothing on it seems particularly valuable.</VGE2_StationSystemRack.description>
 
+  <!-- EN: trading container -->
   <VGE2_TradingContainer.label>trading container</VGE2_TradingContainer.label>
+  <!-- EN: A large sealed container belonging to some sort of orbital trader’s stockpile. It may contain valuable supplies, but needs to be destroyed to release them. -->
   <VGE2_TradingContainer.description>A large sealed container belonging to some sort of orbital trader’s stockpile. It may contain valuable supplies, but needs to be destroyed to release them.</VGE2_TradingContainer.description>
 
+  <!-- EN: spacer medicine pallet -->
   <VGE_SpacerPallet_Medicine.label>spacer medicine pallet</VGE_SpacerPallet_Medicine.label>
+  <!-- EN: A pallet containing medical supplies. Can be looted to yield medicine. -->
   <VGE_SpacerPallet_Medicine.description>A pallet containing medical supplies. Can be looted to yield medicine.</VGE_SpacerPallet_Medicine.description>
 
+  <!-- EN: spacer rations pallet -->
   <VGE_SpacerPallet_SurvivalMeals.label>spacer rations pallet</VGE_SpacerPallet_SurvivalMeals.label>
+  <!-- EN: A pallet containing stacked rations. Can be looted to yield survival meals. -->
   <VGE_SpacerPallet_SurvivalMeals.description>A pallet containing stacked rations. Can be looted to yield survival meals.</VGE_SpacerPallet_SurvivalMeals.description>
 
+  <!-- EN: spacer component box -->
   <VGE_SpacerBox_ComponentIndustrial.label>spacer component box</VGE_SpacerBox_ComponentIndustrial.label>
+  <!-- EN: A spacer logistical box filled with valuable components. They’re intact and very usable. -->
   <VGE_SpacerBox_ComponentIndustrial.description>A spacer logistical box filled with valuable components. They’re intact and very usable.</VGE_SpacerBox_ComponentIndustrial.description>
 
+  <!-- EN: spacer electronics box -->
   <VGE_SpacerBox_ComponentSpacer.label>spacer electronics box</VGE_SpacerBox_ComponentSpacer.label>
+  <!-- EN: A spacer logistical box filled with electronics and advanced components. Everything seems to work fine. -->
   <VGE_SpacerBox_ComponentSpacer.description>A spacer logistical box filled with electronics and advanced components. Everything seems to work fine.</VGE_SpacerBox_ComponentSpacer.description>
 
+  <!-- EN: spacer steel box -->
   <VGE_SpacerBox_Steel.label>spacer steel box</VGE_SpacerBox_Steel.label>
+  <!-- EN: A spacer logistical box filled with steel scrap. It's heavy but might contain some recoverable metal. -->
   <VGE_SpacerBox_Steel.description>A spacer logistical box filled with steel scrap. It's heavy but might contain some recoverable metal.</VGE_SpacerBox_Steel.description>
 
+  <!-- EN: spacer gravlite box -->
   <VGE_SpacerBox_Gravlite.label>spacer gravlite box</VGE_SpacerBox_Gravlite.label>
+  <!-- EN: A spacer logistical box filled with gravlite panel chunks. While most of it seems like gravlite waste, some chunks appear intact. -->
   <VGE_SpacerBox_Gravlite.description>A spacer logistical box filled with gravlite panel chunks. While most of it seems like gravlite waste, some chunks appear intact.</VGE_SpacerBox_Gravlite.description>
 
+  <!-- EN: station light -->
   <VGE_StationLight_Blue.label>station light</VGE_StationLight_Blue.label>
+  <!-- EN: A special light panel wired to the station's main power source. -->
   <VGE_StationLight_Blue.description>A special light panel wired to the station's main power source.</VGE_StationLight_Blue.description>
 
+  <!-- EN: station light -->
   <VGE_StationLight.label>station light</VGE_StationLight.label>
+  <!-- EN: A special light panel wired to the station's main power source. -->
   <VGE_StationLight.description>A special light panel wired to the station's main power source.</VGE_StationLight.description>
 
+  <!-- EN: pos beacon -->
   <VGE2_PosBeacon_Green.label>pos beacon</VGE2_PosBeacon_Green.label>
+  <!-- EN: An orbital station positioning beacon. Used to ensure the orbital station does not drift off-orbit. -->
   <VGE2_PosBeacon_Green.description>An orbital station positioning beacon. Used to ensure the orbital station does not drift off-orbit.</VGE2_PosBeacon_Green.description>
 
+  <!-- EN: pos beacon -->
   <VGE2_PosBeacon_Red.label>pos beacon</VGE2_PosBeacon_Red.label>
+  <!-- EN: An orbital station positioning beacon. Used to ensure the orbital station does not drift off-orbit. -->
   <VGE2_PosBeacon_Red.description>An orbital station positioning beacon. Used to ensure the orbital station does not drift off-orbit.</VGE2_PosBeacon_Red.description>
 
+  <!-- EN: ancient warning light -->
   <VGE_AncientEmergencyLight_Orange.label>ancient warning light</VGE_AncientEmergencyLight_Orange.label>
 
+  <!-- EN: infested gravlock tether -->
   <VGE_InfestedGravlockTether.label>infested gravlock tether</VGE_InfestedGravlockTether.label>
+  <!-- EN: A corrupted gravlock tether that has been hollowed out and repurposed into a gigantic exoinsectoid hive. Integrated directly into the station's ventilation system, this pulsing structure continuously pumps larvae through the vents, spawning new insectoids that spread throughout the station.\n\nDestroy the infested gravlock tether to obtain a gravcore. -->
   <VGE_InfestedGravlockTether.description>A corrupted gravlock tether that has been hollowed out and repurposed into a gigantic exoinsectoid hive. Integrated directly into the station's ventilation system, this pulsing structure continuously pumps larvae through the vents, spawning new insectoids that spread throughout the station.\n\nDestroy the infested gravlock tether to obtain a gravcore.</VGE_InfestedGravlockTether.description>
+  <!-- EN: Infested gravlock tether -->
   <VGE_InfestedGravlockTether.comps.3.label>Infested gravlock tether</VGE_InfestedGravlockTether.comps.3.label>
+  <!-- EN: You detect the heavy signs of the exoinsectoid mega-hive nearby. The infested gravlock tether must be destroyed to yield valuable gravcore and stop the ongoing infestation. -->
   <VGE_InfestedGravlockTether.comps.3.text>You detect the heavy signs of the exoinsectoid mega-hive nearby. The infested gravlock tether must be destroyed to yield valuable gravcore and stop the ongoing infestation.</VGE_InfestedGravlockTether.comps.3.text>
 
+  <!-- EN: infested vent -->
   <VGE_InfestedVent.label>infested vent</VGE_InfestedVent.label>
+  <!-- EN: A broken down vent leading deeper into the orbital station installation. Chittering and movement can be heard down below. -->
   <VGE_InfestedVent.description>A broken down vent leading deeper into the orbital station installation. Chittering and movement can be heard down below.</VGE_InfestedVent.description>
 
 
   <!-- Colored for space maps -->
 
+  <!-- EN: fortified wall -->
   <VGE_OrbitalPirateFortifiedWall.label>fortified wall</VGE_OrbitalPirateFortifiedWall.label>
+  <!-- EN: A reinforced wall made of an ultratech polymer and patched up with whatever salvagers found. -->
   <VGE_OrbitalPirateFortifiedWall.description>A reinforced wall made of an ultratech polymer and patched up with whatever salvagers found.</VGE_OrbitalPirateFortifiedWall.description>
 
+  <!-- EN: salvager dropship -->
   <VGE_SalvagerDropship.label>salvager dropship</VGE_SalvagerDropship.label>
+  <!-- EN: A chemfuel-powered heavily armored dropship equipped with rocketswarm launchers. Designed for carpet bombing and incursions into enemy territory. This particular dropship seems to belong to salvagers. -->
   <VGE_SalvagerDropship.description>A chemfuel-powered heavily armored dropship equipped with rocketswarm launchers. Designed for carpet bombing and incursions into enemy territory. This particular dropship seems to belong to salvagers.</VGE_SalvagerDropship.description>
 
+  <!-- EN: glowstick pile -->
   <VGE_GlowstickPile_Green.label>glowstick pile</VGE_GlowstickPile_Green.label>
+  <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
   <VGE_GlowstickPile_Green.description>A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor.</VGE_GlowstickPile_Green.description>
 
+  <!-- EN: glowstick pile -->
   <VGE_GlowstickPile_Orange.label>glowstick pile</VGE_GlowstickPile_Orange.label>
+  <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
   <VGE_GlowstickPile_Orange.description>A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor.</VGE_GlowstickPile_Orange.description>
 
+  <!-- EN: glowstick pile -->
   <VGE_GlowstickPile_Blue.label>glowstick pile</VGE_GlowstickPile_Blue.label>
+  <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
   <VGE_GlowstickPile_Blue.description>A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor.</VGE_GlowstickPile_Blue.description>
+
 
 
 </LanguageData>

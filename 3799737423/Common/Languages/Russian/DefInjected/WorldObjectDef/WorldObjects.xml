@@ -1,41 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: infested asteroid -->
   <VGE_InfestedAsteroid.label>infested asteroid</VGE_InfestedAsteroid.label>
+  <!-- EN: A vacstone asteroid that has been infested by insectoids. Inside, the creatures have collected debris and salvage from orbital wrecks. The infestation is strong, and any attempt to clear the asteroid will mean heavy resistance.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_InfestedAsteroid.description>A vacstone asteroid that has been infested by insectoids. Inside, the creatures have collected debris and salvage from orbital wrecks. The infestation is strong, and any attempt to clear the asteroid will mean heavy resistance.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_InfestedAsteroid.description>
 
+  <!-- EN: empty space -->
   <VGE_EmptySpace.label>empty space</VGE_EmptySpace.label>
+  <!-- EN: An empty space. -->
   <VGE_EmptySpace.description>An empty space.</VGE_EmptySpace.description>
 
 
   <!-- Separate def in case we need empty space for something else. -->
 
+  <!-- EN: warpod -->
   <VGE_TravellingWarpod.label>warpod</VGE_TravellingWarpod.label>
+  <!-- EN: A warpod in flight. -->
   <VGE_TravellingWarpod.description>A warpod in flight.</VGE_TravellingWarpod.description>
 
+  <!-- EN: active warplatform -->
   <VGE_ActiveWarplatform.label>active warplatform</VGE_ActiveWarplatform.label>
+  <!-- EN: An ancient, autonomous orbital platform currently bombarding your gravship. The platform is controlled by a hostile warcomputer that must be neutralized to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_ActiveWarplatform.description>An ancient, autonomous orbital platform currently bombarding your gravship. The platform is controlled by a hostile warcomputer that must be neutralized to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_ActiveWarplatform.description>
 
+  <!-- EN: gravship husk -->
   <VGE_GravshipHusk.label>gravship husk</VGE_GravshipHusk.label>
+  <!-- EN: A derelict gravship husk, severely ravaged by countless years adrift in space. Its skeletal frame is all that remains, but its tough structure still holds fragments of twisted metals and components that can be salvaged.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_GravshipHusk.description>A derelict gravship husk, severely ravaged by countless years adrift in space. Its skeletal frame is all that remains, but its tough structure still holds fragments of twisted metals and components that can be salvaged.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_GravshipHusk.description>
 
+  <!-- EN: dormant warplatform -->
   <VGE_DormantWarplatform.label>dormant warplatform</VGE_DormantWarplatform.label>
+  <!-- EN: A dormant, heavily armed satellite platform floating in orbit. Long-range scans detect an array of gauss bombards controlled by a central warcomputer. The defenses will activate and immediately engage any incoming ships upon arrival.\n\nBreaching the installation will require fighting through automated turrets and sentry drones, but destroying or hacking the warcomputer will disable the anti-ship bombards.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_DormantWarplatform.description>A dormant, heavily armed satellite platform floating in orbit. Long-range scans detect an array of gauss bombards controlled by a central warcomputer. The defenses will activate and immediately engage any incoming ships upon arrival.\n\nBreaching the installation will require fighting through automated turrets and sentry drones, but destroying or hacking the warcomputer will disable the anti-ship bombards.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_DormantWarplatform.description>
 
+  <!-- EN: derelict gravship -->
   <VGE_DerelictGravship.label>derelict gravship</VGE_DerelictGravship.label>
+  <!-- EN: An immense, derelict gravship drifting silently in the void. Its machinery is broken, and its hull is vented to vacuum, but the sheer size of the wreck means valuable salvage is everywhere.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_DerelictGravship.description>An immense, derelict gravship drifting silently in the void. Its machinery is broken, and its hull is vented to vacuum, but the sheer size of the wreck means valuable salvage is everywhere.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_DerelictGravship.description>
 
+  <!-- EN: active salvager station -->
   <VGE_ActiveSalvagerStation.label>active salvager station</VGE_ActiveSalvagerStation.label>
+  <!-- EN: A heavily armed, salvager-owned orbital station currently bombarding your gravship. The station is equipped with numerous pieces of gravship artillery that need to be destroyed to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_ActiveSalvagerStation.description>A heavily armed, salvager-owned orbital station currently bombarding your gravship. The station is equipped with numerous pieces of gravship artillery that need to be destroyed to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_ActiveSalvagerStation.description>
 
+  <!-- EN: Enemy gravjumper -->
   <VGE_ActiveEnemyGravjumper.label>Enemy gravjumper</VGE_ActiveEnemyGravjumper.label>
+  <!-- EN: An enemy gravjumper, which is a compact, short-range gravship that relies on the gravjumper engine and a pilot cockpit to operate. Offers minimal substructure support and footprint, making it ideal for scouting and exploration.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_ActiveEnemyGravjumper.description>An enemy gravjumper, which is a compact, short-range gravship that relies on the gravjumper engine and a pilot cockpit to operate. Offers minimal substructure support and footprint, making it ideal for scouting and exploration.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_ActiveEnemyGravjumper.description>
 
+  <!-- EN: active orbital cluster -->
   <VGE_ActiveOrbitalCluster.label>active orbital cluster</VGE_ActiveOrbitalCluster.label>
+  <!-- EN: A heavily armed mechanoid orbital combat cluster currently bombarding your gravship. The station is equipped with a mechanoid grav engine and numerous artillery pieces that must be destroyed to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_ActiveOrbitalCluster.description>A heavily armed mechanoid orbital combat cluster currently bombarding your gravship. The station is equipped with a mechanoid grav engine and numerous artillery pieces that must be destroyed to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_ActiveOrbitalCluster.description>
 
+  <!-- EN: Enemy gravship -->
   <VGE_ActiveEnemyGravship.label>Enemy gravship</VGE_ActiveEnemyGravship.label>
+  <!-- EN: An enemy gravship, which is a versatile mid-sized vessel powered by a standard gravship engine and launched via a pilot console. Balanced in size and support, it can serve as a mobile base with sufficient upgrades. Suitable for long-term travel and projecting power.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
   <VGE_ActiveEnemyGravship.description>An enemy gravship, which is a versatile mid-sized vessel powered by a standard gravship engine and launched via a pilot console. Balanced in size and support, it can serve as a mobile base with sufficient upgrades. Suitable for long-term travel and projecting power.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</VGE_ActiveEnemyGravship.description>
+
 
 
 </LanguageData>

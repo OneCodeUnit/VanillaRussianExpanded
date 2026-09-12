@@ -1,169 +1,281 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: hostile warcomputer -->
   <VGE_HostileWarcomputer.label>hostile warcomputer</VGE_HostileWarcomputer.label>
+  <!-- EN: The tactical core of an orbital warplatform. This advanced supercomputer maintains active target locks and manages the platform's long-range artillery systems. It can be accessed and hacked to download a payload of gravdata, scaling based on progress on the currently selected gravtech research project. Destroying or hacking the warcomputer will disable the platform entirely. -->
   <VGE_HostileWarcomputer.description>The tactical core of an orbital warplatform. This advanced supercomputer maintains active target locks and manages the platform's long-range artillery systems. It can be accessed and hacked to download a payload of gravdata, scaling based on progress on the currently selected gravtech research project. Destroying or hacking the warcomputer will disable the platform entirely.</VGE_HostileWarcomputer.description>
+  <!-- EN: Warcomputer -->
   <VGE_HostileWarcomputer.comps.3.label>Warcomputer</VGE_HostileWarcomputer.comps.3.label>
+  <!-- EN: You've discovered a hostile warcomputer running an orbital warplatform. Destroy it to disable all platform weaponry and obtain a gravcore. -->
   <VGE_HostileWarcomputer.comps.3.text>You've discovered a hostile warcomputer running an orbital warplatform. Destroy it to disable all platform weaponry and obtain a gravcore.</VGE_HostileWarcomputer.comps.3.text>
 
+  <!-- EN: enemy gravjumper engine -->
   <VGE_EnemyGravjumperEngine.label>enemy gravjumper engine</VGE_EnemyGravjumperEngine.label>
+  <!-- EN: A compact gravtech engine designed for short-range jumps within a planet's atmosphere. The gravjumper engine creates a brief, localized distortion in gravitational flow, allowing rapid vertical lift, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
   <VGE_EnemyGravjumperEngine.description>A compact gravtech engine designed for short-range jumps within a planet's atmosphere. The gravjumper engine creates a brief, localized distortion in gravitational flow, allowing rapid vertical lift, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore.</VGE_EnemyGravjumperEngine.description>
+  <!-- EN: Gravjumper engine -->
   <VGE_EnemyGravjumperEngine.comps.3.label>Gravjumper engine</VGE_EnemyGravjumperEngine.comps.3.label>
+  <!-- EN: You've discovered an enemy gravjumper engine. Destroy it to obtain a gravcore and permanently disable the vessel's ability to move. -->
   <VGE_EnemyGravjumperEngine.comps.3.text>You've discovered an enemy gravjumper engine. Destroy it to obtain a gravcore and permanently disable the vessel's ability to move.</VGE_EnemyGravjumperEngine.comps.3.text>
 
+  <!-- EN: enemy gravship engine -->
   <VGE_EnemyGravEngine.label>enemy gravship engine</VGE_EnemyGravEngine.label>
+  <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
   <VGE_EnemyGravEngine.description>The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore.</VGE_EnemyGravEngine.description>
+  <!-- EN: Gravship engine -->
   <VGE_EnemyGravEngine.comps.3.label>Gravship engine</VGE_EnemyGravEngine.comps.3.label>
+  <!-- EN: You've discovered an enemy gravship engine. Destroy it to obtain a gravcore and permanently disable the ship's ability to move. -->
   <VGE_EnemyGravEngine.comps.3.text>You've discovered an enemy gravship engine. Destroy it to obtain a gravcore and permanently disable the ship's ability to move.</VGE_EnemyGravEngine.comps.3.text>
 
+  <!-- EN: enemy gravhulk engine -->
   <VGE_EnemyGravhulkEngine.label>enemy gravhulk engine</VGE_EnemyGravhulkEngine.label>
+  <!-- EN: The gravhulk is a colossal class of gravship, engineered to transport entire megacolonies, orbital platforms, or mobile city-cores across the skies of a planet. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
   <VGE_EnemyGravhulkEngine.description>The gravhulk is a colossal class of gravship, engineered to transport entire megacolonies, orbital platforms, or mobile city-cores across the skies of a planet. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore.</VGE_EnemyGravhulkEngine.description>
+  <!-- EN: Gravhulk engine -->
   <VGE_EnemyGravhulkEngine.comps.3.label>Gravhulk engine</VGE_EnemyGravhulkEngine.comps.3.label>
+  <!-- EN: You've discovered an enemy gravhulk engine. Destroy it to obtain a gravcore and permanently cripple this massive vessel's mobility. -->
   <VGE_EnemyGravhulkEngine.comps.3.text>You've discovered an enemy gravhulk engine. Destroy it to obtain a gravcore and permanently cripple this massive vessel's mobility.</VGE_EnemyGravhulkEngine.comps.3.text>
 
+  <!-- EN: enemy gravlock tether -->
   <VGE_EnemyGravlockTether.label>enemy gravlock tether</VGE_EnemyGravlockTether.label>
+  <!-- EN: The gravlock tether is the core stabilization unit of an orbital station, anchoring it in a fixed position. A specialized conversion of the gravhulk engine, this device generates a stabilized gravitational field to maintain the station's orbital trajectory.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
   <VGE_EnemyGravlockTether.description>The gravlock tether is the core stabilization unit of an orbital station, anchoring it in a fixed position. A specialized conversion of the gravhulk engine, this device generates a stabilized gravitational field to maintain the station's orbital trajectory.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore.</VGE_EnemyGravlockTether.description>
+  <!-- EN: Gravlock tether -->
   <VGE_EnemyGravlockTether.comps.3.label>Gravlock tether</VGE_EnemyGravlockTether.comps.3.label>
+  <!-- EN: You've discovered an enemy gravlock tether, anchoring an orbital base in place. Destroy it to obtain a gravcore. -->
   <VGE_EnemyGravlockTether.comps.3.text>You've discovered an enemy gravlock tether, anchoring an orbital base in place. Destroy it to obtain a gravcore.</VGE_EnemyGravlockTether.comps.3.text>
 
+  <!-- EN: enemy pilot cockpit -->
   <VGE_EnemyPilotCockpit.label>enemy pilot cockpit</VGE_EnemyPilotCockpit.label>
+  <!-- EN: An interface that allows launching and piloting a gravjumper. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyPilotCockpit.description>An interface that allows launching and piloting a gravjumper. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyPilotCockpit.description>
 
+  <!-- EN: enemy pilot console -->
   <VGE_EnemyPilotConsole.label>enemy pilot console</VGE_EnemyPilotConsole.label>
+  <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyPilotConsole.description>An interface that allows launching and piloting a gravship. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyPilotConsole.description>
 
+  <!-- EN: enemy pilot bridge -->
   <VGE_EnemyPilotBridge.label>enemy pilot bridge</VGE_EnemyPilotBridge.label>
+  <!-- EN: An interface that allows launching and piloting a gravhulk. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyPilotBridge.description>An interface that allows launching and piloting a gravhulk. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyPilotBridge.description>
 
+  <!-- EN: enemy targeting terminal -->
   <VGE_EnemyTargetingTerminal.label>enemy targeting terminal</VGE_EnemyTargetingTerminal.label>
+  <!-- EN: An enemy control terminal responsible for calibrating the nearby gravship artillery turrets.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyTargetingTerminal.description>An enemy control terminal responsible for calibrating the nearby gravship artillery turrets.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyTargetingTerminal.description>
 
+  <!-- EN: enemy targeting console -->
   <VGE_EnemyTargetingConsole.label>enemy targeting console</VGE_EnemyTargetingConsole.label>
+  <!-- EN: A large, enemy targeting console responsible for calibrating the reload sequence of nearby gravship artillery pieces.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyTargetingConsole.description>A large, enemy targeting console responsible for calibrating the reload sequence of nearby gravship artillery pieces.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyTargetingConsole.description>
 
+  <!-- EN: enemy algae oxygenator -->
   <VGE_EnemyAlgaeOxygenator.label>enemy algae oxygenator</VGE_EnemyAlgaeOxygenator.label>
+  <!-- EN: A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyAlgaeOxygenator.description>A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyAlgaeOxygenator.description>
 
+  <!-- EN: enemy astrofuel synthesizer -->
   <VGE_EnemyAstrofuelSynthesizer.label>enemy astrofuel synthesizer</VGE_EnemyAstrofuelSynthesizer.label>
+  <!-- EN: A specialized structure that refines chemfuel into high-grade astrofuel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyAstrofuelSynthesizer.description>A specialized structure that refines chemfuel into high-grade astrofuel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyAstrofuelSynthesizer.description>
 
+  <!-- EN: enemy gauss bombard -->
   <VGE_EnemyGaussBombard.label>enemy gauss bombard</VGE_EnemyGaussBombard.label>
+  <!-- EN: A heavy, slow-firing electromagnetic launcher that discharges bursts of two kinetic impactors. Designed to bombard locations designated by an orbital bombardment targeter.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGaussBombard.description>A heavy, slow-firing electromagnetic launcher that discharges bursts of two kinetic impactors. Designed to bombard locations designated by an orbital bombardment targeter.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGaussBombard.description>
 
+  <!-- EN: enemy gauss bombard -->
   <VGE_Gun_EnemyGaussBombard.label>enemy gauss bombard</VGE_Gun_EnemyGaussBombard.label>
+  <!-- EN: A heavy, slow-firing electromagnetic launcher. -->
   <VGE_Gun_EnemyGaussBombard.description>A heavy, slow-firing electromagnetic launcher.</VGE_Gun_EnemyGaussBombard.description>
 
+  <!-- EN: gauss bombard shot -->
   <VGE_Bullet_GaussBombard.label>gauss bombard shot</VGE_Bullet_GaussBombard.label>
 
+  <!-- EN: enemy gauss gun -->
   <VGE_EnemyGaussGun.label>enemy gauss gun</VGE_EnemyGaussGun.label>
+  <!-- EN: A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGaussGun.description>A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGaussGun.description>
 
+  <!-- EN: enemy gauss gun -->
   <VGE_Gun_EnemyGaussGun.label>enemy gauss gun</VGE_Gun_EnemyGaussGun.label>
 
+  <!-- EN: enemy javelin pod -->
   <VGE_EnemyJavelinPod.label>enemy javelin pod</VGE_EnemyJavelinPod.label>
+  <!-- EN: A compact multi-tube missile platform that launches a volley of six guided astrofuel javelins. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyJavelinPod.description>A compact multi-tube missile platform that launches a volley of six guided astrofuel javelins. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyJavelinPod.description>
 
+  <!-- EN: enemy javelin pod -->
   <VGE_Gun_EnemyJavelinPod.label>enemy javelin pod</VGE_Gun_EnemyJavelinPod.label>
 
+  <!-- EN: enemy anticraft caster -->
   <VGE_EnemyAnticraftCaster.label>enemy anticraft caster</VGE_EnemyAnticraftCaster.label>
+  <!-- EN: A medium gravship-mounted energy weapon that fires short, razor-sharp bursts of cutting beam with surgical precision. Built to punch holes through critical systems, the caster trades sustained suppression for rapid, accurate strikes. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyAnticraftCaster.description>A medium gravship-mounted energy weapon that fires short, razor-sharp bursts of cutting beam with surgical precision. Built to punch holes through critical systems, the caster trades sustained suppression for rapid, accurate strikes. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyAnticraftCaster.description>
 
+  <!-- EN: enemy anticraft caster -->
   <VGE_Gun_EnemyAnticraftCaster.label>enemy anticraft caster</VGE_Gun_EnemyAnticraftCaster.label>
 
+  <!-- EN: enemy anticraft beam -->
   <VGE_EnemyAnticraftBeam.label>enemy anticraft beam</VGE_EnemyAnticraftBeam.label>
+  <!-- EN: A massive anti-ship beam weapon intended to destroy flying craft, but also capable of firing onto the surface from space. Ships using ultratech signal jammers can delay the targeting of these weapons.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
   <VGE_EnemyAnticraftBeam.description>A massive anti-ship beam weapon intended to destroy flying craft, but also capable of firing onto the surface from space. Ships using ultratech signal jammers can delay the targeting of these weapons.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore.</VGE_EnemyAnticraftBeam.description>
+  <!-- EN: Beam emitter -->
   <VGE_EnemyAnticraftBeam.comps.4.label>Beam emitter</VGE_EnemyAnticraftBeam.comps.4.label>
+  <!-- EN: You've discovered an anticraft beam. This powerful orbital weapon can annihilate any gravship that challenges it. Destroy it to secure the airspace and obtain a gravcore. -->
   <VGE_EnemyAnticraftBeam.comps.4.text>You've discovered an anticraft beam. This powerful orbital weapon can annihilate any gravship that challenges it. Destroy it to secure the airspace and obtain a gravcore.</VGE_EnemyAnticraftBeam.comps.4.text>
 
+  <!-- EN: enemy anticraft beam -->
   <VGE_Gun_EnemyAnticraftBeam.label>enemy anticraft beam</VGE_Gun_EnemyAnticraftBeam.label>
+  <!-- EN: anticraft beam -->
   <VGE_Bullet_AnticraftBeam.label>anticraft beam</VGE_Bullet_AnticraftBeam.label>
+  <!-- EN: anticraft beam strike -->
   <VGE_EnemyAnticraftBeamStrike.label>anticraft beam strike</VGE_EnemyAnticraftBeamStrike.label>
 
+  <!-- EN: enemy point defense turret -->
   <VGE_EnemyPointDefenseTurret.label>enemy point defense turret</VGE_EnemyPointDefenseTurret.label>
+  <!-- EN: A specialized defensive turret built exclusively for gravships. It intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyPointDefenseTurret.description>A specialized defensive turret built exclusively for gravships. It intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyPointDefenseTurret.description>
 
+  <!-- EN: point defense gun -->
   <VGE_Gun_EnemyPointDefense.label>point defense gun</VGE_Gun_EnemyPointDefense.label>
+  <!-- EN: A rapid-fire gun for point-defense applications. -->
   <VGE_Gun_EnemyPointDefense.description>A rapid-fire gun for point-defense applications.</VGE_Gun_EnemyPointDefense.description>
 
+  <!-- EN: enemy shield generator -->
   <VGE_EnemyShieldGenerator.label>enemy shield generator</VGE_EnemyShieldGenerator.label>
+  <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyShieldGenerator.description>A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyShieldGenerator.description>
 
+  <!-- EN: large enemy shield generator -->
   <VGE_EnemyLargeShieldGenerator.label>large enemy shield generator</VGE_EnemyLargeShieldGenerator.label>
+  <!-- EN: A large-scale shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyLargeShieldGenerator.description>A large-scale shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyLargeShieldGenerator.description>
 
+  <!-- EN: enemy signal jammer -->
   <VGE_EnemySignalJammer.label>enemy signal jammer</VGE_EnemySignalJammer.label>
+  <!-- EN: An advanced jamming array that disrupts local guidance signals, preventing the deployment of gravships and drop pods in its immediate vicinity. This particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemySignalJammer.description>An advanced jamming array that disrupts local guidance signals, preventing the deployment of gravships and drop pods in its immediate vicinity. This particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemySignalJammer.description>
 
+  <!-- EN: ancient gravmine -->
   <VGE_AncientGravmine.label>ancient gravmine</VGE_AncientGravmine.label>
+  <!-- EN: An ancient and incredibly unstable high-explosive device designed for space-based combat. It features a large detection radius that triggers a powerful blast detonation upon the approach. -->
   <VGE_AncientGravmine.description>An ancient and incredibly unstable high-explosive device designed for space-based combat. It features a large detection radius that triggers a powerful blast detonation upon the approach.</VGE_AncientGravmine.description>
 
+  <!-- EN: enemy small thruster -->
   <VGE_EnemySmallThruster.label>enemy small thruster</VGE_EnemySmallThruster.label>
+  <!-- EN: An astrofuel thruster that increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemySmallThruster.description>An astrofuel thruster that increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemySmallThruster.description>
 
+  <!-- EN: enemy large thruster -->
   <VGE_EnemyLargeThruster.label>enemy large thruster</VGE_EnemyLargeThruster.label>
+  <!-- EN: An advanced astrofuel thruster with a heat-resistant vacstone liner. It greatly increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyLargeThruster.description>An advanced astrofuel thruster with a heat-resistant vacstone liner. It greatly increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyLargeThruster.description>
 
+  <!-- EN: enemy giant thruster -->
   <VGE_EnemyGiantThruster.label>enemy giant thruster</VGE_EnemyGiantThruster.label>
+  <!-- EN: A massive, reinforced astrofuel thruster built with advanced alloys and ultra-dense vacstone plating. It massively increases the range and maximum size of the gravship\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGiantThruster.description>A massive, reinforced astrofuel thruster built with advanced alloys and ultra-dense vacstone plating. It massively increases the range and maximum size of the gravship\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGiantThruster.description>
 
+  <!-- EN: enemy grav field extender -->
   <VGE_EnemyGravFieldExtender.label>enemy grav field extender</VGE_EnemyGravFieldExtender.label>
+  <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGravFieldExtender.description>An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGravFieldExtender.description>
 
+  <!-- EN: enemy grav field amplifier -->
   <VGE_EnemyGravFieldAmplifier.label>enemy grav field amplifier</VGE_EnemyGravFieldAmplifier.label>
+  <!-- EN: An advanced ultratech device that dramatically increases the size of a gravship.  It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGravFieldAmplifier.description>An advanced ultratech device that dramatically increases the size of a gravship.  It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGravFieldAmplifier.description>
 
+  <!-- EN: ancient signal jammer -->
   <VGE_AncientSignalJammer.label>ancient signal jammer</VGE_AncientSignalJammer.label>
+  <!-- EN: An archaic broadcasting array emitting a high-frequency interference field that cripples long-range communications and disrupts gravship navigational locks. As long as it’s active, gravship or shuttle launches from this area will not be possible, and comms consoles will not be able to be used. It contains a valuable gravcore. -->
   <VGE_AncientSignalJammer.description>An archaic broadcasting array emitting a high-frequency interference field that cripples long-range communications and disrupts gravship navigational locks. As long as it’s active, gravship or shuttle launches from this area will not be possible, and comms consoles will not be able to be used. It contains a valuable gravcore.</VGE_AncientSignalJammer.description>
+  <!-- EN: Signal jammer -->
   <VGE_AncientSignalJammer.comps.1.label>Signal jammer</VGE_AncientSignalJammer.comps.1.label>
+  <!-- EN: You've discovered an ancient signal jammer actively preventing vessels from leaving the area. Destroy it to lift the lockdown and obtain a gravcore. -->
   <VGE_AncientSignalJammer.comps.1.text>You've discovered an ancient signal jammer actively preventing vessels from leaving the area. Destroy it to lift the lockdown and obtain a gravcore.</VGE_AncientSignalJammer.comps.1.text>
 
+  <!-- EN: enemy gauss cannon -->
   <VGE_EnemyGaussCannon.label>enemy gauss cannon</VGE_EnemyGaussCannon.label>
+  <!-- EN: A massive, single-barrel anti-ship cannon that uses powerful electromagnets to launch large metallic darts at extreme velocities. While formidable, ships equipped with ultratech signal jammers can temporarily paralyze its targeting systems, rendering it unable to fire during the disruption.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
   <VGE_EnemyGaussCannon.description>A massive, single-barrel anti-ship cannon that uses powerful electromagnets to launch large metallic darts at extreme velocities. While formidable, ships equipped with ultratech signal jammers can temporarily paralyze its targeting systems, rendering it unable to fire during the disruption.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore.</VGE_EnemyGaussCannon.description>
+  <!-- EN: Gauss cannon -->
   <VGE_EnemyGaussCannon.comps.3.label>Gauss cannon</VGE_EnemyGaussCannon.comps.3.label>
+  <!-- EN: You've discovered a gauss cannon, a devastating piece of orbital artillery. Destroy it to eliminate the threat and obtain a gravcore. -->
   <VGE_EnemyGaussCannon.comps.3.text>You've discovered a gauss cannon, a devastating piece of orbital artillery. Destroy it to eliminate the threat and obtain a gravcore.</VGE_EnemyGaussCannon.comps.3.text>
 
+  <!-- EN: enemy gauss cannon -->
   <VGE_Gun_EnemyGaussCannon.label>enemy gauss cannon</VGE_Gun_EnemyGaussCannon.label>
+  <!-- EN: An incredibly powerful anti-ship gauss artillery mounted on an orbital station. -->
   <VGE_Gun_EnemyGaussCannon.description>An incredibly powerful anti-ship gauss artillery mounted on an orbital station.</VGE_Gun_EnemyGaussCannon.description>
 
+  <!-- EN: gauss cannon shot -->
   <VGE_Bullet_GaussCannon.label>gauss cannon shot</VGE_Bullet_GaussCannon.label>
 
+  <!-- EN: defender turret -->
   <VGE_Turret_DefenderTurret.label>defender turret</VGE_Turret_DefenderTurret.label>
+  <!-- EN: An armored security turret containing containing a built-in power source. -->
   <VGE_Turret_DefenderTurret.description>An armored security turret containing containing a built-in power source.</VGE_Turret_DefenderTurret.description>
 
+  <!-- EN: defender turret bullet -->
   <VGE_Bullet_DefenderTurret.label>defender turret bullet</VGE_Bullet_DefenderTurret.label>
 
+  <!-- EN: defender turret gun -->
   <VGE_Gun_DefenderTurret.label>defender turret gun</VGE_Gun_DefenderTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
   <VGE_Gun_DefenderTurret.description>A simple automatic gun made to be mounted on a turret.</VGE_Gun_DefenderTurret.description>
 
+  <!-- EN: enemy gravship minigun turret -->
   <VGE_EnemyGravshipMinigunTurret.label>enemy gravship minigun turret</VGE_EnemyGravshipMinigunTurret.label>
+  <!-- EN: A compact gravship-mounted heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGravshipMinigunTurret.description>A compact gravship-mounted heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGravshipMinigunTurret.description>
 
+  <!-- EN: gravship minigun -->
   <VGE_Gun_EnemyGravshipMinigun.label>gravship minigun</VGE_Gun_EnemyGravshipMinigun.label>
 
+  <!-- EN: enemy gravship autocannon turret -->
   <VGE_EnemyGravshipAutocannonTurret.label>enemy gravship autocannon turret</VGE_EnemyGravshipAutocannonTurret.label>
+  <!-- EN: A compact gravship-mounted automatic turret. Its large-caliber shells do heavy damage over significant ranges, but despite its efficiency, the barrel must be refurbished after heavy use. It cannot fire at close-up targets, and may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGravshipAutocannonTurret.description>A compact gravship-mounted automatic turret. Its large-caliber shells do heavy damage over significant ranges, but despite its efficiency, the barrel must be refurbished after heavy use. It cannot fire at close-up targets, and may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGravshipAutocannonTurret.description>
 
+  <!-- EN: gravship autocannon -->
   <VGE_Gun_EnemyGravshipAutocannon.label>gravship autocannon</VGE_Gun_EnemyGravshipAutocannon.label>
 
+  <!-- EN: enemy gravship uranium slug turret -->
   <VGE_EnemyGravshipUraniumSlugTurret.label>enemy gravship uranium slug turret</VGE_EnemyGravshipUraniumSlugTurret.label>
+  <!-- EN: A compact gravship-mounted armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. More efficient than its ground version, it consumes fewer slugs per shot. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGravshipUraniumSlugTurret.description>A compact gravship-mounted armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. More efficient than its ground version, it consumes fewer slugs per shot. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGravshipUraniumSlugTurret.description>
 
+  <!-- EN: gravship uranium slug gun -->
   <VGE_Gun_EnemyGravshipUraniumSlug.label>gravship uranium slug gun</VGE_Gun_EnemyGravshipUraniumSlug.label>
 
+  <!-- EN: enemy oxygen pump -->
   <VGE_EnemyOxygenPump.label>enemy oxygen pump</VGE_EnemyOxygenPump.label>
+  <!-- EN: A unit connected to the gravship’s life support network. It keeps rooms heated and pressurized. -->
   <VGE_EnemyOxygenPump.description>A unit connected to the gravship’s life support network. It keeps rooms heated and pressurized.</VGE_EnemyOxygenPump.description>
 
+  <!-- EN: enemy gravship light -->
   <VGE_EnemyGravshipLight_red.label>enemy gravship light</VGE_EnemyGravshipLight_red.label>
 
+  <!-- EN: enemy gauss howitzer -->
   <VGE_EnemyGaussHowitzer.label>enemy gauss howitzer</VGE_EnemyGaussHowitzer.label>
+  <!-- EN: A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGaussHowitzer.description>A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyGaussHowitzer.description>
 
+  <!-- EN: enemy gauss howitzer -->
   <VGE_Gun_EnemyGaussHowitzer.label>enemy gauss howitzer</VGE_Gun_EnemyGaussHowitzer.label>
 
+  <!-- EN: enemy javelin launcher -->
   <VGE_EnemyJavelinLauncher.label>enemy javelin launcher</VGE_EnemyJavelinLauncher.label>
+  <!-- EN: A heavy multi-tube missile platform that fires a spread of 12 long-range guided astrofuel-propelled javelins. Designed for saturation strikes against surface targets and rival gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyJavelinLauncher.description>A heavy multi-tube missile platform that fires a spread of 12 long-range guided astrofuel-propelled javelins. Designed for saturation strikes against surface targets and rival gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources.</VGE_EnemyJavelinLauncher.description>
 
+  <!-- EN: enemy javelin launcher -->
   <VGE_Gun_EnemyJavelinLauncher.label>enemy javelin launcher</VGE_Gun_EnemyJavelinLauncher.label>
+
 
 
 </LanguageData>
