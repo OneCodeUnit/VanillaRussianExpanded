@@ -1,169 +1,184 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN:
+    <li>r_name(p=2)->The [station_adjective] [station_noun]</li>
+    <li>r_name(p=2)->[subject]'s [pirate_treasure]</li>
+    <li>r_name(p=1)->The [concept_badass] [station_noun]</li>
+    <li>r_name(p=1)->[station_noun] of [concept_badass]</li>
+    <li>r_name(p=0.5)->[Color_Pirate] [station_noun]</li>
+    <li>r_name(p=0.5)->[space_noun] [station_noun]</li>
+    <li>r_name(p=0.5)->[concept_badass] [space_noun]</li>
+    <li>r_name(p=0.2)->[station_adjective] [concept_badass]</li>
 
-  <!-- EN: r_name(p=2)->The [station_adjective] [station_noun] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.0>r_name(p=2)-&gt;The [station_adjective] [station_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.0>
-  <!-- EN: r_name(p=2)->[subject]'s [pirate_treasure] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.1>r_name(p=2)-&gt;[subject]'s [pirate_treasure]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.1>
-  <!-- EN: r_name(p=1)->The [concept_badass] [station_noun] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.2>r_name(p=1)-&gt;The [concept_badass] [station_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.2>
-  <!-- EN: r_name(p=1)->[station_noun] of [concept_badass] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.3>r_name(p=1)-&gt;[station_noun] of [concept_badass]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.3>
-  <!-- EN: r_name(p=0.5)->[Color_Pirate] [station_noun] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.4>r_name(p=0.5)-&gt;[Color_Pirate] [station_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.4>
-  <!-- EN: r_name(p=0.5)->[space_noun] [station_noun] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.5>r_name(p=0.5)-&gt;[space_noun] [station_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.5>
-  <!-- EN: r_name(p=0.5)->[concept_badass] [space_noun] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.6>r_name(p=0.5)-&gt;[concept_badass] [space_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.6>
-  <!-- EN: r_name(p=0.2)->[station_adjective] [concept_badass] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.7>r_name(p=0.2)-&gt;[station_adjective] [concept_badass]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.7>
-  <!-- EN: subject(p=5)->[NamePerson] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.8>subject(p=5)-&gt;[NamePerson]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.8>
-  <!-- EN: subject(p=1)->[AdjectiveBadass] [NamePerson] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.9>subject(p=1)-&gt;[AdjectiveBadass] [NamePerson]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.9>
-  <!-- EN: subject->[Color_Pirate] [NamePerson] -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.10>subject-&gt;[Color_Pirate] [NamePerson]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.10>
-  <!-- EN: station_noun(p=3)->station -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.11>station_noun(p=3)-&gt;station</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.11>
-  <!-- EN: station_noun(p=2)->base -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.12>station_noun(p=2)-&gt;base</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.12>
-  <!-- EN: station_noun(p=2)->outpost -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.13>station_noun(p=2)-&gt;outpost</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.13>
-  <!-- EN: station_noun(p=2)->hideout -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.14>station_noun(p=2)-&gt;hideout</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.14>
-  <!-- EN: station_noun->den -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.15>station_noun-&gt;den</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.15>
-  <!-- EN: station_noun->cove -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.16>station_noun-&gt;cove</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.16>
-  <!-- EN: station_noun->port -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.17>station_noun-&gt;port</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.17>
-  <!-- EN: station_noun->haven -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.18>station_noun-&gt;haven</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.18>
-  <!-- EN: station_noun->roost -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.19>station_noun-&gt;roost</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.19>
-  <!-- EN: station_noun->nexus -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.20>station_noun-&gt;nexus</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.20>
-  <!-- EN: station_noun->dock -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.21>station_noun-&gt;dock</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.21>
-  <!-- EN: station_noun->stronghold -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.22>station_noun-&gt;stronghold</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.22>
-  <!-- EN: station_noun->fortress -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.23>station_noun-&gt;fortress</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.23>
-  <!-- EN: station_noun->rock -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.24>station_noun-&gt;rock</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.24>
-  <!-- EN: station_noun->tortuga -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.25>station_noun-&gt;tortuga</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.25>
-  <!-- EN: station_adjective(p=2)->bloody -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.26>station_adjective(p=2)-&gt;bloody</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.26>
-  <!-- EN: station_adjective(p=2)->shattered -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.27>station_adjective(p=2)-&gt;shattered</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.27>
-  <!-- EN: station_adjective->black -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.28>station_adjective-&gt;black</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.28>
-  <!-- EN: station_adjective->hidden -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.29>station_adjective-&gt;hidden</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.29>
-  <!-- EN: station_adjective->cursed -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.30>station_adjective-&gt;cursed</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.30>
-  <!-- EN: station_adjective->rusted -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.31>station_adjective-&gt;rusted</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.31>
-  <!-- EN: station_adjective->iron -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.32>station_adjective-&gt;iron</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.32>
-  <!-- EN: station_adjective->scrap -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.33>station_adjective-&gt;scrap</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.33>
-  <!-- EN: station_adjective->rogue -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.34>station_adjective-&gt;rogue</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.34>
-  <!-- EN: station_adjective->dead -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.35>station_adjective-&gt;dead</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.35>
-  <!-- EN: station_adjective->forsaken -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.36>station_adjective-&gt;forsaken</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.36>
-  <!-- EN: station_adjective->crimson -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.37>station_adjective-&gt;crimson</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.37>
-  <!-- EN: concept_badass->plunder -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.38>concept_badass-&gt;plunder</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.38>
-  <!-- EN: concept_badass->mutiny -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.39>concept_badass-&gt;mutiny</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.39>
-  <!-- EN: concept_badass->ruin -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.40>concept_badass-&gt;ruin</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.40>
-  <!-- EN: concept_badass->malice -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.41>concept_badass-&gt;malice</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.41>
-  <!-- EN: concept_badass->greed -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.42>concept_badass-&gt;greed</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.42>
-  <!-- EN: concept_badass->treason -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.43>concept_badass-&gt;treason</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.43>
-  <!-- EN: concept_badass->terror -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.44>concept_badass-&gt;terror</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.44>
-  <!-- EN: concept_badass->vengeance -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.45>concept_badass-&gt;vengeance</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.45>
-  <!-- EN: concept_badass->shadow -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.46>concept_badass-&gt;shadow</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.46>
-  <!-- EN: concept_badass->chaos -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.47>concept_badass-&gt;chaos</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.47>
-  <!-- EN: concept_badass->blood -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.48>concept_badass-&gt;blood</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.48>
-  <!-- EN: concept_badass->agony -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.49>concept_badass-&gt;agony</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.49>
-  <!-- EN: concept_badass->scum -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.50>concept_badass-&gt;scum</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.50>
-  <!-- EN: concept_badass->skull -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.51>concept_badass-&gt;skull</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.51>
-  <!-- EN: pirate_treasure(p=2)->hoard -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.52>pirate_treasure(p=2)-&gt;hoard</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.52>
-  <!-- EN: pirate_treasure(p=2)->stash -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.53>pirate_treasure(p=2)-&gt;stash</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.53>
-  <!-- EN: pirate_treasure(p=2)->fortune -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.54>pirate_treasure(p=2)-&gt;fortune</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.54>
-  <!-- EN: pirate_treasure->folly -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.55>pirate_treasure-&gt;folly</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.55>
-  <!-- EN: pirate_treasure->bounty -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.56>pirate_treasure-&gt;bounty</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.56>
-  <!-- EN: pirate_treasure->claim -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.57>pirate_treasure-&gt;claim</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.57>
-  <!-- EN: pirate_treasure->demise -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.58>pirate_treasure-&gt;demise</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.58>
-  <!-- EN: pirate_treasure->gambit -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.59>pirate_treasure-&gt;gambit</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.59>
-  <!-- EN: pirate_treasure->rest -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.60>pirate_treasure-&gt;rest</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.60>
-  <!-- EN: pirate_treasure->end -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.61>pirate_treasure-&gt;end</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.61>
-  <!-- EN: pirate_treasure->prize -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.62>pirate_treasure-&gt;prize</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.62>
-  <!-- EN: pirate_treasure->haven -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.63>pirate_treasure-&gt;haven</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.63>
-  <!-- EN: space_noun->star -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.64>space_noun-&gt;star</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.64>
-  <!-- EN: space_noun->void -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.65>space_noun-&gt;void</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.65>
-  <!-- EN: space_noun->comet -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.66>space_noun-&gt;comet</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.66>
-  <!-- EN: space_noun->orbit -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.67>space_noun-&gt;orbit</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.67>
-  <!-- EN: space_noun->nebula -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.68>space_noun-&gt;nebula</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.68>
-  <!-- EN: space_noun->asteroid -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.69>space_noun-&gt;asteroid</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.69>
-  <!-- EN: space_noun->meteor -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.70>space_noun-&gt;meteor</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.70>
-  <!-- EN: space_noun->moon -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.71>space_noun-&gt;moon</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.71>
-  <!-- EN: space_noun->abyss -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.72>space_noun-&gt;abyss</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.72>
-  <!-- EN: Color_Pirate->black -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.73>Color_Pirate-&gt;black</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.73>
-  <!-- EN: Color_Pirate->crimson -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.74>Color_Pirate-&gt;crimson</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.74>
-  <!-- EN: Color_Pirate->red -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.75>Color_Pirate-&gt;red</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.75>
-  <!-- EN: Color_Pirate->obsidian -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.76>Color_Pirate-&gt;obsidian</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.76>
-  <!-- EN: Color_Pirate->rust -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.77>Color_Pirate-&gt;rust</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.77>
-  <!-- EN: Color_Pirate->blood -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.78>Color_Pirate-&gt;blood</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.78>
-  <!-- EN: Color_Pirate->iron -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.79>Color_Pirate-&gt;iron</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.79>
-  <!-- EN: Color_Pirate->silver -->
-  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.80>Color_Pirate-&gt;silver</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.80>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject(p=1)->[AdjectiveBadass] [NamePerson]</li>
+    <li>subject->[Color_Pirate] [NamePerson]</li>
 
+    <li>station_noun(p=3)->station</li>
+    <li>station_noun(p=2)->base</li>
+    <li>station_noun(p=2)->outpost</li>
+    <li>station_noun(p=2)->hideout</li>
+    <li>station_noun->den</li>
+    <li>station_noun->cove</li>
+    <li>station_noun->port</li>
+    <li>station_noun->haven</li>
+    <li>station_noun->roost</li>
+    <li>station_noun->nexus</li>
+    <li>station_noun->dock</li>
+    <li>station_noun->stronghold</li>
+    <li>station_noun->fortress</li>
+    <li>station_noun->rock</li>
+    <li>station_noun->tortuga</li>
 
+    <li>station_adjective(p=2)->bloody</li>
+    <li>station_adjective(p=2)->shattered</li>
+    <li>station_adjective->black</li>
+    <li>station_adjective->hidden</li>
+    <li>station_adjective->cursed</li>
+    <li>station_adjective->rusted</li>
+    <li>station_adjective->iron</li>
+    <li>station_adjective->scrap</li>
+    <li>station_adjective->rogue</li>
+    <li>station_adjective->dead</li>
+    <li>station_adjective->forsaken</li>
+    <li>station_adjective->crimson</li>
+
+    <li>concept_badass->plunder</li>
+    <li>concept_badass->mutiny</li>
+    <li>concept_badass->ruin</li>
+    <li>concept_badass->malice</li>
+    <li>concept_badass->greed</li>
+    <li>concept_badass->treason</li>
+    <li>concept_badass->terror</li>
+    <li>concept_badass->vengeance</li>
+    <li>concept_badass->shadow</li>
+    <li>concept_badass->chaos</li>
+    <li>concept_badass->blood</li>
+    <li>concept_badass->agony</li>
+    <li>concept_badass->scum</li>
+    <li>concept_badass->skull</li>
+
+    <li>pirate_treasure(p=2)->hoard</li>
+    <li>pirate_treasure(p=2)->stash</li>
+    <li>pirate_treasure(p=2)->fortune</li>
+    <li>pirate_treasure->folly</li>
+    <li>pirate_treasure->bounty</li>
+    <li>pirate_treasure->claim</li>
+    <li>pirate_treasure->demise</li>
+    <li>pirate_treasure->gambit</li>
+    <li>pirate_treasure->rest</li>
+    <li>pirate_treasure->end</li>
+    <li>pirate_treasure->prize</li>
+    <li>pirate_treasure->haven</li>
+
+    <li>space_noun->star</li>
+    <li>space_noun->void</li>
+    <li>space_noun->comet</li>
+    <li>space_noun->orbit</li>
+    <li>space_noun->nebula</li>
+    <li>space_noun->asteroid</li>
+    <li>space_noun->meteor</li>
+    <li>space_noun->moon</li>
+    <li>space_noun->abyss</li>
+
+    <li>Color_Pirate->black</li>
+    <li>Color_Pirate->crimson</li>
+    <li>Color_Pirate->red</li>
+    <li>Color_Pirate->obsidian</li>
+    <li>Color_Pirate->rust</li>
+    <li>Color_Pirate->blood</li>
+    <li>Color_Pirate->iron</li>
+    <li>Color_Pirate->silver</li>
+  -->
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
+    <li>r_name(p=2)->The [station_adjective] [station_noun]</li>
+    <li>r_name(p=2)->[subject]'s [pirate_treasure]</li>
+    <li>r_name(p=1)->The [concept_badass] [station_noun]</li>
+    <li>r_name(p=1)->[station_noun] of [concept_badass]</li>
+    <li>r_name(p=0.5)->[Color_Pirate] [station_noun]</li>
+    <li>r_name(p=0.5)->[space_noun] [station_noun]</li>
+    <li>r_name(p=0.5)->[concept_badass] [space_noun]</li>
+    <li>r_name(p=0.2)->[station_adjective] [concept_badass]</li>
+
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject(p=1)->[AdjectiveBadass] [NamePerson]</li>
+    <li>subject->[Color_Pirate] [NamePerson]</li>
+
+    <li>station_noun(p=3)->station</li>
+    <li>station_noun(p=2)->base</li>
+    <li>station_noun(p=2)->outpost</li>
+    <li>station_noun(p=2)->hideout</li>
+    <li>station_noun->den</li>
+    <li>station_noun->cove</li>
+    <li>station_noun->port</li>
+    <li>station_noun->haven</li>
+    <li>station_noun->roost</li>
+    <li>station_noun->nexus</li>
+    <li>station_noun->dock</li>
+    <li>station_noun->stronghold</li>
+    <li>station_noun->fortress</li>
+    <li>station_noun->rock</li>
+    <li>station_noun->tortuga</li>
+
+    <li>station_adjective(p=2)->bloody</li>
+    <li>station_adjective(p=2)->shattered</li>
+    <li>station_adjective->black</li>
+    <li>station_adjective->hidden</li>
+    <li>station_adjective->cursed</li>
+    <li>station_adjective->rusted</li>
+    <li>station_adjective->iron</li>
+    <li>station_adjective->scrap</li>
+    <li>station_adjective->rogue</li>
+    <li>station_adjective->dead</li>
+    <li>station_adjective->forsaken</li>
+    <li>station_adjective->crimson</li>
+
+    <li>concept_badass->plunder</li>
+    <li>concept_badass->mutiny</li>
+    <li>concept_badass->ruin</li>
+    <li>concept_badass->malice</li>
+    <li>concept_badass->greed</li>
+    <li>concept_badass->treason</li>
+    <li>concept_badass->terror</li>
+    <li>concept_badass->vengeance</li>
+    <li>concept_badass->shadow</li>
+    <li>concept_badass->chaos</li>
+    <li>concept_badass->blood</li>
+    <li>concept_badass->agony</li>
+    <li>concept_badass->scum</li>
+    <li>concept_badass->skull</li>
+
+    <li>pirate_treasure(p=2)->hoard</li>
+    <li>pirate_treasure(p=2)->stash</li>
+    <li>pirate_treasure(p=2)->fortune</li>
+    <li>pirate_treasure->folly</li>
+    <li>pirate_treasure->bounty</li>
+    <li>pirate_treasure->claim</li>
+    <li>pirate_treasure->demise</li>
+    <li>pirate_treasure->gambit</li>
+    <li>pirate_treasure->rest</li>
+    <li>pirate_treasure->end</li>
+    <li>pirate_treasure->prize</li>
+    <li>pirate_treasure->haven</li>
+
+    <li>space_noun->star</li>
+    <li>space_noun->void</li>
+    <li>space_noun->comet</li>
+    <li>space_noun->orbit</li>
+    <li>space_noun->nebula</li>
+    <li>space_noun->asteroid</li>
+    <li>space_noun->meteor</li>
+    <li>space_noun->moon</li>
+    <li>space_noun->abyss</li>
+
+    <li>Color_Pirate->black</li>
+    <li>Color_Pirate->crimson</li>
+    <li>Color_Pirate->red</li>
+    <li>Color_Pirate->obsidian</li>
+    <li>Color_Pirate->rust</li>
+    <li>Color_Pirate->blood</li>
+    <li>Color_Pirate->iron</li>
+    <li>Color_Pirate->silver</li>
+  </VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
 
 </LanguageData>
