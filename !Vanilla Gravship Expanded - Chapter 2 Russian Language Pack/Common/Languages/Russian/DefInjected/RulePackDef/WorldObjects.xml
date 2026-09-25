@@ -1,33 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Separate def in case we need empty space for something else. -->
-
-  <!-- EN: r_name->[prefix_adj] [prefix_noun] -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.0>r_name-&gt;[prefix_adj] [prefix_noun]</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.0>
-  <!-- EN: prefix_adj->ancient -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.1>prefix_adj-&gt;ancient</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.1>
-  <!-- EN: prefix_adj->derelict -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.2>prefix_adj-&gt;derelict</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.2>
-  <!-- EN: prefix_adj->abandoned -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.3>prefix_adj-&gt;abandoned</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.3>
-  <!-- EN: prefix_adj->lost -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.4>prefix_adj-&gt;lost</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.4>
-  <!-- EN: prefix_adj->ruined -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.5>prefix_adj-&gt;ruined</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.5>
-  <!-- EN: prefix_adj->broken -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.6>prefix_adj-&gt;broken</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.6>
-  <!-- EN: prefix_adj->shattered -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.7>prefix_adj-&gt;shattered</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.7>
-  <!-- EN: prefix_noun->gravship -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.8>prefix_noun-&gt;gravship</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.8>
-  <!-- EN: prefix_noun->husk -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.9>prefix_noun-&gt;husk</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.9>
-  <!-- EN: prefix_noun->wreckage -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.10>prefix_noun-&gt;wreckage</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.10>
-  <!-- EN: prefix_noun->remnant -->
-  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.11>prefix_noun-&gt;remnant</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.11>
-
-
-
+  <!-- EN:
+    <li>r_name->[prefix_adj] [prefix_noun]</li>
+    <li>prefix_adj->ancient</li>
+    <li>prefix_adj->derelict</li>
+    <li>prefix_adj->abandoned</li>
+    <li>prefix_adj->lost</li>
+    <li>prefix_adj->ruined</li>
+    <li>prefix_adj->broken</li>
+    <li>prefix_adj->shattered</li>
+    <li>prefix_noun->gravship</li>
+    <li>prefix_noun->husk</li>
+    <li>prefix_noun->wreckage</li>
+    <li>prefix_noun->remnant</li>
+  -->
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>
+    <li>r_name->[prefix_adj] [prefix_noun]</li>
+    <li>prefix_adj->ancient</li>
+    <li>prefix_adj->derelict</li>
+    <li>prefix_adj->abandoned</li>
+    <li>prefix_adj->lost</li>
+    <li>prefix_adj->ruined</li>
+    <li>prefix_adj->broken</li>
+    <li>prefix_adj->shattered</li>
+    <li>prefix_noun->gravship</li>
+    <li>prefix_noun->husk</li>
+    <li>prefix_noun->wreckage</li>
+    <li>prefix_noun->remnant</li>
+  </VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>
 </LanguageData>
