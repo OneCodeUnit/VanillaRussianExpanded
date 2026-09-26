@@ -15,12 +15,10 @@
       <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1814383360</steamWorkshopUrl>
     </li>
   </modDependencies>
-  <loadBefore>
-    <li>OW.RU.Weapons</li>
-  </loadBefore>
   <loadAfter>
     <li>VanillaExpanded.VWE</li>
     <li>VanillaExpanded.VWEQ</li>
     <li>VanillaExpanded.VWEC</li>
+    <li>OW.RU.Weapons</li>
   </loadAfter>
 </ModMetaData>
