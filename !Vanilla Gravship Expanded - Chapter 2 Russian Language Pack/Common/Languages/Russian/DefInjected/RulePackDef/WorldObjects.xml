@@ -16,6 +16,7 @@
   -->
   <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>
     <li>r_name->[prefix_adj] [prefix_noun]</li>
+    <li>r_name->[prefix_adj_p] [prefix_noun_p]</li>
     <li>prefix_adj->древний</li>
     <li>prefix_adj->заброшенный</li>
     <li>prefix_adj->покинутый</li>
@@ -23,9 +24,16 @@
     <li>prefix_adj->разрушенный</li>
     <li>prefix_adj->сломанный</li>
     <li>prefix_adj->разбитый</li>
+    <li>prefix_adj_p->древние</li>
+    <li>prefix_adj_p->заброшенные</li>
+    <li>prefix_adj_p->покинутые</li>
+    <li>prefix_adj_p->потерянные</li>
+    <li>prefix_adj_p->разрушенные</li>
+    <li>prefix_adj_p->сломанные</li>
+    <li>prefix_adj_p->разбитые</li>
     <li>prefix_noun->гравикорабль</li>
     <li>prefix_noun->остов</li>
-    <li>prefix_noun->обломки</li>
-    <li>prefix_noun->останки</li>
+    <li>prefix_noun_p->обломки</li>
+    <li>prefix_noun_p->останки</li>
   </VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>
 </LanguageData>
