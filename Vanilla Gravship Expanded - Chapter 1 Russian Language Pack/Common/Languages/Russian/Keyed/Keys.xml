@@ -122,7 +122,7 @@ Colonists without vacuum-protective apparel: -->
     Colonists and prisoners breathing oxygen: {1}
 
 When oxygen runs out, the gravship will start filling with vacuum. -->
-  <VGE_Alert_LowOxygenExplanation>Критически низкий уровень кислорода.\n\n    Кислорода в хранилище: {0} u³\n    Поселенцев и пленников, дышащих кислородом: {1}\n\nКогда кислород закончится, гравикорабль начнёт заполняться вакуумом.</VGE_Alert_LowOxygenExplanation>
+  <VGE_Alert_LowOxygenExplanation>Критически низкий уровень кислорода.\n\nКислорода в хранилище: {0} u³\nПоселенцев и пленников, дышащих кислородом: {1}\n\nКогда кислород закончится, гравикорабль начнёт заполняться вакуумом.</VGE_Alert_LowOxygenExplanation>
   
   <!-- Death from vacuum exposure inspect string -->
   <!-- EN: resistant to vacuum -->
@@ -248,7 +248,7 @@ You will be given a choice to keep the current map as well as anything not on gr
   <!-- Maintenance -->
 
   <!-- EN: Part maintenance: {0} -->
-  <VGE_Maintenance>Обслуживание компонента: {0}</VGE_Maintenance>
+  <VGE_Maintenance>Обслуживание: {0}</VGE_Maintenance>
   <!-- EN: Maintain part -->
   <VGE_Maintain>Обслуживать компонент</VGE_Maintain>
   <!-- EN: Gravship maintenance low -->
@@ -450,7 +450,7 @@ Launching a gravship will give you an option to abandon your current map.
   <!-- EN: range -->
   <VGE_FuelTab_Range>дальность</VGE_FuelTab_Range>
   <!-- EN: fuel consumption: {COST} {RESOURCE} per tile -->
-  <VGE_FuelTab_UsagePerTile>расход топлива: {COST} {RESOURCE} за клетку</VGE_FuelTab_UsagePerTile>
+  <VGE_FuelTab_UsagePerTile>расход топлива: {COST} {lookup: {RESOURCE}; Case; 1} за клетку</VGE_FuelTab_UsagePerTile>
   <!-- Pipe net providers uses the pipe net resource name. Electric thruster translation in Chapter 2. -->
   <!-- EN: other fuel -->
   <VGE_OtherFuel>иное топливо</VGE_OtherFuel> <!-- Used for generic fuels in a full fuel report, like: "Cost:\n50 astrofuel\n100 other fuel" (separate key in case it's translated differently) -->
