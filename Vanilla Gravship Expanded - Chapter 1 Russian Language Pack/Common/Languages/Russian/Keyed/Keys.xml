@@ -26,18 +26,20 @@
   <VGE_LinkWithTurret>Связать с турелью</VGE_LinkWithTurret>
   <!-- EN: Select a turret to link with. This targeting terminal will be used to operate that turret. -->
   <VGE_LinkWithTurretDesc>Выберите турель для связи. Этот терминал наведения будет использоваться для управления этой турелью.</VGE_LinkWithTurretDesc>
-  <!-- EN: Unlink turret -->
-  <VGE_UnlinkWithTurret>Отвязать турель</VGE_UnlinkWithTurret>
+  <!-- EN: Unlink {0} -->
+  <VGE_UnlinkWithTurret>Отвязать {0}</VGE_UnlinkWithTurret>
   <!-- EN: Break the current link to a turret, allowing you to link with a different turret. -->
   <VGE_UnlinkWithTurretDesc>Разорвать текущую связь с турелью, чтобы связаться с другой турелью.</VGE_UnlinkWithTurretDesc>
-  <!-- EN: Select linked turret -->
-  <VGE_SelectLinkedTurret>Выбрать связанную турель</VGE_SelectLinkedTurret>
+  <!-- EN: Select linked {0} -->
+  <VGE_SelectLinkedTurret>Выбрать связанную {0}</VGE_SelectLinkedTurret>
   <!-- EN: Show the linked turret. -->
   <VGE_SelectLinkedTurretDesc>Показать связанную турель.</VGE_SelectLinkedTurretDesc>
   <!-- EN: Gravship artillery needs to target a visible, explored map. -->
   <VGE_GravshipArtilleryNeedsVisibleMap>Артиллерия гравикорабля должна нацеливаться на видимую исследованную карту.</VGE_GravshipArtilleryNeedsVisibleMap>
   <!-- EN: Target is out of range. -->
-  <VGE_GravshipArtilleryOutOfRange>Цель вне радиуса действия.</VGE_GravshipArtilleryOutOfRange>
+  <VGE_TargetOutOfRange>Цель вне радиуса действия.</VGE_TargetOutOfRange>
+  <!-- EN: Must be aimed using an equipped targeting device. -->
+  <VGE_MustBeAimedViaEquippedTargeter>Необходимо прицелиться с помощью экипированного устройства наведения.</VGE_MustBeAimedViaEquippedTargeter>
   <!-- EN: Artillery cannot fire in this direction. -->
   <VGE_GravshipArtilleryInvalidFiringMode>Артиллерия не может стрелять в этом направлении.</VGE_GravshipArtilleryInvalidFiringMode>
   <!-- EN: Artillery cannot fire from planet to space. -->
@@ -144,9 +146,12 @@ When oxygen runs out, the gravship will start filling with vacuum. -->
   <VGE_LaunchGravAnchorCooldownInfo>Однако посадка в локации с гравиякорем полностью снимет перезарядку до запуска.</VGE_LaunchGravAnchorCooldownInfo>
   <!-- EN: The heatsinks will reduce the launch cooldown time by {0}. -->
   <VGE_LaunchHeatsinkCooldownInfo>Радиаторы сократят время перезарядки до запуска на {0}.</VGE_LaunchHeatsinkCooldownInfo>
-  <!-- EN: This launch will use {0} astrofuel and generate about {0} heat units, raising the temperature across the gravship. -->
-  <VGE_LaunchFuelAndHeatUnitsInfo>Этот запуск использует {0} космотоплива и выработает около {0} единиц тепла, повысив температуру по всему гравикораблю.</VGE_LaunchFuelAndHeatUnitsInfo>
-  
+  <!-- EN: This launch will generate about {0} heat units, raising the temperature across the gravship. -->
+  <VGE_LaunchHeatUnitsInfo>Запуск выработает около {0} единиц тепла, повысив температуру по всему гравикораблю.</VGE_LaunchHeatUnitsInfo>
+  <!-- Uses fuel providers, rest of the data will be used using data from those. -->
+  <!-- EN: This launch will consume the following fuel:-->
+  <VGE_LaunchFuelInfo>Запуск потребует следующее топливо:</VGE_LaunchFuelInfo>
+
   <!-- EN: Remove substructure -->
   <VGE_DesignatorRemoveSubstructure>Удалить надстройку</VGE_DesignatorRemoveSubstructure>
   <!-- EN: Remove substructure from the gravship. -->
@@ -259,7 +264,11 @@ You will be given a choice to keep the current map as well as anything not on gr
   <VGE_SetDesiredMaintenance>Установить желаемый уровень обслуживания</VGE_SetDesiredMaintenance>
   <!-- EN: Set the desired maintenance for all gravship components on this gravship. Colonists assigned to construction will maintain the structures if they fall below the set level. -->
   <VGE_SetDesiredMaintenanceDesc>Установить желаемый уровень обслуживания для всех компонентов гравикорабля. Поселенцы, назначенные на строительство, будут обслуживать структуры, если их уровень упадёт ниже установленного.</VGE_SetDesiredMaintenanceDesc>
-  
+  <!-- EN: Automatic maintenance -->
+  <VGE_ToggleMaintainBuilding>Автоматическое обслуживание</VGE_ToggleMaintainBuilding>
+  <!-- EN: This determines whether colonists will automatically maintain this building. -->
+  <VGE_ToggleMaintainBuildingDesc>Будут ли поселенцы автоматически обслуживать эту постройку.</VGE_ToggleMaintainBuildingDesc>
+
   <!-- Gravdata -->
   <!-- EN: Estimated gravdata yield: {0} -->
   <VGE_GravdataYieldInfo>Ожидаемое количество гравиданных: {0}</VGE_GravdataYieldInfo>
@@ -426,8 +435,40 @@ Launching a gravship will give you an option to abandon your current map.
   <VGE_ScannerCluster_LongRangeResource>{RESOURCE} на удалении</VGE_ScannerCluster_LongRangeResource>
   <!-- EN: Missing {RESEARCH_label} research -->
   <VGE_ScannerCluster_MissingResearchPrerequisite>Отсутствует исследование {RESEARCH_label}</VGE_ScannerCluster_MissingResearchPrerequisite>
+
+  <!-- Fuel providers -->
+  <!-- EN: Fuel -->
+  <VGE_GravshipFuelTab>Топливо</VGE_GravshipFuelTab>
+  <!-- EN: {RESOURCE} thrusters -->
+  <VGE_FuelTab_ThrustersTitle>Ускорители ({RESOURCE})</VGE_FuelTab_ThrustersTitle> <!-- Used for category title, like "astrofuel thrusters", or "chemfuel thrusters". -->
+  <!-- EN: connected thrusters -->
+  <VGE_FuelTab_Thrusters>подсоединённые ускорители</VGE_FuelTab_Thrusters>
+  <!-- EN: other fuel -->
+  <VGE_FuelTab_OtherFuelTitle>иное топливо</VGE_FuelTab_OtherFuelTitle> <!-- Used for generic fuels (any vanilla refuelable), specifically the tab title -->
+  <!-- EN: fuel -->
+  <VGE_FuelTab_OtherFuel>топливо</VGE_FuelTab_OtherFuel> <!-- Used for generic fuels "Fuel: 123 / 456" -->
+  <!-- EN: range -->
+  <VGE_FuelTab_Range>дальность</VGE_FuelTab_Range>
+  <!-- EN: fuel consumption: {COST} {RESOURCE} per tile -->
+  <VGE_FuelTab_UsagePerTile>расход топлива: {COST} {RESOURCE} за клетку</VGE_FuelTab_UsagePerTile>
+  <!-- Pipe net providers uses the pipe net resource name. Electric thruster translation in Chapter 2. -->
+  <!-- EN: other fuel -->
+  <VGE_OtherFuel>иное топливо</VGE_OtherFuel> <!-- Used for generic fuels in a full fuel report, like: "Cost:\n50 astrofuel\n100 other fuel" (separate key in case it's translated differently) -->
+  
   <!-- EN: Protecting from space solar flare -->
   <VGE_ProtectingFromSpaceSolarFlare>Защита от космических солнечных вспышек</VGE_ProtectingFromSpaceSolarFlare>
   <!-- EN: gravcore tax -->
   <VGE_GravcoreTax>налог гравиядрами</VGE_GravcoreTax>
+  <!-- EN: Permanently disabled (warcomputer destroyed) -->
+  <VGE_PermanentlyDisabled>Навсегда отключено (военный компьютер уничтожен)</VGE_PermanentlyDisabled>
+  <!-- EN: Choose a starting gravship -->
+  <VGE_ChooseAStartingGravship>Выберите стартовый гравикорабль</VGE_ChooseAStartingGravship>
+  <!-- EN: Choose which gravship you’d like to start the scenario with. Starting resources will be deposited on that gravship. Different gravships may start with different structures. -->
+  <VGE_ChooseAStartingGravshipDesc>Выберите, с каким гравикораблём вы хотите начать сценарий. Начальные ресурсы будут размещены на этом гравикорабле. Разные гравикорабли могут начинать с разными сооружениями.</VGE_ChooseAStartingGravshipDesc>
+  <!-- EN: Source: {0 -->
+  <VGE_SourceMod>Источник: {0}</VGE_SourceMod>
+  <!-- EN: gravship range ({0}) -->
+  <VGE_GravshipRangeCurrentLayer>дальность гравикорабля ({0})</VGE_GravshipRangeCurrentLayer>
+  <!-- EN: An orbital colony owned by player faction. -->
+  <VGE_PlayerOwnedOrbitalColonyDesc>Орбитальное поселение, принадлежащее фракции игрока.</VGE_PlayerOwnedOrbitalColonyDesc>
 </LanguageData>

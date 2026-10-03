@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Generate empty orbit -->
+  <VGE_GenerateEmptyOrbit>Создать пустую орбиту</VGE_GenerateEmptyOrbit>
+  <!-- EN: Open up an empty orbital map to build prefabs for export on. -->
+  <VGE_GenerateEmptyOrbitDesc>Открыть пустую орбитальную карту для строительства заготовок с целью экспорта.</VGE_GenerateEmptyOrbitDesc>
+  <!-- EN: Fire {0} -->
+  <VGE_FireBombardmentTargeter>Открыть огонь {0}</VGE_FireBombardmentTargeter>
+  <!-- EN: Fire {0} at target location. The gravship bombardment targeter will enter a brief cooldown period before it can be used to fire again. -->
+  <VGE_FireBombardmentTargeterDesc>Открыть огонь {0} по указанному месту. После залпа целеуказатель бомбардировки гравикорабля уйдёт на непродолжительную перезарядку, прежде чем сможет снова сможет стрелять.</VGE_FireBombardmentTargeterDesc>
+  <!-- EN: Cooldown: {0} -->
+  <VGE_TargeterOnCooldown>Перезарядка: {0}</VGE_TargeterOnCooldown>
+  <!-- EN: Can't fire: No ammo. -->
+  <VGE_TargeterNoAmmo>Невозможно стрелять: нет боеприпасов.</VGE_TargeterNoAmmo>
+  <!-- EN: Can't fire: Needs a linked targeting terminal. -->
+  <VGE_NeedsLinkedTargetingTerminal>Невозможно стрелять: требуется связанный терминал наведения.</VGE_NeedsLinkedTargetingTerminal>
+  <!-- EN: Can't fire: Out of range. -->
+  <VGE_TargeterOutOfRange>Невозможно стрелять: вне зоны досягаемости.</VGE_TargeterOutOfRange>
+  <!-- EN: Targeting console can only link with gravship artillery. -->
+  <VGE_TargetingConsoleOnlyGravshipArtillery>Консоль наведения может связываться только с артиллерией гравикорабля.</VGE_TargetingConsoleOnlyGravshipArtillery>
+  <!-- EN: Select a turret to link with. This targeting console will be used to operate that turret. -->
+  <VGE_LinkWithTurretConsoleDesc>Выберите турель для связи. Эта консоль наведения будет использоваться для управления выбранной турелью.</VGE_LinkWithTurretConsoleDesc>
+  <!-- EN: Break the current link to a turret, allowing you to link with a different turret. -->
+  <VGE_UnlinkWithTurretConsoleDesc>Разорвать имеющуюся связь с турелью, чтобы установить с другой турелью.</VGE_UnlinkWithTurretConsoleDesc>
+  <!-- EN: Show the linked turret. -->
+  <VGE_SelectLinkedTurretConsoleDesc>Показать связанную турель.</VGE_SelectLinkedTurretConsoleDesc>
+  <!-- EN: Select a turret to link with. This orbital targeter will be used to operate that turret. -->
+  <VGE_LinkWithTurretTargeterDesc>Выберите турель для связи. Этот орбитальный целеуказатель будет использоваться для управления выбранной турелью.</VGE_LinkWithTurretTargeterDesc>
+  <!-- EN: Break the current link to a turret, allowing you to link with a different turret. -->
+  <VGE_UnlinkWithTurretTargeterDesc>Разорвать имеющуюся связь с турелью, чтобы установить с другой турелью.</VGE_UnlinkWithTurretTargeterDesc>
+  <!-- EN: Show the linked turret. -->
+  <VGE_SelectLinkedTurretTargeterDesc>Показать связанную турель.</VGE_SelectLinkedTurretTargeterDesc>
+  <!-- EN: Launch warpod -->
+  <VGE_LaunchWarpod>Запустить капсулу</VGE_LaunchWarpod>
+  <!-- EN: Launch this sub-orbital warpod towards a precise target destination. -->
+  <VGE_LaunchWarpodDesc>Запустить выбранную суборбитальную капсулу точно к указанному месту назначения.</VGE_LaunchWarpodDesc>
+  <!-- EN: Can't launch warpods here: location needs to be revealed. -->
+  <VGE_WarpodLocationNeedRevealed>Невозможно запустить капсулы в эту точку: местоположение должно быть открыто.</VGE_WarpodLocationNeedRevealed>
+  <!-- EN: Must be placed in space. -->
+  <VGE_MustBePlacedInSpace>Должно располагаться в космосе.</VGE_MustBePlacedInSpace>
+
+  <!-- Gravship shield -->
+  <!-- EN: Gravship shield generator has overheated due to lack of empty heatsinks. Consider building more heatsinks. -->
+  <VGE_ShieldOverheated>Генератор щита гравикорабля перегрелся из-за нехватки радиаторов. Подумайте о строительстве дополнительных радиаторов.</VGE_ShieldOverheated>
+  <!-- EN: Overheated -->
+  <VGE_ShieldOverheatedGizmo>Перегрев</VGE_ShieldOverheatedGizmo>
+  <!-- EN: Heat units stored internally: {0}/{1} -->
+  <VGE_ShieldInternalHeat>Единиц тепла накоплено внутри: {0}/{1}</VGE_ShieldInternalHeat>
+
+  <!-- Escape pod -->
+  <!-- EN: Enter escape pod -->
+  <VGE_EscapePod_Enter>Войти в спасательную капсулу</VGE_EscapePod_Enter>
+  <!-- EN: Carry to escape pod -->
+  <VGE_EscapePod_InsertPawn>Отнести в спасательную капсулу</VGE_EscapePod_InsertPawn>
+  <!-- EN: Place {PAWN} in escape pod -->
+  <VGE_EscapePod_InsertCarriedPawn>Поместить {PAWN} в спасательную капсулу</VGE_EscapePod_InsertCarriedPawn>
+  <!-- EN: Escape pod is already occupied -->
+  <VGE_EscapePod_Occupied>Спасательная капсула уже занята</VGE_EscapePod_Occupied>
+  <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it's used. -->
+  <VGE_CommandAutoRebuild_EscapePod>Если включено, {BUILDING_definite} будет автоматически заменена после использования.</VGE_CommandAutoRebuild_EscapePod>
+  <!-- EN: Cancel Evacuation -->
+  <VGE_EscapePod_CancelEvacuation>Отменить эвакуацию</VGE_EscapePod_CancelEvacuation>
+  <!-- EN: Evacuate Gravship -->
+  <VGE_EscapePod_Evacuation>Эвакуировать гравикорабль</VGE_EscapePod_Evacuation>
+  <!-- EN: Initiates a gravship-wide evacuation protocol. All colonists will immediately seek out and board the closest available escape pod. The evacuation process plays a ship-wide siren until all pods have launched. If there is not enough escape pods, some colonists may fail to evacuate. -->
+  <VGE_EscapePod_EvacuationDesc>Активирует протокол эвакуации всего гравикорабля. Все поселенцы немедленно направятся к ближайшей доступной спасательной капсуле и сядут в неё. Во время эвакуации по всему кораблю будет звучать сирена пока все капсулы не будут запущены. Если спасательных капсул недостаточно, некоторые поселенцы могут не суметь эвакуироваться.</VGE_EscapePod_EvacuationDesc>
+  <!-- EN: Are you sure you want to issue an evacuation?\n\nEvery colonist who's able to do so will immediately stop doing what they are doing and attempt to find an escape pod to use. If they're unable to immediately find an escape pod, they'll keep trying to find one unless they're drafted or an evacuation is stopped.\n\nIf you decide to cancel the evacuation your colonists will attempt to return to anything they may have been working on at the time (if that's possible). -->
+  <VGE_EscapePod_EvacuationConfirmation>Вы уверены, что хотите объявить эвакуацию?\n\nКаждый поселенец (если может) немедленно прекратит своё текущее занятие и попытается найти спасательную капсулу. Если он не сможет сразу найти капсулу, то продолжит поиски до тех пор, пока не будет переведён в режим призыва или пока эвакуация не закончится.\n\nЕсли вы решите отменить эвакуацию, поселенцы вернуться к тому, чем занимались (если это возможно).</VGE_EscapePod_EvacuationConfirmation>
+
+  <!-- Vacuum emergency light -->
+  <!-- EN: Select dangerous vacuum level -->
+  <VGE_VacuumEmergencyLight_UnsafeVacuumLevel>Выбрать опасный уровень вакуума</VGE_VacuumEmergencyLight_UnsafeVacuumLevel>
+  <!-- EN: Select a vacuum level that will be considered unsafe. Once the vacuum reaches this level the light will turn on and any undrafted colonists (without vacuum protective gear) will attempt to seek safety. -->
+  <VGE_VacuumEmergencyLight_UnsafeVacuumLevelDesc>Выберите уровень вакуума, который будет считаться опасным. Когда вакуум достигнет этого уровня, включится аварийный свет, и все поселенцы не в режиме призыва (и без снаряжения, защищающего от вакуума) попытаются найти безопасное место.</VGE_VacuumEmergencyLight_UnsafeVacuumLevelDesc>
+  <!-- EN: Unsafe vacuum level: {0_percentage} -->
+  <VGE_VacuumEmergencyLight_UnsafeVacuumSlider>Опасный уровень вакуума: {0_percentage}</VGE_VacuumEmergencyLight_UnsafeVacuumSlider>
+  <!-- EN: Evacuate area when unsafe vacuum level reached -->
+  <VGE_VacuumEmergencyLight_EvacuatePawns>Эвакуировать зону при достижении опасного уровня</VGE_VacuumEmergencyLight_EvacuatePawns>
+
+  <!-- Fuel provider/electric thrusters -->
+  <!-- EN: electric thrusters -->
+  <VGE_FuelTab_ElectricThrusters>электрические ускорители</VGE_FuelTab_ElectricThrusters>
+  <!-- EN: charged thrusters -->
+  <VGE_FuelTab_ChargedThrusters>энергетические ускорители</VGE_FuelTab_ChargedThrusters>
+  <!-- EN: charge -->
+  <VGE_UsedCharge>энергия</VGE_UsedCharge>
+
+  <!-- Emergency generator -->
+  <!-- EN: remaining power output: {0} Wd ({1}) -->
+  <VGE_EmergencyGenerator_RemainingPowerOutput>оставшаяся мощность: {0} Вт/сут ({1})</VGE_EmergencyGenerator_RemainingPowerOutput>
+  <!-- EN: inactive -->
+  <VGE_EmergencyGenerator_Inactive>неактивен</VGE_EmergencyGenerator_Inactive>
+  <!-- EN: another generator is active -->
+  <VGE_EmergencyGenerator_AnotherActive>активен другой генератор</VGE_EmergencyGenerator_AnotherActive>
+  <!-- EN: must be fully maintained -->
+  <VGE_EmergencyGenerator_MustBeFullyMaintained>требуется полное обслуживание</VGE_EmergencyGenerator_MustBeFullyMaintained>
+  <!-- EN: must be connected to a grav engine -->
+  <VGE_EmergencyGenerator_MustBeConnectedToGravEngine>должен быть подключён к гравидвигателю</VGE_EmergencyGenerator_MustBeConnectedToGravEngine>
+
+  <!-- EN: Hack enemy warcomputer to retrieve gravdata -->
+  <VGE_HackWarcomputer>Взломать вражеский боевой компьютер для получения гравиданных</VGE_HackWarcomputer>
+  <!-- EN: Gravdata obtained will be lost unless you select a gravtech research project. -->
+  <VGE_GravdataWillBeLostWarning>Полученные гравиданные будут потеряны, если вы не выберете гравитехнологический исследовательский проект.</VGE_GravdataWillBeLostWarning>
+  <!-- EN: Hostile warcomputer hacked. {0} gravdata stored in the gravship black box. -->
+  <VGE_WarcomputerHackedBlackBox>Враждебный боевой компьютер взломан. {0} гравиданных сохранено в чёрном ящике гравикорабля.</VGE_WarcomputerHackedBlackBox>
+  <!-- EN: Hostile warcomputer hacked. {0} gravdata added to {1} research. -->
+  <VGE_WarcomputerHackedResearch>Враждебный боевой компьютер взломан. {0} гравиданных добавлено к исследованию «{1}».</VGE_WarcomputerHackedResearch>
+  <!-- EN: Cannot land here: destination is being jammed by an enemy signal jammer. -->
+  <VGE_DestinationJammed>Невозможно приземлиться здесь: место назначения глушится вражеским глушителем сигнала.</VGE_DestinationJammed>
+  <!-- EN: Unable to launch drop pods as the destination is protected by a signal jammer. -->
+  <VGE_DestinationJammedDropPod>Невозможно запустить капсулы, так как место назначения защищено глушителем сигналов.</VGE_DestinationJammedDropPod>
+  <!-- EN: Unable to launch war pods as the destination is protected by a signal jammer. -->
+  <VGE_DestinationJammedWarpod>Невозможно запустить капсулы, так как место назначения защищено глушителем сигналов.</VGE_DestinationJammedWarpod>
+  <!-- EN: Others are becoming aware of your gravship. Consider laying low for a while, or construct a signal jammer. -->
+  <VGE_Visibility400k>Другие начинают замечать ваш гравикорабль. Подумайте о том, чтобы затаиться на время или построить глушитель сигнала.</VGE_Visibility400k>
+  <!-- EN: Gravship visibility -->
+  <VGE_Visibility600k>Видимость гравикорабля</VGE_Visibility600k>
+  <!-- EN: Your gravship, {0}, has caught attention of others. If you continue to generate visibility, you will encounter a gravship-level threat.\n\nVisibility is generated as your gravship travels, but also when you use gravship weaponry or perform orbital scans from your gravship. It lowers passively over time.\n\nGravship-level threats can include orbital bombardment platforms, pirate installations or even enemy gravships. They will actively engage you with powerful artillery over huge distances. If your gravship is unprepared, it will be obliterated.\n\nAt this moment, your gravship is armed with:\n\n{1} -->
+  <VGE_Visibility600kDesc>Ваш гравикорабль, {0}, привлёк внимание других. Если вы продолжите создавать видимость, вы столкнётесь с угрозой уровня гравикорабля.\n\nВидимость создаётся во время полёта вашего гравикорабля, а также при использовании вооружения гравикорабля или проведении орбитального сканирования. Со временем она пассивно снижается.\n\nУгрозы уровня гравикорабля могут включать платформы орбитальной бомбардировки, пиратские установки или даже вражеские гравикорабли. Они будут активно атаковать вас мощной артиллерией на огромных расстояниях. Если ваш гравикорабль не готов, он будет уничтожен.\n\nВ данный момент ваш гравикорабль вооружён:\n\n{1}</VGE_Visibility600kDesc>
+  <!-- EN: No gravship armaments present. Consider building point defense turrets and shield generators, as well as gravship artillery. -->
+  <VGE_NoArmamentsPresent>Вооружение гравикорабля отсутствует. Рассмотрите строительство турелей точечной обороны и генераторов щита, а также артиллерии гравикорабля.</VGE_NoArmamentsPresent>
+  <!-- EN: warpods -->
+  <VGE_Warpods>капсулы</VGE_Warpods>
+  <!-- EN: Signal jammer is on cooldown for: {0} -->
+  <VGE_SignalJammerCooldown>Глушитель сигнала на перезарядке ещё: {0}</VGE_SignalJammerCooldown>
+  <!-- EN: Signal jammer activated: Enemy gravship artillery stunned for 12 hours. -->
+  <VGE_SignalJammerStunnedArtillery>Глушитель сигнала активирован: артиллерия вражеского гравикорабля отключена на 12 часов.</VGE_SignalJammerStunnedArtillery>
+  <!-- EN: Location destabilizing -->
+  <VGE_LocationDestabilizing>Участок дестабилизируется</VGE_LocationDestabilizing>
+  <!-- EN: An orbital location you're currently on is destabilizing. Soon it will collapse completely, and anything on it, including your colonists, will be gone.\n\nTime remaining: {0}\n\nEnsure you evacuate before the location burns up in atmosphere. -->
+  <VGE_LocationDestabilizingDesc>Участок орбиты, где вы сейчас находитесь, дестабилизируется. Скоро он полностью разрушится, и всё, что на ней есть, включая ваших поселенцев, будет потеряно.\n\nОставшееся время: {0}\n\nУбедитесь, что сможете эвакуироваться прежде, чем всё сгорит в атмосфере.</VGE_LocationDestabilizingDesc>
+  <!-- EN: Destabilizes in: {0} -->
+  <VGE_DestabilizesIn>Дестабилизация через: {0}</VGE_DestabilizesIn>
+  <!-- EN: Your signal jammer scrambled the signal lock, giving you an additional {0} hours before the warplatform finds you. -->
+  <VGE_JammerScrambledSignal>Глушитель сигнала сбил захват сигнала, дав дополнительные {0} часов, прежде чем боевая платформа выйдет на вас.</VGE_JammerScrambledSignal>
+  <!-- EN: Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to initiate launching sequence. -->
+  <VGE_AncientSignalJammerLaunchBlocked>Невозможно запустить: древний глушитель сигнала блокирует запуск. Найдите и уничтожьте его, чтобы начать процедуру запуска.</VGE_AncientSignalJammerLaunchBlocked>
+  <!-- EN: Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to launch the shuttle. -->
+  <VGE_AncientSignalJammerShuttleBlocked>Невозможно запустить: древний глушитель сигнала блокирует запуск. Найдите и уничтожьте его, чтобы запустить челнок.</VGE_AncientSignalJammerShuttleBlocked>
+  <!-- EN: Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to launch the warpod. -->
+  <VGE_AncientSignalJammerWarpodBlocked>Невозможно запустить: древний глушитель сигнала блокирует запуск. Найдите и уничтожьте его, чтобы запустить капсулу.</VGE_AncientSignalJammerWarpodBlocked>
+  <!-- EN: Active signal jammer prevents communication. -->
+  <VGE_AncientSignalJammerCommsBlocked>Активный глушитель сигнала блокирует связь.</VGE_AncientSignalJammerCommsBlocked>
+  <!-- EN: Can't launch: Ancient signal jammer is preventing launch. Find and destroy it in order to launch the {0}. -->
+  <VGE_AncientSignalJammerBlockedGeneric>Невозможно запустить: древний глушитель сигнала блокирует запуск. Найдите и уничтожьте его, чтобы запустить {0}.</VGE_AncientSignalJammerBlockedGeneric>
+  <!-- EN: infested with a dangerous colony of exoinsectoids -->
+  <VGE_ThreatDescription_Exoinsectoids>заражена опасной колонией экзоинсектоидов</VGE_ThreatDescription_Exoinsectoids>
+  <!-- EN: occupied by a number of hostile mechanoids -->
+  <VGE_ThreatDescription_Mechanoids>занята несколькими враждебными механоидами</VGE_ThreatDescription_Mechanoids>
+  <!-- EN: controlled by automated, ancient defensive drones, which are still active and aggressive -->
+  <VGE_ThreatDescription_Drones>контролируется автоматическими древними оборонительными дронами, которые всё ещё активны и враждебны</VGE_ThreatDescription_Drones>
+  <!-- EN: being salvaged by a group of hostile pirates -->
+  <VGE_ThreatDescription_Pirates>разбирается на металлолом группой враждебных пиратов</VGE_ThreatDescription_Pirates>
+  <!-- EN: Gravcore detected: Gravship graveyard -->
+  <VGE_GravshipGraveyardLetterLabel>Обнаружено гравиядро: кладбище гравикораблей</VGE_GravshipGraveyardLetterLabel>
+  <!-- EN: You have detected the distinct energy signature of a gravcore emanating from a massive field of debris: a gravship graveyard. You know that when you arrive, your navigation systems will be locked. An ancient signal jammer is active within the debris field, preventing your gravship from initiating the launch. You must navigate through the field of unstable ancient gravmines, locate the source of the jamming, and neutralize it to escape.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <VGE_GravshipGraveyardLetterText>Вы обнаружили характерную энергетическую сигнатуру гравиядра, исходящую из огромного поля обломков, кладбища гравикораблей. Так же стало известно, что по прибытии ваши навигационные системы будут заблокированы. Внутри поля обломков активен древний глушитель сигнала, который не позволит вашему гравикораблю построить маршрут. Вам предстоит пробраться через поле нестабильных древних гравимин, отыскать источник помех и нейтрализовать его, чтобы сбежать.\n\nБудьте осторожны: орбитальные локации чрезвычайно опасны. Обязательно снарядите поселенцев скафандрами и спланируйте обратный путь заранее, ведь долгое пребывание на орбите даётся очень тяжело.</VGE_GravshipGraveyardLetterText>
+  <!-- EN: Gravcore detected: Infested installation -->
+  <VGE_InfestedInstallationLetterLabel>Обнаружено гравиядро: заражённая установка</VGE_InfestedInstallationLetterLabel>
+  <!-- EN: You have detected the energy signature of a gravcore. The signal is coming from an abandoned orbital station infested with exoinsectoids. Scans reveal numerous hives on board. You must navigate the infested ruins, defeat the exoinsectoid defenders, and destroy the infested gravlock tether which will continue spawning new exoinsectoids throughout the platform. Once destroyed, you will be able to obtain the gravcore.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <VGE_InfestedInstallationLetterText>Вы обнаружили энергетическую сигнатуру гравиядра. Сигнал исходит от заброшенной орбитальной станции, заражённой экзоинсектоидами. Сканирование выявляет на борту многочисленные гнёзда. Вам предстоит пробраться через заражённые руины, одолеть защитников-экзоинсектоидов и уничтожить заражённую гравипривязь, которая продолжает порождать новых экзоинсектоидов по всей платформе. После её уничтожения вы сможете забрать гравиядро.\n\nБудьте осторожны, орбитальные локации чрезвычайно опасны. Снарядите поселенцев скафандрами. Спланируйте обратный путь заранее, ведь долгое пребывание на орбите даётся очень тяжело.</VGE_InfestedInstallationLetterText>
+  <!-- EN: Pay tribute to {0}: {1} silver -->
+  <VGE_PayTribute>Заплатить дань {0}: {1} серебра</VGE_PayTribute>
+  <!-- EN: Pay {0} silver -->
+  <VGE_PaySilver>Заплатить {0} серебра</VGE_PaySilver>
+  <!-- EN: Postpone payment by {0} days -->
+  <VGE_PostponeTribute>Отсрочить выплату на {0} дней</VGE_PostponeTribute>
+  <!-- EN: Refuse to pay the fee -->
+  <VGE_RefuseTribute>Отказаться платить</VGE_RefuseTribute>
+  <!-- EN: {0} thanks you for your generous contribution to their cause. You will not be attacked. -->
+  <VGE_TributePaidReply>{0} благодарит вас за щедрый вклад в их дело. Вас не атакуют.</VGE_TributePaidReply>
+  <!-- EN: {0} accepts your request for more time and will contact you again in {1} days. -->
+  <VGE_PostponeReply>{0} соглашается дать вам больше времени и свяжется с вами снова через {1} дней.</VGE_PostponeReply>
+  <!-- EN: {0} is more than happy about the current state of affairs. {1} has locked in on your gravship and begins the attack. -->
+  <VGE_RefuseReply>{0} более чем доволен текущим положением дел. {1} навёлся на ваш гравикорабль и начинает атаку.</VGE_RefuseReply>
+  <!-- EN: Call {0} (tribute demand) -->
+  <VGE_CallSalvagerStation>Связаться с {0} (требование дани)</VGE_CallSalvagerStation>
+  <!-- EN: {0}, the captain of {1} is ready to receive your tribute of {2} silver. They promise to let you live if you pay the fee. -->
+  <VGE_CallSalvagerStationDialog>{0}, капитан «{1}», готов принять вашу дань в размере {2} серебра. Он обещает оставить вас в живых, если вы заплатите.</VGE_CallSalvagerStationDialog>
+  <!-- EN: Salvager dropship -->
+  <VGE_SalvagerDropshipRaid>Челнок утилизаторов</VGE_SalvagerDropshipRaid>
+  <!-- EN: A salvager dropship has arrived! The salvagers have sent a boarding party to collect the tribute by force. -->
+  <VGE_SalvagerDropshipRaidDesc>Прибыл челнок утилизаторов! Утилизаторы отправили абордажную группу, чтобы силой забрать дань.</VGE_SalvagerDropshipRaidDesc>
+  <!-- EN: {0}, the captain of {1} is ready to receive your tribute of {2} silver. They promise to let you live if you pay the fee.\n\nThey may also accept your plea to postpone the payment by {3} days, but they will lock your grav engine remotely, making it unable to leave. Only paying the tribute or defeating the salvager's station will unlock the grav engine. -->
+  <VGE_TributeDemandPopup>{0}, капитан «{1}», готов принять вашу дань в размере {2} серебра. Он обещает оставить вас в живых, если вы заплатите.\n\nОн также может согласиться отсрочить платёж на {3} дней, но ваш гравидвигатель будет заблокирован удалённо, лишив вас возможности улететь. Только выплата дани или победа над станцией утилизаторов разблокирует гравидвигатель.</VGE_TributeDemandPopup>
+  <!-- EN: {0}, the captain of {1} is once again ready to receive your tribute of {2} silver. They promise to let you live if you pay the fee.\n\nRefusing to pay the tribute will initiate the attack. -->
+  <VGE_PostponedTributeDemandPopup>{0}, капитан «{1}», снова готов принять вашу дань в размере {2} серебра. Он обещает оставить вас в живых, если вы заплатите.\n\nОтказ платить дань начнёт атаку.</VGE_PostponedTributeDemandPopup>
+  <!-- EN: Tribute demand -->
+  <VGE_TributeDemand>Требование дани</VGE_TributeDemand>
+  <!-- EN: A salvager station is demanding tribute of {0} silver or it will open fire.\n\nTime until tribute needs to be paid: {1}\n\nYou can ask them to postpone the payment, but the grav engine will be locked remotely until the tribute is paid or the station is defeated. You can also pay the fee immediately, if you have the funds. Running away will likely have the salvagers send a search party after you. -->
+  <VGE_TributeDemandHover>Станция утилизаторов требует дань в размере {0} серебра, иначе откроет огонь.\n\nВремя до необходимой выплаты дани: {1}\n\nВы можете попросить их отсрочить платёж, но гравидвигатель будет заблокирован удалённо, пока дань не будет выплачена или станция не будет побеждена. Вы также можете заплатить немедленно, если у вас есть средства. Побег, скорее всего, приведёт к тому, что утилизаторы отправят за вами поисковый отряд.</VGE_TributeDemandHover>
+  <!-- EN: Your signal jammer scrambled salvager’s station targeting systems, giving you additional 6 hours to decide whether to pay the tribute or fight. -->
+  <VGE_JammerScrambledSalvager>Ваш глушитель сигнала сбил системы наведения станции утилизаторов, дав вам дополнительные 6 часов, чтобы решить, платить дань или сражаться.</VGE_JammerScrambledSalvager>
+  <!-- EN: Doesn't work: locked remotely -->
+  <VGE_EngineLockedRemotelyInspect>Не работает: заблокирован удалённо</VGE_EngineLockedRemotelyInspect>
+  <!-- EN: Can't launch: locked remotely by a salvager station. -->
+  <VGE_EngineLockedRemotely>Невозможно запустить: заблокирован удалённо станцией утилизаторов.</VGE_EngineLockedRemotely>
+  <!-- EN: Your signal jammer scrambled their scanning process, giving you an additional 24 hours before {0} engages. -->
+  <VGE_JammerScrambledGravjumper>Ваш глушитель сигнала сбил их процесс сканирования, дав вам дополнительные 24 часа, прежде чем {0} вступит в бой.</VGE_JammerScrambledGravjumper>
+  <!-- EN: Gravjumper attacks -->
+  <VGE_GravjumperAttacks>Гравипрыжковый корабль атакует</VGE_GravjumperAttacks>
+  <!-- EN: Despite your attempts to shake off the pursuit, the enemy gravjumper {0} has successfully tracked your new landing coordinates. It has arrived in orbit and is immediately engaging your gravship. Prepare for immediate combat.\n\nYour vessel will be under continuous fire from the gravjumper’s weapons. To survive, you must destroy the enemy gravjumper engine, as well as eliminate all of the gravjumper’s artillery turrets.\n\nYou can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the gravjumper and destroy it from the inside. If you cannot defend yourself, you must attempt to escape its range immediately. -->
+  <VGE_GravjumperAttacksDesc>Несмотря на ваши попытки оторваться от погони, вражеский гравипрыжковый корабль {0} успешно отследил ваши новые координаты посадки. Он прибыл на орбиту и немедленно атакует ваш гравикорабль. Приготовьтесь к немедленному бою.\n\nВаше судно окажется под непрерывным огнём его оружия. Чтобы выжить, вам нужно уничтожить вражеский гравипрыжковый двигатель, а также все его артиллерийские турели.\n\nВы можете отбиваться, используя артиллерию, генераторы щита и точечную оборону своего гравикорабля, чтобы выдержать бомбардировку. Либо отправьте челнок или десантные капсулы к вражескому кораблю, чтобы взять его на абордаж и уничтожить изнутри. Если вы не можете защититься, вам нужно немедленно попытаться выйти за пределы его досягаемости.</VGE_GravjumperAttacksDesc>
+  <!-- EN: {0} has launched and will land in your local area imminently. -->
+  <VGE_GravjumperLaunched>{0} запущен и вот-вот приземлится в вашей локальной области.</VGE_GravjumperLaunched>
+  <!-- EN: Gravjumper defeated -->
+  <VGE_GravjumperDefeated>Гравипрыжковый корабль побеждён</VGE_GravjumperDefeated>
+  <!-- EN: Enemy gravjumper threat has been defeated, but the area still offers valuable loot. You can salvage the wreck of the gravjumper to gain some valuable resources. -->
+  <VGE_GravjumperDefeatedDesc>Угроза вражеского гравипрыжкового корабля устранена, но область всё ещё предлагает ценные трофеи. Вы можете разобрать обломки корабля, чтобы получить ценные ресурсы.</VGE_GravjumperDefeatedDesc>
+  <!-- EN: Your signal jammer scrambled the signal lock, giving you an additional {0} days before the warplatform finds you. -->
+  <VGE_JammerScrambledCluster>Ваш глушитель сигнала сбил захват сигнала, дав вам дополнительные {0} дней, прежде чем боевая платформа найдёт вас.</VGE_JammerScrambledCluster>
+  <!-- EN: Mechanoid orbital cluster has relayed your coordinates to another cluster in radius. It’s moving in to engage. -->
+  <VGE_OrbitalClusterRelayed>Орбитальный кластер механоидов передал ваши координаты другому кластеру в радиусе действия. Он приближается для атаки.</VGE_OrbitalClusterRelayed>
+  <!-- EN: Your signal jammer scrambled their scanning process, giving you an additional 24 hours before {0} engages. -->
+  <VGE_JammerScrambledGravship>Ваш глушитель сигнала сбил их процесс сканирования, дав вам дополнительные 24 часа, прежде чем {0} вступит в бой.</VGE_JammerScrambledGravship>
+  <!-- EN: Gravship attacks -->
+  <VGE_GravshipAttacks>Гравикорабль атакует</VGE_GravshipAttacks>
+  <!-- EN: Despite your attempts to shake off the pursuit, the enemy gravship {0} has successfully tracked your new landing coordinates. It has arrived in orbit and is immediately engaging your gravship. Prepare for immediate combat.\n\nYour vessel will be under continuous fire from the gravship’s weapons. To survive, you must destroy the enemy gravship engine, as well as eliminate all of the gravship’s artillery turrets.\n\nYou can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the gravjumper and destroy it from the inside. If you cannot defend yourself, you must attempt to escape its range immediately. -->
+  <VGE_GravshipAttacksDesc>Несмотря на ваши попытки оторваться от погони, вражеский гравикорабль {0} успешно отследил ваши новые координаты посадки. Он прибыл на орбиту и немедленно атакует ваш гравикорабль. Приготовьтесь к немедленному бою.\n\nВаше судно окажется под непрерывным огнём его оружия. Чтобы выжить, вам нужно уничтожить вражеский гравидвигатель, а также все его артиллерийские турели.\n\nВы можете отбиваться, используя артиллерию, генераторы щита и точечную оборону своего гравикорабля, чтобы выдержать бомбардировку. Либо отправьте челнок или десантные капсулы к вражескому кораблю, чтобы взять его на абордаж и уничтожить изнутри. Если вы не можете защититься, вам нужно немедленно попытаться выйти за пределы его досягаемости.</VGE_GravshipAttacksDesc>
+  <!-- EN: your gravship -->
+  <VGE_GravshipGeneric>ваш гравикорабль</VGE_GravshipGeneric>
+  <!-- EN: Raid: Enemy gravship -->
+  <VGE_RaidEnemyGravship>Налёт: вражеский гравикорабль</VGE_RaidEnemyGravship>
+  <!-- EN: An enemy gravship called {0} has finally caught up. It has dropped into your local orbit and initiated a boarding sequence. You need to destroy their gravship engine, as well as all of their gravship artillery and crew to defeat them.\n\nSince they are well equipped and prepared, it may be best to defend until your gravship engine is able to launch again, and escape.\n\nIf you manage to defeat them, their wreck will offer valuable loot, including a gravcore. -->
+  <VGE_RaidEnemyGravshipDesc>Вражеский гравикорабль под названием «{0}» наконец-то догнал вас. Он вышел на вашу орбиту и начал абордаж. Чтобы победить противника, вам нужно уничтожить его гравидвигатель, а также всю бортовую артиллерию и экипаж.\n\nПоскольку враг хорошо вооружён и подготовлен, возможно, разумнее обороняться, пока ваш гравидвигатель снова не сможет запуститься, и сбежать.\n\nЕсли вам удастся победить его, обломки предложат ценные трофеи, включая гравиядро.</VGE_RaidEnemyGravshipDesc>
+  <!-- EN: Gravship engine ready! -->
+  <VGE_GravshipEngineReady>Гравидвигатель готов!</VGE_GravshipEngineReady>
+  <!-- EN: Your gravship engine is off-cooldown. You can now perform a gravship launch. -->
+  <VGE_GravshipEngineReadyDesc>Ваш гравидвигатель перезарядился. Теперь вы можете выполнить запуск гравикорабля.</VGE_GravshipEngineReadyDesc>
+  <!-- EN: Gravcore detected: Salvager stronghold -->
+  <VGE_SalvagerStrongholdLetter>Обнаружено гравиядро: крепость утилизаторов</VGE_SalvagerStrongholdLetter>
+  <!-- EN: You have detected the distinct energy signature of a gravcore emanating from a large asteroid. Scans reveal that a well-armed faction of salvagers has claimed the rock, building a heavily defended stronghold upon it. An active enemy signal jammer within the facility prevents your gravship from landing in close proximity, forcing you to touch down on the dangerous outskirts of the asteroid.\n\nYou must assault the base, navigate their defenses, and destroy the gravlock tether located in the center of the compound to obtain the gravcore.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <VGE_SalvagerStrongholdLetterDesc>Вы обнаружили характерную энергетическую сигнатуру гравиядра, исходящую от крупного астероида. Сканирование показывает, что хорошо вооружённая фракция утилизаторов заявила права на эту глыбу, построив на ней надёжно защищённую крепость. Активный вражеский глушитель сигнала внутри объекта не позволяет вашему гравикораблю сесть в непосредственной близости, вынуждая приземлиться на опасных окраинах астероида.\n\nВам предстоит штурмовать базу, преодолеть их оборону и уничтожить гравипривязь, расположенную в центре комплекса, чтобы получить гравиядро.\n\nБудьте осторожны, орбитальные локации чрезвычайно опасны. Снарядите поселенцев скафандрами. Спланируйте обратный путь заранее, ведь долгое пребывание на орбите даётся очень тяжело.</VGE_SalvagerStrongholdLetterDesc>
+  <!--Misc-->
+  <!-- EN: Nullipede thumper cannot be activated on the surface. -->
+  <VGE_NullipedeThumperNeedsSpace>Глушитель сентипед нельзя активировать на поверхности.</VGE_NullipedeThumperNeedsSpace>
+  <!-- EN: Can’t place subcreep outside of the radius of exo hives or subcreepers. -->
+  <VGE_NeedsHiveOrSubcreeper>Нельзя разместить слизевую подложку вне радиуса действия экзороев или её источников.</VGE_NeedsHiveOrSubcreeper>
+  <!-- EN: Incoming gravship -->
+  <VGE_IncomingEnemyGravship>Приближается гравикорабль</VGE_IncomingEnemyGravship>
+  <!-- EN: An enemy gravship is approaching fast.\n\nTime until arrival: {0}\n\nYou will not be able to escape before it arrives. Prepare for them to fire a volley at you and escape as soon as you can. -->
+  <VGE_IncomingEnemyGravshipDesc>Вражеский гравикорабль быстро приближается.\n\nВремя до прибытия: {0}\n\nВы не успеете сбежать до его прибытия. Приготовьтесь к тому, что по вам откроют залповый огонь, и сбегите, как только сможете.</VGE_IncomingEnemyGravshipDesc>
+</LanguageData>

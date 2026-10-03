@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: no pain sensitivity -->
+  <VGE_NoPain.label>отсутствие боли</VGE_NoPain.label>
+  <!-- EN: This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VGE_NoPain.description>У этого существа снижена чувствительность к боли, потребуется больше усилий, чтобы сразить его.</VGE_NoPain.description>
+
+  <!-- EN: exoworm infestation -->
+  <VGE_ExowormInfestation.label>заражение экзочервём</VGE_ExowormInfestation.label>
+  <!-- EN: Parasitic exoworm larvae burrowing and growing within the flesh. As it matures, it will consume local tissue and cause extreme pain. Without aggressive treatment and a strong immune response, the worm will eventually erupt from the body part. -->
+  <VGE_ExowormInfestation.description>Паразитические личинки экзочервя проникли в тело и растут внутри него. По мере роста они начинают пожирать окружающие ткани и вызывают сильнейшую боль. Без агрессивного лечения и крепкого иммунного ответа червь в конце концов вырвется из тела наружу.</VGE_ExowormInfestation.description>
+  <!-- EN:  Exoworm gestation: {0} -->
+  <VGE_ExowormInfestation.comps.3.discoverLetterLabel>Созревание экзочервя: {0}</VGE_ExowormInfestation.comps.3.discoverLetterLabel>
+  <!-- EN: {0} has been infected with exoworm larva. They need immediate and constant medical care, or the worm will eventually crawl out of them. -->
+  <VGE_ExowormInfestation.comps.3.discoverLetterText>{0} {0_gender ? заражён : заражёна} личинкой экзочервя. {0_objective} требуется немедленный и постоянный врачебный уход, иначе червь в конце концов вырвется наружу.</VGE_ExowormInfestation.comps.3.discoverLetterText>
+  <!-- EN: minor -->
+  <VGE_ExowormInfestation.stages.0.label>начальное</VGE_ExowormInfestation.stages.0.label>
+  <!-- EN: minor -->
+  <VGE_ExowormInfestation.stages.1.label>незначительное</VGE_ExowormInfestation.stages.1.label>
+  <!-- EN: wriggling -->
+  <VGE_ExowormInfestation.stages.2.label>шевеление</VGE_ExowormInfestation.stages.2.label>
+  <!-- EN: bulging -->
+  <VGE_ExowormInfestation.stages.3.label>выпирание</VGE_ExowormInfestation.stages.3.label>
+  <!-- EN: erupting -->
+  <VGE_ExowormInfestation.stages.4.label>прорыв наружу</VGE_ExowormInfestation.stages.4.label>
+</LanguageData>

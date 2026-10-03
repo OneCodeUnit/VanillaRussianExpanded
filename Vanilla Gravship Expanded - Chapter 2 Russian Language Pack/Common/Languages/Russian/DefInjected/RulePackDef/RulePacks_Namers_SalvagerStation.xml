@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>r_name(p=2)->The [station_adjective] [station_noun]</li>
+    <li>r_name(p=2)->[subject]'s [pirate_treasure]</li>
+    <li>r_name(p=1)->The [concept_badass] [station_noun]</li>
+    <li>r_name(p=1)->[station_noun] of [concept_badass]</li>
+    <li>r_name(p=0.5)->[Color_Pirate] [station_noun]</li>
+    <li>r_name(p=0.5)->[space_noun] [station_noun]</li>
+    <li>r_name(p=0.5)->[concept_badass] [space_noun]</li>
+    <li>r_name(p=0.2)->[station_adjective] [concept_badass]</li>
+
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject(p=1)->[AdjectiveBadass] [NamePerson]</li>
+    <li>subject->[Color_Pirate] [NamePerson]</li>
+
+    <li>station_noun(p=3)->station</li>
+    <li>station_noun(p=2)->base</li>
+    <li>station_noun(p=2)->outpost</li>
+    <li>station_noun(p=2)->hideout</li>
+    <li>station_noun->den</li>
+    <li>station_noun->cove</li>
+    <li>station_noun->port</li>
+    <li>station_noun->haven</li>
+    <li>station_noun->roost</li>
+    <li>station_noun->nexus</li>
+    <li>station_noun->dock</li>
+    <li>station_noun->stronghold</li>
+    <li>station_noun->fortress</li>
+    <li>station_noun->rock</li>
+    <li>station_noun->tortuga</li>
+
+    <li>station_adjective(p=2)->bloody</li>
+    <li>station_adjective(p=2)->shattered</li>
+    <li>station_adjective->black</li>
+    <li>station_adjective->hidden</li>
+    <li>station_adjective->cursed</li>
+    <li>station_adjective->rusted</li>
+    <li>station_adjective->iron</li>
+    <li>station_adjective->scrap</li>
+    <li>station_adjective->rogue</li>
+    <li>station_adjective->dead</li>
+    <li>station_adjective->forsaken</li>
+    <li>station_adjective->crimson</li>
+
+    <li>concept_badass->plunder</li>
+    <li>concept_badass->mutiny</li>
+    <li>concept_badass->ruin</li>
+    <li>concept_badass->malice</li>
+    <li>concept_badass->greed</li>
+    <li>concept_badass->treason</li>
+    <li>concept_badass->terror</li>
+    <li>concept_badass->vengeance</li>
+    <li>concept_badass->shadow</li>
+    <li>concept_badass->chaos</li>
+    <li>concept_badass->blood</li>
+    <li>concept_badass->agony</li>
+    <li>concept_badass->scum</li>
+    <li>concept_badass->skull</li>
+
+    <li>pirate_treasure(p=2)->hoard</li>
+    <li>pirate_treasure(p=2)->stash</li>
+    <li>pirate_treasure(p=2)->fortune</li>
+    <li>pirate_treasure->folly</li>
+    <li>pirate_treasure->bounty</li>
+    <li>pirate_treasure->claim</li>
+    <li>pirate_treasure->demise</li>
+    <li>pirate_treasure->gambit</li>
+    <li>pirate_treasure->rest</li>
+    <li>pirate_treasure->end</li>
+    <li>pirate_treasure->prize</li>
+    <li>pirate_treasure->haven</li>
+
+    <li>space_noun->star</li>
+    <li>space_noun->void</li>
+    <li>space_noun->comet</li>
+    <li>space_noun->orbit</li>
+    <li>space_noun->nebula</li>
+    <li>space_noun->asteroid</li>
+    <li>space_noun->meteor</li>
+    <li>space_noun->moon</li>
+    <li>space_noun->abyss</li>
+
+    <li>Color_Pirate->black</li>
+    <li>Color_Pirate->crimson</li>
+    <li>Color_Pirate->red</li>
+    <li>Color_Pirate->obsidian</li>
+    <li>Color_Pirate->rust</li>
+    <li>Color_Pirate->blood</li>
+    <li>Color_Pirate->iron</li>
+    <li>Color_Pirate->silver</li>
+  -->
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
+    <li>r_name(p=2)->[station_with_adj]</li>
+    <li>r_name(p=2)->[subject] [pirate_treasure]</li>
+    <li>r_name(p=1)->[concept_badass] [station_gen]</li>
+    <li>r_name(p=1)->[station_with_bad]</li>
+    <li>r_name(p=0.5)->[station_with_color]</li>
+    <li>r_name(p=0.5)->[space_noun_fem] [station_gen]</li>
+    <li>r_name(p=0.5)->[concept_badass] [space_noun_gen]</li>
+
+    <li>station_with_adj->[station_adjective_fem] [station_fem]</li>
+    <li>station_with_adj->[station_adjective_mas] [station_mas]</li>
+    <li>station_with_adj->[station_adjective_neu] [station_neu]</li>
+
+    <li>station_with_bad->[station_fem] [concept_badass_gen]</li>
+    <li>station_with_bad->[station_mas] [concept_badass_gen]</li>
+    <li>station_with_bad->[station_neu] [concept_badass_gen]</li>
+
+    <li>station_with_color->[Color_Pirate_fem] [station_fem]</li>
+    <li>station_with_color->[Color_Pirate_mas] [station_mas]</li>
+    <li>station_with_color->[Color_Pirate_neu] [station_neu]</li>
+
+    <li>subject(p=5)->[NamePersonMale] и его</li>
+    <li>subject(p=1)->[AdjectiveBadass] [NamePersonMale] и его</li>
+    <li>subject->[Color_Pirate_mas] [NamePersonMale] и его</li>
+    <li>subject(p=5)->[NamePersonFemale] и её</li>
+    <li>subject(p=1)->[AdjectiveBadass_fem] [NamePersonFemale] и её</li>
+    <li>subject->[Color_Pirate_fem] [NamePersonFemale] и её</li>
+
+    <li>station_fem(p=3)->станция</li>
+    <li>station_fem(p=2)->база</li>
+    <li>station_mas(p=2)->аванпост</li>
+    <li>station_neu(p=2)->укрытие</li>
+    <li>station_neu->логово</li>
+    <li>station_fem->бухта</li>
+    <li>station_mas->порт</li>
+    <li>station_fem->гавань</li>
+    <li>station_neu->гнездо</li>
+    <li>station_mas->узел</li>
+    <li>station_mas->док</li>
+    <li>station_fem->крепость</li>
+    <li>station_mas->форт</li>
+    <li>station_fem->скала</li>
+    <li>station_fem->Тортуга</li>
+
+    <li>station_gen(p=3)->станции</li>
+    <li>station_gen(p=2)->базы</li>
+    <li>station_gen(p=2)->аванпоста</li>
+    <li>station_gen(p=2)->укрытия</li>
+    <li>station_gen->логова</li>
+    <li>station_gen->бухты</li>
+    <li>station_gen->порта</li>
+    <li>station_gen->гавани</li>
+    <li>station_gen->гнезда</li>
+    <li>station_gen->узла</li>
+    <li>station_gen->дока</li>
+    <li>station_gen->крепости</li>
+    <li>station_gen->форта</li>
+    <li>station_gen->скалы</li>
+    <li>station_gen->Тортуги</li>
+
+    <li>station_adjective_fem(p=2)->кровавая</li>
+    <li>station_adjective_fem(p=2)->разбитая</li>
+    <li>station_adjective_fem->чёрная</li>
+    <li>station_adjective_fem->скрытая</li>
+    <li>station_adjective_fem->проклятая</li>
+    <li>station_adjective_fem->ржавая</li>
+    <li>station_adjective_fem->железная</li>
+    <li>station_adjective_fem->мусорная</li>
+    <li>station_adjective_fem->лихая</li>
+    <li>station_adjective_fem->мёртвая</li>
+    <li>station_adjective_fem->забытая</li>
+    <li>station_adjective_fem->багровая</li>
+
+    <li>station_adjective_mas(p=2)->кровавый</li>
+    <li>station_adjective_mas(p=2)->разбитый</li>
+    <li>station_adjective_mas->чёрный</li>
+    <li>station_adjective_mas->скрытый</li>
+    <li>station_adjective_mas->проклятый</li>
+    <li>station_adjective_mas->ржавый</li>
+    <li>station_adjective_mas->железный</li>
+    <li>station_adjective_mas->мусорный</li>
+    <li>station_adjective_mas->лихой</li>
+    <li>station_adjective_mas->мёртвый</li>
+    <li>station_adjective_mas->забытый</li>
+    <li>station_adjective_mas->багровый</li>
+
+    <li>station_adjective_neu(p=2)->кровавое</li>
+    <li>station_adjective_neu(p=2)->разбитое</li>
+    <li>station_adjective_neu->чёрное</li>
+    <li>station_adjective_neu->скрытое</li>
+    <li>station_adjective_neu->проклятое</li>
+    <li>station_adjective_neu->ржавое</li>
+    <li>station_adjective_neu->железное</li>
+    <li>station_adjective_neu->мусорное</li>
+    <li>station_adjective_neu->лихое</li>
+    <li>station_adjective_neu->мёртвое</li>
+    <li>station_adjective_neu->забытое</li>
+    <li>station_adjective_neu->багровое</li>
+
+    <li>concept_badass_gen->грабежа</li>
+    <li>concept_badass_gen->мятежа</li>
+    <li>concept_badass_gen->руин</li>
+    <li>concept_badass_gen->злобы</li>
+    <li>concept_badass_gen->жадности</li>
+    <li>concept_badass_gen->предательства</li>
+    <li>concept_badass_gen->ужаса</li>
+    <li>concept_badass_gen->возмездия</li>
+    <li>concept_badass_gen->тени</li>
+    <li>concept_badass_gen->хаоса</li>
+    <li>concept_badass_gen->крови</li>
+    <li>concept_badass_gen->агонии</li>
+    <li>concept_badass_gen->отребья</li>
+    <li>concept_badass_gen->черепа</li>
+
+    <li>concept_badass->грабёж</li>
+    <li>concept_badass->мятеж посреди</li>
+    <li>concept_badass->руины</li>
+    <li>concept_badass->злоба среди</li>
+    <li>concept_badass->жадность</li>
+    <li>concept_badass->предательство</li>
+    <li>concept_badass->ужас</li>
+    <li>concept_badass->возмездие</li>
+    <li>concept_badass->тень на</li>
+    <li>concept_badass->хаос на</li>
+    <li>concept_badass->кровь на</li>
+    <li>concept_badass->агония</li>
+    <li>concept_badass->отребье из</li>
+    <li>concept_badass->череп</li>
+
+    <li>pirate_treasure(p=2)->клад</li>
+    <li>pirate_treasure(p=2)->тайник</li>
+    <li>pirate_treasure(p=2)->состояние</li>
+    <li>pirate_treasure->безрассудство</li>
+    <li>pirate_treasure->награда</li>
+    <li>pirate_treasure->имущество</li>
+    <li>pirate_treasure->могила</li>
+    <li>pirate_treasure->авантюра</li>
+    <li>pirate_treasure->покой</li>
+    <li>pirate_treasure->конец</li>
+    <li>pirate_treasure->приз</li>
+    <li>pirate_treasure->убежище</li>
+
+    <li>space_noun_gen->звезд</li>
+    <li>space_noun_gen->пустоты</li>
+    <li>space_noun_gen->кометы</li>
+    <li>space_noun_gen->орбиты</li>
+    <li>space_noun_gen->туманности</li>
+    <li>space_noun_gen->астероида</li>
+    <li>space_noun_gen->метеора</li>
+    <li>space_noun_gen->луны</li>
+    <li>space_noun_gen->бездны</li>
+
+    <li>space_noun_fem->звезда</li>
+    <li>space_noun_fem->пустота</li>
+    <li>space_noun_fem->комета</li>
+    <li>space_noun_fem->орбита</li>
+    <li>space_noun_fem->туманность</li>
+    <li>space_noun_fem->луна</li>
+    <li>space_noun_fem->бездна</li>
+
+    <li>Color_Pirate_mas->чёрный</li>
+    <li>Color_Pirate_mas->багровый</li>
+    <li>Color_Pirate_mas->красный</li>
+    <li>Color_Pirate_mas->обсидиановый</li>
+    <li>Color_Pirate_mas->ржавый</li>
+    <li>Color_Pirate_mas->кровавый</li>
+    <li>Color_Pirate_mas->железный</li>
+    <li>Color_Pirate_mas->серебряный</li>
+
+    <li>Color_Pirate_fem->чёрная</li>
+    <li>Color_Pirate_fem->багровая</li>
+    <li>Color_Pirate_fem->красная</li>
+    <li>Color_Pirate_fem->обсидиановая</li>
+    <li>Color_Pirate_fem->ржавая</li>
+    <li>Color_Pirate_fem->кровавая</li>
+    <li>Color_Pirate_fem->железная</li>
+    <li>Color_Pirate_fem->серебряная</li>
+
+    <li>Color_Pirate_neu->чёрное</li>
+    <li>Color_Pirate_neu->багровое</li>
+    <li>Color_Pirate_neu->красное</li>
+    <li>Color_Pirate_neu->обсидиановое</li>
+    <li>Color_Pirate_neu->ржавое</li>
+    <li>Color_Pirate_neu->кровавое</li>
+    <li>Color_Pirate_neu->железное</li>
+    <li>Color_Pirate_neu->серебряное</li>
+  </VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
+</LanguageData>

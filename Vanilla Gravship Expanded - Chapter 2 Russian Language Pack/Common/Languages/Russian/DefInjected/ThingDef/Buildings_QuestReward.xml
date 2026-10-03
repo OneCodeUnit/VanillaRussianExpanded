@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: astrofire launcher -->
+  <VGE_AstrofireLauncher.label>пусковая установка космоогня</VGE_AstrofireLauncher.label>
+  <!-- EN: A compact multi-tube missile platform that shoots a volley of four rapid missiles that explode and carry a payload of astrofuel, setting the area hit on astrofire. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
+  <VGE_AstrofireLauncher.description>Компактная многоствольная ракетная платформа, выпускающая залп из четырёх быстрых фугасных ракет, которые несут заряд космотоплива и при попадании покрывают участок космоогнём. Предназначена для быстрых и мощных ударов по открытым гравикораблям и небронированным наземным силам. Для работы требует связанного терминала наведения с оператором. Получает питание напрямую от гравидвигателя.</VGE_AstrofireLauncher.description>
+  <!-- EN: Astrofuel -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>Космотопливо</VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Astrofuel -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>Космотопливо</VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Missing rockets -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>Отсутствуют ракеты</VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: astrofire launcher -->
+  <VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>пусковая установка космоогня</VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+
+  <!-- EN: astrofire launcher -->
+  <VGE_Gun_AstrofireLauncher.label>пусковая установка космоогня</VGE_Gun_AstrofireLauncher.label>
+  <!-- EN: A compact multi-tube missile platform capable of launching astrofire missiles. -->
+  <VGE_Gun_AstrofireLauncher.description>Компактная многоствольная ракетная платформа, способная запускать ракеты с космоогнём.</VGE_Gun_AstrofireLauncher.description>
+
+  <!-- EN: Astrofire rocket -->
+  <VGE_Rocket_AstrofireMissile.label>Ракета с космоогнём</VGE_Rocket_AstrofireMissile.label>
+
+  <!-- EN: gravlaunch cloaker -->
+  <VGE_GravlaunchCloaker.label>маскировщик гравипуска</VGE_GravlaunchCloaker.label>
+  <!-- EN: A specialized device that masks the energy signature of a gravship launch, reducing the impact the gravship launch has on other inhabitants of the planet, making it less likely that the gravship will be detected.\n\nA gravship can support two gravlaunch cloakers. -->
+  <VGE_GravlaunchCloaker.description>Специализированное устройство, маскирующее энергетическую сигнатуру запуска гравикорабля, что снижает его заметность для других жителей планеты и уменьшает вероятность обнаружения гравикорабля.\n\nГравикорабль может поддерживать два маскировщика гравипуска.</VGE_GravlaunchCloaker.description>
+
+  <!-- EN: warcomputer -->
+  <VGE_Warcomputer.label>боевой компьютер</VGE_Warcomputer.label>
+  <!-- EN: The tactical supercomputer core of a gravship. It enhances the weapons and defenses of the gravship: it makes gauss artillery more accurate, javelin missiles fire faster, anticraft beam weaponry fire longer bursts, and point defense turrets intercept projectiles at greater distances. It draws power directly from the grav engine. -->
+  <VGE_Warcomputer.description>Тактический центральный суперкомпьютер гравикорабля. Улучшает вооружение и оборону гравикорабля: повышает точность артиллерии Гаусса, ускоряет стрельбу ракет «Дротик», увеличивает длительность очередей противокорабельного излучателя и увеличивает дальность перехвата снарядов турелями точечной обороны. Получает питание напрямую от гравидвигателя.</VGE_Warcomputer.description>
+
+  <!-- EN: grav field dilutor -->
+  <VGE_GravFieldDilutor.label>разбавитель гравиполя</VGE_GravFieldDilutor.label>
+  <!-- EN: An advanced ultratech device that dramatically increases the size of a gravship but makes the gravity field slightly weaker, resulting in a decrease to the amount of substructure that can be built. Must be built near a grav engine.\n\nA gravship can support only one grav field dilutor. -->
+  <VGE_GravFieldDilutor.description>Продвинутое ультратехнологичное устройство, резко увеличивающее размер гравикорабля, но немного ослабляющее гравитационное поле, из-за чего уменьшается объём надстройки, которую можно построить. Должно строиться рядом с гравидвигателем.\n\nГравикорабль может поддерживать только один разбавитель гравиполя.</VGE_GravFieldDilutor.description>
+</LanguageData>

@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: hostile warcomputer -->
+  <VGE_HostileWarcomputer.label>враждебный боевой компьютер</VGE_HostileWarcomputer.label>
+  <!-- EN: The tactical core of an orbital warplatform. This advanced supercomputer maintains active target locks and manages the platform's long-range artillery systems. It can be accessed and hacked to download a payload of gravdata, scaling based on progress on the currently selected gravtech research project. Destroying or hacking the warcomputer will disable the platform entirely. -->
+  <VGE_HostileWarcomputer.description>Тактическое ядро орбитальной боевой платформы. Этот продвинутый суперкомпьютер удерживает активные захваты целей и управляет дальнобойными артиллерийскими системами платформы. К нему можно получить доступ и взломать его, чтобы скачать пакет гравиданных, объём которого зависит от прогресса текущего выбранного гравитехнологического исследовательского проекта. Уничтожение или взлом боевого компьютера полностью отключит платформу.</VGE_HostileWarcomputer.description>
+  <!-- EN: Warcomputer -->
+  <VGE_HostileWarcomputer.comps.3.label>Боевой компьютер</VGE_HostileWarcomputer.comps.3.label>
+  <!-- EN: You've discovered a hostile warcomputer running an orbital warplatform. Destroy it to disable all platform weaponry and obtain a gravcore. -->
+  <VGE_HostileWarcomputer.comps.3.text>Вы обнаружили враждебный боевой компьютер, управляющий орбитальной боевой платформой. Уничтожьте его, чтобы отключить всё вооружение платформы и получить гравиядро.</VGE_HostileWarcomputer.comps.3.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_HostileWarcomputer.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_HostileWarcomputer.comps.CompInspectString.inspectString>
+
+  <!-- EN: enemy gravjumper engine -->
+  <VGE_EnemyGravjumperEngine.label>вражеский гравипрыжковый двигатель</VGE_EnemyGravjumperEngine.label>
+  <!-- EN: A compact gravtech engine designed for short-range jumps within a planet's atmosphere. The gravjumper engine creates a brief, localized distortion in gravitational flow, allowing rapid vertical lift, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravjumperEngine.description>Компактный гравитехнологический двигатель, разработанный для прыжков на короткие расстояния в атмосфере планеты. Гравипрыжковый двигатель создаёт кратковременное локализованное искажение гравитационного потока, позволяющее совершить быстрый вертикальный подъём, но не создаёт тягу вперёд. Не может работать вдали от крупной гравитационной ямы, например планеты, поэтому бесполезен для межпланетных путешествий.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов, включая гравиядро.</VGE_EnemyGravjumperEngine.description>
+  <!-- EN: Gravjumper engine -->
+  <VGE_EnemyGravjumperEngine.comps.3.label>Гравипрыжковый двигатель</VGE_EnemyGravjumperEngine.comps.3.label>
+  <!-- EN: You've discovered an enemy gravjumper engine. Destroy it to obtain a gravcore and permanently disable the vessel's ability to move. -->
+  <VGE_EnemyGravjumperEngine.comps.3.text>Вы обнаружили вражеский гравипрыжковый двигатель. Уничтожьте его, чтобы получить гравиядро и навсегда лишить судно способности двигаться.</VGE_EnemyGravjumperEngine.comps.3.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>
+
+  <!-- EN: enemy gravship engine -->
+  <VGE_EnemyGravEngine.label>вражеский гравидвигатель</VGE_EnemyGravEngine.label>
+  <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravEngine.description>Ультратехнологичное сердце гравикорабля. Гравидвигатель создаёт подъёмную силу, инвертируя и усиливая гравитацию в поле вокруг себя. Этот двигатель поднимает вверх, но не создаёт тягу вперёд.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов, включая гравиядро.</VGE_EnemyGravEngine.description>
+  <!-- EN: Gravship engine -->
+  <VGE_EnemyGravEngine.comps.3.label>Гравидвигатель</VGE_EnemyGravEngine.comps.3.label>
+  <!-- EN: You've discovered an enemy gravship engine. Destroy it to obtain a gravcore and permanently disable the ship's ability to move. -->
+  <VGE_EnemyGravEngine.comps.3.text>Вы обнаружили вражеский гравидвигатель. Уничтожьте его, чтобы получить гравиядро и навсегда лишить корабль способности двигаться.</VGE_EnemyGravEngine.comps.3.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravEngine.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_EnemyGravEngine.comps.CompInspectString.inspectString>
+
+  <!-- EN: enemy gravhulk engine -->
+  <VGE_EnemyGravhulkEngine.label>вражеский двигатель гравибаржи</VGE_EnemyGravhulkEngine.label>
+  <!-- EN: The gravhulk is a colossal class of gravship, engineered to transport entire megacolonies, orbital platforms, or mobile city-cores across the skies of a planet. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravhulkEngine.description>Гравибаржы колоссальные гравикорбали, спроектированные для транспортировки целых мегаколоний, орбитальных платформ или мобильных городских ядер по небу планеты. Гравидвигатель создаёт подъёмную силу, инвертируя и усиливая эффект гравитации в поле вокруг себя. Этот двигатель может поднимать вверх, но не создаёт горизонтальную тягу. Не может работать вдали от крупного гравитационного колодца вроде планеты, поэтому бесполезен для межпланетных путешествий.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов, включая гравиядро.</VGE_EnemyGravhulkEngine.description>
+  <!-- EN: Gravhulk engine -->
+  <VGE_EnemyGravhulkEngine.comps.3.label>Двигатель гравибаржи</VGE_EnemyGravhulkEngine.comps.3.label>
+  <!-- EN: You've discovered an enemy gravhulk engine. Destroy it to obtain a gravcore and permanently cripple this massive vessel's mobility. -->
+  <VGE_EnemyGravhulkEngine.comps.3.text>Вы обнаружили вражеский двигатель гравибаржи. Уничтожьте его, чтобы получить гравиядро и навсегда лишить это массивное судно подвижности.</VGE_EnemyGravhulkEngine.comps.3.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>
+
+  <!-- EN: enemy gravlock tether -->
+  <VGE_EnemyGravlockTether.label>вражеская гравипривязь</VGE_EnemyGravlockTether.label>
+  <!-- EN: The gravlock tether is the core stabilization unit of an orbital station, anchoring it in a fixed position. A specialized conversion of the gravhulk engine, this device generates a stabilized gravitational field to maintain the station's orbital trajectory.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravlockTether.description>Основной стабилизирующий узел орбитальной станции, удерживающий её в фиксированном положении. Специализированная модификация двигателя гравибаржи, это устройство создаёт стабилизированное гравитационное поле для поддержания орбитальной траектории станции.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов, включая гравиядро.</VGE_EnemyGravlockTether.description>
+  <!-- EN: Gravlock tether -->
+  <VGE_EnemyGravlockTether.comps.3.label>Гравипривязь</VGE_EnemyGravlockTether.comps.3.label>
+  <!-- EN: You've discovered an enemy gravlock tether, anchoring an orbital base in place. Destroy it to obtain a gravcore. -->
+  <VGE_EnemyGravlockTether.comps.3.text>Вы обнаружили вражескую гравипривязь, удерживающую орбитальную базу на месте. Уничтожьте её, чтобы получить гравиядро.</VGE_EnemyGravlockTether.comps.3.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>
+
+  <!-- EN: enemy pilot cockpit -->
+  <VGE_EnemyPilotCockpit.label>вражеская кабина пилота</VGE_EnemyPilotCockpit.label>
+  <!-- EN: An interface that allows launching and piloting a gravjumper. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPilotCockpit.description>Интерфейс, позволяющий запускать и пилотировать гравипрыжковый корабль. Получает питание напрямую от гравидвигателя.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyPilotCockpit.description>
+
+  <!-- EN: enemy pilot console -->
+  <VGE_EnemyPilotConsole.label>вражеская консоль пилота</VGE_EnemyPilotConsole.label>
+  <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPilotConsole.description>Интерфейс, позволяющий запускать и пилотировать гравикорабль. Получает питание напрямую от гравидвигателя.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyPilotConsole.description>
+
+  <!-- EN: enemy pilot bridge -->
+  <VGE_EnemyPilotBridge.label>вражеский мостик пилота</VGE_EnemyPilotBridge.label>
+  <!-- EN: An interface that allows launching and piloting a gravhulk. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPilotBridge.description>Интерфейс, позволяющий запускать и пилотировать гравибаржу. Получает питание напрямую от гравидвигателя.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyPilotBridge.description>
+
+  <!-- EN: enemy targeting terminal -->
+  <VGE_EnemyTargetingTerminal.label>вражеский терминал наведения</VGE_EnemyTargetingTerminal.label>
+  <!-- EN: An enemy control terminal responsible for calibrating the nearby gravship artillery turrets.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyTargetingTerminal.description>Вражеский управляющий терминал, отвечающий за калибровку близлежащих артиллерийских турелей гравикорабля.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyTargetingTerminal.description>
+
+  <!-- EN: enemy targeting console -->
+  <VGE_EnemyTargetingConsole.label>вражеская консоль наведения</VGE_EnemyTargetingConsole.label>
+  <!-- EN: A large, enemy targeting console responsible for calibrating the reload sequence of nearby gravship artillery pieces.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyTargetingConsole.description>Крупная вражеская консоль наведения, отвечающая за калибровку последовательности перезарядки близлежащих артиллерийских орудий гравикорабля.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyTargetingConsole.description>
+
+  <!-- EN: enemy algae oxygenator -->
+  <VGE_EnemyAlgaeOxygenator.label>вражеский генератор кислорода</VGE_EnemyAlgaeOxygenator.label>
+  <!-- EN: A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyAlgaeOxygenator.description>Жизненно важное устройство, перерабатывающее собранные кислородные водоросли в пригодный для дыхания кислород. Преобразует биомассу в газ и подаёт его в кислородную сеть для снабжения герметичных помещений и оборудования.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyAlgaeOxygenator.description>
+
+  <!-- EN: enemy astrofuel synthesizer -->
+  <VGE_EnemyAstrofuelSynthesizer.label>вражеский синтезатор космотоплива</VGE_EnemyAstrofuelSynthesizer.label>
+  <!-- EN: A specialized structure that refines chemfuel into high-grade astrofuel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyAstrofuelSynthesizer.description>Специализированная конструкция, перерабатывающая химтопливо в высококачественное космотопливо.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyAstrofuelSynthesizer.description>
+
+  <!-- EN: enemy gauss bombard -->
+  <VGE_EnemyGaussBombard.label>вражеская бомбарда Гаусса</VGE_EnemyGaussBombard.label>
+  <!-- EN: A heavy, slow-firing electromagnetic launcher that discharges bursts of two kinetic impactors. Designed to bombard locations designated by an orbital bombardment targeter.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGaussBombard.description>Тяжёлая, медленно стреляющая электромагнитная пусковая установка, выпускающая залпы из двух кинетических снарядов. Предназначена для обстрела мест, отмеченных целеуказателем орбитальной бомбардировки.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGaussBombard.description>
+
+  <!-- EN: enemy gauss bombard -->
+  <VGE_Gun_EnemyGaussBombard.label>вражеская бомбарда Гаусса</VGE_Gun_EnemyGaussBombard.label>
+  <!-- EN: A heavy, slow-firing electromagnetic launcher. -->
+  <VGE_Gun_EnemyGaussBombard.description>Тяжёлая, медленно стреляющая электромагнитная пусковая установка.</VGE_Gun_EnemyGaussBombard.description>
+  <!-- EN: enemy gauss bombard -->
+  <VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>вражеская бомбарда Гаусса</VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: gauss bombard shot -->
+  <VGE_Bullet_GaussBombard.label>снаряд бомбарды Гаусса</VGE_Bullet_GaussBombard.label>
+
+  <!-- EN: enemy gauss gun -->
+  <VGE_EnemyGaussGun.label>вражеское орудие Гаусса</VGE_EnemyGaussGun.label>
+  <!-- EN: A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGaussGun.description>Небольшая одноствольная электромагнитная пушка, выпускающая плотные урановые болванки на экстремальных скоростях. Предназначена как для локальных бомбардировок, так и для боя на средних дистанциях, также может атаковать другие гравикорабли на орбите. Получает питание напрямую от гравидвигателя и не требует связанного терминала для работы.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGaussGun.description>
+
+  <!-- EN: enemy gauss gun -->
+  <VGE_Gun_EnemyGaussGun.label>вражеское орудие Гаусса</VGE_Gun_EnemyGaussGun.label>
+  <!-- EN: enemy gauss gun -->
+  <VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>вражеское орудие Гаусса</VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>
+
+  <!-- EN: enemy javelin pod -->
+  <VGE_EnemyJavelinPod.label>вражеская капсула «Дротик»</VGE_EnemyJavelinPod.label>
+  <!-- EN: A compact multi-tube missile platform that launches a volley of six guided astrofuel javelins. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyJavelinPod.description>Компактная многоствольная ракетная платформа, выпускающая залп из шести самонаводящихся ракет «Дротик» на космотопливной тяге. Предназначена для быстрых и мощных ударов по открытым гравикораблям и небронированным наземным силам. Получает питание напрямую от гравидвигателя и не требует связанного терминала для работы.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyJavelinPod.description>
+  <!-- EN: enemy javelin pod -->
+  <VGE_Gun_EnemyJavelinPod.verbs.Verb_ShootWithWorldTargeting.label>вражеская капсула «Дротик»</VGE_Gun_EnemyJavelinPod.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: enemy javelin pod -->
+  <VGE_Gun_EnemyJavelinPod.label>вражеская капсула «Дротик»</VGE_Gun_EnemyJavelinPod.label>
+
+  <!-- EN: enemy anticraft caster -->
+  <VGE_EnemyAnticraftCaster.label>вражеский зенитный излучатель</VGE_EnemyAnticraftCaster.label>
+  <!-- EN: A medium gravship-mounted energy weapon that fires short, razor-sharp bursts of cutting beam with surgical precision. Built to punch holes through critical systems, the caster trades sustained suppression for rapid, accurate strikes. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyAnticraftCaster.description>Среднее энергетическое оружие, устанавливаемое на гравикорабль, выпускающее короткие, острые как бритва очереди режущего луча с хирургической точностью. Создано для пробивания критических систем, жертвуя постоянным подавлением ради быстрых точных ударов. Получает питание напрямую от гравидвигателя и не требует связанного терминала для работы.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyAnticraftCaster.description>
+  <!-- EN: enemy anticraft caster -->
+  <VGE_Gun_EnemyAnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>вражеский зенитный излучатель</VGE_Gun_EnemyAnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: enemy anticraft caster -->
+  <VGE_Gun_EnemyAnticraftCaster.label>вражеский зенитный излучатель</VGE_Gun_EnemyAnticraftCaster.label>
+
+  <!-- EN: enemy anticraft beam -->
+  <VGE_EnemyAnticraftBeam.label>вражеский противокорабельный луч</VGE_EnemyAnticraftBeam.label>
+  <!-- EN: A massive anti-ship beam weapon intended to destroy flying craft, but also capable of firing onto the surface from space. Ships using ultratech signal jammers can delay the targeting of these weapons.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyAnticraftBeam.description>Массивное противокорабельное лучевое оружие, предназначенное для уничтожения летательных аппаратов, но также способное вести огонь по поверхности из космоса. Корабли, использующие ультратехнологичные глушители сигнала, могут замедлить наведение этого оружия.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно уничтожить для получения некоторых ценных ресурсов, включая гравиядро.</VGE_EnemyAnticraftBeam.description>
+  <!-- EN: Beam emitter -->
+  <VGE_EnemyAnticraftBeam.comps.4.label>Лучевой излучатель</VGE_EnemyAnticraftBeam.comps.4.label>
+  <!-- EN: You've discovered an anticraft beam. This powerful orbital weapon can annihilate any gravship that challenges it. Destroy it to secure the airspace and obtain a gravcore. -->
+  <VGE_EnemyAnticraftBeam.comps.4.text>Вы обнаружили противокорабельный луч. Это мощное орбитальное оружие способно уничтожить любой гравикорабль, бросивший ему вызов. Уничтожьте его, чтобы обезопасить воздушное пространство и получить гравиядро.</VGE_EnemyAnticraftBeam.comps.4.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>
+  <!-- EN: enemy anticraft beam -->
+  <VGE_Gun_EnemyAnticraftBeam.verbs.Verb_AnticraftBeam.label>вражеский противокорабельный луч</VGE_Gun_EnemyAnticraftBeam.verbs.Verb_AnticraftBeam.label>
+  <!-- EN: enemy anticraft beam -->
+  <VGE_Gun_EnemyAnticraftBeam.label>вражеский противокорабельный луч</VGE_Gun_EnemyAnticraftBeam.label>
+  <!-- EN: anticraft beam -->
+  <VGE_Bullet_AnticraftBeam.label>противокорабельный луч</VGE_Bullet_AnticraftBeam.label>
+  <!-- EN: anticraft beam strike -->
+  <VGE_EnemyAnticraftBeamStrike.label>удар противокорабельного луча</VGE_EnemyAnticraftBeamStrike.label>
+
+  <!-- EN: enemy point defense turret -->
+  <VGE_EnemyPointDefenseTurret.label>вражеская турель точечной обороны</VGE_EnemyPointDefenseTurret.label>
+  <!-- EN: A specialized defensive turret built exclusively for gravships. It intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPointDefenseTurret.description>Специализированная оборонительная турель, построенная исключительно для гравикораблей. Перехватывает взрывные снаряды и входящие десантные капсулы в пределах защитного радиуса, но не может атаковать наземные цели. Шанс перехвата зависит от скорости цели.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyPointDefenseTurret.description>
+  <!-- EN: enemy point defense turret -->
+  <VGE_Gun_EnemyPointDefense.verbs.Verb_Shoot.label>вражеская турель точечной обороны</VGE_Gun_EnemyPointDefense.verbs.Verb_Shoot.label>
+
+  <!-- EN: point defense gun -->
+  <VGE_Gun_EnemyPointDefense.label>орудие точечной обороны</VGE_Gun_EnemyPointDefense.label>
+  <!-- EN: A rapid-fire gun for point-defense applications. -->
+  <VGE_Gun_EnemyPointDefense.description>Скорострельное орудие для целей точечной обороны.</VGE_Gun_EnemyPointDefense.description>
+
+  <!-- EN: enemy shield generator -->
+  <VGE_EnemyShieldGenerator.label>вражеский генератор щита</VGE_EnemyShieldGenerator.label>
+  <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyShieldGenerator.description>Устройство защиты, способное прикрыть гравикорабль. Модулирует гравиполе, создавая недолговечную отталкивающую поверхность, блокирующую снаряды. Работает против обычных выстрелов и миномётов. Те, кто находится внутри, всё ещё могут стрелять наружу. Перед использованием требует зарядки.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyShieldGenerator.description>
+
+  <!-- EN: large enemy shield generator -->
+  <VGE_EnemyLargeShieldGenerator.label>вражеский большой генератор щита</VGE_EnemyLargeShieldGenerator.label>
+  <!-- EN: A large-scale shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyLargeShieldGenerator.description>Крупномасштабное устройство защиты, способное прикрыть гравикорабль. Модулирует гравиполе, создавая недолговечную отталкивающую поверхность, блокирующую снаряды. Работает против обычных выстрелов и миномётов. Те, кто находится внутри, всё ещё могут стрелять наружу. Перед использованием требует зарядки.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyLargeShieldGenerator.description>
+
+  <!-- EN: enemy signal jammer -->
+  <VGE_EnemySignalJammer.label>вражеский глушитель сигнала</VGE_EnemySignalJammer.label>
+  <!-- EN: An advanced jamming array that disrupts local guidance signals, preventing the deployment of gravships and drop pods in its immediate vicinity. This particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemySignalJammer.description>Продвинутый глушащий массив, нарушающий локальные сигналы наведения и препятствующий развёртыванию гравикораблей и десантных капсул в непосредственной близости. Это устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemySignalJammer.description>
+
+  <!-- EN: ancient gravmine -->
+  <VGE_AncientGravmine.label>древняя гравимина</VGE_AncientGravmine.label>
+  <!-- EN: An ancient and incredibly unstable high-explosive device designed for space-based combat. It features a large detection radius that triggers a powerful blast detonation upon the approach. -->
+  <VGE_AncientGravmine.description>Древнее и невероятно нестабильное фугасное устройство, разработанное для боя в космосе. Обладает большим радиусом обнаружения, вызывающим мощный взрыв при приближении.</VGE_AncientGravmine.description>
+
+  <!-- EN: enemy small thruster -->
+  <VGE_EnemySmallThruster.label>вражеский малый ускоритель</VGE_EnemySmallThruster.label>
+  <!-- EN: An astrofuel thruster that increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemySmallThruster.description>Космотопливный ускоритель, увеличивающий дальность полёта и максимальный размер гравикорабля.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemySmallThruster.description>
+
+  <!-- EN: enemy large thruster -->
+  <VGE_EnemyLargeThruster.label>вражеский большой ускоритель</VGE_EnemyLargeThruster.label>
+  <!-- EN: An advanced astrofuel thruster with a heat-resistant vacstone liner. It greatly increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyLargeThruster.description>Продвинутый космотопливный ускоритель с теплостойкой обшивкой из вакуумита. Значительно увеличивает дальность полёта и максимальный размер гравикорабля.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyLargeThruster.description>
+
+  <!-- EN: enemy giant thruster -->
+  <VGE_EnemyGiantThruster.label>вражеский гигантский ускоритель</VGE_EnemyGiantThruster.label>
+  <!-- EN: A massive, reinforced astrofuel thruster built with advanced alloys and ultra-dense vacstone plating. It massively increases the range and maximum size of the gravship\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGiantThruster.description>Массивный, усиленный космотопливный ускоритель, построенный из продвинутых сплавов с ультраплотной обшивкой из вакуумита. Значительно увеличивает дальность полёта и максимальный размер гравикорабля.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGiantThruster.description>
+
+  <!-- EN: enemy grav field extender -->
+  <VGE_EnemyGravFieldExtender.label>вражеский расширитель гравиполя</VGE_EnemyGravFieldExtender.label>
+  <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravFieldExtender.description>Ультратехнологичное устройство, используемое для увеличения размера гравикорабля. Расширяет область, в которой можно строить надстройку, и увеличивает объём надстройки, которую может поддерживать гравикорабль.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGravFieldExtender.description>
+
+  <!-- EN: enemy grav field amplifier -->
+  <VGE_EnemyGravFieldAmplifier.label>вражеский усилитель гравиполя</VGE_EnemyGravFieldAmplifier.label>
+  <!-- EN: An advanced ultratech device that dramatically increases the size of a gravship.  It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravFieldAmplifier.description>Продвинутое ультратехнологичное устройство, значительно увеличивающее размер гравикорабля. Расширяет область, в которой можно строить надстройку, и увеличивает объём надстройки, которую может поддерживать гравикорабль.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGravFieldAmplifier.description>
+
+  <!-- EN: ancient signal jammer -->
+  <VGE_AncientSignalJammer.label>древний глушитель сигнала</VGE_AncientSignalJammer.label>
+  <!-- EN: An archaic broadcasting array emitting a high-frequency interference field that cripples long-range communications and disrupts gravship navigational locks. As long as it’s active, gravship or shuttle launches from this area will not be possible, and comms consoles will not be able to be used. It contains a valuable gravcore. -->
+  <VGE_AncientSignalJammer.description>Архаичный передающий массив, излучающий высокочастотное поле помех, которое подавляет дальнюю связь и нарушает навигационные захваты гравикораблей. Пока он активен, запуск гравикораблей или челноков из этой области невозможен, а консоли связи не могут быть использованы. Содержит ценное гравиядро.</VGE_AncientSignalJammer.description>
+  <!-- EN: Signal jammer -->
+  <VGE_AncientSignalJammer.comps.1.label>Глушитель сигнала</VGE_AncientSignalJammer.comps.1.label>
+  <!-- EN: You've discovered an ancient signal jammer actively preventing vessels from leaving the area. Destroy it to lift the lockdown and obtain a gravcore. -->
+  <VGE_AncientSignalJammer.comps.1.text>Вы обнаружили древний глушитель сигнала, активно не позволяющий судам покинуть область. Уничтожьте его, чтобы снять блокировку и получить гравиядро.</VGE_AncientSignalJammer.comps.1.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_AncientSignalJammer.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_AncientSignalJammer.comps.CompInspectString.inspectString>
+  
+  <!-- EN: enemy gauss cannon -->
+  <VGE_EnemyGaussCannon.label>вражеская пушка Гаусса</VGE_EnemyGaussCannon.label>
+  <!-- EN: A massive, single-barrel anti-ship cannon that uses powerful electromagnets to launch large metallic darts at extreme velocities. While formidable, ships equipped with ultratech signal jammers can temporarily paralyze its targeting systems, rendering it unable to fire during the disruption.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGaussCannon.description>Массивная одноствольная противокорабельная пушка, использующая мощные электромагниты для запуска крупных металлических дротиков на экстремальных скоростях. Несмотря на всю мощь, корабли, оснащённые ультратехнологичными глушителями сигнала, могут временно парализовать её системы наведения, делая её неспособной стрелять во время помех.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно уничтожить для получения некоторых ценных ресурсов, включая гравиядро.</VGE_EnemyGaussCannon.description>
+  <!-- EN: Gauss cannon -->
+  <VGE_EnemyGaussCannon.comps.3.label>Пушка Гаусса</VGE_EnemyGaussCannon.comps.3.label>
+  <!-- EN: You've discovered a gauss cannon, a devastating piece of orbital artillery. Destroy it to eliminate the threat and obtain a gravcore. -->
+  <VGE_EnemyGaussCannon.comps.3.text>Вы обнаружили пушку Гаусса — разрушительное орбитальное артиллерийское орудие. Уничтожьте её, чтобы устранить угрозу и получить гравиядро.</VGE_EnemyGaussCannon.comps.3.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>
+  <!-- EN: enemy gauss cannon -->
+  <VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>вражеская пушка Гаусса</VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: enemy gauss cannon -->
+  <VGE_Gun_EnemyGaussCannon.label>вражеская пушка Гаусса</VGE_Gun_EnemyGaussCannon.label>
+  <!-- EN: An incredibly powerful anti-ship gauss artillery mounted on an orbital station. -->
+  <VGE_Gun_EnemyGaussCannon.description>Невероятно мощная противокорабельная артиллерия Гаусса, установленная на орбитальной станции.</VGE_Gun_EnemyGaussCannon.description>
+
+  <!-- EN: gauss cannon shot -->
+  <VGE_Bullet_GaussCannon.label>снаряд пушки Гаусса</VGE_Bullet_GaussCannon.label>
+
+  <!-- EN: defender turret -->
+  <VGE_Turret_DefenderTurret.label>защитная турель</VGE_Turret_DefenderTurret.label>
+  <!-- EN: An armored security turret containing containing a built-in power source. -->
+  <VGE_Turret_DefenderTurret.description>Бронированная охранная турель со встроенным источником питания.</VGE_Turret_DefenderTurret.description>
+  <!-- EN: defender turret -->
+  <VGE_Gun_DefenderTurret.verbs.Verb_Shoot.label>защитная турель</VGE_Gun_DefenderTurret.verbs.Verb_Shoot.label>
+  <!-- EN: defender turret bullet -->
+  <VGE_Bullet_DefenderTurret.label>пуля защитной турели</VGE_Bullet_DefenderTurret.label>
+
+  <!-- EN: defender turret gun -->
+  <VGE_Gun_DefenderTurret.label>орудие защитной турели</VGE_Gun_DefenderTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <VGE_Gun_DefenderTurret.description>Простое автоматическое орудие, предназначенное для крепления к турельной установке.</VGE_Gun_DefenderTurret.description>
+
+  <!-- EN: enemy gravship minigun turret -->
+  <VGE_EnemyGravshipMinigunTurret.label>вражеская турель-миниган гравикорабля</VGE_EnemyGravshipMinigunTurret.label>
+  <!-- EN: A compact gravship-mounted heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravshipMinigunTurret.description>Компактная тяжёлая автоматическая турель, устанавливаемая на гравикорабль. Её многоствольный механизм ведёт непрерывный огонь на высокой скорости, разрывая легкобронированные цели на средней дистанции. Может взорваться при повреждении.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGravshipMinigunTurret.description>
+  <!-- EN: enemy gravship minigun turret -->
+  <VGE_Gun_EnemyGravshipMinigun.verbs.Verb_Shoot.label>вражеская турель-миниган гравикорабля</VGE_Gun_EnemyGravshipMinigun.verbs.Verb_Shoot.label>
+  <!-- EN: gravship minigun -->
+  <VGE_Gun_EnemyGravshipMinigun.label>миниган гравикорабля</VGE_Gun_EnemyGravshipMinigun.label>
+
+  <!-- EN: enemy gravship autocannon turret -->
+  <VGE_EnemyGravshipAutocannonTurret.label>вражеская турель-автопушка гравикорабля</VGE_EnemyGravshipAutocannonTurret.label>
+  <!-- EN: A compact gravship-mounted automatic turret. Its large-caliber shells do heavy damage over significant ranges, but despite its efficiency, the barrel must be refurbished after heavy use. It cannot fire at close-up targets, and may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravshipAutocannonTurret.description>Компактная автоматическая турель, устанавливаемая на гравикорабль. Её крупнокалиберные снаряды наносят тяжёлый урон на значительных дистанциях, но, несмотря на эффективность, ствол требует восстановления после интенсивного использования. Не может стрелять по близким целям и может взорваться при повреждении.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGravshipAutocannonTurret.description>
+  <!-- EN: enemy gravship autocannon turret -->
+  <VGE_Gun_EnemyGravshipAutocannon.verbs.Verb_Shoot.label>вражеская турель-автопушка гравикорабля</VGE_Gun_EnemyGravshipAutocannon.verbs.Verb_Shoot.label>
+  <!-- EN: gravship autocannon -->
+  <VGE_Gun_EnemyGravshipAutocannon.label>автопушка гравикорабля</VGE_Gun_EnemyGravshipAutocannon.label>
+
+  <!-- EN: enemy gravship uranium slug turret -->
+  <VGE_EnemyGravshipUraniumSlugTurret.label>вражеская снайперская турель гравикорабля</VGE_EnemyGravshipUraniumSlugTurret.label>
+  <!-- EN: A compact gravship-mounted armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. More efficient than its ground version, it consumes fewer slugs per shot. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravshipUraniumSlugTurret.description>Компактная бронебойная турель, устанавливаемая на гравикорабль. Её сверхплотные урановые снаряды способны пробивать тяжёлую броню, но после использования требует зарядки новыми урановыми болванками. Более эффективна, чем наземная версия, расходуя меньше снарядов за выстрел. Точнее на больших дистанциях и совсем не может стрелять по близким целям. Может взорваться при повреждении.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGravshipUraniumSlugTurret.description>
+  <!-- EN: enemy gravship uranium slug turret -->
+  <VGE_Gun_EnemyGravshipUraniumSlug.verbs.Verb_Shoot.label>вражеская снайперская турель гравикорабля</VGE_Gun_EnemyGravshipUraniumSlug.verbs.Verb_Shoot.label>
+  <!-- EN: gravship uranium slug gun -->
+  <VGE_Gun_EnemyGravshipUraniumSlug.label>снайперское орудие гравикорабля</VGE_Gun_EnemyGravshipUraniumSlug.label>
+
+  <!-- EN: enemy oxygen pump -->
+  <VGE_EnemyOxygenPump.label>вражеский кислородный насос</VGE_EnemyOxygenPump.label>
+  <!-- EN: A unit connected to the gravship’s life support network. It keeps rooms heated and pressurized. -->
+  <VGE_EnemyOxygenPump.description>Узел, подключённый к сети жизнеобеспечения гравикорабля. Поддерживает тепло и герметичность в помещениях.</VGE_EnemyOxygenPump.description>
+
+  <!-- EN: enemy gravship light -->
+  <VGE_EnemyGravshipLight_red.label>вражеский светильник гравикорабля</VGE_EnemyGravshipLight_red.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <VGE_EnemyGravshipLight_red.description>Древний светильник с долговечной батареей.</VGE_EnemyGravshipLight_red.description>
+
+  <!-- EN: enemy gauss howitzer -->
+  <VGE_EnemyGaussHowitzer.label>вражеская гаубица Гаусса</VGE_EnemyGaussHowitzer.label>
+  <!-- EN: A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGaussHowitzer.description>Трёхствольное электромагнитное артиллерийское орудие, выпускающее плотные урановые болванки на высокой скорости. Предназначено как для локальных бомбардировок, так и для боя на дальних дистанциях, а также может атаковать другие гравикорабли на орбите. Получает питание напрямую от гравидвигателя и не требует связанного терминала для работы.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyGaussHowitzer.description>
+  <!-- EN: enemy gauss howitzer -->
+  <VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>вражеская гаубица Гаусса</VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: enemy gauss howitzer -->
+  <VGE_Gun_EnemyGaussHowitzer.label>вражеская гаубица Гаусса</VGE_Gun_EnemyGaussHowitzer.label>
+
+  <!-- EN: enemy javelin launcher -->
+  <VGE_EnemyJavelinLauncher.label>вражеская пусковая установка «Дротик»</VGE_EnemyJavelinLauncher.label>
+  <!-- EN: A heavy multi-tube missile platform that fires a spread of 12 long-range guided astrofuel-propelled javelins. Designed for saturation strikes against surface targets and rival gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyJavelinLauncher.description>Тяжёлая многоствольная ракетная платформа, выпускающая залп из 12 самонаводящихся ракет дальнего радиуса действия «Дротик» на космотопливной тяге. Предназначена для массированных ударов по наземным целям и вражеским гравикораблям на орбите. Получает питание напрямую от гравидвигателя и не требует связанного терминала для работы.\n\nЭто устройство принадлежит противнику, его нельзя расшифровать или разблокировать. Тем не менее его можно разобрать для получения некоторых ценных ресурсов.</VGE_EnemyJavelinLauncher.description>
+  <!-- EN: enemy javelin launcher -->
+  <VGE_Gun_EnemyJavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>вражеская пусковая установка «Дротик»</VGE_Gun_EnemyJavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: enemy javelin launcher -->
+  <VGE_Gun_EnemyJavelinLauncher.label>вражеская пусковая установка «Дротик»</VGE_Gun_EnemyJavelinLauncher.label>
+</LanguageData>

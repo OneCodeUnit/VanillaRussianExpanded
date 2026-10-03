@@ -9,6 +9,8 @@
   <VGE_Gun_MassDriver.label>ускоритель масс</VGE_Gun_MassDriver.label>
   <!-- EN: A triple-barrel electromagnetic artillery system. -->
   <VGE_Gun_MassDriver.description>Трёхствольная электромагнитная артиллерийская система.</VGE_Gun_MassDriver.description>
+  <!-- EN: mass driver -->
+  <VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>ускоритель масс</VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>
 
   <!-- EN: mass driver shot -->
   <VGE_Bullet_MassDriver.label>снаряд ускорителя масс</VGE_Bullet_MassDriver.label>
@@ -21,7 +23,9 @@
   <VGE_Gun_HeavyChargeAnnihilator.label>тяжёлый энергоаннигилятор</VGE_Gun_HeavyChargeAnnihilator.label>
   <!-- EN: A heavy pulse-charged weapon for mechanoid defense. -->
   <VGE_Gun_HeavyChargeAnnihilator.description>Тяжёлое энергетическое оружие обороны механоидов.</VGE_Gun_HeavyChargeAnnihilator.description>
-  
+  <!-- EN: heavy charge annihilator -->
+  <VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>тяжёлый энергоаннигилятор</VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>
+
   <!-- EN: mechanoid grav engine -->
   <VGE_MechanoidGravEngine.label>гравидвигатель механоидов</VGE_MechanoidGravEngine.label>
   <!-- EN: The cold, artificial heart of a mechanoid orbital platform. Unlike human-built grav engines, these are constructed by the mechanoid core itself, optimized for ruthless efficiency and unending operation. They generate immense lift and stabilization fields that allow entire platforms to remain suspended in orbit, forming the backbone of mechanoid dominance in space. While largely incompatible with human systems and not usable for gravship construction, they can be destroyed to yield a gravcore, a rare and valuable prize for any who dare to challenge them. -->
@@ -30,7 +34,7 @@
   <!-- EN: large mechanoid thruster -->
   <VGE_LargeMechanoidThruster.label>большой ускоритель механоидов</VGE_LargeMechanoidThruster.label>
   <!-- EN: A massive astrofuel thruster built by the mechanoid core to propel their orbital platforms. Its construction mirrors human design but is reinforced with mechanical precision and efficiency, lined with thick vacstone plating that shrugs off extreme heat and stress. These thrusters allow mechanoid platforms to maneuver and maintain position in orbit. While unusable for human gravships, destroying one will yield a small supply of precious vacstone blocks. -->
-  <VGE_LargeMechanoidThruster.description>Массивный космотопливный ускоритель, построенный ядром механоидов для движения их орбитальных платформ. Конструкция напоминает человеческие ускорители, но усилена механической точностью и эффективностью, облицована толстыми плитами из вакуумного камня, выдерживающими экстремальный нагрев и нагрузки. Эти ускорители позволяют платформам механоидов маневрировать и оставаться на орбите. Непригодны для человеческих гравикораблей, но при уничтожении дают небольшой запас ценных блоков вакуумного камня.</VGE_LargeMechanoidThruster.description>
+  <VGE_LargeMechanoidThruster.description>Массивный космотопливный ускоритель, построенный ядром механоидов для движения их орбитальных платформ. Конструкция напоминает человеческие ускорители, но усилена механической точностью и эффективностью, облицована толстыми плитами из вакуумита, выдерживающими экстремальный нагрев и нагрузки. Эти ускорители позволяют платформам механоидов маневрировать и оставаться на орбите. Непригодны для человеческих гравикораблей, но при уничтожении дают небольшой запас ценных блоков вакуумита.</VGE_LargeMechanoidThruster.description>
 
   <!-- EN: resource processor -->
   <VGE_MechanoidResourceProcessor.label>переработчик ресурсов</VGE_MechanoidResourceProcessor.label>
