@@ -4,6 +4,14 @@
   <VGE_AstrofireLauncher.label>пусковая установка космоогня</VGE_AstrofireLauncher.label>
   <!-- EN: A compact multi-tube missile platform that shoots a volley of four rapid missiles that explode and carry a payload of astrofuel, setting the area hit on astrofire. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
   <VGE_AstrofireLauncher.description>Компактная многоствольная ракетная платформа, выпускающая залп из четырёх быстрых фугасных ракет, которые несут заряд космотоплива и при попадании покрывают участок космоогнём. Предназначена для быстрых и мощных ударов по открытым гравикораблям и небронированным наземным силам. Для работы требует связанного терминала наведения с оператором. Получает питание напрямую от гравидвигателя.</VGE_AstrofireLauncher.description>
+  <!-- EN: Astrofuel -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>Космотопливо</VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Astrofuel -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>Космотопливо</VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Missing rockets -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>Отсутствуют ракеты</VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: astrofire launcher -->
+  <VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>пусковая установка космоогня</VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>
 
   <!-- EN: astrofire launcher -->
   <VGE_Gun_AstrofireLauncher.label>пусковая установка космоогня</VGE_Gun_AstrofireLauncher.label>

@@ -9,7 +9,12 @@
   <VGE_GravshipMinigunTurret.label>турель-миниган гравикорабля</VGE_GravshipMinigunTurret.label>
   <!-- EN: A compact gravship-mounted heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged. -->
   <VGE_GravshipMinigunTurret.description>Компактная тяжёлая автоматическая турель, устанавливаемая на гравикорабль. Её многоствольный механизм ведёт непрерывный огонь на высокой скорости, разрывая легкобронированные цели на средней дистанции. Может взорваться при повреждении.</VGE_GravshipMinigunTurret.description>
-
+  <!-- EN: Steel -->
+  <VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelGizmoLabel>Сталь</VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Steel -->
+  <VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelLabel>Сталь</VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gravship minigun -->
+  <VGE_Gun_GravshipMinigun.verbs.Verb_Shoot.label>миниган гравикорабля</VGE_Gun_GravshipMinigun.verbs.Verb_Shoot.label>
   <!-- EN: gravship minigun -->
   <VGE_Gun_GravshipMinigun.label>миниган гравикорабля</VGE_Gun_GravshipMinigun.label>
 
@@ -17,7 +22,13 @@
   <VGE_GravshipAutocannonTurret.label>турель-автопушка гравикорабля</VGE_GravshipAutocannonTurret.label>
   <!-- EN: A compact gravship-mounted automatic turret. Its large-caliber shells do heavy damage over significant ranges, but despite its efficiency, the barrel must be refurbished after heavy use. It cannot fire at close-up targets, and may explode when damaged. Needs to be constructed on substructure. -->
   <VGE_GravshipAutocannonTurret.description>Компактная автоматическая турель, устанавливаемая на гравикорабль. Её крупнокалиберные снаряды наносят мощный урон на значительных дистанциях, но, несмотря на эффективность, ствол требует восстановления после интенсивного использования. Не может стрелять по близким целям и может взорваться при повреждении. Требует строительства на надстройке.</VGE_GravshipAutocannonTurret.description>
-
+  <!-- EN: Steel -->
+  <VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelGizmoLabel>Сталь</VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Steel -->
+  <VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelLabel>Сталь</VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gravship autocannon -->
+  <VGE_Gun_GravshipAutocannon.verbs.Verb_Shoot.label>автопушка гравикорабля</VGE_Gun_GravshipAutocannon.verbs.Verb_Shoot.label>
+  
   <!-- EN: gravship autocannon -->
   <VGE_Gun_GravshipAutocannon.label>автопушка гравикорабля</VGE_Gun_GravshipAutocannon.label>
   <!-- EN: autocannon shell -->
@@ -27,7 +38,12 @@
   <VGE_GravshipUraniumSlugTurret.label>снайперская турель гравикорабля</VGE_GravshipUraniumSlugTurret.label>
   <!-- EN: A compact gravship-mounted armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. More efficient than its ground version, it consumes fewer slugs per shot. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. Needs to be constructed on substructure. -->
   <VGE_GravshipUraniumSlugTurret.description>Компактная бронебойная турель, устанавливаемая на гравикорабль. Её сверхплотные урановые снаряды способны пробивать тяжёлую броню, но после использования требует зарядки новыми урановыми болванками. Более эффективна, чем наземная версия, и расходует меньше снарядов за выстрел. Точнее на больших дистанциях и совсем не может стрелять по близким целям. Может взорваться при повреждении. Требует строительства на надстройке.</VGE_GravshipUraniumSlugTurret.description>
-
+  <!-- EN: Uranium -->
+  <VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelGizmoLabel>Уран</VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Uranium -->
+  <VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelLabel>Уран</VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gravship uranium slug gun -->
+  <VGE_Gun_GravshipUraniumSlug.verbs.Verb_Shoot.label>снайперское орудие гравикорабля</VGE_Gun_GravshipUraniumSlug.verbs.Verb_Shoot.label>
   <!-- EN: gravship uranium slug gun -->
   <VGE_Gun_GravshipUraniumSlug.label>снайперское орудие гравикорабля</VGE_Gun_GravshipUraniumSlug.label>
   <!-- EN: uranium slug -->
@@ -37,6 +53,12 @@
   <VGE_GaussHowitzer.label>гаубица Гаусса</VGE_GaussHowitzer.label>
   <!-- EN: A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
   <VGE_GaussHowitzer.description>Трёхствольное электромагнитное артиллерийское орудие, выпускающее плотные урановые болванки на высокой скорости. Предназначено как для локальных бомбардировок, так и для боя на дальних дистанциях, а также может атаковать другие гравикорабли на орбите. Для работы требует связанного терминала наведения с оператором. Получает питание напрямую от гравидвигателя.</VGE_GaussHowitzer.description>
+  <!-- EN: Uranium -->
+  <VGE_GaussHowitzer.comps.CompRefuelable.fuelGizmoLabel>Уран</VGE_GaussHowitzer.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Uranium -->
+  <VGE_GaussHowitzer.comps.CompRefuelable.fuelLabel>Уран</VGE_GaussHowitzer.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gauss howitzer -->
+  <VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>гаубица Гаусса</VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>
 
   <!-- EN: gauss howitzer -->
   <VGE_Gun_GaussHowitzer.label>гаубица Гаусса</VGE_Gun_GaussHowitzer.label>
@@ -50,6 +72,14 @@
   <VGE_JavelinLauncher.label>пусковая установка «Дротик»</VGE_JavelinLauncher.label>
   <!-- EN: A heavy multi-tube missile platform that fires a spread of 12 long-range guided astrofuel-propelled javelins. Designed for saturation strikes against surface targets and rival gravships in orbit. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
   <VGE_JavelinLauncher.description>Тяжёлая многоствольная ракетная платформа, выпускающая залп из 12 самонаводящихся ракет дальнего радиуса действия «Дротик» на космотопливной тяге. Предназначена для массированных ударов по наземным целям и вражеским гравикораблям на орбите. Для работы требует связанного терминала наведения с оператором. Получает питание напрямую от гравидвигателя.</VGE_JavelinLauncher.description>
+  <!-- EN: Astrofuel -->
+  <VGE_JavelinLauncher.comps.CompRefuelable.fuelGizmoLabel>Космотопливо</VGE_JavelinLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Astrofuel -->
+  <VGE_JavelinLauncher.comps.CompRefuelable.fuelLabel>Космотопливо</VGE_JavelinLauncher.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Missing rockets -->
+  <VGE_JavelinLauncher.comps.CompRefuelable.outOfFuelMessage>Отсутствуют ракеты</VGE_JavelinLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: javelin launcher -->
+  <VGE_Gun_JavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>пусковая установка «Дротик»</VGE_Gun_JavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>
 
   <!-- EN: javelin launcher -->
   <VGE_Gun_JavelinLauncher.label>пусковая установка «Дротик»</VGE_Gun_JavelinLauncher.label>
@@ -68,7 +98,8 @@
   <VGE_Gun_AnticraftEmitter.label>противокорабельный излучатель</VGE_Gun_AnticraftEmitter.label>
   <!-- EN: A large energy weapon that projects a cutting beam. -->
   <VGE_Gun_AnticraftEmitter.description>Крупное энергетическое оружие, проецирующее режущий луч.</VGE_Gun_AnticraftEmitter.description>
-
+  <!-- EN: anticraft emitter -->
+  <VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>противокорабельный излучатель</VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>
   <!-- EN: anticraft emitter beam -->
   <VGE_Bullet_AnticraftEmitter.label>луч противокорабельного излучателя</VGE_Bullet_AnticraftEmitter.label>
 

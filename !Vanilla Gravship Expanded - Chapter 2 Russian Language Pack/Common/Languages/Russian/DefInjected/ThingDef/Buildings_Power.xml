@@ -6,4 +6,6 @@
   <VGE_EmergencyGenerator.description>Аварийный источник энергии, способный полностью обеспечить гравикорабль питанием, подстраивая свою мощность под требования. Предназначен для использования только в чрезвычайных ситуациях, так как всегда вызывает критический сбой и ЭМИ-взрыв, когда вырабатывает всю доступную мощность. Способен вырабатывать до 50 000 Вт в день перед тем, как выйдет из строя.</VGE_EmergencyGenerator.description>
   <!-- EN: activate emergency gravship generator -->
   <VGE_EmergencyGenerator.comps.3.jobString>активировать аварийный генератор</VGE_EmergencyGenerator.comps.3.jobString>
+  <!-- EN: unstable -->
+  <VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.onCooldownString>нестабилен</VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.onCooldownString>
 </LanguageData>

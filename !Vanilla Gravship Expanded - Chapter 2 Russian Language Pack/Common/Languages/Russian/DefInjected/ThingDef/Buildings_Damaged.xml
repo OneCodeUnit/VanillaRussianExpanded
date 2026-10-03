@@ -144,16 +144,22 @@
   <VGE_DestroyedGravjumperEngine.label>уничтоженный гравипрыжковый двигатель</VGE_DestroyedGravjumperEngine.label>
   <!-- EN: The mangled remains of a gravjumper engine, now useless for short-range jumps. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
   <VGE_DestroyedGravjumperEngine.description>Искорёженные остатки гравипрыжкового двигателя, теперь бесполезного для прыжков на короткие расстояния. Похоже, обрушение гравитационного поля не привело к детонации, так что из него всё ещё можно извлечь ценное гравиядро.</VGE_DestroyedGravjumperEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>
 
   <!-- EN: destroyed gravship engine -->
   <VGE_DestroyedGravEngine.label>уничтоженный гравидвигатель</VGE_DestroyedGravEngine.label>
   <!-- EN: The collapsed remains of a gravship engine, no longer capable of lifting the vessel. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
   <VGE_DestroyedGravEngine.description>Обрушившиеся остатки гравидвигателя, больше не способного поднимать судно. Похоже, обрушение гравитационного поля не привело к детонации, так что из него всё ещё можно извлечь ценное гравиядро.</VGE_DestroyedGravEngine.description>
-
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>
+  
   <!-- EN: destroyed gravhulk engine -->
   <VGE_DestroyedGravhulkEngine.label>уничтоженный двигатель гравибаржи</VGE_DestroyedGravhulkEngine.label>
   <!-- EN: The huge, destroyed wreck of a gravhulk engine, no longer operational. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
   <VGE_DestroyedGravhulkEngine.description>Огромные уничтоженные обломки двигателя гравибаржи, больше не работоспособного. Похоже, обрушение гравитационного поля не привело к детонации, так что из него всё ещё можно извлечь ценное гравиядро.</VGE_DestroyedGravhulkEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>
 
   <!-- EN: destroyed small weapon platform -->
   <VGE_DestroyedSmallWeaponPlatform.label>уничтоженная малая оружейная платформа</VGE_DestroyedSmallWeaponPlatform.label>
@@ -184,12 +190,16 @@
   <VGE_DestroyedWarComputer.label>уничтоженный боевой компьютер</VGE_DestroyedWarComputer.label>
   <!-- EN: The shattered remains of a warcomputer. Its advanced tactical processing systems are offline and completely unresponsive. While the unit is beyond repair, the core housing contains a valuable, intact gravcore that can still be salvaged. -->
   <VGE_DestroyedWarComputer.description>Разбитые остатки боевого компьютера. Его продвинутые тактические системы обработки данных отключены и полностью не реагируют. Хотя устройство не подлежит ремонту, в его корпусе содержится ценное неповреждённое гравиядро, которое всё ещё можно извлечь.</VGE_DestroyedWarComputer.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>
 
   <!-- EN: destroyed gravlock tether -->
   <VGE_DestroyedGravlockTether.label>уничтоженная гравипривязь</VGE_DestroyedGravlockTether.label>
   <!-- EN: The ruined remains of a gravlock tether that once anchored an orbital station in place. The core stabilization systems are completely shattered, but its bulky frame can still be deconstructed to yield valuable salvage, including a gravcore. -->
   <VGE_DestroyedGravlockTether.description>Разрушенные остатки гравипривязи, которая когда-то удерживала орбитальную станцию на месте. Основные системы стабилизации полностью разбиты, но её громоздкий каркас всё ещё можно разобрать для получения ценных трофеев, включая гравиядро.</VGE_DestroyedGravlockTether.description>
-
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>
+  
   <!-- EN: destroyed gravlaunch cloaker -->
   <VGE_DestroyedGravlunchCloaker.label>уничтоженный маскировщик гравизапуска</VGE_DestroyedGravlunchCloaker.label>
   <!-- EN: The shattered remains of a gravlaunch cloaker that once masked a gravship's energy signature. While it can no longer hide launch signatures, its frame and components can still be salvaged for valuable components. -->

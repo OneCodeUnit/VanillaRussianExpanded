@@ -6,12 +6,13 @@
   <VGE_MechanoidChargeBattery.description>Массивная артиллерийская батарея способная вести неприцельный огонь энергетическими зарядами по большой площади. Она способна вести долгие неточные очереди быстрыми взрывными снарядами. Оружие полностью автономно, управляется машинным разумом и не требует оператора. Обычно встречается на платформах орбитальной бомбардировки.</VGE_MechanoidChargeBattery.description>
 
   <!-- EN: charge battery -->
-  <VGE_Gun_MechanoidChargeBattery.label>энергобатарея</VGE_Gun_MechanoidChargeBattery.label>
+  <VGE_Gun_MechanoidChargeBattery.label>батарея энергоорудий</VGE_Gun_MechanoidChargeBattery.label>
   <!-- EN: A massive, pulse-charged artillery battery. -->
   <VGE_Gun_MechanoidChargeBattery.description>Массивная энергетическая артиллерийская батарея.</VGE_Gun_MechanoidChargeBattery.description>
-
+  <!-- EN: charge battery -->
+  <VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>батарея энергоорудий</VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>
   <!-- EN: charge battery shot -->
-  <VGE_Bullet_ChargeBattery.label>снаряд энергобатареи</VGE_Bullet_ChargeBattery.label>
+  <VGE_Bullet_ChargeBattery.label>снаряд батареи энергоорудий</VGE_Bullet_ChargeBattery.label>
 
   <!-- EN: inferno artillery -->
   <VGE_MechanoidInfernoArtillery.label>артиллерия «Инферно»</VGE_MechanoidInfernoArtillery.label>
@@ -22,7 +23,8 @@
   <VGE_Gun_MechanoidInfernoArtillery.label>артиллерия «Инферно»</VGE_Gun_MechanoidInfernoArtillery.label>
   <!-- EN: A massive, long-range bombardment cannon built by mechanoids. -->
   <VGE_Gun_MechanoidInfernoArtillery.description>Массивная дальнобойная бомбардировочная пушка, построенная механоидами.</VGE_Gun_MechanoidInfernoArtillery.description>
-
+  <!-- EN: inferno artillery -->
+  <VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>артиллерия «Инферно»</VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>
   <!-- EN: inferno artillery shot -->
   <VGE_Bullet_InfernoArtillery.label>снаряд артиллерии «Инферно»</VGE_Bullet_InfernoArtillery.label>
 
