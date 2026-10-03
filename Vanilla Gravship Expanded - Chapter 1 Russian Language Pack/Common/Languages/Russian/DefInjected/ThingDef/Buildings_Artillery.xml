@@ -46,6 +46,8 @@
   <VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>Урановые снаряды</VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Uranium Slugs -->
   <VGE_GaussGun.comps.CompRefuelable.fuelLabel>Урановые снаряды</VGE_GaussGun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gauss gun -->
+  <VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>пушка Гаусса</VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>
 
   <!-- EN: javelin pod -->
   <VGE_JavelinPod.label>ракетная установка «Дротик»</VGE_JavelinPod.label>
@@ -63,6 +65,8 @@
   <VGE_JavelinPod.comps.CompRefuelable.fuelLabel>Космотопливо</VGE_JavelinPod.comps.CompRefuelable.fuelLabel>
   <!-- EN: Missing rockets -->
   <VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>Закончились ракеты</VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: javelin pod -->
+  <VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>ракетная установка «Дротик»</VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>
 
   <!-- EN: anticraft caster -->
   <VGE_AnticraftCaster.label>зенитный излучатель</VGE_AnticraftCaster.label>
@@ -74,4 +78,6 @@
   <VGE_Gun_AnticraftCaster.description>Среднее энергетическое орудие гравикорабля.</VGE_Gun_AnticraftCaster.description>
   <!-- EN: anticraft caster beam -->
   <VGE_Bullet_AnticraftCaster.label>луч зенитного излучателя</VGE_Bullet_AnticraftCaster.label>
+  <!-- EN: anticraft caster -->
+  <VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>зенитный излучатель</VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
 </LanguageData>
