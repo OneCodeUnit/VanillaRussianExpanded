@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: destroyed large oxygen tank -->
   <VGE_DestroyedLargeOxygenTank.label>уничтоженный большой кислородный бак</VGE_DestroyedLargeOxygenTank.label>
   <!-- EN: This massive tank once held the gravship's life support, but it is now ruptured and useless. Its immense structure can still yield a good amount of scrap metal. -->
-  <VGE_DestroyedLargeOxygenTank.description>Этот массивный бак когда-то обеспечивал жизнеобеспечение гравикорабля, но теперь он повреждён и бесполезен. Его огромная конструкция всё ещё может дать неплохое количество металлолома.</VGE_DestroyedLargeOxygenTank.description>
+  <VGE_DestroyedLargeOxygenTank.description>Этот массивный бак когда-то обеспечивал систему жизнеобеспечения гравикорабля, но теперь он повреждён и бесполезен. Его огромная конструкция всё ещё может дать неплохое количество металлолома.</VGE_DestroyedLargeOxygenTank.description>
 
   <!-- EN: destroyed algae oxygenator -->
   <VGE_DestroyedLifeSupportSystem.label>уничтоженный оксигенатор водорослей</VGE_DestroyedLifeSupportSystem.label>
@@ -39,17 +38,17 @@
   <!-- EN: destroyed astropurifier -->
   <VGE_DestroyedAstropurifier.label>уничтоженный астроочиститель</VGE_DestroyedAstropurifier.label>
   <!-- EN: A gravtech unit that enhanced the precision and stability of astrofuel refinement. Broken down beyond repair now. -->
-  <VGE_DestroyedAstropurifier.description>Гравитехнологический узел, повышавший точность и стабильность переработки космотоплива. Теперь сломан без возможности ремонта.</VGE_DestroyedAstropurifier.description>
+  <VGE_DestroyedAstropurifier.description>Гравитехнологический узел, повышавший качество и стабильность переработки космотоплива. Теперь сломан без возможности ремонта.</VGE_DestroyedAstropurifier.description>
 
   <!-- EN: destroyed astrofuel optimizer -->
   <VGE_DestroyedFuelOptimizer.label>уничтоженный оптимизатор космотоплива</VGE_DestroyedFuelOptimizer.label>
   <!-- EN: A destroyed gravtech unit that once allowed grav engine lift to coordinate more efficiently with traditional thrusters. Nothing but scrap now. -->
-  <VGE_DestroyedFuelOptimizer.description>Уничтоженный гравитехнологический узел, который когда-то позволял тяге гравидвигателя более эффективно координироваться с обычными ускорителями. Теперь не более чем металлолом.</VGE_DestroyedFuelOptimizer.description>
+  <VGE_DestroyedFuelOptimizer.description>Уничтоженный гравитехнологический узел, который когда-то позволял тяге гравидвигателя более эффективно координироваться с обычными ускорителями. Теперь не более чем груда металлолома.</VGE_DestroyedFuelOptimizer.description>
 
   <!-- EN: destroyed oxygen reclaimer -->
   <VGE_DestroyedOxygenReclaimer.label>уничтоженный кислородный рекуператор</VGE_DestroyedOxygenReclaimer.label>
   <!-- EN: A broken down unit that extracted traces of oxygen from surrounding gases. Wrecked beyond repair now, can be salvaged for scrap. -->
-  <VGE_DestroyedOxygenReclaimer.description>Сломанный узел, извлекавший следы кислорода из окружающих газов. Теперь разбит без возможности ремонта, можно разобрать на металлолом.</VGE_DestroyedOxygenReclaimer.description>
+  <VGE_DestroyedOxygenReclaimer.description>Сломанный узел, извлекавший следы кислорода из окружающих газов. Теперь разбит без возможности ремонта, но его можно разобрать на металлолом.</VGE_DestroyedOxygenReclaimer.description>
 
   <!-- EN: destroyed large heatsink -->
   <VGE_DestroyedLargeHeatsink.label>уничтоженный большой радиатор</VGE_DestroyedLargeHeatsink.label>
@@ -225,7 +224,4 @@
   <VGE_GravJunk.label>гравитационный хлам</VGE_GravJunk.label>
   <!-- EN: A twisted chunk of a grav engine. Doesn't contain anything of value. -->
   <VGE_GravJunk.description>Искорёженный обломок гравидвигателя. Не содержит ничего ценного.</VGE_GravJunk.description>
-
-
-
 </LanguageData>

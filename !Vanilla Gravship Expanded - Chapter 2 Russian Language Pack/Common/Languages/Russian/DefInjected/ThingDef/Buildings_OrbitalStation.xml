@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: astrofuel barrel -->
   <VGE2_AstrofuelBarrel.label>бочка с космотопливом</VGE2_AstrofuelBarrel.label>
   <!-- EN: A barrel of volatile astrofuel. It will explode if damaged. -->
@@ -9,7 +8,7 @@
   <!-- EN: astrofuel pipe segment -->
   <VGE2_AstrofuelPipeSegment.label>сегмент трубопровода космотоплива</VGE2_AstrofuelPipeSegment.label>
   <!-- EN: A long segment of an overground astrofuel pipe. It will explode if damaged, and will leak astrofuel when damaged. -->
-  <VGE2_AstrofuelPipeSegment.description>Длинный сегмент наземного трубопровода космотоплива. Взорвётся при повреждении и будет протекать при повреждении.</VGE2_AstrofuelPipeSegment.description>
+  <VGE2_AstrofuelPipeSegment.description>Длинный сегмент наземного трубопровода космотоплива. При повреждении взрывается или протекает.</VGE2_AstrofuelPipeSegment.description>
 
   <!-- EN: explosives crate -->
   <VGE2_ExplosivesCrate.label>ящик со взрывчаткой</VGE2_ExplosivesCrate.label>
@@ -22,7 +21,7 @@
   <VGE2_FloorOxygenVent.description>Кислородный вентиль, ведущий к более глубокой кислородной установке, непрерывно подающий кислород в помещение.</VGE2_FloorOxygenVent.description>
 
   <!-- EN: locked shuttle -->
-  <VGE2_LockedShuttle.label>заблокированный челнок</VGE2_LockedShuttle.label>
+  <VGE2_LockedShuttle.label>закрытый челнок</VGE2_LockedShuttle.label>
   <!-- EN: A chemfuel-powered shuttle designed for long-distance travel, typically utilized by the trading guild. Heavy magnetic clamps prevent it from being operated without authorization, but it can still be deconstructed to obtain the shuttle engine. -->
   <VGE2_LockedShuttle.description>Челнок на химтопливе, предназначенный для дальних перелётов, обычно используемый торговой гильдией. Тяжёлые магнитные зажимы не позволяют управлять им без авторизации, но его всё же можно разобрать для получения двигателя челнока.</VGE2_LockedShuttle.description>
 
@@ -34,7 +33,7 @@
   <!-- EN: orbital light -->
   <VGE2_OrbitalLight.label>орбитальный светильник</VGE2_OrbitalLight.label>
   <!-- EN: An internally powered standing lamp that lights an area. People need light to move and work at full speed. In case of loss of pressure, the light will turn red. -->
-  <VGE2_OrbitalLight.description>Автономный напольный светильник, освещающий помещение. Людям нужен свет, чтобы передвигаться и работать на полной скорости. При потере герметичности свет становится красным.</VGE2_OrbitalLight.description>
+  <VGE2_OrbitalLight.description>Автономный напольный светильник, освещающий помещение. Людям нужен свет, чтобы передвигаться и работать с полной скоростью. При потере герметичности свет становится красным.</VGE2_OrbitalLight.description>
 
   <!-- EN: oxyfarm -->
   <VGE2_Oxyfarm.label>кислородная ферма</VGE2_Oxyfarm.label>
@@ -47,9 +46,9 @@
   <VGE2_PowerSocket.description>Розетка питания среднего размера, выходящая из более глубокого блока конденсаторов под полом. Постоянно генерирует стабильную подачу энергии.</VGE2_PowerSocket.description>
 
   <!-- EN: spacer crate -->
-  <VGE2_SpacerCrate.label>ящик космача</VGE2_SpacerCrate.label>
+  <VGE2_SpacerCrate.label>космический ящик</VGE2_SpacerCrate.label>
   <!-- EN: A spacer, futuristic crate with nothing of value in it. -->
-  <VGE2_SpacerCrate.description>Футуристичный ящик космача, в котором нет ничего ценного.</VGE2_SpacerCrate.description>
+  <VGE2_SpacerCrate.description>Футуристичный ящик, в котором нет ничего ценного.</VGE2_SpacerCrate.description>
 
   <!-- EN: station antenna -->
   <VGE2_StationAntenna.label>антенна станции</VGE2_StationAntenna.label>
@@ -72,9 +71,9 @@
   <VGE2_SmallStationConsole.description>Специальная консоль, используемая для мониторинга и управления различными подсистемами орбитальной станции.</VGE2_SmallStationConsole.description>
 
   <!-- EN: station filing cabinet -->
-  <VGE2_StationFilingCabinet.label>картотечный шкаф станции</VGE2_StationFilingCabinet.label>
+  <VGE2_StationFilingCabinet.label>картотека</VGE2_StationFilingCabinet.label>
   <!-- EN: A filing cabinet containing some documents, critical and not, related to the orbital station. -->
-  <VGE2_StationFilingCabinet.description>Картотечный шкаф, содержащий некоторые документы — важные и не очень — связанные с орбитальной станцией.</VGE2_StationFilingCabinet.description>
+  <VGE2_StationFilingCabinet.description>Шкаф, содержащий разные документы, связанные с орбитальной станцией. Как важные, так и не очень.</VGE2_StationFilingCabinet.description>
 
   <!-- EN: station locker bank -->
   <VGE2_StationLockerBank.label>блок шкафчиков станции</VGE2_StationLockerBank.label>
@@ -84,42 +83,42 @@
   <!-- EN: station system rack -->
   <VGE2_StationSystemRack.label>серверная стойка станции</VGE2_StationSystemRack.label>
   <!-- EN: A rack unit packed with unidentifiable devices. Nothing on it seems particularly valuable. -->
-  <VGE2_StationSystemRack.description>Стоечный модуль, набитый неопознаваемыми устройствами. Ничто на нём не кажется особенно ценным.</VGE2_StationSystemRack.description>
+  <VGE2_StationSystemRack.description>Стоечный модуль, набитый непонятными устройствами. Ничего на нём не кажется особенно ценным.</VGE2_StationSystemRack.description>
 
   <!-- EN: trading container -->
   <VGE2_TradingContainer.label>торговый контейнер</VGE2_TradingContainer.label>
   <!-- EN: A large sealed container belonging to some sort of orbital trader’s stockpile. It may contain valuable supplies, but needs to be destroyed to release them. -->
-  <VGE2_TradingContainer.description>Крупный герметичный контейнер, принадлежащий какому-то запасу орбитального торговца. Может содержать ценные припасы, но их нужно высвободить, уничтожив контейнер.</VGE2_TradingContainer.description>
+  <VGE2_TradingContainer.description>Крупный герметичный контейнер, принадлежащий какому-то орбитальному торговцу. Может содержать ценные припасы, но их нужно вытащить, уничтожив контейнер.</VGE2_TradingContainer.description>
 
   <!-- EN: spacer medicine pallet -->
-  <VGE_SpacerPallet_Medicine.label>паллета с медикаментами космача</VGE_SpacerPallet_Medicine.label>
+  <VGE_SpacerPallet_Medicine.label>паллета с передовыми медикаментами</VGE_SpacerPallet_Medicine.label>
   <!-- EN: A pallet containing medical supplies. Can be looted to yield medicine. -->
   <VGE_SpacerPallet_Medicine.description>Паллета с медицинскими принадлежностями. Можно разграбить для получения медикаментов.</VGE_SpacerPallet_Medicine.description>
 
   <!-- EN: spacer rations pallet -->
-  <VGE_SpacerPallet_SurvivalMeals.label>паллета с пайками космача</VGE_SpacerPallet_SurvivalMeals.label>
+  <VGE_SpacerPallet_SurvivalMeals.label>паллета с космическими пайками</VGE_SpacerPallet_SurvivalMeals.label>
   <!-- EN: A pallet containing stacked rations. Can be looted to yield survival meals. -->
   <VGE_SpacerPallet_SurvivalMeals.description>Паллета со штабелем пайков. Можно разграбить для получения сухпайков.</VGE_SpacerPallet_SurvivalMeals.description>
 
   <!-- EN: spacer component box -->
-  <VGE_SpacerBox_ComponentIndustrial.label>ящик с компонентами космача</VGE_SpacerBox_ComponentIndustrial.label>
+  <VGE_SpacerBox_ComponentIndustrial.label>ящик с космическими компонентами</VGE_SpacerBox_ComponentIndustrial.label>
   <!-- EN: A spacer logistical box filled with valuable components. They’re intact and very usable. -->
-  <VGE_SpacerBox_ComponentIndustrial.description>Логистический ящик космача, заполненный ценными компонентами. Они целы и вполне пригодны к использованию.</VGE_SpacerBox_ComponentIndustrial.description>
+  <VGE_SpacerBox_ComponentIndustrial.description>Транспортировочный ящик, заполненный ценными компонентами. Они целы и вполне пригодны к использованию.</VGE_SpacerBox_ComponentIndustrial.description>
 
   <!-- EN: spacer electronics box -->
-  <VGE_SpacerBox_ComponentSpacer.label>ящик с электроникой космача</VGE_SpacerBox_ComponentSpacer.label>
+  <VGE_SpacerBox_ComponentSpacer.label>ящик с космической электроникой</VGE_SpacerBox_ComponentSpacer.label>
   <!-- EN: A spacer logistical box filled with electronics and advanced components. Everything seems to work fine. -->
-  <VGE_SpacerBox_ComponentSpacer.description>Логистический ящик космача, заполненный электроникой и продвинутыми компонентами. Кажется, всё в рабочем состоянии.</VGE_SpacerBox_ComponentSpacer.description>
+  <VGE_SpacerBox_ComponentSpacer.description>Транспортировочный ящик, заполненный электроникой и продвинутыми компонентами. На первый взгляд тут всё в рабочем состоянии.</VGE_SpacerBox_ComponentSpacer.description>
 
   <!-- EN: spacer steel box -->
-  <VGE_SpacerBox_Steel.label>стальной ящик космача</VGE_SpacerBox_Steel.label>
+  <VGE_SpacerBox_Steel.label>стальной космический ящик</VGE_SpacerBox_Steel.label>
   <!-- EN: A spacer logistical box filled with steel scrap. It's heavy but might contain some recoverable metal. -->
-  <VGE_SpacerBox_Steel.description>Логистический ящик космача, заполненный стальным ломом. Тяжёлый, но может содержать пригодный для переработки металл.</VGE_SpacerBox_Steel.description>
+  <VGE_SpacerBox_Steel.description>Транспортировочный ящик, заполненный стальным ломом. Тяжёлый, но может содержать пригодный для переработки металл.</VGE_SpacerBox_Steel.description>
 
   <!-- EN: spacer gravlite box -->
-  <VGE_SpacerBox_Gravlite.label>ящик с гравлитом космача</VGE_SpacerBox_Gravlite.label>
+  <VGE_SpacerBox_Gravlite.label>космический ящик с гравлитом</VGE_SpacerBox_Gravlite.label>
   <!-- EN: A spacer logistical box filled with gravlite panel chunks. While most of it seems like gravlite waste, some chunks appear intact. -->
-  <VGE_SpacerBox_Gravlite.description>Логистический ящик космача, заполненный обломками панелей из гравлита. Хотя большая часть похожа на отходы гравлита, некоторые обломки выглядят целыми.</VGE_SpacerBox_Gravlite.description>
+  <VGE_SpacerBox_Gravlite.description>Транспортировочный ящик, заполненный обломками панелей из гравлита. Хотя большая часть похожа на отходы производства, некоторые обломки выглядят целыми.</VGE_SpacerBox_Gravlite.description>
 
   <!-- EN: station light -->
   <VGE_StationLight_Blue.label>светильник станции</VGE_StationLight_Blue.label>
@@ -147,7 +146,7 @@
   <!-- EN: infested gravlock tether -->
   <VGE_InfestedGravlockTether.label>заражённая гравипривязь</VGE_InfestedGravlockTether.label>
   <!-- EN: A corrupted gravlock tether that has been hollowed out and repurposed into a gigantic exoinsectoid hive. Integrated directly into the station's ventilation system, this pulsing structure continuously pumps larvae through the vents, spawning new insectoids that spread throughout the station.\n\nDestroy the infested gravlock tether to obtain a gravcore. -->
-  <VGE_InfestedGravlockTether.description>Повреждённая гравипривязь, выпотрошенная и переоборудованная в гигантский улей экзоинсектоидов. Встроенная напрямую в вентиляционную систему станции, эта пульсирующая структура непрерывно накачивает личинок через вентиляционные каналы, порождая новых насекомых, распространяющихся по всей станции.\n\nУничтожьте заражённую гравипривязь, чтобы получить гравиядро.</VGE_InfestedGravlockTether.description>
+  <VGE_InfestedGravlockTether.description>Повреждённая гравипривязь, выпотрошенная и переоборудованная в гигантский улей экзоинсектоидов. Встроенная напрямую в вентиляционную систему станции, эта пульсирующая структура непрерывно запускает личинок через вентиляционные каналы, распространяя по станции новых насекомых по станции.\n\nУничтожьте заражённую гравипривязь, чтобы получить гравиядро.</VGE_InfestedGravlockTether.description>
   <!-- EN: Infested gravlock tether -->
   <VGE_InfestedGravlockTether.comps.3.label>Заражённая гравипривязь</VGE_InfestedGravlockTether.comps.3.label>
   <!-- EN: You detect the heavy signs of the exoinsectoid mega-hive nearby. The infested gravlock tether must be destroyed to yield valuable gravcore and stop the ongoing infestation. -->
@@ -156,10 +155,7 @@
   <!-- EN: infested vent -->
   <VGE_InfestedVent.label>заражённая вентиляционная шахта</VGE_InfestedVent.label>
   <!-- EN: A broken down vent leading deeper into the orbital station installation. Chittering and movement can be heard down below. -->
-  <VGE_InfestedVent.description>Сломанная вентиляционная шахта, ведущая глубже в установку орбитальной станции. Внизу слышны стрекотание и движение.</VGE_InfestedVent.description>
-
-
-  <!-- Colored for space maps -->
+  <VGE_InfestedVent.description>Сломанная вентиляционная шахта, ведущая глубже в установку орбитальной станции. Внизу слышны стрекотание и копошение.</VGE_InfestedVent.description>
 
   <!-- EN: fortified wall -->
   <VGE_OrbitalPirateFortifiedWall.label>укреплённая стена</VGE_OrbitalPirateFortifiedWall.label>
@@ -169,7 +165,7 @@
   <!-- EN: salvager dropship -->
   <VGE_SalvagerDropship.label>челнок утилизаторов</VGE_SalvagerDropship.label>
   <!-- EN: A chemfuel-powered heavily armored dropship equipped with rocketswarm launchers. Designed for carpet bombing and incursions into enemy territory. This particular dropship seems to belong to salvagers. -->
-  <VGE_SalvagerDropship.description>Тяжелобронированный десантный корабль на химтопливе, оснащённый ракетными пусковыми установками. Предназначен для ковровых бомбардировок и вторжений на вражескую территорию. Этот конкретный десантный корабль, похоже, принадлежит утилизаторам.</VGE_SalvagerDropship.description>
+  <VGE_SalvagerDropship.description>Тяжелобронированный десантный корабль на химтопливе, оснащённый ракетными установками. Предназначен для ковровых бомбардировок и проникновения на вражескую территорию. Конкретно этот десантный корабль, похоже, принадлежит утилизаторам.</VGE_SalvagerDropship.description>
 
   <!-- EN: glowstick pile -->
   <VGE_GlowstickPile_Green.label>куча светящихся палочек</VGE_GlowstickPile_Green.label>
@@ -185,7 +181,4 @@
   <VGE_GlowstickPile_Blue.label>куча светящихся палочек</VGE_GlowstickPile_Blue.label>
   <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
   <VGE_GlowstickPile_Blue.description>Беспорядочная куча светящихся палочек, всё ещё разливающих мягкое, потустороннее свечение по полу.</VGE_GlowstickPile_Blue.description>
-
-
-
 </LanguageData>

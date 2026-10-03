@@ -171,16 +171,23 @@
     <li>pirate_concept->treason</li>
     <li>pirate_concept->scourge</li>
   -->
+
+  <VGE_NamerEnemyGravship.rulePack.rulesFiles>
+    <li>AdjectiveBadass_ship_female->Words/Badass_Female</li>
+    <li>AdjectiveBadass_ship_masc->Words/Badass</li>
+    <li>AdjectiveBadass_ship_neu->Words/Badass_Neutral</li>
+  </VGE_NamerEnemyGravship.rulePack.rulesFiles>
+
   <VGE_NamerEnemyGravship.rulePack.rulesStrings>
     <li>r_name(p=0.01)->Багровое затмение</li>
     <li>r_name(p=0.01)->Опустошитель Пустоты</li>
     <li>r_name(p=0.01)->Обсидиановый бич</li>
     <li>r_name(p=0.01)->Узник Тартара</li>
-    <li>r_name(p=0.01)->Кровозвёздный корсар</li>
-    <li>r_name(p=0.01)->Корабль удовольствий Оскара</li>
-    <li>r_name(p=0.01)-> Левиафан</li>
-    <li>r_name(p=0.01)->Зов Пустоты</li>
-    <li>r_name(p=0.01)->Волк Маха</li>
+    <li>r_name(p=0.01)->Кровавый корсар</li>
+    <li>r_name(p=0.01)->Корабль наслаждения Оскара</li>
+    <li>r_name(p=0.01)->Левиафан</li>
+    <li>r_name(p=0.01)->Зовущий Пустоту</li>
+    <li>r_name(p=0.01)->Волчий марш</li>
     <li>r_name(p=0.01)->Ксенорфика</li>
     <li>r_name(p=0.01)->Хибики</li>
     <li>r_name(p=0.01)->Веспер Старлайт</li>
@@ -190,56 +197,100 @@
     <li>r_name(p=0.01)->Волчья буря</li>
 
     <li>r_name(p=2)->[narrative_name]</li>
-    <li>r_name(p=1)->[narrative_name] [ship_word]</li>
-    <li>r_name(p=0.5)->[ship_prefix] [Color] [ship_word]</li>
-    <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass] [ship_word]</li>
-    <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass] [bird]</li>
-    <li>r_name(p=0.5)->[ship_prefix] [flying_adjective] [AnimalBadass]</li>
+    <li>r_name(p=1)->[narrative_name_masc] [ship_word_masc]</li>
+    <li>r_name(p=0.5)->[Color] [ship_word_masc]</li>
+    <li>r_name(p=0.5)->[AdjectiveBadass_ship_masc] [ship_word_masc]</li>
+    <li>r_name(p=0.5)->[AdjectiveBadass_ship_masc] [bird]</li>
+    <li>r_name(p=0.5)->[flying_animal_badass]</li>
     <li>r_name(p=0.5)->[storyname]</li>
     <li>r_name(p=0.2)->[Color] [greekmyth_noun]</li>
-    <li>r_name(p=0.2)->[ship_prefix] [greekmyth_noun]</li>
+    <li>r_name(p=0.2)->[greekmyth_noun]</li>
+    <li>r_name(p=1)->[pirate_concept] [subject]</li>
+    <li>r_name(p=0.5)->[pirate_adjective_masc] [bird]</li>
+    <li>r_name(p=1.5)->[pirate_adjective_masc] [ship_word_masc]</li>
+    <li>r_name(p=1)->[ship_word_masc] «[pirate_concept]»</li>
 
-    <li>r_name(p=1.5)->[pirate_adjective] [ship_word]</li>
-    <li>r_name(p=1)->[pirate_concept] [subject]а</li>
-    <li>r_name(p=1)->[pirate_concept] [ship_word]</li>
-    <li>r_name(p=0.5)->[pirate_adjective] [bird]</li>
+    <li>narrative_name->[narrative_name_masc]</li>
+    <li>narrative_name->[narrative_name_fem]</li>
+    <li>narrative_name->[narrative_name_neu]</li>
 
-    <li>ship_prefix(p=2)-></li>
-    <li>ship_prefix(p=2)-></li>
-    
-    <li>narrative_name->[AdjectiveNatural] [thing_badass]</li>
-    <li>narrative_name->[AdjectiveLarge] [thing_badass]</li>
-    <li>narrative_name->[Direction] [thing_badass]</li>
-    <li>narrative_name->[thing_badass]</li>
-    <li>narrative_name(p=2)->[pirate_adjective] [thing_badass]</li>
+    <li>narrative_name_masc->[AdjectiveBadass_ship_masc] [thing_badass_masc]</li>
+    <li>narrative_name_masc->[AdjectiveLarge] [thing_badass_masc]</li>
+    <li>narrative_name_masc->[thing_badass_masc]</li>
+    <li>narrative_name_masc->[Direction_masc] [thing_badass_masc]</li>
+    <li>narrative_name_masc(p=2)->[pirate_adjective_masc] [thing_badass_masc]</li>
+    <li>narrative_name_fem->[AdjectiveBadass_ship_female] [thing_badass_fem]</li>
+    <li>narrative_name_fem(p=2)->[pirate_adjective_fem] [thing_badass_fem]</li>
+    <li>narrative_name_fem->[thing_badass_fem]</li>
+    <li>narrative_name_fem->[Direction_fem] [thing_badass_fem]</li>
+    <li>narrative_name_neu->[AdjectiveBadass_ship_neu] [thing_badass_neu]</li>
+    <li>narrative_name_neu(p=2)->[pirate_adjective_neu] [thing_badass_neu]</li>
+    <li>narrative_name_neu->[thing_badass_neu]</li>
+    <li>narrative_name_neu->[Direction_neutral] [thing_badass_neu]</li>
 
-    <li>thing_badass->[AnimalBadass]</li>
-    <li>thing_badass->охотник на [AnimalBadass]</li>
-    <li>thing_badass->триумф</li>
-    <li>thing_badass->победа</li>
-    <li>thing_badass->месть</li>
-    <li>thing_badass->агония</li>
-    <li>thing_badass->мучение</li>
-    <li>thing_badass->возмездие</li>
-    <li>thing_badass->страдание</li>
-    <li>thing_badass->несчастье</li>
-    <li>thing_badass->тирания</li>
-    <li>thing_badass->ужас</li>
-    <li>thing_badass->хаос</li>
-    <li>thing_badass->анархия</li>
-    <li>thing_badass->грабёж</li>
-    <li>thing_badass->мятеж</li>
-    <li>thing_badass->руины</li>
-    <li>thing_badass->злоба</li>
-    <li>thing_badass->отребье</li>
-    <li>thing_badass->череп</li>
+    <li>flying_animal_badass->[flying_adjective_masc] [AnimalBadass_masc]</li>
+    <li>flying_animal_badass->[flying_adjective_fem] [AnimalBadass_fem]</li>
+    <li>flying_animal_badass->[flying_adjective_neut] [AnimalBadass_neu]</li>
 
-    <li>storyname(p=50)->[story_result] [subject]а</li>
-    <li>storyname(p=2)->[BodyPart] [subject]а</li>
-    <li>storyname->[Gore] [subject]а</li>
+    <li>thing_badass_masc->[AnimalBadass_masc]</li>
+    <li>thing_badass_fem->[AnimalBadass_fem]</li>
+    <li>thing_badass_neu->[AnimalBadass_neu]</li>
+    <li>thing_badass_masc->охотник на [AnimalBadass_plural_gen]</li>
+    <li>thing_badass_masc->триумф</li>
+    <li>thing_badass_fem->победа</li>
+    <li>thing_badass_fem->месть</li>
+    <li>thing_badass_fem->агония</li>
+    <li>thing_badass_neu->мучение</li>
+    <li>thing_badass_neu->возмездие</li>
+    <li>thing_badass_neu->страдание</li>
+    <li>thing_badass_neu->несчастье</li>
+    <li>thing_badass_fem->тирания</li>
+    <li>thing_badass_masc->ужас</li>
+    <li>thing_badass_masc->хаос</li>
+    <li>thing_badass_fem->анархия</li>
+    <li>thing_badass_masc->грабёж</li>
+    <li>thing_badass_masc->мятеж</li>
+    <li>thing_badass_neu->горе</li>
+    <li>thing_badass_fem->злоба</li>
+    <li>thing_badass_neu->отребье</li>
+    <li>thing_badass_masc->череп</li>
+
+    <li>pirate_adjective_masc->кровавый</li>
+    <li>pirate_adjective_masc->чёрный</li>
+    <li>pirate_adjective_masc->проклятый</li>
+    <li>pirate_adjective_masc->ржавый</li>
+    <li>pirate_adjective_masc->багровый</li>
+    <li>pirate_adjective_masc->лихой</li>
+    <li>pirate_adjective_masc->железный</li>
+    <li>pirate_adjective_masc->разбитый</li>
+    <li>pirate_adjective_masc->злобный</li>
+
+    <li>pirate_adjective_fem->кровавая</li>
+    <li>pirate_adjective_fem->чёрная</li>
+    <li>pirate_adjective_fem->проклятая</li>
+    <li>pirate_adjective_fem->ржавая</li>
+    <li>pirate_adjective_fem->багровая</li>
+    <li>pirate_adjective_fem->лихая</li>
+    <li>pirate_adjective_fem->железная</li>
+    <li>pirate_adjective_fem->разбитая</li>
+    <li>pirate_adjective_fem->злобная</li>
+
+    <li>pirate_adjective_neu->кровавое</li>
+    <li>pirate_adjective_neu->чёрное</li>
+    <li>pirate_adjective_neu->проклятое</li>
+    <li>pirate_adjective_neu->ржавое</li>
+    <li>pirate_adjective_neu->багровое</li>
+    <li>pirate_adjective_neu->лихое</li>
+    <li>pirate_adjective_neu->железное</li>
+    <li>pirate_adjective_neu->разбитое</li>
+    <li>pirate_adjective_neu->злобное</li>
+
+    <li>storyname(p=50)->[story_result] [subject]</li>
+    <li>storyname(p=2)->[BodyPart] [subject]</li>
+    <li>storyname->C [Gore] [subject]</li>
 
     <li>subject(p=5)->[NamePerson]</li>
-    <li>subject->[Animal]</li>
+    <li>subject->[AnimalBadass_plural_gen]</li>
     <li>subject->[WordTribal]</li>
     <li>subject->[PlaceOutlander]</li>
 
@@ -289,59 +340,56 @@
     <li>bird->сокол</li>
     <li>bird->орёл</li>
     <li>bird->ястреб</li>
-    <li>bird->пустельга</li>
     <li>bird->гриф</li>
     <li>bird->ворон</li>
-    <li>bird->ворона</li>
     <li>bird->канюк</li>
 
-    <li>flying_adjective(p=2)->летающий</li>
-    <li>flying_adjective->воздушный</li>
-    <li>flying_adjective->парящий</li>
-    <li>flying_adjective->крылатый</li>
-    <li>flying_adjective->падающий</li>
-    <li>flying_adjective->взмывающий</li>
+    <li>flying_adjective_masc(p=2)->летающий</li>
+    <li>flying_adjective_masc->воздушный</li>
+    <li>flying_adjective_masc->парящий</li>
+    <li>flying_adjective_masc->крылатый</li>
+    <li>flying_adjective_masc->падающий</li>
+    <li>flying_adjective_masc->взлетающий</li>
 
-    <li>ship_word(p=5)->корабль</li>
-    <li>ship_word(p=5)->гравикорабль</li>
-    <li>ship_word(p=2)->[AdjectiveNatural] корабль</li>
-    <li>ship_word->военный корабль</li>
-    <li>ship_word->фрегат</li>
-    <li>ship_word->судно</li>
-    <li>ship_word->шаттл</li>
-    <li>ship_word->крейсер</li>
-    <li>ship_word->транспорт</li>
-    <li>ship_word->галера</li>
-    <li>ship_word->галеон</li>
-    <li>ship_word->драккар</li>
-    <li>ship_word->грузовоз</li>
-    <li>ship_word->драндулет</li>
-    <li>ship_word->трирема</li>
-    <li>ship_word->зефир</li>
-    <li>ship_word(p=3)->рейдер</li>
-    <li>ship_word(p=3)->разоритель</li>
-    <li>ship_word(p=2)->корсар</li>
-    <li>ship_word(p=2)->мародёр</li>
-    <li>ship_word->дредноут</li>
-    <li>ship_word->перехватчик</li>
-    <li>ship_word->эсминец</li>
+    <li>flying_adjective_fem(p=2)->летающая</li>
+    <li>flying_adjective_fem->воздушная</li>
+    <li>flying_adjective_fem->парящая</li>
+    <li>flying_adjective_fem->крылатая</li>
+    <li>flying_adjective_fem->падающая</li>
+    <li>flying_adjective_fem->взлетающая</li>
 
-    <li>pirate_adjective->кровавый</li>
-    <li>pirate_adjective->чёрный</li>
-    <li>pirate_adjective->проклятый</li>
-    <li>pirate_adjective->ржавый</li>
-    <li>pirate_adjective->багровый</li>
-    <li>pirate_adjective->лихой</li>
-    <li>pirate_adjective->железный</li>
-    <li>pirate_adjective->разбитый</li>
-    <li>pirate_adjective->злобный</li>
+    <li>flying_adjective_neut(p=2)->летающее</li>
+    <li>flying_adjective_neut->воздушное</li>
+    <li>flying_adjective_neut->парящее</li>
+    <li>flying_adjective_neut->крылатое</li>
+    <li>flying_adjective_neut->падающее</li>
+    <li>flying_adjective_neut->взлетающее</li>
+
+    <li>ship_word_masc(p=5)->корабль</li>
+    <li>ship_word_masc(p=5)->гравикорабль</li>
+    <li>ship_word_masc->военный корабль</li>
+    <li>ship_word_masc->фрегат</li>
+    <li>ship_word_masc->шаттл</li>
+    <li>ship_word_masc->крейсер</li>
+    <li>ship_word_masc->транспорт</li>
+    <li>ship_word_masc->галеон</li>
+    <li>ship_word_masc->драккар</li>
+    <li>ship_word_masc->юнкер</li>
+    <li>ship_word_masc->зефир</li>
+    <li>ship_word_masc(p=3)->налётчик</li>
+    <li>ship_word_masc(p=3)->разоритель</li>
+    <li>ship_word_masc(p=2)->корсар</li>
+    <li>ship_word_masc(p=2)->мародёр</li>
+    <li>ship_word_masc->дредноут</li>
+    <li>ship_word_masc->перехватчик</li>
+    <li>ship_word_masc->эсминец</li>
     
     <li>pirate_concept->мятеж</li>
     <li>pirate_concept->грабёж</li>
     <li>pirate_concept->выкуп</li>
-    <li>pirate_concept->измена</li>
-    <li>pirate_concept->бич</li>
+    <li>pirate_concept->захват</li>
+    <li>pirate_concept->налёт</li>
+    <li>pirate_concept->погром</li>
+    <li>pirate_concept->разбой</li>
   </VGE_NamerEnemyGravship.rulePack.rulesStrings>
-
-
 </LanguageData>
