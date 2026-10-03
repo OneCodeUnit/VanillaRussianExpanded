@@ -8,7 +8,7 @@
   <!-- EN: astrofuel pipe segment -->
   <VGE2_AstrofuelPipeSegment.label>сегмент трубопровода космотоплива</VGE2_AstrofuelPipeSegment.label>
   <!-- EN: A long segment of an overground astrofuel pipe. It will explode if damaged, and will leak astrofuel when damaged. -->
-  <VGE2_AstrofuelPipeSegment.description>Длинный сегмент наземного трубопровода космотоплива. При повреждении взрывается или протекает.</VGE2_AstrofuelPipeSegment.description>
+  <VGE2_AstrofuelPipeSegment.description>Длинный сегмент наземного трубопровода космотоплива. При повреждении протекает и взрывается.</VGE2_AstrofuelPipeSegment.description>
 
   <!-- EN: explosives crate -->
   <VGE2_ExplosivesCrate.label>ящик со взрывчаткой</VGE2_ExplosivesCrate.label>
@@ -148,7 +148,7 @@
   <!-- EN: infested gravlock tether -->
   <VGE_InfestedGravlockTether.label>заражённая гравипривязь</VGE_InfestedGravlockTether.label>
   <!-- EN: A corrupted gravlock tether that has been hollowed out and repurposed into a gigantic exoinsectoid hive. Integrated directly into the station's ventilation system, this pulsing structure continuously pumps larvae through the vents, spawning new insectoids that spread throughout the station.\n\nDestroy the infested gravlock tether to obtain a gravcore. -->
-  <VGE_InfestedGravlockTether.description>Повреждённая гравипривязь, выпотрошенная и переоборудованная в гигантский улей экзоинсектоидов. Встроенная напрямую в вентиляционную систему станции, эта пульсирующая структура непрерывно запускает личинок через вентиляционные каналы, распространяя по станции новых насекомых по станции.\n\nУничтожьте заражённую гравипривязь, чтобы получить гравиядро.</VGE_InfestedGravlockTether.description>
+  <VGE_InfestedGravlockTether.description>Повреждённая гравипривязь, выпотрошенная и переоборудованная в гигантский улей экзоинсектоидов. Встроенная напрямую в вентиляционную систему станции, эта пульсирующая структура непрерывно запускает личинок через вентиляционные каналы, распространяя новых насекомых по станции.\n\nУничтожьте заражённую гравипривязь, чтобы получить гравиядро.</VGE_InfestedGravlockTether.description>
   <!-- EN: Infested gravlock tether -->
   <VGE_InfestedGravlockTether.comps.3.label>Заражённая гравипривязь</VGE_InfestedGravlockTether.comps.3.label>
   <!-- EN: You detect the heavy signs of the exoinsectoid mega-hive nearby. The infested gravlock tether must be destroyed to yield valuable gravcore and stop the ongoing infestation. -->

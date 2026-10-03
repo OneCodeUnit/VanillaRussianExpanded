@@ -92,22 +92,21 @@
   -->
   <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
     <li>r_name(p=2)->[station_with_adj]</li>
-    <li>r_name(p=0.2)->[station_with_bad]</li>
-    <li>r_name(p=2)->[subject] и его [pirate_treasure]</li>
+    <li>r_name(p=2)->[subject] [pirate_treasure]</li>
     <li>r_name(p=1)->[concept_badass] [station_gen]</li>
     <li>r_name(p=1)->[station_with_bad2]</li>
-    <li>r_name(p=0.5)->[concept_badass] [space_noun_gen]</li>
-    <li>r_name(p=0.5)->[space_noun_fem] [station_gen]</li>
     <li>r_name(p=0.5)->[station_with_color]</li>
-
+    <li>r_name(p=0.5)->[space_noun_fem] [station_gen]</li>
+    <li>r_name(p=0.5)->[concept_badass] [space_noun_gen]</li>
+    <li>r_name(p=0.2)->[station_with_bad]</li>
 
     <li>station_with_adj->[station_adjective_fem] [station_fem]</li>
     <li>station_with_adj->[station_adjective_mas] [station_mas]</li>
     <li>station_with_adj->[station_adjective_neu] [station_neu]</li>
 
-    <li>station_with_bad->[station_adjective_fem] [concept_badass_gen]</li>
-    <li>station_with_bad->[station_adjective_mas] [concept_badass_gen]</li>
-    <li>station_with_bad->[station_adjective_neu] [concept_badass_gen]</li>
+    <li>station_with_bad->[station_fem] [concept_badass_gen]</li>
+    <li>station_with_bad->[station_mas] [concept_badass_gen]</li>
+    <li>station_with_bad->[station_neu] [concept_badass_gen]</li>
 
     <li>station_with_bad2->[station_fem] [concept_badass_gen]</li>
     <li>station_with_bad2->[station_mas] [concept_badass_gen]</li>
@@ -117,12 +116,12 @@
     <li>station_with_color->[Color_Pirate_mas] [station_mas]</li>
     <li>station_with_color->[Color_Pirate_neu] [station_neu]</li>
 
-    <li>subject(p=5)->[NamePersonMale]</li>
-    <li>subject(p=1)->[AdjectiveBadass] [NamePersonMale]</li>
-    <li>subject->[Color_Pirate_mas] [NamePersonMale]</li>
-    <li>subject(p=5)->[NamePersonFemale]</li>
-    <li>subject(p=1)->[AdjectiveBadass_fem] [NamePersonFemale]</li>
-    <li>subject->[Color_Pirate_fem] [NamePersonFemale]</li>
+    <li>subject(p=5)->[NamePersonMale] и его</li>
+    <li>subject(p=1)->[AdjectiveBadass] [NamePersonMale] и его</li>
+    <li>subject->[Color_Pirate_mas] [NamePersonMale] и его</li>
+    <li>subject(p=5)->[NamePersonFemale] и её</li>
+    <li>subject(p=1)->[AdjectiveBadass_fem] [NamePersonFemale] и её</li>
+    <li>subject->[Color_Pirate_fem] [NamePersonFemale] и её</li>
 
     <li>station_fem(p=3)->станция</li>
     <li>station_fem(p=2)->база</li>
