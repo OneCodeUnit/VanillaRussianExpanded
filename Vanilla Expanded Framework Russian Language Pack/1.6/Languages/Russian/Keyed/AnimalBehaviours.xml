@@ -43,6 +43,13 @@
   <!-- EN: While caravaning, produces {0} {1} every:  -->
   <VEF_WhileCaravaning>Во время путешествий производит {0} {1} каждые </VEF_WhileCaravaning>
 
+  <!-- EN: Base special animal products production for this animal is {0} {1}. Adjusted by its animal product yield factor this will result in {2} {1} instead. -->
+  <VEF_AnimalProductYieldFactorDetails>Базовое количество особой продукции, производимой этим животным, составляет {0} {1}. С учётом множителя животной продукции оно составит {2} {1}.</VEF_AnimalProductYieldFactorDetails>
+  <!-- EN: Base special animal products production for this animal is {0} of a selection of randomized or terrain dependent items. Adjusted by its animal product yield factor this will result in {1} units instead. -->
+  <VEF_AnimalProductYieldFactorDetails_Random>Базовое количество особой продукции, производимой этим животным, составляет {0} единиц из случайно выбираемых или зависящих от местности продукции. С учётом множителя животной продукции оно составит {1} единиц.</VEF_AnimalProductYieldFactorDetails_Random>
+  <!-- EN: Base special animal products interval for this animal is {0} days. Adjusted by its animal products interval factor this will result in {1} days instead. This value is capped at a minimum of 1 day. -->
+  <VEF_AnimalProductIntervalFactorDetails>Базовый интервал производства особой продукции этим животным составляет {0} {0_numCase ? день : дня : дней}. С учётом множителя интервала животной продукции он составит {1} {1_numCase ? день : дня : дней}. Минимальное значение — 1 день.</VEF_AnimalProductIntervalFactorDetails>
+
   <!-- EN: These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework -->
   <VCE_AffectsAllAnimalMods>Эти параметры повлияют на всех животных из модов, использующих код Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
   <!-- EN: Allow corpse decaying mechanics (for example, Helixien slug's effect) -->

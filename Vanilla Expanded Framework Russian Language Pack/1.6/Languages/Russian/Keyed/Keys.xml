@@ -115,4 +115,84 @@
 	<VEF.TotalMarketValueRange_Quality>Разброс рыночной стоимости (от качества)</VEF.TotalMarketValueRange_Quality>
   <!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. Box quality has modified the base value by a factor of {0} -->
 	<VEF.TotalMarketValueRange_Quality_Desc>Разброс рыночной стоимости (минимальной и максимальной) объектов, которые можно получить из этого ящика. Качество ящика изменяет базовую стоимость на {0}</VEF.TotalMarketValueRange_Quality_Desc>
+
+  <!-- EN: Extractable plants -->
+  <!-- EN: Extracted flower will die in {time} unless replanted. -->
+  <VPE_MinifiedFlowerWillDieIn>Выкопанный цветок погибнет через {time}, если его не пересадить.</VPE_MinifiedFlowerWillDieIn>
+  <!-- EN: Extract flower -->
+  <VPE_ExtractFlower>Выкопать цветок</VPE_ExtractFlower>
+  <!-- EN: Extract this flower while keeping it alive, so that it can be replanted elsewhere. -->
+  <VPE_ExtractFlower_Desc>Выкопать цветок, не повреждая его, чтобы пересадить в другом месте.</VPE_ExtractFlower_Desc>
+  <!-- EN: Cancel extraction -->
+  <VPE_CancelExtractFlower>Отменить выкапывание</VPE_CancelExtractFlower>
+  <!-- EN: Cancel extracting this flower. -->
+  <VPE_CancelExtractFlower_Desc>Отменить выкапывание этого цветка.</VPE_CancelExtractFlower_Desc>
+  <!-- EN: Replant -->
+  <VPE_ReplantFlower>Пересадить</VPE_ReplantFlower>
+  <!-- EN: The flower is currently packaged up for storage and transport. Use this command to replant it in the new location. -->
+  <VPE_ReplantFlower_Desc>Цветок упакован для хранения и перевозки. Пересадите его на новом месте.</VPE_ReplantFlower_Desc>
+	
+  <!-- EN: Blooming plants -->
+  <!-- EN: Age: {0} -->
+  <VPE_RealAge>Возраст: {0}</VPE_RealAge>
+  <!-- EN: Flower is blooming -->
+  <VPE_FlowerIsBlooming>В процессе цветения</VPE_FlowerIsBlooming>
+  <!-- EN: Beauty by age: +{0} -->
+  <VPE_BeautyByAge>Красота от возраста: +{0}</VPE_BeautyByAge>
+  <!-- EN: Beauty by blooming: x{0} -->
+  <VPE_BeautyByBloming>Множитель красоты во время цветения: x{0}</VPE_BeautyByBloming>
+  <!-- EN: Beauty because of weeds: {0} -->
+  <VPE_BeautyByWeeds>Влияние сорняков на красоту: {0}</VPE_BeautyByWeeds>
+  <!-- EN: Leafless beauty: {0} -->
+  <VPE_BeautyByLeafless>Красота без листвы: {0}</VPE_BeautyByLeafless>
+  <!-- EN: Leafless beauty -->
+  <VPE_LeaflessBeauty>Красота без листвы</VPE_LeaflessBeauty>
+  <!-- EN: Blooming flowers are pretty ugly when leafless due to cold. They won't die just for being leafless, but their beauty will be greatly affected. -->
+  <VPE_LeaflessBeauty_Desc>Из-за холода цветущие растения без листвы выглядят довольно непривлекательно. Они не погибнут только из-за отсутствия листвы, но их красота заметно снизится.</VPE_LeaflessBeauty_Desc>
+  <!-- EN: Plant must be fully grown before you can add age to it -->
+  <VPE_MustBeGrown>Растение должно полностью вырасти, прежде чем ему можно будет добавить возраст</VPE_MustBeGrown>
+  <!-- EN: Age beauty modifier -->
+  <VPE_AgeBeautyModifier>Модификатор красоты от возраста</VPE_AgeBeautyModifier>
+  <!-- EN: The beauty of this plant will increase by this amount for every year it is kept alive, up to a maximum of +{0}. -->
+  <VPE_AgeBeautyModifier_Desc>Красота растения будет увеличиваться на это значение за каждый год жизни, но не более чем на +{0}.</VPE_AgeBeautyModifier_Desc>
+  <!-- EN: Bloom beauty modifier -->
+  <VPE_BloomBeautyModifier>Модификатор красоты во время цветения</VPE_BloomBeautyModifier>
+  <!-- EN: The beauty of this plant will be multiplied by this amount when in its blooming stage. -->
+  <VPE_BloomBeautyModifier_Desc>Во время цветения красота растения будет умножаться на это значение.</VPE_BloomBeautyModifier_Desc>
+  <!-- EN: Blooming period -->
+  <VPE_BloomingPeriod>Период цветения</VPE_BloomingPeriod>
+  <!-- EN: This flower will enter a blooming stage in this period, or the equivalent in days of the year in permanent summer / winter. -->
+  <VPE_BloomingPeriod_Desc>В этот период растение цветёт. При постоянном лете или зиме учитывается соответствующее количество дней в году.</VPE_BloomingPeriod_Desc>
+  <!-- EN: Minimum bloom temperature -->
+  <VPE_BloomTemperatureMin>Минимальная температура для цветения</VPE_BloomTemperatureMin>
+  <!-- EN: The minimum temperature the plant will need to enter a blooming stage.\n\n{0} -->
+  <VPE_BloomTemperatureMin_Desc>Минимальная температура, необходимая растению для начала цветения.\n\n{0}</VPE_BloomTemperatureMin_Desc>
+  <!-- EN: Maximum bloom temperature -->
+  <VPE_BloomTemperatureMax>Максимальная температура для цветения</VPE_BloomTemperatureMax>
+  <!-- EN: The maximum temperature the plant will need to be below to enter a blooming stage.\n\n{0} -->
+  <VPE_BloomTemperatureMax_Desc>Для начала цветения температура должна быть не выше этого значения.\n\n{0}</VPE_BloomTemperatureMax_Desc>
+  <!-- EN: If the blooming stops due to low temperature, this flower can enter a blooming stage again if the conditions improve. -->
+  <VPE_CanBloom>Если цветение прекратится из-за низкой температуры, растение сможет зацвести снова, когда условия улучшатся.</VPE_CanBloom>
+  <!-- EN: If the blooming stops due to low temperature, this flower won't be able to bloom again until next year! -->
+  <VPE_CantBloom>Если цветение прекратится из-за низкой температуры, растение не сможет зацвести снова до следующего года!</VPE_CantBloom>
+  <!-- EN: Deadly cold temperature -->
+  <VPE_DeadlyColdTemperature>Смертельно низкая температура</VPE_DeadlyColdTemperature>
+  <!-- EN: Below this temperature, the plant will start dying. -->
+  <VPE_DeadlyColdTemperature_Desc>При температуре ниже этого значения растение начнёт погибать.</VPE_DeadlyColdTemperature_Desc>
+  <!-- EN: Temperature too low for blooming -->
+  <VPE_TempTooLowForBlooming>Слишком низкая температура для цветения</VPE_TempTooLowForBlooming>
+  <!-- EN: Temperature too high for blooming -->
+  <VPE_TempTooHighForBlooming>Слишком высокая температура для цветения</VPE_TempTooHighForBlooming>
+  <!-- EN: Remove weeds -->
+  <VPE_RemoveWeeds>Удалить сорняки</VPE_RemoveWeeds>
+  <!-- EN: Remove the weeds that are negatively impacting this flower's beauty. -->
+  <VPE_RemoveWeeds_Desc>Удалить сорняки, которые ухудшают красоту этого цветка.</VPE_RemoveWeeds_Desc>
+  <!-- EN: Cancel weed removal -->
+  <VPE_CancelWeedRemoval>Отменить удаление сорняков</VPE_CancelWeedRemoval>
+  <!-- EN: Cancel removing the weeds from this flower. -->
+  <VPE_CancelWeedRemoval_Desc>Отменить удаление сорняков у этого цветка.</VPE_CancelWeedRemoval_Desc>
+  <!-- EN: Weeds: {PLANTDEF_labelPlural} -->
+  <VEF_LetterLabelWeeds>Сорняки: {PLANTDEF_labelPlural}</VEF_LetterLabelWeeds>
+  <!-- EN: Weeds have spread across your {PLANTDEF_labelPlural}, as well as other nearby blooming flowers, greatly affecting their beauty.\n\nYou can order your colonists to remove the weeds, though it is a time consuming process. -->
+  <VEF_LetterWeeds>Сорняки распространились среди ваших {PLANTDEF_labelPlural} и других цветущих растений поблизости, заметно ухудшив их красоту.\n\nВы можете поручить поселенцам удалить сорняки, но это займёт много времени.</VEF_LetterWeeds>
 </LanguageData>
