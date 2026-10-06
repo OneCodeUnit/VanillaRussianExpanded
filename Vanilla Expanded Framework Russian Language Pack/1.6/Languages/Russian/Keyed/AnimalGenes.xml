@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Genes -->
+	<VRE_TabAnimalGenes>Гены</VRE_TabAnimalGenes>
+	<!-- EN: Animal genes -->
+	<VRE_AnimalGenes>Гены животных</VRE_AnimalGenes>
+	<!-- EN: Gene family -->
+	<VRE_FamilyTag>Семейство генов</VRE_FamilyTag>
+	<!-- EN: The genes associated with this feratype. -->
+	<VRE_AnimalGenesFeratypeDesc>Гены, связанные с этим феротипом.</VRE_AnimalGenesFeratypeDesc>
+	<!-- EN: Feratype -->
+	<VRE_Feratype>Феротип</VRE_Feratype>
+	<!-- EN: Genes present in this animal -->
+	<VRE_AnimalGenesDesc>Гены этого животного</VRE_AnimalGenesDesc>
+	<!-- EN: Relevant animal genes -->
+	<VRE_StatsReport_Genes>Соответствующие гены</VRE_StatsReport_Genes>
+	<!-- EN: More information is available on this feratype's information screen. -->
+	<VRE_MoreInfoInInfoScreen>Подробная информация об этом феротипе доступна на его информационном экране.</VRE_MoreInfoInInfoScreen>
+	<!-- EN: Animal illness MTB -->
+	<VRE_AnimalIllness>Интервал между болезнями животных</VRE_AnimalIllness>
+	<!-- EN: Animal tantrum MTB -->
+	<VRE_AnimalTantrum>Интервал между приступами истерики животных</VRE_AnimalTantrum>
+	<!-- EN: Trainability set to -->
+	<VRE_Trainability>Способность к обучению установлена на</VRE_Trainability>
+	<!-- EN: Stability -->
+	<VRE_Stability>Стабильность</VRE_Stability>
+	<!-- EN: Stability represents the complexity of an animal's genetic code and affecting predictability of gene inheritance.\n\nHigh stability ensures offspring typically inherit the average of their parents' genes, whereas low stability increases the likelihood that offspring will deviate from parental traits towards the natural median. -->
+	<VRE_StabilityDesc>Стабильность отражает сложность генетического кода животного и влияет на предсказуемость наследования генов.\n\nПри высокой стабильности потомство обычно наследует средние значения генов родителей. При низкой стабильности признаки потомства с большей вероятностью отклоняются от родительских и приближаются к естественной медиане.</VRE_StabilityDesc>
+	<!-- EN: days -->
+	<VRE_Days>дней</VRE_Days>
+	<!-- EN: Lifespan -->
+	<VRE_LifespanFactor>Продолжительность жизни</VRE_LifespanFactor>
+	<!-- EN: Lifespan factor of this animal according to its genetic stability -->
+	<VRE_LifespanFactorDesc>Продолжительность жизни этого животного с учётом его генетической стабильности</VRE_LifespanFactorDesc>
+	<!-- EN: feratype family -->
+	<VRE_FeratypeFamily>семейство феротипов</VRE_FeratypeFamily>
+	<!-- EN: This feratype belongs to the {0} feratype family:\n\n{1} -->
+	<VRE_FeratypeFamilyDesc>Этот феротип относится к семейству феротипов «{0}»:\n\n{1}</VRE_FeratypeFamilyDesc>
+	<!-- EN: Allowed partners -->
+	<VRE_AllowedPartners>Подходящие партнёры</VRE_AllowedPartners>
+	<!-- EN: A list of all feratypes belonging to the {0} feratype family that this animal can make offspring with. -->
+	<VRE_AllowedPartnersDesc>Список всех феротипов из семейства «{0}», с представителями которых это животное может дать потомство.</VRE_AllowedPartnersDesc>
+	<!-- EN: This animal is not pregnant -->
+	<VRE_NotPregnant>Это животное не беременно</VRE_NotPregnant>
+	<!-- EN: Stillborn {0} -->
+	<VRE_StillbornLabel>Мертворождённое животное: {0}</VRE_StillbornLabel>
+	<!-- EN: Your {0}, {1} gave birth to a stillborn offspring. -->
+	<VRE_StillbornDesc>У вашей {0} по имени {1} родился мёртвый детёныш.</VRE_StillbornDesc>
+	<!-- EN: Specialized gene -->
+	<VRE_SpecializedGene>Специализированный ген</VRE_SpecializedGene>
+	<!-- EN: This gene is only inherited by offspring whose feratype contains a gene from this family. -->
+	<VRE_SpecializedGeneDesc>Этот ген наследуется только потомством, чей феротип содержит ген из этого семейства.</VRE_SpecializedGeneDesc>
+</LanguageData>

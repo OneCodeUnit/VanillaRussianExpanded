@@ -117,6 +117,26 @@
   <!-- EN: Chance to dodge a ranged attack that would've otherwise hit. -->
   <VEF_RangedDodgeChance.description>Шанс уклониться от дальней атаки, которая иначе попала бы в цель.</VEF_RangedDodgeChance.description>
 
+  <!-- EN: Heatstroke buildup multiplier -->
+  <VEF_HeatstrokeBuildupMultiplier.label>множитель накопления теплового удара</VEF_HeatstrokeBuildupMultiplier.label>
+  <!-- EN: A factor on how fast heatstroke will be gained. -->
+  <VEF_HeatstrokeBuildupMultiplier.description>Множитель скорости накопления теплового удара.</VEF_HeatstrokeBuildupMultiplier.description>
+
+  <!-- EN: animal product yield factor -->
+  <VEF_AnimalProductYieldFactor.label>множитель животной продукции</VEF_AnimalProductYieldFactor.label>
+  <!-- EN: A multiplier on the amount of special animal products produced by this animal. -->
+  <VEF_AnimalProductYieldFactor.description>Множитель количества особой продукции, производимой этим животным.</VEF_AnimalProductYieldFactor.description>
+
+  <!-- EN: animal product interval factor -->
+  <VEF_AnimalProductIntervalFactor.label>множитель интервала животной продукции</VEF_AnimalProductIntervalFactor.label>
+  <!-- EN: A multiplier on the interval of time needed for this animal to produce special animal products. -->
+  <VEF_AnimalProductIntervalFactor.description>Множитель интервала времени, необходимого этому животному для производства новой особой продукции.</VEF_AnimalProductIntervalFactor.description>
+
+  <!-- EN: base health multiplier -->
+  <VRE_HealthFromGenesScale.label>множитель базового здоровья</VRE_HealthFromGenesScale.label>
+  <!-- EN: Base health multiplier of this animal due to its genes. -->
+  <VRE_HealthFromGenesScale.description>Множитель базового здоровья этого животного, обусловленный его генами.</VRE_HealthFromGenesScale.description>
+
   <!-- EN: Mass carry capacity-->
   <VEF_MassCarryCapacity.label>Вес переносимого груза</VEF_MassCarryCapacity.label>
   <!-- EN: Total mass carrying capacity of the pawn in caravans. -->
