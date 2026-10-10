@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Cover entire world map with wasteland biomes -->
+  <coverEntireWorldMapWithWasteland>Покрыть весь мир пустошами</coverEntireWorldMapWithWasteland>
+  <!-- EN: If you enabled this option before and want to disable it, you need to restart the game for the changes to take effect. -->
+  <coverEntireWorldMapWithWastelandHint>Если вы включали этот параметр ранее и сейчас хотите выключить, необходимо перезапустить игру, чтобы применить изменения.</coverEntireWorldMapWithWastelandHint>
+  <!-- EN: Applies to newly generated surface worlds. Oceans and climates at or below -18 C remain unchanged. Biome disable toggles and a zero spawn multiplier still take precedence. -->
+  <RGW_WholeWorldTooltip>Применяется к новым мирам. Океаны и климатические зоны с температурой −18 °C и ниже не изменяются. Отключение биомов и нулевой множитель появления по-прежнему имеют приоритет.</RGW_WholeWorldTooltip>
+  <!-- EN: Changes the relative generation score of this biome on new worlds. 100% is the default; 0% prevents it from spawning. This is not the percentage of the planet covered by this biome. -->
+  <RGW_SpawnTooltip>Изменяет относительный показатель генерации этого биома в новых мирах. 100 % — значение по умолчанию; 0 % не позволяет ему появляться. Это не доля поверхности планеты, покрытая этим биомом.</RGW_SpawnTooltip>
+  <!-- EN: {0} passing through -->
+  <RG_LetterLabelRimclawsPasses>{0} проходят через территорию</RG_LetterLabelRimclawsPasses>
+  <!-- EN: A group of {0} has entered the area. These powerful predators will leave after a while. Keep your colonists and animals at a safe distance. -->
+  <RG_LetterRimclawsPasses>Группа {0} вошла на территорию вашего поселения. Эти опасные хищники вскоре уйдут. Держите поселенцев и животных поселения на безопасном расстоянии.</RG_LetterRimclawsPasses>
+  <!-- EN: Adjust frigid wasteland biome spawn rate -->
+  <RGW_SpawnFrigid>Настроить частоту появления холодных пустошей</RGW_SpawnFrigid>
+  <!-- EN: Adjust arid wasteland biome spawn rate -->
+  <RGW_SpawnDesert>Настроить частоту появления засушливых пустошей</RGW_SpawnDesert>
+  <!-- EN: Adjust temperate wasteland biome spawn rate -->
+  <RGW_SpawnTemperate>Настроить частоту появления умеренных пустошей</RGW_SpawnTemperate>
+  <!-- EN: Enable toxiberries -->
+  <RGW_EnableToxberries>Включить токсиягоды</RGW_EnableToxberries>
+  <!-- EN: Allows toxiberries to be harvested from ripthorn bushes. Requires a game restart. -->
+  <RGW_EnableToxberriesTooltip>Позволяет собирать токсиягоды с кустов крюкошипа. Требуется перезапустить игру.</RGW_EnableToxberriesTooltip>
+  <!-- EN: Disable temperate wastelands -->
+  <RGW_DisableTemperate>Отключить умеренные пустоши</RGW_DisableTemperate>
+  <!-- EN: Prevents temperate wastelands from spawning on new worlds. Requires a game restart. -->
+  <RGW_DisableTemperateTooltip>Не позволяет умеренным пустошам появляться в новых мирах. Требуется перезапустить игру.</RGW_DisableTemperateTooltip>
+  <!-- EN: Disable frigid wastelands -->
+  <RGW_DisableFrigid>Отключить холодные пустоши</RGW_DisableFrigid>
+  <!-- EN: Prevents frigid wastelands from spawning on new worlds. Requires a game restart. -->
+  <RGW_DisableFrigidTooltip>Не позволяет холодным пустошам появляться в новых мирах. Требуется перезапустить игру.</RGW_DisableFrigidTooltip>
+  <!-- EN: Disable arid wastelands -->
+  <RGW_DisableArid>Отключить засушливые пустоши</RGW_DisableArid>
+  <!-- EN: Prevents arid wastelands from spawning on new worlds. Requires a game restart. -->
+  <RGW_DisableAridTooltip>Не позволяет засушливым пустошам появляться в новых мирах. Требуется перезапустить игру.</RGW_DisableAridTooltip>
+</LanguageData>
