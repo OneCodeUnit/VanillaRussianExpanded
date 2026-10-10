@@ -64,4 +64,34 @@
 
   <!-- EN: warbow arrow -->
   <VFEM2_Arrow_Warbow.label>стрела боевого лука</VFEM2_Arrow_Warbow.label>
+
+  <!-- EN: musket -->
+  <VFEM2_Gun_Musket.label>мушкет</VFEM2_Gun_Musket.label>
+  <!-- EN: A long-barreled, smoothbore firearm, the musket is a weapon of the line infantry. The lead ball loses velocity and damage with distance, and is extremely ineffective against armor. Due to the chempowder reaction when firing the musket, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Gun_Musket.description>Длинноствольное гладкоствольное оружие линейной пехоты. Свинцовый шар теряет скорость и убойную силу с расстоянием и крайне неэффективен против брони. Из-за реакции химпороха при выстреле из ствола вырываются клубы слепящего дыма.</VFEM2_Gun_Musket.description>
+  <!-- EN: stock -->
+  <VFEM2_Gun_Musket.tools.0.label>приклад</VFEM2_Gun_Musket.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEM2_Gun_Musket.tools.1.label>ствол</VFEM2_Gun_Musket.tools.1.label>
+  <!-- EN: bayonet -->
+  <VFEM2_Gun_Musket.tools.2.label>штык</VFEM2_Gun_Musket.tools.2.label>
+  <!-- EN: musket -->
+  <VFEM2_Gun_Musket.verbs.Verb_ShootWithSmoke.label>мушкет</VFEM2_Gun_Musket.verbs.Verb_ShootWithSmoke.label>
+
+  <!-- EN: musket shot -->
+  <VFEM2_Bullet_Musket.label>пуля мушкета</VFEM2_Bullet_Musket.label>
+
+  <!-- EN: flintlock -->
+  <VFEM2_Gun_Flintlock.label>кремнёвый пистолет</VFEM2_Gun_Flintlock.label>
+  <!-- EN: A simple, heavy pistol utilizing a flintlock mechanism. It fires a powerful shot at close-to-medium range but is slow to reload. The lead ball loses velocity and damage with distance, and is extremely ineffective against armor. Due to the chempowder reaction when firing the flintlock, plumes of blindsmoke are ejected from the barrel. -->
+  <VFEM2_Gun_Flintlock.description>Простой тяжёлый пистолет с ударно-кремнёвым замком. Он наносит мощный урон на ближней и средней дистанции, но долго перезаряжается. Свинцовый шар теряет скорость и убойную силу с расстоянием и крайне неэффективен против брони. Из-за реакции химпороха при выстреле из ствола вырываются клубы слепящего дыма.</VFEM2_Gun_Flintlock.description>
+  <!-- EN: grip -->
+  <VFEM2_Gun_Flintlock.tools.0.label>рукоять</VFEM2_Gun_Flintlock.tools.0.label>
+  <!-- EN: barrel -->
+  <VFEM2_Gun_Flintlock.tools.1.label>ствол</VFEM2_Gun_Flintlock.tools.1.label>
+  <!-- EN: flintlock -->
+  <VFEM2_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>кремнёвый пистолет</VFEM2_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>
+
+  <!-- EN: flintlock shot -->
+  <VFEM2_Bullet_Flintlock.label>пуля кремнёвого пистолета</VFEM2_Bullet_Flintlock.label>
 </LanguageData>
