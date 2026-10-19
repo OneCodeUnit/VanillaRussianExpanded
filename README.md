@@ -5,9 +5,10 @@
 
 ## Скачать
 ### Последняя версия
-[Скачать архив для 1.6 (самая свежая версия)](https://github.com/OneCodeUnit/VanillaRussianExpanded/archive/refs/heads/main.zip)
+[Скачать архив для 1.7 (самая свежая версия)](https://github.com/OneCodeUnit/VanillaRussianExpanded/archive/refs/heads/main.zip)
 
 ### Предыдущие версии
+- [Скачать архив для 1.6](https://github.com/OneCodeUnit/VanillaRussianExpanded/releases/tag/1.6)
 - [Скачать архив для 1.5](https://github.com/OneCodeUnit/VanillaRussianExpanded/releases/tag/1.5)
 - [Скачать архив для 1.4](https://github.com/OneCodeUnit/VanillaRussianExpanded/releases/tag/1.4)
 - [Скачать архив для 1.3 и старше](https://github.com/OneCodeUnit/VanillaRussianExpanded/releases/tag/1.3)
