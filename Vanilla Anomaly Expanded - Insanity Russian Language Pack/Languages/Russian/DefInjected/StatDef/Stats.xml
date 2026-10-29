@@ -2,21 +2,21 @@
 <LanguageData>
   <!-- EN: sanity gain per day -->
   <VAEI_SanityGainPerDay.label>рассудок в день</VAEI_SanityGainPerDay.label>
-  <!-- EN: text.todo 
-  <VAEI_SanityGainPerDay.description>text.todo</VAEI_SanityGainPerDay.description>-->
+  <!-- EN: Amount of sanity that this person will gain per day. -->
+  <VAEI_SanityGainPerDay.description>Количество рассудка, которое персонаж восстанавливает за день.</VAEI_SanityGainPerDay.description>
 
   <!-- EN: sanity gain multiplier -->
   <VAEI_SanityGainMultiplier.label>множитель получения рассудка</VAEI_SanityGainMultiplier.label>
-  <!-- EN: text.todo 
-  <VAEI_SanityGainMultiplier.description>text.todo</VAEI_SanityGainMultiplier.description>-->
+  <!-- EN: The amount of sanity that this person will gain per day will be multiplied by this factor. -->
+  <VAEI_SanityGainMultiplier.description>Количество рассудка, которое персонаж получает за день, будет умножено на эту величину.</VAEI_SanityGainMultiplier.description>
 
   <!-- EN: sanity loss multiplier -->
   <VAEI_SanityLossMultiplier.label>множитель потери рассудка</VAEI_SanityLossMultiplier.label>
-  <!-- EN: text.todo 
-  <VAEI_SanityLossMultiplier.description>text.todo</VAEI_SanityLossMultiplier.description>-->
+  <!-- EN: The amount of sanity that this person will lose per day will be multiplied by this factor. -->
+  <VAEI_SanityLossMultiplier.description>Количество рассудка, которое персонаж теряет за день, будет умножено на эту величину.</VAEI_SanityLossMultiplier.description>
 
   <!-- EN: sanity multiplier -->
   <VAEI_SanityMultiplier.label>множитель рассудка</VAEI_SanityMultiplier.label>
-  <!-- EN: text.todo 
-  <VAEI_SanityMultiplier.description>text.todo</VAEI_SanityMultiplier.description>-->
+  <!-- EN: A flat multiplier to all sanity gains and losses for this person. -->
+  <VAEI_SanityMultiplier.description>Постоянный множитель для всех изменений рассудка этого персонажа.</VAEI_SanityMultiplier.description>
 </LanguageData>
