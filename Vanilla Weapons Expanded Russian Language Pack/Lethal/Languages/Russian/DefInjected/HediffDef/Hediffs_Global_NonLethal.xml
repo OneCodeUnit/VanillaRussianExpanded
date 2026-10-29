@@ -12,4 +12,21 @@
   <VWE_Anesthetic.stages.1.label>головокружение</VWE_Anesthetic.stages.1.label>
   <VWE_Anesthetic.stages.2.label>усыпление</VWE_Anesthetic.stages.2.label>
   <VWE_Anesthetic.stages.3.label>усыпление подействовало</VWE_Anesthetic.stages.3.label>
+
+  <!-- EN: dart wound -->
+  <VWE_Dart.label>рана от дротика</VWE_Dart.label>
+  <!-- EN: A dart wound. -->
+  <VWE_Dart.description>Рана от дротика.</VWE_Dart.description>
+  <!-- EN: permanent dart injury -->
+  <VWE_Dart.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>ранение от дротика</VWE_Dart.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old dart scar -->
+  <VWE_Dart.comps.HediffComp_GetsPermanent.permanentLabel>шрам от дротика</VWE_Dart.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Shot off -->
+  <VWE_Dart.injuryProps.destroyedLabel>отстрелено</VWE_Dart.injuryProps.destroyedLabel>
+  <!-- EN: Shot out -->
+  <VWE_Dart.injuryProps.destroyedOutLabel>прострелено</VWE_Dart.injuryProps.destroyedOutLabel>
+  <!-- EN: a dart wound -->
+  <VWE_Dart.labelNoun>рана от дротика</VWE_Dart.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VWE_Dart.labelNounPretty>{0} {lookup: {1}; Case; 1}</VWE_Dart.labelNounPretty>
 </LanguageData>
