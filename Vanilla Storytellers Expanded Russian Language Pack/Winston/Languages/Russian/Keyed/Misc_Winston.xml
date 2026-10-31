@@ -135,6 +135,8 @@
   <VESWW.AddExcludedStrategy>Исключить стратегию налёта</VESWW.AddExcludedStrategy>
   <!-- EN: Remove raid strategy from excluded -->
   <VESWW.RemoveExcludedStrategy>Убрать стратегию из исключённых</VESWW.RemoveExcludedStrategy>
+  <!-- EN: Invalid modifier (this was a modded item from a removed mod) -->
+  <VSEWW_Removed>Неправильный модификатор (это был предмет из удаленного мода)</VSEWW_Removed>
   <!-- EN: Hide the wave counter "draggable" checkbox: -->
   <VESWW.ShowDraggable>Скрыть счётчик волн из сдвигаемой отметки:</VESWW.ShowDraggable>
   <!-- EN: Timer use rimworld time: -->
@@ -147,6 +149,8 @@
   <VESWW.LoadToReset>Перед использованием загрузите сохранение с Винстоном!</VESWW.LoadToReset>
   <!-- EN: Reward drop pods also drop steel slag chunk(s) -->
   <VESWW.DisableSteelSlagChunk>Транспортные капсулы с наградами оставляют металлолом</VESWW.DisableSteelSlagChunk>
+  <!-- EN: [Odyssey] Allow raids on space maps: -->
+  <VESWW.AllowSpaceRaids>[Odyssey] Разрешить волны врагов в космосе:</VESWW.AllowSpaceRaids>
   <!-- EN: General -->
   <VESWW.GS>Общие</VESWW.GS>
   <!-- EN: Waves -->
@@ -178,4 +182,31 @@
   <VESWW.ShowDraggableTip>Когда выключено, вы не сможете перетаскивать счётчик.</VESWW.ShowDraggableTip>
   <!-- EN: If this is enabled the timer use rimworld time instead of real life time. -->
   <VESWW.UseRimworldTimeTip>Когда включено, используется внутриигровой таймер вместо системного.</VESWW.UseRimworldTimeTip>
+  <!-- EN: Allows raids to occur in Odyssey space biomes. Requires map reload to take effect. -->
+  <VESWW.AllowSpaceRaidsTip>Разрешить волны врагов в космических биомах «Одиссеи». Для применения потребуется перезагрузить карту.</VESWW.AllowSpaceRaidsTip>
+  <!-- Fraction prob settings -->
+  <!-- EN: Faction weight and strength multipliers -->
+  <VESWW.FactionMultipliers>Множители веса и силы фракций</VESWW.FactionMultipliers>
+  <!-- EN: Weight multiplier -->
+  <VESWW.WeightMultiplier>Множитель веса</VESWW.WeightMultiplier>
+  <!-- EN: Strength multiplier -->
+  <VESWW.StrengthMultiplier>Множитель силы</VESWW.StrengthMultiplier>
+  <!-- EN: Multiplier (0 to 10) applied to the chance of this faction being picked for a raid. -->
+  <VESWW.WeightMultiplierTip>Множитель (от 0 до 10), влияющий на вероятность выбора этой фракции для налёта.</VESWW.WeightMultiplierTip>
+  <!-- EN: Multiplier (0 to 10) applied to raid points if this faction is picked. -->
+  <VESWW.StrengthMultiplierTip>Множитель (от 0 до 10), применяемый к очкам налёта, если выбрана эта фракция.</VESWW.StrengthMultiplierTip>
+  <!-- EN: Configure faction weight and strength multipliers -->
+  <VESWW.OpenFactionMultipliers>Настроить множители веса и силы фракций</VESWW.OpenFactionMultipliers>
+  <!-- EN: hostile -->
+  <VESWW.Hostile>враждебная</VESWW.Hostile>
+  <!-- EN: allied -->
+  <VESWW.Allied>союзная</VESWW.Allied>
+  <!-- EN: neutral -->
+  <VESWW.Neutral>нейтральная</VESWW.Neutral>
+  <!-- EN: unknown -->
+  <VESWW.Unknown>неизвестная</VESWW.Unknown>
+  <!-- EN: Ignore base raid commonality curve -->
+  <VESWW.IgnoreBaseCommonality>Игнорировать базовую кривую частоты налётов</VESWW.IgnoreBaseCommonality>
+  <!-- EN: When enabled, the faction's built-in RaidCommonalityFromPoints curve is ignored entirely, and only your weight multiplier decides the chance of that faction raiding. -->
+  <VESWW.IgnoreBaseCommonalityTip>Если включено, встроенная кривая RaidCommonalityFromPoints этой фракции полностью игнорируется, а вероятность её выбора для налёта определяется только множителем веса.</VESWW.IgnoreBaseCommonalityTip>
 </LanguageData>

@@ -15,6 +15,46 @@
   <!-- EN: Movement speed of all the enemies is doubled -->
   <VSEWW_Sprinters.description>Скорость передвижения врагов удвоена.</VSEWW_Sprinters.description>
 
+  <!-- EN: Adrenaline rush -->
+  <VSEWW_AdrenalineRush.label>Заряд адреналина</VSEWW_AdrenalineRush.label>
+  <!-- EN: Enemies will become faster and more dangerous as their health decreases -->
+  <VSEWW_AdrenalineRush.description>Враги становятся быстрее и опаснее по мере снижения их здоровья.</VSEWW_AdrenalineRush.description>
+
+  <!-- EN: Regenerators -->
+  <VSEWW_Regenerators.label>Регенераторы</VSEWW_Regenerators.label>
+  <!-- EN: All enemies regenerate their health at an increased rate -->
+  <VSEWW_Regenerators.description>Все враги восстанавливают своё здоровье с увеличенной скоростью.</VSEWW_Regenerators.description>
+
+  <!-- EN: Toxic fallout -->
+  <VESWW_ToxicFallout.label>Токсичные осадки</VESWW_ToxicFallout.label>
+  <!-- EN: During the wave, a toxic fallout is present on the map -->
+  <VESWW_ToxicFallout.description>Во время волны на карте идут токсичные осадки.</VESWW_ToxicFallout.description>
+
+  <!-- EN: Glass cannons -->
+  <VSEWW_GlassCannons.label>Стеклянные пушки</VSEWW_GlassCannons.label>
+  <!-- EN: Enemies deal greatly increased damage but also take much higher damage. Lower raid size in points. -->
+  <VSEWW_GlassCannons.description>Враги наносят значительно больше урона, но также получают гораздо больший урон. Объём волны в очках снижен.</VSEWW_GlassCannons.description>
+
+  <!-- EN: Shotguns for everyone! -->
+  <VSEWW_ShotgunForEveryone.label>Дробовики для всех!</VSEWW_ShotgunForEveryone.label>
+  <!-- EN: All enemies get a pump shotgun. -->
+  <VSEWW_ShotgunForEveryone.description>У всех врагов помповые дробовики.</VSEWW_ShotgunForEveryone.description>
+
+  <!-- EN: Bullet hell -->
+  <VSEWW_BulletHell.label>Хаос из пуль</VSEWW_BulletHell.label>
+  <!-- EN: All enemies get a minigun. Lower raid size in points. -->
+  <VSEWW_BulletHell.description>У всех врагов миниганы. Объём волны в очках снижен.</VSEWW_BulletHell.description>
+
+  <!-- EN: Toxic squad -->
+  <VSEWW_ToxicSquad.label>Токсичный отряд</VSEWW_ToxicSquad.label>
+  <!-- EN: All pawns get a a toxbomb launcher. -->
+  <VSEWW_ToxicSquad.description>У всех врагов токсичные гранатомёты.</VSEWW_ToxicSquad.description>
+
+  <!-- EN: Combat animals -->
+  <VSEWW_Animals.label>Боевые животные</VSEWW_Animals.label>
+  <!-- EN: Enemies will be assisted by several combat animals. -->
+  <VSEWW_Animals.description>Врагов будут сопровождать несколько боевых животных.</VSEWW_Animals.description>
+
   <!-- EN: Veterans -->
   <VSEWW_Veterans.label>Ветераны</VSEWW_Veterans.label>
   <!-- EN: All stats of the enemies (Manipulation, sight etc) is multiplied by x1.5 -->
@@ -88,7 +128,7 @@
   <!-- EN: Strategic approach -->
   <VSEWW_StrategicApproach.label>Стратеги</VSEWW_StrategicApproach.label>
   <!-- EN: Enemies use a combination of : grenades, rocket launcher and sniper. Wave raid point is multiplied by 0.7. -->
-  <VSEWW_StrategicApproach.description>Враги используют комбинацию из: гранат, ракетниц и снайперских винтовок. Объём волны в очках сокращён до 0.7.</VSEWW_StrategicApproach.description>
+  <VSEWW_StrategicApproach.description>Враги используют комбинацию из: гранат, ракетниц и снайперских винтовок. Объём волны в очках сокращён до 0.7 от базы.</VSEWW_StrategicApproach.description>
 
   <!-- EN: Meteor storm -->
   <VSEWW_MeteorStorm.label>Метеоритный дождь</VSEWW_MeteorStorm.label>
