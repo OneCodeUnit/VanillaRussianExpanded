@@ -329,9 +329,9 @@ ARC needs to be maintained by colonists. If maintenance reaches 0%, ARC will bre
   <!-- Mod settings -->
 
   <!-- EN: Disable the need of a steam vent to build an ARC -->
-	<VQEG_DisableNeedForSteamVent>Отключить требование наличия парового вентиля для строительства АРК</VQEG_DisableNeedForSteamVent>
+	<VQEG_DisableNeedForSteamVent>Отключить требование наличия источника пара для строительства АРК</VQEG_DisableNeedForSteamVent>
   <!-- EN: By default, you will need a steam vent present in the map to build your ARC. With this mod option active, you can build them anywhere. Useful for gravships, for example. -->
-	<VQEG_DisableNeedForSteamVentTooltip>По умолчанию для строительства АРК требуется наличие парового вентиля на карте. При включении этой опции вы можете строить их в любом месте. Полезно, например, для гравикораблей.</VQEG_DisableNeedForSteamVentTooltip>
+	<VQEG_DisableNeedForSteamVentTooltip>По умолчанию для строительства АРК требуется наличие какого-либо источника пара на карте. При включении этой опции вы можете строить их в любом месте. Полезно, например, для гравикораблей.</VQEG_DisableNeedForSteamVentTooltip>
   <!-- EN: ARC upgrade timer multiplier (lower means faster) -->
 	<VQEG_ARCTimersMultiplier>Множитель времени улучшения АРК (меньше значит быстрее)</VQEG_ARCTimersMultiplier>
   <!-- EN: When upgrading the ARC, there are a series of time periods the player needs to respect before being allowed to do the upgrades (eg "the ARC needs to run for X days in this mode before being upgraded"). This setting will apply a multiplier to those periods. Bear in mind a lower number means things will go faster. A higher number will mean the ARC will take longer. -->
