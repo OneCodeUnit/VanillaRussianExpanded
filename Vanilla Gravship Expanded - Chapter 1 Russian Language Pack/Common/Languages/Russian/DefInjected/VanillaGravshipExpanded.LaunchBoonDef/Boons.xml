@@ -54,5 +54,5 @@
   <!-- EN: gravframe harmony -->
   <VGE_QuestOffered.letterLabel>получение задания</VGE_QuestOffered.letterLabel>
   <!-- EN: As {GRAVSHIP} executed its landing sequence, it was spotted by {LEADER}, a leader from the friendly {FACTION}. Impressed by the display of technology, they reached out and offered a quest. -->
-  <VGE_QuestOffered.letterText>Посадку {GRAVSHIP} заметил {LEADER}, лидер дружественной фракции {FACTION}. Такая демонстрация технологий впечатлила {LEADER_possessive}, и {LEADER_pronoun} {PAWN_gender ? предложил : предложила} задание.</VGE_QuestOffered.letterText>
+  <VGE_QuestOffered.letterText>Посадку {GRAVSHIP} заметил {LEADER}, лидер дружественной фракции {FACTION}. Такая демонстрация технологий впечатлила {LEADER_possessive}, и {LEADER_pronoun} {LEADER_gender ? предложил : предложила} задание.</VGE_QuestOffered.letterText>
 </LanguageData>
