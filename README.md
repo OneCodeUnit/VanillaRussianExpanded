@@ -15,6 +15,9 @@
 
 [Как скачать и установить без Steam Workshop](https://github.com/OneCodeUnit/VanillaRussianExpanded/wiki/Установка)
 
+## Список модов
+[Таблица с модами и их переводами](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD2CFHKFHTUhNuA8wz2EnGD-gPC0DyXm4L0BMSgYdNtOTtBt6aBoT0I_sEQer2IiNgsDct_f4YJedC/pubhtml)
+
 ## Сообщить об ошибке/предложить исправление
 [Как сообщить переводчикам или предложить исправление.](https://github.com/OneCodeUnit/VanillaRussianExpanded/wiki/Предложение-изменений)
 
