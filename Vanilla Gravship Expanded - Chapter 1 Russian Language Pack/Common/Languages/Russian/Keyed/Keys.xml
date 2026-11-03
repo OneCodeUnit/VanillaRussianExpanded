@@ -326,7 +326,12 @@ Remaining production processes to complete: {3} -->
   <VGE_AstrofireInHomeArea>Космоогонь!</VGE_AstrofireInHomeArea>
   <!-- EN: There is an astrofire in the home area. -->
   <VGE_AstrofireInHomeAreaDesc>В домашней зоне горит космоогонь.</VGE_AstrofireInHomeAreaDesc>
-  
+  <!-- Custom fire system for astrofire. Replaces the old 1.6 system. -->
+  <!-- EN: beating astrofire out. -->
+  <VGE_ReportBeatAstrofire>сбивает космоогонь.</VGE_ReportBeatAstrofire>
+  <!-- EN: extinguishing astrofires nearby. -->
+  <VGE_ReportExtinguishAstrofiresNearby>тушит космоогонь рядом с собой</VGE_ReportExtinguishAstrofiresNearby>
+
   <!-- EN: Requires substructure or scaffold to be build on. -->
   <VGE_RequiresSubstructureOrScaffolding>Требуется надстройка или вспомогательный каркас для строительства.</VGE_RequiresSubstructureOrScaffolding>
   

@@ -5,7 +5,11 @@
   <!-- EN: restarting TargetA. -->
 	<VQE_RestartGenerator.reportString>перезапускает TargetA</VQE_RestartGenerator.reportString>
   <!-- EN: beating cryptofreeze out. -->
-	<VQE_BeatCryptofreeze.reportString>выбивает криптозаморозку</VQE_BeatCryptofreeze.reportString>
+	<VQE_BeatCryptofreeze.reportString>сбивает криптозаморозку</VQE_BeatCryptofreeze.reportString>
+  <!-- EN: extinguishing cryptofreeze nearby. -->
+	<VGE_ExtinguishCryptofreezeNearby.reportString>сбивает криптозаморозку рядом с собой</VGE_ExtinguishCryptofreezeNearby.reportString>
+  <!-- EN: extinguishing self. -->
+	<VGE_ExtinguishSelfCryptofreeze.reportString>сбивает заморозку с себя</VGE_ExtinguishSelfCryptofreeze.reportString>
   <!-- EN: playing at wargaming table. -->
 	<VQE_Play_WargamingTable.reportString>играет за столом военных игр</VQE_Play_WargamingTable.reportString>
 </LanguageData>
