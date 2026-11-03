@@ -28,9 +28,9 @@
   <VRE_DestroyedByTemp> погиб из-за температурных условий.</VRE_DestroyedByTemp>
   
   <!-- EN: {0} has hatched from a sapling! -->
-  <VRE_SaplingHatched>{0} {0_gender ? родился : родилась} из саженца!</VRE_SaplingHatched>
+  <VRE_SaplingHatched>Рождение {0} из саженца!</VRE_SaplingHatched>
   <!-- EN: {0} hatched! -->
-  <VRE_SaplingHatchedLabel>{0} {0_gender ? родился : родилась}!</VRE_SaplingHatchedLabel>
+  <VRE_SaplingHatchedLabel>Рождение {0}!</VRE_SaplingHatchedLabel>
   
   <!-- EN: Time until birth: {0} -->
   <VRE_TimeToHatch>Время до рождения: {0}</VRE_TimeToHatch>
