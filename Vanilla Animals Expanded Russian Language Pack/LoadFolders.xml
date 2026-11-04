@@ -27,4 +27,15 @@
 	<li IfModActive="VanillaExpanded.VAEEndAndExt" IfModNotActive="Ludeon.RimWorld.Odyssey">1.6/EndangeredNotOdyssey</li>
     <li IfModActive="VanillaExpanded.VAEWaste">1.6/Waste</li>
   </v1.6>
+  <v1.7>
+    <li>Common</li>
+    <li IfModActive="VanillaExpanded.VanillaAnimalsExpanded">1.6/Main</li>
+    <li IfModNotActive="Ludeon.RimWorld.Odyssey">1.6/MainNotOdyssey</li>
+    <li IfModActive="VanillaExpanded.VAERoy">1.6/Royal</li>
+	<li IfModActiveAll="VanillaExpanded.VAERoy,Ludeon.RimWorld.Odyssey">1.6/RoyalOdysseyPatch</li>
+	<li IfModActive="VanillaExpanded.VAERoy" IfModNotActive="Ludeon.RimWorld.Odyssey">1.6/RoyalNotOdyssey</li>
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">1.6/Endangered</li>
+	<li IfModActive="VanillaExpanded.VAEEndAndExt" IfModNotActive="Ludeon.RimWorld.Odyssey">1.6/EndangeredNotOdyssey</li>
+    <li IfModActive="VanillaExpanded.VAEWaste">1.6/Waste</li>
+  </v1.7>
 </loadFolders>
