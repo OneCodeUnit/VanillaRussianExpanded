@@ -10,6 +10,8 @@
   <SettlerCivil.pawnsPlural>переселенцы</SettlerCivil.pawnsPlural>
   <!-- EN: mayor -->
   <SettlerCivil.leaderTitle>мэр</SettlerCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <SettlerCivil.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</SettlerCivil.messageDefendersAttacking>
 
   <!-- EN: rough settlers -->
   <SettlerRough.label>воинственные переселенцы</SettlerRough.label>
@@ -21,6 +23,8 @@
   <SettlerRough.pawnsPlural>переселенцы</SettlerRough.pawnsPlural>
   <!-- EN: mayor -->
   <SettlerRough.leaderTitle>мэр</SettlerRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <SettlerRough.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</SettlerRough.messageDefendersAttacking>
 
   <!-- EN: bandits -->
   <SettlerSavage.label>бандиты</SettlerSavage.label>
@@ -32,4 +36,6 @@
   <SettlerSavage.pawnsPlural>бандиты</SettlerSavage.pawnsPlural>
   <!-- EN: mayor -->
   <SettlerSavage.leaderTitle>главарь</SettlerSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <SettlerSavage.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</SettlerSavage.messageDefendersAttacking>
 </LanguageData>

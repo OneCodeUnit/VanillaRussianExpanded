@@ -10,4 +10,15 @@
   <VCE_ManufacturedSlop>Фабричная бурда</VCE_ManufacturedSlop>
   <!-- EN: This haute meal wasn't created by a true chef, and is thus not very good. -->
   <VCE_ManufacturedSlopDesc>Блюдо высокой кухни, которое приготовил не настоящий повар, и потому оно плохо.</VCE_ManufacturedSlopDesc>
+  
+  <!-- EN: Display Improvement Messages -->
+  <VCE_DisplayImprovementMessages>Отображать сообщения об улучшении</VCE_DisplayImprovementMessages>
+  <!-- EN: By default, if a haute station improves the quality of a meal a message will pop up informing the player. These messages can be toggled off with this mod option. -->
+	<VCE_DisplayImprovementMessages_Desc>По умолчанию, если кулинарная секция улучшает качество блюда, игроку выводится сообщение. Такие сообщения можно отключить с помощью этой настройки.</VCE_DisplayImprovementMessages_Desc>
+  <!-- EN: Distance in tiles for social effect -->
+	<VCE_DistanceForSocial>Расстояние социального эффекта</VCE_DistanceForSocial>
+  <!-- EN: By default, colonists in an 8 tile radius of the pawn that consumes a haute meal will get an opinion boost. -->
+	<VCE_DistanceForSocial_Desc>По умолчанию, если поселенец находится в радиусе 8 клеток от персонажа, который ест блюдо высокой кухни, они получают бонус к отношению.Это расстояние можно изменить с помощью этой настройки.</VCE_DistanceForSocial_Desc>
+  <!-- EN: Reset -->
+	<VCE_Reset>Сбросить</VCE_Reset>
 </LanguageData>

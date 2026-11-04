@@ -10,4 +10,6 @@
   <VFES_PlayerSettlement.pawnsPlural>бандиты</VFES_PlayerSettlement.pawnsPlural>
   <!-- EN: leader -->
   <VFES_PlayerSettlement.leaderTitle>лидер</VFES_PlayerSettlement.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFES_PlayerSettlement.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</VFES_PlayerSettlement.messageDefendersAttacking>
 </LanguageData>
